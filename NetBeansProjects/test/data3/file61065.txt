@@ -1,0 +1,112 @@
+SPR no: 78E986801J
+MRN no: 781986
+Site_name: BELMONT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report78E98680,78E98680 (78E986801J) Rogol, Bob
+HISTOPATHOLOGY REPORT
+CLARE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GIII endometrioid adenoCa.
+MSI staining conserved
+
+1. Peritoneal washings for cytol
+2. Uterus, tubes and ovaries
+3. Sentinel node (right)
+4. Sentinel node (left)
+5. Omental biopsy
+(2-5 for histol please)
+
+MACROSCOPIC:
+A.  Note - label is missing in places but appears to read &amp;quot;UTERUS, TUBES OVARIES&amp;quot;.
+A uterus with attached cervix, bilateral tubes and ovaries. Anterior inked blue, posterior black. The uterus with attached cervix weighs 86g. It measures 76mm superior to inferior, 35mm intercornual distance, ectocervix is 35x30mm with an ovoid os 10x5mm. It is cream-coloured and unremarkable. The serosa is smooth and unremarkable. The anterior endomyometrium measures 18mm, posterior endomyometrium measures 17mm. Within the endometrial cavity is a polypoid piece of tissue with a pale white appearance. It measures 15mm superior to inferior, 14mm left to right and 6mm thick. It appears to be non-infiltrative and is attached to the posterior endomyometrium.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornu; 4 left cornu; 5-10 one sagittal slice [5 anterior cervix, 6 posterior cervix, 7 anterior lower uterine segment, 8 posterior lower uterine segment, 9 anterior endomyometrium, 10 posterior endomyometrium including polyp]; 11-13 remainder of polyp; 14 further sections of anterior endomyometrium; 15 further section of posterior endomyometrium;
+
+The right ovary and fallopian tube together weigh 10g. The fallopian tube measures 50mm in length with a maximum diameter of 8mm. The ovary is 28x12x8mm. The fallopian tube serosa shows multiple paratubal cysts ranging from 2-4mm. On the ovarian serosa is adherent fibrous tissue. On sectioning through the ovary, the cut surface has a tan firm cut surface.
+
+16 right ovary; 17 right fallopian tube
+
+The left fallopian tube and ovary weigh 9g. The fallopian tube measures 45mm in length with a maximum diameter of 7mm. There are multiple paratubal cysts 2-3mm. The ovary is 25x15x6mm. The serosal surface is unremarkable. On sectioning through the ovary, it has a tan, firm cut surface.
+
+18 left ovary; 19 left fallopian tube). Representative sections. (M-19)
+
+Further sections: Entire endometrium embedded (20-28 endometrium)
+
+B.  &amp;quot;RIGHT SENTINEL NODE&amp;quot;. Fat with possible lymph nodes in aggregate 30x20x5mm. Three possible nodes identified.
+
+(1 one possible lymph node; 2 two possible lymph nodes). Representative sections. (M-2)
+
+C.  &amp;quot;SENTINEL NODE (LEFT) &amp;quot;. Two pieces of fatty tissue with an aggregate measurement of 15x15x5mm. There are two possible nodes identified embedded in two blocks (one node per block).  All embedded. (M-2)
+
+D. &amp;quot;OMENTUM BIOPSY&amp;quot;. A piece of fatty tissue consistent with omentum measuring 20x12x5mm. No obvious discrete lesion identified.  All embedded. (1-1/MC 28/10/2069 nh)
+
+MICROSCOPIC: (Dr. S Heathershaw)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE:  Body
+
+TUMOR SIZE: 15mm greatest (macroscopic) dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 2 (see comment below)
+
+MYOMETRIAL INVASION: Not identified (the tumour is exophytic/polypoid)
+
+Depth of invasion: 0mm
+Myometrial thickness: 16mm
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:  Not identified
+
+CERVICAL STROMAL INVOLVEMENT:Not identified
+
+OTHER TISSUES:
+Right ovary: Unreamrkable
+Left ovary: Unremarkable
+Right fallopian tube: Unremarkbale
+Left fallopian tube: Unremarkable
+Parametrium: Unremarkable
+Omentum (Specimen D): Unremarkable
+
+LYMPHOVASCULAR INVASION: Not identified
+
+SENTINEL LYMPH NODES (Specimen B Right Sentinel Node &amp;amp; Specimen C Left Sentinel Node:
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0
+Number of sentinel lymph nodes examined: 4 (Two nodes each in Specimens B&amp;amp;C)
+
+Extra-nodal spread: Not applicable
+
+COMMENT:
+1. The tumour is polypoid/exophytic.
+2. The tumour shows focal solid growth and spindling of epithelial cells and focal papillary patterns including surface short non-villous papillae with a somewhat hobnail pattern. However the nuclear grade is low (grade 1 to focal grade 2) and there are very few mitotic figures. Typical areas of endometrioid differentiation are also present.
+3. The previous curettings (DHM Laboratory number 45629-20MP) were compared to the current case and show similar features with somewhat more solid growth pattern present in the curettings than in the hysterectomy specimen, and with generally grade 1-2 nuclear features and possible focal grade 3 morphology but possibly falling somewhat short of &amp;apos;notable nuclear atypia&amp;apos;. The overall appearances combining the curettings and hysterctomy specimen therefore favour endometrioid adenocarcinoma grade 2.
+
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+(Blocks A10-A13): P-53 shows patchy (wild-type) staining pattern. P-16 is patchy. WT1, PgR, and Napsin-A are negative. ER shows focal minimal staining only. Ki-67 is variable low to moderate. HER-2 is negative (0 to focal minimal 1+ staining).
+MMRP Immunostains (Block A13):
+MLH-1, PMS-2, MSH-2 and MSH-6 each show positive (retained) nuclear staining. This is the normal (wild-type staining pattern and indicates a low likelihood of microsatellite instability.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IA: No or less than half myometrial invasion
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+pT1a: Tumor limited to endometrium or invading less than half of the myometrium
+pN0 (sn): No regional lymph node metastasis
+
+DIAGNOSIS:
+A: UTERUS, TUBES AND OVARIES: ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA (GRADE 2).
+
+B: RIGHT SENTINEL NODE: NEGATIVE FOR MALIGNANCY.
+
+C: LEFT SENTINEL NODE: NEGATIVE FOR MALIGNANCY.
+
+D: OMENTUM BIOPSY: NEGATIVE FOR MALIGNANCY.
+
+11.4.2068

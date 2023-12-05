@@ -1,0 +1,178 @@
+SPR no: 69H9646525
+MRN no: 692964
+Site_name: SOUTH EAST REGIONAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT 22/2/2069
+
+69H96465 (69H9646525) LOETHEN, CESAR
+
+HISTOPATHOLOGY REPORT
+ST MARGARETS REHABILITATION CENTRE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast ca + further posterior tissue.
+Frozen section sentinel node L breast cancer.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL NODE FROZEN SECTION&amp;quot;. Two pale fatty nodes.
+1. 10x8x6mm
+2. 8x6x6mm.
+1 x TS each node on one chuck.
+
+F/S : &amp;quot;Negative&amp;quot;. Reported to Denver, THEODORE HOSPITAL by Dr. R. Foglia at 11:30 am on 14.01.73.
+
+(1 remainder FS; 2 remainder lymph node 1; 3 remainder lymph node 2). Representative sections.  (M-3)
+
+B. Specimen labelled &amp;quot;LEFT BREAST LESION&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision oriented
+SPECIMEN X-RAY:  Yes. Hookwire split and a metal clip both seen at H7 which is inked yellow
+HOOKWIRE:  Yes. The hookwire enters from the inferior posterior aspect
+SPECIMEN DIMENSIONS:
+Medial to lateral:  45mm
+Superior to inferior:  60mm
+Anterior to posterior:  35mm
+WEIGHT:  51g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED:
+Non-standard:  Anterior blue, Posterior black, Lateral green, Medial red
+DISSECTION: Cut from superior to inferior
+Number of slices: 14
+FINDINGS / LESION:  There was a small blue suture on the anterior side centrally holding tissue together, which was 5mm from the yellow ink. The yellow ink is in slice 9. There is a metal clip in the flip side of slice 10.
+There is a firm nodule with the metal clip in it measuring 10x10x10mm in blocks 9-12. The lesion is 7mm from anterior, 14mm from posterior, 12mm from lateral, 12mm from medial, 40mm from superior, and 20mm from inferior. Adjacent to the nodule on the anterior side there is a possible nodule with a smooth surface which is 8mm across which abuts the anterior surface in slice 10 and in slices 3-5 there is a possible nodule, haemorrhagic area 10x8x8mm in slices 3-5.
+(1-6 slice 1; 7-9 slice 3; 10-13 slice 4; 14-17 slice 7; 18-20 slice 9; 21-23 slice 10; 24-26 slice 12; 27-32 slice 14). Representative sections. (M-32)
+C. Specimen labelled &amp;quot;LEFT BREAST FURTHER POSTERIOR TISSUE&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  40mm
+Superior to inferior:  30mm
+Anterior to posterior:  14mm
+WEIGHT:  7g
+SKIN:  No
+NIPPLE: No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green. The tissue has three orienting sutures - a short, a medium and long (short is presumed superior, medium presumed medial, long presumed lateral [after discussion with Krystle Hackenberg).
+DISSECTION: Cut from medial to lateral
+Number of slices: 7
+FINDINGS / LESION:  The cut surface shows fatty tissue.
+(1-3 slice 1; 4 slice 2; 5 slice 3; 6 slice 4; 7 slice 5; 8 slice 6; 7 slices 9-11). All embedded. (M-11/FR 17/1/2070 ank)
+MICROSCOPIC:  (Dr R Rossignol)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single invasive focus
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: 18 mm
+
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type (ductal)
+
+HISTOLOGIC GRADE: 2
+SCORES: Tubules: 2, Nuclei: 3, Mitoses: 1; Total score: 6&amp;#160;&amp;#160;(of 9)
+MITOTIC RATE: &amp;#160;5&amp;#160;mitoses per 10 high power fields
+
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 18mm
+&amp;#160;&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION:  Present, focal&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): &amp;lt;5%
+
+SKIN INVOLVEMENT: Not applicable
+DERMAL LYMPHOVASCULAR INVASION:Not applicable
+NIPPLE INVOLVEMENT: Not applicable
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): Present
+DCIS size / extent: DCIS is limited to the tumour and accounts for less than 25% of the tumour area
+Nuclear grade: High
+Architecture / type: Solid, cribriform, comedo
+Necrosis: Present
+Microcalcification of DCIS: Present
+Extensive intraduct component: Negative
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Negative
+
+Distance of invasive tumour to margins:
+Anterior: 7mm
+Posterior: 8mm
+Superior: Well clear (&amp;gt;10mm)
+Inferior: Well clear (&amp;gt;10mm)
+Medial: Well clear (&amp;gt;10mm)
+Lateral: 2mm (B21) There is a diathermied focus of tumour 0.5mm from this margin that most likely represent lymphatic space invasion.
+&amp;#160;
+DCIS MARGINS:&amp;#160;Negative, close
+&amp;#160;
+Distance of DCIS to margins:
+Anterior: 7mm
+Posterior: 8mm
+Superior: Well clear (&amp;gt;10mm)
+Inferior: Well clear (&amp;gt;10mm)
+Medial: Well clear (&amp;gt;10mm)
+Lateral: 1mm (B21)
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B21
+ER: Positive &amp;#160;100%, &amp;#160;3+
+PgR: Positive &amp;#160;70%, &amp;#160;3+
+HER2:
+Equivocal 1 to 2+ (IHC, SISH to follow)&amp;#160;
+Ki67: 10 to 20%
+&amp;#160;
+Other tumour block suitable for further testing: B18
+&amp;#160;
+SEPARATE FINDINGS:
+The second described nodule is an area of fibrocystic disease including areas of fat necrosis.
+Biopsy site changes
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 2
+&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c, pN0
+
+C. Almost the entire specimen has been embedded and there is no evidence of in-situ or invasive malignancy.
+DIAGNOSIS:
+A. LEFT SENTINEL LYMPH NODE
+- TWO BENIGN LYMPH NODES (0/2)
+
+B. HOOKWIRE LOCALISED ORIENTED WIDE LOCAL EXCISION LEFT BREAST
+- 18mm GRADE 2 INVASIVE DUCTAL CARCINOMA
+- FOCAL LYMPHOVASCULAR SPACE INVASION
+- SEE SYNOPTIC FOR MARGINS
+
+C. EXCISION FURTHER POSTERIOR TISSUE LEFT BREAST
+- NO EVIDENCE OF MALIGNANCY
+
+19/2/2071 ld
+
+SUPPLEMENTARY REPORT 21/2/2069
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+Mean HER2 copy number per cell: 2.15
+Mean CEP17 copy number per cell: 1.85
+HER2/CEP17 Ratio: 1.2
+
+HER2 status:          NEGATIVE
+
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122
+
+Reported by: Dr R Lemkau
+Date: 21/1/2069

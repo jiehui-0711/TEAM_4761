@@ -1,0 +1,62 @@
+SPR no: 70Z483320O
+MRN no: 70948332
+Site_name: LOCKHART & DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Oesophageal Ca, retroperitoneal sarcoma.  Frozen section omental nodule.  Left lobe liver biopsy for frozen section.  E/o R retroperitoneal sarcoma + R nephrectomy (sarcoma lateral to R kidney). Suture short superior, long lateral loop renal vessel, double loop deep margin.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Frozen section omentum nodule&amp;quot;, consists of a piece of lipomatous tissue, 65 x 60 x 15mm.  RS in one block for frozen section.  By S Bergsjo at 16:10pm on 21/4/15.
+Blocks: 1 - frozen section one; 2 &amp;amp; 3 - RS omental nodule. AE.
+
+FROZEN SECTION RESULT:
+Macroscopically resembles fat necrosis, unable to obtain section due to fat.
+Result to Dr LEON Galanis by Dr S Kunishige at 4:20pm on 23/4/19.
+
+B.  Specimen labelled &amp;quot;Left lobe liver biopsy&amp;quot;, consists of a piece of liver, 20 x 10 x 6mm.  Deep margin inked black.  Mid section 2 x TS for frozen section.  By S Hibner at 16:20pm on 24/8/18.
+Blocks: 1 - frozen section one; 2 &amp;amp; 3 - remaining section TS.  AE.
+
+FROZEN SECTION RESULT:
+Favour bile duct hamartoma, no evidence of malignancy.
+Result to anaesthetist by Dr S Halperin at 4:30pm on 21/5/16.
+
+C.  Specimen labelled &amp;quot;Right retroperitoneum and right kidney; Suture short superior, loop renal vessels long lateral double loop deep margin&amp;quot;, consists of a kidney with surrounding retroperitoneal fat and other soft tissue, 230mm superior to inferior x 165mm medial to lateral x 84mm superficial to deep.  Superficial surface inked blue, deep black.  Total specimen weight 1238g.  Specimen received in formalin.  The kidney measures 125mm superior to inferior x 30mm medial to lateral x 45mm superficial to deep.  At the superior pole of the kidney are three subcapsular, unilocular cysts, the largest 30mm diameter.
+Lateral to the kidney there is a circumscribed pale, cream coloured tumour measuring 65mm superior to inferior x 43mm medial to lateral x 40mm superficial to deep.  The tumour is 10mm from the lateral margin, 120mm from superior margin, 5mm from the inferior margin, 120mm from the medial margin, 3mm from the superficial and 3mm from the deep margin.  The tumour is within the peri-nephric fat and appears to be separate from the renal capsule.  It does not involve the kidney.  The fat immediately surrounding the circumscribed tumour is macroscopically unremarkable but elsewhere in the fat, away from the tumour, there are several circumscribed fatty nodules, up to 20mm diameter.  Two nodules are in the renal hilar region and abut soft tissue margins, and nodules elsewhere also abut excision margins.  Some adrenal tissue is identified adjacent to the postero-superior margin, measuring 22 x 3 x 3mm.
+Blocks: 1 - renal vessel margin; 2 - ureteric margin; 3 &amp;amp; 4 - RS lateral margin of main tumour.
+(TO:MS/eh 27/10/65) 5 to 8 - RS fatty nodules superomedial / superficial aspect of specimen; 9 - smaller fatty nodule superomedially; 10 - posteroinferior nodule abutting deep margin; 11 - posteromedial perihilar nodule; 12 &amp;amp; 13 - posterior nodules; 14 &amp;amp; 15 - adrenal; 16 &amp;amp; 17 - RS main tumour and kidney; 18 &amp;amp; 19 - RS kidney away from tumour; 20 &amp;amp; 21 - RS superior pole cyst within kidney; 22 to 24 - RS random sections of fat superiorly; 25 to 27 - random sections of fat inferiorly.
+(TO:MS/eh 23/10/68)
+
+
+MICROSCOPIC (Reported by Dr S Swindell):
+A.  Sections show an area of fat necrosis with associated recent fibrosis and infiltration by foamy macrophages.  There is no evidence of malignancy.
+
+B.  Sections show liver tissue with a surface Von Meyenburg complex (biliary micro hamartoma).  There is no evidence of malignancy.
+Adjacent liver tissue shows moderate macrovesicular steatosis.  This is non specific.  There is a mild and moderate, patchy infiltrate of lymphocytes and occasional eosinophils in portal tracts. There is no interface hepatitis.  Bile ducts appear normal.  There is mild fibrous expansion of portal tracts but there is no bridging fibrosis.  There is only very focal, mild lobular inflammation and no Mallory&amp;apos;s hyaline is identified.  Central veins are normal.
+With special stains no alpha-1 antitrypsin globules are seen, there is no increase in stainable iron, a rhodanine stain for copper is negative and an orcein stain for Hepatitis B surface antigen is negative.
+The mild and moderate chronic inflammatory infiltrate in portal tracts are non-specific, but the presence of eosinophils raises the possibility of a drug reaction.
+
+C.  Sections of the described circumscribed tumour mass lateral to the kidney show a high grade spindle cell sarcoma.  This consists of fascicles of spindle cells with pleomorphic, sometimes very large atypical nuclei.  Mitoses are frequent, numbering up to around 18 per ten high power fields.  There are small foci of fat within the tumour.  No heterologous elements are identified.  Much of the high grade tumour is circumscribed but there is some extension into the surrounding tissue and it is considered that high grade sarcoma extends to part of the lateral soft tissue margin focally (block C4).
+Fat adjacent to the high grade tumour and elsewhere in the specimen, including most or all of the perinephric fat, is abnormal.  This shows features of an atypical lipomatous tumour / well differentiated liposarcoma, comprising mainly mature appearing fat with atypical stromal cells within fibrous septa.  The atypical cells have pleomorphic and hyperchromatic nuclei.  This abnormal low grade tumour is seen surrounding renal vessels at the resection margin and surrounding the ureter at the resection margin.  Atypical lipomatous tumour appears to extend to, or abut, most or all excision margins of the specimen.
+The atypical lipomatous tumour involves perinephric and other fat which appeared normal macroscopically, as well as the described circumscribed fatty nodules.
+The appearances overall are of an atypical lipomatous tumour with component of high grade spindle cell sarcoma (dedifferentiated liposarcoma).
+There is a separate small deposit of spindle cell tumour which is present at the deep excision margin in the inferior part of the specimen (block C10); this is considered to be a separate small focus of dedifferentiation.
+There is some adrenal cortical tissue at the posterosuperior end of the specimen and this is unremarkable.
+Sections of the cysts at the superior pole of the kidney show that these are lined by clear cells with low grade nuclei, and groups and cords of similar clear cells within septae between the cysts. Most of the tumour has features of a multilocular cystic renal neoplasm of low malignant potential but there is one more sheet-like solid area of tumour, 3mm diameter, consistent with clear cell renal cell carcinoma of conventional type (block C21).  There is no lymphovascular invasion or spread outside the kidney.
+Also in the kidney there is a circumscribed papillary tumour with oncocytic features measuring 8mm diameter (block C19).  The tumour cells stain weakly positive for AMACR and also show some positive staining for epithelial membrane antigen but are vimentin negative.  Despite the fact that the tumour is only 8mm diameter the histologic features would be very unusual for a papillary adenoma and are favoured to be those of an oncocytic papillary renal cell carcinoma.  There is limited data about these tumours but there are thought to be low grade with infrequent recurrence or metastasis.
+Sections of kidney elsewhere show features of mild benign nephrosclerosis but are otherwise unremarkable.
+The atypical lipomatous tumour extends to just outside the renal capsule but does not involve the kidney itself.  The dedifferentiated high grade component extends close to the renal capsule but does not involve the renal capsule or kidney.
+
+The slides of the renal tumours have also been viewed by Dr S Tessmer.
+Representative slides of the sarcoma have been viewed by Dr S Perotti.
+
+
+DIAGNOSIS:
+A.  Omentum nodule:  Fat necrosis.
+
+B.  Biopsy left lobe of liver:
+1.  Von Meyenburg complex
+2.  Mild and moderate chronic inflammation in portal tracts, mild fibrous expansion of portal tracts and moderate macrovesicular steatosis, see text.
+C.  Right retroperitoneum and right kidney:
+1.  Large atypical lipomatous tumour with large area, and separate small area, of dedifferentiation (dedifferentiated liposarcoma).
+2.  Oncocytic papillary tumour 8mm diameter, favour oncocytic papillary renal cell carcinoma.
+3.  Multilocular cystic renal neoplasm of low malignant potential and small (3mm) clear cell renal cell carcinoma, see text.

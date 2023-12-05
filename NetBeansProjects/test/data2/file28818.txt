@@ -1,0 +1,27 @@
+SPR no: 76V552550M
+MRN no: 7685525
+Site_name: ROBINA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrioid adenocarcinoma of the endometrium grade 2.  Total laparoscopic hysterectomy plus bilateral salpingo-oophorectomy.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a previously opened uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 385g in total.  The uterus measures 140 x 110 x 80mm and has a smooth shiny serosa.  The ectocervix measures 25 x 22mm.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  The endometrial cavity contains a pale grey exophytic tumour, 60 x 50 x 50mm.  The base of the tumour is in the fundal region and is approximately 28 x 25mm.  The tumour appears to extend to a depth of 7mm through a myometrial wall thickness of 21mm.  Multiple fibroids are scattered throughout the myometrium.  The largest fibroid is 36mm and shows some haemorrhagic change.  The left fallopian tube, 60 x 8 x 7mm, and left ovary, 38 x 20 x 17mm, show no significant abnormality.  The right fallopian tube, 50 x 8 x 7mm, and the right ovary, 32 x 23 x 12mm, show no significant abnormality.
+Blocks: 1 to 3 - exophytic tumour mass; 4 to 10 - midline LS anterior uterus and cervix; 11 &amp;amp; 12 - anterior uterus, ?deepest invasion; 13 to 19 - midline LS posterior uterus and cervix (17 to 19 - partial thickness slices); 20 - largest fibroid; 21 - left fallopian tube; 22 - left ovary; 23 - right fallopian tube; 24 - right ovary.   (TO:JB/rs 10/8/65)
+
+
+MICROSCOPIC (Reported by Dr S Bratek):
+The sections show a grade 2 endometrioid adenocarcinoma of the endometrium.  The tumour contains approximately 10% solid architecture.  No marked cytologic atypia is seen.  The tumour invades 6mm through a myometrial wall thickness of 21mm.  Focal lymphovascular invasion is seen.  The ectocervix and endocervix are uninvolved and unremarkable.  Leiomyomas are confirmed within the myometrium.  Both fallopian tubes and ovaries are uninvolved by tumour.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+
+DIAGNOSIS:
+Uterus with cervix, bilateral fallopian tubes and ovaries:  Grade 2 endometrioid adenocarcinoma of the endometrium.

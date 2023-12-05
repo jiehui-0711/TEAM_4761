@@ -1,0 +1,69 @@
+112 47行 Hexion Specialty Chemicals-> HER SISH:  Performed at Hexion Specialty Chemicals, HERBERTON HOSPITAL Hospital, see separate report.
+116 57行 FPL Group-> HER2 SISH:  Performed at FPL Group, BALLINA DISTRICT HOSPITAL Hospital, see separate report.
+117 54行 KeyCorp-> HER2 SISH:  Performed at KeyCorp Central, GILGANDRA MULTI PURPOSE SERVICE Hospital, see separate report.
+151 60行 Agilent Technologies-> HER2 SISH:  Performed at Agilent Technologies Central, DYSART HOSPITAL Hospital, see separate report.
+204 63行 Goldman Sachs-> HER2 SISH:  Performed at Goldman Sachs, LAKE GRACE HOSPITAL Hospital, see separate report.
+213 42行 CIT Group-> The left submandibular lymph node shows widespread follicular hyperplasia and expansion of germinal centres with prominent tingible body macrophages. Flow cytometry showsa reactive mixed population of T and B lymphocytes. The overall morphology and pattern of immunohistochemical pattern of staining favours a reactive lymphoid (follicular) hyperplasia. However, the presence of extranodal lymphocytic inflammation, as well as, irregular expansion of some of the enlarged hyperplastic follicles is considered atypical. The case will be sent to Dr Bruno (CIT Group) for her expert opinion and a supplementary report will be issued. 
+246 56行 Avery Dennison-> HER2 SISH:  Performed at Avery Dennison, WARIALDA MULTIPURPOSE SERVICE Hospital, see separate report.
+29 69行 ALLTEL Corporation-> HER SISH:  Performed at ALLTEL Corporation, BOMBALA MULTI PURPOSE SERVICE Hospital, see separate report.
+29 94行 Lucent Technologies-> HER SISH is being performed at Lucent Technologies, BROOME HOSPITAL Hospital; please see separate report.
+292 62行 Wells Fargo-> HER2 SISH:  Performed at Wells Fargo, WEIPA HOSPITAL Hospital, see separate report.
+31 53行 R.R. Donnelley-> HER2 SISH:  Performed at R.R. Donnelley, FINLEY HOSPITAL & COMMUNITY HEALTH CARE Hospital, see separate report.
+335 21行 Computer Sciences Corporation-> Previous pathology (reviewed 2062 - Dr Dentel Computer Sciences Corporation Pathology): Serous borderline tumour and well to moderately differentiated ovarian serous carcinoma with metastatic tumour deposits.
+392 93行 The Pepsi-> Source of material:  The Pepsi, MOUNT ELIZA CENTRE
+495 79行 BlueLinx-> HER SISH:  Performed at BlueLinx, NORTHAMPTON HOSPITAL Hospital, see separate report.
+495 97行 Entergy Corporation-> HER SISH is being performed at Entergy Corporation, MARYBOROUGH DISTRICT HEALTH SERVICE (MARYBOROUGH) Hospital, please see separate report.
+505 33行 eBay-> The colon, peritoneum and umbilicus show metastatic moderately to well differentiated adenocarcinoma. The morphology of the carcinoma is similar to that previously described in the right axillary and umbilical biopsies(14L01476 eBay YARRA RANGES HEALTH), and would be consistent with metastasis from a primary endometrial tumour. 
+518 56行 Smithfield Foods-> HER2 SISH:  Performed at Smithfield Foods, GOULBURN VALLEY HEALTH - TATURA CAMPUS Hospital, see separate report.
+519 54行 Hormel Foods-> HER2 SISH:  Performed at Hormel Foods Central, NARROMINE HOSPITAL & COMMUNITY HEALTH Hospital, see separate report
+521 69行 Peter Kiewit Sons-> HER SISH:  Performed at Peter Kiewit Sons Central, GRAYLANDS SELBY-LEMNOS & SPECIAL CARE HOSPITAL Hospital, see separate report.
+521 84行 The ServiceMaster Company-> HER SISH being performed at The ServiceMaster Company Central, INGLEWOOD AND DISTRICT HEALTH SERVICE Hospital; please see separate report.
+522 37行 UnumProvident-> HER SISH:  Performed at UnumProvident, BOORT DISTRICT HEALTH Hospital, see separate report.
+523 52行 Sonic Automotive-> HER2 SISH:  Performed at Sonic Automotive Central, FAR NORTH HEALTH SERVICES Hospital, see separate report.
+523 79行 Phelps Dodge-> HER2 SISH:  Performed at Phelps Dodge Central, PORTLAND DISTRICT HEALTH Hospital, see separate report.
+534 16行 Saks Incorporated-> 70 yr old woman with cervix carcinoma.  Had laparoscopic hysterectomy for adenocarcinoma in situ in August 2063 (see Saks Incorporated review).  Final histology showed invasive adenocarcinoma with measurements equating to stage 1B1.  Hysterectomy specimen suggested that cervix incompletely excised.  Today- radical trachelectomy and bilateral pelvic node dissection performed.  
+569 62行 Fortune Brands-> HER2 SISH:Performed at Fortune Brands, SUNSHINE COAST UNIVERSITY HOSPITAL Hospital, see separate report.
+76 58行 Peter Kiewit Sons-> HER SISH:  Performed at Peter Kiewit Sons Central, NORMANTON HOSPITAL Hospital, see separate report.
+file10161 19行 WPS Resources-> Distribution:    WPS Resources
+file10280 23行 Liz Claiborne-> d clvertaltumDistribution:  DR HORACIO HALBUR,   Liz Claiborne RY
+file10484 19行 Molson Coors Brewing-> Distribution:    Molson Coors Brewing
+file10528 19行 Wachovia Corporation-> Distribution:  DR Breshears,   Wachovia Corporation
+file10579 19行 Thrivent Financial-> Distribution:  DR Vignovich,   Thrivent Financial
+file10646 19行 HCA Inc-> Distribution:    HCA Inc
+file10725 23行 Coventry Health Care-> erf ddfr3 lphaDistribution:    Coventry Health Care83962
+file10928 19行 H. J. Heinz-> Distribution:     FILE-COPY,   H. J. Heinz
+file11140 19行 CMS Energy Corporation-> Distribution:    CMS Energy Corporation
+file1163 70行 State Street Corporation-> 2230474 Immunostains for MSI proteins (State Street Corporation Forensic Medicine; block:A12)
+file15698 82行 Pacific Mutual-> BRAF immunohistochemistry was performed and although the tumour shows positive cytoplasmic staining, the control is suboptimal.  A repeat stain is in progress at Pacific Mutual KALGOORLIE, to follow in a supplementary report.
+file15698 96行 Computer Sciences Corporation-> BRAF immunohistochemistry was performed at Computer Sciences Corporation HEALESVILLE.  This stain shows positive cytoplasmic staining in the tumour, however the control is again suboptimal.  This result should be interpreted with caution.
+file17502 7行 Delphi-> Possible serous carcinoma on uterine curettings in Dubbo but normal endometrium when reviewed by Delphi.
+file18256 128行 Owens & Minor-> Immunostains for MSI proteins (Owens & Minor CPC Pathology; block:  10)
+file18395 115行 PepsiCo-> Immunostains for MSI proteins (PepsiCo CPC Pathology; block:A13  )
+file18395 125行 Newell Rubbermaid-> Immunostains for MSI proteins (Newell Rubbermaid CPC Pathology; block:A13  )
+file18702 37行 CHS Inc-> The tumour appearances are similar to the previous biopsy specimen reviewed from 28/2/2066 (CHS Inc report 29R30720).
+file18843 129行 Caremark Rx-> Immunostains for MSI proteins (Caremark Rx CPC Pathology; block: A5)
+file19974 82行 McGraw-Hill-> Immunostains for MSI proteins (McGraw-Hill CPC Pathology; block: A7)
+file21548 109行 Washington Mutual-> Immunostains for MSI proteins (Washington Mutual CPC Pathology; block:A11)
+file21904 55行 Sun Microsystems-> Immunostains for MSI proteins (Sun Microsystems CPC Pathology; block: A7 )
+file22415 88行 OGE Energy-> Immunostains for MSI proteins (OGE Energy CPC Pathology; block: a20  )
+file23065 100行 LandAmerica Financial-> Immunostains for MSI proteins (LandAmerica Financial CPC Pathology; block:   A12)
+file23251 120行 Aetna-> Immunostains for mismatch repair proteins (Aetna CPC Pathology; block: A8 )
+file3740 84行 Delta Air Lines-> trchImmunostains for MSI proteinsh (Delta Air Lines DICKINSON 3 SOUTH; block: A9)
+file4539 89行 R.R. Donnelley-> Immunostains for MSI proteins (R.R. Donnelley South Eastern Area; block:D8)
+file4614 62行 Federal-Mogul-> Immunostains for MSI proteins (Federal-Mogul IMVS; block:A20  )
+file4851 126行 Dillard's-> Immunostains for MSI proteins (Dillard's ENVOI Pathology; block: B16)
+file5048 88行 The Northwestern Mutual-> Immunostains for MSI proteins (The Northwestern Mutual PARKES 8; block: A3)
+file5277 95行 Rohm and Haas-> Immunostains for MSI proteins (Rohm and Haas BRIGHAM & WOMEN'S HOSPITAL; block: A5 )
+file5396 103行 Walt Disney-> Immunostains for MSI proteins (Walt Disney ACT Genetic; block:A17)
+file5585 102行 Walt Disney-> Immunostains for MSI proteins (Walt Disney 3 ARRIETTA CLOSE; block:A14)
+file5711 110行 Brunswick Corporation-> Immunostains for MSI proteins (Brunswick Corporation 3 ARRIETTA CLOSE; block:A15  )
+file6442 78行 Hershey Company-> Immunostains for MSI proteins (Hershey Company MEDIC/SURGERY WARD; block:  A6)
+file6514 58行 Fifth Third Bancorp-> Immunostains for MSI proteins (Fifth Third Bancorp PARKES8; block:5  )
+file7135 98行 Leggett & Platt-> Immunostains for MSI proteins (Leggett & Platt ACUTECARE WARD; block: A6)
+file7234 79行 Lyondell Chemical-> Immunostains for MSI proteins (Lyondell Chemical Molecular Oncology; block: A8)
+file7558 36行 Liberty Mutual-> Immunostains for MSI proteins (Liberty Mutual CPC Pathology; block: 2)
+file7809 115行 The First American-> Immunostains for MSI proteins (The First American Laverty; block: A10)
+file7978 94行 M.D.C. Holdings-> Immunostains for MSI proteins (M.D.C. Holdings PERI-OPERATIVE UNIT; block: A8)
+file8408 106行 HCA Inc-> Immunostains for MSI proteins (HCA Inc 105 HAMRUN CIRCUIT; block:A3)
+file8491 62行 Pacific Mutual-> Immunostains for MSI proteins (Pacific Mutual ANTENATAL WARD; block: A18)
+file9543 32行 eBay-> Immunostains for MSI proteins (eBay ACUTE CARE WARD; block:  2 )

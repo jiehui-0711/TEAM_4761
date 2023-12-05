@@ -1,0 +1,39 @@
+SPR no: 79A427600W
+MRN no: 79042760
+Site_name: COLEDALE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Previous hysterectomy, no evidence of ovaries. Large pelvic mass. Normal Ca 125. General clinical history:  polymicrogyria exercise tolerance. Ex-smoker. Type 2 diabetes, hypercholesterolaemia, hypertension.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Pelvic cyst&amp;quot;, consists of an opened cystic mass, 90 x 70 x 40mm, with detached pale to tan tissue fragments, 50 x 40 x 20mm in aggregate.  The outer surface appears dull, fibrous and haemorrhagic. No fallopian tube or normal ovary is identified.  The outer surface of the specimen is inked in blue. On section, the cut surface shows a solid cystic structure with clear serous fluid and also chocolate brown fluid. Blocks: 1 to 10 - RS cystic mass; 11 - RS  detached tissue ?blood clot  ?fibrin; 12 - for Biobank.  RS. Shown to Dr T Kahoohalphala.
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a fatty tissue, 65 x 55 x 15mm. No nodule is found. Representative embedded into three blocks. RS.   (TO:DN/ta 27/5/71)
+MICROSCOPIC (Reported by Dr T Wellington and registrar Dr T Brucie):
+
+
+A. The sections show fibrofatty tissue with a clear cell carcinoma. The tumour show papillary, acinar and solid architectural patterns and is composed of malignant cells with clear and eosinophilic cytoplasm and areas showing marked cytologic atypia. Mitotic figures are readily identified. Small (&amp;lt; 10%) areas of necrotic tumour are noted (e.g., slide A12).  There is patchy endometriosis adjacent to the tumour (slides A2, A5, A7). The tumour appears clear of the inked margins, but macrophages and mesothelial cells are seen in one area (slide A10), confirmed with calretinin and CD68 immunoperoxidase stains. The detached fragments show blood clot.
+
+Immunohistochemistry shows patchy expression of Napsin A antigen in the tumour cells. WT1 antigen is not expressed in the tumour cells. There is focal, very weak expression of oestrogen receptor antigen in the tumour cells.  Progesterone receptor antigen is not expressed.
+
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B. The sections show lobulated mature adipose tissue consistent with omentum.  Patchy chronic inflammation is seen.  No evidence of malignancy is found in representative sections.
+
+
+DIAGNOSIS:
+A. Pelvic cyst:
+- Clear cell carcinoma.
+B. Omentum:
+- No significant abnormality.

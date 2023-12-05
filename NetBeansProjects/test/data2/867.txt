@@ -1,0 +1,73 @@
+Episode No:  73D284078E
+731284.BSW
+
+Celani, AGUSTIN 
+Lab No:  73D28407
+Maplehill
+REDCLIFFE  QLD  5451
+Specimen: Tissue
+D.O.B:  16/2/2010
+Sex:  F
+Collected: 31/10/2012 at 13:59
+Location:  Radiation Oncology-WARREN HOSPITAL
+DR Phillip Ronald BULLEN
+Distribution:    NSW-CANCER-REGISTRY,  FILE-COPY
+CLINICAL:
+(L) breast Ca.  WLE and SLNBX
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node 1 left breast 2397" consists of a 10mm piece of fatty tissue containing an 8mm lymph node.TAE 1 block.  
+B.  Specimen labelled "Left breast sentinel node no 2 1065" consists of a 12mm lymph node withattached adipose tissue.  AE 1 block four pieces.  
+C.  Specimen labelled "Left breast sentinel node 3 1928" consists of a 10mm lymph node with attached adipose tissue.  TAE 1 block.  
+D.  Specimen labelled "Wide local excision left breast short superior, long lateral" consists of a lumpectomy with three marking sutures (short superior, long lateral and the medium assigned as medial) measuring 38mm (medial to lateral), 55mm (superior to inferior) and 45mm (superficial to deep) weighing 51g.  The superficial margin inked red, lateral black and medial blue.  The specimen sequentially sectioned from superior to inferior into 10 slices to reveal an ill defined firm necrotic tumour present in slices 5 to 9.  The tumour measures 18mm (medial to lateral) and 22mm (superficial to deep).  Macroscopically the closest margins are the deep (4mm), medial (5mm), lateral (7mm) and inferior (8mm). The superior and superficial margins are more than 10mm clear.  The remaining breast tissue appears fibrofatty with predominance of fat and no other lesions are identified.  
+Blocks:  1 - slice 1 superior end; 2 &3 - slice 3; 4 & 5 - slice 4; 6 to 9 - slice 5; 10 - slice 6; 11 to 13 - slice 7; 14 - slice 8; 15 to 18 - slice 9; 19 to 22 - slice 10 inferior slice.  Please refer to attached diagram.  (OT/mm 1.3.62) 
+MICROSCOPIC (reported by Dr T Hochstatter):
+A - D.  Sections show invasive ductal carcinoma of the breast.  The features are as follows: 
+Invasive carcinoma:
+Site:  Left breast. 
+Type:  Invasive ductal carcinoma. 
+Invasive tumour size:  25mm. 
+Grade (Modified Bloom & Richardson):  3.
+Tubules:   3   Nuclei:   3   Mitoses:   3   Mitotic rate: 55/10hpf.
+Lymphovascular invasion:  Not seen. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS: 30mm. 
+Nuclear grade:  High.
+Architecture:  Solid.
+Necrosis:  Present.
+Calcification:  Present. 
+Degreeof DCIS in tumour:  Moderate.   
+DCIS in adjacent tissue:  Moderate. 
+Excision Margins:  
+Invasive component:  4mm from deep, 5mm from lateral, 6mm from medial, 7mm from inferior, other margins well clear. 
+situ component:  1mm from medial, 5mm from deep, 6mm from lateral, 7mm from inferior, other margins well clear. 
+Receptors (Block D14): 
+ER:  Weakly positive.
+	10% of nuclei stained
+intensity of staining:  Weak.
+PR:  Negative. 
+HER2 (Novocastra 10A7):  Negative (score 1+).
+Ki-67 index:  Approximately 70%. 
+Nipple:  Not applicable. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 3.
+Number of sentinel lymph nodes involved by tumour:  0.       
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 3.  
+Total number of involved lymph nodes (including sentinel node(s)): 0.
+ADDITIONAL REPORT:  (Reported by Dr T Erxleben 16.1.62)
+Four unstained slides were sent to DONNYBROOK HOSPITAL Hospital for Her2 CISH analysis:
+Her 2 in situ hydridisation: (Her2 CISH Invitrogen SPOT-Light assay, block D14). 
+Her2 CISH result: NEGATIVE (non-amplified, diploid).
+Mean Her2 copy number per cell: 1.6.
+SCORING CRITERIA (ASCO/CAP recommendations):
+1 to <2.5 copies:  	Non amplified (diploid)
+2.5 to <4 copies:  	Non amplified (polysomy) 
+4 to 6 copies:		Equivocal 
+>6 but < 10 copies:	Low level amplification
+10 or more copies: 	High level amplified.  
+Reported by Dr T Soderman, 15.1.62
+

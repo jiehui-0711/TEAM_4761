@@ -1,0 +1,130 @@
+SPR no: 91K402497O
+MRN no: 91440249
+Site_name: MARYBOROUGH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT 25/11/70
+
+91K40249 (91K402497O) Ibara, STACY TYREE
+
+HISTOPATHOLOGY REPORT
+SHELLHARBOUR HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Metastatic colorectal cancer.
+Left liver.
+Segment 3 lesion.
+Segment 4b lesion.
+Sigmoid colon.
+Gastric nodule.
+Anterior abdominal wall nodule.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT SEGMENT LIVER&amp;quot;.  Consists of a segment of liver weighing 300g measuring 150x100x55mm.  There is an area of capsular defect at the edge, 30x20mm. Sectioning shows haemorrhagic cavity opening to the capsular surface, 30x20mm.  It is clear by 70mm from surgical margin.  No other lesion present. The rest of parenchyma is not cirrhotic macroscopically.
+
+(1-5 section of the capsular defect 6 surgical margin [away from the lesion]; 7 RS from parenchyma).  RS (7-7)
+
+B.  &amp;quot;LEFT LIVER SEGMENT 2&amp;quot;.  Wedge of liver weighing 2.5g and measuring 25x20x12mm. Surgical margin inked blue.  Sectioning shows circumscribed white subcapsular nodule measuring 8x7x5mm.  It is 5mm from surgical margin. Whole tumour embedded.
+
+(1&amp;amp;2 RS).  RS (3-2)
+
+C.  &amp;quot;LIVER SEGMENT 4B&amp;quot;.  Consists of a segment of liver weighing 60g measuring 85x35x50mm.  There is a capsular bulging 40x40mm with irregular soft tissue attached to the capsule 35x30mm.  Surgical margin inked black. Adherent margin also inked black.  Sectioning shows lobulated white yellowish lesion abuts surgical margin and it is 4mm from soft tissue margins at closest.
+
+(1 full face of subcapsular tumour with surgical margin; 2&amp;amp;3 full face of the composite section of tumour [3 with surgical margin]; 4-6 sections with capsular adhesion; 7 section of the normal parenchyma).  RS (7-7)
+
+D.  &amp;quot;RECTUM&amp;quot;. Consists of a portion of rectosigmoid 140mm in length, 45mm maximum diameter.  Bowel below resection extended 10mm below the anterior peritoneal reflection. Small portion of small bowel 50mm in length, 25mm in diameter also attached.
+There is an area of ulceration and stenosis 40x30mm, located 50mm above the peritoneal reflection.  It is 60mm from distal and 60mm from proximal margin.
+Sectioning shows necrotic ulcerated grey area involving the colonic mucosa, pericolic fat and abuts the small bowel wall.
+Multiple firm circumscribed white lesion possible lymph node involvement also present around the lesion.
+
+(1 proximal surgical margin; 2 distal surgical margin; 3-7 one full face of the colon and small bowel including 4 small bowel and colon; 8 tumour and small bowel; 9 ? lymph node ? LVI; 10 tumour and small bowel; 11 ? lymph node; 12 ? three lymph nodes; 13 ? two lymph nodes; 14 ? three lymph nodes; 15 ? two lymph nodes; 16-19 ? lymph nodes ? LVI adjacent to the tumour; 20 tumour deposit and colon). RS (M-20)
+
+E.  &amp;quot;STOMACH NODULE&amp;quot;. Consists of circumscribed smooth grey nodule 5x4x2mm.  AE (1-1)
+
+F.  &amp;quot;ANTERIOR ABDOMINAL WALL NODULE&amp;quot;.  Consists of fibrofatty tissue weighing 2g measuring 25x20x20mm.  One surface covered by possible fascia 20x15mm.  This surface inked blue, fatty surface black.  Sectioning shows rubbery white nodule above the smooth/fascia surface and is 2mm from fatty surface.  Whole tissue embedded.  AE (M-3/ZH 7/11/2068 ank)
+
+MICROSCOPIC:  (Dr Z Bleiweiss)
+
+Specimen A:
+Sections of the liver show a haemorrhagic cavity opening to the capsular surface. The cavity is lined by degenerating hepatic parenchyma admixed with fibrin blood clot. No epithelial lining is apparent in the sections and there are no features to suggest malignancy. There is congestion of the immediately adjacent liver tissue. Beyond this, sections of liver are unremarkable. There is no evidence of malignancy.
+
+Specimen B:
+Sections show a subcapsular deposit of metastatic moderately differentiated adenocarcinoma, with morphology in keeping with colorectal primary. The deposit is clear of the surgical margin of the specimen by 5mm.
+
+Specimen C:
+Sections of the segment of liver show a deposit of metastatic moderately differentiated adenocarcinoma with morphology in keeping with colorectal origin. The carcinoma focally forms the inked surgical margin, and penetrates beyond the capsular surface into adjacent adherent fibroadipose tissue, where there is perineural invasion. Carcinoma is also incompletely excised at this soft tissue margin.
+
+Specimen D:
+Sections show moderately differentiated mucinous adenocarcinoma of the rectosigmoid colon which infiltrates through the full thickness of the bowel wall into the wall of the adjacent adherent small bowel segment to the level of the submucosa of the small bowel. See synoptic report:
+
+COLORECTAL TUMOUR MICROSCOPIC SYNOPTIC REPORT  (Based on CAP 2017)
+
+HISTOLOGIC TYPE: Mucinous adenocarcinoma
+
+HISTOLOGIC GRADE: G2 Moderately differentiated
+
+TUMOUR EXTENSION: Tumour invades through the full thickness of the bowel wall and directly invades adjacent structures (small bowel, peri-ureteric adipose tissue)
+
+TREATMENT EFFECT: No known pre-surgical therapy
+
+SMALL VESSEL (LYMPHOVASCULAR) INVASION: Not identified
+LARGE VESSEL (VENOUS) INVASION: Not identified
+
+PERINEURAL INVASION: Present, focally extensive
+
+TUMOUR BUDDING: Low score (0-4)
+Budd count: 2  per 0.785 mm2
+
+TYPE OF POLYP IN WHICH INVASIVE CARCINOMA AROSE: None identified
+
+TUMOUR DEPOSITS (PERICOLIC/PERIRECTAL FAT): Present.
+Number of deposits: 7
+
+EXCISION MARGINS
+Proximal: Not involved, distance of invasive tumour to margin:  60mm
+Distal: Not involved, distance of invasive tumour to margin:  60mm
+Radial or mesenteric margin: Not involved
+
+REGIONAL LYMPH NODES: Involved
+Number of lymph nodes involved:1
+Number of lymph nodes examined: 7
+
+DISTANT METASTASES (histologically confirmed): Present, site: Liver
+
+ANCILLARY FINDINGS
+IMMUNOSTAINS:
+Block: D3
+Mismatch repair proteins: to follow.
+
+PATHOLOGICAL STAGE CLASSIFICATION (pTNM AJCC 8th ed): pT4b, pN1a, pM1b (liver and anterior abdominal wall)
+
+Specimen E:
+Sections show an aggregate of haphazardly orientated nerve fibres within smooth muscle, appearances suggestive of a neuromatous proliferation. There is no evidence of malignancy.
+
+Specimen F:
+Sections show a deposit of metastatic moderately differentiated adenocarcinoma with  appearances identical to that identified in the Specimen D. The deposit is involving skeletal muscle and adipose tissue and is just clear of the inked surgical margin.
+
+DIAGNOSIS:
+A. LEFT SEGMENT LIVER
+- HAEMORRHAGIC POST-SURGICAL CAVITY ON CAPSULAR ASPECT, NO EVIDENCE OF MALIGNANCY.
+B. LEFT LIVER SEGMENT 2
+- METASTATIC ADENOCARCINOMA.
+C. LIVER SEGMENT 4B
+- METASTATIC ADENOCARCINOMA.
+D. RECTUM AND ADHERENT SMALL BOWEL SEGMENT
+- MODERATELY DIFFERENTIATED MUCINOUS ADENOCARCINOMA. pT4b, pN1a, pM1b (LIVER AND ANTERIOR ABDOMINAL WALL).
+E. STOMACH NODULE
+- NO EVIDENCE OF MALIGNANCY.
+- BENIGN NEUROMATOUS PROLIFERATION.
+F. ANTERIOR ABDOMINAL WALL NODULE
+- METASTATIC ADENOCARCINOMA.
+16/8/2071 cy
+SUPPLEMENTARY REPORT 22/11/67
+D. Immunostains for MSI proteins (Block: D3)
+MLH1:  Intact (retained)
+PMS2:  Intact (retained)
+MSH2:  Intact (retained)
+MSH6:  Intact (retained)
+Comment:
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+26/11/68 ld

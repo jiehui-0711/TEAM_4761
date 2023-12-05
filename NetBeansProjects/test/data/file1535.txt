@@ -1,0 +1,41 @@
+SPR no: 84E840855F
+MRN no: 8418408
+Site_name: PRINCE ALBERT TENTERFIELD
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  84E840855F
+8418408.NOF
+
+GANTNIER, CHONG FLOYD
+Lab No:  84E84085
+Chanticlare
+BROADFORD  QLD  1113
+Specimen: Tissue
+D.O.B:  22/7/1990
+Sex:  M
+Collected: 14/4/2065 at:
+Location:  Anat Path-COONAMBLE HEALTH SERVICE
+DR BRIAN BRYAN DEETER
+Distribution:
+CLINICAL:
+Laparotomyand resection of large abdominal mass with en bloc small bowel resection.  Large mass appears to be within mid - SB mesentery.  Divided and sent for cytogenetics.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Abdominal mass&amp;quot; consists of a mesenteric tumour measuring 160 x 140 x 109mm.  There is an adherent segment of small bowel measuring 35mm in length with a diameter of 30mm.  The capsular surface of the tumour isinked blue.  On section, the tumour has a uniform pale grey and yellowish appearance.    Additionally there are three stapled segments of small bowel measuring 42 to 45mm in length, each with a diameter of 30mm (surgical margins inked red).  The small bowel mucosa appears unremarkable.
+Blocks:  1- LS adherent small bowel margins; 2 to 5 - tumour with adherent small bowel; 6 - representative LS adherent small bowel; 7 to 14 - representative sections of tumour; 15 &amp;amp; 16 - LSseparate segments of small bowel
+(TO: JB:  JB/mm 15.4.65)
+MICROSCOPIC:  (Reported by A/Prof W Bove):
+The sections of mesenteric tumour show a circumscribed mass composed of bland spindle cells with a slightly &amp;#8220;tissue culture&amp;#8221; appearance in some areas. Small, distinct, &amp;#8220;pin point&amp;#8221; nucleoli are present.
+The nuclear morphology is fairly uniform and mitoses are not readily identified. The mitotic count is approximately 1 per 10hpf.
+Numerous thin walled, mildly ectatic blood vessels are present and the background of the tumour is composed of variably hyalinised collagen stroma. In some areas keloidal bands of dense collagen are present.
+A small number of scattered mononuclear inflammatory cells are present but there is otherwise no significant inflammation seen.
+No heterologous elements are identified and no areas of dedifferentiation are seen.
+The tumour abuts themuscularis propria of the small bowel but does not appear to arise from this layer.
+The tumour cells show positive staining with vimentin and are weakly positive with desmin amd smooth muscle actin.
+CD117, CD34, S100 and B-Catenin are all negative.
+The Ki67 index is low (approximately 3%).
+The small bowel margins are free of tumour.
+The overall appearances are consistent with a diagnosis of mesenteric fibromatosis.
+Dr W Colleen has also seen this case and concurs.
+This result was discussed with Prof W Reinbolt, 16/2/2015 at 1735 hrs.
+DIAGNOSIS:
+MESENTERY OF SMALL BOWEL: CONSISTENT WITH MESENTERIC FIBROMATOSIS

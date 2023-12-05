@@ -1,0 +1,113 @@
+SPR no: 06E367441A
+MRN no: 0613674
+Site_name: CARNARVON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  06E367441A
+0613674.MCA
+
+COCOMAZZI, RANDALL JAMES
+Lab No:  06E36744
+Upper Clubhouse
+NARACOORTE  TAS  6955
+Specimen: Tissue
+D.O.B:  4/11/1995
+Sex:  M
+Collected: 10/11/2015 at 15:28
+Location:  PERI-OPERATIVE UNIT-GOODOOGA HOSPITAL
+DR FABIAN WANETA LAV
+Distribution:    NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (15.4.2067)
+
+CLINICAL:
+Anterior resection and distal donut.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Low anterior resection&amp;quot; consists of a segment of large bowel and rectum 220mm in length with a circumference of 70mm.  There is attached mesocolon up to 130mm in width.  The non-peritonealised mesocolon margin is inked blue.  The distal stapled surgical margin is at the level of the anterior peritoneal reflection.  Within the rectum there is a circumferential, centrally ulcerated tumour measuring 50mm in length.  The tumour is 26mm from the distal margin and 150mm from the proximal margin.  The tumour infiltratesthe bowel wall and pericolic tissue to a depth up to 20mm posteriorly.  The tumour is 6mm from the non-peritonealised posterior mesocolon margin.  The tumour focally abuts the anterior peritoneal surface.  Occasional diverticula are seen.
+Blocks:  1 - LS proximal margin; 2 - LS distal margin; 3 - LSrepresentative bowel; 4 &amp;amp; 5 - representative tumour; 6 - tumour closest to anterior peritoneal surface; 7 - tumour closest to posterior non-peritonealised surface ; 8 - tumour with adjacent mucosa (MSI block); 9 - diverticulum; 10 - apical lymph node; 11 to 14 - multiple lymph nodes; 15 &amp;#8211; single lymph node, bisected; 16 &amp;#8211; multiple lymph nodes; 17 &amp;#8211; representative pericolic adipose tissue.   (TO: JB; JB/ta 15/1/65)
+B.  Specimen labelled &amp;quot;Donut&amp;quot; consists of a donut measuring 17mm in diameter and 6mm in length.  AE 1 block.   (TO: JB:  JB/mm 13.1.65)
+MICROSCOPIC (reported by Dr A Harlor):
+
+A &amp;amp; B.  SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+
+Site of tumour:  Rectum.
+Maximum tumour diameter:  50mm.
+Distance of tumour to nearer cut end:  26mm (distal).
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above.
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate.
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Not involved.
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  6mm
+Lymph nodes
+Number of lymph nodes present:	Twelve (0/12).
+Number of lymph nodes involved:	Nil (0).
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Not identified.
+Perineural invasion
+Not identified.
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Diverticular disease is confirmed.  The distal donut (specimen B) shows no significant abnormality.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvant therapy
+Not applicable.
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary &amp;#8211; TNM 7th Edition
+pT4a  pN0  pMX  R0
+Representative sections seen with Dr A Loyst.
+
+
+DIAGNOSIS:
+Rectum, low anterior resection:
+Moderately differentiated adenocarcinoma, pT4a.
+Twelve negative lymph nodes (0/12).
+
+SUPPLEMENTARY REPORT (15.4.2067) - MOLECULAR ONCOLOGY REPORT:
+Reported by A/Prof Sacre A Cooper, HENTY MULTI PURPOSE SERVICE Hospital
+MATERIAL PROVIDED: The H&amp;amp;E section shows tumour involving a total area of approximately 20xl0mm.  On the whole section tumour represents approximately 70% of the section.  Tissue scrolls were used for the analysis.  No macro-dissection was performed.
+Please note that the purpose of this assessment is purely to determine if lesional material is present and adequate for molecular testing and does not constitute a formal pathology review.
+RESULTS:  NRAS G12D/E MUTATION IDENTIFIED.
+Gene			NRAS
+Location in Gene	exon 2
+THERAPEUTIC IMPLICATION:  Tumours harbouring mutations in KRAS or NRAS exons 2, 3 or 4 predict lack of response to anti-EGFR antibody therapy (Douillard et al NEJM 2013; 369:1023-34; Allegra CJ et al. J Chin Oncol 2015; Oct 5).
+TEST DESCRIPTION:
+This test profiles a broad range of somatic mutations from 5 common oncogenes (BRAF, EGFR, KRAS, KIT and NRAS) using OncoFOCUS with additional custom panel.  This multi-gene parallel profiling is intended to assist the selection of targeted therapies for cancer patients.  Mutation analysis is performed on DNA isolated from tumour tissue.  The relevant target regions are amplified in 2 multiplex PCR reactions followed by 12 multiplex extensions.  Any mutant allele is accurately identified by mass spectrometry.  Any reported mutation is called with high confidence (i.e. the proportion of a mutant allele is 10% or more).  This oncogene panel can detect over 300 mutations including the following clinically relevant mutations in the EGFR (NM_ 005228), KRAS (NM_004985), BRAF (NM_004333), KIT (NM_000222) and NRAS (NM_002524) genes. For a full list of the mutations tested, please see http://agenabio.com/oncofocus:panel.
+Gene			Target Mutation
+EGFR	E709A, E709fs* 1, E709G, E709K, E709Q/H, E709V, G719A, G719C, G719D, G719S, D761N, D761Y, T790M, L858M/K/R, L858R, L861R, L861Q
+Clinically relevant deletions in Exon 19 and clinical relevant insertions in Exon 20
+KRAS	G12A, G12C, G12D, G12D/V, G12E, G12F, G121, G12L, G12N, G12R, G12S, G12V, G12W, G12Y, G13A, G13C, G13D/N, GI3R, G13S, G13V/I, A59T, Q61E, Q61H,Q61K, Q61L,Q61P,Q61R, A146G,A146P, A146T,A146V, A1465,
+K117E, K117N, K117R.
+BRAF	G469A, G469E, G469R, G469R/S, G469S, G469V, D594G, D594V, L597Q,
+L597R, L597S, L597V, V600D, V600E, V600K, V600L, V600M, V600R, K601E, K601N, K601del
+
+NRAS	GI2A, G12C/Y, G12D/E, G12R/P, G12S/N, GI2V, G13A, G13C/Y, GI3D, GI3R, G13S/N, GI3V, Q61E, Q61H, Q61K, Q61L, Q61P, Q61R,
+NRAS A146T, A146P, A146V, A146S, A146G, K117E, K117N, K117R
+KIT	W557R, W557G, V559D, V559A, V559G, L576P, K642E, K642Q, D816H, D816Y
+COMMENT:
+&amp;#8226;	Samples can contain a variable proportion of tumour cells to normal cells and there may also be tumour cell heterogeneity.  If tumour cells represent less than 20% of the cells analysed the sensitivity of the assay may be reduced.
+&amp;#8226;	All PCR based molecular diagnostic tests are subject to a low risk of non-amplification of one allele due to primer binding site DNA variants.  This can also lead to a false negative result.
+&amp;#8226;	The laboratory assumes an appropriate form of consent has been obtained.
+&amp;#8226;	This report should not be copied or reproduced, except in its entirety.
+SUMMARY
+NRAS G12D/E MUTATION IDENTIFIED.
+
+REPORTED BY:  A/Prof. Difrancisco A. Cooper (14/2/66)

@@ -1,0 +1,63 @@
+SPR no: 27W925583G
+MRN no: 9336960
+Site_name: OAKEY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report27W92558 (27W925583G) Caddigan, Jessie
+HISTOPATHOLOGY REPORT
+WEST WIMMERA HEALTH SERVICE - JEPARIT AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Neuroendocrine tumour, segment VII lesion, liver segment IVB, transverse colon, left diaphragm nodule, inferior mesenteric lymph node, peritoneum frozen section.
+
+MACROSCOPIC:
+A.  &amp;quot;PERITONEUM&amp;quot;.  A soft piece of tissue 20x10x5mm.  Two TS taken for frozen section.
+
+F/S:  &amp;quot;Fat and scanty fibrous tissue.  No evidence of malignancy&amp;quot;.  Result was phoned to Fellow at 1:05pm on 02/10/2067 by Dr. H. Weihl.
+
+(1  frozen; 2  remainder tissue).  AE (M-2).
+
+B.  &amp;quot;LIVER SEGMENT 4&amp;quot;.  A segment of liver containing a capsule 95x65mm with underlying tissue to a depth of 50mm.  It weighs totally 154g.  Soft tissue is attached towards one edge, measuring 70x35x30mm.  The resection margin is inked blue.  The specimen is serially sliced into 9 slices.  The cut surface reveals a multinodular lesion with tan white, haemorrhagic and possibly centrally necrotic cut surface measuring 90x50x50mm.  It is involving the overlying liver capsule and invading into the adjacent fatty tissue to involve the soft tissue and liver resection margins macroscopically. The adjacent liver is pale and possibly nodular.
+
+(1  LS peripheral edge; 2  slice 2 edge of lesion with normal liver; 3-8  full face of tumour with [3&amp;amp;4  including soft tissue involvement; 6 tumor block for tissue banking]; 9  tumour involving margin; 10  LS other peripheral edge).  RS (M-10).
+
+C.  &amp;quot;LIVER BIT OF 7&amp;quot;.  A resection of liver, 1.5g measuring 25x15mm with underlying tissue to a depth of 9mm.  The margins are inked blue.  The specimen is serially sliced into four slices.  The cut surface reveals a well demarcated cream-coloured nodule 7x4x4mm abutting the margin macroscopically.
+
+(1  LS of each peripheral edge; 2  two TS mid including nodule).  RS (4-2).
+
+D.  &amp;quot;TRANSVERSE COLON&amp;quot;.  A segment of large bowel 115x70mm with attached mesocolon up to 70mm, bearing an anastomosis line mid specimen 60mm of the nearest edge.  The outer surface has multiple ragged areas of adhesions.  No definite serosal deposits are identified.  The mucosal surfaces are smooth.  No polyps or tumours are seen.  Received within the same specimen jar, multiple fibrofatty pieces of tissue consistent with pieces of peritoneum 70x50x15mm in aggregate.  Most have firm tan to yellow cut surface.
+
+(1-3  colon [1  LS of each peripheral edge, 2  anastomosis, 3  ?four lymph nodes]; 4-6  representative separate nodules within specimen jar).  RS (M-6).
+
+E.  &amp;quot;LEFT DIAPHRAGM&amp;quot;.  A segment of peritoneum 45x25mm with underlying tissue to a depth of 20mm.  The resection margin is inked blue.  The specimen is serially sliced.  The cut surface reveals an ill-defined firm white to tan nodule, 20x20x15mm within 1mm of the resection margin.
+
+(1  LS of each peripheral edge; 2  one TS nodule).  RS (3-2).
+
+F.  &amp;quot;INFERIOR MESENTERIC LYMPH NODE&amp;quot;.  A fibrofatty piece of tissue 50x30x20mm.  Four possible lymph nodes are identified.  The largest measures 14x13x10mm and totally replaced by firm white and haemorrhagic deposit.
+
+(1  ?three lymph nodes; 2&amp;amp;3  largest lymph node serially sliced).  RS (M-3/ZH 7/10/2070 km).
+
+MICROSCOPIC:   (Dr. H. Wallentine)
+A. Sections show unremarkable fibrofatty tissue. There is no evidence of malignancy.
+
+B. Sections show well differentiated neuroendocrine tumour WHO grade 3  involving liver tissue. Lymphovascular invasion by the tumour is seen. The tumour extends through the liver capsule to involve fibrofatty tissue. Adjacent liver parenchyma shows a moderate macrovesicular steatosis but otherwise no significant abnormality. The tumour is seen to involve one of the surgical margins of resection.
+
+C. Sections show liver parenchyma with an area of fibrosis including SIR-spheres. Associated macrophages are also present. There is no evidence of malignancy.
+
+D. Sections through the transverse colon show an area of fibrosis in keeping with possible anastomosis site and otherwise no significant abnormality. A reactive lymph node is identified in the colon mesentery. Sections through the separately submitted nodules show deposits of well differentiated neuroendocrine tumour WHO grade 3.
+
+E&amp;amp;F. Sections show deposits of well differentiated neuroendocrine tumour WHO grade 3, some of which appears to be in vessels.  Some of the tumour cells are large in size with round nuclei, prominent eosinophilic nucleoli and plentiful eosinophilic cytoplasm.  The tumour has a mitotic rate of 28/10hpf.  Immunoperoxidase staining of the tumour cells shows positive staining with Cam5.2, CD56, chromogranin and synaptophysin.  Ki-67 shows a proliferative index of 27%. A reactive lymph node is also present in Specimen F.
+
+DIAGNOSIS:
+PERITONEUM:
+- NO SIGNIFICANT ABNORMALITY.
+LIVER SEGMENT 4:
+- METASTATIC WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR WHO GRADE 3.
+LIVER BIT OF 7:
+- FIBROSIS AND SIR-SPHERES.
+TRANSVERSE COLON:
+- NO TUMOUR SEEN IN TRANSVERSE COLON.
+- SEPARATE DETACHED DEPOSITS OF WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR WHO GRADE 3 INVOLVING PERITONEUM.
+LEFT DIAPHRAGM AND INFERIOR MESENTERIC LYMPH NODE:
+- DEPOSITS OF WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR WHO GRADE 3 SOME OF WHICH APPEAR TO BE INTRAVASCULAR.
+5/10/2067 cy

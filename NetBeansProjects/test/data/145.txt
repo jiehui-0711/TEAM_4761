@@ -1,0 +1,37 @@
+
+Episode No:  35D962754M
+3519627.OKM
+
+ALLEY, CRUZ NESTOR 
+Lab No:  35D96275
+Primett.,
+SHEPPARTON  Northern Territory  1125
+Specimen: Tissue
+D.O.B:  3/3/2040
+Sex:  F
+Collected: 20/2/2063 at :
+Location:  Med Onc - SPRINGWOOD HOSPITAL
+DR ESTHER IRENE BERARDI
+Distribution:  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+28 year old with stage 4B endometrial carcinoma.  Palliative hysterectomy and BSO done.  Uterus, tubes and ovaries.
+MACROSCOPIC:
+Specimen labelled "Uterus, cervix, bilateral tubes and ovaries" consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 240g in total.  The uterus measures 110 x 72 x 50mm.  The serosal surface is smooth and shiny anteriorly and has several fibrous adhesions posteriorly.  On sectioning the endometrium has a maximum thickness of 8mm over a total wall thickness of 30mm. The endometrium appears diffusely irregular ?tumour. The right fallopian tube measures 60mm in length with a maximum diameter of 13mm.  The right ovary measures 45 x 30 x 25mm.  The cut surface of the right ovary contains solid and cystic areas, the solid areas constitute approximately 50% of the volume and have a smooth cream cut surface.  The left fallopian tube measures 60mm in length with a maximum diameter of 8mm.  The left ovary measures 45 x 20 x 25mm.  The cut surface of the left ovary has a solid and cystic appearance, the solid areas constitute approximately 40% of the volume and have a smooth cream cut surface.
+Blocks:  1 to 5 - full LS through anterior body and cervix; 6 to 11 - full LS through posterior body and cervix; 12 to 13 - further representative anterior endometrium; 14 to 16 - furtherrepresentative posterior endometrium; 17 - two LS of the fimbrial end of the right fallopian tube; 18 - two representative TS right fallopian tube; 19 & 20 - representative right ovary; 21 & 22 - LS of the fimbrial end of the left fallopian tube; 23 - one TS left fallopian tube and one TS left ovary; 24 - representative TS left ovary.  (TO: KD; IU/rt 21.2.63)
+MICROSCOPIC (Reported by Dr I Roberto):
+Sections show an extensive grade 2 endometrioid adenocarcinoma of the endometrium.  The tumour has a maximum depth of invasion of 15mm through a wall 20mm thick.  A moderate amount of lymphvascular invasion is present.  There is a single focus of non-contiguous endocervical surface involvement but no definite cervical stromal involvement.
+Both ovaries and tubes show no significant abnormality.
+ 
+DIAGNOSIS:
+Grade 2 endometrioid adenocarcinoma of the endometrium, depth of invasion 15mm through a wall 20mm thick.  Focal endocervical surface involvement and moderate lymphvascular invasion present.
+ADDITIONAL REPORT 4/3/64:
+Immunoperoxidase stains for MSI proteins:
+ 
+MLH1:  Loss of nuclear staining
+PMS2:  Loss of nuclear staining 
+MSH2:  Preserved nuclear staining 
+MSH6:  Preserved nuclear staining
+Comment:  
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+The tumour is diffuselymoderately positive for ER and focally strongly positive for PR.
+

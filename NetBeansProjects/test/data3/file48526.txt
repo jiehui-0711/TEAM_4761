@@ -1,0 +1,131 @@
+SPR no: 24M617228O
+MRN no: 2446172
+Site_name: LEIGH CREEK HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+60 year old female with pancreatic tumour in tail of pancreas.
+Request information sheet received: No
+Radiology reports received:  No
+MACROSCOPIC:
+A.  Specimen labelled:
+Total pancreatectomy and splenectomy (sic)
+
+Specimen Type:
+Partial pancreatectomy, pancreatic tail
+
+Specimen dimensions:
+Size of and weight of spleen: 108 x 58 x 50mm.
+Size of pancreas:  80 x 42 x 33mm.
+Hilar/omental fat:  100 x 60 x 25mm.
+
+Orientation:
+Not provided.
+
+Tumour location:
+Pancreatic tail
+
+Tumour:
+Description:  Pale, poorly circumscribed tumour within the distal pancreas with adjacent cyst.
+Tumour Size:
+Greatest dimension:  30mm
+Additional dimensions:  26 x 22mm
+
+Distance of tumour to margins:
+Pancreatic neck:  30mm
+
+Distance of tumour to surfaces:
+Anterior:  2mm
+Posterior:  3mm
+
+Additional gross pathologic findings:
+The splenic parenchyma is unremarkable.
+Multiple lymph nodes are identified within the attached fat.
+
+Specimen inked:
+Anterior:  Blue.
+Posterior:  Black.
+Superior:  Red.
+Pancreatic neck margin:  Green.
+
+Blocks:  1 - 3mm shave pancreatic neck margin; 2 to 19 - slice 2 to 10 (proximal to distal), bisected over two blocks embedded from superior then inferior; 20 to 25 - slice 11 &amp;amp; 12 trisected; 26 to 29 - slice 13 &amp;amp; 14 bisected over two blocks; 30 &amp;amp; 31 - one lymph node per block bisected; 32 to 34 - nodes as seen; 35 - splenic parenchyma.
+
+B.  Specimen labelled &amp;#8220;SMA&amp;#8220;, consists of a lymph node measuring 15 x 10 x 5mm. BAE 1 block.
+
+C.  Specimen labelled &amp;#8220;Coeliac node&amp;#8220;, consists of multiple lymph nodes with attached fat measuring 45 x 35 x 7mm in aggregate.  Multiple lymph nodes are identified within the fat.
+Blocks 1 &amp;amp; 2 - one lymph node per block bisected; 3 - smaller nodes within fat; 4 - remaining tissue. AE.
+
+D.  Specimen labelled &amp;#8220;Common hepatic node&amp;#8220;, consists of a lymph node with attached fat measuring 30 x 17 x 15mm. Serially sliced, AE 2 blocks.
+
+E.  Specimen labelled &amp;#8220;Para-aortic node&amp;#8220;, consists of a lymph node with attached fat measuring 40 x 18 x 14mm.  Serially sliced, AE 2 blocks. (TO:AP/ec 6/10/67)
+
+
+MICROSCOPIC (Reported by Dr G Bruening):
+A.  Sections show well differentiated ductal adenocarcinoma, foamy gland type.  The tumour measures approximately 55mm across and extends almost the entire length of the pancreatic tail. Tumour focally extends into peripancreatic adipose tissue.  Six (6) of the twenty three (23) lymph nodes identified contain metastatic adenocarcinoma.
+
+B.  The single (1) lymph node identified contains a focus of metastatic adenocarcinoma.
+
+C.  The nine (9) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+D.  The single (1) lymph node identified show no significant abnormality.  There is no evidence of malignancy.
+
+E.  The single (1) lymph node identified show no significant abnormality.  There is no evidence of malignancy.
+
+The overall features are as follows:
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 1: Well differentiated (greater than 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Tail of pancreas
+
+Extent of tumour invasion
+Pancreas
+Peripancreatic soft tissues
+
+Maximum tumour diameter:  55mm
+
+Lymphovascular invasion
+Present
+
+Type of vessel
+Small vessel
+
+Perineural invasion
+Present
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not received
+
+Pre-invasive lesion
+Present
+
+Margins:
+Pancreatic neck: Less than 0.5mm (by perineural invasion)
+
+Surfaces:
+Anterior:  0.7mm
+Posterior:  1mm
+Superior:  3mm
+Inferior:  8mm
+
+Lymph nodes:
+Number found: 35 (Specimen A - 23, Specimen B - 1, Specimen C - 9, Specimen D - 1, Specimen E - 1)
+Number involved: 7 (Specimen A - 6, Specimen B - 1).
+
+Other pathologies:
+Speen shows no significant abnormality.
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (pT)
+T3 Tumour &amp;gt;4 cm in greatest dimension
+
+Regional lymph node category (pN)
+N2 Metastasis to four or more regional lymph nodes
+
+Distant metastasis category (pM)
+MX Not assessable by histology

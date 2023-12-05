@@ -1,0 +1,82 @@
+SPR no: 59O710386M
+MRN no: 59571038
+Site_name: NARRANDERA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pancreatic adenocarcinoma.  Metal biliary stent.  Neoadjuvant FOLFIRINOX chemo (5 cycles).  SMV involved at root of mesentery.  Whipples procedure with portal vein resection.  1 x prolene suture loosely opposing SMV/PV.  2 x prolene suture SMA margin.  3 x prolene suture uncinate process.
+
+
+MACROSCOPIC:
+Specimen unlabelled as to site or nature, consists of pancreatic duodenectomy with attached gallbladder and orientating sutures as described.  The duodenum has attached pyloric sphincter with a 10mm length of stomach with a width of 40mm.  The duodenum is 185mm in length with a diameter variable between 20 and 55mm.  55mm from the pyloric margin is a metal stent emerging from the ampulla of vater.  The specimen was received closed and in formalin. The mucosal surface appears unremarkable except for an area of ulceration opposite the site of stent exit at the ampulla of this area.  The ulceration measures 3 x 3mm with a depth of 2mm.  The remaining mucosa appears unremarkable.  Gallbladder is attached and measures 80 x 25 x 20mm and has a smooth shiny serosal surface.  The pancreas measures 55mm (superior to inferior) x 35mm (medial to lateral) x 15mm (anterior to posterior).  The portal vein, SMA and uncinate sutures are located.  Inking of specimen is as follows; blue - neck of pancreas, green - PV/SMV margin, black - SMA, blue - uncinate, red - anterior surface, yellow - posterior surface.  The stent present within the ampulla is adherent to surrounding tissue and infiltrated by tan fragile tumour and required dissection out.  The gallbladder wall thickness is up to 1mm with the mucosal surface green and velvety.  No polyps or stones are seen within the lumen.
+Blocks: 1 - LS pyloric margin; 2 - LS distal duodenal margin LS; 3 &amp;amp; 4 - neck of pancreas LS; 5 - cystic duct margin; 6 to 12 - pancreas serially sliced from superior to inferior (block 6 - anterior; 7 - posterior (paired blocks)); 13 - TS gallbladder neck; 14 - mid section TS gallbladder; 15 - LS fundus gallbladder; 15 - multiple lymph nodes; 16 - multiple lymph nodes; 17 - single ?lymph node; 18 - multiple ?lymph nodes from fat surrounding pancreas.
+(TO: MS; MS/ta 3/8/67)
+
+
+MICROSCOPIC (Reported by Dr. N Nares):
+
+SUMMARY PANCREATIC TUMOUR
+Size of tumour: 33mm (microscopic)
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Moderately to poorly differentiated
+Site of tumour
+Head of pancreas
+Extent of tumour invasion
+Wall of portal/superior mesenteric vein (9)
+Duodenal wall (10)
+Peripancreatic soft tissues (e.g. 10)
+
+Lymphovascular invasion:  Present (8)
+Type of vessel: Small vessel
+
+Perineural invasion: Present, within pancreas (8)
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified (tumour is seen between nerve bundles without perineural involvement)
+Preinvasive lesion
+Present
+
+Margins:
+Invasive tumour:
+Pancreatic neck:  &amp;gt; 10mm
+Common bile duct:  &amp;gt; 10mm
+Portal vein/superior mesenteric vein (excised vessel wall): &amp;lt; 0.1mm (10)
+Portal vein/superior mesenteric vein (soft tissue): 0.8mm (9)
+Superior mesenteric artery: 0.4mm (9)
+Periuncinate soft tissue: 0.2mm (11)
+Proximal (stomach):  &amp;gt; 50mm
+Distal (duodenal):  &amp;gt;50mm
+
+Carcinoma in situ/PanIN-3 at margin:  &amp;gt; 10mm
+
+Surfaces:
+Anterior: &amp;lt; 0.1mm (9)
+Posterior:  1.5mm (7)
+
+Lymph nodes:
+Number found: 27
+Number involved: 4
+
+Other pathologies:
+- Low grade dysplasia (PanIN 2) is seen in the pancreas.
+- Chronic pancreatitis is seen.
+
+Response to neoadjuvent therapy
+Grade 3 (poor response) - extensive residual cancer
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+Primary tumour category (pT)
+T3 Tumour extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+
+Distant metstasis category (pM)
+MX Not assessable by histology
+
+DIAGNOSIS
+Whipple resection post treatment:
+- 33mm moderately to poorly differentiated adenocarcinoma
+- Metastatic carcinoma present in 4 out of 27 lymph nodes

@@ -1,0 +1,53 @@
+SPR no: 10J768680V
+MRN no: 103768
+Site_name: PARKES DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report10J76868 (10J768680V) QUASHNOCK, MARCO
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Stage 1B(2) poorly diff SCC.  Uterus, tubes + ovaries.  Left pelvic nodes, right pelvic nodes.  R uterine artery.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. A uterus with attached cervix, bilateral tubes and ovaries weighing in total 315g.  The uterus measures up to 80mm medial to lateral, 120mm fundus to cervix and 50mm anterior to posterior. The cervix is completely replaced by tumour mass measuring 45mm in maximal extent. A rim of posterior and anterior and vaginal wall is present. Anterior margin inked blue, posterior black.  The left fallopian tube includes fimbrial end and measures up to 60mm in length and 10mm diameter. The left ovary measures up to 30x30x15mm of which a haemorrhagic cystic nodule is present 25mm in maximal extent.  The right fallopian tube measures up to 60mm in length including fimbrial end and 10mm diameter. The right ovary measures up to 25x15x10mm and has a pale firm ? fibroma on the surface measuring 15mm in maximal extent.  On sectioning the uterus the endometrium measures up to 3mm and the myometrium measures 27mm in maximal extent.  Fibroids are noted, the largest is mural and measures 45mm in maximal extent located at fundus. There is a subserosal fibroid distorting the contour of the anterior uterus which measures 17mm in maximal extent. The SCC measures in total dimension 45x45x30mm.  The tumour is pale and necrotic.  The vaginal wall macroscopically shows margins of at least 4mm.  On sectioning the tumour approaches the left lateral cervical margin (within 1mm).  On sectioning the left ovary the cystic area is filled with clot.  The ovaries are otherwise unremarkable on sectioning.  It weighs into total 315g.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3-6 LS cervix anterior to posterior; 7-9 anterior cervix with extension to lower uterine segment [notches inferior]; 10&amp;amp;11 paired right lateral cervical margin; 12 left lateral cervical margin; 13&amp;amp;14 representative endometrium; 15 representative largest fibroid; 16 RS/LS/TS right fallopian tube; 17 RS/TS right ovary; 18 RS/LS/TS including fimbrial end left tube; 19&amp;amp;20 RS/TS left ovary including haemorrhagic cystic area; 21 tumour reserve block). RS (M-21)
+
+B.  &amp;quot;RIGHT UTERINE ARTERY&amp;quot;.  An unorientated irregular piece of tissue measuring up to 40x10x8mm.  Staples removed.  No definite tumour identified.  External surface inked black and transversely sectioned.  On sectioning a tubular structure is noted presumed artery.  Specimen all embedded.
+
+(1 TS ends; 2&amp;amp;3 mid TS).  AE (M-3)
+
+C.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.  A single node 5mm.  AE (1-1)
+
+D.  &amp;quot;LEFT PELVIC NODE&amp;quot;. Multiple pieces of fatty tissue measuring in aggregate 10x10x10mm. Three possible nodes are identified, the largest measuring  10mm.  No tumour is identified.
+
+(1 two possible small nodes; 2 largest node sectioned; 3 remaining tissue with possible node). AE (M-3/EE/ank)
+
+MICROSCOPIC:   (Dr C Tkacik)
+A.  The sections show cervix in which there is moderately differentiated non keratinising squamous cell carcinoma. The tumour has a maximal diameter of 45mm (macroscopic measurement - stage 1b2) and invades 22mm in a cervical thickness of 26mm.  Lymphatic-vascular space invasion is identified.  Carcinoma is 5mm from the anterior cervical/vaginal cuff mucosal resection margin and is greater than 10mm from the posterior vaginal cuff mucosal surgical margin. Carcinoma within lymphatics is within 4mm of from the left cervical soft tissue margin.  Adjacent CIN 3 is identified.  In some areas there are multinucleated tumour cell. There is a prominent lymphoplasmacytic infiltrate including tumour infiltrating lymphocytes.  Sections of the parametria are unremarkable. No perineural invasion is identified.
+The endometrium has secretory phase appearance. Several benign leiomyomas are seen. The fallopian tubes are unremarkable.  There is a small benign fibroma of the right ovary and a haemorrhagic corpus luteum of the left ovary.
+
+Immunohistochemistry (block A5): There is positive staining for CAM5.2, AE1/AE3, CK5/6, p-16,  and p-40.
+
+B.  The sections show fibrofatty soft tissue including arteries and veins and with seven small reactive lymph nodes.  Negative for malignancy.
+
+C.  The section shows a lymph node with reactive changes.  Negative for malignancy.
+
+D.  The section shows one lymph node with reactive changes.  The remaining tissue consists of fibrofatty tissue.
+
+DIAGNOSIS:
+A.  CERVIX -
+-MODERATELY DIFFERENTIATED NON KERATINISING SQUAMOUS CELL CARCINOMA (stage 1B2).
+
+B.  RIGHT UTERINE ARTERY -
+-NEGATIVE FOR MALIGNANCY IN 7 LYMPH NODES.
+
+C.  RIGHT PELVIC LYMPH NODE -
+-NEGATIVE FOR MALIGNANCY.
+
+D.  LEFT PELVIC LYMPH NODE -
+-NEGATIVE FOR MALIGNANCY.
+
+29/9/2066 ank

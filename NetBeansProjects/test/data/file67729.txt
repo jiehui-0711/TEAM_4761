@@ -1,0 +1,21 @@
+SPR no: 68E593987G
+MRN no: 681593
+Site_name: SOUTH WEST HEALTHCARE - CAMPERDOWN
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Metastatic SCC R axilla (skin primary).
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Tumour and level I axilla&amp;quot;, consists of unoriented fatty tissue, 110 x 110 x 60mm and a separate fatty fragment, 50 x 40 x 10mm. The specimen is serially sliced into nine slices. There is a well circumscribed multilobulated lesion in slices two to eight, which appears to the margin, 90 x 50 x 70mm.  Blocks: 1 to 5 - LS from slice one; 6 &amp;amp; 7 - RS slice three, representing margins; 8 - RS slice four with possible lymph node; 9 &amp;amp; 10 - RS slice four, representing margin; 11 &amp;amp; 12 - RS slice five, representing margin; 13 &amp;amp; 14 - RS slice six, representing margin; 15 &amp;amp; 16 - LS from slice nine; 17 &amp;amp; 18 - lymph nodes as seen. See diagram.
+B.  Specimen labelled &amp;quot;Right axilla level II &amp;amp; III, suture marks level 3 &amp;quot;, consists of a fatty tissue, 80 x 40 x 15mm. A suture indicates level three. Blocks: 1 &amp;amp; 2 - lymph node as seen from level two; 3 to 5 - lymph node as seen from level three.
+C.  Specimen labelled &amp;quot;Level III right axilla&amp;quot;, consists of a fatty tissue, 10 x 10 x 5mm. No obvious lymph nodes are seen.  AE 1 block.  (TO:DN/ta 19/5/71)
+MICROSCOPIC (Reported by Dr Q Ting):
+A.  Sections show a metastatic malignancy within adipose tissue, with no definite surrounding lymph node architecture.  The cells have an epithelioid to spindle appearance and are arranged in an alveolar-like pattern with intervening stromal mucin.  The cells have a squamoid appearance with brightly eosinophilic cytoplasm.  There is moderate to severe nuclear pleomorphism and numerous mitotic figures are seen.  The tumour has a similar morphology to the previous right chest wall malignancy, diagnosed as poorly differentiated squamous cell carcinoma (68E59398).  Repeat cytokeratin staining with panCK, p40, CK5/6 and AE1/3 has been performed for comparison however, no staining is identified.  It is noted that the previous tumour shows patchy negative staining with cytokeratins, probably representing dedifferentiation.  Sox10 is negative.  The features are favoured to represent metastatic poorly differentiated/dedifferentiated squamous cell carcinoma.  The carcinoma focally involves the surgical resection margin.  An additional nine (9) negative lymph nodes are present, some of which show a histiocytic reaction.
+B.  The thirteen (13) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+C.  No lymph nodes are identified.
+DIAGNOSIS:
+A.  Level I axilla:
+- Metastatic poorly differentiated/dedifferentiated squamous cell carcinoma, margin involved
+- 9 negative lymph nodes
+B.  Right axilla level II and III:  13 negative lymph nodes
+C.  Level III right axilla:  No lymph nodes identified

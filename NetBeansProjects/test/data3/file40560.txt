@@ -1,0 +1,36 @@
+SPR no: 66X825818G
+MRN no: 9851877
+Site_name: DELORAINE DISTRICT HOSPITAL AND COMMUNITY HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report66X82581 (66X825818G) CHARTIER, REID Garret MARIA
+HISTOPATHOLOGY REPORT
+MARYBOROUGH HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Mesenteric lymph node fresh frozen section.  Redo peritonectomy + HIPEC for mucinous appendiceal adenocarcinoma
+Keloid scar, peritoneal disease.
+
+MACROSCOPIC:
+A.  &amp;quot;MESENTERIC LYMPH NODE&amp;quot;.  One firm 10mm lymph node.  One TS for frozen section.
+
+Frozen section result:  &amp;quot;No evidence of metastatic malignancy&amp;quot;.  Result to Dr Oliver (Registrar) at 10am, Q Arriola.  (Portion triaged for flow)
+
+(1 frozen section;  2 remainder of lymph node; 3 remainder of tissue).  AE (M-3)
+
+B.  &amp;quot;KELOID SCAR&amp;quot;.  Irregular fibrofatty tissue with overlying skin 25x15x10mm.  The outer surface inked blue, serially sliced.
+
+(1 three LS from one end; 2 three TS from middle; 3 two LS from other end).  AE (M-3)
+
+C.  &amp;quot;PERITONEAL DISEASE&amp;quot;   A circumscribed fibrofatty nodule 25x20x15mm.  The outer surface inked blue.  Sectioning shows cystic wall with 1mm lining filled with mucin. AE (M-3/SM 2/5/2068 nh)
+
+MICROSCOPIC: (Dr Q Swab)
+A.  The sections show lymph node with reactive changes.  Negative for malignancy.
+B.  The sections show skin with underlying dermis and subcutaneous tissue. The epidermis is unremarkable.  In the dermis, there is prominent fibroblastic reaction and collagen consistent with hypertrophic scar/keloid.
+C.  The sections show fatty tissue in which there is a cystic space lined by dense collagenised fibrous connective tissue wall and with a lining of columnar mucinous epithelium that in several areas shows multilayering and tufting. There is generally low grade nuclear cytology.
+Comment : The appearances of specimen C are consistent with a low grade mucinous tumour including recurrent mucinous appendiceal tumour.  Correlation with previous pathology is recommended.
+DIAGNOSIS:
+A.  MESENTERIC LYMPH NODE - NEGATIVE FOR MALIGNANCY.
+B.  SKIN - KELOID SCAR.
+C.  PERITONEAL DISEASE - LOW GRADE MUCINOUS TUMOUR - SEE TEXT.
+3/5/2068 ank

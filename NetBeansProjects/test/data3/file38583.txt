@@ -1,0 +1,90 @@
+SPR no: 58E081701H
+MRN no: 10621183
+Site_name: BALMAIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report58E08170 (58E081701H) DUST, LOWELL JEWEL
+HISTOPATHOLOGY REPORT
+BASS COAST REGIONAL HEALTH AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Mucinous appendiceal ca, spleen, gallbladder, right hemicolectomy, peritoneum, omentum.
+
+MACROSCOPIC:
+&amp;quot;GALLBLADDER, OMENTUM, RIGHT COLON, SPLEEN, BILATERAL DIAPHRAGM&amp;quot;.  Received in one specimen jar, multiple tissue fragments including a gallbladder 75x30mm.  The outer surface is covered by mucinous deposits of 30x10mm.  The wall is up to 3mm thick.  The mucosal surfaces are green and granular.  No calculi are identified.
+
+(1  cystic duct and TS neck; 2  TS body and LS fundus).
+
+A spleen, 107g, 105x75x35mm attached to a fibrofatty piece of tissue consistent with omentum measuring 275x165x50mm.  The omentum has a confluent involvement by overlying mucinous deposit covering more than 90% of the surface area.  The spleen has multiple mucinous deposits.  The largest measures 30x20mm.  It has mucinous cut surface invading into the splenic parenchyma.  The remainder spleen tissue is red and unremarkable.
+
+(3&amp;amp;4  splenic surface involvement; 5  spleen at hilum; 6-8  omentum).
+
+Multiple fibrofatty pieces of tissue consistent with peritoneum and diaphragmatic strips with confluent involvement by multiple mucinous surface deposits.  They measure 210x185x40mm.
+
+(9-11  representative with block 11 tumour block for tissue banking).
+
+A right hemicolectomy specimen consists of a terminal ileum 165x30mm, caecum and part of ascending colon 90x50mm.  Mesentery and mesocolon are attached along the specimen to a maximum width of 35mm.  There is an appendix measuring 55 and is dilated up to 15mm.  A fibrofatty tissue consistent with peritoneal strip is identified 125x60x5mm.  There is extensive mucinous deposit identified on the serosal surfaces including the wall of the terminal ileum, mesentery of ileum, surface of appendix with forming a mass on the appendix tip measuring 20x20x10mm.  It also involves the peritoneal strip and the wall of caecum.  The cut surface through the appendix reveals dilated lumen up to 12mm with compressed mucosa and adjacent mucinous deposit within the mesoappendix.  The remainder mucosa is unremarkable.  No polyps are identified.
+
+(12  proximal and distal resection margin; 13  LS appendiceal orifice; 14  two TS base; 15  two TS; 16-20  each one TS towards the distal end; 21  tip two LS and one TS; 22  apical lymph node bisected; 23  ?three pedunculus; 24&amp;amp;25  each five lymph nodes).  RS (M-25/ZH 23/10/2067 km).
+
+MICROSCOPIC:  (Dr P Bugtong)
+Sections show low grade mucinous neoplasm of the distal appendix with disseminated peritoneal involvement. The involved organs include the spleen, gallbladder, omentum peritoneum an diaphragm. See synoptic report.
+
+APPENDIX MUCINOUS NEOPLASM SYNOPTIC REPORT
+(Based on CAP 2017 guidelines)
+
+PROCEDURE: Appendectomy and right colectomy
+Other: Peritonectomy, splenectomy, omentectomy, cholecystectomy
+
+TUMOR SITE: Distal half of appendix
+
+TUMOR SIZE: Greatest dimension: 20 mm
+
+HISTOLOGIC TYPE: Low-grade appendiceal mucinous neoplasm (LAMN)
+
+HISTOLOGIC GRADE: G1: Well differentiated
+
+TUMOR EXTENSION:
+Tumor invades the visceral peritoneum (serosa).
+Tumor directly invades adjacent organs or structures:
+
+LYMPHOVASCULAR INVASION: Not identified
+
+TUMOR DEPOSITS (periappendiceal fat or mesoappendix): Present, extensive
+
+PERINEURAL INVASION: Not identified
+
+MARGINS: Low grade mucinous neoplasm is clear of the base of the appendix and well clear of the proximal and distal right hemicolectomy margins.
+
+REGIONAL LYMPH NODES: Not involved
+Number of lymph nodes involved: 0
+Number of lymph nodes examined: 9
+
+DISTANT METASTASES (histologically confirmed): Peritoneal mucinous disease is present (stage IV disease).
+- Sites of peritoneal mucinous disease:
+Omentum
+Peritoneum
+Spleen
+Other: Gallbladder, diaphragm
+
+HISTOLOGIC TYPE OF PERITONEAL MUCINOUS DISEASE:
+Low grade appendiceal mucinous neoplasm (LAMN) (G1, well differentiated), with peritoneal involvement.
+
+DISTANT METASTASES OTHER THAN PERITONEUM (histologically confirmed): Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS: None identified
+
+ANCILLARY STUDIES: Not performed
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT4b, pN0, M1b
+
+COMMENT(S):
+Equivalent PSOGI (2015) terminology: Low grade mucinous carcinoma peritonei
+Equivalent Ronnett  terminology: DPAM (disseminated peritoneal adenomucinosis)
+
+DIAGNOSIS:
+RIGHT HEMICOLECTOMY, GALLBLADDER, OMENTUM, PERITONEUM SPLEEN
+- LOW GRADE MUCINOUS NEOPLASM OF THE APPENDIX WITH DISSEMINATED PERITONEAL INVOLVEMENT.
+- INVOLVED ORGANS INCLUDE THE SPLEEN, GALLBLADDER, OMENTUM, PERITONEUM AND DIAPHRAGM
+
+26/10/70 ld

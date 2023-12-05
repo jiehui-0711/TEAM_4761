@@ -1,0 +1,58 @@
+SPR no: 16D166825A
+MRN no: 1611668
+Site_name: KELLERBERRIN MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  16D166825A
+1611668.HOA
+
+LAWMAN, RONNY KAY
+Lab No:  16D16682
+Garsdale
+BLAYNEY  VIC  3133
+Specimen: Tissue
+D.O.B:  11/12/1977
+Sex:  F
+Collected: 01/04/2016 at 12:57
+Location:  BRIGHAM & WOMEN'S HOSPITAL-SPRINGSURE HOSPITAL
+DR RAYMUNDO SEAN DYCHES
+Distribution:
+CLINICAL:
+E/O mass left groin.  Core biopsy ?myxoid sarcoma.  Nerve going into mass (muscular branch of femoral nerve) ?schwannoma but atypical given involving both rectus femoris and vastus medialis.  Mass excised with cuff of normasl muscle (vastus medialis and rectus femoris).  Marking sutures: short superior/ long lateral / double deep).  Htn.  Chronic pain both shoulders.  Macular degeneration.
+Received fresh, Discussed with Ziesemer and no tissue sampled for cytogenetics as the tissue was falling apart.  Cutting the tissue would compromise the orientation of the specimen.  LM 3.6.66
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left groin mass short superior long lateral double deep&amp;quot;, consists of an irregularly shaped piece of tan brown tissue with muscle measuring 70mm superior to inferior, 55mm superficial to deep and 48mm medial to lateral.  On the lateral portion of the specimen there is a defect and is inked yellow.  There are three sutures in place.  The superficial margin is inked blue, medial margin is inked green, lateral margin is inked red and the deep margin is inked black.  The specimen has been sliced into nine slices from superior to inferior.  The cut surface shows an ill-defined lobulated lesion measuring 60 x 30 x 20mm.  The lesion abuts the posterior margin, lies 6mm from the anterior margin/superficial margin, 8mm from medial margin, abuts superior margin.  Some parts of the lesion appear cystic.  The uninvolved tissue is unremarkable.
+Blocks: 1 to 6 &amp;#8211; slice one (superior margin); 7 to 16 &amp;#8211;full profile (7 to 10 &amp;#8211; slice two full profile; 11 to 16 &amp;#8211; full profile of lesion (slice five); 17 to 25 &amp;#8211; slice nine (inferior margin);:26 to 27 &amp;#8211; outer surface deep margin; 28 to 32 &amp;#8211; RS  of medial margin with cystic degenerative areas; 33 and 34 &amp;#8211; RS of superior margin; 35 and 36 &amp;#8211; RS of the medial margin.  (TO: LM;LM/vo 6.6.66)
+MICROSCOPIC (Reported by A/Prof MICHALE SEBA and Dr E E Serratore):
+The sections of skeletal muscle and adipose tissue show a spindle cell neoplasm with a pushing and focally infiltrative edge. The tumour is composed of mild to moderately cellular areas with a prominent myxoid background.
+The tumour cells are spindled and arranged haphazardly. The cells have bland oval, slender, wavy and occasionally hyperchromatic nuclei.
+Mitoses are inconspicuous. Scattered thin walled capillaries are present.
+No necrosis or areas of hypercellular de-dfifferentiation are seen.
+No lipoblasts are identified. No heterologous elements are identified.
+No lymph-vascular invasion or peri neural invasion is seen.
+Alcian Blue staining highlights the background myxoid stroma.
+The tumour appears encased by skeletal muscle and adipose tissue. There are focal extensions of tumour between muscle bundles, noted in the sections taken from the superior end of the specimen and the margin in this area is close  and possibly focally involved (Block 5). The next closest margins are deep at a distance of 0.2mm (block 14), lateral at a distance of 1mm and medial at a distance of 1.5mm.
+The immunohistochemical profile shows positive staining of tumour cells for vimentin. The tumour cells are negative with AE1/AE3, beta catenin, CD34 (positive on vessels) and S100. MUC 4 staining was performed at RPAH and is negative, which would favour exclusion of low grade fibromyxoid sarcoma.
+Comment: The overall histological features and immune-profile are consistent with  the diagnosis of an intramuscular myxoma.
+DIAGNOSIS:
+LEFT GROIN: SPINDLE CELL NEOPLASM WITH FEATURES CONSISTENT WITH INTRAMUSCULAR MYXOMA.
+
+CONSULTATION/REVIEW REPORT:  JULIUS LUBBERS
+MILLICENT AND DISTRICT HOSPITAL AND HEALTH SERVICES Hospital  15/6/66
+
+CLINICAL DETAILS:
+Request for special stain MUC4
+
+NATURE OF SITE OF SPECIMEN:
+16D16682.  USS x 3.  Return slides.
+
+TEST REQUESTED:
+MUC4.
+
+MICROSCOPIC REPORT:
+Immunohistochemistry for MUC4 performed.  Please see slides as requested.
+
+SUMMARY:
+Special stain.
+
+REPORTED BY :  ASHTONJACK SMALT.  16/6/66  (ta)

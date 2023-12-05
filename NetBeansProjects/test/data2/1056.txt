@@ -1,0 +1,54 @@
+Episode No:  82Q146566P
+826146.NPR
+
+Lahmers, Evan MOSE 
+Lab No:  82Q14656
+Irondale
+THIRLMERE    3494
+Specimen: Tissue
+D.O.B:  17/7/2004
+Sex:  M
+Collected: 6/11/2063 at :
+Location:  105 HAMRUN CIRCUIT-EDENHOPE AND DISTRICT MEMORIAL HOSPITAL
+DR Brent CARSON DALBA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+?Fibrosarcoma of (L) flank/abdominal wall.
+MACROSCOPIC:
+A.  Specimen labelled "Sarcoma back" consists of a fresh mass of fibrofatty tissue 100mm (anterior-posterior) x95mm (superior-inferior) x 40mm (medial-lateral) with sutures as marked.  There is a solid nodular white mass in the deep subcutis/muscle.  A piece of tissue is divided for Cytogenetics as EXMOUTH HOSPITAL's Hospital and for tumour banking, rest in formalin.  The specimen is inked as follows: superior - blue, lateral - green, medial - red, inferior - black and iliac crest - purple.  The cut surface of the tumour shows a firm heterogeneous white surface with areas of haemorrhage but no necrosis.  The nodule is seen to arise within muscle.  One area abuts the fascia on the lateral side.  The tumour mass measures 60mm in maximum dimension (60 x 29 x 26mm).  The tumour is 5mm from the lateral margin, 5mm from the iliac crest, 5mm from the superior margin, 40mm from the inferior margin, 4mm from the medial margin and 38mm from the posterior margin.  Representative sections in thirteen blocks.
+Blocks:  1 to 6 - full face of tumour and surrounding muscle and subcutaneous tissue; 7 - iliac crest margin and tumour; 8 - posterior margin free of tumour; 9 to 13 - representative sections of tumour (block 10 - reserved for tumour bank).  
+B.  Specimen labelled "New iliac crest margin, stitch at margin" consists of a piece of grey-brown muscle with attached fibrofatty tissue measuring 30 x 26 x 10mm.  There is a suture at one end as specified.  The sutured margin is inked black.  AE three blocks.    (SM/cc  6/12/63) 
+ 
+MICROSCOPIC (Reportedby Dr W Quaranto): 
+A. Sections show a 60mm sclerosing epithelioid fibrosarcoma, surrounded by a cuff of skeletal muscle and fat.
+The lesion is composed of nests, strands and acini of small to medium-sized epithelial cells with scant eosinophilic cytoplasm and angulated nuclei.  There are up to 5 mitoses per 10 hpf. The tumour cells are surrounded by lace-like collagenous matrix. Extensive sclerosis and focal coagulative necrosis are present in (A9). 
+The tumour cells are positive for vimentin. Ki67 index is focally up to 30%. CAM5.2, AE1/3, panCK, S100, Melan A, CD34, desmin and SMA are negative.
+The majority of the lesion is well circumscribed. Focal infiltrative growth into fat is seen (A10).
+There is no evidence of vascular invasion.
+Margins:
+Iliac crest(anterior): 4mm (A7)
+Medial: 5mm
+Lateral: 8mm
+Other margins: > 15mm
+FNCLCC Grade:
+Tumour differentiation:  2 (sarcoma for which histologic type in certain)
+Mitosis count:  1 (5 mitoses per 10 hpf)
+Tumour necrosis:   1 (< 50% necrosis)
+Histologic grade:  2  (Total score 4)
+B. Sections show fat and skeletal muscle with no evidence of malignancy.
+DIAGNOSIS:
+A. Left flank lesion: Sclerosing epithelioid fibrosarcoma, margins clear
+B. New iliac crest margin:no evidence of malignancy
+ADDITIONAL REPORT:  (28.6.63)
+
+CYTOGENETICS REPORT, YARRAWONGA HEALTH'S HOSPITAL.  
+Reported by W Vasso.  Validated by Dr W. Densley.  
+
+"Analysis.
+Cells analysed (GTW banding):		6
+Band Resolution Level:			<300-300
+Karyotype:
+46,Xy[5]
+Comment:
+No cytogenetic abnormality detected in the5 metaphases available for analysis.  This is unlikely to represent the tumour cell population, and is an insufficient number of cells for a complete analysis.  Please correlate with other findings and contact the laboratory if FISH would be useful in this case".  
+

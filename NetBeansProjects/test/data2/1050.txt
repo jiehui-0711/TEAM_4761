@@ -1,0 +1,45 @@
+Episode No:  29W851517K
+2988515.ETK
+
+NERPIO, Clotilde 
+Lab No:  29W85151,29W85151
+ZOo
+CORINDA  New South Wales  6440
+Specimen: Fluid,Tissue.O.B:  5/11/2017
+Sex:  F
+Collected: 11/07/2012 at 17:17
+Location:  L7 CONSULTING ROOMS - LAVERTON HOSPITAL
+DR GREGORIO Enick
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (26.9.62):
+
+
+CLINICAL:
+Mucinous adenocarcinoma of left ovary (previously removed).  Staging procedure today.  
+MACROSCOPIC:
+A.  Specimen labelled "Right tube ovary uterus and cervix" consists of a uterus with a  right fallopian tube, ovary and cervix attached.   The specimen weighs 108g and the uterus measures 85 x 50 x 40mm.  The serosal surface is shiny and smooth.  The cervix measures 30 x 30mm.  The cervical mucosa is shiny and smooth.  On sectioning and in the endometrial cavity there is a fungating and exophytic lesion measuring 25 x 15mm.  The endometrium measures 12mm in maximum thickness and the myometrium measures 17mm in thickness at the level of the tumour and up to 21mm away from the tumour.  On sectioning the myometrium is unremarkable.  The fallopian tube measures 45 x 5 x 5mm.  Macroscopically it is unremarkable.  The fimbria is present and the ovary measures 30 x 20 x 20mm.  The external surface is covered by blood clot.  On sectioning of the ovary there is a haemorrhagic cyst measuring up to 20mm in maximum diameter.  
+Blocks: 1 to 4 - one full LS of anterior body and cervix; 5 & 6 - two full sections of anterior endomyometrium; 7 to 11 - one full LS of posterior body and cervix; 12 & 13 - two full sections of posterior endomyometrium; 14 - tumour for tissue bank; 15 - right parametrial tissue; 16 - left parametrial tissue; 17 - two LS right fimbria; 18 - one TS fallopian tube and one representative section of the ovary; 19 - one representative section of the ovary.
+B.  Specimen labelled "Gastro epiploic lymph node" consists of a small lymph node 6 x 5 x 4mm.  AE 1 block.  
+C.  Specimen labelled "Appendix" consists of an appendix measuring 35 x 5 x 6mm.  The external surface is unremarkable.  The specimen is AE as follows:
+Blocks: 1 - two LS and one TS proximal appendix; 2 - one TS mid appendix; 3 - two LS one TS distal appendix.
+D.  Specimen labelled "Omentum" consists of a piece of omentum 250 x 120 x 5mm.  On sectioning it is unremarkable.  Three representative sections in 3 blocks.  
+(QU/ta  14/9/62) 
+MICROSCOPIC (reported by Dr G Artale):
+A.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  Focal mucinous differentiation is present.  Early myometrial invasion is present measuring approximately 1mm through a wall 13mm thick.  No lymphvascular invasion is seen.  There is non-contiguous upper endocervical surface involvement anteriorly.  No cervical stromalinvolvement is seen. 
+The right ovary and tube show no significant abnormality.
+B.  One lymph node shows no evidence of malignancy.
+C.  The appendix shows no evidence of malignancy.
+D.  The omentum shows no evidence of malignancy.  
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium, maximum depth of invasion 1mm through a wall 13mm thick.  No lymphvascular invasion.  Upper endocervical surface involvement present.  One lymph node and the omentum are negative.
+SUPPLEMENTARY REPORT (26.9.62, Dr G Simonetti):
+A.  Immunostains for mismatch repair proteins have been performed as requested.
+MLH1   Preserved nuclear staining 
+PMS   Preserved nuclear staining
+MSH2  Loss of nuclear staining
+MSH6  Loss of nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+
+

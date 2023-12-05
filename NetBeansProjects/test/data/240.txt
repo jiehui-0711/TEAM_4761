@@ -1,0 +1,66 @@
+
+Episode No:  83B314334Y
+830314.IIM
+
+SHACKLEFORD, IRAIDA 
+Lab No:  83B31433
+Emert
+SEVEN MILE BEACH  Australian Capital Territory  5303
+Specimen: Tissue
+D.O.B:  23/4/1986
+Sex:  F
+Collected: 25/11/2063 at :
+Location:  Molecular Oncology Unit-RURAL NORTHWEST HEALTH - WARRACKNABEAL CAMPUS
+DR CHUCK SHANTE NETH
+Distribution:   FILE-COPY, DR Bozzo,   NSW-CANCER-REGISTRY
+CLINICAL:
+Ascending colon cancer.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a right hemicolectomy comprised of terminal ileum 50mm in length and up to 20mm in maximum diameter and caecum and ascending colon measuring 100mm in length and up to 50mm in maximum diameter.  The serosal surface is unremarkable.  The appendix is not present.  On sectioning and close to the ileocaecal valve there is an almost circumferential tumour measuring 25mm from proximal to distal.  It is located 70mm from the proximal margin and 60mm from the distal margin.  On sectioning the tumour has a maximum thickness of 7mm and macroscopically infiltrates through the colonic wall up to the pericolic fat.  15mm from the main tumour there is a large polyp 15 x 10mm it is well clear from the surgicalmargins. The rest of the mucosa is unremarkable.
+Blocks:  1 - proximal and distal margin; 2 to 5 - tumour; 6 - tumour; 7 & 8 - polyp; 9 - apical node; 10 to 14 - lymph nodes.
+(WV/bl 25/11/63)
+MICROSCOPIC (reported by Dr W Penuel):
+Sections show moderate to poorly differentiated adenocarcinoma of the caecum.  These features are as follows:
+Macroscopic Description
+
+Site of tumour:  Caecum. 
+Maximum tumour diameter:  25mm
+Distanceof tumour to nearer cut end:  60mm (distal).
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate to poor
+Local invasion
+pT3  -  Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Lymph nodes
+Number of lymph nodes present:  23
+Number of lymph nodes involved:   0
+pN0 - No regional LN metastasis
+Lymphovascular invasion
+Absent.
+Perineural invasion
+Absent
+Histologicallyconfirmed distant metastases
+pMX -Cannot be assessed histologically
+Background abnormalities/other comments
+Possible sessile serrated adenoma.  
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3  pN0  pMX  R0
+

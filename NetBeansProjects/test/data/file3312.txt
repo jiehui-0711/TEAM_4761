@@ -1,0 +1,71 @@
+SPR no: 60Y641490F
+MRN no: 6096414
+Site_name: QUILPIE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  60Y641490F
+6096414.XBF
+
+MUCKEL, DWAIN
+Lab No:  60Y64149
+Glen Haven
+BAY VIEW  Australian Capital Territory  3300
+Specimen: Tissue
+D.O.B:  6/8/1988
+Sex:  M
+Collected: 20/1/2065 at :
+Location:  Pathology West-MILTON ULLADULLA HOSPITAL
+DR AMOS WELDON TARGETT
+Distribution:    NSW-CANCER-REGISTRY, DR MERVIN
+*** SUPPLEMENTARY REPORT &amp;#8211; Cytogenetics Report (13.2.2065) ***
+
+CLINICAL:
+Sarcoma (abdominal).  Suture is antero-superior.  Area inferior to this is off bladder wall.  For histopathology and cytogenetics.  Left orchidectomy with cord resection.
+Specimen A received fresh with orientation provided by the Surgical Intern.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Abdominal sarcoma&amp;#8221; consists of a solid mass with an orientating suture indicating antero-superior.  The tumour is 170mm (superior to inferior) x 140mm (medial to lateral) x 130mm (anterior to posterior).  The specimen weighs 1436g.  At the superior aspect of the tumour, adjacent to the orienting suture, there is attached adipose tissue, 65 x 35 x 15mm.  Over the inferior portion of the anterior surface is a roughened area, 60 x 50mm, corresponding to the area of the tumour adjacent to the bladder wall.  The remainder of the surface of the tumour appears smooth and intact.  The tumour margin adjacent to the bladder wall is inked blue.  The remainder of the anterior margin is inked black, posterior margin green, and superior margin red.  The specimen is serially sectioned from superior to inferior into eight slices.  Slice one (superior) was subsequently sectioned in the sagittal plane from left to right into ten slices.  The area adjacent to the bladder wall is present in slices three to six.  Overall the cut surfaces have a gelatinous and fleshy tan appearance.  Within slices three to five is a central firm grey and haemorrhagic area, 40mm across, occupying less than &amp;lt;5% of the tumour.
+Blocks: 1 to 7 &amp;#8211; slice one superior margin (1 &amp;#8211; left side; 2 &amp;amp; 3 &amp;#8211; includes adjacent adipose tissue; 4 &amp;amp; 5 &amp;#8211; paired sections, includes adjacent adipose tissue; 6 &amp;#8211; haemorrhagic area; 7 &amp;#8211; right side); 8 &amp;amp; 9 &amp;#8211; slice two; 10 &amp;amp; 11 &amp;#8211; bladder margin slice three; 12 &amp;#8211; posterior margin slice three; 13 &amp;amp; 14 &amp;#8211; haemorrhagic area slice three; 15 &amp;#8211; haemorrhagic area slice four; 16 &amp;amp; 17 &amp;#8211; bladder margin slice four; 18 &amp;#8211; right lateral margin slice four; 19 &amp;amp; 20 &amp;#8211; bladder margin slice five; 21 &amp;#8211; posterior margin slice five; 22 to 24 &amp;#8211; haemorrhagic area slice five; 25 &amp;#8211; bladder margin slice six; 26 &amp;#8211; left lateral margin slice six; 27 &amp;#8211; right lateral margin slice six; 28 &amp;#8211; central tumour slice six; 29 &amp;#8211; posterior margin slice seven; 30 &amp;#8211; left lateral margin slice seven; 31 to 33 &amp;#8211; slice eight inferior margin.  Specimen photographs taken.  Please see block diagram.  Tumour sampled fresh for Cytogenetics and tumour banking.  (TO: KT; KT/ta)
+
+B.  Specimen labelled &amp;quot;Left testicle and cord&amp;quot; consists of a testicle, 60 x 45 x 35mm, with attached spermatic cord, 85mm in length and 15mm across.  Midway along the spermatic cord is an attached solid mass, 70 x 50 x 55mm.  The specimen weighs 144g in total.  The tunica overlying the testis is smooth and intact, with a small amount of serous fluid between the layers of the tunica.  The testis is 35 x 35 x 25mm and appears normal.  The epididymis is 45 x 10 x 10mm.  The external surface of the spermatic cord mass appears smooth and intact.  The mass is well clear of the spermatic cord margin.  The cut surface of the spermatic cord mass has a multinodular pale yellow appearance.  Some of the nodules have a firmer consistency, affecting approximately 40% of cut surfaces.  No definite haemorrhage or necrosis is identified.  The external surface of the mass is inked black.
+Blocks:  1 - spermatic cord margin shave TS; 2 - TS spermatic cord adjacent to mass; 3 - spermatic cord adjacent to testis; 4 - testis and epididymis; 5 - superior part of testis; 6 - testicular hilum; 7 to 11 - firmer areas of tumour; 12 to 14 &amp;#8211; pale yellow areas of tumour.  Specimen photograph taken.  (TO: KT:  KT/mm 21.1.65)
+MICROSCOPIC (Reported by Dr Z Cavallario):
+A.  The sections of the abdominal mass show a 170mm well-differentiated liposarcoma with a mixture of inflammatory and sclerosing morphology.  The majority of the tumour appears surrounded by a thin band of fibrous tissue.  Sclerotic fibrous septae extend through the tumour imparting a vague multinodular appearance.  The tumour contains prominent myxoid stroma with a lymphoplasmacytic inflammatory infiltrate and scattered thin-walled blood vessels.  The tumour is generally hypocellular and shows atypical spindled to stellate cells embedded within myxoid stroma and bands of fibrous tissue.  These cells have enlarged hyperchromatic nuclei with occasional multinucleated forms.  Up to 2 mitoses per 10 HPF are identified.  The haemorrhagic areas noted macroscopically may correspond to the core biopsy site, and shows a slight increase in cellularity, aggregates of neutrophils and a small organising thrombus.  The tumour has been extensively sampled and no dedifferentiated component is identified.  No established tumour necrosis is seen.  No convincing lipoblasts are identified.
+In the area identified as off the bladder wall there is a disc of adherent smooth muscle, consistent with detrusor muscle.  The tumour abuts the detrusor muscle over a broad front, however no definite detrusor muscle invasion is seen.  The tumour is clear of the inked bladder wall margin, however focally involves all other margins.  Within the inferior aspect of the tumour, there is a segment of entrapped vas deferens.
+B.  The sections of the 70mm spermatic cord mass show a well-differentiated liposarcoma with a mixture of inflammatory, sclerosing and lipoma-like morphology.  The tumour has areas composed of variably sized adipocytes with rare lipoblasts.  Other areas contain a dense lymphoplasmacytic inflammatory infiltrate and areas of sclerotic fibrous tissue with scattered enlarged atypical hyperchromatic nuclei.  Mitoses are not readily identifiable.  No tumour necrosis is seen.  No dedifferentiated component is identified.
+The main tumour mass extends to the inked surgical margin.  Atypical tumour cells are also seen extending throughout the length of the spermatic cord, as well as insidiously infiltrating into the epididymis, efferent ductules and tunica albuginea.
+An incidental appendix epididymis is seen.  The testicular parenchyma shows no significant abnormality.
+Representative sections seen with Dr Z Keasey.
+
+
+DIAGNOSIS:
+A &amp;amp; B.  Abdominal sarcoma, left testicle and spermatic cord:
+-  Well-differentiated liposarcoma.
+-  No dedifferentiated component identified.
+-  Margins involved.
+SUPPLEMENTARY REPORT (13.2.2065)
+
+CYTOGENETICS REPORT &amp;#8211; DANIEL ODIL
+MED/SURGERY WARD Pathology &amp;#8211; 13/2/65
+
+Clinical Information:
+Abdominal mass ?sarcoma.
+
+Specimen:
+Tumour biopsy.
+SUMMARY:
+Insufficient mitoses available for karyotyping.  Please advise the Laboratory (8382 9154) should Interphase FISH on FFPE tissue be of assistance in this case.
+
+Preparation
+Tumour cell collagenase.
+
+Analysis
+Cells analysed: 1
+Band Resolution: &amp;lt;300
+ISCN Karyotype
+Only 1 dividing cell seen (3 slides examined): 46,XY[1].
+Interpretation
+Regrettably there were insufficient mitoses available for cytogenetic analysis.  Please advise the Laboratory (8382 9154) should Interphase FISH on FFPE tissue be of assistance in this case.
+Reported by: Rad Suter 2/4/65
+Validated by: Dr PATRICE DEFIORE 2/6/65  (ta)

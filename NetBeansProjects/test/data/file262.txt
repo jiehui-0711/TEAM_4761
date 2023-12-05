@@ -1,0 +1,70 @@
+SPR no: 31Q344539C
+MRN no: 3163445
+Site_name: BALLINA DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  31Q344539C
+3163445.JYC
+
+HOMOLA, ROSARIO JACKIE
+Lab No:  31Q34453,31Q34453
+Thatchers
+NAMBOUR  Western Australia  0814
+Specimen: Marrow,Tissue
+D.O.B:  26/7/1984
+Sex:  M
+Collected: 25/02/2014 at 12:19
+Location:  INTENSIVECARE UNIT-WILCANNIA HEALTH SERVICE
+DR LUCAS JUDSON HEIDLER
+Distribution:  DR Deetz,  FILE-COPY
+BONE MARROW REFERENCE No. 31Q344539C
+
+Site: BEAUDESERT HOSPITAL
+HISTORY / INDICATION: Hypercalcaemia, neutropenia for investigation. Small paraproteins. ? Myeloma.
+Peripheral Blood:
+Hb: 104 g/L			Neutrophils: 1.8 x10e9/L
+MCV: 101.0 fL			Lymphocytes: 1.5 x10e9/L
+WBC: 3.5 x10e9/L		Monocytes: 0.60 x10e9/L
+Platelets: 170 x10e9/L		Eosinophils: 0.04 x10e9/L
+Basophils: 0.02 x10e9/L
+
+Film report: RBC: Macrocytic anaemia with mild macrocytosis. There is light Rouleaux. WBC: Normal neutrophil morphology. Occasional reactive lymphocytes present. Platelets: Occasional large and giant platelets. No diagnostic features on the peripheral blood film.
+ASPIRATE
+Ease / difficulty of aspiration:	Easy
+Cellularity of particles and trails:	Slightly hypercellular
+M: E ratio: 2.2:1			No. of cells counted 500
+Nucleated Differential Cell Count (%):
+Blasts: 2			Lymphocytes: 18
+Promyelocytes: 	5		Plasma Cells: 1
+Myelocytes:8			Monocytes: &amp;lt;1
+Metamyelocytes: 8		Eosinophils: 3
+Neutrophils/Bands:31		Basophils: &amp;lt;1
+Erythroblasts:24
+
+Erythropoiesis: Normal activity. There is mild dyserythropoiesis with N:C asynchrony.
+Granulopoiesis: Granulopoiesis is normal in activity, maturation and morphology.
+Megakaryocytes: Megakaryocytes are plentiful with normal morphology.
+Other cells: Plasma cells account for 1% of all nucleated cells and are normal in morphology.
+Abnormal cells: N/A
+Iron stain:Iron stores markedly reduced. No ring sideroblasts seen.
+Cytogenetics: KARYOTYPE      46,XY20
+
+Aspirate Report:  Overall hypercellular bone marrow aspirate with normal trilineage haematopoiesis. There is no morphological evidence of plasma cell myeloma on the bone marrow aspirate. There is mild dyserythropoiesis which may suggest early myelodysplasia. To be correlated with trephine biopsy.
+
+__________________________________________________________________
+Cancer Registry: N
+Registrar:	Dr NOLAN MICKLEBERRY
+Haematologist: Dr TRACEY FISHBURNE
+TREPHINE BIOPSY
+Length and condition of core: 38mm core in 4 fragments.
+Cellularity: Overall normocellular with patchy areas of increased cellularity.
+Bone architecture: Normal
+Reticulin stain:	WHO Grade 0-1
+Trephine Biopsy Report:
+Normocellular bone marrow in good condition. Erythropoiesis is overall normal in activity with occasional erythroid islands seen. Granulopoiesis is normal in activity but with some abnormal localisation of immature precursors. Megakaryocytes are normal in number, with occasional hypolobular forms seen. Several granulomata were seen.
+CONCLUSION:
+Overall normocellular bonemarrow with normal trilineage haematopoietic activity. There are features suggestive of early myelodysplasia with mild dyserythropoietic features and disorganised granulopoeisis. There is no evidence of a plasma cell dyscrasia on this bone marrow examination. Conditions that promote granuloma formation would warrant further consideration.
+__________________________________________________________________
+Cancer Registry: N
+Registrar:Dr UWE PICKEREL
+Haematologist: Dr CALLAN KATCHER

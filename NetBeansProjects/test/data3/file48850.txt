@@ -1,0 +1,21 @@
+SPR no: 67T623174M
+MRN no: 6776231
+Site_name: PARABURDOO HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+WLE and SLNB in 2059 for breast for breast cancer adjuvant chemoradiotherapy and herceptin.  Left mastalgia and some cutaneous thickening concerning for angiosarcoma at scar - recent punch biopsy - NAD Hep C, Hep B, Cervical spondylosis, GORD, Breast Ca, Lumber fracture.
+Additional Clinical history:  Dr Q Grabow contacted regarding location of biopsy.  Dr Kalfa relayed that this biopsy was taken from 12 o&amp;apos;clock 1cm from the nipple in pigmented region located on a scar which was 5cm long.
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left breast stitch short superior long lateral&amp;quot;, consists of a mastectomy weighing 634 grams with stitches as stated.  The specimen measures 160 x 115 x 75mm.  The skin measures 160 x 115mm.  The nipple measures 10 x 10mm and appears unremarkable.  The skin bears a faint scar in the 3 to 12 o&amp;apos;clock region, 40mm from the nipple and is 60mm in length.  Also on the skin surface a pink dot 3mm wide is located at 10:30 o&amp;apos;clock 27mm from the nipple ?area of previous biopsy.  The cut surface appears fibrofatty.  In the region deep to the scar a fibrous area is present ?site of previous lumpectomy.  The fibrous area is 40 x 25 x 20mm and is located at 11 o&amp;apos;clock 3cm from nipple.  It is more than 10mm clear from all margins.  Blocks: 1 - nipple; 2 - pink dot; 3 to 8 - all of scar; 9 and 10 - representative superior skin margin; 11 to 16 - full face scarred area; 17 - lower outer quadrant; 18 - upper outer quadrant; 19 - upper inner quadrant; 20 - lower inner quadrant; 21 and 22 - inferior skin margin; 23 - lateral skin margin; 24 medial skin margin, 25 deep margin under the scar.  See block diagram. (TO:BL/vo 15/11/69)
+
+
+MICROSCOPIC (Reported by Dr Q. Lutz):
+Sections from breast show proliferation of dilated thin walled vascular channels with empty spaces present in the dermis.  These vessels are lined by single layer of bland endothelial cells without solid areas or tufting.  No significant nuclear atypia or mitoses are identified.  The endothelial cells are positive for D240 and CD31.  CD34 is patchy positive.  CMYC is negative.  The histologic features are consistent with atypical vascular lesion (AVL), lymphatic subtype.  There are no diagnostic features of an angiosarcoma.  Entire scar has been examined.
+The lesion is 0.5mm clear of the superior margin, 1mm from inferior margin, 2mm from lateral margin, 1.5mm from medial margin and &amp;gt; 10mm from deep margin of specimen.  The remaining breast shows chronic inflammation previous surgical scar and treatment related changes.  There is no evidence of in- situ or invasive carcinoma.
+Selective slide shown to Dr Marquis ROLOFF and Dr MARION Quesada.
+COMMENT:
+Atypical vascular lesions of skin are only seen in clinical setting of prior radiation treatment for breast cancer.  Majority of cases do not recur or develop malignancy after complete excision.  Rare patients can develop angiosarcoma.  Clinical follow up is suggested.
+DIAGNOSIS:
+Left breast mastectomy:  Atypical vascular lesion (AVL), please see report and comment.

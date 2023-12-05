@@ -1,0 +1,97 @@
+
+Episode No:  17I163403A
+173163.MBI
+
+Mccoil, Haywood 
+Lab No:  17I16340
+Stockdale
+IPSWICH  South Australia  3111
+Specimen: Tissue
+D.O.B:  24/10/2008
+Sex:F
+Collected: 9/10/2062 at :
+Location:  Immunology-ECHUCA REGIONAL HEALTH
+DR Roger CADEN Maier
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT (1.10.62):
+
+
+SUPPLEMENTARY REPORT (23.10.62):
+
+
+CLINICAL:
+Hx of right breast cancer 1 o'clock for WLE + SNBx + E/O multiple skin lesions. 
+MACROSCOPIC:
+A.  Specimen labelled "Breast right sentinel node biopsy", consists of a lymph node 10 x 10 x 5mm. AE 1 block.
+B.  Specimen labelled "Right breast mass short superior, medium medial, long lateral", consists of a piece of fibrofatty tissue with three sutures for orientation as above, measuring 55mm medial to lateral, 50mm superior to inferior, 40mm superficial to deep margin. On the superficial margin there is a ellipse of skin 20 x 2mm.  It is unremarkable.  Superior margin inked red, superficial margin blue, deep margin black. The specimen is serially sectioned from medial to lateral into seven slices.  Slice 1 (medial margin), slice 7 (lateral margin).  On sectioning and in slices 2-6 there is a well defined white and gritty tumour 25mm from medial to lateral, 30mm superior to inferior and up to 25mm from superficial to deep margin.  Representative sections taken according to the diagram attached.
+Block 1 - 1 representative section from the medial margin; 2-5 - slice 3; 6-9 - slice 4; 10-13 - slice 5; 14-17 - slice 6; 18-22 - lateral margin; 24-27 - slice 2; 28-34 - rest of slice 1.  
+C.  Specimen labelled "Axillary node", consists of two lymph nodes 5 and 3mm in maximum diameter.  Block 1 - bisected lymph node; 2 - one lymph node.
+D.  Specimen labelled "Left upper quadrant abdominal region", consists of a skin tag 5 x 4 x 2mm. AE 1 block. 
+E.  Specimen labelled "Abdominal region lower anterior chest wall lesion", consists of an ellipse of skin 10 x 5 x 2mm.  On the surface of the skin there is a skin coloured nodule 2mm in diameter. Block 1 - 1TS lesion; 2 - 4LS lateral margin. 
+F.  Specimen labelled "Epigastric lesion", consists of a small skin tag 3 x 2 x 1mm.  AE 1 block.  (PG/ec 10.10.62) 
+MICROSCOPIC: (Reported by Dr E Brusser) 
+A - C.  Sections show breast tissue with a 35mm diameter grade 3 infiltrating ductal carcinoma.  Tumourextends close to superficial, inferior and superior excision margins.  There is metastatic tumour in the sentinel lymph node.  A synoptic report follows. 
+Invasive carcinoma:
+Site: Right breast 1 o'clock  [UIQ]  [WLE]
+Type: Infiltrating ductal carcinoma
+Invasive tumour size: 35mm
+Grade 3 (Modified Bloom & Richardson): 
+Tubules: 3     Nuclei: 3     Mitoses: 2     Mitotic rate:  11/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  present
+Maximum extent of DCIS: 20mm
+Nuclear grade: High 
+Architecture:  Solid
+Necrosis:  Present 
+Calcification: Absent
+Degree of DCIS intumour:  minimal
+DCIS in adjacent tissue:  none
+Excision Margins:  
+Invasive component:  Deep 4mm, superficial 2mm, inferior 2mm, superior 3mm, lateral 8mm, medial 5mm.
+In-situ component:  All >5mm
+Receptors (Block  B2): 
+ER:   positive
+	100% of nuclei stained
+	predominant intensity of staining:  strong
+PR:  negative
+	0% of nuclei stained.  Stain to be repeated, a supplementary report will be issued.
+HER2 (Novocastra 10A7):  2+ (equivocal)   Her-2 CISH to follow.
+Ki-67 index: 25%
+Nipple:  N/A
+
+LCIS / ALH:  Absent  
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1
+Number of sentinel lymph nodes NOT involved by tumour: 0
+Number of sentinel lymph nodes involved by tumour:  1        
+Number of sentinel nodes with metastases >2.0mm: 1   
+Extranodal spread: absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 2
+Number of axillary lymph nodes NOT involved by tumour:  2
+Number of axillary lymph noes involoved by tumour:0        
+ 
+
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  3 
+Total number of involved lymph nodes (including sentinel node(s)):  1 
+ 
+ 
+D.  Sections show skin with an intradermal naevus.   There is no evidence of malignancy.   The naevus extends to the base of excision of the skin tag.  
+E.  Sections show skin.  Within the dermis there is a cavernous hemangioma.  The vessels have hyalinised walls.  There is no evidence of malignancy.  The hemangioma focally extends to the deep excision margin.  
+F.  Sections show skin with a cavernous hemangioma.  There is no evidenceof malignancy.   Excision is complete.  
+DIAGNOSIS:  
+A - C.  Wide local excision right breast, sentinel node biopsy and axillary lymph nodes:    35mm grade 3 infiltrating ductal carcinoma.   Metastasis in one sentinel node (1/1).  Other axillary nodes free of tumour (0/2).  pT2 N1
+D.  Left upper quadrant abdomen:  Intradermal naevus.
+E.  Lower anterior chest wall:  Cavernous hemangioma.  
+F.  Epigastric:  Cavernous hemangioma.  
+SUPPLEMENTARY REPORT (23.10.62):
+1.  The progesterone receptor stain has been repeated and the tumour cells are confirmed to be negative (with positive internal control).
+SUPPLEMENTARY REPORT (1.10.62):
+HER-2 CISH has shown a negative (nonamplified, diploid) result.
+Mean Her-2 copy number per cell:  1.75.
+CISH reported by Dr E Kochis.
+

@@ -1,0 +1,61 @@
+Episode No:  90S842380L
+907842.IWC
+
+Bolden, Blair Dorethea 
+Lab No:  84F01303
+Elmlea
+NORTH WONTHAGGI    6489
+Specimen: Tissue
+D.O.B:  28/12/2019
+Sex:  F
+Collected: 17/8/2065 at :
+Location:  Cytogenetics-HEALESVILLE & DISTRICT HOSPITAL
+DR YARRANJI YARA-MAY Bovio
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+R breast Ca at 5 o'clock.
+MACROSCOPIC:
+A.  Specimen labelled "Right breast sentinel node 1 (3139)" consists of one lymph node and surrounding fatty tissue 23 x 13 x 5mm.  The lymph node measures 12 x 7 x 4mm.
+Blocks:  1 - one lymph node.
+B.  Specimen labelled "Right breast tissue stitches short superior, long lateral, medium medial" consists of a piece of breast tissue with three marking stitches measuring 22 (lateral to medial) x 45 (superior to inferior) x 38mm (superficial to deep).  On the superficial aspect there is a piece of skin 15 x 6mm.  The margins are inked in three colours:lateral green, medial red and deep black.  Specimen is serially sliced into eight sections from superior to inferior.  In slice four there is a pale solid tumour 7 x 6 x 8mm.  The tumour is 8mm from lateral, 6mm from medial, 4mm from deep, 16mm from superficial, 15mm from superior and 20mm from inferior margin.
+Blocks:  1 - slice one en face (superior); 2 - slice two; 3 & 4 - slice three; 5 & 6 - slice four (6 - ER, PR, HER-2, Ki-67); 7 & 8 - slice five; 9 - slice six; 10 - slice seven; 11 & 12 - slice eight (inferior margin).  AE.  Please see the diagram.
+(TO: XV; UQ/rt 18.8.65)
+MICROSCOPIC (Reported by Dr U Sanghvi):
+A and B. 
+Invasive carcinoma:
+ Site:  Rightbreast
+ Type: Invasive lobular carcinoma
+ Invasive tumour size: 11mm (2 slices), plus 5 satellite deposits 0.2 to 1mm in size, over a 16mm area
+ Grade (Modified Bloom & Richardson):  2
+ Tubules: 3     Nuclei: 2     Mitoses: 1     Mitotic rate: 2/10hpf.
+ Lymphovascular invasion:  Not seen
+	    
+DCIS component:  Absent
+Excision Margins:  
+ Invasive component:
+  Medial: 2mm (no intervening normal ducts, B3)
+  Deep: 2mm (with intervening normal ducts, B2)
+  Lateral: 3.5mm (with intervening normal ducts, B4)
+  Superior: 5mm
+  Other margins: > 10mm
+Receptors (Block B6): 
+ ER:     Strong positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+ PR:     Strong positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+ HER2 (Novocastra 10A7): Negative (1+ membranous staining)
+ HER2 SISH:  Performed at General Mills, SEYMOUR HEALTH Hospital, see separate report.
+ Ki-67 index:  15%
+LCIS / ALH:  Present
+Miscellaneous: A core biopsy tract is seen. The tumour cells show weak focal staining for e-cadherin.
+Sentinel lymph node(s): 
+ Number of sentinel lymph nodes examined:  1
+ Number of sentinel lymph nodes involved by tumour:   0
+DIAGNOSIS:
+A and B. Wide local excision right breast:
+- 11mm invasive lobular carcinoma, grade 2, plus 5 satellite deposits 0.2 to 1mm in size, over a 16mm area
+- 1 sentinel lymph node with no evidence of malignancy       
+

@@ -1,0 +1,93 @@
+
+Episode No:  35Z914131J
+3599141.IEJ
+
+Bohn, VIATRIX ESTER 
+Lab No:  35Z91413
+Widdin
+QUIRINDI  NT  0834
+Specimen: Tissue
+D.O.B:  24/7/2013
+Sex:  F
+Collected: 04/10/2012 at 04:30
+Location:  West - COBAR DISTRICT HOSPITAL
+DR PETE MILLARD DEAN-Messersmith
+Distribution: FILE-COPY
+CLINICAL:
+Wide local excision L breast and biopsy left axillary lymph node.  Marking stitch long lateral,short superior and medium medial.  Axillary lymph node left side.
+MACROSCOPIC:
+Patient details checked by CG
+A.  Specimen labelled "Left axilla lymph node" consists of a lymph node 15mm in greatest dimension with attached adipose tissue.  AE 2 blocks.
+B.  Specimen labelled "Left breast long lateral, short superior, medium medial" consists of a lumpectomy with three marking sutures as described measuring 65mm (medial to lateral) x 57mm (superior to inferior) x 35mm (superficial to deep) and weighing 45g.  The superior margin is inked red, posterior black and the remaining green.  The specimen is sequentially sectioned from lateral to medial into twelve slices to reveal a poorly circumscribed firm tumour present in slices six to nine.  The tumour measures 20mm (medial to lateral), 15mm (superior to inferior) and 13mm (superficial to deep).  The closest resection margin is the superficial margin at 10mm, other resection margins are greater than 10mm clear of the tumour.  The remaining tissue shows mixed fibrofatty cut surfaces with predominance of fat.  No other lesions are identified.  
+Blocks: 1 - slice one lateral end; 2 to 4 - slice three; 5 to 8 - slice five; 9 - slice six; 10 to 14 - slice seven; 15 - reserve block for tissue bank slice eight; 16 - slice nine; 17 - slice ten; 18 - slice twelve medial end.  
+ER, PR, HER2, CISH and Ki-67 ordered on block 9.  Please refer to attached photograph.  (KJ/ta 7/12/62) 
+MICROSCOPIC (Reported by Dr J Stolzenberg): 
+BREAST SYNOPTIC REPORT
+Specimen: Wide local excision
+Site: Left breast
+Invasive carcinoma:
+Site:  Invasive ductal carcinoma (NOS)
+Type:  Left breast
+Invasive tumour size: 20mm
+Grade  (Modified Bloom & Richardson): 2
+Tubules: 3     Nuclei:  2    Mitoses: 1     Mitotic rate: 3/10hpf.
+Lymphovascular invasion:  Absent.
+	    
+DCIS component:  
+DCIS:  Intermediate grade DCIS
+Maximum extent of DCIS: 5mm outside of main tumour (blocks 9, 11)
+Nuclear grade:  Intermediate
+Architecture: Solid and cribriform
+Necrosis:  Present
+Calcification: Present
+Degree of DCIS in tumour: About half of tumour 
+DCISin adjacent tissue:  DCIS extends beyond the main tumour front and replaces ducts and lobules.
+EIC positive/negative:  Positive
+Excision Margins:  
+Invasive component:  2mm from superficial margin (block B15), > 10mm from other margins.
+In-situ component: 5mm from superficial and superior margins without intervening uninvolved ducts (block B11, B16), > 10mm from other margins.
+Receptors: Pending 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Moderate
+PR:  Positive
+	100 % of nuclei stained
+	predominant intensityof staining:  strong
+HER2 (Novocastra 10A7): positive (2+)
+Ki67: 10%
+Nipple:  n/a
+
+LCIS / ALH: Absent    
+Miscellaneous:
+Uninvolved breast tissue is mainly fatty but also shows areas of fibrosis, cystic change and apocrine metaplasia.  Small lobular calcifications and coarse stromal calcifications arenoted.  Some mildly dilated ducts and areas of columnar cell metaplasia are present.
+Axillary nodes (specimen A):
+The sections show 2 small (< 2mm) deposits of metastatic adenocarcinoma in the single lymph node identified. No extranodal spread is seen.
+of axillary lymph nodes examined: 1
+Number of axillary lymph nodes involved by tumour: 1         
+Number of axillary nodes with metastases >2.0mm: 0    
+Number of axillary nodes with metastases <2.0mm:  1 (2 deposits)    
+Number of axillary nodes with isolated tumour cells <0.2mm: 0      
+Extranodal spread: Absent.
+   
+NOTE: Deposits of 2mm or greater are MACRO-mets, 0.2mm-2mm are MICRO-mets and <0.2mm are Isolated Tumour cells (ITC).
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 1  
+Total number of involved lymph nodes (including sentinel node(s)):   1
+
+CONCLUSION
+Left breast (wide local excision and axillary lymph node biopsy): Invasive ductal carcinoma (NOS), 20mm in largest dimension, grade 2, 2mm from superficial margin, with intermediate grade DCIS, 5mm from superficial and superior margins without uninvolved intervening ducts.
+
+ADDITIONAL REPORT:  (19.12.62)
+Four unstained slides were sent to FITZROY CROSSING HOSPITAL Hospital for Her2 CISH analysis:
+Her 2 in situ hydridisation: (Her2 CISH Invitrogen SPOT-Light assay, block B15). 
+Her2 CISH result: NEGATIVE (non-amplified, diploid).
+Mean Her2 copy number per cell: 1.75.
+SCORING CRITERIA (ASCO/CAP recommendations):
+1 to <2.5 copies:  	Non amplified (diploid)
+2.5 to <4 copies:  	Non amplified (polysomy) 
+4 to 6 copies:		Equivocal 
+>6 but < 10 copies:	Low level amplification
+10 or more copies: 	High level amplified.  
+Reported by Dr King Carbonara, 18.12.2062
+

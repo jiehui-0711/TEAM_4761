@@ -1,0 +1,68 @@
+SPR no: 89D342414L
+MRN no: 10393884
+Site_name: TEXAS HOSPITAL MULTIPURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report89D34241 (89D342414L) SHOREY, HERMAN Trenton
+HISTOPATHOLOGY REPORT
+BEAUDESERT HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Peritonectomy.
+
+MACROSCOPIC:
+A.  &amp;quot;COLON, DUODENUM, GALLBLADDER, PERITONEAL DISEASE&amp;quot;.  Multiple tissue fragments in the same jar.
+
+Portion of small bowel probably duodenum/jejunum with length of 130mm and 45mm maximum circumference.  Attached fatty tissue to the outer surface of the duodenum 80x50mm.  Peritoneal margin inked black and adhesion margin inked blue.
+Sectioning of the adhesive tissue shows stellate fairly circumscribed tumour invade into the small bowel wall.  Mucosa of small bowel appears intact. Tumour is clear from the margin 2mm at closest. Multiple tumour deposits/possible involved lymph nodes identified.
+
+(1-3  tumour and bowel and margins composite section; 4  tumour and bowel; 5  stapled margins; 6  tumour deposits; 7-9  lymph nodes).
+
+Portion of large bowel measuring 420mm in length, 75mm in maximum circumference.  No obvious intraluminal tumour identified.
+
+(10&amp;amp;11  tumour deposit; 12-14 RS from the bowel).
+
+Portion of rectum and sigmoid 220mm in length and 45mm circumference with portion of peritoneum attached.  No intraluminal tumour identified.  Multiple firm areas over the peritoneum present.
+
+(15&amp;amp;16  RS from the rectum; 17&amp;amp;18  RS from tumour deposit).
+
+Small portion of colon 90mm in length and 60mm in circumference.  No tumour identified, Rep sections embedded.
+(19 2xRS
+
+A gallbladder 80x25x20mm.  Serosa is smooth.  It contains bile.  No tumour identified.  section including cystic duct embedded.
+
+Portion of the small bowel 40mm x 25mm.  No obvious tumour present.
+Rest of tissue fragments measure 110x100mm in aggregate.  No obvious tumour identified.
+
+20  gallbladder; 21  small bowel). (M-21).
+
+B.  &amp;quot;SEGMENT VI LIVER&amp;quot;.  A portion of liver measuring 30x25x25mm.  Surgical margin inked blue.  Serially sectioned.  No obvious nodule identified macroscopically.  RS (Embedded block B1-4).
+
+C.  &amp;quot;PORTACAVAL LYMPH NODE&amp;quot;.  A node measuring 10x5x4mm.  Bisected.  Embedded block C.  AE (2-1).
+
+D.  &amp;quot;STATION 8&amp;quot;.  Consists of node 10x5x4mm.  Bisected.  Embedded block D.  AE (2-1/SM 6/9/2069 km).
+
+MICROSCOPIC:  (Dr. W Orabone)
+A.  Sections of small bowel show infiltrating moderate to poorly differentiated adenocarcinoma.  The tumour extends into the fatty mesentery and focally abuts the free serosal surface.  It encroaches onto the adjacent lymph node.  Multiple foci of perineural and lymphovascular invasion are noted.  The overlying small bowel mucosa appears unremarkable.
+The large bowel mesentery shows multiple foci of fat necrosis and fibrous scarring.  Two lymph nodes are identified and these show no evidence of metastatic tumour.  The large bowel mucosa appears unremarkable.
+Sections from the rectum show unremarkable mucosa.  Within the fatty mesentery, fibrous scarring is identified.  No evidence of tumour.
+Sections of gallbladder show mild changes of chronic cholecystitis.  The cystic duct lymph node shows scattered lipogranulomas.  No evidence of tumour.
+Further sections of the small bowel tumour  uninvolved pancreatic tissue at one edge.  One focus shows atypical epithelium beneath the small bowel mucosa.
+Metastatic carcinoma and involvement by carcinoma by direct extension are present in 3 out of 21 lymph nodes identified.
+Immunohistochemistry stains show positive staining of the tumour for cytokeratin 19 and CEA.  Focal positive staining for CK7, CK20 and CD2 are noted.  ER/PR, TTF-1, p16, WT1 and PAX8 are negative.
+Comment:  Sections show moderate to poorly differentiated adenocarcinoma involving submucosal small bowel extending to the edge of the pancreas.  There is extensive perineural involvement and the appearances favour adenocarcinoma from upper GI tract origin including ampullary, cholangiocarcinoma from biliary tract, and pancreatic adenocarcinoma.  Clinical correlation is recommended.
+B.  Sections show liver.  The architecture is slightly distorted with nodular appearance.  There is haemorrhage within the portal tracts.  Mild macro and microvesicular steatosis is identified. No evidence of invasive malignancy.
+
+C.  No evidence of malignancy is seen in a lymph node identified
+D.  Sections show lymph node.  Occasional lipogranulomas are identified.  No evidence of malignancy.
+DIAGNOSIS:
+A.  COLON, DUODENUM, GALLBLADDER, PERITONEAL DISEASE:
+- ADENOCARCINOMA, FAVOUR UPPER GI TRACT ORIGIN (AMPULLARY, BILIARY, AND PANCREAS)
+
+B.  SEGMENT VI LIVER:  NO EVIDENCE OF MALIGNANCY
+
+C.  PORTACAVAL LYMPH NODE:  NO EVIDENCE OF MALIGNANCY IN ONE NODE
+
+D.  STATION 8:  NO EVIDENCE OF MALIGNANCY IN ONE NODE
+
+13/6/2070 nh

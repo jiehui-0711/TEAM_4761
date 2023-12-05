@@ -1,0 +1,106 @@
+SPR no: 29Q722933J
+MRN no: 29672293
+Site_name: PRINCESS ALEXANDRA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report29Q72293 (29Q722933J) EGELHOFF, GRANVILLE
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+CRC. Recurrent secondary.
+
+MACROSCOPIC:
+&amp;quot;OMENTUM AND TRANSVERSE COLON&amp;quot;. Received a segment of bowel, measuring 185mm and up to 50mm in circumference with mesentery up to 35mm and attached omentum, measuring 220x90x20mm. Also attached a separate segment of bowel, measuring 120x90mm, and mutliple fibrofatty pieces of tissue, measuring 170x80x50mm in aggregate. There is a tumour arising from the transverse colon which is circumferential with polypoid raised edges and necrotic centre, approximately measuring 80x50mm. This tumour is involving the wall to extensively involve the overlying serosa. There is extensive involvement of the adjacent omentum and the mesentery and the wall of the adjacent distal segment of the transverse colon. This distal involvement appears to be involving the wall to reach the mucosal surface which is nodular in the distal, 80mm of the specimen, to involve the distal margin. Otherwise, the main tumour is located 40mm of the proximal margin and abuts the radial surgical resection margin macroscopically. The attached dilated segment of bowel has multiple white serosal  nodules with no mucosal involvement. The omentum (omental cake) is extensively involved with tumour confirmed by firm, white cut surface similar appearance is present in the separate tissue fragments with occasional areas showing mucinous changes.
+
+(1 proximal margin; 2 involved distal margin; 3 proximal end of tumour; 4 tattooed area, tumour with serosal  involvement; 5 tumour with serosal  involvement; 6 radial resection margin involvement; 7-9 representative omental involvement; 10&amp;amp;11 separate pieces with Block 10 for tissue  banking; 12-14 each five lymph nodes; 15 LS of each resection margin of separate bowel). RS (M-15/ ZH/cy).
+
+Further tissue:
+(16&amp;amp;17 each one LS proximal end of specimen; 18 one LS mid tumour; 19&amp;amp;20 continuous piece one LS distal end of tumour).  RS (M-20/ZH/nh)
+
+MACROSCOPIC FINDINGS SUMMARY
+Labelled: &amp;quot;Transverse colon + omentum&amp;quot;
+
+Operation type:  Transverse colectomy
+Specimen length:  180mm
+Tumour site:  Transverse colon
+Tumour size:  80mm (main tumour nodules) with 80mm nodular mucosa distally (total 160mm)
+Distance from margins:
+Proximal:  30mm
+Distal:  Involved
+Radial:  Involved
+Perforation:  Absent
+Peritoneal reflection:  Tumour entirely above
+Mesorectal integrity:  ?not applicable
+Extramuscular spread:  Extensive
+Tumour description:  Polypoid with ulcerated centre and adjacent area of nodularity.
+Overlying serosa: Extensive involvement of the distal segment of bowel.
+Lymph nodes: As per block legend
+Metastases: Omentum
+Comments: The overlying omentum is inked red.
+
+MICROSCOPIC   (Dr. G. Loffler)
+SYNOPTIC REPORT FOR COLORECTAL ADENOCARCINOMA
+
+Tumour type:  Adenocarcinoma
+
+Histologic grade:  High grade (poorly differentiated)
+
+Depth of invasion:  T4a - Tumour penetrates to the surface of the visceral peritoneum
+
+Peritoneal surface involvement:  Present
+
+Tumour infiltrating lymphocytes: Low density (&amp;lt; 5/hpf)
+
+Excision Margins:
+Proximal:  Clear (&amp;gt;10mm)
+Distal:  Involved
+Radial:  Involved by tumour at margin
+
+Lymph nodes:
+Number positive:  14
+Total number:  14
+Apical node:  Not identified
+
+Intramural vein invasion:  Present
+Extramural vein invasion:  Present
+Small vessel (lymphatic) invasion: Present and extensive
+Perineural invasion:  Not identified
+
+Distant metastases:  Present, site(s): Omentum, separate large bowel segment serosa
+
+Treatment effect: Grade 3 (poor response), minimum to no tumour kill with extensive residual cancer.
+
+Special stains and Immunohistochemistry:
+PASD highlights cytoplasmic and extracellular mucin.  There is diffuse positive staining for CK7.  The tumour is negative for CDX2 and shows mostly negative staining for CK20 with a few islands of positive cells.
+There is negative staining with GATA3, TTF1, PAX8, D2-40, Chromogranin, synaptophysin, and WT1.  Calretining shows diffuse weak staining ?non-specific.
+
+Mismatch repair enzymes immunohistochemistry: to follow.
+
+Synthesis/stage (AJCC/UICC TNM 7):
+
+TNM stage:  pT4a pN2b pM1b pR1
+
+Comments:
+The tumour shows poorly differentiated morphology with occasional extracellular mucin, occasional signet ring forms and mostly sheets of high-grade non-descript tumour cells.  It appears to be located mostly in the submucosa and undermines the mucosa, with occasional tongues extending up and rupturing through the mucosal surface.  There is extensive serosal involvement.  The immunostaining pattern is unusual and may represent the effect of chemotherapy. The loss of CDX2 and CK20 and gain of CK7 in colorectal carcinoma has been described in the literature and is associated with poor prognosis (Loss of CDX2 expression is associated with poor prognosis in colorectal cancer patients. Bae JM et al. World J Gastroenterol 2015 February 7; 21(5): 1457-1467). I am not entirely able to exclude a metastasis on morphology and immunohistochemistry, as similar features can be seen in adenocarcinomas of the upper gastrointestinal tract.  I have requested the original biopsy slide and block for comparison.  A supplementary report will be issued.
+
+DIAGNOSIS:
+OMENTUM AND TRANSVERSE COLON:
+- POORLY DIFFERENTIATED ADENOCARCINOMA, pT4a pN2b pM1b pR1
+- EXTENSIVE LYMPHOVASCULAR INVASION
+- MARGINS POSITIVE FOR TUMOUR
+- INVOLVES FOURTEEN LYMPH NODES (14/14)
+19/12/2066 ank
+SUPPLEMENTARY REPORT (22/12/2066):
+The original biopsy case has been reviewed (29Q7229, 20/3/2066, Clinical labs).  The tumour in the biopsy has the same morphology as the tumour in the main resection specimen, and both show the same immunohistochemical profile (both are negative for CDX2, patchy positive for CK7 and CK20, negative for all other markers).  The features are of a poorly differentiated adenocarcinoma and based on the histological and immunohistochemical profile I can&amp;apos;t exclude metastatic disease from upper gastrointestinal tract.  Although as stated in the previous comment, some poorly differentiated colorectal carcinomas do show aberrant loss of CDX2 and gain of CK7.  Clinical correlation is recommended.
+
+The diagnosis is unchanged.
+
+
+SUPPLEMENTARY REPORT 2 (28/12/2066):
+Immunohistochemistry for mismatch repair proteins.
+MLH1: positive
+PMS2: positive
+MSH2: positive
+MSH6: positive
+This is a normal pattern of staining and indicates absence of mismatch repair deficiency.

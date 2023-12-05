@@ -1,0 +1,45 @@
+SPR no: 68C272365D
+MRN no: 68027236
+Site_name: OSBORNE PARK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrial Ca.  TLH BSO, omental biopsy, peritoneal washings.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 83g in total.  The uterus measures 90 x 60 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 28 x 23mm and has an unremarkable surface.  The uterus is received fresh, inked black anteriorly, and opened sagitally along the anterior aspect for research sampling, with some resulting distortion post-fixation.  Within the endometrial cavity is a 35 x 20mm friable cream tumour.  The tumour appears to invade 11mm into a 20mm myometrium and extends toward the right cornu.  The myometrium contains an 8mm fibroid near the left cornu.  The right fallopian tube is 57 x 7mm.  The right ovary is 20 x 7 x 12mm with a smooth serosal surface and an unremarkable cut surface.  The left fallopian tube is 50 x 7mm.  The left ovary is 20 x 12 x 7mm with a smooth serosal surface and unremarkable cut surface.
+Blocks: 1 &amp;amp; 2 - anterior myometrium; 3 - anterior cervix; 4 to 7 - full longitudinal section of posterior body and cervix; 8 - posterior body with greatest invasion; 9 - tumour near right cornu; 10 - immediately lateral to 9; 11 - section of fibroid near left cornu; 12 - isthmus and fimbria, right fallopian tube; 13 - ampulla and fimbria, right fallopian tube; 14 - two TS right ovary; 15 - isthmus and fimbria left fallopian tube; 16 - ampulla and fimbria left fallopian tube; 17 - two TS left ovary.
+
+B.  Specimen is unlabelled as to site or nature and consists of 110 x 90 x 20mm omental fat, sectioning shows homogeneous yellow fat with no discrete lesions.
+Blocks: 1 to 3 - RS.
+(KM/rs 5/9/67)
+
+
+MICROSCOPIC (Reported by Dr Q Hassell):
+A.  Sections show grade 2 endometrioid adenocarcinoma of the endometrium.  Carcinoma invades to a depth of 9mm through a wall thickness of 19mm within the vicinity of the right cornu.  No lymphovascular invasion is seen.  Discontiguous foci of adenocarcinoma are present on the surface of the endocervix, with one foci showing early stromal invasion.  The ectocervix show no significant abnormality.  The myometrium contains a leiomyoma.  Both ovaries and fallopian tubes show no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block A8)
+
+MLH1          Loss of nuclear staining
+PMS2          Loss of nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+B.  Sections of the omentum show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A &amp;amp; B.  Uterus and cervix, bilateral fallopian tubes and ovaries, omentum:
+-  Grade 2 endometrioid adenocarcinoma of the endometrium
+-  Invasion to a depth of 9mm through a wall thickness of 19mm.
+-  No lymphovascular invasion identified
+-  Discontiguous foci of adenocarcinoma within endocervix with early stromal invasion
+-  Omentum negative.
+
+
+ADDENDUM (29/9/67):
+Immunohistochemistry for BRAF has been performed at the request of Professor Morence, with the following result:
+The tumour shows negative staining with BRAF V600E.
+Note:  The significance of this result in endometrial carcinoma and relevance to Lynch syndrome is uncertain.

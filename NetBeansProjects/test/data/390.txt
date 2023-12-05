@@ -1,0 +1,73 @@
+
+Episode No:  90U476672B
+9074766.TGB
+
+AXLINE, ZYA 
+Lab No:  90U47667
+Glazbury
+ECHUCA  SA  2325
+Specimen: Tissue
+D.O.B:  23/2/1996
+Sex:  F
+Collected: 6/5/2063 at :
+Location:  DAY SURGERYUNIT-THEODORE HOSPITAL
+DR LYNWOOD DELMAR GAZDIK
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Lymph nodes 1 - 4 left axilla and melanoma.  Left back long lateral, short superior.  
+MACROSCOPIC:
+A.  Specimenlabelled "Left axilla sentinel node 1" consists of apiece of fibrofatty tissue 20 x 15 x 12mm containing a lymph node 40mm in maximum dimension.
+Blocks: 1 - one bisected lymph node.  
+B.  Specimen labelled "Left axilla sentinel node 2" consists of a piece of fibrofatty tissue 45 x 20 x 15mm containing two lymph nodes 24 and 50mm in maximum dimension.
+Blocks: 1 - one bisected lymph node; 2 & 3 - comprise one lymph node.
+  
+C.  Specimen labelled "Left axilla sentinel node 3" consists of a piece of fibrofatty tissue 25 x 17 x 15mm containing a lymph node 50mm in maximum dimension.
+Blocks: 1 - one bisected lymph node.
+  
+D.  Specimen labelled "Left axilla sentinel node 4" consists of a piece of fibrofatty tissue 30 x 25 x 15mm containing a lymph node 17mm in maximum dimension.
+Blocks: 1 - one bisected lymph node.
+ 
+E.  Specimen labelled "Melanoma - short stitch superior, long stitch lateral" consists of an elliptical skin excision 87 x 33mm with subcutaneous tissue 130 x 25 x 50mm.  There are two marking stitches as described on the label.  The margins are inked in three colours, superior blue, inferior black and deep green.  Thesoft tissue uncovered by skin on the lateral side is 55 x 50 x 30mm.  Centrally there is a  pigmented non-ulcerated nodule occupying a surface of 8 x 6mm in the skin which is partially obscured by blue dye.  The nodule is 12mm from the closest inferior cutaneous margin (closest margin) and about 15mm clear of the deep margin. Surrounding the nodule there is a possible macular component measuring 25 x 20mm, however this possibly relates to obscuring blue dye which makes interpretation difficult.  Approximately 35mm medial to the central nodule there is a second hyperkeratotic nodule 5 x 5mm, 5mmfrom the medial margin.  The specimen is serially sectioned to nineteen slices numbered from medial to lateral.  The central nodule is in slices nine and ten.  No nodules or lymph nodes are identified in the lateral soft tissue. 
+Blocks: 1 - medial margin (slice one); 2 & 3 - all of slice two; 4 - superficial half of slice three (Blocks: 3 and 4 include the smaller peripheral nodule); 5 to 7  all of slice eight; 8 & 9 - slice nine; 10 & 11 - slice ten; 12 & 13 - slice eleven; 14 & 15 - slice twelve; (Blocks: 5 to15 - all of the possible pigmented area); 16 - representative from slice thirteen (lateral cutaneous margin); 17 - skin from slice five; 18 - skin surface from slice six; 19 - lateral soft tissue margin; 20 to 23 - slice fourteen; 24 to 27 - slice 16.  Please refer to the diagram.  (RN/ta  6/7/63)
+  
+MICROSCOPIC (Reported by Dr X Trader): 
+A -D.  Sections show a primary invasive melanoma with the following features:
+SYNOPTIC REPORT FOR MELANOMA
+1. Site:  Left back.
+2. Histological subtype:  Nodular.
+3. Breslow thickness:  2.1mm.
+4. Ulceration (diameter in mm):  Absent.
+5. Dermal mitotic rate (3 per mm2).
+6. Clark level:  IV (Reticular dermis)
+7. Vascular or lymphatic invasion:  Not seen.  
+8. Neurotropism:  Not seen.  
+9. Angiotropism:  Not seen. 
+10. Desmoplasia:  Not seen.  
+11. Satellites:  Not seen.
+12. Tumour infiltrating lymphocytes:  Present
+	- Distribution:  Focal
+	- Density:  Mild
+13. Features of intermediate/late regression:  Absent
+  
+14. Predominent cell type:  Epithelioid.
+15. Associated naevus:  Absent.  
+16. Nearest peripheral margin to in-situ component:  10mm clear (inferior)
+17. Nearest peripheral margin to dermal invasive component:  10mm clear (inferior)
+18. Distance from tumour to deep margin:  15mm
+19. Solar elastosis:  Not seen.  
+]
+20. Other:    
+adjacent dermal scar is present (E5) consistent with previous biopsy.  The second nodule described grossly, 5mm from the medial margin, is a hyperkeratotic seborrheic keratosis.
+18.  Sentinel lymph nodes:  Four negative lymph nodes (0/4)
+Four sentinel lymph nodes show no convincing evidence of tumour (0/4).  Scattered single and small clusters of pigmented cells are seen within the parenchyma of the nodes arranged singly and in small clusters.  These cells stain with CD68 and are consistent with melanophages.  In one lymph node (B3) rare pigmented cells show some non-specific staining with the melanocytic marker HMB45, in addition to CD68 staining, however, the cell morphology is bland and unlike those of the primary tumour.
+Several of the lymphnodes show circumscribed foci of granulomatous inflammation with central caseating necrosis and some peripheral fibrosis.  No polarisable material is seen. 
+Dr X Kuether has viewed representative sections of the pigmentedcells within the lymph nodes and corresponding immunostained sections and agrees that these are melanophages.
+
+COMMENT
+Some of the sentinel lymph nodes show small foci of caseating granulomatous inflammation. As these notes were examined with the melanoma sentinel node protocol there is no remaining tissue for further testing. The granulomas appear old and may be non-specific, however, an infectious aetiology is possible.  Further clinicopathological correlation is necessary
+SUMMARY:
+A-D Skin from left back (excision) and sentinel lymph nodes 1-4:  
+-  Nodular melanoma, Breslow thickness 2.1mm, completely excised (closest margin inferior -10mm clear).  
+-  Four negative sentinel lymph nodes (0/4).
+-  Granulomatous lymphadenitis (see comment).
+

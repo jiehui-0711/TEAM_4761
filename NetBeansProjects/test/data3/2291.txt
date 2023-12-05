@@ -1,0 +1,94 @@
+Episode No:  00Y216384G
+009216.HVL
+
+SWEETIN, Virgilia 
+Lab No:  00Y21638
+JANBORWILL
+MOUNT EVELYN  Victoria6765
+Specimen: Tissue
+D.O.B:  15/5/1984
+Sex:  F
+Collected: 02/06/2065 at 10:40
+Location:  PERI-OPERATIVE UNIT-BRIDGETOWN HOSPITAL
+DR John KATRINA BROCKBERG
+Distribution:  DR Otis,    FILE-COPY,   NSW-CANCER-REGISTRY, DR SCOTTIE
+
+ADDITIONAL REPORT:  (21.7.65)
+
+
+SUPPLEMENTARY REPORT (9.6.64)
+
+
+CLINICAL:
+Caecal lesion/tumour.   Right hemicolectomy.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy", consists of a specimen of terminal ileum (60mm in length), caecum and ascending colon (110mm in length).  The specimen includes unremarkable appendix is 58mm in length and up to 7mm in diameter.  Centred on the anteriorwall of the caecum but also involving its posterior wall and the ileocecal valve is a fungating exophytic tumour 84 x 75 x 24mm.   The tumour has pale solid and mucinous cut surfaces.  The tumour is 65mm from proximal ileal and 70mm from distal margins and does not involve the base of the appendix.  The posterior surface of the caecum appears to be peritonealised.  On sectioning the tumour appears to efface the plane of the muscularis propria but does not appear to involve the mesocolic fat.   No other polyps are identified.  Several lymph nodes are identified.  The largest is 18mm in maximum dimension.  
+Blocks: 1 - junction of appendix and caecum; 2 - shaved proximal margin; 3 - shaved distal margin; 4 to 6 - the entire vermiform appendix from tip towards base; 7 - tumour and anterior serosal surface; 8 and 9 - pared sections of tumour, anterior; 10 - tumour and pericolonic fat, anterior (blocks 6 to 10 comprised on full face of tumour); 11 and 12 - tumour and pericolonic fat, anterior; 13 and 14 - paired sections tumour and serosal surface anterior (11 to 14 - constitute one slice of tumour); 15 - transverse section tumour and serosal, interior; 16 and 17 - paired sections of tumour and serosal surface anterior; 18 and 19 - paired sections tumour and pericolonic fatty tissue (14 to 19 - comprised oneslice of tumour); 20 - tumour and posterior serosal surface; 21 - section of tumour only, reserved block; 22 - tumour and adjacent normal looking mucosa (the polypoid projection at the distal limit of the tumour; 23- one bisected lymph node adjacent to tumour; 24 - ?peri ileal lymph node; 25 - one lymph node; 26 - the apical lymph node; 27 - lymph node as seen; 28 - one lymph node; 29 - one lymph node; 30 - lymph nodes as seen; 31  and 32 - sections of fat looking for lymph nodes.  (TO: HG;RM/vo 6.2.65); 
+33 - lymph nodes as seen.  (TO: TU:  GN/mm 6.3.65) 
+MICROSCOPIC (Reported by Dr W Cecere):
+Sections show a moderately differentiated mucinous adenocarcinoma arising in association with a villous adenoma with moderate and high grade dysplasia.  The tumour is centred on the anterior wall of the caecum but also extendsonto its posterior wall and focally involves the ileocaecal valve.  The tumour contiguously invades and replaces the muscularis propria and reaches the junction of the subserosa and mesocolic fat.  The carcinoma is composed of complex and tubular glands lined by cells with stratified nuclei with moderate atypia. There is abundant intraluminal and extracellular lakes of mucin.  No lymphovascular or perineural invasion is seen.  A synoptic report for bowel cancer follows.
+BOWEL CANCER PROFORMA
+
+Macroscopic Description
+
+Site of tumour:
+Maximum tumour diameter:  84mm
+Distance of tumour to nearer cut end:  70mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Mucinous adenocarcinoma
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria (block 18, 11)
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin (mesocolicresection margin0:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  Well clear
+Lymph nodes
+Number of lymph nodes present:  16
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pM0	No distant metastasis
+Background abnormalities/other comments
+Adenomas  The invasive tumour arises in association with a villous adenoma with moderate to high grade dysplasia.  Focally some of the basal aspects of adenomatouscrypts show horizontal orientation  raising the possibility of evolution from a sessile serrated polyp.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		loss of nuclear staining
+PMS2		loss of nuclear staining
+MSH2		Preserved nuclear staining/loss of nuclear staining
+MSH6		Preserved nuclear staining/loss of nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinomafor MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Stage (TNM 7th Edition, AJCC 2010)
+pT3  pN0  pMx  R0
+DIAGNOSIS:
+Right hemicolectomy:
+- Moderately differentiated mucinous adenocarcinoma in the caecum arising in association with a villous adenoma with moderate and high grade dysplasia, no lymphovascular or perineural invasion is seen, margins clear, Sixteen (16) negative lymph nodes (0/16), stage pT3 N0 MX R0 (AJCC 7th edition 2010), loss of protein expression of MLH1 AND PMS2 (microsatellite instability phenotype).
+
+		SUPPLEMENTARY REPORT (6.9.64)(Reported by Dr W Therres)
+
+The appendix shows fibrous obliteration of the lumen but is otherwise unremarkable.
+
+				
+				ADDITIONAL REPORT:  (21.7.65)
+
+At the request of Dr W Andreadis tumour tissue was forwarded to GLADSTONE HOSPITAL's Hospital for BRAF V600E immunohistochemical analysis.
+Report from DICKINSON 3 NORTH's Pathology, MANILLA:
+Reported by Dr Darby Benedict ZENT:
+CLINICAL DETAILS:
+Referred for BRAF V600E IHC testing by Dr W Toll at the request of Dr W Annis.
+RESULTS:
+BRAFV600E Immunohistochemistry (Clone VE1, Spring Biosciences):  POSITIVE
+
+Note: A positive result is defined as 2+ or 3+ granular cytoplasmic staining in at least 70% of tumour cells.  This antibody shows good correlation with the detection of v600E mutation by other molecular methods, but does not exclude non-v600E BRAF mutations.
+

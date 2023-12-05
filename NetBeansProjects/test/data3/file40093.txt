@@ -1,0 +1,139 @@
+SPR no: 44I419710S
+MRN no: 071227
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report44I41971 (44I419710S) FELICIA, AKILAH RODRIGO
+HISTOPATHOLOGY REPORT
+REDCLIFFE HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca UOQ prev ?Hodgkin&amp;apos;s lymphoma with Mantle XRT.
+Frozen section, left sentinel lymph node.
+Previous Hodgkin&amp;apos;s lymphoma. Mantle XRT. Breast Ca L UOQ.
+Left mastectomy suture = 12 o&amp;apos;clock.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL NODE&amp;quot;. Consists of fat, 25x25x5mm. One blue node, 9mm, bisected, and all in.
+
+F/S: &amp;quot;Negative&amp;quot; per phone to Dr. Sang at 3:50pm by Dr. M. Palk.
+
+(1 frozen section; 2 rest of fat). AE (M-2)
+
+B.
+Specimen labelled &amp;quot; LEFT MASTECTOMY SUTURE MARKED 12 O&amp;apos;CLOCK&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Mastectomy, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  170mm
+Superior to inferior:  185mm
+Anterior to posterior:  40mm
+WEIGHT:  404g
+SKIN:  Yes - 150x75mm and is stained blue
+NIPPLE:  Yes - 10mm
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:
+Non-standard: Anterior superior aspect - blue; Anterior inferior aspect - green; Posterior - black.
+DISSECTION: Serially sectioned parasagittally from posterior to anterior
+FINDINGS / LESION: In the upper outer quadrant, 20mm from nipple is a stellate lesion. It measures 18mm medial lateral, 30mm anterior posterior, and 15mm superior inferior. It is 78mm from superior margin, 95mm from inferior margin, 50mm from lateral margin and 80mm from medial margin, 5mm from posterior margin, 10mm from skin/anterior. Remainder of the breast is predominantly fatty.
+(1 lateral half of nipple; 2-6 tumour in upper outer quadrant [4 and 5 composite slices]; 7 upper outer quadrant; 8 lower outer quadrant; 9 upper inner quadrant; 10 lower inner quadrant [margins 2,3,4,7,8 and 10 include posterior margin. 8 also includes anterior margin and inferior margin]). RS (M-10/MC 28/2/2068 cy)
+MICROSCOPIC: (Dr. M. Derenthal)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI:  One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 30mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE:  Infiltrating duct carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules:  3, Nuclei: 2, Mitoses:  1; Total score: &amp;#160;6&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;3&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 50mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+PERINEURAL INVASION:  Not seen
+&amp;#160;
+SKIN INVOLVEMENT: Not seen
+
+DERMAL LYMPHOVASCULAR INVASION:  Not seen
+&amp;#160;
+NIPPLE INVOLVEMENT: Not seen
+&amp;#160;
+MUSCLE INVOLVEMENT: N/A
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: 20mm beyond invasive tumour
+Nuclear grade: Intermediate grade
+Architecture / type: Cribriform
+Necrosis: Present
+Microcalcification of DCIS: Absent
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Absent
+
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma is well clear (&amp;gt;10mm) of all surgical margins of resection.
+&amp;#160;
+DCIS MARGINS:  DCIS is also well clear (&amp;gt;7mm) of all surgical margins.
+&amp;#160;
+ANCILLARY TESTS:
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+
+OESTROGEN RECEPTOR:        positive(90% of cells +++)
+PROGESTERONE RECEPTOR: positive(90% of cells +++)
+
+HER-2 IMMUNOPEROXIDASE
+NEGATIVE (score 1+)
+
+Ki-67 proliferative index:&amp;#160;20%
+
+LYMPH NODES
+SENTINEL LYMPH NODES:   Not involved(including negative staining with Cam5.2)
+
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 1
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2  , pN0
+
+DIAGNOSIS:
+LEFT SENTINEL LYMPH NODE:   NO TUMOUR SEEN IN ONE LYMPH NODE
+LEFT BREAST:  INFILTRATING DUCT CARCINOMA
+26/2/2070 nh
+HER-2 IN-SITU HYBRIDISATION
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+HER2 Dual ISH result:          NEGATIVE
+
+Mean HER2 copy number per cell:   3.3
+Mean CEP17 copy number per cell: 2.3
+HER2/CEP17 Ratio: 1.43
+
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt;2.0, Average HER2 &amp;gt; 6.0
+Positive: HER2/CEP17 &amp;gt; 2.0
+
+Reported by: Dr. M. Kutlu
+Date: 2.3.67

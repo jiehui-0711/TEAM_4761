@@ -1,0 +1,34 @@
+SPR no: 75M1560013
+MRN no: 7541560
+Site_name: SOUTHERN CROSS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL :
+HG serous ovarian ca.  CVA. COPD.  Hypothyroidism.  Hypercholesterolaemia.
+Additional information obtained:  Interval debulking post 3 cycles of chemo.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, bilateral tubes and ovaries&amp;#8220;, consists of a previously sagittally opened uterus, 140 x 55 x 40mm, with a large tumour extending from the right side of the uterus, 160 x 150 x 80mm.   The ectocervix measures 35 x 30mm and has an unremarkable surface. The posterior cervical margin is inked black and the anterior cervical margin is inked blue.  On sectioning, the endometrium measures 1mm in maximum thickness and the myometrium measures 25mm in maximum thickness.  The cut surface of the tumour has a pale grey, whorled appearance consistent with a fibroid.  Scattered other fibroids (no fewer than five) are seen in the myometrium measuring 2 to 12mm in maximum dimension.  Adherent to the fibroid and posterior aspect of the uterus is a nodule, 50 x 30 x 35mm, with a pale grey/pale yellow solid cut surface, ?right ovary.  The right fallopian tube is not identified.  The left fallopian tube measuring approximately 35 x 6 x 5mm, and left ovary measuring approximately 20 x 12 x 10mm, are fused together.
+Blocks 1-5 - midline LS anterior uterus and cervix; 6-9 - midline LS posterior uterus and cervix; 10 - right cornu including portion of large fibroid; 11-15 - smaller nodule, ?right ovary; 16-23 - rep fibroid; 24-28 - sections of fused left fallopian tube and ovary.
+
+B.  Specimen labelled &amp;#8220;Omentum&amp;#8220;, consists of omental tissue, 230 x 80 x 30mm. On sectioning, no lymph nodes or tumour are seen.  RS 3 blocks.
+
+C.  Specimen labelled &amp;#8220;Appendix&amp;#8220;, consists of a vermiform appendix, 50 x 7 x 6mm, and mesoappendix, 17mm in maximum width. The serosal surface is smooth and grey.  No tumour is identified.  The appendix has a wall thickness of 1mm.
+Block 1- LS complete distal tip; 2 - mid TS; 3 - LS proximal end.  (JB/ec  27.10.66)
+
+
+MICROSCOPIC (Reported by Dr T Keitzer):
+A.  Sections of the right ovary show high grade carcinoma with focal psammomatous calcification, multinucleation and bizarre nuclear atypia consistent with high grade serous carcinoma.  No sarcomatoid component is seen.  Extensive viable tumour is present.  The right fallopian tube is not identified.
+A small focus of psammomatous calcification is noted on the uterine serosa suggestive of treatment affected carcinoma.  The left ovary and left fallopian tube show no significant abnormality.
+The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium contains leiomyomas with the largest showing degenerative changes.
+
+B.  Sections of the omentum show scattered psammomatous calcification however, no viable tumour is identified within the representative sections.
+
+C.  Sections of the appendix show a deposit of psammomatous calcification with associated giant cell reaction on the serosa suggestive of treatment affected carcinoma.  The remainder of the appendix shows fibrous obliteration of lumen only.
+
+
+DIAGNOSIS:
+A - C.  Uterus and cervix, bilateral tubes and ovaries, omentum and appendix:
+- Residual high grade serous carcinoma of the right ovary
+- Psammomatous calcification of the uterine serosa, omentum and appendiceal serosa.

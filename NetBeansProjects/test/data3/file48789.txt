@@ -1,0 +1,133 @@
+SPR no: 67O400309H
+MRN no: 675400
+Site_name: MONA VALE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Metastatic pancreatic neuroendocrine tumour to both lobes of liver.  Specimen distal pancreas and spleen.  Coeliac Lns.  Rt lobe of liver and edge segment V.
+
+Request information sheet received: No
+Radiology reports received: No
+
+
+MACROSCOPIC:
+
+Specimen labelled: Spleen plus pancreas.
+Specimen Type:
+Partial pancreatectomy, pancreatic tail
+
+Specimen dimensions:
+Size of and weight of spleen: 105 x 72 x 50mm
+Size of pancreas: 95 x 40 x 34mm
+Omentum:  165 x 130 x 40mm.
+
+Orientation:
+Other: None provided.
+
+Tumour location:
+Pancreatic tail
+
+Tumour:
+Description: Relatively well circumscribed pale tumour, expanding through the pancreatic parenchyma and abutting the fat within the splenic hilum.
+Tumour Size:
+Greatest dimension: 60mm
+Additional dimensions: 34 x 25mm
+
+Distance of tumour to margins:
+Pancreatic neck: greater than 10mm
+
+Distance of tumour to surfaces:
+Anterior: Abutting
+Posterior: Abutting
+
+Additional gross pathologic findings:
+
+Specimen inked:
+Anterior: Blue
+Posterior: Black
+Pancreatic margin: Green
+Superior mesenteric artery: Red
+
+Blocks:1 - 4mm shave, pancreatic neck margin; 2 to 23 - slices two to twelve, each bisected over two blocks and embedded superior followed by inferior; 24 - slice eighteen; 25 - splenic hilar lymph nodes; 26 &amp;amp; 27 - splenic hilum with ?lymph node metastasis; 28 to 32 - slices thirteen to seventeen (big blocks).
+
+B.  Specimen labelled &amp;quot;Segment four + five liver edge resection&amp;quot;, consists of a wedge resection of liver weighing 45 grams and measuring 75 x 50 x 36mm.  The capsule appears tan and uniform.  On sectioning there are two discrete well circumscribed tumours measuring 10 and 21mm in maximum dimension.  The smaller tumour measures 16mm from the parenchyma resection margin and abuts the capsular margin.  The larger tumour measures from the parenchyma margin and is located 1mm from the capsular surface.  Blocks: 1 - smaller nodule with closest parenchymal margin; 2 &amp;amp; 3 - composite sections, through larger tumour with closest parenchymal margin; 4 - liver away from tumours.
+C.  Specimen labelled &amp;quot;Segment 6 &amp;amp; 7 liver resection&amp;quot;, consists of a wedge resection of liver weighing 295g and measuring 125 x 85 x 72mm.  The capsule shows two areas of puckering and pallor measuring 17 and 37mm maximum dimension.  On sectioning there are four tumour deposits ranging in size from 15 to 47mm in maximum dimension.  Two of the smaller deposits abut the parenchymal resection margin.  Blocks: 1 &amp;amp; 2 - tumour deposits with abutting parenchymal resection margin; 3 &amp;amp; 4 - sections from largest deposit with parenchymal and capsular margin; 5 - small subcapsular deposit.
+D.  Specimen labelled &amp;quot;Coeliac lymph node&amp;quot;, consists of consists of two lymph nodes with attached fat measuring 50 x 25 x 10mm in total.  Blocks: 1 - smaller node bisected; 2 &amp;amp; 3 - larger nodes serially sliced.  AE.   (TO:AP/ta 10/5/70)
+MICROSCOPIC (Reported by Dr R Greenough):
+A. Sections show a 60mm pancreatic neuroendocrine tumour, grade 2. The lesion is composed of nests and sheets of tumour cells with predominantly uniform round nuclei and fine chromatin. Scattered larger tumour cells with prominent nucleoli are seen. Tumour with glandular and trabecular architecture is also present. There are up to 10 mitoses per 10 hpf.
+There is extensive, multifocal lymphatic and venous invasion. Extensive tumour is seen in the splenic vein. The lesion focally surrounds the circumference of the splenic artery (A28), however no invasion into the wall of the artery is seen.
+The shave margin of the splenic vein margin (A4) has been cut to extinction across multiple levels. Tumour is seen in the lumen of the vessel at the deepest level, and involvement of this margin cannot be excluded.
+Multifocal perineural invasion is also present.
+The spleen is unremarkable. There is no evidence of malignancy.
+Metastatic tumour is present in 1 out of 26 lymph nodes.
+Immunohistochemistry:
+CD56: +ve
+Chromogranin: +ve
+Synaptophysin: +ve
+NSE: +ve
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Pancreatic neuroendocrine tumour, grade 2
+
+Mitoses: 10 per 10 hpf
+Ki67 index: 13.6% (500 cell counted)
+
+Microscopic tumour sites
+Tail of pancreas
+
+Extent of tumour invasion
+Pancreas
+
+Maximum tumour diameter
+60mm
+
+Lymphovascular invasion
+Present
+
+Type of vessel
+Lympahatic
+Venous (including splenic vein)
+
+Perineural invasion
+Present, multifocal (e.g. A20, 22)
+
+Margins:
+Pancreatic neck: &amp;gt; 10mm
+Inferior: 0.15mm (A13)
+Superior: 0.1mm (A14)
+
+Vascular margin splenic vein (A4):  involvement cannot be excluded (see text)
+
+Surfaces:
+Anterior: 0.1mm (A12)
+Posterior: 0.4mm (A32)
+
+Lymph nodes:
+Number found:  26
+Number involved: 1 (A32)
+
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (pT)
+T3		Tumour limited to the pancreas, &amp;gt;4 cm
+
+Regional lymph node category (pN)
+N1		Regional lymph node involvement
+
+Distant metastasis category (pM)
+M1 		Distant metastasis (to liver, specimens B and C)
+
+B. Sections show liver with two deposits of metastatic neuroendocrine tumour, grade 2, measuring 10mm and 21mm in size. There are up to 9 mitoses per 10 hpf. The Ki67 index is 14.8% (across 500 cells). The uninvolved liver appears unremarkable.
+The lesions are &amp;gt; 10mm from the margin.
+C. Sections show liver with four deposits of metastatic neuroendocrine tumour, grade 2, measuring ranging from 15mm to 47mm in size. There are up to 10 mitoses per 10 hpf. The Ki67 index is 17.0% (across 500 cells).  Lymphovascular invasion is seen. The uninvolved liver appears unremarkable.
+Tumour is seen at the inked liver parenchymal margin over a 9mm front (C2).
+D. Sections show 2 lymph nodes with no evidence of malignancy.
+DIAGNOSIS
+A. Distal pancreas and spleen:
+- 60mm pancreatic neuroendocrine tumour, grade 2 (see text for margins)
+- Metastatic tumour in 1 out of 26 lymph nodes
+B. Segments 4 and 5 liver resection: 2 deposits of metastatic neuroendocrine tumour, grade 2, 10mm and 21mm in size, margins clear
+C. Segments 6 and 7 liver resection: 4 deposits of metastatic neuroendocrine tumour, grade 2, up to 47mm in size, positive margin
+D. Coeliac lymph nodes: 2 lymph nodes with no evidence of malignancy

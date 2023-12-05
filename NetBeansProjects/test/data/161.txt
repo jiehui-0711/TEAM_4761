@@ -1,0 +1,46 @@
+Episode No:  80Y198956B
+809198.YOQ
+
+AUGENSTEIN, CLARK 
+Lab No:  80Y19895
+Scottish
+ECHUCA  VIC  3926
+Specimen: Tissue
+D.O.B:  6/4/1995
+Sex:  M
+Collected: 10/12/2013 at 08:17
+Location:  Immunology-WAUCHOPE DISTRICT MEMORIAL HOSPITAL
+DR MARTY BERRY GAVILANES
+Distribution:   FILE-COPY
+CLINICAL:
+?DE diff liposarcoma.  BG:  Radiotherapy + neck for lymphoma (adjacent to mass).  Has also had neoadjuvant radiotherapy.  (R) Shoulder + trapezius muscle sarcoma - wide excision.  
+MACROSCOPIC:
+Specimen labelled "Lesion right trapezius, short superior, long lateral" consists of an ellipse of skin with underlying subcutaneous tissue to muscle (trapezius).  The ellipse of skin measures 127 x 35mm and the surface of the skin appears unremarkable.  The underlying subcutaneous tissue and muscle measures 110 x 60 x 30mm.  There are two sutures as designated (long lateral, short superior, the short suture is designated 12 o'clock and the long suture designated 3 o'clock.  The 12 o'clock margin is inked blue and the 6 o'clock margin black.  There is a gelatinous tan heterogenous tumour within the muscle extending to the deep subcutaneous tissue.  The tumour has areas of haemorrhage and focal calcification.  The tumour mass measures 40 x 30 x 40mm.  The margins are as follows.  2mm 6 o'clock, 8mm 12 o'clock, 3mm deep, 35mm 3 o'clock and 35mm 9 o'clock.  Representative sections in 16 blocks.  
+Blocks:  1 - 3 o'clock margin one LS; 2 to 5 - paired blocks; 6 - TS through lesion; 6 to 11 - paired blocks TS through tumour showing closest deep and 6 o'clock margins; 12 - tumour and ?closest 6 o'clock margin; 13 to 15 - paired blocks, one TS through tumour from 12 to 6 o'clock; 16 - one LS 9 o'clock.  (TO: ZC:  RT/mm 2.12.63)
+MICROSCOPIC:  (Reported by Dr U Protano)
+Sections are of skin extending to deep subcutaneous tissue, including skeletal muscle at the deep aspect. The 40mm subcutaneous tumour is a high grade sarcomatoid tumour. The tumour consists of moderately to markedly atypical stellate to spindled cells withina variably fibromyxoid and hyalinised stroma. The tumour cells are arranged in sheets, poorly formed fascicular structures and in a storiform pattern surrounded by vascularised fibromyxoid stroma. Numerous highly atypical, bizarre multinucleated tumour cells are seen. In some areas, hyalinised bands of osteoid-like material separate malignant tumour cells (osteoid present in approximately 10% of tumour). Focal chondroid matrix and calcified bone formation are also seen. The tumour shows increased mitotic activity, includingscattered atypical mitoses. Very occasional foci of necrosis (up to 5%) are present. The tumour infiltrates the surrounding fibroadipose tissue and skeletal muscle, and numerous degenerate skeletal muscle fibres are seen. The surrounding adipose tissue contains scattered atypical cells, however, no lipoblasts are identified. Background epidermal and dermocutaneous changes in keeping with history of previous radiotherapy are seen. An incidental benign naevus (clear of margins) is present. 
+The margins are as follows:
+12 o'clock margin: 4.4mm (block 5).
+3 o'clock margin: Well clear (>10mm).
+6 o'clock margin: Focal positive margin (block 7).
+9 o'clock margin: Well clear (>10mm). 
+Deep margin: 1.7mm (blocks 9 and 12).
+
+IMMUNOHISTOCHEMISTRY:
+Immunohistochemical stains were performed and the results are as follows:
+Tumour cells positive for: Vimentin.
+Tumour cells negative for: Cam5.2, Pancytokeratin, CD34, desmin, LCA, myogenin, S100 and SMA. 
+Ki-67: Variable, up to 15% of tumour cell nuclei positive.
+
+COMMENT:
+The 40mm subcutaneous righttrapezius tumour is a high grade malignant sarcomatoid tumour. The overall morphology and pattern of immunohistochemical staining are those of a high grade pleomorphic sarcoma with focal osteosarcomatous component (approximately 10%). 
+The surrounding adipose tissue contains scattered atypical stellate cells, with smudgy chromatin and cytoplasm and variably prominent nucleoli. The possibility of a dedifferentiated liposarcoma has been considered and cannotbe entirely excluded. However, the atypia in the surrounding adipose tissue may represent single cell infiltration of fat by malignant sarcoma cells, or alternatively, radiotherapy induced atypia. However, as a dedifferentiated liposarcoma cannot be entirely excluded, FISH testing for MDM2 amplification may be useful if clinically indicated. 
+Please correlate with clinical and imaging findings. 
+
+
+DIAGNOSIS:
+Lesion right trapezius: 
+High grade pleomorphic sarcoma with focal osteosarcomatous component (approximately 10%).
+Tumour present focally at 6 o'clock margin. 
+Please see comment. 
+

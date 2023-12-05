@@ -1,0 +1,65 @@
+
+Episode No:  84V577553I
+8485775.NJI
+
+MCALARY, Jerrell 
+Lab No:  84V57755
+Musgrove
+BEACONSFIELD UPPER  Australian Capital Territory  5088
+Specimen: Tissue
+D.O.B:  10/5/2012
+Sex:  F
+Collected: 13/4/2065 at :
+Location:  POW L7 CONSULTING ROOMS-URANA HEALTH SERVICE
+DR RUBIN Antione TED-MEINERT
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Hookwire excision of left breast at 2 o'clock.Marking stitch: long lateral, short superior, medium medial.  Breast lesion and sentinel node.  For X-ray to confirm complete hookwire embedded in tissue.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel lymph node", consists of one lymph node with surrounding fat measuring 20mm x 10mm x 8mm.  It has been slicedinto five slices.  AE 2 blocks. 
+B.  Specimen labelled "Lesion left breast, sutures long lateral, medium medial, short superior", consists of irregularly shaped fibrofatty tissue orientated with sutures measuring 65mm (medial to lateral) x 45mm (superficial to deep) x 23mm (superior to inferior) and weighs 46.7g.  There are three sutures in place.  There is a hookwire entering from the lateral surface.  The superior surface is inked red, anterior/superficialblue, deep green and inferior surface black.  The specimen is sliced into ten slices from medial to lateral.  The cut surface shows a firm ill-defined pale lesion in slices 3 to 5, measuring 20mm x 18mm x 15mm.  The lesion lies 5mm from deep margin and inferior margin, 4mm from superior margin and 20mm away from the anterior margin.  There is an area of haemorrhage in slice six and seven (probable hookwire trauma). The hookwire tip is in slice three.  The rest of the tissue is uniformly fibrofatty.  Specimen x-ray received.
+Blocks: 1 to 3 - slice one; 4 and 5 - slice two; 6 to 8 - slice three; 9 to 11 - slice four (block 9 reserved for tumour banking); 12 - RS of slice five; 13 to 15 - slice six; 16 to 17 - slice eight; 18 to 19 - slice ten.   
+(OB/vo 14.4.65) 
+MICROSCOPIC (Reported by Dr X Massy & registrar Dr X Malcom):
+A & B.  Sections show invasive ductal carcinoma of the breast.  The features are as follows:
+Invasive carcinoma:
+Site:  Left breast2 o'clock.
+Type:  Invasive ductal carcinoma.  
+Invasive tumour size:  15mm.
+Grade (Modified Bloom & Richardson):  2
+Tubules:   3   Nuclei:   2   Mitoses:   2   Mitotic rate:  13/10hpf.
+Lymphovascular invasion:  Absent.
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  20mm
+Nuclear grade:  High grade.
+Architecture:  Solid.
+Necrosis:  Present.
+Calcification:  Minimal.
+Degree of DCIS in tumour:  Minimal.
+DCIS in adjacent tissue:  Moderate.
+Excision Margins:  
+Invasive component:  3mm from inferior, 5mm from superior, well clear of other margins.  
+In-situ component:  3mm from inferior, 6mm from superior, well clear of other margins.  
+Receptors (Block B10): 
+ER:Positive
+	Greater than 95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	5% of nuclei stained
+	predominant intensity of staining:  Weak
+HER2 (Novocastra 10A7):  Positive (score 3+)
+HER2 SISH:  Performed at KeyCorp, MOORA HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 10%
+Nipple:  Not applicable.  
+LCIS / ALH:  Absent.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

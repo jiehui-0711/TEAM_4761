@@ -1,0 +1,74 @@
+
+Episode No:  53I5990798
+5335990.TYX
+
+Einwalter, Huey 
+Lab No:  53I59907
+Imber
+THE ENTRANCE  Western Australia  6357
+Specimen: Tissue
+D.O.B:  13/9/1973
+Sex:  M
+Collected: Unknown at :
+Location:  SOUTH SURGICAL ASSESSMENT UNIT-MILTON ULLADULLA HOSPITAL
+DR Geoffrey ARCHER HARVEY
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Rectal tumour full thickness excision.  Anterior rectal tumour at 7cm removed with tems full thickness.  
+MACROSCOPIC:
+Specimen labelled "Rectal cancer" received fresh, consists of an ellipse shaped segment of bowel and 70 x30 mm  and a small amount of perirectal fat.  No peritoneum/ reflection is identified.  There is an exophytic tan tumour measuring 70 x 30 x 21mm.  The tumour appears to abut the peripheral (mucosal) margins.  On sectioning no definite extension into muscularis propria is seen.  No lymph nodes are identified.  Piece of tissue divided for tumour bank.  The specimen is serially sectioned and all embedded in 14 blocks.  (TO: TB; WD/mm 6.11.63) 
+MICROSCOPIC:  (Reported by Dr Y Amel)
+The entire specimen is embedded and examined.  Sections show a 10mm adenocarcinoma arising within a 70mm tubulovillous adenoma with low and high grade dysplasia (the latter comprising approximately 30% of the adenoma). The carcinoma is mainly intramucosal, however, there is focal extension into the superficial submucosa associated with stromal desmoplasia.  Assessment of submucosal extension is difficult due to loss of the muscularis mucosae in this area (highlighted with a desmin immunostain), however, the contour of the tumour extends below the adjacent muscularis mucosa and tumour nests are present immediately adjacent to medium sized vessels consistent with submucosal invasion.  No lymph nodes are identified in the small amount of included adipose tissue.  A synoptic report follows:
+Shown to Dr Y Lutton who agrees there is a component of submucosal extension.
+
+BOWEL CANCER PROFORMA
+
+Macroscopic Description
+Procedure:  Limited excision (TEMS)
+Site of tumour: Rectum anteriorly	
+Maximum tumour diameter:   70mm (nb.  mostly adenoma microscopically)
+Distance of tumour to nearest mucosal margin (unoriented):  Abuts
+Tumour perforation:   No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Below
+Microscopic Description
+
+Type
+Adenocarcinoma NOS (10mm diameter)
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT1		Limited to submucosa
+Tumour involvement of margins
+Mucosal/mural margin (not oriented):  Not involved.
+-  Submucosal invasive carcinoma - 3.2mm (block 4)
+-  High grade dysplasia/ intramucosal carcinoma - 1mm (block 4 & 5)
+-  Low grade dysplasia (adenoma) - 0.6mm (block 9 difficult to assessas some disruption) 
+Non-peritonealised circumferential margin:  Not involved
+Histologicalmeasurement from tumour to non-peritonealised margin: 2.2mm (in an area deficient of overlying adipose tissue).   
+Lymph nodes
+Number of lymph nodes present: 0	
+	
+pNX	Regional LN cannot be assessed
+Lymphovascular invasion:  Not seen
+Absent
+Perineuralinvasion:  Not seen
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Tubulovillous adenoma (low and high grade dysplasia)
+ A single diverticulum lined by adenomatous epithelium is also present.
+There is minimal non-involved mucosa for assessment.  
+Mismatch Repair Deficiency (MMRD) Status (limited sample predominantly intramucosal carcinoma)	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Stage - TNM 7th Edition
+pT1    pNX    pMX    
+

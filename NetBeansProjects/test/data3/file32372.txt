@@ -1,0 +1,138 @@
+SPR no: 45I181589O
+MRN no: 4531815
+Site_name: MOUNT DRUITT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+72 year old male imaging for unintentional weight loss ? pancreatic head/duodenal mass.  No distant metastases ? malignancy ? margins.  Pancreaticoduodenectomy.
+Request information sheet received:  Yes
+Radiology reports received:  No
+
+
+MACROSCOPIC:
+
+Specimen labelled:  Whipples
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&amp;apos;s resection), partial pancreatectomy
+
+Specimen dimensions:
+Length of duodenum:  215mm
+Length of stomach:  35mm (and up to 50mm in diameter)
+Size of gallbladder:  75 x 37 x 35mm
+Wall thickness of gallbladder: 1mm
+Calculi in gallbladder:  Absent
+Size of and weight of spleen:  Not applicable
+Length of bile duct:  2mm (common hepatic bile duct)
+Maximum diameter of bile duct: 5mm
+Size of pancreas:  78 x 57 x 53mm
+Location of stent:  Not applicable
+Length of segment of vessels present in resection specimen:  Not applicable
+
+Orientation:
+Portal vein:  Single suture
+Superior mesenteric artery:  Double suture
+Uncinate process:  Triple suture
+Common bile/hepatic duct:  Sutured
+Other: None
+
+Tumour location:
+Pancreatic head
+
+Tumour:
+Description:  Well circumscribed tumour within the anterior portion of the head of pancreas, abutting the adjacent duodenal wall. The cut surface has a uniform pale tan appearance with central areas of haemorrhage and possible necrosis.
+Tumour Size:
+Greatest dimension: 35mm
+Additional dimensions: 30 x 25mm
+
+Distance of tumour to margins:
+Pancreatic neck:  8mm (slice 3)
+Common bile duct:  Well clear
+Portal vein bed:  2mm (slice 5 and 6)
+Superior mesenteric artery:  20mm (slice 7)
+Uncinate process:  Well clear
+Proximal intestinal/gastric:  Well clear
+Distal intestinal margin:  Well clear
+
+Distance of tumour to surfaces:
+Anterior: 1mm (slice 6 and 7)
+Posterior: Well clear, greater than 35mm
+
+Additional gross pathologic findings:
+The bowel mucosa has regular tan folds.  The ampulla appears unremarkable.  Multiple lymph nodes are identified within the attached peripancreatic fat.  A separate piece of omental fat is provided measuring 230 x 120 x 30mm, with no masses seen.
+
+Specimen inked:
+Anterior:  Black, with nick
+Posterior:  Black
+Portal vein:  Blue
+Superior mesenteric artery:  Red
+Uncinate process:  Green
+
+Blocks:
+1 -  Proximal gastric margin; 2 - distal small bowel margin; 3 - Common hepatic bile duct margin; 4 &amp;amp; 5 - anterior and posterior pancreatic neck margin shave; 6 &amp;amp; 7 - LS superior portion of tumour with adjacent overlying gastric mucosa; 8 to 20 - big blocks (8 &amp;amp; 9 slice two, superior pancreas; 10 &amp;amp; 11 - slice three; 12 &amp;amp; 13- slice four; 14 &amp;amp; 15 - slice five; 16 &amp;amp; 17 - slice six; 18 - slice seven; 19 - slice eight; 20 - slice ten, inferior pancreas); 21 - LS through uncinate margin; 22 to 24 - representative omental fat; 25 - gallbladder (cystic duct fundus and body).  See diagram. (TO:AP/eh 17/2/67)
+
+MICROSCOPIC (Reported by Dr L Lasalle):
+Sections show a 30mm moderately differentiated adenosquamous carcinoma predominantly situated within adipose tissue on the anterior aspect of the head of the pancreas.  No lymphovascular or perineural invasion is seen.  Tumour invades into the duodenal wall and focally ulcerates the mucosa.  In many areas the tumour deposit appears separate to the pancreas however, focally the tumour abuts and possibly involves the anterior aspect of the head of the pancreas.  The intrapancreatic common bile duct and ampulla show no abnormality.  The tumour shows positive staining with CK7 and CK19.  The CK20, CDX2, GATA3, PSA, TTF-1 and PAX 8 stains are negative.  In view of the immunohistochemical profile and lack of any other reported primary malignancies, the tumour is probably of pancreatic origin although the location and  appearances are unusual.  The margins appear clear of tumour.  The 26 lymph nodes identified show no significant abnormality.  The overall features are as follows:
+
+Histological tumour type
+Adenosquamous carcinoma.
+
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Head of pancreas
+
+Extent of tumour invasion
+Duodenal wall
+Peripancreatic soft tissues
+
+Maximum tumour diameter
+30mm
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Not identified
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Present:  PanIN1a at neck margin
+
+Margins:
+Pancreatic neck:  10mm
+Common hepatic duct:  Well clear
+Portal vein (superior mesenteric vein):  5mm
+Superior mesenteric artery:  Well clear
+Periuncinate soft tissue:  Well clear
+
+Surfaces:
+Anterior:  1mm
+Posterior:  Well clear
+
+Lymph nodes:
+Number found:  26
+Number involved:  0
+
+Other pathologies:
+Gallbladder shows no significant abnormality.
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (pT)
+T2	Tumour &amp;gt;2 cm and &amp;#8804;4 cm in greatest dimension
+
+Regional lymph node category (pN)
+N0	No regional lymph node metastasis
+
+Distant metastasis category (pM)
+MX 	Not assessable by histology
+
+
+DIAGNOSIS:
+Whipples:
+- 30mm adenosquamous carcinoma, margins clear
+- 26 negative lymph nodes

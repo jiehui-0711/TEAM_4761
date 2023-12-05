@@ -1,0 +1,83 @@
+Episode No:  10L093993E
+104093.ZYH
+
+BUCHELI, Sharita 
+Lab No:  10L09399
+Double R
+BATEHAVEN  WA  7005
+Specimen: Tissue
+D.O.B:  1/4/1992
+Sex:  M
+Collected: 03/10/2065 at 09:38
+Location:  PaLMS-FLINDERS ISLAND MULTI PURPOSE CENTRE
+DR JARROD TIMOTHY Wheelen
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Ultra low Hartmann's for lower rectal cancer.  Prostate Ca, radiation proctitis.
+Additional information from Dr Denver Dorosan (Colorectal Intern):  Difficult dissection;  Intraoperatively 1cm clearance of tumour from both distal and radial margins.
+
+
+MACROSCOPIC:
+Specimen labelled "Rectum" and consists of a partially opened segment of large bowel and rectum, 190mm in length and 75mm circumference, with mesocolon up to 60mm in width.  The distal portion of the resection is slightly ragged.  The anterior peritoneal reflection is 45mm from the distal end of the resection.  Within the rectum, sitting astride the peritoneal reflection, is an ulcerated tumour with a raised rolled edge.  The tumour is 45 x 40 x 7mm.  The tumour appears to be 9mm from the distal end of the specimen.  The tumour infiltrates through the muscularis propria into the perirectal fat.  The tumour appears to be 3mm clear of the anterior radial margin and 4mm from the posterior mesocolon margin.  There is a semi-detached polypoid fragment offriable haemorrhagic bowel wall, 45 x 15 x 10mm, located between the tumour and the distal end of the specimen.  The distal end of the specimen and the underside of the semi-detached polypoid fragment are inked black.  The posterior mesocolon and circumferential radial margins are inked blue.  The bowel wall adjacent to the tumour appears to have a deep haemorrhagic defect.  The uninvolved bowel mucosa is unremarkable.  Also received is a separatefragment of unremarkable colon 60mm in length and 65mm in circumference.  
+Blocks: 1 - proximal margin; 2 to 4 - semi-detached polypoid fragment at distal end serially embedded; 5 - distal TS of tumour; 6 to 8 - tumour immediately below peritoneal reflection (paired sections); 9 to 11 - tumour above peritoneal reflection (paired sections); 12 & 13 - tumour above peritoneal reflection (paired sections); 14 & 15 - LS presumed distal margin; 16 - apical tissue; 17 & 18 - multiple lymph nodes below peritoneal reflection; 19 to 21 - one lymph node each block; 22 - multiple lymph nodes; 23 to 25 - pericolic fat.  Specimen photographs taken.   (TO: DX; YG/ta 3/10/65).  Re-select:  Blocks 26 to 29 - perirectal fat below peritoneal reflection; 30 to 34 - pericolic fat; 35 - further sectionof tumour.   (WB 6/10/65).
+ 
+
+MICROSCOPIC: (Reported by Dr E Dillehay):
+
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+
+Site of tumour:  Rectum
+Relation of tumour to anterior peritoneal reflection:	  Astride
+Maximum tumour diameter:  45mm
+Distance of tumour to nearer cut end:  9mm (macroscopic)
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3muscularis propria
+Tumour involvement of margins
+Cut ends:  Proximal margin clear.  Interpretation of the distal margin isdifficult due to the fragmented nature of the specimen.  The semi-detached fragment of distal rectal wall contains diathermied carcinoma at one end, which is 5mm clear of the opposite end.  
+Non-peritonealised circumferential margin:  Below the peritoneal reflection, carcinoma with diathermy artifact is seen focally at the inked circumferential surface (A7), which is therefore interpreted as a positive margin.
+Histological measurement from tumour to non-peritonealised margin:  0mm
+Lymph nodes
+Number of lymph nodes present:	Seventeen (17)
+Number of lymph nodes involved:	Nil (0)
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Extramural vascular invasion is present (A8, A11)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Nil other
+Residual tumour status
+R1	Microscopic margin involvement
+Response to neoadjuvant therapy
+Not applicable
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary 
+pT3  pN0  pMX  R1	(TNM 7th Edition)
+
+Representative sectionsseen with Dr E Gillenwaters, who concurs.
+
+DIAGNOSIS:
+Rectum, ultra low Hartmann's resection:
+	Moderately differentiated adenocarcinoma, pT3
+	See text for margins
+	Extramural vascular invasion present
+	Seventeen negative lymph nodes (0/17)
+
+

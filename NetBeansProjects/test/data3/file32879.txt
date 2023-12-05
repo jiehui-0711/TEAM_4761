@@ -1,0 +1,22 @@
+SPR no: 78S225559U
+MRN no: 7872255
+Site_name: QUILPIE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+PR B, Fe def anaemia, fleshy polyp in caecum.  ?TVA.  Right hemicolectomy.  CABG.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;, consists of a right hemicolectomy specimen measuring 150mm, consisting of 60mm of terminal ileum, in continuum with 90mm of caecum and ascending colon.  There is a polypoid lesion in the caecum measuring 35 x 30 x 25mm, situated 60mm from the proximal resection margin, 110mm from distal resection margin. There is an attached appendix measuring 55mm in length with an outer diameter of 5mm.  Mesocolon measures 90mm wide.  The uninvolved colonic and terminal ileum are unremarkable.  Serosal surface is unremarkable.  Several lymph nodes identified.
+Blocks: 1 - proximal and distal resection margin; 2 - RS of normal terminal ileum and large bowel; 3 to 10 - all of the polyp; 11  - RS of appendix (one LS base, one LS tip, one TS); 12 to 25 - lymph nodes (12 &amp;amp; 13 - one lymph node each, 14 - one lymph node, 15 - one lymph node; 16 &amp;amp; 17 - one lymph node, 18 - one lymph node, 19 - one lymph node, 20 - lymph nodes as seen, 21 - one lymph node, 22 - one lymph node, 23 - one lymph node, 24 - one lymph node, 25 - lymph nodes as seen).  (TO:LM/rs 2/1/66) 26 to 28 the remainder of appendix
+
+
+MICROSCOPIC (Reported by Dr S Tomka):
+The caecal polyp is a villous adenoma with foci of  high grade dysplasia.  There is no evidence of invasion.  The polyp is well clear of all margins.  Sections of appendix show no significant abnormality.  Sixteen lymph nodes are identified with no evidence of malignancy (0/16).  There is no evidence of invasion.
+
+
+DIAGNOSIS:
+Right hemicolectomy:
+- Caecal villous adenoma with high grade dysplasia.
+- No evidence of malignancy in lymph nodes (0/16).

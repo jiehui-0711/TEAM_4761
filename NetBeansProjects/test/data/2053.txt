@@ -1,0 +1,41 @@
+Episode No:  12G912518S
+1229125.EVS
+
+Toback, TAWANDA 
+Lab No:  12G91251
+Bibbenluke
+MORANBAH  NT  2178
+Specimen: Tissue
+D.O.B:  25/1/2026
+Sex:  M
+Collected: 20/03/2015 at 18:07
+Location:  St Vincent - MURRAY BRIDGE SOLDIERS MEMORIAL HOSPITAL
+DR LINDSAY GRAHAM KNUDSVIG
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+L testicular tumour.
+MACROSCOPIC:
+Specimen labelled "Left testis + cord", consists of a testis with attached spermatic cord.  The spermatic cord measures 85mm in length with an outer diameter of 20mm.  Testis measures 60mm x 40mm x 28mm and weighs 56g in total.  The tunica vaginales strips of easily.  The cut surface shows a pale tan brown ill-defined lesion measuring 20mm x 18mm x 15mm.  Tumour is clear of tunica albicans.  No macroscopic evidence of tumour invasion into rete testis and epididymis.  The rest of the testis is yellowish/golden.
+Blocks: 1 - spermatic cord resection margin; 2 - mid spermatic chord transverse section; 3 - base of spermatic cord; 4 to 19 - tumour (block 5 to 12 - full face of tumour,13, 14, 15, and 16 full profile of tumour); 17 to 19 - tumour; 20 - tumour relation to tunica albicans; 21 - RS of normal testis; 22 - reserved block for biobank.  (TO: NE;VX/vo 25.5.65) 
+MICROSCOPIC (Reported by Dr D Thakur):
+
+TESTIS TUMOUR PROFORMA
+Histologic type:  Pure seminoma
+Scarring: Absent
+ 
+Syncytiotrophoblastic giant cells: Absent
+Maximum tumour size (maximum dimension): 20mm
+Extent of tumour
+Rete testis invasion: Absent 
+Epididymis invasion: Absent 
+Tunica albuginea invasion: Absent 
+Tunica vaginalis invasion: Absentcord invasion: Absent
+Lymphovascular invasion: Absent
+Intratubular germ cell neoplasia (ITGCN): Present 
+	Type: Not otherwise specified 
+	Extent: Focal
+AJCC Tumour staging category (pT) (7th edition)
+T1 	Tumour limited to the testis and epididymis without vascular/lymphatic invasion 
+DIAGNOSIS:
+Left testis and spermatic cord: 20mm pure seminoma confined to the testis (pT1), rete testis clear, margins clear
+

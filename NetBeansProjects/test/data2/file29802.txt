@@ -1,0 +1,61 @@
+SPR no: 78N995671H
+MRN no: 7859956
+Site_name: DUNGOG COMMUNITY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: MSI MARKERS (9.6.2065)
+Dr U Delagado
+
+CLINICAL:
+Stage 2 serous endometrial cancer.  Mod Rad Hyst BSO, PLND.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right hypogastric lymph node&amp;quot;, consists of a fatty tissue, 20 x 14 x 6mm.  Two possible lymph nodes identified 6 and 15mm in maximum dimension.  Half of each for frozen section.
+Blocks: 1 - frozen section block 1; 2 - frozen section block 2; 3 - remaining half of larger node; 4 - remaining half of smaller node.
+
+B.  Specimen labelled &amp;quot;Left external ileac lymph node&amp;quot;, consists of a 13 x 10 x 3mm unoriented fibrofatty tissue.  No definite lymph node identified.  AE 1 block.
+
+C.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovary&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 85g in total.  The uterus is 75 x 35 x 25mm and has a smooth shiny serosal surface but also a 33 x 9mm disrupted area at the fundus which is inked green.  The anterior paracervical tissue is inked blue and posterior is inked black.  The ectocervix is 24 x 22mm and has an unremarkable surface.  Opening this uterus coronally shows a 29 x 25 x 14mm pale tan firm lesion involving the fundus and the disrupted area.  Slices through the uterus show the endometrium is up to 5mm thick on the posterior wall and the myometrium is up to 13mm thick.  The lesion at the fundus is up to 9mm thick anteriorly and 8mm thick posteriorly and appears to involve the full thickness of the wall anteriorly and reaches within 2mm of the serosal surface posteriorly.  The right fallopian tube is 49 x 6mm in diameter, the right ovary is 18 x 8 x 5mm in diameter, the left fallopian tube is 46 x 5mm in diameter and the left ovary is 15 x 7 x 6mm.  The cut surface of the fallopian tubes and ovaries are normal.
+Blocks: 1 to 9 - three full LS of anterior body and cervix, each trisected; 10 to 15 - two full LS of posterior body and cervix, each trisected; 16 - right fallopian tube fimbrial end; 17 &amp;amp; 18 - right fallopian tube TS; 19 - right ovary bisected; 20 - left fallopian tube fimbrial end; 21 &amp;amp; 22 - left fallopian tube TS; 23 - left ovary bisected.  All of the tubes and ovaries embedded.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of an 85 x 50 x 8mm unoriented fibrofatty tissue.  Serial slices show no focal lesions or lymph nodes.  RS 3 blocks.   (TO:SW/rs 28/8/65)
+
+
+FROZEN SECTION REPORT:
+Metastatic adenocarcinoma.
+Phone results to anaesthetic Registrar by Dr U Himmelmann at 2:50pm on 24/5/2016.
+
+
+MICROSCOPIC: (Reported by Dr U Bushong)
+A.  Sections show a 8.0mm deposit of metastatic adenocarcinoma in one of two lymph nodes (1/2). There is focal extranodal extension up to 0.2mm.
+
+B.  Sections show mature fibroadipose tissue. No lymph node is identified. There is no evidence of malignancy.
+
+C.  Sections of the endometrial tumour show a (high grade) serous adenocarcinoma. The carcinoma consists of malignant infiltrative sheets and glands showing moderate to high grade cytologic atypia. The tumour shows areas of necrosis. There are foci suspicious for lymphovascular space invasion.  The carcinoma infiltrates through the full thickness of the myometrium and is present at the ulcerated uterine fundal serosal surface (11mm into uterine wall 11mm thick). Carcinoma extends to the mid cervix and is 11mm from the ectocervical margin (C1). The remainder of the cervix shows changes suggestive of recent biopsy. The bilateral fallopian tubes show no significant abnormality. The right ovary shows foci of lymphovascular space invasion. The left ovary shows follicles at varying stages of development.
+
+D.  Sections show fragments of mature fibroadipose tissue. There is patchy focal mesothelial hyperplasia and congestion. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right hypogastric lymph node: Metastatic adenocarcinoma (1/2).
+
+B.  Left external iliac lymph node: No lymph node identified. No evidence of malignancy.
+
+C.  Uterus, cervix and bilateral fallopian tubes and ovaries: Serous adenocarcinoma showing full thickness myometrial invasion with overlying serosal ulceration (at fundus); cervical involvement and a focus of lymphovascular space invasion in right ovary.
+
+D.  Omental biopsy: No evidence of malignancy.
+
+MSI markers are being performed and a supplementary report will be issued.
+
+
+***SUPPLEMENTARY REPORT:
+Dr U Paliotta
+
+Immunoperoxidase stains for MSI proteins were performed and the results are as follows:
+
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+
+COMMENT:
+Preservation of staining with MSI immunoperoxidase stains indicates a low risk of microsatellite instability.

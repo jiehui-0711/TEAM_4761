@@ -1,0 +1,40 @@
+SPR no: 67V580794G
+MRN no: 10675386
+Site_name: CRAIGIEBURN HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report67V58079 (67V580794G) CONYER, Sang
+HISTOPATHOLOGY REPORT
+EAST WIMMERA HEALTH SERVICE - WYCHEPROOF AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Metastatic intra-abd Ca.
+Frozen section appendix tumour ?primary lesion
+Metastatic colon Ca.
+Small bowel + peritoneal disease
+
+MACROSCOPIC:
+A.  &amp;quot;APPENDIX TUMOUR&amp;quot;.  An appendix 50x7mm with fat 50mm thick.  At tip appendix has a 20mm distention.  On sectioning of tip there is a solid pale 20mm tumour with 3mm pale nodule in mesoappendix fax.
+(Further history:  Had CRC in 2061)
+
+F/S:  &amp;quot;Adenocarcinoma in tip of appendix, not certain if primary lesion or met&amp;quot;.  To Theatre 10, 28/3/71.  E. Millar.
+
+The base is inked blue mid specimen.  On the serosal surface is a nodular deposit of tumour.
+
+(1 frozen section; 2 both sections of base; 3 four TS; 4 tumour nodule on serosa bisected; 5 two TS; 6 other longitudinal half of tip; [except for a few trimmings, the entire appendix is embedded]). RS (M-6)
+
+B.  &amp;quot;SMALL BOWEL PERITONEAL DISEASE&amp;quot;.  A segment of small bowel and a piece of fibrofatty tissue.  The segment of small bowel  measures 180mm in length with a maximum diameter of 20mm.  One margin is inked blue, the other black.  60mm from the blue inked margin, the segment of small bowel is adherent to itself.  At the site of the adhesion is possible tumour deposit.  Also noted within the mesentery, is an attached mass of tumour 50x30x20mm.  The remainder of the serosa is somewhat roughened in areas ?tumour deposits.  On sectioning, the mucosa appears unremarkable.  No discrete mass lesions identified.  The piece of fibrofatty tissue is involved by solid tumour with pale white appearance.  The tissue measures 180x80x40mm.
+
+(1 margins; 2 site of small bowel adhesion; 3&amp;amp;4 composite slice of small bowel including attached mesentery with tumour deposit; 5 further section from mesentery and involved by tumour; 6&amp;amp;7 separate piece of fibrofatty tissue involved by tumour [block 5 is tumour block]).  RS (M-7/MC 29/3/2068 nh)
+
+MICROSCOPIC: (Dr. Q. Decoursey)
+A. The appendix mucosa is unremarkable with usual lymphoid hyperplasia and germinal centres.  Along the length of the appendix there are deposits of moderate-to-poorly differentiated adenocarcinoma sitting within the muscularis propria, in the mesoappendix and on the serosal surface.  The tumour is characterised by irregular nests of highly atypical tumour cells with some cribriforming and gland formation, with abundant apoptoses and some luminal necrosis.  The tumour and associated desmoplasia obliterate the tip of the appendix, with tumour seen spreading up from the mesoappendix through the wall into the mucosa.  The base of the appendix is not involved.  There is one lymph node in the mesentery which is not involved.
+
+Immunohistochemistry shows positive staining for CK20, CDX2, and negative staining for PAX8, GATA3, CK7, TTF1 and WT1.  This is consistent with a colorectal primary.
+
+B.  The small bowel wall is largely unremarkable.  Within the adhesion between the two segments of small bowel loop there is metastatic adenocarcinoma with morphology similar to that present in the appendix serosa.  It shows cribriforming nests of tumour cells with spotty necrosis and many signet ring cells.  There are other variably sized deposits of tumour within the mesentery and on the serosal surface.  The separate fragment of fibrofatty tissue also shows large deposits of metastatic adenocarcinoma.
+
+DIAGNOSIS:
+A-B.  APPENDIX TUMOUR, SMALL BOWEL PERITONEAL DISEASE:
+- METASTATIC COLORECTAL ADENOCARCINOMA.
+1/8/2067 ank

@@ -1,0 +1,62 @@
+Episode No:  15B382499B
+150382.LYZ
+
+GARRATT, GUADALUPE Erwin 
+Lab No:15B38249
+Durbach
+YAMBA  Western Australia  3976
+Specimen: Tissue
+D.O.B:  13/7/2000
+Sex:  M
+Collected: 3/9/2065 at :
+Location:  PERI-OPERATIVE UNIT-ONSLOW HEALTH SERVICE
+DR WILL GARRE
+Distribution:    NSW-CANCER-REGISTRY
+ADDITIONAL REPORT (26/9/65)
+
+CLINICAL:
+Frontal brain tumour ?GBM.  Likely butterfly GBM. 
+MRI (28/8/65): Large  right  frontal  lobe  lesion  with  infiltration  across  the  corpus  callosum  and  into  the  parasagittal  left  frontal  lobe.    Lesion  heterogeneity  and  marked  enhancement  suggest  an  aggressive  pathology  such  as  high  grade  glioma.    Lymphoma  is  also  a  consideration.    There  is  significant  mass  effect  with  subfalcine  herniation.  
+MACROSCOPIC:
+A.  Specimen labelled "Frontal tumour ?GBM" consists of a piece of grey solid tissue, 18 x 9 x 8mm.  1 frozen section (2 TS) + 2 smears.  
+Blocks:  1 - frozen section; 2- remainder.  AE.  
+FROZEN SECTION REPORT:
+Pleomorphic tumour with palisaded necrosis, glial and sarcomatoid areas.  Favour GBM possibly gliosarcoma.
+Phone result to Dr D Soder by Dr D Liloia/D Crinklaw on 11.20 on 03.09.65
+B.  Specimen labelled "Right frontal cortex" consists of a piece of brain tissue, 62 x 32 x 15mm.  One surface is smooth and shiny and the remainder is ragged.  Slicing reveals cortex and white matter.  Definite tumour is not seen.  
+Blocks:  1 to 6- representatives.  
+C.  Specimen labelled "FL ?tumour invasion" consists of a piece of tan and red solid tissue, 26 x 16 x 2mm.  Sliced AE 1 block.  
+D.  Specimen labelled "Braininvasion" consists of pale solid fragments 20 x 15 x 4mm in aggregate.  AE 1 block.  
+E.  Specimen labelled "Right frontal tumour" consists of fragments of tan and cream tissue, 63 x 58 x 25mm in aggregate.  Slicing reveals tan/yellow and friable cut surfaces.  
+Blocks:  1 to 6 - representatives (block 1 reserve block).  
+(TO: QB; YM/mm 4/9/65) 
+MICROSCOPIC: (Reported by Dr D Dreier)
+A, C to E. Sections show multiple fragments of gliosarcoma. The glial component is composed of sheets of GFAP +ve tumour cells with enlarged, pleomorphic vesicular nuclei. Numerous mitoses are seen.  Palisading and non-palisading necrosis, microvascular proliferation and thrombosed vessels are present. 
+The sarcomatous component is composed of intersecting fascicles of spindle shaped tumour cells with enlarged, elongated, hyperchromatic nuclei. Abundant reticulin positivefibres are present. This component is negative for GFAP and is positive for vimentin. 
+Tumour invading dense fibrous tissue (?dura) is present in specimen C.
+B. Sections show cerebral cortex with focal infiltrationof the white matter by glioma with low grade features. There are scattered tumour cells with mildly enlarged, irregular nuclei. Reactive astrocytes and increased numbers of microglia are present. No high grade features are seen. Ki67 index is approximately 10%.
+Immunohistochemical stains: 
+GFAP: +ve in glial component
+Ki67: up to 30%
+IDH1: -ve
+Vimentin: +ve
+p53: rare cells +ve
+
+Molecular tests: 
+Tissue will be sent to Dr TOCCARA FEARING, NARROGIN HOSPITAL Cancer Centre for MGMT methylation testing.
+
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block A2.
+COMMENT
+The findings are of gliosarcoma (WHO grade 4). High grade (grade 4) features are seen in all specimens, except for specimen B (rightfrontal cortex) which shows low grade (grade 2) features.
+
+
+DIAGNOSIS:
+A to E. Right frontal tumour, right frontal cortex and FL: gliosarcoma (WHO grade 4)
+ADDITIONAL REPORT (26/9/65)
+MGMT methylation testing, reported by A/Prof Alene Empey, CAMDEN HOSPITAL Cancer Research Centre:
+"DNA was extracted from paraffin tissue from Randolph Lazarini (15B3824). 
+The DNA was bisulphite modified and subjected to pyrosequencing to amplify aregion of the MGMT promoter in order to detect methylation. 
+The sample was tested twice with the appropriate controls and was found to be methylated (33%) at the MGMT promoter region." 
+

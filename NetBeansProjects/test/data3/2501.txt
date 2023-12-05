@@ -1,0 +1,71 @@
+Episode No:  04P434403M
+046434.MBI
+
+MCCAHAN, Guillermo 
+Lab No:  04P43440
+Beach Hill
+CHURCHILL  NT  5113
+Specimen: Tissue
+D.O.B:  2/3/1979
+Sex:  F
+Collected: 14/12/2065 at 09:47
+Location:  ENVOI Pathology-NARROGIN HOSPITAL
+DR Gene HYMAN Etkin
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Caecal cancer.  Right hemicolectomy.  Sigmoid colon polyp, rectal polyp. 
+MACROSCOPIC:
+A.  Specimen labelled "Right colon", consists of a righthemicolectomy 290mm in length including a length of terminal ileum 180mm in length.  The distal ileum is adherent to the caecum and is tortuous.  Upon opening there is an ulcerated tumour surrounding the ileocaecal valve.  It involves approximately 80% of the circumference of the ileocaecal valve and also involves the caecum and just extends into the ascending colon.  The tumour measures 70mm in maximum dimension and appears to directly invade into the terminal ileum where the mucosa appears slightly flattened and irregular.  No perforation is identified macroscopically.  There is fibrous material attached to the tumour on the serosal surface.  The cut surface reveals that cream firm tumour penetrates through the muscularis propria and is present at the serosal surface.  Numerous lymph nodes are identified in the mesentery.  One large lymph node is partly calcified.  No appendix is identified.  There is a separate polyp 40mm distal to the tumour; this measures 7mm in maximum dimension.
+Block 1 - bowel resection margins; 2-6 - tumour to deepest point of invasion; 7 - tumour to small bowel; 8 - apical lymph node; 9 - one lymph node serially sectioned; 10-14 - lymph nodes as seen; 15 - polyp; 16 - reserve block. 
+B.  Specimen labelled "Sigmoid polyp", consists of one polyp 6mm and several other fragments.  AE 1 block. 
+C.  Specimen labelled "Rectal polyp", consists of numerous fragments of cream polyp from 1 to 5mm. AE 2 blocks. (TO: BW/ec  14.12.65) 
+MICROSCOPIC (Reported by Dr A Recla):
+
+A.  Macroscopic Description
+
+Site of tumour:  Caecum
+Maximum tumour diameter:  70mm
+Distance of tumour to nearer cut end:  170mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  >10mm
+Lymph nodes
+Number of lymph nodes present:16
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present (Mural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot beassessed histologically
+Background abnormalities/other comments
+Adenomas - The described polyp is a tubular adenoma with low grade dysplasia
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status:  
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+B.  Sectionsshow large intestinal mucosa with muscularis mucosae.  There are features of a hyperplastic polyp.  There is no dysplasia.
+C.  Sections show pieces of large intestinal mucosa with muscularis mucosae.  There are featuresof a tubulovillous adenoma with low grade dysplasia.  No high grade dysplasia is seen and there is no evidence of malignancy.
+DIAGNOSIS:
+A.  Right colon:
+1.  Moderately differentiated adenocarcinoma, no lymph node metastases (0/16).  pT3  pN0  pMx  R0.
+2.  Tubular adenoma.
+B.  Sigmoid polyp:  Hyperplastic polyp.
+C.  Rectal polyp:  Tubulovillous adenoma.  
+

@@ -1,0 +1,34 @@
+ 307631.JTL
+DORTA, CORDELL
+30U63137
+
+Last edited : 3/12/2063		Page: 2
+CLINICAL:
+Gleason 7 Ca prostate.  Prostate and Svs and L and R pelvic LN
+MACROSCOPIC:
+A.  Specimen labelled "Prostate", consists of a prostate, 44 x 35 x 27mm, weighing 30.7g.  The right vas deferens measures 12mm and the left 22mm in length.  The right seminal vesicle measures 10 x 8 x 6mm and the left seminal vesicle measures 22 x 12 x 7mm.  The left half is inked blue and the right black with the anterior inked red.  The prostate is transversely sectioned into three slices. Slice one (apex) and5(base) are further parasagitally sectioned.  Specimen AE.   
+Blocks: 1 to 9 - slice one (apex) from left to right; 10 - slice two; 11 to 18 - slice three (base), from right to left; 19 - left seminal vesicle; 20 - left vas; 21 - right vas; 22 - right seminal vesicle.
+B.  Specimen labelled "Right pelvic lymph node", consists of a piece of fibrofatty tissue measuring 55 x 20 x 8mm.  Several lymph nodes are identified measuring from 7 to 18mm in maximum dimension.  Specimen is AE. 
+Blocks: 1 - lymph nodes; 2- one lymph node bisected..  
+C.  Specimen labelled "Left pelvic lymph node", consists of a piece of fibrofatty tissue measuring 50 x 20 x 10mm.  There are lymph nodes Identified from 3 to 30mm.
+Blocks: 1 nodes; 2 and 3 - one lymph node.  (TO: VS;FL/vo 22.11.63) 
+MICROSCOPIC (Reported by Dr H Militano):
+A, B & C. Sections show an acinar adenocarcinoma, Gleason grade 3 + 4 = 7 involving the right half of the prostate.
+Histological type: Acinar adenocarcinoma
+Tumour location: Right side extending from apex to base
+Volume/Size:	1.5ml (24mm x 17mm x 9mm x 1 slice x 0.0004) 
+Gleason score: 3 + 4 = 7
+Extraprostatic extension: Not identified
+Surgical margins: Margins clear. (Gleason 3 tumour seen at < 0.1mm from theapical margin over a 1mm front, block A6).
+Perineural invasion: Present (Block A6)
+Seminal vesicles: No evidence of malignancy
+Lymph nodes: A total of 8 negative lymph nodes (3 right side and 5 left side) are identified.
+Lymphovascular invasion: Not identified
+DIAGNOSIS:
+A, B & C. Prostate, right and left pelvic lymph nodes
+-ADENOCARCINOMA, GLEASON SCORE 3 + 4 = 7
+- STAGE pT2b pN0 MX
+- MARGINS CLEAR
+AMENDED REPORT (Reported by Dr H Ramerez on 3.12.2063)
+The relevant slides have been reviewed with Dr H Hasch. No tumour cells are present at the inked margin and the surgical margin is clear (synoptic report amended - see above).
+

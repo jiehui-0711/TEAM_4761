@@ -1,0 +1,46 @@
+SPR no: 43V953778Q
+MRN no: 4389537
+Site_name: QUILPIE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  43V953778Q
+4389537.TWQ
+
+MEADERS, WALLACE
+Lab No:  43V95377
+Manor Haven
+AUBURN  Queensland  1230
+Specimen: Tissue
+D.O.B:  28/1/2013
+Sex:  M
+Collected: 25/12/2064 at :
+Location:  WEST GYNAECOLOGY-WANTIRNA HEALTH
+DR AMOS BLAKE REVERA
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+WLE of tumour right upper arm, extensor aspect orientate with stitch at 12 o&amp;#8217;clock and skin superficial.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Lipoma right flank&amp;quot;, consists of a piece of unorientated fatty tissue 55 x 45 x 25mm.  The surface of the fatty tissue appears predominately smooth however other areas appear roughened.  The cut surface reveals unremarkable fatty tissue.  Representative sections in 2 blocks.
+B.  Specimen labelled &amp;quot;Sarcoma right elbow stitch 12 o&amp;#8217;clock&amp;quot;, consists of an orientated wide local excision measuring 90 x 50 to a depth of 45mm.  There is a suture attached to one pole marking 12 o&amp;#8217;clock.  There is an overlying ellipse of skin measuring 90 x 30mm.  The 3 o&amp;#8217;clock margin is inked blue, the 9 o&amp;#8217;clock margin is inked red and the deep margin is inked black.  The specimen is serially sectioned in the transverse plane into nine slices from slice one 12 o&amp;#8217;clock margin to slice nine 6 o&amp;#8217;clock margin.. There is a firm flesh coloured tumour identified in the subcutaneous tissue which is identified in slices two to eight and measures 56mm (12 to 6 o&amp;#8217;clock) x 42mm (3 to 9 o&amp;#8217;clock) x 25mm ( superficial to deep).  The tumour appears to come within 2mm of the deep margin, 1mm of the 3 o&amp;#8217;clock margin, 1mm of the 9 o&amp;#8217;clock margin, 10mm of the superficial margin and well clear of both the 12 and 6 o&amp;#8217;clock margins.  The tumour appears to be shelled out from these margins and the excision appears macroscopically complete.
+Blocks: 1 &amp;#8211; LS slice one; 2 and 3 &amp;#8211; slice two; 4 and 5 &amp;#8211; slice three; 6 to 9 &amp;#8211; slice four; 10 to 11 &amp;#8211; slice five; 12 and 13 &amp;#8211; slice seven; 14 &amp;#8211; LS slice nine; 15 &amp;#8211; reserved block.
+Please refer to attached diagram.     (TO: RR;RR/vo 26.12.64)
+MICROSCOPIC (Reported by Dr M Stracener):
+A.  Sections show mature adipose tissue.  No investing capsule is seen.  There is no significant variation in adipocytes cell size and no lipoblasts or stromal cell atypia is seen.  The featuresare consistent with a lipoma.
+B.  The specimen has been extensively sampled.  Sections show skin to subcutis with deep fascia and a small amount of underlying striated muscle at the deep aspect.  Superficial to, but abutting the deep fascia, is an expansile partly circumscribed, partly infiltrative tumour composed of haphazardly arranged markedly  pleomorphic cells with hyperchromatic nuclei prominent eosinophilic nucleoli, occasional intranuclear inclusions, indistinct cell borders and cytoplasm.  Focally the tumour displays dispersed pleomorphic muitivacuolated lipoblasts with cytoplasmic vacuoles indenting atypical nuclei.  Bizarre forms and multinucleate giant cells are also present. The tumour shows varying cellularity withmoderate cellularity centrally and more hypocellular areas, particularly towards the circumscribed peripheral areas, where scattered tumour cells are seen within a fibrous pseudocapsule.  The stroma is collagenous with admixed chronic inflammatory cells and a component of relatively uniform short spindle cells and there are conspicuous dilated thin walled vessels are seen in one area.  Mitoses are easily identified including atypical forms.  There is no necrosis.  Although mostly circumscribed, in areas the tumour infiltrates adjacent fatty tissue and extends close to but does not invade the fascia.  The dermis is uninvolved.  The adjacent fat shows no significant variation in cell size and no lipoblasts are identified.
+The margins are as follows:
+3 o&amp;apos;clock:  0.7mm (B13) with intervening fibroadpose tissue.
+9 o&amp;#8217;clock:  0.8   (B11) with intervening fibroadipose tissue.
+Deep:   2.1mm (B4) with intervening fibroadipose tissue and fascia.
+Superficial:  10mm.
+12 o&amp;apos;clock and 6 o&amp;apos;clock:  Well clear (&amp;gt;10mm).
+The morphology corresponds to that described in the original core biopsy report  (Healthscope Pathology lab no 43-8953778) in which no specific immunohistochemical line of differentiation or tumour mdm2 expression was identified.  The original biopsies were externally reviewed by Dr CLINT KUHNEN (JANDOWAE HOSPITAL Hospital) and by Dr M Wischmeyer (DENMARK HOSPITAL Hospital) both of whom favoured a diagnosis of pleomorphic liposarcoma.
+Further immunostains on the current specimen, (INI1 and Myogenin) are  negative.
+COMMENT:
+In the context of the previouslyreported negative mdm2 immunoexpression, the features including the presence of pleomorphic lipoblasts strongly favour a diagnosis of pleomorphic liposarcoma.  FISH analysis, which is more sensitive and specific method to detect MDM2 alterations, will be performed at MUDGEE HEALTH SERVICE&amp;#8217;s Hospital and a supplementary report will be issued.  Although pleomorphic liposarcomas typically have a worse prognosis than other subtypes of liposarcoma, tumours located superficially may have a relatively better prognosis.
+DIAGNOSIS:
+A.  Right flank:
+-  Consistent with lipoma.
+B.  Sarcoma right elbow stitch 12 o&amp;apos;clock:
+-  Strongly favour pleomorphic liposarcoma.
+-  FISH studies to follow insupplementary report.
+-  Close margins (see text).

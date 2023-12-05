@@ -1,0 +1,40 @@
+SPR no: 27W554651Z
+MRN no: 27855465
+Site_name: LISMORE BASE HOSPITAL - RIVERLANDS DRUG & ALCOHOL SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+?Ovarian Ca.  P/W bloating.  Ca125 = 1457.  CT = Bilateral solid/cystic ovarian mass.  HTN, thalassemia.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Omental nodule&amp;quot;, consists of an unoriented 30 x 24 x 16mm pale and pink tissue.  Serial slices show a pale roughened cut surface.  Two transverse sections for frozen section in two blocks.
+Blocks: 1 &amp;amp; 2 - frozen section tissue; 3 &amp;amp; 4 - three further transverse sections.
+
+FROZEN SECTION REPORT:
+Carcinoma, favour serous ca.
+Phone result to Dr Hayden SEIDL by Dr F Warncke/A/Prof F Larock at 11:25am on 4/4/2016.
+
+B.  Specimen labelled &amp;quot;Uterus, tubes, ovaries, cervix&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 389g in total.  The uterus and cervix is 70 x 28 x 42mm.  Both ovaries are enlarged by solid cystic masses which distort the fallopian tubes and extend over one surface of the uterus in a ragged fashion.  This prevents orientation of the specimen as to right and left.  One one side the identifiable fallopian tube is 40 x 10 x 5mm and the ovarian mass is 100 x 66 x 58mm on the opposite side there is possible fallopian tube 36 x 8 x 6mm and ovarian mass is 90 x 52 x 58mm.  Across the surface of the uterus where the masses extend there is a ragged area of tissue, 74 x 50mm.  The ectocervix is 24 x 22mm and has an unremarkable surface.  On sectioning the endometrium is 2mm in thickness and the myometrium is 18mm in maximal thickness with a 10 x 6 x 5mm pale subserosal nodule on the surface uninvolved by the ovarian masses.  Sections through the ovarian masses show they are predominantly solid with minor cystic components.  Residual normal ovary is difficult to identify.  The outer surface of both ovarian masses is disrupted in areas.
+Blocks: 1 to 3 - full longitudinal section of body and cervix from uninvolved surface, block 2 includes the subserosal lesion; 4 to 7 - full longitudinal section of body and cervix from involved surface; 8 &amp;amp; 9 - two further sections of involved surface of uterus; 10 &amp;amp; 11 - sections of fallopian tube one; 12 - sections of fallopian tube two; 13 to 18 - representative sections of ovarian mass one; 19 to 24 - representative sections of ovarian mass two; 25 to 30 - remainder of cervix.
+
+C.  Specimen labelled &amp;quot;Omentum plus umbilicus&amp;quot;, consists of two irregular unoriented pieces of fatty tissue, 100 x 105 x 28mm in aggregate.  One of the pieces includes overlying skin consistent with umbilicus, 28 x 25mm.  The skin margin around the umbilicus is inked blue.  Slices show a 28 x 26 x 25mm firm pale nodule immediately beneath the umbilical skin.  Slices also show the fatty tissue consistent with omentum is widely replaced by firm nodules of pale tissue.  These nodules are up to 24mm.
+Blocks: 1 &amp;amp; 2 - two sections of umbilicus and underlying nodule; 3 to 5 - three representative sections of omental nodules.
+
+D.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of a 39 x 25 x 12mm nodal tissue which appears involved.  Four RS in two blocks.
+(TO:SW/rs 7/6/65)
+
+
+MICROSCOPIC (Reported by Dr F Haen):
+A.  Paraffin sections confirm high grade serous carcinoma.
+
+B.  Both ovaries show extensive replacement by high grade serous carcinoma with focal lymphovascular invasion.  No sarcomatoid differentiation is seen.  There is also extensive involvement of the uterine serosa and out layers of the myometrium by high grade serous carcinoma with focal lymphovascular invasion.  A focus of lymphovascular invasion is also seen within the endocervical stroma.  The endocervix otherwise show no significant abnormality.  The entire distal end of the specimen is examined and no ectocervical squamous mucosa is seen.  The endometrium is inactive.  The fallopian tubes are difficult to identify however, where present appear normal.
+
+C.  Sections show high grade serous carcinoma within subcutaneous adipose tissue and omentum.  The overlying skin shows no significant abnormality.
+
+D.  Sections show a matted collection of approximately eight lymph nodes, all containing metastatic high grade serous carcinoma.  Extranodal spread is present.
+
+
+DIAGNOSIS:
+A - D.  Uterus, tubes, ovaries, cervix, umbilicus and omentum, and right pelvic lymph nodes:
+- High grade serous adenocarcinoma involving both ovaries, uterine serosa and outer myometrium, umbilicus and omentum.
+- Focal lymphovascular invasion present.
+- Eight lymph nodes positive for serous carcinoma.

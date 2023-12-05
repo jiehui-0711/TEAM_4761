@@ -1,0 +1,133 @@
+SPR no: 77C534157U
+MRN no: 7705341
+Site_name: KOOWEERUP REGIONAL HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Whipple&apos;s procedure, pancreatic head / uncinate process tumour, neoadjuvant chemoradiotherapy, intraoperative nanoknife to SMA margin.  Smoker.  Ca pancreas.
+
+Request information sheet received: Yes
+Radiology reports received: Yes
+MACROSCOPIC:
+A.  Specimen labelled:  Whipples
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&apos;s resection), partial pancreatectomy
+
+Specimen dimensions:
+Length of duodenum: 310mm
+Length of lesser curve of stomach: 35mm
+Length of greater curve of stomach: 75mm
+Size of gallbladder: See specimen E.
+Length of bile duct: 10mm (common bile duct)
+Maximum diameter of bile duct: 4mm
+Size of pancreas: 45 x 40 x 40mm
+Location of stent:  Not present
+Omentum:  350 x 85 x 15mm
+
+Orientation:  Not designated by surgical team
+Portal vein: One suture
+Superior mesenteric artery: Two sutures
+Uncinate process: Three sutures
+Common bile duct:  Silk tie
+Other:  N/A
+
+Tumour location:  No definitive tumour is identified on the sections.  The pancreas demonstrates an irregular fibrotic and mucoid appearance with no circumscribed tumour identified.
+
+Distance of tumour to margins:  Not macroscopically identified.
+
+Additional gross pathologic findings: A region of ampullary dilatation is identified measuring 8mm in maximal dimension located 85mm from the proximal gastric resection margin and 270mm on the distal resection margin, possibly representing site of previous stent.
+
+Specimen inked:
+Anterior: Red
+Posterior: Yellow
+Portal vein: Blue
+Superior mesenteric artery: Black
+Uncinate process: Green
+Other: Gastric and duodenal margins blue
+
+Blocks: 1 - proximal and distal gastrointestinal margin; 2 - ? bile duct ? artery; 3 &amp; 4 - sequential shave of bile duct margin; 5 &amp; 6 - LS through pancreatic neck margin; 7 - two lymph nodes identified in omental fat; 8 &amp; 9 - sections through separate omentum; 10 to 18 - all of pancreas embedded from superior to inferior.
+
+B.  Specimen labelled &#8220;Station 13 lymph node&#8221; consists of a lymph node with attached fat measuring 30 x 18 x 12mm.  Serially sliced and AE 2 blocks.
+
+C.  Specimen labelled &#8220;Hepatic lymph node&#8221; consists of a lymph node with attached fat measuring 16 x 13 x 5mm.  Bisected AE 1 block.
+
+D.  Specimen labelled &#8220;Subcutaneous lesion&#8221; consists of a piece of fatty tissue measuring 30 x 15 x 6mm.  No palpable nodule is identified.  AE 1 block.
+
+E.  Specimen labelled &#8220;Gallbladder&#8221; consists of a previously opened gallbladder measuring 88 x 32mm.  The wall measures up to 6mm thick and the mucosa is light brown and velvety.  No gallstones are identified within the lumen or the specimen container.  No mucosal lesions are identified  Blocks: 1 - cystic duct and neck; 2 - body and fundus.
+
+
+MICROSCOPIC (Reported by Dr U Chiera):
+A. Sections of pancreas show extensive fibrosis, organising granulation tissue and focal mucin pools, over a 30mm area, suggestive of treatment effect. The fibrosis extends to the portal vein, SMA and uncinate margins. It is also present in the intrapancreatic bile duct distal to the stent, with stricture formation. Treatment effect is seen in a single lymph node. A localised area of oedema and haemorrhage is present adjacent to the SMA margin, possibly related to the intraoperative nanoknife.
+Rare (< 20) small nests of residual adenocarcinoma, up to 0.8mm in sizer, are present over an 18mm area, involving < 2% of the tumour bed, in keeping with a near complete response. The residual tumor is confined to the pancreas, and is clear of the nearest SMA margin by 2.5mm.
+The adjacent pancreatic tissue shows chronic pancreatitis. A mild acute fibrinous peritonitis is present on the anterior surface. Superior to the ampulla, there is stent extending from the duodenum to the common bile duct. The bile duct epithelium shows acute inflammation and ulceration.
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 3: Poorly differentiated (post treatment)
+
+Microscopic tumour sites
+Pancreas
+
+Maximum tumour diameter
+- Rare (< 20) small nests of residual adenocarcinoma, up to 0.8mm are seen in the pancreas, over an 18mm area
+- Features suggestive of treatment effect present over a 30mm area
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Not identified
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Not identified
+
+Margins:
+Pancreatic neck: > 10mm
+Common bile duct: > 10mm
+Portal vein (superior mesenteric vein): 8mm (A14)
+Superior mesenteric artery: 2.5mm (A13)
+Periuncinate soft tissue: 5.5mm (A13)
+
+Surfaces:
+Anterior: 7mm (A15)
+Posterior: >10mm
+
+Lymph nodes:
+Number found: 13
+Number involved: 0
+
+Note: Fibrosis is present in 1 lymph node, suggestive of treatment effect.
+
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (pT)
+yT1c	Tumour 1-2 cm in greatest dimension (residual tumour present over an 18mm area)
+
+Regional lymph node category (ypN)
+yN0	No regional lymph node metastasis
+
+Distant metastasis category (ypM)
+yMX 	Not assessable by histology
+
+B. Sections show a lymph node with no evidence of malignancy.
+C. Sections show a lymph node with no evidence of malignancy.
+D. Sections show a thinly encapsulated lesion composed of mature adipose tissue, in keeping with a benign lipoma. There is no evidence of malignancy.
+E. Sections show gallbladder wall with acute on chronic inflammation, smooth muscle hypertrophy and Rokitansky-Aschoff sinuses, in keeping with acute on chronic cholecystitis. Focal pyloric metaplasia is also present. There is no evidence of dysplasia or malignancy.
+DIAGNOSIS
+A. Whipple resection:
+- Rare small nests of residual poorly differentiated adenocarcinoma, in keeping with near complete treatment response, confined to the pancreas
+- 13 lymph nodes with no evidence of malignancy (treatment effect seen in 1 lymph node)
+- ypT1c N0 MX
+B. Station 13 lymph node: no evidence of malignancy
+C. Common hepatic lymph node: no evidence of malignancy
+D. Subcutaneous lesion: benign lipoma
+E. Gallbladder: acute on chronic cholecystitis

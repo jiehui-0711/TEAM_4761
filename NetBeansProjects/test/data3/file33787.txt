@@ -1,0 +1,21 @@
+SPR no: 49D501442O
+MRN no: 491501
+Site_name: WONGAN HILLS HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian mass.  Tumour markers normal.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Ovarian cyst&amp;quot;, consists of a fragmented, likely unilocular cyst, approximately 105 x 50 x 40mm with a wall thickness of up to 3mm.  The cyst contents include a large amount of pale yellow, cheesy material admixed with numerous hair shafts.  No solid components are identified.  RS embedded 10 blocks.
+
+B.  Specimen labelled &amp;quot;Left uterosacral bx&amp;quot;, consists of an unorientated piece of fibrous tan tissue, 14 x 3 x 2mm.  AE 1 block.   (TO: TF/ta 28/1/67)
+
+
+MICROSCOPIC (Reported by Dr M Corning):
+A. Sections show ovarian tissue with a mature cystic teratoma (dermoid cyst). The lesion is predominantly composed of skin with adnexal structures. Respiratory epithelium, fat and smooth muscle are also present. No immature elements are seen. There is no evidence of malignancy.
+B. Sections show foci of endometriosis.  There is no evidence of malignancy.
+DIAGNOSIS
+A. Ovarian cyst: mature cystic teratoma (dermoid cyst)
+B. Left uterosacral biopsy: endometriosis present.

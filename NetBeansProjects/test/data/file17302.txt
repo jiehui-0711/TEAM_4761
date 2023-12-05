@@ -1,0 +1,33 @@
+SPR no: 94O821212B
+MRN no: 9458212
+Site_name: GOSFORD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Risk reducing BSO for BRCA 2.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Right fallopian tube and ovary&amp;#8220;, consists of a fallopian tube, 45 x 10 x 9mm, with attached ovary, 37 x 27 x 19mm.  The distal tube is adherent to the ovary.  No discrete lesions are seen in the ovary.
+Block 1 &amp;amp;  2- TS fallopian tube; 3-9 - ovary with adherent distal fallopian tube (3/4 and 5/6 - paired blocks).  Fallopian tube and ovary AE.
+
+B.  Specimen labelled &amp;#8220;Left fallopian tube and ovary&amp;#8220;, consists of a fallopian tube, 53 x 10 x 9mm,  with attached ovary, 28 x 25 x 15mm.  There are several simple cysts within the ovary.
+Blocks 1 to 3 - fallopian tube; 4-5 - ovary.  Fallopian tube and ovary AE.
+
+C.  Specimen labelled &amp;#8220;Endometrial curettings&amp;#8220;, consists of pale grey and tan tissue, 15 x 16 x 5mm in aggregate.  AE 1 block.
+
+D.  Specimen labelled &amp;#8220;Omental biopsy&amp;#8220;, consists of a piece of fibroadipose tissue, 15 x 10 x 8mm.  BAE 1 block.   (TO:  JB/ec  1.2.66)
+
+
+MICROSCOPIC (Reported by Dr X Sherraden):
+A &amp;amp; B.  Both specimens show similar histological features.  The fallopian tubes show a mild patchy chronic inflammatory infiltrate in the plicae, more prominent in the right compared to the left tube.  These features are consistent with a mild chronic salpingitis.  No acute inflammation or granulomas are seen.  A cystic corpus luteum and cystic follicles are seen in the ovaries.  There is no evidence of malignancy.
+
+C.  The uterine curettings contain late secretory endometrium.  There is no evidence of endometritis, hyperplasia or malignancy.
+D.  The omental biopsy shows no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A &amp;amp; B.  Right and left fallopian tubes and ovaries:  Chronic salpingitis.  No evidence of malignancy.
+
+C.  Endometrial curettings:  Late secretory endometrium.
+
+D.  Omental biopsy:  No significant abnormality.

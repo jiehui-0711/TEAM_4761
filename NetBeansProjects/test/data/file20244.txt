@@ -1,0 +1,81 @@
+SPR no: 48A556417N
+MRN no: 480556
+Site_name: ARMIDALE RURAL REFERRAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report48A55641,48A55641 (48A556417N) FIRMIN, CORY-ANTONIETTA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Stage 4 Ca ovary.  Positive scalene node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX, TUBES + OVARIES&amp;quot;.  Uterus with attached cervix bilateral ovaries and fallopian tubes.  The anterior surface is inked blue, posterior black.  The uterus with attached cervix weighs 84g and measures 80mm superior to inferior, 40mm intercornuate distance, 18mm anterior endomyometrium, 20mm posterior endomyometrium.  The endometrium is less than 1mm thick.  The ectocervix is 25x25mm with attached vaginal cuff which is up to 20mm wide.  There is round os measuring 3mm in maximum dimension.  The ectocervix and vaginal cuff is cream-coloured and unremarkable.  The serosa is smooth.  On sectioning through the uterus, there is a 7mm nodule with a whorled cut surface ?fibroid.  No other discrete lesions identified.
+
+(1 anterior cervix; 2 posterior cervix; 3 anterior endomyometrium; 4 posterior endomyometrium; 5 ?fibroid;
+
+The right ovary and fallopian tube together weigh 96g.  The fallopian tube is 50mm in length with a maximum diameter of 10mm.  There are multiple paratubal cysts ranging from 1-4mm.
+6&amp;amp;7 right fallopian tube [6 fimbrial end];
+
+The right ovary is cystically dilated and measures 80x65x40mm.  The serosal surface is lobulated .  The serosa is inked green.  On sectioning the cut surface reveals a partially cystic, partially solid lesion.  The solid component has a variegated appearance.  It is pink with yellow areas and mucinous areas.  There is residual normal ovarian tissue at one edge.  The solid component makes up approximately 95% of the lesion.
+
+8-17 RS of right ovary.
+
+The left ovary and fallopian tube together weigh 18g.  The fallopian tube measures 60mm in length with a maximum diameter of 10mm.  There are multiple paratubal cysts ranging from less than 1mm to 3mm.  Also noted is a 10mm parafimbrial cyst
+
+18&amp;amp;19 left fallopian tube [18 fimbrial end];
+
+The left ovary has a lobulated surface.  It measures 40x30x18mm.  The cut surface reveals cystic areas ranging from 2-4mm.  The rest of the cut surface is solid and fibrous in appearance.
+
+20-22 left ovary.  RS (M-22).
+
+B.  &amp;quot;OMENTUM BIOPSY&amp;quot;.  A piece of fatty tissue consistent with omentum.  It measures 210x75x13mm.  No firm areas are identified on palpation or sectioning.  RS (M-3).
+
+C.  &amp;quot;LEFT PELVIC NODE&amp;quot;.  A piece of fibrofatty tissue 28x6x3mm.  No identifiable nodal tissue on gross sectioning.  AE (M-1/MC 21/7/2067 nh)
+
+MICROSCOPIC:   (Dr. L. Akers)
+
+OVARIAN CARCINOMA
+
+A.
+RIGHT OVARY:	Involved
+Histological type and proportions:	High grade serous carcinoma with chemotherapeutic effect
+Histological grade:		G3
+Nuclear grade:		G3
+Mitotic rate:   N/A
+Lymphatic invasion:	Present
+Blood vessel invasion: Absent
+Capsular extension:	Present
+LEFT OVARY:		Involved
+Histological type and proportions:	High grade serous carcinoma with chemotherapeutic
+Histological grade:		G3
+Nuclear grade:		G3
+Mitotic rate:   N/A
+Lymphatic invasion:	Present
+Blood vessel invasion: Absent
+Capsular extension:	Present
+RIGHT FALLOPIAN TUBE: Involved - lymphatic vessel involvement by high grade serous carcinoma with chemotherapeutic effect
+LEFT FALLOPIAN TUBE: Involved- interstitial and lymphatic vessel involvement by high grade serous carcinoma with chemotherapeutic effect.
+Endometrium:	Atrophic
+Myometrium: Not involved- benign leiomyoma
+Cervix: Involved - stromal and lymphatic vessel involvement by high grade serous carcinoma with chemotherapeutic effect
+B.  OMENTUM: Not involved
+C.  No tumour seen in 1 lymph node examined.
+
+DIAGNOSIS:
+CERVIX :
+-INVOLVED BY HIGH GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT.
+ENDOMETRIUM :
+-INACTIVE.
+MYOMETRIUM :
+-BENIGN LEIOMYOMA.
+RIGHT AND LEFT OVARIES :
+-HIGH GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT.
+RIGHT AND LEFT FALLOPIAN TUBES :
+-INVOLVED BY HIGH GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT.
+OMENTUM :
+-NO SIGNIFICANT ABNORMALITY.
+LEFT PELVIC NODE :
+-NO TUMOUR SEEN IN 1 LYMPH NODE EXAMINED.
+25/7/2067 ank

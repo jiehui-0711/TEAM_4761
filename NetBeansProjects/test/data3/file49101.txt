@@ -1,0 +1,58 @@
+SPR no: 78I038271A
+MRN no: 783038
+Site_name: SUNSHINE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Previous Hartmann&amp;apos;s.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Distal donut&amp;quot;, consists of a segment of bowel, 10 x 10 x 7mm.  BAE 1 block.
+B.  Specimen labelled &amp;quot;Proximal donut&amp;quot;, consists of a segment of bowel, 12 x 12 x 10mm with sutures on one end.  The opposing margin is inked blue.  Specimen is serially sliced into six slices.  AE 2 blocks.
+C.  Specimen labelled &amp;quot;Colostomy&amp;quot;, consists of a segment of bowel measuring 40mm in length and 20mm in diameter.  Distal end is inked blue, proximal end inked black.  The mucosa is unremarkable.  Blocks: 1 &amp;amp; 2 - composite sections of one LS of colon.
+D.  Specimen labelled &amp;quot;Mesorectal&amp;quot;, consists of 30 x 30 x 25mm irregular, haemorrhagic pieces of fatty tissue.  The specimen is unorientated.  There is a 30mm staple across one surface, inked blue.  The cut surface shows a homogenous pale yellow surface.  A possible lymph node measuring 2mm is present.  RS 3 blocks.
+E.  Specimen labelled &amp;quot;Transverse colon&amp;quot;, consists of a tan irregular piece of tissue measuring 10 x 5 x 3mm.   AE 1 block.
+F.  Specimen labelled &amp;quot;Rectal nodule&amp;quot;, consists of a tan irregular piece of tissue, measuring 10 x 6 x 3mm.   AE 1 block.
+G.  Specimen labelled &amp;quot;Left pelvic side&amp;quot;, consists of a nodular pale white nodule, measuring 10 x 5 x 5mm.  Specimen is inked blue and bisected.  AE 1 block.
+H.  Specimen labelled &amp;quot;Colon&amp;quot;, consists of an unoriented segment of bowel measuring 20mm in length and 5mm in diameter.  The mucosa is unremarkable.  Blocks: 1 &amp;amp; 2 - RS of colon.
+I.  Specimen labelled &amp;quot;Rectum&amp;quot;, consists of a piece of two tan irregular segments of bowel measuring 20mm in length and 20mm in diameter and 20mm in length and 6mm in diameter, with three pieces of possible mesorectum measuring 45 x 15 x 15mm, 20 x 10 x 10mm, and 10 x 10 x 5mm.  The mucosa is unremarkable.  There is a pale irregular nodule on the first bowel.  Blocks: 1 to 4 - RS first bowel; 5 - RS second bowel; 6 &amp;amp; 7 - RS mesorectum.
+
+J.  Specimen labelled &amp;quot;Transverse polyp&amp;quot;, consists of a 5mm biopsy.   AE 1 block.
+(TO:FY/ta 15/10/70)
+MICROSCOPIC (Reported by Dr U Cowles and registrar Dr U Curylo):
+A.  Sections of colon show focal pseudomembrane formation with focal calcifcation.  There is no evidence of malignancy.
+
+B &amp;amp; C.  Sections of colon show no significant abnormality.  There is no evidence of malignancy.
+
+D.  Sections of adipose tissue show focal serosal adhesions.  A single (1) benign lymph node is identified.  There is no evidence of malignancy.
+
+E.  Sections of fibroadipose tissue show low grade serous tumour with focal psammomatous calcification.  Many of the tumour deposits have a surrounding desmoplastic response consistent with invasion.  The tumour is regarded as low grade serous carcinoma.
+
+F &amp;amp; G.  Sections showed a non-invasive serous implants.
+
+H.  Sections of colon show a few serosal adhesions with calcification.  There is no evidence of malignancy.
+
+I.  Sections of colon show low grade serous tumour on the serosal surface.  An area of invasion is seen consistent with low grade serous carcinoma.
+
+J.  Sections show a hyperplastic polyp.  There is no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+A.   Distal donut:  No significant abnormality.
+
+B.  Proximal donut:  No significant abnormality.
+
+C.  Colostomy:  No significant abnormality.
+
+D.  Mesorectal:  Adhesions and single benign lymph node.
+
+E.  Transverse colon:  Low grade serous carcinoma.
+
+F.  Rectal nodule:  Non-invasive serous implants.
+
+G.  Left pelvic side:  Non-invasive serous implants.
+
+H.  Colon:  Adhesions with calcifcation.
+
+I.  Rectum:  Low grade serous carcinoma.
+
+J.  Transverse colon polyp:  Hyperplastic polyp.

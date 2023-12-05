@@ -1,0 +1,74 @@
+ 726502.AIE
+CECCHINATO, DOMINGO
+72Q50203,72Q50203
+
+Last edited : 23/2/2066		Page: 
+SUPPLEMENTARY REPORT FOR IMMUNOSTAINS ATTACHED, 23/2/66
+
+
+HISTORY:  
+G-II endometrial adenoca.  
+1. Peritoneal washings.
+2. Uterus, tubes and ovaries.
+3. Omental biopsy.
+MACROSCOPIC:  
+A.  "UTERUS AND CERVIX, BILATERAL TUBES AND OVARIES".  A uterus and cervix which has been opened prior to receipt.  Recent structure measures 95mm superoinferiorly, 55mm mediolaterally, 45mm anteroposteriorly.  At the cervix there is a slit-like os measuring 5x1mm.  Mucosal surface is unremarkable. The serosal surface shows a plaque like white area on the anterior wall measuring 12x10mm.  The whole specimen weighs 145g. The left fallopian tube measures 50mm in length and up to 5mm in diameter. The left ovary measures 17x10x7mm. Both appear unremarkable. The right fallopian tube contains the fimbrial end and measures 55mm in length and up to 5mm in diameter. The right ovary measures 25x15x6mm. Both appear unremarkable.  Please note both fallopian tubes have been previously ligated.  There is atan polypoid lesion along the posterior wall of the body of uterus measuring 12x9x2mm.  No definite invasion is identified.  A leiomyoma was seen within the myometrium measuring up to 15mm.  
+(1-3 sections from left fallopian tube and ovary [all fimbrial end is submitted]; 4-6 right fallopian tube and ovary [all fimbrial end is submitted]; 7-11 full face from the posterior wall of uterus and cervix; 12-16 full face of anterior wall of uterus and cervix; 17 section from the plaque like area on the serosal surface; 18-20 additional sections of the tumour; 21 left parametrial tissue; 22 right parametrial tissue).  RS (M-22)
+.  "OMENTAL BIOPSY". A piece of omentum 20x10x7mm.  No lesions identified.  AE (1-1/RP/ank)
+MICROSCOPIC:  (Dr. T. Granfield)  
+A. Sections from the uterus show a grade II endometrioid adenocarcinoma. The tumour measures 12mm in length (macroscopic). The tumour is confined to the endometrium, there is no myometrial invasion. No lymphovascular space invasion is seen. 
+The fallopian tubes are unremarkable. The ovaries show benign inclusion cysts. 
+B. There is no evidence of malignancy in the section of omentum examined. 
+ENDOMETRIAL CARCINOMA: 
+Tumour type:  Endometrioid adenocarcinoma 
+FIGO grade:  II
+(architecture grade:  2, nuclear grade:  1)
+Myometrial invasion:  Not present
+Depth of myometrial invasion:   0mm
+Myometrial thickness:   25mm
+% of myometrium invaded:   0%
+Focality:  Unifocal
+Tumour involves:   Endometrial cavity along the posterior wall  
+Vascular/lymphatic invasion:  Not identified 
+Involvement of cervix:  Not identified 
+Involvement of uterine serosa:  Not identified 
+Excision margins:  Clear of tumour
+Non-tumour uterus:  
+Adjacent endometrium:  Sections of adjacent endometrium shows areas of atrophic endometrium, with some cystic change present and areas showing weakly proliferative glands with pseudodecidualization of the stroma. 
+Myometrium: Benign leiomyomas are identified.
+Polyps:  Not present
+Adenomyosis:    Not present
+Adnexae:  
+Left fallopian tube:  No malignancy identified 
+Right fallopian tube:  No malignancy identified 
+Left ovary:  No malignancy identified
+Right ovary:  No malignancyidentified
+Lymph nodes:  
+Nodes involved:  N/A (not received)
+Other tissues:  Omentum - no malignancy identified 
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage:  pT1a, pNx, pMx
+FIGO stage:   IA
+DIAGNOSIS:  
+A. UTERUS AND CERVIX, BILATERAL TUBES AND OVARIES:
+ - GRADE II ENDOMETRIOID ADENOCARCINOMA, CONFINED TO ENDOMETRIUM. 
+- NO EVIDENCE OF MALIGNANCY IN OVARIES AND FALLOPIAN TUBES 
+B. OMENTAL BIOPSY:
+- NO EVIDENCE OF MALIGNANCY.
+SUPPLEMENTARY REPORT FOR MSI IMMUNOSTAINS, TO FOLLOW.
+16/2/66 ht
+SUPPLEMENTARY REPORT
+Immunostains for MSI proteins (Cisco DOMAIN AGED CARE RM 2; block: A9)
+MLH1: NORMAL (POSITIVE STAINING)
+PMS2: NORMAL (POSITIVE STAINING)
+MSH2: NORMAL (POSITIVE STAINING)
+MSH6: NORMAL (POSITIVE STAINING)
+Result: Low likelihoodof microsatellite instability phenotype.
+Comment: 
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used arenot fully characterized for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigations, including MSI testing where possible.
+23/2/66 vy.
+

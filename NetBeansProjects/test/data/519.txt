@@ -1,0 +1,65 @@
+
+Episode No:  52I8770872
+523877.AVU
+
+OCHS, THERESSA 
+Lab No:  13H07142
+Cypress Garden
+FREELING  WA  6317
+Specimen: Tissue
+D.O.B:  14/7/1989
+Sex:  F
+Collected: 05/08/2013 at 10:36
+Location:  Envoi-ST JOSEPH'S HOSPITAL
+DR ROBERT AIDEN CHAPOTON
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL: 
+Recurrent right breast Ca.  CKD, HT.   WLE +RTX + axillary dissection in 2059 right breast Grade 3 ER+ 15/15 nodes.  Recurrent Ca on PET superficially and centrally, mass in axillary tail old scar.  ACC toPET.  Mastectomy -> suture 12 o'clock.  Additional inferior flap re-excised for cosmesis.  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast tissue" consists of a mastectomy specimen with a suture designated as 12 o'clock measuring 165mm (lateral to medial) x 62mm (superior to inferior) x 110mm (superficial to deep).  At the deep margin the superior to inferior distance varies from 7mm to 65mm.  The overlying skin ellipse measures 165 x 65mm and appears unremarkable.  The superior margin is inked blue and inferior margin inked black.  There is a poorly demarcated pale indurated nodule 10mm behind the nipple measuring 7 x 6 x 6mm.  This nodule is 30mm from superior, 24mm from inferior, 72mm from deep, 75mm from medial and 90mm from lateral margins.  15mm from the deep margin there is a pale area of rubbery consistency 22mm in maximum dimension at 12 o'clock.  This area abuts the superior margin.  Within the axillary tail there is a pale poorly demarcated area 22mm in maximum dimension.  
+Blocks: 1 to 3 - all of the indurated nodule behind the nipple (1 & 2 - paired blocks); 4 - breast tissue adjacent and medial to block 1; 5 to 8 - sequential sections lateral to the indurated nodule from medial to lateral; 9 - superior margin closest to the indurated nodule at 12 o'clock; 10 & 11 - the pale area 50mm from the deep margin; 12 - pale area within axillary tail; 13 & 14 - random sections upper outer quadrant; 15 & 16 - random sections lower outer quadrant; 17 & 18 - random sections lower inner quadrant; 19 & 20 - random sections upper inner quadrant.
+B.  Specimen labelled "Right breast additional lower skin flap" consists of an unorientated elongated piece of skin with breast tissue measuring 190 x 22 x 20mm.  Theskin surface appears unremarkable.  The resection margin is inked blue.  Slicing reveals a yellow glistening homogenous cut surface.  No nodules are seen.  
+Blocks: 1 to 3 - representative sections.   (CO/ta 10/7/63) 
+ 
+MICROSCOPIC (reported by Dr P Kroener):
+A & B.  Sections show invasive ductal carcinoma of the breast.  The features are as follows:
+Invasive carcinoma:
+Site:  Right breast, behind nipple.  
+Type:  Invasive ductal carcinoma.  
+Invasive tumour size:  Approximately 20mm.
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3   Nuclei:  3   Mitoses:  3   Mitotic rate:  34/10hpf.
+Lymphovascular invasion:  Not seen. 
+	    
+DCIScomponent:  
+DCIS:  Present.
+Maximum extent of DCIS:  Confined within invasive tumour.  
+Nuclear grade:  High.  
+Architecture:Solid.
+Necrosis:  Present.
+Calcification:  Absent.
+Degree of DCIS in tumour:  Moderate.
+DCIS in adjacent tissue:  Absent.
+Excision Margins:  
+Invasive component:  Well clear of all margins.  
+In-situ component:  Well clear of all margins.  
+Receptors (Block A4): 
+ER:Positive.  
+	95% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.  
+	60% of nuclei stained
+	predominant intensity of staining:  Moderate to strong.  
+HER2 (Novocastra 10A7):  Negative (score 1+).
+HER2 SISH:  Performed at Hormel Foods Central, NARROMINE HOSPITAL & COMMUNITY HEALTH Hospital, see separate report
+Ki-67 index:  Approximately 20%
+Nipple:  Tumour cells within epidermis, suggestive of Paget's disease.  Tumour ulcerates nipple skin.  
+LCIS / ALH:  Absent.
+Miscellaneous:  The additional specimen B shows skin and adipose tissue with no significant abnormality.  
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+Axillary/other nodes:of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  0
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

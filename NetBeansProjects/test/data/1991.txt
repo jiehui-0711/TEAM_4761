@@ -1,0 +1,67 @@
+Episode No:  05N178401T
+0551784.BFT
+
+HINKEN, CHANELL 
+Lab No:  05N17840
+Toppesfield
+WAUCHOPE  Western Australia  3663
+Specimen: Tissue.O.B:  3/3/1997
+Sex:  F
+Collected: 03/11/2014 at 12:19
+Location:  UROLOGY DAY ONLY-WARWICK HOSPITAL
+DR KERMIT MARTY MAYBURY
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast WLE of upper outer tumour stitch deep, long lateral, loop superior.  Axillary clearance nil orientation,  pec minor included in specimen and level 3 nodes.  
+MACROSCOPIC:
+A.  Specimen labelled "Left breast tissue stitches equals double deep, loop superior, single lateral", consists of an orientated wide local excision measuring 70mm(medial to lateral) x 100mm (inferior to superior) x 45mm (superficial to deep).  There is an overlying ellipse of skin measuring 20mm (medial to lateral) x 70mm (inferior to superior).  The skin appears to run obliquely from the inferior lateral aspect to the superior medial aspect.  The superior margin is blue, the inferior margin is inked black and the deep margin is inked red.  There is a large cleft in the lateral superficial aspect of the specimen.  This area is inked green and is considered a false margin.  The specimen is serially sectioned in the parasagittal plane into eight slices from slice one medial to slice eight lateral.  There is a firm cream poorly circumscribed lesion identified in slices six and seven measuring 18mm (medial to lateral) x 13mm (inferior to superior) x 12mm (superficial to deep).  The tumour appears to come close to the green inked cleft.  The tumour is otherwise 12mm from the superficial margin, 20mm from the superior margin, 15mm from the deep margin, 45mm from the inferior margin, 18mm from the lateral margin and wellclear of the medial margin.  
+Blocks:1 and 2 - slice one; 3 to 5 - slice five; 6 to 11 - slice six; 12 to 16 - slice seven; 17 to 22 - slice eight.  Please refer to attached diagram. 
+B.  Specimen labelled "Left axillary dissection", consists of an unorientated piece of fatty tissue measuring 140 x 130 x 35mm.  There is a section of skeletal muscle at one end measuring 80 x 40 x 25mm.  Multiple lymph nodes are identified from 3 to 22mm.  
+Blocks: 1 - lymph nodes; 2 - one lymph node serially sectioned;3 - lymph nodes; 4 - one lymph node serially sectioned; 5 - lymph nodes; 6 - lymph nodes; 7 and 8 - one lymph node serially sectioned; 9 - one lymph node serially sectioned; 10 - one lymphnode serially sectioned; 11 - one lymph node serially sectioned; 12 - one lymph node serially sectioned; 13 - one lymph node serially sectioned.
+(TO: MQ;VX/vo 6.1.64) 
+MICROSCOPIC (Reported by Dr C Blatherwick & Dr C Girdner):
+A & B.  Sections show an 18mm grade 3 infiltrating ductal carcinoma with the following features:
+Invasive carcinoma:
+Site:  Left breast, outer upper quadrant
+Type:  Infiltrating ductal carcinoma, NOS
+Invasive tumour size:  18mm (2 slices)
+Grade (Modified Bloom & Richardson): 3
+Tubules: 2     Nuclei: 3      Mitoses: 3    Mitotic rate:    21/10hpf.
+Lymphovascular invasion:  Not identified
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS: 2.5mm
+Nuclear grade:  Intermediate
+Architecture:  Cribriform
+Necrosis:   Present
+Calcification:  Not identified
+Degree of DCIS in tumour:  Minor 
+DCIS in adjacent tissue:  Not identified.
+Excision Margins:  
+Invasive component:  Superficial 7mm (A13), all other margins well clear (>10mm)
+In-situ component:  All margins well clear (>10mm)
+Receptors (Block A13): 
+ER:   positive
+	100% of nuclei stained
+	predominant intensity of staining:  strong
+PR:   positive
+	70% of nuclei stained
+	predominant intensity of staining:  moderate
+HER2 (Novocastra 10A7): 1+
+HER2 SISH: performed on previous core biopsy (please see 05N1784)
+Ki-67 index:  20%
+LCIS / ALH:  Not identified.
+Miscellaneous:  A core biopsy tract is seen.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   26 (25 in axillary dissection, plus 1 intra-parenchymal node in excision)
+Total number of involved lymph nodes (including sentinel node(s)):  2  (measuring 6mm and 1mm in size)
+Extranodal spread: Present in 1 lymph node, 0.3mm into fat over a 1mm front
+Note: The axillary clearance was not oriented.
+DIAGNOSIS:
+A and B. Left breast wide local excision and and axillary dissection:
+	18mm grade 3 infiltrating ductal carcinoma NOS, margins clear
+	2.5mm focus of intermediate grade DCIS within carcinoma, margins clear
+	2 out of 26 lymph nodes positive for metastatic carcinoma, extranodal spread present
+
+

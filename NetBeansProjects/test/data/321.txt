@@ -1,0 +1,68 @@
+
+Episode No:66X474584U
+6694745.XLU
+
+KOPPERMAN, DORENE 
+LabNo:  66X47458
+W Marathon
+CENTRAL COAST  NSW  2114
+Specimen: Tissue
+D.O.B:  18/6/2009
+Sex:  F
+Collected: 15/4/2063 at :
+Location:  Hunter Area - ST VINCENT'S HOSPITAL (MELBOURNE) LTD
+DR SAMUAL HUGO DATHE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+SUPPLEMENTARY REPORT (27.8.63):
+
+
+CLINICAL:
+Neoadjuvant chemotherapy for ovarian/peritoneal cancer, interval debulking.  
+chemotherapy effect ?. 
+MACROSCOPIC:
+A.  Specimen labelled "Left tube and ovary", consists of a fallopian tube with an attached ovary. The fallopian tube measures 40mm in length with a maximum diameter of 10mm.  The attached ovary measures 34 x 18 x 12mm.  The surface appears smooth and unremarkable. There is a 10mm cyst and a 12mm haemorrhagic area identified within the cut surface of the ovary.  Block 1-3 - representative ovary with attached tube; 4 - fimbrial end oftube. 
+B.  Specimen labelled "Right tube and ovary", consists of an ovary with attached fallopian tube and parovarian tissue.The tube measures 65mm in length with a maximum diameter of 10mm.  The ovary measures 30 x 20 x 12mm.  The surface appears smooth and unremarkable throughout the tube and ovary.  There is a 13mm cyst attached to the mid tube through a 10mm stalk. The inner cyst lining appears smooth and unremarkable.  Block 1-3 - representative ovary and parovarian tissue; 4 - fimbrial end of tube; 5 - tubalcyst. 
+C.  Specimen labelled "Pelvic peritoneum", consists of a piece of pelvic peritoneum with underlying tissue 20 x 15 x 8mm.  The peritoneum appears haemorrhagic and roughened.  BAE 1 block. 
+D.  Specimen labelled "Pouch of Douglas", consists of three fragments of peritoneum from7-10mm. AE 1 block. 
+E.  Specimen labelled "Sigmoid mesentery", consists of two fragments of tan and haemorrhagic tissue 5 and 6mm. AE 1 block. 
+F.  Specimen labelled "Sigmoid fat", consists of a piece of fatty tissue 18 x 12 x 5mm. BAE 1 block. 
+G.  Specimen labelled "Liver biopsy", consists of a wedge biopsy of liver 25 x 15 x 13mm.  Serially sectioned, AE 1 block. 
+H.  Specimen labelled "Para-caval node", consists of a piece of tan and fatty tissue 20mm containing one lymph node approximately 19mm. BAE 1 block. 
+I.  Specimen labelled "Appendix", consists of an appendix 70mm in length with a maximum external diameter of 8mm. The serosa appears mildly haemorrhagic near the proximal thirdbut is otherwise unremarkable. The maximal thickness of the wall is 3mm.  The lumen contains small amounts of faecal material.  No faecolith is identified.  Block 1- tip; 2 - mid third; 3 - shave resection margin proximal third. AE. 
+J.   Specimen labelled "Omentum", consists of a piece of fatty tissue 350 x 70 x 12mm.  There is an area with ill defined firm cream tissue amongst the omental fat over a maximum area of 50mm ? tumour.  Representative sections in 3 blocks; 4 - reserve block for ? tumour.  (DD/ec 16.4.63) 
+ 
+MICROSCOPIC (reported by Dr P Sahu): 
+A & B.  Sections of both ovaries show deposits of adenocarcinoma with high grade nuclear features consistent with serous carcinoma.  Carcinoma is also seen within right paraovarian soft tissue.  The fallopian tubes show no significant abnormality.  
+C & D.  Sections show serous carcinoma.
+E.  Sections of fibroadipose tissue show no evidence of malignancy.  
+F.  Sections show small surface deposits of serous carcinoma.  
+G.  Sections of liver show a subcapsular collection of bile ducts within fibrous tissue suggestive of a sclerosed bile duct hamartoma.  There is no evidence of malignancy. 
+H.  The single lymphnode identified shows a very small deposit of serous carcinoma.  
+I.  Sections of the appendix show no significant abnormality.  There is no evidence of malignancy. 
+J.  Sections of omentum show extensive involvement by serous carcinoma.  There is extensive fibrosis together with fat necrosis and foamy histocytes consistent with chemotherapy effect.  
+DIAGNOSIS:  
+A - J.  Left and right ovaries and fallopian tubes, peritoneal biopsies, liver biopsy, paracaval lymph node, appendix and omentum:
+- Serous adenocarcinoma involving left and right ovaries, pelvic peritoneum, pouch of Douglas, sigmoid fat and omentum.
+- Single positive lymph node.
+- Possible sclerosed bile duct hamartoma.
+SUPPLEMENTARY REPORT (27.8.63, Dr P Jirsa):
+J.  Further immunostains for T cell subsets have been performed as requested.
+There are numerous CD4 positive Tcells in the tissue.  Most of these are associated with macrophages in areas of fibroblastic tissue and fat necrosis; these are interpreted as being part of a non-specific inflammatory reaction in the settingof previous chemotherapy treatment.  However some CD4 positive cells are seen in intimate association with groups of residual, apparent viable, tumour cells.
+There is also a moderate number of CD8 positive cells in the tissue (fewer than CD4 positive cells).  Almost all these cells are in areas of fibroblastic tissue and fat necrosis; there are only very occasional CD8 positive cells seen in association with residual tumour.
+ADDITIONAL REPORT (28/8/63):
+
+Immunoperoxidase stains for MSI proteins (Block: J1)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for anyof the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+ADDITIONAL REPORT (12/2/63):
+Immunohistochemistry for hormonal status has been performed as requested with the following result:
+ER:  Positive, 100% of tumour cells show strong positive staining.
+PR:  Negative, no staining is seen in any tumour cells.
+

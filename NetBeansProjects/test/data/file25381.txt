@@ -1,0 +1,40 @@
+SPR no: 41P402386T
+MRN no: 4154023
+Site_name: BARCALDINE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (7.12.2067)
+
+CLINICAL:
+Ovarian cancer with omental cake.  Abdominal pain with ascites.  High Ca 125.  For interval debulking.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and right ovary&amp;quot;, consists of a fallopian tube, 38 x 6 x 5mm, and ovary, 35 x 24 x 12mm.  The fallopian tube has a dark grey, smooth surface, and the ovarian parenchyma is unremarkable.
+Blocks: 1 - LS complete fimbrial end of fallopian tube, and mid TS; 2 to 4 - complete ovary.
+
+B.  Specimen labelled &amp;quot;Left tube and left ovary&amp;quot;, consists of a fallopian tube, 35 x 8 x 7mm, with a 12mm paratubal cyst at the at the fimbrial end.  The attached ovary, 27 x 24mm, is multicystic, and contains pale yellow serous fluid.  The cyst lining is smooth pale grey.
+Blocks:  1 - LS complete fimbrial end of fallopian tube, and mid TS; 2 to 6 - representative ovary.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omental tissue, 350 x 50 x 40mm.  The serosal surface is smooth and partly haemorrhagic.  There are vague areas of pale grey tissue.  No definitive tumour is identified.  RS 5 blocks.
+
+D.  Specimen labelled &amp;quot;Left pelvic side wall&amp;quot;, consists of fibroadipose tissue, 50 x 25 x 8mm in aggregate.  No definitive tumour is identified.  AE 3 blocks.   (TO: JB;JB/vo 18.4.67)
+
+
+MICROSCOPIC (Reported by Dr L Mellon):
+A.  The sections show granulation tissue, histiocytes and psammomatous calcification associated with scant clusters of malignant cells, consistent with high grade serous carcinoma with treatment effect.  Carcinoma is seen in the hilum and over the serosa of the right ovary and paraovarian soft tissue, and as detached clusters in the lumen of the right fallopian tube.  A single focus suspicious for lymphovascular invasion is seen within the paraovarian soft tissue.  No evidence of tubal intraepithelial carcinoma is identified.
+B.  The sections show left ovarian and paratubal serosal deposits of granulation tissue, histiocytes and psammomatous calcification associated with scant clusters of malignant cells, consistent with high grade serous carcinoma with treatment effect.  The left ovary contains a benign simple cyst.  The fallopian tube shows no significant abnormality.  No evidence of tubal intraepithelial carcinoma is identified.
+C.  The omentum shows foci of high grade serous carcinoma associated with treatment-related changes, including bands of fibroblastic tissue, patchy chronic inflammation and psammomatous calcification.
+D.  The sections of the left pelvic side wall show focal serosal deposits of granulation tissue, histiocytes and psammomatous calcification associated with scant clusters of malignant cells, consistent with high grade serous carcinoma with treatment effect.
+DIAGNOSIS:
+A to D.  Bilateral fallopian tubes and ovaries, omentum and left pelvic side wall:  High grade serous carcinoma with treatment effect involving serosa of right and left ovaries, bilateral paraadnexal soft tissue serosa, omentum, left pelvic side wall, right ovary hilum and lumen of right fallopian tube.
+
+
+SUPPLEMENTARY REPORT (7.12.2067)
+ER and PR staining performed as requested.
+
+Hormone Receptors (Block C1):
+ER:  Positive
+60% of nuclei stained
+Predominant intensity of staining:  Moderate
+PR:  Negative

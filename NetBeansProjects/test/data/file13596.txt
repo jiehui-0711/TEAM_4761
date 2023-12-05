@@ -1,0 +1,85 @@
+SPR no: 84P536613F
+MRN no: 8465366
+Site_name: TRANGIE MULTI PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Bilateral mastectomy and sentinel node left breast.  Additional collateral history obtained from Dr ROY DEMETRO, hx of biopsy proven multifocal high grade DCIS of the left breast and possible right side ductal adenocarcinoma many years ago accompanied by a lumpectomy on the right side at the time.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left breast sentinel node&amp;quot;, consists of a fibrofatty piece of tissue measuring 40 x 30 x 10mm.  Tissue contains three possible lymph nodes measuring 10, 12 and 20mm.
+Blocks: 1 - 10mm node bisected; 2 - 12mm node bisected; 3 - 20mm node serially sectioned TS; 4 - remaining tissue AE.
+
+B.  Specimen labelled &amp;quot;Stitch axilla right breast tissue&amp;quot;, consists of a mastectomy measuring 265 x 190 x 55mm with an overlying skin ellipse measuring 250 x 135mm.  Superficial margin inked blue, deep margin inked black.  A surgical cavity is identified in association with a curvilinear scar at 8 to 10 o&amp;apos;clock, 8cm from the nipple.  The scar on the surface of the skin measures 70mm in length with a width of 2mm.  The cavity measures 50mm (medial to lateral) x 30mm (superior to inferior) x 20mm (superficial to deep) and has a fibrotic, white appearance with a fibrous tract leading to the scar on the surface of the skin.   On the surface of the skin are multiple flattened pale brown lesions measuring between 2 and 10mm.  There is a single raised nodule at the edge of the lateral superior side of the ellipse of skin measuring 5 x 5 x 3mm.  In several areas of the cavity firm white nodular tissue is present.
+Blocks: 1 - skin nodule at edge of ellipse of skin; 2 to 5 - medial margin of surgical cavity; 6 &amp;amp; 7 - deep margin overlying mid section of surgical cavity; 8 &amp;amp; 9 - surgical cavity; 10 - RS mid section surgical cavity; 11 to 14 - serially sectioned from area of firmness in scar to deep margin; 15 - firm white nodular area lateral to scar; 16 to 21 - area from firm white to nodular area to deep margin (paired blocks); 22 - nipple areola complex; 23 &amp;amp; 24 - upper inner quadrant; 25 &amp;amp; 26 - lower inner quadrant; 27 &amp;amp; 28 - upper outer quadrant; 29 &amp;amp; 30 - lower outer quadrant; 31 to 35 - various skin lesions on the skin.   Please refer to attached block key diagram for specimen B.
+
+C.  Specimen labelled &amp;quot;Left breast tissue stitch axilla&amp;quot;, consists of a mastectomy specimen measuring 280 x 270 x 45mm with overlying skin ellipse measuring 280 x 170mm.  On the surface of the skin the letters LT are written in purple pen.  Superficial margin inked blue, deep margin inked black. There is a suture demarcating axilla at one end of the skin ellipse.  In the centre of the breast at 12 o&amp;apos;clock superior to the nipple in an area measuring 50mm (medial to lateral) x 50mm (superior to inferior) x 40mm (superficial to deep) is an area of pale white nodular tissue of firm texture.  The firm white area appears greater than 15mm from the deep margin in all areas.  On the surface of the skin are greater than thirty flat tan nodules on the skin all bearing a similar appearance measuring between 2 and 5mm.
+Blocks: 1 to 7 - RS firm area; 8 to 11 - RS pale fibrous white area in centre of breast; 12 - area of firm nodularity; 14 to 19 - area of ?normal breast tissue beyond the area of pale firm tissue medially; 21 to 23 - deep margin overlying area of white nodularity closest to deep margin; 24 - nipple areola complex; 25 to 30 - multiple skin lesions; 31 to 33 - lower outer quadrant; 34 to 36 - upper outer quadrant; 37 to 39 - upper inner quadrant; 40 to 42 - lower inner quadrant.  (Please refer to attached block key diagram).
+The specimen was re-examined after assessment of the initial sections and further blocks were embedded. 43 to 45 RS lower inner quadrant (43 lateral to block 42, 45 medial to block 40); 46 &amp;amp; 47 area medial to block 18; 48 area lateral to block 18; 49 &amp;amp; 50 area approximately adjacent to block 12 in centre of breast; 51 &amp;amp; 52 deep margin overlying area of block 12; 53 to 55 area between block 12 and 21-23 (TO: MS; MS/ta 10/7/66)
+
+
+MICROSCOPIC (Reported by A/Prof V Figlar):
+A. The three sentinel lymph nodes show no evidence of malignancy in the H&amp;amp;E or keratin stained sections (0/3).
+
+B. The right breast has been extensively sectioned.
+The sections of breast tissue show densely hyalinised scar tissue, consistent with the history of previous breast surgery.
+Around the area of fibrosis, within the medial aspect of the cavity, there are a small number of scattered ducts displaying a spectrum of cytological and architectural atypia, which is predominantly consistent with atypical ductal hyperplasia but focally borders on low and intermediate grade ductal carcinoma in situ.
+The remainder of the breast tissue shows fibrosis, ductal and lobular atrophy, consistent with previous therapy, and cyst formation. Occasional foci of atypical lobular hyperplasia are also identified.
+
+No evidence of residual invasive carcinoma is identified.
+
+The nipple shows no significant abnormality.
+
+The skin nodule identified in block B1 is a benign dermal naevus. The sections of the other skin lesions show seborrhoeic keratoses.
+C. The left breast was re-examined with examination of further blocks after assessment of the initial sections.
+Invasive carcinoma:
+Site: Central region of breast
+Type: Mucinous carcinoma
+Invasive tumour size: 7mm
+Grade (Modified Bloom &amp;amp; Richardson): 1
+Tubules: 2    Nuclei:  2   Mitoses:   1  Mitotic rate:      2/10hpf.
+Lymphovascular invasion:  Not seen
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS: DCIS extends from the central region of the breast to involve the medial aspect of the left breast in block C40.
+Nuclear grade:  Intermediate
+Architecture: Cribriform, papillary and solid.
+Necrosis:   Punctate
+Calcification: Present in DCIS
+Degree of DCIS in tumour:  &amp;lt;25%
+DCIS in adjacent tissue:  Present, DCIS is predominantly outside the invasive tumour.
+Excision Margins:
+Invasive component: Clear of all margins
+In-situ component: DCIS extends to the superficial surface of the specimen near the medial end of the breast tissue (C40). The medial most block C45 is clear of DCIS.
+Receptors (Block C12):
+ER:
+90% of nuclei stained
+predominant intensity of staining:  Strong
+PR:
+70% of nuclei stained
+predominant intensity of staining:  Moderate and strong
+HER2 (Novocastra 10A7): Negative (1+)
+HER2 SISH:  Performed at North, KING ISLAND DISTRICT HOSPITAL AND HEALTH CENTRE Hospital, see separate report.
+Ki-67 index:Low (&amp;lt;10%)
+Nipple:  No significant abnormality
+LCIS / ALH:
+Present focally throughout breast tissue
+Miscellaneous:
+The breast tissue also shows columnar cell lesions and interlobular fibrosis. The skin lesions are seborrhoeic keratoses.
+Sentinel lymph node(s): Specimen A
+Number of sentinel lymph nodes examined: 3
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0
+Comment: A provisional result was discussed with Prof V Eckland.
+DIAGNOSIS:
+A. Left sentinel nodes: No evidence of malignancy in 3 nodes (0/3)
+
+B. Right breast: Fibrosis and scar tissue, consistent with previous surgery
+Atypical ductal hyperplasia and borderline DCIS
+
+C. Left breast: 7mm grade 1 mucinous carcinoma associated with DCIS
+Hormone receptor positive
+Her 2 negative (IHC); low Ki67 index

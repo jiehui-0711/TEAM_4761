@@ -1,0 +1,78 @@
+Episode No:  62M791612Q
+624791.RDH
+
+NESBY, TOM BERRY 
+Lab No:  62M79161
+Oxendon
+SILVERDALE  VIC  7248
+Specimen: Tissue
+D.O.B:  7/7/1985
+Sex:  F
+Collected: 09/07/2012 at 09:14
+Location:  CORONARY CARE UNIT-NARRANDERA HOSPITAL
+DR SETH WILLIAMS Kreidler
+Distribution:  DR Arhart,  FILE-COPY
+CLINICAL:
+Caecal + transverse colon cancer.  
+MACROSCOPIC:
+Specimen labelled "Right colon" consists of a right hemicolectomy with terminal ileum 35mm in length attached to caecum and colon 208mm in length.  The attachedmesocolon measures 310 x 95 x 30mm.  
+On opening, two tumours are identified.  The first tumour is an ulcerated, sessile polyp within caecum, involving approximately 80% of the caecal circumference.  This tumour abuts the ileocaecalvalve and is 39mm from the nearest (proximal) resection margin.  The tumour measures 70 x 30 x 15mm and is clear of the serosa.  
+The second tumour is a sessile ulcerated polyp within transverse colon, 52 x 55 x 14mm.  This tumour is120mm from the nearest (distal) resection margin. There is no obvious invasion into the submucosa.
+Multiple mucosal polyps up to 7mm are present within ascending and transverse colon.  
+A 3mm area of mucosal scarring is present 60mm from the distal resection margin, with black pigmentation deep to the area of scarring (?polypectomy site).  
+The mucosa of the terminal ileum is unremarkable.  The appendix is not identified. 
+Blocks:  1 - proximal resection margin; 2 - distal resection margin; 3 to 5 - caecal tumour (tumour 1); 6 to 8 - transverse colon tumour (tumour 2); 9 & 10 - colonic polyps; 11 - representative colonic mucosa; 12 - representative terminal ileum; 13 - one apical node bisected; 14 to 18 - mesocolonic lymph nodes; 19 - representative area of mucosal scarring; 20 - tumour 1 reserve block; 21 - tumour 2 reserve block; 22 to 33 - remainder of large transverse colon polypAE.  (RZ/mm/ta 9/11/62) (WN/cc 12/9/62) 
+MICROSCOPIC (reported by Dr L Pirieda):
+Sections of the caecal lesion show a moderately differentiated adenocarcinoma, invading the pericolic fat (pT3).
+The entire polyp in the transverse colon has been embedded.  Sections show a tubulovillous adenoma with low grade dysplasia.  There is no evidence of invasive malignancy.
+At 60 mm from distal margin, there is an area of transmural scarring associated with tattoo pigment.  The adjacent mucosa shows no evidence of dysplasia or malignancy.
+Also present in the colon are 5 small tubular adenomas with low grade dysplasia.
+
+SUMMARY 
+
+Site of tumour: Caecum	
+Maximum tumour diameter:     70mm
+Distance of tumour to nearer cut end:     39mm (proximal)
+Tumour perforation:     No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement ofmargins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present:  17	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+A large tubulovillous adenoma with low grade dysplasia is present in the transverse colon.
+Five other small tubular adenomas with low grade dysplasia also present.
+At 60mm from the distalmargin, there is an area of transmural scarring associated with tattoo pigment.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0     pMX     R0
+DIAGNOSIS
+Right hemicolectomy:
+	Moderately differentiated adenocarcinoma in the caecum invading pericolic fat (pT3), margins clear.
+	Large tubulovillous adenoma with low grade dysplasia in transverse colon.
+	17 lymph nodes with no evidence of malignancy (pN0).
+
+
+
+

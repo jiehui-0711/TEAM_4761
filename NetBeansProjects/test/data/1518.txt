@@ -1,0 +1,77 @@
+
+ 8948670.NBF
+Clyman, Dalia RACHELLE
+89L86705
+
+Last edited : 23/8/2063		Page: 2
+***ADDITIONAL REPORT: HER-2 CISH RESULT (23.8.63) TD
+
+CLINICAL:
+Left breast cancer - 1 o'clock, 6cm FN.  IDC on core biopsy.  WLE + SLNBx
+Short stitch superior, long lateral, medium medial.
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary sentinel nodes" consists of two lymph nodes and a small amount of attached fatty tissue.  One lymph node measures 15 x 8 x 7mm, the other lymph node measures 12 x 9 x 5mm.  
+Blocks: 1- one bisected lymph node; 2- one bisected lymph node.
+B.  Specimen labelled "Left breast lump" consists of a piece of breast tissue with three marking stitches measuring 70mm (lateral to medial) x 60mm(superior to inferior) x 22mm (superficial to deep).  There is a 55 x 10mm normal looking skin ellipse on the superficial aspect.  The margins are inked in three colours, superior red, superficial blue and deep black.  Specimen is serially sliced into fourteen slices from lateral to medial.  Slicing reveals a pale solid area with a rubbery consistency extending from slice 3 to 14 measuring 55 x 36 x 15mm.  Within this pale area there is a more indurated ill-defined area extending from slice 7 to 11 measuring 22 x 25 x 15mm.  This indurated area is 4mm from inferior, 18mm from superior, 1mm from superficial, 30mm from lateral, 20mm from medial margin and abuts the deep margin. 
+Blocks: 1- representative of slice 1 (lateral margin); 2 and3- slice 6; 4 to 6- slice 7; 7 to 9- slice 8; 10 to 12 slice 9; (11 -reserved block); 13 to 15- slice 10 (14 - ERPR, HER-2 & Ki67); 16 to 18- slice 11; 19 to 21 slice 12; 22 and 23 representative slice 14 (medial margin).  Pleasesee the diagram.  (HM/vo 8.8.63)
+MICROSCOPIC (Reported by Dr W Laconte):
+A and B. 
+Invasive carcinoma:
+Site:   Left breast, 1 o'clock, 6cm FN
+Type: Invasive ductal carcinoma NOS
+Invasive tumour size: 2 deposits, 25mm and 3mm, over a 29mm area
+Grade:  3   (Modified Bloom & Richardson)       
+Tubules: 2   Nuclei: 3   Mitoses: 3   Mitotic rate: 18/10hpf.
+Lymphovascular invasion:  present - extensive, multifocal
+	    
+DCIS component:  
+DCIS:   present
+Maximum extent of DCIS:  21mm
+Nuclear grade:   high
+Architecture:   Solid, cribriform
+Necrosis:  present
+Calcification:  absent
+Degree of DCIS in tumour:    <25%
+DCIS in adjacent tissue:   none 
+Excision Margins:  
+Invasive component:
+ Antero-inferior margin: 0.2mm (no intervening normal ducts, B3)
+ Posterior: 2mm (no intervening normal ducts, B8)
+ Anterior: 4mm
+ Other margins: > 10mm
+In-situ component:
+ Anterior and posterior: 4mm
+ Other margins: > 10mm
+Receptors: 
+ER:   positive
+	95 % of nuclei stained
+	predominant intensity of staining:     strong
+:   positive
+	70 % of nuclei stained
+	predominant intensity of staining:  moderate 
+HER2 (Novocastra 10A7):  3+
+Ki67 index: 50%
+LCIS / ALH:Absent
+Sentinel lymph node(s):
+No. of sentinel lymph nodes examined:  2
+No. of sentinel nodes involved by tumour: 2 (9mm and 7mm)
+Extranodal spread:  absent 
+DIAGNOSIS:
+A and B. Left breast wide local excision and sentinel lymph nodes:
+- 2 deposits of invasive ductal carcinoma NOS, grade 3, 25mm and 3mm in size, over a 29mm area, ER positive, PR positive, HER2 3+, HER2 SISH pending, Ki67 index 50%, multifocal lymphovascular invasion, 0.2mm antero-inferior margin, 2mm posterior margin, 4mm anterior margin, other margins > 10mm
+- 21mm high grade DCIS, 4mm anterior and posterior margins, > 10mm other margins
+- Metastatic carcinoma (7mm and 9mm in size) in 2 out of 2 lymph nodes, no extranodal spread
+***ADDITIONAL REPORT: HER-2 CISH RESULT (23.8.63) TD
+Blocks were sent to SYDNEY CHILDREN'S HOSPITAL Hospital for Her2 ISH analysis, Dr W Walrath reports:
+HER2 IHC Result:   3+ atEXMOUTH HOSPITAL.
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: POSITIVE (amplified).
+Mean Her2 copynumber per cell: 16.9.
+Mean CEP17 copy number per cell:  1.8.
+HER2/CEP17 ratio:  9.39.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

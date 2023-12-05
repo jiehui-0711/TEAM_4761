@@ -1,0 +1,122 @@
+SPR no: 77C7526248
+MRN no: 771752
+Site_name: FLINDERS MEDICAL CENTRE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report77C75262,77C75262 (77C7526248)ZAZOZDOR, VERGIE LESTER
+HISTOPATHOLOGY REPORT
+BATHURST BASE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ovarian mass. CA125 - 130
+Uterus, tubes and ovaries. L ovary - frozen section please (large mass)
+
+Ovarian mass, CA125 - 130.
+1. Omentum bx.
+2. Anterior abdominal wall.
+3. L pelvic node.
+4. Para-aortic node.
+
+MACROSCOPIC:
+A. &amp;quot;&amp;quot;. Uterus, bilateral tubes and ovaries. A solid area of uterus ?fibroid 110x80x75mm. An intact cystic mass 120x90x85mm. External surface is smooth with papillary area 30x30mm. On sectioning, contains amber coloured watery fluid. A solid nodule 70mm in maximal dimension and papillary areas identified. One section of the solid nodule for frozen section.
+
+Frozen section result:  &amp;quot;Difficult to classify, favour high grade carcinoma. Difficult to type ?serous, ?endometrioid ?metastatic (can&amp;apos;t exclude)&amp;quot;. Phoned to Dr NGUNYA PFANNENSTEIN on 15/5/21 at 4pm by Dr CHRISTOPHER MAYO.
+
+Further macroscopic description:  A uterus with bilateral fallopian tubes and ovaries. The uterus is 140x100x62mm. The serosal surface is smooth and shiny and slightly ragged on the posterior surface. The ectocervix is 25x6mm across. In the ectocervix there is a 15x7x10mm polyp. In the upper cervical canal there is a 25x5x5mm polyp. The endometrium is up to 1mm thick. Multiple fibroids ranging from 1-40mm across are present. Total specimen weight is 823g. There is a large dominant fibroid in the left myometrium 60x45x55mm. The fibroid is heavily calcified and not able to be sectioned. In the fundal region, there is a 7mm endometrial polyp.
+
+Right adnexa:  The presumed right fallopian tube is 55mm in length and 5mm in diameter. The fimbrial end is present. The right ovary is 20x15x10mm. The fallopian tube is serially sectioned with no focal lesions seen. The ovary weighs 5.5g. The ovary is serially sectioned and the cut surface is pale, solid and cystic.
+
+Left adnexa:  A large mass 120x10x45mm is present. The mass has been opened for frozen section. The cut surface is pale and lobulated. There are focal papillary areas. The fallopian tube is not able to be identified. Residual ovarian tissue is not able to be identified.
+
+On the serosal surface close to the cornua there is a small papillary area 8mm across. The anterior cervix is inked black, posterior green, outer surface of left ovary is inked blue.
+
+A suspected left fallopian tube 65mm in length and 5mm in diameter is identified. A possible fimbrial end is present on the surface of the mass.
+
+(ACP frozen section; 2&amp;amp;3 cervix with polyp bisected; 4 cervix; 5 upper cervical canal and polyp; 6&amp;amp;7 lower uterus; 8&amp;amp;9 mild uterus; 10&amp;amp;11 fundic polyp; 12 subserosal fibroid; 13 right fallopian tube, fimbrial end all embedded and TS; 14&amp;amp;15 right ovary; 16&amp;amp;17 possible left fallopian tube fimbrial end; 18 possible left fallopian tube TS; 19-26 left mass [19&amp;amp;20 papillary area, 21&amp;amp;22 cystic area, 23-26 solid area - 25 and 26 are possible surface involvement]).  Representative sections.(M-26/AO 16/7/2071 nh)
+
+Further tissue:
+(27-30 further sections of solid mass). Representative sections (M-30/AO 20/7/2071 cy)
+
+B. &amp;quot;OMENTUM BX&amp;quot;. A piece of omental fat 170x60x70mm. The tissue is serially sectioned with no discrete lesions identified.
+
+(1-5  representative tissue). Representative sections. (M-5).
+
+C. &amp;quot;ANTERIOR ABDOMINAL WALL&amp;quot;. A section of fibrous and fatty tissue 40x27x8mm. The outer surface is inked blue. There is possible muscle on one edge. The tissue is serially sectioned from one end to the other. The cut surface is pale and fibrous.
+
+(1-3  representative tissue). Representative sections. (M-3).
+
+D. &amp;quot;PARA-AORTIC NODE&amp;quot;. Two pieces of tan and fibrous tissue, both appearing to be lymph node 7 to 9mm across.
+
+(1  tissue all embedded). All embedded.  (2-1).
+
+E. &amp;quot;LEFT PELVIC NODE&amp;quot;. A piece of tan and fatty tissue 20mm across. Two possible lymph nodes 7 to 10mm across are identified.
+
+(1  one lymph node; 2  the other lymph node). All embedded. (M-2/AO 16/7/2071 km).
+
+MICROSCOPIC: (Dr. T. Seidle)
+
+OVARIAN CARCINOMA WORKSHEET
+
+Specimen A:
+
+1. RIGHT OVARY:	Not involved - simple serous cysts.
+
+2. LEFT OVARY:	Involved
+If primary then: -
+Histological type: Clear cell carcinoma with areas of endometrioid carcinoma.
+Immunoperoxidase staining of the tumour cells shows positive staining with Cam5.2, CK7, EMA and Pax-8 and p16(variable including areas of block staining). Clear cell carcinoma areas express AMCAR, Napsin A and glypican 3. Focal weak staining for oestrogen receptor is seen. No staining for Oct-3/4, CK20, progestrone receptor, CD10, WT-1, p40 or p63 is seen.  p53 shows wild type of staining.
+Histological grade:		G3
+Nuclear grade:		G3
+Mitotic rate:   10 mitoses/10hpf.
+Lymphatic invasion:	 Absent
+Blood vessel invasion: Absent
+Capsular extension:	 Absent
+Direct extraovarian extension (specify): Not seen
+UTERUS:
+Endometrium: Benign endometrial polyps.
+Myometrium: Benign leiomyomas.
+Cervix: Benign endocervical polyps.
+RIGHT FALLOPIAN TUBE:  No significant abnormality
+LEFT FALLOPIAN TUBE:  No significant abnormality
+
+Specimen B:
+OMENTUM: Sections show unremarkable omental fat.
+
+Specimen C:
+Sections show portion of benign leiomyoma with attached fibrofatty tissue. There is no evidence of malignancy.
+
+Specimens D and E:
+LYMPH NODES:
+No tumour seen in two lymph nodes examined.
+
+DIAGNOSIS:
+CERVIX:
+- BENIGN ENDOCERVICAL POLYP.
+
+ENDOMETRIUM:
+- BENIGN ENDOMETRIAL POLYP.
+
+MYOMETRIUM:
+- BENIGN LEIOMYOMA.
+
+RIGHT OVARY:
+- SIMPLE SEROUS CYSTS.
+
+LEFT OVARY:
+- COMBINED CLEAR CELL CARCINOMA AND ENDOMETRIOID CARCINOMA CONFINED TO OVARY.
+
+LEFT AND RIGHT FALLOPIAN TUBES:
+- NO SIGNIFICANT ABNORMALITY.
+
+OMENTAL BIOPSY
+- NO SIGNIFICANT ABNORMALITY.
+
+ANTERIOR ABDOMINAL WALL
+- PORTION OF BENIGN LEIOMYOMA.
+
+PARA-AORTIC LYMPH NODE
+- NO TUMOUR SEEN IN TWO LYMPH NODES.
+
+LEFT PELVIC LYMPH NODE
+- NO TUMOUR SEEN IN TWO LYMPH NODES.
+20/7/2071 cy

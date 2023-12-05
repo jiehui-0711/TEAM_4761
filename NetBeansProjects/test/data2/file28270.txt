@@ -1,0 +1,38 @@
+SPR no: 17Z681765G
+MRN no: 1796817
+Site_name: BENALLA HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Large adnexal mass ?ovarian Ca, CA 125 = 65.  TAH BSO+/- staging and LN removal.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a large cystic mass, 155 x 150 x 75mm with fallopian tube, 85 x 5mm.  There is a small area of disruption, 30 x 20mm, 20mm from the fallopian tube.  Otherwise the external surface is smooth.  On sectioning, there are multiple small cysts and there is a yellow/white, soft solid area 50 x 50 x 40mm.  The cysts contain straw coloured serous fluid.  Two sections for frozen section.  The specimen weighs 700g in the fixed state.  The disrupted area involves a simple cystic region of the specimen.
+Blocks: 1 - frozen section block 1; 2 - frozen section block 2; 3 - fimbrial end of fallopian tube; 4 - four TS of fallopian tube; 5 to 20 - RS of solid/cystic ovarian mass (block 19 - includes the disrupted area).
+
+FROZEN SECTION REPORT:
+At least borderline mucinous/serous tumour.
+Phone results to Dr Nicky by Dr NERISSA FARVE at 12:08pm on 18/8/2019.
+
+B.  Specimen labelled &amp;quot;Uterus cervix right tube plus ovary&amp;quot;, consists of a uterus with attached cervix, right fallopian tube and ovary weighing 58g in total.  The uterus measures 92 x 42 x 25mm and has a smooth shiny serosal surface.  The anterior paracervical tissue is inked blue and the posterior is inked black.  The ectocervix is 19 x 12mm and has an unremarkable surface.  On sectioning, the endometrium is 3mm in maximal thickness and the myometrium is 15mm in maximal thickness.  The myometrium shows no focal lesions.  The right fallopian tube is 45 x 3mm in diameter and the right ovary is 22 x 13 x 6mm.  Both the fallopian tube and ovary have a normal cut surface.
+Blocks: 1 to 4 - full longitudinal section of anterior body and cervix; 5 to 8 - full longitudinal section of posterior body and cervix; 9 - Right fallopian tube fimbrial end; 10 - four transverse sections of right fallopian tube; 11 &amp;amp; 12 - right ovary in six sections.  All of the ovary embedded.
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of fatty tissue, 125 x 82 x 15mm.  Serial slices show no focal lesions or lymph nodes.  RS 3 blocks.
+(TO:SW/rs 21/7/68)
+
+
+MICROSCOPIC (Reported by Dr D Greeno):
+A.  Sections of the ovary show a high grade mucinous borderline tumour.  Much of the epithelium is atypical and shows frequent mitoses.  The tumour has been extensively sampled and no invasive carcinoma is identified.  No tumour is identified on the surface of the ovary.
+Sections of the fallopian tube are unremarkable.
+With immunostains the tumour cells stain strongly and diffusely positive for cytokeratin 7.  They are also generally cytokeratin 20 positive.  There is some patchy, generally weak, positive staining for CDX2.
+The immunophenotype is consistent with a primary mucinous borderline tumour of ovary.
+
+B.  Sections of the cervix are unremarkable.  Sections of the endometrium show that this is thin and inactive.  The myometrium is unremarkable.
+Sections of the ovary and fallopian tube are unremarkable.
+
+C.  Sections show unremarkable fat.  No abnormality is seen.
+
+
+DIAGNOSIS:
+A.  Left tube and ovary:  Mucinous borderline tumour of ovary.
+B.  Uterus, right ovary and fallopian tube:  No abnormality seen.
+C.  Omental biopsy:  No abnormality seen.

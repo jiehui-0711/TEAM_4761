@@ -1,0 +1,22 @@
+SPR no: 29N890929A
+MRN no: 2958909
+Site_name: GLENSIDE CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Liposarcoma, positive deep margin.  IHD.  Asthma.  Post adjuvant radiotherapy short suture superior, medium medial, double deep.  Additional specimen medial margin single suture, new medial margin double suture deep.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Re-excision sarcoma right thigh short stitch superior, long stitch lateral, double stitch deep&amp;#8221; consists of an excision of skin, 115 x 75mm with subcutaneous tissue to a maximum depth of 28mm.  Three marking stitches are identified.  Superior peripheral margin is inked blue, inferior peripheral margin is inked green and deep margin is inked black.  Over the epidermal surface there are multiple ill defined light brown patches (?ulcer, ?scar).  Specimen is sectioned into 21 slices from medial to lateral.  Slicing reveals predominantly skeletal muscle with a smaller component of fatty tissue.  All of the adipose tissue at or close to the deep margin is blocked.
+Blocks:  1 - LS slice 1 (medial margin); 2 - slice 3; 3 to 5 - slice 4; 6 - slice 5; 7&amp;amp;8 - slice 6; 9&amp;amp;10 - slice 7; 11 to 14 - slice 8; 15&amp;amp;16 - slice 9; 17&amp;amp;18 - slice 10; 19 - slice 13; 20 - slice 14; 21&amp;amp;22 - slice 16; 23&amp;amp;24 - slice 17; 25 - slice 18; 26&amp;amp;27 - LS slice 21 (lateral).  Please see the diagram.
+&amp;#160;
+B.  Specimen labelled &amp;#8220;Re-excision sarcoma right thigh single stitch new medial margin, double deep&amp;#8221; consists of an excision of skin and underlying soft tissue, 55 x 25mm to a depth of 6mm.  Two marking stitches are identified.  The new medial margin is inked green.  The lateral edge is inked blue and deep margin is inked black.  The specimen is tapered towards one end (presumably superior).  The specimen is serially sectioned and blocked from the presumed superior to the presumed inferior (the broad end).  AE 7 blocks.  (TO: HM; HM/ua 21.11.66)
+MICROSCOPIC (Reported by Dr F Beyale):
+A and B. Sections show skin with subcutis, skeletal muscle and fibrous fascia. There is a surgical cavity lined by granulation tissue. Entrapped squamous epithelium is present adjacent to the cavity. The adjacent muscle shows focal necrosis, fibrosis and large group atrophy. Clumped nuclei and hypertrophic fibres are seen.
+
+There is no evidence of residual malignancy.
+
+
+DIAGNOSIS
+A and B. Re-excision sarcoma right thigh: no evidence of residual malignancy

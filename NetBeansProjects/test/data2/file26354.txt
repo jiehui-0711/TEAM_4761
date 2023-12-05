@@ -1,0 +1,41 @@
+SPR no: 61H799586S
+MRN no: 6127995
+Site_name: BENALLA HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian large mass TAH BSO.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a cystic ovary, 205 x 150 x 125mm with a 100 x 5mm unremarkable fallopian tube.  The external surface of the ovary is smooth.  On sectioning it appears multiloculated and is filled with dense gelatinous material.  No solid nodules or papillary excrescences are seen.  Two representative sections for frozen section.
+Blocks: 1 &amp;amp; 2 - frozen sections one and two; 3 to 20 - RS remaining ovary; 21 - ampulla and fimbria of fallopian tube.
+
+FROZEN SECTION REPORT:
+Mucinous cystadenoma on limited sampling, recommend to check appendix.
+Phone results to Gynae oncology registrar by Dr Q Stefanovich/Dr Q Ruhl/A Prof Q Lerud at 10:11am on 23/4/19.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, right tube plus ovary&amp;quot;, consists of a uterus with attached cervix, right ovary and fallopian tube weighing 165g in total.  The uterus measures 100 x 55 x 45mm and has a smooth shiny serosal surface with a 17mm presumed subserosal fibroid on the posterior aspect.  The ectocervix measures 40 x 35mm and has an unremarkable surface.  On sectioning, the endometrium is up to 2mm in thickness and the myometrium is 27mm in maximum thickness and contains six fibroids ranging from 4 to 18mm.  The right fallopian tube measures 55 x 5mm and appears unremarkable with a 6mm parafimbrial cyst.  The right ovary is 30 x 30 x 20mm with a smooth serosal surface.  Transverse sectioning into seven slices shows a multiloculated cyst, 25 x 15 x 15mm.  The cyst wall is less than 1mm in thickness and has a smooth inner lining with no solid regions or papillary excrescences.  The remainder of the ovarian parenchyma appears unremarkable.
+Blocks: 1 to 5 - full LS of anterior body and cervix; 6 to 10 - full longitudinal section of posterior body and cervix; 11 to 13 - RS fibroids; 14 and 15 - two TS of ovary with cyst; 16 - fallopian tube.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of 315 x 100 x 10mm of omental fat.  Transverse sectioning shows homogeneous pale yellow fat with no discrete lesions.
+Blocks: 1 to 3 - RS.
+
+D.  Specimen labelled &amp;quot;Bladder peritoneum&amp;quot;, consists of a 10 x 5 x 3mm tan fibrofatty tissue.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a 62 x 7mm appendix with attached mesoappendix to a maximum width of 25mm.  The serosal surface is smooth and shiny.  Base is inked blue.  On sectioning the lumen is 4mm in diameter with a wall thickness of 1mm.  No discrete lesions are identified.  The appendix is serially embedded from block 1 (base) to 4 (tip).
+(TO: KM; KM/rs 23/6/69)
+
+
+MICROSCOPIC (Reported by Dr Q Godbe):
+A. Sections show a benign mucinous cystadenoma of the ovary.  The tube is unremarkable.  There is no evidence of malignancy.
+
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is proliferative.  The myometrium shows leiomyomas and adenomyosis.  The ovary shows several follicular cysts.  The tube is unremarkable.  There is no evidence of malignancy.
+
+C.  Sections show a tiny focus of endometriosis.  There are scattered foreign body giant cells suggestive of previous surgery.  There is no evidence of malignancy.
+
+D.   Sections show predominantly blood and mesothelial cells, and a small amount of mucin, suggestive of previous leakage.  No convincing associated mucinous epithelium is seen.  There is no evidence of malignancy.
+
+E.  The appendix is unremarkable.  There is no evidence of an adenoma or malignancy.
+
+
+DIAGNOSIS:
+Benign mucinous cystadenoma of the left ovary.  Unremarkable appendix.  No other significant abnormality seen.

@@ -1,0 +1,31 @@
+SPR no: 02F030369G
+MRN no: 0220303
+Site_name: MALDON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report02F03036 (02F030369G) Miville, GABRIELA Werner
+HISTOPATHOLOGY REPORT
+WEST GIPPSLAND HEALTHCARE GROUP HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Mesenteric nodule frozen section. Appendix, adenoca liver lesion segment 5/6.
+
+MACROSCOPIC:
+A.  &amp;quot;MESENTERIC NODULE&amp;quot;.  Two pieces of red soft tissue 10x8x5mm and 10x5x5mm.  All embedded for frozen section in A1.
+
+F/S : &amp;quot;Scar tissue, mature fibrous tissue, negative for malignancy&amp;quot;.  Result was phone to Tyrone (Fellow) at 11:55am on 10.09.67.  AE (2-1)
+
+B.  &amp;quot;LIVER SEGMENT 5/6&amp;quot;.  A segmental liver resection, 3g, consists of a capsule 30x22mm with underlying tissue to a depth of 15mm.  The margins are inked blue. The specimen is serially sliced into 8 slices.  The cut surface reveals a subcapsular necrotic lesion from slice 1 to slice 5 measuring 18x16x7mm and located within 1mm of the nearest resection margin.
+
+(1 LS of each peripheral resection margin slices 1 and 2; 2 slice 2 and 3; 3 slices 4 and 5; 4 slices 6 and 7).  RS (M-4/ZH 11/10/2067 ank)
+
+MICROSCOPIC:  (Dr. B. Neidert)
+A. Sections show reactive organising fibrous tissue as well as zones of mature fibrosis and scarring, consistent with fibrous adhesion. There is no malignancy.
+
+B. The liver shows a large subcapsular zone of necrotic and fibrinous tissue (?foreign body) surrounded by palisading epithelioid histiocytes and a fibrous pseudocapsule. There is no malignancy.
+Special stains PASF, Gram, ZN and auramine are negative.
+
+DIAGNOSIS:
+A. MESENTERIC NODULE  - Organising fibrosis and mature fibrous adhesion.
+B. LIVER SEGMENT 5/6  - Granulomatous inflammation surrounding a large zone of necrotic fibrinoid tissue, no evidence of malignancy.
+8/9/2070 cy

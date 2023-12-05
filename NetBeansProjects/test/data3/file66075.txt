@@ -1,0 +1,125 @@
+SPR no: 00A296998I
+MRN no: 000296
+Site_name: RAVENSTHORPE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report00A29699 (00A296998I) ELLOUT, Cohen
+HISTOPATHOLOGY REPORT
+MILLICENT AND DISTRICT HOSPITAL AND HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Frozen section left sentinel lymph node biopsy.
+L breast lobular ca 12 o&amp;apos;clock.
+Left breast wide local excision sutures long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL LYMPH NODE&amp;quot;. Blue fatty node 12x10x8mm. 1 x TS for FS.
+
+F/S : &amp;quot;Positive, metastatic carcinoma 2.2mm&amp;quot;. Reported to Dr. C. Bastianelli by Dr. C. Hoisington at 5.35 pm on 17/06/69.
+
+Free floating fatty tissue 25x15x10mm also in specimen jar.
+
+(1 ACP transfer frozen; 2 remainder TS of lymph node; 3 remainder free floating fatty tissue). All embedded. (M-3)
+
+B. Specimen labelled &amp;quot;LEFT BREAST WIDE LOCAL EXCISION&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  70mm
+Superior to inferior:  57mm
+Anterior to posterior:  47mm
+WEIGHT:  80g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 12
+FINDINGS / LESION:  A firm pale irregularly shaped lesion seen in all twelve slices 70x43x43mm with some dilated ducts seen throughout.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+Anterior abuts anterior in slice in 1-9, posterior abuts posterior margin in slice 3-12, superior 9mm  in slice 7, inferior abutting serial margin in slice 11, medial abuts medial margin slice 1,
+lateral abuts lateral margin in slice 12
+(1-3 serial LS of medial slice 1; 4-7 composite full face TS of slice 1; 8-11 composite slice 3; 12-15 composite slice 5; 16-19 composite slice 7; 20-23 composite slice 9; 24-27 composite of slice 11; 28&amp;amp;29 serial LS of lateral tissue slice 12). Representative sections. (M-29)
+C. &amp;quot;LEFT AXILLARY CLEARANCE&amp;quot;. Consists of a 110x90x18mm piece of fatty tissue. Multiple lymph nodes identified with the largest measuring 25x7x4mm and the smallest at 3mm.
+(1 six lymph nodes; 2 six lymph nodes; 3 six lymph nodes; 4&amp;amp;5 serial TS of one lymph node; 6 three lymph nodes; 7 trisected lymph node). Representative sections. (M-7/BM 16/5/2069 ank)
+MICROSCOPIC:  (Dr C Engels)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA: Left breast
+&amp;#160;
+NUMBER OF INVASIVE FOCI: 1
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160;70mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive lobular carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules: 3   , Nuclei:  2  , Mitoses:  1  ; Total score: 6&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;&amp;#160;2 mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 70mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Focally present
+&amp;#160;
+PERINEURAL INVASION: Not identified
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): &amp;lt;5%
+&amp;#160;
+SKIN INVOLVEMENT: Not assessed
+
+DERMAL LYMPHOVASCULAR INVASION: Not assessed
+&amp;#160;
+NIPPLE INVOLVEMENT: Not assessed
+&amp;#160;
+MUSCLE INVOLVEMENT: Not assessed
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): Absent&amp;#160;
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Invasive lobular carcinoma extends to involve all margins as follows:
+
+Medial margin (Block 2); Lateral margin (Block 29); Anterior margin (Block 13); Anterior inferior margin (Blocks 6, 10, 18, 22, 26); Posterior margin (Block 16); Superior (Block 5).
+
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, Block B9
+
+ER:  POSITIVE   90%   2+
+PR:  POSITIVE   95%   3+
+HER2: NEGATIVE (1+)
+Ki67:   5-10%
+&amp;#160;
+Other tumour block suitable for further testing: Block B16
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS: Nil
+&amp;#160;
+LYMPH NODES
+AXILLARY LYMPH NODES:
+
+Node with macrometastases:		1 (2.5mm)
+Nodes with micrometastases: 	1 (1mm)
+Nodes with isolated tumor cells: 	0
+Total number of nodes examined: 	20
+&amp;#160;
+Largest nodal tumour deposit:  2.5mm
+Extranodal extension: Focally present up to 1mm beyond the lymph node capsule.
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT3, pN1a
+
+OTHER COMMENTS: Nil
+
+DIAGNOSIS:
+A. LEFT SENTINEL LYMPH NODE
+- METASTATIC CARCINOMA IN 1 NODE (2.5mm DEPOSIT) WITH FOCAL EXTRANODAL EXTENSION.
+B. LEFT BREAST WIDE LOCAL EXCISION
+- 70mm INVASIVE LOBULAR CARCINOMA, GRADE 2, ALL MARGINS INVOLVED.
+C. LEFT AXILLARY CLEARANCE
+- MICROMETASTASES IN 1 OF 19 NODES.
+20/5/2071 cy

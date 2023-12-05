@@ -1,0 +1,70 @@
+CLINICAL:
+Right breast cancer - for mastectomy + SLNBx +/- ALND (triple negative on bx).  Right mastectomy (IDC) suture at axillary tail.
+More info from Dr Buster HENRITY:  All lymph nodes are sentinel nodes.  The one marked by suture is the hottest.  Note by RP 13.6.66
+
+
+MACROSCOPIC:
+A.  Specimen labelled "Right axillary node sentinel node marked" consists of a piece of fatty tissue 60 x 45 x 20mm, up to six lymph nodes are identified from 5 to 20mm in maximum dimension.  Two imprints are prepared from each lymph node, the sixth lymph node is the one closest to the suture.  Note by OC 15:10H 13.06.66
+No malignant cells seen (1 - 4).
+MC (5 & 6) PA.
+
+Blocks:  1 to 5 - each one lymph node; 6 & 7 - one lymph node.
+
+FROZEN SECTION REPORT:
+Six negative lymph nodes.
+Result to Dr Doug by Dr I Ruleman at 15:35H on 13/06/66
+
+B.  Specimen labelled "Right mastectomy axillary and marked" consists of a mastectomy specimen 180 (lateral to medial) x 140 (superior to inferior) x 55mm (superficial to deep).  The skin ellipse is 160 x 80mm.  The nipple is prominent and is 15mm in maximum dimension.  No lesions are identified on the skin.  The superficial margin is inked blue and deep margin is inked black.  There is a suture marking the axillary end.  At 9 o'clock 70mm from the nipple and extending towards 11 o'clock  there is an ill defined indurated solid tumour with tan and pink cut surfaces 40 x 35 x 35mm.  The tumour is 37mm from lateral, 100mm from medial, 60mm from inferior, 15mm from superior, 15mm from superficial and 1mm from deep margin.  The tumour is 7mm from the overlying skin.  Extending medially from the tumour there is a softer ill defined area (?fibrosis, ?part of the tumour), 65 x 85 x 40mm.  This ?fibrotic area is 15mm from medial margin <1mm from inferior and superficial margin.  All other margin distances for this ?fibrotic area is more than what is already described for the tumour.
+Blocks:  1 - section of nipple; 2 - tissue behind nipple; 3 - lateral margin; 4 - section of tumour with no margins; 5 & 6 - tumour with deep margin; 7 - tumour with no margins (reserved block); 8 - inferior border of tumour, no margins; 9 - tumour and superior and superficial margins (the superior surface is marked by nick); 10 to 13 - representative sections of the ?fibrotic area at 10mm intervals from centre towards medial; 14 - medial margin; 15 - inferior margin closest to the ?fibrotic area; 16 - superficial margin closest to the ?fibrotic area; 17 - skin closest to tumour.  Please see the diagram. 18 to 20 - serial sections of tumour and surrounding ?fibrosis blocked from superior to inferior (18 is inferior to  4) (TO: KG; ER/rt 14.6.66)
+
+MICROSCOPIC (Reported by Dr I Mauney):
+Synoptic report for breast carcinoma (A&B)
+Invasive carcinoma:
+Site: Right breast
+Type: Invasive carcinoma with medullary features
+Invasive tumour size: 40mm
+Grade (Modified Bloom & Richardson): 3
+Tubules: 3     Nuclei: 3     Mitoses: 3     Mitotic rate:   18 /10hpf.
+Lymphovascular invasion:  Not seen
+	    
+DCIS component:  Not seen
+
+Excision Margins:  
+Invasive component:
+Deep 3.5mm
+All other margins greater than 10mm
+
+Receptors (Block B4  ): 
+ER:  
+	10% of nuclei stained
+	predominant intensity of staining:  Weak
+PR:  
+	0% of nuclei stained
+	predominant intensity of staining:  
+HER2 (Novocastra 10A7): +1, negative
+HER2 SISH:  Performed at Pacific Mutual, LIVERPOOL HOSPITAL Hospital, see separate report.
+Ki-67 index: 60%
+
+Nipple:  No evidence of malignancy
+
+LCIS / ALH: Not seen   
+
+Miscellaneous:
+- The tumour is negative for CK14. A few carcinoma cells are positive for CK5/6 imnunostain. This raises the possibility of basal-like phenotype. 
+
+- Outside the carcinoma there are areas of sclerosis and periductal and perilobular lymphoplasmacytic inflammation. This raises the possibility of lymphocytic mastopathy. Such changes may be seen in patients with diabetes mellitus.
+
+- There are small  foci of atypical apocrine metaplasia.
+
+- Fibroadenomatoid changes are seen away from the carcinoma.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 6
+Number of sentinel lymph nodes involved by tumour:  0       
+
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   6
+Total number of involved lymph nodes (including sentinel node(s)):   0
+
+

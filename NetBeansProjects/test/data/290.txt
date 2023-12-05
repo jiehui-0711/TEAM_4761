@@ -1,0 +1,81 @@
+Episode No:  31W183264R
+318183.GQL
+
+AMALONG, DARWIN 
+Lab No:  31W18326
+Rousham
+SANCTUARY POINT  Victoria6605
+Specimen: Tissue
+D.O.B:  8/10/2009
+Sex:  M
+Collected: 2/12/2063 at :
+Location:  ST VINCENT'S PATHOLOGY-WHYALLA HOSPITAL
+DR MARION OMAR VARRONE
+Distribution:   FILE-COPY
+
+FLUORESCENCE IN SITU HYBRIDISATION - FISH REPORT 24/1/63
+				MURWILLUMBAH DISTRICT HOSPITAL's Pathology
+
+
+CLINICAL:
+?Liposarcoma with adjacent retroperitoneal fat.
+MACROSCOPIC:
+A.  Specimen labelled "Stitch short deep superior, long deep inferior margin, loop inferior, pelvic margins" consists of a mass of adipose tissue 190 x 180 x 75mm.  There are three marking stitches as described in the label.  The external surface is smooth.  The external surface is inked in three inks:  Superior red, superficial/inferior blue, and deep black.  Slicing reveals a predominantly yellow, glistening cut surface.  There are multiple foci of harder, gritty areas (?calcification).  No necrosis is seen.  Representative sections are sequentially blocked from deep towards superficial/inferior. Fresh tissue has been sampled for cytogenetics.  Block will be sent for MDM2 FISH. 
+Blocks:  1 & 2 - deep inferior; 3 & 4 - deep superior; 5 - superior margin; 7 - superior margin; 8 to 10 - representative sections; 11 & 12 - representative section; 13 - superior margin; 14 & 15 - superficial margin; 16 to 18 - representative sections; 19 & 20 - inferior margin (adjacent to the loop suture).
+B.  Specimen labelled "Anterior perienteric fat" consists of two pieces of fatty tissue 25 x 25 x 12 and 70 x 35 x 7mm.  Both pieces have homogenous yellow glistening cut surfaces.
+Blocks:  1 & 2 - representative the larger piece; 3 - representative the smaller piece.
+C.  Specimen labelled "Lateral perienteric fat" consists of two ragged pieces of fatty tissue 80 x 60x 10mm in aggregate.  The two pieces are serially sliced.  The cut surfaces are homogenously yellow and glistening.
+Blocks:  1 to 4 - representative sections.
+D.  Specimen labelled "Retroperitoneal fat" consists of fragments of fatty tissue 160 x 90 x 20mm in aggregate.  Slicing reveals yellow glistening homogenous cut surfaces.  No distinct nodules are identified.
+Blocks:  1 to 4 - representative sections.  (TO: NI; TA/rt 3.12.63)
+MICROSCOPIC (Reported by Dr I Ammonds):
+A.  Sections show mature adipose tissue with areas of infarction, organisation and calcification.  The tumour has been extensively sampled and there are no features of well differentiated liposarcoma. 
+B.   Sections show mature adipose tissue.  There are no features ofwell differentiated liposarcoma. 
+C.  Sections show mature adipose tissue.  There are no features of well differentiated liposarcoma.
+D.  Sections show mature adipose tissue.  There are no features of well differentiatedliposarcoma.
+DIAGNOSIS:
+A.   Pelvic tumour:  
+The histological features are those of a lipoma with areas of infarction, fibrosis and calcification. No atypical features are seen in numerous levels.  Retroperitoneal lipomas are described, but this diagnosis should take into account cytogenetic testing (fresh tissue and paraffin block have been sent to BARADINE MULTI PURPOSE SERVICE's Pathology) and long term follow up.
+B, C.  Anterior perienteric fat:  
+Mature adipose tissue. 
+D.   Retroperitoneal fat:
+Mature adipose tissue. 
+FLUORESCENCE IN SITU HYBRIDISATION - FISHREPORT 24/1/63
+				ROYAL PERTH HOSPITAL's Pathology
+
+Clinical History:
+Retroperitoneal tumour: lipoma.  MDM2 FISH
+
+Nature of Specimen:  
+FFPE Block 31W18326/A6
+
+FISH Probe:
+MDM2 (12q15), D12Z3 (12 centromere) loci-specific probe set (ZytoVision).
+
+FISH Result:
+nuc ish (D12Z3, MDM2)x2.
+
+Comment:
+Interphase FISH detected noevidence of MDM2 amplification relative to the 12 centromere.  The majority of nuclei showed two copies of both MDM2 and 12 centromere.
+Summary: No evidence of MDM2 amplificaiotn.  
+Reported by I Rentar    		Validated by:  Dr I Sacramed
+					 21/1/63
+			 
+ADDITIONAL REPORT:  (21/1/63)
+
+Sections were sent to SydPath for Cytogenetic testing and the report is as follows:
+Reported by I. Kawell
+Specimen Type:  Tumour
+Preparation:
+S-1
+S-2
+S-3
+S-4
+Analysis:
+Cells Analysed (GTW BANDING)  3
+Band Resolution Level  300
+Karyotype:
+Insufficient number of metaphases.
+Comment:
+Only 3 metaphases were detected.  No clonal abnormality was identified.  This is an insufficient number of cells for a complete cytogenetic analysis.  Please advise the laboratory if FISH would be useful in this case.
+

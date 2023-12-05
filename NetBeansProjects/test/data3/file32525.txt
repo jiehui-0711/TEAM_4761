@@ -1,0 +1,41 @@
+SPR no: 72X146429V
+MRN no: 72814642
+Site_name: ESPERANCE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ca 125: 101 ovarian cyst.  30yo patient.  Left ovarian cyst.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left ovarian cyst&amp;quot;, consists of a cyst, received in multiple pieces, ranging from 10 to 80mm and measuring 80 x 50 x 15mm in aggregate.  The cyst wall is approximately 2mm thick.  Patchy haemorrhagic areas are seen.  No papillary excrescences are seen.  RS 2 blocks.
+Blocks: 1 &amp;amp; 2 - frozen section; 3 to 9 - representative cyst.
+
+B.  Specimen labelled &amp;quot;Right ovarian cyst&amp;quot;, consists of three fragments of flattened cyst wall tissue measuring 30 x 10 x 5mm, 22 x 15 x 8mm and 5mm in maximum dimension.  The cyst wall ranges from 1 to 3mm in maximum dimension and part of the wall has an orange appearance.  Specimen AE 3 blocks.
+
+C.  Specimen labelled &amp;quot;Endometrial curettings&amp;quot;, consists of tan curettings, 18 x 15 x 3mm in aggregate.    AE 1 block.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of fibroadipose tissue, 65 x 50 x 10mm.  A mass lesion is not identified on sectioning.  RS 3 blocks.   (TO:JL/ta 18/2/66)
+
+
+FROZEN SECTION REPORT:
+Benign haemorrhagic cyst.
+Result to Dr S Wisinski by Dr S Tsiatsos at 2:52pm on 17/02/2070.
+
+
+MICROSCOPIC: (Reported by Dr S Bertelsen)
+A.  Sections of the left ovarian cyst show an endometriotic cyst. There are no atypical features. There is no evidence of malignancy.
+
+B.  Sections of the left ovarian cyst show an endometriotic cyst. There is a also a haemorrhagic corpus luteum-type cyst. There are no atypical features. There is no evidence of malignancy.
+
+C.  Sections show polypoid fragments of late secretory endometrium. There is no polyp, endometritis or hyperplasia. There is no evidence of malignancy.
+
+D.  Sections show fragments of mature fibroadipose tissue. There are no atypical features. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Left ovarian cyst: Endometriotic cyst.
+
+B.  Right ovarian cyst: Endometriotic cyst and haemorrhagic corpus luteum type cyst.
+
+C.  Endometrial curettings: Polypoid late secretory endometrium.
+
+D.  Omental biopsy: No evidence of malignancy.

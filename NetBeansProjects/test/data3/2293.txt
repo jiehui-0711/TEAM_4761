@@ -1,0 +1,53 @@
+
+Episode No:  79M938290Z
+7949382.YCZ
+
+Marple, MARSHA MASON 
+Lab No:  79M93829
+Milstead
+CHARLEVILLE  WA  7025
+Specimen: Tissue
+D.O.B:  10/7/1992
+Sex:  F
+Collected: 26/4/2064 at :
+Location:  POSTOPERATIVE RECOVERY - PETER MACCALLUM CANCER CENTRE
+DR DWIGHT ELLIS HARIG
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT (23/7/65)
+
+CLINICAL:
+Ovarian Ca - interval debulking.
+MACROSCOPIC:
+A.  Specimen labelled "Uterus tubes + ovaries" consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 139g in total.  The uterus measures 155 x 55 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures  27 x 40mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 20mm in maximum thickness.  The myometrium contains multiple intramural fibroids measuring 5 to 30mm in maximum dimeter.  The cut surface of the fibroids are pale and firm with whirling appearances.  The right fallopian tube measures 50mm in length and 6mm in maximum diameter.  The right ovary measures 20 x 18 x12mm and has an unremarkable cut surface.  The left fallopian tube measures 50mm in length and 6mm in maximum diameter.  The left ovary measures 30 x 25 x15mm and contains a cystic lesion which measures 25 x 15 x 10mm. 
+Blocks: 1 to 3 - full longitudinal section of anterior body and cervix, 4 to 9 - full longitudinal section of posterior body and cervix with intramural fibroids, 10 - TS right fallopian tube and ovary, 11; - LS of right fimbriae; 12; Representative TS of right ovary; 13 - TS of left fallopian tube; 14 - LS left fimbria; 15 to 17 - TS of left ovary with cystic lesion; multiple pieces in 17 blocks. 
+B.  Specimen labelled "Omentum", consists of a piece of omentum measuring 180 x 90 x 20mm.  The serosal surface is dull and dusky.  On the cut surface multiple tumour deposits are noted. 
+Blocks: 1 to 3 - representative sections of tumour.  Multiple pieces in 3 blocks.
+(TO: VQ;HW/vo 27.4.64) 
+MICROSCOPIC (Reported by Dr T Hernon):
+A. Sections show a 19 mm poorly differentiated serous adenocarcinoma, arising from the left ovary.  The lesion has a predominantly solid architecture. Focal slit-like lumens are seen.  The tumour cells have markedly pleomorphic, hyperchromatic nuclei with prominent nucleoli. Probable focal treatment effect is seen.
+A 13mm metastatic tumour deposit is also present in the fimbria of the right fallopian tube.
+Tumour is seen in a large vein adjacent to the right fallopian tube (A10).
+Surface peritoneal involvement is present over the body of the uterus, left fallopian tube and the rightovary.
+The endometrium is atrophic.  There is no evidence of hyperplasia or malignancy.
+A benign leiomyoma is seen in the myometrium.
+The cervix is unremarkable.  There is no evidence of HPV effect orCIN.
+B. Sections show omental fat with extensive involvement by poorly differentiated serous adenocarcinoma.
+Shown to Dr Shawn Hoseck.
+DIAGNOSIS
+A. Uterus, bilateral fallopian tubes and ovaries:
+- Poorly differentiated serous adenocarcinoma, arising from the left ovary
+- Venous invasion present
+- Metastatic tumour right fallopian tube
+- Surface peritoneal involvement over the uterus, left fallopian tube and right ovary
+B. Omentum: poorly differentiated serous adenocarcinoma
+ADDITIONAL REPORT (23/7/65)
+
+MSI immunohistochemistry requested by Dr Leonel LECOULTRE, 105 HAMRUN CIRCUIT service.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

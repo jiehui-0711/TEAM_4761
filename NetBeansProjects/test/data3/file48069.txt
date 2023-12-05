@@ -1,0 +1,43 @@
+SPR no: 07Z947130E
+MRN no: 0799471
+Site_name: SWAN DISTRICTS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+63M with metastatic melanoma.  Small bowel obstruction due to intussusception secondary to likely melanoma deposit.  Needs BRAF testing as not yet performed.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Small bowel resection&amp;quot;, consists of a piece of small bowel,
+
+Specimen
+Specimen length: 230mm in length and 70mm in circumference.
+Thickness of mesocolon: 35mm thick.  1cm piece was taken from larger tumour for biobanking and a 1cm piece of mucosa was taken for biobanking.
+
+Tumour
+Location:
+Description: There are two tumours located within the bowel wall.  One end of the mucosa is inked blue and the other end inked black.  Opened up specimen with no evidence of intussusception
+Maximum tumour diameter: Largest tumour measures 50 35 x 22mm and is 60mm away from the blue margin and 180mm away from the black margin.  The second tumour measures 20 x 20 x 10mm and measures 20mm from the black margin and 200mm from the blue margin.
+Perforation:  Absent.
+Appearance of serosa overlying tumour: Intact.
+Distance of tumour to nearest cut end: Larger tumour, 60mm from (blue) margin, second tumour 20mm (black) margin.
+
+Other
+Polyps: 0
+Adherent structures:
+Other: ? tumour in the mesentery along the mesenteric margin.  There are multiple lymph nodes seen measuring from 5 up to 15mm.
+Inked margins: Green - mesenteric margin.
+
+Blocks
+1 - margins (blue); 2 - margins (black); 3 to 5 - composite sections of largest tumour; 6 to 8 - composite sections of second tumour; 9 - lymph nodes as seen; 10 - lymph nodes as seen; 11 - largest lymph node RS; 12 - one lymph node bisected; 13 - one lymph node bisected; 14 - one lymph node bisected; 15 - two lymph nodes; 16 - lymph nodes as seen.  (TO:FY/ta 18/9/70)
+
+
+MICROSCOPIC (Reported by Dr B Staino):
+Sections show three metastatic tumour nodules within the small bowel. The two large nodules show surface mucosal erosion and ulceration and involves the full thickness of the small bowel with only 0.2mm clearance from the serosal margin. The tumour is characterised by small to medium sized cells with scanty cytoplasm and hyperchromatic markedly irregular nuclei with occasional nucleoli. Mitoses are frequent. Focal necrosis present. Tumour cells are of varying morphology with spindle and epithelioid cells admixed with large proportion of small cells in diffuse sheets.  No tubular formation. Occational foci with brown pigment noted . Eight (8) lymph nodes within the mesentery are negative for metastasis. The largest nodule within the mesentery appears to be a tumour nodule without any lymphoid rim around. Proximal and distal small bowel margins are normal.
+
+DIAGNOSIS:
+Small bowel resection:  Metastatic high grade malignant tumour within the small bowel.
+The morphology of the tumour is similar to previously reported tumour as small cell melanoma (case no 07Z94713 which  has been referred for external review.)
+BRAF testing as requested will be performed on block 11.
+Additional report : 23/10/70
+Immunohistochemistry:  S100,Sox 10 ,Melan A - positive ,confirming Melanoma

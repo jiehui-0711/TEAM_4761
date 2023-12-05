@@ -1,0 +1,63 @@
+Episode No:  94C636817V
+9416368.DSV
+
+Leemans, LORENZO Edward 
+Lab No:  94C63681
+YUM! Brands
+HURSTBRIDGE  New South Wales  2427
+Specimen: Tissue
+D.O.B:  8/6/2010
+Sex:  M
+Collected: 18/02/2013 at 09:16
+Location:  Peter Mac-NEWMAN HOSPITAL
+DR GUY EMMANUEL-BROERMANN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+RCC R kidney.  
+MACROSCOPIC:
+Specimen labelled "Right kidney" consists of a 342g specimen of kidney(120 x 70 x 40mm), patchy perinephric fat (up to 10mm in thickness) and ureter (40mm in length).  The perinephric fat is easily stripped off the kidney.  The kidney weighs 230g after removing the fat.  The adrenal gland is not present.There is a 34 x 29 x 27mm circumscribed nodule in the lower pole of the kidney.  The nodule has a variegated cut surface showing soft yellow and haemorrhagic areas.  It is 1mm from the renal capsule and well clear of renal artery and veinand the ureter margins.  The renal parenchyma away from the tumour appears normal.  The tumour does not seem to be extending to the hilar fat.  
+Blocks:  1 - ureter margin; 2- renal vein margin; 3 - renal artery cut end; 4 to 6 - representative sections of the tumour; 7 - tumour and adjacent hilar fat; 8 - tumour and adjacent renal parenchyma; 9 - representative renal pelvis; 10 - kidney away from the tumour.  (AA/mm 20.4.63) 
+MICROSCOPIC (reported by Dr Y Coates & Dr Y Saleha):
+Sections show clear cell renal cell carcinoma of the right kidney.  The features are as follows:
+Position of tumour:  Right lower pole.
+Dimensions of tumour:  34 x 24 x 27mm. 
+Tumour type:  Clear cell renal cell carcinoma. 
+Fuhrman grade:   Grade 1 (nucleoli inconspicuous at 400x magnification) 
+	 
+Sarcomatoid differentiation:  Absent.
+Rhabdoid differentiation:  Absent. 
+Necrosis:  Absent. 
+Tumour spread beyond kidney:  Absent. 
+Tumour extends beyond Gerota's fascia:  Absent. 
+Tumour in renal sinus fat:  Absent. 
+Tumour in renal vein or its segmental (muscle containing branches):  Absent. 
+Lymphovascular invasion:  Absent. 
+Tumour in adrenal gland:  Not applicable. 
+Lymph node status
+	Number of lymph nodes:  0.
+Involvement of surgical margins:
+	Absent 
+	Site of nearest margin:  Within inferior capsule of kidney (0.1mm). 
+AJCC tumour stage (7th Ed.)
+pT1a Tumour 4cm or less in greatest dimension, limited to the kidney
+pNX Regional lymph nodes cannot be assessed.
+pMX Cannot be assessed histologically
+Scoring Algorithm to Predict Metastases after Radical Nephrectomy (Leibovich et al., Cancer, 2003)
+	
+Primary tumor status score (pathologic T stage)
+pT1a 	0
+Regional lymph node status (N stage) score
+pNx 	0
+Tumor size (cm)
+< 10 	0
+Nuclear grade score
+1 	0
+Histologic tumor necrosis score
+No	0
+Total score (out of 11):  0.
+DIAGNOSIS
+Right nephrectomy:
+- 34mm clear cell renal cell carcinoma, Fuhrman grade 1, margins clear. 
+- Confined to kidney.
+- pT1a (AJCC 7th Ed.)
+

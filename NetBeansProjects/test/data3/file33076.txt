@@ -1,0 +1,87 @@
+SPR no: 68X447314Z
+MRN no: 6894473
+Site_name: SOUTHERN CROSS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Total thyroidectomy for R papillary carcinoma.  R central neck dissection.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Thyroid right lobe&amp;quot;, consists of thyroid lobe measuring 80mm superior to inferior, 35mm medial to lateral, 30mm anterior to posterior and weighs 47g.  The anterior surface is inked blue,  posterior / tracheal surface is inked black.  There is an  adherent skeletal muscle on the anterior surface of the specimen.  On sectioning on the superior pole  there is an ill defined lesion measuring 33mm x 30mm x 25mm.  The cut surface is pale tan with a few small areas of haemorrhage and yellow golden areas.  The uninvolved parenchyma shows red brown parenchyma with haemorrhage.
+Blocks: 1 to 13 - lesion from superior to inferior (block 3 &amp;amp; 4 one slice, 5 &amp;amp; 6 one slice, 7 &amp;amp; 8 one slice, 9 &amp;amp; 10 one slice, 11 &amp;amp; 12 one slice, 13 &amp;amp; 14 one slice); 15 to 18 - representative sections of the uninvolved thyroid from superior to inferior.
+
+B.  Specimen labelled &amp;quot;Thyroid left lobe&amp;quot;, consists of a thyroid lobe measuring 25mm superior to inferior, 18mm medial to lateral, 10mm anterior to posterior and weighs 4g.  The anterior surface is inked blue, posterior / tracheal surface is inked black.  The cut surface shows pale ill defined lesion mid of the specimen measuring 6 x 3 x 6mm. The rest of the lobe is red brown. AE 7 blocks from superior to inferior.
+
+C.  Specimen labelled &amp;quot;Right central neck dissection&amp;quot;, consists of two pieces of brown fatty tissue measuring 30 x 25 x 15mm.  A few lymph nodes identified measuring from 3 to 10mm.
+Blocks: 1 - lymph nodes as seen; 2 - one lymph node; 3 - one lymph node; 4 - one lymph node.
+(TO:LM/eh 12/6/65)
+
+
+MICROSCOPIC (Reported by Dr R Sandburg):
+A to C.  SYNOPTIC REPORT FOR UNIFOCAL THYROID CARCINOMA
+
+Specimen Type:
+- Total thyroidectomy
+
+Histologic Type:
+- Papillary carcinoma, mixed papillary and follicular architecture
+
+Tumour Site:
+- Right lobe of thyroid
+
+Tumour description:
+Solid/insular/trabecular architecture: Present (block A7, A12)
+Mitotic rate per 10 hpf: 1
+Coagulative Necrosis: Present/Absent
+
+Tumour Size:
+Greatest dimension: 33mm
+*Additional dimensions: 30 x 25mm
+
+Tumour Margin:
+Partially encapsulated with capsular invasion
+
+Vascular Invasion:
+Present
+If present, state size and location of involved vessels:
+Capillary/lymphatic sized vessels in capsule of tumour.
+
+Extrathyroidal Extension:
+Present (block A9 to A11)
+
+Specify:
+The tumour shows widespread extrathyroidal spread into soft tissue and skeletal muscle.
+
+Surgical Excision Margin:
+Local excision is complete
+
+Specify:
+The carcinoma is separated from the surgical resection margin by a narrow pseudocapsule or soft tissue plane.
+
+Lymph Nodes:
+0 of 7 nodes are involved by carcinoma.
+- In the specimen B (thyroid left lobe), one (1) lymph node is identified within the attached soft tissue.  The lymph node is unremarkable.  There is no evidence of malignancy.
+- In the specimen C (right central neck dissection), six (6) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+Thyroid Away from Tumour:
+Hashimoto&amp;#8217;s thyroiditis/Lymphocytic thyroiditis.
+
+Parathyroid tissue:  Absent.
+
+Pathologic Staging (pTNM) &amp;#8211; (AJCC 7th Edition 2009):
+
+Primary Tumour (pT)
+- PT3:   Tumour more than 4cm limited to thyroid or any tumour with minimal extrathyroid extension (e.g. extension to sternothyroid muscle or perithyroid soft tissues.)
+
+Lymph Nodes (pN)
+- PN0:   No regional lymph node metastasis.
+
+Distant Metastasis (pM)
+- PMX:   Cannot be assessed.
+
+
+SUMMARY:
+A.  Thyroid right lobe - Papillary carcinoma.
+B.  Thyroid left lobe - Hashimoto&amp;apos;s thyroiditis.
+C.  Right central neck dissection - No evidence of malignancy.

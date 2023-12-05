@@ -1,0 +1,21 @@
+SPR no: 50I705805X
+MRN no: 503705
+Site_name: CENTRAL HIGHLANDS RURAL HEALTH - CRESWICK
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Peritoneal met excision biopsy.
+Additional information obtained:  No previous known malignancy.  Pancreatic mass.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Peritoneal mass&amp;quot;, consists of a piece of fatty omental tissue 43 x 34 x 15mm. The external surface shows a white nodule 20 x 15 x 11mm. On cut surface, the nodule is firm and white. The cut surface otherwise consists of yellow fatty tissue. RS 2 blocks.
+(TO:LW/ec 13/10/68)
+
+
+MICROSCOPIC (Reported by Dr O Natalizio and registrar Dr O Konopacki):
+The sections show multiple deposits of tumour within adipose tissue.  The tumour cells are arranged in a nodular architecture separated by fibrous bands.  Within the nodules the cells are arranged in nests and acinar-like structures.  The tumour cells contain granular eosinophilic cytoplasm and eccentric round to oval regular nuclei with finely clumped chromatin and small nucleoli.  The tumour cells stain positive with CD56 and synaptophysin and focally with chromogranin.  There is non-specific membranous staining with Beta-catenin.  PanCK, EMA, CD10, ER and PR are negative.  The features are consistent with a neuroendocrine neoplasm.  The mitotic rate is approximately 1 per 10 hpf (counted over 50 hpf).  No necrosis is identified and no lymphovascular or perineural invasion is seen.  The Ki-67 index is approximately 5.7%, calculated from a printed image, consistent with a well differentiated, grade 2 tumour.
+
+
+DIAGNOSIS:
+Peritoneal mass:  Metastatic well-differentiated grade 2 neuroendocrine neoplasm

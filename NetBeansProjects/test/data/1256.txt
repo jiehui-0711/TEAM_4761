@@ -1,0 +1,62 @@
+Episode No:  11A002753E
+110002.SPK
+
+PAWLOSKI, Cristin 
+Lab No:  11A00275
+Navins
+STAWELL  Victoria  3400
+Specimen: Tissue
+D.O.B:  29/9/2009
+Sex:  F
+Collected: 27/11/2012 at 15:51
+Location:  PARKES 4 EAST-MOREE DISTRICT HOSPITAL
+DR RUFUS Sebastian Freeman-JUBA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast lesion 12 o'cl.  Calcs & suspicious mass.  Core bx benign.  Excision biopsy.  Short superior, long lateral, medium medial.
+MACROSCOPIC:
+Specimen labelled "Left breast lesion; long lateral, short superior, medium medial" consists of a fibrofatty piece of tissue with three sutures for orientation as above and one hookwire exiting from the lateral margin.  It measures 70mm (medial-lateral) x 45mm (superficial-deep) x 80mm (superior-inferior).  The superior margin is inked blue, inferior margin black and deep margin green.  The specimen is serially sectioned from lateral to medial into thirteen slices (slice 1 - lateral margin and slice 13 - medial margin).On sectioning, the cut surface has a fibrous appearance but no lesion is identified.  in slices 5 to 6 there is an area of haemorrhage consistent with hookwire insertion area.  Representative sections taken according to the attached diagram.
+Blocks:  1 - shave of lateral margin; 2 - slice 2; 3 & 4 - slice 3; 5 & 6 - slice 4; 7 & 8 - slice 5; 9 & 10- slice 6; 11 & 12 - slice 7; 13 & 14 - slice 8; 15 & 16 - slice 9; 17 & 18 - slice 10; 19 & 20 - slice 11; 21 & 22 - slice 12; 23 - shave of medial margin (slice 13).   (CW/cc 30/1/62) 
+ 
+MICROSCOPIC (Reported by Dr D Allocca & Dr D MAC Stein): 
+Sections show at least 6 deposits of invasive ductal carcinoma, NOS, ranging in size from 1mm to 12mm extending over an area 21mm across (slices 6 to 12).  All tumour deposits have the same morphology.  Extensive high grade DCIS with associated calcification is present.  The features are as follows:
+Invasive carcinoma:
+Site:  Left breast, 12 o'clock
+Type:  Invasive ductal carcinoma, NOS.
+Invasive tumour size:  At least 6 tumour deposits, 1mm to 12mm over a 21mm area (slices 6 to 12)
+Grade (Modified Bloom & Richardson):  3
+Tubules: 3     Nuclei: 3      Mitoses 3       Mitotic rate: 30 /10hpf.
+Lymphovascular invasion:  Not identified
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  27mm (slices 5 to 13)
+Nucleargrade:  High
+Architecture:  Solid.
+Necrosis:   Present
+Calcification:  Present
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Extensive
+Excision Margins:  
+Invasive component:  Positive superior and superficial margins, inferior margin 1mm clear, medial margin 3mm clear, deep margin 2mm clear, lateral margin well clear
+In-situ component:  Positive medial and superior margins, inferior and superficial margins 0.5mm clear with no intervening normal ducts, deep margin 1mm clear, lateral margin well clear.
+Receptors (Block 14): 
+ER:  Negative
+PR:  Negative
+HER2 (Novocastra 10A7):  Positive (score 3+)
+Ki-67 index:  Approximately 60%
+LCIS / ALH:    Absent
+Miscellaneous:  The surrounding breast tissue shows sclerosing adenosis occasionally showing benign microcalification, however extensivemalignant calcification associated with DCIS is present throughout the specimen, extending to the resection margins.
+ADDITIONAL REPORT (15/2/62):
+Blocks were sent to MURRAY BRIDGE SOLDIERS MEMORIAL HOSPITAL Hospital for Her2 CISH analysis, Dr D Beamer reports:
+Her 2 in situ hybridisation: (Her2 CISH Invitrogen SPOT-Light assay, block 14). 
+Her2 CISH result: POSITIVE, HIGH LEVEL AMPLIFIED.
+Mean Her2 copy number per cell: 13.8.
+SCORING CRITERIA (ASCO/CAP recommendations):
+1 to <2.5 copies:  	Non amplified (diploid)
+2.5 to <4 copies:  	Non amplified (polysomy) 
+4 to 6 copies:		Equivocal 
+>6 but < 10 copies:	Low level amplification
+10 or more copies: 	High level amplified.  
+ 
+

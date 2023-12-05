@@ -1,0 +1,72 @@
+Episode No:  79I738444Y
+793738.MLL
+
+Noori, Britt 
+Lab No:  79I73844
+Garraween
+TANUNDA  Queensland  6327
+Specimen: Tissue
+D.O.B:  25/6/1983
+Sex:  M
+Collected: 05/11/2013 at 12:43
+Location:  ACUTECARE WARD-WILLIAMSTOWN HOSPITAL
+DR Tyler Reginald REBERA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARYREPORT (14.1.63):
+
+
+CLINICAL:
+Large sigmoid tumour resection.  B/g:  AF-previouslyon warfarin and now on therapeutic enoxaparin and digoxin.  HTN.  Asthma.  Prostate cancer - no mets.  Other meds: atenolol, digoxin.  Sigmoid colon cancer.  
+MACROSCOPIC:
+Specimen labelled "Anterior resection" consists of a segment of large bowel measuring 140mm in length x 40 x 40mm in maximum dimension.  The bowel is dilated in the middle of the segment to a diameter of 70 x 70mm.  The serosal surface is haemorrhagic and in the area of dilation the serosa is covered with a fibrinous exudate and adherent mesocolon.  On opening there is a large exophytic tan tumour in the area of dilation measuring 60 x 60mm with a thickness of 30mm.  The tumour appears to invade through to the adherent mesocolon.  The tumour is 40mm from one surgical margin, inked black, and 35mm from the opposite surgical margin, inked blue.  The rest of the bowel mucosa is unremarkable.  Received with the main specimen is a separate segment of bowel with a stapled margin at one end measuring 22mm in length x 35 x 20mm in maximum diameter.  Thissegment appears to adjoin the blue margin on the main specimen, and is unremarkable.  
+Blocks:  1- black surgical margin; 2- blue surgical margin; 3 to 10 - full face through tumour including mesocolon; 11 - tumour towards black surgical margin; 12 - tumour towards blue surgical margin; 13 & 14 - paired blocks full face through separate stapled bowel segment; 15 to 20 - lymph nodes (block 15 - apical lymph node).  
+(TO: QR:  VD/mm 8.1.63) 
+MICROSCOPIC:  (Reported by Dr D Levell)
+
+Macroscopic Description
+
+Site of tumour:  Sigmoid colon	
+Maximum tumour diameter:     60mm
+Distance of tumour to nearer cut end:     40mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: >10 mm
+Lymph nodes
+Number of lymph nodes present: 13	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Sections of the separate segment of colon are unremarkable. 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status - TO FOLLOW	
+
+
+DIAGNOSIS:  
+Anterior resection:  Moderately differentiated adenocarcinoma.  No lymph node metastases (0/13).  pT3  pN0  pMX  R0. 
+SUPPLEMENTARY REPORT (14.1.63):
+Mismatch repair status:
+MLH1:    Preserved nuclear staining.
+PMS2:    Preserved nuclear staining.
+MSH2:    Preserved nuclear staining.
+MSH6:    Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).
+ 
+

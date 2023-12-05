@@ -1,0 +1,31 @@
+SPR no: 65Q745423I
+MRN no: 6567454
+Site_name: AUGATHELLA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Vulval squamous cell carcinoma.  Previous R THR.  Anterior vulva (marking suture at 12 o&amp;apos;clock).
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Anterior vulva stitch at 12 o&amp;apos;clock&amp;quot;, consists of an irregular excision of skin with attached subcutaneous fat measuring 95 x 95mm to a maximum depth of 25mm.  There is a suture at one tip denoting 12 o&amp;apos;clock.  The 6 o&amp;apos;clock aspect has a broad base.  On the skin surface there is an ulcerated nodular tumour measuring 55mm (3 to 9 o&amp;apos;clock) and 37mm (12 to 6 o&amp;apos;clock).  The tumour protrudes 16mm above the skin surface.  Tumour is seen to within 9mm of the nearest 6 o&amp;apos;clock margin.  The 12 o&amp;apos;clock margin is inked blue, 6 o&amp;apos;clock black.  On sectioning the tumour has a solid and partially cystic appearance and is located 15mm from the deep margin.  Blocks: 1 - LS 3 o&amp;apos;clock margin; 2 to 5 - TS through uninvolved skin at 3 o&amp;apos;clock margin; 6 to 9 - composite sections, full face of tumour with greatest depth of invasion and closest margins; 10 to 12 - further section through tumour with closest deep margin (superficial tumour not included); 13 to 15 - TS uninvolved skin, 9 o&amp;apos;clock margin; 16 - TS 9 o&amp;apos;clock margin.
+
+B.  Specimen labelled &amp;quot;Right peripheral femoral lymph node&amp;quot;, consists of multiple pieces of fatty tissue measuring 35 x 35 x 12mm.  One possible lymph node is identified measuring 4mm in maximum dimension.  Blocks: 1 - ?lymph node; 2 &amp;amp; 3 - remaining fat.  AE.
+
+C.  Specimen labelled &amp;quot;Right medial inguinal lymph node&amp;quot;, consists of multiple pieces of fatty tissue measuring 90 x 70 x 30mm in aggregate containing multiple lymph nodes measuring up to 50mm in maximum dimension.  Blocks: 1 to 6 - largest lymph node; 7 &amp;amp; 8 - one lymph node trisected; 9 &amp;amp; 10 - one lymph node trisected; 11 &amp;amp; 12 - one lymph node per block bisected.
+
+D.  Specimen labelled &amp;quot;Right lateral inguinal node&amp;quot;, consists of multiple pieces of fatty tissue, measuring 45 x 40 x 20mm in aggregate.  Three possible lymph nodes are identified measuring up to 20mm in maximum dimension.  Blocks: 1 to 3 - one lymph node trisected; 4 &amp;amp; 5 - one lymph node per block.  (TO:AP/ta 17/6/67)
+
+
+MICROSCOPIC (Reported by Dr R Trethewey):
+A.  Sections of vulva show a moderately differentiated basal cell carcinoma with surface ulceration.  The tumour has a mixture of nodular and infiltrative patterns.  The tumour cells show marked basaloid changes with scant cytoplasm and elongated hyperchromatic nuclei.  There is prominent peripheral palisading at the periphery of tumour nests.  The carcinoma has a depth of invasion of 16mm (block A8).  The carcinoma is completely excised.  The carcinoma is 8mm to the 6 o&amp;#8217;clock lateral skin margin (block A9) and is 11mm to the deep margin (block A8).  There is no evidence of lymphatic, vascular or perineural invasion.
+B.  Sections show adipose tissue only.  No lymph nodes are identified.  There is no evidence of malignancy.
+C.  Four (4) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+D.  Two (2) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Anterior vulva - Basal cell carcinoma, completely excised.
+
+B.  Right peripheral femoral lymph node - Adipose tissue with no significant abnormality.
+
+C.  Right medial inguinal lymph node - No evidence of malignancy (0/4).
+
+D.  Right lateral inguinal lymph node - No evidence of malignancy (0/2).

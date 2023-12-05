@@ -1,0 +1,110 @@
+SPR no: 34F073831F
+MRN no: 1416053
+Site_name: LEETON DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right breast cancer self detected lump.  Core biopsy invasive breast cancer (triple positive tumour).  Axillary node biopsy invasive disease.  Right breast WLE and right axillary node dissection.  Breast specimen orientated - short superior long lateral double deep.  Please biobank. Consent in notes.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Wide local excision right breast cancer 8 o&amp;apos;clock 5cm from nipple short stitch superior long lateral double deep&amp;quot;, consists of fibroadipose breast tissue with orienting sutures in situ, weighing 30g.  The specimen measures 57mm medial to lateral, 55mm superior to inferior, and 23mm superficial to deep.  The superior margin is inked blue, inferior margin is inked green, deep margin is inked black, and superficial margin is inked red.  The specimen is sectioned from medial to lateral into fourteen approximately equal slices.  There is a pale grey, poorly defined tumour in slices seven to nine.  The tumour is  8mm from the deep margin, 9mm from the superficial margin, and greater than 10mm from all other margins.
+Blocks: 1 - slice one (medial); 2 - slice three; 3 &amp;amp; 4 - slice five; 5 &amp;amp; 6 - slice seven; 7 &amp;amp; 8 - slice eight; 9 &amp;amp; 10 - slice nine; 11 &amp;amp; 12 - slice eleven; 13 - slice thirteen; 14 - slice fourteen (lateral); 15 - superior aspect of slice six.  See diagram.
+
+B.  Specimen labelled &amp;quot;Right axillary lymph node dissection&amp;quot;, consists of fibroadipose tissue, 70 x 65 x 30mm in aggregate, containing lymph nodes.
+Blocks: 1 &amp;amp; 2 - lymph nodes as seen; 3 &amp;amp; 4 - single lymph node, trisected; 5 &amp;amp; 6 - single lymph node, sectioned; 7 - presumed single lymph node, sectioned; 8 - single lymph node, quadrisected.  (TO:JB/eh 23/5/66)
+
+
+MICROSCOPIC (Reported by Dr I Brumwell):
+A, B.  Sections show breast tissue.  The main tumour is a 22mm diameter grade 2 infiltrating ductal carcinoma.  This is clear of excision margins.
+There is a second 8mm diameter grade 2 infiltrating ductal carcinoma which has been transected at the superior margin (blocks A3, A15).
+Eleven lymph nodes were identified in the right axillary node dissection and there is metastatic carcinoma in two of these nodes.  A synoptic report follows.
+
+Tumour 1:
+
+Invasive carcinoma:
+Site: R breast 8 o&amp;apos;clock.
+Type: Infiltrating ductal carcinoma.
+Invasive tumour size: 22mm.
+Grade (Modified Bloom &amp;amp; Richardson): 2.
+Tubules: 3    Nuclei: 3      Mitoses: 1      Mitotic rate:  2/10hpf.
+Lymphovascular invasion: Absent.
+
+DCIS component:
+DCIS:  Present.
+Maximum extent of DCIS:  24mm.
+Nuclear grade:  High.
+Architecture:  Solid, cribriform.
+Necrosis:  Present.
+Calcification:  Present.
+Degree of DCIS in tumour:  30%.
+DCIS in adjacent tissue:  Present.
+
+Excision Margins:
+Invasive component:  Deep 4mm, superficial 5mm, inferior 8mm, all others &amp;gt;10mm.
+In-situ component:  Deep 4mm, superficial 5mm, inferior 8mm, all others &amp;gt;10mm.
+
+Receptors (Block A6):
+ER: Positive.
+100% of nuclei stained
+predominant intensity of staining: Strong
+PR: Positive.
+80% of nuclei stained
+predominant intensity of staining: Strong.
+HER2 (Novocastra 10A7): 3+ (positive).
+HER2 SISH:  Performed at Douglass Hanly Moir Pathology, MANSFIELD DISTRICT HOSPITAL Hospital, see separate report.
+Ki-67 index: 3%.
+
+Nipple:  Not applicable.
+
+LCIS/ALH:  Absent.
+
+Miscellaneous:  The breast tissue elsewhere shows columnar cell change, focal atypical columnar cell change (flat epithelial atypia) with microcalcification (block A2) and focal moderate epithelial hyperplasia of usual type.  There is also some sclerosing adenosis with microcalcification.
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 11
+Number of axillary lymph nodes involved by tumour: 2
+Number of axillary nodes with metastases &amp;gt;2.0mm: 1
+Number of axillary nodes with metastases &amp;lt;2.0mm: 1
+Number of axillary nodes with isolated tumour cells &amp;lt;0.2mm: 0
+Extranodal spread: Absent.
+
+
+Tumour 2:
+
+Invasive carcinoma:
+Site: (R) breast
+Type:  Infiltrating ductal carcinoma
+Invasive tumour size:  8mm
+Grade (Modified Bloom &amp;amp; Richardson):  2
+Tubules:   3   Nuclei:  2    Mitoses:   1   Mitotic rate:    2  /10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  10mm
+Nuclear grade:  Intermediate
+Architecture:  Solid cribriform
+Necrosis:   Present
+Calcification:  Present
+Degree of DCIS in tumour:  10%
+DCIS in adjacent tissue:  Present
+
+Excision Margins:
+Invasive component: Superior - At margin.  All others &amp;gt;10mm
+In-situ component:  Superior 2.5mm.  All others &amp;gt;110mm
+
+Receptors (Block  A15):
+ER:  Positive
+50% of nuclei stained
+predominant intensity of staining:  Moderate
+PR:  Negative
+0% of nuclei stained
+HER2 (Novocastra 10A7):  2+ (equivocal)
+HER2 SISH:  Performed at Immunology, CHERBOURG HOSPITAL Hospital, see separate report.
+Ki-67 index:  5%
+
+
+DIAGNOSIS:
+A, B.  Wide local excision right breast and right axillary lymph node dissection:
+1.  22mm diameter grade 2 infiltrating ductal carcinoma.  pT2.
+2.  Separate 8mm diameter grade 2 infiltrating ductal carcinoma, extending to superior excision margin.
+3.  Metastatic carcinoma in two axillary lymph nodes (2/11).  pN1a.

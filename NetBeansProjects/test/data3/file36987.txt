@@ -1,0 +1,42 @@
+SPR no: 02P227637A
+MRN no: 2277566
+Site_name: WARREN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report02P22763,02P22763 (02P227637A) Trenchard, DANILO
+HISTOPATHOLOGY REPORT
+YARRAM & DISTRICT HEALTH SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ca cervix, see previous cone biopsy.
+
+1.  Uterus both tubes.
+2.  Left pelvic node.
+3.  Right pelvic node.
+4.  Peritoneal washing for Cyto.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX, LEFT + RIGHT FALLOPIAN TUBES&amp;quot;.  A uterus attached cervix and tubes weighing 140g. Uterus measures 90x35x30mm. Ectocervix measures 40x35mm with concave round os 10mm diameter.  Serosa appears smooth and grey.  Anterior surface inked blue and posterior inked black.  Cervix separated and serially sliced from right to left.  Endometrium measures 3 to 4mm.  Anterior wall 17mm and posterior wall 18mm.  There is a white whorled intramural nodule in the posterior wall, 5mm diameter.  There is vague creamy ill-defined focus surrounding the lower segment measuring approximately 10x5mm.
+
+Right tube measures 65mm in length and 10mm diameter.  Serosa is smooth and grey and sectioning is unremarkable.  Left tube measures 55m in length and 10 in diameter.  Serosa is smooth and grey and sectioning is unremarkable.  Paratubal cyst present.
+
+(1-15  cervix embedded entirely from right to left [1  one section, 2  one section, 3&amp;amp;4  one section bisected, 5&amp;amp;6  one section bisected, 7&amp;amp;8  one section bisected, 9&amp;amp;10  one section bisected, 11&amp;amp;12  one section bisected, 13&amp;amp;14  one section bisected [blue anterior and black posterior], 15  one section]; 16&amp;amp;17  one full face of lower segment; 18&amp;amp;19  second full face of the lower segment; 20  right parametrium; 21  left parametrium; 22-27  one full face sagittal of the uterus [22&amp;amp;23  lower segment and wall, 24&amp;amp;25  wall [24  anterior, 25  posterior], 26&amp;amp;27  fundus]; 28  right tube; 29  left tube).  RS (M-29).
+
+B.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.  Fibrofatty tissue 40x40x20mm.  It contains multiple lymph nodes identified maximum dimension of 13x7x4mm.
+
+(1  ?two lymph nodes; 2  ?two lymph node; 3  one lymph node sectioned).  RS (M-3).
+
+C.  &amp;quot;LEFT PELVIC NODE&amp;quot;.  Multiple fibrofatty tissue 40x30x20mm.  Multiple lymph nodes identified, maximum dimension of 13x5x5mm.
+
+(1  ?two lymph nodes; 2  ?two lymph nodes; 3  one lymph node sliced).  RS (M-3/SM 30/5/2069 km).
+
+MICROSCOPIC:  (Dr A Kakowski)
+A.  The sections show cervix with surgery-related changes including fibroblastic response, chronic inflammation and suture granuloma.  In addition, there is residual moderately differentiated keratinising invasive squamous cell carcinoma seen predominantly in the anterior wall of the cervix and also focally in the posterior wall.  The carcinoma in the anterior wall measures at least 8mm in extent and in the posterior wall measures 5mm in extent.  Focal features suspicious for lymphatic space invasion are identified.  Carcinoma has a maximal depth of invasion of 6mm in a cervical wall thickness of 8mm (block A9).  Carcinoma is 2mm from the anterior cervical soft tissue margin and is 8mm from the posterior cervical soft tissue margin.
+Sections of the endometrium show mid to late secretory phase pattern and the myometrium appears unremarkable.  Sections of the fallopian tubes are unremarkable.
+B.  Five lymph nodes are identified and in one of these there is a 2mm focus of metastatic squamous cell carcinoma.
+C.  Five lymph nodes are identified and show reactive changes only.
+DIAGNOSIS:
+A.  CERVIX - RESIDUAL SQUAMOUS CELL CARCINOMA - SEE TEXT FOR DETAILS.
+B.  RIGHT PELVIC NODES - METASTATIC CARCINOMA IN ONE LYMPH NODE.
+C.  LEFT PELVIC NODES - NEGATIVE FOR MALIGNANCY.
+5/7/2069 km

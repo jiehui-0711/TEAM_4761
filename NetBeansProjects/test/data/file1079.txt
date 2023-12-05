@@ -1,0 +1,21 @@
+SPR no: 83Y355720Z
+MRN no: 8393557
+Site_name: OBERON MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reportbw10 ng1033 839355.SHC
+KAMPFER, TRISTA
+15H12 967
+rdrw10 lrtbdrw10 par Last edited : 13/1/2065		Page: 2
+itap0 HISTORY:
+R liver.  Hx of CRC.
+harrsid5967177
+MACROSCOPIC:
+&amp;quot;LIVER RESECTION RIGHT LOBE&amp;quot;.  A partial liver resection specimen of a total weight o f 210g.  It measures 115x95x50mm.  It has two capsular surfaces 90x75mm and 70x45mm. Fatty tissue is adherent on the larger capsular surface.  The resection margin is inked blue.  The liver has been serially sliced in to 18 slices with  an average thickness of 8mm.  On sectioning there is a white nodular lesion with central necrosis measuring 90x50x45mm.  The lesion is close to the capsule, possibly extending to the attached fat over an area of 5mm.  It has a pushing marg in, appears to be abutting the surgical resection margin (within 1mm).  The remainder of the liver shows a simple cyst with a smooth inner lining that is filled with clear serous fluid measuring 12mm in maximal diameter and is otherwise  homogenous and unremarkable.
+(1 uninvolved liver; 2&amp;amp;3 cyst; 4 tumour pushing liver capsule; 5&amp;amp;6 tumour involving the overlying fat; 7&amp;amp;8 tumour pushing the surgical margin; 9 tumour block for tissue banking).  RS (M-9/ZH/ank)
+MICROSCOPIC:  (Dr. W. Thaller)
+144652 Sections show deposits of moderately differentiated adenocarcinoma. The adenocarcinoma focally infiltrates the capsule of the liver and extends into adjacent fatty tissue. The adenocarcinoma is  focally clear of the inked resection margin by less than 0.5mm. Immunostains show that the carcinoma is negative for CK7 and positive for CK20 and CDX2. The appearances and immunoprofile are in keeping with the stated clinical history of  metastatic colorectal adenocarcinoma.
+DIAGNOSIS:  rsid5967177
+RIGHT LIVER RESECTION, RIGHT LOBE
+- METASTATIC COLORECTAL ADENOCARCINOMA, FOCALLY INFILTRATING LIVER CAPSULE.
+13/1/65 cy

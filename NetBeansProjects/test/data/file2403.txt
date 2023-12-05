@@ -1,0 +1,56 @@
+SPR no: 33W669260U
+MRN no: 3386692
+Site_name: BODDINGTON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  33W669260U
+3386692.SAU
+
+DELLAROCCO, TAMA FAYE
+Lab No:  33W66926
+E Pacific
+FRESHWATER  New South Wales  4895
+Specimen: Tissue
+D.O.B:  19/12/1998
+Sex:  F
+Collected: 6/7/2065 at :
+Location:  PRINCE OF WALES PRIVATE-DUNMUNKLE HEALTH SERVICES
+DR UMBER ROMONA CAPASSO
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Serous cancer on diagnostic laparoscopy.  Obesity.  Melanoma age 45&amp;#8217;s.   Type 2DM.  Factor 5 leiden (heterozygous).Hypertension.  Hypercholesterolemia.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus tubes + ovaries&amp;quot;, consists of a uterus with cervix and bilateral fallopian tubes and ovaries weighing 112g in total.  The uterus with cervix is 130 x 75 x 60mm.  The ectocervix is 30 x 20mm.  The endometrium appears atrophic.  The myometrium is up to 11mm thick.  In the posterior uterine body there is an exophytic tan polyp, 20 x 15 x 15mm.  The posterior uterine myometrium is distorted by an intramural fibroid, 52 x 40 x 40mm.  The left fallopian tube is 45mm in length and the left ovary is 25 x 15 x 10mm.  The right fallopian tube is 45mm in length and the lumen is distended by tan material.  The right ovary is 30 x 20 x 15mm, and contains multiple thinned walled cysts.
+Blocks: 1 to 5 &amp;#8211; full longitudinal section anterior body and cervix; 6 to 11 &amp;#8211; full longitudinal section posterior body and cervix; 12 and 13 &amp;#8211; posterior endometrial polyp AE;14 and 15 &amp;#8211; left fallopian tube; 16 and 17 &amp;#8211; left ovary; 18 to 20 &amp;#8211; right fallopian tube; 21 to 23 &amp;#8211; right ovary.  Fallopian tubes and ovaries AE.
+B.  Specimen labelled &amp;quot;Left sigmoid appendix&amp;quot;, consists of a piece of adipose tissue 45 x 20 x 10mm.  The serosa is partially haemorrhagic over a 15mm area.  AE 3 blocks.
+C.  Specimen labelled &amp;quot;Umbilicus&amp;quot;, consists of two pieces of adipose tissue.  The first piece is 90 x 75 x 45mm, with overlying umbilicus and ellipse of skin, 70 x 20mm.  The second piece is 85 x 65 x 45mm, with overlying puckered peritoneum, 50 x 40mm.  Within the subcutis underlying the umbilicus is an irregular firm pale grey area, 35 x 15 x25mm.  The second piece of tissue contains an infiltrative tumour 25 x 25 x 25mm, extending from the peritoneal surface
+Blocks: 1 to 3 &amp;#8211; cross section of umbilicus and underlying nodule; 4 and 5- further sections of nodule near umbilicus; 6 to 8 &amp;#8211; tumour nodule from second tissue fragment.
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of two pieces of omentum, 330 x 230 x 20mm and 130 x 65 x 30mm.  Multiple haemorrhagic serosal areas with underlying tan nodules as seen.  The largest nodule is 4mm across.  RS in 3 blocks.
+(KT/vo 7.7.65)
+MICROSCOPIC (Reported by Dr K Hartfiel):
+A.  Sections show a serous carcinoma involving serosa and parametrium of uterus, both ovaries and fallopian tubes.  The tumourshows predominately psammomatous calcification (more than 95%).  Focally, neoplastic serous epithelium is present (less than 5%) with mild cytological atypia and papillary architecture.  Tumour cells with high grade nuclei are also focally seen.  Within the tumour, there is extensive fibrosis and numerous foamy macrophages.  In the right clinical setting the appearances are in keeping with those of previous neoadjuvant therapy.  The uterus shows a large intramural leiomyoma.  There is a large endometrial polyp with cystically dilated gland.  The rest of endometrium is atrophic.  The cervix is unremarkable.  For both ovaries, the tumour mainly involves the surface and outer halves of cortex.  The lumen of right fallopian tube is completely filled by tumour.  In the specimen A, the tumour appears to be centred on right fallopian tube and right ovary.
+B.  Sections show fibrofatty tissue involved by a serous carcinoma with extensive psammomatous calcification (more than 95%).  The appearances are identical those described in the specimen A.
+C.  Sections show a serous carcinoma with extensive psammomatous calcification (more than 95%).  The appearancesare identical those described in the specimen A.
+D.  Sections show omental tissue involved by a serous carcinoma with extensive psammomatous calcification (more than 95%).  The appearances are identical those described in the specimen A.
+Comment:
+The tumour shows extensive psammomatous calcification (more than 95%).  It is difficult to properly grade the tumour due to minimal amount of neoplastic epithelium (less than 5%).  The presence of extensive fibrosis and numerous macrophages is suggestive of previous neoadjuvant therapy.  If the patient had received neoadjuvant therapy, please refer to previous biopsy for tumour grading.  The most likely primary site is peritoneum.  The right fallopian tube is another possibility.  Clinical correlation is needed.  The case is shown to Dr K Byker and Dr BRYAN HALLIMAN.
+DIAGNOSIS:
+A.  Uterus, tubes and ovaries &amp;#8211; Serous carcinoma.Leiomyoma.  Endometrial polyp.
+B.  Left sigmoid appendix &amp;#8211; Serous carcinoma.
+C.  Umbilicus &amp;#8211; Serous carcinoma.
+D.  Omentum &amp;#8211; Serous carcinoma.
+SUPPLEMENTARY REPORT:
+Receptors (Block D1):
+ER:  Positive
+95% of nuclei stained
+predominantintensity of staining:  strong
+PR:  Positive
+50% of nuclei stained
+predominant intensity of staining:  moderate
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

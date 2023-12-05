@@ -1,0 +1,73 @@
+SPR no: 65H255547R
+MRN no: 6522555
+Site_name: SMITHTON DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Cholecystitis.  Intraop finding of cirrhosis.
+Additional information obtained:  Past history of hepatitis B, EtOH use, Ex IVDU.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of a gallbladder received piecemeal, in aggregate 75 x 45 x 23mm.  The cystic duct is not identified. The serosal surface is purple and partly covered with a possible exudate.  The wall thickness is up to 8mm. The mucosal surface is brown and appears partly ulcerated and covered by grey slough. Multiple pieces of black and yellow gall stones are present, individually up to 23mm in  maximum diameter.  AE 19 blocks.
+
+B.  Specimen labelled &amp;quot;Liver biopsy&amp;quot;, consists of a core biopsy 22mm in length and a less than 1mm fragment of tissue. AE 1 block.   (TO:LW/ec 13/9/72)
+
+
+MICROSCOPIC (Reported by Dr Q Liapis):
+A.  Sections of the gallbladder show moderate to poorly differentiated adenocarcinoma arising on a background of high grade epithelial dysplasia.  Tumour focally penetrates the serosa (T3).  Vascular invasion is present.  No perineural invasion is seen.  Due to the piecemeal nature of the specimen, margin assessment cannot be performed however, the tumour extends into diathermy effected tissue.  The background gallbladder shows features of acute cholecystitis and cholelithiasis
+Mismatch Repair Deficiency (MMRD) Status
+MLH1    Preserved nuclear staining
+PMS2    Preserved nuclear staining
+MSH2    Preserved nuclear staining
+MSH6    Preserved nuclear staining
+
+Comment:  Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B.  Sections of liver show a non-specific chronic hepatitis with cirrhosis.  The features are as follows:
+
+ARCHITECTURE
+Overall:  Cirrhotic
+Fibrous linkage:  Present
+
+PORTAL TRACTS
+Inflammation:  Moderate
+Inflammatory infiltrate:  Lymphocytes
+Interface hepatitis:  Minimal
+Bile ducts:  Mild ductular reaction present
+Vessels:  Normal
+
+LOBULES
+Inflammation:  Minimal
+Apoptosis:  Absent
+Steatosis:  Mild to moderate
+Ballooning:  Focal
+Iron:  Absent
+Copper/copper-associated protein:  Absent
+Alpha-1-antitrypsin:  Absent
+Hepatitis B surface antigen:  Absent
+Other:  There is no evidence of malignancy.
+
+ISHAK MODIFIED H.A.I. SCORE:
+
+Periportal or periseptal interface hepatitis (piecemeal necrosis):
+Score:	1 - Mild (focal, few portal areas)
+
+Confluent necrosis:
+Score:	 0 - Absent
+
+Focal (spotty) lytic necrosis, apoptosis and focal inflammation (does not include diffuse sinusoidal infiltration by inflammatory cells):
+Score:	1 - One focus or less per 10X objective
+
+Portal inflammation:
+Score:  2 - Moderate, some or all portal areas
+
+Staging:  Architectural changes, fibrosis and cirrhosis
+Stage: 6 - Cirrhosis, probable or definite
+
+
+DIAGNOSIS:
+A.  Gallbladder:
+- Moderate to poorly differentiated adenocarcinoma
+- Focal penetration of the serosa (T3)
+- Acute cholecystitis and cholelithiasis
+
+B.  Liver:  Non-specific chronic hepatitis with cirrhosis

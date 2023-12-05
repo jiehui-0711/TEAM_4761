@@ -1,0 +1,116 @@
+SPR no: 85W978754Y
+MRN no: 858978
+Site_name: TULLY HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report85W97875,85W97875 (85W978754Y) WYMAN, Dustin
+HISTOPATHOLOGY REPORT
+PINNAROO SOLDIERS' MEMORIAL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Endometrial ca.
+
+1.   Peritoneal washings.
+2.   Uterus, tubes and ovaries.
+3.   R pelvic sentinel node.
+4.   L pelvic sentinel node.
+5.   Omentum biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;.   Consists of uterus with attached cervix, bilateral and ovaries.   Specimen is received partially bivalved in the coronal plane.   Anterior is inked blue, posterior black.   The uterus with attached cervix weighs 69g and measures 75 superior to inferior, 30 intercornual distance.   Ectocervix is 30x20 with a slit-like os 15mm.   It is cream-coloured unremarkable.   Anterior endomyometrium is 14mm.   Posterior endomyometrium is 17mm.   The endometrium is less than 1mm thick.   There is an intrauterine device in-situ.   The lower uterine segment shows nabothian cyst.   No discrete lesion is identified.
+
+(1  right parametrial tissue; 2   left parametrial tissue; 3  right cornu; 4  left cornu; 5  anterior and posterior cervix; 6   anterior and posterior lower uterine segment; 7&amp;amp;8  anterior endomyometrium; 9&amp;amp;10  posterior endomyometrium [5-10  one full face sagittal slice]; 11&amp;amp;12  further sections of anterior endomyometrium ; 13&amp;amp;14  further sections of posterior endomyometrium; 15-17  remainder of the endometrium [entire endometrium embedded]).
+
+The right ovary and fallopian tube together weigh 12g and fallopian tube measures 60mm in length with a maximum diameter of 6mm.   Serosa is dusky and there are three paratubal cysts, 2 to 9mm, filled with clear serous fluid.   Ovary is 25x15x6mm.   Serosa is unremarkable.   On sectioning through the ovary, it is partially cystic.   The cyst is up to 17mm.   The inner lining of the cyst is smooth.
+
+(18  right fallopian tube; 19  right ovary).
+
+The left ovary and fallopian tube together weigh 10g.   Fallopian tube measures 50mm in length with a maximum diameter of 7mm.   Serosa is unremarkable.   Ovary is 30x20x12mm.   On sectioning through the ovary, it is partially cystic.   The cyst is up to 12mm maximum dimension.   Inner wall lining is smooth.   Representative sections are taken.
+
+(20  left fallopian tube; 21  left ovary).   Representative sections.  (M-21).
+
+B.  &amp;quot;R PELVIC SENTINEL NODE&amp;quot;.   Consists of a piece of fatty tissue, it measures 30x10x5mm.   Two possible nodes are identified and embedded in one block.   Representative sections.  (M-1).
+
+C.  &amp;quot;L PELVIC SENTINEL NODE&amp;quot;.   Consists of fatty tissue, in aggregate 25x15x5mm.   Four possible nodes identified.
+
+(1  one node bisected; 2  one node bisected; 3  two possible nodes).   Representative sections.  (M-3).
+
+D.  &amp;quot;OMENTAL BX&amp;quot;.   Consists of fatty tissue, 30x15x5mm.   Bisected.  All embedded.  (M-1/MC 18/10/2068 km).
+
+MICROSCOPIC:  (Dr. W. Chruch)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE: Fundus Body
+
+TUMOR SIZE:  Three separate foci (A8, A10, A15&amp;amp;16) 4 - 10mm in greatest dimensions
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 1
+
+MYOMETRIAL INVASION: Focal in one block (A8)
+Depth of invasion: 0.75 mm
+Myometrial thickness: 13 mm
+Percentage depth of myometrial invasion: 6 %
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not identified
+
+CERVICAL STROMAL INVOLVEMENT:Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not identified
+
+LYMPHOVASCULAR INVASION: Not identified
+
+SENTINEL LYMPH NODES:
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0
+Total number of lymph nodes examined (sentinel and nonsentinel): 6 sentinel lymph nodes only
+Number of sentinel lymph nodes examined: 6 : Two right pelvic sentinel lymph nodes (specimen B) and four left pelvic lymph nodes (specimen C)
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Inactive endometrium, tubal metaplasia. Adenomyosis.
+Right ovary - Follicle cyst.
+Left ovary - Serous inclusion cyst
+Right and Left fallopian tubes - No significant abnormality
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. In progress. Report to follow.
+Other: ER - positive, 70% moderate
+PR - positive, 70% strong.
+P53 - wild type staining (normal)
+P16 - mosaic staining
+
+OTHER SPECIMENS: Omentum (specimen D): No evidence of malignancy.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IA: No or less than half myometrial invasion
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+pT1a: Tumor limited to endometrium or invading less than half of the myometrium
+pN0(sn): No regional lymph node metastasis
+
+DIAGNOSIS:
+A. UTERUS, BILATERAL FALLOPIAN TUBES AND BILATERAL OVARIES:
+UTERUS: ENDOMETRIOID ADENOCARCINOMA OF ENDOMETRIUM, pT1a, pN0(sn)
+RIGHTOVARY: FOLLICLE CYST
+LEFT OVARY: SEROUS INCLUSION CYST
+RIGHT AND LEFT FALLOPIAN TUBES: NO SIGNIFICANT ABNORMALITY
+
+B. RIGHT PELVIC SENTINEL LYMPH NODE: TWO LYMPH NODES NEGATIVE FOR MALIGNANCY
+
+C. LEFT PELVIC SENTINEL LYMPH NODE: FOUR LYMPH NODES NEGATIVE FOR MALIGNANCY
+
+D. OMENTUM BIOPSY: NEGATIVE FOR MALIGNANCY
+
+JB 23/11/2069
+
+
+
+SUPPLEMENTARY REPORT 23/10/2068 Dr W Castro
+MMRP Immunostains: There is retained nuclear staining for MLH1, PMS2, MSH2, and MSH6 which indicates a low likelihood of high level microsatellite instability.
+
+JB 23/10/2068

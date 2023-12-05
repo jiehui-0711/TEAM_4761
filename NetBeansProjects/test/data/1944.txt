@@ -1,0 +1,74 @@
+
+Episode No:  13M486511M
+1344865.DEM
+
+Schumucker, HARVEY 
+Lab No:  13M48651
+Wenonah
+KINGSCLIFF  ACT  6964
+Specimen: Tissue
+D.O.B:  17/4/1993
+Sex:  M
+Collected: 13/1/2064 at :
+Location:  Pathwest-MAREEBA HOSPITAL
+DR Weldon MILFORD Iafrate
+Distribution:  
+CLINICAL:
+76 year old male anterior resection for histopathology.  Donuts and rectum.  Rectosigmoid Ca.
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection", consists of a length of large bowel measuring 185mm in length.  The entire specimen appears to be above the anterior peritoneal reflection margin.  12mm from the distal resection margin there is a slight pedunculated sessile lesion measuring 25 x 20mm and appearing to take onapproximately 25% of the bowel circumference.  The cut surface reveals the tumour invades into the muscularis propria and possibly through and into the underlying fat.  Within the remainder of the mucosa several uncomplicated diverticulum are identified.  Several lymph nodes are identified in the mesenteric fat.  
+Blocks: 1 and 2 - distal resection margin closest to tumour; 3 - proximal resection margin; 4 to 6 - representative tumour; 7 node; 8 to 10 - lymph nodes; 11 - representative diverticulum; 12 - reserved block.
+B.  Specimen labelled "Distal donut", consists of a donut of mucosa 15mm in length.  All tissue is removed fromthe stapled margin.  No definite lesion is identified.  AE 1 block.   (TO: ZA;QA/vo 14.1.64) 
+MICROSCOPIC:  (Reported by Dr E Lett)
+The rectosigmoid tumour is a moderately differentiated adenocarcinoma. A synoptic report for colonic carcinoma follows:
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Rectosigmoid colon.	
+Maximum tumourdiameter: 25mm.
+Distance of tumour to nearer cut end: 12mm (macroscopic).
+Tumour perforation: No.
+Microscopic Description
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: Nine.	
+Number of lymph nodes involved: None (0/9). 	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Not identified. 
+Perineural invasion
+Not identified.
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Diverticulum.
+Residual tumour status
+R0residual tumour
+Response to neoadjuvant therapy
+Not applicable.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+pTNM Stage (TNM 7th Edition): stage 1
+
+B.  Sections of the distal bowel wall donuts show fragments of colonic wall. There is no evidence of dysplasia or malignancy. 
+
+
+DIAGNOSIS:
+A.  Anterior resection: 
+25mm pTNM Stage 1 moderately differentiated rectosigmoid adenocarcinoma.
+No evidence of malignancy in nine lymph nodes (0/9).
+Low risk of microsatellite instability of IHC. 
+
+B.  Distal donut: Noevidence of malignancy. 
+
+

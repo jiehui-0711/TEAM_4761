@@ -1,0 +1,133 @@
+SPR no: 49K2939124
+MRN no: 494293
+Site_name: HUGHENDEN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report49K29391,49K29391 (49K2939124) ARTS, GIDGET TRACY
+
+HISTOPATHOLOGY REPORT:
+SUPPLEMENTARY REPORT 2/3/67
+FURTHER SUPPLEMENTARY REPORT  4/4/67
+AMENDED RESULT  10/4/67 to change MSH6 staining from &amp;quot;positive to equivocal&amp;quot;
+
+HISTORY:
+G1 endometrial CA.  Uterus, tubes and ovaries, right sentinel node, left pelvic sentinel node, omental biopsy.
+
+MACROSCOPIC:
+A  &amp;quot;BILATERAL TUBES AND OVARIES AND UTERUS&amp;quot;.  A total hysterectomy specimen of a total weight of 55g.  The specimen received opened coronally.  Consists of a uterus measuring 50x30x30mm.  The attached cervix measures 30x25x20mm.  Attached is a right fallopian tube 55x5mm, right ovary 20x15x7mm.  A left fallopian tube 45x5mm and left ovary 18x13x10mm.  The outer surface shows a pedunculated serosal fibroid measuring 30x25x20mm.  The posterior cervical margin is inked black, the anterior is inked blue.  There is area of irregularity and thickening of the endometrium at anterior and posterior body and fundus over 20x15mm.  This area is located 30mm of the cervical resection margin and 13mm of the nearest parametrial resection margin.  There is no extension of this thickening to the cervix but appears to involve the left cornu macroscopically.  The tumour thickness is 11mm out of 22mm (total myometrial thickness).  The cut surface of the subserosal nodule reveals a totally calcified white whorled homogeneous cut surface.
+
+(1  right fallopian tube two LS fimbrial end and one TS mid; 2  LS right ovary; 3  right parametrium; 4  left fallopian tube two LS fimbrial end and one TS mid; 5  one LS left ovary; 6 left parametrial tissue; 7&amp;amp;8  continuous piece LS across anterior uterus [7  cervix, 8 body]; 9-11  tumour at anterior body; 12&amp;amp;13  LS across posterior uterus [12  cervix, 13  tumour at fundus]; 14&amp;amp;15  tumour at posterior body; 16  tumour posterior left cornu).  RS (M-16).
+
+Further tissue:
+(17&amp;amp;18 tumour at anterior body; 19 tumour at posterior body). RS (M-19/ ZH/cy)
+B  &amp;quot;RIGHT PELVIC LYMPH NODES&amp;quot;.  A fibrofatty piece of tissue measures 35x25x7mm.  Four possible lymph nodes are identified.  The largest measures 22x12x6mm.  The reminder measures 5mm, 6mm and 10mm.
+(1  largest lymph node serially sliced [five TS]; 2  second largest lymph node trisected; 3  two lymph nodes).  RS (M-3).
+C  &amp;quot;LEFT PELVIC LYMPH NODES&amp;quot;.  Unorientated fibrofatty piece of tissue measures 22x15x10mm.  Three lymph nodes are identified, largest measures 11x6x6mm.  The remainder measures 4mm and 6mm, respectively.
+(1  largest lymph node four TS; 2  two lymph nodes).  RS (M-2).
+D  &amp;quot;OMENTUM&amp;quot;.  Unorientated fibrofatty piece of tissue measures 25x16x5mm with a glistening outer surface.  The cut surface is unremarkable.  Serially sliced.  AE (M-2/ZH/km).
+
+
+MICROSCOPIC:   (Dr M Vanderjagt)
+A. Sections show endometrioid endometrial adenocarcinoma. The tumour is somewhat autolysed and difficult to assess. The appearances are those of Grade 1 endometrioid carcinoma with a depth of invasion of the myometrium of 6mm in a total myometrial thickness of 14mm. There is no involvement of the cervix or serosa. Sections of parametrium and bilateral ovaries and fallopian tubes are within normal limits.
+
+B. Routinely stained sections (levels 1&amp;amp;2) of one of four lymph nodes show a small cluster of cells in the proximity of the lymph node sinus characterised by moderate nuclear pleomorphism with nuclear margin irregularities, variable nuclear chromasia and a single probable psammoma body. The cellular clusters are strongly positive for Cytokeratin AE1/3 (Level 1) and measure 0.5mm in maximum extent. The possibilities are that the clusters represents a micrometastatic focus of endometrial adenocarcinoma. Alternative possibilities include endosalpingiosis and a mesothelial  inclusion. WT1 immunostains and further report to follow.
+
+C. Sections show three benign reactive lymph nodes. There is no evidence of metastatic malignancy.
+
+D. Representative sections of the omentum are unremarkable
+
+Comment: The finding of a probable micrometastasis in a pelvic lymph node in the context of the TNM Stage pT1a carcinoma is highly unusual. The remainder of the endometrial carcinoma will be embedded. Further report and final synoptic report to follow.
+DIAGNOSIS:
+A. UTERUS, CERVIX, RIGHT AND LEFT OVARIES AND FALLOPIAN TUBES
+- GRADE 1 ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA, pT1a.
+FURTHER REPORT TO FOLLOW.
+
+B. RIGHT SENTINEL PELVIC LYMPH NODES
+- PROBABLE INVOLVEMENT OF ONE OF FOUR LYMPH NODES BY MICROMETASTATIC DISEASE, FURTHER REPORT TO FOLLOW.
+
+C. LEFT SENTINEL PELVIC LYMPH NODES
+- THREE BENIGN REACTIVE LYMPH NODES.
+
+D. OMENTUM BIOPSY
+- WITHIN NORMAL LIMITS.
+
+27/3/2067 cy
+
+SUPPLEMENTARY REPORT 2/3/67
+A. Additional sections of the small amount of remaining tumour show no greater depth of invasion than the initial sections, that is, the invasion is limited to the inner half of the myometrium, TNM stage pT1a.
+B. A WT1 immunstain on level 2 of the lymph node containing the cell clusters referred to in the original report is negative making mesothelial or serous differentitation unlikely. The cellular clusters may represent micrometastatic endometrial adenocarcinoma. However, a benign epithelial inclusion cannot be entirely excluded. There is no further tissue for additional immunostains. Metastatic disease in the context of low grade endometrial carcinoma with invasion of the inner half of the myometrium is highly unusual.
+ENDOMETRIAL CARCINOMA, SYNOPTIC REPORT:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  1
+
+(architecture grade: 1 , nuclear grade: 1 )
+
+Myometrial invasion:  Present
+
+Depth of myometrial invasion:   6mm
+
+Myometrial thickness:   14mm
+
+% of myometrium invaded:  40%
+
+Focality:  Unifocal
+
+Tumour involves: body and fundus
+
+Vascular/lymphatic invasion:  Absent
+
+Involvement of cervix:  Absent
+
+Involvement of uterine serosa:  Absent
+
+Excision margins:  Clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Nil identifeid
+Polyps:  Absent
+Adenomyosis:  Absent
+
+Adnexae:
+Left fallopian tube:  Within normal limits
+Right fallopian tube:  Within normal limits
+Left ovary:  Within normal limits
+Right ovary:  Within normal limits
+
+Lymph nodes:
+Nodes involved: Possible micrometastatic involvement of 1 of 4 right pelvic lymph nodes.
+Total number:  7
+
+Other tissues:  Benign omentum and parametrium.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1a, pN1(mi), pMx.
+
+FIGO stage:  III C1  (Worst case scenario, see supplementary report text)
+
+Mismatch repair enzyme Immunohistochemistry  to follow.
+
+2/3/2067 cy
+
+FURTHER SUPPLEMENTARY REPORT  4/4/67
+Immunostains for MSI proteins (PepsiCo CPC Pathology; block:A13  )
+MLH1: Positive (normal staining)
+PMS2: Positive (normal staining)
+MSH2: Positive (normal staining)
+MSH6: Positive (normal staining)
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+4/4/67 ld
+AMENDED FURTHER SUPPLEMENTARY REPORT  4/4/67
+Immunostains for MSI proteins (Newell Rubbermaid CPC Pathology; block:A13  )
+MLH1: Positive (normal staining)
+PMS2: Positive (normal staining)
+MSH2: Positive (normal staining)
+MSH6: EQUIVOCAL
+
+The MSH6 immunostain was repeated as it was considered initially to be weakly positive. However, the repeat stain is even less convincing, and overall, the stain is considered to be equivocal. Isolated loss of MSH6  expression may represent Lynch syndrome and further investigations are recommended.
+
+10/4/67 ld

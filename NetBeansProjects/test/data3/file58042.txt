@@ -1,0 +1,89 @@
+SPR no: 53V346792T
+MRN no: 5383467
+Site_name: KATANNING HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Lap Rt hemicolectomy.  Ascending colon Ca.  No mets.  No perforation.  Previous cervical Ca.
+MACROSCOPIC:
+Specimen labelled:  Right hemicolectomy
+
+Specimen
+Specimen length:  185mm
+Length of terminal ileum:  85mm
+Length of caecum/ascending colon:  115mm
+Thickness of mesocolon:  80mm
+Appendix:  50mm x diameter 7mm
+
+Tumour
+Location:  Ascending colon
+Description:  The tumour extends circumferentially around the bowel wall, and has raised indurated borders with an ulcerated centre.  On sectioning, the tumour extends past muscularis propria into the mesenteric fat.   The tumour also abuts the serosa.
+Maximum tumour diameter:  140mm circumferentially and extending 50mm along the length of the ascending colon.
+Perforation:  Absent
+Appearance of serosa overlying tumour:  The serosa is obscured by adherent fat.  The bowel wall shows marked distortion and induration in the region overlying the tumour.
+Distance of tumour to proximal cut end:  More than 100mm
+Distance of tumour to distal cut end:  35mm
+Distance of tumour to circumferential margin:  5mm
+
+Other
+Polyps:  None identified
+Adherent structures:  Parts of the greater omentum.
+Inked margins:  Distal margin black, proximal margin blue, circumferential margin green.
+
+Blocks
+1 - proximal margin; 2 - distal margin; 3 - two LS base of appendix and two LS tip of appendix and one TS appendix; 4 and 5 - tumour with circumferential margin; 6 to 9 - tumour abutting serosa; 10 - apical tissue with ?apical node; 11 - second and third level apical nodes; 12 - three lymph nodes; 13 - one lymph node; 14 - two lymph nodes; 15 - four lymph nodes; 16 - two lymph nodes; 17 - four lymph nodes; 18 - two lymph nodes; 19 - three lymph nodes; 20 - three lymph nodes; 21 - reserve block for biobank.  (TO:BL/hh 8/9/71)
+
+
+MICROSCOPIC (Reported by Dr O Diiorio &amp;amp; registrar Dr O Lurie):
+Section of colon show moderate to poorly differentiated adenocarcinoma, overall graded as moderate.  Tumour extends through muscularis propria and involves the serosal surface, where malignant cell aggregates are embedded within granulation tissue associated with mesothelial hyperplasia and fibrin.  Separately, tumour extends 4mm from the circumferential resection margin.  Foci of lymphovascular invasion are identified at the advancing tumour edge.  One of the thirty three (1/33) lymph nodes show evidence of metastatic carcinoma.  The apical lymph nodes are negative.  The appendix shows fibrous obliteration of the tip.  The features are summarised below.
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+T4a	Tumour penetrates the surface of the visceral peritoneum (including gross perforation of the bowel through tumour and continuous invasion of the tumour through areas of inflammation to the surface of the visceral peritoneum)
+
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  4mm
+
+Lymph nodes
+Number of lymph nodes present:  33
+Number of lymph nodes involved:  1
+Apical lymph nodes show no evidence of malignancy.
+
+N1a	Metastases in 1 regional LN
+
+Lymphovascular invasion
+Present (mural)
+
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+MX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+Fibrous obliteration of the appendix tip.
+
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status (block A8)
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+BRAF V600E immunohistochemistry
+Positive
+
+Summary &amp;#8211; AJCC 8th Edition
+pT4a   	N1a	   MX        R0

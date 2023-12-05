@@ -1,0 +1,83 @@
+
+Episode No:  08Y972756O
+089972.SNQ
+
+SCHATZBERG, Buster-KATHERIN 
+Lab No:  08Y97275,08Y97275
+Kempnough Hall
+KYNETON  TAS  4229
+Specimen: Washings,Tissue
+D.O.B:  6/5/2008
+Sex:  F
+Collected: 20/10/2065 at 16:30
+Location:  LEIGH CREEK HEALTH SERVICES
+DR Jody ROMANISZYN
+Distribution:  DR ANTON, DR Devon,    FILE-COPY,NSW-CANCER-REGISTRY
+HISTORY:  
+G1 endometrioid adenocarcinoma.
+1. Peritoneal washings for cyto.
+2. Uterus, tubes and ovaries.
+3. Omental biopsy.
+4. Left pelvic nodes.
+5. Right pelvic nodes.
+MACROSCOPIC:  
+A.  "BILATERAL OVARIES, UTERUS, CERVIX".  An already opened total hysterectomy specimen including a uterus with attached ovaries and tubes of a total weight of 90mm.  The uterus measures 70x55x40mm.  It has a smooth outer surface.  The attached cervix measures 35x30x25mm.  The external os is oval 20x7mm.  The endometrium is 4mm thick.  At the body and fundus area there is an exophytic lesion measuring 28x25mm (mainly located at anterior body).  It is protruding 11mm into the uterine cavity and is up to 14 out of 20mm (invasion out of total myometrial thickness).It appears to be confined to the uterine body with no extension into the cervix. There is no macroscopic extension into the cornus or the serosal surface.  The anterior cervix margin is inked blue, posterior is black.  The right tube measures 55x6mm, the right ovary 33x16x14mm, the left tube 65x5mm, the left ovary 35x21x20mm. The left ovary cut surface reveals a cystic structure filled with clear serous fluid. There is no solid or papillary excrescences.  
+(1 right tube; 2 right ovary; 3 left ovary; 4&5 left ovary with cyst; 6-8 LS of anterior uterus [6 cervix, 7 body, 8 body and fundus with tumour]; 9-11 LS posterior [9 cervix, 10 body, 11 body and fundus with tumour]; 12&13 tumour maximum invasion anterior body; 14 tumour maximum invasion posterior body). RS (M-15/OR/ank)
+Further tissue:  (15-17 each two TS right fallopian tube; 18 right parametrium; 19 left parametrium). RS (M-19/JN/ht).
+B.  "RIGHT PELVIC LYMPH NODES".  A fibrofatty piece of tissue 55x30x20mm.  Four lymph nodes are identified, largest two measuring 22 and 18mm respectively.  
+(1 largest lymph node four TS; 2 second largest lymph node four TS; 3 two lymph node).  RS (M-3)
+C.  "LEFT PELVIC LYMPH NODES". Fibrofatty piece of tissue 50x20x15mm.  A single lymph node is identified measuring 20mm.
+(1 one lymph node four TS). RS(4-1)
+D.  "OMENTAL BIOPSY".  A fibrofatty piece of tissue 13x10x5mm. The outer surface is inked blue, trisected.  AE (3-1)
+MICROSCOPIC:  (Dr A Mcallen)
+ENDOMETRIAL CARCINOMA: 
+Tumour type:  Endometrioid carcinoma 
+FIGO grade:  1
+(architecture grade:  1, nuclear grade:  1)
+Myometrial invasion:  Invasion into half of myometrium 
+Depth of myometrial invasion:   8mm
+Myometrial thickness:   16mm
+% of myometrium invaded:   50%
+Focality:  Unifocal
+Tumour involves:  Fundus, body  
+Vascular/lymphatic invasion:  Present in myometrium 
+Involvement of cervix:  Not involved 
+Involvement of uterine serosa:  No
+Excision margins:  The margins are clear of tumour 
+Non-tumour uterus:  
+Adjacent endometrium:  Inactive 
+Polyps:  Nil seen
+Adenomyosis:  Not present 
+Adnexae:  
+Left fallopian tube:  No significant abnormality
+Right fallopian tube:  Luminal detached fragments of tumour associated with macrophages are seen.
+Left ovary:    Benign serous cystadenoma 
+Right ovary:  No significant abnormality
+Lymph nodes:  Not involved 
+B.  No tumour seen in four lymph nodes.
+C.  No tumour seen in one lymph node.
+D. Omentum: No significant abnormality.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage:  pT1b, pN0, pMx
+FIGO stage:IB
+DIAGNOSIS:  
+UTERUS:  WELL DIFFERENTIATED ENDOMETRIAL ADENOCARCINOMA.
+RIGHT PELVIC LYMPH NODE:  NO TUMOUR SEEN IN 4 LYMPH NODES.
+LEFT PELVIC LYMPHNODES:  NO TUMOUR SEEN IN 1 LYMPH NODE.
+OMENTUM:  NO SIGNIFICANT ABNORMALITY.
+23/10/65 ank
+SUPPLEMENTARY REPORT: 
+Immunostains for MSI proteins (Xcel Energy LEETON DISTRICT HOSPITAL Lab; block:A13)
+MLH1:  	POSITIVE
+PMS2: 	NEGATIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+ADDENDUM: 3.11.65
+Further blocks of specimen C show fat and blood vessels only with no lymphoid tissue.
+

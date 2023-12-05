@@ -1,0 +1,83 @@
+ 0570383.UOQ
+Laos, Raya
+05T03837
+
+Last edited : 30/3/2066		Page: 2
+***ADDITIONAL REPORT: MSI IMMUNOHISTOCHEMISTRY (30.3.2066)
+
+CLINICAL:
+Whipple.Pancreatic adenocarcinoma.  Common hepatic nodes.  Suture marks bile duct.  Head of pancreas Ca.
+ 
+MACROSCOPIC:
+A.  Specimen labelled "Whipples" consists of a Whipple specimen including distal stomach, small bowel, head of pancreas and gallbladder.  The distal stomach measures 25mm in length while the small bowel measures 190mm in length.  The head of pancreas measures 50 x 42 x 30mm.  The attached gallbladder measures 95mm in length with a maximum external diameter of 35mm and the serosa appears unremarkable.  There is a separate piece of omental fat measuring 390 x 120 x 20mm which appears unremarkable.  Upon opening the small bowel around the ampulla there is a polypoid non-ulcerated area measuring 25 x 13mm.  The bile duct appears patent throughout.  The cut surface reveals a firm cream tumour occupying the majority of the pancreatic head measuring 30mm (medial to lateral) x 28mm (inferior to superior) x 28mm (anterior to posterior).  Thetumour is ill defined and the distance from margin is difficult to ascertain, however, the tumour appears close to the SMA, portal vein and uncinate margins.  The tumour is also close to theanterior and posterior surfaces.  The pancreatic neck resection margin appears 7mm clear.  Numerous lymph nodes are identified in the omental fat.  The maximum thickness of the gallbladder wall is 4mm.  The lumen contains large amounts of thick biliary sludge.  No gallstones are identified.  The mucosa appears unremarkable.  One cystic duct lymph node is identified 6mm.  The portal vein margin is inked blue.  The SMA margin is inked red and the uncinate process margin inked green and the pancreatic neck resection margin is inked black.  The posterior surface is inked black and the anterior surface is inked yellow.  
+Blocks:  1 to 3 - greater omental fat; 4 - bowel resection margin; 5 - bile duct resection margin; 6 - 1mm shavedof pancreatic neck resection margin; 7 to 11 - inferior aspect of the specimen including uncinate and SMA margin embedded from posterior to anterior; 12 to 15 - TS through pancreas from inferior to superior; 16 - omental lymph node; 17 - common bile duct neck and cystic duct node; 18 - gallbladder body; 19 - gallbladder fundus.
+Please note: The specimen orientation is confirmed with the assistance of the upper GI fellow who attended the department.
+B.  Specimen labelled "Common hepatic node" consists of a piece of fatty tan tissue 25 x 15 x 12mm.  One lymph node occupies the majority of the specimen.  Serially sectioned.  AE 2 blocks.  (TO: FZ; EX/rt 19.1.66)
+MICROSCOPIC (Reported by Dr B Algien):
+The pancreas is entirely embedded and examined.  Sections show a moderately  differentiated adenocarcinoma.  The carcinoma is centred within the head of the pancreas and contiguously invades the intrapancreatic portion ofthe common bile duct, the duodenal wall, colonising and eroding the ampullary mucosa and also invades the extra pancreatic soft tissue posteriorly.  The tumour surrounds and invades the wall of theintrapancreatic portion of the common bile duct ulceratingits mucosa.  At the ampulla the tumour appears to invade and colonise the surface mucosa imparting an in-situ like appearance.  However, as the bulk of the tumour appears to rise in the pancreatic head and due to the varied morphology the tumour is more consistent with pancreatic rather than ampullary primary.
+The tumour measures approximately 30mm (gross estimate) and is composed of small to angulated infiltrative glands predominantly of pancreaticobiliary-type with admixed clear cell and foamy cell type glands.  There is an area of central necrosis.  The pancreaticobiliary-type glands are small, angulated with moderately to occasionally highly pleomorphic nuclei, vesicular chromatin, small to prominent nucleoli and eosinophilic cytoplasm.  Some cribriform glands are also present. The clear cell foci show clear cytoplasm while while the foamycell glands display microvacuolated cytoplasm with hyperchromatic nuclei and a well delineated cytoplasmic brush border.  Less than 10% of gland are poorly differentiated arranged in abortive glandular structures, cords or single cells (eg block A14).  There are numerous foci of intrapancreatic perineuralinvasion including medium sized nerves close to the interface with extrapancreatic soft tissues anteriorly and superiorly.  There isfocus of perineural invasion in the extra pancreatic soft tissue posteriorly (block A10).  The tumour invades the wall of vessels but no definite intravascular invasion is seen.   One small intrapancreatic vessels is thrombosed.
+SUMMARY PANCREATIC TUMOUR 
+Histologicaltumour type
+Ductal adenocarcinoma  NOS
+- Predominantly pancreaticobiliary with clear cell and foamy gland areas
+Histological grade (AJCC/TNM)
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands) 
+-  Some <10% poorly differentiated areas present
+
+Microscopic tumour sites 
+Centred in head of pancreas
+
+Extent of tumour invasion 
+Centred in pancreatic head, surrounds and invades intrapancreatic portion of common bile duct (A13), duodenal wall (A13), ampulla (A12) and peri pancreatic soft tissueanteriorly (A13) and posteriorly (A10)
+
+Maximum tumour diameter  
+Approximately 30mm (gross estimate)
+Lymphovascular invasion 
+Not identified
+
+Perineural invasion 
+Present.  Numerous foci both with pancreas and focally in extra pancreatic soft tissue posteriorly (A10)
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Present.  Focal (A10)
+Pre-invasive lesion 
+Present.  PanIN 3
+Margins:
+Pancreatic neck:  Approximately 12 mm clear of invasive tumour, and free of PanIN 3
+Common bile duct:  Well clear
+Portal vein (superior mesenteric vein):  5mm (A13)
+Superior mesenteric artery:  2.5mm (A8)
+Periuncinate soft tissue:  0.2mm (A9)
+Surfaces: 
+Anterior:  1.3mm (A12)
+Posterior:  3.5mm (A12)
+Lymph nodes (UICC/TNM):
+Number found: Twenty (one cystic duct, one common hepatic duct, twelve anterior pancreatic, six posterior pancreatic)
+Number involved:  Three (all posterior pancreatic)
+Other pathologies:
+Secondary pancreatic acinar atrophy, fibrosis and chronic inflammation
+Mild active chronic cholecystitis, 
+Unremarkable distal stomach, no Helicobacter seen and unremarkable duodenum
+Pathological Stage (AJCC 7th Ed. 2010)
+
+PANCREAS
+Primary tumour category (pT)
+T3 Tumour extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+Distant metastasis category (cM) 
+cM0 No clinical history of metastases
+DIAGNOSIS:
+A & B.  Whipples pancreaticoduodenectomy and common hepatic lymph node.
+-  30mm moderately differentiated pancreatic adenocarcinoma, invades duodenum, ampulla and peripancreatic soft tissues, perineural invasion present, see above for margins, metastatic adenocarcinoma in three of twenty lymph nodes (3/20), stage pT3  pN1 cM0 (AJCC 7TH Ed 2010).
+-  Mild active chronic cholecystitis.
+The findings were discussed with Dr B Clayborne on 22.1.66.
+
+***ADDITIONAL REPORT: MSI IMMUNOHISTOCHEMISTRY (30.3.2066)
+Dr B Jedrey
+Immunoperoxidase stains for MSI proteins were performed as requested: 
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+COMMENT:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

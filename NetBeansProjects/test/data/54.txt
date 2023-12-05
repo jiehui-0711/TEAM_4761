@@ -1,0 +1,70 @@
+
+Episode No:  38R527861V
+3865278.QEV
+
+WINOGRAD, BEATRIZ 
+Lab No:  38R52786
+Saumur
+ROBINVALE  ACT  3435
+Specimen: Tissue
+D.O.B:  4/5/1992
+Sex:  F
+Collected: 20/1/2062 at 09:03
+Location:  Tissue Pathology and Diagnostic Oncology-COOLAH MULTI PURPOSE SERVICE
+DR COURTNEY WES FUSS
+Distribution:   FILE-COPY
+CLINICAL:
+Right hemicolectomy for obstructing transverse colonic tumour.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a right hemicolectomy measuring up to 200mm in length with up to 40mm of attached terminal ileum.  There is no appendix attached.  The open circumference of the colon measures up to 180mm at the caecum and 65mm at the distal margin.  There is a circumferential tumour occupying 35mm of bowel length, located 45mm from the distal surgical margin.  The tumour is fungating, ulcerated and extends into the lumen.  Macroscopically it does not breach the serosal surface.  The serosal surface of the caecum is covered in fibrinous patchyexudate.  A suture is present central to a large patch of exudate.  The caecum appears distended and the mucosa denuded.  On cut section the tumour involves the full extent of the bowel wall up to the serosa.  There is focal pericolicfat invasion macroscopically.  The remainder of the mucosal surface is unremarkable.  There are no polyps appreciated.  An apical lymph node is identified measuring up to 22mm.  Multiple mesenteric lymph nodes identified.
+Blocks:  1- terminal ileum surgical margin; 2 - distal surgical margin; 3 -representative sections around caecal exudate; 4 to 7 - full face lesion (5 - deepest section to serosal surface); 8 - LS proximal edge of tumour; 9 - LS distaledge of tumour; 10 - tumour reserve block; 11 & 12 - sectioned apical lymph node; 13 - one bisected lymph node; 14 - one lymph node; 15 to 19 - three lymph nodes each; 20 - four lymph nodes; 21 - three lymph nodes; 22 - two lymph nodes;23 - four lymph nodes; 24 - four lymph nodes; 25 - remaining possible lymph nodes.   
+(TO:XD; RU/cc  21/1/62) 
+ 
+MICROSCOPIC (Reported by A/Prof K Beverlin): 
+Macroscopic Description
+
+Site of tumour: Transverse colon	
+Maximum tumour diameter: 35mm
+Distance of tumour to nearer cut end: 45mm
+Tumour perforation: No, but there is evidence of perforation of the caecum. 
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria - tumour extends close to the peritoneal surface and there is organising inflammation on the serosa, but no definite evidence of serosal involvement is identified.
+
+Tumour involvement of margins
+Cut ends:	Not involved - organising inflammation is seen on the serosal of the terminal ileum stump.
+Lymph nodes
+Number of lymph nodes present: 40	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present - focally at the advancing edge of the tumour.
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities
+Other - the caecum shows marked thinning, mucosal ulceration, transmural inflammation and evidence of perforation, probably relatedto distal obstruction.
+Residual tumour status
+R0	No residual tumour
+Summary - TNM 7th Edition
+pT3	pN0	pMX	R0	
+Mismatch Repair Deficiency (MMRD) Status
+MLH1: Loss of staining				
+PMS2: Loss of staining			
+MSH2: No loss of staining			
+MSH6: Patchystaining, but comparable to staining in adjacent normal mucosa.
+Absence (loss) of staining for any of the mismatch repair enzymes MLH1, PMS2, MSH 2 or MSH 6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.			
+DIAGNOSIS:
+COLON: 
+	ADENOCARCINOMA. 
+	NO EVIDENCE OF LYMPH NODE METASTASES
+	LOSS OF STAINING IN MLH1 AND PMS2
+
+

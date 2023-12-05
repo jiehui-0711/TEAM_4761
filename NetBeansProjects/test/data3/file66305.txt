@@ -1,0 +1,167 @@
+SPR no: 37K948963L
+MRN no: 373948
+Site_name: TRESILLIAN FAMILY CARE CENTRE - WOLLSTONECRAFT
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report37K94896 (37K948963L) Krajnovich, Conrad
+HISTOPATHOLOGY REPORT
+PORT BROUGHTON DISTRICT HOSPITAL AND HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca 2 o&amp;apos;clock.
+Frozen section left sentinel lymph node.
+Wide local excision left breast long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL LYMPH NODE&amp;quot;. Consists of fat with three nodes. Lymph node 1 blue 8x8mm. Lymph node 2 pink 10x5mm. Lymph node 3 pink ? 5mm. (1 1 TS LN1, LN2, 2 remainder LN1, 3&amp;amp;4 remainder LN2, 5 LN 3 [not frozen]; 6-9 remainder fatty tissue - with some edges of node fragments). All embedded. (M-9)
+
+FROZEN SECTION REPORT:  &amp;quot;Negative&amp;quot;. Report to Dr K Ellenwood by K Weisheit
+
+B. &amp;quot;WIDE LOCAL EXCISION L BREAST, Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN TYPE:  Excision, oriented
+SPECIMEN X-RAY:  Yes, hookwire 4H
+HOOKWIRE:  Enters anteriorly and slightly laterally
+Specimen Mammogram: Wire end H4 near medial end; irregular density around wire end
+SPECIMEN DIMENSIONS:
+Medial to lateral 60mm, Superior to inferior 48mm, Anterior to posterior:  31mm
+WEIGHT:  39g
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial, 12 slices
+FINDINGS: A firm pale solid tumour is present in the medial portion of the tissue measuring 16x15x9mm correlating with the site of the hookwire tip. There is some surrounding fibrosis that abuts the medial margin.
+MACROSCOPIC DISTANCE OF LESION TO MARGINS
+Anterior: 9mm, Posterior: 8mm, Superior: 10mm, Inferior: 11mm, Medial 3mm, Lateral 42mm
+OTHER MACROSCOPIC COMMENTS:
+Remaining tissue is fibrofatty and focally gritty in slice 5-8 (? DCIS/calcification).
+BLocks:
+1 LS slice 1 lateral; 2-4 slice 3; 5-7 slice 5; 8-11 slice 7; 12-15 slice 8; 16-19 slice 9; 20-22 slice 10; 23-25 slice 11 [hookwire block 24]; 26-30 LS slice 12 medial [hookwire block 27&amp;amp;28]). Representative sections. (M-30/AO 25/6/2069 ank)
+Further blocks:
+31 further slices lateral margin slice 1;
+32-33 slice 3 superior, inferior;
+34-35 slice 4 superior, inferior;
+36,37,38 slice 6 superior, mid, inferior;
+All tissue processed except for fatty ends slice 1 lateral; LV
+
+MICROSCOPIC:  Dr K. Mirsky
+
+B.  Left Breast, Excision:
+
+BREAST INVASIVE CANCER RESECTION SYNOPTIC:
+(based on CAP protocol 2069, 4.4.0.0)
+
+INVASIVE CARCINOMA:
+
+Tumor Focality:
+- Multiple foci of invasive carcinoma
+- Number of foci: 5
+- Size of individual foci: 24mm, 8mm, 2mm, 1mm, 1mm
+- Diameter of multifocal tumour bed: 50mm (most of specimen except lateral 10mm)
+
+Invasive tumour size:
+- 24 mm maximum dimension (6 x4mm slices) largest tumour, x13mm in cross sections.
+- Other invasive tumour foci 8mm, 2mm, 1mm, 1mm
+
+Histologic type:
+- INVASIVE LOBULAR CARCINOMA
+
+Grade (Nottingham histologic score, G1-3):
+- Grade 2
+
+Scores:
+- Tubules 3, Nuclei 2,  Mitoses 1;  Total Score: 6 of 9
+
+Mitotic rate:
+- 0 mitoses per 10 high power fields
+
+Whole tumour size (invasive + DCIS):
+- 50mm diameter
+
+Lymphovascular invasion:
+- Not identified
+
+Perineural invasion:
+- Not identified
+
+Percentage stromal Tumour Infiltrating Lymphocytes (% stromal TILs):
+- 5%
+
+DUCTAL CARCINOMA IN SITU (DCIS):
+DCIS is present associated with invasive carcinoma.
+Size (extent) of DCIS:   at least 36mm estimated diameter (9 x 4mm slices)
+Nuclear grade:  Grade II (intermediate) to Grade III (high)
+Architecture patterns:  Cribriform
+Necrosis:  Focal necrosis present
+Calcification of DCIS: Not identified
+Extensive intraductal component (EIC):  Negative
+
+Lobular carcinoma in situ (LCIS):
+-  LCIS present, extensive, classical type
+
+MARGINS:
+- - INVASIVE CARCINOMA MARGINS: - -
+Positive margin(s), focal
+
+Distance of invasive carcinoma from margins:
+Anterior: 5mm
+Posterior: 5mm
+Superior: 10mm
+Inferior: 8mm
+* Medial: 0 mm, positive margin, section B27, focal margin involvement (&amp;lt;0.5mm length positive margin)
+Lateral: 10mm
+
+- - DCIS MARGINS: - -
+Close negative margins (0 - 1.9mm), see NOTE#
+NOTE#: Due to the growth pattern of DCIS in the ductal system, a negative but close margin does not ensure the absence of DCIS in the adjacent tissue
+
+Distance of DCIS from margins:
+Anterior: 6mm
+Posterior: 8mm
+* Superior: 1 mm (less than 2 mm, negative but close margin, section B5)
+Inferior: 10mm
+Medial: 10mm
+Lateral: 10mm
+
+IMMUNOHISTOCHEMISTRY (IHC), BIOMARKERS:
+Block B18. Other suitable tumour block for testing: B21
+
+ER:      POSITIVE, 90% of nuclei, 3+
+PR:      POSITIVE, 90% of nuclei, 3+
+Her-2:  NEGATIVE IHC (score 1 by Immunohistochemisty IHC)
+Ki-67:   up to 20% labelling index
+e-cadherin:
+- invasive carcinoma: aberrant 2+ positive cell membrane granular pattern
+- LCIS: similar
+
+Block B27, medial margin:
+CK5/6 keratin, p63: Negative myoepithelial staining in invasive carcinoma
+
+SEPARATE FINDINGS:
+- Biopsy track
+
+LYMPH NODES:
+A.  Left Sentinel Lymph Node:
+Sentinel lymph nodes - negative for tumour involvement
+Lymph nodes with macrometastases: 0
+Lymph nodes with micrometastases: 0
+lymph nodes with isolated tumour cells: 0
+Total number of nodes examined: 4
+
+COMMENT(S):
+The main tumour focus is in the region of the wire tip.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed, 2017): pT2 (m) pN0
+
+DIAGNOSIS:
+A.  Left Sentinel Lymph Node:
+- Sentinel lymph nodes negative for tumour involvement (0/4).
+
+B.  Left Breast, Excision:
+- Multiple foci of invasive carcinoma (5), in multifocal tumour bed 50mm diameter;
+- Invasive tumour size: 24 mm maximum dimension, largest tumour (other invasive tumour foci 8mm, 2mm, 1mm, 1mm);
+- INVASIVE LOBULAR CARCINOMA;
+- Grade 2;
+- Ductal Carcinoma In Situ (DCIS) component, intermediate to high muclear grade;
+- Lobular carcinoma in situ (LCIS) present, extensive, classical type;
+- invasive carcinoma margins focal positive;
+- distance of invasive carcinoma from closest margins 0 mm;
+- DCIS margins close negative;
+- Distance of DCIS from closest margins 1 mm.

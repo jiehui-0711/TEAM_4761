@@ -1,0 +1,69 @@
+Episode No:  19P329496B
+1963294.YRB
+
+POIRIER, MARYANNA 
+Lab No:  19P32949
+Rocky Spring
+BOWEN  Western Australia  7022
+Specimen: Tissue
+D.O.B:  16/1/1991
+Sex:  F
+Collected: 28/06/2012 at 14:03
+Location:  St Vincent-KERANG DISTRICT HEALTH
+DR RANDOLPH FERMIN PIERATT
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+R cystic renal tumour.  R kidney.
+MACROSCOPIC:
+Specimen labelled "Right kidney" consists of a 285g radical nephrectomy comprising the kidney (125 x 75 x 55mm), the ureter (100mm long and up to 4mm in diameter) and patchy perinephric fat (up to 12mm in thickness).  There is a tumour occupying the lower to middle poles of the kidney 70 x 55 x 52mm.  The cut surface is multilocular and cystic/solid.  The solid areas constitute approximately 20% of the tumour.  The tumour appears to be encapsulated and is 1mm clear of the renal capsule margin.  The tumour is pushing against but does not appear to be involving the pelvicalyceal system.  The adrenal gland is not identified.
+Blocks:  1 - distal urethral shaved margin; 2 - renal artery and vein shaved margins; 3 to 5 - sections of tumour in relation to renal capsule and perinephric fat (in block 5); 6 - tumour and pelvicalyceal system; 7 - tumour in relation to pelviureteric junction; 8 - interface of tumour and normal renal parenchyma; 9 - tumour and renal capsule; 10 - section of tumour, reserved block for tumour banking; 11 - section ofkidney away from tumour.   (FL/cc 1/8/62)
+ 
+MICROSCOPIC (Reported by Dr D Temples):
+Sections show a renal cell carcinoma, clear cell type.  The tumour measures 70x 55 x 52mm and has a variable appearance with areas resembling multilocular cystic renal cell carcinoma and solid areas.  The nuclei are Fuhrman grade 3 and there is prominent lymphovascular invasion at the periphery of the tumour, particularly where the carcinoma shows capsular invasion.  There is prominent capsular invasion for a distance of about 5mm.  There is no invasion of the renal vein or pelvicalyceal system.
+The carcinoma is 1mm clear of the perirenal fat resection margin.
+The tumour shows strong positive staining for CD10 and the Ki67 is 20% in the worst areas. 
+The kidney away from the tumour shows no abnormality.
+KIDNEY TUMOUR PROFORMA:
+
+Position of tumour:  Right kidney (lower and middle poles)
+Dimensions of tumour:  70 x 55 x 52mm
+Tumour type:  Clearcell type
+Fuhrman grade:  Grade 3 - nucleoli prominent at 100x magnification 
+Sarcomatoid differentiation: Absent
+Rhabdoid differentiation: Absent
+Necrosis: Absent
+Tumour spread beyond kidney:  Yes
+Tumour extends beyond Gerota's fascia:  No
+Tumourin renal sinus fat:  No
+Tumour in renal vein or its segmental (muscle containing branches):  No
+Lymphovascular invasion:  Yes (extensive)
+Tumour in adrenal gland:  No (no adrenal gland present)
+Lymph node status:  Number of lymph nodes:  0
+Involvement of surgical margins:  Absent
+Site of nearest margin:  Extracapsular spread (1mm)
+AJCC tumour stage (7th Ed.)
+pT3a - Tumour extends into the renal vein or its segmental (muscle containing) branches, or tumour invades perirenal and/or renal sinus fat but notbeyond Gerota fascia.
+pNX - Regional lymph nodes cannot be assessed.
+pMX - Cannot be assessed histologically
+Scoring Algorithm to Predict Metastases after Radical Nephrectomy (Leibovich et al., Cancer, 2003)
+Primary tumour status score (pathologic T stage)
+pT3a 	4
+Regional lymph node status (N stage) score
+pNx 	0
+Tumour size (cm)
+< 10 	0
+Nuclear grade score
+3 	1
+Histologic tumour necrosis score
+No 	0
+Total score (out of 11):  5
+DIAGNOSIS
+Left nephrectomy:
+-	70mm clear cell renal cell carcinoma, Fuhrman grade 3, extensive lymphovascular invasion;
+-	Tumour invades perirenal fat (estimated distance 5mm);
+-	Margins clear (clearance perirenal fat 1mm);
+-	No invasion of renal sinus fat or renal vein;
+-a.
+
+
+

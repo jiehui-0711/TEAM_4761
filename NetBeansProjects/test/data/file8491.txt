@@ -1,0 +1,76 @@
+SPR no: 41G137030X
+MRN no: 412137
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report*SUPPLEMENTARY REPORT ATTACHED*
+41G13703,41G13703 (41G137030X) ADELBLUE, MADALYN
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+G1 endometrioid adenoca.
+1. Peritoneal washings for Cytology.
+2. Uterus, tubes and ovaries.
+3. Right sentinel nodes.
+4. Left sentinel nodes.
+5. Omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES + OVARIES&amp;quot;. Consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 90g in total.  The uterus measures up to 50mm from medial to lateral, 70mm from fundus to cervix, and 40mm from anterior to posterior.  The uterus has been previously opened along its lateral borders. The cervix measures 30mm diameter and is unremarkable.  The contour of the fundus is distorted by fibroid.  The right fallopian tube measures up to 55mm in length and 6mm in external diameter and shows some clear cysts along the length measuring up to 3mm diameter. The right ovary measures 30x15x8mm and has a yellow nodule on the surface measuring 6mm diameter.  The left tube measures up to 50mm in length and 7mm in external diameter with simple cysts along the length measuring up to 2mm. The left ovary measures 30x12x7mm.  Anterior cervical margin inked blue, posterior black.  At the fundus the endometrium has a granular appearance with possible tumour spanning an area of 10mm approaching the right cornu. The myometrium has a total thickness of 17mm.  No invasive tumour is identified. On sectioning the ovaries are atrophic. The right ovary with yellow nodule on sectioning shows it to have a uniform yellow solid appearance.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3-5 anterior cervix to fundus [notches inferior]; 6&amp;amp;7 posterior cervix to fundus [notches inferior]; 8&amp;amp;9 right cornu; 10 LS/TS including fimbrial end R tube; 11 TS/RS right ovary including nodule; 12 LS/TS left fallopian tube; 13 TS left ovary RS; 14 RS fibroid at fundus; 15&amp;amp;16 further posterior endometrium; 17 further anterior endometrium; 18&amp;amp;19 left cornu region). RS (M-19).
+
+Further tissue:
+(20-22 further uterus with possible endometrium; 23 remaining TS right ovary [all embedded]; 24&amp;amp;25 remaining left ovary TS [all embedded]).  RS (M-25/EE/nh).
+
+B.  &amp;quot;RIGHT SENTINEL NODE&amp;quot;.  A single irregular node 8mm.  Transversely sectioned with unremarkable surface.  AE (3-1)
+
+C.  &amp;quot;LEFT SENTINEL NODE&amp;quot;.  Two possible nodes 5 and 8mm.  AE (M-1)
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;. An unorientated piece of fatty tissue measuring 15x10x6mm.  No suspicious areas are seen on inspection or sectioning.  AE (M-1/EE/ank)
+
+MICROSCOPIC:   (Dr L Arquero)
+A.  Sections of the cervix are unremarkable.  The endometrium shows simple and complex hyperplasia with atypia. Atypical glands shows intervening stroma. No definite confluent/cribriform areas of growth are seen. The myometrium contains several benign leiomyomas.  The fallopian tubes appears unremarkable.
+In the right ovary there is a 6mm diameter nodule composed of nests of cells with clear multivacuolated cytoplasm with ovoid nuclei with mild nuclear shape variation.  There is finely granular chromatin.  No mitotic activity is seen. Reticulin stain invests the nests of clear cells. Surrounding the nests there are plump stromal cells with ovoid nuclei and pale to eosinophilic cytoplasm. Rare nuclear grooves are seen. There is positive staining for inhibin WT-1, and calretinin (block A11). The stains for EMA and CAM5.2 are negative. The  appearances are those of granulosa cell tumour.
+
+B.  Section shows one lymph node with reactive changes. CAM5.2 is negative.
+
+C.  Sections show one lymph node with reactive changes. CAM5.2 is negative.
+
+D.  The section shows omentum that appears unremrakable.
+
+COMMENT: Correlation with previous results is recommended.
+
+DIAGNOSIS:
+A.  UTERUS, TUBES AND OVARIES -
+COMPLEX ENDOMETRIAL HYPERPLASIA WITH ATYPIA; 6mm GRANULOSA CELL TUMOUR OF OVARY.
+
+B.  RIGHT SENTINEL NODE -
+-NEGATIVE FOR MALIGNANCY.
+
+C.  LEFT SENTINEL NODE -
+-NEGATIVE FOR MALIGNANCY.
+
+D.  OMENTAL BIOPSY -
+-NEGATIVE FOR MALIGNANCY.
+
+20/12/2066 ank
+
+SUPPLEMENTARY REPORT:
+
+Immunostains for MSI proteins (Pacific Mutual ANTENATAL WARD; block: A18)
+
+MLH1:  Positive staining present
+PMS2:  Positive staining present
+MSH2:  Positive staining present
+MSH6:  Positive staining present
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+28/12/2066 ank

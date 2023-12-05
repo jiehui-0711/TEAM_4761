@@ -1,0 +1,86 @@
+SPR no: 66I023752E
+MRN no: 663023
+Site_name: CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report66I02375,66I02375 (66I023752E) BOVA, LESLIE
+
+MSI IMMUNOHISTOCHEMISTRY
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GII endometrioid adenoca. Uterus, tubes and ovaries, omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. A uterus with attached cervix, bilateral tubes and ovaries, weighing 62g. The uterus measures up to 35mm medial to lateral, 65mm fundus to cervix, 30mm anterior to posterior. The cervix measures 30mm in diameter and is unremarkable. The right fallopian tube measures up to 70mm in length and 6mm in external diameter. The right ovary measures 20x12x10mm. The left fallopian tube measures 60mm in length and up to 6mm in external diameter, and the left ovary measures up to 25x15x10mm. There is firm area on the anterior uterine serosal surface measuring 2mm in maximum extent. The uterus has been previously opened along the lateral aspect. Anterior cervical margin inked blue, posterior cervical margin inked black. On further opening at the fundus there is a pale tumour measuring up to 15mm in maximum extent. It appears to extend to the inner half of the myometrial tissue. The myometrium measures 10mm in maximal extent and the tumour thickness is 5mm. The tumour approaches the left cornu area but does not appear to involve it. On sectioning the ovaries are unremarkable.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 firm area on serosal surface anteriorly; 4-6 posterior cervix to fundus [notches inferior]; 7-9 anterior cervix to fundus [notches inferior]; 10 TS and LS right tube; 11 RS TS right ovary; 12 RS LS and TS left tube; 13 RS TS left ovary; 14 right cornu; 15 left cornu). RS (M-15).
+
+B. &amp;quot;OMENTAL BIOPSY&amp;quot;. A piece of omentum measuring up to 25x15x8mm. No suspicious areas identified on inspection or sectioning. AE (M-1/EE/ht).
+
+MICROSCOPIC:     (Dr. Q Rannells)
+A.
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  2
+
+(architecture grade: 2 , nuclear grade: 2 )
+
+Depth of myometrial invasion:   4mm
+
+Myometrial thickness:   10mm
+
+% of myometrium invaded: 40%
+
+Focality:  Unifocal
+
+Tumour involves: Myometrium
+
+Vascular/lymphatic invasion:  Not seen
+
+Involvement of cervix:  Not seen
+
+Non-tumour uterus:
+Adjacent endometrium:  Atypical complex hyperplasia with focal mucinous differentiation.
+Polyps:  Present
+Adenomyosis:  Present focally
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+
+Lymph nodes:  Not identified
+
+Comment:  Focal endometriosis in left parametrial tissue and uterine serosa.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1a NX MX
+
+FIGO stage: 1A
+
+B. Sections show fibrofatty tissue. No evidence of malignancy.
+
+DIAGNOSIS:
+A. UTERUS, TUBES AND OVARIES
+- ENDOMETRIOID ADENOCARCINOMA.
+-MSI IMMUNOHISTOCHEMISTRY STAIN IN PROGRESS
+B. OMENTAL BIOPSY
+- NO SIGNIFICANT ABNORMALITY.
+22/9/2066 cy
+MSI IMMUNOHISTOCHEMISTRY
+Supplementary report:
+Immunostains for MSI proteins (Hershey Company MEDIC/SURGERY WARD; block:  A6)
+MLH1:  Positive
+PMS2:  Positive
+MSH2:  Positive (weak)
+MSH6:  Positive
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

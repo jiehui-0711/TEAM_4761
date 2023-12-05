@@ -1,0 +1,16 @@
+SPR no: 61B733286L
+MRN no: 7666727
+Site_name: GOULBURN VALLEY HEALTH - TATURA CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Long standing history of ovarian borderline serous Ca.  Splenectomy for recurrence.  Ovarian Ca.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Spleen&amp;quot;, consists of a spleen weighing 58g and measuring 70 x 60 x 30mm.  Most of the serosa appears intact however numerous linear ruptures are identified on the convex surface as well as on the hilar surface of the splenic capsule.  These vary between 3 and 18mm long.  Within the splenic hilum there is an irregular yellow to pale tan nodule of tumour 25 x 20 x 14mm.  The hilar surface is inked blue.  On sectioning the tumour appears to invade into the splenic parenchyma.   Blocks: 1 - loose fragments of tumour; 2 to 4 - invasion of tumour into splenic parenchyma; 5 - non neoplastic spleen.
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a fibrofatty piece of tissue, 130 x 35 x 13mm.  No obvious lesions are identified.  Blocks: 1 to 3 - representative sections.  (TO:CJ/eh 15/4/66)
+MICROSCOPIC (Reported by Dr P Ortelt):
+A.  The previous report 61B73328 is noted.
+Sections show a high grade borderline serous tumour attached to the splenic hilum and invading the hilar parenchyma.  The tumour is associated with scattered calcification, fibrosis and foamy macrophages.
+B.  The omentum shows no tumour.  Two small negative lymph nodes are noted.
+DIAGNOSIS:
+Recurrent high grade borderline serous tumour involving the spleen.  The omentum is negative.

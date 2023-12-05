@@ -1,0 +1,78 @@
+SPR no: 36X415942A
+MRN no: 10498954
+Site_name: KOOWEERUP REGIONAL HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportAMENDED REPORT (Dr K Gritsch)(23.4.68)(26.4.68)
+The following report replaces the originally issued report in which there was an error in the microscopic description and synoptic report relating to the area assessed for the mitotic count.  In the originally issued report it stated that the mitotic count was per 5mm2.  This was a typographical error and should have stated per 2mm2.  The original mitotic count was performed over this correct area and the mitotic count and grade remain therefore remain unchanged. It was also reported that the tumour was Synaptophysin negative.  This was in error and has also been amended.
+
+
+CLINICAL:
+34 yo female.  Extended pancreatectomy / splenectomy for pancreatic tumour in body.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Subtotal  pancreatectomy&amp;quot;, consists of a pancreatic body and tail with attached spleen.  The pancreas is 120 x 45 x 20mm.  There is a smooth shiny tan fatty surface anteriorly and a rough tan surface posteriorly.  A stapled margin at the proximal end of the pancreas measures 48mm long.  The spleen weighs 58g and is 95 x 40 x 35mm and has an unremarkable appearance.  Inking the surfaces of the pancreas:  anterior red, posterior blue, inferior green, superior black.  The pancreatic neck margin is also inked black.  The pancreas is serially sliced into 11 slices.  On the cut surface, a well demarcated pale tan lesion is found within the body of the pancreas measuring superior inferior 35mm medial lateral 33mm and anterior posterior 22mm.  The tumour is present in slices 2 through to 7.  Its margins are anterior and posterior surfaces 0mm, inferior 4mm, and superior 13mm.  The distance to the pancreatic neck margin is more than 10mm and it is more than 20mm to the spleen.  Blocks: 1 to 7 - pancreatic neck margin serially embedded from superior to inferior (block 1 superior end, blocks 2 to 6 two LS each, block 7 inferior end); 8 to 12 - one TS each of tumour region from slices 2 to 6 respectively; 13 &amp;amp; 14 - slice 7; 15 &amp;amp; 16 - slice 8; 17 - trimmed section from slice 8 superior end; 18 &amp;amp; 19 - slice 9; 20 &amp;amp; 21 - slice 10; 22 - slice 11; 23 &amp;amp; 24 - firm tissue within splenic hilum ? lymph nodes (four lymph nodes each); 25 &amp;amp; 26 - one RS each spleen.  26 blocks.  (TO:GB/eh 15/6/70)
+
+
+MICROSCOPIC (Reported by Dr K Fret and registrar Dr K Jaskiewicz):
+Sections show a well differentiated grade 2 pancreatic neuroendocrine tumour confined within the body of the pancreas measuring 24mm in greatest dimension (microscopic). The tumour is mostly composed of trabeculae lined by cuboidal to columnar cells with eosinophilic cytoplasm, round to ovoid nuclei and granular chromatin with small nucleoli. The tumour is mostly circumscribed and demarcated by  fibrous capsule, however, infiltration is present towards the anterosuperior surface. Close to here within the pancreas there is focal perineural invasion and several foci of lymphovascular invasion.  The mitotic count is 2 per 2mm2  The Ki67 proliferation index is 6% consistent with a WHO grade 2 tumour. The tumour expresses CD56, Chromogranin (sparse) and Synaptophysin consistent with neuroendocrine differentiation. The tumour is CK19 positive and PAX8 negative.  The tumour is clear of the pancreatic neck margin by greater than 10mm, and is  0.9mm from the anterior surface and 1mm from the posterior surface with intervening pancreatic parenchyma of fibroadipose connective tissue.  One of fourteen (1/14) lymph nodes contains a 0.3mm deposit of metastatic neuroendocrine tumour. No extranodal extension of tumour is. The spleen is unremarkable.
+
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Welll differentiated pancreatic neuroendocrine tumour
+
+Histological grade (WHO 2017)
+Grade 2  (mitoses 2/2mm2, Ki67 proliferation index 6%)
+
+Microscopic tumour sites
+Body of pancreas
+
+Extent of tumour invasion
+Pancreas
+
+Maximum tumour diameter:
+24mm (microscopic)
+
+Lymphovascular invasion
+Present (blocks 9 &amp;amp; 11)
+
+Type of vessel
+Small vessel
+
+Perineural invasion
+Focal (block 11)
+
+Pancreatic Intraepithelial neoplasia
+PanIN1A
+
+Margins:
+Pancreatic neck:  Clear (greater than 10mm macroscopic)
+
+Surfaces:
+Anterior:     0.9mm (block 11)
+Posterior:   1mm (block 11)
+
+Lymph nodes:
+Number found:     14
+Number involved:  1 (block 10)
+
+Other pathologies:
+Nil significant
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (pT)
+T2		Tumour &amp;gt;2 cm and &amp;#8804;4 cm in greatest dimension
+
+Regional lymph node category (pN)
+N1	Metastasis to one to three regional lymph nodes
+Distant metastasis category (pM)
+MX 		Not assessable by histology
+
+
+DIAGNOSIS:
+Subtotal pancreatectomy:
+- 24mm grade 2 pancreatic neuroendocrine tumour, lymphovascular invasion present, margin well clear, one of fourteen lymph nodes contain metastatic neuroendocrine tumour (1/14).
+- stage pT2N1MX (AJCC 8th Ed 2017).

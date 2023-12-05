@@ -1,0 +1,54 @@
+Episode No:  04K212638H
+044212.RJV
+
+Steward, Walton Hubert 
+Lab No:  04K21263
+Dorncliff
+CAIRNS  WA  5720
+Specimen: Tissue
+D.O.B:  18/1/1999
+Sex:  F
+Collected: 26/11/2065 at 10:45
+Location:  Anat Path-FAR NORTH HEALTH SERVICES
+PRO Nelia Mauricio Grossenbacher
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+*SUPPLEMENTARY REPORT ATTACHED*
+
+HISTORY:  
+Ovarian ca. High grade serous. Small bowel partial gastrectomy. Peripancreatic LN, para-aortic LN, peritonectomy. 
+MACROSCOPIC:  
+A. "PARTIAL GASTRECTOMY, SMALL BOWEL, PERITONEAL DISEASE". 
+Peritoneal disease - Multiple pieces of peritoneum with fatty tissue and pale tumour deposit measuring an aggregate of 50x50x35mm. 
+(1&2 RS; 3 tumour reserve block).
+Small bowel - A segmentof small bowel (no definite partial gastrectomy site identified), measuring  up to 350mm in length and 35mm in diameter. The mesenteric resection margin is inked blue. The external surface shows some firm areas ?tumour. On sectioning themesenteric resection margin there is a necrotic ?lymph node, ?tumour deposit measuring 35mm in maximum extent. One resection margin inked blue, opposing resection margin inked black. On opening the mucosa is unremarkable.
+(4&5 LS resection margins; 6&7 necrotic node/tumour; 8 further mesenteric deposit; 9 further adhesion/tumour deposits; 10 representative node; 11 tumour reserve block). RS (M-11).
+B. 'PERIPANCREATIC LYMPH NODE". A single node measuring 17mm in maximum extent. TS. AE (M-1).
+C. "PARA-AORTIC LYMPH NODE". Two irregular pieces of fatty tissue, one measuring 60mm, the other 50mm in maximum extent. The larger contains one irregular node, the smaller containsone irregular node measuring 20mm in maximum extent. 
+(1-3 large node sectioned; 4 smaller node sectioned; 5 remaining tissue attached to smaller node). AE (M-5/ZL/ht).
+MICROSCOPIC:    (Dr C Pinard)
+A.  Sections of peritoneum show multiple deposits of high grade serous carcinoma with scattered psammomatous calcification. 
+Sections of small bowel show deposits of high grade serous carcinoma within one of two lymph nodes near the mesenteric margin. Carcinoma within the lymph node is focally extremely close (0.5mm) to the inked mesenteric resection margin. There are further deposits of high grade serous carcinomawithin the mesentery of the small intestine, and two representative small intestinal lymph nodes are largely replaced by metastatic high grade serous carcinoma. 
+B.  The single lymph node is largely replaced by extensive deposits by metastatic high grade serous carcinoma. Scattered psammomatous calcification is present. 
+C.  One of two lymph nodes is involved by metastatic high grade serous carcinoma. 
+DIAGNOSIS:  
+A. PARTIAL GASTRECTOMY, SMALL BOWEL, PERITONEAL DISEASE:
+ - MULTIPLE DEPOSITS OF METASTATIC HIGH GRADE SEROUS CARCINOMA, PRESENT WITHIN  THE PERITONEUM, THE MESENTERY OF THE SMALL INTESTINE, AND IN FOUR OF FIVE LYMPH NODES WITHIN  THE SMALL INTESTINAL MESENTERYAND PERITONEUM.
+B.  PERIPANCREATIC LYMPH NODE: 
+ - INVOLVED BY METASTATIC HIGH GRADE SEROUS CARCINOMA.
+C.  PERI-AORTIC LYMPH NODE: 
+ - ONE OF TWO LYMPH NODES INVOLVED BY METASTATIC HIGH GRADE SEROUS CARCINOMA. 
+30/11/65 ht
+SUPPLEMENTARY REPORT
+
+Immunostains for MSI proteins (Capital One ACT; block: A3 )
+MLH1:  Positive (normal) staining 
+PMS2:  Positive (normal) staining
+MSH2:  Positive (normal) staining
+MSH6:  Positive (normal) staining
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+
+8/12/2065 ht
+

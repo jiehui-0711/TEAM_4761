@@ -1,0 +1,77 @@
+Episode No:  43L975201B
+434975.FAE
+
+ZANK, SCOTTIE 
+Lab No:  43L97520
+Toluca
+CANNONVALE  New South Wales  6639
+Specimen: Tissue
+D.O.B:  22/9/1988
+Sex:  M
+Collected: 06/10/2065 at 14:58
+Location:  PERI-OPERATIVE UNIT-MERREDIN HOSPITAL
+DR Tom Louella MEIGGS
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Low anterior resection for upper rectal tumour.  Specimen 1 distal donut.  Specimen 2 low anterior resection.  Bowel Ca, DM T2, previous transfusion July 2065, HTN, GORD.
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection - low" consists of a segment of colon and rectum 350mm in length and 55mm in open diameter.  The distal margin is at the anterior peritoneal reflection.  The distal margin is inked black and the proximal blue.  Within the rectum, above the peritoneal reflection, there is a posterior ulcerating tumour measuring 62 x 30mm in area.  The tumour is 17mm fromthe distal margin and 270mm from the proximal margin.  The tumour appears to infiltrate through the muscularis propria into the perirectal fat, and is at least 30mm clear of the posteriornon-peritonealised margin.  There is no tumour perforation.  The remainder of the bowel shows no significant abnormality.  Lymph nodes are found within the mesocolon which is all above the anterior peritoneal reflection.  No apical lymph node is identified.  
+Blocks:  1 - closest distal margin and tumour; 2 to 8 - tumour (3 to 6 - full TS of tumour); 9 - tumour and uninvolved proximal bowel; 10 - proximal surgical margin; 11 - apical tissue; 12 to 18 - multiple lymph nodes.
+B.  Specimen labelled "Distalstump" consists of a donut of unremarkable bowel measuring 5mm in length and 18mm in diameter.  Specimen serially sectioned and AE 1 block.   (TO: PV; SE/rt 7.10.65)
+MICROSCOPIC (Reported by Dr M Matuszeski):
+
+A & B.  SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+
+Site of tumour:  Rectum.	
+Relation of tumour to anterior peritoneal reflection:	  Above.
+Maximum tumour diameter:  62mm.
+Distance of tumour to nearer cut end:  17mm.
+Tumour perforation:  No.
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  At least 10mm
+Lymph nodes
+Number of lymph nodes present:	Nineteen (19)
+Number of lymph nodes involved:	Nil (0)
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Focisuspicious for extramural vascular invasion are present.  
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The distal donut (specimen B) shows no significant abnormality.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvant therapy
+Not applicable
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining.
+PMS2		Preserved nuclear staining.
+MSH2		Preserved nuclear staining.
+MSH6		Preserved nuclear staining.
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary
+pT3  pN0  pMX  R0  (TNM 7th Edition)
+DIAGNOSIS:
+A.  Rectum, low anterior resection:
+-  Moderately differentiated adenocarcinoma, 62mm, pT3
+-  Clear of margins
+-  Nineteen negative lymph nodes (0/19)
+B.  Distal donut:  No significant abnormality
+
+
+

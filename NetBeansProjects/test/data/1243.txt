@@ -1,0 +1,96 @@
+Episode No:  20X075649X
+209075.RMZ
+
+SITTMAN, Myron 
+Lab No:  20X07564
+E Traube
+SUFFOLK PARK  WA  3401
+Specimen: Tissue
+D.O.B:  21/12/1982
+Sex:  F
+Collected: 06/11/2012 at 11:19
+Location:  3HR STAY SURGICAL UNIT-NORTH EASTERN SOLDIERS MEMORIAL HOSPITAL
+DR Ethan LENNY MCELHINNY
+Distribution:   FILE-COPY
+
+CLINICAL:
+Hx of Bx proven L breast ca for L centrectomy and sentinel node bx. 
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node no 1", consists of a lymph node 7 x 5 x 5mm. The specimen is serially sectioned, AE 1 block. 
+B.  Specimen labelled "Sentinel node no 2",consists of a lymph node 6 x 5 x 2mm. The specimen is serially sectioned, AE 1 block. 
+C.  Specimen labelled "Sentinel node no 3", consists of a piece of fatty tissue 25 x 20 x 10mm containing one lymph node 10 x 5 x 5mm.  The lymph node is serially sectioned, AE 1 block.
+D.  Specimen labelled "Left breast cancer, medium stitch medial, long stitch lateral, short stitch superior", consists of a piece of fibrofatty tissue with overlying skin with nipple and areolar complex and three suturesfor orientation as above.  It measures 50mm from medial to lateral, 40mm from superior to inferior and 40mm from the superficial to the deep margin. The ellipse of skin measures 40 x 20mm. The superior margin is inked green, superficial margin blue and the deep margin black. On sectioning subjacent to the nipple there is an ill defined white and gritty tumour measuring 21mm from medial to lateral, 20mm from superior to inferior and up to 14mm from superficial to deep margin.  The tumour appears to involve the nipple and abuts the superior margin. The rest of the parenchyma has a fibrous appearance.  The specimen is serially sectioned from lateral to medial into seven slices.  Slice 1 - lateral margin; slice 7 - medial margin.  The tumour is present in slices 3-5.   The specimen is AE according to the diagram attached.
+Blocks 1 & 2- lateral margin; 3 & 4 - slice 2; 6-7 - slice 3; 8-10 - slice 4; 11-13 - slice 5; 14-16 - slice 6; 17-18 - slice 7 (medial margin) (block 9 reserved block).
+E.  Specimen labelled "Left axillary tissue", consists of a piece of fatty tissue 25 x 20 x 10mm with a lymph node 15 x 10 x 5mm.  Block 1 - bisected lymph node; 2 - rest of tissue.  (TO: JA: EK/ec 9.1.62) 
+ 
+MICROSCOPIC: (Reported by Dr F Bedwell) 
+A.  One (1)lymph node shows no evidence of malignancy. The CAM5.2 keratin immunostain is negative.
+B.  One (1) lymph node shows no evidence of malignancy. The CAM5.2 keratin immunostain is negative.
+C. One (1) lymph node shows no evidence of malignancy. The CAM5.2 keratin immunostain is negative.
+D & E.  Sections show a 21mm grade 2 invasive ductal carcinoma, NOS located with the central breast and overlying dermis of the nipple.  The carcinoma is composed ofangulated compressed tubules and cords within a variably nodular hyalinised and elastotic (fibroadenomatoid-like) stroma.  The carcinoma extends close to the epidermis but no Pagetoid invasion is seen. There is prominent associated stromal and glandular microcalcification.  There are foci of dermal perineural invasion within the confines of the tumour but no outlying foci are seen.  Foci of intermediate to high grade DCIS distributed over 12mm are present within the tumour, including involvement of nipple ducts.  No lymphovascular invasion is seen. 
+Two (2) lymph nodes identified in the left axillary tissue show no evidence of malignancy.
+A synoptic report for breast carcinomafollows.
+Invasive carcinoma:
+Site:  Left nipple and subjacent breast
+Type:  Ductal NOS
+Invasive tumour size:  21mm (macroscopic)
+Grade (Modified Bloom & Richardson): 2
+Tubules: 2Nuclei:  2    Mitoses: 1    Mitotic rate:   2 /10hpf.
+Lymphovascular invasion:  Not seen (including dermal lymphatics)
+Perineural invasion: Present several foci in dermiswithin confines of tumour, no outlying foci (block 12 L1)
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  12mm (three consecutive slices)
+Nuclear grade:  Intermediate to high
+Architecture:  Solid and cribriform
+Necrosis:  Absent
+Calcification:  Present coarse
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Not seen.
+
+Excision Margins:  
+Invasive component: 
+-  Inferior dermal/superficial 1.1 mm (block 12) (minimal ink but diathermy is present and this appears to be a true margin when correlated with the specimen photograph).
+-  Superior dermal/superficial 2mm (block 9) (estimateas the margin shows post surgical disruption).
+-  Medial 8mm (block 17)
+-  Deep 8mm (block 12)
+-  Lateral, superior, inferior >10mm.
+In-situ component:
+-  Deep 8mm (block 15) 
+-  Medial 8mm (block 17)
+-  Inferior dermal/superficial 9mm (block 15)
+Excision margins cont. 
+ In-situ component: 
+ -  Superior dermal/superficial, lateral, superior, inferior >10mm
+Receptors  (BlockD9): 
+ER:  Positive
+	> 95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:Negative
+	0 % of nuclei stained
+HER2 (Novocastra 10A7):  Negative (1+) CISH to follow.
+Ki-67 index:  Approximately 10%
+Nipple:  Involved dermis
+Paget's:  Not seen.
+LCIS / ALH:    Not seen
+Miscellaneous:  The breast tissue also displays cystic change and columnar cell change.  A core biopsy tract associated with fat necrosis and inflammation is seen adjacent to the tumour. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3
+Number of sentinel lymph nodes involved by tumour:  0           
+
+Axillary/other nodes:of axillary lymph nodes examined:  2
+Number of axillary lymph nodes involved by tumour:  0       
+   
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  5 
+Total number of involved lymph nodes (including sentinel node(s)):   0
+DIAGNOSIS
+A-E.  Left centrectomy, sentinel nodes x3 and left axillary tissue:
+-  21 mm grade 2 invasive ductal carcinoma, NOS, ER positive,PR negative, HER2 negative (CISH to follow).
+-  See report for margins.
+-  Three negative sentinel lymph nodes. 
+-  Two negative left axillary lymph nodes.
+ 
+ 
+

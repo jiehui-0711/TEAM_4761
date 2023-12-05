@@ -1,0 +1,147 @@
+SPR no: 59U284389G
+MRN no: 59728438
+Site_name: THE TWEED HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report59U28438 (59U284389G) BARCLEY, DESHAWN
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Gastric cancer with lymph nodes and peritoneal mets.  Peritonectomy.
+1. Stomach/omentum.
+2. Tail of pancreas.
+3. Lymph node liver hilus lymph node.
+4. Left gastric artery lymph node.
+5. Splenic artery lymph node.
+6. Abdominal wound.
+7. Coeliac axis lymph node.
+8. Peritoneal disease.
+
+MACROSCOPIC:
+A.  OMENTUM, GALLBLADDER, PANCREAS, STOMACH&amp;quot;. Consists of multiple components.  First part is a gallbladder 120mm in length, 35mm in diameter received intact, unopened. The cystic duct opening is 5mm. The serosa is smooth and shiny.  A possible cystic node is seen at the neck 5mm.  On opening the lining appears dark green, velvety. Wall thickness up to 3mm. The gallbladder contained dark green bile.  No gallstones identified.
+
+(1 cystic duct opening and cystic node; 2 neck and body; 3 fundus)
+
+Part two of the specimen consists of a distal pancreas with attached fat weighing 65g. The pancreas measures 100x30x25mm. At the tail is attached fatty tissue 55x25x10mm.  Part of the pancreas is covered in a smooth peritonealised surface.  This will be inked blue, the opposite surface appears rough, this will be inked black and the proximal margin inked red. The pancreas is sliced from proximal margin to the tail into 20 slices. Cut surface an unremarkable appearing fatty pancreas with multiple involved peripancreatic lymph nodes.  Largest is a metastatic deposit 12mm which is situated in a lymph node 20mm in slice 2.
+
+(4&amp;amp;5 shaved proximal margin slice 1; 6&amp;amp;7 slice 2 [7 part of the involved largest node]; 8 slice 2 other half; 9 two lymph nodes; 10 slice 8 and 9 one bisected possible involved node; 11 slice 14 random pancreas; 12 tail of pancreas slice 20; 13 four lymph nodes; 14 four lymph nodes; 15 fatty tissue with possible lymph nodes)
+
+Next part of the specimen consists of a subtotal gastrectomy with attached omentum with the following components, distal stomach measuring 220mm in length, 70mm in diameter with attached duodenum 20mm. Fat attached to lesser curvature 60x45x20mm. Fat including omentum attached to greater curvature 300x200x20mm. Also present attached to the lesser curvature is a length of pancreas measuring 40x20x20mm. The specimen is inked anterior blue, posterior black. The stomach is sliced into multiple transverse slices as indicated on the diagram.  Cut surface shows infiltrative pale cream tumour situated within the pylorus measuring 45x45x40mm.  The tumour appears to extend to the serosal surface and into the lesser curvature fat with possible involvement of adjacent pancreas. The tumour is macroscopically 20mm away from the distal duodenal margin, 30mm away from the proximal margin. The remaining mucosa is tan and shows normal rugae.
+
+(16 proximal margin closest to tumour; 17 macroscopically normal stomach; 18-20 tumour to distal margin LS; 21 from slice 2 tumour to anterior serosa; 22&amp;amp;23 full thickness tumour from mucosa to involving pancreatic tissue posteriorly;24 slice 2 tumour to posterior; 25-27 from slice 3 [25 tumour to anterior serosa, 26 tumour next to a large vessel, 27 tumour to posterior fat infiltration]; 28 one involved lymph node lesser curvature; 29&amp;amp;30 slice 8 tumour to relatively normal mucosa; 31 lesser curvature lymph nodes; 32 one metastatic deposit in lesser curvature lymph node; 33 lesser curvature fat with possible lymph nodes; 34 one bisected lymph node greater curvature; 35 one bisected lymph node greater curvature; 36 haemorrhagic area greater curvature; 37 one lymph node from greater curvature; 38 fatty tissue from greater curvature with possible lymph nodes; 39&amp;amp;40 random omentum). RS (M-40)
+
+B.  &amp;quot;LIVER HILUS&amp;quot;. Consists of a piece of cream to tan tissue 15x8x5mm. AE (1-1)
+
+C.  &amp;quot;LEFT GASTRIC ARTERY LYMPH NODE&amp;quot;. Consists of two pieces of fatty tissue 20x20x7mm, 25x10x5mm containing three possible lymph nodes 5, 8 and 20mm.
+
+(1 one lymph node; 2 two lymph nodes).  RS (3-2)
+
+D.  &amp;quot;SPLENIC ARTERY LYMPH NODE&amp;quot;.  Consists of one piece of tissue 15x6x5mm. AE (1-1)
+
+E.  &amp;quot;ABDOMINAL WALL WOUND&amp;quot;. Consists of an unoriented ellipse of skin 35x18mm to a depth of 40mm. The skin surface shows a possible scar 15mm in length. There is partial distortion ? related to instrumentation but otherwise is unremarkable in appearance.  Multiple transverse slices made cut surface shows fibrous tissue which extends to the deep, roughly 20x10x15mm.
+
+(1 shaved pole; 2 one TS; 3&amp;amp;4 one TS; 5 one TS). RS (M-5)
+
+F.  &amp;quot;COELIAC ABSCESS LYMPH NODE&amp;quot;. Consists of three pieces of fatty tissue 10, 20, 25mm containing three nodes 6, 6, 20mm.
+
+(1 two nodes; 2 largest node bisected). RS (4-2)
+
+G.  &amp;quot;PERITONEAL DISEASE&amp;quot;. Consists of three pieces of fatty tissue 12mm, 20mm, 30mm in size containing at least two cream nodules 7 and 5mm.
+
+(1 two nodules; 2&amp;amp;3 RS of tissue which are macroscopically unremarkable).  RS (M-3/JC 18/8/2067 ank)
+
+Stomach Resection:
+Fresh tissue received: No
+Type of resection: Subtotal gastrectomy, distal
+Other specify: distal pancreatectomy + cholecystectomy
+Specimen dimensions, length of each anatomical component:
+-Stomach greater curve: 220mm
+-Stomach lesser curve: 70mm
+Oesophagus: N/A
+Duodenum: 20mm
+Macroscopic tumour site: Pylorus
+Macroscopic tumour type&amp;quot; Type IV infiltrative
+Tumour size (maximum tumour diameter): 45x45x40mm
+Distance from tumour to nearest proximal or distal margin(cut end): 20mm distal
+Distance from tumour to the circumferential resection margin: Not applicable
+Serosal appearance: Puckered, pale 25x5mm
+
+MICROSCOPIC:   (Dr O Hard)
+A.  Histology shows a poorly differentiated intestinal type adenocarcinoma which infiltrates through the full thickness of the wall of the stomach to reach the serosal surface and invades the local adjacent pancreatic bed where there is widespread perineural infiltration by carcinoma. There is a large ductal structure adjacent to the pancreatic bed ? bile duct which is infiltrated and partially stenosed by tumour in the wall. There is lymphovascular invasion and perineural infiltration within the bed of pancreas with metastatic deposits in 15 out of 22 nodes (3 out of 8 peripancreatic, and 12 out of 14 lesser and greater curve/gastric nodes).  Within the peripancreatic nodes which are involved close to the distal gastric resection margin, there is extranodal extension with tumour focally extending to a local soft tissue margin (block 28).  The proximal and gastric wall resection margins themselves are not involved by malignancy.  Small serosal metastatic deposits of carcinoma are also seen.  A focus of vascular invasion is also present within perigastric fat.  The cystic duct lymph node is not invloved and the gall bladder shows minor chronic inflammation
+
+B.  Histology shows scattered groups of isolated tumour cells in one lymph node.
+
+C.  Histology shows a metastatic deposit of adenocarcinoma within one of three lymph nodes. There is no extranodal extension.
+
+D.  No evidence of malignancy is seen in two lymph nodes.
+
+E.  Histology shows skin with underlying fat and soft tissue which contains an area of maturing fibrous scar tissue and granulation tissue.  There is no evidence of malignancy.
+
+F.  Histology shows a micrometastatic deposit of adenocarcinoma in one of three lymph nodes (1mm in diameter).
+
+G.  Histology shows fatty peritoneal tissue containing multiple small deposits of metastatic adenocarcinoma.
+
+Microscopic
+
+Tumour site (location) 	Pylorus
+WHO Histological tumour type	Tubular
+Lauren Histological tumour type	 Intestinal
+Histological grade	High grade (poorly differentiated)
+Growth pattern	Infiltrative
+Maximal dimension of tumour	 45mm
+Level of invasion	Through muscularis propria to reach serosa 		and local infiltration of pancreas
+Serosal surface involvement	Present
+Vascular space invasion
+Small vessels (lymphatic and capillary) Present
+Large vessels (vein and artery) 	Present
+Perineural growth	Present within pancreatic bed
+Degree of regression after	Not applicable
+preoperative chemoradiation
+
+Distance of tumour from margins:
+From proximal	20mm
+From distal	3mm
+From radial/circumferential 	There is involvement a peripancreatic lymph 		node soft tissue margin by extranodal 			carcinoma.
+
+No. of involved regional nodes/	15/22
+total no. of regional nodes (pN)
+
+No. of involved non- regional lymph nodes/ 	3/9
+total no. of non-regional lymph nodes (pM)
+
+Metastatic sites	Gastric serosa and peritoneum
+Site
+
+Other pathologies
+Gastritis	Present
+Helicobacter infection	Special stains to follow
+Intestinal metaplasia	Present
+Dysplasia	Not present
+Gastric polyps	Not present
+Barrett&amp;#8217;s mucosa	Not applicable
+Other pathologies 	Nil
+Synthesis and Overview
+
+Tumour stage and stage grouping	pT4b pN3a pM1 (AJCC 20102, 7th ed.)
+
+DIAGNOSIS:
+A.  OMENTUM, GALLBLADDER, PANCREAS AND STOMACH -
+- POORLY DIFFERENTIATED ADENOCARCINOMA WITH DIRECT INVASION OF PANCREAS.  METASTATIC ADENOCARCINOMA IN 15 OUT OF 22 NODES.
+
+B.  LIVER HILUS -  ISOLATED TUMOUR CELLS IN 1 LYMPH NODE
+
+C.  LEFT GASTRIC ARTERY LYMPH NODE -
+- METASTATIC CARCINOMA IN 1 OF 3 NODES.
+
+D.  SPLENIC ARTERY LYMPH NODE -
+- NO EVIDENCE OF MALIGNANCY IN 2 NODES.
+
+E.  ABDOMINAL WALL WOUND -  NO EVIDENCE OF MALIGNANCY
+
+F.  COELIAC ABSCESS LYMPH NODE - METASTATIC CARCINOMA IN 1 OF 3 NODES.
+
+G.  PERITONEAL DISEASE -
+- MULTIPLE DEPOSITS OF METASTATIC ADENOCARCINOMA
+
+18/8/2067 nh

@@ -1,0 +1,68 @@
+SPR no: 93Y2407200
+MRN no: 9392407
+Site_name: NANNUP HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reporttrrowtblind0brdrbfcs1 Episode No:  93Y2407200
+9392407.FBB
+trpaddl108tlt
+Balo, JAYCEE Z
+brdrw10 trowd 3clbrdrbhLab No:  93Y24072
+Hayes
+ngnp1033rvil sdrlWidth3ngfe1033
+ORBOST  NTsid12790939   2603
+bl08lbrdrtrsng1424
+lin0 w10 drsil addr1080 brsid12790939 Specimen: Tissue
+D.O.B:  ch27/5/2026
+Sex:  Ftlch
+ngnp1033vl drsl trpaddfl3rlhtCollected: 18/03/2016 at 20:37fcs0
+Location:  3 ARRIETTA CLOSE-SHOALHAVEN DISTRICT MEMORIAL HOSPITAL
+i0rowpe3 w10 1
+PRO DEMARCUS SEYMOUR FERO
+rchdrr10 ltrparangfenp1033
+
+1artrchDistribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+didrdrw10 524grid
+*() angnp3081HISTORY:
+Appendix adenoca.  Peritonectomy.
+Retroperitoneal (para-aortic) nodes + liver segment 1 + r ight renal capsule.
+Spleen, portacaval nodes, small bowel, peritoneal disease.
+0 MACROSCOPIC:
+A.  &amp;#8220;PORTACAVAL NODE, SPLEEN, SMALL BOWEL, PERITONEAL DISEASE 4.  Specimen consists of spleen, small bowel, multiple pieces of fatty tissue.
+Spleen &amp;#8211; weighs 129g and it measures 110x50x40mm.  The capsular surface is roughened with ? areas of adhesion.  Also attached is a small  amount of fatty tissue 35x30x6mm.  Within this fatty tissue is a nodule 7mm maximum.   dimension.  On sectioning through the spleen the cut surface reveals a red to brown cut surface dotted by multiple small pale white areas &amp;lt;1mm maximum di mension and adherent to the splenic capsule is tumour deposit with a mucinous appearance.
+(1 nodule noted in fatty tissue attached to spleen; 2&amp;amp;3 spleen [3 depicts mucinous deposit])
+Small Bowel &amp;#8211; It mea sures 250mm in length with a maximum diameter of 30mm.  The attached mesentery is up to 40mm. The serosa is roughened.  On opening the lumen there is an area of wall attenuation.  The rest of the mucosa is otherwise unremarkable.  Within  the mesentery is 30mm tumour deposit.  Tumour has a pale white cut surface.
+(4 area through site of attenuated wall ; 5 area of serosal roughening; 6 tumour deposit within mesentery; 7 two possible nodes)
+There is a piece of fatty tissue with tumour deposit consistent with adrenal  gland.  It weighs 20g and measures 40x40x20mm.  On sectioning the cut surface reveals residual adrenal gland and a mucinous deposit compressing the adrenal gland.
+(8&amp;amp;9 adrenal gland)
+Segment of ? cystic duct with  two stones.  It measures 30mm in length x 6mm maximum diameter.
+(10 ? cystic duct)
+There are multiple pieces of fatty tissue altogether measure 240x100x30mm.  Eighteen possible nodes are identified.  All involved b y mucinous deposits.
+(11-21 RS of one lymph node each ; 22 one bisected node; 23 one bisected node; 24 five lymph nodes; 25 tumour block).  RS (M-25)
+B.  &amp;#8220;RETROPERITONEAL LYMPH NODE&amp;#8221;.  One lymph node measuring 25x15x10mm.  Bisected.  AE (2-2)
+C.  &amp;#8220;LIVER SEGME NT 1&amp;#8221;.  A piece of liver.  It measures 40x30x10mm.  The capsule is smooth and unremarkable.  The resection margin has a pale nodule 10mm maximum dimension.  Resection margin is inked blue.  On sectioning through the nodule it has a pal e tan cut surface and comes up to the resection margin and &amp;lt;1mm from the capsule.  The rest of the liver tissue away from the lesion is brown and unremarkable.
+(1-3 nodule; 4 section of normal liver tissue). RS (4-4)
+
+D.  &amp;#8220;RIGHT RENAL CAPSULE&amp;#8221;.  A piece of fatty tissue and attached at one edge is a small area ? peritoneum.  On the smooth surface there is an area of roughening.  Altogether it measures 90x30x5mm.  The ? peritoneum ? renal ca psule measures 30x20x5mm.  Resection margin is inked blue.  On sectioning through the smooth area/capsule there is a mucinous deposit of tumour. This entire area is embedded.
+(1-3 tumour deposit).  RS (M-3/MC/ank)
+lch
+MICROSCOPIC:1  (Dr. Z Prudden)
+A.  Sections from the nodule attached to spleni c capsule show changes of metastatic poorly differentiated mucinous adenocarcinoma.  The tumour is comprised of large mucin pools within which irregular clusters of mucinous adenocarcinoma are noted.  Focally, occasional signet-ring cells  are identified.  The tumour is also present in the splenic capsule.  The splenic parenchyma appears unremarkable.
+Sections of the small bowel segment show serosal adhesios and congestion.  There is evidence of metastatic p oorly differentiated mucinous adenocarcinoma involving the serosa and subserosal fat.  The small bowel mucosa appears unremarkable.
+Metastatic carcinoma is also present within the adrenal gland.  The adrenal parenchyma shows  focal lymphatic permeation.
+The cystic duct shows changes of mild chronic inflammation.  Focally, solid areas of tumour cells are also identified with myxoid background within the peritoneal fat.
+Metastatic car cinoma is seen in 18 out of 18 lymph nodes identified.
+B.  Metastatic carcinoma is present in one lymph  node identified.
+C.  Sections show liver.  An ill-defined nodule showing metaplastic bile ductule proliferat ion  is noted suggestive of focal nodular hyperplasif1a.  No evidence of malignancy.  Immunohistochemistry stain for cytokeratin 7 outline the bile ductile proliferation.1033
+D.  Sections show strips of fibrous tissue in which there is infiltrating poorly differentiated mucinous adenocarcinoma.  The carcinoma appears to be attached to liver capsule focally.  There is  also tumour within the surrounding fibroadipose tissue.
+0DIAGNOSIS:8035
+A.  PORTACAVAL NODE, SPLEEN, SMALL BOWEL, PERITONEAL DISEASE:
+- POORLY DIFFERENTIATED MUCINOUS ADENOCARCINOMA INVOLVING SPLENIC CAPSULE  AND PERISPLENIC SOFT TISSUE, SMALL BOWEL, ADRENAL GLAND, PERITONEAL TISSUE AND LYMPH NODES (18 OUTOF  18).
+B.  RETROPERITONEAL LYMPH NODE: -
+- METASTATIC CARCINOMA IN 1 OUT OF 1 LYMPH NODE.
+C.  LIVER SEGMEN T 1:-
+-  FAVOUR FOCAL NODULAR HYPERPLASIA.
+D.  RIGHT RENAL CAPSULE: -
+- METASTATIC CARCINOMA INVOLVING FIBROADIPOSE TISSUE AND LIVER CAPSULE.
+25/5/2066 nh1
+s22

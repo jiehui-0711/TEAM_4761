@@ -1,0 +1,39 @@
+
+Episode No:  76N118823M
+765118.UGI
+
+SOURLIS, NAVA 
+Lab No:  76N11882
+Breadlands
+RUTHERFORD  QLD  2447
+Specimen: Tissue
+D.O.B:  20/1/1998
+Sex:  F
+Collected: 01/05/2013 at 09:33
+Location:  UROLOGY OPD-EASTERN EYRE HEALTH AND AGED CARE - COWELL CAMPUS
+DR IAN REX ARSENAULT
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Wider excision of subcutaneous sarcoma left lower leg: previously called MFH at DICKINSON 2 NORTH (No 765/11882). 
+MACROSCOPIC:
+Specimen labelled "Left calf re-excision sarcoma suture at 12 o'clock", consists of an ellipse of skin measuring 60 x 20 x 10mm with a central linear scar measuring 15mm, 20mm from the sutured end. The excision extends to muscle.  There is a suture at one end designated 12 o'clock. The 3 o'clock margin is inked blue and the 9 o'clock margin is inked black.  The specimen is serially sectioned and AE from 12o'clock to 6 o'clock in 7 blocks.
+Block 1- Shave 12 o'clock margin; 7 - Shave 6 o'clock margin.  (TO: GG;MX/ec 7.4.63) 
+MICROSCOPIC: (Reported by Dr U Panagoulias)
+The specimen has been entirely embedded and examined.  Sections show skin, subcutis, fascia and skeletal muscle at the deep aspect.    There is dermal and subcutaneous scar tissue plus patchy subacute haemorrhage, consistent with previous surgery.  
+There is residual intermediate to high grade sarcoma, distributed across approximately 32mm (eight consecutive slices).  The sarcoma is located within the subcutis and focally extends beneath the fascia. The poorly circumscribed residual tumour has a vaguely nodular configuration and displays two distinct morphological appearances. The majority of the tumour is composed of mild to moderately cellular spindle cells arranged in short fascicles with less cellular spindle cell areas showing intervening stromal hyalinisation.  The spindle cells have curved ends, evenly distributed chromatin, small nucleoli and pale eosinophilic cytoplasm. No perinuclear vacuoles are seen.  Scattered mitoses are present.  There is also an approximately 8mm distinctfocus of moderate to markedly pleomorphic, moderately cellular epithelioid, spindled and multinucleated tumour cells admixed with osteoclast-like giant cells and extravasated red blood cells. These tumour cells display highly irregular nuclei, vesicular chromatin, eosinophilic macronucleoli and amphophilic cytoplasm. Tumour cell mitoses number up to 20/HPF in this area.  No necrosis is seen.  The adjacent adipose tissue appears mature.  No perineural invasion is seen. Although difficult to distinguish from residual scar tissue, less pleomorphic spindle cell tumour focally extends to both the 9 o'clock and deep margins (block 4). The 12 o'clock margin is about 4mm clear and the 6 o'clock and 3 o'clock margins >10mm clear
+Immunohistochemistry:
+The tumour cells stain as follows:
+Positive:  Vimentin, SMA (patchy), Desmin (patchy), CD99, bcl2 (cytoplasmic marking of osteoclast-like giant cells)
+Negative:  MNF116, AE1/AE3, EMA, S100, HMB45, MelanA, Myogenin and CD34.
+The tumour Ki67 proliferation index is heterogeneous varying from 20-30 % in the less cellular areas to 60-70% in the more cellular areas.
+COMMENT:
+The morphological appearance of the residual spindle cell component of the current tumour is similar to that described in the consultation review report of the previously excised tumour in which a diagnosis of intermediate grademyofibrosarcoma was favoured (Prof U Plotts, ONCOLOGY (GYNAE) GREAT OCEAN ROAD HEALTH - LORNE COMMUNITY HOSPITAL Hospital; referred from West pathology U65/11882). However, the current tumour displays an additional component of mitotically active pleomorphic epithelioid, spindled and multinucleated tumour cell admixed with osteoclast-like giant cells, not described in the previous excision.  The tumour cells in this focus, as well as a proportion of the purely spindle cell component also display patchy desmin expression, another feature not described in the original excision. There is also patchy SMA expression.  In the context of the previous findings the current tumour appearances are favoured to represent myofibrosarcoma with an evolving higher grade sarcomatous component with admixed osteoclast like giant cells (malignant fibrous histiocytoma-like with osteoclast like giant cells). Given the patchy desmin expression currently and lack of desmin expression in the previously excised tumour, a diagnosis of leiyomyosarcoma with osteoclast like giant cells is regarded as less likely. The FNLCC grade would therefore be 3 (differentiation score=3, mitosis score=3, necrosis score=0; total score =6).
+Shown to Dr U Carpentieri.
+
+
+DIAGNOSIS:
+Left lower leg re-excision:  
+-  Residual intermediate to high grade sarcoma (see comment). 
+-  Favour myofibrosarcoma with evolving high grade sarcomatous component with osteoclast-like giant cells.  
+-  Positive deep and 9 o'clock margins.
+

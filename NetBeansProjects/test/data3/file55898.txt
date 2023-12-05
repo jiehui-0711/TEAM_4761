@@ -1,0 +1,92 @@
+SPR no: 30I275718G
+MRN no: 3032757
+Site_name: YARRA RANGES HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report30I27571,30I27571 (30I275718G) COPPERSMITH, Foster
+HISTOPATHOLOGY REPORT
+CASTLEMAINE HEALTH HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+?leiomyosarcoma.
+1. Peritoneal washings for Cytology.
+2. Uterus/Tubes/Ovaries.
+3. Pouch of Douglas Peritoneum.
+4. L Pelvic Lymph Node.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. Consists of uterus with attached cervix, bilateral tubes and ovaries. The specimen is distorted by a large mass attached and arising from the posterior myometrium. The mass has bulging lobulated appearance with areas of roughening/disruption adjacent to posterior cervix and on the left side laterally. All together it weighs 1965g. The cervix measures 140mm superior to inferior, 35mm intracornual distance. Ectocervix measures 30x25mm with a brown os 2mm. It is cream coloured. The myometrium is distorted by multiple bulging nodules with a pale white whorled cut surface consistent with leiomyomas intramurally, subserosally and focally submucosally.  As previously mentioned, the posterior endomyometrium is replaced by a large mass (large mass  and posterior endomyometrium is 110mm). The endometrium is less than 2mm thick. The large mass measures 175mm superior to inferior, 155mm left to right and 100mm anterior to posterior. It has a fish flesh cut surface with areas of haemorrhage. The mass adjacent to the posterior cervix is with an area of roughening. This area is inked green. Posterior surface is black, anterior surface is blue. The area where the tumour bulges the surface and is roughened is also inked green. The mass replaced most of the fundus and extends all the way to the cervix but does not involve the ectocervix. The other nodules with a pale white whorled cut surface consistent with leiomyoma is rang from 10-50mm. Representative sections are taken.
+
+(1 anterior cervix; 2 and 3 composite slices of posterior cervix including tumour; 4 and 5 composite slices [anterior endomyometrium including white whorl nodule consistent with fibroid]; 6 posterior endomyometrium including large mass; 7 large mass [section roughened area adjacent to posterior cervix]; 8 large mass with thin serosa; 9 large mass at area of bulging; 10 large mass haemorrhagic area; 11 large mass bulging roughened area; 12 further section large mass bulging roughened area; 13-16 further sections of large mass [16 includes uterine serosa]).
+
+The right ovary and fallopian tube together weigh 13g. Fallopian tube measures 55mm in length with a maximum diameter of 9mm. Ovary is 32x15x7mm. There is a paratubal cyst measuring 15mm. The ovarian serosa is firm but normal appearance. On sectioning the cut surface is firm with a normal cut surface.
+
+(17 right fallopian tube; 18 right ovary).
+
+The left fallopian tube and ovary together weigh 12g. Fallopian tube measures 70mm in length with a maximum diameter of 6mm. Ovary is 30x20x10mm. Serosal surface appears unremarkable. On sectioning through the ovary it has a firm normal appearing cut surface with one focal cyst measuring 5mm. The inner lining is smooth.
+
+(19 left fallopian tube; 20 left ovary). RS (M-20)
+
+B. &amp;quot;POUCH OF DOUGLAS PERITONEUM&amp;quot;. Consists of multiple haemorrhagic tissue fragments in aggregate 60x60x20mm. Some of the fragments look fibrotic in appearance. RS (M-4)
+
+C. &amp;quot;LEFT PELVIC NODE&amp;quot;. Consists of a lymph node with attached perinodal fat. It measures 20x15x5mm. Bisected. AE (2-1/MC 23/9/2070 cy)
+
+MICROSCOPIC: (Dr K Molands)
+A.  Histology reveals the presence of a large leiomyosarcoma (175mm) which distorts the fundus of the uterus and arises within a background of other multiple benign fibroids.  The tumour is characterised by a spindle cell proliferation with moderate and in places marked nuclear atypia with brisk mitotic activity which is greater than 30 mitoses per 10 high power fields with multifocal areas of geographic infarct-like necrosis.  Many atypical mitoses are also seen.  The tumour extends to reach inked surfaces laterally and posteriorly on the uterus where there is disruption of the overlying serosa.  Additionally, there is also evidence of an area of localised infiltration of fat laterally with small nodules of tumour also seen within subserosal tissue. No evidence of vascular lymphatic invasion is seen.  The endometrium is atrophic and the cervix is unremarkable.  Both fallopian tubes and ovaries are not involved.
+B.  Histology shows pieces of fibrofatty tissue which show multiple nodules of high grade leiomyosarcoma.
+C.  Histology shows no evidence of malignancy in this single lymph node.
+UTERINE SARCOMA SYNOPTIC REPORT {Based on CAP 2017}
+
+PROCEDURE: Total hysterectomy and bilateral salpingo-oophorectomy
+
+HYSTERECTOMY TYPE: Laparotomy, modified radical hysterectomy
+
+SPECIMEN INTEGRITY: Intact
+
+TUMOR SIZE: 175x155x100mm
+
+HISTOLOGIC TYPE: Leiomyosarcoma
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Pouch of douglas peritoneum (specimen B).
+
+MARGINS:
+Involved by sarcoma.
+Specify margin: roughened area adjacent to posterior cervix(block 7) and roughned areas with no overlying serosa (blocks 11-12)
+
+LYMPHOVASCULAR INVASION: not identified
+
+REGIONAL LYMPH NODES (specimen C):
+Site: Left pelvic node
+Number of nodes involved: 0
+Number of nodes examined: 1
+
+DISTANT METASTASES (excluding adnexa, pelvic and abdominal tissues): None identified histologically.
+
+ANCILLARY STUDIES/IMMUNOSTAINS: actin &amp;amp; desmin positive. HMB45, CD34, S100, cytokeratin negative. ALK is negative.
+
+OTHER SPECIMENS:
+Specimen B: Pouch of douglas peritoneum involved by tumour
+
+OTHER:
+Ovaries (left and right) are negative for malignancy.
+Fallopian tubes (left and right) are negative for malignancy.
+
+PATHOLOGIC FIGO STAGE (2015 FIGO Cancer Report): Pre-MDT Stage IIB
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT2b, pN0
+
+
+DIAGNOSIS:
+
+A. UTERUS, BILATERAL TUBES AND OVARIES
+- UTERINE LEIOMYOSARCOMA WITH DISRUPTED SEROSAL SURFACE AND FOCAL INFILTRATION OF FAT, STAGE pT2b.
+B. POUCH OF DOUGLAS PERITONEUM
+- INVOLVED BY LEIOMYOSARCOMA
+C. LEFT PELVIC NODE
+- NO EVIDENCE OF MALIGNANCY IN 1 NODE
+26/10/2071 nh
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+(Dr K Cacatian 23.5.71)
+
+OESTROGEN RECEPTOR:         negative
+PROGESTERONE RECEPTOR:  negative

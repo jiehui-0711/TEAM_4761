@@ -1,0 +1,59 @@
+
+Episode No:  74O716684B
+745716.PXL
+
+PENNEL, STEFAN 
+Lab No:  74O71668
+Dentwood
+COOLGARDIE  Queensland  5417
+Specimen: Tissue
+D.O.B:  8/6/1993
+Sex:  M
+Collected: 05/09/2013 at 13:00
+Location:  PARKES 4 EAST-OSBORNE PARK HOSPITAL
+DR HEATH MILAN BODYFELT
+Distribution:   FILE-COPY
+CLINICAL:
+High risk Ca prostate.  Neoadjuvant androgen deprivation.
+MACROSCOPIC:
+A.Specimen labelled "Prostate", consists of a 47g prostatectomy specimen comprising the prostate (60 x 50 x 35mm), the right seminal vesicle (18 x 8 x 8mm), the right vas deferens (12mm in length), the left seminal vesicle (14 x 7 x 5mm) andthe left vas deferens (10mm in length).  The margins are inked in three colours: anterior blue, posterior black, and right red.  The prostate is serially sliced and all is blocked.
+Blocks: 1 to 3 - right vas deferens and seminal vesicle from superior to inferior; 4 and 5 - left vas deferens and seminal vesicle from superior to inferior;6 to 21 - slice 1 (base) from right to left; 22 - slice 2; 23 - slice 3; 24 - slice 4; 25 - slice 5; 26 to 31 - slice 6 from right to left (apex).  AE please see diagram.
+B.  Specimen labelled "Right lymph node", consists of two pieces of fatty tissue 55 x 20 x 18mm in aggregate.  Up to three lymph nodes are identified the largest is 40mm in maximum dimension.
+Blocks: 1 - one bisected lymph node; 2 - ?lymph node; 3 to 5 - comprise one lymph node.
+C.  Specimen labelled "Left lymph node", consists of fatty tissue 70 x 40 x 15mm.  There are several lymph nodes the largest is 40mm in maximum dimension.  
+Blocks: 1 to 3 - comprised one lymph node; 4 - one bisected lymph node; 5 - one likely lymph node.  (TO: UT;MR/vo 11.8.63) 
+MICROSCOPIC (Reported by Dr U Perich):
+Sections show an acinar adenocarcinoma with the following features:
+Histological type:  Acinar adenocarcinoma
+Tumour location:
+Dominant nodule:  Left apex, left mid and left base prostate, in both anterior and posterior halves, with contiguous extension into right anterior mid and right anterior base prostate.
+	Non-dominant (>10mm):  Nil
+	Smaller nodules: Nil
+Volume/Size: 4ml (28mm x 13 mm x 27.2mm x 0.0004)(Blinn's method)
+Gleason score:  N/A
+COMMENT
+Although the Gleason score appears 3+5=8 with tertiary pattern 4, Gleason grading post androgen deprivation therapy is not recommended as treatment may result in tumour morphology with spurious and misleading higher grade appearances and may not be predictive of prognosis.
+Extraprostatic extension:  Present; extensive (Wheeler's defintition) 
+-  Left base anterior and posterior, up to 3mm beyond the prostate over a front of 11.5mm with associated extraprostatic perineural invasion (A19), also lesser foci left base anterior (A16, A18)
+-  Left mid posterolateral up to 3mm beyond the prostate over a front of 9mm (A22, A23)
+-  Left mid lateral, up to 0.5mm over a front of 0.5mm (A25L2), lesser foci left mid lateral (A24)
+Surgical margins:  Positive
+The carcinoma extends to the anterior margin across a front of 0.3mm (A25L3) in the anterior mid prostate, inferiorly.  At this location the advancing edge shows dispersed, often single cell infiltration and it is very difficult to distinguish tumour cells from background inflammatory cells, due to lack of typical carcinoma morphology (cytoplasmic clearing, nuclear pyknosis and loss of nucleoli) related to androgen deprivation therapy.  However a keratin immunostain (AE1/AE3) highlights single cells at the inked margin (ink on tumour cells) and the margin is best regarded as positive.  The P540S immunoperoxidase stains is also positive in single cells here, but there may be some background staining of non-neoplastic cells.  Multiple levels have been reviewed.  Elsewhere, including at the base in the area of extraprostatic extension, the margins are clear.
+Shown to Dr U Leitzel who concurs.
+Perineural invasion:  Present extensive
+Seminal vesicles:  Involved 
+The muscular walls of both the right (A12) and left (A19) seminalvesicles are invaded by acinar adenocarcinoma 
+Lymph nodes:  Six negative lymph nodes (0/6) 
+(Three (3) negative right pelvic lymph; three (3) negative left pelvic lymph nodes) (
+Lymphovascular invasion:  Not seen 
+Stage N(AJCC/UICC TNM system, 7th edition):
+pT3b  Seminal vesicle invasion 
+pN0  No positive regional nodes. 
+MX  Cannot be assessed histologically
+R1  Microscopic residual tumour
+Other:
+The non-involved acini show patchy atrophy and basal cell hyperplasia.  There are also fociof granulomatous prostatitis.
+DIAGNOSIS:
+- A-C.  Prostate and seminal vesicles, right and left lymph nodes:
+-  Adenocarcinoma, (see comment regarding Gleason grading), perineural invasion, extensive extraprostatic extension, bilateral seminal vesicle involvement, margin positive; six negative lymph nodes (0/6); Stage pT3b,N0,MX,R1.
+

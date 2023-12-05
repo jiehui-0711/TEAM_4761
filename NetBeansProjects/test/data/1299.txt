@@ -1,0 +1,39 @@
+Episode No:  07Z2088084
+0792088.AUK
+
+Chaille, Merida KERMIT 
+Lab No:  07Z20880
+Chambray
+SEA LAKE  Tasmania  2191
+Specimen: Tissue
+D.O.B:  8/8/1997
+Sex:  M
+Collected: 15/01/2013 at 23:59
+Location:  ST GEORGE PRIVATE-CROOKWELL DISTRICT HOSPITAL
+DR MAURA GORDON Folts
+Distribution:   FILE-COPY
+CLINICAL:
+Muscle invasive bladder cancer.  Radical cystoprostatectomy.  
+MACROSCOPIC:
+A.  Specimen labelled "Left pelvic lymph node" consists of a piece of fibrofatty tissue containing nodes measuring in aggregate 65 x 33 x 10mm.  There is a clump of lymph nodes present ranging from 8mm diameter to a large irregular node up to 70mm in length.  There are four lymph nodes total identified.  
+Blocks:  1 - trisected node; 2 - two lymph nodes; 3 to 6 - large sectioned node; 7 - remainder of fibrofatty tissue including ?nodes.
+B.  Specimen labelled "Right pelvic lymph node" consists of two pieces of fibrofatty tissue including nodes.  One measuring up to 46 x 15 x 10mm the other piece measuring up to 48 x 17 x 10mm.  The second piece is one large irregular node.  On sectioning the large node appears macroscopically involved.  
+Blocks:  1 - two nodes; 2- one trisected node; 3 to 5 - sectioned large node; 6 - remainder of fibrofatty tissue including ?nodes.  AE 6 blocks.  
+C.  Specimen labelled "Bladder and prostate" consists of a bladder with attached prostate.  The bladder measures 60 x 55 x 42mm and attached peritoneal tissue on the posterior surface measures up to 100 x 110mm.  The attached prostate measures 45 x 42 x 30mm.  The left sided seminal vesicle measures approximately 30mm in length and the left vas deferens approximately 50mm.  The right sided seminal vesicle measures approximately 28mm in length and the right vas deferens approximately 43mm.  There is an ulcerated tumour present on the left lateral and anterior aspect of the bladderwall.  The rest of the bladder mucosa appears oedematous.  The tumour measures 35 x 30mm.  The tumour appears to involve the left ureteric orifice and extends to the trigone.  On the cut surfaces, the tumour invades into the muscularis propria but not through its full thickness.
+Blocks: 1 - right ureteric margin; 2 - soft tissue with possible left ureteric margin; 3 - posterior superior tumour; 4 - anterior tumour; 5 & 6 - full face tumour with deepest extension; 7 - left ureteric orifice; 8 - left seminal vesicle and vas deferens; 9 - right seminal vesicle and vas deferens; 10 & 11 - (paired) tumour with prostate; 12 & 13 - (paired) tumour with prostate; 14 - urethral orifice; 15 - left side prostate; 16 - right side prostate; 17 - left side prostate; 18 - right side prostate; 19 & 20 - bladder dome; 21 & 22 - bladder trigone; 23 - right ureteric orifice; 24 - anterior rightbladder wall; 25 - posterior right bladder wall; 26 - possible lymph node.  (CC/ta/cc 19/3/63) 
+D.  Specimen labelled "Appendix" consists of an appendix measuring 40mm in length and 8mm in maximal diameter.  The appendix appears normal with some mildly congested vessels on the serosal surface.
+Blocks:  1 - two TS surgical margin plus two LS proximal; 2 - two TS mid; 3 - LS tip.  AE 3 blocks.  (HH/mm 18.3.63) 
+
+MICROSCOPIC (Reported by Dr B Bonham):  
+A.  Four (4) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of tumour metastasis.
+B.  Four (4) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of tumour metastasis.
+C.  Sections of bladderwall show a high grade invasive urothelial carcinoma (WHO 2004).  The carcinoma consists of infiltrative sheets, nests and cords of large pleomorphic carcinoma cells, partially surrounded by desmoplastic stroma.  The carcinoma invades into the inner half of muscularis propria and has a maximal depth of invasion of 3.5mm (block C10).  The muscularis propria measures 8mm in thickness.  There is extensive mucosal ulceration.  Granulation tissue and foreign body reaction ispresent within the area surrounding the tumour, in keeping with previous surgery.  No carcinoma in-situ is seen.  The tumour is completely excised and all the excision margins are clear.  There is no evidence of lymphatic, vascular orperineural invasion.  The prostate shows no significant abnormality.  The seminal vesicles and vasa diferentia are unremarkable.
+D.  Sections of appendix show no significant abnormality.  No inflammation is seen.  There is noevidence of malignancy.
+Summary - TNM 7th Edition
+pT2a     pN0     pMX     R0
+DIAGNOSIS:
+A.  Left pelvic lymph node - No evidence of malignancy (0/4).
+B.  Right pelvic lymph node - No evidence of malignancy (0/4).
+C.  Bladder and prostate - Invasive urothelial carcinoma (T2a, N0, MX).
+D.  Appendix - No significant abnormality.
+

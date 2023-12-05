@@ -1,0 +1,86 @@
+Episode No:  41W278112F
+4182781.EHF
+
+Keitsock, Cedrick 
+Lab No:  41W27811
+Raccoon
+BEACONSFIELD  Western Australia  3165
+Specimen: Tissue
+D.O.B:  2/1/2024
+Sex:  F
+Collected: Unknown at :
+Location:  PRINCE OF WALESPRIVATE-BONALBO HOSPITAL
+DR HOLLIS JORGE JULIO-Eldreth
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (4.1.62):
+
+
+CLINICAL:
+Left sentinel node for imprint.  Left skin sparing mastectomy - marking stitch long lateral, short superior; nodes from left axilla.  Left breast tissue.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axilla sentinel lymph node" consists of a lymph node, 7 x 5 x 5mm.Specimen is serially sectioned.  Two imprints done.  
+AE 1 block.
+IMPRINT CYTOLOGY REPORT:
+Imprints - No tumour seen.  
+Phone result to Dr JINGALU-Oberholzer by Dr K Pechacek at 17.05 o 18.10.12.
+B.  Specimen labelled "Left breast long lateral, short superior" consists of a left mastectomy with two sutures for orientation, long lateral, short superior.  It measures 160mm (medial to lateral), 140mm (superior to inferior) and 30mm (superficial to deep margin).  There is an ellipse of skin with nipple and areola measuring 70 x 20mm.  The skin surface is unremarkable.  The anterior margin is inked blue, posterior margin black.  On sectioning at 12 o'clock there is aill defined gritty and white tumour, 25mm (medial to lateral), 35mm (superior to inferior) and approximately 15mm (superficial to deep).  It is located 7mm from the superficial margin and up to 10mm from the deep margin.  The rest of theparenchyma has a fibrofatty appearance.  The tumour is located 25mm from the nipple.  
+Blocks:  1 - nipple and areola; 2 - tumour; 3 & 4 - one full face of the tumour with superficial and deep margin; 6 - tumour (reserved block); 7- breast tissue close to the tumour from the upper outer quadrant; 8 - tissue close to the tumour from the upper inner quadrant; 9 - representative upper quadrant; 10 - representative lower outer quadrant; 11 - representative upper innerquadrant; 12 - representative lower inner quadrant.  
+C.  Specimen labelled "Axilla biopsy" consists of an irregular piece of fatty tissue with a small nodule, 5 x 5mm.  Specimen is AE 1 block.  
+D.  Specimen labelled "Left breast tissue" consists of a membranous piece of tissue ?capsule, 80 x 40 x 2mm with one shiny and smooth surface and one ragged surface.  Representative sections in 3 blocks.  (TO: UL; JJ/mm 21.12.62) 
+MICROSCOPIC (reported by Dr K Danby): 
+A-C.  Sections show breast tissue with a 29mm diameter grade 2 infiltrating ductal carcinoma, arising in an area of high grade DCIS.  Much of the macroscopic tumour (more than 50%) comprises DCIS. The sentinel lymph node and one other axillary lymph node (specimen C) are both free of tumour.  A synoptic report follows:
+Invasive carcinoma:
+Site:  Left breast, mastectomy. 
+Type: Infiltrating ductal carcinoma. 
+Invasive tumour size: 29mm. 
+Grade (Modified Bloom & Richardson): 2
+Tubules:  3    Nuclei:  3    Mitoses:   1Mitotic rate:   5/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS: 29mm. 
+Nuclear grade:  High. 
+Architecture: Solid.
+Necrosis: Present.
+Calcification: Present. 
+Degree of DCIS in tumour:  >25%. 
+DCIS in adjacent tissue:  Present. 
+ExcisionMargins:  
+Invasive component: Deep 3mm, superficial 4mm, other margins all >10mm.
+In-situ component: Deep 3mm, superficial 4mm, other margins all >10mm.
+Receptors (Block B5): 
+ER:  Positive.
+	100% of nuclei stained
+	predominant intensity of staining:  Moderate.
+PR:  Positive.
+	20% of nuclei stained
+	predominant intensity of staining:  Strong. (Novocastra 10A7): Equivocal 2+.  HER-2 CISH to follow.index: 15%.
+Nipple:  Normal.
+
+LCIS / ALH: Absent.    
+Miscellaneous:  Breast tissue away from the tumour shows some adenosis and sclerosing adenosis, especially in the lower outer quadrant.  Much of the DCIS within the tumour also involves adenosis and sclerosing adenosis. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1.
+Number of sentinelnodes NOT involved:  1.
+Number of sentinel lymph nodes involved by tumour: 0.         
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 1.
+Number of axillary nodes NOT involved: 1. 
+Number of axillary lymph nodes involved by tumour:  0.        
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2. 
+Total number of involved lymph nodes (including sentinel node(s)): 0.  
+ 
+D.   Sections show a fibrous capsule with adjacent  fibrofat andalso some skeletal muscle. There are histiocytes on the inner aspect of some of the fibrous capsule.  No breast parenchyma is seen.  No tumour is seen.  
+
+
+DIAGNOSIS:  
+A-C.    Left breast, sentinel lymph node and axillary lymph node: 29mm diameter grade 2 infiltrating ductal carcinoma with prominent associated high grade DCIS.   Sentinel node and one other axillary node free of tumour (0/2).  pT2 N0.
+D.   Left breast tissue:  No tumour.  
+SUPPLEMENTARY REPORT (4.1.62):
+Her-2 CISH has shown a negative (nonamplified, polysomy) result.
+Mean Her-2 copy number per cell:   3.7
+CISH reported by Dr K Marungo.
+ 
+

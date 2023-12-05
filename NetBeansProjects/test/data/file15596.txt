@@ -1,0 +1,61 @@
+SPR no: 90V796110Z
+MRN no: 90879611
+Site_name: CEDUNA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+SUPPLEMENTARY REPORT (19.12.2066)
+
+CLINICAL:
+Grade 2 endometrioid endometrial Ca.  Frozen section - left external iliac lymph node.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left external iliac nodes&amp;quot;, consists of a piece of adipose tissue 35 x 25 x 10mm.  Three lymph nodes are identified measuring 10, 15 and 30mm.
+Blocks: 1 - smallest lymph node for F/S; 2 - RS second lymph node for F/S; 3 - RS largest lymph node for F/S; 4 - remainder of fibroadipose tissue; 5 - remainder of lymph node two; 6 - remainder of lymph node three.  AE.
+
+FROZEN SECTION REPORT:
+Three negative lymph nodes.
+Result to Anaesthetist by Dr X Harles at 1:42pm on 11/10/16.
+
+B.  Specimen labelled &amp;quot;Uterus, tubes, cervix and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 80g in total.  The uterus was received opened, with a full thickness defect over the anterior body.  The uterus measures 70 x 50 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 20mm.  There is a tan tumour, 20 x 14mm, in the posterior body/fundal region of the uterus.  The tumour appears to infiltrate the myometrium by 6mm.  The myometrial thickness is up to 19mm.  The uninvolved endometrium is less than 1mm in thickness.  Two fibroids are present in the anterior uterus, 27 x 20 x 15mm and 5 x 4 x 4mm.  The right fallopian tube is 45mm in length and 4mm diameter.  The right ovary is 35 x 15 x 15mm.  The left fallopian tube is 45mm in length and 3mm diameter.  The left ovary is 20 x 15 x 15mm.  Both ovaries show no significant abnormality.
+Blocks: 1 to 3 - full LS anterior body and cervix; 4 &amp;amp; 5 - area near defect anterior body; 6 to 8 - full LS of posterior body and cervix; 9 - tumour on posterior body; 10 &amp;amp; 11 - uninvolved posterior body; 12 - right ovary; 13 - right tube; 14 - left ovary; 15 - left tube; 16 &amp;amp; 17 - remainder of tumour; 18 - right tube; 19 - left tube.  Posterior body tumour and normal endometrium sampled for study by IU.
+
+C.  Specimen labelled &amp;quot;Left round ligament&amp;quot;, consists of a fibrous piece of tissue measuring 20 x 10 x 10mm.   AE 1 block.
+
+D.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of multiple fragments of fibroadipose tissue measuring 40 x 30 x 10mm in aggregate.  Multiple lymph nodes are identified measuring between 5 and 35mm.  Blocks: 1 - multiple lymph nodes; 2 &amp;amp; 3 - largest lymph node.
+
+E.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of a piece of fibroadipose tissue measuring 60 x 35 x 10mm.  Multiple lymph nodes are identified measuring between 5 and 20mm.  Blocks: 1 - multiple lymph nodes; 2 - one lymph node; 3 &amp;amp; 4 - one lymph node
+(TO: MS; MS/ta 14/12/66)
+
+
+MICROSCOPIC (Reported by Dr X Cargile):
+A.  The sections of the left external iliac lymph nodes show three negative nodes (0/3).  There is no evidence of malignancy.
+
+B.  The sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  Although the tumour shows focal areas of solid architecture, these comprise less than 5% of the overall tumour.  No marked cytologic atypia is seen.  The tumour invades 7mm through a myometrial wall thickness of 12mm.  A single focus suspicious for lymphovascular invasion is seen.  The ectocervix and endocervix are uninvolved and focal granulation tissue is seen in the endocervix.  The myometrium shows adenomyosis and benign leiomyomas.  Both fallopian tubes and ovaries are uninvolved by tumour.  MSI immunohistochemistry is pending.
+
+C.  The sections from the left round ligament show fibroadipose tissue.  There is no evidence of malignancy.
+
+D.  The sections of right pelvic lymph nodes show four negative lymph nodes (0/4).  There is no evidence of malignancy.
+
+E.  The sections of the left pelvic lymph nodes show three negative lymph nodes (0/3).  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A to E.  Uterus with cervix, bilateral fallopian tubes and ovaries, left external iliac lymph nodes, left round ligament, right and left pelvic lymph nodes:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  Tumour invades outer half of myometrium.
+-  Cervix, fallopian tubes and ovaries uninvolved.
+-  Total ten negative lymph nodes (0/10).
+-  MSI immunohistochemistry to follow.
+
+
+SUPPLEMENTARY REPORT (19.12.2066)
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

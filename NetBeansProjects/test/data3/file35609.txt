@@ -1,0 +1,115 @@
+SPR no: 42X736453Q
+MRN no: 359605
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report42X73645,42X73645 (42X736453Q) PRATKA, EVERETT
+HISTOPATHOLOGY REPORT
+MONASH MEDICAL CENTRE - CLAYTON CAMPUS AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Clear cell Ca endometrium
+1. Peritoneal washings for Cytol
+2. Uterus tubes and ovaries.
+3. Left pelvic sentinel nodes.
+4. Right pelvic sentinel nodes.
+5. Omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL TUBES, OVARIES + CERVIX&amp;quot;. A total hysterectomy specimen, 44g. Consists of an uterus, 65x45x30mm. The uterus is previously opened coronally. The cervix measures 30x25x20mm. Attached is right fallopian tube, 50x5mm; right ovary, 12x7x5mm; left fallopian tube, 35x9mm; and left ovary, 13x10x7mm. The serosal surface is unremarkable. There is a tumour in the posterior body and fundus which is partially exophytic and partially endophytic, measuring 30x20mm. The tumour thickness is 5-6mm out of 13mm total thickness of myometrium. No extension into the right or left cornu are identified. The tumour is confined to the uterus with no parametrial or cervical involvement. It is located 35mm of the nearest longitudinal cervical margin. The outer cut surface of both ovaries and tubes is unremarkable.
+
+(1 right fallopian tube, fimbrial end, serially sliced and one TS mid; 2 right ovary, bisected; 3 right parametrium; 4 left fallopian tube, two LS fimbrial end, one TS mid; 5 left ovary, bisected; 6 left parametrium; 7&amp;amp;8 continuous slice, LS anterior uterus; 9&amp;amp;10 LS posterior to uterus, from cervix to fundus; 11&amp;amp;12 LS posterior uterus from cervix to fundus; 13 further LS and posterior body [tumour block for tissue banking]; 14 tumour in relation to right cornu; 15 left cornu). RS (M-15)
+
+B. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. A fibrofatty piece of tissue, 50x40x10mm, bearing one lymph node, 22x16x8mm, with tan and haemorrhagic cut surface. Serially sliced.
+
+(1 lymph node, seven TS). RS (7-1)
+
+C. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Two lymph nodes, 9x5x5mm, and 5x4x3mm. Both with dark brown cut surface.
+
+(1 larger node, trisected; 2 smaller node, bisected). AE (5-2)
+
+D. &amp;quot;OMENTAL BIOPSY&amp;quot;. A fibrofatty piece of tissue, 15x10x2mm, with unremarkable outer surface. AE (1-1/ZH 26/6/2070 cy)
+
+MICROSCOPIC:  (Dr M Torrain)
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Clear cell carcinoma
+
+FIGO grade:  3
+
+(architecture grade: N/A, nuclear grade: 3 )
+
+Myometrial invasion:  Present
+
+Depth of myometrial invasion:  5mm
+
+Myometrial thickness:  12mm
+
+% of myometrium invaded:  41%
+
+Focality:  Unifocal
+
+Tumour involves: Fundus and body
+
+Vascular/lymphatic invasion:  Present
+
+Involvement of cervix:  Not present
+
+Involvement of uterine serosa:  Not present
+
+Excision margins:  Clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic
+Polyps:  Not present
+Adenomyosis:  Not present
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+
+Lymph nodes:
+Nodes involved:  0 (a few CK positive isolated tumours cells are present in 1 node)
+Total number:     3
+
+Other tissues:  The omental biopsy shows no evidence of malignancy with occasional foci of mild fibrosis present.
+
+Comment:
+
+Pathologic Staging (AJCC/UICC TNM 8):
+
+TNM stage: pT1a, pN0(i+), pMx
+
+FIGO stage: 1A
+
+Comment: Immunohistochemistry for MMR proteins will follow.
+SUMMARY:
+A. UTERUS, BILATERAL TUBES, OVARIES + CERVIX
+- CLEAR CELL CARCINOMA OF THE ENDOMETRIUM. FIGO STAGE 1A. MARGINS CLEAR.
+B. RIGHT PELVIC SENTINEL NODE
+- NO EVIDENCE OF MALIGNANCY IN 1 NODE.
+C. LEFT PELVIC SENTINEL NODE
+- NO EVIDENCE OF MALIGNANCY IN 2 NODES (ISOLATED TUMOUR CELLS PRESENT IN 1 OF 2 NODES)
+D. OMENTAL BIOPSY
+- NO EVIDENCE OF MALIGNANCY.
+29/6/2066 cy
+SUPPLEMENTARY REPORT:
+
+Immunostains for MMR proteins (block:A12)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+06.03.18

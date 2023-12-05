@@ -1,0 +1,72 @@
+DateOfBirth
+201907140000
+
+
+SiteName
+CALVARY MATER NEWCASTLE
+
+
+FirstName
+Schilawski
+
+
+SPRID
+17D197056M
+
+
+MRN
+1711970
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Tonder
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Excision of left thigh lipomatous mass deep to abductor muscle.  Hx of breast DCIS.  Left thigh atypical lipoma.
+A 4mm piece of tissue from the tumour and 4mm piece of subcutaneous tissue taken for biobanking
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Mass left medial thigh&amp;quot;, consists of a ellipse of skin with attached subcutaneous fat and a lobulated fatty tumour attached to the deep surface of the subcutaneous fat.  The ellipse of skin (unremarkable) measures 125 x 41mm.  The thickness of the subcutanous fat is approximately 60mm and the attached tumour is 125 x 120 x 65mm.  The tumour is mostly covered in a thin fibrous capsule however, the capsule is disrupted in an area covering 90 x 40mm.  The capsulated surfaces of the tumour are inked blue and the subcutaneous fat is inked black.  On sectioning the tumour appears diffusely fatty yellow with minor areas of haemorrhage.  Blocks: 1 - junction between subcutaneous fat and tumour; 2 to 14 - RS of tumour; 15 - RS skin and subcutaneous tissue.  (TO:BL/vo 29/6/68)
+
+
+MICROSCOPIC (Reported by Dr D Hercher):
+Sections show a lobulated mass of mature adipose tissue, covered by a thin fibrous capsule.  There are thin fibrous bands traversing the fatty tissue.  No atypical features are identified.  There is no evidence of increased vascularity or fibrosis.  No inflammation.  Some sections show presence of muscle fibres within the fatty mass indicating an intramuscular component.  A 6mm thick rim of muscle tissue is seen at the deep surface of the tumour.
+
+
+DIAGNOSIS:
+Mass left medial thigh:  Benign intramuscular lipoma.
+
+
+
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2732-12-19 00:00:00
+
+
+LastName
+Marcin

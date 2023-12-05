@@ -1,0 +1,23 @@
+SPR no: 37J873579V
+MRN no: 37387357
+Site_name: SINGLETON DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+53 year old with history of endometrial cancer stage 3, had chemo, hypertension and diabetes.  Left ovarian mass.  Omentum and pelvic washings.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left fallopian tube plus ovary&amp;quot;, consists of an ovary, 51 x 35 x 24mm, and separate fallopian tube 40mm in length and up to 10mm diameter.  The ovary contains a unilocular cyst, 12 x 10 x 10mm.  There is an ill-defined solid area adjacent to this cyst associated with patchy areas of yellow.  The surface of the ovary is smooth and grey.
+Blocks: 1 - LS fimbriae; 2 - remaining fallopian tube; 3 to 8 - RS ovary (5 &amp;amp; 6 paired sections).
+
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of lobulated fibroadipose tissue, 240 x 150 x 20mm.  There is a piece of grey fibrous tissue attached to one edge, 55 x 23 x 15mm.  No discrete lesion is identified.  RS 3 blocks (3 - includes fibrous tissue).   (TO:LK/rs 13/12/65)
+
+
+MICROSCOPIC (Reported by Dr J Blayney):
+A.  The sections of the left ovary show a well-differentiated adenocarcinoma.  The tumour is composed of multiple nodules of back-to-back glands with abundant luminal mucin.  Focally, the tumour shows columnar cells with crowded hyperchromatic nuclei.  Squamous morules are also seen.  There is a mild to moderate degree of cytologic atypia.  These features are consistent with well-differentiated (grade 1) endometrioid adenocarcinoma.  No surface involvement of the ovary is identified.  The ovary also contains a benign simple cyst.  A focus of endometrioid adenocarcinoma is also seen in the paratubal serosa.  The fallopian tube is otherwise unremarkable.  No convincing endometriosis is identified.
+
+B.  The sections show adipose tissue with areas of mature fibrosis.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Left fallopian tube plus ovary:  Endometrioid adenocarcinoma.
+B.  Omentum:  No evidence of malignancy.

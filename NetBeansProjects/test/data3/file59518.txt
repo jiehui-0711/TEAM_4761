@@ -1,0 +1,124 @@
+SPR no: 66N7395404
+MRN no: 6657395
+Site_name: BATHURST BASE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report66N73954,66N73954 (66N7395404) Wescovich, Adam
+HISTOPATHOLOGY REPORT
+MOUNT DRUITT HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Grade III endometrial carcinoma.  Uterus + cervix, tubes + ovaries, sentinel pelvic lymph nodes, omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES + OVARIES&amp;quot;.  Uterus attached cervix, tubes and ovaries weighing 80g together.  Right tube measures 50mm in length, 5mm diameter.  Serosa is smooth.  Sectioning unremarkable.  Right tube measures 25x10x10mm.  Outer surface is yellow, lobular and sectioning shows calcified surface.  Left tube measures 40mm in length, 5mm diameter.  Serosa is smooth, grey and sectioning unremarkable.  Left ovary measures 20x13x10mm.  Uterus measures 70x45x30mm.  Serosa is smooth.  No tumour deposit identified.  Anterior inked blue, posterior inked black.  Specimen opened sagittally.  Anterior wall measures 15, posterior wall measures 16mm.  There is intrauterine polypoid grey friable lesion located in the fundus measuring 20x15mm with maximum thickness of 7mm.  Possible superficial invasion up to 3mm.  There is a 10mm intramuscular white whorled nodule.
+
+(1  right parametrium; 2  left parametrium; 3  right tube; 4  right ovary; 5  left tube; 6  left ovary; 7  cervix; 8  anterior wall; 9  posterior wall; 10&amp;amp;11  fundus; 12&amp;amp;13  fundus; 14  fundus right side; 15  right cornus; 16  left cornu).  RS (M-16).
+
+B.  &amp;quot;RIGHT SENTINEL NODE&amp;quot;.  Consists of a lymph node 10mm, sliced and all embedded.  AE (M-1).
+
+C.  &amp;quot;LEFT SENTINEL NODE&amp;quot;.  Consists of a lymph node 13mm, serially sliced, all lymph node embedded.  AE (M-1).
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  Multiple fatty tissue 30x30x10mm in aggregate.  All embedded block 1.  AE (M-1/SM 25/4/2070 km).
+
+MICROSCOPIC:  (Dr R. Petrilli)
+
+A-D
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:  Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE:  Body
+
+TUMOR SIZE:  20mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 3
+
+MYOMETRIAL INVASION:Present
+
+Depth of invasion:  4mm
+Myometrial thickness:  13mm
+Percentage depth of myometrial invasion:  31%
+
+UTERINE SEROSA INVOLVEMENT:  Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:  Not identified
+
+CERVICAL STROMAL INVOLVEMENT:
+Not identified - floating dislodged tumour fragments are present within the endocervical canal but no cervical mucosal or stromal involvement is seen
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not identified
+
+MARGINS:
+(required only if cervix and/or parametrium/paracervix is involved by carcinoma)
+
+-Paracervical margin: Uninvolved by carcinoma.
+- Parametrial margin:  Uninvolved by carcinoma
+- Ectocervical/vaginal cuff margin: Uninvolved by carcinoma
+
+LYMPHOVASCULAR INVASION: Not identified
+
+SENTINEL LYMPH NODES: (Specimens B and C)
+
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0
+Total number of lymph nodes examined (sentinel and nonsentinel): 2
+Number of sentinel lymph nodes examined: 2
+
+- Specimen B - Right Sentinel Node - No evidence of malignancy in one lymph node (0/1)
+- Specimen C - Left sentinel Node - NO evidence of malignancy in 1 lymph node (0/1)
+
+
+DISTANT METASTASES (histologically confirmed): Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Other organs (tubes, ovaries etc):
+Right and left tubes - unremarkable, no evidence of malignancy
+Right ovary - marked stromal calcification, no evidence of malignancy
+Left ovary is unremarkable, no evidence of malignancy
+
+C. Omental biopsy - fibrofatty tissue with no evidence of malignancy
+
+ANCILLARY STUDIES/IMMUNOSTAINS: Block A10
+MMRP Immunostains:
+MLH1: Abnormal result ( loss of normal staining)
+PMS2: Abnormal result ( loss of normal staining)
+MSH2: intact (normal positive pattern of staining)
+MSH6: intact (normal positive pattern of staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+Other immunohistochemical stains:
+PAX8 - Positive
+ER positive in the glandular component and the weak in the solid high-grade area
+PR positive in the glandular component and lost in the solid high-grade areas
+WT1 - Negative
+P53 - Wild type
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a, pN0
+
+DIAGNOSIS:
+A.  UTERUS
+- ENDOMETRIOID ADENOCARCINOMA, GRADE III.
+- pT1a, FIGO STAGE 1A.
+- LOSS OF STAINING FOR MLH1 AND PMS2
+.CERVIX
+- NO EVIDENCE OF MALIGNANCY
+BILATERAL FALLOPIAN TUBES + OVARIES
+-NO EVIDENCE OF MALIGNANCY
+B.  RIGHT SENTINEL NODE -
+-NO EVIDENCE OF MALIGNANCY IN ONE LYMPH NODE (0/1)
+C.  LEFT SENTINEL NODE -
+- NO EVIDENCE OF MALIGNANCY IN ONE LYMPH NODE.(0/1)
+D.  OMENTAL BIOPSY -
+-NO EVIDENCE OF MALIGNANCY.
+24/4/2070 ank

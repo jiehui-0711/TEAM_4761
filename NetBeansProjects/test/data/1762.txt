@@ -1,0 +1,50 @@
+
+Episode No:  94O933166A
+9459331.QPA
+
+HOWLEY, Monnie 
+Lab No:  94O93316
+Kingsberry
+BAY VIEW  South Australia  2733
+Specimen: Tissue
+D.O.B:  9/2/2009
+Sex:  F
+Collected: 8/6/2064 at :
+Location:  POST OPERATIVE RECOVERY-MURGON HOSPITAL
+DR Nick Patmon
+Distribution:  
+SUPPLEMENTARY REPORT (13.9.64):
+
+
+CLINICAL:
+Left temporal lobe intra-axial lesion.  ?GBM/high grade glioma.
+MACROSCOPIC:
+A.  Specimen labelled "Left temporal lesion" consists of two pieces of tissue 8 x 8 x 3mm and 10 x 4 x 4mm.  Half for frozen section and smear.
+Blocks:1- frozen section; 2- rest of frozen section.
+FROZEN SECTION REPORT:
+High grade glial tumour.
+Phone result to anaesthetist by Dr Z Windsor at 16.15pm on 04.06.14.
+B.  Specimen labelled "Left temporal lobe intra-axial lesion" consists of a piece of brain measuring 30 x 20 x 20mm.  Macroscopically white matter and grey matter are identified.  The surgical margin of the tumour is friable.  AE 8 blocks.
+(UU/mm 8.7.64) 
+MICROSCOPIC (Reported by Dr Z Budds):
+A.  Sections show pieces of tumour tissue.  The tumour is cellular and consists of cells with medium sized and large, pleomorphic nuclei and generally scant eosinophilic cytoplasmwith poorly defined cell borders.  The nuclei tend to be oval or spindle shaped and the cells lie within a fibrillary background.  Mitoses are frequent, numbering up to 10/10 HPF.  There is microvascular proliferation and also palisaded tumour necrosis.  The features are of a glioblastoma (WHO grade 4).
+Immunohistochemical stains:
+GFAP:  Positive.
+IDH1:  Negative.
+p53:  Patchy positive staining.
+Ki-67:  Moderate proliferation index, up to around 20%.
+Molecular tests:  Tissue will be forwarded to the Lowy Centre for MGMT testing and a supplementary report issued.
+Block for potential treatment trial (if required):
+Viable tumour (with less procedural artefact) is best seen in block A2.
+B.  Sections show brain tissue including grey mater and white mater.  Much of the tissue is essentially normal but there is partial involvement of the tissue by high grade glioma with a similar appearanceto specimen A.  There is microvascular proliferation and also tumour necrosis.
+DIAGNOSIS:
+A.  Left temporal tumour:  Glioblastoma (WHO grade 4).
+B.  Left temporal lobe:  Glioblastoma.  
+
+SUPPLEMENTARY REPORT (13.9.64):
+MGMT testing was performed at the TRUNDLE MULTI PURPOSE SERVICE Research Centre.
+DNA was extracted, bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation.
+The sample was tested twice with the appropriate controls and was found to be unmethylated (10%) at the MGMT promoter region.
+Reported by Dr Z Baiza.
+Please note that this test was performed in a research laboratory which is not NATA accredited.
+

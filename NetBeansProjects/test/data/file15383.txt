@@ -1,0 +1,50 @@
+SPR no: 53S561861Z
+MRN no: 53656186
+Site_name: BARWON HEALTH - MCKELLAR CENTRE CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT:  (1.6.66)
+
+CLINICAL:
+Liposarcoma left hip.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Sarcoma left lateral buttock, stitch short superior, medium - anterior, long - posterior&amp;#8220;, consists of an ellipse of skin with underlying soft tissue and muscle which is orientated with three marking sutures: short = superior, medium = anterior and long = posterior.  The overlying skin ellipse measures 140mm from superior to inferior and 50mm from anterior to posterior.  The underlying soft tissue measures 145mm from superior to inferior, 100mm from anterior to posterior and 90mm from skin surface to the deep.  The skin surface bears an area of defect measuring 35 x 4mm which appears to correlate with the sanetics. The skin surface is otherwise unremarkable.  The posterior half of specimen is inked blue and the anterior half is inked black.  The specimen is serially sliced from superior to inferior into sixteen slices.  On sectioning a well circumscribed lesion is noted involving slice 1 to 13, which measures 61 x 55 x 52mm.  It appears extending in to the deep skeletal muscle.  The tumour is very close to the anterior margin and is 2mm from deep margin.  The tumour has a yellow mucoid/fatty appearance.  No gross necrosis or significant haemorrhage is seen within the lesion.
+
+Block 1-3 - rep sections of the superior end/deep including some mucoid areas; 4-5 - deep part of slice 2 with mucoid areas extending to posterior margin; 6 - rep sections deep part of slice 3; 7-8 - rep sections deep part of slice 4; 9-11 - rep sections slice 5; 12-13 - rep sections slice 6; 14-15 - rep sections of slice 7; 16-18 - rep sections of slice 8; 19 - rep sections skin with edge of lesion from slice 9; 20-21 - Cs of slice 9; 22 - rep section from slice 10; 23 - tumour focally abutting the anterior margin in slice 13; 24 - rep sections of LS of slice 16 - inferior end; 25 - rep sections lesion for tumour banking as requested.  Rep sections in 25 blocks as per photo/ diagram.  (LN/ec  12.9.66)
+
+
+MICROSCOPIC (Reported by Dr P Cathy):
+Sections show a low grade myxoid tumour.  The tumour has a multinodular growth pattern with incomplete fibrous septa and a myxoid stroma.  The tumour is hypocelluar with scattered non-cohesive, plump spindled or stellate tumour cells with ill-defined, slightly eosinophilic cytoplasm.  There is definite but mild cytological atypia.  Mitotic figures are rare (less than 1 per 10 HPF).  There are prominent elongated thin-walled blood vessels.  At the periphery, the tumour has an infiltrative pattern within invasion into surrounding skeletal muscle.  No necrosis is seen.  The appearances are consistent with those of low grade myxofibrosarcoma.  The tumour is less than 1mm to the posterior/deep margin (block 5).  The tumour is 1.5mm to the anterior margin (block 14), 2.5mm to the deep margin (block 15) and 6mm to the superior margin (block 3).  The inferior margin is well clear.
+
+FNCLCC GRADING CRITERIA:
+Tumour differentiation:
+Score 2	defined histological subtype.
+
+Mitosis count:
+Score 1	0- 9/10 HPF.
+
+Microscopic tumour necrosis:
+Score 0	no necrosis.
+
+Histological grading:
+Grade 1: Total score of 2 or 3.
+
+DIAGNOSIS:
+Sarcoma left lateral buttock &amp;#8211; Low grade myxofibrosarcoma.
+
+SUPPLEMENTARY REPORT:  (1.6.66)
+CYTOGENETICS REPORT: ACUTECARE WARD&amp;apos;s Pathology.
+
+SUMMARY:
+No mitoses available for cytogenetic analysis.
+
+Preparation
+Tumour cell collagenase
+
+Interpretation
+No metaphases were available for analysis. Please advise the laboratory ((02) 8382 9154) should FFPE FISH be of assistance in this case.
+
+Reported By: LAMONT MESA Electronically signed 21/10/2016 3:24PM
+Validated By: Dr HUNTER RUTHENBERG Electronically signed 21/10/2016 4:21PM

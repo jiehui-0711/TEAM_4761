@@ -1,0 +1,51 @@
+SPR no: 55Q843221Y
+MRN no: 5568432
+Site_name: PETER JAMES CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+67yo post-menopausal, PMB, Grade 1 EAC.  Small right dermoid cyst with normal Ca 125.  Previous (R) salpingo-oophorectomy in 2067.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left obturator lymph node&amp;quot;, consists of one lymph node and surrounding fatty tissue, 40 x 8 x 7mm.  The lymph node is 38mm in maximum dimension and appears to have a fatty cut surface.  Blocks: 1 &amp;amp; 2 - all of one lymph node.
+FROZEN SECTION REPORT:
+One lymph node with no malignancy found.
+Phone result to anaesthetist by Dr O. Ritchie/Dr O Pishner at 11:33 on 26/2/15.
+
+B.  Specimen labelled &amp;quot;Uterus cervix left ovary and tube&amp;quot;, consists of a uterus with attached cervix, left fallopian tube and left ovary, weighing 85g in total.  The uterus measures 75 x 65 x 55mm and has a smooth shiny serosal surface.  The non peritonealised surfaces are inked blue anteriorly and black posteriorly.  The ectocervix measures 25 x 12mm and has an unremarkable surface.  Most of the anterior ectocervix appears to be denuded.  Within the endometrial cavity there is an ill defined friable tan solid tumour, 48 x 35 x 30mm.  There is probable infiltration into the inner half of the myometrium (blocks 11 to 16).  The myometrium is 34mm in maximum thickness and contains seven fibroids ranging from 4 to 20mm in maximum dimension.  The fibroids have pale grey cut surfaces with no necrosis.  The left fallopian tube is 60mm long and up to 7mm in diameter.  The left ovary is 30 x 16 x 7mm and has an unremarkable cut surface.
+Blocks: 1 - representatives left ovary and fallopian tube; 2 to 4 - full LS of anterior body and cervix; 5 to 10 - full LS of posterior body and cervix (7 &amp;amp; 8 are paired; 9 &amp;amp; 10 are paired; the nicks mark how the blocks relate to each other); 11 &amp;amp; 12 - paired sections full thickness body of uterus; 13 &amp;amp; 14 - paired sections full thickness body of uterus; 15 &amp;amp; 16 - paired sections full thickness body of uterus; 17 &amp;amp; 18 - paired sections full thickness body of uterus (17 reserved block); 19 to 21 - representatives of the largest fibroid.
+
+C.  Specimen labelled &amp;quot;Anterior vaginal margin&amp;quot;, consists of an unoriented piece of tan solid tissue, partially lined by mucosa, 25 x 15 x 10mm.  The resection margin is inked blue.  Specimen is serially sliced.  No focal lesions are seen.
+Blocks: 1 - the two ends; 2 &amp;amp; 3 - the sections in-between.  AE.
+
+D.  Specimen labelled &amp;quot;Right pelvic lymph nodes&amp;quot;, consists of fatty tissue, 45 x 30 x up to 10mm.  Several lymph nodes are identified from 3 to 10mm in maximum dimension.
+Blocks: 1 - one bisected lymph node; 2 to 4 - lymph nodes as seen.
+
+E.  Specimen labelled &amp;quot;Left pelvic lymph nodes&amp;quot;, consists of fragments of fatty tissue, 50 x 50 x up to 15mm in aggregate.  Several lymph nodes are identified ranging from 4 to 22mm in maximum dimension.
+Blocks: 1 - one lymph node; 2 - one lymph node; 3 - lymph nodes as seen; 4 - lymph nodes as seen; 5 - lymph nodes as seen.  (TO: HM; HM/rs 29/5/66)
+
+
+MICROSCOPIC (Reported by Dr O Overholt):
+A.  One lymph node shows no evidence of malignancy.
+
+B.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  Most of the tumour is confined to the inner half of the myometrium except focally (blocks 9/10) where it invades 14mm through a wall 25mm thick.  No convincing lymphvascular invasion is seen.  The ectocervix and endocervix are uninvolved and unremarkable.
+The myometrium shows leiomyomas and adenomyosis.  The left ovary and tube are unremarkable.
+MSI stains are pending.
+
+C.  The vagina shows no significant abnormality.
+
+D.  Thirteen lymph nodes show no evidence of malignancy.
+
+E.  Fourteen lymph nodes show no evidence of malignancy.
+
+
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium, depth 14mm through a wall 25mm thick.  No lymphvascular invasion.  Cervix uninvolved.  Twenty eight (28) lymph nodes are negative.
+ADDITIONAL REPORT 5/6/65:
+Immunoperoxidase stains for MSI proteins:
+
+MLH1:  Loss of nuclear staining
+PMS2:  Loss of nuclear staining
+MSH2:  Preserved nuclear staining
+MSH6:  Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

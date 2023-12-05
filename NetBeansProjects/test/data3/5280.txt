@@ -1,0 +1,61 @@
+Episode No:  60X060920S
+6080609.FAS
+
+Stanifer, Ray Aiden 
+Lab No:  60X06092
+Micklejohn
+NARACOORTE  E Anderson  5555
+Specimen: Tissue
+D.O.B:  18/8/2017
+Sex:  F
+Collected: 11/4/2065 at :
+Location:  3 ARRIETTA CLOSE - CASTLEMAINE HEALTH
+DR HILTON Mullally
+Distribution:  DR Strub,   NSW-CANCER-REGISTRY
+CLINICAL:
+Recurrent ovarian cancer.  Morbid obesity.  Previous transverse colectomy/oophorectomy.  
+About pannus specimen -talked to fellow Dr Darryl can be discarded after histology specimens have been taken.  (TO: KARL:  Ezekiel 11.5.65) 
+No previous report on the system.
+ 
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix and bilateral tubes" consists of auterus with attached cervix and bilateral tubes weighing 1255g in total.  The uterus measures 170 x 150 x 10mm.  The serosa is smooth and shiny.  However there is a serosal nodule, 10x 5mm.  On the posterior serosa is a scar-like area, 10 x 8mm. The serosa at the anterior right fundus appears to be bulging. Theectocervix measures 30 x 30mm and appears unremarkable.  
+On sectioning the uterine cavity is filled with fibrillary excrescences which appear to be largely necrotic.  The circumferential endometrium is involved by the tumour. The tumouris 9mm from the serosa at the left fundus near the cornu region; however it does not appear to extend to the cornual region.  Within the right fundus and cornual region the tumour appears to invade the full thickness of the myometrium and appears to abut to the serosa. The right cornu appears to be involved.  Within the right anterior wall the maximum depth of tumour invasion appears to be 45mm where the myometrium is 45mm (block 25 and 26).  Within the cornual region the tumour is largely necrotic and haemorrhagic and the tumour appears to abut to the serosa (block 27 and 28). The myometrium is 50mm in maximum thickness.  The myometrium is trabeculated with multiple haemorrhagic areas.The right fallopian tube measures 50mm long and 6mm in diameter and the left fallopian tube measures 40mm long and 8mm in diameter. There is a nodule on the left fallopian tube, 10 x 8 x 8mm.  The left fallopian tube does not have a definitive fimbrial end.  
+Blocks:  1 to 16 - anteriorbody and cervix; 17 & 18 - composite sections tumour with deepest invasion in the anterior left wall; 19 - subserosal nodule; 20 & 21 - composite sections tumour invading beyond the inner half of the myometrium (18 to 21 - parasagittal sections of the left anterior wall); 22 - left cornu; 23 & 24 - composite sections tumour closest to the serosa at the left anterior cornual region; 25 & 26 - tumour with abutting to the serosa composite section from the right anterior wall; 27 - cornual end serosa abutting; 28 - composite to 27 showing the serosa abutting with haemorrhagic area; 29 & 30 - LS across the left tube and ?fimbrial end; 31 - nodule on the left tube; 32 - TS left tube; 33 - right fimbrial end; 34 to 36 - right fallopian tube all embedded; 37 to 48 - posterior body and cervix (46 - includes the serosal scarring area); 49 - serosal scarring area; 50 - posterior cervix; 51 & 52 - left posterior wall.
+B.  Specimen labelled "Abdominal wall mass" consists of a piece of fibromuscular tissue measuring 80 x 60 x 30mm.  Representative sections in 3 blocks.  Additional blocks - 4 to 6 (11/9/2065).
+C.  Specimen labelled "Hernia sac" consists of a piece of fibrous tissue/hernia sac, 200 x 110mm with a thickness of 125mm.  One surface is smooth and the other surface is adherent to fatty tissue.  There isno obvious tumour deposit or nodule.   Representative sections in 3 blocks.   
+D.  Specimen labelled "Pannus" consists of a piece of fatty tissue with overlying skin weighing 28kg and measuring 450 x 450 300mm.  There is no obvious nodule or lesion on the skin and within the fat.  Representative sections taken for 2 blocks.  
+(TO: ROBT:  EUGENIO/mm 11.5.65) 
+MICROSCOPIC:  (Reported by Dr S Elderidge):
+A.  Sections of the uterus show features of a carcinosarcoma/malignant mixed Mullerian tumour.  The dominant epithelial component is an endometrioid adenocarcinoma with mainly villoglandular architecture, moderatesolid growth (<50%), and focal high grade nuclear atypia.  Squamous and mucinous metaplasia can be frequently seen within the invasive carcinoma.  In addition, there is a minor non-specific sarcomatous component marked by focal sheets of undifferentiated discohesive cells with eccentric nuclei, dense eosinophilic cytoplasm, and high grade nuclear atypia.  These cells show no expression of cytokeratin markers (AE1/E3 and CAM 5.2) and stain diffusely and focally with vimentin and desmin respectively.  The sarcoma component comprises approximately less than 5% of the total tumour volume.  No heterologous elements can be seen.
+The tumour shows full thickness myometrial invasion, focally abutting the serosal surface.  Widespread lymphatic space invasion is present both within and beyond the advancing edges of the tumour.  There is bilateral extension of the invasive carcinoma into theuterine cornua.  The tumour extends inferiorly into the lower uterine segment in proximity to the cervix, with no obvious evidence of cervical involvement.  The cervix shows squamous metaplasia and benign nabothian cyst.  No significantabnormality can be seen.
+  
+The fallopian tubes appear unremarkable.
+The uninvolved myometrium includes benign leiomyomata with no atypical features.
+Dr S Desak consulted.
+B.  Sections show dense fibrotic tissue with focal neovascularization and a patchy mild chronic inflammatory infiltrate.  Suture granulomas are evident in a linear pattern.  There is no evidence of malignancy.
+C.  Sections show peritonealised hernial sac with mild chronic inflammatory infiltrate, adherent to unremarkable fibroadipose tissue.  There is no evidence of malignancy.
+D.  Sections show unremarkable skin to the deep subcutaneous fat.  The mature adipose tissue shows no atypical features.  There is no evidence of malignancy.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining.
+PMS2		Loss of nuclear staining.
+MSH2		Preserved nuclear staining.
+MSH6		Preserved nuclear staining.
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+DIAGNOSIS: 
+A.  Uterus, cervix, and bilateral tubes:
+	Uterine carcinosarcoma with minor non-specific sarcomatous component.
+	Full thickness myometrial invasion.
+Widespread LVSI.
+No cervical involvement.
+Fallopian tubes unremarkable.
+Loss of nuclear staining for MLH1 and PMS2 enzymes.  See comment.
+
+
+B.  Abdominal wall mass:  Dense fibrotic tissue with no significant abnormality.
+
+C.  Hernia sac:  No significant abnormality.
+
+D.  Pannus:  No significant abnormality.
+
+

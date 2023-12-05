@@ -1,0 +1,23 @@
+ 4880428.IJS
+Schmeisser, HORACE TORY
+48W04283
+
+Last edited : 21/4/2064		Page: 2
+CLINICAL:
+Retroperitoneal lesion.  Paraduodenal (DJ flexure).  Core bx ?schwannoma.  Excision of lesion for histopath.
+MACROSCOPIC:
+Specimen labelled "Retroperitoneal ? schwannoma. ", consists of a lobulated mass lesion with small amount of attached fibrofatty tissue 40 x 40 x 27mm.  The external surface is inked blue.The cut surface of the lesion is golden yellow in colour with areas of cystic change.  The lesion is partially encapsulated and appears to extend to the surgical margins.  
+Blocks: 1 - LS of one end with closest margin; 2 and 3 - one section of the nodule with a cystic change; 4 and 5 - one section of the nodule with closest surgical margin; 6 and 7 - another section with the closest margin; 8 - LS of the other end. 
+(TO: ZV;RO/vo 16.4.64) 
+MICROSCOPIC (Reported by Dr M Cadavid):
+Sections show a partially encapsulated spindle cell tumour with a prominent surrounding, patchy lymphocytic infiltrate.  The tumour cells are in haphazard fascicles and there are numerous small lymphocytes and foamy macrophages scattered throughout.  Tumour cell nuclei show palisading focally. There are thick-walled blood vessels and there is cystic degeneration centrally.  Mitotic figures are infrequent (2/50HPF).  An expanded peripheral nerve is noted at one edge of the tumour.
+Immunostains:
+S100:   Diffuse, strong positive staining.
+C-kit (CD 117):   Negative.
+Smooth muscle actin:   Negative.
+Ki-67:   Proliferation index overall around 4%.
+The histologic appearances and immunophenotype are of a schwannoma.  There is no evidence of malignancy and excision appears complete.
+DIAGNOSIS:
+Retroperitoneal tumour:  Schwannoma.
+ 
+

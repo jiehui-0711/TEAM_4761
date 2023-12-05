@@ -1,0 +1,34 @@
+SPR no: 17Q205337P
+MRN no: 17620533
+Site_name: SACRED HEART HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report17Q20533 (17Q205337P) HARCEY, LYNDON  HISTOPATHOLOGY REPORT:
+HISTORY: CRC peritonectomy + liver resection.  Gallbladder, liver segment 4a/8, colon, omentum, right pelvic peritoneum.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT PELVIC PERITONEUM&amp;quot;.  Consists of a fibrous piece of tissue 20x15x10mm with smooth glistening surface with focal areas of haemorrhage and ragged surface (margin inked blue). The cut surface is unremarkable. Serially sliced.  AE (M-1)
+B.  &amp;quot;LIVER SEGMENT 4A&amp;quot;. A partial hepatectomy specimen of a total weight of 62g.  It has a capsular surface measuring 85x50mm with underlying tissue to a depth of 24mm.  Irregularities on the capsular surface are identified centrally over 25x15mm.  The margin is inked blue.  Serially sliced reveals one subcapsular white hard lesion measuring 35x25x20mm located 6mm of the nearest resection margin.  The remainder liver parenchyma is tan with no other discrete lesions.   (1 normal liver; 2-4 full face of lesion in relation to nearest margins; 5 full face of lesion with capsular surface for tissue banking). RS (5-5)
+C.  &amp;quot;BILATERAL OVARIES, GALLBLADDER, OMENTUM, PERITONEAL DISEASE&amp;quot;. Received multiple tissue pieces
+- a segment of bowel including small bowel 120x40mm with anastomosis to a large bowel 50x70mm.  Mesentery attached to the small bowel up to 25mm and mesocolon is attached up to 40mm. A segment of fatty tissue consistent with omentum measures 190x110x15mm is attached to the large bowel segment. The serosal surface includes multiple adhesions with no discrete nodules or deposits identified. The mucosal surfaces are smooth with no polyps or tumours seen.   (1 LS resection margins; 2&amp;amp;3 anastomosis; 4 adhesions at mesentery; 5 RS attached omentum; 6&amp;amp;7 each four lymph node)
+- A gallbladder measuring 75x20mm. The outer surface is smooth and grey.  The wall is up to 5mm thick, becomes cystic towards the fundus.  The mucosal surface is green and granular.  No calculi are identified. (8 cystic duct and TS neck; 9 TS body and LS fundus)
+- a fallopian tube measures 45x7mm with attached ovary 30x30x15mm.  The outer surface of the tube is unremarkable.  The ovary outer surface is cystic. The cut surface reveals a cyst with a smooth inner lining and a rim of yellow to green tissue (corpus luteum) measuring 15mm and a larger cyst with similar yellow rim measuring 14x10x7mm with haemorrhagic centre. The remainder cut surface is firm, white. (10 two LS fimbrial end and one TS mid; 11 one TS haemorrhagic cyst; 12 two TS smooth cyst)
+- a fallopian tube 50x14mm with attached ovary with cystic outer surface measuring 30x25x15mm.  The fallopian tube outer surface contains a cyst with a smooth outer surface and smooth inner lining measuring 10mm in maximum diameter towards the fimbrial end.  A loosely attached firm white tissue with white whorled cut surface is identified at the fimbrial end.  The cut surface of the tube is unremarkable.  The cut surface of the ovary reveals multiple cysts with smooth inner lining measuring 5-15mm in maximum diameter.
+(13 two LS tube with fimbrial end and adjacent cyst; 14 remainder of fimbrial end cyst and two TS loosely attached firm tissue; 15&amp;amp;16 each one TS ovary)
+- omentum measuring 155x150x50mm.  There is a mass measuring 30x20x15mm.  The cut surface reveals firm white areas admixed with areas of fat necrosis.  The remainder omentum is serially sliced.  No other discrete lesions are identified.   (17&amp;amp;18 RS mass; 19 RS remainder omentum)
+- multiple fibrofatty pieces of tissue with a glistening fibrous surface (peritoneal strips) measuring 160x80x25mm in aggregate.  Focal areas of haemorrhage are identified but no definite nodules are seen.   (20 RS ragged areas).  RS (M-20/ZH 23/8/2067 ank)
+
+MICROSCOPIC:
+A.  The peritoneum shows a focus of endometriosis.
+B.  The liver has a deposit of metastatic moderately differentiated colonic adenocarcinoma.  The tumour has a central area of fibrosis but most of the periphery of the tumour nodule is viable without any detectable treatment effect changes. The tumour nodule appears clear of local margins. The adjacent liver shows mild fatty change and mild nonspecific reactive hepatitis changes.
+C.   Bowel: Sections of small bowel and colon anastomosis are unremarkable.  There are small foreign body granulomas in mesentery related to previous instrumentation.  Eight sampled lymph nodes are tumour free (0/8).
+Gallbladder: mild chronic cholecystitis and calculi with cholesterolosis.
+Fallopian tube and ovary 1: Normal
+Fallopian tube 2: normal
+Ovary 2: Small piece of serous adenofibroma of ovary attached to the tube end
+Omentum:  Focus of fat necrosis with fibrous scarring
+
+DIAGNOSIS:
+A.  RIGHT PELVIC PERITONEUM -  Focal Endometriosis
+B.  LIVER SEGMENT 4A  -  Metastatic colon adenocarcinoma to liver
+C.  TUBES, OVARIES, GALLBLADDER, OMENTUM, PERITONEAL DISEASE -  No tumour identified

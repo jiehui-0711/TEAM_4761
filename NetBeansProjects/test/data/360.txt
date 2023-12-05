@@ -1,0 +1,67 @@
+
+ 705422.HFY
+DEDICKE, VIANNA WAYNE
+70N42222
+
+Last edited: 21/5/2063		Page: 2
+***SUPPLEMENTARY REPORT: HER-2 CISH (21.5.2063)
+Dr T Purpura
+
+CLINICAL:
+IDC right breast 9 o'clock 8mm lump on U/sound, 25mm calcs.  Core bx IDC. Wide local excision and sentinel node biopsy.  Short superior, long lateral, medium medial.  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast sentinel node" consists of five pieces of fibroadipose tissue measuring 10 to 20mm.
+Blocks:  1 & 2 - one lymph node bisected; 3 & 4 - remainder of tissue.  AE 4 blocks.  
+B.  Specimen labelled "Right breast lesion, suture long lateral, medium medial, short superior" consists of a wide local excision of breast measuring 40mm (medium to lateral), 55mm (superior to inferior) and 23mm (superficial to deep).  Superficial inked blue, deep inked green, superior inked black.  On sectioning there is an ill defined palpable cream nodule in slices 5 and 6 with areas of haemorrhage ?related to previous core biopsy.  The remaining breast shows patchy soft cream tissue. Please refer to attached diagram.
+Blocks:  1 to 4- LS of the medial margin;5 -slice 2; 6 - slice 3; 7-slice 4; 8 & 9 - composite blocks of slice 5; 10 & 11 - composite blocks of slice 6; 12 & 13 - composite blocks of slice 7; 14 - slice 8; 15 - slice 9; 16 & 17 -LS of the lateral margin.  AE 17 blocks.  (GV/mm 5.8.63)  
+MICROSCOPIC: (Reported by Dr T Maciarello - 5.10.2063)
+A & B.  The right breast lesion is a 12mm invasive ductal carcinoma. A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Right breast, WLE.
+Type: Invasive ductal carcinoma.
+Invasive tumour size: 12mm.
+Grade: 1 (Modified Bloom & Richardson)       
+Tubules: 1 Nuclei: 2 Mitoses: 1 Mitotic rate: Up to 1/10hpf.
+Lymphovascular invasion: Not identified.
+
+DCIS component:  
+DCIS: Absent.
+Excision Margins:  
+Invasive component:
+Superficial margin: 5.0mm.
+Deep margin: 5.0mm.
+Inferior margin: 8.0mm.
+Superiormargin: 9.5mm.
+Medial and lateral margins: Well clear (>10mm).
+Receptors: 
+ER:   POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: Moderate to strong
+PR:   POSITIVE
+	50% of nuclei stained
+	Predominant intensity of staining: Moderate to strong  
+HER2 (Novocastra 10A7): Equivocal (2)
+Ki-67 immunoproliferative index: Variable, up to 2 - 3% of tumour cell nuclei positive.
+
+Nipple: Not included. 
+LCIS / ALH: Absent.
+Miscellaneous: Sections of the adjacent non-neoplastic breast tissue show multifocal atypical ductal hyperplasia (ADH), columnar cell change, fibrocystic change, apocrine metaplasia, fibroadenomatoid change and multiple benign microcalcifications. Atypical ductal hyperplasia is 2.0mm to superficial margin, 2.2mm to deep margin and 3.3mm to the inferior margin (remaining margins >10mm). Changes consistent with recent biopsy are also present. 
+Sentinel lymph node(s) - (specimen A)
+No. of sentinel lymph nodes examined: Six.
+No. of sentinel nodes involved by tumour: One (1/6) (seen on H&E, not IHC).
+No. of sentinel nodes with metastases >2.0mm: None.
+No. of sentinel nodes with metastases <2.0mm: One.
+No. of sentinel nodes with isolated tumour cells <0.2mm: None.
+Extranodal spread: Not identified.
+Axillary/other nodes: Not included.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): Six.
+Total number of involved lymph nodes (including sentinel node(s)): One (1/6).
+DIAGNOSIS:
+A & B.  Right breast and sentinel lymph nodes:
+12mm grade 1 invasive ductal carcinoma, clear of margins.
+There is multifocal atypical ductal hyperplasia, clear of margins.
+ER and PR positive; HER-2 equivocal.
+One of six sentinel lymph nodes shows metastatic adenocarcinoma (1/6).
+

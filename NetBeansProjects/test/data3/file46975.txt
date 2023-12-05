@@ -1,0 +1,23 @@
+SPR no: 90E918372I
+MRN no: 2077704
+Site_name: WAGIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 1 endometrioid adenocarcinoma of the endometrium.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries, received opened, weighing 56.5 g in total.  The uterus measures 65 x 35 x 25mm and has a smooth shiny serosal surface.  The ectocervix measures 20 x 15mm and has a smooth shiny surface, with blue dye.  The right fallopian tube measures 47mm in length with a maximum diameter of 5mm.  The right ovary measures 25 x 10 x 10mm and has an unremarkable cut surface.  The left fallopian tube measures 40mm in length with a maximum diameter of 9mm.  The left ovary measures 25 x 11 x 10mm and has an unremarkable cut surface.  Both the left and right fallopian tubes are divided in the mid region, with white plastic clips present.  The posterior endometrial cavity shows an exophytic lesion over approximately 30 percent of the endometrial cavity, while the anterior endometrial cavity shows a slightly exophytic lesion covering ten percent of the endometrial cavity.  The cervix has two cysts measuring 3mm and 7mm in diameter.  The anterior endometrium is otherwise 3mm in maximum thickness, and the myometrium is 14mm in maximum thickness.  The posterior endometrium measures 3mm in maximum thickness, and the myometrium is 13mm in maximum thickness. The maximum depth of invasion of the endometrial lesion is approximately 15 percent. Blocks: 1 to 3 - full LS anterior body and cervix; 4 to 6- left anterior endomyometrium; 7 and 8 - full LS of anterior body and cervix; 9 and 10 - right anterior endomyometruim; 11 to 13 - full LS of posterior body and cervix; 14 to 16 - right posterior endomyometrium; 17 to 21 - left posterior endomyometrium (19 to 20 - full LS with cervix to fundus); 22 - LS right fimbriae; 23 - two TS right fallopian tube, pre and post separation; 24 - three TS right ovary; 25 - LS left fimbriae; 26 - two TS left fallopian tube, pre and post separation; 27 - three TS left ovary.  Please refer to blocking diagram.
+
+B.  Specimen labelled &amp;quot;Appendix epiploica&amp;quot;, consists of a piece of fat measuring 27 x 19 x 6mm.  Specimen longitudinally bisected, which reveals no obvious appendiceal lumen.  AE 2 blocks.
+(TO:PV/vo 8/11/67)
+
+MICROSCOPIC (Reported by registrar Dr Z Vanlaningham and Dr Z Gorenberg):
+A. The sections show endometrioid  adenocarcinoma FIGO grade 1 (architectural and nuclear grade 1) invading 4mm in a myometrium 13mm thick (slide A12). It measures 29mm in maximum diameter (combined microscopic and macroscopic measurements).  The lesion extends to the lower uterine segment but does not involve the cervix.
+Adenomyosis and a small intramural leiomyoma are noted. There is a benign endometrial polyp adjacent to the endometrioid adenocarcinoma (slide A5).
+The adenocarcinoma does not involve the cervix or vagina, serosa or the adnexal structures. No lymphovascular or perineural invasion is identified. Both fallopian tubes and ovaries are unremarkable. (T1)
+
+B.  Sections of adipose tissue show areas of fat necrosis and mild fibrosis. There is no dysplasia or malignancy.
+
+DIAGNOSIS:
+A.  Uterus, cervix, bilateral tubes and ovaries - Grade 1 endometriod carcinoma of endometrium invading 4mm in a myometrium 13 mm thick; cervix, fallopian tubes and ovaries not involved.
+B.  Appendix epiploica - Unremarkable.

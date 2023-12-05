@@ -1,0 +1,69 @@
+
+Episode No:  58N202849F
+5852028.KXF
+
+MCGAVIN, CHRISTIAN 
+Lab No:  58N20284
+Forebury
+SMITHTON  Victoria  1153
+Specimen: Tissue
+D.O.B:  14/6/2013
+Sex:  F
+Collected:6/2/2063 at :
+Location:  Douglass Hanly Moir-RYLSTONE DISTRICT HOSPITAL
+DR ELBERT Sid CAMPAGNA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+High rectal cancer.  Rectosigmoid tumour.  Appendix.  Low anterior resection and distal donut.  
+MACROSCOPIC:
+A.  Specimen labelled "Low anterior resection" consists of a segment of colon, unorientated measuring 130mm (proximal to distal) and up to 30mm in maximum diameter.  In the posterior aspect of the specimen there is an area of serosal puckering and a nodule 10mm in maximum diameter.  It is located more than 90mm from the proximal margin and 15mm from the distal margin.  On sectioning there is a large fungating exophytic tumour measuring 55mm (proximal to distal) and 20mm in maximum diameter.  The tumour is located 15mm from the distal margin and 90mm from the proximal margin.  The rest of the mucosal surface is flattened and erythematous.  On sectioning the tumour is 20mm in maximum thickness and infiltrates the wall up to the serosal surface.  
+Blocks:  1 - distal margin; 2 - proximal margin; 3 to 7 - representative tumour (block 6 reserved block); 8 - representative colon; 9 - apical node; 10 pericolic fat; 11 to 16 - lymph nodes; 17 to 19 - representative pericolic fat.  
+B.  Specimen labelled "Distal donut" consists of a donut of intestine measuring 10mm in length and 12mm in diameter.  AE 1 block.  (TO: KN: BV/mm 7.3.63) 
+MICROSCOPIC:  (Reported by Dr N Cart):
+A & B.  Sections show an exophytic moderately differentiated adenocarcinoma of the rectosigmoid.  The tumour is 15mm clear of the distal surgical margin.  The adenocarcinoma infiltrates through the full thickness of the bowel wall and shows early invasion of the mesenteric fat. The tumour infiltrates close to the peritoneal surface but the mesothelial layer has not been breached by tumour.  No perineural or lymphovascular invasion is seen.  
+The twenty (20) mesenteric and pararectal lymph nodes identified are negative for tumour.  The distal donut shows no abnormality.  (ec) 
+DIAGNOSIS:  
+Low anterior resection plus distal donuts:  
+Macroscopic Description
+
+Site of tumour: Rectosigmoid. 	
+Maximum tumour diameter:     55mm
+Distance of tumour to nearer cut end:     15mm
+Tumour perforation:    No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above  
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate 
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 20.	
+Number of lymph nodes involved: 0.	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Not seen. 
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Nil.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining.
+PMS2		Preserved nuclear staining.
+MSH2		Preserved nuclear staining.
+MSH6		Preserved nuclear staining.
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0pMx 
+  	
+
+   
+

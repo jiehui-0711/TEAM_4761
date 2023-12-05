@@ -1,0 +1,32 @@
+SPR no: 51U759702L
+MRN no: 10451454
+Site_name: BOWRAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+75 year old. Previous left oophorectomy.  1.  Right tube and ovary; 2.  Omentum; 3.  Appendices epiploica; 4.  Bowel serosa biopsies.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of an ovary with attached fallopian tube.  The fallopian tube is 50mm in length x 7mm in maximum diameter.  The fimbria cannot be definitively identified.  The ovary is 42 x 33 x 28mm.  The cut surface of the ovary shows an ill-defined partially encapsulated solid and cystic lesion. The solid areas comprise pale yellow friable tissue separated by firm white fibrous septa.  Blocks: 1 - possible fimbria; 2 - RS presumed fallopian tube; 3 to 7 - RS ovary with tumour.
+
+B.  Specimen labelled &amp;quot;Appendiceal epiploica&amp;quot;, consists of an unoriented piece of fatty tissue, 35 x 27 x 14mm.  The cut surface shows pale tan fibrous tissue with some possible adjacent fat necrosis.  Representative sections embedded in 2 blocks.
+
+C.  Specimen labelled &amp;#8220;Small bowel serosa&amp;#8221;, consists of three pieces of tan tissue, 3 to 10mm in maximum extent.  AE 1 block.
+
+D.  Specimen labelled &amp;#8220;Omentum&amp;#8221;, consists of a piece of omentum, 250 x 110 x 20mm.  The cut surface shows multiple cream coloured nodules ranging from 3 to 7mm in maximum extent.  Blocks: 1 - one nodule bisected; 2 to 4 - RS additional nodules.  (TO:SE/eh 22/2/70)
+
+
+MICROSCOPIC (Reported by Dr N Chaix):
+A. Sections show extensive fibrosis and necrosis, involving approximately 80% of the ovary, consistent with treatment effect. Patchy residual high grade serous carcinoma, composed of tumour cells with enlarged, pleomorphic nuclei and prominent nucleoli are seen. Slit-like lumens, giant nucleoli and calcifications are present.
+Microscopic tumour with extensive fibrosis is present in the fallopian tube. No in situ carcinoma is seen.
+B. Sections show fat with focal high grade serous carcinoma. Fibrosis is seen, suggestive of treatment effect. Two uninvolved lymph nodes are also present.
+C. Sections show serosa and underlying fibrous tissue with high grade serous carcinoma. Extensive fibrosis is seen, suggestive of treatment effect.
+D. Sections show omental fat with patchy deposits of high grade serous carcinoma. Fibrosis is seen, suggestive of treatment effect.
+Chemotherapy Reponse Score (CRS)
+Score 2: &amp;#160;Partial tumour response (regression associated fibro-inflammatory changes with readily identifiable viable tumour).
+
+
+DIAGNOSIS:
+A to D. Right ovary and fallopian tube, appendices epiploica, small bowel serosa and omentum: high grade serous carcinoma with treatment effect
+&amp;#160;

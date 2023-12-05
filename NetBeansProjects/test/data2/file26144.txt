@@ -1,0 +1,44 @@
+SPR no: 40W606354J
+MRN no: 4086063
+Site_name: COWRA DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Endometrial Ca.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cervix, uterus, bilateral tubes and ovaries&amp;quot;, received in formalin, and consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 83g in total.  The uterus is received partially bivalved and measures 70 x 45 x 32mm and has a smooth shiny serosal surface.  The ectocervix is 30 x 20mm.  The anterior cervical margin is inked blue and posterior black.  Within the right fundus is an ill-defined indentation in the endometrium 10 x 8mm to a depth of 2mm across a total myometrial thickness of 15mm.  The remaining endometrium is up to 1mm thick.  There is a 25mm intramural fibroid within the posterior body.  The right fallopian tube measures 30mm in length with a diameter of 6mm and the right ovary measures 30 x 15 x 5mm.  The left fallopian tube measures 62mm in length with a diameter of up to 6mm and the left ovary measures 20 x 10 x 6mm.  Both ovaries appear unremarkable.
+Blocks:  1 to 3 - full LS anterior body and cervix; 4 to 12 - multiple LS anterior body and cervix; 13 to 16 - remaining endometrium anterior body; 17 to 20 - full LS posterior body and cervix including fibroid; 21 to 24 - possible lesion on right posterior fundus; 25 to 40 - posterior endometrium; 41 &amp;amp; 42 - right fallopian tube; 43 - right ovary; 44 &amp;amp; 45 - left fallopian tube; 46 &amp;amp; 47 - left ovary.  Endometrium and both ovaries AE.
+
+B.  Specimen labelled &amp;quot;Right pelvic nodes&amp;quot;, consists of a piece of fibroadipose tissue, 100 x 40 x 10mm, containing multiple lymph nodes between 2 and 25mm.
+Blocks:  1 &amp;amp; 2 - multiple lymph nodes; 3 &amp;amp; 4 - single lymph node; 5 - multiple lymph nodes.
+
+C.  Specimen labelled &amp;quot;Left pelvic nodes&amp;quot;, consists of a piece of fibroadipose tissue, 55 x 40 x 10mm, containing multiple lymph nodes between 1 and 18mm.
+Blocks:  1 - multiple lymph nodes; 2 to 5 - one lymph node each block.
+
+D.  Specimen labelled &amp;quot;Left round ligament&amp;quot;, consists of a piece of fibroadipose tissue, 20 x 15 x 5mm.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a segment of omentum, 80 x 60 x 10mm.  No lymph nodes or deposits of tumour are identified.  RS 3 blocks.   (TO: MS; MS/eh 16/7/2069)
+
+
+MICROSCOPIC (Reported by Dr K Nest):
+A.  The sections show a grade 1 endometrioid adenocarcinoma of the endometrium with background foci of complex atypical endometrial hyperplasia.  No significant solid architecture or marked cytologic atypia is seen in the tumour.  The tumour invades 7mm through a myometrial wall thickness of 12mm.  No lymphovascular invasion is seen.  The ectocervix and endocervix are uninvolved and unremarkable.  A leiomyoma is confirmed in the posterior myometrium.  Both fallopian tubes and ovaries are uninvolved by tumour.
+
+B.  The sections from the right pelvic nodes show fourteen negative lymph nodes (0/14).  There is no evidence of malignancy.
+
+C.  The sections from the left pelvic nodes show five negative lymph nodes (0/5).  There is no evidence of malignancy.
+
+D.  The sections from the left round ligament show fibroadipose tissue.  There is no evidence of malignancy.
+
+E.  The sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A to E.  Uterus with cervix, bilateral fallopian tubes and ovaries, right and left pelvic lymph nodes, left round ligament and omental biopsy:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  Tumour invades outer half of myometrium.
+-  No lymphovascular invasion seen.
+-  Cervix, fallopian tubes, ovaries, left round ligament and omentum negative for tumour.
+-  Total of nineteen negative pelvic lymph nodes (0/19).

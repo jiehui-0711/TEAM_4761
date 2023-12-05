@@ -1,0 +1,21 @@
+SPR no: 97M672607E
+MRN no: 9746726
+Site_name: WEST GIPPSLAND HEALTHCARE GROUP
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 9746726.ATE
+TIENDA, JOAQUIN FREDDIE
+97M67260
+
+Last edited : 19/8/2065		Page: 2
+CLINICAL:
+Left extended hemihepatectomy.  AF, DM (diet), colon adenocarcinoma 2062, OA,HTN, BPH.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Liver&amp;quot; consists of an extended left hemihepatectomy weighing 533g and measuring 168 x 170 x 47mm.Anteriorly to the right of the attachment of the falciform ligament there is an area of pale capsular puckering, 40 x 40mm.  The remainder of the capsule is smooth but has a finely nodular appearance.  On sectioning there is a circumscribed non-encapsulated tumour 40 x 37 x 40mm at the site of puckering.  The cut surface appears pale and nodular with widespread necrosis.  The tumour abuts on the capsule in the areaof puckering, but does not appear to invade through.  The tumour is 3mm from the inked parenchymal margin.  The remainder of the liver appears tan and faintly nodular.  There is no duct dilatation.
+Blocks:  1 - representative left liver; 2 - representative right liver; 3 to 4 - tumour with surgical margin; 5 to 6 - tumour with puckered liver capsule; 7 - tumour with adjacent liver.  (TO: AS:  AS/mm 17.8.65)
+MICROSCOPIC (reported by Dr Y Nims):
+Sections show a 40mm deposit of metastatic adenocarcinoma, in keeping colorectal origin.  The lesion appears moderately to poorly differentiated, and is composed of irregular glands lined by columnar tumour cells with pleomorphic nuclei. Focal tumour composed of solid nests is present. Necrosis is seen in approximately 40% of the lesion.  Tumour surrounded by abundant mucin is focally present, in keeping with focal mucinous differentiation.  No surfaceserosal tumour is seen.
+The lesion is 4 mm away from the surgical margin.
+The adjacent liver shows mild macrovesicular steatosis.  Mild focal interface activity with chronic inflammation and mild focal periportal fibrosis are present. Rhodanine, Perls, diPAS and orcein stains are unremarkable.
+DIAGNOSIS:
+Left extended hemihepatectomy: metastatic adenocarcinoma, in keeping colorectal origin, margins clear

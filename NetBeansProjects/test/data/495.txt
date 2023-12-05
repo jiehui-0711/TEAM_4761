@@ -1,0 +1,102 @@
+Episode No:  55P033971H
+5560339.TDH
+
+EVERT, VALENTIN 
+Lab No:  55P03397
+Besonend
+SHOALHAVEN HEADS  Queensland  1141
+Specimen: Tissue
+D.O.B:  5/5/2020
+Sex:  F
+Collected: 30/07/2013 at 15:14
+Location:  Anat Path-MACKAY BASE HOSPITAL
+DR PEDRO WARRIYANGGA PAGES
+Distribution:  DR Gandara,  FILE-COPY,  FILE-COPY,   NSW-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT ADDED (14.10.2063)
+
+CLINICAL:
+Rt breast Ca. - 3cm tumour, 12 o'clock 3cm FN. 
+Rt axillary sentinelnodes:
+-  1 very hot.
+-  3 more second tier nodes.
+Wide excision of tumour:
+-  transverse ellipse of skin.
+-  2x false cuts repaired (su and inf edges).
+-  short stitch superior, long lateral, double deep.
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node right breast no 1" consists of a piece of fatty tissue 18mm.  One lymph node is identified 15mm.  BAE 1 block.  
+B.  Specimen labelled "Sentinel node right breast no 2 & no 3" consists of two pieces of tan fatty tissue 7 and 18mm.  Smaller fragment contains one lymph node 5mm and the larger fragment contains several lymph nodes up to 4mm. 
+Blocks:  1- smaller piece of tissue; 2- larger fragment.  AE 2 blocks.  
+C.  Specimen labelled "Right breast lump, short superior, long lateral, double deep" consists of an orientated wide localexcision with three sutures in situ as designated measuring 62mm (medial to lateral) x 68mm (inferior to superior) x 35mm (superficial to deep).  There is an overlying unremarkable ellipse of skin measuring 55mm (medial to lateral) x 10mm(inferior to superior).  Two false cuts are identified in the superior and inferior superficial margins which have been repaired with sutures.  The deep margin is inked black, the superficial superior margin is inked blue and the superficial inferior margin is inked red.  The specimen is serially sectioned in the parasagittal plane into 12 slices from slice 1 lateral to slice 12 medial.  A cream ill defined firm lesion is identified in slices 7 to 11 measuring 28mm (medial to lateral) x 22mm (inferior to superior) x 18mm (superficial to deep).  The distance from margins is as follows:  deep margin 1mm, superior 5mm, inferior 35mm, superficial 8mm, medial 20mm and well clear of the lateral margin.  
+Blocks:  1 & 2 - LS slice 1; 3 & 4 - superior end of slice 3; 5 to 8 - slice 5; 9 to 12 - slice 6; 13 to 17 - slice 7; 18 to 22 - slice 8; 23 to 26 - slice 9; 27 to 31 - slice 10; 32 to 35 - slice 11; 36 to 42 - LS slice 12.  Pleaserefer to attached diagram.  Tumour markers on block 23.  (ED/mm 9.3.63) 
+MICROSCOPIC:  (Reported by Dr X Botner)
+A.  Sections of the sentinel lymph node no.1 show two isolated tumour cells on IHC only (0/1) (pN0i+). 
+B.  Sections of the five no.2 and no.3 lymph nodes show no evidence of malignancy by H&E and IHC (0/5).
+C.  Sections of the right breast show multifocal invasive ductal carcinoma on a background of intermediate grade DCIS. A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR BREAST CARCINOMA:
+Invasive Component:
+Site: Right breast.
+Type: Invasive ductal carcinoma, NOS.
+Main Invasive tumour size: 28mm (macroscopic).
+Numerous discrete additional microscopic foci of invasive carcinoma are present throughout the right breast tissue, including at the medial and lateral aspects of the specimen, and ranging from 2.2mm to 5.5mm (blocks 2, 50, 53). Each of these tumour foci has a similar morphologic appearance to the main tumour.
+ Grade (Modified Bloom & Richardson): 2
+Tubules: 2    Nuclei: 2     Mitoses: 2     Mitotic rate: 10/10hpf.
+Lymphovascular invasion: Foci suggestive of LVI are present (C24)
+Scattered microcalcifications are noted in associationwith invasive carcinoma. 
+	
+DCIS component:  
+DCIS: Present.
+Maximum extent of DCIS: Present in association with multiple foci of invasive carcinoma, over an approximate maximum extent of mm.
+Nuclear grade: Intermediate to high grade.
+Architecture: Cribriform, comedotype and micropapillary.
+Necrosis: Present (multifocal).
+Calcification: Focal.
+Degree of DCIS in tumour: Variable, mild to moderate.
+DCIS in adjacent tissue: Present (focal)
+Excision Margins:  
+Invasive component:
+Inferior margin: Carcinoma present at margin (block C50).
+Superficial margin: Present at diathermied margin (C28 and within diathermied cleft in fat in C23)
+Medial margin: Less than 0.1mm (C41).
+Deep margin: 0.25mm (C12).
+Superior margin: 2mm (C36)
+Lateral margin: 8.0mm
+In-situ component:
+Superficial margin: Present focally at diathermied margin (within diathermied cleft in fat) (C23)
+Deep margin: 0.56mm(C54)
+Medial margin: 3.3mm (C41)
+Inferior margin: 5.5mm (C12)
+Superior margin: 5.5mm (C23)
+Lateral margin: Clear (>10mm)
+Receptors (Block C23): 
+ER:  	POSITIVE
+	98% of nuclei stained
+	Predominant intensity of staining: Strong.
+PR:  	POSITIVE
+	80% of nuclei stained
+	Predominant intensity of staining: Strong
+HER2 (Novocastra 10A7): Negative (1+)
+HER SISH:  Performed at BlueLinx, NORTHAMPTON HOSPITAL Hospital, see separate report.
+Ki-67 index: Variable, up to 10% of tumour cell nuclei.
+Nipple: Not included.
+LCIS / ALH: Not identified.
+Miscellaneous: The adjacent non-neoplastic breast tissue shows a spectrum of proliferative changes including columnar cell hyperplasia/atypia, atypical ductal hyperplasia (C6), adenosis, complex sclerosing lesions and multiple foci of fibroadenomatoid and fibrocystic change. There is patchy cancerisation of lobules and lobular atrophy. Columnar cell atypia is present foclly 1.1mm from the deep margin (C56). ADH is 4.4mm from the deep margin (C6). A biopsy tract is present. The overlying skin shows no significant abnormality. 
+Lymph nodes (see specimens A and B).
+
+DIAGNOSIS:
+A.  Sentinel node right breast no. 1: Two separate isolated tumour cells are identified in one sentinel node on IHC only (0/1) (pN0i+).
+
+B.  Sentinel node right breast no. 2 and no. 3: No evidence of malignancy in five sentinel lymph nodes (0/5). 
+
+C.  Right breast lesion:
+Multiple foci of grade 2 invasive ductal carcinoma (ranging from 28mm to 2.2mm) associated with multifocal intermediate to high grade DCIS.
+Foci suggestive of LVI are present.
+Carcinoma is present at the inferior and superficial margin and is very close to the medial margin. 
+DCIS is present at the superficial margin. 
+ER, PR positive; Her-2 negative.
+HER SISH is being performed at Entergy Corporation, MARYBOROUGH DISTRICT HEALTH SERVICE (MARYBOROUGH) Hospital, please see separate report.
+
+
+***SUPPLEMENTARY REPORT ADDED (14.10.2063)
+The extent of DCIS was incorrectly omitted inthe original copy of this report.
+

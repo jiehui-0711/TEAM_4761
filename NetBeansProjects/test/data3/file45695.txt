@@ -1,0 +1,25 @@
+SPR no: 28W012081K
+MRN no: 224955
+Site_name: MANSFIELD DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Lesion in uterine cavity.  Unable to perform endometrial sampling due to cervical stenosis.
+Frozen section on uterus ?cancer of endometrium.  U/S - thickened endometrium, MRI - invasive into myometrium.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus&amp;quot;, consists of a uterus with attached cervix and bilateral tubes and ovaries.  The uterus measures 50 x 40 x 23mm.  A polyp is present in the endometrial cavity, 8 x 5 x 3mm.  The polyp is submitted for frozen section.  The ectocervix measures 35 x 25mm, and has an unremarkable surface. The uterus has a smooth shiny serosal surface. The specimen weighs 52g in total. The anterior is inked blue, and the posterior inked black.  The specimen is sectioned into left and right halves.  There is a fluid filled pale cyst measuring up to 18mm attached to the left parametrium.  On sectioning the right endometrium is up to 2mm in maximum thickness, and the right myometrium is 13mm in maximum thickness.  On sectioning the left endometrium is 1mm in maximum thickness and the left myometrium is 13mm in maximum thickness. The right fallopian tube measures 50mm in length with a maximum diameter of 3mm. The right ovary measures 27 x 18 x 8mm. The right ovarian cut surface shows a pale well defined area measuring 8 x 6mm in cross section.  There is a large metal clip appearing to separate the right fallopian tube in half.  The left fallopian tube measures 65mm in length with a maximum diameter of 8mm.  The left ovary measures 32 x 17 x 13mm.   The left ovary contains a partially calcified cystic area measuring 6mm in diameter.  The left fallopian tube appears separated without a clip.  The entire cervix and uterus is embedded.  Blocks: 1 - frozen section one; 2 to 7 - serially sagitally sectioned right cervix from medial to lateral (3 &amp;amp; 4 - composite sections, 5 &amp;amp; 6 - composite sections, nicks denote anterior aspect); 8 to 14 - parasagittal sections right endomyometrium from inferior to superior; 15 to 18 - serially sagittally sectioned left cervix from medial to lateral, nicks denote anterior; 19 to 25 - parasagittal sections of left endomyometrium from inferior to superior; 26 - LS right fimbriae; 27 - three TS right ovary; 28 - three TS right fallopian tube (one proximal to clip, two distal/fimbrial end to clip); 29 - LS left fimbriae; 30 - three TS left fallopian tube (pre and post separation); 31 &amp;amp; 32 - three TS left ovary; 33 - three TS left parametrial cyst.  (TO:EE/rs 28/7/69)
+FROZEN SECTION REPORT:
+No obvious macroscopic tumour (and no tumour in one section).
+Phone result to Dr Taylor by Dr Q Youngs at 12:55pm on 27/07/2070.
+
+B.  Specimen labelled &amp;#8220;Right external sentinel lymph node&amp;#8221;, consists of a pale and fatty piece of tissue, 13 x 8 x 4mm.  It contains one lymph node measuring 10mm.  The specimen is quadrisected.  AE 1 block.
+
+
+MICROSCOPIC (Reported by Dr Q Reimnitz):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is entirely embedded and shows weak proliferative activity and a small benign sessile polyp.  The myometrium is unremarkable.  Both ovaries and tubes show no significant abnormality.  There is no evidence of malignancy.
+
+B.  The sentinel lymph node protocol has been performed.   One lymph node shows no evidence of malignancy.
+
+
+DIAGNOSIS:
+A &amp;amp; B.   Small sessile benign endometrial polyp.  One negative sentinel lymph node.  No evidence of malignancy.

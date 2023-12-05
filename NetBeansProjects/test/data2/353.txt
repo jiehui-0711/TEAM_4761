@@ -1,0 +1,59 @@
+Episode No:  28N3505103
+285350.NCA
+
+BASTEDO, SKYLAR Jenelle 
+Lab No:  28N35051
+Almeria
+ALDGATE    2727
+Specimen: Tissue
+D.O.B:  5/5/1999
+Sex:  F
+Collected: 22/5/2063 at :
+Location:  UROLOGY DAY ONLY-LIGHTNING RIDGE MULTIPURPOSE HEALTH SERVICE
+DR JEREMY JEFFRY SMOLINSKY
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT (3/7/63)
+
+
+CLINICAL:
+Recurrent haemopericytoma left thigh.(small piece for cytogenetics).   
+MACROSCOPIC:
+A.  Specimen labelled "Lesion left thigh suture 12 o'clock" consists of a piece of fatty tissue with overlying skin and one suture for orientation 12 o'clock measuring 120mm from 12 to 6 o'clock and 50mm from 3 to 9 o'clock and 60mm (superficial to deep) margin.  The ellipse of overlying skin measures 80mm from 12 to 6 o'clock and 20mm from 3 to 9 o'clock.  The surface of the skin is unremarkable.  The 3 o'clock margin is inked black, 9 o'clock margin blue, deep margin purple.  Specimen is serially sectioned from 12 to 6 o'clock into fourteen slices.  Slice one 12 o'clock, slice fourteen 6 o'clock.  On sectioning and in slices five to eight there is a well circumscribed possibly encapsulated solid mass measuring 40mm (superficial to deep) margin and 30mm from 3 to 9 o'clock, 25mm from 12 to 6 o'clock.  The cut surface of the tumour is solid and tanned with tiny areas of haemorrhage.  The tumour is located less than 1mm to the 9 o'clock margin (slice six) and more than 5mm from the 3 o'clock margin (slice six).  (Slice seven shows tumour with no margins).  The rest of the tissue is unremarkable.  Representative sections taken according to the diagram.  
+Blocks: 1 - one LS 12 o'clock margin; 2 to 7 - slice five; 8 to 10 - representative sections of the tumour from slice six; 11 to 13 - tumour from slice seven; 14 & 15 - tumour from slice eight; 16 - one LS 6 o'clock margin.  
+B.  Specimen labelled "New deep margin left thighmass, one single suture 12  o'clock, double suture deep" consists of a membranouspiece of tissue with one suture 12 o'clock and a suture deep.  The margin with the purple suture is covered by fat.  The opposite margin appears to be facia.  The deep margin inked blue, the opposite margin black.  Specimen is AE from 12 to 6 o'clock in 5 blocks.   
+(HZ/ta 23/5/63) 
+MICROSCOPIC (Reported by Dr H Delarosa):
+A.  The 40mm tumouris a solitary fibrous tumour with a multinodular configuration.  The closely opposed  tumour nodules are circumscribed,  thinly encapsulated and composed of moderately cellular spindle cells arranged haphazardly, in storiform arrays andin short fascicles.  Numerous ectatic haemangiopericytomatous vessels are present and there are foci of stromal myxoid alteration and foci of fibrosis.  The mildly pleomorphic tumour cells are spindled with pointed ends, ill defined cytoplasmic borders, pale granular chromatin and inconspicuous nucleoli.  Mitoses are easily identified and number up to 8 per 10 hpf and there is focal central coagulative necrosis, which may however relate to previous core biopsy sampling. The tumour is mostly surrounded by unremarkable mature adipose tissue, however, focally the thin fibrous pseudocapsule forms the margin of the specimen at 9 o'clock (<0.1mm clear) (A14). The 3 o'clock margin is 1mm cleartowards the deep margin (A10) and the true deep margin is 6mm clear (A10) The 12 o'clock and 6 o'clock margins are well clear.  No scar tissue is seen in the overlying subcutis and dermis or adjacent adipose tissue
+Immunohistochemistry: 
+The tumour cells stain as follows:
+Positive:  CD34, BCL-2, CD99, EMA (patchy weak)
+Negative: SMA, Desmin, S100, Melan A, HMB45, CK19.
+The Ki67 proliferation index is approximately 5-10%.
+COMMENT:
+The morphological appearances and immunoprofile are consistent with a solitary fibrous tumour.  Haemangiopericytoma is a less specific term, used in older literature, that described tumours that would currently be classified as solitary fibrous tumours, as well as, several other soft tissue neoplasms with similar staghorn vasculature.   Although histological features do not reliably predict behaviour in solitary fibrous tumours, the presence in this case of increased mitotic activity (8 per 10 hpf), possible tumour related coagulative necrosis and areas of moderate cellularity are findings associated with more aggressive (malignant) behaviour. The tumour, however, lacks other features associated with malignancy such as infiltrative borders and significant nuclear pleomorphism. 
+B.  Sections show mature fibroadiposetissue and a small portion of skeletal muscle. There is no evidence of tumour.  
+DIAGNOSIS:  
+A.   Lesion left thigh (recurrent):
+-     Solitary fibrous tumour with atypical features (see comment)
+-     Margins 9 o'clock <0.1mm, 3 o'clock 1mm (towards deep), deep 6mm, other margins well clear.                                                                                                                                                                   
+B.   New deep margin left thigh mass:
+-     No evidence of tumour. 
+SUPPLEMENTARY REPORT (3/7/63):
+Sections were sent to Laverty's Pathology for cytogenetics testing and the report of which is as follows.
+"Specimen Type:	Tumour
+Preparation:
+S-1
+S-2
+S-3
+S-4
+Analysis:
+Cells Counted				2
+Cells Analysed (GTW BANDING)	8
+Band Resolution Level	<300-400
+Karyotype:
+46, XX, t(2;14) (q31;q32)[10]
+Comment:
+An abnormal clone with a reciprocal translocation between chromosomes 2 and 14 was detected. Karyotypes with simple balanced translocations have been reported as a feature of some published haemangiopericytomas, but no recurrent translocation isdescribed. A breakpoint in 12q is a feature of some cases, but was not observed in this case. These results are consistent with, but not diagnostic for, haemangiopericytoma.
+Reported By: H. Princiotta	
+Validated By: DrH. Weckerly Date: 10/04/13 1:49 pm"
+

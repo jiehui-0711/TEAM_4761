@@ -1,0 +1,70 @@
+Episode No:  42Y062605L
+4290626.BNL
+
+PABEY, Russel Lucien 
+Lab No:  42Y06260
+Anatomical
+LONGFORD  South Australia  2044
+Specimen: Tissue
+D.O.B:  20/12/2015
+Sex:  M
+Collected: 20/08/2014 at 14:42
+Location:  DEPT OF CORRECTIVE SERVICES-SARINA HOSPITAL
+DR LINO MARCO Bacon
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast cancer: mastectomy and SLNB.  Long suture lateral and short superior. 
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node right side", consists of two pieces of fatty tissue 30 x 28 x 12mm in aggregate.  Two lymph nodes are identified 27 x 18 x 7mm and 11 x 10 x 6mm.  Block 1 - smaller lymph node; 2 & 3 - largerlymph node.
+B.  Specimen labelled "Right breast tissue short superior, long lateral", consists of a breast with two marking stitches measuring 125mm (lateral to medial) x65mm (superior to inferior) x 35mm (superficial to deep).  The overlying skin measures 120 x 50mm. The nipple is 6mm in maximum dimension.  The superficial/peripheral margins are inked blue andthe deep margin is inked black. Behind the nipple and extending towards 3 o'clock there is a necrotic tumour measuring 28 x 33 x 25mm.  The tumour is 12mm from superior, 20mm from inferior, 33mm from medial and 58mm from lateral margins.  The cut surfaces of the tumour are pale, solid and show extensive necrosis. The tumour abuts the overlyingskin. The skin surface over the tumour is purplish in colour. The remainder of the breast has fatty cut surfaces.  Blocks 1 & 2 - paired sections of the tumour in relation to nipple and deep margin (1 - ER, PR, Her2, Ki-67); 3 - tumour and superior margin (reserve block); 4 - tumour and inferior margin; 5 - tumour andskin; 6 - random section upper inner quadrant; 7 - random section lower inner quadrant; 8 - random section lower outer quadrant; 9 - random section upper outer quadrant. 
+C.  Specimen labelled "Right axillary tissue", consists of a piece of fatty tissue 25 x 15 x 5mm.  No lymph nodes are identified. AE in 1 blocks. (TO: CU/ec 23.10.64) 
+MICROSCOPIC: (Reported by A/Prof M Money) 
+A. - C.  
+Invasive carcinoma:
+Site: Right breast, behind nipple extending towards 3 o'clock
+Type: Infiltrating duct carcinoma displaying an admixture of growth patterns, including areas resembling invasive papillary carcinoma and other foci resembling comedo and cribriform DCIS. The DCIS-like foci lack a myoepithelial layer in p63 and keratin 5/6 stains, consistent with invasive disease rather than an in situ component.
+Invasive tumour size: 33 x 28 x 25mm (macroscopic measurement)
+Grade (Modified Bloom & Richardson): 2 (Fixation artefact makes assessment of tumour architecture and mitoses difficult.
+Tubules:   3   Nuclei:  3    Mitoses:  1    Mitotic rate:      7/10hpf.
+Lymphovascular invasion:  Fixation artefact ispresent but no LVI is identified.
+	    
+DCIS component: Not seen. In some areas the invasive tumour has a  DCIS-like growth pattern but no definite in situ component is identified in special stains.
+Excision Margins:  
+Invasive component: The tumour is clear of the excision margins. The distance to the closest deep and superior margins is approximately 10mm. 
+In-situ component: n/a
+Receptors (Block  B1): 
+ER:  Strong positive
+	>90% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	60% of nuclei stained
+	predominant intensity of staining:  Moderate and Strong
+HER2 (Novocastra 10A7): 2+. There is variability in Her 2 staining with some areas of the tumour appearing negative and other foci showing membranous staining. This may reflect fixation artifact. Case sent to Burlington Northern Santa Fe TUMBARUMBA MULTI PURPOSE SERVICE for SISH testing. Please refer to Express Scripts MACKAY report.
+Ki-67 index: Variable, focally up to 25-30%
+Nipple:  
+No significant abnormality. Tumour does not appear to invade overlying skin.
+
+LCIS / ALH:  
+Not seen.  
+Sentinel lymph node(s): The lymph nodescontain tattoo pigment (admixture of brown and black pigment) which makes interpretation of the sentinel nodes difficult - see below.
+Number of sentinel lymph nodes examined:
+Number of sentinel lymph nodes involved by tumour:    1  (block A1)
+Number of sentinel nodes with metastases >2.0mm:    
+Number of sentinel nodes with metastases <2.0mm:      
+	Detected by:
+Number of sentinel nodes with isolated tumour cells <0.2mm:    1   
+	Detected by: Keratin staining. The background tattoo pigment makes interpretation difficult, but there appears to be scattered keratin positive tumour cells (with ring like cytoplasmic staining) in the periphery of the node. There is consensus opinion that these represent true isolated tumour cells and are not due to tattoo pigment.
+Extranodal spread: Not seen. 
+Axillary/other nodes:
+Number of axillary lymph nodes examined: No lymph nodes identified in specimen C Specimen C: "Right axillary tissue" - no lymph nodes identified
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   2
+Total number of involved lymph nodes (including sentinel node(s)): 1 (ITC)
+
+A provisional result was discussed with Dr GERALDO PAIZ (G2, IDC, ER positive, ITC in sentinel nodes. Pending further markers) by A/Prof M Selakovic.
+DIAGNOSIS:
+RIGHT BREAST: 33MM INFILTRATING DUCT CARCINOMA, GRADE 2
+ESTROGEN AND PROGESTERONE RECEPTOR POSITIVE
+MARGINS CLEAR
+ISOLATED TUMOUR CELLS IN SENTINEL NODE
+

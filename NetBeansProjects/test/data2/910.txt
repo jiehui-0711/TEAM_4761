@@ -1,0 +1,60 @@
+
+Episode No:  35O2173633
+3552173.RJJ
+
+WANGER, KATELIN 
+Lab No:  35O21736
+W Newport
+LEONGATHA  WA  3549
+Specimen: Tissue
+D.O.B:  19/2/2003
+Sex:  F
+Collected: 01/01/2013 at 17:01
+Location:  INTENSIVECARE UNIT-WAR MEMORIAL HOSPITAL
+DR FREDRICK Geoffrey Barrack
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right hemi.  Caecal cancer.  Collitism (sic) anaemia.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a right hemicolectomy measuring 350mm in length with a section of terminal ileum 180mm in length.occupying almost the entire caecum is a circumferential ulcerated polypoid tumour 50 x 45mm.  The tumour appears to invade through the muscularis propria into the mesenteric fat.  Focally the tumour appears to abut the serosal surface and disrupt the appendix.  The appendix measures 50mm in length and 7mm in maximum external diameter.  Two polyps 8 and 5mm are identified, 65 and 120mm from the distal resection margin.  Multiple lymph nodes are identified in the mesenteric fat, some of which appear macroscopically involved with tumour.
+Blocks:  1 - resection margins; 2 - tumour to uninvolved mucosa; 3 to 6 - representative tumour; 7 - tumour to appendiceal orifice; 8 - small polyp; 9 - larger polyp; 10 - representative appendix; 11 - apical node; 12 to 14 - lymph nodes; 15 - one lymph node serially sectioned; 16 - one lymph node serially sectioned; 17 - reserve block.   (RR/cc  4/3/63) 
+ 
+MICROSCOPIC (Reported by Dr J Horuath): 
+
+Site of tumour:  Caecum	
+Maximum tumour diameter:  50mm
+Distance of tumour to nearer cut end: 180mm (proximal)
+Tumour perforation:     No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 21	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present (Extramural, block 5)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMXbe assessed histologically
+Background abnormalities/other comments
+Tubular adenomas with low grade dysplasia x 2, margins clear.
+Acute inflammation and organising fibrin present on serosal surface.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0     pMX     R0	
+

@@ -1,0 +1,58 @@
+SPR no: 20B311355S
+MRN no: 20031135
+Site_name: CALVARY HEALTH CARE BETHLEHEM
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report20B31135 (20B311355S) MEYSEMBOURG, Mohammad
+HISTOPATHOLOGY REPORT
+SUNSHINE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Hookwire excisional biopsy of L breast 12 o&amp;apos;clock.
+
+MACROSCOPIC:
+&amp;quot;LEFT BREAST WIDE LOCAL EXCISION&amp;quot;
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Wide local excision, not oriented
+SPECIMEN X-RAY:  Yes, hookwire split seen at G8
+HOOKWIRE:  Yes
+SPECIMEN DIMENSIONS:  Specimen is unoriented.  It measures 30x20x20mm
+WEIGHT:  11g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:  Non-Standard:  Site of hookwire yellow, remainder blue.
+DISSECTION: Cut from one end to another.
+Number of slices:  7
+FINDINGS / LESION:  At the site of hookwire split is an ectatic duct.  No discrete lesion is identified.  The site of hookwire split is between slices 2 and 3.  Entire specimen is embedded.
+(1  longitudinal through slice 1; 2  slice 2; 3  slice 3; 4  slice 4; 5  slice 5; 6  slice 6; 7  longitudinal through other end slice 7).  AE (M-7/MC 21/4/2068 km).
+MICROSCOPIC:  (Dr G Hutchkiss)
+DCIS OF THE BREAST, SYNOPTIC REPORT
+
+DCIS size: 16mm
+
+Nuclear grade: Low
+
+Architecture / type: Cribriform
+
+Necrosis: Absent
+
+Microcalcification of DCIS: Not present
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS: Positive.
+Site and extent of margin involvement:
+One or two ducts of DCIS extend to reach an inked margin of excision in 2 adjacent slices of tissue, approximately 3-4mm wide (specimen was not orientated)
+
+ANCILLARY TESTS:
+IMMUNOSTAINS, blocks 4 &amp;amp; 5.
+ER:  POSITIVE   95%  3+
+PR:  POSITIVE   95%  3+
+
+Comment : The excision specimen shows an area of mature fibrous scarring suggestive of previous biopsy site.  In the immediately adjacent breast are numerous cribriforming ducts within 4 consecutive slices of tissue (16mm wide) which have features of low grade ductal carcinoma in situ focally extending to one inked margin of excision in 2 separate slices (not orientated). There is widespread benign microcalcification with sclerosing adenosis in the background, with no significant calcification seen within DCIS. No invasion is identified.
+
+DIAGNOSIS:
+LEFT BREAST WIDE LOCAL EXCISION - 16mm OF LOW GRADE DCIS WITH AN INVOLVED MARGIN
+24/7/2068 ank

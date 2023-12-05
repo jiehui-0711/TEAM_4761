@@ -1,0 +1,116 @@
+SPR no: 60O212751T
+MRN no: 60521275
+Site_name: BERRIGAN WAR MEMORIAL HOSPITAL/MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reportbrdrw10 llx3420phaEpisode No:  60O212751T
+60521275.CTP
+grid08rs22
+FINZEL, GAIA
+ngfenp3081 ddfl3bbrdrhhdrawnil tx8640Lab No:  60O212 75
+Moor Knoll
+lin0 trbrdrvlvertaltw10 xlrtb
+SYDNEY  SA  srsid14378016 5485
+ngnp1033ddr108w10 1033
+lbrdrtrsbrdrsrdrsn Specimen: Tissue
+D.O.B:  21/7/1999
+Sex:  F
+eepbrdrsh3brdrssWidth3528cCollected: 12/02/2016  at 09:24
+Location:  ST VINCENT'S PATHOLOGY-FITZROY CROSSING HOSPITAL4
+drs 6
+DR DEXTER KIM DESOMMA
+3081 rpaddfl3rdrb
+d clvertaltumDistribution:  DR HORACIO HALBUR,   Liz Claiborne RY
+rs22
+dctlpar
+tap0CLINICAL:
+081Total pancreatectomy for separate head of pancreas and body/tail tumours.  Silk on bile duct.  1 x long prolene on PV.  2 x long prolene on SMA.  3 x long prolene on uncinated proc ess.  Left hilar lymph nodes.
+
+
+MACROSCOPIC:
+A. Specimen labelled &amp;quot;Total pancreatectomy&amp;quot;, consists of a total pancreatectomy including spleen, duodenum and gallbladder.  081
+The pancreas measures 135 x 40 x 18mm.  There are two tumo urs identified within the head and body/tail of the pancreas.  The pancreas is inked as follows; the uncinate process - black, the portal vein margin &amp;#8211; red, the superior mesente ric artery margin &amp;#8211; green, anterior pancreatic surface &amp;#8211; blue, and posterior pancreatic surface &amp;#8211; black.
+Tumour one within the pa ncreatic head measures 30 x 30 x 30mm and appears centred at the ampulla.  The tumour appears to abut the anterior pancreaticsid8069124  surface, is at the SMA margin and abuts the unci nate process.  It is approximately 10mm from the portal vein margin.  The tumour infiltrates through the overlying  duodenal submucosa.
+Tumour two is within the pancreatic tail and measures 25 x 17 x 17mm.  There are possible satellite nodules within the splenic hilum fat ra nging from 3 to 5mm.  The tumour appears to abut the anterior surface of the pancreas and is approximately 3mm from the posterior surface. The tumour is well away from the vascular mar gins and uncinate process. The splenic parenchyma appears unremarkable.  The pancreatic parenchyma between tumour one and tumour two is unremarkable.  angfe3081
+The spleen d14378016measures 110 x 30 x 50mm and has a smooth outer capsule.  On sectioning the spleen has a gritty dark brown appearance. A sheet of fibrofatty tissue is attached to the spleen measuring approximately 160 x 50 x 5 0mm.  No discrete lesion is seen within the fibrofatty tissue.
+The gallbladder measuring 150 x 50 x 4 0mm and has a smooth outer surface.  The wall thickness is 3mm and the mucosa is dark green and velvety. The common hepatic duct measures 18 x 5 x 5mm, and is unremarkable.081
+The duodenum measures 145mm in length x 50mm in open diameter.  A section of the antrum is present at the proximal end over 50 x 20mm.  The wall thickness is up to 5mm  and the mucosa is unremarkable.  No polyps or lesions are seen.
+sid14378016Representative sections. Please see diagrams.
+
+Blocks: 1 &amp;#8211; common he patic duct margin; 2 &amp;#8211; distal duodenal margin; 3 &amp;#8211; proximal antral margin; 4 &amp;amp; 5 &amp;#8211; gallbladder; 6 &amp;amp; 7 &amp;#8211; attached omental fat; 8 &amp;#8211; representative norm al spleen; 9 to 14 &amp;#8211; tumour one at head of pancreas; 15 to 24 &amp;#8211; tumour two at tail of pancreas; 23 &amp;amp; 24 &amp;#8211; satellite nodules at splenic hilum; 25 &amp;amp; 26 &amp;#8211; possible lymph nodes along peri-duo denal fat.
+81
+B.  Specimen labelled &amp;quot; Left hilar lymph nodes &amp;quot;, consists of a piece of fibrofatty tissue measuring 40  x 30 x 10mm containing lymph nodes ranging from 5 to 14mm in maximum dimension.  Specimen AE.
+Blocks: 1 &amp;#8211; one lymph node serially sectioned; 2 &amp;#8211; one lymph node serially sectioned; 3 &amp;#8211; one lymph node serially sect ioned; 4 &amp;#8211; rest of tissue AE.
+(TO: JL; JL/ta 17/4/66)
+g3081MICROSCOPIC (Reported by A/Prof P Favuzza):
+ht
+SUMMARY PANCREATIC TUMOUR
+Histolog ical tumour type
+Ductal adenocarcinoma &amp;#8211; two separate tumours in pancreatic head and body/tail.
+016
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+rsid14378016
+Microscopic tumour sites
+Tumour 1:
+Head of pancreas, at level of016  ampulla of Vater.
+Tumour 2:
+Distal body/Tail of pancreas
+
+Extent of tumou r invasion
+Tumour 1:
+Pancreas
+Peripancreatic fat
+Ampulla of Vater
+Duodenal wall, into the lamina propria (Block A10)
+
+Tumour 2:
+Pancreas
+Peripancreatic soft tissues (Block A16)
+
+378016Maximum tumour diameter
+Tumour 1: 28mm
+Tumour 2: 18mm
+Lymphovascular invasion
+Present  (Bl ocks A16 and 17)
+Perineural invasion
+Present  (Block A17, A9)
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+016Not received
+Pre-invasive lesion
+Present. PanIn I to III is prese nt within pancreatic ducts throughout the pancreas.
+Margins:
+Common bile duct:8016  Clear of tumour
+Portal vein (superior mesenteric vein): &amp;gt;10mm
+Superior mesenteric arterysid16475740 : 10mm (Block A10)
+Periuncinate soft tissue: 4mm (Block A9)
+Surfaces:
+harrsid16475740 Anterior: 1mm clear of tumour 2 (A18)
+Posterior: 2.2mm clear of tumour 1 and 2 14378016 (A10, A18)
+Lymph nodes:
+Number found:
+Peripancreatic: 46
+Left hilar lymph nodes (Specimen B): 5
+Number involved: 78016
+Peripancreatic: 5
+Left hilar lymph nodes (specimen B): 0
+Other pathologies:ar The gallbladder shows mild chronic inflammation.
+The attached omental fat shows vascular congestion and reactive changes but no evidence of malignancy.
+The spleen also shows congestive changes but there is  no diagnostic evidence of malignancy seen.
+The satellite nodules at the splenic hilum are a small nodule of splenic tissue and a nodule of atrophic and inflamed pancreatic parenchyma.
+The duodenum shows focal a denomatous change with high grade dysplasia (A9).
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+PANCREAS
+Primary tumour category (pT)
+T3 Tumour extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery
+14378016
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+740
+Distant metastasis category (pM)
+MX Not assessable by histology
+n0
+s22
+DIAGNOSIS:
+505634 PANCREAS: PANCREATIC DUCT ADENOCARCINOMA X 2 (HEAD AND BODY/TAIL OF PANCREAS)

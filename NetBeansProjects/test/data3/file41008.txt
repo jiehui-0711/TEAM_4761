@@ -1,0 +1,123 @@
+SPR no: 40I801715W
+MRN no: 254137
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report40I80171 (40I801715W) Newmark, Jessie Marlon
+HISTOPATHOLOGY REPORT
+WARREN HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca 12 o&apos;clock, left sentinel lymph node for frozen section.  L breast Ca 12 o&apos;clock.
+1.  Left breast wide local excision, short-superior, long-lateral, medium-medial.
+2.  Left axillary tissue.
+
+MACROSCOPIC:
+A.  &quot;SENTINEL NODE BIOPSY LEFT BREAST&quot;.  A piece of fatty tissue 20mm maximum dimension.  One blue node.  A1 frozen section, A2 remainder. RS (M-2).
+
+FROZEN SECTION REPORT:  &quot;Negative&quot;.  to Dr Ignacio at 4 pm by Dr K Gonder.
+
+B.  &quot;WIDE LOCAL EXCISION LEFT BREAST&quot;.
+SPECIMEN TYPE:  Wide local excision, oriented.
+SPECIMEN X-RAY, HOOKWIRE:  No
+SPECIMEN DIMENSIONS: Medial to lateral 40mm, Superior to inferior 60mm,  Anterior to posterior 40mm. WEIGHT 48g
+MARGIN INKED:  Non-standard:  Anterior blue, Posterior black, Medial red, Lateral green.
+DISSECTION: Cut from superior to inferior, 13 slices
+FINDINGS / LESION:  On sectioning there is a firm stellate fibrous lesion in slices 6 to 10.  This is associated with adjacent area of haemorrhage consistent with previous biopsy site.  The lesion has ill-defined margins merging into areas of fibrosis.  It measures 24mm superior to inferior, 15mm medial to lateral, and 9mm anterior to posterior.  It is 10mm from medial margin, 16mm from lateral margin, 10mm from anterior and possibly 8mm from posterior margin.  The lesion is 20mm from superior margin and 12mm from inferior margin.  Also noted in slice 3 is a firm area measuring 2mm maximum dimension.  This area is 7mm from anterior, 24mm from posterior, 15mm from medial and 15mm from lateral margins.  It is 8mm from superior and 40mm from inferior margin.  Remainder of the tissue is fibrofatty.
+(1-3 LS medial margin slice 1; 4-7  slice 3 [7  firm area]; 8-11  slice 5; 12-15  slice 7; 16-19  slice 8; 20-23  slice 9 [lesion in block 21 to 23]; 24&amp;25  slice 11; 26,27 LV inferior margin slice 13).  RS (M-27).
+C.  &quot;LEFT AXILLARY TISSUE LEFT BREAST&quot;.   A  piece of fatty tissue 50x25x10mm.  Two possible nodes identified 15 and 25mm. (1  one possible lymph node bisected; 2&amp;3  one possible node bisected).  RS (M-3/MC km).
+MICROSCOPIC:  (L Dedon)
+
+B.  WIDE LOCAL EXCISION LEFT BREAST:
+
+BREAST INVASIVE CARCINOMA SYNOPTIC REPORT:
+(based on CAP guidelines 2017)
+
+INVASIVE CARCINOMA:
+
+MAXIMUM INVASIVE TUMOUR SIZE:  22 mm diameter
+
+HISTOLOGIC TYPE:  Invasive lobular carcinoma
+
+HISTOLOGIC GRADE:  Grade 2
+
+SCORES: Tubules 3, Nuclei 2,  Mitoses 1;  Total Score: 6 of 9
+
+MITOTIC RATE:  1 mitoses per 10 high power fields
+
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  22 mm (no DCIS)
+
+PERITUMOURAL LYMPHOVASCULAR INVASION:  Not identified
+
+PERINEURAL INVASION: Not identified
+
+DUCTAL CARCINOMA IN SITU (DCIS):  Not identified.
+
+LOBULAR CARCINOMA IN SITU (LCIS):
+Lobular carcinoma in situ (LCIS) present, multiple foci, classical type LCIS
+
+EXCISION MARGINS:
+INVASIVE CARCINOMA MARGINS:
+- Focal positive margin
+- Distance of invasive carcinoma to margins:
+Anterior: 2 mm (section B22)
+Posterior: >5 mm
+Superior: > 10 mm
+Inferior: > 10 mm
+Medial: 0 mm (positive margin). Diathermy affected peripheral extensions of the invasive carcinoma extend focally to the medial margin (section B13). In adjacent sections invasive carcinoma is 0.2 mm (less than 1 mm) from this same margin, sections B21, B17.
+Lateral: > 5 mm
+Extent of margin involvement: Focal.
+
+HORMONE RECEPTORS, IMMUNOSTAINS:
+Block B18
+Other suitable tumour block for testing: B19
+
+ER:      POSITIVE, 90%, 3+
+PR:      POSITIVE, 90%,  2+
+HER2:  NEGATIVE (Score 0) Immunostain.
+Ki-67:   5%
+
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+HER2 Dual ISH result:   NEGATIVE
+
+Mean HER2 copy number per cell:  2.4
+Mean CEP17 copy number per cell:  1.7
+HER2/CEP17 Ratio:  1.4
+
+SCORING CRITERIA (Update in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 < 2.0, Average HER2 < 4.0
+Equivocal:&#160; HER2/CEP17 < 2.0, Average HER2 > or equal to 4.0 and < 6.0
+Positive: HER2/CEP17 < 2.0, Average HER2 > or equal to 6.0
+Positive: HER2/CEP17 > or equal to 2.0
+ish reported by Dr L Ezra
+
+SEPARATE FINDINGS:
+Columnar cell change with atypia (flat epithelial atypia). Biopsy track
+
+A,C. SENTINEL NODE BIOPSY LEFT BREAST, LEFT AXILLARY TISSUE LEFT BREAST:
+SENTINEL LYMPH NODES, LEFT AXILLARY TISSUE:
+Not involved.
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumour cells: 0
+Total number of nodes examined: 3 (1 sentinel node, 2 axillary nodes)
+
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    > 2 mm.
+Micrometastases:     > 0.2 mm to 2 mm and/or >200 cells per single cross section.
+Isolated tumor cells:  Single cells or clusters &#8804; 0.2 mm and &#8804; 200 cells per cross section.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):  pT2 pN0 (sn)
+
+DIAGNOSIS:
+
+B.  WIDE LOCAL EXCISION LEFT BREAST:
+- 22 mm diameter
+- Invasive lobular carcinoma
+- Grade 2
+- Focal positive excision margin, invasive carcinoma
+- Lobular carcinoma in situ (LCIS) present
+A,C. SENTINEL NODE BIOPSY and LEFT AXILLARY TISSUE LEFT BREAST:
+- Lymph nodes not involved (0/3), (1 sentinel node, 2 axillary nodes).

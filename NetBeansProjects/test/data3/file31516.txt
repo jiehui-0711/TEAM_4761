@@ -1,0 +1,80 @@
+SPR no: 65C0275519
+MRN no: 6500275
+Site_name: WAGIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left breast mass.  CNB - infiltrating carcinoma.  Had wide local excision and axillary sampling (unable to localise SN on blue dye or scintigraphy).
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left breast cancer stich short superior, medium medial, long lateral&amp;quot;, consists of fibroadipose breast tissue with orienting sutures in situ, weighing 67g.  The specimen measures 72mm superior to inferior, 55mm medial to lateral, and 51mm superficial to deep.  The superior margin is inked red, inferior margin is inked black, superficial margin is inked green, and deep margin is inked blue.  Specimen is sectioned from medial to lateral into thirteen approximately equal slices.  There is a tumour spanning slices six to eleven, 20 x 18mm in area.  The tumour appears to be 1mm from the closest superficial margin.
+Blocks: 1 - slice one (medial); 2 to 7 - slice six; 8 to 11 - slice seven (10 - IPX); 12 to 16 - slice eight; 17 to 21 - slice nine;  22 to 27 - slice ten; 28 - portion of slice eleven; 29 &amp;amp; 30 - slice thirteen (lateral).
+Please refer to block diagram.
+
+Additional block A31, inferior slice 12.
+
+B.  Specimen labelled &amp;quot;Left axillary sampling&amp;quot;, consists of fibroadipose tissue, 45 x 40 x 17mm in aggregate, containing lymph nodes.
+Blocks: 1 - lymph nodes as seen; 2 - single lymph node, sectioned; 3 - single lymph node, sectioned.  (TO:JB/rs 11/1/68)
+
+
+MICROSCOPIC: (Reported by Dr Q Shenker):
+A and B.
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma NOS
+Invasive tumour size:   25mm (6 slices)
+Grade (Modified Bloom &amp;amp; Richardson):  2
+Tubules: 2     Nuclei: 3     Mitoses: 2     Mitotic rate:  8/10hpf.
+Lymphovascular invasion:   Not seen
+
+DCIS component:
+Maximum extent of DCIS:  29mm (7 slices)
+Nuclear grade:   Intermediate to high
+Architecture:  Solid, cribriform
+Necrosis:   Present
+Calcification:  Not seen
+Degree of DCIS in tumour:  Focal
+DCIS in adjacent tissue:   Focal
+
+Excision Margins:
+Invasive component:
+Superficial: 3mm (A13)
+Deep: 5mm (A21)
+Lateral: 8mm
+Inferior: 9mm
+Other margins: &amp;gt;10mm
+
+In-situ component:
+Superficial: 1.5mm (no intervening normal ducts, A11)
+Inferior: 2.5mm (with intervening normal ducts, A11)
+Deep: 4mm (A11)
+Lateral: 4mm
+Other margins: &amp;gt;10mm
+
+Receptors (Block A10):
+ER:  	Positive
+90% of nuclei stained
+predominant intensity of staining:  moderate
+PR:  	Positive
+20% of nuclei stained
+predominant intensity of staining: moderate
+HER2 (Novocastra 10A7): 1+
+HER2 SISH:  Performed at MED/SURGERY WARD, LIVERPOOL HOSPITAL Hospital, see separate report.
+Ki-67 index:  15%
+
+LCIS / ALH:  Not seen
+
+Miscellaneous:
+- A core biopsy tract is seen.
+
+Axillary nodes (specimen B):
+Number of axillary lymph nodes examined: 4
+Number of axillary lymph nodes involved by tumour:  0 (on H+E and AE1/3 staining)
+
+
+DIAGNOSIS
+A and B. Left breast wide local excision and axillary lymph node sampling:
+- 25mm invasive ductal carcinoma NOS, grade 2
+- 29mm intermediate to high-grade ductal carcinoma in situ
+- 4 lymph nodes with no evidence of malignancy

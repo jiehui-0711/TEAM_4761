@@ -1,0 +1,39 @@
+SPR no: 76I416775H
+MRN no: 7634167
+Site_name: MODBURY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report76I41677 (76I416775H) SUCRE, Erwin, KELVIN-Emil
+HISTOPATHOLOGY REPORT
+EAST GRAMPIANS HEALTH SERVICE - ARARAT HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right mastectomy, short-superior, long-medial..
+
+MACROSCOPIC:
+A. Specimen labelled &amp;quot;RIGHT MASTECTOMY&amp;quot;.
+&amp;quot;Short - superior, Long-medial.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Mastectomy
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS: 220x150x70mm
+WEIGHT:  950g
+SKIN:  190x50mm
+NIPPLE:  10mm
+MUSCLE:  No
+MARGIN INKED: Non-standard: Anterosuperior - blue; Anteroinferior - green; Posterior - black.
+DISSECTION:
+Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION: About 10 o&amp;apos;clock, there is an area of granulation tissue, fat necrosis and fibrosis consistent with the cavity measuring approximately 70x50x40mm. It is about 5nn from deep margin.
+(1 nipple; 2-17 sections of cavity [please refer to diagram]; 18 upper outer quadrant; 19 lower outer quadrant; 20 lower inner quadrant; 21 upper inner quadrant). RS (M-21)
+B. &amp;quot;RE-EXCISION RIGHT INFERIOR FLAP&amp;quot;. Irregular fibrofatty tissue fragments, 10g, and 50x30x20mm. Outer surface is inked blue, serially sliced. Sectioning does not show any tumour or lesion. Representative sections embedded in Blocks 1-4. RS (M-4/SM 25/5/2071 cy)
+MICROSCOPIC: (Dr T Skog)
+A.  Histology shows the previous biopsy cavity to be formed by maturing fibrous scar tissue and fat necrosis.  This is mostly benign breast with occasional focus of usual-type hyperplasia and a small intraduct papilloma.  Adjacent to the cavity there is a 4mm focus of intermediate grade DCIS which is well clear of margins.  The nipple is unremarkable.  No invasive carcinoma is identified.
+
+B.  Histology shows further benign fibrofatty breast tissue with no evidence of malignancy.
+
+DIAGNOSIS:
+A.  RIGHT MASTECTOMY - SMALL FOCUS OF DCIS, MARGINS CLEAR.
+B.  RE-EXCISION RIGHT INFERIOR FLAP - BENIGN FIBROFATTY BREAST TISSUE.
+27/6/2071 km

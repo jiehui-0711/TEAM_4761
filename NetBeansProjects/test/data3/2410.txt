@@ -1,0 +1,47 @@
+
+Episode No:  74X354285H
+749354.GXN
+
+Emmel, Giovanni 
+Lab No:  74X35428
+Gainford
+PENRITH    5046
+Specimen: Tissue
+D.O.B:  8/7/1998
+Sex:  F
+Collected: 10/05/2065 at 08:53
+Location:  StVincent-GOLF LINKS ROAD REHABILITATION CENTRE
+DR Dylan JULIAN Volle
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Lt adrenalectomy.  Breast Ca Met.  Lt para-aortic mass excision.  Distal pancreatectomy.  
+MACROSCOPIC:
+A.  Specimen labelled "Left adrenal gland", consists of an adrenal gland with surrounding fatty tissue 80 x 35 x 35mm weighing 26g.  The external surface is inked blue.  Most of the adrenal gland is occupied by a well defined pale solid nodule 22 x 20 x 15mm.  
+Blocks: 1 and 2 - RS of tumour (block 2 reserved block); 3 - adrenal gland away from tumour.
+B.  Specimen labelled "Left para-aortic tissue", consists of lymph nodes and attached fatty tissue 38 x 15 x 6mm.  Severalpossible lymph nodes are present from 5 to 16mm in maximum dimension.  
+Blocks: 1 - one trisected lymph node; 2 - lymph nodes as seen; 3 - one bisected lymph node.  AE.
+C.  Specimen labelled "Tail of pancreas", consists of a wedge shaped piece of pancreas 30 x 25 x 10mm.  The specimen is stapled along the straight edge.  The staples are removed and new margin is inked blue.  The external surface of the pancreas is inked red.  The specimen is sliced perpendicular to the stapled edge.  No lesions are seen.  
+Blocks: 1 and 2 - the pancreas serially sliced. 3 - tissue retrieved from the stapled line AE  (TO: IC;FA/vo 10.5.65). 
+MICROSCOPIC (Reported by Dr S Bendis):
+A.  Sections show adrenal with a deposit of poorly differentiated carcinoma.  The tumour is circumscribed and consists of closely packed trabeculae of cells with large, pleomorphic nuclei and a moderate amount of pale eosinophilic cytoplasm.  No gland formation is seen.  Mitoses are frequent.  There is no tumour necrosis.  No lymphovascular invasion is identified.
+The tumour appears to be mostly confined by the adrenal capsule but focally extends into surrounding fat.  Soft tissue excision margins are free of tumour.  The adjacent adrenal is unremarkable.  
+Immunostains:
+Gata 3:  Positive nuclear staining.
+Oestrogen receptor:  Positive.
+                                  100% of tumour cells show positive staining.
+                                  Predominant intensity of staining:  Strong.
+Progesterone receptor:  Negative.
+Her-2:  2+ positive staining (equivocal).
+Ki-67:  Proliferation index 15%.
+Synaptophysin:  Negative.
+Chromogranin:  Negative.
+The immunophenotype is most consistent with metastatic breast carcinoma.    
+
+B.  Sections show nerves and ganglia, one unremarkable lymph node and a small fragment of adrenal tissue.  No tumour is seen.  
+C.  Sections show pancreatic tissue.  No abnormality is seen.  
+
+DIAGNOSIS:  
+A.  Left adrenal:  Metastatic breast carcinoma. 
+B.  Left para-aortic tissue:  No tumour (0/1).   
+C.  Tail of pancreas:  No abnormality seen.  
+

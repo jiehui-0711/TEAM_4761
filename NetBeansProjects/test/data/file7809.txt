@@ -1,0 +1,129 @@
+SPR no: 08G5397000
+MRN no: 082539
+Site_name: EXMOUTH HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report*SUPPLEMENTARY REPORT ATTACHED*
+08G53970 (08G5397000) BORUVKA, LIZZETTE LIVIA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GI endometrioid adenoca, uterus, tubes and ovaries. right pelvic lymph nodes, left uterine artery node, left common lymph node, omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. Uterus with attached cervix, bilateral tubes and ovaries. It is received partially opened in the coronal plane. The anterior aspect is inked blue, posterior black. Uterus with attached cervix altogether weigh 54g and measures 65mm superior to inferior, 30mm intracornual distance. Ectocervix is 25x20mm with a slit like os 10mm. It is cream coloured and unremarkable. Serosa is smooth, anterior endometrium measures  17mm, posterior measures  20mm. Within the endometrial cavity is a papillary area measuring  8x2mm and is up to a height of 7mm. Underlying this area is a pale region which appears trabeculated ?adneomyosis, ?tumour. Anteriorly it occupies 10mm of 13mm and posteriorly it occupies 16mm of 20mm.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornu; 4 left cornu; 5 anterior half cervix; 6 anterior lower uterine segment; 7 anterior endometrium including papillary area; 8 anterior fundus; 9 posterior cervix; 10 posterior lower uterine segment and posterior endometrium; 11 posterior fundus).
+
+The right ovary and fallopian together weigh 6g. Ovary measures 22x12x7mm. The serosa is smooth and unremarkable. The fallopian tube measures 55mm in length with maximum diameter of 4mm. There is one paratubule cyst measuring  3mm in maximum dimension. On sectioning through the ovary it has a firm normal appearing cut surface.
+
+(12 right ovary; 13 right fallopian tube).
+
+Left ovary and fallopian tube altogether weigh 6g. Ovary measures  20x7x7mm. Serosa is unremarkable. Fallopian tube measures 50mm in length by 4mm in maximum diameter. Serosal surface is smooth. Adjacent to the fallopian tube in the soft tissue is a pale white nodule 3mm in maximum dimension. On sectioning through the ovary it has a firm normal appearing cut surface.
+
+(14 nodule and left ovary; 15 left fallopian tube). RS (M-15).
+
+B. &amp;quot;RIGHT PELVIC LYMPH NODES&amp;quot;. A fibrofatty piece of tissue measuring  20x10x5mm. Three possible nodes identified.
+
+(1 one lymph node; 2 two lymph nodes). AE (M-2).
+
+C. &amp;quot;LEFT COMMON LYMPH NODE&amp;quot;. One lymph node measuring  7mm in maximum dimension. AE (1-1)
+
+D. &amp;quot;LEFT UTERINE ARTERY NODE&amp;quot;. A piece of fatty tissue, no lymph nodes identified macroscopically measuring 10mm in maximum dimension. AE (1-1).
+
+E. &amp;quot;OMENTAL BIOPSY&amp;quot;. A piece of fatty tissue consistent with omentum measuring  30x15x3mm. No suspicious areas identified. AE (1-1/MC/ht).
+
+MICROSCOPIC:     (Dr B Cornmesser)
+Specimen A.
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid
+
+FIGO grade:  1
+
+(architecture grade: 1 , nuclear grade: 1 )
+
+Myometrial invasion:  Invasion into outer half of myometirum
+
+Depth of myometrial invasion:   11mm
+
+Myometrial thickness:   16mm
+
+Focality:  Unifocal
+
+Tumour involves: Body
+
+Vascular/lymphatic invasion:  Present
+
+Involvement of cervix:  Not involved
+
+Involvement of uterine serosa:  No
+
+Excision margins:
+Carcinoma is clear of cervical surgical margins.
+
+Non-tumour uterus:
+Adenomyosis:
+
+Adnexae:
+Left fallopian tube:  Unremarkable
+Right fallopian tube:  Unremarkable
+Left ovary:  Unremarkable
+Right ovary:  Unremarkable
+
+Lymph nodes:  (Specimen B,C,D)
+Nodes involved:  0
+Total number:  5 (3 nodes in Specimen B; and one node each in Specimen C and D).
+
+Other tissues:
+Specimen E: Omentum - unremarkable.
+
+
+Comment:
+1. There is deep adenomyosis with involvement by adenocarcinoma . However, there is also deep myometrial invasion by carcinoma.
+2. There is necrosis with histiocytic reaction of one node in Specimen B (Block B1). PAS and Z-N stains are negative. The aetiology and significance of this is uncertain. Cam 5.2 of this block shows focal dendritic pattern staining only.
+3. MSI + Immunohistochemistry pending (A10).
+4. There is a single vessel with features of vasculitis within the cervical stroma (block A9). This finding usually represents so call &amp;apos;isolated organ vasculitis&amp;apos; however clinical/serologic excusion of a systemic vasculitis should be consdiered.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1b, pN0
+
+FIGO stage: 1B
+
+DIAGNOSIS:
+A. UTERUS
+- ENDOMETRIOID ADENOCARCINOMA - GRADE 1.
+- FOCAL VASCULITIS OF CERVIX - SEE COMMENTS.
+
+B. RIGHT PELVIC LYMPH NODES
+- NEGATIVE FOR MALIGNANCY(FOCAL NECROSIS OF UNCERTAIN SIGNIFICANCE) - SEE TEXT.
+
+C. LEFT COMMON LYMPH NODE
+- NEGATIVE FOR MALIGNANCY.
+
+D. LEFT UTERINE ARTERY NODE
+- NEGATIVE FOR MALIGNANCY.
+
+E. OMENTUM:
+- NEGATIVE FOR MALIGNANCY.
+
+30/11/2066 cy
+
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (The First American Laverty; block: A10)
+
+MLH1:  Absent staining
+PMS2:  Absent staining
+MSH2:  Positive staining present
+MSH6:  Positive staining present
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+6/12/2066 ank

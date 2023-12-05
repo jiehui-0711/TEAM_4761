@@ -1,0 +1,42 @@
+SPR no: 80P938690E
+MRN no: 80693869
+Site_name: MILDURA BASE PUBLIC HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+TLH + BSO + Pelvic lymph node dissection grade 1 endometrial cancer.  Grade 1 endometrial cancer, Ca 125 171, Ca 19.9 1135, CEA 3.7.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a previously opened uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 135g in total.  The uterus is received with an incision through the posterior aspect, exposing the endometrial cavity.  The uterus measures 78 x 54 x 45mm and has a smooth and shiny serosal surface.  The ectocervix measures 22 x 20mm and has an unremarkable surface.  On sectioning the endometrium is mostly replaced by an infiltrating sessile tumour involving the anterior and posterior uterine wall creating a mass measuring 48 x 43mm seen to within 33mm of the ectocervix.  Tumour is seen to a depth of 18mm of a total myometrial thickness of 24mm (greater than 50%).  Tumour is not seen to extend into the cornu / fallopian tube.  The right fallopian tube and ovary weighs 5.6g with fallopian tube measuring 45mm in length to a diameter of 6mm.  The serosal surface is smooth and shiny.  The right ovary measures 25 x 18 x 8mm and contains a solid and cystic lesion measuring 8mm in maximal dimension.  The left fallopian tube and ovary weighs 7.3g with tube measuring 44mm in length to a diameter of 6mm with a parafimbrial cyst measuring 11mm in maximal dimension.  The left ovary measures 24 x 15 x 7mm.  The serosal surface is smooth and shiny and the cut surface is unremarkable.
+Blocks: 1 to 6 - full LS of anterior body and cervix showing tumour with underlying myometrial invasion; 7 to 11 - full LS of posterior body and cervix showing tumour with deepest myometrial invasion; 12 - right fallopian tube; 13 &amp;amp; 14 - right ovary bisected; 15 - left fallopian tube; 16 &amp;amp; 17 - left ovary bisected.
+
+B.  Specimen labelled &amp;quot;Right pelvic lymph nodes&amp;quot;, consists of multiple pieces of fatty tissue measuring 60 x 45 x 20mm in aggregate.  Seven possible lymph nodes are identified within the tissue ranging in size from 5 to 18mm in maximal dimension.
+Blocks: 1 - three nodes; 2 to 4 - one lymph node per block, each node in 4 sections; 5 &amp;amp; 6 - one lymph node in 5 sections.
+
+C.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of multiple pieces of fatty tissue measuring 45mm x 30mm x 25mm in aggregate.  Four possible nodes are identified within the fat ranging in size from 7 to 25mm in maximal dimension.
+Blocks: 1 - one node; 2 &amp;amp; 3 - one node per block; 4 &amp;amp; 5 - one node in 7 sections.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of omental fat measuring 67 x 43 x 22mm.  The tissue is lobular in appearance and no focal lesions are identified.  Representative sections 3 blocks.
+(TO:AP/eh 17/7/69)
+
+
+MICROSCOPIC (Reported by Dr V Chee):
+A.  Sections show grade 1 endometrioid adenocarcinoma of the endometrium with focally prominent squamoid differentiation.  Carcinoma invades to a depth of 16mm through a wall thickness of 26mm.  No lymphovascular or perineural invasion is seen.  The ectocervix and endocervix show no significant abnormality.  The right ovary contains benign serous cysts and the left ovary appears normal.  Both fallopian tubes show no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block A3)
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+B.  The six (6) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+C.  The four (4) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+D.  Sections of the omentum show no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A &amp;#8211; D.  Uterus and cervix, bilateral fallopian tubes and ovaries, pelvic lymph nodes and omentum:
+- Grade 1 endometrioid adenocarcinoma of the endometrium
+- Invasion to a depth of 16mm through a wall thickness of 26mm
+- No lymphovascular invasion identified
+- Cervix uninvolved
+- 10 benign lymph nodes
+- Omentum negative

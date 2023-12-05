@@ -1,0 +1,92 @@
+Episode No:  04F2025325
+042202.OKF
+
+ROTTMAN, SHAYNES THARAWAL 
+LabNo:  04F20253
+Surveyor
+BACCHUS MARSH  TAS  1811
+Specimen: Tissue
+D.O.B:  15/1/1997
+Sex:  M
+Collected: 27/05/2013 at 09:00
+Location:  PARKES 8-AUSTIN HEALTH - HEIDELBERG REPATRIATION HOSPITAL
+DR MONTE ALYSHA GUIFFRE
+Distribution:   FILE-COPY, DR Schaal,   NSW-CANCER-REGISTRY, DR Kubert
+SUPPLEMENTARY REPORT: CORRECTION OF TYPOGRAPHICAL ERROR 
+Dr C Hubsch (3.9.2063)
+
+SUPPLEMENTARY REPORT (2.7.2063): MSI IMMUNOHISTOCHEMISTRY
+Dr CHerbert
+
+CLINICAL:
+Distal sigmoid colon cancer.  Low anterior resection and distal donut.  Para-aortic tissue. 
+MACROSCOPIC:
+A.  Specimen labelled "Sigmoid rectal", consists of a section of sigmoid and rectum 140mm in length.  The distal resection margin appearsto be just above the anterior peritoneal reflection point.  18mm from the distal resection margin there is a flattened area with hardened edges measuring 28 x 25mm on the left lateral wall which take up approximately 30% of the circumference of the bowel wall. The posterior left mesenteric margin is inked blue and the posterior right mesenteric resection is inked black. The tumour appears to invade to a maximum depthof 6mm and into the muscularis propria but not through it and is 15mm from the posterior mesenteric margin.   Multiple lymph nodes are identified in the mesenteric fat.  Block 1 - margin to tumour; 2 - extra tissue from block 1 to margin; 3 - tumour to margin; 4-7 - further tumour; 8 - proximal resection margin; 9 - apical lymph node; 10 - lymph nodes; 11 - one lymph node serially sectioned; 12 - further lymph nodes. 
+B.  Specimen labelled "Distal donut", consists of a donut of mucosa 18 x 15 to a length of 6mm.  Representative sections in 1 block.
+C.  Specimen labelled "Periaortic", consists of a piece of fatty tissue measuring 40 x 15 x 5mm with a suture attached to one side. AE 1 block.  (SBc/ec 29.7.63) 
+MICROSCOPIC:  (Reported by Dr C Gasse)
+A.  The rectosigmoid tumour is a moderately differentiated adenocarcinoma. A synoptic report for colorectal carcinoma follows:
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Rectosigmoid colon.	
+Maximum tumour diameter: 28mm.
+Distance of tumour to nearer cut end: 5.5mm (microscopic).
+Tumour perforation: No.
+Relation of tumour to anterior peritoneal reflection:	 Above.
+Microscopic Description
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria.
+
+Tumour involvement of margins
+Cut ends: Not involved.
+Non-peritonealised circumferential margin: Not involved
+Lymph nodes
+Number of lymph nodes present: Twelve.	
+Number of lymph nodes involved: Two (2/12).	
+pN1b	Metastases in 2-3 regional LN
+Lymphovascular invasion
+Not identified.
+Perineural invasion
+Present.
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically.
+Background abnormalities/other comments
+The rectosigmoid colon adjacent to the tumour shows changes consistent witha peritumoral abscess. There is also an associated mild to moderate active serositis. 
+Residual tumour status
+R0	No residual tumour.
+Mismatch Repair Deficiency (MMRD) Status	
+Pending.
+Tumour Stage (pTNM 7th Edition): 3B (pT3N1bMx)	
+B.  Sections of the bowel wall donuts show patchy mild to moderate non-specific active inflammation. There is no evidence of malignancy. 
+C.  Sections show fragments of fibroadipose tissue and portions of a large muscular vessel. Two lymph nodes show reactive changes (0/2). There is no evidence of malignancy. 
+DIAGNOSIS:
+A.Rectosigmoid colon: 28mm, pTNM stage 3B, moderately differentiated adenocarcinoma of the rectosigmoid colon. There is metastatic adenocarcinoma in two of twelve sampled lymph nodes (2/12).
+
+B.  Distal donut: No evidence of malignancy.
+
+C.  Periaortic tissue: No evidence of malignancy in two lymph nodes (0/2). 
+
+Markers of microsatellite instability are being performed and a supplementary report will be issued. 
+
+SUPPLEMENTARY REPORT (2.7.2063): MSI IMMUNOHISTOCHEMISTRY
+Dr C Agler
+Immunoperoxidase stains for MSI proteins
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+COMMENT:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+***SUPPLEMENTARY REPORT: CORRECTION OF TYPOGRAPHICAL ERROR 
+Dr C Braucks (3.9.2063)
+The original report contained a typographical error in which the cut margin was incorrectly stated as being "involved". The above report has now been amended (in bold) and correctly states that the cut margins are not involved.
+
+
+

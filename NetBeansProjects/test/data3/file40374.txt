@@ -1,0 +1,78 @@
+SPR no: 66S602043B
+MRN no: 10673738
+Site_name: SHELLHARBOUR HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report66S60204 (66S602043B) HEINONEN, ANTONIO, Oliver-Marcelino
+HISTOPATHOLOGY REPORT
+GOULBURN VALLEY HEALTH - SHEPPARTON CAMPUS AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Palliative.  Small bowel NET.  Gallstones.  Small bowel, gallbladder.
+
+MACROSCOPIC:
+&amp;quot;SMALL BOWEL AND GALLBLADDER&amp;quot;.  Consists of gallbladder and a segment of small bowel.  The gallbladder measures 75mm in length with a maximum diameter of 30mm. The serosa is unremarkable.  The wall is up to 2mm thick. The mucosa is granular green in appearance.  Within the lumen are multiple stones ranging from 1-4mm.
+
+(1 cystic duct and neck of gallbladder; 2 body and fundus)
+
+The segment of bowel measures 120mm in length with a maximum diameter of 30mm.  The serosa is kinked centrally.  On opening there is a tumour located at the kinked site.  This is 60mm from one margin and 45mm from opposite margin. Closest margin is inked blue, opposite margin black.  The tumour infiltrates into the underlying mesentery and appears to be clear of the serosa.
+
+(3 margins; 4-7 TS through tumour [4&amp;amp;5 composite slices]; 8 LS of tumour in relation to normal bowel). RS (M-8/ MC 27/1/2068 ank)
+
+Further blocks:
+(9-13 further blocks).  RS (M-13/SM 2/1/2070 ank)
+
+MICROSCOPIC:  (Dr R Khalsa)
+Sections of the gallbladder show features of very mild chronic cholecystitis. There is no thickening of the muscularis.
+
+Sections of the small bowel tumour show a grade 1 (WHO) well differentiated neuroendocrine tumour. See synoptic report for details.
+
+SMALL BOWEL NEUROENDOCRINE TUMOUR (Based on CAP 2017)
+
+PROCEDURE: Segmental resection, small intestine
+
+TUMOUR SITE: Small intestine, not otherwise specified
+
+TUMOUR SIZE:
+Greatest dimension: 23mm
+Additional dimensions:20 x 20mm
+
+TUMOUR FOCALITY: Unifocal
+
+HISTOLOGIC TYPE AND GRADE: G1, Well differentiated neuroendocrine tumour
+
+MITOTIC RATE: &amp;lt;2 mitoses / 2mm&amp;#178;
+
+Ki67 LABELLING INDEX: &amp;lt;3% (1%)
+
+TUMOUR EXTENSION: Tumour invades through visceral peritoneum
+
+MARGINS:
+Proximal margin: Uninvolved by tumour
+Distal margin: Uninvolved by tumour
+Radial margin: INVOLVED by tumour.
+
+LYMPHOVASCULAR INVASION: Present
+PERINERUAL INVASION: Present
+
+LARGE MESENTERIC MASSES (&amp;gt;2cm): Not identified
+
+REGIONAL LYMPH NODES: No lymph nodes submitted or found
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th edition):pT4, pNX
+
+ADDITIONAL PATHOLOGIC FINDINGS: None identified
+
+ANCILLARY TESTS:
+Immunostains:
+Chromogrannin, synaptophysin: Positive
+CAM 5.2: Positive with paranuclear dot positivity
+Ki67: 1% (1000 cells counted)
+
+DIAGNOSIS:
+GALLBLADDER AND SMALL BOWEL SEGMENTAL RESECTION
+- GRADE 1 WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR OF THE SMALL BOWEL EXTENDING TO INVOLVE THE SEROSAL SURFACE AND FORMING THE MESENTERIC RADIAL MARGIN, pT4
+- PERINEURAL INVASION AND EXTENSIVE LYMPHOVASCULAR SPACE INVASION
+- MILD CHRONIC CHOLECYSTITIS
+
+2/5/71 ld

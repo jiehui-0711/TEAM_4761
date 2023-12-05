@@ -1,0 +1,79 @@
+Episode No:  30S099970I
+307099.YTB
+
+WEAR, Ezequiel 
+Lab No:  30S09997
+Tilson
+COROWA  South Australia  6398
+Specimen: Tissue
+D.O.B:  10/4/2004
+Sex:  M
+Collected: 5/3/2063 at :
+Location:  DARLING POINT-CUNDERDIN HEALTH SERVICE
+DR Hayden GLASPIE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+ADDITIONAL REPORT:  (2.3.63)
+
+CLINICAL:
+Left frontal haemorrhage, underlying lesion on MRI, ?high grade glioma.  
+MACROSCOPIC:
+A.  Specimen labelled "Left frontal lobe tumour" consists of a piece of tan/red tissue measuring 18 x 14 x 5mm.  A 10 x 10 x 5mm piece sent for frozen section.
+Blocks:  1 - frozen section AE; 2 - remainder of tissue AE.
+FROZEN SECTION REPORT:
+High grade glioma.
+Phone result to Dr Disalvi by Dr K Ekstrand/Dr K Mervin at 3.59pm on 3/1/13.
+B.  Specimen labelled "Left frontal tumour" consists of multiple fragments of tan and haemorrhagic tissue 50 x 50x 15mm in aggregate.  The majority of the specimen has a ragged external edge while a few small focal areas appear smooth.  AE five blocks.
+C.  Specimen labelled "Posterior left frontal tumour" consists of fragments of tan, cream and haemorrhagic tissue measuring 25 x 20 x 12mm in aggregate.  A few small pieces appear smooth and glistening while the remainder appears ragged.  AE two blocks.    (KT/cc  6/3/63) 
+ 
+MICROSCOPIC (Reported by Dr K Sweets): 
+A to C. Sections show a cellular lesion, composed of sheets of tumour cells with small ovoid to elongated nuclei and minimal cytoplasm.  Scattered mitoses, endothelial proliferation, palisading and non-palisading necrosis are present. Areas of infarction, haemorrhage withhaemosiderin and haematoidin deposition are seen. Focally there are thin walled vessels present in the background.
+Together with immunohistochemical findings, the features would favour a glioblastoma (WHO grade 4), small cell variant.  1p/19q and EGFR FISH testing will be performed to exclude the possibility of an anaplastic oligodendroglioma.
+
+Immunohistochemical stains: 
+GFAP: Patchy positive staining
+IDH1: -ve
+Ki67 index: up to 30%
+p53: positive in < 1% of tumour 
+
+Molecular tests: 
+Tissue will be sent to Dr MARLIN DOCKERY, ST GEORGE HOSPITAL (QLD) Cancer Centre for MGMT methylation testing.
+Tissue will be sent to COBAR DISTRICT HOSPITAL's Hospital, BUNINYONG, for 1p/19q and EGFR FISH.
+
+Block for potential treatmenttrial: 
+Tumour including the more proliferative nodules is best seen in block B4. 
+
+
+DIAGNOSIS:
+A to C. Left frontal tumour
+- High grade glioma, favour glioblastoma (WHO grade 4), small cell variant
+- 1p/19q and EGFR FISH (to exclude anaplastic oligodendrogioma) pending.
+ADDITIONAL REPORT:  (17.3.63)
+
+Dr K Bevington, SEALS central's Pathology reports:
+
+RESULTS:
+This case was analysed for 1p/19q LOH using Vysis dual colour probe sets LSI 19q13/19p13.  Cut off values were adopted Smith et al. 2000 (J ClinOncol: 18;636-645) who defined a 1p/1q ratio of <0.85 and a 19q/19p ratio of <0.9 as indicating LOH.  The case was also hybridised with Vysis LSI EGFR/Cep7 dual colour probe pair to assess whether amplification of EGFR was present.
+Chromosome 1
+Mean copies 1p per cell: 2.25
+Mean copies 1q per cell: 2.05
+1p/1q ratio: 1.1
+Interpretation: Negative for 1p loss
+Chromosome 19
+Mean copies 19q per cell: 2.29
+Mean copies 19p per cell: 2.15
+19q/19p ratio: 1.07
+Interpretation: Negative for 19q loss
+EGFR:
+Mean copies of EGFR per cell: 34.0
+Mean copies cep7 per cell: 2.95
+EGFR/cep7 ratio: 11.52
+Interpretation:  High level EGFR amplification present.
+CONCLUSION:  EGFR amplification is present, consistent with (primary) small cell glioblastoma.  
+
+ADDITIONAL REPORT (2.3.63)
+Tissue has been sent to Dr Aristide MCMAKIN, CENTRAL GIPPSLAND HEALTH SERVICE (MAFFRA) Cancer Centre for MGMT methylation testing.
+The lesion shows NO evidence of MGMT methylation.
+Note: The results are for research purposes only and are not NATA accredited.
+
+

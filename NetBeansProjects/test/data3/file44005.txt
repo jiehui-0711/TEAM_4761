@@ -1,0 +1,94 @@
+SPR no: 29F513099L
+MRN no: 1172177
+Site_name: BALRANALD MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode #: 29F513099L 		Lab #: 29F51309
+MRN: 29525887 (2925130.YXL)
+Name: Gabriele, Juliette
+Address: 12 Humphrey St, DENILIQUIN, Northern Territory, 6433
+DOB: 20-Jul-1989  F
+Consultant: DR Adam KIM Mcneilly
+Collected: 28-Mar-2068   		Location: SWAPS-BARWON HEALTH - ASHLEY MANOR CAMPUS
+Copies to:        FILE-COPY,   NSW CANCER REGISTRY
+_____________________________________________________________________________
+
+CLINICAL:
+Caecal Ca.  Lap Rt hemi.  No mets.  No perforation.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;, consists of a segment of large bowel, (130mm in length; 55mm circumference), terminal ileum (60mm length; 33mm circumference), and pericolic fibroadipose tissue (up to 70mm in width).  An appendix is not identified.  The caecal lumen is expanded by a solid/papilliform tumour, 47 x 50 x 25mm.  The tumour is at least 60mm from the proximal margin and 80mm from the distal margin.  The remaining bowel mucosa shows no significant abnormality.  The stapled bowel margins are inked blue.  On sectioning, the tumour extends to a depth of 19mm, and may focally involve muscularis propria.  Blocks: 1 - LS proximal margin; 2 - LS distal margin; 3 to 5 - deepest tumour invasion; 6 - central tumour; 7 - apical margin, apical lymph node as seen; 8 - remaining apical lymph node; 9 - single lymph node, trisected; 10 - single lymph node; 11 - single lymph node, bisected; 12 &amp;amp; 13 - single lymph node, sectioned (?involved); 14 to 21 - fibroadipose tissue, lymph nodes as seen.
+(TO:JB/ta 20/4/69)
+
+
+MICROSCOPIC (Reported by Dr G Florencio):
+Sections show a moderately differentiated invasive adenocarcinoma arising and associated from tubulovillous adenoma with moderate dysplasia.  The tumour has the following features:
+
+BOWEL CANCER PROFORMA
+
+Macroscopic Description
+
+Site of tumour: Caecum
+Maximum tumour diameter: 50mm
+Distance of tumour to nearer cut end: 60mm
+Tumour perforation:  No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS.
+
+The tumour is composed of predominantly complex cribriform glands, many of which garland necrosis, as well as a few smaller tubular glands.
+
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+T2	Invasion into muscularis propria (eg block 4)
+
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: Well clear
+
+Lymph nodes
+Number of lymph nodes present:  12
+Number of lymph nodes involved:  1
+
+N1a	Metastases in 1 regional LN
+
+Lymphovascular invasion
+Not seen
+
+Perineural invasion
+Not seen
+
+Histologically confirmed distant metastases
+MX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+Adenomas Tubulovillous adenoma with moderate (low grade) ________
+
+Residual tumour status
+R0	No residual tumour
+
+Immunohistochemistry:
+Mismatch Repair Deficiency Protein Expression (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Stage (AJCC 8th Ed 2017):
+Stage pT2 N1 MX R0
+
+
+
+DIAGNOSIS:
+Right hemicolectomy:
+-  Moderately differentiated adenocarcinoma in caecum, invades muscularis propria, no lymphovascular invasion seen, no perineural invasion seen, margins clear, one of twelve mesocolic lymph nodes containing metastatic adenocarcinoma (1/12), preserved mismatch repair enzyme immunoexpression, stage pT2 N1 MX R0 (AJCC 8th Ed 2017).

@@ -1,0 +1,36 @@
+SPR no: 59K078222A
+MRN no: 59307822
+Site_name: NEWMAN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (18.6.2069)
+
+CLINICAL:
+Laparoscopic assisted hysterectomy.  BMI=54.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, right ovary and tube&amp;quot;, consists of a uterus with attached cervix, and right fallopian tube and ovary weighing 177g in total.  The uterus measures 112 x 70 x 56mm and has a smooth shiny serosal surface.  The anterior paracervical soft tissue is inked blue and the posterior is inked black.  The ectocervix measures 24 x 20mm and has an unremarkable surface.  The endometrium is largely replaced by a tan tumour, 45 x 30 x 22 mm.  The tumour appears to invade 14mm in a maximum myometrial thickness of 23mm.  There is an anterior intramural fibroid, 23mm.  The right fallopian tube is 70 x 9 x 9mm and the right ovary is 38 x 34 x 29mm.  The ovary is expanded by multiple nodules of pale to yellow tissue up to 19mm in diameter.  At the junction of the right tube and ovary is a haemorrhagic cyst, 16 x 10 x 8mm.   Blocks: 1 to 7 - full LS anterior body and cervix; 8 &amp;amp; 9 - full thickness section tumour anterior uterine body; 10 to 15 - full  LS posterior body and cervix; 16 to 19 - two full thickness sections of posterior uterine body, (each bisected with deepest macroscopic extent in blocks 16 &amp;amp; 17); 20 &amp;amp; 21 - right fallopian tube; 22 to 25 - two sections of ovary each bisected.   (TO:SW/ta 9/10/69)
+
+
+MICROSCOPIC (Reported by Dr O Leidig):
+The sections show a grade 2 endometrioid adenocarcinoma of the endometrium.  The tumour shows mostly glandular architecture as well as areas of solid architecture.  The tumour shows a moderate degree of cytologic atypia.  The tumour invades 13mm through a myometrial wall thickness of 22mm.  Extensive lymphovascular invasion is present.  The ectocervix and endocervix are uninvolved and unremarkable.  There is a para-adnexal haemorrhagic cyst, with features suggestive of an endometriotic cyst.  The right ovary contains a mature cystic teratoma, with no immature elements identified.  The fallopian tube and ovary show no evidence of malignancy.
+
+MSI immunohistochemistry is in progress, to follow in a supplementary report.
+
+
+DIAGNOSIS:
+Uterus with cervix, right fallopian tube and ovary:
+-  Grade 2 endometrioid adenocarcinoma of the endometrium.
+-  Tumour invades outer half of myometrium.
+-  Extensive lymphovascular invasion present.
+-  Cervix uninvolved.
+-  Mature cystic teratoma of the right ovary.
+-  MSI immunohistochemistry to follow.
+SUPPLEMENTARY REPORT (18.6.2069)
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

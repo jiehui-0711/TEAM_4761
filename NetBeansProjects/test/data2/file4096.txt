@@ -1,0 +1,93 @@
+SPR no: 95D701664Y
+MRN no: 951701
+Site_name: ROYAL MELBOURNE HOSPITAL - ROYAL PARK CAMPUS
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Reportdery1080drsellx342040Episode No:   95D701664Y
+951701.RRL
+fcs0 rw10 clftsWidth3
+Margarito, 039 Wynter JAHNCKE
+lphart0 bs3420Lab No:   95D70166,95D70166
+Sharpe
+brdrsbrdrr rsllx34200
+rchBALRANALD  South Australia  3741srsid16524489
+fcs1 08brdrw10 pha
+dctlpars11clvertaltclbrdrrhclwWidth3528drsclwWidth20263Specimen: Washings,Tissues1
+D.O.B:  9/7/1991
+Sex:  f0 F
+rb0 8500 drsidth3528tblColl ected: 27/05/2018 at 09:36
+Location:  PaLMS
+33 dth1rdrtdefault
+s0 DR Truman Lijewski
+brdrw10 ldth3
+lin0
+brdrsclbrdrbhDistribution:  *CopyToDoctors   FILE-COPY,   R.R. Donnelley
+s20rdrbw10 afs20
+chSUPPLEMENTARY REPORT 1/8/65
+HISTORY:
+Serous endometrial Ca.  Having radial hysterectomy.  R pelvic lymph node. Frozen section.
+G3 ? serous endometrial ca.  Peritoneal washings for cyto.   Uterus, tubes and ovaries, omental biopsy, left pelvic node, Pouch of Douglas biopsy.
+0 MACROSCOPIC:
+081A.  &amp;#8220;UTERUS + BILATERAL TUBES + OVARIES&amp;#8221;.  A uterus with attached cervix, bilateral tubes and ovaries.  The specimen has been previously opened with an anterior sagittal incision from cervix to fundus showing prot ruding tumour from the lumen.  The specimen weighs in total 155g.  The uterus measures up to 60mm from medial to lateral, 90mm from fundus to cervix and 45mm from anterior to posterior. The cervix has a blue discolouration.  It measures  35mm in diameter and appears unremarkable.  The right fallopian tube measures 90mm in length and 7mm in external diameter. The right ovary measures up to 30x15x15mm.  The left fallopian tube measures up to 75mm in length and 7mm in ext ernal diameter and the left ovary measures up to 25x15x8mm.  The serosal surface of the uterus posteriorly shows some irregular pale areas ? tumour (inked red).  On further sectioning there is a pale polypoid tumour which measures up to  60x55x40mm and appears to invade with an irregular margin over 60% of the thickness of the myometrium (myometrial thickness appears to be 15mm at the fundus).  The tumour does not macroscopically extend into the lower uterine and cervi cal segment.  The tumour is centred on the posterior wall and approaches the right and left cornu.  The tumour appears to extend to the red inked serosal surface and the right lateral parametrial region.  On sectioning the ovaries are unr emarkable.
+(1-3 anterior cervix to body of uterus; 4-11 posterior cervix to fundus including tumour [according to attached diagram, notches inferior, matching notches double]; 12 right tube LS fimbrial end and TS; 13 RS/TS ri ght ovary; 14 LS fimbrial end and TS tube with pedunculated 5mm paratubal cyst; 15 RS/TS left ovary; 16&amp;amp;17 tumour extending to serosal surface [inked red]; 18 right parametrial tissue; 19 left parametrial tissue; 20 right cornu; 21 left c ornu; 22 right lateral uterus [yellow ink parametrial edge not true margin]; 23 tumour reserve block).  RS (M-23)
+B.  &amp;#8220;OMENTAL BIOPSY&amp;#8221;. An irregular pieces of fatty tissue measuring 40x20x10mm.  Focally there is a pale to  grey irregular area which is suspicious in appearance measuring 4mm.
+(1 fat with suspicious area; 2 remaining fat).  AE (M-2)
+C.  &amp;#8220;LEFT PELVIC LYMPH NODE&amp;#8221;.  One piece of fatty tissue 5mm.  AE (1-1)
+D .  &amp;#8220;POUCH OF DOUGLAS BIOPSY&amp;#8221;.  Two irregular pieces of pale tissue measuring 5 and 6mm in maximal extent.   AE (2-1/EE/ank)
+cs1 E.  &amp;#8220;RIGHT PELVIC LYMPH NODE&amp;#8221;. Consists of a lymph node with attached fat, measuring 28mm in maximum dimension.
+F/S : &amp;#8220;High grade carcinoma co nsistent with serous carcinoma&amp;#8221;.  Reported to Dr. ARDEN AUSTON at 14.18Hrs by Dr. X. Homer on 24.7.65.
+(1 FS; 2&amp;amp;3 further RS firm node).  RS (M-3/EE)
+lin0
+MICROSCOPIC:tlch  (Dr X Hohm)
+A.  Sections show high grade serous  endometrial adenocarcinoma.  Carcinoma is characterised by an exophytic polypoid intraluminal component, together with invasive carcinoma which extends through the full thickness of the wall of the uterus to form the posterior serosal sur face over a broad front. There is extensive lymphovascular space invasion, and focal small vessel invasion.  Non tumour endometrium shows atrophic features, and sections of the cervix are unremarkable.  Sections of the right parametrium  show fragments of tumour within a thin walled vessel (presumed vein).  Sections of the bilateral ovaries and fallopian tubes are unremarkable.
+B.  Sections show unremarkable fragments of omental fat. There is no evidence of  malignancy.
+C.  Sections show a portion of fat.  There is no lymph node present. There is no evidence of malignancy.
+D.  The two fragments are somewhat crushed and characterised by focal mild to moderate diatherm y artefact.  Nonetheless, there is a surface proliferation together with infiltration by groups and single atypical cells characterised by pleomorphic hyperchromatic nuclei with a small to moderate amount of cytoplasm. The appearances are  highly suggestive of involved by serous carcinoma.  Immunstains show that the cells are positive for CK5/6, EMA, WT1, and HBME1 and negative for calretitin. The negative calretinin favours serous carcinoma. The remainder of stains may be  positive in mesothelial proliferations and serous carcinoma.
+E.  Sections confirm the frozen section diagnosis of involvement of the lymph node by high grade serous carcinoma.  The carcinoma virtually replaces the lymph node w ith focal probable extranodal spread. There is a smaller adjacent benign lymph node.
+ENDOMETRIAL CARCINOMA, SYNOPTIC REPORT1:
+Tumour typep3081:  High Grade serous carcinoma27
+FIGO grade:  af2 N/A
+3081Myometrial invasion:  fcs0 Complete
+insrsid1252039% of myometrium invaded:   100rtlch%
+Tumour involves :  Uterine fundus and bodyp3081
+Vascular/lymphatic invasion1:  Present (extensive)
+
+Involvement of cervixfs24 :  Absent53027
+Invo lvement of uterine serosa:  Present
+Excision marginsngfe1033:  Cervical margin well clearharrsid14553027
+Non-tumour uterus7 :
+Adjacent endometrium:  Atrophic
+Adenomyosis:  rtlchAbsent
+fe1033Adnexae:
+Left fallopian tube:  np3081Within normal limits
+Right fallopian tube:  2039 Within normal limits
+Left ovary:  Within normal limits
+Right ovary:  Within normal limitss0
+Lymph nodes033:  Involved
+Nodes involved:  1/1 (Right pelvic lymph node)
+Total number:   1
+e1033Other tissues:
+Omentum : Benign. Vascular involvement of right parametrium.
+1Immunostains for MSI proteins  (blockbch  A11)
+MLH1:  	POSITIVE (normal)
+PMS2: 	POSITIVE (normal)
+MSH2: 	POSITIVE (normal)
+MSH6: 	POSITIVE (normal)
+ochComment:
+Mismatch repair gene deficiency NOT DETECTED
+par
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+tright
+TNM stage:  pT3a, pN1
+9FIGO stage: III C
+lt
+hDIAGNOSIS:  e1033
+A,B,C,D.  UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES, OEMNTUM, LEFT PELVIC LYMPH NODE, RIGHT PELVIC LYMPH NODE AND POUCH OF DOUGLAS BIOPSY &amp;#8211;
+-HIGH GRADE SEROUS CARCINOMA OF THE ENDOMETR IUM INVOLVING THE FULL THICKNESS OF THE WALL OF THE UTERUS EXTEND TO THE SEROSAL SURFACE, EXTENSIVE LYMPHOVASCULAR SPACE INVASION, VASCULAR SPACE INVASION OF THE RIGHT PARAMETRIUM AND INVOLVED RIGHT PELVIC LYMPH NODE, TNM STAGE pT3a, pN1.
+6/1/2065 ank
+itap0
+apdefault4489 SUPPLEMENTARY REPORT 12/8/68
+cgridER and PR performed at the request of Dr Ngarigo ARNSWORTH.
+The carcinoma is weakly positiv e for ER.  Approximately 50% of the nuclei show 1+ positive nuclear staining.
+The stain for PR is weakly positive. Approximately 30% of nuclei show 1+ positive nuclear staining.
+12/7/68 ldcs0

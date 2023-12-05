@@ -1,0 +1,87 @@
+
+Episode No:  37T060857P
+3770608.NSP
+
+GROSKREUTZ, Sebrina 
+Lab No:  37T06085
+Bagwell
+LAWSON  TAS  6316
+Specimen: Tissue
+D.O.B:  27/6/1988
+Sex:  M
+Collected: 14/12/2065 at 20:19
+Location:  EAST SURGICAL-BEAUDESERT HOSPITAL
+DR Melissia MARINA Camors
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Distal oesophageal Ca.  
+Additional information obtained:  Patient received neoadjuvant therapy.
+MACROSCOPIC:
+A.  Specimen labelled "Oesophagectomy" consists of a specimen of distal oesophagus (90mm in length and up to 55mm in circumference) and proximal stomach (55mm along the lesser curvature and 115mm along the stapled distal margin).  The attached fatty tissue is patchy and up to 25mm across.  The circumferential margin is inked black.  At the distal end of oesophagus extending into the junction with the stomach there is a circumferential and possibly ulcerated solid tumour 50 x 30mm in surface dimensions.  The tumour is 20mm from the distal stapled margin and 80mm from the proximal margin. 30mm from the proximal margin there is a polypoid mucosal mass 12 x 10 x 10mm.  The stapled margin is inked green after removing the staples. Proximally and surrounding the oesophagus there are multiple nodules ranging from 8 to 40mm in maximum dimension.  Most of these appear to be lymph nodes.  The largest nodule is 40 x 30 x 10mm and has red haemorrhagic cut surfaces (?lymph nodes ?thrombosed vessel).  The circumferential tumour is radially sectioned clockwise starting from right anterior.  Where the slices are blocked in more than one cassette the order is from proximal to distal.  On slicing the tumour shows pale solid cut surfaces and is up to 11mm in thickness.  The tumour comes very close to the adventitial surface.  
+Blocks:  1 - shaved proximal margin; 2 to 6 - each block one subcarinal lymph node; 7 to 10 - all of the larger haemorrhagic subcarinal nodule; 11 - one bisected subcarinal lymph node; 12 - ?lymph nodes as seen, coeliac lymph nodes; 13 - ?lymph nodes as seen, thoracic duct/paraoesophageal; 14 - one bisected lymph node subcarinal; 15& 16 - proximal polypoid oesophageal mass bisected; 17 to 44 - entire gastro oesophageal junction tumour blocked clockwise starting at right anterior (17 & 18 - paired, 19 & 20 - paired, 21 & 22 - paired, 23 & 24 - paired, 25 & 26 - paired, 27 & 28 - paired, 29 to 31 - continuous; 32 & 33 - paired, 34 & 35 - paired, 36 & 37 - paired; 38 & 39 - paired; 40 to 42 - continuous; 43 & 44 - paired, block 32 - reserve block); 45 & 46 - LS distal margin (diff quik requested on 45); 47 - perigastric lymph nodes as seen; 48 - one perigastric lymph node; 49 - one perigastric lymph node.  Please see the diagram.
+B.  Specimen labelled "Oesophagealdonut" and consists of a donut 28 x 15 x 8mm bearing a tan mucosa.  No focal lesions are seen.  The non mucosal side is inked black.  Serially sliced and AE 2 blocks.  
+C.  Specimen labelled "Gastric donut" and consists of a donut 20 x 16 x 7mm bearing mucosa.  A focal lesion is not seen.  The non mucosal surface is inked black.  Sliced and AE 2 blocks.  (IH/ta 15/12/65) 
+ 
+ 
+MICROSCOPIC (reported by Dr I Chabez):
+A - C.  Sections show extensive residual poorly differentiated adenocarcinoma of the gastro-oesophageal junction.  The small polypoid lesion described macroscopically within the proximal oesophagus also shows a deposit of adenocarcinoma.  The features are as follows:
+
+Tumour location
+Gastro-oesophageal junction
+Histologic type
+Adenocarcinoma
+Histologic grade
+Grade 3  Poorly differentiated (49% or less of tumour composed of glands)
+Pattern of growth
+Expanding
+Maximum tumour dimension 
+50mm
+Depth of invasion
+(T3)  Adventitial connective tissue
+Peritoneal involvement
+Present
+Pleural involvement
+Absent
+Lymphatic and capillary space invasion
+Present
+
+Vein and artery space invasion
+Absent
+
+Perineural invasion
+Present
+
+Tumour budding
+Present
+
+Degree of regression (AJCC)
+Grade 3:  Absent response - Minimal or no tumour kill; extensive residual cancer
+
+SURGICAL MARGIN STATUS
+Distance of carcinoma to proximal margin  
+Well clear
+Distance of carcinoma to distal margin
+Well clear
+Distance of carcinoma to radial/circumferential margin
+1.5mm
+
+Donut 
+Not involved (specimens B & C)
+LYMPH NODE STATUS
+Number of lymph nodes identified:  28
+Number of positive lymph nodes:  11
+N3 - Metastasis in 7 of more regional lymph nodes
+3 of 8 Subcarinal
+0 of 6 Coeliac
+5 of 8 Paraoesophgeal
+3 of 6 Gastric
+ 
+Other pathologies
+Barrett mucosa- Not identified
+Gastritis - Present
+SUMMARY:
+Oesophagus:
+- Adenocarcinomaat cardio-oesophageal junction
+- ypT3  N3  MX
+- Margins clear
+

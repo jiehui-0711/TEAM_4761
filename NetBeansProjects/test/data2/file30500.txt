@@ -1,0 +1,35 @@
+SPR no: 26S365518C
+MRN no: 266365
+Site_name: BOURKE MULTI PURPOSE SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (30.9.66):
+
+CLINICAL:
+Endometrial cancer.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus tubes and ovaries&amp;quot;, received opened in formalin, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 65g in total.  The uterus measures 78 x 52 x 55mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 30mm and shows no significant abnormality.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  On sectioning, the endometrium measures up to 4mm in maximum thickness and the myometrium up to 25mm in thickness.  The area of thickened endometrium is at the fundus.  The myometrium contains a few scattered fibroids measuring up to 9mm in maximum dimension; all the fibroids have a pale grey, whorled appearance.  The left fallopian tube, 45 x 7 x 7mm, and left ovary, 27 x 22 x 13mm, show no significant abnormality.  The right fallopian tube, 62 x 7 x 7mm, and right ovary, 33 x 24 x 30mm, show no significant abnormality.
+Blocks: 1 to 4 - midline LS anterior uterus and cervix; 5 - LS anterior uterus, fundus; 6 to 9 - midline LS posterior uterus and cervix; 10 - LS posterior uterus, fundus; 11 - LS complete fimbrial end of left fallopian tube, and mid TS; 12 - left ovary; 13 - LS complete fimbrial end right fallopian tube, and mid TS; 14 - right ovary.  (TO:JB/eh 22/9/65)
+
+
+MICROSCOPIC (Reported by Dr O Mclure):
+Sections of the cervix show loss of some of the ectocervical surface epithelium and a moderate infiltrate of chronic inflammatory cells in the superficial ectocervical stroma.  The cervix is otherwise unremarkable.
+Sections of the fundic endometrium show a grade 1 endometrioid adenocarcinoma.  There is considered to be focal superficial myometrial invasion (block 4).  Maximum depth of myometrial invasion is 1mm out of a total myometrial thickness of 17mm.  No lymphovascular invasion is seen and there is no cervical involvement.
+Leiomyomas are confirmed in the myometrium and there is also focal adenomyosis.  The myometrium is otherwise unremarkable.
+Sections of the ovaries and fallopian tubes are unremarkable.
+Stains for mismatch repair enzymes will be performed and a supplementary report issued.
+
+
+DIAGNOSIS:
+Uterus, ovaries and fallopian tubes:
+1.  Grade 1 endometrioid adenocarcinoma of endometrium with focal superficial myometrial invasion.  Stage 1A.
+2.  Leiomyomas and adenomyosis.
+SUPPLEMENTARY REPORT (29.9.69):
+Stains for mismatch repair enzymes have been performed.
+
+MLH1:  Preserved nuclear staining.
+PMS2:  Preserved nuclear staining.
+MSH2:  Preserved nuclear staining.
+MSH6:  Preserved nuclear staining.
+
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).

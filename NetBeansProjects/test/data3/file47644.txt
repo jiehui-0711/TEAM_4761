@@ -1,0 +1,52 @@
+SPR no: 01D868009F
+MRN no: 01186800
+Site_name: CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+47 year old woman with left sided ovarian mass.  CT showed 6 cm multi-cystic left ovary, multiple thickened loops of bowel, free fluid and probable omental disease. Ca 125 = 76, Ca 19.9 454, CEA/HCG normal. Family hx: Maternal grandmother had endometrial cancer; paternal grandmother had breast cancer in her 90s
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a 100 x 50 x 10mm unilocular cyst with a smooth surface and a ragged surface opposite containing chocolate haemorrhagic material.  On sectioning the mucosa shows a variegated surface with focal areas of ulceration.  No solid areas or papillary areas seen.  6x for frozen section.  Remainder in formalin. A segment of fallopian tube is identified measuring 45mm in length and up to 15mm in diameter.  Blocks: 1 - frozen section one; 2 - frozen section two; 3 - frozen section three; 4 to 15 - further RS of cyst wall and attached tissue; 15 and 16 - left fallopian fimbria bisected and mid TS.  RS 16 blocks.
+
+FROZEN SECTION REPORT:
+Benign haemorrhagic cyst; some epithelioid atypia; favour endometriosis.
+Phone result to Prof A Sedlacek by Dr A Keizer and Dr A Weiszbrod at 10:05am on 05/09/2067
+
+B.  Specimen labelled &amp;quot;Uterus right tube ovary cervix&amp;quot;, consists of a uterus with attached cervix, right tube and right ovary weighing 223 grams in total.  The uterus measures 95 x 65 x 55mm and the serosa surface is distorted by multiple fibroids protruding.  The ectocervix is 23 x 20mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 19mm in maximum thickness.  The myometrium contains multiple fibroids ranging from 15mm to 22mm in maximum diameter.  Some of the fibroid is calcified and difficult to cut. The right fallopian tube appears dilated, the measurement is not accurate due to the adhesion of fallopian tube with the right ovary.  The right fallopian tube approximately measures 50mm in length and up to 15mm in maximum diameter.  The right ovary measures approximately 25 x 18 x 15mm.  The cut surface shows two uniloculated haemorrhagic cysts. Blocks: 1 to 7 - full LS of anterior body and cervix; 8 to 12 - full LS of posterior body and cervix; 13 and 14 - right fimbrial end bisected; 15 - right fallopian tube TS; 16 and 17 - RS of right ovary.  RS 17 blocks.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of unoriented irregular shaped fibrofatty tissue measuring 250 x 145 x 10mm.  The specimen is serially sliced.  No nodules or lesions are identified.  RS 3 blocks.
+
+D.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a vermiform appendix measuring 39mm in length and up to 8mm in maximum diameter, with attached meso appendix of 24mm in maximum width.  The serosa surface is pale tan, smooth and shiny.  Margin inked blue.  The specimen is serially sliced, the cut surface shows a wall thickness up to 2mm, the lumen is congested with pale tan material.  Blocks: 1 - base of appendix; 2 - mid TS; 3 - tip of appendix.  All appendix embedded.
+
+E.  Specimen labelled &amp;quot;Sigmoid fat&amp;quot;, consists of a piece of unoriented irregular shaped fibrofatty tissue measuring 20 x 15 x 6mm.  No nodules or lesions are identified.  AE 2 blocks.
+(TO:JT/vo 9/7/67)
+
+
+MICROSCOPIC (Reported by Dr A Seagroves):
+A. Sections of left ovarian cyst show features of endometriotic cyst.  There is fibrous wall lined by endometrial-type glandular epithelium and stroma.  There is haemorrhage and active chronic inflammation, including hemosiderophages.  The left fallopian tube show no significant abnormality.  There is no evidence of malignancy.
+B. Sections of the uterus show intramural leiomyomas with no atypical features.  The endometrium is in proliferative phase with no evidence of polyp or hyperplasia.
+The cervix shows nabothian cysts.  No HPV effect or dysplasia is seen.
+The right fallopian tube show no significant abnormality.  The right ovary show features of a haemorrhagic follicular cyst.  There is no evidence of malignancy.
+C. Sections show adipose tissue with congested vessels, histiocytes, siderophages and patchy chronic inflammation.  There is no evidence of malignancy.
+D. Sections from appendix show endometriosis in periappendiceal adipose tissue.  There is no evidence of malignancy.
+A fragment of muscularis propria of bowel wall is identified close to tip of appendix (block D3), which raises the possibility of iatrogenic bowel perforation.  This finding was conveyed to Obstetrics registrar, KRIS CORCORAN, on 11/10/2066 at 0910.
+E. Sections show adipose tissue with vascular congestion, siderophages, histiocytes and patchy chronic inflammation.  There is no evidence of malignancy.
+Selective sections shown to Dr MAYNARD ADAMO.
+DIAGNOSIS:
+A.  Left ovary: Endometriotic cyst
+
+-  Left fallopian tube: No significant abnormality
+
+B.  Uterus: Proliferative phase endometrium, Leiomyomas, Adenomyosis
+
+- Cervix: Nabothian cyst
+
+- Right ovary: Haemorrhagic follicular cyst
+
+- Right fallopian tube: No significant abnormality
+
+C. Omentum: No evidence of malignancy
+
+D. Appendix: Endometriosis (please see report)
+
+E. Sigmoid fat: No evidence of malignancy

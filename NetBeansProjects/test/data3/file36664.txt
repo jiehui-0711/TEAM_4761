@@ -1,0 +1,76 @@
+SPR no: 28E2417494
+MRN no: 10357655
+Site_name: CLARE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report28E24174 (28E2417494) Benyamin, F-Bennie
+SUPPLEMENTARY REPORT: 29.9.2067
+Mismatch repair protein immunohistochemistry added.
+RAS mutation testing pending.
+HISTOPATHOLOGY REPORT
+YOUNG DISTRICT HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Primary CRC. Krukenberg tumours noted.
+1. Peritonectomy + midline wound excision with anterior abdominal wall.
+1. Hilum lymph nodes.
+
+MACROSCOPIC:
+A. &amp;quot;GALLBLADDER, UTERUS, BILATERAL TUBES AND OVARIES, RIGHT COLON, PERITONEAL DISEASE&amp;quot;. Received in the same jar multiple tissue fragments including:
+
+An opened gallbladder, 60x35mm, with focally haemorrhagic outer surface with no definite serosal deposits. The wall is up to 3mm thick. The mucosal surfaces are green and granular. No calculi are identified.
+
+(1 cystic duct and TS neck; 2 TS body and LS fundus).
+
+A right hemicolectomy specimen with anastomosis of segment of small bowel, 40x25mm, and large bowel, 110x80mm. A more proximal segment of small bowel is loosely attached only by mesentery, 55x35mm. Mesentery and mesocolon are attached along the specimen to a maximum width of 50mm. No appendix is identified.  Extensive adhesions are identified surrounding the anastomosis site with congested bowel mucosa around the anastomosis. No intraluminal tumours are seen. The mesocolon has a firm white tumour deposit, 10mm.
+
+Towards the distal edge of the specimen, fibrofatty tissue consistent with omentum is attached 200x115x50mm. The omentum has at least three tumour deposits, measuring 20mm, 22mm and 36mm, all with hard, white cut surface. The largest fragment has adherent haemorrhagic tissue on the serosa. T
+
+(3 LS across the proximal small bowel segment; 4 proximal distal margin, larger bowel segment; 5 anastomosis; 6 mesocolon serosal nodule; 7 ?four lymph nodes, mesocolon; 8-10 omental nodules [8 representative smaller nodule, omentum; 9&amp;amp;10 representative larger nodule [9 tumour block for tissue banking]).
+
+A total hysterectomy specimen, 149g, consists of an uterus, 65x55x30mm. The cervix measures 25x25x20mm. Attached is a right fallopian tube, 50x5mm, with a grossly enlarged cystic right ovary, 45x35x25mm.  Attached the left fallopian tube, 45x6mm, and cystically enlarged large ovary, 50x45x25mm.  Peritoneal strips are identified posteriorly, 95x50x6mm, and anteriorly, 300x135x15mm. The most distal edge has firm tissue with peritoneal covering at one edge, measuring 70x35x20mm (part of abdominal wall).
+
+Numerous minute white nodules are identified on the serosal surface, 3-7mm, on the anterior and posterior reflections of the uterus at the adjacent peritoneal strips. The endometrium is up to 3mm thick. The myometrium is trabeculated and up to 15mm thick. The cut surface of the right fallopian tube is unremarkable. The right ovary has a disrupted outer surface and the cut surface reveals multiple solid friable haemorrhagic and necrotic tissue fragment replacing the entire ovary and present on the outer surface. The left fallopian tube outer surface is unremarkable. The left ovary is of an intact outer surface. The cut surface is entirely replaced by multiple friable cystic and solid necrotic tissue.
+
+(11-15 uterus [11&amp;amp;12 anterior cervix and body; 13&amp;amp;14 posterior cervix and body; 15 fundus]; 16 pouch of douglas and anterior peritoneal involvement; 17&amp;amp;18 peritoneal strips involvement; 19 RS abdominal wall; 20 right fallopian tube, two LS fimbrial end, one TS mid; 21-23 right ovary [21 disrupted surface; 23 left fallopian tube, two LS fimbrial end and one TS mid]; 24&amp;amp;25 left ovary).
+
+Multiple fibrofatty pieces of tissue, 120x110x30mm, some of which include fibrous tissue and skeletal muscle (part of abdominal wall and some appear to be detached, necrotic pieces of tumour).
+
+(26 ?detached necrotic tumour; 27 representative remainder tissue). RS (M-27)
+
+B. &amp;quot;HILUM LYMPH NODE&amp;quot;. Multiple tissue fragments , 45x20x20mm, appears to be a disrupted of one large lymph node. Serially sliced, embedded in three blocks. AE (M-3/ZH 17/8/2067 cy)
+
+MICROSCOPIC:  (Dr F Varnes)
+Sections show invasive adenocarcinoma with abundant apoptotic debris and separate necrotic fragments. Deposits of carcinoma involve the right and left ovaries, right adnexal tissue, pouch of Douglas, omentum, peritoneum, and mesocolon.  Immunostains show the tumour cells to be positive for CK20 and CDX2 whilst being negative for CK7, consistent with a colorectal primary.
+
+Sections of the small bowel show serositis and foreign body giant cells. The mucosa shows  lymphoid hyperplasia with no dysplasia. There are scattered foci of fibrosis and  foreign body giant cell reaction to suture material.
+
+Sections of gallbladder are unremarkable and show no evidence of epithelial dysplasia.
+
+Sections of the cervix show no intraepithelial or glandular dysplasia. The endometrium is weakly proliferative with no evidence of atypia or hyperplasia. The fallopian tubes are unremarkable.
+
+Comment:
+Sections confirm multiple deposits of adenocarcinoma, including bilateral ovarian deposits with a histological and immunoprofile consistent with a primary colorectal carcinoma. Clinical correlation is recommended.
+
+B. Sections show lymph node fragments with no evidence of malignancy.
+
+DIAGNOSIS:
+A. GALLBLADDER, UTERUS, BILATERAL TUBES AND OVARIES, RIGHT COLON, PERITONEAL DISEASE -
+- MULTIPLE DEPOSITS OF ADENOCARCINOMA INVOLVING BILATERAL OVARIES, PERITONEUM (INCLUDING POUCH OF DOUGLAS), OMENTUM, MESOCOLON, AND RIGHT ADNEXA
+- FEATURES CONSISTENT WITH A PRIMARY COLORECTAL CARCINOMA
+B. HILUM LYMPH NODE-
+- NO EVIDENCE OF MALIGNANCY
+SUPPLEMENTARY REPORT: 29.06.2018
+As requested immunohistochemistry for mismatch repair proteins has been performed:
+
+Immunostains for MSI proteins (Southern IML Pathology EAST WIMMERA HEALTH SERVICE - WYCHEPROOF; block: A25)
+
+MLH1:  Intact (Positive)
+PMS2:  Intact (Positive)
+MSH2:  Intact (Positive)
+MSH6:  Intact (Positive)
+
+Comment:
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

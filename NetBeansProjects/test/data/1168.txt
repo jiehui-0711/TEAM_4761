@@ -1,0 +1,42 @@
+Episode No:  84W834682W
+848834.RVG
+
+CHUBA, Jerome 
+Lab No:  84W83468
+Auld
+COBAR  South Australia  2070
+Specimen: Tissue
+D.O.B:  6/1/1990
+Sex:  M
+Collected: 20/9/2062 at :
+Location:  3/9 JENNIE COX CLOSE
+DR WOODROW SYDNEY DEROUIN
+Distribution:   FILE-COPY
+CLINICAL:
+SCC lung Ca RUL.  
+MACROSCOPIC:
+A.  Specimen labelled "Right upper lobe" consists of a 150g lobectomy, measuring 140 x 65 x 40mm.  At the hilar resection margin, there are two bronchial lymph nodes 30mm and 14mm in maximum dimension.  The larger lymph node is obscuring the bronchial margin.  The bronchial margin is inked green after removing the lymph nodes.  On the cut surfaces, there is a 48 x 38 x 35mm cavitating lesion within the lung parenchyma.  There is a large cavity at the centre of the lesion and pale solid tumour is present at the periphery of the cavity.  The main tumour is 10mm from the bronchial margin after removing the larger lymph node.  The tumour is 2mm from the pleural surface.  The rest of lung is unremarkable.
+Block: 1 - the smaller lymph node at hilar margin, 2 & 3 -  the larger lymph node at hilar margin, 4 - tumour and bronchial resection margin (after removing the lymph nodes); 5 - 8 - tumour and closest pleural surface; 9 - tumour banking; 10 & 11 - representative lungaway from tumour.  (CC/ec  21.9.62) 
+ 
+B.  Specimen labelled "(R) paratracheal lymph node" consists of fragments of adipose tissue, 40 x 30 x 10mm in aggregate.  There are three lymph nodes from 5 to 18mm in maximum dimension.  
+Blocks:  1 - largest lymph node bisected; 2 - other two lymph nodes.  
+C.  Specimen labelled "(R) upper lobe" consists of a bronchial lymph node.  Three fragments of tan tissue from 2 to 14mm in maximum dimension and 14 x 7 x 5mm in aggregate.  AE 1 block.
+D.  Specimen labelled "Hilar lymph node" consists of a 13 x 8 x 7mm lymph node.  BAE 1 block.
+E.  Specimen labelled "Paraoesophageal lymph node" consists of a 10 x 7x 4mm lymph node with a small amount of surrounding fatty tissue.  The lymph node is BAE 1 block.  (NE/mm 21.9.62) 
+MICROSCOPIC (Reported by Dr W Wegener):  
+A.  Sections of lungshow a poorly differentiated adenosquamous carcinoma with a central cavity, measuring 48mm in diameter.  The carcinoma shows a continuum of histological heterogeneity with both squamous cell and adenocarcinoma differentiation.  45% of tumour shows poorly differentiated large cell carcinoma with solid sheet-like appearance.  20% of tumour shows usual adenocarcinoma appearance with well formed glands and 20% of tumour shows prominent clear cell adenocarcinoma appearance.  15% of tumour shows squamous cell carcinoma appearance with presence of unequivocal keratin and intracellular bridges.  All the tumour cells are strongly positive for CK7.  The squamous cells are positive for CK5/6 and p63.  The stains for CK20 and TTF-1 are negative for all tumour cells.  Lymphovascular invasion is present (block A4) and no perineural invasion is seen.  The tumour is clear of the visceral pleura.  The main tumour mass is 8mm clear of the bronchial resection margin (block A4).  However, the two lymph nodes identified at the hilar resection margin are involved by tumour metastasis.  The rest of lung tissue isunremarkable.
+B.  Three (3) lymph nodes are identified.  One of three lymph nodes is involved by metastatic carcinoma.
+C.  One (1) lymph node is identified.  The lymph node is unremarkable.  There is no evidence of malignancy.
+D.  One (1) lymph node is identified.  The lymph node is unremarkable.  There is no evidence of malignancy.
+E.  Three (3) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+Summary - TNM 7th Edition, 2009
+T2     N2     MX
+
+
+DIAGNOSIS:
+A.  Right upper lobe - Poorly differentiated adenosquamous carcinoma.
+B.  Right paratracheal lymph node - One of three lymph nodes involved by tumour metastasis (1/3).
+C.  Right upper lobe - No evidence of malignancy (0/1).
+D.  Hilar lymph node - No evidence of malignancy (0/1).
+E.  Paraoesophageal lymph node - No evidence of malignancy (0/3).
+

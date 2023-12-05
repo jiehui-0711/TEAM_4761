@@ -1,0 +1,81 @@
+SPR no: 39D129428L
+MRN no: 3911294
+Site_name: PRINCE OF WALES HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  39D129428L
+391129.MHW
+
+VERONE, KARY 
+Lab No:  39D12942,39D12942
+Brookway
+NORTH MACKAY  ACT  3618
+Specimen: Marrow,Tissue
+D.O.B:  10/12/2020
+Sex:  F
+Collected: 15/11/2012 at 16:44
+Location:  Southern IML Pathology-JULIA CREEK MULTI-PURPOSE HEATH SERVICE
+DR CESAR MATTHEW KROESING
+Distribution:   FILE-COPY
+CLINICAL HISTORY / INDICATION: Neutrophilia &amp;gt;2yrs.  ?MDS/MPD.
+Name: VALENTIN PILLARD.
+MRN: 391129.
+Date performed: 17/1/2062.
+Episode number: 39D129428L.
+Procedure: BMAT.
+Site: R PSIC.
+Peripheral Blood:
+Hb: 122g/L		              	Blasts: 0.0x10e9/L		
+WBC:  11.95x10e9/L			Monocytes: 0.4x10e9/L 
+Platelets: 277x10e9/L			Eosinophils: 0.28x10e9/L		
+Neutrophils: 8.8x10e9/L			Basophils: 0.05x10e9/L
+Lymphocytes: 2.4x10e9/L		
+			
+Film report:
+Red cells: normochromic, normocytic.
+White cells: neutrophilia with occasional hypersegmented and ??hypogranular forms, Platelets: normal.
+ASPIRATE
+Ease/difficulty of aspiration: easy.
+Cellularity of particles and trails: haemodiluted sample.  Cellularity appears increased in the limited fragments available for assessment.
+Differential:
+No of Cells Counted: 300.                  	M:E RATIO = 
+Blasts:	&amp;lt;1%				Lymphocytes: 6%
+Promyelocytes :1%			Monocytes: 2%
+Myelocyte: 7%				Plasma cells:&amp;lt;1%
+Metamyelocytes: 11%			Eosinophils:1%
+Neutrophils/Bands: 56%			Basophils: &amp;lt;1%
+Erythroblasts: 17%		
+											
+Erythropoiesis: Relatively reduced with normoblastic maturation.
+
+Granulopoiesis: Increased with normal maturation and normal granulation.
+
+Megakaryopoiesis: Limited numbers seen, however they appear morphological normal.
+Iron stain: 
+
+Aspirate Report: Haemodiluted sample limiting assessment.  Granulopoiesis is increased however this alone is not diagnostic of an underlying MDS/MPN,await Trephine biopsy and cytogenetics to aid diagnosis. 
+Date of report: 17/1/2062.
+
+Haematology registrar: JOSPEH CABBLE.
+	
+Haematology consultant: BRANDEN LOUDIN.
+
+Cancer Council Registry: No
+
+
+Name: JOSPEH SHABAN.
+MRN: 391129.
+Episode number: 39D129428L.
+
+TREPHINE.
+Length and condition of core: A 12mm specimen was collected and 6 sections examined. The specimen consists of haematopoietic tissue, bone, muscle, cartilage and clot.
+Cellularity: Increased for age.
+
+Bone Architecture: Normal.
+Reticulin stain: Normal.
+Trephine report: Mildly hypercellular bone for age with increased granulopoiesis with normal maturation.  Erythropoiesis is relative reduced with normal maturation and preservation of erythroid islands.  Megakaryocytes are plentiful with normal morphology and distribution.  
+
+Conclusion: Mildly hypercellular bone marrow with increased granulopoiesis.  This alone is not diagnostic of an underlying MDS/MPN.  Please correlate with cytogenetics.  
+Date of report: 24/1/2062.
+Haematology registrar: JOHNNIE BLEA
+Haematology consultant: LOU MUYSENBERG.

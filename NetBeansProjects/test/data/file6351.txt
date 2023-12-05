@@ -1,0 +1,105 @@
+SPR no: 50Q082646N
+MRN no: 506082
+Site_name: WANTIRNA HEALTH
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report50Q08264,50Q08264 (50Q082646N) GRIZZARD, THADDEUS
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Carcinosarcoma of the uterus on resection. uterus, tubes and ovaries, omental biopsy, left pelvic nodes, right pelvic nodes, pouch of Douglas peritoneum.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES, OVARIES&amp;quot;. A total hysterectomy specimen with a total weight of 84g consisting of a coronally open uterus measuring 67x50x45mm. The attached cervix measures 37x35x20mm. Attached is a right fallopian tube 75x7mm, left fallopian tube 65x8mm, right ovary 55x25x25mm and left ovary measuring  37x15x15mm. The anterior cervical margin inked blue, posterior black. The outer surface of the uterus is distorted posteriorly by possible subserosal/intramural fibroids. The identified endometrium is up to 5mm thick. It becomes ragged and polypoid at the left anterior and posterior body over an area of 20x15mm. This area appears to be confined to the uterine body and fundus with no extension into the cervix. It is located 45mm of the cervix resection margin. There is no involvement of the overlying serosa or the left cornu. No definite extension to the parametrial tissue is identified. Deep to the tumour there is a single white whorled nodule, (?fibroid) measuring  27x24x20mm. The cut surface across the nodule is white whorled and homogenous. Posteriorly the tumour has areas of possible gelatinous, myxoid cut surface. It possibly extends 10mm out of 17mm of the myometrium. Another white whorled nodule is closely associated to the lesion measuring  20mm in maximum diameter, with white whorled cut surface. The outer and cut surface of the right and left fallopian tubes is unremarkable. The outer surface of the right ovary reveals multiple polypoid and papillary excrescences measuring 20x10x10mm in maximum diameter. The cut surface reveals a unilocular cyst with a smooth inner lining that is filled with clear serous fluid. The outer surface of the left ovary reveals similar papillary area over 10mm that extends 13mm into the underlying ovarian tissue.
+
+(1-3 continuous piece anterior uterus [1 cervix; 2 body; 3 fundus]; 4-6 LS slices of the anterior body and fundus; 7-9 continuous piece posterior uterus [7 cervix; 8 body; 9 fundus]; 10&amp;amp;11 haemorrhagic endometrium posterior body; 12-14 contiguous slice posterior body from centre towards the left cornu with block 13&amp;amp;14 containing myxoid areas and block 14 for tissue banking; 15 right fallopian tube two LS fimbrial end and one TS mid; 16 RS serosal involvement right ovary with underlying cyst; 17 left tube; 18 two TS involvement left ovary; 19 right parametrium; 20 left parametrium). RS (M-20/ZH/ht).
+
+B. &amp;quot;POUCH OF DOUGLAS PERITONEUM&amp;quot;. An unorientated fibrofatty piece of tissue  mesauring 14x7x6mm, containing a smooth outer surface and a ragged surface. The ragged surface is inked blue. The cut surface is unremarkable, trisected. AE (3-1).
+
+C. &amp;quot;OMENTAL BIOPSY&amp;quot;. An unorientated fibrofatty piece of tissue consistent with omentum 105x45x10mm. The outer surface is smooth and glistening. Cut surface is unremarkable. No discrete lesions identified. RS (M-4).
+
+D. &amp;quot;RIGHT PELVIC LYMPH NODES&amp;quot;. Unorientated fibrofatty piece of tissue measuring  30x20x5mm. A staple is noted at one end. Two possible lymph nodes identified measuring  4mm and 6mm.
+
+(1 ?two lymph nodes; 2 remainder tissue). AE (M-2).
+
+E. &amp;quot;LEFT PELVIC NODES&amp;quot;. Multiple unorientated fibrofatty pieces of tissue measuring  30x25x10mm in aggregate. Three lymph nodes identified, largest measuring  18mm with partially hard white cut surface. The remainder two nodes measure 7mm and 9mm.
+
+(1 smaller lymph node bisected; 2 medium lymph node three TS; 3 largest lymph node five TS; 4 remainder tissue). AE (M-4/ZH/ht).
+
+MICROSCOPIC:     (Dr O Sieracki)
+A. ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Carcinosarcoma
+FIGO grade:  3
+Myometrial invasion:  Invasion into outer half of myometrium
+Depth of myometrial invasion:   9mm
+Myometrial thickness:   11mm (A14)
+% of myometrium invaded:   81%
+Focality:  Unifocal
+Tumour involves: Body
+Vascular/lymphatic invasion:  Present (A14).  Confirmed with immunohistochemistry for CD31 and CD34.
+Involvement of cervix:  Not involved
+Involvement of uterine serosa:  Not involved
+Excision margins:  &amp;gt;10mm
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic
+Polyps: Endometrial polyp present (A8)
+Adenomyosis: Absent
+
+Adnexae:
+Left fallopian tube:  No evidence of malignancy
+Right fallopian tube:  No evidence of malignancy
+Left ovary:  Contains a 9mm deposit of metastatic carcinoma involving the surface.
+Right ovary:  The surface shows metastatic carcinoma deposits up to 15mm across. The parenchyma contains a simple cyst.
+
+Lymph nodes:
+Nodes involved:  0
+Total number:  3
+
+Comment:
+- The myometrium contains benign leiomyomas.
+- The tumour is mostly within the endometrial cavity with a very superficial attachment point in the endometrium. There is focal heterologous (centilagenous) differentiation.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1b  pN0 pM1
+
+FIGO stage: IVB
+
+(js/cy)
+
+B. Fibrofatty tissue showing reactive surface mesothelial cells and surface granulation tissue containing psammoma bodies and atypical cells.  One vessel shows intravascular metastatic carcinoma. Cytokeratin AE1/AE3 is positive in these cells.
+C. Lobules of mature fat containing mutliple small foci of metastatic carcinoma.  Some show surrounding desmoplasia and associated psammoma bodies. Some are intravascular.
+D. Fatty tissue with no lymph nodes and no evidence of malignancy.
+E. Three lymph nodes with no evidence of malignancy
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES:
+- CARCINOSARCOMA OF THE UTERUS, FIGO GRADE 3
+- FIGO STAGE IVB
+- LYMPHOVASCULAR INVASION PRESENT
+- METASTASES TO LEFT AND RIGHT OVARIES
+
+B. POUCH OF DOUGLAS PERITONEUM:
+- METASTATIC CARCINOMA
+
+C: OMENTAL BIOPSY:
+- METASTATIC CARCINOMA
+
+D. RIGHT PELVIC LYMPH NODES:
+- FATTY TISSUE ONLY WITH NO EVIDENCE OF MALIGNANCY
+
+E. LEFT PELVIC NODES:
+- THREE LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY
+
+SUPPLEMENTARY REPORT (23/9/2066)
+Immunohistochemistry for mismatch repair genes:
+MLH1: Positive
+PMS2: Positive
+MSH2: Positive
+MSH6: Positive
+There is preserved nuclear staining for all four genes (a normal pattern of staining).
+
+SUPPLEMENTARY DIAGNOSIS
+- NO MISMATCH REPAIR DEFICIENCY

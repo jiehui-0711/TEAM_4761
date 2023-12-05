@@ -1,0 +1,106 @@
+SPR no: 98I5693786
+MRN no: 9835693
+Site_name: SOUTH GIPPSLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report98I56937,98I56937 (98I5693786) Galetti, Elliott
+HISTOPATHOLOGY REPORT
+MITCHELL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Postmenopausal bleeding.  Nulliparous.  Well differentiated endometrioid adenocarcinoma
+1.  Uterus + cervix, tubes, ovaries
+2.  Right pelvic sentinel lymph node
+3.  Omentum
+4.  Left pelvic sentinel lymph node
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES&amp;quot;.  A uterus with attached cervix, bilateral tubes and ovaries. Anterior is inked blue, posterior black.  It measures 75mm superior to inferior, 30mm intercornual distance, the ectocervix is 30x25mm with an ovoid os 10x10mm.  The anterior endomyometrium is expanded by a nodule with a pale white whorled appearance.  Together with the nodule it measures 32mm.  The posterior endomyometrium is 11mm.  The endometrium is up to 2mm thick.  There is a suspicious area identified involving the posterior endomyometrium.  This area measures 15mm superior to inferior, and takes up 4mm of 11mm thickness.  On sectioning through the myometrium there are multiple nodules with a pale white whorled appearance consistent with fibroids.  They range from 5-30mm.  They are located intramurally, subserosally and submucosally.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornu; 4 left cornu; 5-9 sagittal slice full face [5 anterior and posterior cervix, 6 anterior and posterior lower uterine segment, 7&amp;amp;8 anterior endomyometrium, 9&amp;amp;10 posterior endomyometrium; 11-15 further sections of anterior endomyometrium; 16-19 further sections of posterior endomyometrium;
+
+The right ovary and fallopian tube together weigh 10g.  The fallopian tube measures 45mm in length with a maximum diameter of 6mm.  The ovary is 20x14x8mm.  The serosal surfaces are unremarkable.  On sectioning through the ovary it has a firm normal appearing cut surface.
+
+20 right fallopian tube; 21 right ovary;
+
+The left ovary and fallopian tube together weigh 8g.  The fallopian tube measures 50mm in length with a maximum diameter of 5mm.  The ovary is 15x15x6mm.  The fallopian tube shows multiple paratubal cysts ranging from less than 1mm to 2mm.  The serosal surface of the ovary is unremarkable.  On sectioning through the ovary it has a firm normal appearing cut surface.
+
+22 left fallopian tube and left ovary).  RS (M-22)
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL LYMPH NODE&amp;quot;.  Fragmented pieces of ?nodal tissue in aggregate 14x7x5mm.  AE (M-1)
+
+C.   &amp;quot;LEFT PELVIC SENTINEL LYMPH NODE&amp;quot;.  Nodal tissue with attached perinodal fat.  In aggregate 25x10x3mm.  The node by itself is 10mm, bisected.  AE (2-1).
+
+D.  &amp;quot;OMENTUM&amp;quot;.  A piece of fatty tissue with no detectable abnormality.  It measures 15x15x3mm.   AE (1-1/MC 10/12/2067 nh)
+
+MICROSCOPIC: (Dr H Aschenbrenner)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE:
+Fundus
+Body
+
+HISTOLOGIC TYPE:
+Mucinous carcinoma (greater than 50% mucinous differentiation)
+
+HISTOLOGIC GRADE:
+FIGO grade 1
+
+MYOMETRIAL INVASION:
+Possible focal minimal superficial invasion
+Depth of invasion: Possible 1 mm
+Myometrial thickness:  11 mm
+
+UTERINE SEROSA INVOLVEMENT:
+Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:
+Not identified
+
+CERVICAL STROMAL INVOLVEMENT:
+Not identified
+
+OTHER TISSUE:
+Right ovary - Unremarkable
+Left ovary - Unremarkable
+Right fallopian tube - Unremarkable
+Left fallopian tube - Unremarkable
+Parametrium - Unremarkable
+Omentum - Unremarkable (specimen D)
+
+LYMPHOVASCULAR INVASION:
+Not identified
+
+REGIONAL LYMPH NODES:
+Right pelvic sentinel lymph node(specimen B): Negative for malignancy
+Left pelvic sentinel lymph node(specimen C): Negative for malignancy
+
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less):
+Total number of lymph nodes examined (sentinel):2
+Number of sentinel lymph nodes examined:2
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+1. Extensive adenomyosis and multiple benign leiomyomas.
+2. There is an incidental  4mm diameter perivascular epithelioid cell proliferation/lymphangioleiomyoma seen within the myometrium (Blocks A9, A18). This is positive for SMA, Desmin, HMB-45, D2-40, and CD31. It is negative for CAM5.2 and Melan-A. These may be an isolated/incidental finding but may also be associated with non-syndromic and tuberous sclesosis associated lymphangioleiomyomas in other sites (including lung). Clinical correlation is required.
+
+ANCILLARY STUDIES/IMMUNOSTAINS:Block A9
+MMRP: The stains for MLH-1, PMS-2, MSH-2 and MSH-6 each show positive (retained) nuclear staining. This is the normal (wild-type) staining pattern.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a
+
+DIAGNOSIS:
+
+A. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES:
+ENDOMETRIOID ADENOCARCINOMA OF ENDOMETRIUM (GRADE 1); INCIDENTAL 4mm PERIVASCULAR EPITHELIOID CELL PROLIFERATION/LYMPHANGIOLEIOMYOMA - SEE TEXT.
+
+B. RIGHT PELVIC SENTINEL LYMPH NODE: NEGATIVE FOR MALIGNANCY
+
+C. LEFT PELVIC SENTINEL LYMPH NODE: NEGATIVE FOR MALIGNANCY
+
+D. OMENTUM: NEGATIVE FOR MALIGNANCY
+
+17.12.2070

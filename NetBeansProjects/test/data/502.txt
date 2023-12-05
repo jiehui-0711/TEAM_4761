@@ -1,0 +1,65 @@
+
+Episode No:  66K761843Z
+6637618.KJZ
+
+LAHREN, VAUGHN LEATRICE 
+Lab No:  66K76184
+Chesnut
+GOONELLABAH  Tasmania  2210
+Specimen: Tissue
+D.O.B:  2/8/1982
+Sex:  F
+Collected: 24/9/2063 at :
+Location:  SYDPATH - GOOMALLING HOSPITAL
+DR BONNY JOETTE BRANDENBURG
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+85yr old woman with biopsy proven melanoma of vulva.  Now radical vulvectomy performed.  Suture placed at 12 o'clock.  MVA.  
+MACROSCOPIC:
+Specimen labelled "Vulva (marking stitch 12 o'clock)" consists of a vulvectomy with suture as indicated measuring 90 x 70 x 18mm.  There is a large exophytic tan lesion measuring 25 x 20mm on the surface of the skin towards 12 o'clock.  The lesion is 10mm from the 12 o'clock margin (closest surgical margin).  The surrounding skin has a discoloured pigmented macule on either side of the exophytic lesion over an area of 55 x 43mm.  There is also a black satellite nodule 3 x 3mm at the 9 o'clock position, 8mm from the exophytic tumour.  The 3 o'clock margin is inked blue, the 9 o'clock margin inked black and the anterior subcutaneous tissue is inked red.  Specimen AE 53 blocks.
+Blocks: 1 to 7 - LS 12 o'clock margin; 8 to 44 - TS from 3 to 9 o'clock; 45 to 53 - 6 o'clock margin.  (LM/ta 25/9/63) 
+MICROSCOPIC (reported by Dr Q Todorovich):
+Sections show an invasive malignant melanoma with extensive surrounding superficial spreading melanoma in situ.  The features are as follows:  
+1. Site:  Vulva.
+2. Histological subtype: Superficial spreading melanoma.
+3. Breslow thickness:  7mm.
+4. Ulceration (diameter in mm):  12mm.
+5. Dermal mitotic rate (per mm^2):  4.
+6. Clark level:  V (Subcutis)
+7.Vascular or lymphatic invasion:  Absent.
+8. Neurotropism:  Absent.
+9. Desmoplasia (% of dermal invasive tumour):  Absent.
+10. Satellites:  Present (9 o'clock).
+11. Features of regression:Intermediate (angiofibroplasia +/- tumour infiltrating lymphocytes)
+12. Predominent cell type:  Epithelioid & Spindle.
+13. Associated naevus:  Nil.
+14. Lateral margin to in-situ component:  
+- Positive 9 & 6 o'clock margins over a broad front.
+- Focal positive 3 o'clock margin.
+- 12 o'clock margin 3mm clear.  
+15. Nearest lateral margin to dermal invasive component:  Approximately 10mm (12 o'clock).  
+16. Distance from tumour to deep margin:  11mm.
+17. Solar elastosis:  Absent.  
+DIAGNOSIS:
+Vulva:  
+-  Invasive superficial spreading melanoma.
+-  Breslow thickness 7mm.  
+-  Clark level V.
+-  Invasive melanoma clear of margins.
+-  Extensive involvement of margins by superficial spreading melanoma in situ.
+SUPPLEMENTARY REPORT (1/9/63):
+
+KIT EXON 11, 13 & 17 MUTATION ANALYSIS, MACQUARIE HOSPITAL INSTITUTE.
+
+The sample was analysed by direct sequencing. Exon 11, 13 and 17 of KIT were assessed.  The sensitivity of the test is 20-30%. At least 20-30% tumour cells should be in the specimen to be confident of detecting a mutation if it is present. 
+Result:
+Exon 11		NO MUTATION DETECTED.
+Exon 13		NO MUTATION DETECTED.
+Exon 17		NO MUTATION DETECTED.
+Interpretation:
+The sample was NEGATIVE for mutations in exon 11, 13 and 17 of the KIT gene. This does not preclude the mutation being present in the mutant cell population if that population comprises less than 20% of the assayed sample.
+Comment:
+Mutations which affect the juxta-membrane domain (exon 11 and exon 13) of KIT result in constitutive activation of the tyrosine kinase receptor, leading to enhanced cell proliferation.  It has been demonstrated that patients with gastro-intestinal stromal tumours with similar juxta-membrane domain mutations respond toimatinib mesylate (Heinrich MC, J Surg Oncol. 2005;90:195).
+Reference sequence: 
+KIT:N M_000222.2 (Nucleotide numbering for this report uses the A of ATG translocation initiation start codon as nucleotide 1).
+

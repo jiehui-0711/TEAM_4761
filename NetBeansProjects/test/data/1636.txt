@@ -1,0 +1,44 @@
+
+Episode No:54O183193D
+5451831.ZKD
+
+Arrendondo, HARLEY Oshen 
+Lab No:  54O18319,54O18319
+Santuck
+WESTON  Australian Capital Territory  6320
+Specimen: Washings,Tissue
+D.O.B:  24/8/2003
+Sex:  F
+Collected: 21/05/2014 at 15:55
+Location:  PRINCE OF WALES PRIVATE - BELLINGER RIVER DISTRICT HOSPITAL
+DR Tad Isaias HICKEL
+Distribution:  DR ERVIN,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Endometrial cancer.  Class3 obesity.  BMI 50.  Pelvic node.
+Note:  Specimen received with an order form for frozen section of pelvic node however, no pelvic node was received.  Operating theatres were called however, no doctors were available and the operation had finished, therefore no frozen section was performed.
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, bilateral tubes and ovaries" consists of auterus with attached cervix, bilateral fallopian tubes and ovaries weighing 149g in total.  The uterus measures 100 x 70 x 40mm and has a smooth, shiny serosal surface.  The ectocervix measures 25 x 25mm and appears slightly haemorrhagicbut otherwise unremarkable.  Anteriorly, the endometrium shows an area of polypoid roughening 15 x 12mm.  The cut surfacereveals that this area appears to invade with a maximum depth of 5mm with a total wall thickness of 30mm.  Posteriorly, the endometrium shows an area of polypoid roughening 18 x 10mm.  Posteriorly, this area invades with a maximum depth of 6mm with a total wall thickness of 30mm.  Otherwise, the myometrium has areas of prominent adenomyosis.  The right fallopian tube measures 45mm in length with a maximum external diameter of 7mm.  The right ovary measures 22 x 13 x 12mm and has an unremarkable cut surface.  Attached to the fimbrial end of the tube there is a simple cyst measuring 25mm inmaximum dimension containing straw coloured fluid.  No suspicious areas are identified.  The left fallopian tube measures 45mm in length with a maximum external diameter of 7mm.  The left ovary measures 18 x 15 x 10mm.  The cut surface appears unremarkable.
+Blocks:  1 to 4 - full LS anterior body and cervix; 5 to 9 - full LS of posterior body and cervix; 10 - further anterior endometrium and tumour; 11 & 12 - further posterior uterus and tumour; 13 - prominent posterior adenomyosis; 14 - right tube; 15 - right ovary; 16 - right tubal cyst; 17 - left tube; 18 - right ovary.
+B.  Specimen labelled "Segment of right fallopian tube" consists of a piece of tan cream tissue 20mm.  BAE 1 block.  (BP/rt 24.7.64)
+MICROSCOPIC (Reported by Dr Y Perryman):
+A.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium arising on a background of complex atypical endometrial hyperplasia.  The majority of the tumour has an exophytic growth pattern with only a small area of myometrial invasion identified.  This area shows invasion to a depth of 1mm through a wall thickness of 22mm however, carcinoma is present within foci of adenomyosis.  No lymphovascular invasion is seen.
+The ectocervix and endocervix, as well as both ovaries and fallopian tubes, show no significant abnormality.  A benign tubal cyst is present on the right tube.
+B.  Sections show a portion of unremarkable fallopian tube with attached fibromuscular tissue.  There is no evidence of malignancy.
+Immunoperoxidase stains for MSI proteins (Block A4)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+DIAGNOSES:
+A & B.  Uterus and cervix, bilateral fallopian tubes and ovaries:
+- Grade 1 endometrioid adenocarcinoma of the endometrium.
+- Invasion to a depth of 1mm through a wall thickness of 22mm.
+- No lymphovascular invasion identified.
+- Carcinoma within foci of adenomyosis.
+- Benign tubal cyst.
+

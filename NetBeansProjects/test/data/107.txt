@@ -1,0 +1,79 @@
+Episode No:  26M473761O
+2644737.QDO
+
+ALFISI, BENEDICT ROGELIO 
+Lab No:  26M47376
+North Rohlwing
+LONGFORD  NT  3127
+Specimen: Tissue
+D.O.B:  24/4/1981
+Sex:  M
+Collected: 21/05/2012 at 09:07
+Location:  Envoi pathology-MUNDUBBERA MULTIPURPOSE HEALTH SERVICE
+DR SHAUN MILOVAN MURTON
+Distribution:   FILE-COPY
+CLINICAL:
+Sigmoid cancer.  AF, DM (diet).  Anterior resection partly opened in theatre.  
+From operation report:  Mid sigmoid carcinoma.
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection" consists of a section of colon,240mm in length.  The distal end of the specimen is above the peritoneal reflection. Approximately 55mm from the closest resection margin there is a circumferential obstructing ulcerated tumour overa maximal length of bowel of 32mm.  On the peritoneal surface at the site of the tumour there is a roughened fibrous area identified, 50 x 30mm.  The cut surface reveals a cream ill defined tumour which appears to invade into the muscularis propria but not through it.  The maximum depth of invasion is 15mm.  One 10mm polyp is identified, 30mm from one of the resection margins.  Several other smaller polyps are identified.  All polyps appear confined to the mucosa.  Several diverticula are identified throughout the specimen.  Multiple lymph nodes are identified in the mesentery from 3 to 10mm.  
+Blocks:  1 to 6 - tumour including diverticulum (block5); 7 - large polyp; 8 - smaller polyps; 9 & 10 - resection margins; 11 - apical lymph node; 12 to 14 - lymph nodes; 15 - tumour banking.  
+B.  Specimen labelled "Donut" consists of two donuts of mucosa 18 and 20mm in maximum diameter.  No suspicious lesions are identified.  Representative sections in two blocks.   (QI/mm 23 7.62)
+MICROSCOPIC (reported by Dr H Sollie): 
+A & B.  Sections show a moderately differentiated adenocarcinoma  which invades through the muscularis propria into the mesosigmoid. There is an associated small abscess within the wall of the sigmoid.  A synoptic report for colon carcinoma follows.  
+Macroscopic Description
+
+Site oftumour:  Mid Sigmoid	
+Maximum tumour diameter:     32mm
+Distance of tumour to nearer cut end:     55mm; 
+Tumour perforation:     No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate.  There is focal tumour budding at the advancing edge.
+Local invasion
+pT3	Beyond muscularispropria (block A2/A5)
+Tumour involvement of margins
+Cut ends: 	Not involved
+Lymph nodes
+Number of lymph nodes present: 14	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Not identified
+Perineural invasion
+Not identified
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The 10mm polyp is tubulovillous with low to focally moderate dysplasia (X1), 30mm clear of the closest resection margin.
+Hyperplastic polyps (X3)
+There is uncomplicated diverticular disease.
+Away from the tumour the colonic mucosa has a normal architecture.
+The distal donut (specimen B) is free of tumour. There is mild melanosis coli.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status 
+(Block A1)	
+MLH1		Preserved nuclear staining/loss of nuclear staining
+PMS2		Preserved nuclear staining/loss of nuclear staining
+MSH2		Preserved nuclear staining/loss of nuclear staining
+MSH6		Preserved nuclear staining/loss of nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+DIAGNOSIS:
+A & B.  High anterior resection and distal donut:
+-  Moderately differentiated adenocarcinoma, AJCC stage pT3 pN0 pMX R0 (TNM 7th Edition)
+-  Resection margin well clear (55mm) and distal donut free of tumour
+-  Fourteen (14) negative lymph nodes 
+- Tubulovillous adenoma x1, low to moderate dysplasia 
+-  Hyperplastic polyps x3
+-  Uncomplicated diverticular disease.
+	
+
+
+
+

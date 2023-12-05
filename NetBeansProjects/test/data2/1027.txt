@@ -1,0 +1,136 @@
+Episode No:  26F6042665
+262604.GPR
+
+Huyna, Gwen
+Lab No:  26F60426
+Chisholme
+SMITHTON    7250
+Specimen: Tissue
+D.O.B:  22/6/2003
+Sex:  F
+Collected: 17/3/2063 at :
+Location:  8 GOOLAGONG CRESCENT-SCOTT MEMORIAL HOSPITAL
+DR Ted Randall WESTERHEIDE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+			ADDITIONAL REPORT:  (3.9.63)
+
+CLINICAL:
+Small bowel resection ?carcinoid - pelvic lipomatous tumour.
+Additional information obtained from Prof. Jeffry:
+The pelvic tumour is retroperitoneal and the mesenteric mass in specimen A appears grossly clear of the mesenteric margin.  
+MACROSCOPIC:
+A.  Specimen labelled "Small bowel" consists of a portion of small bowel measuring111mm in length and 50mm in open circumference.  There is mesentery throughout the length to a width of 80mm. At the edge of the mesentery there is an irregular mass measuring 40 x 36 x 29mm.  The mesentery is disorted and the true mesenteric margin is not confidently identified.  Located 32mm from one of the longitudinal ends within an antimesenteric portion of the small bowel wall is a firm cream tumour measuring 14 x11mm of the bowel.  The mucosa appears intact over the tumour. On the external surface there is some puckering overlying this lesion.  On sectioning of the mesenteric mass, the lesion is ill defined firm and white with patchy focal haemorrhagic areas.  
+Blocks:  1 - surgical margin near mucosal tumour; 2- surgical margin away from tumour; 3 & 4 - mucosal lesion AE; 5 to 16 - mesenteric lesion AE; 17 - mesenteric tumour deposit/lymph nodes; 18 - one trisected lymph node; 19 - five lymph nodes.
+B.  Specimenlabelled "Proximal small bowel" consists of a portion of small bowel measuring 172mm in length and 45mm in open circumference.  Located 6mm from one end there is an non-ulcerated intramural tumour measuring 13x11mm.  There is a second smaller non-ulcerated intramural tumour located 49mm from the same margin measuring 5 x 4mm.  The mesentery extends for the length of the bowel to a width of 48mm.  
+Blocks:  1 to 3 tumour with surgical margin; 4 - representativeother surgical margin; 5 - smaller tumour AE; 6 - four possible lymph nodes; 7 - three possible lymph nodes; 8 - representative mucosa.
+C.  Specimen labelled "Pelvic tumour" consists of a fatty tumour measuring 65 x 70 x30mm.  Sectioning shows uniform fatty tissue with some diffuse patchy haemorrhagic specks.  Ten representative blocks.  
+D.  Specimen labelled "Appendix" consists of an appendix measuring up to 75mm in length and 10mmin maximal diameter.  There is mesoappendix from the tip up to a length of 45mm and extends out to 29mm.  The external surface is unremarkable.  The lumen contains a faecalith.  There is a thickening at the tip measuring up to 14mm in length.  
+Blocks:  1 - TS surgical margin and LS proximal; 2 - five TS; 3 & 4 - LS tip; 5 -?mesoappendix lymph nodes.  (TO: EJ; JH/mm 18.3.63) 
+MICROSCOPIC:  (Reported by Dr F Setzler)
+A & B.  Sections show a 14mm grade 2 well differentiated small intestinal neuroendocrine tumour (specimen A). The 40mm tumour within the mesentery of specimen A is a group of closely apposed lymph nodes completely or almost completely replaced by metastatic neuroendocrine tumour with areas of extranodal extension.  There is also perinodal lymphatic involvement, a focus suspicious for large vessel involvement (block A17) and several extranodal deposits probably arising from lymphatic spread.
+Within specimen B two (2) additional separate grade 1 well differentiated small intestinal neuroendocrine tumours (carcinoids) 13mm and 5mm respectively are also present.
+A synoptic report follows:
+Synoptic Report for Neuroendocrine Tumours of the Small Intestine
+ 
+Specimens: A & B.  "Small intestine" and "proximal small bowel" 
+Procedure:  Segmental resection X2
+Tumour Size:
+-	Tumour 1 (specimen A):  14mm
+-	Tumour 2 (specimen B):  13mm
+-	Tumour 3 (specimen B):  5mm
+Histological Type and Grade
+One (1) well differentiated neuroendocrine tumour; Grade 2 (specimen A) (based on estimated Ki67 proliferation index of 5%).
+Two (2) well differentiated neuroendocrine tumours; Grade 1 (specimen B)
+Morphological Description:
+The three small intestinal tumours show similarmorphology and are composed of cells mainly arranged in solid nests. The tumour cells have fairly uniform nuclei, stippled chromatin and granular eosinophilic cytoplasm, often more accentuated in the periphery of the nests.  Scattered tumour cells have moderately pleomorphic nuclei.  The small intestinal tumour in specimen A also shows a minor component of glandular differentiation.  The mesenteric lymph node metastases and extranodal deposits show similar morphology tothe intestinal tumours.  
+Immunohistochemistry: 
+The three small intestinal tumours show positive diffuse staining with synaptophysin and chromogranin A. The CD56stain is negative.
+Mitotic Rate: All three tumours <2/10hpf.
+Ki-67 Proliferation Index: 
+Tumour 1:  5%
+Tumours 2 & 3:  2%
+Microscopic Tumour Extension:
+Tumour 1 
+Tumour 1 invades through the full thickness of small bowel wall.  It abuts the serosal aspect of the small bowelwall across a broad front and focally penetrates the serosa (visceral peritoneum) (block A4) with associated focal fibrin deposition.
+Tumour 2
+Tumour invades the outer half of themuscularis propria (block B2).
+Tumour 3
+Tumour invades the submucosa (block B5).
+Margins:
+-	Longitudinal ends:
+	-Tumour 1 (specimen A):  32mm clear
+	-Tumour 2 (specimen B):  4mm clear (block B2) (microscopic measurement)
+	-Tumour 3 (specimen B):  49mm clear
+-	Mesenteric (radial) margin 
+(specimen A): Mural tumour well clear, mesenteric nodal mass- cannot be assessed (margin not identified at gross dissection).
+(specimen B):  Well clear.
+
+Lymphovascular Invasion 
+-	Mural:  Suspicious (specimen A).  Retraction artefact makes assessment difficult.
+-	Mesenteric:  Present (specimen A).  Multiple foci of perinodal lymphovascular invasion are seen within the mesentery in proximity to the involved lymph nodes (eg. blocks A7, A9 and A11) and a focus suspicious for extramural large vessel  involvement (block A17) is also present.
+-     Nil seen in specimen B.
+Perineural Invasion:
+-     Present, several foci within the mesentery(specimen A)(block A17).
+-     Nil seen in specimen B.
+Regional Lymph Nodes:  pN1:  Metastasis in regional lymph nodes .
+Extranodal extension:  Present, numerous foci (specimen A).
+Number of lymph nodes examined:  The exact number of lymph nodes in the mesentery in specimen A cannot be accurately determined as individual lymph nodes were not separately identified within the mesenteric mass at gross dissection, however it may be as high as the following estimate.
+-	Specimen A (estimate):  up to 21
+-     Specimen B:  7
+Number of lymph nodes involved by metastatic tumour:
+-     Specimen A (estimate): up to 11 (11/21)
+-     Specimen B: 0 (0/7)
+Pathological Staging (AJCC, 7th Edition 2010):  mpT4 N1
+
+Additional Pathological Findings:  No endocrine cell hyperplasia, tumour necrosis or psammoma bodies are seen.  Occasional vessels within the mesentery in proximity to the tumour display adventitial elastosis and mural muscular hypertrophy but no complete luminal occlusion is seen.  Away from the tumour the small bowel wall including mucosa is unremarkable.  No Brunner's glands are seen in specimen B (labelled proximal small bowel).
+C.  Sections show an apparently unencapsulated tumour composed of mature adipose tissue showing no significant variation in cell size.  Very rare adipocytes nuclei display mild nuclear enlargement and hyperchromism but nolipoblasts or fibrous bands containing atypical stromal cells are seen.
+COMMENT:
+The morphological appearances favour a retroperitoneal lipoma.  As this is a rare entity; to exclude the possibility of a lipoma-like liposarcoma tissue will be sent to LISMORE BASE HOSPITAL - RIVERLANDS DRUG & ALCOHOL SERVICE's Hospital for MDM2 analysis.  A supplementary report will be issued.
+D.  Sections show three (3) separate incidental well differentiated neuroendocrine tumours (carcinoids). The tumours measure 0.7mm, 0.8mm and 1.5mm in maximum dimension and are located within the tip of the appendix within an area showing luminal and mucosal fibrous obliteration.
+A synoptic report follows:
+Synoptic Report for Neuroendocrine Tumours of the Appendix
+
+Specimen:  Appendix
+Procedure: Appendicectomy 
+Specimen Integrity: Intact
+Tumour Site: Tip of appendix
+Tumour Size: 0.7mm, 0.8mm and 1.5mm
+Histological type and Grade:  Well differentiated neuroendocrine tumours x3 ; too small to accurately grade but all appear low grade. 
+Morphological Description: The tumour cells are arranged in small nests or interconnecting trabeculae composed of cells with uniformround nuclei with stippled chromatin and eosinophilic to clear cytoplasm. The dPAS stain is negative. There is mild intratumoural and peritumoural chronic inflammation and fibrosis. 
+Immunohistochemistry:  All three tumours show positive diffuse staining with CD56 and show variable patchy positive staining with synaptophysin and chromogranin A. 
+Mitotic rate: No mitoses seen.
+Ki67 proliferation index: All three tumours [?] 2%.
+Microscopic Tumour Extension:  Confined within an area of fibrous obliteration of the tip (not involving muscularis propria).
+Margins:
+Proximal margin:  Well clear >20mm.
+Mesenteric margin: Clear (mesentery uninvolved).
+
+Lymphovascular Invasion: Not identified
+Perineural Invasion: Not identified 
+Primary Tumour (pT):  mpT1a:  Tumour 1cm or less in greatest dimension 
+Regional Lymph Nodes:  No nodes submitted or found
+Distant Metastasis: Not applicable
+Other Pathological Findings: The appendix is otherwise unremarkable.
+DIAGNOSIS:
+A-D. Small bowel & proximal small bowel (segmental resections), pelvic tumour and appendix:
+-  Three (3) small intestinal well differentiated neuroendocrine tumours (NETs) including  one (1) 14mm grade 2 NET (specimen A) and two (2) 5mm and 13mm grade 1 NETs (specimen B).
+-  Multiple mesentericlymph node metastases, extranodal extension, extranodal deposits, extramural perineural invasion and focus suspicious for extramural large vessel invasion (specimen A).
+-  Seven (7) negative mesenteric lymph nodes (specimen B)
+-  Longitudinal resection margins clear.
+-  Stage mpT4N1
+-  Favour pelvic retroperitoneal lipoma (specimen C) (mdm2 analysis pending).
+-  Three incidental appendiceal (3) lowgrade NETs, 0.7mm, 0.8mm and 1.5mm (specimen D).
+-  Resection margins clear.
+-  Stage mpT1a.
+Tissue from the retroperitoneal tumour (specimen C) will be sent to LAVERTON HOSPITAL's Hospital, Darlinghurst for mdm2 analysis. The result will be issued in a supplementary report..
+
+		ADDITIONAL REPORT:  (3.9.63)
+
+FISH REPORT, WHYALLA HOSPITAL'S HOSPITAL, FOR MDM2 ANALYSIS:
+"FISH PROBE:
+MDM2 (12q15),D12Z3 (12 centromere) loci-specific probe set (ZytoVision).
+FISH RESULTS:
+Nuc ish (D12Z3,MDM2)x2.
+:
+Interphase FISH detected no evidence of MDM2 amplification relative to the 12 centromere.  The majority of nuclei examined showed two copies of both MDM2 and 12 centromere".   Reported by F Duryee, Validated by Dr F F Dearment.
+

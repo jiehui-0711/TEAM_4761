@@ -1,0 +1,77 @@
+
+Episode No:  09W288414S
+098288.MEK
+
+Gauthreaux, RICKY Rudolf Antwan MAURICIO 
+Lab No:  09W28841
+Cummings Point
+WAUCHOPE  Victoria  6516
+Specimen: Tissue
+D.O.B:  26/2/2031
+Sex:  F
+Collected: 25/06/2013 at 16:21
+Location:  ST VINCENT'S PATHOLOGY-MORNINGTON ISLAND HOSPITAL
+DR WAJIRI BOORI FINN-Eison
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+BRCA1 +.  Right 10 o'clock 13mm lesion.  Wide local excision plus sentinel node biopsy.
+Additional information obtained:  Patient breastfeeding.
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node biopsy", consists of four fragments of fatty tissue from 15 to 45mm.  Multiple lymph nodes are identified from 3 to 25mm. 
+Blocks: 1 and 2 - Lymph nodes; 3 and 4 - one lymph node serially sectioned.
+B.  Specimen labelled "Right breast lesion, long lateral, short superior, medium medial", consists of an orientated wide local excision measuring 80mm (medial to lateral) x 58mm (inferior to superior) x 40mm (superficial to deep).  There is an overlying ellipse of skin measuring 55 x 17mm which runs from the medial/inferior margin to the superiolateral margin.  A hookwire is seen to insert into lateral aspect of the specimen.  The deep superior margin is inked blue, the deep inferior margin is inked black and the superficial margin is inked red.  The specimen is serially sectioned in the parasagittal plane into 13 slices from slice 1 (medial) to slice 13 (lateral).  In slices 6 and 7 there is a cream relatively well circumscribed lesion measuring 14mm (medial to lateral) x 13mm (inferior to superior) x 9mm (superficial to deep).  The distance from margins is as follows, deep margin 6mm, superior margin 15mm, superficial margin 19mm and inferior margin 17mm and well clear of both the medial and lateral margins.  There are some cream ? calcified areas identified near the lateral end of the specimen ? site of previous biopsies.
+Blocks: 1 to 4 - slice 6; 5 to 8 - slice 5; 9 to 11 - slice 7; 12 - representative LS slice 1; 13 and 14 - representative slice 3; 15 to 17 - representative slice 10; 18 and 19 - slice 11; 20 - LS slice 13.  Please refer to attached diagram.  (DD/vo 28.8.63)
+MICROSCOPIC (reported by Dr C Hoene & Dr C Latiker):
+A & B.  Sections show invasive ductal carcinoma.  The features are as follows:
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive ductal carcinoma
+Invasive tumour size: 12mm (spanning 3 slices)
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3   Nuclei:  3    Mitoses:  3    Mitotic rate:  32/10hpf.
+Lymphovascular invasion:  Present
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  20mm
+Nuclear grade:  High grade
+Architecture:  Solid
+Necrosis:  Present
+Calcification:  Absent
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Moderate
+Excision Margins:  
+Invasive component:  2mm from the deep margin, well clear of all other margins
+In-situ component:  2.5mm from the deep margin, well clear of all other margins
+Receptors (Block B2): 
+ER:  Positive
+	10% of nuclei stained
+	predominant intensity of staining:  Weak
+PR:  Negative
+HER2 (Novocastra 10A7):  Equivocal (score 2+)
+Ki-67 index:  Approximately 60%
+Nipple:  Not applicable
+
+LCIS / ALH:   Not seen
+Miscellaneous:  Extensive lactational change is present.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  8
+Number of sentinel lymph nodes involved by tumour:  0  
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  8
+Total number of involved lymph nodes (including sentinel node(s)):  0
+ADDITIONAL REPORT (12.9.63):
+Blocks were sent to GOONDIWINDI HOSPITAL Hospital forHer2 ISH analysis, Dr C Stehly reports:
+HER2 IHC Result:   2+ at LAURA CAMPUS.
+Signal Detection has been performed for the Her2 gene(17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (nonamplified, diploid). 
+Mean Her2 copy number per cell: 1.75.
+Mean CEP17 copy number per cell:  1.65.
+HER2/CEP17 ratio:  1.06.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+

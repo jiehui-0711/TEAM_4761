@@ -1,0 +1,88 @@
+SPR no: 09J769175B
+MRN no: 10019150
+Site_name: WONDAI HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report09J76917 (09J769175B) ALLGIRE, NEB-Darren
+HISTOPATHOLOGY REPORT
+SOUTH EAST REGIONAL HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:  Small bowel cancer.  Pancreatic tissue for frozen section.  Small bowel, colon, peritoneal disease, abdominal wall, left iliac lymph node.
+
+Previous:
+GORDONVALE HOSPITAL09J7691 small bowel resection 17 February 2066 Pathology north report - carcinoma in small bowel ?primary
+09J76917 Tissue Pathology and Diagnostic Oncology 10 April 2066 peritonectomy
+
+MACROSCOPIC:
+A.  &amp;quot;MASS ON PANCREAS&amp;quot;. Consists of irregular piece of tissue 40x20x15mm.  Cut surface shows 12mm firm pale nodule at one end and several smaller adjacent nodules.(1 FS; 2 RS of remainder of tissue).  RS (M-2)
+FROZEN SECTION REPORT: &amp;quot;Benign pancreatic tissue&amp;quot;.  Reported to intern by Dr. C. Stiern at 12:10 pm
+
+B.  &amp;quot;LARGE, SMALL BOWEL + PERITONEAL DISEASE, ABDOMINAL WALL&amp;quot;.
+Consists of two short segments of small bowel, a segment of ? large bowel with site of anastomosis and multiple pieces of fatty tissue.
+- First segment of bowel (small bowel) measures 90mm in length with a maximum diameter of 25mm. The serosa is roughened.  Within the mesentery is a firm area.  One margin is inked blue, the other green.  On opening the bowel mucosa is unremarkable. Within the firm area within the mesentery is tumour deposit with a pale white to fatty appearance.
+(1 margins; 2&amp;amp;3 sections of tumour within the mesentery [3 tumour block])
+- Second fragment of small bowel measures 80mm in length with a maximum diameter of 30mm.  It ends in a blind loop on one end. The other end has staples and is inked green.  60mm from the stapled end the mucosa appears a bit granular.  On sectioning through this area the underlying area to the submucosa is pale white in appearance.
+(4 margins; 5&amp;amp;6 suspicious granular area within mucosa)
+- Segment of bowel ? large bowel with site of anastomosis.  There is a side to side anastomosis with a segment of large bowel measuring 110mm. The anastomosed ? small bowel measures 50mm.  There is also adherent shorter segment of small bowel measuring 55mm.  The serosa of the large bowel shows areas of adhesion with possible muscle ? abdominal wall.  Resection margins of these areas are inked black.  The mucosa is unremarkable.  No suspicious areas are noted surrounding the area of anastomosis.  There is a second adherent segment of bowel ? large bowel. This measures 55mm maximum dimension. The mucosa is unremarkable. (7 margins of anastomosed segment of bowel; 8 site of anastomosis; 9 margins first adherent segment of bowel; 10 margins second adherent segment of bowel; 11&amp;amp;12 sections through adherent fatty tissue and muscle ? abdominal wall) Block 13 not used.
+- Multiple separate pieces of fatty tissue ? peritoneal disease altogether 120x90x45mm.  On sectioning through this tissue no obvious tumour is noted macroscopically.  Representative section in block 14.  RS (M-14)
+
+C.  &amp;quot;LEFT ILIAC LYMPH NODE&amp;quot;.  a piece of fatty tissue 40x40x15mm.  One possible lymph node is identified, bisected.  RS (2-1/MC ank)
+
+MICROSCOPIC:  C Robaina
+A.  MASS ON PANCREAS
+Sections show pancreas tissue with adjacent adipose tissue.  Within the adipose tissue ?peritoneal/subperitoneal, there is a roughly 6 mm diameter area of nodular fibrous scar tissue which has a stellate architecture.  The piece of pancreas tissue appears normal.
+
+B.  LARGE, SMALL BOWEL + PERITONEAL DISEASE, ABDOMINAL WALL:
+Within small bowel mesenteric tissue there is a relatively large deposit of metastatic moderate to poorly differentiated adenocarcinoma.  The tumour is associated with a dense fibrous stromal reaction and involves some elastic layers ?fibrosed previous peritoneal surface.  The carcinoma is a variable acinar/cribriform/single cell growth pattern and is associated with dense stromal fibrosis some of which is scar tissue-like.
+
+The second sample area of small bowel has surface areas of fibrosis and an area of submucosal fibrosis.  Within one of the pieces of surface fibrosis, there are foreign body giant cell reaction to previous instrumentation/suture or similar.  There are some birefringent suture fragments present.
+
+The colon shows fibrous adhesions on the surface.
+
+Sections of abdominal wall tissue show an area of dense fibrous scarring involving fascia and skeletal muscle.  Within the scar tissue and adipose tissue there are deposits of metastatic adenocarcinoma.
+
+C.  LEFT ILIAC LYMPH NODE
+Sections show adipose tissue with a nodular deposit of dense fibrous tissue which replaces adipose tissue.  Some areas are fibromatosis like.  Tumour is not identified.
+
+Comment(s):
+Clinical correlation is recommended to assess organ of origin.
+MMRP immunostains pending.
+
+DIAGNOSIS:
+
+A.  MASS ON PANCREAS
+- nodular fibrous scar tissue ?peritoneal/subperitoneal
+- normal appearance adjacent pancreas tissue.
+
+B.  LARGE, SMALL BOWEL + PERITONEAL DISEASE, ABDOMINAL WALL:
+- mesenteric, peritoneal, and abdominal wall deposits of metastatic moderate to poorly differentiated adenocarcinoma, with fibrosis.
+- see Comment(s)
+
+C.  LEFT ILIAC LYMPH NODE
+- nodular fibrosis.
+
+km
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+SUPPLEMENTARY REPORT:
+
+B. LARGE, SMALL BOWEL + PERITONEAL DISEASE, ABDOMINAL WALL:
+1. Further sections;
+The last described piece of small bowel and colon is adherent to a large disc of muscle and adipose tissue ? 90 x90 x 50 mm ?abdominal wall tissue. Sectioning through this shows a stellate fibrous very firm tumour mass forming part of adhesion to bowel and invading into muscle and fat. This mass is about 40 mm diameter.
+Further sections:
+15 further mesenteric tumour smaller piece of small bowel
+16-19 mass in abdominal wall tissue.
+
+- Sections of these further blocks show metastatic adenocarcinoma similar to the other tumour deposits.
+- The above diagnosis is unchanged.
+- Mesenteric/mesocolic tissue was difficult to examine for lymph nodes which were not found.
+
+2. Immunostains for Mismatch Repair Proteins (MMRP), block b2:
+
+MLH1, PMS2, MSH2, MSH6:   Intact&amp;#160;nuclear expression.
+
+Interpretation of MMRP Immunostains:
+- No loss of nuclear expression of MMR proteins.
+- Low probability of microsatellite instability-high (MSI-H).
+- Lynch syndrome very unlikely.
+- Note:  There are exceptions to the above Immunostain interpretations. These results should not be considered in isolation, and clinical correlation is recommended.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

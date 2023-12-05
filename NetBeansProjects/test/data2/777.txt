@@ -1,0 +1,65 @@
+Episode No:  02H175646F
+022175.QMP
+
+DRESNER, ERIK
+Lab No:  02H17564
+First Data Corporation
+ARMIDALETasmania  3005
+Specimen: Tissue
+D.O.B:  26/7/1983
+Sex:  F
+Collected: 25/02/2014 at 08:28
+Location:  Immunology-ESPERANCE MULTI PURPOSE CENTRE
+DR CHANG JAMAL NOVIDA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Sigmoid colon cancer.  No mets.  LAR resection.
+MACROSCOPIC:
+A.  Specimen labelled "Distal donut" consists of a donut of intestine 15mm in maximum diameter.  A stapled margin is removed and the rest of the tissue is embedded in 1 block.
+B.  Specimen labelled "Anterior resection" consists of a segment of large intestine 200mm from proximal to distal and up to 30mm in maximum diameter.  The distal sigmoid colon measures 110mm in length and the rectum measures 100 mm in length.  The anterior peritoneal reflection is identified and is located 5mm from the distal margin.  On the external surface 40mm from the distal margin and in the anterior aspect of the rectum there is a area of serosal puckering 10mm in maximum diameter.  The posterior peritonealized margin is inked blue.  On sectioning and in the area of serosal puckering there is an almost circumferential tumour mainly measuring 50mm from proximal to distal and 45mm in maximum diameter.  It is located 25mm from the distal margin and 150mm from the proximal margin.  On sectioning the tumour has a maximum thickness of 6mm and appears to involve the serosal surface.  No perirectal fat invasion is seen macroscopically and the closest radial margin the right anterolateral margin and the tumour is approximately 22mm from this margin. The tumour is all embedded from proximal to distal in serial transverse sections as follows:
+Blocks:  1 to 16 - tumour, 17 - LS of distal margin; 18 - TS proximal margin; 19 - apical node; 20 to 26- lymph nodes from the pericolic fat; 27 to 30 - Lymph nodesfrom the perirectal fat.  (TO: AD; FF/rt 28.4.64)
+MICROSCOPIC (Reported by Dr B Driere):
+A. Sections show large bowel with no evidence of malignancy.
+B. Site of tumour: Sigmoid colon/upper rectum (involving 90% of the bowel circumference)	
+Maximum tumour diameter:  50mm
+Distance of tumour to nearer cut end: 25mm (distal)
+Tumour perforation:     No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin:  8mm (posterior B10)
+Lymph nodes
+Number of lymph nodes present:  42	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumour status
+R0	No residual tumour
+Other comments:
+Diverticular disease is seen in the sigmoid colon. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0     pMX     R0	
+
+
+

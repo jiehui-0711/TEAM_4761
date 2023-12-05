@@ -1,0 +1,66 @@
+SPR no: 80I651778T
+MRN no: 335132
+Site_name: PEAK HILL HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right breast lesion 2 o&amp;apos;clock 25mm IDC + DCIS.  Wide excision + sentinel node biopsy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right axilla sentinel node&amp;quot;, consists of a piece of fat 32 x 25 x 9mm containing a 25 x 15 x 7mm lymph node.  The lymph node is serially sectioned at 2mm intervals and AE 3 blocks.
+
+B.  Specimen labelled &amp;quot;Right breast lesion stitch short superior long lateral medium medial&amp;quot;, consists of an excision of fibroadipose tissue, 103 grams, 85mm  medial to lateral x 70mm superior to inferior x 50mm anterior to posterior.  Sutures are taken as described.  The superficial aspect contains a 50 x 8mm sliver of skin containing a 12 x 7mm friable flesh coloured macule.  The specimen is inked as follows: Superficial blue, deep black, superior green.  The specimen is sliced from medial to lateral into twelve slices.  In slices seven to ten there is a firm white ill defined tumour measuring 24 x 20 x 18mm.  The tumour lies 11mm from the superficial margin, 15mm from the superior margin, 12mm from the deep margin, 12mm from the inferior margin; 30mm from the medial margin and 20mm from the lateral margin.  The remainder of the specimen shows uniform fibrofatty breast tissue.  Blocks: 1 to 4 - slice one sectioned from superior to inferior into twelve pieces; 5 to 9 - slice six, sectioned into five pieces; 10 to 33 - slices seven to ten each sectioned into six pieces; 34 to 38 - slice eleven sectioned into five pieces; 39 to 43 - slice twelve sectioned from superior to inferior into fifteen pieces.  Please see block diagram.
+(TO:TF/vo 20/5/70)
+
+
+MICROSCOPIC (Reported by Dr V Gauger):
+Sections show a 25mm grade 1 carcinoma of the right breast.  The tumour shows weak patchy staining with synaptophysin and patchy moderate staining with chromogranin however, there is insufficient features overall for classification as carcinoma with neuroendocrine features.  The overall features are as follows:
+
+Invasive carcinoma:
+Site:  Right breast 2 o&amp;apos;clock.
+Type:  Invasive carcinoma, NST.
+Invasive tumour size:  25mm (spanning 5 slices).
+Grade (Modified Bloom &amp;amp; Richardson):  1
+Tubules:  2    Nuclei:  2      Mitoses:  1      Mitotic rate:  5/10hpf.
+Lymphovascular invasion:  Not identified.
+
+DCIS component:
+DCIS:  Present.
+Maximum extent of DCIS:  Approximately 25mm.
+Nuclear grade:  Intermediate.
+Architecture:  Solid and cribriform.
+Necrosis:  Absent.
+Calcification:  Present.
+Degree of DCIS in tumour:  90%.
+DCIS in adjacent tissue:  Present.
+
+Excision Margins:
+Invasive component:  8mm from superficial, all other margins well clear.
+In-situ component:  8mm from superficial, all other margins well clear.
+
+Receptors (Block B20):
+ER:  	Positive.
+100% of nuclei stained
+predominant intensity of staining:  Moderate-to-strong
+PR:  	Positive
+100% of nuclei stained
+predominant intensity of staining:  Moderate-to-strong
+HER2 (Novocastra 10A7):  Negative (Score 1+)
+HER2 SISH:  Performed at Molecular Oncology, MUNDUBBERA MULTIPURPOSE HEALTH SERVICE Hospital, see separate report.
+Ki-67 index:  Approximately 2%.
+
+Nipple:  Not applicable.
+
+LCIS/ALH:  Absent.
+
+Miscellaneous:  Multiple benign intraductal papillomas.  The skin lesion is seborrhoeic keratosis.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0

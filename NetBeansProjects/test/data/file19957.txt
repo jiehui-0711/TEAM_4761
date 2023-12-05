@@ -1,0 +1,95 @@
+DateOfBirth
+200902020000
+
+
+SiteName
+TRUNDLE MULTI PURPOSE SERVICE
+
+
+FirstName
+Derkach
+
+
+SPRID
+10X322068O
+
+
+MRN
+10832206
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Coca
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Mesenteric nodule for frozen section. ?Ovarian/peritoneal primary, ?chemotherapy response. General clinical history: interval debulking surgery (3 x NACT) for high grade serous carcinoma. Previous hysterectomy. Recent chemotherapy, ascites, hysterectomy, gord, burst appendix 2069.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Mesenteric nodule for frozen section&amp;quot;, consists of a 15 x 15 x 5mm nodule/piece of fatty tissue. Trisected. The cut surface has a homogenous cream appearance. One TS for frozen section. Blocks: 1 - frozen section; 2 - remaining tissue.
+
+FROZEN SECTION REPORT:
+High grade carcinoma.
+Result to Dr D NORBERTO-Mallat by Dr D Gillies at 3:26pm on 7/7/21.
+
+B.  Specimen labelled &amp;quot;Bilateral tubes and ovaries + rectosigmoid&amp;quot;, consists of rectosigmoid, 150mm in length with a multinodular matted mass over the right and anterior aspect of the bowel, 150 x 120 x up to 90mm. The mass appears adherent to the rectosigmoid. The posterior circumferential rectal margin appears unremarkable. The rectal mucosa appears unremarkable. The proximal and distal resection margins of the rectosigmoid are uninvolved by tumour. Tumour appears to encase but does not invade into the bowel wall macroscopically. Possible left fallopian tube is identified, 30mm in length and 7mm in diameter, with attached possible ovary, 30 x 15 x 8mm. Possible right fallopian tube is identified, approximately 50mm in length and 5mm in diameter, attached to the main mass. A smooth walled cystic component is identified at the right side of the mass, adjacent to the fallopian tube, with papillary projections from the internal surface. Blocks: 1 - shave of proximal sigmoid resection margin; 2 - shave of distal rectal resection margin; 3 and 4 - RS of bowel with adjacent tumour; 5 - bisected presumed left fimbriae; 6 - transverse sections of presumed left fallopian tube; 7 to 9 - transverse sections of presumed left ovary with adjacent tube; 10 and 11 - possible fimbrial end of presumed right ovary; 12 - other possible right fimbriae; 13 to 16 - transverse sections of presumed right fallopian tube; 17 and 18 - sections from cystic component of presumed right ovarian mass; 19 to 22 - RS of mass. Macroscopic photograph available.
+
+C.  Specimen labelled &amp;quot;Small bowel&amp;quot;, consists of a 180mm length of small bowel, 25mm in diameter with attached fat up to 55mm in width. The serosal surface of the bowel and fat show multiple pale nodules up to 21mm in maximum dimension. There is also a haemorrhagic nodule, 55 x 45 x 30mm. The mucosal surface of the small bowel is unremarkable. Surgical margins inked blue. Blocks: 1 &amp;amp; 2 - shaves of both resection margins; 3 &amp;amp; 4 - RS through bowel with adjacent serosal nodules; 5 &amp;amp; 6 - RS bowel with adjacent larger haemorrhagic nodule. Photograph available.
+
+D.  Specimen labelled &amp;quot;Sigmoid epiploica&amp;quot;, consists of fatty tissue, 70 x 35 x 12mm, with a nodular appearance with haemorrhagic areas. The cut surface has a homogenous cream appearance. RS 2 blocks.
+
+E.  Specimen labelled &amp;quot;Ileal fat&amp;quot;, consists of fatty tissue, 40 x 25 x 8mm. There are focal pale nodules up to 5mm in maximum diameter on the surface. RS 2 blocks.
+
+F.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of fatty tissue, 250 x 185 x up to 20mm. Multiple nodules are identified. RS 3 blocks.   (TO:LR/ta/vo 10/9/71)
+
+
+MICROSCOPIC (Reported by Dr D Belgrade):
+A. The paraffin sections confirm high grade serous carcinoma invading fibrofatty tissue.
+
+B.  The sections show extensive high grade serous carcinoma in the pericolic fat adjacent to the colon, but not invading into the muscle wall of the colon.  Lymphovascular invasion is present.  The colonic mucosa shows no significant abnormality. There is no evidence of malignancy in the shave proximal and distal margins of the rectosigmoid colon.
+High grade carcinoma also invades into the muscle coat and mucosa of the left fallopian tube (slide B5).
+The left ovary shows corpora albicantes and surface inclusion cysts.
+The right ovary is mostly replaced by high grade serous carcinoma (slides B10, B11,B18). The right fallopian tube shows high grade serous carcinoma in the serosa (slides B13-16).
+There is no tubal carcinoma in situ.
+
+C. The sections show nodules of high grade serous carcinoma in the mesentery adjacent to the small bowel, but carcinoma does not invade into bowel wall. There is no malignancy in the shave margins of the bowel. The small bowel mucosa shows no significant abnormality.
+
+D. The sections show a large nodule of high grade serous carcinoma.
+
+E.  The sections show nodules of high grade serous carcinoma near the outer surface of the fatty tissue.
+
+F. The sections show high grade serous carcinoma in the omentum, the largest nodules measuring 5mm across. The nodules show mainly viable tumour with no necrosis or fibrosis (negligible chemotherapy response). Small calcifications are seen in some areas of the omentum, separate from the tumour nodules.
+
+SUMMARY
+A. Mesenteric nodule: High grade serous carcinoma.
+B. Rectosigmoid colon, ovaries and fallopian tubes: High grade serous carcinoma in right ovary, around right and left fallopian tubes and rectosigmoid colon, lymphovascular invasion present.
+C. Small bowel: High grade serous carcinoma around small bowel.
+D-F. Sigmoid epiploica, ileal fat, omentum: High grade serous carcinoma.
+
+
+
+
+SpecimenReceivedDate
+2217-05-06 00:00:00
+
+
+LastName
+Schiraldi

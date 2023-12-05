@@ -1,0 +1,80 @@
+SPR no: 85N341852H
+MRN no: 8553418
+Site_name: HEDLAND HEALTH CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (26.10.2066)
+
+CLINICAL:
+Pelvic mass, Ca 125-70.  Right tube and ovary.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a cystic ovary 110 x 115 x 40mm with fallopian tube 90mm long and 10mm in diameter.  The external surface is smooth.  On slicing the cyst is unilocular.  The inner surface is partly smooth and partly has attached soft nodular excrescences.
+Blocks: 1 and 2 - frozen section; 3 to 6 - the entire fallopian tube; 7 - section of loose solid fragments within the cyst, reserved block; 8 - loose solid fragments within the cyst; 9 - loose solid fragments within the cyst; 10 to 16 - representative sections.
+
+FROZEN SECTION REPORT:
+Poorly differentiated malignancy, favour poorly differentiated serous carcinoma.
+Phone result to Anaesthetist by Dr U Proveaux at 11:15am on 16.08.2016.
+
+B. Specimen labelled &amp;quot;Uterus cervix left tube and ovary&amp;quot;, consists of a uterus with attached cervix, left fallopian tube and left ovary weighing 360g in total.  The uterus measures 120 x 110 x 90mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 35mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 65mm in maximum thickness.  The myometrium is distorted by six fibroids ranging 10 to 65mm in maximum dimension.  The cut surfaces of the fibroids are solid.  No necrosis is seen.  The left fallopian tube is 65mm long and up to 7mm in diameter.  The left ovary is 30 x 20 x 12mm and contains a bi-locular cyst 15 x 10 x 10mm.  The cyst has a smooth lining and contains clear fluid.
+Blocks: 1 and 2 - paired sections anterior cervix; 3 - TS isthmus; 4 - anterior body of uterus, LS; 5 - LS anterior body of uterus; 6 and 7 - posterior cervix; 8 - representatives left fallopian tube including the entire fimbrial end; 9 and 10 - paired sections left ovary; 11 to 15 - representatives fibroids.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omental fatty tissue 230 x 110 x up to 10mm.  No solid nodules are identified.  Blocks: 1 to 3 - random sections.
+
+D.  Specimen labelled &amp;quot;Right pericolic gutter&amp;quot;, consists of a piece of fatty tissue 45 x 35 x 3mm.  No nodules are seen on the cut surface.  AE 3 blocks.
+
+E.  Specimen labelled &amp;quot;Small bowel mesentery&amp;quot;, consists of a piece of fatty tissue 11 x 4 x 3mm. AE 1 block.
+
+F.  Specimen labelled &amp;quot;Left paracolic gutter&amp;quot;, consists of a piece of fatty tissue 55 x 25 x 3mm.  No nodules are seen on the cut surface.  Blocks: 1 to 3 - AE.
+
+G. Specimen labelled &amp;quot;Mucin&amp;quot;, consists of sac shaped transparent piece of tissue filled with mucoid material 35 x 25 x 15mm.  The specimen was received fresh and some of the contents were sampled for cytology before formalin fixation.  Blocks: 1 - AE.  (TO: HM;HM/vo 19.10.66)
+
+
+MICROSCOPIC (Reported by Dr U Bielefield):
+A.  Sections of the ovarian tumour show a clear cell carcinoma arising in an endometriotic cyst.  The clear cell carcinoma consists of papillae covered by multilayered, highly atypical epithelial cells.  These cells have large, highly pleomorphic nuclei and a variable amount of clear or eosinophilic cytoplasm.  Many of the nuclei have a single prominent nucleolus.  The stromal cores of the papillae are hyalinised.  The tumour projects into the lumen of the endometriotic cyst and is also focally present within the cyst wall.  No tumour is seen on the surface of the ovary.
+Sections of the fallopian tube show focal stromal endometriosis at the fimbrial end. The fallopian tube is otherwise unremarkable.  There is also focal endometriosis present on the surface of parovarian soft tissue.
+
+B.  Sections of the cervix show a moderate infiltrate of lymphocytes in superficial subepithelial tissue of the ectocervix, possibly related to prolapse.  The cervix is otherwise unremarkable.  Sections of the endometrium show features of cystic atrophy.  Leiomyomas are confirmed in the myometrium.  There is also focal endometriosis on the serosa of the uterus.  Sections of the left fallopian tube show foci of endometriosis on the tube serosa at the fimbrial end.  The fallopian tube is otherwise unremarkable.  Sections of the left ovary show surface involvement by endometriosis.  There is also a simple cyst within the ovary.
+
+C.  Sections show fat.  One unremarkable lymph node is present.  No tumour is seen.
+
+D.  Sections show mesothelium and underlying fat.  There is focal reactive mesothelial proliferation.  No tumour is seen.
+
+E.  Sections show unremarkable fat.  No tumour is seen.
+
+F.  Sections show mesothelium with underlying fat.  There is focal reactive mesothelial proliferation.  No tumour is seen.
+
+G.  Sections show a thin walled cyst lined by plump cuboidal cells.  There are haemosiderin laden macrophages in the loose fibrous wall of the cyst.  No tumour is seen.  The features are most consistent with a mesothelial cyst.
+
+
+DIAGNOSIS:
+A.   Right ovary and fallopian tube:
+1.   Clear cell carcinoma arising in endometriotic cyst of ovary.
+2.   Foci of endometriosis at fimbrial end of tube and on serosa of parovarian tissue.
+
+B.   Uterus, left ovary and fallopian tube:
+1.   Endometriosis on serosal surface of ovary, fallopian tube and uterus.
+2.   Uterine leiomyomas.
+
+C.  Omentum:  No tumour.
+
+D.  Right pericolic gutter:  No tumour.
+
+E.  Small bowel mesentery:  No tumour.
+
+F.  Left paracolic gutter:  No tumour.
+
+G.  Mesothelial cyst.
+
+
+SUPPLEMENTARY REPORT (Reported by Dr U Bosquez 26.10.2066):
+MMRD immunohistochemical stains were performed as requested.
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

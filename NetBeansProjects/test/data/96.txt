@@ -1,0 +1,72 @@
+
+Episode No:  63B647330E
+6306473.IAE
+
+BARCOMB, FOSTER 
+Lab No:  63B64733,63B64733
+Stow
+HEDDON GRETA  ACT  3629
+Specimen: Fluid,Tissue
+D.O.B:  3/12/2001
+Sex:  M
+Collected: 29/6/2062 at :
+Location:  PRINCE OF WALES PRIVATE-WAGIN HOSPITAL
+DR MERLIN JARRETT AMSTERDAM
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+***SUPPLEMENTARY REPORT (7.6.2062): IMMUNOHISTOCHEMISTRY ON PLEURAL BIOPSY
+
+CLINICAL:
+RLL lesion   ?Atypical carcinoma.  Small cell on FNA.  Right lower lobe.  Fluid lymph node.  
+MACROSCOPIC:
+A.  Specimen labelled "Right lower lobe" consists of a lobectomy 130 x 110 x 95mm weighing 223g in fresh state. Bronchial margin consists of two adjacent segments of bronchi 7mm and 9mm in diameter.  The pleural surface appears smooth and no tumour deposits are identified. (Two small piecesof pleura were sent for microbiology). Sectioning shows a peripheral, subpleural tumour 18 x 15 x 15mm.  The tumour lies at least 45mm from bronchial resection margin.  The bronchial mucosa appears smooth.  No other lesions are identified.  
+Blocks: 1 - bronchial and vascular margins; 2 - four nodes; 3 - tumour; 4 & 5 - full face of tumour; 6 & 7 - tumour closest to bronchial mucosa; 8 - non neoplastic lung; 9 - large bronchi with lymph nodes; 10 - one node bisected; 11 - one node bisected; 12 - shave of tumour for tissue bank.
+B.  Specimen labelled "Inferior preliminary ligament lymph node" consists of a 9mm lymph node.  AE 1 block.
+C.  Specimen labelled "Paratracheal lymph node" and consists of a piece of fatty tissue 5mm in diameter, possibly containing a small 2mm node.  AE 1 block.
+D.  Specimen is unlabelled as to site or nature and consists of a piece of fibro fatty tissue (?pleura) 20 x 15 x 4mm.  The tissue appears dense and fibrotic but no tumour deposits are identified.  Five TS AE 1 block.  
+   (LA/ta  6/2/62) 
+ 
+  
+MICROSCOPIC: (Reported by Dr R Nase - 7/3/2062)
+A.  The right lower lobe tumour is an atypical carcinoid tumour. A synoptic report for lung tumours follows:
+
+SYNOPTIC REPORT FOR INVASIVE LUNG TUMOURS
+1.  Specimen type: Lobectomy.
+2.  Topography: R lung (RLL).
+.  Tumour location: Peripheral, subpleural.
+4.  Tumour size: 18mm.
+5.  Tumour type: Atypical carcinoid tumour.
+.  Histological grade: The atypical carcinoid tumour shows up to 8 mitoses per 10 high power fields and there are scattered small foci of necrosis. 
+7.  Vessel invasion: Lymphovascular space invasion is present (multifocal).
+8.  Perineural invasion: Not identified.
+9.  Pleural involvement: Scattered foci of atypical carcinoid tumour are seen within subpleural and pleural lymphatics. The overlying visceral pleura shows reactive oedema and thickening, and no breach of the pleura by tumour is seen. 
+10.  Bronchial resection margin: Clear of tumour.
+Minimum distance between tumour andbronchial resection margin: 45mm (macroscopic).
+11.  Vascular resection margin: Clear of tumour.
+12.  Other resection margins: Not included. 
+13.  Chest wall: Not included. 
+14.  In situ carcinoma: Absent.
+15.  Immunohistochemistry:
+Tumour cells positive for: CAM5.2, CD56,Chromogranin, CK7 and TTF-1.
+Tumour cells negative for: CK20.
+ A ki-67 immunoproliferative index highlights up to 5 - 7% of tumour cell nuclei.
+16.  Non-neoplastic lung: The adjacent non-neoplastic lung shows patchy emphysematous type change.
+17.  Lymph nodes:
+Lymph nodes from main resection specimen: No evidence of malignancy in nine lymph nodes (0/9).
+Lymph nodes from separately received specimen: See below. 
+18.  Pathological staging (pTNM AJCC/IUCC 7th Ed.): STAGE IIIA (pT1aN2Mx). 
+B.  The inferior pulmonary ligament lymph node shows metastatic atypical carcinoid tumour (1/1). The metastatic atypical carcinoid is present within the lymph node subcapsular sinus. The tumour is positive for CD56 and CAM5.2 and negative for LCA.
+C.  The paratracheal lymph node shows no evidence of malignancy (0/1).  
+D.  Sections are of pleura. The pleura appears focally thickened by dense, hyalinised fibrous tissue, consistent with a pleural plaque. There is patchy mild non-specific chronic inflammation. No granulomas or pathogenic organisms are seen. Towards the edge of the biopsy, there is prominent diathermy artefact, which obscures the histopathological appearance. Although no convincing neoplastic cellular infiltrate is identified, immunohistochemical stains will be performed on the diathermied tissue, and a supplementary report will be issued. There is no evidence of malignancy. 
+DIAGNOSIS:
+A.  Right lower lobe: 
+18mm, pTNM Stage IIIA, atypical carcinoid tumour, clear of bronchial and vascular resection margins. 
+Multifocal lymphovascular space invasion, including subpleural and pleural lymphatic involvement, although the tumour does not breach the visceral pleura.
+
+B.  Inferior pulmonary ligament lymph node: Metastatic atypical carcinoid is present in one lymph node(1/1). 
+
+C.  Paratracheal lymph node: No evidence of malignancy (0/1). 
+
+D.  Pleural biopsy: Pleural plaque andnon-specific mild chronic inflammation. 
+Immunohistochemical stains are being performed on the pleural biopsy and a supplementary report will be issued (see body of report). 
+

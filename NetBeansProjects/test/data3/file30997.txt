@@ -1,0 +1,41 @@
+SPR no: 53O907215K
+MRN no: 5359072
+Site_name: KYABRAM & DISTRICT HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportADDITIONAL REPORT (10/10/69)
+
+CLINICAL:
+Recurrent granulosa cell TM.  Pelvic washings.  Rectum sigmoid. Distal donut.  Proximal donut.  COPD.  Hypothyroidism.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Rectus sigmoid&amp;quot;, consists of a segment of bowel 75mm in length x 20mm in diameter.  The bowel is surrounded by mesocolon to width of 60mm.  On the surface of the bowel along the the antimesenteric surface there is two nodules of tumour measuring 18 x 18 x 18mm and 40 x 38 x 28mm.  One end is inked blue and the other black.  The tumour is approximately 25mm from the black surgical margin and 10mm from the blue inked surgical margin.  The cut surface of the tumour is cream to tan and fleshy.  The tumour deposits are well circumscribed and appear encapsulated.  Possible lymph nodes are found within the fibroadipose tissue measuring 1 to 3mm.  Representative sections.
+Blocks: 1 to 3 - full LS through bowel and overlying tumour abutting the serosa including nearest bowel margins; 4 - separate nodule on bowel mesentery; 5 and 6 - further sections of largest nodule of tumour; 7 - possible lymph nodes as seen.
+
+B.  Specimen labelled &amp;quot;Proximal donut&amp;quot;, consists of a semicircular piece of bowel with multiple sutures present measuring 25 x 7 x 5mm.  The mucosa is unremarkable.  RS in 1 block.
+
+C.  Specimen labelled &amp;quot;Distal donut&amp;quot;, consists of a donut of bowel with attached fibroadipose tissue.  The bowel measures 4mm in length x 11mm in diameter.  The mucosa appears unremarkable.  The fat measures 32 x 15 x 5mm and is unremarkable.  Specimen AE 2 blocks.
+Blocks: 1 - fat; 2 - donut.  (TO:JL/vo 11/9/69)
+
+
+MICROSCOPIC (Reported by Dr N Gustis):
+A. Sections show two nodules of tumour on the surface of the large bowel and mesentery, measuring 40mm and 18mm.  The lesion has a similar morphology to the previous specimen (53O907), and is composed of sheets of tumour cells with medium to large irregular nuclei, fine chromatin and scant cytoplasm. Tumour with a trabecular architecture and occasional microfollicles are also present. Occasional mitoses are seen. The tumour cells are positive for inhibin-alpha.The features are consistent with a poorly differentiated granulosa cell tumour.
+Tumour abuts but does not invade the muscularis propria. The lesion is well clear of the longitudinal bowel resection margins.
+2 lymph nodes show no evidence of malignancy.
+Receptors:
+Er and PR staining to follow.
+
+B and C. Sections of large bowel appear unremarkable. There is no evidence of tumour present.
+
+
+DIAGNOSIS
+A. Rectosigmoid excision: poorly differentiated granulosa cell tumour
+B and C. Proximal and distal donuts: no abnormality detected
+ADDITIONAL REPORT (11/10/69)
+
+Receptors (Block A6):
+ER:  	positive
+90% of nuclei stained
+predominant intensity of staining:  strong
+PR:  	positive
+80% of nuclei stained
+predominant intensity of staining:  strong

@@ -1,0 +1,54 @@
+SPR no: 22A333460G
+MRN no: 2203334
+Site_name: ST VINCENT'S HOSPITAL (DARLINGHURST)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: MICROSATELLITE MARKERS
+Dr F Kosier (18.10.2065)
+CLINICAL:
+Adenocarcinoma of the cervix, radial hysterectomy.
+1. Uterus tubes and ovaries. 2. Right pelvic lymph node.  3. Left pelvic lymph nodes.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 65grams in total.  The uterus measures 70 x 50 x 25mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 20mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 9mm in maximum diameter.  The right fallopian tube measures 45mm in length with an outer diameter of 3mm.  The right ovary measures 17mm x 8 x 9mm.  The cut surface of the ovary is unremarkable.  The left fallopian tube measures 45mm in length with an outer diameter of 3mm.  The left ovary measures 15mm x 12 x 5mm.  The cut surface of the ovary is unremarkable.
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to13 - all of the anterior cervix from right to left (block 11 skipped); 14 to 16 - full LS of posterior body and cervix; 17 to 31 - posterior cervix embedded from left to right; 32 - RS of fibroid; 33 and 34 - RS of right adnexa (33 - fallopian tube; 34 - RS of ovary); 35 and 36 - RS of left adnexa (35 - RS of fallopian tube; 36 - RS of ovary). Please note: block 11 skipped.
+
+B.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of fatty tissue measuring 45mm x 30mm x 20mm.  A few lymph nodes are identified measuring from 5 to 30mm.
+Blocks: 1 - one lymph node; 2 and 3 - one lymph node; 4 and 5 - one lymph node.
+
+C.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of fatty tissue measuring 50mm x 45mm x 20mm.  A few lymph nodes are identified measuring from 5 to 30mm.
+Blocks: 1 - one lymph node; 2 - one lymph node; 3 and 4- one lymph; 5 to 7- one lymph node.
+(TO:LM/vo 16/10/68)
+
+
+MICROSCOPIC: (Reported by Dr F Hollenshead)
+A.  Sections of the cervix show moderately differentiated cervical adenocarcinoma on a background of adenocarcinoma in situ and focal CIN 3. The in situ and invasive adenocarcinoma are seen adjacent to a broad area of scarring, in keeping with previous cone biopsy. The adenocarcinoma extends up to 16.5mm (A14) along the endocervical canal and invades into the cervical wall up to 8.0mm deep (A23). The adenocarcinoma is 5.5mm from the &amp;apos;ectocervical&amp;apos; margin (A14) and is 3.3mm (A1) from the deep &amp;apos;soft tissue&amp;apos; margin. Adenocarcinoma in situ is 2.2mm from the &amp;apos;ectocervical&amp;apos; margin (A20). There is a focus of detached CIN 3. Cervical adenocarcinoma extends into the lower uterine segment but does not appear to involve the endometrium proper. No extra-cervical soft tissue or serosal involvement by tumour is seen. The endometrium appears inactive/weakly proliferative. There are multiple leiomyomas. The bilateral fallopian tubes and ovaries show no significant abnormality.
+
+B.  Sections of the three right pelvic lymph nodes show no evidence of malignancy (0/3).
+
+C.  Sections of the three left pelvic lymph nodes show no evidence of malignancy (0/3).
+
+
+DIAGNOSIS:
+A.  Uterus, cervix bilateral tubes and ovaries:
+- Changes consistent with previous cone biopsy/surgery and a detached focus of CIN 3.
+- Cervical adenocarcinoma and adenocarcinoma in situ, clear of margins.
+- Adenocarcinoma involves the lower uterine segment; but shows no evidence of endometrial, serosal or extracervical soft tissue involvement.
+- Inactive/weakly proliferative endometrium and leiomyomas.
+
+B.  Right pelvic lymph node: No evidence of malignancy (0/3).
+
+C.  Left pelvic lymph node: No evidence of malignancy (0/3).
+
+Markers of microsatellite instability are being performed and a supplementary report will be issued.
+
+***SUPPLEMENTARY REPORT: MICROSATELLITE MARKERS
+Dr F Atallah (19.10.2066)
+
+Immunoperoxidase stains for MSI proteins were performed and the results are as follows:
+MLH1 - Preserved nuclear staining
+PMS2 - Preserved nuclear staining
+MSH2 - Preserved nuclear staining
+MSH6 - Preserved nuclear staining
+
+COMMENT:
+Preservation of nuclear staining makes microsatellite instability unlikely.

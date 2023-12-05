@@ -1,0 +1,82 @@
+Episode No:  45F052504L
+452052.PBL
+
+HANKISON, NEENA 
+Lab No:  45F05250
+Bird Hill
+COLAC  South Australia  3364
+Specimen: Tissue
+D.O.B:  20/4/1992
+Sex:  F
+Collected: 06/05/2013 at 16:10
+Location:  Peter Mac-MILDURA BASE PUBLIC HOSPITAL
+DR ROB LIONEL STAN-BIAMONTE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT (18/7/63)
+
+CLINICAL:
+ILC right breast 12 o'clock - wide local excision + sentinel node biopsy.  Short superior, long lateral, medium medial sutures.  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast sentinel node biopsy" consists of three pieces of fibrofatty tissue measuring 8, 10 and 15mm in maximum dimension.  The specimen is AE 2 blocks.
+Blocks:  1 - two smallest specimens; 2- largest lymph node bisected.
+B.  Specimen labelled "Right breast lesion, long lateral, short superior, medium medial" consists of a piece of fibrofatty tissue with three sutures as designated measuring 60mm (medial to lateral), 60mm (superior to inferior) and 38mm (superficial to deep).  The specimen is inked asfollows: anterior blue, posterior black, superior green, inferior red and serially sectioned into 9 slices from medial to lateral.  There is a firm pale tan lesion in slices 3 to 5 measuring 12 x 10 x 8mm.  The tumour margins are as follows:  inferior 18mm, superior 12mm, anterior 10mm, posterior 15mm, medial 18mm and lateral 35mm.  Representative sections in 15 blocks.  Blocks:  1 - representative medial margin slice 1; 2 to 5 - slice 3; 6 to 9 - slice 4; 10 to 11 - slice 6; 12 & 13 - slice 7; 14 - slice 8; 15 - lateral margin slice 9.  
+(TO: NN; VF/mm 9.7.63) 
+MICROSCOPIC (reported by Dr M Petroff):
+A and B.
+Invasive carcinoma:
+Site:  Right breast 12 o'clock
+Type: Invasive lobular carcinoma (classical variant)
+Invasive tumour size:  15mm (3 slices)
+Grade:  2  (Modified Bloom & Richardson)       
+Tubules: 3  Nuclei: 2  Mitoses:1  Mitotic rate: 1/10hpf.
+Lymphovascular invasion:  Not seen
+	    
+
+DCIS component:  Absent
+Excision Margins:  
+
+Invasive component:  > 10mm all margins
+Receptors: 
+To follow.
+LCIS / ALH:   Present
+Miscellaneous: The adjacent breast tissue shows a biopsy tract and apocrine change.
+Sentinel lymph node(s):
+No. of sentinel lymph nodes examined:  2 
+No. of sentinel nodes involved by tumour:  1 (measuring 10mm) 
+Extranodal spread:  Present, up to 2.5mm into fat over a 5mm front
+
+DIAGNOSIS:
+A and B. Right breast wide local excision and sentinel lymph node biopsy:
+- 15mm invasive lobular carcinoma (classical variant), grade 2, ER, PR, HER2, Ki67 to follow, SISH HER2 pending, > 10mm all margins
+- Metastatic carcinoma measuring 10mm in 1 out of 2 lymph nodes, extranodal spread present.
+ADDITIONAL REPORT (12/7/63)
+
+Receptors: 
+ER:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:   strong
+PR:   positive
+	50 % of nuclei stained
+	predominant intensity of staining:    moderate 
+HER2 (Novocastra 10A7):  1+
+Ki67 index: 5%
+
+ADDITIONAL REPORT (18/7/63)
+
+HER-2 IN-SITU HYBRIDISATION 
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid) 
+
+Mean HER2 copy number per cell: 1.9 
+Mean CEP17 copy number per cell: 1.7
+HER2/CEP17 Ratio: 1.12 
+
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8 
+Equivocal: HER2/CEP17 = 1.8-2.2 
+Positive: HER2/CEP17 >2.2 
+
+Reported by: Dr M Founds : 16.7.63
+

@@ -1,0 +1,77 @@
+
+Episode No:  01K477949H
+0144779.KZH
+
+CASCIO, JAMI 
+Lab No:  01K47794
+Old Timbers
+ALDGATE  Northern Territory  2263
+Specimen: Tissue
+D.O.B:  15/2/2017
+Sex:  F
+Collected: 13/02/2013 at 18:16
+Location:  Laverty-FAR NORTH HEALTH SERVICES
+DR ERIN GREGORY BOLZ
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Esophagogastrectomy for Ca.  Oesophagus and stomach.  Adenocarcinoma of oesophagus (junction).
+MACROSCOPIC:
+Specimen labelled "Stomach and oesophagus" consists of the distal segment of an oesophagus and the proximal part of a stomach.  The distal oesophagus measures 60mm in length and 30mm in open diameter.  The proximal stomach measures 90 x 35 x 25mm.  There is a stapled 70mm surgical margin over the proximal stomach (Distal surgical margin).  There is an ill defined ulcerated tumour over an area of 60 x 35mm in the middle of which is a full thickness 20 x 23mm defect.  The ill defined tumour is just below the cardio-oesophageal junction and is 5mm from the stapled surgical margin.  The rest of oesophageal mucosa and gastric mucosa is unremarkable. 
+Blocks: 1 - proximal surgical margin (oesophagus); 2 - distal surgical margin (proximal stomach); 3 to 8 - representative sections of tumour (3 & 8 - second polypoid lesion); 9 - representative normal stomach; 10 - tissue between tumour and distal margin (adjacent to block 2); 11 to 15 - lymph nodes (11 & 12 - paratracheal, 13 - greater curve, 14 & 15 - lesser curve); 16 to 18 - cardio-oesophageal junction.  (TT/Ta 16/4/63)
+MICROSCOPIC (Reported by Dr B Stavrositu):
+Synoptic Report for Gastric Carcinoma
+Macroscopic description
+
+Tumour site:  Cardio-oesophageal junction
+Maximum tumour diameter:60mm
+Distance to nearest margin:  5mm (distal)
+
+Microscopic Description
+
+Tumour site (location):
+	Cardio-oesophageal junction
+WHO histologicaltumour type:
+	Adenocarcinoma (see comment)
+Lauren histological tumour type:
+	Diffuse
+Growth pattern:
+	Infiltrating
+Maximal dimension of tumour:  60mm
+Local invasion (pT):
+T4b	Tumour invades adjacent structures
+Serosal surface involvement:
+Absent
+Vascular space invasion:
+Small vessels (lymphatic and capillary): Absent
+	
+Large vessels (vein and artery): Absent
+Perineural growth:
+Absent
+Degree of regression after preoperative Chemoradiation:
+1 (moderate response) - Single cells or small groups of cancer cells
+Her2 status:  Not performed
+
+Distance of tumour from margins:	
+Fromproximal:  55mm
+From distal:  5mm
+From radial/circumferential (proximal/cardia tumours):  5mm (block 17)
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  13
+Number of lymph nodes involved:  0
+N0	No regional lymph node metastasis (see comment)
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+Other pathologies:
+Gastritis:  Present
+Helicobacter infection:  Absent
+Intestinal metaplasia:  Absent
+Dysplasia:  Absent
+Gastric polyps:  Absent
+Barrett's mucosa:  Absent
+Other pathologies (specify):Absent
+Comments:
+Sections of tumour show large pools of acellular mucin.  These mucin pools show an infiltrative pattern and involve full thickness of gastric walland omentum.  The appearances are in keeping with those of previous neo-adjuvant therapy.  
+	Majority of these of mucin pools are acellular.  Occasional residual signet ring type tumour cells are seen in block 17.  No definite tumour cells are seen on H&E stains in the other blocks.  On immunohistochemical stain (Cam 5.2), occasional Cam 5.2 positive tumour cells are present within the wall of stomach and omentum (block 8).
+	Because of minimal amount of residual tumour, the tumour is difficult to classify.  Please correlate with previous biopsy prior to neo-adjuvant therapy.
+	One of the lymph node from the lesser curve (block 15) is completely replaced by fibrosis and pools of acellular mucin.  No residual tumour cells are seen.  This is counted as a negative lymph node.
+

@@ -1,0 +1,27 @@
+SPR no: 82P8994270
+MRN no: 8258994
+Site_name: INGHAM HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right ovarian complex cyst.  CA125 75.  Total abdominal hysterectomy + BSO + omental biopsy, abdominal pain.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, tubes, ovaries and cervix&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, ovaries weighing 96g in total.  The uterus measures 73 x 44 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 29 x 25mm and shows no significant abnormality.  On sectioning, there is a plastic IUD within the endometrial cavity.  The endometrium measures 1mm in maximum thickness and the myometrium measures 22mm in maximum thickness.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  The myometrium contains foci of adenomyosis; no fibroids are identified.  The left fallopian tube, 50 x 7 x 6mm, and left ovary, 25 x 17 x 12mm, show no significant abnormality.  The right fallopian tube and right ovary formed a fused mass, 50 x 40 x 30mm.  The fimbrial end of the fallopian tube is not identifiable.
+Blocks: 1 to 4 - midline LS anterior uterus and cervix; 5 to 8 - midline LS posterior uterus and cervix; 9 - complete fimbrial end left fallopian tube, and mid TS; 10 - left ovary; 11 to 15 - representative right tumour mass, including tumoural ovary and fallopian tube.
+
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of omental tissue, 48 x 45 x 20mm.  The serosa is smooth and glistening.  On thin sectioning, no tumours or lymph nodes are identified.  RS 3 blocks.
+(TO:JB/eh 8/8/65)
+
+
+MICROSCOPIC (Reported by Dr W Mckenzy):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive and the myometrium appears normal.  The right fallopian tube shows a florid acute on chronic salpingitis with associated hydrosalpinx and rupture.  The right ovary contains a few small benign serous inclusion cysts only.  The left fallopian tube shows a mild chronic salpingitis.  The left ovary contains a few small benign serous inclusion cysts only.  There is no evidence of malignancy.
+
+B.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Uterus, tubes, ovaries and cervix:
+-  Florid acute on chronic salpingitis and hydrosalpinx of the right fallopian tube.
+-  Mild chronic salpingitis of left fallopian tube.
+
+B.  Omentum:  No significant abnormality.

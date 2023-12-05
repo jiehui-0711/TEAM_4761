@@ -1,0 +1,112 @@
+
+Episode No:  64H311082L
+642311.CVG
+
+BORYS, Taryn 
+Lab No:  64H31108
+Greenwing
+QUIRINDI  ACT  4817
+Specimen: Tissue
+D.O.B:  29/6/1997
+Sex:  F
+Collected: 30/1/2062 at :
+Location:  3HR STAY SURGICALUNIT-CHARLEVILLE HOSPITAL
+DR BRADLY BENEDICT Sammer
+Distribution:   FILE-COPY
+
+SUPPLEMENTARY REPORT 1.  (1.8.62)
+
+SUPPLEMENTARY REPORT 2.  (3.9.63)
+
+
+
+CLINICAL:
+Screen detected R breast Ca for wide local excision + sentinel node biopsy.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node" consists of a piece of fatty tissue measuring 18mm.  One lymph node 10mmis identified.  BAE 1 block. 
+B.  Specimen labelled "Axillary tissue" consists of a piece of unorientated fatty tissue 40 x 14 x 7mm.  One lymph node 7mm is identified.   AE 1 block.  
+  
+C.  Specimen labelled "Wide medial, short superior, long lateral" consists of an orientated wide local excision measuring 50mm (medial to lateral) x  23mm (inferior to superior) x 45mm (superficial to deep).  Two sutures are insitu as designated and a hook wire is seen to insert from the medial aspect.  The superior margin is inked blue, inferior margin black, deep black and the superficial margin inked green.  The specimen is serially sectioned parasagittally from slice one (lateral) to slice eight (medial).  A cream/tan poorly circumscribed tumour is identified in slices one and two measuring 8mm (medial to lateral) x 6mm (inferior to superior) x 5mm (superficial to deep).  Distance from margins is asfollows:  Superior 7mm, deep 7mm, inferior 6mm, superficial 25mm, well clear of the medial margin and comes close to the lateral margin.  A hook wire is seen to insert into slice oneand a clip is identified in slice two.  
+Blocks: 1 & 2 - slice one; 3 & 4 - slice two; 5 & 6 - slice three; 7 & 8 - slice four; 9 & 10 - slice five; 11 & 12 - slice six; 1`3 & 14 - slice seven; 15 & 16 - slice eight; 17 - reserve block AE.   Tumour markers on block 3, please refer to attached diagram. 
+(TO: RR; RR/ta  1/1/62)  
+  
+MICROSCOPIC (Reported by Dr R Gilliss):
+A.  One (1) lymph node is negative for tumour.  The CAM5.2 keratin stain is negative.
+B.  One (1) lymph node is negative for tumour.  The AE1/AE3 keratin stain is negative (some background nuclear staining). 
+C.  Sections show a 14mm grade 2 invasive ductal carcinoma. The carcinoma is present laterally within the specimen and is composed of mild to moderately pleomorphic cells arranged in cords, solid clusters and small tubules. Scattered intracytoplasmic lumen formation is seen.  Although in areas the tumour displays lobular carcinoma-like morphology, including targetoid growth around benign ductules, the E cadherin immunostain is diffusely positive, more consistent with invasive ductal carcinoma.  Invasive carcinoma focally extends to the lateral excision margin superiorly. There are at least five (5) foci of lymphovascular invasion (endothelial lining confirmed with positive expression for D240 and CD31). Unusually, although these foci show similar cytonuclear features to the adjacent stromal invasive tumour they display more distinct tubule formation. Focal minimal calcification is present associated with the invasive tumour.  There is also low to intermediate grade ductal carcinoma in-situ confined within the borders of the invasive tumour.
+A synoptic report for breast carcinoma follows.
+Invasive carcinoma:
+Site:  Right breast. 
+Type:  Infiltrating ductal NOS. 
+Invasive tumour size: 14mm (microscopic). 
+Grade (Modified Bloom & Richardson): 2
+Tubules:  3    Nuclei: 2     Mitoses: 1   Mitotic rate: 1/10hpf.
+Lymphovascular invasion:   Present (block C3).
+	    
+DCIS component:  
+DCIS: 	Present (block C17)
+Maximum extent of DCIS:  Approximately 4mm 
+Nuclear grade:  Low to intermediate
+Architecture:  Solid and cribriform
+Necrosis:  Not seen
+Calcification:  Not seen
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Absent
+Excision Margins:  
+Invasive component:
+Lateral 	Positive (block C1); diathermied tumour focally extends to the lateral 			margin superiorly
+Superior 	4mm (block C3)
+Deep 		5.5 (block C3)
+Inferior 	7.5mm (block C3)
+Superficial 	well clear (>10mm)
+Medial 		well clear (>10mm)
+In-situ component: all margins including lateral clear; confined within borders of invasive tumour (see above).
+Receptors (Block  C3): 
+ER:  Positive.
+	>95 % of nuclei stained
+	predominant intensity of staining:  Strong
+PR:   Positive.
+	60% of nuclei stained
+	predominant intensity of staining:  Moderate
+HER2 (Novocastra 10A7):  Negative 0 (CISH to follow)
+Ki-67 index:  The Ki67 proliferationindex is variable but is approximately 10% in the most proliferative areas.
+Nipple:  N/A. 
+LCIS:  Not seen
+Miscellaneous:  Away from the tumour the breast tissue shows foci of cystic change.  A focus of columnar cell change with focal hyperplasia is also seen and in one space there is superimposed architectural atypia approaching atypical ductal hyperplasia (block C1).  This is 1mm clear of the lateral resection margin.  A focus of fibrosis, haemorrhage and fat necrosis, consistent with a core biopsy tract, is present immediately adjacent to the tumour (block C3).
+Sentinel lymph node(s):
+Number of sentinel lymph nodesexamined:  1. 
+Number of sentinel lymph nodes involved by tumour: 0.         
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 1.
+Number of axillary lymph nodes involved by tumour: 0.         
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 2. 
+Total number of involved lymph nodes (including sentinel node(s)):   0.
+DIAGNOSIS: 
+A-C:  Left wide local excision, sentinel lymph node and axillary tissue.
+-  14mm grade 2invasive ductal carcinoma NOS, ER+ve, PR+ve, HER2 -ve (CISH to follow).
+-  Foci of lymphovascular invasion (see text).
+-  Positive lateral margin (see text for other margins).
+-  Low to intermediate grade DCIS within confines of invasive tumour.
+-  One (1) negative sentinel lymph node and one (1) negative axillary lymph node.
+Additional levels will be performed on the axillary lymph node (specimen B) and a supplementary report issued.
+ 
+	
+			SUPPLEMENTARY REPORT 1.  (1.8.62) 
+
+MICROSCOPIC (Reported by Dr R Blythe):
+No tumour is seen in the single axillary lymph node or perinodal lymphatics in multiple additional levels examined (specimen B).
+SUPPLEMENTARY REPORT 2.  (3.9.63)
+
+HER2 IN SITU HYBRIDISATION reported by Dr R Soula, QUILPIE HOSPITAL Hospital:
+HER2 IHC Result:  Negative (0)
+Signal Detection has been performed for the HER2gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).  
+HER2 Dual ISH result:  	NEGATIVE (nonamplified, diploid)
+Mean HER2 copy number per cell:  1.7
+Mean CEP17 copy number per cell:  1.5
+HER2/CEP17 Ratio:  1.13
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative:  HER2/CEP17 <1.8
+Equivocal:  HER2/CEP17 = 1.8-2.2
+Positive:  HER2/CEP 17 >2.2
+

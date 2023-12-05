@@ -1,0 +1,116 @@
+DateOfBirth
+201203170000
+
+
+SiteName
+BATLOW/ADELONG MULTI PURPOSE SERVICE
+
+
+FirstName
+Lenny
+
+
+SPRID
+37G4280350
+
+
+MRN
+372428
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+37G42803 (37G4280350) PELIS, THURMAN
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Leiomyosarcoma.
+1. Uterus, tubes, ovaries, POD peritoneum.
+2. Colonic serosa.
+3. Omentum.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES X 2, OVARIES X 2&amp;quot;.  Uterus with attached cervix and bilateral tubes and ovaries and posteriorly Pouch of Douglas peritoneum.  Received separately multiple pieces of tan to haemorrhagic pieces of tissue.  Uterus with attached ovary.  Anterior inked blue, posterior black.  The uterus with attached cervix altogether weighs 226g and it measures 95mm superior to inferior, 65mm anterior to posterior.  Anterior endomyometrium is 25mm, posterior endomyometrium is 35mm.  The intracornueal distance is 70mm.  Ectocervix measures 45x35mm with a slit like os 10mm.  The attached peritoneum posteriorly is up to 30mm wide.  On sectioning there is a polyp within the uterine cavity.  It measures up to 18mm maximum dimension. Also noted are two nodules with a pale white whorled cut surface consistent with leiomyomas ranging from 9-10mm.  At the posterior surface and abutting the Pouch of Douglas peritoneum is a firm pale white area with a pale white whorled cut surface ? leiomyoma/adenomyosis.  It measures up to 25mm maximum dimension. The rest of the myometrium is otherwise unremarkable.
+
+(1 anterior cervix; 2 posterior cervix; 3 anterior endomyometrium; 4&amp;amp;5 CS posterior endomyometrium [includes pale firm area posteriorly]; 6&amp;amp;7 intrauterine polyp; 8 leiomyoma noted at the fundus; 9&amp;amp;10 firm area noted posteriorly ? leiomyoma [block 3 includes second leiomyoma])
+
+The right ovary and fallopian tube weighs 14g.  Fallopian tube is 45mm in length x 15mm maximum diameter.  Ovary is 35x25x20mm.  Serosal surfaces are smooth.  On sectioning through the ovary, it is cystic and filled with clear fluid.
+
+(11&amp;amp;12 right ovary; 13 right fallopian tube)
+
+The left ovary and fallopian tube together weigh 10g.  Fallopian tube measures 40mm in length x 12mm maximum diameter.  Ovary is 30x20x12mm.  The serosal surfaces are smooth.  The ovary  on sectioning is cystic.
+
+(14 left ovary; 15 left fallopian tube)
+
+The separate pieces of tan haemorrhagic/necrotic tissue altogether measures 120x110x30mm.  On sectioning the cut surface reveals it to be glistening tan to haemorrhagic cut surface.
+
+(16-20 RS).  RS (M-20)
+
+Further tissue:
+(21-25 further blocks at detached tumour; 26-30 sections through the posterior aspect of the uterus peritoneum [pouch of douglas]; 31&amp;amp;32 continuous piece, posterior body at area of polyp; 33&amp;amp;34 posterior body; 35&amp;amp;36 posterior body; 37 anterior and posterior endometrial cavity; 38 fundus; 39 anterior cervix; 40 posterior cervix; 41 right tube; 42 right ovary; 43 left tube; 44 left ovary). RS (M-44/ ZH/cy)
+
+B.  &amp;quot;LARGE BOWEL SEROSA&amp;quot;. A piece of brown tissue measuring 15mm maximum dimension.  AE (1-1)
+
+C.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  A piece of fatty tissue consistent with omentum.  It measures 60x40x10mm.  No suspicious areas are felt on palpation or sectioning.  RS (M-1/MC/ank)
+
+Further tissue:
+(2&amp;amp;3 representative omentum). RS (M-3/ ZH/cy)
+
+MICROSCOPIC:   (Dr K Kottman)
+A. Sections of the cervix show some atrophic features and reactive epithelial changes.
+The endometrium shows a polypoid lesion with overlying epithelial layer with underlying stroma that is cellular and with cytologic pleomorphism and mitotic activity. Scattered multinucleated giant cells are also seen. The appearances are those of adenosarcoma. The sarcoma appears to confine to polyp and the endometrium without evidence of myometrial invasion in the sections examined. Elsewhere with the myometrium, there are benign leiomyomas and adenomyosis. There is endometriosis with serosal adhesions and mesothelial rection with haemorrhage in the posterior uterine serosa/pouch of douglas.
+
+Sections of the ovaries show serous cyst adenofibroma/serous inclusion with surface serosal adhesions and associated haemorrhage and macrophages reaction and with serosal endometriosis. The fallopian tubes are unremarkable.
+
+Sections of the separate fragments of tissue consist of predominantly necrotic tumour including some fragments with a focal phyllodes-like growth pattern. There is a predominant stromal component (sarcomatous overgrowth). Some glands with columnar epithelium and with squamous metaplasia are identified. The stroma shows cytologic pleomorphism and increased cellularity with some subepithelial condensation. Multinucleated tumour giant cells are seen. Mitotic activity is present (up to 23 mitoses per 10 hpf).
+
+
+B. The sections show mesothelium with reactive changes and with macrophage and chronic inflammatory reaction of the stroma including and with acute inflammatory reaction.
+
+C. The sections show omentum with reactive surface epithelial change, mesothelial changes and macrophage reaction on the serosal surface
+
+Comment: The appearances of the uterine tumour and separate fragments of tumour are those of adenosarcoma with sarcomatous overgrowth. It appears confined to the endometrium (stage 1A). There are also benign serous cystadenofibromas/serous inclusions  and endometriosis/serosal adhesions of the ovaries, and endometriosis/serosal adhesions of the posterior uterine serosa/pouch of douglas. Clinical correlation is recommended.
+
+DIAGNOSIS:
+A. UTERUS
+- ADENOSARCOMA WITH SARCOMATOUS OVERGROWTH (STAGE 1A).
+
+B. LARGE BOWEL SEROSA
+- REACTIVE CHANGES/ADEHSIONS AND MIXED ACUTE AND CHRONIC INFLAMMATION.
+
+C. OMENTUM
+- NEGATIVE FOR MALIGNANCY.
+
+23/9/2066 cy
+
+
+
+
+
+SpecimenReceivedDate
+2512-01-24 00:00:00
+
+
+LastName
+Kenneth

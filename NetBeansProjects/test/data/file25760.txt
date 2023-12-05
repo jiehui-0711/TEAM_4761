@@ -1,0 +1,32 @@
+SPR no: 52E818383G
+MRN no: 52181838
+Site_name: AYR HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Interval debulking post neoadjuvant chemo for ?peritoneal ?ovarian Ca.  P/W ascites and high Ca 125 on ascitic tap.  Previous TAH for fibroid uterus.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a 40 x 5mm fallopian tube and an adjacent 20 x 18 x 10mm ovary.  A 15 x 10mm brown granular region is present over the surface of the ovary.  Three longitudinal sections are taken of the fimbrial end of the fallopian tube.  The remainder of specimen is sectioned transversely into eight slices and shows the brown granular serosal lesion extending into the presumed ovary over an area of 15 x 3mm in cross section and over three transverse slices (slices 1 to 3; 15mm).  The fallopian tube appears unremarkable.
+Blocks: 1 - three LS of fimbrial end; 2 - isthmus margin of fallopian tube and TS one and two of ovary; 3 - TS three; 4 - TS four; 5 - TS five to seven.  AE.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of 35 x 5mm fallopian tube with a 10 x 8 x 7mm simple parafimbrial cyst and an adjacent 13 x 12 x 6mm polypoid fatty tissue surface by a smooth and shiny serosa.  The ovary is 15 x 10 x 5mm with a smooth cream surface.  Four longitudinal sections are taken of the fimbria and the remainder of the specimen is sectioned transversely.  The cut surface of the ovary appears unremarkable.
+Blocks: 1 - four LS of fimbria, including polypoid fat; 2 and 3 - four TS of ovary; 4 - isthmic end of fallopian tube.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of 180 x 120 x 20mm of omental fat with four firm regions, 45, 30, 35, and 25mm in maximum extent respectively.  On transverse sectioning, the firm regions appear to show fine spiculated cream fibrous bands without distinct lesions.
+Blocks: 1 and 2 - two TS firm region one; 3 - smallest firm region bisected; 4 and 5 - two TS firm region three; 6 and 7 - two TS of firm region four.
+(KM/vo 25.4.67)
+
+
+MICROSCOPIC (Reported by Dr P Leubner &amp;amp; registrar Dr P Cabiya):
+A.  Sections of the right fallopian tube show tubal intraepithelial carcinoma and high grade serous carcinoma within the fimbria and on the serosa.  The right ovary shows high grade serous carcinoma involving the parenchyma and serosa.
+
+B.  Sections show serous carcinoma involving the serosa of the left ovary and fallopian tube as well as left adnexal soft tissue.
+
+C.  Sections of omentum show extensive involvement by serous carcinoma.  A single (1) lymph node is identified which show no significant abnormality.
+
+
+DIAGNOSIS:
+A - C.  Right and left fallopian tubes and ovaries, omentum:
+- High grade serous carcinoma involving parenchyma of right ovary as well serosa of both ovaries and fallopian tubes and omentum.
+- Tubal intraepithelial carcinoma of right fallopian tube
+- Single benign lymph node within omentum.

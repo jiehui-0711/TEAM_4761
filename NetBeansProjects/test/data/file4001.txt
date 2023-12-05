@@ -1,0 +1,124 @@
+DateOfBirth
+199611040000
+
+
+SiteName
+TAILEM BEND HOSPITAL
+
+
+FirstName
+Costeira
+
+
+SPRID
+20M115669I
+
+
+MRN
+2041156
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+*SUPPLEMENTARY REPORT ATTACHED*
+
+20M11566 (20M115669I) NIRO, TURLKU
+
+HISTOPATHOLOGY REPORT
+WARWICK HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Tissues and pathology: peritonectomy, splenectomy, liver resection, cholecystectomy, bowel anterior resection, hysterectomy, HIPEC, metastatic mesothelioma.
+
+MACROSCOPIC:
+A.  &amp;quot;ANTERIOR RESECTION, UTERUS, GALLBLADDER, OMENTUM, SPLEEN, PERITONEAL DISEASE&amp;quot;.  Multiple components in the same jar.
+
+Anterior resection including portion of rectum and sigmoid up to 20mm below the anterior peritoneal reflection.  Colon measuring 210mm in length, 20mm diameter proximally, 40mm diameter distally.  Proximal surgical margin inked green, distal inked black and circumferential margin inked blue.  Thickness of mesorectum 35mm.  There is a focus of flattening in distal mucosa, 30mm in length and it is 20mm from distal margin, however, the rest of mucosa maintained a normal appearance.  Multiple tumour deposits ranging 2 to 4mm over the peritoneum identified.  No definite tumour extension to  the colonic wall present macroscopically.
+
+(1  proximal surgical margin; 2  distal surgical margin; 3  section of colon with flattened mucosa; 4-9  section of ?tumour deposit over the peritoneum).
+
+There is an uterus weighing 47g, measuring 65x45x30mm with attached fibrofatty tissue 140x80mm.  There is a small portion of irregular skin attached to the fatty tissue, measuring 40x20mm.  Possible anterior uterus surface inked blue, posterior inked black.  Uterus opened sagittally.  Endometrium measures 1mm, anterior wall 11 and posterior 11mm.  Two white whorled circumscribed nodules (fibroid, 10mm each present).  Foci of tumour deposit over the serosa and pouch of Douglas identified.
+
+(10-12  one full face sagittal of the uterus [10  includes cervix]; 13&amp;amp;14  section of uterus and deposit; 15  section of adnexal area).
+
+Spleen weighs 165 and measures 110x60x70mm with portion of fat 60x40x30mm attached.  Foci of thickening present over the serosa.  There is no parenchymal involvement identified.  Representative section embedded block 16 and 17.
+
+Gallbladder 80x25x5mm.  Some irregularity over the serosa present.  Gallbladder is collapsed.  No calculus is present.  Mucosa is velvety.  Representative section embedded.
+
+(18  surgical margin/cystic duct; 19  two sections of body and fundus).
+
+Omental cake measuring 300x100x20mm.  With extensively involved by the peritoneal disease and multiple fibrofatty tissue also in the same jar 170x110x60mm in aggregate, also involved extensively by the peritoneal disease.
+
+(20&amp;amp;21  section from omentum; 22  section from the fatty tissue in the jar).  RS (M-22).
+
+B.  &amp;quot;LIVER LESION SEGMENT 1&amp;quot;.  Portion of liver 2g and measuring 20x15x15mm.  Serosal surface is intact.  Surgical margin inked blue.  There is a lobulated  nodule 7mm and it is 4mm from surgical margin.  RS (4-2/SM 16/7/2069 km).
+
+MICROSCOPIC:  (Dr. G. Downen)
+A.  The uterine ectocervix is focally present and is unremarkable.  The endocervix shows some nabothian cysts.  The endometrium is atrophic.  The myometrium shows benign leiomyomas.  The surface of the uterus shows a thick layer of highly atypical mesothelial cells arranged in sheets, trabeculae and pseudoglandular formations.  They show pleomorphic nuclei, occasional nucleoli, coarse chromatin and moderate amounts of pale eosinophilic cytoplasm with occasional mitoses.  They focally invade into the very outer layer of the myometrium.  There is also  invasion into the peritoneal reflection which is attached to the uterine specimen.
+
+There are nodules of similar highly atypical epithelioid mesothelial cells present on the serosa of the colorectal specimen.
+
+The spleen shows a nodule of similar atypical mesothelial cells on the surface.
+
+The gallbladder shows features of chronic cholecystitis.  There is a focus of similar highly atypical mesothelial proliferation in the serosal fat
+
+The omental fragments are widely infiltrated by similar highly atypical epithelioid mesothelial cells.
+
+Immunohistochemistry shows positive staining of the atypical cells for calretinin, CK5/6, D2-40, HBME-1, cytokeratins CAM5.2 and AE1/AE3, and some cells are positive for EMA.  There is negative staining for CEA, CDX2 and BerEP4.
+
+The features are of a highly atypical mesothelial proliferation, consistent with the history of metastatic malignant mesothelioma.
+
+B.  The liver shows a circumscribed nodule composed of hepatocytes arranged around a central stellate scar with some bile ductular proliferation.  Hepatocytes show clear vacuolated cytoplasm, different to the surrounding more normal-appearing liver.  There is some mild macrovesicular steatosis.  There is no mesothelial malignancy.  Special stains are being performed and further characterisation of the liver nodule will follow in a supplementary report.
+
+DIAGNOSIS:
+A.  ANTERIOR RESECTION, UTERUS, GALLBLADDER, OMENTUM, SPLEEN, PERITONEAL DISEASE:
+- MALIGNANT MESOTHELIOMA PRESENT ON THE SEROSA OF THE LARGE BOWEL, SURFACE OF THE UTERUS, SURFACE OF THE SPLEEN, SEROSA OF THE GALLBLADDER AND EXTENSIVELY INVOLVING THE OMENTUM.
+
+B.  LIVER LESION SEGMENT 1:
+- NO MESOTHELIAL MALIGNANCY.
+- FURTHER CHARACTERISATION OF HEPATOCYTE NODULE TO FOLLOW
+
+18/7/2069 km
+
+--------------------------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT (22/7/2069):
+
+B.  The circumscribed nodule shows features of focal nodular hyperplasia. There is a central stellate scar with irregular variably thickened vessels and surrounding bile ductular proliferation separating lobules of hepatocytes into nodular architecture. The hepatocytes maintain 1-2 cell plates with reticulin stain.  There is no nuclear atypia.  There are no PAS-positive globules.  There is some iron pigment present within Kupffer cells, absent in hepatocytes.  There is no malignancy.
+
+SUPPLEMENTARY DIAGNOSIS:
+B.  LIVER LESION SEGMENT 1:
+- FOCAL NODULAR HYPERPLASIA.
+
+22/7/2069 ank
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2322-09-11 00:00:00
+
+
+LastName
+Gordils

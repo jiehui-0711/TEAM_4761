@@ -1,0 +1,43 @@
+SPR no: 94G0367889
+MRN no: 94203678
+Site_name: LONG JETTY HEALTH CARE FACILITY
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+None provided.
+Additional information:  Previous Chubb Corporation pathology (94G03678) - Descending colon biopsy:  Consistent with serous carcinoma.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 65 grams in total.  The uterus measures 73 x 45 x 28mm and has a smooth and shiny serosal surface.  The ectocervix measures 32 x 28mm and has an unremarkable surface.  On sectioning the endometrium measures less than 1mm thick and two endometrial polyps are identified measuring 8 and 12mm in maximal dimension located on the posterior wall and located 35mm from the cervix.  The myometrium measures up to 13mm thick.  The myometrium is unremarkable.  The right fallopian tube measures 33 x 8mm and has been ligated.  The right ovary measures 24 x 10 x 8mm and has an unremarkable cut surface.  The left fallopian tube measures 32 x 7mm.  The left ovary measures 28 x 8 x 7mm and has an unremarkable cut surface.  On the serosal surface of the right and left adnexa there are multiple firm nodules ranging in size from 3 to 12mm in maximal dimension with a solid pale cut surface.
+Blocks: 1 to 3 - full LS of anterior body and cervix; 4 to 6 - full LS posterior body and cervix including one endometrial polyp; 7 and 8 - second endometrial polyp from posterior uterus; 9 and 10 - all of right fallopian tube; 11 to 13 - all of right ovary; 14 and 15 - all of left fallopian tube; 16 to 18 - all of left ovary; 19 and 20 - RS adnexal serosal nodules.
+
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of two pieces of omentum measuring 280 x 140 x 30mm and 95 x 70 x 35mm.  Both pieces of omentum are heavily involved with tumour nodules with the largest comprising in area of 110 x 80 x 30mm.  The cut surface has a partially cystic appearance with evidence of papillary excrescences.  The remaining tumour is lobular and solid.
+Blocks: 1 to 3 - representative tumour nodules; 4 - macroscopically normal omentum.
+
+C.  Specimen labelled &amp;quot;Splenic flexure bowel wall&amp;quot;, consists of a segment of large bowel measuring 140mm in length to a an opened circumference of 70mm.  There is adherent omental and mesenteric fat to depth 90mm.  Within the fat external to the bowel wall there is a poorly circumscribed multilobulated tumoral mass 45 x 35 x 32mm.  The tumour appears to invade through the muscularis propria and approaches the overlying mucosa.  The mucosa appears mostly flattened over this nodule but is ulcerated over and area of 14 x 8mm with possible mucosal involvement.  The tumour measures 40mm and 38mm from the bowel wall resection margins. Tumour deposits/involved lymph nodes are identified accumulated within the tumour mass.
+Blocks: 1 - bowel resection margins; 2 to 6 - representative tumour with adjacent bowel wall and serosal surface; 7 - possible lymph node bisected.
+
+D.  Specimen labelled &amp;quot;Hepatic flexure tumour&amp;quot;, consists of a piece of serosa with possible cyst wall which was previously opened and measures 65 x 34 x 20mm.  The ?cyst wall measures up to 3mm thick and is lined by dull and partially haemorrhagic inner lining.  No overt papillary excrescences are identified.  The outer surface is coated in a smooth and shiny serosa with a small amount of adherent fat.  No solid masses are identified.  RS in 5 blocks.
+
+E.  Specimen labelled &amp;quot;Bowel wall hepatic flexure&amp;quot;, consists of two irregular pieces of bowel wall measuring 28 x 17 x 17mm and 22 x 12 x 11mm.  The mucosa has regular tan folds and the wall appears diffusely thickened however no discrete lesion is identified.  AE.
+Blocks: 1 and 2 - larger piece; 3 - smaller piece.
+
+F.  Specimen labelled &amp;quot;Right uterosacral nodule&amp;quot;, consists of one piece of irregular tan tissue, 9 x 8 x 4mm.  AE 1 block.   (TO:AP/vo 10/6/69)
+
+
+MICROSCOPIC (Reported by Dr X Kyger):
+A.  Sections show deposits of high grade carcinoma with solid and focal papillary architecture consistent with high grade serous carcinoma.  The tumour deposits are present within adnexal soft tissue and the fimbrial end of the right fallopian tube.  The left fallopian tube and both ovaries show no significant abnormality.  The endometrium is inactive and contains benign endometrial polyps.  The myometrium shows foci of adenomyosis.  The ectocervix and endocervix show no significant abnormality.
+
+B.  Sections of omentum show extensive involvement by high grade serous carcinoma.
+
+C.  Sections of large bowel show extensive deposits of serous carcinoma within mesenteric adipose tissue and extending into the submucosa and ulcerating the overlying mucosa.  Widespread lymphovascular invasion is present.  A number of large tumour deposits are seen within the mesentery with some associated lymphoid tissue suspicious for involved lymph nodes.  The bowel resection margins appear clear of tumour.
+
+D.  Sections of fibroadipose tissue show serous carcinoma.
+
+E.  Sections of large bowel show serous carcinoma predominantly situated on the serosal surface with only minor penetration of muscularis propria.  The overlying mucosa appears intact.
+
+F.  Sections show serous carcinoma within fibroconnective tissue.
+
+
+DIAGNOSIS:
+A - E.  Uterus and cervix, tubes and ovaries, omentum, splenic flexure, hepatic flexure and uterosacral nodule:
+- High grade serous carcinoma involving adnexal soft tissue, fimbrial end of right fallopian tube, omentum, splenic flexure, hepatic flexure and uterosacral nodule.

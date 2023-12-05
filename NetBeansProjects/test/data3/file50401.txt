@@ -1,0 +1,111 @@
+SPR no: 74H234416G
+MRN no: 742234
+Site_name: MORANBAH HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT BELOW:
+74H23441,74H23441 (74H234416G) SCHONS, AKILAH
+HISTOPATHOLOGY REPORT
+GOOMALLING HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Serous/G3 Ca uterus.  Suspicious nodules on omentum.
+1. Peritoneal washings.
+2. Uterus, tubes and ovaries.
+3. Omental biopsy.
+4. Right pelvic sentinel node.
+5. Left pelvic sentinel node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES (BILATERAL)&amp;quot;.  A total hysterectomy specimen, 86g consists of uterus 65x45x35mm. The cervix measures 30x20x25mm.  The external os is oval measuring 12x8mm.  Attached is a right fallopian tube 55x6mm, right ovary 27x15x13mm, left fallopian tube 55x6mm and left ovary 20x10x7mm.  Anterior cervix is inked blue, posterior black. The specimen has been received coronally opened. There is a tumour in the body and fundus which is broad based measuring 25x20mm.  It is possibly invading into the underlying myometrium. The tumour is 8mm thick out of 14mm total myometrial thickness.  It is involving the left cornu macroscopically.  This tumour is not involving the serosa or parametrium and located 35mm of the cervical resection margin.  The fallopian tube outer and cut surface is unremarkable. The left ovary cut surface is firm and homogenous.  The right ovary cut surface reveals a cyst with multiple solid firm papillary excrescences confined to the ovarian tissue with no definite serosal surface involvement.
+
+(1 right fimbrial tube serially sliced; 2 remainder right tube; 3-6 right ovary; 7 right parametrium; 8&amp;amp;9 left fallopian tube; 10 left ovary; 11 left parametrium; 12-14 anterior uterus from cervix to fundus; 15 maximum invasion anterior uterus; 16-18 LS posterior uterus from cervix to fundus; 19&amp;amp;20 tumour posterior uterus with block 20 tumour block for tissue banking; 21 left cornu). RS (M-21)
+
+B.  &amp;quot;OMENTUM BIOPSY&amp;quot;.  A piece of fatty tissue 85x50x15mm. Serial slicing reveals four separate white hard nodules measuring 12x7x6mm, 7mm, 7mm and 4mm.
+
+(1 two TS of the largest nodule; 2 RS one nodule; 3 RS two nodules). RS (M-3)
+
+C.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  Multiple fibrofatty pieces of tissue 30x20x5mm bearing fragments of one disrupted lymph node 12x6x5mm in aggregate.  AE (M-1)
+
+D.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. A fibrofatty piece of tissue 30x27x15mm. Two lymph nodes are identified which appears involved by firm white tumour deposits. The smaller measures 8x4x4mm, the larger almost totally effaced by firm white cut surface measuring 12x10x10mm.
+
+(1 smaller lymph node bisected; 2 larger lymph node three TS).  RS (M-2/ZH 6/8/2068 ank)
+
+MICROSCOPIC:  (Dr S Revelez)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE:  Fundus and body
+
+TUMOR SIZE:  25x20mm greatest dimension (macroscopically)
+
+HISTOLOGIC TYPE: Mixed high grade serous (greater than 50%) and endometrioid carcinoma.
+
+HISTOLOGIC GRADE:  FIGO grade 3
+
+MYOMETRIAL INVASION:
+Depth of invasion:  6mm
+Myometrial thickness:  16mm
+
+UTERINE SEROSA INVOLVEMENT:   Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:  Present
+
+CERVICAL STROMAL INVOLVEMENT:  Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+Right ovary:  Unremarkable.
+Left ovary:  Ovarian hilum and cortex involved by high grade serous carcinoma.
+Right fallopian tube:  Unremarkable.
+Left fallopian tube:  Unremarkable.
+Parametrium:  Unremarkable.
+Omentum (Specimen B):  Involved by deposits of high grade serous carcinoma.
+
+MARGINS:
+- Ectocervical/vaginal cuff margin: Uninvolved by carcinoma
+
+LYMPHOVASCULAR INVASION:  Present, substantial (&amp;gt; 5 vascular spaces).  There is extensive widespread myometrial lymphatic involvement.
+
+REGIONAL LYMPH NODES:
+Specimen C - right pelvic sentinel node involved by carcinoma.
+Specimen D - left pelvic sentinel node involved by carcinoma.
+
+Number of nodes with macrometastasis (&amp;gt; 2 mm):  2 (one node each in specimens C and D).
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm):  0
+Number of nodes with isolated tumor cells (0.2 mm or less):  0
+Total number of lymph nodes examined (sentinel and nonsentinel):  2
+Number of sentinel lymph nodes examined:  2
+
+Extra-nodal spread:  Present - Approximately 3mm of extranodal tumour in specimen C.
+
+DISTANT METASTASES (histologically confirmed):
+Present: Omentum (specimen B - see above).
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains (Block A15): MLH-1, PMS-2, MSH-2, and MSH-6 all show positive (retained) nuclear staining. This is the normal (wild-type) staining pattern.
+Other (Blocks A15, A20): ER shows variable weak to moderate staining. PgR shows variable moderate staining. P53 shows widespread strong staining in the high grade component. WT-1 shows only focal staining of the high grade component. Ki-67 shows prominent staining of the high grade component.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report):  IVB
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):  pT3a; pN1a (sn); pM1.
+
+COMMENT(S):  In the absence of definite fallopian tube involvement, and in view of the mixed serous and endometrioid morphology, the appearances are consistent with primary endometrial origin.
+
+DIAGNOSIS:
+A.  UTERUS, TUBES AND OVARIES -
+- MIXED HIGH GRADE SEROUS AND ENDOMETRIOID ADENOCARCINOMA OF ENDOMETRIUM.
+
+B.  OMENTUM -
+- HIGH GRADE SEROUS CARCINOMA.
+
+C.  RIGHT PELVIC SENTINEL NODE -
+- HIGH GRADE SEROUS CARCINOMA.
+
+D.  LEFT PELVIC SENTINEL NODE -
+- HIGH GRADE SEROUS CARCINOMA.
+
+17/6/2071 km
+
+SUPPLEMENTARY REPORT:
+IMMUNOHISTOCHEMISTRY (Block A20): Her-2 is positive (3+ staining).
+
+17.6.2067

@@ -1,0 +1,59 @@
+Episode No:  96H854045P
+9638540.LNP
+
+LUCAS, SAMUAL-Siena 
+Lab No:  96H85404
+N Rock Spring
+GOULBURN  WA  4407
+Specimen: Tissue
+D.O.B:  16/8/2022
+Sex:  M
+Collected: Unknown at :
+Location:  HAPS-SACRED HEART HEALTH SERVICE
+DR MITCHEL WALTON Hollack
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Anterior resection mid sigmoid cancer.  Prostate Ca.  
+MACROSCOPIC:
+Specimen labelled "High anterior resection" consists of a segment of colon, 145mm in length.  There is a circumferential, ulcerated tumour situated 45mm from one resection margin (the presumed distal margin).  The tumour measures 35mm long and the overlying serosa is puckered.  The tumour invades through the muscularis propria into mesenteric fat and comes close to the serosal surface.  It measures up to 10mm thick.  Theremainder of the mucosa is unremarkable.  Multiple lymph nodes are identified in the mesenteric fat, from 3 to 12mm.  
+Blocks:  1- margins; 2 to 5 - representative tumour; 6 - apical node; 7 to 10 - lymph nodes; 11 - reserve block.(TO: CE; VD/mm 25.3.63) 
+MICROSCOPIC (reported by Dr Z Mokriski): 
+
+Macroscopic Description
+Site of tumour:	
+Maximum tumour diameter:  35mm
+Distance of tumour to nearer cut end:  45mm
+Tumour perforation:  No
+Microscopic Description
+Type
+Adenocarcinoma NOS
+Differentiation by predominantarea
+Moderate
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  >10mm
+Lymph nodes
+Number of lymph nodes present:  22
+Number of lymph nodes involved:  8
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (Mural  and extramural)
+Perineural invasion
+Present 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumour status
+R0	Noresidual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+DIAGNOSIS:
+High anterior resection:  Moderately differentiated adenocarcinoma with lymph node metastases (8/22).  pT4a  N2.  
+

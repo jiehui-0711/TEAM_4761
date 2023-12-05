@@ -1,0 +1,120 @@
+SPR no: 12G6207290
+MRN no: 1226207
+Site_name: QUILPIE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report12G62072,12G62072 (12G6207290) Monsay, Reynaldo
+HISTOPATHOLOGY REPORT
+YOUNG DISTRICT HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Serous endometrial ca.
+1. Uterus, tubes, ovary.
+2. Omental biopsy.
+3. Left pelvic sentinel node.
+4. Right pelvic sentinel node.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. Consists of uterus, cervix, attached tubes and ovaries 79g altogether. Right tube measures 60mm in length 5mm diameter. Paratubal and parafimbrial cysts present. There is a large paratubal cyst 20mm present filled with clear fluid. Right ovary measures 20x15x10mm. Sectioning unremarkable. Both tube and ovary embedded entirely. Left tube measures 50mm in length 5mm diameter. Paratubal cyst present. Left ovary measures 25x10x8mm. Sectioning is unremarkable. Both ovary and tube embedded entirely.
+- Uterus measures 70x40x35mm. Anterior surface inked blue, posterior inked black and opened sagittally. Serially sliced sagittally and anterior wall measures 10mm, posterior wall measures 14mm. There is a pale endometrial lesion located in fundus and body towards right side measuring 20mm diameter. The tumour invades to a depth of 9mm out of 16mm myometrial thickness in this area. The tumour is macroscopically clear of the endocervix.  There is a small circumscribed intramural lesion (fibroid) 5mm present.
+
+(1,2 right, left parametrium; 3,4,5,6 right tube and ovary; 7,8,9,10 left tube and ovary
+11-15 one full face sagittal uterus: 11,12 anterior, posterior cervix; 13 lower uterine segment; 14,15 fundus and body; 16,17 more section of tumour; 18 small fibroid. Representative sections. (M-18) Further blocks:  A19 next to A16, tumour, towards R cornu; A20 next section with R cornu; A21 towards L cornu; LV Further blocks: A22-25 central full face section cervix to fundus; nearly all endometrium processed; LV
+B. &amp;quot;OMENTAL BIOPSY&amp;quot;. Fibrofatty tissue 50mm. No tumour deposit present. All embedded blocks 1 and 2. All embedded. (M-2)
+C. &amp;quot;PELVIC SENTINEL NODE RIGHT&amp;quot;. Fibrofatty tissue including 5mm lymph node serially sliced embedded block 1. Representative sections. (M-1)
+D. &amp;quot;SENTINEL PELVIC NODE LEFT&amp;quot;. Fibrofatty tissue 30mm containing a lymph node 15mm. Node serially sliced and all embedded block 1. Rep. sections. (M-1/SM ank)
+MICROSCOPIC:  Dr E. Petrauskas
+A. Uterus, Tubes And Ovaries:
+ENDOMETRIAL CARCINOMA, SYNOPTIC:
+(based on CAP 2020 Endometrium 4.1.0.2; RCPA V2 2019, FIGO 2018)
+Procedure:   Total hysterectomy and bilateral salpingo-oophorectomy
+Tumor Site:   Fundus, body
+Tumor Size:  Approximately 20mm diameter macroscopic
+Histologic Type:   SEROUS CARCINOMA
+Histologic Grade:  High grade (based on tumour subtype, FIGO grade not applicable)
+Myometrial invasion:   PRESENT
+Depth of myometrial invasion:   8mm
+Myometrial thickness:   13mm
+Percentage of myometrial invasion:   60% (section A16)
+MELF pattern of invasion:   Present
+Uterine Serosa Involvement:  Not identified
+Distance of myoinvasive tumour to serosa:  3mm (section A19)
+Lymphovascular Invasion:   PRESENT
+Extent of lymphovascular invasion:  Focal (&amp;lt;5)
+Cervical surface or crypt involvement:   Not identified
+Cervical Stromal Invasion:   Not identified
+Margins:
+Paracervical Margin:  Negative, no cervical invasion
+Other tissue/organ involvement:  None identified
+REGIONAL LYMPH NODES:
+C. Pelvic Sentinel Node Right
+Number of  nodes with macrometastasis:   0
+Number of nodes with micrometastasis:   0
+Number of nodes with isolated tumor cells:  1
+Number of  sentinel lymph nodes examined:  1
+Maximum dimension of largest metastasis or size range: 0.1mm
+Extra-nodal spread:   Not identified
+Node involvement criteria:
+Macrometastasis (&amp;gt; 2 mm)
+Micrometastasis (greater than 0.2 mm and up to 2 mm and/or &amp;gt;200 cells)
+Isolated tumor cells (0.2 mm or less and &amp;#8804;200 cells)
+D. Sentinel Pelvic Node Left:
+Number of  nodes with macrometastasis:  0
+Number of nodes with micrometastasis:  0
+Number of nodes with isolated tumor cells:  0
+Number of  sentinel lymph nodes examined: 1
+DISTANT METASTASES (histologically confirmed): Not identified
+ADDITIONAL PATHOLOGIC FINDINGS:
+Endometrium:   Inactive, atrophic
+Myometrium:   One small leiomyoma
+Serosal surface:  No lesions seen
+Ectocervix:  Squamous mucosa with atrophy
+Endocervix:  Normal endocervical mucosa.
+Right ovary:   No histologic abnormality
+Left ovary:   No histologic abnormality
+Right fallopian tube:  No histologic abnormality. Negative for serous tubal intraepithelial carcinoma (STIC). There is a small (just over 1mm diameter) nodule of clear cells in paratubal tissue consistent with an adrenal rest.
+Left fallopian tube:  No histologic abnormality Negative for serous tubal intraepithelial carcinoma (STIC).
+IMMUNOHISTOCHEMISTY (IHC):
+Block: A14.  Other suitable representative block: A15
+p53:     ABNORMAL, overexpression
+ER:      NEGATIVE
+PR:      NEGATIVE
+Her-2 IHC:  POSITIVE (score 3) by Immunohistochemisty
+MISMATCH REPAIR PROTEINS (MMRP) IHC:
+MLH1:  NORMAL staining.
+PMS2:  NORMAL staining.
+MSH2:  NORMAL staining.
+MSH6:  NORMAL staining.
+Conclusion:
+This is the normal pattern of MMRP immunohistochemistry.
+There is no immunohistochemical evidence of a mismatch repair deficiency.
+B. Omental Biopsy:
+Omental tissue. Negatove for tumour involvement.
+PATHOLOGICAL FIGO STAGE (2018 FIGO Cancer Report): Please discuss at MDT
+COMMENT(S):  Further sections of cervix, endocervix, endometrium pending
+DIAGNOSIS:
+A. Uterus, Tubes And Ovaries:
+- SEROUS CARCINOMA (HIGH GRADE) of endometrium;
+- myometrial invasion PRESENT;
+- depth of myometrial invasion 8mm of myometrial thickness 13mm (60%);
+- lymphovascular Invasion PRESENT;
+- extent of lymphovascular invasion: focal (&amp;lt;5);
+- negative paracervical margin;
+- fallopian tubes and ovaries negative for malignancy;
+- carcinoma is HER-2 IHC POSITIVE (score 3) by Immunohistochemisty;
+- ER,PR negative; normal MMRP staining, p53 overexpression.
+
+B. Omental Biopsy:
+- negative for tumour involvement.
+
+C. Pelvic Sentinel Node Right:
+- sentinel node INVOLVED BY ISOLATED TUMOUR CELLS (1 node involved)
+
+D. Sentinel Pelvic Node Left:
+- sentinel node negative (0/1)
+-------------------------------------------------------------------------------------------------------
+Further sections of cervix, endocervix, endometrium PENDING
+-------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT: 28/2/2070
+The further sections of cervix, endocervix and uterine body are not contributory.
+The diagnosis is unchanged.

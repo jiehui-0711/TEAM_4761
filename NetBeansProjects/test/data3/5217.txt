@@ -1,0 +1,86 @@
+Episode No:  17J149874I
+173149.XTL
+
+Rigerman, ASHTON Alfonso 
+Lab No:  17J14987,17J14987
+Clara Barton
+RIVERVIEW  NT  3236
+Specimen: Washings,Tissue
+D.O.B:  18/12/1995
+Sex:  F
+Collected: 07/01/2066 at 18:00
+Location:  COHUNA DISTRICT HOSPITAL
+DR Marco DINNEEN
+Distribution:  DR CHUCK,    FILE-COPY, DR RAPHAEL,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT ATTACHED
+
+HISTORY:  
+G II endometrioid adenoca.  
+1. Uterus, cervix, bilateral ovaries and tubes.
+2. Right pelvic nodes.
+3. Left pelvic nodes.
+4. Peritoneal washings.
+5. Omental biopsy.
+MACROSCOPIC:  
+A.  "UTERUS, CERVIX, BILATERAL OVARIES AND TUBES".  A coronally sectioned total hysterectomy specimen of a total weight of 78g consists ofa uterus measuring 60x45x23mm.  The attached cervix measures 27x25x20mm. The external os is ovoid 15x4mm.  Attached is right fallopian tube 45x6mm, right ovary 24x20x13mm, left fallopian tube 65x6mm and left ovary 25x15x7mm. Right and left parametrial structure are identified.  The anterior margin is inked blue, posterior black. At the uterine body there is a subserosal fibroid 10x6mm with white whorled cut surface.  There is a tumour occupying the anterior and posterior uterine body with exophytic and endophytic components measuring 59x25mm.  The exophytic part measures about 14mm.  It appears to be confined to the uterine body with no extension to the cervix but is approaching and possibly involvingthe left cornu.  The endophytic component appears to be invading into the myometrium to a depth of 12 out of 15mm.  A white whorled nodule measuring 6mm is noted at the anterior body ? intramural fibroid.  The cut surface of the tubesand ovaries reveals cysts towards the fimbrial end of both tubes which have a smooth inner lining and filled with thick yellow fluid.  The cut surface of the ovaries are unremarkable .
+(1 right tube [two LS and one TS with adjacent cyst]; 2 two TS right ovary; 3 right parametrium; 4 left tube [two LS and one TS with adjacent cyst]; 5 two TS left ovary; 6 left parametrium; 7-9 full face of the uterus from cervix to fundus; 10&11 LSs tumour maximum invasion anteriorly; 12-14 continuous piece posterior uterus from cervix to fundus; 15 maximum invasion of tumour posteriorly; 16 tumour in relation to left cornu).  RS (M-16/BO/ank)
+B.  "RIGHT PELVIC NODES".  Multiple fragments of unorientated piece of tissue measuring 45x35x15mm in aggregate. Eight possible lymph nodes are identified, largest measuring 20mm, second largest 15mm and the remainder measures 6-9mm.  
+(1 largest lymph node serially sliced; 2 secondlargest lymph node trisected; 3&4 each three lymph nodes).  AE (M-4)
+C.  "LEFT PELVIC NODES".  Multiple unorientated fatty pieces of tissue 40x35x20mm in aggregate.  Seven lymph nodes are identified, largest is partially sectioned measuring 30mm in maximum diameter, second largest is 12mm and the smaller ones measuring 3-5mm.  
+(1 larger lymph node trisected; 2 second largest trisected; 3 five lymph nodes).  RS (M-3)
+D.  "OMENTAL BIOPSY".  Unorientated fibrofatty piece of tissue 20x14x7mm.  The outer surface is smooth and shiny. The cut surface is unremarkable.
+(1 four TS).  AE (4-1/HK/ank)
+MICROSCOPIC:  (Dr D Tipple)
+(Specimen A:)
+ENDOMETRIAL CARCINOMA: 
+Tumour type: Endometrioid
+FIGO grade: 2
+(architecture grade: 2, nuclear grade: 2)
+Myometrial invasion: Invasion into outer half of myometrium
+Depth of myometrial invasion: 8mm
+Myometrial thickness: 14mm
+Focality: Unifocal
+Tumour involves: Fundus, Body  
+Vascular/lymphatic invasion:  Not seen
+Involvement of cervix:  Not involved
+Involvement of uterine serosa:  No
+Excision margins:  
+Carcinoma appears clear of cervical surgical margins.
+Non-tumour uterus:  
+Adjacent endometrium:  Simple hyperplasia 
+Adnexae:  
+Left fallopian tube:  Unremarkable
+Right fallopian tube:  Unremarkable
+Left ovary:  Unremarkable
+Right ovary:  Unremarkable
+(Specimen B+C)
+Lymph nodes:  
+Nodes involved:  0
+Total number:  15 (Eight nodes in Specimen B; Seven nodes in Specimen C)
+Other tissues:  Specimen D (omentum) - unremarkable.
+Comment:  
+1. Tumour infiltrating lymphocytes are present.
+2. The tumour is bulky and exophytic into the uterine cavity.
+DIAGNOSIS:  
+A. UTERUS:
+- ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA.
+B. RIGHT PELVIC NODES:
+- NEGATIVE FOR MALIGNANCY.
+C. LEFT PELVIC NODES:
+- NEGATIVE FOR MALIGNANCY.
+D. OMENTUM:
+- NEGATIVE FOR MALIGNANCY.
+12/1/66 cy 
+Supplementary report:
+
+MSI Immunohistochemistry stains:  Block A10
+MLH1: Absent staining
+PMS2: Absent staining
+MSH2: Positive staining present
+MSH6: Positive staining present
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+22/1/2066 nh
+

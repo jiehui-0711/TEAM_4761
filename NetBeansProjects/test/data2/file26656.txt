@@ -1,0 +1,42 @@
+SPR no: 67J386332T
+MRN no: 67338633
+Site_name: ROYAL TALBOT REHABILITATION CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrial cancer.
+
+MACROSCOPIC:
+A. Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;#8221; consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 328g in total.  The uterus measures 110 x 10 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 20mm and has an unremarkable surface.  On sectioning there is fungating lesion occupying both the anterior and posterior body measuring 30 x 35mm and 55mm x 30mm respectively (55mm is the maximum dimension of the mass).  The myometrium is 24mm.  The tumour thickness measures up to 7mm.  The myometrium shows a single fibroid measuring 50mm across.  The right fallopian tube measures 90mm in length with a diameter of 6mm.  The right ovary measures 60mm x 20mm x 10mm.  The cut surface of the ovary shows a focal area of calcification.  The rest of the ovaries are unremarkable.  The left fallopian tube measures 70mm in length with a diameter of 6mm.  The left ovary measures 50mm x 15mm x 10mm.  The cut surface is unremarkable.
+Blocks: 1 to 6 - full longitudinal section of anterior body and cervix, 7 - RS with tumour deepest invasion on the anterior body; 8 to 11 - representative sections of fibroid; 12 to 18 - full longitudinal section of posterior body and cervix, 19 &amp;amp; 20 - representative sections of deepest invasion on the posterior body; 21 &amp;amp; 22 - right adnexa (21 - fallopian tube, 22 - ovary); 23 and 24 - left adnexa (left fallopian tube, 24 - left ovary)
+
+B.  Specimen labelled &amp;quot;Right external iliac lymph node&amp;quot;, consists of a single fatty tissue measuring 20mm x 15mm x 10mm.  No lymph nodes identified.  AE 1 block
+(TO: LM; LM/eh 11/1/2069)
+
+
+MICROSCOPIC (Reported by Dr Q Dicara):
+A.  Sections of uterus show grade 1 endometrioid endometrial adenocarcinoma, estimated to be 52mm in maximum dimension.  The carcinoma invades the myometrium to a depth of 6mm out of the normal myometrial thickness of 19mm (pT1a, block A19).  There is no evidence of lymphovascular invasion.  There is no evidence of cervical involvement by tumour.  The residual non-tumourous endometrium is atrophic.  Sections of cervix include transformation zone and show no significant abnormality.  There is a leiomyoma within myometrium.  Sections of the right ovary show a fibroma.  Sections of the left ovary and the fallopian tubes show no significant abnormality.
+
+B.  Sections show mature fibroadipose tissue with no evidence of malignancy.  No lymph nodes are identified.
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, bilateral fallopian tubes and ovaries:
+-  Endometrioid endometrial adenocarcinoma,pT1a (AJCC 7th edition), grade 1, no evidence of lymphovascular invasion
+-  Leiomyoma
+-  Right ovarian fibroma.
+
+
+B.  Right external iliac:  No lymph nodes seen, no evidence of malignancy.
+
+MSI immunostains are being performed on a representative block from specimen A and a supplementary report will follow.
+
+Supplementary report 7/8/2066
+
+Mismatch Repair Deficiency (MMRD) Status, block A7
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

@@ -1,0 +1,47 @@
+
+Episode No:28R419247B
+2864192.MSB
+
+LAPPING, ERNESTO 
+Lab No:  28R41924
+Yarnton Way  Norman
+SMITHTON  Tasmania  4852
+Specimen: Tissue
+D.O.B:  5/4/1999
+Sex:  M
+Collected: 25/11/2013 at 08:30
+Location:  PARKES8-GRAYLANDS SELBY-LEMNOS & SPECIAL CARE HOSPITAL
+DR Steve KINDRA Kaiser
+Distribution:  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Carcinoma of prostate.  Prostate, seminal vesicles and right and left pelvic nodes.
+MACROSCOPIC:
+A.  Specimen labelled "Prostate" consists of a prostate measuring 50 x 30 x 40mm and weighing 37.5g.  The right vas deferens measures 25mm in length with a maximum diameter of 7mm.  The left vas deferens measures 25mm in length with a maximum diameter of 9mm.  The right seminal vesicle measures 35 x 25 x15mm and the left seminal vesicle measures 30 x 15 x 15mm.  The left side is inked blue, theright black and anterior red.  The specimen is serially sectioned into five slices.  Slice 1 - apex and slice 5 - base are further parasagittally sectioned.
+Blocks:  1 to 4 - slice one (apex) from right to left; 5 - slice two; 6- slice three; 7 - slice four; 8 to 13 - slice five (base) from right to left, nick anterior; 14 to 20 - right seminal vesicle; 21 to 26 - left seminal vesicle; 27 & 28 - right vas deferens; 29 & 30 - left vas deferens.
+B.  Specimen labelled "Right pelvic node" consists of fatty tissue which measures 65 x 40 x 10mm.  Multiple lymph nodes are identified.
+Blocks:  1 - one lymph node bisected; 2 - lymph nodes; 3 to 5 - one lymph node serially sectioned.
+C.  Specimen labelled "Left pelvic node" consists of fatty tissue measuring 45 x 30 x 15mm.  Multiple lymph nodes are identified.
+Blocks:  1 - one lymph node bisected; 2 - lymph nodes; 3 & 4 - one lymph node serially sectioned.   (XF/bl 27/1/63)
+MICROSCOPIC (reported by Dr H Chernosky):
+A - C.  Sections show acinar adenocarcinoma.  The features are as follows: 
+Histological type:  Acinar adenocarcinoma. 
+Tumour location:
+Dominant nodule:  Right posterior quadrant mid prostate.
+	Non-dominant (>10mm):  Nil. 
+	Smaller nodules:  Present (left anterior and posterior quadrants). 
+Volume/Size:	0.31ml (16mm x 4mm x 4mm x3 slices x 0.0004) 
+Gleason score: 3 + 4 = 7.
+Extraprostatic extension:  Absent. 
+Surgical margins:  Not involved. 
+Perineural invasion:  Minimal. 
+Seminal vesicles:  Not involved.
+Lymph nodes:  Negative (4 right pelvic and 3 left pelvic). 
+Lymphovascular invasion:  Absent. 
+DIAGNOSIS:
+A - C.  Prostate and pelvic lymph nodes:
+- Acinar adenocarcinoma, Gleason score 3 + 4 = 7, margins clear. 
+- Stage (AJCC/UICC TNM system, 7th edition)
+	pT2c 	Bilateraldisease 
+	pN0 	No positive regional nodes. 
+	MX 	Cannot be assessed histologically
+

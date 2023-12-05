@@ -1,0 +1,46 @@
+Episode No:  65R095349O
+6560953.MZO
+
+Fore, Wyatt 
+Lab No:  65R09534
+Rocky Spring
+MOAMA  Northern Territory  3608
+Specimen: Tissue
+D.O.B:  1/3/2010
+Sex:  F
+Collected: Unknown at :
+Location:  MACQUARIE WARD-JANDOWAE HOSPITAL
+DR Olen KAREEM Virtue
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT:  (14.5.64)
+
+
+CLINICAL:
+Excision right thigh liposarcoma.  Tumour right thigh - deep to fascia, attached to muscle ? liposarcoma. 
+MACROSCOPIC:
+Specimen labelled "Liposarcoma", consists of an unorientated specimen of skin (350 x 150mm to a depth of 70mm) and a mass of adipose tissue attached to the deep aspect of the subcutis measuring 300 x 240 x 113mm.  The external surface of the tumour is smooth. The external surface is inked black. The tumour is loosely adherent to the fascia on the deep aspect of the subcutis and is easily separated during sectioning.  The skin surface appears normal.  Focallyover the surface of the tumour there are multiple foci of skeletal muscle, the largest over a surface of 35 x 25mm.  Slicing reveals yellow glistening homogenous cut surfaces.  No necrosis is identified.  
+Blocks 1-3 - sections of tumour and attached skeletal muscle; 4 - section of tumour and peripheral margin, reserve block; 5 & 6- sections periphery of tumour; 7 & 9 - sections of tumour; 11-13 - sections of tumour; 14 - tumour and peripheral margin; 15 & 16 - tumour attachment to deep fascia; 17 - deep subcutaneous fatty tissue and deep fascia attached to tumour (the tumour is stripped off and not included in the block); 18-25 - sections of tumour; 26-28 - tumour and peripheral margin; 29 - sections of tumour; 30 - random section of skin.  (TO: LM;UY/ec 20.4.64) 
+ 
+MICROSCOPIC: (Reported by Dr R Accetta) 
+Sections show a large fatty tumour deep to fascia.  At the periphery of the tumour there is evidence of invasion of skeletal muscle focally.  In other areas the tumour appears to have a thin fibrous "capsule".  Much of the tumour consists of mature fatty tissue with areas of fat necrosis.  However focally there are thin fibrousstrands containing large atypical cells with hyperchromatic nuclei.  No convincing lipoblasts are identified.  The margins are difficult to assess but there is minimal surrounding soft tissue and the tumour appears to have been largely "shelled out".  
+A paraffin block has been sent to GREAT OCEAN ROAD HEALTH - LORNE COMMUNITY HOSPITAL's pathology for MDM2 testing.  
+DIAGNOSIS:  
+Tumour right thigh - excision:  
+Well differentiated liposarcoma.  
+ADDITIONAL REPORT:  (14.5.64)
+Report from WALCHA MULTIPURPOSE SERVICE's Pathology, COBDEN:
+Reported by:  R. Math
+FLOURESCENCE IN SITU HYBRIDISATION - FISH
+
+Clinical History:
+Well differentiated liposarcoma.
+Nature of Specimen:
+PET: 65R09534.9 Denk.
+FISH Probe:
+MDM2 (12q15),D12Z3 (12 centromere) loci-specific probe set (ZytoVision).
+FISH Results:
+nuc ish(D12Z3x2),(MDM2 amp)
+Comment:
+Interphase FISH detected high-level of MDM2, relative to the 12 centromere loci. Nuclei were seen with mostIy two (2) copies of 12 centromere, but occasionally larger nuclei showed four (4) copies of this (reference) locus.
+Summary: High-level amplification of MDM2 relative to 2-4 copies of 12 centromere. FISH is consistent with the histological findings of well-differentiated liposarcoma.
+

@@ -1,0 +1,79 @@
+SPR no: 97J715087K
+MRN no: 97371508
+Site_name: THE KILMORE AND DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report97J71508 (97J715087K) NORVIEL, SHAD VIRGIL
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Hx of colorectal cancer (previous Rt hemicolectomy).  Multiple colonic polyps.  Mucinous tumour over the ovary.  Peritonectomy.
+Total colon/rectum.  Gallbladder.  Omentum.  Ovaries and tubes.  Wound.
+
+MACROSCOPIC:
+&amp;quot;COLON, OMENTUM, OVARIES AND TUBES&amp;quot;
+A gallbladder, a piece of fatty tissue consistent with omentum, umbilicus, a piece of fibrofatty tissue with attached muscle, ovaries and fallopian tubes, colectomy specimen, anastomosed small bowel.
+
+Gallbladder: It measures 85x30mm.  The serosal surface is smooth.  The wall is up to 3mm thick.  The mucosa is granular and green in appearance and there is ?a cholesterol polyp measuring 2mm in maximum dimension.  No stones are found within the lumen.
+
+(1 cystic duct and neck; 2 body and fundus;
+
+Fatty tissue consistent with omentum:  It measures 420x200x20mm.  On sectioning and palpation there is a firm haemorrhagic area, the rest of the specimen is otherwise unremarkable.
+
+3&amp;amp;4 sections of omentum;
+
+Umbilicus including underlying fibrofatty tissue:  Altogether it measures 190x70x25mm.  The elllipse of skin including umbilicus is 35x15mm.  The surface is unremarkable.  Also noted is an ellipse of skin with a scar.  This measures 50x8mm.  The scar is up to 20mm.
+
+5 umbilicus; 6&amp;amp;7 skin with ?scar;
+
+Fibrotic piece of tissue with attached muscle:  It measures 130x35x30mm.
+
+8 RS of fibrotic piece of tissue with attached muscle;
+
+First fallopian tube:  Received separately measuring 30mm in length by 10mm in maximum diameter.  No fimbriae present.  The serosal surface is smooth.
+
+9 first fallopian tube;
+
+First ovary:  Adherent to anastomosis small bowel.  It weighs 6.2g and measures 22x15x10mm.  The serosal surface is smooth.  Also attached to it is ?fimbrial end of first fallopian tube.  It has a haemorrhagic smooth surface and measures 30x10mm in maximum dimension.  On sectioning, the ovary has a firm normal appearing cut surface.
+
+
+
+10 ovary and attached fimbrial end fallopian tube
+
+Second ovary with attached fallopian tube.  Altogether weighs 6g.  The fallopian tube measures 30mm in length by 6mm in maximum diameter.  The serosa is smooth.  The ovary measures 25x20x10mm.  On the serosal surface there is mucinous-like material.  On sectioning, the cut surface reveals a firm normal appearing cut surface.  The serosal surface of the fallopian tube is unremarkable.
+
+11 second fallopian tube; 12 second ovary
+
+Colectomy with anastomosed small bowel.  It comprises of transverse colon, descending colon, sigmoid and rectum.  The anastomosed small bowel is 140mm in length with maximum diameter of 20mm.  The attached mesocolic fat is 40mm.  The serosa is unremarkable.  The section of anastomosed large bowel altogether measures 640mm in length with maximum diameter of 40mm.  Attached mesocolic fat is up to 100mm wide.  The rectum radial margin is inked green, proximal margin [small bowel] inked blue and distal margin black.  On opening the lumen, there are multiple polyps ranging from less than 1mm to the largest one measuring 25mm.  The largest polyp is 25mm from distal margin and 720mm from proximal margin.  There is a second peduncuated polyp 15mm proximal to the large polyp.  This measures a maximum of 12mm.  The number of polyps are too numerous to count.
+
+13 margins; 14-16 largest 25mm polyp [the polyp appears confined to the mucosa, 15&amp;amp;16 includes underlying fat]; 17 peduncuated polyp proximal to 25mm polyp; 18 four polyps from the rectum [polyps in 14-17 are also from the rectum]; 19 four polyps from sigmoid colon; 20 RS polyps from descending colon [four]; 21 one polyp bisected from transverse colon; 22 site of anastomosis; 23 three lymph nodes from small bowel mesentery; 24-26 lymph nodes from transverse/descending colon [24 three nodes, 25 one node bisected, 26 two nodes]; 27 two nodes from sigmoid colon mesocolic fat; 28 one node from mesorectum).  RS (M-28/MC/nh).
+
+Further tissue:
+Further blocks taken, entire left and right ovary embedded.
+
+(29 remainder of first ovary; 30&amp;amp;31 remainder of second ovary). RS (M-31/MC/ank)
+
+MICROSCOPIC:   (Dr X Bancourt)
+A. Sections of the gallbladder show cholesterol polyp and serosal acute inflammatory infiltrates.
+
+B. Sections of the omentum show focal haemorrhage and focal submesothelial fibroblastic reaction.
+
+Sections of the skin and subcutaneous tissue show fibroblastic reaction with suture granulomas consistent with scar.
+
+Sections of the separate piece of muscle tissue show muscle with adjacent adipose tissue with fibroblastic reaction, chronic inflammation and suture granulomas consistent with previous surgery effect.
+
+Sections of the fallopian tubes are unremarkable. Both ovaries, especially the second ovary shows prominent extracellular mucous on the serosal surface and this is organising. Very focal minimal columnar epithelium is seen. There are also reactive mesothelial cells present. Immunohistochemistry (Block 10 and 12) show positive staining of reactive mesothelial cells for WT-1, calretinin, and CK7. Possible rare nuclei are CXD-2 positive and possible rare cells are CK20 positive.
+
+Sections of the segment of the colon show 11 tubulovillous or tubular adenomas. 12 lymph nodes are identified in the mesentery/mesocolon show reactive changes only.
+
+Comment: There is extracellular mucus on the surface of both ovaries with possible rare CDX2/CK20 positive cells seen on immunohistochemistry. The appearances therefore raise the possibility of Pseudomyxoma peritonei with low grade histologic features.
+There are multiple tubular and tubulovillous adenomas of the colon. Clinical correlation is recommended and further investigation could be consdiered.
+
+DIAGNOSIS:
+PERITONECTOMY SPECIMEN
+- VERY LOW CELLULARITY EXTRACELLULAR MUCUS ON SURFACE OF BOTH OVARIES WITH POSSIBLE RARE CDX-2/CK20 POSITIVE CELLS (POSSIBLE PSEUMOMYXOMA PERITONEI WITH LOW GRADE HISTOLOGIC APPEARANCES).
+- COLON WITH MULTIPLE ADENOMATOUS POLYPS
+- THERAPY RELATED CHANGES.
+
+12/6/2066 cy

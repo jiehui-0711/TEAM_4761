@@ -1,0 +1,137 @@
+DateOfBirth
+202102060000
+
+
+SiteName
+WAUCHOPE DISTRICT MEMORIAL HOSPITAL
+
+
+FirstName
+Fearn
+
+
+SPRID
+24E154810M
+
+
+MRN
+2411548
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Nimocks
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+SUPPLEMENTARY REPORT:
+
+CLINICAL:
+1. Retroperitoneal liposarcoma with segment of sigmoid colon. No neoadjuvant therapy.
+2. Distal sigmoid colon with cicatrising lesion - previous endometriosis. Histopathology, tumour banking. No previous biopsy or FISH done
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Abdominal liposarcoma&amp;quot;, sampled for biobanking,consists of a piece of bowel with attached mesocolon, 470 x 180 x 90mm.  There is also a separate piece of fatty tissue 65 x 30 x 12mm. Bowel margins inked black. Specimen inked blue and bisected into two halves.  The bowel is 200mm in length. The mucosa appears normal with no obvious polyp, lesion or tumour involvement. The mesocolon consists of multiple fatty nodules. The largest nodule is roughly 160 x 145 x 75mm. This nodule is mostly covered by peritoneum and has a lobulated fatty cut surface with no obvious necrosis or haemorrhage seen. The other mesocolon nodules also have a lobulated fatty cut surface or fleshy cut surface. Focally there is one nodule with a multinodular myxoid cut surface measuring 80 x 50 x 60mm, and is adjacent to the bowel but not involving the bowel. There is another nodular lesion adjacent to the bowel with a pale cut surface (? necrosis) measuring 30 x 25 x 25mm.
+Blocks 1-15 - 15RS from the largest lesion (first half of specimen); 16-20 1RS from distant nodules and part of mesocolon (first half of specimen); 21 - presumed proximal bowel margin; 22 - presumed distal bowel margin; 23-24 - interface of bowel and pale/necrotic lesion (second half of specimen); 25 - interface of bowel and myxoid lesion (second half of specimen); 26-27- RS bowel adjacent to myxoid lesion (second half of specimen); 28-29 - interface of bowel and myxoid lesion (second half of specimen); 30- RS bowel and mesocolon (second half of specimen); 31-32 - interface of bowel and fleshy nodule (second half of specimen); 33-37 - 5RS of myxoid nodule (second half of specimen); 38-39 -2RS of fleshy nodule (second half of specimen); 40-41 - 2RS from a fatty nodule/mesocolon (second half of specimen); 42 - 1RS from another fatty nodule/mesocolon (second half of specimen); 43 - 1RS from another fleshy nodule (second half of specimen); 44 - possible lymph nodes as seen; 45 - biobank. Shown to Dr F Spataro.
+
+B.  Specimen labelled &amp;quot;Distal sigmoid colon&amp;quot;, consists of an opened portion of bowel 45 x 40 x 20mm. There are two stapled margins removed and inked. The mucosa appears normal with no lesion or polyp. There is a possible diverticulum. Blocks 1-5 - 5RS of bowel. (TO:DN/ec 15/10/71)
+
+
+MICROSCOPIC (Reported by Dr F Duprat):
+A and B. The mesocolon/retroperitoneum shows widespread Well differentiated Liposarcoma.
+
+The tumour is present throughout the blocks and shows mostly a lipomatous differentiation and smaller foci of sclerosing subtype (A43) and myxoid appearance. The tumour comprises predominantly adipose tissue with some areas showing fibrous septae. There are atypical nuclei in the adipose tissue including variation in size of adipocytes and septae including focal single multinucleated bizarre cells.. Lipoblasts are easily identified. There is abrupt transition to myxoid nodules (as seen macroscopically) and slow transition of more myxoid stroma. There are distinct nodules of sclerosing subtype (as seen macroscopically as nodules). Mitoses are very inconspiciuous. Small foci of fat necrosis are seen but there is no coagulative/tumour necrosis. There is no lymphovascular and no perineural invasion. The tumour extends to the stroma external to the muscularis propria of the colon in Specimen A but does not invade the muscularis propria. The stromal margins are involved and the colonic peripheral margins clear. Small portions of unremarkable fallopian tube are included (A16).
+
+Some endometriosis is confirmed (Specimen B).
+
+SARCOMA SYNOPTIC REPORT:
+TUMOR
+
+Tumor Focality
+Unifocal
+
+Tumor Site
+Retroperitoneum
+
+Tumor Size
+470 mm x 180 mm x 90mm (presumed size due to specimen size)
+
+Histologic Type (World Health Organization [WHO] Classification of Soft Tissue Tumors):
+Well differentiated liposarcoma
+
++Percentage of Hypercellular Areas (formerly known as round cells)
+None/0%
+
+Histologic Grade (French Federation of Cancer Centers Sarcoma Group [FNCLCC]) (Note E)
+Grade 1 ( score 1 for differentiation, score 1 for mitotic count, 0 for tumour necrosis)
+
+Mitotic Rate (Note E)
+&amp;lt;1 per 10 high-power fields (HPF with field diameter 0.55mm)
+
+Necrosis:
+No identified with exception of some fat necrosis
+
+Treatment Effect
+No known presurgical therapy
+
++Lymphovascular Invasion (Note G)
+Not identified
+
+MARGINS
+
+Margin Status
+Margin(s) Involved by Tumor
+Soft tissue margin involved and colonic margin clear
+
+REGIONAL LYMPH NODES
+Not applicable
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th Edition)
+pT Category
+pT4: Tumor more than 15 cm in greatest dimension
+
+ADDITIONAL FINDINGS
+The colon shows some endometriosis
+
+SPECIAL STUDIES
+
+DICKINSON 2 NORTH
+MDM2 FISH to follow
+
+
+DIAGNOSIS:
+A and B. Retroperitoneum and sigmoid colon:
+- Well differentiated Liposarcoma, pT4, pNx, margin involved.
+- Colon shows endometriosis and is not involved.
+- MDM2 FISH to follow.
+
+SUPPLEMENTARY REPORT (3/10/71):
+FISH confirms a MDM2 amplification, supporting a Well differentiated Liposarcoma.
+
+
+
+
+
+
+SpecimenReceivedDate
+2355-02-19 00:00:00
+
+
+LastName
+Mausey

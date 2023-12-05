@@ -1,0 +1,134 @@
+SPR no: 18I879244X
+MRN no: 1838792
+Site_name: JUNEE MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report18I87924 (18I879244X) Wildt, COLEMAN
+HISTOPATHOLOGY REPORT
+ONSLOW HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right breast cancer, bilateral mastectomy, right sentinel node biopsy.  R axillary sentinel node for frozen section.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT AXILLARY SENTINEL NODE&amp;quot;.  Consists of five nodes 12, 8, 5, 4 and 2.  Largest blue.
+
+F/S:  &amp;quot;Negative&amp;quot;.  Result was phoned to Fellow at 3:50pm on 15.07.2071 by Dr. E. Pouche.
+
+(1  TS largest two nodes for frozen section; 2  remainder blue; 3  remainder 8mm node; 4  three small nodes not frozen).  RS (M-4).
+
+B.  &amp;quot;RIGHT BREAST TISSUE SUTURE AT 12 O&amp;apos;CLOCK&amp;quot;.
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Mastectomy, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  90mm
+Superior to inferior:  105mm
+Anterior to posterior:  24mm
+WEIGHT:  76g
+SKIN:  Yes, 70x25mm
+NIPPLE:  Yes, 13mm
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Non-Standard:  Anterior superior blue, Anterior inferior green, Posterior black.
+DISSECTION: Cut from lateral to medial
+Number of slices:  18
+FINDINGS / LESION:  The nipple is focally ulcerated.  Within the nipple itself is a tumour with a pale white appearance, measuring 13 medial to lateral x 8 superior to inferior x 9mm anterior to posterior.  The lesion is well away from the margins (17mm from posterior margin), 65 from superior, 40 from inferior, less than 1mm from anterior/skin ?involved.  Remainder of the breast tissue is otherwise fibrofatty in appearance.  Representative sections taken.
+(1&amp;amp;2  longitudinal through lateral margin slice 1; 3  mid section slice 5 including skin; 4  mid section slice 7 including skin; 5  nipple slice 8; 6  nipple slice 9; 7-10  slice 10 embedded from superior to inferior [nipple in 9]; 11  nipple slice 11; 12  mid section including skin slice 14; 13&amp;amp;14  longitudinal through medial margin slice 18).  RS (M-14).
+C.  &amp;quot;LEFT BREAST TISSUE SUTURE AT 12 O&amp;apos;CLOCK&amp;quot;.
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Mastectomy, oriented.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  85mm
+Superior to inferior:  105mm
+Anterior to posterior:  20mm
+WEIGHT:  68g
+SKIN:  Yes, 65x21mm
+NIPPLE:  Yes, 12mm
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Piece of separate fibrofatty tissue measuring 50x35x8mm (weight measurement include this small piece).
+MARGIN INKED:  Non-Standard:  Anterior superior blue, Anterior inferior green, Posterior black.
+DISSECTION: Cut from medial to lateral
+Number of slices:  15
+FINDINGS / LESION:  The cut surface is fibrofatty in appearance.  No discrete lesion is identified.  The separate piece of tissue, resection margin is inked blue.  On sectioning, the cut surface is fibrofatty.  No discrete lesion is identified.  Separate piece not sampled.  Representative sections taken.
+(1  upper inner quadrant slice 3; 2  lower inner quadrant slice 3; 3  nipple slice 7; 4  upper outer quadrant slice 12; 5  lower outer quadrant slice 12).  RS (M-5/MC 13/7/2070 km).
+MICROSCOPIC:  (Dr. E. Vielma)
+A-B. &amp;#160;INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;13mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type
+&amp;#160;
+HISTOLOGIC GRADE: 3
+
+SCORES Tubules: 3, Nuclei: 3, Mitoses: 3; MITOTIC RATE: &amp;#160;24&amp;#160;mitoses per 10 hpfs
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  27mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Present (B5)
+&amp;#160;
+PERINEURAL INVASION:  Present (B6)
+&amp;#160;
+SKIN INVOLVEMENT: Tumour involves the dermis and focally ulcerates through the epidermis.
+
+DERMAL LYMPHOVASCULAR INVASION: Present (B5)
+&amp;#160;
+NIPPLE INVOLVEMENT:  The tumour is located in the nipple.
+&amp;#160;
+MUSCLE INVOLVEMENT: Absent
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent:  Minimal, extends along a few ducts up to 10 to 15mm beyond the tumour (eg. B11)
+Nuclear grade:  High
+Architecture / type:  Solid and cribriforming, pagetoid spread along ducts
+Necrosis: Present (B11)
+Microcalcification of DCIS: Absent
+Extensive intraduct component: Absent
+
+There is a second field of high grade and solid DCIS showing pagetoid spread along ducts in the inferior (6 o&amp;apos;clock) aspect of the breast (B10), in the randomly sampled section.   This is  a 12mm length.
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Absent
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: &amp;gt;10mm clear from all margins.
+&amp;#160;
+DCIS MARGINS:
+In the area of the invasive tumour, DCIS is 6mm from the anterior-inferior margin and 3mm from the posterior margin.
+
+In the inferior aspect of the breast specimen (6 o&amp;apos;clock), DCIS is 4.5mm from the anterior margin, 2mm from the posterior margin and 11mm from the inferior margin.
+&amp;#160;
+ANCILLARY TESTS: IMMUNOSTAINS, block B9
+ER: &amp;#160;Positive (strong staining in 100% of cells)
+PgR: &amp;#160;Positive (weak to moderate staining in 5% of cells)
+HER2: &amp;#160;0
+Ki67: 45%
+&amp;#160;
+LYMPH NODES (Specimen A)
+SENTINEL LYMPH NODES: 6 lymph nodes examined
+Nodes with macrometastases: 1
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 6
+&amp;#160;
+Largest nodal tumour deposit:  2.3mm
+Extranodal extension: &amp;#160;Present, 0.5mm beyond the capsule
+
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c, pN1a
+
+C. The breast tissue shows a spectrum of benign changes including columnar cell change and apocrine metaplasia.  There is no in-situ or invasive malignancy.
+DIAGNOSIS:
+A-B. RIGHT MASTECTOMY AND SENTINEL LYMPH NODE BIOPSY:
+- Grade 3 Invasive carcinoma of no special type, pT1c pN1a
+- Involves one sentinel lymph node (1/6)
+C. LEFT MASTECTOMY:
+- No in-situ or invasive malignancy

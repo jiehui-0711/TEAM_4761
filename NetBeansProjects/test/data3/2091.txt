@@ -1,0 +1,72 @@
+
+Episode No:  59Q670706L
+5966707.APL
+
+BRISTO, ZAC 
+Lab No:  59Q67070
+Palmetto Dunes
+MARCOOLA  NT  6754
+Specimen: Tissue
+D.O.B:  16/11/1975
+Sex:  F
+Collected: 15/12/2064 at :
+Location:  105 HAMRUN CIRCUIT-ESPERANCE HOSPITAL
+DR RAYMUNDO Benedict Arnsberger
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left mastectomy and ALND.  Invasive cancer with large nodal metastases. Markingsuture at axilla (level 2).  Further level 2 tissue sent separately. Diverticulosis. CKD. Diabetes mellitus.  Hypertension.  Breast cancer.  Asthma. 
+Further clinical history: Previous breast biopsy from Family Dollar Stores Pathology (59Q67070) Lesion 1 at 1o'clock 14 cm from the nipple and lesion 2 at 2 o'clock 12 cm from the nipple:  Invasive ductal carcinoma with identical histological features.
+Tamoxifen therapy before surgery. 
+MACROSCOPIC:
+A.  Specimen labelled "Left breast", consists of a total mastectomy with axillary clearance and a suture for orientation marking the level 2 of the axillaryclearance. The specimen measures 290mm medial to lateral, 180mm superior to inferior and 50mm superficial to deep margin. There is a large ellipse of skin with nipple and areolar complex measuring 230 x 140mm.The surface of the skin is unremarkable. The piece of axillary clearance measures 100 x 100 x 40mm. The superficial margin is inked blue, the deep margin black. The specimen is serially sectioned from medial to lateral.  On sectioning and from 1 o'clock to 2 o'clock there is a large nodular solid, tan tumour measuring 25mm from superior to inferior, 20mm anterior to posterior and 25mm medial to lateral. The tumour is located 120mm from the nipple, less than 5mm from the deep margin and more than 50mm from superior and inferior margins. No other lesions are identified. The remainder of the parenchyma has a fibrofatty appearance. In the axillary clearance there are several enlarged lymph nodes, the largest lymph node measuresup to 47mm in maximum diameter and macroscopically appears completely replaced by tumour.  
+Block 1- RS nipple and areolar complex; 2-5 - RS tumour (block 5- includes closest deep margin); 6 & 7 - RS upper inner quadrant; 8 & 9 - RS lower inner quadrant; 10 & 11 - RS upper outer quadrant; 12 & 13 - RS outer quadrant; 14 - three lymph nodes; 15 - RS largest lymph node; 16-22 - lymph nodes.  
+B.  Specimen labelled "Level 2" consists of a piece of fatty tissue containing two lymph nodes 5mm in maximum diameter. AE 1 block.  (TO: EX/ec   16.12.64) 
+MICROSCOPIC: (Reported by Dr P Dufrane)
+A & B. The tumour is an Invasive ductal carcinoma (Modified Bloom & Richardson) grade 3.  The adenocarcinoma is composed of large sheets of cells with high N/C ratio, pleomorphic nuclei and prominent nuclei. The tumour is infiltrate by numerous lymphocytes. There are areas of fibrosis in approximately 30% of the tumour consistent with neoadjuvant therapy effect.  The adenocarcinoma is well clear of all excision margins with the closest margin being the deep which is 2.5mm clear. There is no evidence of DCIS.  The remainder of the parenchyma shows florid ductal hyperplasia.  There are 11 positive lymph nodes out of 18 (11/18). There is one small focus of extra nodal spread measuring (1 x 1mm)  One lymph node appears completely replaced by hyaline stroma.  
+
+Invasive carcinoma:
+Site: Upper outer quadrant (1 o'clock to 2 o'clock)  
+Type: Infiltrative Ductal Carcinoma, NOS.
+Invasive tumour size: 25mm in maximum diameter.
+Grade (Modified Bloom & Richardson):3
+Tubules:  3   Nuclei:  3   Mitoses:  3   Mitotic rate:  15 /10hpf.
+Lymphovascular invasion:  Difficult to evaluate due to fixation artefact.  
+	    
+DCIS component:  
+DCIS:  Not seen.
+Excision Margins:  
+Invasive component:  Deep margin: 2.5mm all the other margins are well clear of tumour.
+Receptors (Block A2): 
+ER:  POSITIVE
+	% of nuclei stained: 85%
+	Predominant intensity of staining:  Moderate to strong.  
+PR:  POSITIVE
+	% of nuclei stained:  40% to 50% with a small area approaching 70%
+	Predominant intensity of staining:  Moderate to strong.  
+HER2 (Novocastra 10A7):  Negative (1+)
+Ki-67 index:  20% to 30% in tumour cells.
+HER2 CISH: Not performedin this specimen. 
+Please refer to specimen (59Q67070):  HER2 CISH: NEGATIVE.  
+Nipple: No significant abnormality seen.  
+
+LCIS / ALH: Not seen.    
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  18
+Number of axillary lymph nodes involved by tumour:  11         
+Number of axillary nodes with metastases >2.0mm:  10  
+Number of axillary nodes with metastases <2.0mm:   1   
+Number of axillary nodes with isolated tumour cells <0.2mm:  0     
+Extranodal spread: Present in one lymph node and measuring 1 x 1mm (Block A20)   
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  18  
+Total number of involved lymph nodes (including sentinel node(s)):  11  
+Representative sections shown to Dr P Ushioda who concurs.
+
+
+SUMMARY
+A & B.  LEFT BREAST MASTECTOMY AND LEVEL TWO LYMPH NODES: 
+-   25mm left breast invasive carcinoma NOS. 
+-Margins clear of tumour.
+-   ER, PR positive  HER-2 negative.
+-   Twelve lymph nodes in total.  Eleven lymph nodes show evidence of metastatic tumour.  (11/18)
+

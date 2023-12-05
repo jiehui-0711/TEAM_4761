@@ -1,0 +1,144 @@
+SPR no: 71W474650A
+MRN no: 0259192
+Site_name: BELMONT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report71W47465 (71W474650A) HABERKAMP, DIANA
+SUPPLEMENTARY REPORT ADDED:
+2/9/2068 Her2 ISH
+
+HISTOPATHOLOGY REPORT
+THE ROYAL ADELAIDE HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Left axillary sentinel lymph node biopsy frozen section, left breast 2 o&amp;apos;clock 5cm FN.  Left breast lesion 2 o&amp;apos;clock, further lateral margin.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT AXILLARY SENTINEL NODE&amp;quot;.  A piece of fatty tissue 20mm in maximum diameter with three nodes, 10mm blue node and two smaller nodes each measuring ?2mm in maximum diameter.  The larger lymph node is sampled for frozen. (1  frozen section blue node; 2  remainder of largest node paraffin; 3  two smaller nodes, not frozen).  RS (M-3).
+
+FROZEN SECTION REPORT:   &amp;quot;Negative&amp;quot;.  to anaesthetist 4:15pm, by Dr S Legeyt.
+
+B.  &amp;quot;LESION LEFT BREAST 2 O&amp;apos;CLOCK, Short - superior, Medium - medial, Long - lateral&amp;quot;
+SPECIMEN TYPE:  Wide local excision, oriented
+SPECIMEN X-RAY: hookwire ends E8, adjacent density F7. Ultrasound localised lesion.
+Hookwire enters specimen anteroinferiorly.
+SPECIMEN DIMENSIONS:  Medial to lateral 33mm, Superior to inferior 45mm, Anterior to posterior 18mm, WEIGHT 14g
+MARGIN INKED:  Non-Standard:  Anterior blue, Posterior black, Medial red, Lateral green.
+DISSECTION: Cut from superior to inferior, 9 slices
+FINDINGS/LESION:  The yellow ink at wire end slices 4 to 6 anteriorly.  In slices 5 and 6, there is well demarcated stellate lesion measuring 8x6x5mm.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS: Anterior possibly involved, posterior 8mm, superior 18mm, inferior 14mm, medial 10mm and lateral 9mm.
+(1  two LS slice 1 [superior]; 2  slice 2; 3  medial slice 3; 4  slice 4; 5  start of lesion slice 5; 6&amp;amp;7  end of lesion slice 6; 8  slice 7; 9  slice 8; 10  two LS slice 9 [inferior]).  RS (M-10).
+Further blocks: 11 further sections from slice 1 superior end; LV
+
+C.  &amp;quot;FURTHER LEFT BREAST LATERAL LESION&amp;quot;
+SPECIMEN TYPE:  Re-excision, oriented.
+SPECIMEN DIMENSIONS: Medial to lateral 13mm, Superior to inferior 22mm, Anterior to posterior,  8mm. WEIGHT 2g
+MARGIN INKED:  Non standard:  Anterior blue, post. black, medial red, lateral green.
+DISSECTION: Cut from superior to inferior, 6 slices
+FINDINGS / LESION:  The specimen has a fibrofatty cut surface, no discrete lesions.
+(1  slice 1 superior; 2  slices 2 and 3; 3  slices 4 and 5; 4  slice 6 inferior).  AE (M-4/ZH km).
+MICROSCOPIC:  (S Dillman)
+
+B.  LESION LEFT BREAST
+
+BREAST INVASIVE CARCINOMA SYNOPTIC REPORT:
+
+INVASIVE CARCINOMA:
+
+MAXIMUM INVASIVE TUMOUR SIZE:  8 mm diameter (2 x 4 mm slices), 6 mm in cross section.
+
+HISTOLOGIC TYPE:  Invasive carcinoma of no special type (ductal)
+
+HISTOLOGIC GRADE:  Grade 2
+
+SCORES: Tubules 3, Nuclei 2,  Mitoses 1;  Total Score: 6 of 9
+
+MITOTIC RATE:  2 mitoses per 10 high power fields
+
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): equal to invasive carcinoma
+
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identified
+
+PERINEURAL INVASION: Not identified
+
+DUCTAL CARCINOMA IN SITU (DCIS):
+- DCIS is present.
+- Size (extent) of DCIS: DCIS is present only within invasive tumour.
+- Nuclear grade: Intermediate grade
+- Architecture/type: Solid
+- Necrosis: Not identified
+- Calcification of DCIS: Not identified
+- Extensive intraductal component (EIC): Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): Focal atypical lobular hyperplasia (lobular neoplasia) is present but not establised LCIS.
+
+EXCISION MARGINS:
+INVASIVE CARCINOMA MARGINS:
+- Close (distance of invasive tumour to margins less than or equal to 1 mm)
+- Distance of invasive carcinoma to margins:
+Anterior: 0.5 mm (less than 1 mm), close margin, section 6. Invasive carcinoma extends to a relatively deep diathermy cleft the enters the anterior margin but this does not appear to be a true margin.
+- Distance of invasive carcinoma to other margins: &amp;gt; 5 mm
+
+DCIS MARGINS:
+- Negative (not involved)
+- Distance of DCIS to closest margins:
+Anterior: 4 mm
+
+HORMONE RECEPTORS, IMMUNOSTAINS:
+Block B6: Other suitable tumour block for testing: Insuffient
+
+ER:      POSITIVE, 90%, 3+
+PR:      POSITIVE, 90%, 3+
+HER2:  NEGATIVE (Score 0) Immunostain.
+Ki-67:   variable up to 40 %
+
+SEPARATE FINDINGS:
+- Fibrocystic change, Epithelial hyperplasia, small radaial scars, larger ill defined complex sclerosing lesion, columnar cell change, duct dilatation, periductal sclerosis with focal calcification, small focus of sclerosing adenosis.
+- There is a focus of atypical ductal hyperplasia (ADH) in section 1 from near the superior end, clear of margins.
+
+A. LEFT AXILLARY SENTINEL NODE:
+SENTINEL LYMPH NODES:
+Not involved.
+Nodes with macrometastases:  0
+Nodes with micrometastases:  0
+Nodes with isolated tumour cells:  0
+Total number of nodes examined:  3
+
+COMMENT(S): The carcinoma forms a solid lesion near the wire end.
+
+OTHER SPECIMENS:
+(C) FURTHER LEFT BREAST LATERAL LESION:
+Sections show breast tissue with no significant abnormality.
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):  pT1b N0 (sn)
+
+DIAGNOSIS:
+B.  LESION LEFT BREAST
+- 8 mm diameter
+- Invasive carcinoma of no special type (ductal)
+- Grade 2
+- DCIS component present
+- Ki67 labelling up to 40%
+- distance of invasive carcinoma to margins (0.5 mm, close margin)
+- distance of DCIS to margins &amp;gt; 5 mm clear
+- focus of atypical ductal hyperplasia (ADH)
+- atypical lobular hyperplasia (ALH - lobular neoplasia)
+
+A. LEFT AXILLARY SENTINEL NODE
+- sentinel nodes negative for tumour, not involved (0/3)
+
+C. FURTHER LEFT BREAST LATERAL LESION:
+- no significant abnormality.
+- - - -
+SUPPLEMENTARY REPORT ADDED:
+HER-2 IN-SITU HYBRIDISATION Block B6:
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:   NEGATIVE
+Mean HER2 copy number per cell:  1.35
+Mean CEP17 copy number per cell:  1.35
+HER2/CEP17 Ratio:  1.0
+SCORING CRITERIA (Update in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal:&amp;#160; HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 6.0
+Positive: HER2/CEP17 &amp;gt; or equal to 2.0
+ish reported by Dr S Addo 2/7/2071 km

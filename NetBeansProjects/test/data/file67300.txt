@@ -1,0 +1,17 @@
+SPR no: 83A026605T
+MRN no: 8300266
+Site_name: WUDINNA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+VIN - skinning vulvectomy.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Vulva stitch at 12 o&amp;apos;clock&amp;quot;, consists of a resection of vulva with a suture at
+12 o&amp;apos;clock, received fresh. Specimen is pinned and formalin added.  The specimen measures 110mm (9 to 3 o&amp;apos;clock) by 52mm (12 to 6 o&amp;apos;clock) and up to 9mm deep. Towards the 6 o&amp;apos;clock margin is a full thickness defect, 6 x 5mm.  There is a raised irregular poorly defined brown nodule, 18 x 16mm. The nodule is 10mm from the 12 o&amp;apos;clock margin, 21mm from the 9 o&amp;apos;clock margin, 67mm from the 3 o&amp;apos;clock margin and 26mm from the 6 o&amp;apos;clock margin. Most of the surface is pale.  This pallor is 3mm from the 3 o&amp;apos;clock margin, 4mm from the 12 o&amp;apos;clock margin, less than 1mm from the 9 o&amp;apos;clock margin and 1mm from the 6 o&amp;apos;clock margin. Inking: 12 o&amp;apos;clock margin blue, 6 o&amp;apos;clock margin black and defect yellow. Blocks: 1 to 3 - 3 o&amp;apos;clock margin eleven cruciate sections; 4 to 21 - eighteen central TS with nodular area in blocks sixteen to eighteen and defect in blocks nine and ten; 22 to 24 - 9 o&amp;apos;clock margin in nine cruciate sections. AE. Photograph and diagram available.    (TO:LW/ta 9/3/71)
+MICROSCOPIC (Reported by Dr U Crivaro):
+The entire specimen has been examined.  Sections show a variety of changes including lichen sclerosis, patchy ulceration, squamous hyperplasia and differentiated VIN.
+The differentiated VIN is clear of all margins.  No convincing invasion is seen.
+
+
+DIAGNOSIS:
+Vulva:  Differentiated VIN clear of all margins.

@@ -1,0 +1,63 @@
+
+Episode No:  43H573612N
+432573.QDG
+
+STENZ, SHELLI 
+Lab No:  43H57361,43H57361
+Whitecroft Heath
+ULVERSTONE  Western Australia  1151
+Specimen: Washings,Tissue
+D.O.B:  30/11/2000
+Sex:  F
+Collected: 25/02/2013 at 08:09
+Location:  7.ACUTE CARE WARD - HUNTER NEW ENGLAND MENTAL HEALTH SERVICE
+DR Antonia PRIYA FRISCIA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (30.9.64):
+
+CLINICAL:
+Right ovarian mass.  Family history of bowel and breast cancer.  (N) Ca125.  Personal hx bowel Ca with (R) hemicolectomy   OT insertion of portacath.  Multicystic ovaries bilaterally. Personal history of breast cancer (tamoxifen previously) and bowel cancer.  Also family history.  Immunohistochemistry for mismatch repair proteins if any malignancy identified.  
+MACROSCOPIC:
+A.  Specimen labelled "Left ovary + tube" consists of fragmented tissue, 60 x 50 x 23mm with possible fallopian tube.  Multiple small cysts containing thin fluid and possible small excrescences are seen.  Two representative sections for frozen section x 2.  
+Blocks:  1 & 2 - frozen section; 3 to 6 - representative sections; 7 - representative ?fallopian tube
+FROZEN SECTION REPORT:
+Borderline serous tumour, florid but appears low grade.  No definite invasive carcinoma seen.  
+Phone result to Dr Skotnicki by Dr L Waddell at 10.30am on 25.02.13.
+B.  Specimen labelled "Uterus, cervix, right tube + ovary" consists of a uterus with attached cervix, weighing 70g in total.  The uterus measures 90 x 50 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 22mm and has an unremarkable surface.On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 30mm in maximum thickness.  The myometrium contains a fibroid, 35mm in maximum dimension.  The fibroid has a whorled grey cut surface.  Separate from the uterus and within the same container there is a cystic ovary, 60 x 45 x 30mm.  The ?right fallopian tube is attached to the uterus and measures 65mm in length and up to 4mm in diameter.  Part of the fimbrial end of the fallopian tube appears to be adherent to the serosal surface of the ovary.  Over the serosal surface of the ovary there are tan nodular deposits over an area of 40 x 25mm (inked blue).  On sectioning the ovary there is a unilocular cyst filled with clear fluid.  The wall of the ovary is focally thickened up to 8mm.  
+Blocks:  1 to 3 - full longitudinal section anterior body and cervix; 4 to 6 - full longitudinal section posterior body and cervix; 7 to 9 - representative myometrial fibroid; 10 - representative ?fallopian tube; 11 to 16 - representative right ovary.
+C.  Specimen labelled "Omentum" consists of a piece of fatty tissue, 37 x 25 x 12mm.  Specimen is serially sliced.  No nodules are seen.  AE 2 blocks.  
+(TO:  DQ:  VA/mm 28.4.63) 
+MICROSCOPIC (reported by Dr L Wengert): 
+A.  Sections of the ovary show a high grade serous borderline tumour and also some low grade invasive serous carcinoma.  The serous carcinoma comprises groups of cells and small papillary structures within stroma, often surrounded by an artefactual cleft.  Part of the invasive carcinoma also comprises small groups and individual cells with eosinophilic cytoplasm within stroma adjacent to the borderline component.  
+No high grade serous carcinoma is seen.  The sections of the fallopian tube show a non-invasive desmoplastic implant focally on the tube serosa but the tube is otherwise unremarkable.  
+Stains for mismatch repair enzymes will be performed as requested and a supplementary report issued.  
+B.  Sections of the cervix are unremarkable.  Sections of the endometrium show that this is thin and inactive.  A leiomyoma is confirmed in the myometrium.  Focally on the serosa of the uterus there is a non-invasive implant of serous borderline tumour.  
+Sections of the right ovary show a high grade serous borderline tumour and a minor component of invasive lowgrade serous carcinoma, similar to that seen in the left ovary.  No high grade serous carcinoma is seen.  Sections of the fallopian tube are unremarkable.  
+C.  Sections show unremarkable fat.  No tumour is seen.  
+The slides have also been reviewed by Dr L Maliszewski.  
+DIAGNOSIS:
+A.  Left ovary and fallopian tube:  
+-  High grade serous borderline tumour and well differentiated serous carcinoma of ovary.  
+-  Desmoplastic non-invasive implant on serosa of fallopian tube.  
+B.  Uterus, right tube and ovary:
+-  High grade serous borderline tumour and well differentiated serous carcinoma of right ovary.  Non-invasive implant on uterine serosa.  
+-  Uterine leiomyoma. 
+C.  Omentum:
+-  No tumour.  
+SUPPLEMENTARYREPORT (reported by Dr L Plume on 3 May 2063)
+
+Mismatch Repair Deficiency (MMRD)Status (Block A1)	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+SUPPLEMENTARY REPORT (30.9.64, Dr L Lennart):
+A.  Further immunostains have been performed on the ovarian tumour as requested.
+Oestrogen receptor:   Positive.
+			100% of tumour cells show positive staining.
+			Predominant intensity of staining:  Strong.
+Progesterone receptor:   Negative (area of borderline tumour stains positive but area of low grade carcinoma is negative).
+

@@ -1,0 +1,31 @@
+SPR no: 22P637502G
+MRN no: 2256375
+Site_name: WEST GIPPSLAND HEALTHCARE GROUP
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right neck dissection level 2a, 3, 4 and 5b.  Right axilla lymph node dissection.  Metastatic SCC.  PED avid disease.  Past history SCC.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right neck dissection short stitch level 2, long level 5, double level 4&amp;quot;, consists of fibroadipose tissue with orienting sutures in situ, 140 x 120 x 25mm.  There is attached skeletal muscle in the region marked level 5, 50 x 35 x 19mm.  Salivary gland tissue is not identified.
+Blocks: 1 - single level 2 lymph node, bisected; 2 - level 2 lymph nodes, as seen; 3 - single level 2 lymph node, sectioned; 4 - single level 2 lymph node, sectioned; 5 - single level 2 lymph node, sectioned; 6 &amp;amp; 7 - level 2 lymph nodes, as seen; 8 &amp;amp; 9 - single involved level 3 lymph node, sectioned; 10 to 12 - level 3 lymph nodes, as seen; 13 - single involved level 4 lymph node, bisected; 14 - level 4 lymph nodes, as seen; 15 to 21 - single involved level 5 lymph node, sectioned; 22 - level 5 lymph nodes as seen.
+
+B.  Specimen labelled &amp;quot;Lateral level 5&amp;quot;, consists of fibroadipose tissue, 37 x 22 x 13mm, obvious lymph nodes are not identified.  AE 2 blocks.
+
+C.  Specimen labelled &amp;quot;Apical tissue&amp;quot;, consists of fibroadipose tissue, 45 x 25 x 14mm in aggregate, containing lymph nodes.  Lymph nodes as seen.  AE 2 block.
+
+D.  Specimen labelled &amp;quot;Right axillary dissection single level 2/3, double inferior&amp;quot;, consists of fibroadipose tissue with orienting sutures in situ, 150 x 130 x 35mm.  The outer surface is inked blue.  The double suture marking inferior is taken to represent level 1; levels 2 and 3 are arbitrarily divided.
+Blocks: 1 to 5 - single level 1 involved lymph node, sectioned; 6 - single level 1 lymph node, sectioned; 7 - single level 1 lymph node, trisected; 8 - level 2 lymph nodes as seen; 9 - single level 2 lymph node, bisected; 10 - single level 2 lymph node, bisected; 11 &amp;amp; 12 - single level 2 lymph node, sectioned; 13 &amp;amp; 14 - single involved level 3 lymph node (representative only); 15 - level 3 lymph nodes, as seen; 16 - single level 3 lymph node.  (TO:JB/eh/rs 18/12/65)
+
+
+MICROSCOPIC (Reported by Dr G Arnesen):
+A. Sections show metastatic squamous cell carcinoma, up to 19mm in size, in 4 out of 36 lymph nodes (level 2: 0 out of 19, level 3: 1 out of 10, level 4: 1 out of 5, level 5: 2 out of 2. The lesion appears moderately to poorly differentiated. Extranodal spread, up to a length of 5mm, are seen in 2 of the involved nodes, from levels 3 and 5. The lesion is clear of the surgical margins.
+B. Sections show a lymph node with no evidence of malignancy.
+C. Sections show 4 lymph nodes with no evidence of malignancy.
+D. Sections show metastatic squamous cell carcinoma, up to 19mm in size, in 2 out of 14 lymph nodes (level 1: 1 out of 5, level 2: 0 out of 3, level 3: 1 out of 6). Extensive multifocal extranodal spread, up to a length of 19mm, are seen in both involved nodes. The lesion is clear of the surgical margins.
+DIAGNOSIS
+A. Right neck dissection, levels 2 to 5: metastatic squamous cell carcinoma, up to 19mm in size, in 4 out of 36 lymph nodes (positive nodes in levels 3, 4 and 5), extranodal spread present
+B. Lateral level 5: 1 lymph node with no evidence of malignancy
+C. Apical tissue: 4 lymph nodes with no evidence of malignancy
+D. Right axillary lymph node dissection: metastatic squamous cell carcinoma, up to 19mm in size, in 2 out of 14 lymph nodes (positive nodes in levels 1 and 3), extranodal spread present

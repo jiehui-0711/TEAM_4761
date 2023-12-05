@@ -1,0 +1,100 @@
+SPR no: 87G814105N
+MRN no: 872814
+Site_name: MALDON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report87G81410,87G81410 (87G814105N) BERRIEN, MAISIE VICKY
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Endometrial Ca.  PH breast Ca.  On Tamoxifen.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES + OVARIES&amp;quot;.  Uterus with attached cervix, bilateral ovaries and bilateral fallopian tubes.  Specimen received opened coronally by the surgeon.  The anterior is inked blue, posterior black.  The uterus with attached cervix weighs 131g and it measures 95mm superior to inferior, 30mm intercornuate distance, the ectocervix is 35x20mm with a slit-like os 15mm.  It is partially stained blue and cream-coloured and unremarkable.  The serosa is smooth.  The anterior endomyometrium measures 20mm, posterior endomyometrium 20mm.  The endometrium is up to 2mm thick.  The lower uterine segment and cervix amputated.  The uterus is then sectioned from fundus to section adjacent to lower uterine segment into 11 slices (slice 1 fundal slice, and slice 11 lower uterine segment slice).  Sagittal sections of cervix and lower uterine segment taken.  No obvious endometrial lesion noted macroscopically.  There is an area of trabeculation in slice 6 ?adenomyosis and one lesion with a pale white whorled cut surface consistent with a fibroid. It measures 10mm in maximum dimension.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornu; 4 left cornu; 5 anterior cervix; 6 anterior lower uterine segment; 7 posterior lower uterine segment; 8 posterior cervix; 9-14 slice 4; 15-20 slice 5; 21-24 slice 6; 25-28 slice 7; 29-32 slice 8; 33-36 slice 9; 37 posterior right quarter slice 10; 38 posterior right quarter slice 11;
+
+The right ovary and fallopian tube together weigh 13g.  The fallopian tube shows a tubal ligation clip.  It measures 35mm in length with a maximum diameter of 7mm.  The ovary measures 25x20x12mm.  On the serosa is a large cyst filled with gelantinous material.  It measures 20x18x15mm.  The inner wall lining shows a focus of papillary-like excrescenses.  On sectioning through the ovary, it shows cyst filled with clear serous fluid.  They range from less than 1mm to 5mm.
+
+39 right fallopian tube including normal appearing ovary; 40&amp;amp;41 cyst on serosa of right ovary and cyst within the ovarian cut surface;
+
+The left ovary and fallopian tube together weigh 9g.  The fallopian tube shows  evidence of previous tubal ligation.  It measures 35mm in length with a maximum diameter of 6mm.  There is one paratubal cyst measuring 4mm.  The ovary measures 25x22x12mm.  The ovarian serosal surface is unremarkable.  On sectioning through the ovary  there is one possible cyst filled with clear serous fluid and a smooth inner lining.
+
+42 left ovary and fallopian tube).  RS (M-42).
+
+B.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  A piece of fatty tissue measuring 20x10x2mm.  No palpable or firm areas noted.  AE (1-1/MC 12/7/2067 nh)
+
+MICROSCOPIC:   (Dr. V. Yngsdal)
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid carcinoma with areas of squamous metaplasia.
+
+FIGO grade:  1
+
+(architecture grade:  1, nuclear grade:  1)
+
+Myometrial invasion:  None, confined to endometrium.
+
+Depth of myometrial invasion:   0mm
+
+Myometrial thickness:   10mm
+
+% of myometrium invaded:   0%
+
+Tumour involves:  Fundus.
+-Body, lower uterine segment, cervical glands, cervical stroma, parametrium are not involved.
+
+Vascular/lymphatic invasion:  Not present.
+
+Involvement of cervix:  Not involved.
+
+Involvement of uterine serosa:  No.
+
+Excision margins:  Free of tumour.
+
+Non-tumour uterus:
+Adjacent endometrium:  Simple hyperplasia.
+Polyps:  Present.
+Adenomyosis:  Present focally.
+Benign leiomyomas in myometrium
+
+Adnexae:
+Left fallopian tube:  No significant abnormality.
+Right fallopian tube:  No significant abnormality.
+Left ovary:  Benign serous cystadenoma.
+Right ovary:  Benign serous cystadenoma.
+
+Lymph nodes:  Not submitted.
+
+Other tissues:  Omentum (Specimen B).  No tumour seen.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage:  pT1a, pNx, pMx.
+
+FIGO stage:  IA
+
+DIAGNOSIS:
+UTERUS:  WELL DIFFERENTIATED ENDOMETRIOID CARCINOMA.
+
+RIGHT AND LEFT OVARIES:  BENIGN SEROUS CYSTADENOMA.
+
+RIGHT AND LEFT FALLOPIAN TUBES:  NO SIGNIFICANT ABNORMALITY.
+
+OMENTUM:  NO SIGNIFICANT ABNORMALITY.
+12/8/2067 km
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (OGE Energy CPC Pathology; block: a20  )
+
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	?WEAKLY POSITIVE ?EQUIVOCAL POSSIBLY RELATED TO POOR FIXATION
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

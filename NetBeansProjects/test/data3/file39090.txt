@@ -1,0 +1,111 @@
+SPR no: 58H1188155
+MRN no: 082858
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report58H11881,58H11881 (58H1188155) Waisanen, IRVING
+HISTOPATHOLOGY REPORT
+STAWELL REGIONAL HEALTH AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Grade 1 endometrioid adenoca.
+1. Peritoneal fluid.
+2. Uterus, tubes + ovaries.
+3. Omental biopsy.
+4. Right sentinel node, left sentinel node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. Consists of uterus with attache cervix and bilateral tubes and ovaries. The uterus with attached cervix weighs 75g and it measures 65mm superior to inferior, 35mm intercornual distance. Ectocervix measures 30x30mm with an ovoid os 12x10mm.  Specimen is received partially opened by the surgeons.  The endometrium attached to the anterior wall is somewhat friable ? tumour.  It appears confined to the endometrium and not extending into the underlying myometrium. There is also a polypoid area measuring 10mm maximum dimension attached to the anterior myometrium.  Entire friable suspicious area within the endometrium is embedded.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornu; 4 left cornu; 5-10 sagittal slice [5 anterior cervix, 6 anterior lower  uterine segment, 7 anterior endomyometrium, 8 posterior cervix; 9 posterior lower uterine segment, 10 posterior endomyometrium]; 11-18 sections of anterior endomyometrium suspicious for lesional tissue [14-16 includes the polypoid area, 17&amp;amp;18 in relation to fundus])
+
+The right ovary and fallopian tube together weigh 4.7g.  Ovary measures 20x18x5mm.  The serosal surface is unremarkable.  On sectioning the cut surface is firm and normal appearing. The right fallopian tube is unremarkable.  The left ovary and fallopian tube together weigh 4.2g.  Ovary measures 20x15x9mm.  The serosal surface is unremarkable.  On sectioning the cut surface is firm and normal appearing.  The ovary shows one paratubal cyst 8mm maximum dimension.
+
+(19 right fallopian tube; 20 right ovary; 21 left fallopian tube; 22 left ovary). RS (M-22)
+
+B.  &amp;quot;RIGHT SENTINEL NODE&amp;quot;. Consists of a piece of fatty tissue 30x30x5mm.  No nodal tissue identified.  AE (M-2)
+
+C.  &amp;quot;LEFT SENTINEL NODE&amp;quot;. Consists of pieces of fatty tissue 40x35x10mm.  No nodal tissue is identified macroscopically.  AE (M-20
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;. Consists of a piece of fat.  It measures 30x10x5mm.  AE (1-1/MC 10/8/2069 ank)
+
+MICROSCOPIC:  (Dr N Vasiliou)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE: Fundus and Body
+
+TUMOR SIZE:  10mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 1
+
+MYOMETRIAL INVASION:
+Possible focal (Block A7)
+
+Depth of invasion:  3mm
+Myometrial thickness:  19mm (Note - adenomyosis is present. There is also focal gland-stroma irregularity with loose connective tissue that may represent superficial myometrial invasion - block A7)
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not identified
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+Right ovary - Unremarkable
+Left ovary - Unremarkable
+Right fallopian tube - Unremarkable
+Left fallopian tube Unremarkable
+Parametrium Unremarkable
+Omentum - Unremarkable
+
+MARGINS:
+Ectocervical/vaginal cuff margin: Uninvolved by carcinoma
+
+LYMPHOVASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES: (Specimen B, C, D - see comments for details)
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0
+Total number of lymph nodes examined (sentinel and nonsentinel): 2 (one each in specimen B and D)
+Number of sentinel lymph nodes examined: 2
+
+Extra-nodal spread: Not applicable
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+1. Complex hyperplasia.
+2. There is adenomyosis.
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Block A15
+MLH-1: Positive staining present.
+PMS-2: Positive staining present.
+MSH-2: Positive staining present.
+MSH-6: Positive staining present.
+Comment: This is the normal (wild-type) pattern of staining.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a, pN0
+
+COMMENT(S):
+1. Note that specimen B has morphology consistent with omentum.  Specimens C and D contain lymph nodes.
+
+DIAGNOSIS:
+A.  UTERUS -
+-ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA (GRADE 1).
+
+B.  &amp;quot;RIGHT SENTINEL NODE&amp;quot; -
+FAVOUR UNREMARKABLE OMENTAL TISSUE - SEE COMMENT ABOVE.
+
+C.  &amp;quot;LEFT SENTINEL NODE&amp;quot; -
+-NEGATIVE FOR MALIGNANCY.
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot; -
+-LYMPH NODE NEGATIVE FOR MALIGNANCY - SEE COMMENT ABOVE.
+
+16/11/2070 ank

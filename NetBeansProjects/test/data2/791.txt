@@ -1,0 +1,78 @@
+
+Episode No:  14V295892U
+1482958.YGU
+
+Marcon, Tyrone Milton
+Lab No:  14V29589
+Leigton
+GUNNEDAH  ACT  1106
+Specimen: Tissue
+D.O.B:  25/3/2040
+Sex:  F
+Collected: 28/01/2014 at 14:23
+Location:  DARLING POINT-SOUTH WEST HEALTHCARE - WARRNAMBOOL CAMPUS
+DR Cruz Dohm
+Distribution:   FILE-COPY
+CLINICAL:
+Low anterior resection.  Thrombocytopenia post chemo.  
+MACROSCOPIC:
+A.  Specimen labelled "Lower anterior resection" consists of a segment of large bowel measuring 120mm in length with attached mesenteric fat up to 50mm across.  The distal margin is at the level of anterior peritoneal reflection.  There is a polypoid indurated non-circumferential tumour 22 x 18 x 7mm anteromedial.  The tumour is 55mm from distal margin and is 50mm from proximal margin.  The tumour has a pale cut surface.  Extension into the mesenteric fatty tissue is not seen.  There are several lymph nodes within the mesenteric fatty tissue.  
+Blocks: 1 to 3 - TS of tumour (block 3 - reserve block); 4 - LS distal margin; 5 - shave proximal margin; 6 -apical lymph node; 7 - lymph nodes as seen; 8 - lymph nodes as seen adjacent to tumour; 9 - lymph nodes as seen. 
+  
+B.  Specimen labelled "Distal donut" consists of a donut shaped piece of colon bearing mucosa 22 x 15 x 10mm.  The specimen is stapled at one end. 
+Blocks: 1- mucosal surface en face.   (FR/ta 1/3/64) 
+MICROSCOPIC (reported by Dr E Gniewek):
+A & B.  Synoptic Report for Bowel Cancer
+Macroscopic Description
+
+Site of tumour:  Rectum
+Maximum tumour diameter:  22mm
+Distance of tumour to nearer cut end:  50mm
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Poor
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not applicable
+Lymph nodes
+Numberof lymph nodes present:  17
+Number of lymph nodes involved:  10
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The distal donut (specimen B) shows no significant abnormality.  There is no evidence of malignancy.
+Residualtumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Grade 2 (minimal response) - Residual cancer outgrown by fibrosis
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicatesa low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is:  A1
+
+Summary - TNM 7th Edition
+(y)pT2     pN2     pMX     R0
+
+
+DIAGNOSIS:
+A.  Lower anterior resection - Adenocarcinoma.
+B.  Distal donut - No significant abnormality.
+

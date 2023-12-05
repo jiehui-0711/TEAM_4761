@@ -1,0 +1,86 @@
+
+ 400270.ZZT
+ANDUEZA, LORRI
+40B27099
+
+Last edited : 25/7/2063		Page: 2
+ADDITIONAL REPORT (25/7/63)
+
+
+CLINICAL:
+IDC right breast 6 o'clock -wide local excision and sentinel node biopsy.  
+Short superior, long lateral, medium medial.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel nodes right breast" consists of three pieces of fibrofatty tissue measuring 15, 14 and 12mm in maximum dimension.  Specimen is BAE 3 blocks.  
+B.  Specimen labelled "Right breast lesion, long lateral, short superior, medium medial" consists of a piece of fibrofatty tissue with three sutures as designated measuring63mm (medial to lateral), 48mm (superior to inferior) and 30mm (anterior to posterior).  The specimen is inked as follows:  anterior blue, posterior black, superficial green, inferior red and sliced from medial to lateral into 9 slices.On sectioning there is a firm pale lesion measuring 20 x 22 x 28mm in slices 2 to 6. The tumour margins are as follows: abuts the inferior and posterior margin, anterior 1mm, superior 20mm, medial 12mm and lateral 35mm.  AE 20 blocks.  
+Blocks:  1 to 4 - slice 1 (medial margin embedded inferior to superior); 5 & 6 - slice 2; 7 & 8 - slice 3; 9 & 10 - slice 4; 11 & 12 - slice 5; 13 & 14 - slice 6; 15 & 16 - slice7; 17 & 18 -slice 8; 19 & 20 - slice 9 (lateral margin embedded inferior to superior).  
+(TO: FE; WP/mm 9.7.63) 
+MICROSCOPIC (reported by Dr L Hirte):
+A and B.
+Invasive carcinoma:
+Site:   Right breast 6 o'clock
+Type: Invasive ductal carcinoma, NOS
+Invasive tumour size: 25mm (5 slices)
+Grade:  3  (Modified Bloom & Richardson)       
+Tubules:  3  Nuclei:  3   Mitoses:  2  Mitotic rate: 12/10hpf.
+Lymphovascular invasion:  not seen
+	    
+DCIS component:  
+DCIS:    present
+Maximum extent of DCIS:  25mm (5 slices)
+Nuclear grade:   high
+Architecture:  solid
+Necrosis:  present
+Calcification:   absent
+Degree of DCIS in tumour:   <25%
+DCIS in adjacent tissue:    minimal
+Excision Margins:  
+Invasive component:
+  Posterior: 2mm (with intervening normal ducts, B11)
+  Anterior: 3mm 
+  Inferior: 5mm
+  Other margins: > 10mm
+In-situ component:
+  Posterior: 0.5mm (no intervening normal ducts, B9)
+  Anterior: 2.5mm (with intervening normal ducts)
+  Inferior: 5mm
+Receptors: 
+ER:   positive
+	90 % of nuclei stained
+	predominant intensity of staining:  strong
+PR:   positive 
+	3 % of nuclei stained (internal and external controls shows satisfactory staining)
+	predominant intensity of staining:  weak 
+HER2 (Novocastra 10A7):  1+
+Ki67 index:  40%
+LCIS / ALH:  Absent
+Sentinel lymph node(s):
+No. of sentinel lymph nodes examined:  3
+No. of sentinel nodes involved by tumour:  0
+DIAGNOSIS:
+A and B. Right breast wide local excision and sentinel lymph node biopsy:
+- 25mm invasive ductal carcinoma NOS, grade 3, ER positive, PR positive, HER2 1+, SISH HER2 pending, Ki67 index 40%, 2mm posterior margin, 3mm anterior margin, 5mm inferior margin, other margins > 10mm
+- 25mm high grade DCIS, 0.5mm posterior margin, 2.5mm anterior margin, 5mm inferior margin, other margins >10mm
+- 3 sentinel lymph nodes with no evidence malignancy
+
+
+ADDITIONAL REPORT (25/7/63)
+
+HER-2 IN-SITU HYBRIDISATION 
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid) 
+
+Mean HER2 copy number per cell: 1.5 
+Mean CEP17 copy number per cell: 1.5 
+HER2/CEP17 Ratio: 1.0 
+
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8 
+Equivocal: HER2/CEP17 = 1.8-2.2 
+Positive: HER2/CEP17 >2.2 
+
+Reported by: Dr L. Grandone 
+Date: 24.7.63
+

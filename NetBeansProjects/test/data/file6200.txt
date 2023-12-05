@@ -1,0 +1,102 @@
+SPR no: 23G3406614
+MRN no: 232340
+Site_name: NORTHEAST HEALTH WANGARATTA
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report23G34066,23G34066 (23G3406614) LEADFORD, VILMA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GI endometrioid adenoca. Uterus, tubes and ovaries, omental biopsy, posterior vaginal wall.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. A uterus with attached bilateral tubes and ovaries, and cervix. It weighs in total 100g. The uterus measures up to 45mm medial to lateral, 70mm fundus to cervix, and 40mm anterior to posterior. Posterior uterine surface shows a nodular area and a pale nodule near the right fallopian tube 4mm in maximum extent. The cervix measures 30mm in diameter and is unremarkable. The right fallopian tube measures up to 60mm in length and 5mm in external diameter. There is some benign appearing small cyst adjacent to the tube measuring  up to 4mm in maximum extent. The right ovary measures 30x12x10mm. The left fallopian tube measures up to 55mm in length, and 5mm in external diameter. The left ovary measures up to 20x10x12mm. The uterus has been previously opened along the lateral borders showing a polypoid tumour mass, filling the uterine cavity. Anterior cervical margin inked blue, posterior cervical margin inked black. The tumour measures 45x25x30mm and invades more than two-thirds of the myometrial thickness at the fundus. The myometrium without invasion measures 9mm. The tumour does not appear to extend into the lower uterine segment. The nodular area posteriorly is a fibroid measuring  8mm in maximum extent with uniform appearance. The tumour approaches the right and left cornu. On sectioning the ovaries are unremarkable.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 posterior 3mm pale firm nodule; 4-6 anterior cervix to fundus [notches inferior]; 7-9 posterior cervix to fundus [notches inferior]; 10 right cornu area; 11 left cornu area; 12 LS and TS RS right tube; 13 RS TS right ovary; 14 RS LS TS left tube; 15 RS TS left ovary; 16&amp;amp;17 further tumour right lateral posterior wall; 18 tumour reserve block). RS (M-18).
+
+B. &amp;quot;OMENTUM BIOPSY&amp;quot;. A piece of omentum measuring  up to 25/15x8mm. There is a firm area on sectioning but no definite tumour seen. AE (M-2).
+
+C. &amp;quot;POSTERIOR VAGINAL WALL&amp;quot;. An irregular piece of tan brown tissue measuring 20x8x5mm. Transversely sectioned showing a focal pale area 5mm in maximum extent but no definite tumour identified. AE (5-2/EE/ht).
+
+MICROSCOPIC:    (Dr G Dellum)
+A. ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid endometrial carcinoma
+
+FIGO grade:  1
+
+Myometrial invasion:  Invasion into outer half of myometrium
+
+Depth of myometrial invasion:   14mm (A9)
+
+Myometrial thickness:   15mm
+
+% of myometrium invaded:   93%
+
+Focality:  Unifocal
+
+Tumour involves:  Fundus
+
+Vascular/lymphatic invasion:  Present (A9)
+
+Involvement of cervix:  Not involved
+
+Involvement of uterine serosa:  Not involved
+
+Excision margins:  &amp;gt;10mm from cervical resection margins
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic
+Polyps:  Not identified
+Adenomyosis:  Not identified
+
+Adnexae:
+Left fallopian tube:  Paratubal granulation tissue with haemosiderin laden macrophages
+Right fallopian tube:  Not significant abnormality
+Left ovary:  No significant abnormality
+Right ovary:  No significant abnormality
+
+Lymph nodes:  None present for examination
+
+Comment:
+The myometrium shows benign leiomyomas
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1b pNx pMx
+
+FIGO stage: IB
+
+B. Sections show lobulated fatty tissue with no evidence of malignancy.
+
+C. Sections show heavily diathermied fibrous tissue with crushed hypercellular areas adjacent to possible benign epithelioid squamous cells. There is no evidence of malignancy.
+
+Immunohistochemistry shows positive staining of small groups of epithelial cells.
+
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL FALLOPIAN TUBES AND OVARIES:
+- FIGO GRADE 1 ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA (45MM)
+- FIGO STAGE 1B
+- LYMPHOVASCULAR INVASION PRESENT
+
+B. OMENTUM BIOPSY:
+- BENIGN ADIPOSE TISSUE
+
+C. POSTERIOR VAGINAL WALL:
+- HEAVILY CRUSHED CELLULAR AREA SUGGESTIVE OF SQUAMOUS EPITHELIUM
+- NO EVIDENCE OF MALIGNANCY
+
+
+SUPPLEMENTARY REPORT (23/9/2066)
+Immunohistochemistry for mismatch repair proteins:
+MSH2: Positive
+MSH6: Positive
+MLH1: NEGATIVE
+PMS2: NEGATIVE
+
+SUPPLEMENTARY DIAGNOSIS
+- LOSS OF MISMATCH REPAIR PROTEINS MLH1 AND PMS2
+
+
+20/9/2066 ank

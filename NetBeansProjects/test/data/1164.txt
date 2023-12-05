@@ -1,0 +1,107 @@
+
+Episode No:  21I762408W
+213762.MCV
+
+Sorlie, KENDALL 
+Lab No:  21I76240
+Lower Matchaponix
+WAUCHOPE  Tasmania  7305
+Specimen: Tissue
+D.O.B:  21/11/1986
+Sex:  M
+Collected: 13/9/2062 at :
+Location:  SEALS Central-REDLAND HOSPITAL
+DR Tarka Williams Krahn
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT (1/12/62)
+
+CLINICAL:
+Dediff'd liposarcoma in (L) proximal thigh- previous chemo-radiotherapy.
+MACROSCOPIC:
+Specimen labelled "Sarcoma left thigh - long stitch lateral, medium stitch medial, short stitch superior" consists of a 90 x 21mm ellipse of skin attached to fat and skeletal muscle 180 x 120 x 95mm in total.  The skin bears an 80mm horizontal surgical defect.  The sutures designated long for lateral, medium for medial and short for superior are attached.  A well circumscribed, nodular tumour is present superiorly within the specimen, measuring approximately 135 x 120 x 95mm.  Lateral inked blue, medial black. 
+The specimen is sectioned from superior to inferior into twelve slices.The cut surfaces of the tumour have a fleshy and myxoid appearance superiorly, becoming more lipomatous inferiorly.  The estimated macroscopic tumour necrosis is 40%, and is seen within the fleshy and myxoid components.  
+The tumour measures 1mm from the superficial margin, 2mm from the deep margin, 5mm from the superior margin, 5mm from the medial margin, 15mm from the lateral margin and is macroscopically well clear of the inferior margin.  The tumour appears well clear of skin. 
+Blocks:  1 & 2 - representative superior margin; 3 - representative deep margin; 4 - representative medial margin; 5 - representative superficial margin; 6 to 15 - further representative tumour; 16 - tumour reserve block (differentiated); 17 - tumour reserve block (undifferentiated); 18 & 19 - representative inferior margin.  Please see attached diagram.    (SC/cc  14/9/62); 20 - further representative slice 1 (superior margin); 21 - representativelateral margin (slice 3) showing ?differentiated area and de-diffed area; 22 - further representative de margin (slice 5); 23 - further representative lateral margin (slice 6); 24 - further representative lateral margin (slice 7) ?differentiated area; 25-27 - representative skin, subcutis and skeletal muscle. (SC/mm 15.9.62) 
+MICROSCOPIC (Reported by Dr F Zermeno): 
+   Sections show a dedifferentiated liposarcoma, 135mm in maximum dimension. The subfascial tumour has a multinodular configuration and shows a predominantly abrupt transition from well differentiated lipoma-like and sclerosing liposarcoma to dedifferentiated myxoid malignant fibrous histiocytoma (myxoid MFH)-like areas. The skin and subcutis are uninvolved.  The transition between the well and dedifferentiated components is generally abrupt, however, focal intermingled areas (block 13) are also noted.  Although most of the tumour is well demarcated by a fibrous pseudocapsule and/or adjacent atrophic muscle, well differentiated tumour infiltrates skeletal muscle superficially and laterally (blocks5 &13).  The moderately cellular dedifferentiated component (approximately 60% of the tumour) is composed of moderate to markedly pleomorphic spindled, stellate and multinucleated cells with hyperchromatic, often angulated nuclei, occasionally prominent eosinophilic nucleoli and a variable amount of eosinophilic cytoplasm, some with intracytoplasmic hyaline globules. The pleomorphic tumour cells are arranged in a storiform pattern and haphazardly.  The stroma of the dedifferentiated component is fibromxyoid and contains a supporting capillary-like vasculature which focally appears plexiform and there is patchy mild associated chronic inflammation.   In the latter areas, the tumour shows features superficially resembling myxoid liposarcoma, however, the degree of nuclear atypia and association with a well differentiated liposarcoma component excludes that diagnosis.  The dedifferentiated component shows broad areas (estimated 40% of the total tumour volume) of therapy-related coagulative necrosis.  Mitoses are generally inconspicuous but, in the most proliferative areas, number up to 4 per 10 HPF including atypical forms.  Within the well differentiated areas, enlarged hyperchromatic angulated stromal cells and multivacuolated lipoblasts are easily identified.  Focally fibrous scar tissue and foreign body type giant cells are noted adjacent to tumour.  The dedifferentiated component of the tumour shows similar histological features to the previous incisional biopsy (21I76240). 
+   
+Close to the superficialmargin moderately cellular pleomorphic dedifferentiated tumour merges with less cellular, less pleomorphic mitotically active atypical spindled and stellate ganglion-like cells. The latter component, favoured to represent dedifferentiated tumour over a reactive proliferation of myofibroblasts, infiltrates skeletal muscle and reaches the inked resection margin. The superficial margin is therefore regarded as suspicious for involvement by sarcoma. The remaining margins aredetailed below.
+Immunohistochemistry:  
+The dedifferentiated tumour cells show patchystaining with desmin but are negative for myogenin, myoglobin, SMA and S100. The Ki67 proliferation index is approximately 5-10%.  
+A synoptic report for soft tissue sarcoma follows:
+
+PROCEDURE:
+	Wide local excision	
+SITE:
+	Anatomical location:  Proximal lower limb 
+	
+	Laterality:  Left
+	Compartment:  Deep, subfascial.	
+	
+PRIMARY TUMOUR DIAGNOSIS:
+     	Histological type:  Dedifferentiated liposarcoma. 
+     	
+SIZE:	135 x 120 x 95 mm (gross estimate). 
+HISTOLOGICAL GRADE:  (Not applicable - post chemoradiation)
+	
+TUMOUR GROWTH PATTERN:
+	Predominantly pushing with areas of infiltrative growth (blocks 5, 13).	
+	
+EXTENT OF TUMOUR:  (Compartment involvement)
+	Confined within compartment		Yes
+	Extracompartmental spread		Not seen.
+	Visceral involvement			Not applicable (N/A). 
+	Neurovascular involvement		Not seen.
+	Skip metastases			Not seen.
+	Lymph node metastases		No lymph nodes identified.      
+    	
+MARGINS OF EXCISION:  Suspicious for involvement - Superficial (block 5)
+	Closest margin			Superficial (see body of report)
+	Distance to closest margin (mm)	0mm
+	Distance to other margins (mm)	Deep (block 12) 0.5mm - (well differentiated); 1mm - (dedifferentiated).
+				Lateral (block 23) 1.1mm - (well diff.); well clear >10mm - (dediff.).
+				Medial (block 4) -  3.4mm - (well diff.);
+				5.5 mm - (dediff.).
+				Superior (block 1)at least 3mm clear.
+				Inferior (block18) well clear.
+				
+RESPONSE TO NEOADJUVANT THERAPY:  Prior chemoradiation.
+ 	Percentage tumour necrosis:  Approximately 40%.
+TNM STAGE: 	Tumour		pT2b
+		Nodes			cN0
+		Metastases		cN0
+	
+MISCELLANEOUS ANCILLARY STUDIES:
+	Tissue will be sent to TASMAN MULTI-PURPOSE CENTRE's hospital for FISH analysis and a supplementary report issued.
+OTHER FINDINGS: Nil significant.
+DIAGNOSIS:
+Excision tumour left proximal thigh:  
+-  Dedifferentiated liposarcoma (post chemoradiation).
+-  Superficial margin suspicious for involvement (see report for other margins).
+-  pT2b, cN0, cM0.
+Tissue will be sent to THE CHILDREN'S HOSPITAL AT WESTMEAD's hospital for FISH analysis and a supplementary report issued.
+
+
+ADDITIONAL REPORT, 1/12/62:
+FLUORESCENCE IN SITU HYBRIDISATION reported by F Christophe/ Dr F Maycock, ST VINCENT'S PATHOLOGY.
+"Nature of Specimen:
+PET: 21I76240 Somoza block 4 and 16
+FISH Probe:
+DDIT3 (12q13) dual colour breakapart rearrangement probe (Abbott Molecular).
+MDM2 (12q15),D12Z3 (12 centromere) loci-specific probe set (ZytoVision).
+FUS(16p11) dual colour breakapart rearrangement probe (Abbott Molecular). CDK4(12q13),SE12(12 centromere) (Kreatech Poseidon)
+GLI (12q13),SE12(12 centromere) (Kreatech Poseidon)
+FISH Results:
+Block 4:
+nuc ish dim amp(D12Z3),dim amp(3'DDIT3,5'DDIT3),dim amp(CDK4), (MDM2x3-8),(5'FUS,3'FUS)X2-4(5'FUS con 3'FUSx2-4)
+Block 16:
+nuc ish dim amp (D12Z3),dim amp(3'DDlT3,5'DDIT3),(MDM2x3-10) (GLIx2-4),(5'FUS,3'FUS)x2-7(5'FUS con 3'FUSx2-7)
+Comment:	-
+Block 4. DDlT3, FUS, MDM2,12cen, CDK4,12cen
+Interphase FISH detected amplification of the DDIT3, CDK4 and 12 centromere probes, but with a diminished signal intensity to that of the corresponding normal chromosome copies of these loci.  lnterphase FISH detected copy number gain relative to the chromosome 12 centromere of MDM2, but not amplification of this locus.  lnterphase FISH detected no evidence of rearrangement of FUS.  Two to four (2-4) copies of non-rearranged FUS were seen in the nuclei examined.
+Block 16: DDIT3,12cen, FUS, MDM2,12cen, GLI,12cen
+Interphase FISH detected amplification of the DDIT3 and 12 centromere probes, but with a diminished signal intensity to that of the corresponding normal chromosome copies of these loci.  Interphase FISH detected copy number gain relative to the chromosome 12 centromere of MDM2, but not amplification.
+Summary: The unusual signal patterns for CDK4,DDIT3 and 12 centromere are suggestive of, but not conclusive for an amplification event at 12q13. Amplification of 12 centromere and CDK4 without MDM2 amplification has been reported as a rare observation in WD/DD liposarcoma, with the same "faint" pattern
+described (Modern Pathology (2012) 15 June: 1-13).  In most cases, both MDM2 and CDK4 are amplified (Int J Cancer (2008);122: 2233).
+FISH detected no evidence of rearrangement of the FUS locus.  Two to seven (2-7) copies were detected in the nuclei scored. Please correlate with other findings."
+

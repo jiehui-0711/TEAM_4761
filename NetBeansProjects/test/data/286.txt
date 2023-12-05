@@ -1,0 +1,49 @@
+
+Episode No:  04I218424K
+0432184.GMK
+
+PERSKY, PHUONG TONEY 
+Lab No:  04I21842,04I21842
+Hensill
+NAMBOUR  New South Wales  3156
+Specimen: Washings,Tissue
+D.O.B:  28/8/2011
+Sex:  F
+Collected: 30/12/2063 at :
+Location:  7.ACUTE CARE WARD - TAROOM HOSPITAL
+DR JOIE AGUSTINA PEELE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+57yr old G0 with grade 2 endometrioid endometrial carcinoma on curettings.  TLH/BSO and washings done.  On intra-op sectioning <50% of myometrial invasion thus NO lymph nodesremoved.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus tubes ovaries" consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 75.7g in total.  The uterus measures 60 x 45 x 35mm and has a smooth shiny serosal surface.  The ectocervix measures30 x 30mm and has an unremarkable surface.  On sectioning the myometrium is 4mm in maximum thickness and the myometrium is 12mm in maximum thickness.  The endometrium appears thickened at the right posterior uterine fundus.  The thickened endometrium is 45mm from the cervical os.  The myometrium has two fibroids measuring 6 and 10mm in maximum dimension.  The right fallopian tube measures 56mm in length x 5 x 5mm in diameter.  The right ovary measures 22 x 18 x 10mm and has an unremarkable cut surface.  The left fallopian tube measures 52mm in length x 5 x 5mm in maximum dimension.  The leftovary measures 20 x 11 x 6mm and has an unremarkable cut surface.  
+Blocks: 1 & 2 - full LS of anterior body and cervix; 3& 4 - adjacent anterior body; 5 & 6 - full LS of posterior body and cervix; 7 & 8 - adjacent posterior body; 9 - right ovary AE; 10 - right fallopian tube; 11 - left ovary AE; 12 - left fallopian tube.  
+  
+B.  Specimen labelled "Left pelvic side wall" consists of a piece of fibrofatty tissue measuring 20 x 15 x 4mm.  AE 1 block.   (EZ/ta 1/12/63) 
+   
+MICROSCOPIC (reported by Dr B Naegle):
+A.  Sections show adenocarcinomas of the endometrium and right ovary which are favoured to be synchronous.
+The endometrial tumour is a grade 2 endometrioidadenocarcinoma with focal lymphovascular invasion.  Carcinoma invades to a depth of 5mm through a wall thickness of 17mm.  Adenocarcinoma extends to the junction of the lower segment and endocervix.  In addition, a 1mm focus on non-contiguous adenocarcinoma is present within the ectocervical stroma.  
+The tumour within the right ovary is a welldifferentiated endometrioid adenocarcinoma which is present within the ovarian stroma.  
+The myometrium shows a number of benign leiomyomas and the left ovary and both fallopian tubes show no significant abnormality.  
+B.  Sections of fibroadipose tissue show scattered inflamed adhesions only.  There is no evidenceof malignancy.  
+DIAGNOSIS:
+A & B.Uterus and cervix, tubes and ovaries, left pelvic side wall:
+-  Adenocarcinomas of endometrium and right ovary, favoured to be synchronous
+-  Grade 2 endometrioid adenocarcinoma of the endometrium.
+-  Invasion to a depth of 5mm through a wall thickness of 17mm.
+-  Lymphovascular invasion present.
+-  Non-contiguous involvement of ectocervical stroma
+-  Well differentiated endometrioid adenocarcinoma of the right ovary.
+ADDITIONAL REPORT (8/1/63):
+
+Immunoperoxidase stains for MSI proteins (Block A3)
+	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

@@ -1,0 +1,72 @@
+Episode No:  29T752747W
+297752.ULT
+
+OSAYANDE, Tabetha 
+Lab No:  29T75274,29T75274
+Rowarth
+MOUNT EVELYN  Northern Territory  2315
+Specimen: Washings,Tissue
+D.O.B:  5/1/1993
+Sex:  F
+Collected: 09/07/2065 at 16:17
+Location:  DIRRANBANDI HOSPITAL
+DR Richard Maione
+Distribution:  DR Roesch,    FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT ATTACHED
+
+HISTORY:  
+Peritoneal washings for cytology.
+Uterus, tubes + ovary.  
+Omental biopsy.
+Left pelvic nodes.
+Right pelvic nodes.
+Poorly differentiated carcinoma endometrium.
+MACROSCOPIC:  
+A.  "RIGHT PELVIC NODES".  Few pieces of fat measuring in aggregate 50x30x10mm containing three lymph nodes measuring 7, 12 and 20mm in maximal extent.  All lymph nodes are embedded.  One lymph node per block sectioned transversely.  RS (M-3)
+B.  "LEFT PELVIC NODES".  Two pieces of fibrofatty tissue measuring 40x25x13mm.  It contains two lymph nodes measuring 28 and 30mm in maximal extent.  One lymph node has been invaded by the tumour.
+(1&2 one lymph node sectioned transversely; 3 one lymph node sectioned transversely).  RS (M-3)
+C.  "OMENTAL BIOPSY".  Piece of fatty tissue.  Omentum measuring45x35x15mm.  There are no obvious depositions of tumour identified.  
+D.  "UTERUS, TUBES + OVARIES".  Uterus with cervix, attached bilateral tubes and ovaries. The uterus with cervix measures 70x45x35mm. The specimen weighs 76g.  The right fallopian tube measures 35mm in length with diameter up to 5mm.  Right ovary measures 22x10x8mm.  Left fallopian tube measures 40mm in length with diameter up to 6mm.  Left ovary measures 20x12x10mm.  Anterior surgical margin inked blue, posterior black. Specimen is sectioned longitudinally.  On sectioning there is thickening of the endometrium within the fundus with possible necrosis.  Endometrium thickened up to about 3mm.  The cut surface of the cervix appears pale white.  The uterus was sectioned longitudinally. There is extension of the endometrium in the fundus towards the left cornu.  The thickness of the endometrium at that point is around 8mm.  Representative sections are takenand embedded.  Thickness of the myometrium is up to 18mm.  Whole endometrium was embedded.  
+(1-6 full face LS of the uterus with cervix with block 1 being anterior cervix; 2 posterior cervix; 3 anterior body; 4 posterior body; 5 anterior fundus; 6 posterior fundus; 7-10 more RS from the right side of the uterus LS; 11-14 LS of the left side of the uterus; 15-18 another full face tumour sectioned from the left side of the uterus; 19&20 right fallopian tube;21 right ovary; 22 right parametrial tissue; 23 left&24 left fallopian tube; 25 left ovary; 26 left parametrial tissue).  RS (M-26/RP/ank)
+
+MICROSCOPIC:  (P. Gerdsen)
+A. The three right pelvic nodes show no involvement. A prominent infiltrate of histiocytes is seen within the sinuses and cortex. A Cam 5.2 stain confirms the absence of involvement.
+B. One of the two lymph nodes is extensively replaced by metastatic high-grade poorly-differentiated adenocarcinoma, with features which favour metastatic serous carcinoma. Maximum dimension of this metastasis is 10mm. No extranodal spread is seen. Immunochemical stains on this metastatic deposit show strong staining for p16 and p53, and very focal positivity for WT1, in keeping with metastatic serous carcinoma. Stains for CK 5/6 and p63 are both negative.Multiple psammoma bodies are noted within this metastatic deposit. 
+C. Sections of omentum show no tumour involvement. 
+D. Sections of uterus show a mixed type of endometrial carcinoma, being a combination of high-grade endometrioid carcinoma and serous carcinoma. The serous carcinoma predominantly involves the endometrial polyp, which is entirely replaced, but there is also extensive lymphovascular involvement by serous carcinoma. Psammoma bodies are seen within presumed lymphatic spaces throughout the full thickness of the myometrium, and there are occasional deposits of viable intralymphatic serous carcinoma within the myometrium, including a viable deposit within a serosal lymphatic. Psammoma bodies are also scattered throughout the cervical stroma, although no definite viable tumour is identified within the cervix. The high-grade endometrioid carcinoma shows areas of squamous differentiation. There ismyometrial invasion by both Grade 3 endometrioid carcinoma and serous carcinoma, to a maximum depth of 5mm in a myometrial wall of 16mm thickness. This endometrial invasion involves both the body and the lower uterine segment. The adjacent endometrium shows both typical and atypical hyperplastic changes. The left and right ovaries, and the left and right fallopian tubes show no involvement. A section from the right parametrium shows a single psammoma body but no viable tumour. The left parametrial tissue is unremarkable. 
+ENDOMETRIAL CARCINOMA: 
+Tumour type:  Mixed-type of endometrial carcinoma ( grade  3 endometrial carcinoma with squamous differentiation, and high-grade serous carcinoma). Serous carcinoma forms approximately 20% of the primary tumour, but the metastatic deposits and lymphovascular involvement appear to be from the serous component. 
+Histologic Grade for Endometrial carcinoma component: Grade 3
+Myometrial invasion:  5mm
+Normal Myometrial thickness: 16mm
+Lymphovascular invasion:  Present and remote to the tumour interface.
+Maximum distance of lymphovascular invasion from tumour face: 13mm (Block D4).
+Involvement of cervix:  Involvement of cervical stroma: Multiple psammoma bodies are seen within the cervical stroma, presumably within cervical lymphovascular spaces, although no viable tumour is seen. 
+Residual Non-tumour endometrium: Hyperplastic and atypical hyperplastic
+Tumour stage, FIGO and pTNM:
+pT1a, tumour invades less than one half of the endometrium
+pN1 Regional lymph nodes metastasis to pelvic lymph nodes
+FIGO stage IIIC1
+DIAGNOSIS:  
+A. RIGHT PELVIC NODE:
+- THE THREE PELVIC LYMPH NODES SHOW NO INVOLVEMENT.
+B. LEFT PELVIC NODE:
+- ONE OF TWO LYMPH NODES IS LARGELY REPLACED BY METASTATIC SEROUS CARCINOMA.
+C. OMENTALBIOPSY:
+- NO INVOLVEMENT.
+D. UTERUS, TUBES AND OVARIES:
+- MIXED ENDOMETRIAL CARCINOMA, COMPRISING HIGH-GRADE SEROUS CARCINOMA AND GRADE 3 ENDOMETRIOID CARCINOMA WITH SQUAMOUS DIFFERENTIATION. FOR DETAILS, PLEASE SEETEXT.
+14/7/65 cy 
+SUPPLEMENTARY REPORT: 
+
+Immunostains for MSI proteins(Murphy Oil POSTOPERATIVE RECOVERY; block: D5)
+MLH1: Positive (normal) staining of tumour nuclei.
+PMS2: Positive (normal) staining of tumour nuclei.
+MSH2: Positive (normal) staining of tumour nuclei.
+MSH6: Positive (normal) staining of tumour nuclei.
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivationof that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+8/7/65 ank
+

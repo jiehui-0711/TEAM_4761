@@ -1,0 +1,131 @@
+Episode No:  67O621676Q
+675621.STS
+
+GUIDROZ, JIMMY Jonas 
+Lab No:  67O62167
+Kuck
+CAIRNS  TAS  3687
+Specimen: Tissue
+D.O.B:  20/3/1989
+Sex:  F
+Collected: 2/2/2066 at :
+Location:  PaLMS-GOOMALLING HOSPITAL
+DR Bess MURIELE Tony-AGUINAGA
+Distribution:    NSW-CANCER-REGISTRY, DR ROYCE
+
+SUPPLEMENTARY REPORT (3.10.2066)
+
+CLINICAL:
+Right breast invasive carcinoma.  R Axilla sentinel node biopsy.  Right breast 9 o'clock 12cm FN, 18mm invasive Ca.  11 o'clock 5cm FN.  20mm IDC.  R mastectomy.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel lymph node" consists of a piece of fibrofatty tissue 50 x 30 x 10mm containing a lymph node 20mm in maximum dimension mainly replaced by fat.  Imprints done.
+Blocks: 1 & 2 - one lymph node serially sectioned; 3 - possible lymph nodes as seen.  
+FROZEN SECTION REPORT:
+There is no evidence of malignancy found.  
+Result to Dr Ngarrindjeri by Dr S Ernstrom at 8:19pm on 02/02/66.  
+  
+B.  Specimen labelled "Rightbreast long; lateral, short - superior" consists of a mastectomy measuring 280 x 220 x 85mm.  There is an ellipse of skin on the surface measuring 220 x 80mm in area containing a nipple areola complex and the skin is unremarkable.  There are two sutures orientating long lateral, short superior.  The superficial surface is inked blue and the deep black.  On sectioning there are two tumours identified.  Tumour one measures 30 x 22 x 20mm and is located at 11 o'clock, 40mm from the nipple.  This tumour is approximately 60mm from tumour two.  The margins for tumour one as follows; 20mm - deep, 80mm - superior, 20mm - superficial, 120mm - inferior, approximately 130mm - medial and 100mm- lateral. Tumour two measures 15 x 15 x 15mm and is located 8 to 9 o'clock, approximately 90mm from the nipple. The margins for tumour two are as follows:3mm - deep, 160mm - superior, 20mm - superficial, 60mm - inferior, approximately 195mm - medial and approximately80mm - lateral.  The rest of the breast tissue is predominately fibrofatty.  Please see attached diagram.  
+Blocks: 1 - nippleareola complex; 2 - tissue deep to nipple; 3 - tumour one and closest deep margin; 4 to 12 - full face of tumour one (please see diagram); 13 - tissue between tumour one and tumour two; 14 & 15 - full face of tumour two;16 - inferior margin tumour two; 17 - upper inner quadrant; 18 -upper outer quadrant; 19 - lower outer quadrant; 20 - lower inner quadrant near nipple; 21 - lower inner quadrant; 22 - tumour one, tumour for bio-bank.  
+C.  Specimen labelled "Level one axillary sample" consists of two piece of ragged fibrofatty tissue measuring 40 x 30 x 25mm and 60 x 40 x 15mm.  Lymph nodes are identified within the fibrofatty tissue measuring from 3 to 30mm in maximum dimension.  The lymph nodes are AE.  
+Blocks: 1 to 3 - one lymph node serially sectioned; 4 - lymph nodes as seen. 
+(TO:TH; SE/ta 2/3/66) 
+MICROSCOPIC (Reported by Dr S Abramov):
+A to C.
+TUMOUR 1 (11 O'CLOCK)
+Invasive carcinoma:
+Type:  Invasive pleomorphic lobular carcinoma
+Invasive tumour size: 41mm, plus 7 satellite deposits up to 7mm in size, over a 60mm area
+Grade (Modified Bloom & Richardson):  3
+Tubules: 3     Nuclei:  3    Mitoses: 2     Mitotic rate:9/10hpf.
+Lymphovascular invasion:  Not seen
+Comment: The tumour cells are negative for e-cadherin.
+	    
+DCIS component:  Absent
+Receptors (Block B22): 
+ER:   positive
+	90% of nuclei stained
+	predominant intensity of staining:  strong
+PR:   positive
+	60% of nuclei stained
+	predominant intensity of staining:  moderate
+HER2 (Novocastra 10A7):  0
+HER2 SISH:  Performed at General Mills, LOXTON HOSPITAL COMPLEX Hospital, see separate report.
+Ki-67 index:  20%
+TUMOUR 2 (9 O'CLOCK)
+Invasive carcinoma:
+Type:  Invasive micropapillary carcinoma
+Invasive tumour size:  17mm
+Grade (Modified Bloom & Richardson):  2
+Tubules:  3    Nuclei:  3    Mitoses:   1   Mitotic rate:   4/10hpf.
+Lymphovascular invasion:  Not seen
+Comment: Less than 10% of the lesion shows conventional invasive ductal carcinoma NOS
+	    
+DCIS component:  
+Maximum extent of DCIS:  13mm
+Nuclear grade:  Intermediate
+Architecture:  Cribriform
+Necrosis:   Not seen
+Calcification:  Not seen
+Degree of DCIS in tumour:  Focal
+DCIS in adjacent tissue:  Focal
+Receptors (Block B14): 
+ER:   positive
+	100% of nuclei stained
+	predominant intensity of staining:  strong 
+PR:   positive
+	80% of nuclei stained
+	predominant intensity of staining:  moderate
+HER2 (Novocastra 10A7):  2+
+HER2 SISH:  Performed at United Technologies Corporation, KATANNING HOSPITAL Hospital, see separate report.
+Ki-67 index:  25%
+Excision Margins:  
+Invasive component: >10mm all margins
+In-situ component:  > 10mm all margins
+Nipple:  No evidence of Paget's disease.
+LCIS / ALH:   Present
+Miscellaneous: Benign papillomas, a radial scar and benign ductal hyperplasia are seen in the uninvolved breast tissue.
+Sentinel lymph nodes (specimen A):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0        
+Level 1 axillary nodes (specimen C):
+Number of axillary lymph nodes examined:   4
+Number of axillary lymph nodes involved by tumour:   0       
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node):   5
+Total number of involved lymph nodes (including sentinel node):  0 
+DIAGNOSIS:
+A to C. Right breast, sentinel lymph node and level 1 axillary sample:
+- Tumour 1 (11 o'clock): 41mm invasive pleomorphic lobular carcinoma, grade 3, plus 8 satellite deposits up to 7mm in size, over a 60mm area
+- Tumour 2 (9o'clock): 17mm invasive micropapillary carcinoma, grade 2, 13mm intermediate grade DCIS
+- 1 sentinel and 4 non-sentinel lymph nodes with no evidence ofmalignancy
+SUPPLEMENTARY REPORT (3.10.2066)
+
+HER FISH of tumour 2 (9 o'clock):
+
+MOLECULAR TISSUE ANALYSIS REPORT
+
+Source of Material:
+Molecular Oncology Unit 
+Liberty Media, ALPINE HEALTH (MOUNT BEAUTY)
+Material Received:
+Block X1: 67O62167 B.14
+DIAGNOSTIC SUMMARY:
+Right breast:HER2 FISH NEGATIVE
+
+HER2 ISH ASSAY
+
+Clinical Details:
+Tumour details: Invasive micropapillary carcinoma. 
+Referring laboratory HER2 IHC: 2+
+SISH referral lab: BEECHWORTH HEALTH SERVICE Hospital
+Referring lab SISH result : Equivocal, mean HER2 copy number per cell: 4.1, HER2/CEP17 ratio: (weak CEP17 signal)
+Referred to HER2 ISH testing by: Dr S Boylston at the request of Dr S EUGENE-Britton.
+Results:
+Her2 FISH results (PathVysion HER2 DNA probe kit): NEGATIVE
+TUMOUR HER2 STATUS:  Non-amplified (polysomic)
+Mean HER2 copy number per cell: 2.85
+HER2/CEP17 ratio: 1.1
+FISH SCORING CRITERIA (Updated ASCO CAP Guidelines 2014) HER2/CEP17 ratio > 2= Positive (Amplified); Mean HER2 count > 6= Positive (regardless of ratio); Mean HER2 count 4-6 with ratio <2 = Equivocal (correlation with other tests required). 
+Reported By: Dr Taylor GERARDO VONGKHAMPHANH.  Electronically signed 03/10/2066 1:59pm
+Validated By:  Dr LOYCE CRISTOBAL OCAMB.  Electronically signed 03/10/2066 1:59pm
+

@@ -1,0 +1,76 @@
+Episode No:  06L904638O
+064904.PIW
+
+GREENLEES, Wilfred 
+Lab No:  06L90463
+Wooleytown
+MUDGEE    7330
+Specimen: Tissue
+D.O.B:  21/8/2008
+Sex:  F
+Collected: 19/1/2066 at :
+Location:  Southern IML Pathology-KAROONDA AND DISTRICT SOLDIERS' MEMORIAL HOSPITAL
+DR NORMAN DOMINICA Cristobal-Telles
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast mucinous carcinoma.  Right axilla sentinel node biopsy.  Right breast carcinoma suture short superior long lateral.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel lymph node" and consists of a lymph node measuring 25 x 20 x 15mm with a small amount of attached adipose tissue.  The cut surfaces are unremarkable (imprints made).
+Blocks: 1 & 2 - lymph node AE.
+FROZEN SECTION REPORT:
+Malignant cells present.  
+Result to Anaesthetist/Dr A Mandril by Dr A Vigueras at 7:47pm on 19/01/66.  
+B.  Specimen labelled "Right breast long lateral, short superior" and consists of a mastectomy measuring 170mm (medial to lateral) x 165mm (inferior to superior) x 40mm (superficial to deep).  The superficial margin is inked blue and the deep margin inked black.  There is an overlying ellipse of skin measuring 65 x 35mm which includes a nippleareola complex measuring 30 x 30mm.  The nipple appears slightly retracted.  In the 9 to 10 o'clock position 65mm from the nipple there is a firm cream cystic heterogeneous firm lesion measuring 40mm (medial to lateral) x 50mm (inferiorto superior) x 20mm (superficial to deep).  The lesion is 5mm from the deep margin and 12mm from the inferiosuperficial margin and 55mm from the lateral margin and well clear of the medial margin.  No other suspicious areas are identified.  
+Blocks: 1 to 6 - full face of tumour to deep inferior and superficial margins; 7 & 8 - further tumour to deep margin; 9 & 10 - further tumour; 11 & 12 - inner upper quadrant; 13 & 14 - inner lower quadrant; 15 & 16 - outer upper quadrant; 17 & 18 -  outer lower quadrant; 19 - nipple and tissue deep to nipple; 20 - reserve block. 
+Please refer to attached diagram.  (GD/ta 18/1/66) 
+ 
+MICROSCOPIC (reported by Dr A Neighbors): 
+A - B.  Sections show mucinous carcinoma of the breast.  The features are as follows: 
+Invasive carcinoma:
+Site:  Right breast.  
+Type:  Mucinous carcinoma.  
+Invasive tumour size:  Approximately 20mm. 
+Grade (Modified Bloom & Richardson):  3
+Tubules: 3  Nuclei: 2  Mitoses: 3  Mitotic rate  18/10hpf.
+Lymphovascular invasion:  Present
+	    
+DCIS component:  
+DCIS:  Present
+Maximumextent of DCIS:  Approximately 50mm plus upper inner quadrant 
+Nuclear grade:  High grade
+Architecture:  Clinging
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Extensive
+Excision Margins:  
+Invasivecomponent: 1.5mm from superficial and deep, other margins well clear. 
+In-situ component: 4mm from deep, 8mm from superficial, other margins well clear.  
+Receptors (Block B10): 
+ER:  Positive 
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	5 to 10% of nuclei stained
+	predominant intensity of staining: Moderate 
+HER2 (Novocastra 10A7): Negative (Score 1+).
+HER2 SISH:  Performed at Western & Southern Financial, BODDINGTON HOSPITAL Hospital, see separate report.
+Ki-67 index: Focally up to 20%
+Nipple:  DCIS in tissue deep to nipple.
+
+LCIS / ALH:  Absent.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 2
+Number of sentinel lymph nodes involved by tumour: 2         
+Number of sentinel nodes with metastases >2.0mm: 0   
+Number of sentinel nodes with metastases <2.0mm: 1     
+	Detected by: Routine stains.
+Number of sentinel nodes with isolated tumour cells <0.2mm: 1      
+	Detected by: Immunohistochemistry
+Extranodal spread:  Absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2  
+Total number of involved lymph nodes (including sentinel node(s)):  2
+

@@ -1,0 +1,173 @@
+SPR no: 19K051433A
+MRN no: 5961203
+Site_name: SPRINGSURE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report59S12031 (59S120313W) GANDHI, WINSTON
+HISTOPATHOLOGY REPORT
+HEALESVILLE & DISTRICT HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right breast multifocal IDC. Right axillary sentinel node biopsy.
+Right axilla - sentinel node. Frozen section.
+Right mastectomy + sentinel node bx + axillary clearance.
+R breast multifocal cancer.
+1. 9oc 6cm FN 26mm IDC.
+2. 10oc 5cm FN 50mm IDC.
+1. Right mastectomy marking suture at 12 o&amp;apos;clock.
+2. Sentinel node biopsy R axilla (sent as frozen).
+3. R axillary clearance.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT AXILLARY SENTINEL NODE (FROZEN)&amp;quot;. Consists of a mass of fat, 30mm in greatest dimension with a fatty large thin LN, approximately 24mm in length and with focal blue dye.
+
+F/S: &amp;quot;Positive for metastatic carcinoma - at least 5mm in diameter&amp;quot; per phone to Dr. Eugene (surgical fellow) at 13:37pm on 20/06/67 by Dr. N. Privalsky.
+
+(1 frozen section; 2 remainder node). RS (M-2)
+
+B.
+Specimen labelled &amp;quot;RIGHT BREAST STITCH AT 12 O&amp;apos;CLOCK&amp;quot;.
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Mastectomy, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+20mm medial to lateral x 170mm superior to inferior x 60mm inferior to posterior.
+WEIGHT:  897g
+SKIN:  Yes - 200x80mm
+NIPPLE:  Yes - 10mm
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED: Non-standard: Superior anterior - blue; Inferior anterior - green; Posterior - black.
+DISSECTION:
+Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION: The skin is tethered at the 10 o&amp;apos;clock region. There are two stellate lesions, appear to be possibly contigous. The first lesion is located at 9 o&amp;apos;clock and measures 22mm medial to lateral x 25mm superior to inferior and 13mm anterior to posterior. It is 25mm from lateral margin, 25mm from inferior margin, 42mm from superior, 140mm from medial, 12mm from posterior, and 10mm from anterior margin. The lesion is 55mm from nipple. The second lesion which is located in the 10 o&amp;apos;clock region and appears contiguous to the first lesion and joined by fibrous strands, measures 15mm superior to inferior, 20mm medial to lateral, 12mm from anterior to posterior. It is 55mm from nipple, 40mm from lateral margin, 125mm from medial margin, 30mm from superior margin, 65mm from inferior margin, 12mm from posterior margin and 5mm from skin/anterior margin. No other lesions are identified.
+(1 lateral half of nipple; 2-4 full face section of the two lesions from anterior halves; 5-7 full face section of the two lesions from posterior halves; 8 and 9 first lesion, anterior half; 10-13 first lesion, posterior half [includes posterior margin]; 14-16 second lesion, anterior half, including skin; 17 and 18 second lesion, posterior half, including posterior margin; 19 upper outer quadrant; 20 lower outer quadrant; 21 upper inner quadrant; 22 lower inner quadrant). RS (M-22)
+C. &amp;quot;RIGHT AXILLARY CLEARANCE&amp;quot;. Consists of a piece of fat. It measures 120x100x40mm. Multiple lymph nodes are identified.
+(1 one node, bisected; 2 and 3 one node, bisected; 4 one node, bisected; 5 two nodes; 6 one node, bisected; 7 one node, bisected; 8 one node, bisected; 9 one node, trisected; 10 one node, trisected; 11 one node; 12 one node, bisected; 13 one node, bisected; 14 one node, bisected; 15 one possible lymph node 16 one possible node bisected). RS (M-16/MC 21/5/2070 cy)
+MICROSCOPIC: (Dr N Morsey)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA: Right breast
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Two
+
+TUMOUR 1 (9 O&amp;apos;CLOCK):
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 34mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive ductal carcinoma NOS
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules:    3, Nuclei:    2, Mitoses:    1; Total score: 6&amp;#160;&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;3&amp;#160;mitoses per 10 high power fields
+
+TUMOUR 2 (10 O&amp;apos;CLOCK):
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 25mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma with lobular &amp;amp; some ductal features (solid, alveolar and classical)
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules:    3, Nuclei:    2, Mitoses:    1; Total score: 6&amp;#160;&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;2&amp;#160;mitoses per 10 high power fields
+
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 65mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Present
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: Not present
+
+DERMAL LYMPHOVASCULAR INVASION: Not present
+&amp;#160;
+NIPPLE INVOLVEMENT: Not present
+&amp;#160;
+MUSCLE INVOLVEMENT: Not present
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: DCIS lies within the area of invasive carcinoma
+Nuclear grade: Intermediate
+Architecture / type: Solid, cribriform and solid papillary
+Necrosis: Focally present
+Microcalcification of DCIS: Focally present
+Extensive intraduct component: Not present
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Local excision appears complete with 8mm clearance to the deep margin and greater than 10mm to all other margins.
+&amp;#160;
+DCIS MARGINS:
+DCIS focally lies 3mm from the posterior margin but is greater than 10mm from all other margins.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B3
+
+Tumour 1 (IDC):
+ER:  POSITIVE   95%  3+
+PR:  POSITIVE   10%  2+
+HER2: 1+
+Ki67:    5%
+
+Tumour 2 (ILC):
+ER:  POSITIVE   95%   3+
+PR:  POSITIVE   20%   3+
+HER2: 1-2+, SISH to follow
+Ki67:    variable 5- up to focally 20%
+
+&amp;#160;
+Other tumour block suitable for further testing: B6
+&amp;#160;&amp;#160;&amp;#160;
+LYMPH NODES
+AXILLARY LYMPH NODES: Involved
+Nodes with macrometastases: 	11
+Nodes with micrometastases: 	1
+Nodes with isolated tumor cells: 	0
+Total number of nodes examined: 17
+&amp;#160;
+Largest nodal tumour deposit:  19mm
+Extranodal extension: &amp;#160;Focally  present up to 1.5mm beyond the lymph node capsule
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2 (m), pN3a
+
+OTHER COMMENTS: Histology shows two primary invasive carcinomas, one ductal and one with lobular morphology lying approximately 5mm apart with both lesions containing foci of intermediate grade ductal carcinoma in situ. The deposits within the lymph nodes are mixture of ductal and lobular morphology.
+
+DIAGNOSIS:
+A.  RIGHT AXILLARY SENTINEL NODE -
+-METASTATIC CARCINOMA IN 1 NODE.
+B.  RIGHT BREAST -
+- 2 FOCI OF INVASIVE CARCINOMA 34mm GRADE 2 INVASIVE DUCTAL CARCINOMA, 25mm GRADE 2 INVASIVE  CARCINOMA  WITH LOBULAR &amp;amp; SOME DUCTAL FEATURES, MARGINS CLEAR.
+C.  RIGHT AXILLARY CLEARANCE -
+-METASTATIC CARCINOMA IN 11 OF 16 NODES.
+22/6/2067 ank
+SUPPLEMENTARY REPORT:
+
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+Tumour 1 (IDC):
+Mean HER2 copy number per cell: 3.1
+Mean CEP17 copy number per cell: 2.2
+HER2/CEP17 Ratio: 1.39
+
+
+
+Tumour 2 (ILC):
+Mean HER2 copy number per cell: 2.64
+Mean CEP17 copy number per cell: 2.11
+HER2/CEP17 Ratio: 1.25
+
+HER2 status:          NEGATIVE
+
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122):
+
+Reported by: Dr N Kienitz
+
+Date: 28.6.70

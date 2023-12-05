@@ -1,0 +1,84 @@
+DateOfBirth
+199010070000
+
+
+SiteName
+MONASH HEALTH WOMEN'S SANDRINGHAM
+
+
+FirstName
+Chisari
+
+
+SPRID
+57Y714254E
+
+
+MRN
+5797142
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Mauter
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Interval debulk
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of adnexal tissue 40 x 30 x 23mm. A fimbrial end of a fallopian tube is identified within distorted tan tissue with serosal haemorrhage and adhesions. Possible ovarian tissue is seen on sectioning. Blocks: 1 - LS fimbrial end and possible isthmus; 2 to 4 - RS through ?ovarian tissue.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of adnexal tissue 43 x 40 x 20mm. No definite fimbrial end of tube or ovary is identified externally. On sectioning a 15mm cavity is identified with a 10mm wall. Possible fimbriae are identified within the cavity. RS 4 blocks.
+
+C.  Specimen labelled &amp;quot;Small bowel serosa&amp;quot;, consists of a piece of irregular tan tissue 7 x 5 x 3mm. AE 1 block.
+
+D.  Specimen labelled &amp;quot;Bowel adhesion&amp;quot;, consists of strips of pale fibrous tissue 15 x 5 x 2mm in aggregate. AE 1 block.
+
+E.  Specimen labelled &amp;quot;Omental nodule biopsy&amp;quot;, consists of a piece of omental type fat 55 x 28 x 15mm. There is vague nodular distortion which on sectioning shows a necrotic cyst containing inspissated cheese like debris. No solid areas are identified. RS 3 blocks. (TO:AP/vo 29/3/71)
+
+
+MICROSCOPIC (Reported by Dr O Schieber):
+A &amp;amp; B.  Sections show high grade serous carcinoma involving predominantly the right ovary, also involving the left ovary, paradnexal soft tissues, and fimbrial end of the right fallopian tube.
+No STIC is seen.
+
+B &amp;amp; C.  Sections show adhesions.  There is no evidence of malignancy.
+
+D.  Sections show predominantly fat necrosis and old haemorrhage.  In addition, there are several tiny deposits of high grade serous carcinoma.
+
+Chemotherapy Response Score (CRS)
+Score 2:  Partial tumour response
+
+
+DIAGNOSIS:
+High grade serous carcinoma of the right ovary, also involving the left ovary, fimbrial end of the right tube, paradnexal soft tissues, and omentum.
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2709-05-13 00:00:00
+
+
+LastName
+Salonek

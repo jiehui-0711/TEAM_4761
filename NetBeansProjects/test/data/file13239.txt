@@ -1,0 +1,80 @@
+SPR no: 21R939809V
+MRN no: 2169398
+Site_name: WEST GIPPSLAND HEALTHCARE GROUP
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+High anterior resection.  Sigmoid ca.  Distal donut.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Anterior resection&amp;#8221;, consists of a segment of large bowel, completely above the peritoneal reflection, measuring 140mm in length with a circumference of 55mm.   There is a small amount of attached pericolic fibroadipose tissue measuring 75mm in width.  There is a firm, centrally ulcerated tumour with raised edges towards one end measuring 19 x 10 x 2mm.  The tumour is 30mm from one surgical margin and 90mm from the other surgical margin.  The mucosa appears otherwise unremarkable.  The surgical margin closest to the tumour is inked blue and the other surgical margin is inked black.  The tumour appears confined to mucosa/submucosa, and extends to a depth of 5mm.
+Blocks:  1 - LS closest surgical margin; 2 - LS other surgical margin; 3 to 5 - LS complete tumour; 6 - LS bowel wall; 7 - apical region; 8 to 16 - lymph node as seen.
+
+B.  Specimen labelled &amp;#8220;Proximal donut&amp;#8221; consists of a sutured donut shaped piece of bowel  measuring 20mm in diameter to a length of 10mm.  The bowel is attached to a metal piece of surgical equipment.  The mucosa is unremarkable; no tumour is seen.  AE 2 blocks (sectioned transversely).
+
+C.  Specimen labelled &amp;#8220;Distal donut&amp;#8221; consists of a stapled donut bowel measuring 17mm in diameter to a length of 10mm.  The stapled margin is inked blue.  The mucosa is unremarkable; no tumour is seen.  AE 2 blocks (sectioned transversely).
+(JB/rt 1.8.66)
+
+
+MICROSCOPIC (Reported by Dr H Giacchi):
+A to C.  Synoptic Report for Large Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour:  Sigmoid colon
+Maximum tumour diameter:  19mm
+Distance of tumour to nearer cut end:  30mm
+Tumour perforation:  No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not applicable
+Histological measurement from tumour to non-peritonealised margin:  Not applicable
+
+Lymph nodes
+Number of lymph nodes present:	13
+Number of lymph nodes involved:	0
+
+pN0	No regional LN metastasis
+
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+- Specimen B (proximal donut) shows no significant abnormality.  There is no evidence of malignancy.
+- Specimen C (distal donut) shows no significant abnormality.  There is no evidence of malignancy.
+
+Residual tumour status
+R0	No residual tumour
+
+Response to neoadjuvent therapy
+Not applicable
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is:  A3
+
+Summary &amp;#8211; TNM 7th Edition
+pT2     pN0     pMX     R0
+DIAGNOSIS:
+A to C.  Sigmoid colon - Adenocarcinoma.

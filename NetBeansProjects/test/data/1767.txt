@@ -1,0 +1,56 @@
+
+Episode No:  94I425540X
+9434255.KBX
+
+Sulkowski, MATT 
+Lab No:  94I42554
+Moss Oak
+CANBERRA  NT  1630
+Specimen: Tissue
+D.O.B:  27/1/2011
+Sex:  M
+Collected: 29/05/2014 at 13:45
+Location:  Anatomical-LIGHTNING RIDGE MULTIPURPOSE HEALTH SERVICE
+PRO Freddy FREDRIC PETERSEN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+                        FURTHER SUPPLEMENTARY REPORTATTACHED
+HISTORY:  
+AMXT. Peritonectomy. 
+MACROSCOPIC:  
+"PERITONEAL DISEASE, SPLEEN, GALLBLADDER, RIGHT COLON, OMENTUM". 
+A gallbladder measuring 65x20x6mm. Serosal surface is dull. No obvious tumour deposits are seen. Mucosa surface shows cholesterolosis. No stones present.
+(1 TS cystic duct margin and neck; 2 TS body; 3 LS of fundus).
+Spleen measuring 100x80x40mm, with attached fatty tissue measuring 110x70x40mm. Serosal surface is dull, no obvious tumour deposits are seen. No intrasplenic lesion is seen. A piece of fatty tissue contains a pale, mucinous tumour. 
+(4 & 5 RS resections of spleen; 6 RS resections of tumourdeposit).
+Segment of colon with end to end anastomosis, measuring 270mm in length with maximum diameter of 30mm. Attached omental tissue measures 210x100x30mm. Serosal surface of the bowel is dull, no obvious tumour deposits are present. Mucosal surface is unremarkable. Mucinous material is noted on the serosal surface of the fatty tissue. 
+(7 LS of margins; 8-10 TS of the anastomosis; 11 RS resections of small bowel; 12-14 RS resections of largebowel with mucinous tumour deposits, end of fatty tissue; 15-17 mucinous deposits on mesocolon; 18 RS resections of omentum).
+Multiple fragments of peritoneum measuring in aggregate 220x220x60mm. Mucinous tumour deposits are noted on the peritoneum. 
+(19-25 RS resections of peritoneum). RS (M-25/CH/cy)
+MICROSCOPIC:  (Dr V Dasilua)
+Sections of the gallbladder show chronic cholecystitis and cholesterolosis. In addition, there are deposits of extracellular mucin on the serosal surface, with a mesothelial reaction, but no epithelium is identified within this mucin. The cystic duct lymph node shows no involvement. 
+Sections of spleen show deposits of extracellular mucin on the serosal surface. No epithelium is identified within this mucin. The splenic parenchymal red and white pulp is unremarkable. Sections of colon at the site of the anastomosis show scar tissue and deposits of extracellular mucin containing stripsand clumps of atypical mucinous epithelium, situated within the serosa. The atypical mucinous epithelium shows intermediate to high grade nuclear features. A focal desmoplastic reaction is seen to some of these epithelial deposits, consistent with at least focal invasion of the serosa at the site of anastomosis. Also, sections of the colon show extensive deposits of extracellular mucin containing atypical mucinous epithelium, involving the serosa and mesentery, including the surface of the serosa and mesocolon. Because of the presence of at least focal desmoplastic reaction consistent with invasion, these deposits are in keeping with moderately differentiated mucinous adenocarcinoma. No signet ring cell component is seen.
+Sections of the small intestine show a deposit of mucinous adenocarcinoma invading the serosa and involving the serosal surface. Possible focal lymphovascular invasion is seen, and immunohistochemical stains to clarify this are in progress, with a supplementary report to follow. 
+The representative section of omentum shows deposit of extracellular mucin on the  mesothelial surface, and two of these deposits contain glands ofatypical mucinous epithelium, consistent with involvement by mucinous adenocarcinoma. 
+Sections of peritoneum show multiple deposits of extracellular mucin and mucinous adenocarcinoma. 
+The single colonic lymph node identified shows no involvement. 
+DIAGNOSIS:  
+PERITONEAL DISEASE, SPLEEN, GALLBLADDER, RIGHT COLON, OMENTUM:
+- MULTIPLE DEPOSITS OF MODERATELY DIFFERENTIATED MUCINOUS ADENOCARCINOMA INVOLVING THE SEROSA AND SEROSAL SURFACE OF THE COLON, SMALL INTESTINE, OMENTUM AND PERITONEUM. 
+ - DEPOSITS OF EXTRACELLULAR MUCIN WITHOUT AN EPITHELIAL COMPONENT, ON THE SEROSAL SURFACE OF GALLBLADDER AND SPLEEN. 
+ - THE CYSTIC DUCT LYMPH NODE, AND A SINGLE COLONIC LYMPH NODE, SHOW NO INVOLVEMENT. 
+8/4/64 ht
+SUPPLEMENTARY REPORT:
+Immunohistochemical stains show no evidence of lymphovascular invasion. The remainder of the report remains unchanged.
+FURTHER SUPPLEMENTARY REPORT (19/8/64):
+Supplementary report: 
+Immunostains for MSI proteins (Lubrizol Corporation CHARTERS TOWERS HOSPITAL Lab; block: 10)
+MLH1: Positive (normal) staining of tumourcell nuclei. 
+PMS2: Positive (normal) staining of tumour cell nuclei.
+MSH2: Positive (normal) staining of tumour cell nuclei.
+MSH6: Positive (normal) staining of tumour cell nuclei.
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of acarcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+19/8/64 cy
+

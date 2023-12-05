@@ -1,0 +1,85 @@
+SPR no: 91S789328D
+MRN no: 9177893
+Site_name: BOURKE MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Subtotal gastrectomy for pyloric stomach tumour.  No neoadjuvant chemotherapy.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Partial stomach&amp;quot;, consists of a subtotal gastrectomy measuring 110mm along the greater curvature side and 110mm on the lesser curvature side.  The proximal margin is 50mm across and the distal margin 35mm.  There is attached greater omentum, 400 x 240 x 20mm, and lesser omentum up to 40mm in width.  The proximal margin is inked blue and distal black.
+
+There is an exophytic nodular tumour, 25 x 25 x 5mm, located in the pyloric region on the anterior wall of the stomach, adjacent to the lesser curvature.  The mucosa surrounding this tumour nodule appears slightly raised and granular, spanning an area 42 x 34mm.  There is another pyloric area of irregular flattened and granular mucosa which measures approximately 15 x 15mm (distal aspect of this area inked green).  On sectioning, this area shows a vague white area in the submucosa.  The maximum dimension of all abnormal mucosal areas is approximately 90 x 50mm.  The areas of abnormal appearing mucosa are 25mm from the distal margin and 40mm from the proximal margin.  No other mucosal lesions are identified.  There is a 15mm haemorrhagic serosal area in the omentum.  Multiple lymph nodes are identified.
+
+Blocks:  1 to 5 - LS distal margin, 6 - TS immediately distal to lesion, 7 to 22 - exophytic nodular lesion and surrounding abnormal mucosa serially embedded from distal to proximal as paired sections, 23 - TS immediately proximal to lesion, bisected, 24 - LS proximal margin, 25 to 27 - nodular tumour, 28 - RS normal mucosa, 29 - fibroadipose tissue attached to a suture adjacent to lesser curvature, 30 -  one lymph node adjacent to a stapled line, 31 to 40 - lesser curvature lymph nodes (31 to 35 - multiple lymph nodes, 36 to 40 - one lymph node each block), 41 to 45 - haemorrhagic area in omentum, 46 to 49 - multiple omental lymph nodes (46 and 47 - one possible lymph node, 48 - one lymph node; 49 - multiple lymph nodes), 50 to 59 - greater curvature lymph nodes (50 to 57 - one lymph node each block; 57 and 59 - multiple lymph nodes.  Please see block diagram.   (TO: LN/eh 3.11.2067)
+Re-select:  Blocks 60 to 64 - remainder of area between the nodular tumour and abnormal pyloric mucosa (63 and 64 - paired LS from proximal to distal).   (LN 3.12.2067).
+
+
+MICROSCOPIC (Reported by Dr Y Ofori and registrar Dr Y Jaramillo):
+The sections from the pylorus and antrum show extensive changes of intestinal metaplasia and high grade dysplasia.  High grade dysplasia involves all of the macroscopically abnormal mucosa (estimated to span an area 90 x 50mm).  Arising within this region of high grade dysplasia are foci of moderate to poorly differentiated adenocarcinoma.  The largest focus of adenocarcinoma invades into the submucosa (pT1b), while in other foci adenocarcinoma invades into the lamina propria and muscularis mucosae (pT1a).  The largest focus of adenocarcinoma corresponds to the 15 x 15mm area of abnormal pylorus mucosa noted macroscopically.
+The features are as follows:
+
+SYNOPTIC REPORT FOR GASTRIC CARCINOMA
+Tumour site (location):  Pylorus and antrum, lesser and greater curvature, anterior wall extending to posterior wall.
+
+WHO histological tumour type:  Tubular adenocarcinoma
+
+Lauren histological tumour type:  Intestinal
+
+Histological grade:  Moderate to poorly differentiated
+
+Growth pattern:  Infiltrating
+
+Maximal dimension of tumour:  High grade dysplasia with foci of adenocarcinoma spans approximately 90mm.  The largest focus of invasive adenocarcinoma is approximately 15mm.
+
+Local invasion (pT):
+T1a and T1b	Tumour invades lamina propria, muscularis mucosae and submucosa.
+
+Serosal surface involvement:  Absent
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary):  Present (block 26)
+Large vessels (vein and artery):  Not identified.
+
+Perineural growth:  Present within tumour (block 26)
+
+Degree of regression after preoperative chemoradiation:  Not applicable.
+
+Her2 status:  0 (negative).
+
+Distance of tumour from margins:
+From proximal:  At least 25mm
+From distal:  At least 20mm.
+From radial/circumferential (proximal/cardia tumours):  Not applicable.
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  Twenty-seven (27)
+Number of lymph nodes involved:  Two (2)
+N1	Metastasis in 1-2 regional lymph nodes
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis:  Present.  Moderate chronic gastritis with mild active inflammation is seen.
+
+Helicobacter:  Not identified.
+
+Intestinal metaplasia:  Present.  Extensive intestinal metaplasia is seen involving the pylorus, antrum and gastric body.
+
+Dysplasia:  Present
+Does it involve a margin?  No
+
+Gastric polyps:  Absent
+
+Barrett&amp;#8217;s mucosa:  Not applicable.
+
+Other comments:  The duodenum shows no involvement by dysplasia or malignancy.  The greater omentum contains a focus of fibroblastic scarring and foreign body-type granulomatous inflammation, suggestive of changes from a previous procedure.
+
+
+DIAGNOSIS:
+Partial stomach:
+-  Moderate to poorly differentiated adenocarcinoma, pT1b, arising in extensive high grade dysplasia and intestinal metaplasia.
+-  Clear of margins.
+-  Focal lymphovascular and perineural invasion present.
+-  Two of twenty-seven lymph nodes positive for metastatic adenocarcinoma (2/27).

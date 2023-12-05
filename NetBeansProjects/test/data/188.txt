@@ -1,0 +1,41 @@
+
+ 778255.WIT
+DRAWBAUGH, DEVON
+77W25583
+
+Last edited : 13/9/2063		Page: 2
+
+CLINICAL:
+Radical prostatectomy and bilateral pelvic lymph node dissection - PSA 5.7, TRUS Bx G4 + 3 = 7.
+MACROSCOPIC:
+A.  Specimen labelled "Prostate" consists of aprostate 50 x 35 x 34mm, weighing 37.0g.  The right vas deferens measures 17mm and the left 20mm in length.  The right seminal vesicles measures 23 x 15 x 5mm and the left is 15 x 10 x 5mm.  The left half is inked blue, the right is inkedblack, and the anterior is inked red.  The prostate is TS into three slices.  Slice one (apex) and slice three (base of further parasagitally section).  AE.
+Blocks:  1 to 8 - slice one (apex) from right to left; 9 - slice two; 10 to 19 - slice three (base) from right to left; 20 - right vas; 21 - left vas; 22 - right seminal vesicle; 23 - left seminal vesicle.
+B.  Specimen labelled "Right pelvic lymph node" consists of a piece of fibrofatty tissue measuring 40 x 15 x 8mm.  There are lymph nodes identified from 10 to 14mm in maximum dimension.
+Blocks:  1 - largest lymph node bisected; 2 - lymph node.
+C.  Specimen labelled "Left pelvic lymph node" consists of a piece of fibrofatty tissue measuring 60 x 32 x 10mm.  There are lymph nodes identified from 5 to 35mm in maximum dimension.  AE.
+Blocks:  1 - lymph node; 2 - one lymph node bisected; 3 to 5 - one lymph node serially sectioned.  (TO: HY; ZC/rt 1.6.63)
+MICROSCOPIC (Reported by Dr U Zielesch):
+A to C. 
+RADICAL PROSTATE PROFORMA
+Histological type:  Adenocaricnoma NOS
+Tumour location: Bilateral, multifocal
+Dominant nodule: Right posterior apex to base
+	Non-dominant (>10mm): Left posterior apex to base
+	Smaller nodules: Present
+Volume/Size (dominant nodule):  2.1ml (30mm x 25mm x 7mm x 0.0004) 
+Gleason score:  3+4=7, tertiary pattern 5
+Extraprostatic extension:  Not seen
+Surgical margins: Clear
+Perineural invasion: Present, within prostate
+Seminal vesicles: Not involved
+Lymph nodes: 2 right (specimen B) and 3 left (specimen C) pelvic lymph nodes show no evidence of malignancy.
+Lymphovascular invasion: Not seen
+DIAGNOSIS:
+A to C. Radical prostatectomy and bilateral pelvic lymph node dissection:
+- Adenocarcinoma, Gleason score 3+4=7, tertiary pattern 5
+- 5 pelvic lymph nodes with no evidence of malignancy
+Stage (AJCC/UICC TNM system, 7th edition)
+pT2c Bilateral disease 
+pN0 No positive regional nodes. 
+MX Cannot be assessed histologically
+

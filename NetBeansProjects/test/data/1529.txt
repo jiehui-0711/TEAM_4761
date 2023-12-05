@@ -1,0 +1,54 @@
+
+Episode No:  00B272157S
+000272.DNU
+
+Mustafaa, JAMIKA 
+Lab No:  00B27215
+Longdale
+MOUNT MORGAN  Australian Capital Territory  7012
+Specimen: Tissue
+D.O.B:  29/4/1996
+Sex:  F
+Collected: Unknown at :
+Location:  South Eastern Area-ROYAL HOBART HOSPITAL
+DR MOSHE Jeremy Toline
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Lung cancer.  Hep C.  
+MACROSCOPIC:
+A.  Specimen labelled "Right upper lung lobe" consists of a lobe of lung measuring 180 x 125 x 35mm.  The hilar margin is inked black.  There is a stapled margin running for approximately 125mm.  This is removed and the underlying tissue is inked blue.  In the peripheral lung there is a cream firm relatively well circumscribed tumour measuring 21 x 18 x 15mm.  The tumour is 4mm from the pleural surface and 28mm fromthe stapled line of resection margin and 35mm from the hilar resection margin.  No other suspicious areas are identified.  
+Blocks:  1 - hilar lymph nodes; 2- vascular resection margins; 3- bronchial resection margin; 4 - full face of tumour to pleural surface; 5 - tumour to resection margin; 6 - further representative tumour; 7 & 8 - uninvolved lung; 9 - reserve block.  
+B.  Specimen labelled "Paratracheal lymph node" consists of a piece of tan and fatty tissue 28mm in maximum dimension.  Two lymph nodes are identified 6 and 17mm.  
+Blocks:  1- one lymph node; 2- one lymph node bisected.  AE.  (SG/mm 23.8.63) 
+MICROSCOPIC (reported by Dr A Conkin & Dr A Lampman):
+A & B.  Sections show a 21mm primary lung adenocarcinoma of predominantly acinar type.  A separate 4.5mm focus of tumour with a pure lepidic pattern is identified 60mm from the invasive carcinoma and 20mm from the hilar resection margin.  In this focus no invasion is seen and is best described as an area of atypical adenomatous hyperplasia.  The invasive tumour has the following features: 
+Specimen type:  Lobectomy
+	
+Topography:  Right upper lobe
+Tumour location:  Peripheral
+Tumour size:  21mm (T1b)
+		
+Tumour type:  Adenocarcinoma mixed subtype
+- 85% Acinar pattern
+- 10% Lepidic pattern
+- 5% Papillary pattern
+	 
+Histological grade:  Moderately differentiated.
+Vessel invasion:  Not identified
+Perineural invasion:  Not identified 	 
+Pleural involvement:  Not present
+Bronchial resection margin:  
+- Minimum distance between tumour and bronchial resection margin:  35mm
+- Minimum distance between tumour and stapled resection margin:  22mm
+Vascular resection margin:  35mm
+Chest wall:  Not involved		 
+In situ carcinoma:  Present at periphery of tumour.
+Non-neoplastic lung:  No significant abnormality
+Lymph nodes:
+- Lymph nodes from main resection specimen:  4 hilar nodes
+- Lymph nodes from main resection involved with metastatic carcinoma:  4
+- Lymph nodes from separate received specimens:  2 paratracheal nodes
+- Lymph nodes from separate specimen involved with metastatic carcinoma:  2 (N2)
+Metastatic disease:  Unable to assess (MX)
+Pathological staging (AJCC 7th Ed.):  T1b, N2, MX
+

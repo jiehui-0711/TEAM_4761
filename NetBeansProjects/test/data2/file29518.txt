@@ -1,0 +1,21 @@
+SPR no: 72Q6316804
+MRN no: 7266316
+Site_name: HEATHCOTE HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+(L) oral lesion.  B/G of AML, febrile neutropenia.  ?mucormycosis.  Excisional biopsy of (L) maxillary ulcer/lesion.  Clinically friable necrotic tissue superficial to bone.  ?Acute necrotising ulcerative gingivitis/mucositis.  To rule out mucomycosis.
+MACROSCOPIC:
+A.  Specimen is unlabelled as to site or nature and consists of two pieces of tan tissue, 2 x 1 x 1mm and 8 x 5 x 2mm.  AE 1 block.
+
+B.  Specimen is unlabelled as to site or nature and consists of two pieces of tan tissue, 4 x 2 x 1mm and 6 x 2 x 1mm.  AE 1 block.   (TO:LM/rs 30/8/66)
+
+
+MICROSCOPIC (Reported by Dr T Viessman):
+A &amp;amp; B.  Both specimens show similar histological features.  The sections show fragments of oral squamous epithelium and subepithelial stroma.  The stroma contains granulation tissue with a marked inflammatory infiltrate mostly composed of lymphocytes and plasma cells.  The subepithelial stroma also contains an area of acute suppurative inflammation and necrosis, associated with numerous bacteria.  No granulomas are identified.  No fungal elements are identified with PASF and methenamine silver staining.  No acid fast bacilli are identified with FITE and Truant&amp;apos;s stains.  There is no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+A &amp;amp; B.  Left maxillary ulcer/lesion, biopsy:
+-  Markedly inflamed granulation tissue with necrotic debris and bacteria.
+-  No fungal elements identified.

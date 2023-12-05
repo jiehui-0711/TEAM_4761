@@ -1,0 +1,32 @@
+SPR no: 29B649696W
+MRN no: 2906496
+Site_name: BASS COAST REGIONAL HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian cyst on B/G metastatic CRC. General Clinical History: Fit and well usually.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, bilateral fallopian tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries, weighing 104g in total. The uterus measures 50 x 75 x 35mm and has a smooth shiny serosal surface. The ectocervix measure 25 x 23mm and has an unremarkable surface. On section, the endometrium is less than 1mm in maximum thickness and the myometrium is up to 15mm in maximum thickness. The myometrium is unremarkable. The right fallopian tube measures 25mm in length with a diameter of 5mm. The fimbrial end appears adherent to the ovary and is difficult to identify. The right ovary measures 30 x 15 x 13mm. The right ovary has a pale firm nodule on the surface measuring 5 x 4mm. The right ovary contains a unilocular cyst. The left fallopian tube is adherent to the left ovary measuring approximately 25mm in length with a diameter up to 6mm, the fimbrial end is difficult to identify. The left ovary is enlarged ( 45 x 38 x 38mm).and has an intact smooth shiny serosal surface.  One end is cystic and the opposite side is firm and pearly white. The solid area is sampled for biobanking. The surface shows a thin walled unilocular cyst with solid areas. Blocks: 1 to 3 - full LS of anterior body and cervix; 4 to 6 - full LS of posterior body and cervix; 7- possible fimbrial end of right fallopian tube; 8 - right fallopian tube; 9 to 13 - left ovary; 14 and 15 - left adnexal tissue with possible fimbrial end, left fallopian tube; 16 - left fallopian tube; 17 to 31 - left ovary (bilateral fallopian tube and ovary AE) (block 31 - reserved for biobanking.
+(TO:JT/vo 29/1/73)
+
+
+MICROSCOPIC (Reported by Dr G Gallegoz):
+
+The sections show multiple nodules of moderately differentiated  adenocarcinoma involving much of the left ovary (slides 18-29, 31), with morphology consistent with metastatic colorectal carcinoma (immunohistochemistry pending). The tumour reaches the ovarian surface in some areas (slide 22) and also involves the muscle layer and serosa of the left fallopian tube (slide 16). Occasional tumour cells are found in thin walled lymphovascular channels (slides 23, 29).
+The right ovary and fallopian tube are not involved by adenocarcinoma.  There is no tubal carcinoma in situ in the right and left fallopian tubes. Scattered small suture granulomas are seen in the serosa of the right fallopian tube (slide 8).
+
+The sections of the ovaries also show corpora albicantes, mesothelial inclusion cysts, scant primordial follicles in a background of stromal hyperplasia. Patchy mild chronic inflammation is seen. Organising thrombi are seen in occasional blood vessels adjacent to the left ovary (slides 17, 23). Small areas of endometriosis are seen in the left ovary and adjacent soft tissues (e.g., slides 16, 17, 20)
+
+The uterine cervix shows mild chronic inflammation and Nabothian cysts.
+There are small (1-2mm) intramural leiomyomata in the anterior and posterior uterus.
+The endometrium is thin and inactive.
+Scattered small suture granulomas are noted in the posterior uterine serosa (slide 5).
+A small (0.4 mm) area of metastatic  adenocarcinoma is seen in the soft tissues adjacent to the posterior cervix (slide 6).
+
+DIAGNOSIS:
+Uterus, ovaries and fallopian tubes: Metastatic adenocarcinoma involving left ovary and fallopian tube, consistent with metastatic colorectal adenocarcinoma (immunohistochemistry pending).
+SUPPLEMENTARY REPORT (8.12.68)
+Immunoperoxidase stains show that the tumour cells in the left ovary diffusely and strongly express keratin 20 and CDX2 antigens, but not PAX 8 and keratin 7 antigens, with internal positive controls in the slides for PAX 8 and keratin 7 antigens.
+This immunophenotype is consistent with metastatic colorectal adenocarcinoma.

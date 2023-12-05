@@ -1,0 +1,64 @@
+Episode No:  38T246735I
+3872467.JPI
+
+SHOOK, ELDORA 
+Lab No:  38T24673
+Strenger
+LISMORE  New South Wales  2559
+Specimen: Tissue
+D.O.B:  24/2/1990
+Sex:  F
+Collected: Unknown at :
+Location:  Envoi
+DR Harris ISMAEL CLYATT
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+(R) lower lobectomy.  (R) flank skin lesion.  
+MACROSCOPIC:
+A.  Specimen labelled "Hilar lymph node" consists of a dark brown lymph node, 8 x 6 x 3mm.  AE 1 block.
+B.  Specimen labelled "Paratracheal lymph node" consists of two pieces of adipose tissue, 5mm and 6mm in greatest dimension possibly containing a lymph node.  AE 1 block.
+C.  Specimen labelled "Skin lesion" consists of an ellipse of skin and underlying subcutis, 32 x 12 x 20mm.  A stitch is present at one end assigned as 12 o'clock, 3 o'clock margin inked green and 9 o'clock inked black.  There is a grey/brownish nodule on the skin surface, 12 x 10 x 3mm.  
+Blocks:  1 - one TS lesion; 2 - one LS 12 o'clock; 3 - one LS 6 o'clock.
+D.  Specimen labelled "Right lower lobe" consists of a lobectomy measuring 115 x 145 x 100mm and weighing 279g after formalin infusion.  The pleural surface shows focal puckering over the posterolateral aspect.  17mm from bronchial margin there is a solid firm off white tumour measuring 25 x 20 x 17mm.  The tumour appears very close to a segmental bronchus but a definite intrabronchial growth is not identified macroscopically.  Thebronchial margin appears slightly calcified.  Sectioning through the remaining lung shows no unusual features.  
+Blocks:  1- bronchial margin ; 2- vascular margin ; 3 & 4 - paired blocks one full face of tumour with adjacent bronchus and lung; 5 & 6 - tumour; 7 - reserved block for tissue banking; 8 - non neoplastic lung; 9 - ? firm area away from tumour.  
+(MY/mm 15.10.62)  
+MICROSCOPIC (reported by Dr J Progacz):
+A. Sections show an anthracotic lymphnode with two deposits of metastatic adenocarcinoma, up to 2mm in size. There is no extranodal spread.
+B. Sections show an anthracotic lymph node with no evidence of malignancy.
+C. Sections show skin with a benignseborrhoeic keratosis, clear of margins. There is no evidence of malignancy.
+
+
+D.  SYNOPTIC REPORT FOR INVASIVE LUNG CARCINOMA
+	Specimen type:  Lobectomy	
+
+	
+	Topography:  Medial basal segment, right lower lobe
+	Tumour location: 	Peripheral 
+	Tumour size:  25mm
+
+		
+	Tumour type (IASLC/ATS/ERS classification 2011) (1):  Adenocarcinoma, mixed subtype (60% acinar, 20 % micropapillary, 10% lepidic, 10% solid)
+
+	
+	Histological grade:  Poorly differentiated
+	Vessel invasion:  Lymphovascular invasion present  (occasional foci, D3, D7)
+	Perineural invasion:  Not seen
+	Pleural involvement:  Tumour invades beyond the elastic layer on elastic stain, pleural surface clear (PL1)
+	Resection margin:   17mm (bronchial)
+Minimum distance between tumour and resection margin:  17mm (bronchial)
+	Other pathological features: There are 4 foci of atypical adenomatous hyperplasia, up to 4mm in size, clear of margins (D4 and 9).  The uninvolved lung is unremarkable.
+
+12.  Pathological staging (AJCC 7th Ed.): 
+pT2	Invades visceral pleura (PL1)
+pN1	Metastasis in ipsilateral hilar lymph node
+pMX	Cannot be assessed histologically
+DIAGNOSIS:
+A. Hilar lymph node:  metastatic carcinoma in 1 out of 1 lymph node, no extranodal spread.
+B. Paratracheal lymph node: no evidence of malignancy in 1 lymph node.
+C. Skin right flank: seborrhoeic keratosis
+D. Right lower lobe lung:
+- 25mm poorly differentiated adenocarcinoma, mixed subtype, margins clear
+- Tumour invades visceral pleura (PL1)
+- Lymphovascular invasion present
+(1) Travis et al. International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society International Multidisciplinary Classification of Lung Adenocarcinoma. Journal of Thoracic Oncology 2011, 6(2), p.244. 
+

@@ -1,0 +1,75 @@
+SPR no: 82T531581N
+MRN no: 82753158
+Site_name: GRAYLANDS SELBY-LEMNOS & SPECIAL CARE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple&amp;apos;s procedure.  Obstructive jaundice, prostate Ca, T2DM, HT, urethral stenosis.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Whipple&amp;apos;s plus omentum&amp;quot;, consists of a Whipple&amp;apos;s specimen with detached omentum.  The segment of small bowel plus stomach measures 300mm in length consisting of  230mm of small bowel and 70mm of stomach.  The serosal surface of both segments appears  unremarkable.  The mucosal surface of the small bowel shows a small nodule adjacent to ampulla measuring 9 x 5 x 3mm.  The ampulla appears dilated and expanded by a tumour over an area measuring 30 x 15mm.  On sectioning, corresponding to this area is a tumour with the ampulla, with cut surface measuring 15 x 14mm.  The rest of the mucosa is unremarkable.  The stomach mucosa is unremarkable.  The pancreas measures 55mm x 45 x 20mm.  Orientation sutures are present.  Portal vein margin inked blue, SMA inked red, uncinate process inked green, pancreatic resection margin is inked green, anterior and posterior surfaces are inked black, with nick anterior.  The pancreas is been sliced from superior to inferior into ten slices.  The pancreatic parenchyma appears unremarkable.  The gallbladder measures 100mm in length with an open circumference of 80mm and a wall thickness of 2mm.  The outer surface appears glistening and shiny.  The inner surface is brown, green and granular.  No gallstones are seen.  The omentum measures 160 x 130 x 70mm.  The cut surface is unremarkable.  No focal lesions are seen.
+Blocks: 1 - proximal margin (stomach end); 2 - distal end (small bowel end); 3 and 4 - pancreatic resection margin shave (embedded on cut surface); 5 - RS of small bowel and stomach; 6 - shave of CHD margin  (embedded on cut surface); 7 - next shave after CHD resection margin; 8 to 10 - gallbladder (8 - cystic duct, 9 - RS of body; 10 - RS of fundus); 11 to 13 - RS of omentum; 14 to 23 - all of the pancratic tissue from superior to inferior (18 - block with nodule, 20 to 23 - slices with ampulla).
+
+B.  Specimen labelled &amp;quot;Common hepatic node&amp;quot;, consists of three pieces of pale tan thick tissue measuring 30mm x 15mm x 7mm.  One lymph node is identified.
+Blocks: 1 - one lymph node; 2 - remaining tissue. AE. (LM/vo 25.3.67)
+
+
+MICROSCOPIC (Reported by Dr V Digennaro):
+A &amp;amp; B.  Sections show moderately differentiated adenocarcinoma of the ampulla of Vater.  Tumour is confined to the duodenal wall with no extension into pancreatic tissue.  Three (3) lymph nodes identified within specimen A show metastatic adenocarcinoma, with the largest deposit measuring approximately 14mm across.  The features as follows:
+
+Histological tumour type
+Adenocarcinoma.
+
+Histological grade
+Grade 2:  Moderately differentiated (50% to 95% of tumour composed of glands).
+
+Microscopic tumour sites
+Ampulla of Vater.
+
+Extent of tumour invasion
+Ampulla of Vater.
+Sphincter of Oddi.
+Duodenal wall.
+
+Maximum tumour diameter
+15mm.
+
+Lymphovascular invasion
+Present, adjacent to involved lymph node
+
+Perineural invasion
+Not identified.
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified.
+
+Pre-invasive lesion
+Present
+
+Margins:
+Pancreatic neck:  Well clear of invasive tumour, PanIN1A at margin.
+Common hepatic duct:  Well clear.
+Portal vein (superior mesenteric vein):  Well clear.
+Superior mesenteric artery:  Well clear of invasive tumour, 5mm clear of involved lymph node.
+Periuncinate soft tissue:  Well clear of invasive tumour, 2mm clear of involved lymph node.
+
+Surfaces:
+Anterior:  Well clear.
+Posterior:  Well clear of invasive tumour, 2mm clear of involved lymph node.
+
+Lymph nodes:
+Number found: 17 (16 specimen in A, 1 specimen in B).
+Number involved:  3 (specimen A).
+
+Other pathologies:
+Chronic cholecystitis.
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+AMPULLA OF VATER
+T2 Tumour invades duodenal wall.
+
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis.
+
+Distant metastasis category (pM)
+MX Not assessable by histology.

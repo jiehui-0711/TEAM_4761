@@ -1,0 +1,183 @@
+DateOfBirth
+199607030000
+
+
+SiteName
+ROYAL HOSPITAL FOR WOMEN
+
+
+FirstName
+Kosinar
+
+
+SPRID
+11M1723890
+
+
+MRN
+114172
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+11M17238 (11M1723890) Mcdavis, Felipe
+
+HISTOPATHOLOGY REPORT
+COLEDALE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast ca 3 o&amp;apos;clock (triple negative).
+L sentinel node localisation for frozen section.
+Left breast wide local excision sutures long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL LYMPH NODE&amp;quot;. Consists of three blue nodes. 1 fatty pink, 1 small node.
+
+F/S : &amp;quot;A1, A2 negative&amp;quot;. Reported to Dr. Lucien by Dr. E. Langshaw on 28.3.20 at 2:46 pm.
+
+LN 1 blue 8x6mm.
+LN 2 blue 4mm
+LN 3 blue 8x4mm
+LN 4 pink fatty 12x10mm.
+LN 5 small firm 4mm.
+
+FS 1 = 1 x TS LN 1, 2, 3.
+FS 2 = 1 x TS LN 5.
+
+( 3 remainder LN 2; 4 remainder LN 3; 5 LN 4 not frozen; 6 remainder LN 5;
+7 Remainder LN 1). Representative sections. (M-7)
+
+B. Specimen labelled &amp;quot;LEFT BFREAST WIDE LOCAL EXCISION&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  50mm
+Superior to inferior:  50mm
+Anterior to posterior:  22mm
+WEIGHT:  32g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:
+Non-standard:  Medial red, Lateral green, Anterior blue, Posterior black
+DISSECTION: Cut from superior to inferior
+Number of slices: 11
+FINDINGS / LESION:  There is a well demarcated tumour with a tan cut surface located in slices 6-10. It measures 20mm superior to inferior x 22mm medial to lateral x 15mm anterior to posterior. It is 21mm from superior margin, 10mm from inferior margin, &amp;lt;1mm from anterior, 4mm from posterior, 10mm from medial and 7mm from lateral margin. Rest of the breast tissue is predominantly fibrous. Representative sections are taken.
+
+(1&amp;amp;2 LS through superior margin slice 1; 3&amp;amp;4 slice 2; 5 mid section slice 5; 6&amp;amp;7 slice 6; 8&amp;amp;9 slice 8; 10 tumour slice 9; 11&amp;amp;12 slice 10; 13&amp;amp;14 LS through inferior margin slice 11). Representative sections. (M-14/MC 6/5/2071 ank)
+
+MICROSCOPIC:  (Dr. E Bogosh)
+
+Specimen A:
+- No evidence of malignancy is seen in five lymph nodes identified. Immunohistochemistry stain for cytokeratin CAM5.2 is negative.
+
+Specimen B:
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160;25mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Infiltrating ductal carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 3
+
+SCORES Tubules:  3  , Nuclei:  3  , Mitoses: 3   ; Total score: 9&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;37&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 25mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+PERINEURAL INVASION: Not seen
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): 10%
+&amp;#160;
+SKIN INVOLVEMENT: Not seen
+
+DERMAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+NIPPLE INVOLVEMENT: Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT: Not seen
+&amp;#160;
+
+
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent: &amp;lt;20% within tumour
+Nuclear grade: High-grade
+Architecture / type: Solid
+Necrosis: Present
+Microcalcification of DCIS:  Not seen
+Extensive intraduct component: Not seen
+
+LOBULAR CARCINOMA IN SITU (LCIS):  Not seen &amp;#160;
+
+EXCISION MARGINS
+
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma is 1mm from medial margin (B8), 5mm from lateral margin, 2mm from anterior margin (B11), 6mm from posterior margin, 20mm from superior margin and 8mm from inferior margin.
+&amp;#160;
+DCIS MARGINS: Same as invasive carcinoma
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, Block B6
+&amp;#160;
+ER: &amp;#160;		negative
+PgR: &amp;#160;		negative
+HER2: &amp;#160;	negative (score 1+)
+Ki67:		60%
+&amp;#160;
+Other tumour block suitable for further testing: B10
+
+Comment:  The tumour shows basal phenotype with positive staining for cytokeratin 5/6
+&amp;#160;&amp;#160;&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN0
+
+DIAGNOSIS:
+A. LEFT SENTINEL LYMPH NODE
+- NO EVIDENCE OF MALIGNANCY IN FIVE LYMPH NODES.
+
+B. LEFT BFREAST WIDE LOCAL EXCISION
+- INFILTRATING DUCT CARCINOMA, GRADE 3, SIZE 25mm.
+
+6/5/2070 cy
+
+
+
+
+
+SpecimenReceivedDate
+2020-02-28 00:00:00
+
+
+LastName
+Casstevens

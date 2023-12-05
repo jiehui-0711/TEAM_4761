@@ -1,0 +1,74 @@
+
+Episode No:  23L216117Y
+2342161.FUY
+
+Souter, REY 
+Lab No:  23L21611
+Rivermeads
+TENTERFIELD  Victoria  3732
+Specimen: Tissue
+D.O.B:  23/10/2000
+Sex:  M
+Collected: Unknown at :
+Location:  INTENSIVE CARE UNIT-FREMANTLE HOSPITAL AND HEALTH SERVICE
+DR WENDELL OSCAR LONG
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Ultra low resection rectal Ca.  T3N1 rectal ca, short course rtx.  Ultra low anterior resection.
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection", consists of a segment of large bowel comprising of distal part of sigmoid colon and rectum measuring 27mm in length and 40mm in diameter.  The attached mesentery is up to 40mm in width.  There is an ulcerated exophytic tumour along the posterior wall of rectum measuring 50 x 40mm.  The tumour is 30mm from the distal surgical margin and is astride the anterior peritoneal reflection (12mm below and 38mm above the peritoneal reflection).  The rest of bowel mucosa shows normal mucosa folds and there are two polyps identified.  The proximal surgical margin is inked greenand the distal surgical margin is inked red with the right blue and left black.  On the cut surfaces, the tumour appears to invade through the full thickness of muscle wall and extends into superficial adipose tissue.  The tumour is at least 20mm from the deep circumferential margin.
+Blocks: 1 - proximal surgical margin; 2 - distal surgical margin; 3 - polyps; 4 - tumour; 5 to 24 - R tumour (6 and 7 paired blocks, 8 and 9 paired blocks, 10 and 11 paired blocks, 12 and 13 paired blocks, 14 and 15 paired blocks, 16 and 17 paired blocks, 18 to 20 paired blocks, block 20 is closest margin posteriorly, 21 and 22 paired blocks, 23 and 24 paired blocks); 25 to 30 - ? lymph nodes (25 to 28 lymph nodes above anterior peritoneal reflection, 29 to 30 lymph nodes below anterior peritoneal reflection); 31 to 33 - extra lymph nodes above anterior peritoneal reflection.  
+B.  Specimen labelled "Distal sigmoid stoma", consists of a donut of bowel measuring 10mm in length x 15 x 10mm maximum diameter.  The bowel mucosa appears oedematous.  There is a stapled margin along one end.  Representative in 1 block.  
+(PY/vo 19.9.63)
+MICROSCOPIC (Reported by Dr H Hostin):
+A.  Macroscopic Description
+
+Site of tumour:  Rectum
+Maximum tumour diameter:  50mm
+Distance of tumour to nearer cut end:  30mm (distal)
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	  Astride
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation bypredominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histologicalmeasurement from tumour to non-peritonealised margin:  20mm
+Lymph nodes
+Number of lymph nodes present:  17
+Number of lymph nodes involved:  0
+pN0	No regionalLN metastasis
+Lymphovascular invasion
+Present (Mural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Two small hyperplastic polyps
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Grade3 (poor response) - Minimal or no tumour kill; extensive residual cancer
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1,PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The tissue block best for further study is:  A17
+Summary - TNM 7th Edition
+(y)pT3pN0     pMX     R0	
+B.  Sections show normal appearing colonic mucosa with no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Anterior resection - Adenocarcinoma (T3, N0, MX).
+B.  Distal sigmoid stoma - No significant abnormality.
+

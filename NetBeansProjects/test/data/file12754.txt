@@ -1,0 +1,154 @@
+SPR no: 77Z830611O
+MRN no: 779830
+Site_name: WHYALLA HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: GIST PANEL MUTATION ANALYSIS (14.9.2066)
+
+CLINICAL:
+Extended left hemihepatectomy + (.....) and hilar lymph node dissection.  Capsule of tumour tear on excision.  Cholecystectomy.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Extended left hemihepatectomy&amp;#8220;, consists of a partial resection of liver 180 x 160 x 105mm weighing 665g.  Segment 1 measures 85 x 75 x 55mm.  The margins are inked as follows:  black segment 1 hepatic margin, blue the remainder of the hepatic margin, green IVC bed and red left and middle hepatic artery (stapled margin).  Segment 1 of the liver is expanded by a solid tumour 65 x 50 x 47mm.  Part of the tumour is exposed through an apparently retracted hepatic capsule.  On slicing the tumour has solid, tan cut surfaces with a rubbery consistency. There is patchy haemorrhage.  The tumour is less than 1mm from the IVC bed, 5mm from the blue inked hepatic margin and 2mm from the black inked segment 1 hepatic margin. There are numerous staples at the junction of IVC bed and segment 1 hepatic margin.  These staples are removed and the new margin is inked red.  No focal lesions are identified in the remaining liver parenchyma. The attached hilar fatty tissue measures 60 x 30 x 7mm.  One possible lymph node is identified 5mm in maximum dimension (block 40).  Block 1 - left and middle hepatic artery margin (tissue shaved from the staples); 2-6 - one slice of tumour (blocks 2-4 contain the exposed surface of the tumour); 7 &amp;amp; 8 - paired sections one slice of tumour; 9-18 - one full slice of tumour; 19-21 - one full slice of the tumour (the nicks in blocks 20 and 21 show how the two sections relate to each other); 22 -24 - one full slice; 22-34 - one full slice; 35 &amp;amp; 36 - paired sections of tumour; 37 - liver away from the tumour (liver specials requested); 38-47 - entire hilar fat; 48-53 - more sections of tumour.
+
+B.  Specimen labelled &amp;#8220;Gallbladder&amp;#8220;, consists of a gallbladder 85mm long and up to 80mm in circumference.  The fatty tissue attached to the neck of the gallbladder is 25 x 20 x 8mm.  No definite lymph nodes are identified.  The external surface of the gallbladder is smooth.  The mucosa is green and granular with possible cholesterolosis.  No gallstones are seen.
+Blocks 1-3 - all of the fat surrounding the neck of the gallbladder; 4- shave cystic duct margin; 5 - TS neck and TS body; 6 - LS fundus.   (TO:  HM/ec   8.8.66)
+
+
+MICROSCOPIC (Reported by A/Prof S Crowden):
+A. The sections of liver show a nodular, spindle cell tumour composed of fascicles of mildly atypical spindle cells with focally prominent nuclear palisading. The tumour cells have elongated, ovoid and spindled nuclei with prominent perinuclear vacuoles.
+
+The features are consistent with a gastrointestinal stromal tumour.
+
+The tumour has a circumscribed, nodular outline and is bounded by a thin layer of fibrous tissue which separates the tumour from adjacent liver and diaphragm.  The edge of the tumour is predominantly pushing, with micronodules of tumour seen at the periphery in some areas.
+No infiltrative areas are seen at the interface with the hepatic parenchyma.
+
+Several large thin and thick walled vessels are seen within the lesion but no definite vascular invasion is identified.
+
+Patchy foci of old haemorrhage are present. Areas of of loose, myxoid stromal change and hypocellularity are present but no true tumour necrosis is identified.
+Virtually all of the tumour has been embedded and there is a homogeneous appearance to the tumour throughout the sections; no epitheloid components or undifferentiated areas are seen.
+Mitoses are infrequent. A total of 20 hpf fields have been counted in a number of different areas of the tumour, equating to a field of approximately 5mm2
+The mitotic rate is 2 per 20hpf/5mm2
+
+Immunohistochemistry:
+The tumour cells show strong positive staining with CD117 (C-Kit), CD34 and Vimentin.
+There is weak patchy expression of CD56 and EMA.
+
+HMB45, Desmin, Myosin, SMA, S100, Synaptophysin, Chromogranin and PanKeratin are negative.
+The Ki67 index is low (Approxximately 2 - 3% - over 300 cells counted).
+
+
+Margins:
+The section taken from the red inked suture line (hepatic arteries) contains loose fibrous tissue, vessel wall and larger neural bundles. No tumour is identified.
+Tumour is present 0.5mm from the black inked parenchymal margin of segment 1 and 0.3mm from green inked IVC bed.
+
+All of the hilar fat was embedded. No evidence of malignancy is seen in three small nodes. (0/3)
+
+
+
+Summary of findings (CAP Protocol - Protocol for the Examination of Specimens From Patients With Gastrointestinal Stromal Tumor (GIST). Based on AJCC/UICC TNM, 7th edition)
+
+Procedure
+X Resection Specify type (eg, partial gastrectomy): Partial hepatectomy
+X Metastasectomy - it is not certain whether this represents primary or metastatic disease.
+
+Tumor Site Specify (if known): Segment 1 of liver.
+Tumor Size Greatest dimension: 65 mm + Additional dimensions: 50 x 47mm
+Tumor Focality _X_ Unifocal ___ Multifocal
+Specify number of tumors: 1 Specify size of tumors: As above
+GIST Subtype _X_ Spindle cell ___ Epithelioid ___ Mixed ___
+
+Mitotic Rate Specify: 2/50 HPF (equivalent 20 hpf counted as per recommendation below)
+Note: The required total count of mitoses is per 5 mm2 on the glass slide section. With the use of older model microscopes, 50 HPF is equivalent to 5 mm2. Most modern microscopes with wider 40X lenses/fields require only 20 HPF to embrace 5 mm2. If necessary please measure field of view to accurately determine actual number of fields required to be counted on individual microscopes to count 5 mm2
+
+Necrosis _X_ Not identified  ___ Present
+Extent: 0%
+
+Histologic Grade (Note B)
+_GX: Grade cannot be assessed
+X G1: Low grade; mitotic rate &amp;#8804;5/50 HPF - an equivalent area of 5mm2
+_G2: High grade; mitotic rate &amp;gt;5/50 HPF
+
+Risk Assessment (Note C)
+___ None
+___ Very low risk
+___ Low risk
+___ Intermediate risk
+___ High risk
+_X_ Overtly malignant/metastatic - The possibility that this represents metastatic disease precludes formal risk assessment (partly based on site of primary tumour)
+_X_ Cannot be determined
+
+Margins _X_ Negative for GIST
+Distance of tumor from closest margin: 0.5mm from black inked segment 1 margin and 0.3mm from bed of IVC.
+
+Margin(s) positive for GIST - N/A
+
+Pathologic Staging (pTNM) (Note G)
+
+Primary Tumor (pT) - The TNM assessment of this tumour is difficult as it is not certain whether this is primary or metastatic disease.
+
+If this tumour is shown to be primary, then the staging would be as follows:
+___ pTX: Primary tumor cannot be assessed
+___ pT0: No evidence for primary tumor
+___ pT1: Tumor 2 cm or less
+___ pT2: Tumor more than 2 cm but not more than 5 cm
+_X_ pT3: Tumor more than 5 cm but not more than 10 cm
+___ pT4: Tumor more than 10 cm in greatest dimension Regional Lymph Nodes (pN) (Note D) ___ Not applicable
+
+_X_ pN0: No regional lymph node metastasis (0/3 hilar lymph nodes).
+___ pN1: Regional lymph node metastasis Distant Metastasis (pM) (Note D)
+___ Not applicable
+___ pM1: Distant metastasis + Specify site(s), if known: _____________________
+
++ Additional Pathologic Findings + Specify: The adjacent liver shows compression effects and patchy mild acute inflammation.
+No diagnostic abnormality is seen in the liver away from the tumour in the H&amp;amp;E and special stains.
+
+Immunohistochemical Studies (select all that apply)
+KIT (CD117)
+_X_ Positive - Strong
+___ Negative
+DOG1 (ANO1)
+___ Positive
+___ Negative
+___ Not performed - block has been referred to BEAUFORT & SKIPTON HEALTH SERVICES - BEAUFORT CAMPUS Hospital for molecular analysis.
+
+Others (specify):HMB45, Desmin, Myosin, SMA, S100, Synaptophysin, Chromogranin and PanKeratin are negative.
+
+B. The sections of gallbladder show no significant abnormality.
+No evidence of malignancy is seen in 2 lymph nodes (0/2).
+
+Comment: Primary GIST tumours of liver have been rarely reported and the likelihood is that this represents metastatic disease. In view of this, the above staging and grading parameters should be viewed with caution, as they are usually based on primary tumours.
+
+
+DIAGNOSIS:
+A. Liver: Gastrointestinal stromal tumour
+
+B. Gallbladder: No significant abnormality.
+
+
+***SUPPLEMENTARY REPORT: GIST PANEL MUTATION ANALYSIS
+QUINCY LASKER - PANCH HEALTH SERVICE Cancer Centre - 14/9/66
+
+CLINICAL DETAILS: Liver: Gastrointestinal stromal tumour
+
+PATHOLOGY REVIEW:
+Spindle cell neoplasm
+The sample was reviewed by a pathologist and was considered to contain 90% tumour cells within the area selected for analysis. (Note: This is not a formal pathology review and is based solely an an H&amp;amp;E of the tissue provided and not on ancillary clinical or pathology information that may be available elsewhere).
+
+KIT:	Exon 11; c.1679_1.681del: p.Va1560del DETECTED
+Associated with sensitivity to imatinib
+
+PDGFRa:	No mutation detected
+
+KIT and PDGFRa
+Mutations in two closely related tyrosine kinase genes KIT and PDGFRa are the molecular hallmarks of gastrointestinal stromal tumours (GISTs). These gain-of-function mutations result in ligand-independent activation and pro-survival and proliferation signalling. Most GISTs (&amp;gt;80%) harbour a KIT mutation whilst 5-15% harbour a mutation in the PDGFRa gene.  The vast majority (&amp;gt;95%) of mutations found in exons 9, 11, 13 and 17 of the KIT gene and exons 12, 14 and 18 of thE PDGFRa gene. Most mutations are found within axon 11 of KIT.
+The genotype-phenotype characteristics of mutations in these genes vary and confer different levels of response to molecular therapies.  Imatinib, a multi-targeted tyrosine kinase inhibitor (TKI), is considered the first choice of treatment for unresectable and metastatic tumours. KIT exon 9 mutations are lE sensitive to imatinib therapy than KIT exon 11 mutations and studies have sho patients with KIT axon 9 mutant tumours may respond better from a higher dose an alternative TKI therapy. Patients on imatinib can acquire secondary KIT mutations that render the protein insensitive to the inhibitor. Primary and secondary resistance is associated with certain mutations, e.g., those occurr in exon 13 and in exon 17 (codons 816 and 822) of the KIT gene and the mutation p.Asp842Val in exon 18 of the PDGFRa  gene. Alternative TKI therapies include
+are not limited to sunitinib, sorafenib, nilotinib, dasatinib, crenolanib and regorafenib.
+
+TEST DESCRIPTION:
+Next generation sequencing was performed on DNA extracted from macro-disseceted FFPE tumour tissue followed by targeted mutational analysis of the KIT gene(exons 9, 11, 13 &amp;amp; 17) and the PDGFRa gene (exons 12, 14 &amp;amp; 18). Analysis of low quality samples may be supplemented with additional techniques including Sanger sequencing.
+Note: Synonymous changes and intronic variants outside of splice-sites are not reported.
+
+REPORTED BY :	CARMELO ELENBAAS
+AUTHORISED BY:	EDGELL, ELROY at 11:48 AM on 08-07-2016  (ta)

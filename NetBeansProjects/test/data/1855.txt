@@ -1,0 +1,94 @@
+
+Episode No:  87M245544L
+874245.NML
+
+HEGGINS, Shemika 
+Lab No:  87M24554
+Procop
+MERIMBULA  Victoria  3105
+Specimen: Tissue
+D.O.B:  14/12/1997
+Sex:F
+Collected: 15/07/2014 at 12:05
+Location:  PRINCE OF WALESPRIVATE
+DR Connor DAPINTO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY, DR DONTE
+SUPPLEMENTARY REPORT (1) ATTACHED 15/10/64 MMRP IHC
+HISTORY:  
+Ovarian cancer. Interval debulking. Post chemotherapy. Uterus, tubes and ovaries. Omentum. Appendiceal epiploica. 
+Previous: Ascitic fluid 87M245544L, 28-04-14; Abdominam CT scan 28/6/2064.
+MACROSCOPIC:  
+A. 'UTERUS, TUBES, OVARIES AND CERVIX'. Uterus with attached fallopian tubes and ovaries. Specimen received fixed, open through lateral walls. Anterior paracervical margin black, posterior blue. The uterus measures 75mm x 50 x 40 mm. The cervix is 25x20mm; external os is 10x3mm. The endometrium is 1mm in thickness and the anterior myometrium 10 mm and posterior myometrium 20 mm thickness. The anterior uterine surface is relatively flat and is granular in areas. The posterior surface is rounded. There is a small amount of fat attached to the posterior inferior serosal surface. The left fallopian tube is 40x6mm and is unremarkable. The left ovary is 15x10x4mm and is unremarkable. The right fallopian tube is 30x6mm and is unremarkable. The right ovary is 15x10x5mm and is unremarkable. The uterus alone weighs75 g. (1 and 2 right ovary and fallopian tube; 3 and 4 ?left ovary and fallopian tube; 5 right parametrium; 6 left parametrium; 7-9 longitudinal section anterior uterine body; 10-17 2xlongitudinal sections posterior uterine body). RS (M-17)/LV Representative reserve tumour block: V74
+B. 'OMENTUM'. Two pieces of omentum with an aggregate of 150x110x20mm. The omentum has a nodular surface and a firm to hard white/yellow cut surface. RS (7-7)
+C. 'APPENDICEAL EPIPLOICA'. Lobulated piece of fatty tissue, 30x20x10mm with a smooth and shiny external surface. A right ill-defined lesion 2mm in diameter is present in one of the slices. RS (4-3/ZB/cy)
+- - MICROSCOPIC - -
+A.Sections of uterus show an invasive high grade carcinoma in involving endometrium and full thickness of myometrium to the serosa of peritoneal surface.  There is similar tumour in the omentum and small metastatic deposits are present in both ovaries and over the surface of one fallopian tube.  There is also discontinuous focus ?metastasis in cervical tissue deep to ectocervix.  The pattern of invasion in the uterus would favour a primary endometrial carcinoma and the case is reported as this.  In the sections examined of tumour the carcinoma is viable with no areas of necrosis.  The tumour has a predominantly angulated pattern of invasive glands and there is high grade nuclear atypia.  Some small papillary areas are present.  
+ENDOMETRIAL CARCINOMA:
+Histologic tumour type:  Serous adenocarcinoma
+Grade:  High grade (AJCC); (FIGO grading not applicable)
+Myometrial invasion:  Present
+Depth of invasion:  24 mm in depth (slide V74)
+Myometrial thickness: 24 mm
+% of myometrium invaded:  100 %
+Lymphovascular invasion: Not identified
+Involvement of cervix: Present:
+Cervical stroma involvement: Present, in continuity
+Maximum invasive depth of cervical stromal invasion: 6 mm (slide number V74)
+Normal cervical wall thickness: 10 mm
+Cervical vascular involvement: not identified
+Uterine peritoneal surface involvement:  Presentmargins:  Paracervical and parametrial margins are negative for tumour.
+Lymph node involvement by tumour:    Not applicable (not received)
+Other: 
+Right fallopian tube: Involved:
+Focus of serosal metastatic carcinoma present, 2 mm diameter
+Fimbrial end unremarkable, with no atypical serous epithelial lesion.
+Right ovary: Involved: 
+1 mm deposit of metastatic carcinoma
+Left fallopian tube: 
+Unremarkable
+Fimbrial end unremarkable. with no atypical serous epithelial lesion.
+Left ovary: Involved: 
+2 mm deposit of metastatic carcinoma
+Omentum: see spec B.
+Residual nontumour endometrium:  Atrophic
+In situ carcinoma (serous intraepithelial carcinoma):  Present focally
+Ectocervix mucosa: 
+Unremarkable
+There is a discontinuous deposit of carcinoma deep to ectocervix ?metastasis.
+Endocervix mucosa:
+Unremarkable
+Ancillary studies (block suitable):
+Immunostains:  V74
+Reserve block:  V74
+Immunostains (V74):
+Positive: p53 (3+), p16 (3+) 
+Her-2:  2+ stainingpresent
+Negative: ER
+Ki67 labelling: >80 % 
+Interpretation: expected results
+Immunostains for Mismatch repair enzymes: Pending
+B. Omentum: Involved: 
+Extensive involvement by metastatic serous carcinoma.
+C.  The appendix epiploicae is involved by metastatic serous carcinoma.
+FIGO Stage (2008):  IVB (metastatic peritoneal disease)
+- DIAGNOSIS -
+A.  UTERUS, TUBES, OVARIES AND CERVIX -
+- high grade serous carcinoma of endometrium;
+- all areas of tumour appear viable;
+- carcinoma involves full thickness of uterus.
+- serosal involvement present.
+- discontinuous deposit deep to ectocervix (?metastasis);
+- small metastatic serous carcinoma deposits involving right ovary, left ovary and right fallopian tube.
+B.  OMENTUM - 
+- metastatic serous carcinoma.
+C.  APPENDIX EPIPLOICAE - 
+- metastatic serous carcinoma. 
+24/9/64, V Gavan.  
+- - - -
+Supplementary report: (1)
+Immunostains for DNA Mismatch Repair (MMR) proteins, (block: V74):
+MLH1, PMS2, MSH2 and MSH6:  Normal nuclear staining (intact expression)
+Comment: 
+Immunohistochemistry of cancer tissues for mismatch repair proteins is a surrogate marker for MSI status, with an absence of one or more of the mismatch repair proteins considered an abnormal result.Intact expression of all four proteins in the above Immunostains indicates that MMR enzymes tested are intact.
+15/10/64, V Denet.  
+

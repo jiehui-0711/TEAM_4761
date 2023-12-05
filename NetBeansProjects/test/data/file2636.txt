@@ -1,0 +1,78 @@
+SPR no: 89M365597L
+MRN no: 8943655
+Site_name: HILLSTON DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  89M365597L
+8943655.YTL
+
+POTHIER, SIU SOLANA
+Lab No:  89M36559,89M36559
+Back Charlton
+CASTLEMAINE  QLD  1476
+Specimen: Swab,Fluid,Tissue
+D.O.B:  3/7/2019
+Sex:  F
+Collected: 26/8/2065 at :
+Location:  ACUTECARE WARD - MAITLAND HOSPITAL (NSW)
+DR ISREAL EZRA LOCKEN
+Distribution:    NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (9.10.66):
+
+SUPPLEMENTARY REPORT (9.3.65):
+
+CLINICAL:
+20cm pelvic mass.  Laparotomy.  Ovarian cancer &amp;#8211; metastatic disease.  Laparotomy, TAHBSO, omentectomy and debulking.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot; consists of an ovary 180 x 150 x 110mm with fallopian tube 60mm in length and 10mm indiameter.  The external surface of the ovary issmooth.  The cut surfaces are partly solid and partly cystic.  Upon slicing the specimen has a gritty consistency.
+Blocks: 1 to 3 &amp;#8211; frozen sections (HM/ES 11:45); 4 &amp;#8211; reserve block; 5 &amp;amp; 6 - ?fallopian tube; 7 to 15 &amp;#8211; RS.
+FROZEN SECTION REPORT:
+Borderline serous tumour with foci suspicious for invasion (cannot exclude low grade serous carcinoma).
+Result to Dr Glave via anaesthetist byA/Prof W Liotta/Dr W Mcbroome/Dr W Frederique at 12:00 on 24/6/15.
+
+B.  Specimen labelled &amp;quot;Uterus and cervix&amp;quot; consists of a uterus with attached cervix weighing 160gin total.  The uterus measures 110 x 80 x 45mm.  The ectocervix measures 20 x 80mm and has an unremarkable surface.  There are two solid nodules, one anterior and one posterior, attached to the serosal surface of the uterus; these measure 24 x 20 x 15mm and 24 x 15 x 15mm.  There is a third nodule attached to the uterus on the right side adjacent to the apparent fallopian tube stump 18 x 10 x 7mm.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 27mm in maximum thickness.
+Blocks: 1 to 6 &amp;#8211; full LS anterior body and cervix; 7 to 11 &amp;#8211; full LS posterior body and cervix (9 &amp;#8211; the uterine serosa in undercut); 12&amp;#8211; RS right parametrial mass; 13 &amp;amp; 14 &amp;#8211; RS anterior serosal mass; 15 &amp;#8211; RS posterior serosal mass.
+C.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot; consists of an ovary 180 x 130 x 110mm with attached fallopian tube 50mm in length and up to 12mm in diameter.  The external surface is smooth.  Slicing reveals solid papilliform and cystic areas.  The cystic areas contain abundant brown watery fluid.
+Blocks: 1 to 3 &amp;#8211; entire fallopian tube; 4 to 14 &amp;#8211; RS.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot; consists of omental fatty tissue measuring 340 x 170 x 15mm.  There is one solid nodule measuring 90 x 75 x 45mm and a second pale solid nodule 25mm in maximum dimension.  The larger nodule has a predominately pale solid cut surface with a smaller cystic component.
+Blocks: 1&amp;amp; 2 &amp;#8211; RS larger nodule; 3 &amp;#8211; RS smaller nodule.
+
+E.  Specimen labelled &amp;quot;Pouch of Douglas nodule&amp;quot; consists of a nodularpiece of solid tissue 30 x 15 x 15mm.
+Blocks: 1 &amp;#8211; representatives.
+
+F.  Specimen labelled &amp;quot;Rectal nodule&amp;quot; consists of three pieces of nodular solid tissue measuring 40 x 40 x 15mm in aggregate.
+Blocks: 1 &amp;#8211; RS.
+
+G.  Specimen labelled &amp;quot;Sigmoid colon nodule&amp;quot; consists of fragments of solid nodular tissue measuring 50 x 25 x 20mm in aggregate.
+Blocks: 1 &amp;#8211; RS.     (TO: HM; HM/ta 27/8/65)
+
+MICROSCOPIC (Reported by Dr W Keib and Dr W Goolesby):
+A.  Sections of ovary show a serous neoplasm.  Much of it has features of a serous borderline tumour but some of the tumour, around 15%, comprises back to back small glands and papillary structures formed by tumour cells with moderatecytologic atypia.  The features are consistent with a low grade serous carcinoma.  The mitotic count is around 5 per 10 high power fields in the more cellular areas.  There is abundant psammomatous calcification.  There is focal low grade serous carcinoma involving the fallopian tube lumen at the fimbrial end.  Non invasive implants are also present on the serosa of the fallopian tube and there are non invasive autoimplants on the serosa of the ovary.
+B.  Sections of the cervix show no significant abnormality. Sections of the uterus show interval phase endometrium and unremarkable myometrium.  Sections of the described anterior and posterior serosal masses show deposits of low grade serous carcinoma.
+C.  Sections of ovary show mainly serous borderline tumour, some with a micropapillary pattern, but there is also a component of low grade serous carcinoma, comprising around 5% of the tumour.  Sections of the fallopian tube are unremarkable.
+D-G.  Sections show deposits of low grade serous carcinoma.
+
+DIAGNOSIS:
+A.  Right tube and ovary:  Serous borderline tumour and low grade serous carcinoma of ovary.Metastatic serous carcinoma involves fallopian tube.
+B.  Uterus:  Two uterine serosaldeposits of low grade serous carcinoma.
+C.  Left tube and ovary:  Serous borderline tumour and low grade serous carcinoma.
+D.  Omentum:  Low grade serous carcinoma.
+E.  Pouch of Douglas nodule:  Low grade serous carcinoma.
+F.  Rectal nodule:  Low grade serous carcinoma.
+G.  Sigmoid colon nodule:  Low grade serous carcinoma.
+SUPPLEMENTARY REPORT (9.3.65):
+D.  Immunostains for hormone receptors have been performed as requested.
+Oestrogen receptors:   Positive.
+100% of tumour cells show positive staining.
+Predominant intensity of staining:   Strong.
+Progesterone receptors:   Positive.
+100% of tumour cells show positive staining.
+Predominant intensity of staining:   Strong.
+SUPPLEMENTARY REPORT (9.10.66):
+Stains for mismatch repair enzymes have been performed as requested.
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 andMSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).

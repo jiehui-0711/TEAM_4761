@@ -1,0 +1,88 @@
+
+Episode No:  58K175825Y
+5841758.HNY
+
+PRINTERS, ANJANETTE 
+Lab No:  58K17582
+Darsow
+WATERFORD  Victoria  3019
+Specimen: Tissue
+D.O.B:  14/8/1988
+Sex:  F
+Collected: 19/6/2063 at :
+Location:  MACQUARIE WARD
+DR Mikel Tomas Tino
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+(R) lung (illegible) + (L) breast Ca on FNA.  (R) upper lobectomy + nodes.  
+(Core biopsy lung mass - adenocarcinoma.  IPx - lung primary).
+MACROSCOPIC:
+A.  Specimen labelled "Right paratracheal lymph node" consists of an irregular piece of fatty tissue measuring 25 x 20 x 5mm containing three lymph nodes 5 to 6mm.  
+Blocks:  1 - three lymph nodes; 2- rest of tissue.  
+B.  Specimen labelled "Right upper lobe bronchus" consists of four pieces of black fibrous tissue ranging from 2 to 7mm.  AE 1 block.
+C.  Specimen labelled "Right upper lobe" consists of a right upper lobe measuring 120 x 100 x 40mm.  In the apex of the specimen there is an area of pleural puckering and a haematoma measuring 30 x 30mm.  A stapled margin is removedand that surgical margin is inked blue.  On sectioning and in the area of pleural puckering there is a well defined grey tumour measuring 40 x 25 x 30mm.  It is located 25mm from the closest bronchial margin.  The rest of the parenchyma has a haemorrhagic appearance.  Representative sections are taken.
+Blocks:  1 - bronchial margin; 2- vascular margin; 3- one perihilar lymph node; 4 - tumour close to bronchial margin; 5 to 9 - tumour (block 9 reserve block); 10 - non tumoral lung.  (TO: YV: QC/mm 19.6.63) 
+MICROSCOPIC:  (Reported by Dr P Kuzniar):
+A.  The seven (7) lymph nodes identified are negative for tumour.
+B.  The four (4) lymph nodes identified are negative for tumour. 
+C.  Sections show a moderately differentiated invasive adenocarcinoma, size 40mm. The tumour is predominantly invasive but has a prominent lepidic component at the periphery.  The tumour is 15mm clear of the bronchial margin and does not invade the visceral pleura.
+A single hilar lymph node identified is negative for tumour and the bronchial and vascular margins show no abnormality.  The lung away from the tumour shows no obvious emphysema.  (ec) 
+DIAGNOSIS:  
+A.   Right paratracheal lymph nodes:
+-     Lymph nodes (x7) negative for tumour.
+B.  Right upper lobe bronchus:
+-    Lymph nodes (x4) negative for tumour.
+C.Right upper lobe - lobectomy:
+-    Moderately differentiated adenocarcinoma, (primary lung), size 40mm.
+-    Bronchial margin well clear, pleura not involved.
+-    Hilar lymph node (x1) negative for tumour.
+-    T2a N0 Mx.
+MOLECULAR TISSUE ANALYSIS
+ SXR  7/1/63.
+Accession: P841-7582
+
+SOURCE OF MATERIAL:
+Home Depot, 8 GOOLAGONG CRESCENT, KATHERINE HOSPITAL, 
+Original Sample Ref Number: 58K175825Y/58K17582
+Dateof collection: 19/6/2063
+Referring Doctor: Dr P Braden and Dr P Stempert 
+Date Requested: 6/1/2063
+
+TARGETED EGFR MUTATION DETECTION
+
+TUMOUR SAMPLE:
+Date Received: 7/4/2063
+Specimen Received: 1 x FFPE block labeled 58K17582 C5 
+Nature of specimen: Resected tumour from right upper lobe lung 
+Clinical History: RUL adenocarcinoma.
+Slide examined by Dr JENA DARWIN Ringstaff (FRCPA) Date: 7/5/2063
+Microscopic Diagnosis: no small cell carcinoma.
+Proportion of malignant cells as % of all viable cells within marked area on slide: 40% Macro-Dissection Required: Yes
+
+EGFR MUTATION TEST: 
+Date Tested: 7/9/2063
+RESULT:
+Targeted EGFR mutation analysis on DNA extracted from FFPE tumour tissue:
+POSITIVE
+MUTATION DETECTED: EGFR Exon 19 Deletion
+
+Interpretation:
+The tumour sample from Despina Scannapieco CARRIES a mutation ofclinical significance in the regions of the EGFR gene targeted in this analysis.
+This activating mutation is associated with sensitivity to EGFR tyrosine kinase inhibitors.
+(see: www.mvcancerqenome.org/nscicl" www.mvcancerqenome.org/nscicl)
+
+
+
+METHOD:
+* DNA was extracted from FFPE tumour tissue using the Roche cobas DNA Sample Preparation kit.
+* EGFR gene mutations were analyzed using the Roche cobas EGFR Mutation Test kit (ARTG: 584175).
+
+COMMENTS:
+* This test is intended as an adjunct to other prognostic and predictive factors to aid clinical treatment decisions.
+* The cobas EGFR Mutation Test detects 41 common mutations in exons 18 to 21 of the EGFR gene, but may not specify the EGFR
+gene mutation detected (a list of EGFR mutations detected is available from our laboratory). Other mutations, either in the EGFR gene or in other genes, will not be detected by this analysis.
+* This test has been shown in our laboratory to detect at least 5% mutant EGFR alleles in a background of normal DNA.
+* The analytical sensitivity and specificity of this test are 98.5% and 98.8%, respectively. PCR inhibitors or rare mutations affecting the binding sites of PCR primers and/or probes used in this assay may cause a false negative result.
+* This test hasbeen processed as a Level 1 genetic test according to the NPAAC guidelines (2007).
+* Only the testing performed by our laboratory is covered by NATA accreditation, not the referenced material used for clinical interpretation of this testing.
+

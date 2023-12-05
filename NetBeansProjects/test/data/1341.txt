@@ -1,0 +1,59 @@
+ 058264.UUY
+Ollmann, MITSUE
+05X26478
+
+Last edited : 6/5/2063		Page: 2
+CLINICAL:
+Left mastectomy for invasive breast ca.  6cm FN at 2 o'clock.  Left breast Ca. mastectomy and sentinel node biopsy.  
+Please note: Discrepancy about tumour location (right vs left).  The current request form states right breast but the specimen containers are labelled left breast.  The previous histology report (05X26478) also states left breast.  All notes are changes to left breast and please correlate.
+MACROSCOPIC:
+A.  Specimenlabelled "Left axilla sentinel node 1" consists of fatty tissue measuring 30 x 25 x 10mm containing a lymph node.  Specimen was serially sectioned, two imprints for H & E and cytology for frozen section.  All lymph node tissue AE 1 block.
+ 
+B. Specimen labelled "Left axilla sentinel node 2" consists of fatty tissue measuring 20 x 25 x 8mm containing a 15mm lymph node. Specimen was serially sectioned,two imprints for H & E and cytology for frozen section. All lymph node tissue AE 4 blocks. 
+FROZEN SECTION REPORT A & B:
+2 positive lymph nodes.  
+Result to Dr Deschaine byDr A Overshown at 15.08 on 25/2/13.
+C.  Specimen labelled "Left axillary clearance" consists of adiposetissue measuring 150 x 60 x 30mm.  Multiple lymph nodes are identified.
+Blocks: 1 - two lymph nodes; 2 - two lymph nodes; 3 - one lymph node bisected; 4 - one lymph node in five sections; 5 - two lymph nodes; 6 - two lymph nodes; 7 - four lymph nodes; 8 - four lymph nodes; 9 - six lymph nodes; 10 - four lymph nodes. 
+D. Specimen labelled "Left mastectomy, short stitch superior, long stitch lateral" consists of a breast measuring 240 x 130 x 50mm with an ellipse of overlying skin measuring 210 x 110mm.  The deep margin is inked black and the superficial margin blue.  Two marking stitches are present as described above.  The overlying skin and nipple is unremarkable.  There is a palpable mass at 3 o'clock, 60mm from the nipple which measures40 x 20 x 20mm.  The mass is spiculated in appearance with a firm cream centre and is macroscopically well clear of both the deep and superficial margins. On sectioning the breast there is a further rubbery fibrous area in the inner lower quadrant which measures 20 x 10 x 15mm which is also macroscopically clear of margins.  The remaining of the cut surface is unremarkable.  
+Blocks: 1 & 2 - tumour with deep margin; 3 to 5 - representative tumour; 6 - tumour with superficial margin; 7 - fibrous appearing area; 8 - nipple; 9 to 16 - representative sections of four quadrants (9 & 10 - upper outer quadrant; 11 & 12 - lower outer quadrant; 13 & 14 - upper inner quadrant; 15 & 16 - lower inner quadrant).  (UP/ta 28/4/63)
+  
+MICROSCOPIC (Reported by Dr K Oestreicher):
+A to D.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  40mm
+Grade (Modified Bloom & Richardson):  2
+Tubules: 3     Nuclei: 3     Mitoses: 1     Mitotic rate: 6/10hpf.
+Lymphovascular invasion:  Present
+	
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  Scattered within invasive carcinoma
+Nuclear grade:  High
+Architecture:  Solid and cribriform
+Necrosis:Present
+Calcification:  Present
+Degree of DCIS in tumour:  Less than 15%
+DCIS in adjacent tissue:  Absent
+Excision Margins:  
+Invasive component:  The invasive carcinoma is 13mm to the deep margin (block D1) and is well clear of the other margins.
+In-situ component:  The DCIS is 15mm to the deep margin (block D1) and is well clear of the other margins.
+Receptors (Block D4): 
+ER:  Positive 
+	100% of nuclei stained
+	predominant intensity of staining: strong
+PR:  Positive
+	90% of nuclei stained
+	predominant intensity of staining: strong
+HER2 (Novocastra 10A7):  Negative (1+ staining)
+Ki-67 index:  15%
+Nipple:  Unremarkable
+
+LCIS / ALH:  Present
+Miscellaneous:
+The nipple is unremarkable.
+	The rest of breast tissue shows benign changes including fibrocystic change and sclerosing adenosis.
+	Please see previous report (32B68498) to see Her-2 ISH result.  No further Her-2 ISH test is ordered.
+

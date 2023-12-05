@@ -1,0 +1,60 @@
+SPR no: 75A690038X
+MRN no: 10461715
+Site_name: PINGELLY HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right forearm sarcoma treated with neoadjuvant chemoradiotherapy.  Sarcoma right elbow for histo.  1.  Right elbow sarcoma (stitch at 12 o&amp;apos;clock, double deep).  2.  New deep margin.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Sarcoma R elbow stitch 12 o&amp;apos;clock double deep&amp;quot;, consists of an oriented ellipse of skin measuring 92 x 28mm with a suture at one tip denoting 12 o&amp;apos;clock with attached subcutaneous tissue measuring 85 x 62 x 28mm.  The deep aspect has a variable amount of fascia and skeletal muscle attached.  The specimen is inked deep black, 3 o&amp;apos;clock blue, and 9 o&amp;apos;clock red.  The tissue is sliced from 12 to 6 o&amp;apos;clock into eighteen slices.  Within slice eight to fifteen there is a circumscribed partially encapsulated soft tan tumour measuring 38 x 32 x 24mm. This tumour appears within 2mm of the deep margin (slice 9) 5mm of the 9 o&amp;apos;clock margin (slice ten) and 5mm of the 3 o&amp;apos;clock margin (slice twelve).  The tumour is greater than 10mm clear of the 12 and 6 o&amp;apos;clock margin.  The remaining tissue is fatty in appearance.  No other foci are identified.  AE.  Blocks: 1 - TS 12 o&amp;apos;clock margin; 2 to 6 - slices two to six; 7 to 10 - slice seven and eight bisected over two blocks; 11 to 28 - slice nine to fourteen trisected over three blocks; 29 to 32 - slice fifteen and sixteen bisected over two blocks; 33 and 34 - slice seventeen and eighteen TS 6 o&amp;apos;clock margin.  Please see diagram for block description.
+
+B.  Specimen labelled &amp;quot;New deep margin&amp;quot;, consists of an unoriented piece of irregular fibrofatty tissue measuring 16 x 8 x 3mm.  The tissue is differentially inked blue and black.  Serially sliced and AE 1 block.   (TO:JD/vo 6/11/68)
+
+
+MICROSCOPIC (Reported by Dr U Earheart):
+A.  The specimen is entirely embedded and examined.  Sections of skin to subcutis with some areas areas containing fascia and striated muscle..Expanding the subcutis and abutting the fascia is a mostly circumscribed cellular spindled and focally epithelioid malignant tumour. There are some ectatic vessels at the tumour perimeter.  Whilst mostly well demarcated, some peripheral tongue like extensions of tumour are also seen.  The overlying dermis is uninvolved. The tumour shows varying morphology.  In some areas tumour has a fibrosarcomatous appearance with relatively monomorphic cellular spindle cells arranged in a herringbone pattern (e.g. block 12 and 15).  Elsewhere there are areas with more compact fascicular growth (e.g. A14).  Areas with more overt pleomorphic epithelioid cells and tumour giant cells are also present (e.g. A24).  In some areas the spindle cell component displays conspicuous cytoplasmic vacuolation (e.g. A24). Significant storiform architecture is not seen and myoid nodules are not identified.  Mitoses are easily identified and there is patchy haemorrhage and hyalinisation as well infarct type necrosis.  Some vessels show secondary changes including fibrinoid destruction of walls and secondary thrombi likely the result of prior therapy.
+
+Immunohistochemistry:
+In the presence of positive and adequate controls, the tumour cells stain as follows:
+Positive:   INI1 (retained normal pattern of expression), CD34 (membranous and patchy cytoplasmic)
+Negative:  PanCK, CK5/6, AE1/AE3, P63, EMA, Desmin, SOX10, S100, Desmin, HMB45, C-KIT, SMA, Myogenin, Melan A and CD31.
+
+The Ki67 proliferation index is heterogenous but focally in areas up to 10%.
+
+Margins:
+Deep margin:  Tumour focally extends to the deep margin (A10) over a front of 1.4mm.  The fascia appears deficient/disrupted here.
+9 o&amp;apos;clock:         1.2mm just superficial to the plane of the fascia with intervening fibroadipose  connective tissue (A10).
+3 o&amp;apos;clock:	About 5.5mm in the plane of subcutis
+12 o&amp;apos;clock:       Well clear
+6 o&amp;apos;clock:         Well clear
+COMMENT 1:
+The features are those of a malignant pleomorphic and spindled epithelioid neoplasm.  The heterogenous morphology and atypia favour pleomorphic undifferentiated sarcoma.  The focal CD34 expression and focal ectatic vessels raise consideration of malignant solitary fibrous tumour.   STAT6 is unavailable on site.  The presence of fibrosarcomatous morphology and  CD34 expression does also raise consideration of fibrosarcomatous transformation of  dermatofibrosarcoma protruberans (DFSP), however,  the lack of dermal involvement, lack of storiform architecture and areas of pleomorphism are unusual for this diangosis.   DFSP localised to the subcutis may rarely occur.  The majority of the tumour appears viable with minimal response to prior therapy. I will seek and expert opinion from Professor U Goldfine at Seals&amp;apos;s Hospital ST GEORGE PRIVATE School, EMU PLAINS.  An additional report will be issued.
+
+
+Towards the 12 o&amp;apos;clock end of the specimen there is a junctional proliferation of atypical lentiginous melanocytes.  The melanocytes have predominantly spindled and focally epithelioid morphology and are arrayed as single cells along the base of the epidermis.  Focally the proliferation approaches near confluence (A8). There is some intraepidermal upward ascent into the lower levels of the epidermis without features that could be attributed to so called irritation such as parakeratosis or intracorneal pigment.  No significant nested growth his seen.   Focally within the lesion there is associated basal pigmentation and acanthosis in a pattern resembling macular seborrhoeic keratosis. There is patchy associated lichenoid inflammation with dermal pigment incontinence, patchy perivascular lymphocytes, basal vacuolar change and pigment incontinence.  No dermal melanocytic component or fibroplasia is seen.  A few dermal colloid bodies are also noted.
+
+Margins:
+3 o&amp;apos;clock:	 About 2.5mm clear (A3)
+
+9 o&amp;apos;clock:	 About 5mm clear.
+
+12 o&amp;apos;clock:       Assessed en face, estimated at least 3mm clear.
+
+6 o&amp;apos;clock:	 Well clear.
+
+
+COMMENT 2:
+There is an atypical junctional melanocytic proliferation.  The differential diagnoses considered include atypical junctional melanocytic hyperplasia (solar induced melanocytic hyperplasia) within a macular seborrhoeic keratosis versus the latter with evolving melanoma in situ.  No dermal melanocytic component is seen.  In my opinion,  the features including near confluent growth, albeit focal, atrophic sun-damaged skin,  moderate cytolgical atypia which is non-random and some intraepidermal upward ascent slightly favour early evolving melanoma in situ (lentigo maligna type). There is no dermal invasive component.
+
+B.  Sections of fibroadipose connective tissue and fascia.  There is a 0.8mm focus of diathermy affected spindle cells, lacking overt atypia at one edge of the unoriented specimen.  Involvement by spindle cell tumour cannot be excluded.
+
+
+DIAGNOSIS:
+A.  Sarcoma R elbow stitch 12 o&amp;apos;clock double deep(wide local excision):
+-    Malignant pleomorphic and epithelioid neoplasm favour undifferentiated pleomorphic sarcoma  (see comment), focal abuts deep margin (see text)
+-   Junctional lentiginous melanocytic proliferation favour early evolving melanoma in situ, 2.5mm  from the closest radial (3 o&amp;apos;clock) margin.
+B.  New deep margin:
+-    0.8mm focus in which focal tumour involvement cannot be excluded.
+Selected slides seen in consltaation with Dr U Buchinski.

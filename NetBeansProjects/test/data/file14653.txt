@@ -1,0 +1,100 @@
+SPR no: 19S012794F
+MRN no: 19701279
+Site_name: FORBES DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Bile duct ?tumour ?inflammation.  Pancreatic tumour.  Neoadjuvant - FOLFIRINOX. 1.  Prolene suture portal vein margin.  2.  Prolene suture SMA margin.  3.  Uncinate margin.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Bile duct margin&amp;#8221; consists of brown tissue 15 x 7 x 5mm.  FS 2 blocks.
+Blocks:  1&amp;amp;2 - frozen section AE.
+&amp;#160;
+FROZEN SECTION REPORT:
+Oedema + inflammation.  Few atypical cells consistent with reactive.  No tumour.
+Result to Anaesthetic reg by Dr E Kukler at 01:05 pm on 16/09/16.
+
+B.  Specimen labelled &amp;#8220;Whipples&amp;#8221; consists of a specimen of distal stomach (32mm long), small bowel (280mm long), proximal pancreas (65 x 60 x 35mm), perigastric fatty tissue (50 x 40 x 6mm) and peripancreatic fatty tissue (55 x 45 x up to 20mm).  The gallbladder is not received.  The bile duct margin is 12mm in diameter.  The margins and surfaces are inked as follows: pancreatic transection margin black, posterior black anterior green, portal vein blue, SMA red and uncinate green.  The entire pancreas is blocked from superior to inferior.  Within the pancreas there is an ill defined pale solid area, 45 x 35x 15mm.  The ill defined solid focus is less than 1mm from portal vein bed, 1mm from posterior, more than 10mm from anterior, less than 1mm from SMA, 3mm from uncinate and well clear of other margins. Blocks:  1 - shave proximal gastric margin (diff.quick requested); 2 - shave distal small bowel margin; 3 - shave bile duct margin; 4&amp;amp;5 - paired sections, 3mm shave of transection margin of pancreas; 6 - superior most slice of pancreas; 7&amp;amp;8 - paired sections (7 - anterior, 8 - posterior, the nick in 8 marks the site connecting to 7); 9&amp;amp;10 - paired sections one slice; 11&amp;amp;12 - paired sections one slice; 13 to 19 - one full slice, please see the diagram; 20&amp;amp;21 - paired sections (20 - anterior, 21 - posterior); 22&amp;amp;23 - paired sections one slice; 24 to 28 - remainder of the SMA and uncinate margin, LS; 29 to 31 - all of perigastric fatty tissue; 32&amp;amp;33 - all of the fatty tissue attached to the uncinate margin; 34 - ?lymph node as seen; 35 - lymph nodes as seen; 36 - one lymph node; 37 - one lymph node; 38 - lymph nodes as seen; 39 - one lymph node; 34 to 39 - peripancreatic lymph nodes.
+C.  Specimen labelled &amp;#8220;Common hepatic lymph node&amp;#8221; consists of specimen of two lymph nodes and scant attached fatty tissue, 32 x 20 x 10mm.  There are two lymph nodes, 20 and 6mm in maximum dimension.
+Blocks:  1&amp;amp;2 - one lymph node; 3 - one lymph node.
+D.  Specimen labelled &amp;#8220;Omentum&amp;#8221; consists of three pieces of fatty tissue, 240 x 160 x 7mm, 250 x 140 x 15mm and 20 x 10 x 10mm.  The specimen is sliced.  One likely lymph node is identified.
+Blocks:  1 - one likely lymph node; 2 to 4 - random sections.  (TO: HM; HM/ua 21.11.66)
+&amp;#160;
+&amp;#160;
+MICROSCOPIC (Reported by A/Prof E. Sumter):
+A. - D.
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands) - grading is difficult due to the presence of treatment related necrosis and degeneration seen in some of the tumour.
+
+Microscopic tumour sites
+Pancreas
+Head of pancreas
+Uncinate process
+Duodenum
+
+Extent of tumour invasion
+Pancreas
+Duodenal wall
+Peripancreatic soft tissues
+
+Maximum tumour diameter: 45 x 35x 15mm - macroscopic measurement
+
+Lymphovascular invasion
+Present
+
+Type of vessel
+Vein
+
+Perineural invasion
+Present
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Present - perineural invasion is seen close to the SMA margin.
+
+Pre-invasive lesion
+Present focally within intra-pancreatic ducts.
+
+Margins:
+Pancreatic neck: Clear of invasive tumour.
+Bile duct (Specimen A): The paraffin sections of bile duct margin show no diagnostic evidence of malignancy. There is mucosal ulceration associated with a fibrino-inflammatory exudate and reactive epithelial changes. Entrapped clusters of reactive epithelial cells are seen within ulcer slough.
+Portal vein (superior mesenteric vein): Tumour extends to the inked portal vein bed. There is inflammation and diathermy change on this margin, but the proximity of tumour cells to the surface of the specimen indicates margin involvement.
+Superior mesenteric artery: Positive - tumour is transected at the red-inked SMA margin.
+Periuncinate soft tissue: 0.8mm clear
+The proximal gastric and distal small bowel margins are clear of tumour.
+
+Surfaces:
+Anterior: Well clear
+Posterior: Close but appears clear.
+
+Lymph nodes:
+Number found: Specimen B = 42; Specimen C = 2; Specimen D = 3
+Number involved: Specimen B = 10 out of 42; Specimen C = 1 out of 2; Specimen D = 0 out of 3.
+Note: occasional nodes are involved by direct spread and other nodes containing metastatic carcinoma show extranodal extension.
+
+Other pathologies: The tumour shows areas of tumour necrosis and fibrosis, consistent with treatment effect. Extensive, viable tumour is present within the pancreas and lymph nodes.
+Changes of chronic pancreatitis and parenchymal atrophy are present, most likely due to tumour-related obstruction or possibly treatment related effects.
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+PANCREAS
+T4 Tumour involves the celiac axis or the superior mesenteric artery (unresectable primary tumour) - Carcinoma is present at the SMA artery margin by direct spread and with close perineural invasion.
+
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+
+Distant metastasis category (pM)
+MX Not assessable by histology
+
+Comment:
+A provisional result indicating presence of residual, viable tumour and nodal disease was discussed with Dr E Corea by A/Prof E Leza, 21/09/2016 9:49:00 AM.
+
+DIAGNOSIS:
+A - D: Residual pancreatic adenocarcinoma with partial treatment effect (following neoadjuvant chemotherapy)
+Viable nodal metastases present.
+Numerous foci of neural involvement identified, including adjacent to SMA margin
+Tumour present at SMA and portal vein margins.

@@ -1,0 +1,127 @@
+SPR no: 59N907448R
+MRN no: 5959074
+Site_name: BULLI HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report59N90744 (59N907448R) Trojak, DEWAYNE THUKERI
+HISTOPATHOLOGY REPORT
+JOYCE PALMER HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Left breast IDC 2 o&amp;apos;clock, 4cm FN, 17mm size.  Left sentinel node biopsy axilla for frozen section.  Left breast cancer IDC 2 o&amp;apos;clock 4cm FN, 17mm size.
+
+1.  Left breast cancer, hookwire wide local excision.
+2.  Sentinel node.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT SENTINEL NODE AXILLARY BIOPSY&amp;quot;.  Consists of two closely applied LNs, each 9x5x4mm.  LN1, 9x5x4, pink.  LN2, 9X5X4, grey.
+
+F/S:  &amp;quot;Negative&amp;quot;.  Result was phoned to Ramon (Fellow) on 17/5/2071 by     O. Beyser.
+
+(1  TS x1 from LN1 and LN2; 2  remainder LN1; 3  remainder LN2).  RS (M-3).
+
+B.  &amp;quot;LEFT BREAST CANCER, HOOKWIRE WIDE LOCAL EXCISION&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Wide local excision, oriented
+SPECIMEN X-RAY:  Yes, hookwire split seen at G11, overlying area inked yellow.
+HOOKWIRE:  Yes, entering the specimen superiorly.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  75mm
+Superior to inferior:  50mm
+Anterior to posterior:  27mm
+WEIGHT:  57g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Standard:  Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial.
+Number of slices:  12
+FINDINGS / LESION:  Underlying the yellow inked area is a cavity surrounded an area of haemorrhage and fibrosis.  This is in slices 3 to 5.  Also noted in slices 7 and 8, is a well demarcated pale white lesion measuring 5 superior to inferior x 5 anterior to posterior x approximately 5 medial to lateral.  The lesion is 15mm from superior, 15mm from inferior, 15mm from anterior, 14mm from posterior, 30mm from lateral and 16mm from medial margin.  Representative sections taken.
+(1&amp;amp;2  longitudinal through lateral margin slice 1; 3&amp;amp;4  slice 2; 5&amp;amp;6  slice 3; 7&amp;amp;8  slice 4; 9&amp;amp;10  slice 5; 11-13  slice 7; 14-16  slice 8; 17&amp;amp;18  slice 10; 19&amp;amp;20  longitudinal through medial margin slice 12).  RS (M-20/MC 13/5/2071 km).
+MICROSCOPIC:  (Dr O Keeney)
+A. Routine and cytokeratin stained sections show two benign lymph nodes.
+
+B. Sections show five distinct foci of invasive lobular carcinoma ranging from 12 to 1mm in size. There is extensive lobular carcinoma in situ (LCIS) including areas of pleomorphic LCIS.
+Invasive lobular carcinoma is incompletely excised at the anterior margin and pleomorphic LCIS is 0.5mm from the anterior margin. See synoptic report.
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Multiple invasive foci
+Number and size of individual foci: 5 distinct foci 12, 8, 6, 2.5 and 1mm.
+Diameter of multifocal tumour bed: 50mm
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: 12mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE:  Invasive lobular carcinoma including pleomorphic type
+&amp;#160;
+HISTOLOGIC GRADE: 2
+&amp;#160;
+SCORES: Tubules: 3, Nuclei: 3, Mitoses: 1; Total score: &amp;#160;&amp;#160;(of 9)
+&amp;#160;
+MITOTIC RATE: 1&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identifed&amp;#160;
+PERINEURAL INVASION: Not identified
+
+SKIN INVOLVEMENT: Not applicable
+DERMAL LYMPHOVASCULAR INVASION: Not applicable&amp;#160;
+NIPPLE INVOLVEMENT: Not applicable&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Not identified
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Present
+LCIS type: Classical and pleomorphic
+LCIS Extent: Extensive
+&amp;#160;
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Positive
+Site and extent of margin involvement: 0.5mm front anterior margin (B12)
+&amp;#160;
+Distance of invasive tumour to other margins:
+Posterior: Well clear (&amp;gt;10mm)
+Superior: 5mm (B5)
+Inferior: Well clear (&amp;gt;10mm)
+Medial: Well clear (&amp;gt;10mm)
+Lateral: Well clear (&amp;gt;10mm)
+&amp;#160;
+PLEOMORPHIC LCIS MARGINS: Negative, Close
+Anterior: 0.5mm (B9)
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B5
+ER: Positive &amp;#160;98%, &amp;#160;3+
+PgR: Positive &amp;#160;98%, &amp;#160;3+
+HER2: Negative 0 (IHC)
+Ki67: 10 to 20%
+E-cadherin: Negative (consistent with lobular differentiation)
+&amp;#160;
+Other tumour block suitable for further testing: B10
+&amp;#160;
+SEPARATE FINDINGS: &amp;#160;Fibrocystic disease.
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 2
+
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): mpT1c, pN0
+
+DIAGNOSIS:
+A. LEFT SENTINEL LYMPH NODE BIOPSY - TWO BENIGN LYMPH NODES
+B. HOOKWIRE LOCALISED ORIENTED WIDE LOCAL EXCISION LEFT BREAST
+- MULTIPLE FOCI OF INVASIVE LOBULAR CARCINOMA INCLUDING AREAS OF PLEOMORPHIC INVASIVE LOBULAR CARCINOMA, LARGEST 12mm MAXIMUM EXTENT, 50mm MULTIFOCAL TUMOUR BED
+- EXTENSIVE PLEOMORPHIC LCIS
+- INVASIVE CARCINOMA INCOMPLETELY EXCISED AT THE ANTERIOR MARGIN
+19/5/68 ld

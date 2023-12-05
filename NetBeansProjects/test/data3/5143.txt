@@ -1,0 +1,45 @@
+
+Episode No:  73S469651G
+7364696.ODG
+
+Flamand, Hoyt 
+Lab No:  73S46965
+Euroka
+SYDNEY  Western Australia  3506
+Specimen: Tissue
+D.O.B:  15/1/2006
+Sex:  M
+Collected: 2/5/2066 at :
+Location:  PERI-OPERATIVEUNIT-BOOROWA MULTI PURPOSE SERVICE HOSPITAL
+DR Maurice JONELLE Subasic
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Perinephric tissue.  ?Fibrosis.  ?Tumour.
+Additional history from Dr BAILEY Bacayo, testicular tumour forty years ago.  Recent biopsy at NARACOORTE - sarcoma.
+DD:  1.  Post-radiation sarcoma.  2.  Germ cell tumour.
+Left nephrectomy, adrenalectomy, excision of retroperitoneal sarcoma.  Long double stitch - ureter, short single stitch - superficial, short double stitch - deep.
+MACROSCOPIC:
+A.  Specimen labelled "Perinephric tissue" consists of two pieces of tan tissue 12 x 10 x 3 and 7 x 6 x 2mm.  AE in 2 blocks for frozen section.
+FROZEN SECTION REPORT:
+Poorly differentiated large cell malignancy.
+Result to Dr Birdow by Dr U Polite/Dr U Ariano/Dr U Dobesh at 3:40pm 02.05.66
+B.  Specimen labelled "Left kidney adrenal masslong double stitch ureter, short single stitch superficial, short double stitch deep" consists of a kidney, perinephric fat, solid mass and skeletal muscle 200 x 170 x 80mm in aggregate.  The marking stitches are identified.  The solid tumour is surrounding the ureter and measures 120 x 75 x 90mm.  There are skeletal muscle fibres adherent to part of the external surface of the tumour.  The external surface of the tumour is ragged in multiple areas.  The tumour is clear of the kidney and is 10mm from the distal ureter margin.  The superficial aspect of the tumour is inked blue and the deep aspect is inked black.  Slicing of the tumour reveals vaguely lobulated pale and yellow solid cut surfaces with adipose tissue at the periphery.  The tumour abuts most of its peripheral surface (there is no intervening tissue between the tumour and the inked external surface in most of it periphery.  The kidney measures 105 x 65 x 55mm.  No focal lesions are identified within the kidney.  The pelvicalyceal system appears dilated to a diameter of 42mm and is filled with urine.  The adrenal gland measures 20x 15 x 7mm.  No focal lesions are identified within the adrenal gland. 
+Blocks:  1 - vascular resection margins of kidney (tied by sutures); 2 - shaved ureter margin (marked by long double suture); 3 - transverse section of ureterand surrounding tumour; 4 - inferior margin of tumour; 5 - transverse section of ureter and surrounding tumour; 6 - tumour and adjacent fatty tissue; 7 - tumour and adjacent fatty tissue; 8 - tumour andsuperficial margin (reserved block); 9 - lateral margin of tumour; 10 - tumour and adjacent medial fatty tissue; 11 - medial aspect of the tumour; 12 - tumour and deep margin; 13 - tumour and deep margin; 14 - superior margin of tumour; 15 - section of renal pelvis; 16 - section of kidney; 17 - representative adrenal gland; 18 - section of kidney.
+C.  Specimen labelled "Medium margin specimen", consists of two irregularly shaped and unorientated pieces of pale to tan solid tissue 35 x 25 x 10 and 35 x 15 x 15mm.  he external surfaces are inked black.  Slicing reveal palesolid cut surfaces.  
+Blocks: 1 to 3 - RS.  (PL/vo 2.2.66) 
+
+MICROSCOPIC (Reported by Dr U Popov):
+A & B.  Sections show a high grade undifferentiated sarcoma.  The tumour is highly cellular with a mixture of spindle cells and epithelioid shaped cells.  The tumour cells show marked nuclear pleomorphism with frequent mitoses (up to 10 per 10 HPF).  Large areas of necrosis are present (about 20%).  The ureter is completely obstructed by tumour.  The tumour has an infiltrative pattern and invades into the surrounding adipose tissue and skeletal muscle.  The tumour cells are positive for Vimentin and Desmin.  The stains for SMA, MNF-116, Cd31, CD34, CD117, S100 and Melan-A are negative.  The Ki-67 proliferation index ismore than 40%.  The appearances are consistent with those of undifferentiated high grade sarcoma.  The tumour is incompletely excised and extends to the both superficial and deep margins.  At the distal ureter resection margin, the tumour is also present within the surrounding soft tissue.  The kidney shows no significant abnormality except changes from ureteric obstruction.  The adrenal gland is unremarkable.  Further immunohistochemical stains are to follow and a supplementary report will be issued.
+C.  Sections show a high grade sarcoma.  The tumour appearances are identical to those described in the specimen A.  The tumour extends to the diathermied resection margin.  One (1) lymph nodeis identified in the adjacent fatty tissue.  The lymph node is unremarkable.
+FNCLCC grading system:
+
+Tumour differentiation:	Score 3
+Mitotic count:			Score 2 (10/10HPF)
+Tumour necrosis:		Score 1
+Histological grade:		Grade 3(total score 6)
+The block best for molecular genetic testing is:  B7
+DIAGNOSIS:
+A to C.  Left kidney adrenal mass - Undifferentiated high grade pleomorphic sarcoma.
+SUPPLEMENTARY REPORT (18/2/2066):
+The tumour cells are negative are CK5/6, EMA, Myogenin and ALK1.  The diagnosis is unchanged.
+

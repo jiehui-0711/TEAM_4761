@@ -1,0 +1,82 @@
+Episode No:  38I037645D
+3830376.KND
+
+LAURANGE, Seema JORGE 
+Lab No:  38I03764
+Ridler
+NORTHAM  WA  2573
+Specimen: Tissue
+D.O.B:  23/3/2010
+:  F
+Collected: 24/09/2013 at 13:22
+Location:  SEALS Central - MILDURA BASE PUBLIC HOSPITAL
+DR Val Josh Danilo-Longbine
+Distribution:   FILE-COPY
+
+ADDITIONAL REPORT (5/12/63)
+
+CLINICAL:
+Right mastectomy + sentinel node suture marking the lateral axillary margin.  Lesion x2 10 o'clock 5 and 6 cm from nipple.  Biopsy proven invasive ductal carcinoma no neoadjuvant radiotherapy.
+MACROSCOPIC:
+A.  Specimen labelled "Right sentinel node" consists of a large node30 x 10 x 10mm.  On sectioning it has a fatty appearance.  Imprints done.
+Blocks:  1 & 2 - lymph node.
+FROZEN SECTION REPORT:
+One lymph node.  No evidence of malignancy.
+Result to Anaesthetist by Dr I. Nicks at 2:45pm on the 24th of September 2013.
+B.  Specimen labelled "Right mastectomy and axillary tail" consists of a right mastectomy with a suture for the orientation marking the axillary tail.  It measures 180mm (medialto lateral), 150mm (superior to inferior) and 30mm (superficial to deep).  There is an ellipse of skin with nipple and areola surface measuring 150 x 40mm.  On the surface of the skin at 10 o'clock there is an area of bruising 20x 30mm.  That area has an indurated consistency.  The superficial margin is inked blue.  The deep margin is inked black.  On sectioning in the upper outer quadrant (at 10 o'clock) there is a sausage shape solid tumour with areas of haemorrhage.  The tumour measures 35 x 12 x 12 mm.  It is located 40mm from the nipple, 10mm from the deep margin, 45mm from superior margin more than 100mm from inferior margin.  The rest of the parenchyma has fibrofatty appearance.  No lymph nodes are identified in the axillary tail.
+Blocks:  1 - nipple and areola complex; 2 to 5 - serial sections of the tumour from lateral to medial at 10mm intervals; 6 - representative section of the most lateral section close to the tumour; 7 - representative section of the most medial tissue next to the tumour; 8 - representativesection of superior margin close to tumour; 9 & 10 - representative section upper inner quadrant; 11 & 12 - representative section lower inner quadrant; 13 & 14 - representative section lower outer quadrant.  (TO: FU;YK/rt 27.11.63)
+MICROSCOPIC (Reported by Dr I Pugmire):
+A and B.
+Invasive carcinoma:
+Site:  Right breast mastectomy, 10 o'clock 
+Type: Invasive ductal carcinoma
+Invasive tumour size: 35mm x 11mm x 9mm (single "sausage shape" lesion)
+Grade: 3   (Modified Bloom & Richardson)       
+Tubules:  3   Nuclei:  3    Mitoses: 3   Mitotic rate: 42/10hpf.
+Lymphovascular invasion:  absent
+	    
+DCIS component:  
+Not seen
+Excision Margins:  
+Invasive component:
+ Deep: 3mm
+ Other margins: > 10mm
+Receptors: 
+ER:    repeat staining to follow
+PR:   positive
+	30% of nuclei stained
+	predominant intensity of staining:    moderate 
+HER2 (Novocastra 10A7):   1+
+Ki67 index: > 90%
+Nipple:  no evidence of Paget's disease
+LCIS / ALH:    Absent
+Sentinel lymph node(s):
+No. of sentinel lymph nodes examined:  2 
+No. of sentinel nodes involved by tumour:  0
+DIAGNOSIS:
+Right breast and sentinel lymph nodes:
+	Single invasive ductal carcinoma NOS, grade 3, measuring 35 x 11 x 9mm, repeat ER to follow, PR positive, HER2 1+, Ki67 > 90%, HER2 SISH to follow in anadditional report.
+	2 lymph nodes with no evidence of malignancy
+
+
+ADDITIONAL REPORT (3/12/63)
+ER:   < 1% of nuclei stained (performed on blocks B3 and 4, with satisfactory internal and external controls, shown to Dr WALLACE CAMERON)
+	predominant intensity of staining:    mild
+Repeat PR staining (block B4):
+	positive
+	30% of nuclei stained
+	predominant intensity of staining:    moderate 
+In view of the unusual pattern of ER and PR expression in the lesion, tissue has been sent to BLACKALL HOSPITAL Hospital, ALICE SPRINGS, for repeat ER and PR immunohistochemistry (to follow).
+
+ADDITIONAL REPORT (5/12/63)
+Repeat ER and PR staining was performed at HAY DISTRICT HOSPITAL Hospital, TRAFALGAR (block B4).
+ER:   < 1% of nuclei stained
+	predominant intensity of staining:    weak 
+PR:   positive
+	20 % of nuclei stained
+	predominant intensity of staining:moderate 
+COMMENT
+The existence of ER -ve, PR +ve cancer has been disputed in the literature. Some authors suggest positive PR staining in this context may be due to non-specific binding by PR antibody (De Maeyer et al,, J Clin Oncol. 2008 Jan 10;26(2):335-6 and Hefti at al., Breast Cancer Research 2013, 15:R68).
+Furthermore the morphology and positive CK5/6 staining in the lesion would favour a triple-negative basal phenotype.
+ 
+

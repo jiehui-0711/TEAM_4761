@@ -1,0 +1,67 @@
+SPR no: 95F406613C
+MRN no: 9514066
+Site_name: YARRA RANGES HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  95F406613C
+9514066.DKC
+
+MONIGOLD, KEENAN 
+Lab No:  95F40661,95F40661
+Wake Robin
+MEEKATHARRA  WA  5415
+Specimen: Marrow,Tissue
+D.O.B:  22/4/1982
+Sex:  F
+Collected: 25/03/2014 at 15:41
+Location:  Envoi-STRATHALBYN AND DISTRICT HEALTH SERVICES
+PRO ELMER LISCIO
+Distribution:   FILE-COPY
+BONE MARROW REFERENCE No. 95F406613C
+
+Site:TRESILLIAN FAMILY CARE CENTRE - WILLOUGHBY
+HISTORY / INDICATION: Macrocytic anaemia for investigation
+Peripheral Blood:
+Hb: 82 g/L			Neutrophils: 2.3 x10e9/L
+MCV: 104.2 fL			Lymphocytes: 1.0 x10e9/L	
+WBC: 3.68 x10e9/L		Monocytes: 0.20 x10e9/L	
+Platelets: 200 x10e9/L		Eosinophils: 0.11 x10e9/L
+				Basophils: 0.03 x10e9/L
+		
+Film report: RBC: Macrocytic anaemia with anisocytosis. RBCs are often irregularly contracted. Occasional tear drop poikilocytes. WBC: Neutrophils are hypogranular and frequent abnormally lobulated and pelgeroid forms. Platelets: 	Normal in number and morphology. 
+ASPIRATE
+Ease / difficulty of aspiration: Easy aspirate
+Cellularity of particles and trails:	Hypercellular for age.
+M: E ratio: 4.4 : 1		No. of cells counted 500
+Nucleated Differential Cell Count (%):
+Blasts:	1			Lymphocytes: 12	
+Promyelocytes: 3		Plasma Cells: &amp;lt;1
+Myelocytes: 11			Monocytes: 1
+Metamyelocytes: 12 		Eosinophils: 2
+Neutrophils/Bands: 42		Basophils: &amp;lt;1
+Erythroblasts: 16	
+ 							
+Erythropoiesis: Erythropoiesis is relatively reduced with significant features of dysplasia including N:C asynchrony, abnormally lobulated forms and occasional forms with karyorrhexis. 
+Granulopoiesis: Granulopoiesis is relatively increased in activity with dysplastic features including hypogranulation and abnormal lobulation.
+Megakaryocytes: Megakaryocytes are plentiful with dysplastic features including frequent hypolobulated forms,multinucleated forms and occasional micromegakaryocytes.
+Other cells: Lymphocytes are predominantly mature and normal in morphology.
+Abnormal cells: N/A
+Iron stain: Iron stores reduced with no ring sideroblasts seen.
+Cytogenetics: Karyotype 46,XX,del(5)(q13q31)15/46,XX5
+Aspirate Report: Hypercellular bone marrow with significant morphological features of dysplasia in all three lineages of haematopoiesis. Erythropoiesis is relatively reduced in activity. Overall the morphological findings aresuggestive of underlying myelodysplastic syndrome as the cause of the macrocytic anaemia.
+
+__________________________________________________________________
+Cancer Registry: Y
+Registrar: Dr BRYCE SAPPAH		
+Haematologist: Dr CORNELIUS CHAMPLAIN
+TREPHINE BIOPSY
+Length and condition of core: 15mm core with haemorrhagic artefact
+Cellularity: Hypocellular
+Bone architecture: Normal
+Reticulin stain:	WHO grade 0-1
+Trephine Biopsy Report:  Hypocellular bone marrow biopsy. Erythropoiesisis reduced with reduction in number and size of erythroid islands. Granulopoeisis appears normal in activity. There are no obvious dysplastic features in the erythroid and granulopoietic cell lines on trephine biopsy. Megakaryocytes appear relatively increased with marked nuclear hypolobation. 
+CONCLUSION:	Bone marrow biopsy morphological findings are suggestive of underlying myelodysplastic syndrome. In correlation with cytogenetics results, the findings are consistent with Myelodysplastic Syndrome with isolated del(5q) (ICD 9986/3). Macrocytic anaemia is likely explainedby the underlying myelodysplastic syndrome. 
+__________________________________________________________________
+Cancer Registry: Y
+Registrar:	Dr HAROLD POLSGROVE	
+Haematologist: Dr ULYSSES VANVRANKEN

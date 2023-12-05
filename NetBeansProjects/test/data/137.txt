@@ -1,0 +1,34 @@
+
+Episode No:  66N213723L
+0366339.III
+
+SARULLO, RUBIN 
+Lab No:  03R63393,03R63393
+S Creme
+POINT VERNON  TAS  2873
+Specimen: Washings,Tissue
+D.O.B:  27/7/1995
+Sex:  F
+Collected: 24/09/2012 at 17:25
+Location:  105 HAMRUN CIRCUIT - LEETON DISTRICT HOSPITAL
+DR EDA JULIA BRINGHURST
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Grade 1 endometrial cancer on curettings.  
+MACROSCOPIC:
+Specimen labelled "Uterus, tubes, ovaries" consists of auterus with attached cervix, bilateral fallopian tubes and ovaries weighing 130g in total.  The uterus measures 80 x 60 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 28mm and has an unremarkable surface.  Theanterior endocervix contains a 7mm polypoid mass which protrudes from endocervical os.  The endometrium is up to 1mm in thickness.  There is a polypoid mass close to the left cornua in the anterior aspect measuring 9 x 8 x 4mm.  On sectioning no distinct invasive tumour is identified.  The myometrium is up to 25mm in thickness and contains scattered small cystic spaces (?adenomyosis).  The posterior endometrium appears focally polypoid, 2 x 1 x 1mm (block 8).  The right fallopian tube measures 55mm in length and 5mm in diameter.  The right ovary measures 20 x 15 x 10mm and has an unremarkable cut surface.  The left fallopian tube measures 58mm in length and 6mm in maximum diameter.  The left ovary measures 22 x 12 x 9mm and has an unremarkable cut surface.  The right cornu appears slightly ragged (block 15).
+Blocks:  1 to 4 - one full LS of anterior body and cervix; 5 & 6 - polypoid mass; 7 to 10 - one full LS of posterior body and cervix; 11 - right parametrial; 12 - left parametrial; 13 - right fallopian tube and ovary; 14 - left fallopian tube and ovary; 15 - right cornu.  (KZ/mm 28.11.62)
+MICROSCOPIC (reported by Dr A Pennebaker):
+Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  The tumour is confined to the endometrium and within adenomyotic foci.  No myometrial or lymphvascular invasion is seen.
+The ectocervix and endocervix areuninvolved and unremarkable.  Both ovaries and tubes are unremarkable.
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium.  No myometrial or lymphvascular invasion.  Cervix uninvolved.
+SUPPLEMENTARY REPORT (Reported by Dr A Hinaman, 11.2.62)
+Immunoperoxidase stains formismatch repair gene products were requested by Dr A Nickelston. 
+Immunohistochemistry for mismatch repair gene products has been performed on block 6.
+MLH1:  Retained (positive) nuclear reactivity within tumour cells
+PMS2:  Retained (positive) nuclear reactivity within tumour cells
+MSH2:  Retained (positive) nuclear reactivity within tumour cells
+MSH6:  Retained (positive) nuclear reactivity within tumour cells
+Comment: No loss of expression of these mismatch repair gene products has beendetected.  Although immunohistochemistry has relatively high sensitivity, it does not detect every tumour in which there is a mutation of one of these genes.
+

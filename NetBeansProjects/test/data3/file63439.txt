@@ -1,0 +1,128 @@
+SPR no: 49O077943F
+MRN no: 495077
+Site_name: DYSART HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report49O07794 (49O077943F) SANDUSKY, MORTON
+HISTOPATHOLOGY REPORT
+QUILPIE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+R breast 6 o&amp;apos;clock.
+Frozen section right sentinel lymph node.
+Right breast wide local excision, sutures long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT SENTINEL LYMPH NODE BIOPSY&amp;quot;. Fatty tissue contains two small lymph nodes.
+
+F/S : &amp;quot;No evidence of malignancy&amp;quot;. Reported by Dr. L. Helander on 18.1.73.
+
+(1 FS; 2 remainder of lymph node 1; 3 remainder of lymph node 2). Representative sections.  (M-3).
+
+B. Specimen labelled &amp;quot;2 WIDE LOCAL EXCISION RIGHT BREAST&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  55mm
+Superior to inferior:  60mm
+Anterior to posterior:  40mm
+WEIGHT:  38g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 10
+FINDINGS / LESION:  Within slices 7 and 8 there is a stellate white centrally haemorrhagic lesion measuring 8mm medial to lateral, 11mm superior to inferior and 8mm anterior to posterior. It is 10mm from anterior margin, 15mm from posterior margin, 20mm from superior, 14mm from inferior, &amp;gt;20mm from medial and lateral margins.
+(1 LS slice 1, 2; 2&amp;amp;3 mid portion of slice 5; 4&amp;amp;5 portion of slice 6; 6-8 full face slice 7;  9-11 slice 8; 12&amp;amp;13 slice 9; 14 LS slice 10). Representative sections. (M-14/SM 24/1/2069 ank)
+MICROSCOPIC:  (Dr L Clague)
+
+DIAGNOSIS:
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA (Specimen B):
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single invasive focus
+
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;14mm
+
+INVASIVE CARCINOMA TYPE:  Invasive carcinoma of no special type (ductal)&amp;#160;
+
+HISTOLOGIC GRADE:  1
+&amp;#160;
+SCORES: Tubules:  2, Nuclei:  2, Mitoses:  1; Total score: 5 (of 9)
+&amp;#160;
+MITOTIC RATE: 1&amp;#160;&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 14mm&amp;#160;
+
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identifed
+&amp;#160;
+PERINEURAL INVASION: Absent
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): 10%
+
+SKIN INVOLVEMENT: Not applicable
+
+DERMAL LYMPHOVASCULAR INVASION: Not applicable
+&amp;#160;
+NIPPLE INVOLVEMENT: Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Not identified
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Negative
+&amp;#160;
+Distance of invasive tumour to margins:
+Anterior: 6 mm (B10)
+Posterior: 11mm (B10)
+Superior: 16mm (B9)
+Inferior: 12mm (B8)
+Medial: at least 30mm
+Lateral: at least 14mm
+&amp;#160;
+ANCILLARY TESTS:
+Hormone receptors and Her-2 Immunohistochemistry pending block B10 - supplementary report to follow.&amp;#160;
+&amp;#160;
+RESERVE BLOCK: B10
+
+OTHER COMMENTS:
+1. There is focal atypical columnar cell change seen in ducts within the tumour however no diagnostic features of DCIS are seen.
+2. There is cavity with fat necrosis and fibroblastic reaction consistent with previous biopsy.
+
+LYMPH NODES
+SENTINEL LYMPH NODE (Specimen A): Not involved
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0 (CAM5.2 shows dendritic pattern staining only)
+Total number of nodes examined: 2
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c, pN0
+
+DIAGNOSIS:
+A: SENTINEL NODE RIGHT BREAST: NEGATIVE FOR MALIGNANCY.
+
+B: RIGHT BREAST TISSUE: INVASIVE DUCT CARCINOMA - NST (GRADE 1)
+
+26.2.73
+
+SUPPLEMENTARY REPORT:
+IMMUNOSTAINS, block B10
+ER: Positive 80%, 3+
+PgR: Positive 50%, 2+
+HER2: Negative 1+ (IHC)
+Ki67: less than 10%
+23.1.69

@@ -1,0 +1,205 @@
+DateOfBirth
+199903230000
+
+
+SiteName
+NEWMAN HOSPITAL
+
+
+FirstName
+Darrah
+
+
+SPRID
+88W889006J
+
+
+MRN
+8888890
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+88W88900,88W88900 (88W889006J) SLOWIK, CLEMENTE
+
+HISTOPATHOLOGY REPORT
+CALOUNDRA HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Endometrial cancer - uterus, tubes and ovaries 2. Bilateral sentinel pelvic lymph nodes.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. Uterus with cervix and attached tubes and ovaries. The uterus and cervix measure 80mm superior to inferior, 60mm medial to lateral and 60mm anterior to posterior. There is a fibroid in left anterior myometrial wall measuring 45mm diameter. The uterine serosal surface shows no lesions.
+- The right fallopian tube is 40 mm in length and includes fibria. Part of the medial tube in one area appears deficient ?previous ligation. There is a 6mm diameter parafimbrial cyst.
+- The right ovary measures 15x10x8mm and shows a small 5mm cyst.
+- The left fallopian tube with fimbria measures 35mm in length and includes fimbrial end.
+Part of the medial tube in one area appears deficient ?previous ligation.
+- The left ovary measures 15x10x7mm and shows no lesions.
+The endometrium of anterior and posterior body, extending from upper endocervix to fundus is thickened to 10mm and pale, with nodular and friable areas. This area of lesion is about 30mm diameter. There is pale tissue in superficial myometrium ?invasion. The anterior and posterior myometrium are 15mm thick.
+
+(1,2  anterior, posterior cervix; 3  fundus, right side; 4,5  anterior and posterior endomyometrium right side; 6,7 anterior, posterior endomyometrium, left side;
+8 right tube; 9 right ovary and fallopian tube; 10  left tube; 11 left ovary and left fallopian tube). Representative sections. (M-11). AA
+- Further blocks:
+A12 anterior, lower segment; A13,14 anterior body; A15 fundus; A16 posterior body.
+The fibroid nodule is completely calcified or ossified with no soft areas.  LV
+- Further blocks:
+A17 remaining R ovary tissue; A18 remaining L ovary tissue; A19,20 posterior endomyometrium; A 21,22 remaining anterior or posterior endomyometrium sections; nearly all endometrium processed. LV
+- Part of heavily calcified fibroid decalcificatied. LV blocks A23, A24
+
+B.  &amp;quot;RIGHT SENTINEL NODE&amp;quot;. Yellow fibrofatty tissue measuring 10x10x5mm. No definite lymph node is identified. All embedded.  (1-1).
+
+C.  &amp;quot;LEFT SENTINEL NODE&amp;quot;. Yellow fibrofatty tissue measuring 20x10x5mm. One lymph node is identified measuring 6x3mm. Lymph node is bisected block C2. Rest of the tissue  block C1. All embedded. (M-2/AA 27/1/2070 km).
+
+MICROSCOPIC:  Dr V. Escher
+
+A.  UTERUS, TUBES AND OVARIES:
+
+There is an endometrial carcinoma present. The tumour has focal solid areas and in section A20 there are areas with more atypical hyperchromatic basophilic nuclei and increased mitoses. This is less atypical than that seen in serous carcinoma and Immunohistochemistry on this section (A20) shows normal p53 staining and a profile consistent with endometrioid carcinoma and staining similar to other areas of the tumour. The carcinoma is grade 2. There is invasion both into myometrium and into endocervical stroma.
+
+ENDOMETRIAL CARCINOMA, SYNOPTIC:
+(based on CAP 2020 Endometrium 4.1.0.2; RCPA V2 2019, FIGO 2018)
+
+Procedure:   Total hysterectomy and bilateral salpingo-oophorectomy
+
+Tumor Site:   Fundus, body, isthmus
+
+Tumor Size:   30mm greatest dimension
+
+Histologic Type:   Endometrioid carcinoma, NOS
+
+Histologic Grade:   FIGO grade 2
+
+Myometrial invasion:   Present.
+
+Depth of myometrial invasion:   5mm (section A6)
+
+Myometrial thickness:   18mm
+
+Percentage of myometrial invasion:   30%
+
+MELF pattern of invasion:   Not identified
+
+Uterine Serosa Involvement:   Not identified
+
+Distance of myoinvasive tumour to serosa:   13mm
+
+Lymphovascular Invasion:   Not identified
+
+Cervical Stromal Invasion:   Present
+
+Depth of cervical stromal invasion:   3mm out of 13mm (section A2)
+
+Distance of tumour to cervical resection margin:  10mm (paracervical margin)
+
+Parametria:   Not involved
+
+Adnexa:
+Not involved:
+Right ovary:   No histologic abnormality
+Left ovary:   No histologic abnormality
+Right fallopian tube:  No histologic abnormality
+Left fallopian tube:   No histologic abnormality
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Endometrium:  An area of endometrial polyp is present (A19). There is no atypical endometrial hyperplasia.
+Myometrium:   Heavily calcified leiomyoma present
+Ectocervix:  Partly denuded normal squamous mucosa
+Endocervix:  Normal endocervical mucosa.
+
+REGIONAL LYMPH NODES:
+B.  RIGHT SENTINEL NODE:
+The sections show fat with a few very small aggregates of crushed lymphoid cells/tissue. No definite lymph node tissue is identified. Multiple levels examined.
+
+C.  LEFT SENTINEL NODE:
+Number of  nodes with macrometastasis: 0
+Number of nodes with micrometastasis: 0
+Number of nodes with isolated tumor cells: 0
+Number of  sentinel lymph nodes examined: 1
+
+IMMUNOHISTOCHEMISTY (IHC):
+Block: A2, endometrial carcinoma, isthmus
+Mismatch Repair Proteins (MMRP) Immunohistochemical stains (IHC):
+MLH1: deficient (abnormal)
+PMS2: deficient (abnormal)
+MSH2: intact (normal)
+MSH6: intact (normal)
+
+Conclusion relating to MMRP results:
+The tumour cells show loss of expression of the MMR proteins MLH1 and PMS2 (with normal nuclear staining for MSH2 and MSH6). MLH1 promoter hypermethylation has not been tested. This is similar to the previous curettings result. This pattern is likely to be sporadic, although it is possible that this MMR protein deficiency is due to Lynch syndrome or related syndromes. Testing for MLH1 promoter hypermethylation is recommended, or this patient may be referred to clinical genetics services, depending on clinical findings.
+
+NOTE:  Referral to clinical genetics services should be considered despite this result in the presence of a strong family/clinical history.
+
+ER: positive 90% of cells, 3+
+PR: positive 90% of cells, 3+
+HER IHC: negative
+p53 IMMUNOHISTOCHEMISRTY (IHC):
+p53 IHC pattern: Normal expression
+
+Block: A20, endometrial carcinoma, uterine body focal area with hyperchromatic nuclei:
+IHC results are similar to above, with p53 normal pattern, MLH1 loss, ER and PR positive, WT1 negative, p16 variable, HER2 IHC negative (0). Ki67 labelling is high in this area and focally in other areas of the carcinoma in this section. The immunostains do not suggest a serous carcinoma component.
+
+PROVISIONAL PATHOLOGICAL FIGO STAGE pre-MDT:   II (2)
+(2018 FIGO Cancer Report)
+
+DIAGNOSIS:
+A.  UTERUS, TUBES AND OVARIES:
+- tumor uterine fundus, body, isthmus;
+- 30mm greatest dimension;
+- endometrioid carcinoma;
+- FIGO grade 2;
+- myometrial invasion present (5mm through myometrial thickness 18mm);
+- cervical stromal invasion present;
+- distance of tumour to cervical resection margin:  10mm (paracervical margin)
+- adnexa not involved;
+- right and left ovary:  ovaries (2) with no histologic abnormality;
+- right and left fallopian tube:  fallopian tubes (2) with no histologic abnormality;
+- myometrium - heavily calcified leiomyoma;
+- endometrial tumour is MMR protein deficient (MLH1 and PMS2 loss), ER and PR positive, p53 normal staining and HER2 IHC negative;
+- see &amp;apos;Conclusion&amp;apos; relating to MMRP results.
+
+B.  RIGHT SENTINEL NODE:
+- fat with a few very small aggregates of crushed lymphoid cells/tissue;
+- no definite lymph node tissue identified.
+
+C.  LEFT SENTINEL NODE:
+- Sentinel node negative for tumour involvement (0/1).
+-------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT: 2/4/2070
+Decalcified sections of the 45mm diameter fibroid show a heavily calcified leiomyoma.
+The above diagnosis is unchanged.
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2681-01-28 00:00:00
+
+
+LastName
+Knab

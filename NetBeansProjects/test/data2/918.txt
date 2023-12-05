@@ -1,0 +1,49 @@
+Episode No:  51I4050778
+5134050.TUW
+
+Stiehl, FLETCHER 
+Lab No:  51I40507
+Mossrock
+COONABARABRAN  TAS  6335
+Specimen: Tissue
+D.O.B:  16/12/1983
+Sex:  M
+Collected: 08/01/2013 at 09:02
+Location:  3HR STAY SURGICALUNIT-ROCHESTER AND ELMORE DISTRICT HEALTH SERVICE
+DR Gale Lazaro Brazeau
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Partial left glossectomy, level 1-3 neck dissection.  Left neck node - level 2 and 3.  Left neck lymph node - level 2A.  Left neck node - level I.  Submental triangle.  Additional posterolateral mucosal margin left triangle - all in formalin.  
+MACROSCOPIC:
+A.  Specimen labelled "Left tongue, suture anterior" consists of an orientated hemiglossectomy measuring 55 x 40mm to a depth of 30mm with a suture attached to one pole marking anterior designated 12 o'clock.  The 3 o'clock margin is inked green and the 9 o'clock margin is inked black.  On the centre of the mucosa there is an area of ulceration. 25 x 20mm.  Surrounding this there is a cream plaque measuring 30 x 25mm which appears to come close to the 12 and 9 o'clock margin.  
+Blocks:  1 to 2 - 6 o'clock margin; 3 to 10 - serial TS through lesion from the 6 to 12 o'clock ends (paired blocks 3 & 4, 5 & 6, 7 & 8, 9 & 10); 11 to 13 - 12 o'clock margin. 
+B.  Specimen labelled "Left neck node level I" consists of apiece of unoriented tan fatty tissue, 60 x 55 x 28mm.  The majority of the specimen is taken up by lobular appearing tan tissue.  One ?lymph node 8mm is identified.  The rest of the glandular tissue appears unremarkable.  
+Blocks:1 - representative glandular tissue; 3 - one ?lymph node bisected.  AE.
+C.  Specimen labelled "Left neck lymph node level IIA" consists of two pieces of tan fatty tissue, 40 and 50mm.  Multiple lymph nodes identified from 2 to 15mm.  AE 2 blocks.  
+D.  Specimen labelled "Left lymph node level II & III" consists of a piece of fatty tissue, 90 x 28 x 18mm.  Multiple lymph nodes are identified from 2 to 10mm.  AE 3 blocks.  
+E.  Specimen labelled "Submental triangle" consists of a piece of fatty tissue, 40 x 25 x 8mm.  Two lymph nodes are identified 6 and 8mm.  AE 1 block.
+F.  Specimen labelled "Additional posterolateral mucosal margin" consists of a strip of mucosa, 22 x 2mm to a depth of 4mm.  Serially sectioned AE 1 block.
+(TO: KC; ZN/mm3.10.63) 
+
+
+MICROSCOPIC:  (Reported by Dr O Metrick):
+A.  Sections show a large ulcerated moderately differentiated squamous cell carcinoma of the left tongue.  The tumour infiltrates the skeletal muscle of the tongue and has an estimated thickness of 15mm.  Foci of perineural invasion are seen withinthe tumour but not at the advancing edge and no lymphovascular invasion is identified.  
+The tumour infiltrates close to the deep surgical margin centrally with an estimated clearance of 0.5mm.  The lateral margin is 2mm clear and the anterior margin 8mm clear.  The posterior margin has an estimated clearance of 3mm and the medial margin has an estimated clearance of 2mm.  
+There is a small amount of adjacent squamous carcinoma in situ and CIS is clear of thesurgical margins with the closest margin being posterior which is 2mm clear.  
+B.  The submandibular gland appears normal and the single level I lymph node identified is negative for tumour.
+C.  The five lymph nodes identified are negative for tumour.
+D.  The sixteen lymph nodes identified are negative for tumour.
+E.  The two lymph nodes identified are negative for tumour.
+F.  Sections show squamous lined mucosawith minor salivary glands and underlying adipose tissue.  There is no evidence of CIS or infiltrating tumour.
+DIAGNOSIS:
+A.  Left tongue, excision:  
+-	Moderately differentiated squamous cell carcinoma, thickness 15mm;
+-	Close deep margin (0.5mm clear);
+-	Other margins clear of infiltrating tumour (lateral 2mm, anterior 8mm, posterior 3mm, medial 2mm);
+-	Surgical margins clear of squamous carcinoma in situ (posterior 2mm).
+B.  Left neck lymph nodes, level I:  Lymph nodes (x 1) negative for tumour.
+C.  Left neck lymph nodes, level IIA:  Lymph nodes (x 5) negative for tumour.
+D.  Left neck lymph nodes, levels II & III:  Lymph nodes (x 16) negative for tumour.
+E.  Submental triangle lymph nodes:  Lymph nodes (x 2) negative for tumour.
+F.  Additional posterolateral mucosal margin:  No infiltrating tumour or CIS.
+

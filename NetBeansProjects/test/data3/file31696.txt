@@ -1,0 +1,58 @@
+SPR no: 51I425252O
+MRN no: 5134252
+Site_name: BROADMEADOWS HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportAMENDED REPORT FOR TYPOGRAPHIC ERROR (14/2/67)
+
+CLINICAL:
+Right back muscle lesion ?recurrent liposarcoma.  Left pelvic lesion ?recurrent liposarcoma.  Previous right retroperitoneal liposarcoma 2064.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right back muscle tumour ?sarcoma stitched superior&amp;quot;, consists of fibroadipose tissue and muscle, 83 x 48 x 55mm, with an overlying ellipse of skin, 85 x 20mm.  There is a suture within the soft tissue marking superior, which will arbitrarily be taken as 12 o&amp;apos;clock.  The skin surface is unremarkable.  The superior/12 o&amp;apos;clock margin is inked blue and the inferior/6 o&amp;apos;clock margin is inked black.  The specimen is sectioned transversely from 3 o&amp;apos;clock to 9 o&amp;apos;clock into thirteen slices.  Within skeletal muscle, there is a firm, pale grey tumour in slices six to twelve, 40 x 25 x 23mm.  The tumour is 1mm from both the superior/12 o&amp;apos;clock and the deep margin (meeting point between blue and black ink).
+Blocks: 1 - LS slice one (3 o&amp;apos;clock); 2 - deep aspect slice six; 3 - deep aspect slice seven; 4 to 8 - slice eight; 9 to 13 - slice nine; 14 - deep aspect slice ten; 15 - deep aspect slice eleven; 16 - deep aspect slice twelve; 17 &amp;amp; 18 - LS slice thirteen (9 o&amp;apos;clock).  Complete visible tumour embedded.  Please refer to block diagram.
+
+B.  Specimen labelled &amp;quot;Recurrent liposarcoma left pelvis&amp;quot;, consists of a non-oriented, nodular, pale grey tumour, 52 x 48 x 34mm.  The outer surface is inked blue.  On sectioning, the tumour has a solid, relatively uniform, fibromyxoid appearance.  No areas of necrosis are identified.  RS 6 blocks.  (Block 6 - reserve block).  (TO:JB/rs 29/10/69)
+
+Slides received MY 1/6/70.
+
+
+MICROSCOPIC (Reported by Dr P Gately):
+A. Sections show a high grade spindle cell sarcoma largely located within skeletal muscle. The majority of the lesion is encapsulated, and is composed of atypical, spindle shaped tumour cells with pleomorphic, hyperchromatic nuclei forming intersecting short fascicles. Scattered giant cells with bizarre nuclei are present. There are 60 mitoses per 10 hpf, including atypical forms. Areas of hyalinisation are present in the centre of the lesion. No convincing coagulative necrosis is identified.
+
+FNCLCC grade: 3 (6 out of 8)
+Tumour differentiation: 3 (morphologically undifferentiated sarcoma)
+Necrosis: 0
+Mitoses: 3 (&amp;gt; 20/10 hpf)
+
+Immunohistochemistry:
+To follow.
+
+Margins:
+Deep: focal +ve over a 0.7mm front
+Inferior: 5mm
+Superior: 7mm
+Medial: 10mm
+Other margins: &amp;gt; 15mm
+
+Comment: The features are of a high grade spindle cell sarcoma. While no well differentiated liposarcoma is seen, given the previous history of dedifferentiated liposarcoma, the features would be consistent with high-grade dedifferentiated liposarcoma.
+
+B. Sections show high-grade dedifferentiated liposarcoma. A capsule of variable thickness and extensive hyalinisation are seen.  Much of the lesion resembles high grade undifferentiated sarcoma, similar to specimen A. Up to 21 mitoses are present per hpf. In addition there are less cellular areas characterised by scattered tumour cells with pleomorphic nuclei located within myxoid stroma. Tumour cells with nuclei indented by cytoplasmic vacuoles are seen, suggestive of lipoblastic differentiation (B2). No necrosis is identified.
+
+High-grade tumour is &amp;lt; 0.1mm from the margin in several sections.
+
+
+DIAGNOSIS:
+A. Right back muscle tumour:
+- 40mm high-grade spindle cell sarcoma, consistent with high-grade dedifferentiated liposarcoma
+- Confirmatory immunohistochemistry to follow
+B. Left pelvis recurrent tumour: 52mm high-grade dedifferentiated liposarcoma
+ADDITIONAL REPORT (2/9/66)
+A. The tumour cells are negative for EMA, Melan A, myogenin, panCK, SMA and SOX10. Positive staining is seen for vimentin. Non-specific focal weak staining is seen for S100 and desmin. Vimentin is positive. Ki67 index is approximately 15%.
+
+The diagnosis is unchanged.
+
+
+AMENDED REPORT FOR TYPOGRAPHIC ERROR (15/1/69)
+The diagnosis for specimen A should read &amp;quot;high-grade spindle cell sarcoma&amp;quot; not &amp;quot;high-grade spindle cell carcinoma&amp;quot;.
+
+This has been amended above.

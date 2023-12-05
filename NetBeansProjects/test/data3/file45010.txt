@@ -1,0 +1,40 @@
+SPR no: 18R093852R
+MRN no: 10420955
+Site_name: ROYAL REHABILITATION HOSPITAL - COORABEL/MOORONG
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 1 endometrial cancer.  Laparoscopic hysterectomy and bilateral salpingectomy and left oophorectomy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes + left ovary&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and left ovary weighing 178g in total.  The uterus measures 105 x 80 x 42mm and has a smooth shiny serosal surface.  The ectocervix measures 32 x 30mm and there is a punctum measuring 5 x 2mm at the anterior aspect, the rest of the surface is unremarkable.  On section, the endometrium is up to 8mm in maximum thickness (including the endometrial lesion), with possible invasion into the myometrium.  The myometrium is 23mm in maximum thickness.  The myometrium contains a fibroid, 10mm in maximum diameter.  The right fallopian tube measures 77mm in length and 9mm in maximum diameter.  The left fallopian tube appears to be disrupted and the segment submitted measures 50mm in length and 8mm in maximum diameter.  There is a cyst noted on the fallopian tube serosal surface.  The left ovary measures 33 x 31mm, on one end the ovary appears to be flattened.  The cut surface shows multiple cysts ranging from 3mm to 15mm in diameter.  Blocks: 1 to 4 - full longitudinal section of anterior body and surface; 5 to 8 - full longitudinal section of posterior body and surface; 9 to 11 - further representative sections from anterior aspect of myometrium; 12 to 16 - further representative sections of posterior aspect myometrium; 17 - right fallopian tube fimbria bisected; 18 - TS of right fallopian tube; 19 - left fallopian tube fimbria bisected; 20 - TS of left fallopian tube; 21 to 24 - RS of left ovary.
+
+B.  Specimen labelled &amp;quot;Right external iliac sentinel lymph node&amp;quot;, consists of a piece of fibrofatty tissue measuring 12 x 10 x 3mm.  One possible lymph node is identified measuring 8mm in greatest dimension.  Bisected.  Blocks: 1 - lymph node bisected; 2 - remaining fat.  AE 2 blocks.
+
+C.  Specimen labelled &amp;quot;Left external iliac sentinel lymph node&amp;quot;, consists of a piece of fibrofatty tissue measuring 21 x 11 x 5mm.  One possible lymph node is identified measuring 18mm in greatest dimension.  Trisected block 1.  (TO:YP/eh 7/7/69)
+
+
+MICROSCOPIC (Reported by Dr K Janosko):
+A. The sections show endometrioid adenocarcinoma FIGO grade 1 (architectural grade 1, nuclear grade 1) involving much of the endometrium and extending to the lower uterine segment (slide A7) where it invades 1.5mm in myometrium 15 mm thick.  The cervix is not involved.   Areas of squamous metaplasia are noted in the adenocarcinoma.  Focal lymphovascular invasion is seen in superficial myometrium (slide A2).  Areas of adenomyosis are noted (slide A3) and adenocarcinoma extends along adenomyosis to a depth of 8 mm in a myometrium 20 mm thick (slides A9, A10).  In the uterine body, adenocarcinoma invades to a depth of 2 mm in a myometrium 18 mm thick (slide A12).  Scattered intramural leiomyomata with no atypical features are seen.
+A small amount of uninvolved endometrium is seen, showing pseudodecidual change of the stroma and irregularly shaped, dilated glands (slide A15).
+The fallopian tubes show a few adjacent Walthard and simple serous cysts. There is no evidence of malignancy or dysplasia in the fallopian tubes and ovary. The ovary shows primordial and developing follicles, a corpus luteum cyst, corpora albicantes and mesothelial inclusion cysts. Foci of endosalpingiosis and dystrophic calcification are noted.
+
+Immunoperoxidase stains to assess mismatch repair proteins has been requested.
+
+B,C. No malignancy is seen in one lymph node in each specimen.
+
+
+
+DIAGNOSIS:
+A. Uterus, fallopian tubes and left ovary:  Endometrioid adenocarcinoma, FIGO grade 1, invading 2mm in a myometrium 18 mm thick, also extending along adenomyosis.  Focal lymphovascular invasion. Cervix, ovary and fallopian tubes not involved.  MSI immunoperoxidase pending.
+B. Right external iliac sentinel lymph node: No malignancy in one lymph node.
+C. Left external iliac sentinel lymph node: No malignancy in one lymph node.
+SUPPLEMENTARY REPORT (7.6.68)
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staininG
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

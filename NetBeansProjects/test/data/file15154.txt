@@ -1,0 +1,65 @@
+SPR no: 00T854957P
+MRN no: 0078549
+Site_name: MORNINGTON ISLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipples.  Pancreatic cyst.  NIDDM.  TIAs.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Whipples&amp;#8220;, consists of a specimen of distal stomach (20mm long), proximal small bowel (165mm long), part of pancreas (85 x 50 x 45mm), gallbladder (85mm long and up to 65mm in circumference). There is a long silk suture presumably marking the bile duct margin.  No mucosal lesions are seen in the small bowel or stomach.  Separately there is a piece of omental fatty tissue 230 x 125 x 8mm.  There are blue marking stitches on the pancreas marking portal vein bed, SMA and uncinate margins.  The pancreatic margins are inked as follows:  portal vein bed blue, SMA red, uncinate green, posterior black. The anterior surface is inked black.  The pancreas is sliced from superior to inferior into twelve sections. There is a multilocular cyst extending from slice 1 to slice 4, 33 x 20 x 15mm.  The multiloculated cyst is filled with clear fluid and has smooth inner surfaces.  The cyst is less than 1mm from posterior, less than 1mm from anterior, 2mm from portal vein bed and well clear of all other margins.  There is a separate second biloculate cyst in slice 5, 10 x 7 x 5mm.  The second cyst is 15mm from SMA, 5mm from portal vein bed, 20mm from posterior and well clear of all other margins.  A connection between the cyst and the pancreatic main duct is not seen.  The serosal surface of the gallbladder is smooth. The mucosa is green and granular.  No gallstones are seen.  The peripancreatic/ perigastric fatty tissue is scant.   The entire peripancreatic and perigastric fatty tissue is blocked. A single lymph node is identified within the perigastric fatty tissue.  No nodules are identified within the omentum.
+Blocks 1 &amp;amp; 2- paired sections shave transection margin of pancreas; 3 - shave bile duct margin; 4 - TS of bile duct adjacent to the section in block 3; 5 - shave proximal gastric margin; 6 - shave distal small bowel margin; 7 &amp;amp; 8 - slice 1, LS (all anterior); 9 &amp;amp; 10 - paired sections slice 2 (block 10 contains part of the posterior margin); 11 - slice 3 (part of the posterior surface is undercut); 12 &amp;amp; 13- paired sections of slice 4 (12 - anterior, 13 - posterior); 14 - shave of slice 4 including portal vein bed, the section is incontinuity with the cyst in slice 5; 15 &amp;amp; 16 - paired sections of slice 5 (15 - anterior; 16 - posterior); 17 - slice 6; 18 - slice 7; 19 - slice 8; 20 - slice 9; 21 - slice 10; 22 - slice 11; 23 &amp;amp; 24 - slice 12 LS (uncinate); 25 - TS cystic duct and TS neck of gallbladder; 26 - TS body of gallbladder; 27 - LS fundus; 28-31 - peripancreatic and perigastric fatty tissue; 32 - one bisected lymph node; 33 - adipose tissue attached to gallbladder; 34 - 36 - representative of the omentum. (HM/ec   6.12.66)
+
+
+MICROSCOPIC (Reported by Dr B Raudales):
+Sections show a intraductal papillary mucinous neoplasm (IPMN) with low to intermediate grade dysplasia.  The tumour appears to be of mixed type, involving both the main pancreatic duct and some branched ducts.  The epithelium varies from gastric to intestinal type.  Focal atrophy of surrounding pancreatic parenchyma is seen.  No invasive malignancy is identified.  The features are as follows:
+
+Histological tumour type:
+IPMN
+
+Histological grade
+Low to intermediate grade dysplasia.
+
+Microscopic tumour sites
+Pancreas
+
+Extent of tumour invasion
+No invasion identified
+
+Maximum tumour diameter
+Approximately 30mm.
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Not identified
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not received
+
+Margins:
+Pancreatic neck:  Low grade dysplasia at margin
+Common bile duct:  Well clear.
+Portal vein (superior mesenteric vein):  1mm clear.
+Superior mesenteric artery:  4mm clear
+Periuncinate soft tissue: 8mm:  8mm clear
+
+Surfaces:
+Anterior:  0.1mm clear
+Posterior:  Well clear
+
+Lymph nodes:
+Number found:  29
+Number involved:  0
+
+Other pathologies:
+Gallbladder, stomach and duodenum show no significant abnormality.
+
+
+DIAGNOSIS:
+Whipples:
+- IPMN with low to intermediate grade dysplasia.
+- Excision appears complete.
+- Twenty nine (29) negative lymph nodes.

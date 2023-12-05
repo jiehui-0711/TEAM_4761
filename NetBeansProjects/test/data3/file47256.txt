@@ -1,0 +1,62 @@
+SPR no: 18R228805P
+MRN no: 2300094
+Site_name: YOUNG DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Bilateral pelvic mass - 6cm, 17cm (on CT).  Ca 125&amp;gt; 600.  HTN, appendicectomy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube + ovary&amp;quot;, consists of an ovary with attached fallopian tube.  Serosa is intact.  Tube measures 95 x 7mm.  Ovary measures 145 x 100 x 25mm.  The ovary contains multiloculated cysts containing thick creamy fluid.  The cyst is studded (80 percent of surface) by  nodules up to 30mm in size.  There is a papillary like area measuring 40 x 30 x 5mm.
+
+Four sections for frozen section.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 - frozen section three; 4 - frozen section four; 5 and 6 - papillary area; 7 to 15 - RS of ovary; 16 - two RS of fimbriae and three TS of fallopian tube.
+
+FROZEN SECTION REPORT:
+Favour serous cystadenoma - some focal proliferation, so may turn into low grade borderline after paraffin section.
+Phone results to Prof F Knesek by Dr F Mccaw and Dr F Kielich at 12:15pm on 22/09/2066
+
+B.  Specimen labelled &amp;quot;Left tube ovary&amp;quot;, consists of an ovary with attached fallopian tube with and intact serosa.  The tube measures 55mm in length and 4mm in maximum diameter.  The ovary measures 60 x 55 x 50mm.  The ovary contains serous yellow liquid.  There is second cyst in the ovary measuring 30 x 20 x 20mm and contains thick yellow liquid. There are no papillary excrescences.  Fleshy whitish solid area present 20x10mm .  Blocks: 1 to 5 - RS of largest cyst; 6 and 7 - RS of second smallest cyst; 8 - two LS of fimbria and three TS of body of fallopian tube; additional blocks  from fleshy area 9-12 - RS of ovary.
+
+C.  Specimen labelled &amp;quot;Uterus and cervix&amp;quot;, consists of an unoriented uterus with attached cervix weighing 36.5 grams.  The uterus measures 80 x 35 x 20mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 28mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 12mm in maximum thickness.  The myometrium is unremarkable.  Blocks: 1 to 4 - full LS of one side of body and uterus; 5 to 8 - full LS of the opposing body and cervix.
+
+D.  Specimen labelled &amp;quot;Caecal nodule&amp;quot;, consists of an an enucleated unilocular cyst measuring 12 x 10 x 8mm.  The cyst contains clear serous fluid. The mucosa wall is thin and unremarkable.  Specimen is bisected.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Right paracolic gutter biopsy&amp;quot;, consists of a piece of tan fibrous tissue measuring 20 x 18 x 4mm.  No lymph nodes or lesional tissue is seen.  Specimen is serially sectioned into six slices.  Blocks: 1 - four TS; 2 - two TS.  AE 2 blocks.
+
+F.  Specimen labelled &amp;quot;Bladder biopsy&amp;quot;, consists of a piece of fibrofatty tissue measuring 10 x 6 x 4mm.  AE 1 block.
+
+G.  Specimen labelled &amp;quot;Sigmoid fat&amp;quot;, consists of a piece of fatty tissue measuring 15 x 10 x 7mm.  Specimen is bisected.  No lesion tissue or lymph nodes seen.  Specimen bisected and AE 1 block.
+
+H.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of omental tissue measuring 170 x 50 x 10.  No lesion or lymph nodes are seen.  RS 3 blocks.  (TO:VW/vo 22/5/66)
+
+
+MICROSCOPIC (Reported by Dr F Aro):
+A.  Sections show a multiloculated cyst lined by serous type cuboidal epithelium.  Focal areas of epithelial proliferation are seen forming papillary fronds with fibrovascular cores as well as micropapillary structures  lined by stratified epithelium with nuclear atypical features amounting to borderline tumour. No evidence of convincing invasion in to the stroma identified .Unusual feature is  seen with surface erosion associated with suppurative necrosis  in the proliferative areas.  Fallopian tubal tissue is unremarkable
+
+B.  Sections show a multiloculated cyst with similar serous epithelial lining.  A focus of invasive carcinoma is seen with papillary and tubular structures infiltrating within fibrous stroma associated with numerous psammoma bodies .The epithelium shows low grade features .The cyst wall elsewhere shows borderline proliferative epithelium with focal high grade nuclear features. No vascular invasion identified .  Fallopian tubal tissue is unremarkable
+
+C.  Cervix is unremarkable.  Endometrium shows cystic non reactive glands with no atypia.  Myometrium is unremarkable.
+
+D.  Sections show a benign mesothelial cyst.
+
+E.  Fibrofatty tissue with small foci of tumour clusters with low grade features  associated with psammoma bodies.
+
+F.  Fibrofatty tissue with extensive infiltration of tumour with tubular and papillary structures with numerous psammoma  bodies in keeping with metastatic low grade serous papillary carcinoma.
+
+G.  Fatty tissue only, no evidence of tumour.
+
+H.  Fatty tissue with a few scattered calcified foci and small collections of foamy histiocytes.  This may represent fat necrosis.  There is no evidence of carcinoma
+
+
+DIAGNOSIS:
+A.  Right tube and Ovary :Ovarian Borderline Serous Papillary Cystadenoma,Low grade
+Unremarakbale fallopian tube
+B.  Left tube and ovary : Ovarian Low grade Invasive Serous Papillary Carcinoma arising in a Borderline Serous Papillary Cystadenoma with focal high grade features.
+Unremarkable fallopian tube
+C.  Uterus and cervix:  No significant abnormality.
+D.  Caecal nodule:  Benign mesothelial cyst.
+E.  Right paracolic gutter biopsy:  Scanty tumour cells present with low grade features.
+F.  Bladder biopsy:  Metastatic low grade serous papillary carcinoma.
+G.  Sigmoid fat:  There is no evidence of tumour.
+H.  Omental biopsy:  There is no evidence of tumour.
+This case was discussed with Dr BONG Comer

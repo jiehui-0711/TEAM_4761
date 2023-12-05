@@ -1,0 +1,92 @@
+SPR no: 27N583053P
+MRN no: 2755830
+Site_name: CASTERTON MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report27N58305 (27N583053P) SCINTO, GARTH SIGMUND
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Colon ca, Rt hemicolectomy and rectosigmoid resection and Rt nephrectomy.
+
+MACROSCOPIC:
+&amp;quot;GALLBLADDER, OMENTUM, BILATERAL OVARIES, RIGHT CAECAL MASS, RIGHT KIDNEY&amp;quot;. Numerous organs as described.
+Gallbladder 80x40x25mm. The serosal surface is smooth and shiny. Cystic duct margin is inked blue. The mucosal surface is green and velvety. Within the lumen there are six yellow gallstones 8-12mm in size. The average gallbladder wall thickness is 1-2mm. A possible cystic duct lymph  node is identified.
+
+(1 shaved cystic duct margin and adjacent section of gallbladder neck including possible cystic duct node; 2 TS of gallbladder body and LS fundus).
+
+The kidney is present 274g, and 120x60x35mm. A pig tail catheter is present. The ureter is present, 85mm in length and dilated to a diameter of 9mm. Sectioning reveals that the calyces have a thickened granular mucosal texture. The calyces also appear dilated.
+
+(3 shaved ureter margin, shaved renal artery and shaved renal vein margin; 4 section of dilated ureter and RS of granular urothelium; 5 two further sections  of granular urothelium; 6 section of dilated calyx; 7 kidney from capsule to pelvis).
+
+There is a left ovary and fallopian tube free floating within the specimen jar. The ovary measures 23x13x6mm. The fallopian tube is 38x6-15mm. Both appear macroscopically unremarkable.
+
+(8 LS fimbrial end of presumed left fallopian tube; 9&amp;amp;10 alternate sections of left ovary and remaining fallopian tube).
+
+Also within the specimen jar there is an unorientated excision of lobulated  fatty tissue consistent with omentum, 460x155x15mm. There is an attached piece of presumed peritoneum 88x50x20mm. Both are macroscopically unremarkable.
+
+(11 two sections of lobulated  fatty tissue, presumed to be greater omentum; 12 two sections of presumed peritoneum).
+
+Also within the specimen jar is an en bloc resection which includes a central tumour mass, 80x70x60mm. It appears to be centred around the caecum, at the appendiceal orifice possibly involving the whole appendix. This mass appears to invade retroperitoneally and form a fistula between presumed duodenum. In the specimen there is an attached area of muscle 70x35x22mm. The segment of ileum present is 100mm in length and 50mm in circumference. The right colon is 100mm in length and dilated to 95mm in circumference. There  is an attached ovary and fallopian tube, presumed to be the right ovary and fallopian tube. The ovary measures 26x12x8mm and appears unremarkable. The fallopian tube is 58mm in length and 6-20mm in diameter and appears mostly unremarkable. Two clear cystic structures are present on the tube, 2mm and 4mm in diameter. Adjacent to the fallopian tube and ovary between the right colon and muscle is a section of peritoneum 125x90mm, which appears to be from the lateral abdominal wall. In addition there is a further segment of bowel, possibly sigmoid, 155mm in length and 45mm in opened circumference with up to 55mm of attached mesentery. The ileal resection margin is black, The right colon resection margin is blue and each of the sigmoid margins are inked yellow and green. The soft tissue margin at the lateral abdominal wall margin is inked in red. There is a separate segment of bowel, 50mm in length and 25mm in diameter. The margins are inked black and red. A possible diverticulum  is noted in the separate smaller piece of bowel, 5mm from red inked margin.
+
+(13 LS margins from ileum and right colon; 14 LS margins from the largest segment of bowel ?sigmoid; 15 Ls from the small piece of bowel showing possible diverticulum ; 16 lymph node found from mesentery attached to small piece of bowel; 24 section of tumour and ovarian ligament; 25 further section of ovary and fallopian tube, showing cysts; 26 section between tumour, presumed sigmoid and yellow inked margin; 27 further section between tumour and this section of presumed sigmoid; 28 section of tumour invading into muscle, showing red inked margin; 29 section between tumour and the separate small piece of bowel; 30 four lymph nodes; 31 section of diverticulum  in the large segment of bowel, possible sigmoid).
+
+In addition within the specimen jar there are several unorientated pieces of fibrofatty and muscular tissue 10-50mm in size and 90x80x20mm in aggregate. Sectioning through these tissues reveals firm white areas suspicious for tumour.
+
+(32&amp;amp;33 RS of the separate unorientated tissues showing possible invasion of tumour into muscle). RS (M-33/LK/ht).
+
+Further blocks: 34-36 radial retroperitoneal margin, 37 four nodes, 38 three nodes, 39 four nodes, 40 one node bisected. RS (M-40/LK/ht)
+
+MICROSCOPIC:    (Dr. F. Lindstedt)
+
+Tumour type: Colorectal adenocarcinoma
+Histologic grade:  Low grade (moderately differentiated)
+Depth of invasion:  pT4b - directly invades into the wall of the duodenum and sigmoid bowel.
+Peritoneal surface involvement:  Absent
+Tumour infiltrating lymphocytes: High density (&amp;gt;5/hpf)
+Excision Margins:
+Proximal:  Clear &amp;gt;10mm
+Distal:  Clear &amp;gt;10mm
+Radial: Clear &amp;gt;10mm
+Donuts:  Not received
+Lymph nodes:
+Number positive:  0
+Total number:  16
+Apical node:  Not identified
+Intramural vein invasion:  Absent
+Extramural vein invasion:  Absent
+Small vessel (lymphatic) invasion:  Absent
+Perineural invasion:  Absent
+Distant metastases:  Not assessed
+Mismatch repair immunostains:  to follow
+The tumour is positive for CDX2 and patchy positive for CK20.  It is negative for CK7.
+Synthesis/stage (AJCC/UICC TNM 7):
+TNM stage:  pT4b pN0 cMx
+Stage grouping:  IIC
+Residual tumour:  R0
+Other features:
+The normal anatomy around the caecum is obliterated by tumour and surrounding histiocytic and acute inflammation with formation of a tumour fistula tract which extends into the wall of the duodenum (22).  This tract shows suppurative inflammation, fibrosis, histiocytic inflammation and fragmented tumour glands.  The appendix is no longer identified within this tumour and inflammatory mass and it is possible the the tumour involves the appendix or has obliterated it.
+The right ureter shows extensive hearmorrhage, congested vessles, granulation tissue, lamina propria oedema and reactive urothelial changes including von brunns nests and cystitis cystica.  The serosal surface of the ureter shows fibrin and acute inflammation.  The renal pelvis and calyceal urothelium show reactive changes and moderate chronic inflammation in the lamina propria.  The renal medulla shows moderate patchy acute inflammation within the interstitium and within the tubules.  The acute inflammation also extends up into the cortical interstitium and distal tubules.  The renal cortex shows patchy moderate chronic inflammation.  The distal ureter shows inflammatory adhesion to the fibrofatty tissue adjacent to the bowel tumour (block 22).
+The right ovarian ligament is adhered to the wall of the caecum by inflammation and fibrosis. The right fallopian tube shows benign paratubal cysts.
+The gallbladder is unremarkable.  The left fallopian tube is unremarkable.  The left ovary shows a simple cyst.  The omentum and peritoneum are unremarkable.  The sigmoid bowel shows diverticular disease.
+DIAGNOSIS:
+GALLBLADDER, OMENTUM, BILATERAL OVARIES, RIGHT CAECAL MASS, RIGHT KIDNEY:
+- MODERATELY DIFFERENTIATED COLORECTAL ADENOCARCINOMA, pT4b pN0 cMx
+- CHOLELITHIASIS OF THE GALLBLADDER
+- PYELONEPHRITIS
+- DIVERTICULAR DISEASE OF THE SIGMOID COLON
+- MISMATCH REPAIR IMMUNOHISTOCHEMISTRY TO FOLLOW
+SUPPLEMENTARY REPORT (24/2/2066):
+Mismatch repair protein immunohistochemistry:
+MLH1: Positive
+PMS2: Positive
+MSH2: Positive
+MSH6: Positive
+This is a normal pattern of staining and indicates absence of mismatch repair deficiency.
+
+SUPPLEMENTARY REPORT (20/3/2067):
+The tumour is surrounded by a florid histiocytic reaction characterised by large slightly eosinopilic histiocytes, some of which contain Michaelis-Gutmann bodies, highlighted with von Kossa calcium stain.
+
+SUPPLEMENTARY DIAGNOSIS (20/3/2067):
+- MALAKOPLAKIA SURROUNDING MODERATELY DIFFERENTIATED ADENOCARCINOMA

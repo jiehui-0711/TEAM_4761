@@ -1,0 +1,91 @@
+Episode No:  10V289260Y
+1082892.RBY
+
+White, IRINA 
+Lab No:  10V28926
+Shakespeare
+TENNANT CREEK  Victoria  4855
+Specimen: Tissue
+D.O.B:  15/10/2018
+Sex:  F
+Collected: 12/04/2065 at 08:24
+Location:  SEALSCentral-GLADSTONE HOSPITAL
+DR Tom Bobbie Lawnicki
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right retroareolar breast cancer.  Central WLE + SLNBx.
+Marking sutures:  long lateral, loop medial and double deep.  
+MACROSCOPIC:
+A.  Specimen labelled "Right sentinel node" consists of a piece of adipose tissue measuring 40 x 33 x 14mm.  A single lymph node is identified.  AE 3 blocks.  
+Blocks:  1- single sectioned lymph node; 2 & 3 - adipose tissue.  
+B.  Specimen labelled "Right areolar, long lateral, medial double loop, deep double stitch" consists of a piece of fibroadipose breast tissue with overlying ellipse of skin, weighing 82.3g.  Orientating sutures are in situ.  The fibroadipose breast tissue measures 85mm (medial to lateral), 55mm (superficial to deep) and 63mm (superior to inferior).  The overlying ellipse of skin includes the nipple and measures 73 x 46mm.  The nipple measures 17mm in diameter, and appears sunken.  The nipple is 30mm from the medial skin apex and 15mm from the inferior skin margin.  The superior margin isinked blue, inferior margin is inked red, and deep margin is inked black.  Specimen sectioned from lateral to medial into 19 slices.  There is strand-like pale grey tissue radiating from the deep aspect of the nipple.  These strand-likeprojections extend to the superior, inferior and deep margin in places.  The main bulk of the lesion (directly under the nipple) measures 20mm (superior to inferior), 13mm (superficial to deep), and 24mm (lateral to medial).  AE 55 blocks.  
+Blocks:  1- slice 1; 2 & 3 - slice 2; 4 & 5 - slice 3; 6 to 9 - slice 4; 10 to 13 - slice 5; 14 to 17 - slice 6; 18 to 21 - slice 7; 22 to 25 - slice 8; 26 to 29 - slice 9; 30 to 33 - slice 10; 34 to 37 - slice 11; 38 to 41 - slice 12; 42 to 45 - slice 13; 46 to 48 - slice 14; 49 & 50 - slice 15; 51 & 52 - slice 16; 53 - slice 17; 54 - slice 18; 55 - slice 19.  
+(TO: PW:  HW/mm 12.4.65) 
+MICROSCOPIC:(Reported by Dr C Streicher)
+A.  One lymph node shows dispersed single carcinoma cells within the subcapsular sinuses which is seen focally in the H&E stained sections which are highlighted on CAM 5.2 immunostaining. The tumour cells number less than 25 per cross section regarded as isolated tumour cells rather than a focus of microinvasive carcinoma. 
+B.  The specimen is entirely embedded and examined. Arising with a fieldof extensive lobular carcinoma in situ (LCIS) are three separate infiltrating lobular carcinomas, measuring 40mm, 5mm, 3.5mm and 1.4mm.  The main tumour is a grade 2 ILC and the smaller tumours, although too small for formal grading showsimilar features.  There are also multiple (at least 6) separate foci of microinvasive lobular carcinoma, individually measuring less than 1mm.  LCIS is present in all 19 slices of the specimen.  There is also probable solid and cribriform intermediate grade ductal carcinoma in situ (DCIS), distributed over approximately 17mm, without associated calcification, both separate and admixed with LCIS (blocks B19, B21 and B24);  confirmatory demonstration of lack of Ecadherin expression in these foci could not be performed for technical reasons.  The features are as follows: 
+Invasive carcinoma:
+Site:  Right breast; retroareolar. 
+Type:  Infiltrating lobular carcinoma x3
+Invasive tumour size:  
+Tumour 1:  Approximately 40mm (10 consecutive slides). 
+Tumour 2: 3.5mm
+Tumour 3:  At least 1.4mm
+Grade (Modified Bloom & Richardson):  2.
+Tubules:  3    Nuclei:  2    Mitoses:   1   Mitotic rate:  6/10hpf.
+Lymphovascular invasion:   Not seen. 
+Tumour abuts and distorts the walls of small vessels in the stroma of the nipple (Block B39) but no diagnostic lymphovascular invasion is identified.
+	    
+Excision Margins:  
+Invasive component:
+Tumour 1 -40mm ILC : 
+Superior 2.5mm (B32).
+Deep 2mm (B32)
+Superficial: 0.4mm (B23). 
+Tumour 2 - 4.5mm ILC (B3 and B5)
+Deep 1.1mm (B3)
+Inferior 2.5mm (B3)
+Superficial 8.5mm (B3)
+Other margins > 10mm. 
+Tumour 3- At least 1.4mm ILS (B2)
+Inferior:  Positive (at junction with deep margin)(Block 2)
+Other margins:  Well clear >10mm
+Separate Microinvasive foci (at least 6 foci):
+Deep: 1.1mm (B3)
+Superior: 2.5mm (B11)
+Inferior 5mm (B13).
+Other margins:  Well clear >10mm
+In-situ component (DCIS):
+Superior:  5mm (block 19)
+Other margins:  Well clear >10mm
+Receptors (Block B35): 
+ER:  Positive
+	90% of nuclei stained
+	predominant intensity of staining:  Strong. 
+PR:  Positive.
+	80% of nuclei stained
+	predominant intensity of staining: Strong.  
+HER2 (Novocastra 10A7): Negative. (0)
+HER2 SISH:  Performed at Becton, PAKENHAM HEALTH CENTRE Hospital, see separate report.
+Ki-67 index: Approximately 20%. 
+Nipple:  Involved.
+Paget's:  Not seen.
+The tumour extends intothe subepithelial stroma of the nipple and abuts but does not appear to invade the epidermis.
+LCIS / ALH:   Extensive, present in all nineteen macroscopic slices.
+Miscellaneous:  There is patchy calcification associated with LCIS, infiltrating lobular carcinoma and benign glands. There are also foci of columnar cell change, flat epithelial atypia, atypical ductal hyperplasia (clear of margins)(blocks B39 &40) andpapillary apocrine metaplasia.
+Sentinel lymph node(s): 
+Number of sentinel lymph nodes examined: 1
+Number of sentinel lymph nodes with isolated tumour cells:  1
+Number of sentinel lymph nodes involved by tumour: 1 (isolated tumour cells only)      
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   1
+Total number of involved lymph nodes (including sentinel node(s)):   1 (isolated tumour cells only)
+DIAGNOSIS:
+Right retroareolar central wide local excision and right axillary sentinel lymph node:
+-   40mm grade 2 infiltrating lobular carcinoma, ER positive, PR positive, Her2 SISH to follow (see separate report);  two additional infiltrating lobular carcinomas ( 4.5mm and 1.4mm, hormone receptors not repeated), multiple microinvasive infiltrating lobular carcinomas (<1.0mm); margins(see summary above), extensive LCIS; 17mm probable DCIS, intermediate grade, margins clear; one sentinel lymph node containing isolated tumour cells.
+ 
+
+ 
+

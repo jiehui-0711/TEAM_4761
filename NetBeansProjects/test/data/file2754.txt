@@ -1,0 +1,87 @@
+SPR no: 90J288310B
+MRN no: 9032883
+Site_name: TASMAN MULTI-PURPOSE CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 9032883.FCB
+BORDI, FAITH
+90J28831,90J28831
+
+Lastedited : 5/11/2065		Page: 2
+Name:	 FOLKES, LANE	           D.O.B 15 February 1990
+MRN:  9032883Consultant: EDDY CASSATA
+Date: 22 October 2065
+--------------------------------------------------------------------------------------------------------------------------------------
+
+BONE MARROW REFERENCE No. 90J288310B
+
+Site:  INVERELL DISTRICT HOSPITAL
+HISTORY / INDICATION: 79 year-old female, Ig G lambda paraproteinemia (32 g/L) and IgG Lambda as well as IgG heavy chain in urine. Mild renal impairment. Normal haemoglobin and skeletal survey. ?Smoldering myeloma.
+Peripheral Blood: 13-Aug-15
+Hb: 121g/L
+Neutrophils: 2.5X109/L
+MCV: 96.8fL
+Lymphocytes: 3.2X109/L
+WBC: 6.29X109/L
+Monocytes: 0.5X109/L
+Platelets: 302X109/L
+Eosinophils: 0.1X109/L
+Basophils: 0.03X109/L
+
+Film report: Not available
+
+
+ASPIRATE
+Ease / difficulty of aspiration: With ease.
+Cellularity of particles and trails: Variable cellularity. Overall, moderately hypercellular for age.
+No. of cells counted: 500			M:E ratio: 3:2
+Nucleated Differential Cell Count (%):
+Blasts: &amp;lt;1
+Lymphocytes: 6
+Promyelocytes:  3
+Plasma Cells: 6
+Myelocytes/ Metamyelocytes: 17
+Monocytes: 1
+Neutrophils/Bands: 30
+Eosinophils: 2
+Erythroblasts: 35
+Basophils: &amp;lt;1
+Erythropoiesis:
+Prominent rouleux and background staining. Normal erythropoietic activity and maturation.
+
+Granulopoiesis:
+Normal activity. Orderly maturation.
+
+Megakaryocytes:
+Plentiful in number. Normal morphology.
+
+Other:
+Plasma cells of 5-10% (average 6%). Binucleated forms present and occasional plasmablasts (nucleated forms) seen.
+
+Iron stain: Normal iron stores (3+/6). No ring sideroblasts.
+
+Flow cytometry: Plasma cells
+CD45-/DR-/CD19-/38+/138+/cytoLambda+
+Note: CD138 = 84% ++
+Less than 4% of total cells have the above phenotype. Consistent with myeloma phenotype.
+Aspirate Report: Moderately hypercellular marrow with normal trilineage haemopoiesis. Plasma cells of 5-10% (average 6%) with occasional plasmablastic forms. Findings are suggestive of plasma cell myeloma. Please correlate with the trephine report.
+__________________________________________________________________
+Cancer Registry: N
+Registrar: ISIAH BEECHING
+Haematologist:  RICARDO BRAD ROETCISOENDER
+TREPHINE BIOPSY
+Length and condition of core: Single core of 15mm with interstitial haemorrhage.
+Cellularity: Variable cellularity. Overall, mildly hypercellular for age.
+Bone architecture: Normal.
+Reticulin stain:	Not increased (WHO 2008 MF Grade 0/3).
+Trephine Biopsy Report: 	 hypercellular marrow, with active and normal trilineage haemopoiesis. Plasma cells are increased, of 10-15%, with occasional large forms. Findings are consistent with plasma cell myeloma (WHO ICD-0 code 9732/3).
+Immunohistochemistry:
+CD138 &amp;#8211; Positive cells (~ 10-15%) in interstitial position; occasional small clustering present.
+Kappa &amp;#8211; Very occasional positively stained cells seen.
+Lambda &amp;#8211; Uninterpretable. Frequent positive cells with marked interferences by non-cellular staining.
+CONCLUSION:
+Consistent with plasma cell myeloma (WHO ICD-0 code 9732/3).
+__________________________________________________________________
+Cancer Registry: Y
+Registrar: CHARLEY GUALTIERI
+Haematologist: CHESTER ROMEO

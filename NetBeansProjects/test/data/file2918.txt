@@ -1,0 +1,44 @@
+SPR no: 38M413669B
+MRN no: 3844136
+Site_name: TAILEM BEND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  38M413669B
+3844136.RZB
+
+GIANNELLI, NELLIE BEVERLEE
+Lab No:  38M41366
+Barton Manor
+WATTLEGLEN  NT  6440
+Specimen: Tissue
+D.O.B:  24/7/2002
+Sex:  F
+Collected: 4/1/2065 at :
+Location:  DAYSURGERY UNIT - LYELL MCEWIN HOSPITAL
+DR HILMA GALE BELLEFONTAINE
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+SCC vulva.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;12 o&amp;#8217;clock vaginal margin&amp;#8221; consists of a piece of pale grey tissue measuring 8 x 7 x 5mm.  AE 1 block (bisected).
+B.  Specimen labelled &amp;#8220;Vulval and vaginal margin at wall, stitch at 6 o&amp;apos;clock&amp;#8221; consists of a ring of predominantly pale grey tissue measuring 48 x 24 x 7mm.  There is a suture marking 6 o&amp;apos;clock.  At the 12 o&amp;apos;clock aspect of the specimen is a full thickness defect repaired with a small suture.  The 12 o&amp;apos;clock aspect of the ring, from approximately 11 o&amp;apos;clock to 3 o&amp;apos;clock has a ragged appearance over an area of approximately 25 x 11mm.  The inner margin (presumed vaginal) is inked blue and the outer margin (presumed vulval) is inked black.  The specimen is sequentially sectioned in a clockwise fashion starting from 12 o&amp;apos;clock, with each block containing a single slice.
+Blocks:  1 (12 o&amp;apos;clock) to 21.  (TO: JB:  JB/mm 5.1.65)
+C.  Specimen labelled &amp;#8220;Right vaginal margin&amp;#8221; consists of an irregularly shaped piece of pale grey tissue measuring 13 x 6 x 7mm.  AE 1 block (bisected).
+(TO: JB; JB/rt 5.1.65)
+MICROSCOPIC (Reported by Dr I Estrem):
+A.  Sections show mucosa surfaced by stratified squamous non keratinising epithelium with underlying fibrous stroma.  There is patchy stromal chronic inflammation.  No evidence of vaginal intraepithelial neoplasia (VaIN) or invasive malignancy is seen.
+B.  The specimen is entirely embedded and examined.  The specimen is received with sutures repairing the clefted 12 o&amp;#8217;clock region of the specimen which is partially disrupted on sectioning.
+Sections show vulval skin surfaced by stratified squamous keratinising epithelium with underlying appendages in the stroma.  The vulval skin is in continuity with extensively ulcerated vaginal mucosa surfaced by a relatively small amount of residual stratified squamous non-keratinising epithelium, underlying which is scar tissue and suture granulomas in the stroma, evidencing previous surgery here.  In areas the specimen extends down to subcutis/adipose tissue and there is also some striated muscle.  VIN 2 or 3 is present at 3 o&amp;#8217;clock (B6), 7 o&amp;#8217;clock and 8 o&amp;#8217;clock (B13 and B14) and extends to the 3 o&amp;#8217;clock and 8 o&amp;#8217;clock vulval margins (B6, B14). The VIN is highlighted with a P16 immunostain with full thickness intense immunoexpression.  Additionally, arising in association with VIN, there are two, probably contiguous, foci of invasive carcinoma at 7 and 8 o&amp;#8217;clock (B13 and B14) measuring up to 0.8mm across (B13 L1) x about 6mm wide (estimate based on presence in two consecutive blocks B13 and B14) x 0.6mm deep (B13 L1 and 2).  Distinction from hyperplastic VIN with extension down follicular epithelium is difficult here, however, given the associated stromal desmoplastic reaction, invasion is favoured.  Invasive carcinoma is 1.5mm clear of the closest vulval margin at 8 o&amp;#8217;clock (B14) and 4mm clear of the deep margin (B13 L1).   Assessment of clearance of dysplasia at the vaginal margin is difficult as much of the surface epithelium is ulcerated and replaced by inflamed granulation tissue, however, where intact squamous epithelium is present the margins appear clear of VaIN (see block B13).  No lymphovascular or perineural invasion is seen.
+Focally there is an increase in bland junctional melanocytes arrayed singly along elongated rete which may represent a simple lentigo (B7)
+
+Selected slides seen in consultation with Dr I Fredricks who concurs.
+C.  Sections show mucosa surfaced by stratified squamous non keratinising epithelium with underlying fibrous stroma.  There is patchy stromal chronic inflammation and stromal fibrosis.  No evidence of vaginal intraepithelial neoplasia (VaIN) or invasive malignancy is seen.
+
+DIAGNOSIS:
+A. 12 o&amp;#8217;clock vaginal margin
+-  No evidence of VaIN or invasive carcinoma.
+B. Vulva and vaginal margin stitch at 6 o&amp;#8217;clock
+-  Superficially invasive moderately to poorly differentiated invasive squamous cell carcinoma of vulva, largest diameter 6mm and 0.6mm deep, 1.5mm clear from the closest peripheral (vulval) margin at 8 o&amp;#8217;clock and 4mm of deep margin
+-  Hyperplastic VIN 2/3 positive 3 o&amp;#8217;clock and 8 o&amp;#8217;clock margins.
+C. Right vaginal margin:
+-  No evidence of VaIN or invasive carcinoma.

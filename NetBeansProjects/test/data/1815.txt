@@ -1,0 +1,70 @@
+
+Episode No:  11Z417493M
+1194174.YJM
+
+ANTWI, SHAWNA JAMIE 
+Lab No:  11Z41749,11Z41749
+PaLMS
+RUTHERGLEN  SA  6372
+Specimen: Fluid,Tissue.O.B:  2/12/2005
+Sex:  F
+Collected: 23/04/2014 at 19:52
+Location:  ACUTECARE WARD - MARYBOROUGH DISTRICT HEALTH SERVICE (MARYBOROUGH)
+DR EDISON JAGUN WHITTAKER
+Distribution:  
+
+SUPPLEMENTARY REPORT (13.10.64)
+
+
+CLINICAL:
+Endometrial cancer 64 years.
+
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, tubes, ovaries, cervix", consists of a uterus, bilateral ovaries and tubes with attached cervix, altogether weighing 250g.  The uterus measures 100 x 80 x 60mm and has a smooth shiny serosal surface.The ectocervix measures 15 x 10mm and has an unremarkable surface.  On section, there is an extensive pale friable tumour extending from the uterine cavity to the subserosal area.  The tumour measures 20mm in thickness with the myometrium measuring 25mm in thickness at the mid portion of the uterus.  At the fundus region, the tumour extends to the serosa at the right aspect of the uterus.  Inferiorly the tumourextends to the lower segment of the uterus.  The endocervical canal is possibly involved.  The right fallopian tube measures 50mm in length and 8mm in maximum diameter.  The right ovary measures 25 x 20 x 12mm and has an unremarkable cut surface.  The left fallopian tube measures 55mm in length and 8mm in maximum diameter.  The left ovary measures 30 x 18 x 10mm and has an unremarkable cut surface.
+Blocks:  1 to 8 - full LS of anterior body and cervix; 7 - left cornu; 8 - right cornu; 9 to 14 - full LS of posterior body and cervix; 15 - the tumour to the nearest serosa at right cornu region; 16 - right ovary; 17 - left ovary; 18 - right fallopian tube; 19 - right fallopian tube fimbrial; 20 - left fallopian tube; 21 - left fallopian tube fimbrial.
+B.  Specimen labelled "Left external iliac", consists of fibrofatty tissue 45 x 40 x 10mm containing a possible lymph node 30mm across.  The lymphoid tissue embedded in 3 blocks 1 to 3.
+C.  Specimen labelled "Left round ligament", consists of fibrofatty tissue 30 x 15 x 10mm.  AE 2 blocks.  (TO: DQ; KR/rt 26.6.64)
+MICROSCOPIC (Reported by Dr D Godwin):
+A. The sections show endometrioid adenocarcinoma FIGO grade 1 (architectural grade and nuclear grade 1) invading 19mm in a myometrium 24mm thick (block A9). The tumour shows areas of squamous differentiation.  Areas of endometrioisis and occasional intramural leiomyomata are noted.  Tumour invasion is measured in areas not definitely involved by endometriosis.  No lymphovascular invasion is found.  The tumour involves the right and left cornua and extends to the lower uterine segment (slide A5).  The tumour is 1.5mmfrom the serosal surface in the region of the right cornu (block A15). The tumour does not involve the cervix, right and left ovaries and fallopian tubes. Small (1-2mm) nodules of Leydig cells are seen mainly in the left ovary.  No tubaldysplasia is seen.
+
+Immunoperoxidase stains for mismatch repair proteins have been requested and another report will be issued when these are available.
+
+B. The sections show replacement of most of the lymph node by fatty tissue.  There is no evidence of malignancy.
+C. The sections show fibrofatty tissue withno evidence of malignancy. Patchy, very mild chronic inflammation is seen.
+CONCLUSION
+A. Uterus, ovaries and fallopiantubes:  Endometrioid adenocarcinoma, FIGO grade 1, invading 19mm in 24mm thick myometrium, not involving cervix, ovaries or fallopian tubes (mismatch repair protein immunoperoxidase stains pending).
+B. Left external iliac lymph node: Fatty replacement.
+C. Left round ligament:  Fibrofatty tissue, no evidence of malignancy.
+SUPPLEMENTARY REPORT (1.6.64)
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+SUPPLEMENTARY REPORT (13.10.64)
+Report from CPC Pathology, GOONDIWINDI HOSPITAL:
+Reported by Dr D Castoreno, Head, Douglas Hanly Moir.  
+Mismatch Repair Gene MethylationAssay.
+Conclusion:
+Methylation of the MLH1 promoter region that is consistent with reduced MLH1 gene expression was DETECTED in tumour DNA from this patient.
+Clinical Details:
+Endometrialcancer with loss of MLH1 expression.
+Background:
+HNPCC is most often caused by a heterozygous deleterious mutation within one of the mismatch repair genes (MLH1, MSH2, MSH6 and PMS2).  However, somatic hyper-methylation or constitutional epimutation of one of these genes can produce a similar phenotype.  Detection of methylation in the promoter region of one of these genes may be useful in determining the heritability of a cancer.
+Method
+Methylation testing is carried out on DNA extracted from paraffin embedded tumour tissue using a methylation-sensitive multiplex-ligation dependent probeamplification (MS-MLPA) technique.  Methylation-sensitive probes are protected from digestion when bound to the patient's methylated DNA and are subsequently amplified by PCR.  If the patient's DNA is not methylated a product will not beproduced.
+This method targets methylation sites in the MLH1 promoter corresponding to regions A, B, C and D (Deng et al) and in intron I.  It has been shown that methylation at regions C and D correlates with reduced MLH1 expression, whereas methylation at other sites is non-specific (Capel et al).  The MS-MLPA method provides an estimation of the percentage methylation at each site with a result of greater than 10% considered to be positive.
+References
+NCBI reference sequence MLH1: NM_000249.3 
+www.mrc-holland.com
+Deng G et al. Can Res 1999; 59: 2029-2033 
+Capel E et al. Oncogene 2007; 26: 7596-7600.
+Perez-Carbonell et al. J Mol Diag 2010;12:498-504.
+Results:
+The tissue block 11941749 All (Home Depot) and MLPA kit ME011-B2 were used for this analysis.  Methylation of the MLHl gene promoter was detected at the C (53%) and D (51%) region.  This result is consistent with reduced MLH1 expression.  Methylation was also detected at the A (64%) and B (74%) regions and intron 1 (56%).
+

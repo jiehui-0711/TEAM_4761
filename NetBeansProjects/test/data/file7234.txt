@@ -1,0 +1,93 @@
+SPR no: 80T869712R
+MRN no: 807869
+Site_name: WHYALLA HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report*SUPPLEMENTARY REPORT ATTACHED*
+80T86971 (80T869712R) DICKS, TARYN FILIBERTO
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GI endometrial Ca.
+Uterus, tubes and ovaries, omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, (BILATERAL) FALLOPIAN TUBES AND OVARIES&amp;quot;.  A uterus with attached cervix, bilateral tubes and ovaries.  The uterus has been previously opened along its lateral borders.  The specimen weighs in total 70g.  The uterus measures up to 55mm from medial to lateral, 75mm from fundus to cervix, and 35mm from anterior to posterior.  The cervix measures 30mm in diameter and shows some petechial haemorrhage.  The right fallopian tube is truncated at its midsection and convoluted and measures up to 45mm in length and 7mm in external diameter.  The left fallopian tube is also truncated and measures up to 50mm in length and 8mm in external diameter.  The left fallopian tube fimbrial end is not readily apparent.  The right ovary measures up to 20x10x10mm, and the left ovary measures up to 20x12x8mm.  The serosal surface of the uterus is unremarkable.  Anterior cervical  margin inked blue, posterior black.  On sectioning, at the fundus, the lumen is filled with necrotic tumour.  The tumour measures up to 40mm from medial to lateral, 25mm from superior to inferior, and 20mm from anterior to posterior.  The myometrium shows some ?adenomyosis and measures 10mm.  The tumour appears to involve up to half the myometrium.  The tumour does not involve the lower uterine segment.  On sectioning, the ovaries are unremarkable.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3-5 anterior cervix to fundus [notches inferior]; 6-8 posterior cervix to fundus [notches inferior]; 9 right cornu; 10 left cornu; 11 LS right ovary; 12 LS and TS right tube; 13 LS left ovary; 14 LS and TS left tube; 15 tumour reserve block).  RS (M-15)
+
+B.   &amp;quot;OMENTAL BIOPSY&amp;quot;.  An unorientated piece of omentum measuring up to 50x25x8mm with haemorrhagic areas.  There are no suspicious areas noted on inspection or sectioning.  AE (M-2/EE/nh).
+
+MICROSCOPIC:   (Dr V Glory)
+A.  ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid.
+
+FIGO grade:  1
+
+(architecture grade:  1, nuclear grade:  2)
+
+Myometrial invasion:  Invasion into outer half of myometrium
+
+Depth of myometrial invasion:   5mm
+
+Myometrial thickness:   8mm
+
+Focality:  Unifocal
+
+Tumour involves:  Fundus, body
+
+Vascular/lymphatic invasion:  Not seen
+
+Involvement of cervix:  Not involved
+
+Involvement of uterine serosa:  No
+
+Excision margins:  Carcinoma appears clear of cervical surgical margins
+
+Non-tumour uterus:
+Adenomyosis
+
+Adnexae:
+Left fallopian tube:  Unremarkable
+Right fallopian tube:  Unremarkable
+Left ovary:  Serous inclusions
+Right ovary:  Serous inclusions
+
+Lymph nodes:  Not received
+
+Other tissues:
+Specimen B (Omentum) : Unremarkable
+
+Comment:
+1. MSI immunohistochemistry pending
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1b, pN0
+
+FIGO stage: 1B
+
+DIAGNOSIS:
+A.  UTERUS -
+-ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA (GRADE 1).
+B.  OMENTUM -
+-NEGATIVE FOR MALIGNANCY.
+17/10/2066 ank
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (Lyondell Chemical Molecular Oncology; block: A8)
+
+MLH1:  Positive staining present
+PMS2:  Positive staining present
+MSH2:  Positive staining present
+MSH6:  Positive staining present
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+24/10/2066 ank

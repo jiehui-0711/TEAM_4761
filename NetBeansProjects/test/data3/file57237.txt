@@ -1,0 +1,118 @@
+SPR no: 94E687761S
+MRN no: 941687
+Site_name: MONASH MEDICAL CENTRE - CLAYTON CAMPUS
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report94E68776,94E68776 (94E687761S) SYLVEST, Devon
+HISTOPATHOLOGY REPORT
+CLERMONT MULTI-PURPOSE HEALTH SERVICE HOSPITAL LABORATORIES
+SUPPLEMENTARY REPORT ATTACHED
+
+CLINICAL NOTES:
+G1 endometrioid adenoca.
+1. Peritoneal washings cyto.
+2. Uterus, tubes, ovaries.
+3. Sentinel node pelvic.
+4. Left sentinel node pelvic.
+5. Omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES, OVARIES (BILATERAL)&amp;quot;.  Consists of uterus, cervix, attached bilateral tubes and ovaries weighing 110g.
+Uterus received partially opened coronally measuring 80x35x40mm.  No tumour deposit over the serosa present.  Anterior surface inked blue, posterior black.  There is polypoid friable grey lesion located mostly in the fundus down to the lower segment measuring 40x30mm with a thickness of 10mm, attached to the posterior wall out of 25mm.  No obvious invasion to the myometrium present.  N0 extension to the cervix present.
+
+Right tube measures 70mm in length 7mm diameter.  Paratubal cyst present. Serosa is smooth.  Sectioning is unremarkable.  Right ovary measures 35x15x10mm. Sectioning is unremarkable.
+Left tube measures 70mm in length 8mm diameter.  Paratubal cyst present. Sectioning is unremarkable.  Left ovary measures 35x15x15mm.
+
+(1 right parametrium; 2 left parametrium; 3&amp;amp;4 right tube; 5 right ovary; 6 left tube; 7 left ovary; 8-13 one full face sagittal view of the uterus; 14-18 more section of tumour; 19 right cornu; 20 left cornu).  RS (M-20)
+
+B.  &amp;quot;RIGHT SENTINEL PELVIC NODE&amp;quot;.  Multiple fibrofatty tissue 30mm.  There is a lymph node 7mm embedded block 1.  RS (1-1)
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Multiple fibrofatty tissue possible of four lymph nodes 5mm each.  AE (M-1)
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  Fibrofatty tissue 40mm.  No tumour deposit or lymph node identified, bisected.  AE (2-2/SM 19/2/2069 ank)
+
+MICROSCOPIC:  (Dr. X Flinner)
+
+A.  ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:
+Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE:
+Posterior fundus, body and focally in the isthmus/lower uterine segment
+
+TUMOR SIZE:  40mm greatest dimension
+
+HISTOLOGIC TYPE:
+Endometrioid carcinoma with squamous differentiation
+
+HISTOLOGIC GRADE:
+FIGO grade 1
+
+MYOMETRIAL INVASION:
+Very focal
+
+Depth of invasion:  3mm
+Myometrial thickness:  18mm
+
+UTERINE SEROSA INVOLVEMENT:
+Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:
+Present focally
+
+CERVICAL STROMAL INVOLVEMENT:
+Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+(list all that apply)
+Not identified
+(focal necrotic cellular debris with an associated foreign body giant cell reaction is seen on the serosal surface of both ovaries, but no viable tumour is seen. Similar deposits of necrotic debris with a foreign body type reaction is also seen on the serosal surface of the right tube.  Detached tumour fragments are seen within the lumen of both fallopian tubes, unattached to the fallopian tube wall, and may possibly represent artefactual tumour displacement.  The right and left cornu are not involved.  The parametrium and omentum show no involvement.
+
+LYMPHOVASCULAR INVASION:
+Not identified
+
+SENTINEL LYMPH NODES:
+Site:R and L pelvic sentinel nodes
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0 (confirmed on IPX)
+Number of sentinel lymph nodes examined: 5 (1 right sentinel pelvic node and 4 left sentinel pelvic nodes, Specimens B and C respectively)
+
+DISTANT METASTASES (histologically confirmed):
+(includes non-regional lymph nodes)
+Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+The endometrium adjacent to the tumour shows atrophic features.  The tumour shows frequent foci of squamous differentiation.
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. In progress
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a, pN0.
+
+B.  The single lymph node shows mild reactive changes only.
+
+C.  The four lymph nodes show mild reactive changes only.
+
+D.  Sections show lobulated mature adipose tissue in keeping with omentum.  A little patchy surface reactive mesothelial hyperplasia is present, but no tumour involvement is seen.
+
+DIAGNOSIS:
+A.  UTERUS, TUBES, OVARIES BILATERAL :
+-GRADE 1 ENDOMETRIOID ADENOCARCINOMA, pT1a, pN0 (PLEASE SEE TEXT).
+
+B.  RIGHT SENTINEL PELVIC NODE :
+-THE SINGLE LYMPH NODE SHOWS REACTIVE CHANGES ONLY.
+
+C.  LEFT PELVIC SENTINEL NODES :
+-THE FOUR LYMPH NODES SHOW REACTIVE CHANGES ONLY.
+
+D.  OMENTAL BIOPSY :
+-OMENTAL TISSUE WITH VERY FOCAL REACTIVE CHANGES.
+
+22/1/2072 ank
+
+SUPPLEMENTARY REPORT:
+Immunohistochemical stains for MLH-1, MSH-2, MSH-6 and PMS2 are positive in the tumour nuclei, indicating a low likelihood of microsatellite instability phenotype. The above report remains unchanged.

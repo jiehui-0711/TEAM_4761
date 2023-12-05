@@ -1,0 +1,123 @@
+Episode No:  02P970162D
+025970.EQF
+
+EBERHART, SHEILAH 
+Lab No:  02P97016
+Alkoomie
+SAINT GEORGES BASIN    2365
+Specimen: Tissue
+D.O.B:  25/9/1999
+Sex:  F
+Collected: 25/06/2013 at 08:59
+Location:  ST GEORGE PRIVATE-TERANG & MORTLAKE HEALTH SERVICE
+DR Derrick Mauro Fedrick
+Distribution:   FILE-COPY
+ADDITIONAL REPORT (10/9/63)
+
+CLINICAL:
+Left invasive breast x 2.  10 o'clock 6cm fn.  3 o'clock 6cm fn.  Multicentric ca.  
+MACROSCOPIC:
+A.  Specimen labelled "Left sentinel node" consists of a lymph node 10 x 5 x 5mm.   AE 1 block.
+B.  Specimen labelled "Breast, left breast stitch axilla" consists of a mastectomy with a stitch axilla measuring 20mm (medial to lateral) x 170 (superior to inferior) x 40mm (superficial to deep).  No skin is identified.  A fibrotic and irregular area is identified ?retro areola tissue.  Specimen is inked blue anterior margin, black posterior margin.  On sectioning and at 10 o'clock 6cm from nipple there is a stellate fibrotic and hard tumour measuring 20 x 20 x 15mm and is located 5mm from the deep margin, 15mm from the superficial margin,  30mm from superior margin and 100mm from the inferior margin.  A second fibrotic and ill defined areais identified at 3 o'clock 60mm from nipple measuring 20 x 10 x 5mm and is located 15mm from the deep margin, 10mm from the superficial margin and more than 60mm from the superior and inferior margin.  The rest of the parenchyma has a fibrofatty appearance.  At 6 o'clock 80mm from the nipple there is a nodular and firm and haemorrhagic area 10 x 10 x 5mm.  
+Blocks: 1 - retro areolar area; 2 & 3 - composite of 10 o'clock tumour with superficial and deep margin; 4 & 5 - 10 o'clock tumour with deep margin; 6 & 7 - fibrotic ill defined area from 6 o'clock with superficial and deep margin; 8 & 9 - representative sections of 3 o'clock irregular area with superficial margin; 10 - 3 o'clockirregular area with deep margin; 11 & 12 - upper inner quadrant; 13 & 14 - lower inner quadrant; 15 & 16 - upper outer quadrant; 17 & 18 - lower outer quadrant, 19 - lower inner quadrant.   (DQ/ta  27/8/63)  
+
+MICROSCOPIC (Reported by Dr C Mcdevitt):
+A and B. There are 2 separate invasive ductal carcinomas, tumour 1 at 10 o'clock 6cm from nipple and tumour 2 at 3 o'clock, 6cm from nipple. High grade DCIS measuring 120mm is seen bridging the 2 lesions.
+TUMOUR 1AT 10 O'CLOCK 6CM FROM NIPPLE
+Invasive carcinoma:
+Type: Invasive ductal carcinoma NOS
+Invasive tumour size: 20mm
+Grade  (Modified Bloom & Richardson):  2
+Tubules: 3     Nuclei: 3     Mitoses: 1     Mitoticrate: 2/10hpf.
+Lymphovascular invasion:  Present, multifocal
+Receptors: 
+pending
+TUMOUR 2 AT 3 O'CLOCK 6CM FN
+Invasive carcinoma:
+Type: Invasive ductal carcinoma NOS
+Invasive tumour size: 11mm
+Grade  (Modified Bloom & Richardson):  2
+Tubules: 3     Nuclei: 3     Mitoses: 1     Mitotic rate: 2/10hpf.
+Lymphovascular invasion:  Not seen
+Receptors:
+pending
+DCIS component:  
+Maximum extent of DCIS:  120mm
+Nuclear grade:  High
+Architecture: Solid and cribriform
+Necrosis:   Present
+Calcification:  Present
+Degree of DCIS in tumour:  minimal
+DCIS in adjacent tissue:  Extensive
+Excision Margins:  
+Invasive component:
+ Deep: 2.5mm (nointervening normal ducts)
+ Other margins: > 10mm
+In-situ component:
+ Deep: 7mm
+ Other margins: > 10mm
+Nipple:  Not present. Retroareolar tissue shows no evidence ofDCIS.
+LCIS / ALH:   Not seen
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1 (specimen A)
+Number of sentinel lymph nodes involved by tumour:  1 (measuring 2mm)        
+Extranodal spread: Not seen
+DIAGNOSIS:
+A and B. Left breast and sentinel lymph node:
+- 2 separate invasive ductal carcinomas with intervening DCIS
+- Tumour 1 (10 o'clock 6cm FN): 20mm invasive ductal carcinoma NOS, grade 2,ER, PR, HER2, SISH HER2 and Ki67 pending, multifocal lymphovascular invasion, margins clear
+- Tumour 2 (3 o'clock 6cm FN): 11mm invasive ductal carcinoma NOS, grade 2, ER, PR, HER2, SISH HER2 and Ki67 pending, margins clear
+- 120mm high grade DCIS, margins clear
+- Metastatic carcinoma measuring 2mm in 1 out of 1 sentinel lymph node,no extranodal spread
+ADDITIONAL REPORT (30/8/63)
+
+TUMOUR 1 AT 10 O'CLOCK 6CM FROM NIPPLE (B5)
+
+Receptors: 
+ER:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:  strong
+PR:   positive
+	90 % of nuclei stained
+	predominant intensity of staining:  moderate 
+HER2 (Novocastra 10A7):  2+
+Ki67 index: 15%
+TUMOUR 2 AT 3 O'CLOCK 6CM FN (B8)
+
+Receptors: 
+ER:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:  strong
+PR:   positive
+	100 % of nuclei stained
+	predominant intensityof staining:  strong
+HER2 (Novocastra 10A7):  3+
+Ki67 index: 25%
+
+
+
+ADDITIONAL REPORT:  (10.9.63)
+Blocks were sent to ROYAL HOSPITAL FOR WOMEN Hospital for Her2 ISH analysis, Dr C Citrin reports:
+Clinical notes:  2 separate IDC's.  B5 = 10 o'clock. B8 = 3 o'clock. 
+HER2 IHC Result:   2+ for block B5 and 3+ for B8 (at NEWMAN HOSPITAL).
+Block B5:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumerationprobe (CEP17) control using the Ventana INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: POSITIVE (amplified).
+Mean Her2 copy number per cell: 12.6.
+Mean CEP17 copy numberper cell:  2.35
+HER2/CEP17 ratio:  5.36
+
+Block B8:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: POSITIVE (amplified).
+Mean Her2 copy number per cell: 13.6.
+Mean CEP17 copy number per cell:  1.7.
+HER2/CEP17 ratio:  8.0.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+
+
+

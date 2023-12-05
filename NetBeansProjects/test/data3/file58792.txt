@@ -1,0 +1,27 @@
+SPR no: 12R317587A
+MRN no: 126317
+Site_name: CONDOBOLIN RETIREMENT VILLAGE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Sarcoma (L) thigh within subcutaneous space.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Sarcoma mass L thight (sic) suture 12 o&amp;apos;clock&amp;quot;, consists of an ellipse of skin, 150 x 40 x 22mm.  A suture is noted at the 12 o&amp;apos;clock point.  Fat extends in both directions at 3 and 9 o&amp;apos;clock, such that the entire specimen measures 150 x 135 x 25mm.  The excision extends to fascia.  Deep surface inked black, 3 o&amp;apos;clock inked blue, 9 o&amp;apos;clock inked green.
+Specimen is serially sectioned from 12 to 6 o&amp;apos;clock into nineteen slices.  A large nodule is noted which measures 45 x 35 x 45mm and appears to be encapsulated.  The cut surface demonstrates a pink fleshy texture which abuts the fascial plane of the deep margin and is within 2mm of the closest 3 o&amp;apos;clock margin and 11mm of the closest 9 o&amp;apos;clock margin.
+Blocks: 1 and 2 - LS of 12 o&amp;apos;clock slice; 3 to 9 - composite sections of slice six; 10 to 19 - composite sections of slice nine; 20 to 29 - composite sections of slice ten; 30 to 35 - composite sections of slice twelve; 36 to 38 - LS of slice nineteen, 6 o&amp;apos;clock.  See diagram.
+(TO:YL/rs 4/9/71)
+
+
+MICROSCOPIC (Reported by Dr E Staib):
+Sections show a high grade spindle cell tumour consisting of a highly cellular central component as well as less cellular septae of tumour infiltrating surrounding adipose tissue.  The tumour consists of haphazard fascicles of spindle cells within a prominent myxoid background and numerous hyalinised blood vessels.  The tumour cells have moderately pleomorphic nuclei with occasional intranuclear inclusions.  Scattered multinucleated forms are present.  Scattered collections of lipoblasts are seen within the more cellular regions.  Seven mitotic figures per 10 high power fields are seen and focal necrosis is present.  The features are those of a high grade sarcoma with a myxofibrosarcoma pattern and lipoblasts, best regarded as a pleomorphic liposarcoma.  The tumour has a similar appearance to that seen within the previous biopsy (12R31758) however, no lipoblasts were present within the biopsy.
+Sarcoma penetrates the fascia at the deep aspect of the specimen and involves the deep margin.  Less cellular septae of sarcoma extend to the 6 o&amp;apos;clock margin and come to within 5mm of the 3 o&amp;apos;clock and 9 o&amp;apos;clock margins.  The 12 o&amp;apos;clock margin appears well clear.
+
+FNCLCC Grading
+Tumour differentiation:  Score 3
+Mitosis count:  Score 1
+Tumour necrosis:  Score 1
+Histological grade:  Grade 2
+
+
+DIAGNOSIS:
+Left thigh:  Pleomorphic liposarcoma, margins involved

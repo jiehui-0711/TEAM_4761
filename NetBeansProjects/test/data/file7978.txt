@@ -1,0 +1,108 @@
+SPR no: 71U601975B
+MRN no: 717601
+Site_name: KAPUNDA HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report71U60197,71U60197 (71U601975B) BONSELL, GRANT
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GI Endometrioid ca. right pelvic sentinel node, uterus, bilateral tubes and ovaries, omentum biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES, CERVIX&amp;quot;. A uterus with attached cervix and bilateral tubes and ovaries, received partially open in the coronal plane. Anterior inked blue, posterior black. The uterus with attached cervix weighs 49g and measures 60mm superior to inferior, 25mm intercornual distance. Ectocervix is 30x25mm with a slit like os 10mm. Anterior endometrium measures 12mm posterior endometrium measures 13mm. Within the uterine cavity is an exophytic lesion 30mm superior to inferior and it invades 6mm of 12mm of anterior endometrium and 5mm of 13mm of the posterior endometrium. The ectocervix is cream coloured and unremarkable.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornu; 4 left cornu; 5 anterior cervix; 6 anterior lower uterine segment; 7 anterior endometrium; 8 further section anterior endometrium; 9 posterior cervix; 10 posterior lower uterine segment including posterior endometrium; 11 posterior endometrium).
+
+The right ovary and fallopian tube together weigh 4.8g. Fallopian tube is 40mm in length by 5mm in maximum diameter. There are multiple paratubal cysts ranging from 2-3mm. The right ovary measures 20x15x5mm. serosal  surface is smooth and unremarkable. On sectioning through the ovary it has a firm normal appearing cut surface.
+
+(11 right ovary and tube).
+
+The left ovary and fallopian tube together weight 4.7g. Fallopian tube is 30mm in length by 6mm in diameter. The serosal  surface is smooth. The left ovary measures  20x13x5mm. Serosal surface is smooth. On sectioning the cut surface is firm and unremarkable.
+
+(13 left ovary and tube). RS (M-13).
+
+B. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. A piece of fatty tissue measuring  50x15x5mm. Two possible nodes measuring 5-15mm.
+
+(1 one node; 2 one node TS; 3 remainder fatty tissue).
+
+C. &amp;quot;OMENTUM BIOPSY&amp;quot;. A piece of fatty tissue 25x20x5mm. AE (1-1/MC/ht).
+
+MICROSCOPIC:     (Dr S Grass)
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  2
+
+(architecture grade: 2 , nuclear grade: 2 )
+
+Myometrial invasion:  Present
+
+Depth of myometrial invasion:   5mm
+
+Myometrial thickness:   9mm
+
+% of myometrium invaded:   56%
+
+Focality:  Unifocal
+
+Tumour involves: Anterior and posterior body
+
+Vascular/lymphatic invasion:  Not identified
+
+Involvement of cervix:  Not present
+
+Involvement of uterine serosa:  Not present
+
+Excision margins:  Clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic
+Polyps:  Not identified
+Adenomyosis:  Not present
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+
+Lymph nodes:
+Nodes involved:  0
+Total number:     2
+
+Other tissues:  The omental biopsy (C) shows unremarkable fatty nodal tissue with no evidence of malignancy.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1b  pN0  Mx
+
+FIGO stage: IB
+
+DIAGNOSIS:
+A. UTERUS, BILATERAL TUBES, OVARIES AND CERVIX
+- GRADE 2 ENDOMETRIOID ADENOCARCINOMA, FIGO STAGE 1B, MARGINS CLEAR.
+B. RIGHT PELVIC SENTINEL NODE
+- NO EVIDENCE OF MALIGNANCY IN 2 NODES.
+C. OMENTAL BIOPSY
+- NO EVIDENCE OF MALIGNANCY.
+14/12/2066 cy
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (M.D.C. Holdings PERI-OPERATIVE UNIT; block: A8)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+16.12.66

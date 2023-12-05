@@ -1,0 +1,59 @@
+
+ 2989019.BMQ
+MCCORKELL, ROBERT DONTE
+29V90190
+
+Last edited : 22/1/2063		Page: 2
+
+SUPPLEMENTARY REPORT:  (21.1.63)
+
+
+CLINICAL:
+Melanoma - cutaneous.  Left parotid.  Contents left neck (levels 2 to 4).  Level 1.  Perifacial nodes.  Urgent.  Please perform BRAF testing on melanoma found in parotid specimen specifically V600E.
+MACROSCOPIC:
+A.  Specimen labelled "Left parotid" consists of a lobulated mass with fibrofatty tissue weighing 19.6g and measuring 55 x 40 x 20mm.  The specimen is unoriented.  One surface appears to be covered with fibrous tissue (taken as the deep margin).  The opposite margin is inked blue and the deep aspect is inked black.  On sectioning there is a circumscribed tan haemorrhagic tumour. Specimen serially sectioned into eleven slices.
+Blocks:  1 to 2 - slice one parasagitally sectioned; 3 - slice two; 4 - slice three; 5 & 6 - slice four; 7 & 8 - slice five; 9 & 10 six; 11 & 12 - slice seven; 13 & 14 - slice eight; 15 - slice nine; 16 - slice ten; 17 & 18 - slice eleven parasagitally sectioned.
+B.  Specimen labelled "Level 1 node left neck dissection" consists of two pieces of fibrofatty tissue measuring 35 x 15 x 5mm and 20 x 15x 6mm.  There is one lymph node identified in the larger fragment measuring 4 x 3 x 3mm.  No other lymph nodes are identified.  Representative in 3 blocks.
+Blocks:  1 - lymph nodes; 2 - rest of largest fragment; 3 - representative smallest fragment.
+C.  Specimen labelled "Perifacial lymph node" consists of two pieces of fibrofatty tissue measuring 40 x 18 x 7mmand 18 x 8 x 5mm.  Lymph nodes are identified measuring 3 to 5mm in maximum dimension.
+Blocks:  1 - lymph nodes; 2 - rest of fibrofatty tissue AE.
+D.  Specimen labelled "Contents left neck" consists of five pieces of fibrofatty tissue measuring from 5 to 45mm in maximum dimension.  There are lymph nodes identified from 5 to 25 in maximum dimension.  Representative in 5 blocks.
+Blocks:  1 - one lymph node bisected; 2 to 5 - lymph nodes.
+(TO: ZB; UQ/rt 8.1.63)
+MICROSCOPIC (Reported by Dr H Luzuriaga):
+A. Sections showa 10mm deposit of metastatic malignant melanoma in 1 out of 7 intraparotid lymph nodes.  The lesion is composed of sheets of epithelioid to spindle shaped tumour cells with markedly pleomorphic nuclei.  The tumour cells are positive for S100 and Melan A. Scattered mitoses are seen.
+The lesion is 0.4 mm from the margin.  There is no evidence of extranodal spread.  The parotid gland parenchyma is not involved.
+B. Sections show 1 lymph node with no evidence of malignancy.
+C. Sections show 2 lymph nodes with no evidence of malignancy.
+D. Sections show 22 lymph nodes with no evidence of malignancy.
+DIAGNOSIS
+A. Left parotid gland: 
+- 10 mm metastatic malignant melanoma in 1 out of 7 intraparotid lymph nodes, margins clear
+- Tissue sent to St Vincent's Hospital for BRAF mutation testing (to follow)
+B. Left neck dissection level 1: 1 lymph node with no evidence of malignancy
+C. Perifacial lymph node: 2 lymph nodes with no evidence of malignancy
+D. Contents left neck: 22 lymph nodes with no evidence of malignancy
+SUPPLEMENTARY REPORT:  (21.1.63)
+
+MOLECULAR TISSUE ANALYSIS, TARGETED BRAF MUTATION DETECTION.
+Reported by Dr H Stricklind, ACT Genetic's Pathology. 
+"BRAF MUTATION TEST:
+Result:
+Targeted BRAF mutation analysis on DNA extracted from FFPE tumour tissue:
+NEGATIVE.
+MUTATION NOT DETECTED.  
+
+Interpretation:
+The tumour sample from patient Simon HIGHLEY DOES NOT CARRY a known activating BRAF gene mutation that affects codon 600 of the BRAF protein (see comments). 
+This patient is NOT expected to benefit from treatment with a BRAF inhibitor based therapy (Chapman et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation.  N Engl J Med 2011; 364:2507-16). 
+Method:
+*DNA was extracted from FFPE tumour tissue using the Roche cobas DNA Sample Preparation kit.
+*BRAF gene mutations were analysed using the Roche cobas BRAF V600 Mutation Test kit (ARTG: 298901). 
+COMMENTS:
+*This test is intended as an adjunct to other prognostic and predictive factors to aid clinical treatment decisions. 
+* This test does not specify the activating BRAF gene mutation that causes a substitution of the Valine at codon 600 (p.V600) of the BRAF protein. The test detects the common BRAF p.V600E (c.1799T>A) mutation, which occursin >80% of BRAF positive tumours, and may also detect some (but NOT all) activating BRAF p.V600K mutations, which occur in up to 17% of BRAF positive tumours. Other rare activating BRAF mutations affecting p.V600 may NOT be detected bythis analysis, therefore a negative result should be interpreted with caution. Other mutations, either in the BRAF gene or in other genes, will not be detected by this analysis. 
+*This test has been shown in our laboratory to detect at least 5% mutant BRAF alleles in a background of normal DNA. Therefore a negative result should be interpreted with caution, as it does not exclude the presence of lowlevels of an activating BRAF mutation. 
+*The analytical sensitivity and specificity of this test for the p.V600E mutation are 99.6% and 97.9%, respectively. PCR inhibitors or rare mutations affecting the binding sites of PCR primers and/or probes may cause a false negative result.
+*This test has been processed as a Level 1 genetic test according to the NPAAC guidelines (2007).
+*Only the testing performed byour laboratory is covered by NATA accreditation, not the referenced material used for clinical interpretation of this testing". 
+

@@ -1,0 +1,45 @@
+Episode No:  21E528991R
+211528.ZZE
+
+PADRO, GUS 
+Lab No:  21E52899
+West Woods
+SUNBURY    3546
+Specimen: Tissue
+D.O.B:  13/6/1981
+Sex:  M
+Collected: 12/11/2012 at 09:18
+Location:  POST OPERATIVE RECOVERY-CROOKWELL DISTRICT HOSPITAL
+DR ARNULFO JOE BRANNICK
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT: Dr G Kings (14.2.2062)
+
+CLINICAL:
+Left upper mass arising from stomach.
+MACROSCOPIC:
+Specimen labelled "Abdominal tumour arising from the stomach"consists of a circumscribed nodule 95 x 90 x 90mm with a very small amount of gastric wall attached measuring 28 x 8 x 7mm.  Approximately 80% of the mass shows a peritoneal covering.  Sectioning shows a solid cystic tumour containing haemorrhagic fluid and blood clot.  The cystic component shows a ragged inner surface.  The solid component has a uniform grey-tan cut surface and comprises 10% of the mass.  The solid component is mainly present underneath the mucosal fragment.  
+Blocks:  1 to 9 - representative (block 1 and 3 contain gastric wall); 10 - reserved block.   (ZW/cc  10/1/62) 
+ 
+MICROSCOPIC: (Reported by Dr G Taranto - 16.1.2062)
+The gastric tumour is a 95mm gastrointestinal stromal tumour (GIST). The GIST expands the subserosal tissue and appears circumscribed with a lobulated, pushing margin. The tumour is moderately cellular and is composed of bland spindled cells arranged in short fascicles with areas of intervening stromal hyalinosis, oedema and very focal necrosis. There is widespread conspicuous paranuclear cytoplasmic vacuolisation. Mitoses are present up to 5 per 50 high power fields. The tumour is 5.5mm from the gastric resection margin and extends close, but does not involve, the overlying serosal surface. The overlying gastric mucosa shows a mild to moderate non-specific chronic gastritis. 
+Immunohistochemical stains were performed and the results are as follows:
+Tumour cells positive for: CD117, CD34, focal SMA and focal desmin.
+Tumour cells negative for: S100. 
+The Ki-67 immunoproliferative index highlights approximately 3-5% of tumour cell nuclei. 
+
+COMMENT:
+The morphologic and immunohistochemical features areconsistent with a gastro-intestinal stromal tumour (GIST). Although the behaviour of these tumours can be unpredictable, individual tumours between 50 and 100mm in size and with mitotic rate of 5/50hpf, are typically associated with a high risk of aggressive behaviour (7th edition of the AJCC/TNM). 
+Please correlate with clinical, radiologic and intra-operative findings.
+
+
+SUMMARY:
+Gastric tumour: 95mm serosal based gastrointestinal stromal tumour, 5.5mm to gastric resection margin (see comment).
+
+***SUPPLEMENTARY REPORT: Dr G Braget (14.2.2062)
+At the request of Professor Witham, this case have been reviewed and a re-assessment of the mitotic count has been performed. Three further mitotic counts (mitoses/50hpf) have been undertaken(on three separate slides) and the results are as follows:
+	Block 4: 5 mitoses per 50hpf
+	Block 7: 6 mitoses per 50hpf
+	Block 9: 5 mitoses per 50 hpf.
+
+The overall highest mitotic count, after re-assessment, is 6 mitoses/10 hpf.
+

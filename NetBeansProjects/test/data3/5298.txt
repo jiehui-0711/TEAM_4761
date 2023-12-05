@@ -1,0 +1,100 @@
+Episode No:  67V2650649
+6782650.QLY
+
+MCKINNIS, Herman, SCOTTIE'Ira 
+Lab No:  67V26506
+Greenbush
+MAITLAND  New South Wales  2030
+Specimen: Tissue
+D.O.B:  13/5/1996
+Sex:  M
+Collected: 02/07/2062 at 13:34
+Location:  WEST GYNAECOLOGY
+DR YONG GALE Gallegoz
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+*SUPPLEMENTARY REPORT ATTACHED* 
+
+HISTORY:  
+Rectosigmoid colon + donuts.
+MACROSCOPIC:  
+A.  "RECTOSIGMOID COLON".  A segment of rectosigmoid bowel measuring 120mm in length and 20mm in diameter.  There is a 30x25mm ulcerative tumour 80mm from the proximal and 17mm from the distal margin.  It has caused retraction of the overlying serosa.  No perforation is present.  Sectioning shows it toextend through the muscularis propria by approximately 1mm.  It is at least 15mm from the radial margin which is inked black.  The remaining bowel is unremarkable except for occasional uninflamed diverticula.  
+(1 LS proximal margin; 2 LS distal margin with edge of tumour; 3 tumour invading to muscularis; 4 tumour with radial margin; 5 tumour with serosa; 6 LS tumour with adjacent normal bowel; 7 diverticula; 8 apical node bisected; 9-15 each contain one bisected lymph node; 16 four possible lymph nodes).  RS (M-16).
+B.  "ANASTOMOSIS RING".  Two donuts of bowel mucosa, one sutured and one stapled.  The sutured donut measures 20x15x12mm and the stapled donut measures 15x15x8mm.  
+(1&2 sutured donut bisected; 3 stapled donut).  AE (M-3/LU/nh).
+MACROSCOPIC FINDINGS SUMMARY
+Operation type:  Anterior resection
+Specimen length:  120mm
+Tumour site:  Rectosigmoid junction
+Tumour size:  30mm
+Distance from margins
+Proximal:  80mm
+Distal:  17mm
+Radial:  15mm
+Perforation:  Absent
+Peritoneal reflection:  Tumour astride
+Mesorectal integrity:  Nearly complete
+Extramuscular spread:  1mm
+Tumour description: Ulcerative (see above)
+Overlying serosa: Retracted
+Lymph nodes: Normal appearance
+MICROSCOPIC   (Q. Majid)
+Tumour type:  Adenocarcinoma 
+Histologic grade:  Low grade (moderately differentiated)
+Depth of invasion:  T3:  Tumour invades through the muscularis propria into pericolorectal tissues.
+Peritoneal surface involvement:  Absent
+Tumour infiltrating lymphocytes: Low density (<5/hpf)
+Excision Margins:  
+Proximal:  Clear (>10mm)
+Distal:  Clear (>10mm)
+Radial:  Not involved; distance to margin: 25mm.
+Donuts:  (Specimen B):  Not involved.
+Lymph nodes:  
+Number positive:  	0
+Total number:  	12
+Apical node: 		Not involved
+Intramural vein invasion:  Not identified
+Extramural vein invasion:  Present
+Small vessel (lymphatic) invasion:  	Not identified
+Perineural invasion:  			Not identified
+Distant metastases:  			Absent
+Other findings:  
+Polyps:  Nil  seen
+Remote colon:  Uncomplicated diverticular disease
+Ancillary studies:  
+Mismatch repair enzymes, Immunostains:  to follow
+Microsatellite instability (MSI):  not tested
+Synthesis/stage (AJCC/UICC TNM 7):  
+TNM stage:  pT3   pN0   pMx
+Stage grouping:  IIA
+Residual tumour:  R0:  No residual tumour
+DIAGNOSIS  
+RECTOSIGMOID:  MODERATELY DIFFERENTIATED ADENOCARCINOMA.
+2/9/2062 nh
+SUPPLEMENTARY REPORT: 
+Immunostains for MSI proteins (Family Dollar Stores NORTHAMPTON HOSPITAL Lab; block: A3)
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatelliteinstability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+SUPPLEMENTARY REPORT 
+Slides sent for KRAS Mutation to Pepco Holdings ATHERTON HOSPITAL
+Report received, it reads:
+KRAS EXON 2 MUTATION SCREEN
+RESULT: KRAS MUTATION NOT DETECTED
+INTERPRETATION:
+A mutation within codon (12/13) in exon 2 of the KRAS oncogene was not detected.
+: A negative result does not exclude other mutations not tested for, or the presence of a mutation below the limit of detection range of 0.77% - 6.43%.
+Method: The therascreen KRAS RGQ PCR Kit is marked for IVD use in thedetection of 7 common somatic mutations in codon 12 and 13 of the KRAS oncogene using ARMS real time PCR. These mutations comprise (>95%) of all KRAS mutations. The manufacturers stated specificity is 96.39%, with a sensitivity of 97.3%. This IVD is utilised as per manufacturers instructions in this laboratory.
+Reference Sequence Accession number KRAS: NM_004985.3
+Sample Details:
+The slides were received from Aon Corporation anatomical pathology. 1 stained slide consisting of 1 tissue section was labelled 67V26506 Q'Retek A3
+DNA was not extracted from the stained slide.
+8unstained slides consisting of 1 tissue section each were labelled 67V26506 Q'Fiorello A3 - No individual identifiers on slides.
+DNA was extracted from 4 unstained slides.
+In total, 4 tissue pieces were pooled for use in thisstudy.
+Reported by: Dr. DANNY LASTRAPES at 10:52AM on the 22-Mar-2064.
+

@@ -1,0 +1,45 @@
+
+Episode No:  55V707723N
+5587077.GJN
+
+HOLWAY, Jaime SADE 
+Lab No:  55V70772
+Robert Evans
+THIRLMERE  TAS  3632
+Specimen: Tissue
+D.O.B:  1/6/2034
+Sex:  F
+Collected: 6/7/2062 at :
+Location:  Hunter Area Pathology-RIVERLAND GENERAL HOSPITAL
+DR ALEC Marty Dies
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT (28.6.62):
+
+
+CLINICAL:
+E/O soft tissue tumour.  ?Liposarcoma right adductor compartment.  Sent with deep and superficial margins additional to main specimen.   Double suture deep.  Single suture superior.  
+MACROSCOPIC:
+A.  Specimen labelled "Lesion right thigh" and consists of an encapsulated mass received in the fresh state measuring 160 x 120 x 70mm and weighing 676.1g.  The specimen was oriented by the surgical registrar with the double suture representing the deep margin and the single suture the superior margin.  The capsule over the deep/posterior margin was disrupted at surgery and was subsequently repaired.  The fresh specimen was sampled for cytogenetics aswell as tissue banking.  The superficial margin is inked blue, deep black and medial green.  The specimen is transversely sectioned from superior to inferior into 16 consecutive slices.  The cut surface shows predominantly firm, homogeneous fatty tissue but there are a few focal myxoid areas.    
+Representative sections in 24blocks. 
+Blocks: 1 to 3 - superior margin; 4 to 6 - lateral margin; 7 to 9 - medial margin; 10 to 12 - superficial margin; 13 to 15 - deep margin; 16 to 19 - inferior margin; 20 to 24 - representative myxoid areas; reselect - 25 - extra block. 
+B.  Specimen labelled "Deep margin lesion right thigh" consists of lobulated piece of fatty tissue measuring 23 x 12 x 10mm.  The cut surface shows predominantly fatty tissue.  AE 2 blocks.
+  
+C.  Specimen labelled "Superior margin lesion thigh" consists of an irregular and flattened piece of fatty tissue measuring 55 x 33 x 8mm.  The cut surface shows predominantly fatty tissue with scattered blood vessels.  AE 6 Blocks.
+(QM/ta  6.12.62) 
+MICROSCOPIC (reported by Dr O Feusier):
+A.   Sections show a fatty tumour which appears circumscribed.  It consists of sheets and also some lobules of adipocytes, with some intervening bands of dense fibrous tissue.  The tumour has been extensively sampled.  There is moderate variability in size and shape of adipocytes but no lipoblasts are identified and no atypical cells areidentified in the fibrous bands or elsewhere.  There are no histologic features to suggest malignancy.  The tumour appeared well circumscribed macroscopically but histologically itabuts excision margins.  Adequacy of excision is difficult to assess.  Focally at the edge of the tumour there may be some extension into adjacent skeletal muscle (blocks O5, O5); this is a feature described in intramuscular lipomas.  
+I favour a diagnosis of intramuscular lipoma rather than atypical lipomatous tumour.  A tissue block will be sent to WARIALDA MULTIPURPOSE SERVICE's Hospital for FISH to look for MDM2 amplification; such amplification is identifiable in most atypical lipomatous tumours/ well differentiated lipoma-like liposarcomas, but is absent in benign tumours (Sirvent et al. Am J Surg Pathol 2007; 31:1476-89).  A supplementary report will be issued.
+The histologic features do not fit for a hibernoma.
+B.  Sections show fat, skeletal muscle and some fibrous tissue.  No definite abnormality is seen.  
+C.  Sections show fat and fibrous fascial tissue.  No definite abnormality is seen. (ec) 
+DIAGNOSIS:  
+A.  Right thigh mass:  Fatty tumour, favour intramuscular lipoma, see text.  Supplementary report to follow. 
+B.  Deep margin right thigh mass:  No definite abnormality. 
+C.  Superior margin thigh mass:  No definite abnormality. 
+SUPPLEMENTARY REPORT (28.6.62):
+Interphase FISH showed a normal signal pattern for MDM2 and D12Z3.  There was no evidence of MDM2 amplification.
+Reported by R. Patrice/Dr O Weynand, EMERGENCY's Pathology.
+Conventional cytogenetics detected an abnormal clone with apparent reciprocal translocations between chromosomes 7p and 11p, and 11q, 13q and 17p.  There was no loss of material evident.  There were no diagnostic features, and no evidence of a chromosome 12 abnormality was seen.
+Reported by R. Tarka/Dr O. Songer, StVincent's Pathology. 
+There are therefore no features on FISH or cytogenetics to suggest that this is an atypical lipomatous tumour/well differentiated liposarcoma.
+

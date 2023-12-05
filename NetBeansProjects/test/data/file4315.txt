@@ -1,0 +1,112 @@
+SPR no: 04X190557Y
+MRN no: 049190
+Site_name: BLACKTOWN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportAccession Number: 04X190557Y
+Laboratory Number: 04X19055,04X19055
+SEALS HISTOPATHOLOGY REPORT
+
+HISTORY:
+Pelvic mass. Increased CA 125=386.
+Transverse colon and omentum; distal bowel; uterus, bilateral fallopian tubes and ovaries. Pouch of Douglas peritoneum. Left pelvic lymph node.
+
+MACROSCOPIC:
+A. &amp;quot;TRANSVERSE COLON AND OMENTUM&amp;quot;. A length of large bowel consistent with transverse colon, measuring 200x70mm. Omentum is adherent to the specimen which appears to be extensively involved by firm, white deposit (omental cake), measuring 170x80x30mm. The bowel mucosal surface is smooth and unremarkable with tumours or polyps identified. The cut surface of the omentum is firm, white across the omentum. The possible surgical resection margin is inked blue. The omental nodule focally infiltrates into the muscularis muscle of the bowel with no definite mucosal involvement. It appears to be abutting the radial resection margin macroscopically.
+
+(1&amp;amp;2 each one LS resection margin; 3 bowel lumen with underlying omentum; 4&amp;amp;5 continuous piece, bowel lumen with underlying omentum; 6&amp;amp;7 continuous piece, bowel wall involvement; 8&amp;amp;9 representative omental cakes; 10 ?five lymph nodes ?metastatic deposits of transverse colon mesentery). RS (M-10)
+
+B. &amp;quot;DISTAL BOWEL&amp;quot;. A length of bowel, measuring 25mm and up to 25mm in circumference, with attached fat with a width of 7mm. The mucosal surface is unremarkable. The cut surface reveals firm, white areas within the wall associated with possible calcification.
+
+(1-3 each one TS across the specimen [both margins with 1&amp;amp;2 included the taken wall area]). RS (3-3)
+
+C. &amp;quot;UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES, POUCH OF DOUGLAS PERITONEUM&amp;quot;. A total hysterectomy specimen of a total weight of 41g. The uterus measures 55x35x25mm. The attached cervix measures 25x20x20mm. Attached is a right fallopian tube, 70x20mm. The right ovary, 24x20x10mm, left fallopian tube, 50x6mm, and left ovary, 25x20x13mm. The peritoneal reflection, anterior uterus as well as peritoneum at the posterior uterus is identified. The anterior is inked blue, posterior is inked black. The external os is pinned point 5x3mm. The identified endometrium is up to 3mm thick. The myometrium is trabeculated and up to 13mm thick. The right fallopian tube includes an area of solid dilatation of its lumen, measuring 30x25x15mm. Located 5mm of the fimbrial end. The cut surface through this solid area reveals firm, white cut surface. The cut surface of the right ovary reveals multiple nodules on the surface, 3-5mm, but the ovarian parenchyma is unremarkable. The cut surface of the left fallopian tube is unremarkable. The cut surface of the left ovary reveals up to five yellow and tan nodules on the ovarian serosal surface. There are minute tan, white nodule at the posterior peritoneal reflection (Pouch of Douglas). Peritoneum all of solid white cut surface. Received separately is fibrofatty piece of tissue, measuring 65x30x10mm (?Pouch of Douglas, peritoneum, as per clinical note), with diffuse involvement with tan, white nodules, 3-8mm in maximum diameter.
+
+(1-3 uterus [1 anterior cervix and isthmus; 2 posterior surface and isthmus; 3 body and fundus]; 4-9 right fallopian tube [4 two LS fimbrial end; 5-8 TS area of thickening {solid mass}; 9 two TS normal tube]; 10&amp;amp;11 right ovary each two TS; 12&amp;amp;13 left fallopian tube [12 fimbrial end, two LS and one TS; 13 three TS mid]; 14&amp;amp;15 left ovary, each three TS; 16 nodular area posterior peritoneum; 17&amp;amp;18 each two TS separate piece of peritoneum ?Pouch of Douglas). RS (M-18)
+
+D. &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;. A fibrofatty piece of tissue, measuring 25x20x10mm. Two possible lymph nodes are identified, measuring 6mm&amp;amp;14mm. The largest is possibly involved by firm, white deposits.
+
+(1 larger lymph node, four TS; 2 smaller node, bisected). RS (6-2/ ZH/cy)
+
+MICROSCOPIC:  (Dr B Rashada)
+
+OVARIAN CARCINOMA WORKSHEET
+
+
+A.  OMENTUM: Involved by high grade serous carcinoma.
+GASTROINTESTINAL TRACT: Transverse colon serosa and mesentery involved by high grade serous carcinoma.  No mucosal lesions.  Margins clear of tumour. No lymph node identified
+B.  DISTAL BOWEL: Uncomplicated diverticular disease.  No tumour seen.
+C.
+RIGHT OVARY:	Involved
+Histological type and proportions:	High grade serous carcinoma
+Histological grade:		G3
+Nuclear grade:		G3
+Lymphatic invasion:		Absent
+Blood vessel invasion:	Absent
+Capsular extension:		Present
+Direct extraovarian extension (specify): Nil seen
+LEFT OVARY:		Involved
+Histological type and proportions:	High grade serous carcinoma
+Histological grade:		G3
+Nuclear grade:		G3
+Lymphatic invasion:		Absent
+Blood vessel invasion:	Absent
+Capsular extension:	           Present
+Direct extraovarian extension (specify): Nil seen
+RIGHT FALLOPIAN TUBE: Luminal and serosal involvement by high grade serous carcinoma.
+The right fallopian tube may represent the primary origin of the tumour
+
+LEFT FALLOPIAN TUBE: Serosal involvement by high grade serous carcinoma.
+
+PERITONEUM:	Pelvic - Pouch of Douglas - Involved by high grade serous carcinoma
+
+UTERUS:
+Endometrium: Inactive
+Myometrium: Not involved
+Cervix: Not involved
+Serosa: Posteriorly involved by deposits of high grade serous carcinoma.
+
+D.  LEFT PELVIC LYMPH NODES: No tumour seen in 2 lymph nodes examined
+
+DIAGNOSIS:
+TRANSVERSE COLON :
+-SEROSAL AND MESENTERIC INVOLVEMENT BY HIGH GRADE SEROUS CARCINOMA.
+
+OMENTUM :
+-DEPOSITS OF HIGH GRADE SEROUS CARCINOMA.
+
+DISTAL BOWEL :
+-UNCOMPLICATED DIVERTICULAR DISEASE.
+
+CERVIX :
+-NO SIGNIFICANT ABNORMALITY.
+
+ENDOMETRIUM :
+-INACTIVE.
+
+MYOMETRIUM :
+-NO SIGNIFICANT ABNORMALITY
+
+SEROSA:
+-DEPOSITS OF HIGH GRADE SEROUS CARCINOMA.
+
+POUCH OF DOUGLAS :
+-DEPOSITS OF HIGH GRADE SEROUS CARCINOMA.
+
+RIGHT AND LEFT OVARY :
+-HIGH GRADE SEROUS CARCINOMA.
+
+RIGHT FALLOPIAN TUBE :
+EXTENSIVE LUMINAL AND SEROSAL INVOLVEMENT BY HIGH GRADE SEROUS CARCINOMA.
+
+LEFT FALLOPIAN TUBE :
+-SEROSAL DEPOSITS OF HIGH GRADE SEROUS CARCINOMA.
+
+LEFT PELVIC LYMPH NODES :
+-NO TUMOUR SEEN IN 2 LYMPH NODES.
+
+15/6/2066 ank
+
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE) BLOCK A8
+OESTROGEN RECEPTOR:        positive(50% of cells ++-+++)
+PROGESTERONE RECEPTOR: negative

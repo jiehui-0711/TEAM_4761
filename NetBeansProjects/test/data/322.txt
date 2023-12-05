@@ -1,0 +1,16 @@
+
+ 147495.OMH
+GRISWELL, TOMAS-NESTOR
+14U49554
+
+Last edited : 22/4/2063		Page: 2
+CLINICAL:
+Lymphoma.  ?high grade transformation.   
+MACROSCOPIC:
+Specimen labelled "Left groin lymph node" in formalin, consists of five fragments of tan tissue ranging from 5 to 24mm and 24 x 20 x 18mm in aggregate.  The larger pieces are sliced AE 3 blocks.   (QA/ta 20/4/63) 
+MICROSCOPIC (reported by Dr E Beadell):
+Sections show nodal tissue with effaced architecture consisting of atypical lymphoid follicles with some possible diffuse areas.  There is extension of lymphoid tissue into surrounding adipose tissue. The follicles consist of both small to medium sized centrocyte-like cells plus monocytoid-appearing cells. The number of centroblasts appears low (less than 5 per hpf).
+Some lymphocytes within the atypical follicles show positive staining with CD10 however the monocytoid-appearing cells do not appear to stain.  Follicular dendritic cell networks are demonstrated with CD21 stain, possibly absent in focal diffuse areas.  The Ki67 index is approximately 30%.  The morphological appearanceand immunohistochemical profile are consistent with follicular lymphoma, grade 1.  The current case has similar appearances to the previous left groin lymph node (14U49554), however there now appears to be an additional infiltrate of monocytoid cells.  Monocytoid cells are seen occasionally within follicular lymphoma.  There is no evidence of transformation to high grade lymphoma within this specimen.
+DIAGNOSIS:  
+Left groin lymph node:  Follicular lymphoma, grade 1.
+

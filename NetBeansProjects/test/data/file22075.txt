@@ -1,0 +1,112 @@
+SPR no: 51S9492652
+MRN no: 517949
+Site_name: MERSEY COMMUNITY HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report51S94926 (51S9492652) BRINCK, JULIAN ALEIDA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Stage III CA ovary, post chemotherapy.
+
+1.  Uterus, fallopian tubes and ovaries.
+2.  Pouch of Douglas peritoneum.
+3.  Appendix epiploica.
+4.  Omentum biopsy.
+5.  Left paracolic gutter.
+6.  Left pelvic node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;.  A total hysterectomy specimen of a total weight of 85g.  It consists of a uterus 70x40x30mm.  The cervix measures 30x20x20mm.  Attached is a right fallopian tube 40x6mm, right ovary 24x13x10mm, left fallopian tube 50x6mm and left ovary 16x15x10mm.  Peritoneal covering and part of the peritoneum is identified on the anterior uterus.  The surface of this peritoneum is extensively ragged and haemorrhagic with minute papillary deposits.  Similar deposits are identified on the outer surface of the right ovary, left ovary and fallopian tube.  The anterior cervix is inked blue, posterior is inked black.  The endometrium is thickened up to 12mm thick.  There is a polyp in the anterior isthmus measuring 5mm confined to the mucosa.  The myometrium is up to 16mm thick.  Multiple white whorled nodules (fibroids 10 to 20) measuring 2 to 7mm, some of which are partially calcified.  The cut surface of the right fallopian tube is unremarkable.  The cut surface of the right ovary  reveals solid firm papillary areas replacing the ovary.  The fimbrial end of the left tube is thickened.  The left ovary shows solid, tan and wide areas that are present on the outer surface.
+
+(1-6  full face one LS of the uterus [1-3  anterior from cervix to fundus, 4-6  posterior from cervix to fundus]; 7  anterior peritoneal ragged areas; 8  right fimbrial end and right tube; 9&amp;amp;10  right ovary serially sliced; 11  left fimbrial end trisected; 12-15  left ovary with adjacent fallopian tube all embedded; 16  minute deposit over the peritoneal strip; 17  representative fibroids).  RS (M-17).
+Further block (18 two LS right parametrium margin; 19 two LS left parametrium margin, 20 posterior left parametrium;  21 fundus; 22&amp;amp;23 body at thickest tumor ) RS (M-23/ ZH/ 13/11/67)
+
+B.  &amp;quot;POUCH OF DOUGLAS PERITONEUM&amp;quot;.  A fibrofatty piece of tissue 89x25mm with underlying tissue to a depth of 10mm.  The outer surface is glistening, ragged and has two necrotic nodules 20x15x6mm and 18x16x4mm.  The surrounding tissue is excessively ragged and haemorrhagic.  The margins are inked blue.  The cut surface of the nodule reveals central firm, white area with peripheral necrosis.
+
+(1  representative largest nodule; 2  representative smaller nodule; 3  surrounding peritoneum).  RS (M-3).
+
+C.  &amp;quot;APPENDIX EPIPLOICA&amp;quot;  Two fibrofatty pieces of tissue, 15x10x2 and 20x15x5mm.  Minute (1 to 2mm) nodules are identified on the outer surface.
+
+(1  smaller fragment serially sliced; 2  larger fragment serially sliced).  AE (M-2/ZH 11/10/2067 km).
+
+D.  &amp;quot;OMENTUM BIOPSY&amp;quot;.  Multiple fibrofatty pieces of tissue, 105x50x25mm.  There is extensive involvement of the submitted sample by firm white tumour replacing about 80% of the surface submitted area (omental cake).
+
+(1-3  representative with block 3 tumour block for tissue banking).  RS (M-3).
+
+E.  &amp;quot;LEFT PARACOLIC GUTTER&amp;quot;.  Three firm, white and fatty pieces of tissue 6mm, 10mm and 14mm.  The cut surface is solid and finely papillary.
+
+(1  smaller fragment with the largest bisected; 2  larger fragment trisected).  AE (M-2).
+
+F.  &amp;quot;LEFT PELVIC NODE&amp;quot;.  A fibrofatty piece of tissue 30x15x10mm.  One possible lymph node is identified, 8x3x2mm with unremarkable cut surface.
+
+(1  lymph node trisected; 2  remainder fat).  AE (M-2/ZH 11/10/2067 km).
+
+MICROSCOPIC:   (Dr. X. Roettger)
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  High grade serous carcinoma with chemotherapeutic effect.
+
+FIGO grade:  3
+
+(architecture grade:  3, nuclear grade:  3)
+
+Myometrial invasion:  Invasion limited to inner half of myometrium.
+
+Depth of myometrial invasion:   5mm
+
+Myometrial thickness:   15mm
+
+% of myometrium invaded:   33%
+
+Focality:  Unifocal.
+
+Tumour involves: Fundus, body, lower uterine segment, cervical glands, cervical stroma, parametrium(bilateral)
+
+Vascular/lymphatic invasion:  Present in cervical stroma, parametrium
+
+Involvement of cervix:  Invasion of cervical stromal connective tissue.
+
+Involvement of uterine serosa:  Serosal involvement is present.  Metastatic deposits of high grade serous carcinoma.
+
+Excision margins:  Cervical margin clear of tumour.
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic
+Adenomyosis:  Not seen.
+Benign leiomyoma.
+
+Adnexae:
+Left and right fallopian tube:  Involved by high grade serous carcinoma with chemotherapeutic effect.
+Left and right ovary:  Involved by high grade serous carcinoma with chemotherapeutic effect.
+
+Lymph nodes:
+F.  Left pelvic lymph node:  No tumour seen in 1 lymph node examined.
+
+Other tissues:
+B.  Pouch of Douglas peritoneum, C.  Appendix epiploica, E.  Left paracolic gutter:  Metastatic high grade serous carcinoma with chemotherapeutic effect.
+
+D. Omentum:  Extensive deposits of high grade serous carcinoma with  minimal tumour response, chemotherapy response score (CSR) 1.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage:   pT3b, pN0, pM1.
+
+FIGO stage:  IVB
+
+Comment:
+Immunoperoxidase staining of the tumour cells in the endometrial cavity shows positive staining with WT-1, oestrogen receeptor and p53(variable)with on staining for progesterone receptor
+
+Although there is involvement of both ovaries and both fallopian tubes, an endometrial primary is favoured due to the bulk of tumour in the uterus.
+
+DIAGNOSIS:
+UTERUS, TUBES AND OVARIES:
+- HIGH GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT MOST LIKELY ENDOMETRIAL ORIGIN WITH METASTASIS TO THE FALLOPIAN TUBES, OVARIES, UTERINE SEROSA. (SEE COMMENT)
+POUCH OF DOUGLAS PERITONEUM, APPENDIX EPIPLOICA, OMENTUM BIOPSY, LEFT PARACOLIC GUTTER:
+- METASTATIC HIGH GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT (CSR - 1).
+LEFT PELVIC LYMPH NODE:
+- NO TUMOUR SEEN ON 1 LYMPH NODE.
+14/11/2067 km
+ADDENDUM: 16.11.67
+In view of involvement of both ovaries and fallopian tubes by high grade serous carcinoma, a synchronous primary fallopian tube /ovarian high grade serous carcinoma cannot be entirely excluded.

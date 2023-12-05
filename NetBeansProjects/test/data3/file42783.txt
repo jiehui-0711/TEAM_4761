@@ -1,0 +1,22 @@
+SPR no: 27K043963J
+MRN no: 2076986
+Site_name: MOUNT GAMBIER AND DISTRICTS HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Complex endometrial hyperplasia with atypia (pipelle).  Macroscopic: endometrial exophytic tumour.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus tubes ovaries and cervix&amp;quot;, received in formalin and partially opened, and consists of a uterus with attached cervix bilateral tubes and ovaries, weighing 136g in total.  The uterus measures 85 x 65 x 50 mm and has a smooth and shiny serosal surface.  The cervix measures 20 x 18mm.  The endometrial cavity is distorted by an exophytic polypoid tumour measuring 55 x 30mm, with separate fragments of tumour within the specimen container measuring 60 x 44 x 20mm in aggregate.  The tumour measures up to 5mm thick on a myometrium that measures up to 20mm thick.  Tumour is seen to extend into the lower uterine segment where the wall measures up to 5mm thick.  The right fallopian tube measures 50 x 7 x 7mm and the right ovary measures 30 x 14 x 8mm.  A paratubal cyst measures 7mm in diameter.  The left fallopian tube measures 52 x 8 x 8mm and the left ovary measures 28 x 13 x 7mm.  A parafimbrial cyst measures 8mm in diameter.  No lesions are identified within the ovaries.
+Blocks: 1 to 4 - full LS through anterior body and cervix; 5 - anterior lower uterine segment with tumour; 6 to 9 - full LS through posterior body and cervix; 10 and 11 - posterior lower uterine segment with tumour; 12 and 13 - right adnexa; 14 and 15 - left adnexa.   (TO:AP/vo 7/4/69)
+Blocks 16 to 19 - remainder of possible ectocervix.
+
+
+MICROSCOPIC (Reported by Dr G Lesure):
+The sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  No significant solid architecture is seen.  The tumour has areas of moderate cytologic atypia.  The tumour invades 20mm through a myometrial wall thickness of 23mm.  Focal lymphovascular invasion is seen.  The tumour involves the lower uterine segment but no cervical involvement is identified.  There is a detached fragment of benign squamous epithelium, but no intact ectocervical epithelium is present.  Both fallopian tubes and ovaries are uninvolved by tumour.
+Representative sections shown to Dr G Guo.
+
+
+DIAGNOSIS:
+Uterus with cervix, bilateral fallopian tubes and ovaries:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  Tumour invades outer half of myometrium.

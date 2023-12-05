@@ -1,0 +1,108 @@
+ 0185885.KUO
+IIDA, VALENTIN
+01V58853
+
+Last edited : 18/6/2063		Page: 2
+***SUPPLEMENTARY REPORT: HER-2 CISH (17.6.2063)
+
+CLINICAL:
+Right breast cancer.  Sentinel node biopsy +/- axillary clearance.  Axillary node mapped on lymph scintigraphy.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node x 2" consists of an irregular piece of fatty tissue 28 x 20 x 5mm containing two lymph nodes.  One lymph node 5mm taken for imprint #1.  Second lymph node 25mm in imprints 2 & 3.  No malignant cells seen.  
+Blocks: 1 - imprint node one; 2 - imprint two; 3 - imprint three.  All lymph node tissue embedded in 3 blocks.  
+B.  Specimen labelled "Right breast short superior, long lateral, loop nipple" consists of a subcutaneous mastectomy specimen measuring 155mm (medial to lateral) x 155mm (superior to inferior) x 50mm (superficial to deep).  There is no overlying skin included in the specimen.  Superficial margin inked blue, deep margin black, lateral margin green, superior margin red.  The cut surface reveals a pink relatively wellcircumscribed tumour at the 6 o'clock position measuring 13 x 15 x 16mm.  The tumour is 1.5cm from the marked nipple position.  No definite lesion is found in the 4 o'clock position although there are several areas which appear slightly rubbery/nodular in slices two, three and four which may correspond to the 4 o'clock lesion.  
+Blocks: 1 - tumour with superficial margin; 2 to 4 - tumour with superficial and deep margin; 5 & 6 - (composite blocks) fibrous/ nodular area in slice three; 7 & 8 - further fibrous/nodular appearing areas; 9 & 10 - (composite blocks) further nodular area; 11 & 12 - (composite blocks) area marked as nipple; 13 & 14 - representative upper inner quadrant; 15 - representative lower inner quadrant; 16 & 17 - (composite blocks) further slice lower inner quadrant; 18 - representative upper outer quadrant; 19 - representative upper outer quadrant (superior margin of the tumour); 20 - representative lower outer quadrant (inferior margin of tumour); 21 - further representative lower outer quadrant.  
+Please refer to attached diagram.  (GK/ta 23/5/63)
+C.  Specimen labelled "Left breast lesion, long lateral, short superior, medium medial" consists of a hookwire excision of breast measuring 25mm (medial to lateral) x 35mm (superior to inferior) x 28mm (superficial to deep).  Superior inked blue, superficial inked green and deep inked black.  There is a hookwire in situ which enters onthe superficial aspect and exits the breast on the deep aspect and runs the full length of the breast specimen.  The deep aspect contains a cream fibrous area which is firm and rubbery to palpate.  The cut surface is cream and smooth.  Specimen is serially sectioned and AE 18 blocks.  Please refer to attached diagram.  
+(RV/mm 24.5.63) 
+FROZEN SECTION REPORT:
+A.  Sentinel node imprint cytology:  No tumour seen.  
+Result to Dr Tuxhorn by Dr B Seppelt at 5.20pmon 21/3/13.
+MICROSCOPIC: (Reported by Dr B Hylton - 28.5.2063)
+A.  One of two sentinel lymph nodes shows a single isolated tumour cell on immunohistochemistry only (1/2). A synoptic report for sentinel lymph nodes follows:
+SYNOPTIC REPORT FOR SENTINEL LYMPHNODES 
+No. of sentinel lymph nodes examined: Two.
+No. of sentinel nodes involved by tumour: One (1/2).
+No. of sentinel nodes with metastases >2.0mm: None.
+No. of sentinel nodes with metastases <2.0mm: None.
+No. of sentinel nodes with isolated tumour cells <0.2mm: One isolated tumour cell is present on IHC only. 
+Extranodal spread: Not identified.
+B.  The right breast tumour is a Grade 3 invasive ductal carcinoma arising on a background of multifocal high grade DCIS. A synoptic report for invasive breast carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Right breast (mastectomy). 
+Type: Invasive ductal carcinoma, NOS.
+Invasive tumour size: 16mm (macroscopic).
+Grade: 3 (Modified Bloom & Richardson)       
+Tubules: 2 Nuclei: 3 Mitoses: 3 Mitotic rate: 25/10hpf.
+Lymphovascular invasion: Foci suspicious for LVI are present. 
+Perineural invasion: Present. 
+
+DCIS component:  : Present. 
+Maximum extent of DCIS: DCIS is present in association with invasive carcinoma, as well as, in surrounding breast tissue, over an approximate maximum extent of 20mm.
+Nuclear grade: High grade.
+Architecture: Solid.
+Necrosis: Not identified. 
+Calcification: Not identified. 
+Degree of DCIS in tumour: <25%.
+DCIS in adjacent tissue: Present.
+Excision Margins:  
+Invasive component:
+Superficial margin: 2.0mm (block B1)
+Deep margin: 5.5mm (block B2)
+Inferior, superior, medial and lateral margins: Clear of tumour.
+In-situ component:
+Deep margin: 0.56mm (block B2).
+Superficial margin: 5.5mm (block B2).
+Inferior, superior, medial and lateral margins: Clear of tumour.
+Receptors: 
+ER:   POSITIVE
+	90% of nuclei stained
+	Predominant intensity of staining: Strong.
+PR:   POSITIVE
+	90% of nuclei stained
+	Predominant intensity of staining: Strong.
+HER2 (Novocastra 10A7): Positive (3+).
+Ki-67 immunoproliferative index: Variable, up to 75% of tumour cell nuclei positive. 
+
+Nipple: Not included. 
+LCIS / ALH: Not identified. 
+Miscellaneous: The adjacent non-neoplastic breast tissue shows columnar cell change/hyperplasia, pseudo-angiomatous hyperplasia, patchy mild periductal chronic inflammation, epithelial hyperplasia, apocrine metaplasia, sclerosing adenosis and papillary apocrine hyperplasia. Changes consistent with previous biopsy are present. An incidental 8.0mm fibroadenoma is identified. 
+Axillary lymph nodes: 
+No of axillary lymph nodes present for assessment: One.
+Number of axillary lymph nodes involved: None.
+Lymph node total (Specimens A and B):
+Total number of lymph nodes examined (including sentinel node(s)): Three.
+Total number of involved lymph nodes (including sentinel node(s)): One (ITC) (1/3).
+C.  The left breast lesion is a circumscribed, unencapsulated fibroadenoma. The fibroadenoma is present at the medial aspect of the specimen and is composed of benign ducts showing a mixed pericanalicular and intracanalicular pattern and surrounded by variably sclerotic fibrous stroma. The fibroadenoma shows no atypical features and there is no evidence of a Phyllodes tumour. Changes consistent with previous biopsy site are present. The adjacent breast tissue shows pseudo-angiomatous hyperplasia, periductal lymphocytic inflammation suggestive of diabetic mastopathy, columnar cell change/hyperplasia, apocrine metaplasia and numerous ectatic ducts. There is a single focus of atypical ductal hyperplasia, which appears clear of margins (>5.0mm) (block C10). There is no convincing DCIS or evidence of invasive malignancy. The margins of excision are as follows:
+Margins of excision of fibroadenoma:
+Medial margin: Present at inked margin.
+Superior margin: 0.25mm.
+Superficial margin: 0.56mm.
+Inferior margin: 0.56mm.
+Deep and lateral margins: Margin appears clear.  
+DIAGNOSIS:
+A.  Right axillary sentinel lymph nodes (x2): One of two sentinel lymph nodes shows a single isolated tumour cell with immunohistochemistry (1/2).
+
+B.  Right breast: 16mm Grade 3 invasive ductal carcinoma associated with multifocal high grade solid DCIS. Carcinoma appears clear of margins. DCIS is 0.56mm to the closest (deep) margin. ER, PR and HER 2 are positive. One axillary lymph node is present and shows no evidence of malignancy (0/1). 
+
+C.  Left breast lesion: Fibroadenoma, present at medial margin (close to superior, superficial and inferior margins). There is a single focus of atypical ductal hyperplasia (clear of margins). No evidence of DCIS or invasive carcinoma. 
+
+Her-2 CISH is being performed and a supplementary report will be issued. 
+
+
+***SUPPLEMENTARY REPORT: HER-2 CISH (17.6.2063)
+HER2 IN SITU HYBRIDISATION reported by Dr B Applebaum, CESSNOCK DISTRICT HOSPITAL Hospital:
+HER2 IHC Result:  3+
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 DUAL ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	POSITIVE (amplified)
+
+Mean HER2 copy number per cell:  12.7 
+Mean CEP 17copy number per cell:  1.9 
+HER2/CEP17 Ratio: 6.68
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

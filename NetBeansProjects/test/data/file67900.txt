@@ -1,0 +1,40 @@
+SPR no: 37W447669F
+MRN no: 37844766
+Site_name: YARRAWONGA HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left posterior arm excision. Core bx - malignant. Peripheral nerve sheath tumour. Neoadjuvant chemotherapy.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left posterior arm sarcoma&amp;quot; received fresh, oriented with Surgeon and Dr I Duartes present. Sample taken for Biobank. Specimen consists of an ellipse of skin, 170 x 40mm to a depth of 75mm. There is one suture indicating proximal as per surgeon, designated superior. Medial blue, lateral black. The specimen is serially sectioned from superior to inferior into thirteen slices. On sectioning there is a well circumscribed, lobulated fatty mass, 125 x 110 x 70mm, with attached fatty and muscular tissue. There is a central 70 x 50 x 40mm tumour cavity filled with yellow serous fluid. Blocks: 1 - LS slice one; 2 - RS slice five; 3 &amp;amp; 4 - RS slice six; 5 - RS slice seven; 6 - RS slice eight; 7 - RS slice seven; 8 - RS slice eight; 9 - RS slice nine; 10 - RS slice ten; 11 - RS slice seven; 12 &amp;amp; 13 - RS slice eight; 14 - RS slice ten; 15 - RS slice twelve; 16 &amp;amp; 17 - LS slice thirteen; 18 - RS slice six, showing interface of skin to tumour; 19 to 24 - RS showing tumour from slices four, five, seven, eight, nine and ten; 25 - for Biobank. RS. Shown to Dr I Bergren. Please see diagrams.  (TO:DN/ta 27/5/71)
+MICROSCOPIC: (Reported by Dr I Taub &amp;amp; Dr I Boerger)
+Sections of the 170mm left posterior arm lesion show a malignant spindle cell sarcoma. The tumour has a predominant pushing advancing edge with a variably thick fibrous pseudocapsule. There is a surrounding cuff of mature fibradipose tissue and skeletal muscle. The tumour is moderately to highly cellular and is composed of malignant plump to anaplastic spindled cells arranged in herringbone and peritheliomatous patterns. At the centre of the lesion, there is extensive suppurative necrosis (with up to 85% of tumour appearing necrotic). Up to 16 mitoses per 10 hpf are seen. At the interface between viable and necrotic tumour, the tumour appears less cellular with a haphazard arrangement of the malignant spindled cells. The residual tumour shows features consistent with previous treatment (fibrinoid necrosis of vessels with superimposed myxohyaline change, inflammation and extensive necrosis as previously described). The overlying shows reactive changes.
+
+The margins of excision are as follows:
+Proximal: Clear of tumour (at least 10mm) (1)
+Distal: 3.3mm (16)
+Medial: 4mm (2)
+Lateral: 3.3mm (12)
+Deep: 5mm (7)
+Superficial (distal end - no overlying skin): 2.2mm (15)
+
+
+IMMUNOHISTOCHEMISTRY:
+Tumour cells positive for: Pancytokeratin (focal ?aberrant), P40 (focal ?aberrant), CD34 (patchy cytoplasmic staining).
+Tumour cells negative for: TLE1 (focal non-specific), CAM5.2, CD31, STAT6, myogenin, desmin (focal non-specific), CD99 (non-specific), SMA, S100 and SOX10.
+H3K27me3 shows loss of nuclear staining in most tumour cells (&amp;gt;85%).
+
+
+COMMENT:
+The 170mm posterior arm lesion is a high grade spindled/sarcomatoid malignancy. The appearance is similar to that described in the recent core biopsy (DHM 14171-21MP Dr Scheel) including loss of H3K27me3. However, no demonstrable S100, SOX10 or smooth/skeletal muscle staining is seen.
+
+Overall, the findings support the original preferred diagnosis of a malignant peripheral nerve sheath tumour. There is no definitive rhabdomyosarcomatous differentiation.
+
+Grading of sarcomas may not be reliable after treatment, however, in the material examined the overall features would be in keeping with FNCLCC grade 3 (high grade).
+(Tumour score = 3; mitosis score = 2; necrosis = 2; total score = 7/8).
+
+
+DIAGNOSIS:
+Left posterior arm: 170mm high grade spindled/sarcomatoid malignancy, clear of margins (see comment).

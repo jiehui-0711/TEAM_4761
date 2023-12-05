@@ -1,0 +1,44 @@
+SPR no: 00X374985Z
+MRN no: 0358673
+Site_name: B083
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report00X37498 (00X374985T) Fida, REX MIQUEL
+HISTOPATHOLOGY REPORT
+LOGAN HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+DCIS.  Re-excision margins left breast.  Lateral margin.
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;RE-EXCISION MARGINS LEFT BREAST LATERAL MARGIN, LONG-LATERAL, MEDIUM-MEDIAL, SHORT-SUPERIOR&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Re-excision oriented
+SPECIMEN X-RAY:   No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  10mm
+Superior to inferior:  60mm
+Anterior to posterior:  65mm
+WEIGHT:  21g
+SKIN:  Yes. Strip of skin received separately.  It measures 55x2mm and a depth of 7mm and there is a scar running along its entire length
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  N/A
+MARGIN INKED:
+Non-standard:  Anterior blue, posterior black, medial red, lateral green
+DISSECTION: Cut from superior to inferior
+Number of slices: 18
+FINDINGS / LESION:  There is a concavity involving the medial surface.  Adjacent to this is areas of fat necrosis.  No discrete mass lesion is identified.
+(1 LS through slice 1 superior margin; 2 slice 3; 3 slice 5; 4 slice 7; 5 slice 9 bisected; 6 slice 11 bisected; 7&amp;amp;8 slice 13 trisected; 9&amp;amp;10 slice 15 trisected; 11&amp;amp;12 slice 17 trisected; 13-15 LS through inferior margin slice 18).
+The strip of skin resection margin is inked blue.
+(16 RS of strip of skin). RS (M-16/MC 10/2/2068 ank)
+MICROSCOPIC:  (Dr B Cordy)
+Representative sections show that the medial margin of this specimen is formed by florid reactive post surgical changes including suture granulomas. There is no evidence of in-situ or invasive malignancy.
+There is a lobule showing changes of moderate to florid epithelial hyperplasia of usual type without atypia and there are scattered foci of atypical lobular hyperplasia. Sections of the skin show an immature dermal scar including suture granulomas.
+
+DIAGNOSIS:
+RE-EXCISION MARGINS LEFT BREAST
+- NO EVIDENCE OF IN-SITU OR INVASIVE MALIGNANCY.
+
+7/2/71 ld

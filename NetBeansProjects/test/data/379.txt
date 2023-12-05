@@ -1,0 +1,114 @@
+Episode No:  88B033560G
+880033.NQC
+
+SCHACHERER, WILHEMINA 
+Lab No:  88B03356
+N Dittmar
+DRUMMOND COVE  South Australia  1122
+Specimen: Tissue
+D.O.B:  15/7/2016
+Sex:  F
+Collected: 12/04/2013 at 09:34
+Location:  Lowy-DUNEDOO MULTI PURPOSE SERVICE
+DR DOMINIQUE ADALBERTO CRAZIER
+Distribution:  DR Bussone,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Multifocal right breast cancer.  Large focus upper inn quadrant.  Tumour also in axillary tail.  ?Tumour 7 o'clock.  Neoadjuvant chemo.  R mastectomy and R axillary clearance level 1 & 2.
+MACROSCOPIC:
+A.  Specimen labelled "Right breast lateral" consists of a total mastectomy specimen measuring 183 x 130 x 55mm with an overlying skin ellipse measuring 180 x 70mm. The nipple areola complex measures 40 x 50mm.  The epidermal surface of the skin ellipse is unremarkable.  The deep margin is inked black, superficial green.  On serial sectioning there is a hard cream nodule in the upper inner quadrant measuring 20 x 13 x 20mm.  The lesion comes close to the medial margin.  Macroscopically it is 13mmfrom the deep margin and 7mm from the superficial margin and is located 60mm from the nipple.  There is a second nodule which may correspond to the 7 o'clock lesion in the lower quadrant at approximately at 6 o'clock measuring 15 x 6 x 8mm.  This nodule is 25mm from the deep margin and 35mm from the superficial margin.  No definite lesion is identified in the axillary tail.  
+Blocks: 1 - UIQ lesion closest to medial margin; 2- UIQ lesion; 3- UIQ lesion with deepmargin; 4 - UIQ lesion with superficial margin; 5 - nodule two; 6 - deep margin closest to nodule 2; 7 - superficial margin closest to nodule 2; 8 - representative firm axillary tissue; 9 - deep margin closest to tissue in block 8; 10 - superficial margin closest to tissuein block 8; 11 - further firm nodular area in axilla; 12 - closest deep margin to block 11; 13 - closest superficial margin to block 11; 14 - representative upper inner quadrant superior to tumour; 15 - representative upper inner quadrant lateral to UIQ lesion; 16 - further representative breast lateral to UIQ lesion; 17 & 18 - representative lower inner quadrant; 19- representative upper outer quadrant superior to nodule two; 20- representative upper outer quadrant; 21& 22 - representative lower outer quadrant; 23 - representative nipple; 24 - possible lymph node axillary tail; 25 - lymph node axillary tail.   
+B.  Specimen labelled "Level one and two right axilla" consists of a piece of fibroadipose tissue 100 x 80 x 20mm.
+Blocks: 1 to 3 - one lymph node; 4 - one lymph node bisected; 5 & 6 - one lymph node bisected; 7 - one lymph node bisected; 8 - one lymph node bisected; 9 to 15 - lymph nodes.  (VX/ta 14/6/63)
+MICROSCOPIC (reported by Dr F Scripps):
+A & B.   Sections show two foci of ductal carcinoma, one within the upper inner quadrant and the other at 7 o'clock.  Grading and immunohistochemical studies may be unreliable due to prior therapy effect.  The features are as follows:
+Invasive carcinoma number 1: 
+Site:  Right breast, upper inner quadrant. 
+Type:  Invasive ductal carcinoma.  
+Invasive tumour size:  10mm.
+Grade (Modified Bloom & Richardson):  1.
+Tubules:  2   Nuclei:  1    Mitoses:  1   Mitotic rate:  2/10hpf.
+Lymphovascularinvasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS: 12mm.
+Nuclear grade:  Intermediate.
+Architecture:  Solid. 
+Necrosis:  Present. 
+Calcification:  Present. 
+Degree of DCIS in tumour:  Minimal.  
+DCIS in adjacent tissue:  Minimal. 
+Excision Margins:  
+Invasive component:  4mm from superior, other margins well clear. 
+In-situ component:  Well clear of all margins. 
+Receptors (Block A2): 
+ER:   Positive.
+	50% of nuclei stained
+	predominant intensity of staining:  Moderate to strong. 
+PR:   Negative.  
+HER2 (Novocastra 10A7):  Equivocal (score 2+).
+Ki-67 index:  Approximately 10%.
+Invasive carcinoma number 2:
+Site:  Right breast 7 o'clock. 
+Type:  Invasive ductal carcinoma
+Invasive tumour size:  13mm. 
+Grade (Modified Bloom & Richardson):  1
+Tubules:  2    Nuclei:  2    Mitoses:  1    Mitotic rate:  2/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present.  
+Maximum extentof DCIS:  4mm. 
+Nuclear grade:  Intermediate. 
+Architecture:  Solid. 
+Necrosis:  Absent. 
+Calcification:  Absent. 
+Degree of DCIS in tumour:  Minimal.   
+DCIS in adjacent tissue:  Minimal. 
+Excision Margins:  
+Invasive component:  Well clear of all margins. 
+In-situ component:  Well clear of all margins. 
+
+Receptors (Block A5): 
+ER:   Positive.
+	15% of nuclei stained
+	predominant intensity of staining:  Strong. 
+PR:   Negative.  
+HER2 (Novocastra 10A7):  Equivocal (score 2+).
+Ki-67 index:  Approximately 5%.
+
+Nipple:  No significant abnormality. 
+Miscellaneous:  Treatment effect changes are present.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0.
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  23.
+Number of axillary lymph nodes involved by tumour:  7.        
+Number of axillary nodes with metastases >2.0mm:  5. 
+Number of axillary nodes with metastases <2.0mm:  2.
+Number of axillary nodes with isolated tumour cells <0.2mm:  0.      
+Extranodal spread:  Absent.   
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  23.  
+Total number of involved lymph nodes (including sentinel node(s)):  7.  
+ 
+ADDITIONAL REPORT (12/7/2063):
+Blocks were sent to BORDERTOWN MEMORIAL HOSPITAL Hospital for Her2 ISH analysis, Dr F Pals reports:
+Block A2:
+Her2 Dual ISH result:  NEGATIVE (non-amplified, diploid). 
+
+Mean Her2 copy number per cell: 1.7
+Mean CEP17 copy number per cell:  1.25.
+HER2/CEP17 ratio:  1.36.
+Block A5:
+Her2 Dual ISH result:  NEGATIVE (non-amplified, diploid). 
+
+Mean Her2 copy number per cell: 1.65.
+Mean CEP17 copy number per cell:  1.7.
+HER2/CEP17 ratio:  0.97.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+

@@ -1,0 +1,62 @@
+SPR no: 27P135943B
+MRN no: 27613594
+Site_name: WALCHA MULTIPURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL :
+Stage 1B1 cervical cancer.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, tubes and ovaries&amp;#8220;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 65g in total.  The uterus measures 70 x 45 x 30mm and has a smooth shiny serosal surface. The ectocervix measures 35 x 22mm and has an unremarkable surface, apart from a focal area of haemorrhage measuring 9 x 6mm.  There is a discontinuous cuff of vaginal tissue measuring up to 26mm in width.  The external os is not probable. The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  On sectioning, the endometrium is less than 1mm in maximum thickness and the myometrium is 16mm in maximum thickness.  The myometrium contains foci of possible adenomyosis.  Obvious tumour is not macroscopically identified in the cervix.  The uterus has been divided into anterior and posterior segments with a sagittal incision which passes slightly posterior to the endocervix given the inability to probe the cervix.  There is a single fibroid within the lower uterine segment of the posterior uterus measuring 11mm in maximum dimension.  The left unremarkable fallopian tube measures 65 x 5 x 5mm.  The left ovary measures 23 x 15 x 10mm, with an unremarkable cut surface. The right unremarkable fallopian tube measures 65 x 5 x 4mm.  The right ovary measures 28 x 15 x 10mm, with an unremarkable cut surface.  Complete cervix embedded.
+Blocks 1-16 - sequential LS anterior cervix from right to left (5-7 and 8-10 - each contain composite midline LS of cervix and uterus); 18-29 - LS complete posterior cervix sequentially from left to right (21-23 and 24-25 - midline LS posterior uterus and cervix); 30 - LS complete fimbrial end left fallopian tube and mid TS; 31 - rep left ovary; 32 - LS complete fimbrial end right fallopian tube and mid TS; 33 - rep right ovary.
+
+B.  Specimen labelled &amp;#8220;Right external iliac nodes&amp;#8220;, consists of fibroadipose tissue, 60 x 50 x 25mm, containing lymph nodes.
+Blocks 1 &amp;amp; 2- single lymph node, bisected; 3 - lymph nodes as seen; 4 - single lymph node, bisected.
+
+C.  Specimen labelled &amp;#8220;Left external iliac nodes&amp;#8220;, consists of fibroadipose tissue, 60 x 35 x 25mm, containing lymph nodes.
+Blocks 1-3 - lymph nodes as seen.
+
+D.  Specimen labelled &amp;#8220;Right common iliac lymph node&amp;#8220;, consists of fibroadipose tissue, 30 x 18 x 8mm, containing lymph nodes.
+Block 1 - lymph nodes as seen. AE.
+
+E.  Specimen labelled &amp;#8220;Left common iliac lymph node&amp;#8220;, consists of fibroadipose tissue, 25 x 20 x 12mm, containing lymph nodes.
+Block 1- single lymph node, sectioned, 2 - lymph nodes as seen; 3 - remaining fibroadipose tissue, lymph nodes as seen. AE.
+
+F.  Specimen labelled &amp;#8220;Right obturator lymph node&amp;#8220;, consists of fibroadipose tissue, 50 x 30 x 20mm, containing no fewer than one lymph nodes.
+Block 1-4 - single lymph node, sectioned; 5 &amp;amp; 6 - remaining fibroadipose tissue, lymph nodes as seen.
+
+G.  Specimen labelled &amp;#8220;Left obturator nodes&amp;#8220;, consists of fibroadipose tissue, 50 x 40 x 30mm in aggregate, containing lymph nodes.
+Block 1 &amp;amp; 2 - single lymph node, bisected; 3 - lymph nodes as seen; 4-7 - single lymph node, sectioned.  (JB/ec  25.10.66)
+
+
+MICROSCOPIC (Reported by Dr F Vandeventer):
+A.  Sections show a poorly differentiated non-keratinising squamous cell carcinoma within the anterior cervix.  The surface of cervix is disrupted, in keeping with previous previous biopsy/surgery.  The carcinoma has a depth of stromal invasion of at least 3mm (block A8).  Microscopically, the horizontal tumour width is 15mm (block A8 to A14) and the length is 9mm (block A14).  There is no evidence of lymphovascular or perineural invasion.  There is extensive CIN 3.  The carcinoma and CIN 3 is completely excised.  The carcinoma is 7mm to the closest anterior circumferential margin of cervix (block A13).  The endometrium is atrophic except a small focus of complex hyperplasia with atypia, measuring 1.5mm in diameter (block A23).  The myometrium shows foci of adenomyosis.  A small intramural leiomyoma is present.  Both fallopian tubes are unremarkable.  Both ovaries are unremarkable.  One (1) lymph node is identified within the adipose tissue attached to the uterus.  The lymph node is unremarkable.  There is no evidence of tumour metastasis.
+
+B.  Six (6) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+C.  Nine (9) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+D.  Three (3) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+E.  Three (3) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+F.  Three (3) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+G.  Four (4) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Uterus, tubes and ovaries - Squamous cell carcinoma, completely excised.
+
+B.  Right external iliac nodes - No evidence of malignancy (0/6).
+
+C.  Left external iliac nodes - No evidence of malignancy (0/9).
+
+D.  Right common iliac nodes - No evidence of malignancy (0/3).
+
+E.  Left common iliac nodes - No evidence of malignancy (0/3).
+
+F.  Right obturator lymph nodes - No evidence of malignancy (0/3).
+
+G.  Left obturator nodes - No evidence of malignancy (0/4).

@@ -1,0 +1,120 @@
+DateOfBirth
+200403180000
+
+
+SiteName
+CAMPBELLTOWN HOSPITAL
+
+
+FirstName
+Jasko
+
+
+SPRID
+78D911317T
+
+
+MRN
+7819113
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+78D91131 (78D911317T) Longford, Graig
+
+HISTOPATHOLOGY REPORT
+CLERMONT MULTI-PURPOSE HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Frozen section lymph node left common iliac vein. Peritonectomy mucinous adenocarcinoma.
+Liver segment 7. Left external iliac artery aneurysm. Left external iliac artery aneurysm.
+MCS. Left inguinal lymph node + flow cytometry. AA (AP Reg) 22/4/72. Metastatic CRC.
+Page Dr. Bud&amp;apos;s team Reg 939, Resident 362. Alzahrani fellow. Intern Hirev.
+Phoned to Intern Hirev loop ileostomy reversed and a colostomy formed. Is there is a bowel specimen, we have not received one, she will ring back after enquiring. Fr 1005 23/4/72.
+Phone to Dr. Guadalupe fellow ileostomy was not sent, aneurysm was close to rectum and rectal bowel is attached to aneurysm. FR 1100 23/4/72.
+
+MACROSCOPIC:
+A. &amp;quot;LYMPH NODE LEFT COMMON ILIAC VEIN&amp;quot;. A pink nodule 10mm diameter with a staple at one end.
+1 FS two TS; 2 remainder paraffin.
+F/S : &amp;quot;Large nerve fibres.  No evidence of malignancy&amp;quot;. Report to fellow by Dr. S. Riddell at 11:55 am on 22.04.72.
+(1 remainder FS; 2 remainder nodule).
+
+B. &amp;quot;LEFT EXTERNAL ILIAC ARTERY ANEURYSM&amp;quot;. A fatty piece of tissue 30x20x10mm. Separated for mcs and flow cytometry. Saline added to the flow cytometry specimen. Formalin added to remainder for histo. AA  (AP Reg) 22.04.2072 at 1720 Hrs. Representative sections in blocks 1 and 2. Representative sections. (2-2)
+
+C. &amp;quot;LIVER SEGMENT VII&amp;quot;. A portion of liver 120x80x60mm with a surgical margin 140x65mm which is inked blue. The capsular surface is mostly smooth with two brown macular lesions 2-3mm across centrally, which are both 55mm from the surgical margin. Within the parenchyma there are brown haemorrhagic lesions. One measures 9mm across which is 6mm from the surgical margin and 13mm from the capsular surface. One measures 4mm across and  is 10mm from the surgical margin and 14mm from the capsular surface. One is 12mm across and is 12mm from the surgical margin and 13mm from the capsular surface. One is 2mm across and is 5mm from the capsular surface and 35mm from the surgical margin.
+
+(1 two surface nodules; 2 RS 9mm lesion; 3 RS 4mm lesion; 4 RS 12mm lesion; 5 RS 2mm lesion; 6 RS normal parenchyma away from lesion). Representative sections. (M-6)
+
+D. &amp;quot;LEFT EXTERNAL ILIAC ARTERY ANEURYSM&amp;quot;. A  piece of bowel, With attached fibrous tissue and fatty tissue measuring overall 75x75x30mm.
+A 65mm length of bowel with two stapled margins, one is inked green and one is inked blue, and with attached mesocolon up to 45mm in thickness. Within the lumen of the bowel there is a possible polyp measuring 18x18x10mm which is 25mm from the green inked margin and 30mm from the blue inked margin. On the antimesenteric side there  is a piece of fibrous tissue attached to the serosal surface of the bowel 30mm from the green inked margin and 20mm from the blue inked margin, measuring 47x45x13mm. There is fatty tissue attached on one edge of the fibrous tissue measuring 27x25x13mm. The edges of the fibrous tissue are inked yellow.
+
+(1 green and blue inked margins of bowel; 2 possible attachment site of possible polyp; 3&amp;amp;4 possible polyp all embedded; 5 possible apical lymph node bisected; 6&amp;amp;7 RS fatty tissue; 8-13 TS through bowel wall and attached fibrous tissue [8&amp;amp;9 one section; 10&amp;amp;11 one section; 12&amp;amp;13 one section]). Representative sections. (M-13)
+
+E. &amp;quot;LEFT INGUINAL LYMPH NODE&amp;quot;. Fatty tissue 90x45x15mm.
+
+(1 four lymph nodes; 2-4 one lymph node each block). Representative sections. (M-4/FR 24/4/2072 ank)
+
+MICROSCOPIC:  (Dr. S. Zonker)
+A. Sections show fibrofatty tissue with large nerve bundles and one benign lymph node.
+
+B. The biopsy shows a cross section of vas deferens which is attached to a large strip of densely fibromuscular tissue, probably representing a large vessel wall. There is an organising blood clot attached to the inner surface. A segment of large bowel muscularis propria is also attached to the outside of the specimen fibromuscular tissue.
+
+C. The surface nodules are zones of diathermied liver capsule. The liver shows moderate macrovesicular steatosis in a centrilobular distribution. The identified lesions are all cavernous haemangiomas with identical features. They show ectatic dilated and interconnected blood channels which are separated by fibrous septa and are lined by a single layer of bland endothelial cells. The lesions are well circumscribed and there are no atypical features. There is no malignancy.
+
+D. The bowel wall is unremarkable. The macroscopically described possible polyp is a zone of inspissated mucin mixed with mucosal fragments and cellular debris attached to the mucosal surface. The external surface of the bowel has an adherent strip of dense fibromuscular tissue, probably representing vessel wall, which pushes into the muscularis propria focally. It is associated with surrounding mesenteric fibrosis and it has an adherent organising blood clot. The vessel wall histology is altered by the fibrotic reaction. The blood clot extends into the wall of the bowel.  The mesenteric fat shows foreign body reaction to empty vacuoles and minimal suture material. There are two lymph nodes with no malignancy.
+E. Five lymph nodes with no malignancy.
+
+
+DIAGNOSIS:
+A. LYMPH NODE LEFT COMMON ILIAC VEIN:
+- Nerve bundles
+- One benign lymph node
+
+B. LEFT EXTERNAL ILIAC ARTERY ANEURYSM:
+- Fibromuscular vessel wall with organising blood clot
+- Segment of vas deferens is present
+
+C. LIVER SEGMENT VII:
+- Multiple cavernous haemangiomas
+- No evidence of malignancy
+
+D. LEFT EXTERNAL ILIAC ARTERY ANEURYSM:
+- Fibrotic probable vessel wall adherent to the muscularis propria of the bowel segment.
+- No evidence of malignancy
+
+E. LEFT INGUINAL LYMPH NODE:
+- Five lymph nodes with no malignancy.
+
+
+28/4/2072 cy
+
+
+
+
+
+SpecimenReceivedDate
+2072-04-21 00:00:00
+
+
+LastName
+Williams

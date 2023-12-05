@@ -1,0 +1,75 @@
+Episode No:  06G784650B
+0627846.NCB
+
+DOMAS, Krissy 
+Lab No:  06G78465
+Wildley DORRIGO MULTI PURPOSE SERVICE
+RASMUSSEN  South Australia  4812
+Specimen: Tissue
+D.O.B:  6/12/1968
+Sex:  F
+Collected: 13/02/2014 at 13:46
+Location:  PaLMS-CENTRAL GIPPSLAND HEALTH SERVICE (SALE)
+DR TAMA DUDLEY Poulsen
+Distribution: FILE-COPY
+CLINICAL:
+R sided colon cancer.  R hemicolectomy.  100 year old woman with diarrhoea and anaemia.  Found to have a caecal cancer on CT/colonoscopy which has been tattooed.  Nil mets on CT.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a segment of bowel consisting of terminal ileum 50mm in length, 30mm in maximum open circumference and right colon 150mm in length, 65mm in maximum open circumference with attached appendix 45mm in length, 7mm in maximum external dimension.  There is an exophytic cauliflower like lesion 80 x 50 x 15mm.  The lesion is located at the ileocaecal valve 80mm from the distal margin, 70mm from the proximal resection margin.  The tumour invades through the full thickness of muscularis propria to the subserosa region.  The overlying serosa is puckered but appears stillintact.  The overlying serosa is inked blue.  No other lesion is identified.  Sixteen lymph nodes identified from the pouch of caecum area ranging from 1mm across to 12mm across.
+Blocks:  1 - the proximal margin; 2 to 6 - tumour with overlying serosa; 7 - TS of the appendix and LS of the distal end; 8 - distal resection margin; 9 - apical node one node; 10 - three nodes; 11 - one node bisected (largest node); 12 to 14 - three nodes in each block; 15 - two nodes. (GE/bl 16/4/64)
+MICROSCOPIC:  (Reported by Dr C Debiew)
+The caecal tumour is a moderately differentiated adenocarcinoma showing areas of mucinous differentiation. A synoptic report for invasive carcinoma follows:
+
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Caecum. 	
+Maximum tumour diameter: 80mm (macroscopic). 
+Distance of tumour to nearer cut end: 70mm (proximal margin). 
+Tumour perforation: No. 
+Microscopic Description
+Type
+Adenocarcinoma with areas of mucinous differentiation. 
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved.
+
+Lymph nodes
+Number of lymph nodes present: Fifteen. 
+Number of lymph nodes involved: None (0/5). 	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Tubulovillous adenoma.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvant therapy
+Not applicable. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+pTNM STAGE (TNM 7th Edition) = 2A (pT3N0MxR0)	
+
+
+DIAGNOSIS:
+Right hemicolectomy: 
+pTNM Stage 2A moderately differentiated caecal adenocarcinoma showing areas of mucinous differentiation.
+No evidence of malignancy in fifteen lymph nodes (0/15).
+Markers of microsatellite instability show loss of nuclear staining for MLH1/PMS2 which may reflect the presence of a germline mutation or somatic inactivation of the mismatch repair gene. 
+
+
+
+
+
+

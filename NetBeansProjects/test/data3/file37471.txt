@@ -1,0 +1,40 @@
+SPR no: 72A653792X
+MRN no: 9785396
+Site_name: MEEKATHARRA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report72A65379 (72A653792X) ROUZZO, Foster
+HISTOPATHOLOGY REPORT
+WEIPA HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Low grade appendiceal neoplasm LAMN.  Rectum + small bowel + omentum + peritoneum
+Previous results: 72A65379, appendix, procedure 15/7/2063).
+
+MACROSCOPIC:
+&amp;quot;RECTUM, SMALL BOWEL, OMENTUM, PERITONEAL DISEASE&amp;quot;.  Received within the same specimen container, multiple tissue fragments with focal surface involvement by mucinous deposits.  These fragments include:
+- A segment of small bowel 30x20mm with mesentery up to 15mm.  The mesentery and the wall are focally disrupted by a mucinous deposit 13x10x8 mm infiltrating the underlying fat. There are no intraluminal polyps or tumours identified.  (1 longitudinal resection margin; 2&amp;amp;3 each TS mid lumen with mucinous deposits;
+- A disrupted segment of large bowel (rectum) 120x40mm.  The distal 20mm of the specimen is without peritoneal covering.  The peritoneal surfaces are involved by multiple mucinous deposits.  The largest deposit at the reflection measuring 25x20x15mm.  It is invading into the mesorectal fat and the rectal wall but has no intraluminal involvement.  The lumen has no polyps or intraluminal tumours.  4 proximal margin [stapled]; 5 distal margin [below the reflection]; 6&amp;amp;7 tumour at peritoneal reflection[block 7 for tissue banking]; 8 tumour into mesorectal fat; 9 one mesorectal lymph node trisected;
+- A fibrofatty piece of tissue consistent with omentum measuring 340x170x35mm.  Loose mucinous deposits are identified on the outer surface covering about 20% of the submitted omentum.  The largest deposit measures 30x20x7mm and has a mucinous cut surface.
+10-14 omental sections with overlying mucin;
+- Multiple fibrofatty pieces of tissue 150x50x25mm in aggregate.  Loose surface mucin is evident on multiple fragments.  15-17 peritoneal mucinous deposits;
+- Multiple floating mucinous material 100x50x15mm in aggregate.  No definite solid components are identified. 18&amp;amp;19 RS floating mucin).  RS (M-19/ZH nh)
+
+MICROSCOPIC:  (S Jardon)
+
+The previous appendicectomy report (72A65379, from 13/8/2063) are noted.
+
+The current specimen re are peritoneal deposits of low-grade (appendiceal) mucinous neoplasm (LAMN, G1: well differentiated) over the peritoneal surface of small bowel, mesentery, colon and mesocolon, and present as detached free apparent peritoneal nodules.  In the colon specimen LAMN extends into muscularis propria from the peritoneal surface.
+The deposits of  mucin are low low cellularity contain strips of mucinous epithelium in areas, showing low grade features. Much of the mucin is acellular including the floating mucinous material.
+
+COMMENT(S):
+In the clinical setting the appearances are consistent with origin from appendix. LAMN is staged and classified as low grade carcinoma in current TNM AJCC 8th edition.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+Distant Metastasis (pM):  pM1b: Intraperitoneal metastasis only, including peritoneal mucinous deposits containing tumor cells
+
+DIAGNOSIS:
+RECTUM, SMALL BOWEL, OMENTUM, PERITONEAL DISEASE
+- Peritoneal deposits of low grade (appendiceal) mucinous neoplasm (LAMN, G1: well differentiated), consistent with appendix origin in the given clinical setting.
+
+cy

@@ -1,0 +1,63 @@
+SPR no: 83F999118I
+MRN no: 8319991
+Site_name: BUSSELTON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: (28.6.2067)
+
+***SUPPLEMENTARY REPORT: (12.6.2066)
+
+CLINICAL:
+Endometrial cancer (high grade ?clear cell).
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right external iliac node&amp;quot;, consists of a single 23mm lymph node encased in fibroadipose tissue (up to 15mm in width).  Complete lymph node for frozen section in 2 blocks.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 &amp;amp; 4 - remaining tissue.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 145g in total.  The uterus measures 110 x 65 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 45 x 35mm and has an unremarkable surface.  The anterior cervical margin is inked blue and the posterior cervical margin inked black.  On sectioning, the fundal aspect of the uterus is cystic tumour (unilocular), 35 x 55 x 30mm.  There is a polypoid solid area within this cystic tumour measuring 17 x 22mm; the remaining cyst wall predominately has a reticular appearance.  The endometrium measures less than 1mm in thickness and the myometrium measures up to 30mm in thickness.  The cystic tumour appears to extend to within 5mm of the serosal surface anteriorly.  The left fallopian tube measures 22mm in length with a diameter of 4mm.  The left ovary, 25 x 15 x 9mm, has an unremarkable cut surface.  The right fallopian tube measures 45mm in length with a diameter of 4mm.  The right ovary, 25 x 16 x 9mm, has an unremarkable cut surface.
+Blocks: 1 to 4 - mid line LS posterior uterus and cervix (4 - polypoid tissue); 5 &amp;amp; 6 - composite mid line LS posterior uterus (6 - polypoid tissue); 7 &amp;amp; 8 - composite LS posterior uterus and cervix (8 - polypoid tissue); 9 to 12 - anterior mid line LS uterus and cervix (12 - ?deepest invasion); 13 &amp;amp; 14 - composite LS anterior uterus (14 - ?deepest invasion); 15 &amp;amp; 16 - composite LS anterior uterus (15 - ?deepest invasion); 17 - LS fimbrial end, and mid TS, left fallopian tube, and representative left ovary; 18 - LS fimbrial end, and mid TS, right fallopian tube, and representative right ovary.
+
+C.  Specimen labelled &amp;quot;Left obturator lymph node&amp;quot;, consists of one 20mm lymph node with a small amount of fibroadipose tissue (up to 20mm in width).  On sectioning, a 14mm tumour deposit is identified within the lymph node.
+Blocks: 1 - single lymph node, bisected; 2 - associated fibroadipose tissue.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of omental tissue, 60 x 40 x 30mm.  No lymph nodes or masses are identified.  RS 3 blocks.  (TO: JB; JB/ta 29/11/66)
+FROZEN SECTION REPORT:
+Metastatic carcinoma.
+Result to:  Anaesthetic registrar by Dr U Krake/Dr U Behel on 26/9/16 at 09:30hrs.
+
+
+MICROSCOPIC: (Reported by Dr U Voeller):
+A.  Sections of the right external iliac lymph node show a 5.5mm deposit of metastatic adenocarcinoma. There is no significant extranodal extension.
+
+B.  Sections of uterus show extensive uterine involvement by serous adenocarcinoma. Adenocarcinoma effaces and replaces much of the endometrium, including invasion of a prominent endometrial polyp. Adenocarcinoma infiltrates 15mm through the full thickness of the myometrium (15mm through a uterine wall 15mm thick) with direct serosal involvement. There is multifocal lymphovascular space invasion. Adenocarcinoma is present within endocervix, however, appears clear of the ectocervical margin. The bilateral ovaries and fallopian tubes show no significant abnormality.
+
+C.  Sections show a 11.5mm deposit of metastatic adenocarcinoma in one of two obturator lymph nodes (1/2). There is focal extranodal extension up to 1.1mm.
+
+D.  Sections show fragments of mature adipose tissue consistent with omentum. There are no atypical features. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right external iliac lymph node: Metastatic adenocarcinoma in one lymph node (1/1).
+
+B.  Uterus, cervix, bilateral fallopian tubes and ovaries: Serous adenocarcinoma; infiltrating through full thickness of uterine wall (15mm) with serosal and cervical involvement. Ectocervical margin appears clear of tumour.
+
+C.  Left obturator lymph node: Metastatic adenocarcinoma in one of two lymph nodes (1/2).
+D.  Omental biopsy: No evidence of malignancy.
+
+MSI markers are being performed on the tumour and a supplementary report will be issued.
+
+***SUPPLEMENTARY REPORT: Immunoperoxidase stains for MSI proteins (12.6.2066)
+Dr U Menzel
+
+MLH1	Preserved nuclear staining
+PMS2  	Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining for MSI markers makes MSI instability unlikely.
+
+***SUPPLEMENTARY REPORT: Immunoperoxidase stains for MSI proteins (28.6.2067)
+Dr U Stram
+ER and PR immunohistochemistry were performed as requested:
+ER - negative (up to 1% of tumour cell nuclei showing weak staining)
+PR - negative (nil staining).

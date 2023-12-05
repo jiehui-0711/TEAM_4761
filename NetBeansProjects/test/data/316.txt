@@ -1,0 +1,116 @@
+
+Episode No:  28V230145V
+2882301.KOV
+
+LEWCZYK, WANDA STASIA 
+Lab No:  28V23014
+Friars Place
+MEEKATHARRA  ACT  3923
+Specimen: Tissue
+D.O.B:  29/3/2014
+Sex:  F
+Collected: 26/02/2013 at 13:24
+Location:  EAST SURGICAL-LONGREACH HOSPITAL
+DR ALLAN BRANT TOMES
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast cancer.  Sentinel nodes for imprint cytology, frozen section.  Right breast cancer upper outer quadrant - wide local excision with ellipse of skin. Sentinel node biopsy (sent separately) positive level 2 axillary dissection. See request form for additional diagram. Biopsy proven R breast ca (recent core).  Horizontal ellipse.  Sutures - single long on lateral end of skin, double - deep (pectoral fascia), loop - inferior edge. 
+MACROSCOPIC:
+A.  Specimenlabelled "Sentinel node right breast", consists of a piece of fibrofatty tissue 50 x 30 x 15mm containing a lymph node 24 x 20 x 15mm. Serially sectioned. One imprint.   Block 1-3 - FS deblocked. 
+B.  Specimen labelled "Sentinel node right breast no 2", consists of a piece of fatty tissue containing a lymph node 22 x 14 x 5mm. Serially sliced.  One imprint.
+AE 2 blocks. 
+IMPRINT CYTOLOGY:   
+A.   Malignantcells present. 
+B.   No malignant cells identified. 
+Result to Dr H Traves by Dr H Lontz at 26.2.13 on 20:50pm.
+C.  Specimen labelled "? Lower axillary node", consists of a piece of fibrofatty tissue containing a lymph node measuring 13 x 9 x 5mm.  The specimen BAE 1 block. 
+D.  Specimen labelled "Right axillary apical nodes", consists of a piece of fibrofatty tissue measuring 30 x 24 x 10mm.  There are two lymph nodes identified measuring 5 and 2mm in maximum dimension.  
+Specimen AE in 3 blocks; 1 - largest lymph node; 2 - smallest lymph node; 3 - restof specimen. 
+E.  Specimen labelled "Right axillary dissection", consists of a piece of fibrofatty tissue measuring 135 x 90 x40mm.  Sixteen possible lymph nodes are found ranging from 3-32mm in maximum dimension.  Representative in 14 blocks.
+Blocks 1 & 2- one lymph node trisected; 3- one lymph node bisected; 4 - one lymph node trisected; 5 - one lymph node trisected; 6 - one lymph node trisected; 7 - one lymph node bisected; 8 - one lymph node bisected; 9 - one lymph node trisected; 10 - one lymph node bisected; 11 - one lymph node bisected; 12 -one lymph node bisected; 12 - one lymph node bisected; 13 - one lymph node bisected; 14 - three possible lymph nodes. 
+F.  Specimen labelled "Right breast tissue", consists of fibrofatty tissue with attached ellipse of skin measuring 45 x 28mm.  There are three marking sutures as specified. The ellipse of skin appears unremarkable.  The specimen is inked as follows: blue superficial, deep black, green superior, red inferior and serially sliced from medial to lateral into ten slices.  The cut surface shows a firm pale nodular lesion in slices 4-8.  The lesion measures 38mm inferior to superior, 25mm superficial to deep and 32mm medial to lateral.Representative sections.  Block 1 & 2- medial margin representative slices; 3 & 4 - paired blocks slice 2; 5 & 6 - paired blocks slice 3; 7 & 8 - paired blocks slice 4; 9-14 - paired blocks slice 5; 15-20 - paired blocks slice 6; 21 & 22 - paired blocks slice 7; 23 & 24 - paired blocks slice 8; 25 & 26 - paired blocks slice 9; 27-28 - representative of lateral margin slice 10.  
+(TO: SH;JT/ec 29.4.63) 
+ 
+MICROSCOPIC (Reported by Dr H Thoe):
+A to F.  Sections show breast tissue with a 38mm grade 3 infiltrating ductal carcinoma, NOS.  Three out of eighteen lymph nodes show deposits of metastatic carcinoma.  One of the three involved nodes is the sentinel node (specimen A).  A synoptic report follows:                                                                                                                                                            
+
+Invasive carcinoma:
+Site:  Right upper outer quadrant
+Type:  Infiltrating ductal carcinoma, NOS
+Invasive tumour size:  38 x 32 x 25mm
+Grade (Modified Bloom & Richardson):
+Tubules:  3      Nuclei:  3      Mitoses:  3      Mitotic rate:      18/10hpf.
+Lymphovascular invasion:  Present  
+	    
+DCIS component:  
+DCIS:Present  
+Maximum extent of DCIS:  15mm
+Nuclear grade:  High grade  
+Architecture:  Solid
+Necrosis:  Present   
+Calcification:  Present 
+Degree of DCIS in tumour:  100% within tumour  
+DCIS in adjacent tissue:  Not seen
+Excision Margins:  
+Invasive component:
+	Deep		> 10mm
+	Superficial	9mm
+	Inferior		5mm
+	Superior		> 10mm
+	Medial		> 10mm
+	Lateral		> 10mm
+In-situ component:
+	All margins	> 10mm
+Receptors (Block F9): 
+ER:   Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Strong 
+PR:   Positive
+	70% of nuclei stained
+	predominant intensity of staining:  Moderate to strong  
+HER2 (Novocastra 10A7):  1+
+Ki-67 index:  50%
+Nipple:  Not included 
+
+LCIS / ALH:  Present   
+Miscellaneous:  Focal fibrocystic disease and columnar cell change are present in the surrounding uninvolved breast tissue.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel lymph nodes involved by tumour:  1  (Specimen A)          
+Number of sentinel nodes with metastases >2.0mm:  1    
+Number of sentinel nodes with metastases <2.0mm:  0
+Extranodal spread:  Present
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  16
+Number of axillary lymph nodes involved by tumour:  2  (Both are from Specimen E)         
+Number of axillary nodes with metastases >2.0mm:  1    
+Number of axillary nodes with metastases <2.0mm:  0     
+Number of axillary nodes with isolated tumour cells <0.2mm:  1
+	Detected by:  H & E       
+Extranodal spread:  Not seen  
+The lower axillary (Specimen C) and apical lymph nodes (Specimen D) are amongst the nodes that show no evidence of metastaticcarcinoma.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  18   
+Total number of involved lymph nodes (including sentinel node(s)):  3   
+DIAGNOSIS:
+A to F.  Sentinel nodes, apical nodes, right axillary dissection and right breast tissue:
+-  38mm grade 3 infiltrating ductal carcinoma NOS, pT2 N1a
+-  Three lymph nodes contain metastatic carcinoma.  Two of the metastatic deposits (one of which is a sentinel node - Specimen A) are >2.0mm and the third show isolated tumour cells <0.2mm.
+ 
+Block F9 has been sent to EMERALD HOSPITAL Hospital for HER2 CISH and a supplementary report will follow as soon as the result becomes available.
+
+
+ADDITIONAL REPORT, 12/6/63:
+Material was sent to Dr H Vogland, Anatomical Pathology, ST GEORGE'S HEALTH SERVICE Hospital, for HER-2 In-Situ Hybridisation analysis, the results of which are as follows:
+HER-2 IHC result:  1+ at POWH
+Signal Detectionhas been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:  NEGATIVE (nonamplified, diploid)
+Mean HER2 copy number per cell:  2.5
+Mean CEP17 copy number per cell:  2.25
+HER2/CEP17 Ratio:  1.11
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 < 1.8
+Equivocal:  HER2/CEP17 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

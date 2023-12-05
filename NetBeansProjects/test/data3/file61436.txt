@@ -1,0 +1,84 @@
+SPR no: 53K649924U
+MRN no: 534649
+Site_name: KURRI KURRI DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report53K64992 (53K649924U) PADFIELD, Herbert
+HISTOPATHOLOGY REPORT
+BEVERLEY HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Stage IIIC ca ovary.
+
+1.   Sigmoid serosa.
+2.   Left ovary.
+3.   Right ovary and appendices epiploicae.
+4.   Right pelvic node.
+5.   Omental nodule.
+6.   Omentum.
+
+MACROSCOPIC:
+A.  &amp;quot;SIGMOID SEROSA&amp;quot;.   Two fibrofatty tissue 30 and 20mm.   One smooth surface, the rest is fatty, inked green.   Serially sliced.   All embedded 1 to 3.  All embedded.  (M-3).
+
+B.  &amp;quot;RIGHT OVARY AND APPENDICAE EPIPLOICAE&amp;quot;.   Consists of ovary and attached tube.   Tube measures 55mm in length, 7mm diameter.   There is a hard focus  around the fimbriae with a firm creamy surface measuring 30mm.   Ovary weighs 15g and measures 40x25x25mm.   Outer surface is smooth grey, inked green.   Sectioning of ovary shows lobular variegated creamy solid surface.
+
+(1&amp;amp;2  tube; 3-6  tissue around the tube; 7-14  ovary).   All embedded.  (M-14).
+
+C.  &amp;quot;LEFT OVARY&amp;quot;.   Consists of an ovary, cyst and tube attached.   Tube measures 45mm in length, 10mm in diameter.   Serosa is smooth, sectioning unremarkable.   Ovary attached, cyst weighing 14g.   Ovary measures 23x12x15 with a cystic component 30x30mm.   Sectioning of ovary is unremarkable and appears unilocular.   The smooth cystic wall surrounded by fatty tissue.
+
+(1&amp;amp;2  tube; 3-6  ovary attached tissue; 7&amp;amp;8  cyst and attached tissue).  All embedded.  (M-8).   Specimen embedded entirely.
+
+D.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.   Multiple fibrofatty tissue 20mm in aggregate.   No definite lymph node identified.   All embedded block 1.  All embedded.  (M-1).
+
+E.  &amp;quot;OMENTAL NODULE&amp;quot;.   Fibrofatty tissue measuring 12mm with possible 2mm firm nodule in the middle.  All embedded.  (1-1).
+
+F.  &amp;quot;OMENTUM&amp;quot;.   Fibrofatty tissue consistent with omentum 120x90x40mm.   No discrete tumour deposit or nodule identified.   Representative section embedded block 1 to 5.  Representative sections. (M-5/SM 28/11/2068 km).
+
+MICROSCOPIC:  (Dr. O. Mariner)
+A. Sections of fibroadipose tissue show psammomatous calcification within dense fibrosis. Some has been affected by cautery artefact. No malignancy is identified.
+B. Sections of the right fallopian tube show the 30mm fimbrial nodule described macroscopically to be a focus of high grade serous carcinoma with response to therapy. The carcinoma is composed of cells with high grade pleomorphic nuclei prominent red nucleoli and moderate amounts of amphophilic to clear vacuolated cytoplasm. Frequent mitoses are seen. The cells form irregular nests and poorly formed glandular structures with occasional psammomatous calcifications. The carcinoma is surrounded by chronic inflammatory cells including lymphocytes,  plasma cells and multiple foamy macrophages and cholesterol crystals, consistent with response to therapy. The surface of this nodule is ulcerated and the remaining fallopian tube shows no evidence of in situ carcinoma. There are multiple foci of lymphovascular invasion within dilated lymphatic spaces in the fallopian tube and the paratubal soft tissue. In addition there is chronic salpingitis.
+Sections of the right ovary show the ovary partially replaced by high grade serous carcinoma with a surrounding reaction to therapy. The carcinoma cells are similar to the cells described in the fallopian tube and the reaction to therapy is similar with chronic inflammatory cells, foamy macrophages, cholesterol crystals and calcifications. The remaining ovarian tissue shows a simple serous inclusion cyst. There is no in situ carcinoma identified.
+
+C. Sections of the left fallopian tube show chronic salpingitis. No in situ or invasive carcinoma is identified.
+Sections of the left ovary show a focus of psammomatous calcification within an area of fibrosis (C3) and no carcinoma identified.There is a simple serous inclusion cyst. Psammomatous calcifications and fibrosis without carcinoma, are also seen in para-adnexal tissue  (C5). There is a 30mm benign mesothelial lined simple cyst. In the adipose tissue surrounding the cyst is a 1.5mm focus of inflammation, predominantly macrophages with no evidence of carcinoma (C8).
+
+D. Sections of fibrofatty tissue show one lymph node with no evidence of malignancy and no evidence of response to therapy.
+
+E. Sections of adipose tissue show a single lymph node with no evidence of malignancy and no evidence of response to therapy. The lymph node is largely replaced by adipose tissue.
+
+F. Sections of adipose tissue show a few small deposits of high grade serous carcinoma. The largest deposit is 2.2mm in maximum dimension (F1). This deposit consists of irregular nests of  malignant cells with pale vacuolated cytoplasm and surrounded by dense fibrosis  and chronic inflammation comprising abundant haemosiderin laden macrophages, lymphocytes and plasma cells. The carcinoma comprises approximately 50% of the nodule and the reaction to therapy comprises the other 50%.
+
+CHEMOTHERAPY RESPONSE SCORE (CRS2)
+Appreciable tumour response amidst viable tumour, both readily identifiable and tumour regularly distributed.
+
+IMMUNOHISTOCHEMISTRY: (B10)
+The carcinoma is positive for CK7, P53 (complete), WT1, Pax8
+ER positive - 95% of cells show moderate positivity.
+PR positive - 5% of cells show moderate positivity.
+The carcinoma is negative for CK20.
+
+
+
+DIAGNOSIS:
+A. SIGMOID SEROSA -
+- NEGATIVE FOR MALIGNANCY.
+
+B. RIGHT OVARY AND APPENDICAE EPIPLOICAE -
+-RIGHT OVARY - RESIDUAL HIGH GRADE SEROUS CARCINOMA
+
+-RIGHT FALLOPIAN TUBE - RESIDUAL HIGH GRADE SEROUS CARCINOMA, MULTIPLE FOCI OF LYMPHATIC INVASION IN FALLOPIAN TUBE AND ATTACHED PARA-ADNEXAL FAT, CHRONIC SALPINGITIS.
+
+C. LEFT OVARY AND FALLOPIAN TUBE -
+-LEFT OVARY - NEGATIVE FOR MALIGNANCY, SIMPLE SEROUS INCLUSION CYST.
+-LEFT FALLOPIAN TUBE - NEGATIVE FOR MALIGNANCY, BENIGN SIMPLE MESOTHELIAL LINED CYST
+
+D. RIGHT PELVIC LYMPH NODE -
+-ONE LYMPH NODE NEGATIVE FOR MALIGNANCY.
+
+E. OMENTAL NODULE -
+-ADIPOSE TISSUE AND ONE LYMPH NODE NEGATIVE FOR MALIGNANCY.
+
+F. OMENTUM -
+-RESIDUAL HIGH GRADE SEROUS CARCINOMA, CRS2.
+
+28/10/2069 ank

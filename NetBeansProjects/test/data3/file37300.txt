@@ -1,0 +1,111 @@
+SPR no: 87V990769L
+MRN no: 364845
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report87V99076,87V99076 (87V990769L) BRALEY, ELWOOD
+HISTOPATHOLOGY REPORT
+CONDOBOLIN RETIREMENT VILLAGE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GII endometrioid adeno ca.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX, RIGHT TUBE AND OVARY&amp;quot;.  A hysterectomy specimen received already opened coronally, weighing 226g, consists of uterus 115x75x60mm.  The cervix measures 40x35x20mm, right fallopian tube 55x6mm with ill defined fimbrial end adherent to  right ovary 30x20x20mm.  No left adnexal structures are identified.  The anterior cervical margin is inked blue, posterior is inked black.
+
+There is an exophytic tumour, 50x45 mm, occupying the anterior and posterior body and fundus extending into the isthmus but not into the endocervical canal. It is located 25mm of the cervical longitudinal margin.  It is confined to the uterine body with extension to the right cornu.  The tumour thickness is 17mm.  No serosal involvement is seen.  No extension of tumour into parametrium is identified.The cut surface of the ovary is unremarkable.
+
+(1-3  ovary with possible edge of fimbrial end; 4  four TS ?right fallopian tube; 5  right parametrium; 6  left parametrium; 7-12  full face anterior uterus from cervix to fundus with [9-11 full face of tumour with underlying myometrium]; 13&amp;amp;14  continuous anterior body tumour; 15&amp;amp;16  continuous anterior body tumour; 17-22  LS posterior uterus { 18&amp;amp;19  continuous isthmus ; 20&amp;amp;21  continuous body; 22 fundus }; 23&amp;amp;24  posterior body tumour; 25  tumour at right cornu; 26  exophytic part of tumour for tumour banking).  RS (M-26).
+
+B.  &amp;quot;LEFT TUBE AND OVARY&amp;quot;.  A fallopian tube 110x10mm attached to a collapsed cystic structure 80x75x55mm with discrete ovary at one end 18xx15x10mm. The outer surface is smooth and glistening.  The outer surface of the tube is smooth and focally haemorrhagic.  The cut surface is unremarkable.  The ovary is serially sliced.  The cut surface reveals multilocular cystic lesion with smooth inner lining.  Some cysts are filled with clear serous fluid.  No papillary excrescences are identified towards one edge of the specimen.
+
+(1&amp;amp;2  each one LS fimbrial end and one TS mid tube; 3&amp;amp;4  each mid fallopian tube with adjacent cyst; 5&amp;amp;6  solid ovarian tissue; 7&amp;amp;8  representative cyst wall).  RS (M-8).
+
+C.  &amp;quot;RIGHT PELVIC SENTINEL LYMPH NODE&amp;quot;.  Multiple tan and fatty pieces of tissue representing lymph node measuring 20x20x13mm.  Serially sliced.  AE (M-1).
+
+D.  &amp;quot;LEFT PELVIC SENTINEL LYMPH NODE&amp;quot;.  Multiple fibrofatty pieces of tissue including two possible lymph nodes, 20x10x6mm and 8x5x6mm.
+
+(1  larger node; 2  smaller node trisected).  AE (M-2).
+
+E.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  A fatty piece of tissue consistent with omentum, 50x40x20mm with unremarkable outer and cut surface.  Serially sliced.  AE (M-7/ZH 18/6/2066 km).
+
+MICROSCOPIC:  (Dr W Rolley)
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid, no special type.
+
+FIGO grade:  2 (architecture grade: 2, nuclear grade: 1).
+
+Myometrial invasion:  None, confined to endometrium.
+
+Depth of myometrial invasion:  Not applicable
+
+Myometrial thickness:  35mm
+
+% of myometrium invaded:  Not applicable
+
+Focality: Unifocal
+
+Tumour involves: Fundus, body and lower segment.
+
+Vascular/lymphatic invasion:  Absent, see comment.
+
+Involvement of cervix: Not involved
+
+Involvement of uterine serosa: No
+
+Excision margins:  Not involved.
+
+Non-tumour uterus:
+Adjacent endometrium: Atypical hyperplasia.
+Polyps: Not identified.
+Adenomyosis:  Not present.
+
+Adnexae:
+The fallopian tubes are unremarkable bilaterally. There is no intraepithelial carcinoma bilaterally.
+The left ovary shows a benign cystadenoma.  The ovaries are otherwise unremarkable.
+
+Lymph nodes:
+Nodes involved: 0
+Total number: 3
+
+Other tissues:
+Omental Biopsy (Specimen E)- sections show mature adipose tissue with no evidence of malignancy.
+Peritoneal Washing (87V99076) - No malignant cells seen.
+
+Comment:
+There are foci of necrotic debris and tumour within vessels well away from the tumour. There are other similar foci on the surface of other sections and these are all favoured to be tumour transfer during the cut up stage of processing the specimen.
+
+Immunostains for MSI proteins
+(Molecular Oncology CENTRAL HIGHLANDS RURAL HEALTH - CRESWICK; block: A23)
+
+MLH1:  Intact (Positive)
+PMS2:  Intact (Positive)
+MSH2:  Intact (Positive)
+MSH6:  Intact (Positive)
+
+Comment on mismatch repair proteins:
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+TNM stage: pT1a N0 Mx
+FIGO stage: Stage IA
+
+DIAGNOSIS:
+
+A.  UTERUS, CERVIX, RIGHT TUBE AND OVARY -
+- GRADE 2 ENDOMETRIOID ADENOCARCINOMA
+- FIGO STAGE IA, NO MYOINVASION
+- MISMATCH REPAIR PROTEINS INTACT
+B. LEFT TUBE AND OVARY -
+- BENIGN CYSTADENOMA
+- NO EVIDENCE OF MALIGNANCY.
+C. RIGHT PELVIC SENTINEL LYMPH NODE -
+- ONE LYMPH NODE WITH NO EVIDENCE OF MALIGNANCY (0/1).
+D. LEFT PELVIC SENTINEL LYMPH NODE -
+- TWO LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY (0/2).
+E. OMENTAL BIOPSY -
+- ADIPOSE TISSUE WITH NO EVIDENCE OF MALIGNANCY.

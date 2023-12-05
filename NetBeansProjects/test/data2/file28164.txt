@@ -1,0 +1,21 @@
+SPR no: 85T710307D
+MRN no: 85771030
+Site_name: NARROMINE HOSPITAL & COMMUNITY HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 2 endometrioid adenocarcinoma of the endometrium.  TLH BSO pelvic lymph node sampling.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus cervix bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 66g in total.  The uterus is received partially opened exposing the endometrial cavity.  The uterus measures 65 x 45 x 34mm and has a shiny serosal surface.  The cervix measures 20 x 20mm and is unremarkable.  Within the endometrial cavity there is a friable discontinuous polypoid lesion located on the anterior and posterior endometrial walls forming a mass measuring up to 20mm in maximal dimension and located 25mm from the ectocervix.  The tumour is seen to extend 6mm below the surface forming pale circumscribed nodules. The myometrium measures up to 15mm thick.  Superior and adjacent to the tumour on the posterior wall is a well circumscribed pale fibroid with central calcification measuring 13mm in maximal dimension.  No tumour extension is seen within the cornu or the fallopian tubes.  The right fallopian tube and ovary weigh 11g in total with tube measuring 56mm in length to a diameter of 8mm and ovary measuring 42 x 13 x 8mm.  A 7mm parafimbrial cyst is identified.  The serosal surface is smooth and shiny.  No focal lesions are seen on sectioning.  The left fallopian tube tube and ovary weight 10.2g in total with tube measuring 53mm in length to a diameter of 9mm and ovary measuring 24 x 11 x 7mm.  The serosal surface is smooth and shiny.  No focal lesions are seen on sectioning.
+Blocks: 1 to 3 - full LS through anterior body and cervix (block 1 &amp;amp; 2 - discontinuous due to surgical incision); 4 to 6 - full LS through posterior body and cervix showing deepest tumour invasion; 8 - LS fimbrial end right tube; 9 - TS right tube; 10 - right ovary; 11 - LS fimbrial end left tube; 12 - TS left tube; 13 - left ovary.
+B.  Specimen labelled &amp;quot;Right external iliac sentinel lymph node&amp;quot;, consists of two adjacent lymph nodes with a small amount of attached fat measuring 7 x 6 x 4mm and 22 x 13 x 7mm.
+Blocks: 1 - smaller node bisected; 2 to 4 - all of larger lymph node serially sliced in six sections (two sections per block).
+C.  Specimen labelled &amp;quot;Left external iliac sentinel lymph node&amp;quot;, consists of a piece of fatty tissue 50 x 20 x 8mm and containing four possible lymph nodes measuring 7 to 17mm in maximal dimension with the largest node measuring 17 x 13 x 8mm and 15 x 10 x 6mm.
+Blocks: 1 &amp;amp; 2 - one lymph node per block bisected; 3 &amp;amp; 4 - one lymph node in four sections (two sections per block); 5 to 7 - one lymph node in six sections (two sections per block); 8 - remaining fat.  (TO:AP/rs 18/6/68)
+MICROSCOPIC (Reported by Dr W Chrisley):
+A.  Sections show a grade 2 endometrioid adenocarcinoma of the endometrium.  The tumour has a maximum depth of invasion of 6mm through a wall 17mm thick.  Focal lymphvascular invasion is present.  The ectocervix and endocervix are uninvolved and unremarkable.
+The myometrium shows a leiomyoma.  Both ovaries and tubes are unremarkable.
+B.  Two lymph nodes show no evidence of malignancy.  (The sentinel node protocol was performed).
+C.  Four lymph nodes show no evidence of malignancy.  (The sentinel node protocol was performed).
+DIAGNOSIS:
+Grade 2 endometrioid adenocarcinoma of the endometrium, depth 6mm through a wall 17mm thick.  Cervix uninvolved.  Six sentinel lymph nodes are negative.

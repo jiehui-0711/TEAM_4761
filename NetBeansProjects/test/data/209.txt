@@ -1,0 +1,90 @@
+
+Episode No:  90J325811R
+9033258.DDR
+
+SCHNACK, YARRAN 
+Lab No:  90J32581
+Geralynn
+LAKES ENTRANCE  VIC  6725
+Specimen: Tissue
+D.O.B:  24/10/1985
+Sex:  M
+Collected: 25/11/2013 at 08:12
+Location:  DAY SURGERY-SUNSHINE COAST UNIVERSITY HOSPITAL
+DR PERCY LINDSEY SOWELL
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Parotid mass.  Melanoma, prostate Ca, IHD with drug eluting stents.  HTn, gout.  
+MACROSCOPIC:
+A.  Specimen labelled "Left parotid gland with tumour" consists of an irregular piece of fibrofatty tissue measuring 35x 20 x 20mm.  On sectioning there is a solid tumour, brown in colour and surrounded by fatty tissue, measuring 15mm in maximum diameter.  AE 3 blocks.  
+  
+B.  Specimen labelled "Superior portion left parotid gland" consists of an irregular piece of salivary gland 25 x 10 x 10mm.  The capsular face is pale and nodular.  No discrete lesions are identified.  AE 2 blocks.   
+C.  Specimen labelled "Additional specimen, body left parotid" consists of two irregular pieces of salivary gland measuring 10 and 15mm in maximum diameter.  On sectioning it has a nodular appearance.   AE.
+Blocks: 1 - one piece of tissue; 2 - second piece of tissue.  
+ 
+D.  Specimen labelled "Tail of left parotid consists of a piece of salivary gland with fatty tissue attached measuring 50 x 30 x 30mm.   On sectioning it is unremarkable.  Representative sections 4 blocks.
+ 
+E.  Specimen labelled "Left neck 2B+3" consists of an irregular piece of tissue 50 x 25 x 20mm containing several lymph nodes and ranging from 2 to 5mm.
+Blocks: 1 & 2 - lymph nodes. 
+ 
+F.  Specimen labelled "Level 2A left neck" consists of two irregular pieces of fatty tissue measuring 30 and 40mm in maximum diameter and containing several lymph nodes ranging from 2 to 5mm. 
+Blocks: 1 to 3 - lymph nodes.  
+    
+G.  Specimen labelled "Level 1 left neck" consists of an irregular piece of fatty tissue with salivary gland attached measuring 50 x40 x 30mm.  On sectioning the salivary gland appears unremarkable.  Five possible lymph nodes are identified.  
+Blocks: 1 to 3 - lymph nodes.  
+  
+H.  Specimen labelled "Lymphnode left neck 2B" consists of a piece of fatty tissue containing one lymph node 5mm in maximum diameter.  BAE 1 block. 
+(YG/ta 28/1/63) 
+ 
+MICROSCOPIC (Reported by Dr Y Finster): 
+A.  Sections show a 15mm deposit of metastatic malignant melanoma to in an intraparotid  lymph node.  There is moderate pigmentation and prominent central necrosis and hemorrhage.  There is perinodal infiltrating and the tumour appears clear of the surgical margins.  The melanoma markers (S100, HMB45, MitF)  show positive staining and the AE1/3 is negative.  
+B.  Sections show normal parotid gland.  
+C.  Sections show normal parotid gland.
+D.  Sections show normal parotid gland.  Two small normal intraparotid lymph nodes are identified.  
+E.  The eight (8) lymph nodes identified are negative for tumour.  
+F.  The six (6) lymph nodesidentified are negative for tumour.  A small amount of parotid gland is also present.  
+G.  The five (5) lymph nodes identified are negative for tumour.  
+H.  The single small lymph node identified is negative fortumour.  
+DIAGNOSIS:  
+A.  Left parotid with tumour:  
+- Metastatic malignant malanoma with perinodal infiltration with clear margins.  (Paraffin blockto THE CANBERRA HOSPITAL for BRAF V600 mutation testing).  
+
+B.  Superior portion left parotid:  
+- Normal parotid gland. 
+C.  Body left parotid:  
+- Normal parotid gland.
+D.  Tail of left parotid: 
+- Normal parotic gland, lymph nodes (x 2) negative for tumour.  
+E.  Left neck node 2B + C.
+- Lymph nodes (x 8) negative for tumour.  
+F.  Lymph nodes, level 2A, left neck:
+- Lymph nodes (x 6) negative for tumour.
+G.  Lymph nodes, level 1 left neck: 
+- Lymph nodes (x 5) negative for tumour.
+H.  Lymph node left neck 2B:
+Lymph node (x 1) negative for tumour.  
+SUPPLEMENTARY REPORT:  (2.5.63)
+MOLECULAR TISSUE ANALYSIS, TARGETED BRAF MUTATION DETECTION.
+Reported by Dr Y Balbi, YEA AND DISTRICT MEMORIAL HOSPITAL. 
+"BRAF MUTATION TEST:
+Result:
+Targeted BRAF mutation analysis on DNA extracted from FFPE tumour tissue:
+
+NEGATIVE.
+MUTATION NOT DETECTED.  
+
+Interpretation:
+The tumoursample from patient NGUNYA DAIN DOES NOT CARRY a known activating BRAF gene mutation that affects codon 600 of the BRAF protein (see comments). 
+This patient is NOT expected to benefit from treatment with a BRAF inhibitor based therapy (Chapman et al. Improved survival with vemurafenib in melanoma with BRAF V600E mutation.  N Engl J Med 2011; 364:2507-16). 
+Method:
+*DNA was extracted from FFPE tumour tissue using the Roche cobas DNA Sample Preparation kit.
+*BRAF gene mutations were analysed using the Roche cobas BRAF V600 Mutation Test kit (ARTG: 903325). 
+COMMENTS:
+*This test is intended as an adjunct to other prognostic and predictive factors to aid clinical treatment decisions. 
+* This test does not specify the activating BRAF gene mutation that causes a substitution of the Valine at codon 600 (p.V600) of the BRAF protein. The test detects the common BRAFp.V600E (c.1799T>A) mutation, which occurs in >80% of BRAF positive tumours, and may also detect some (but NOT all) activating BRAF p.V600K mutations, which occur in up to 17% of BRAF positive tumours. Other rare activating BRAF mutations affecting p.V600 may NOT be detected by this analysis, therefore a negative result should be interpreted with caution. Other mutations, either in the BRAF gene or in other genes, will not be detected by this analysis. 
+*This test has been shown in our laboratory to detect at least 5% mutant BRAF alleles in a background of normal DNA. Therefore a negative result should be interpreted with caution, as it does not exclude the presence of low levels of an activating BRAF mutation. 
+*The analytical sensitivity and specificity of this test for the p.V600E mutation are 99.6% and 97.9%, respectively. PCR inhibitors or rare mutations affecting the binding sites of PCR primers and/or probes may cause a false negative result.
+*This test has been processed as a Level 1 genetic test according to the NPAAC guidelines (2007).
+*Only the testing performed by our laboratory is covered by NATA accreditation, not the referenced material used for clinical interpretation of this testing". 
+ 
+

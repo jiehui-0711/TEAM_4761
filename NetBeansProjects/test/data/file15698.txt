@@ -1,0 +1,96 @@
+SPR no: 11M397069K
+MRN no: 1143970
+Site_name: GNOWANGERUP HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+SUPPLEMENTARY REPORT (28.12.2066)
+
+CLINICAL:
+Large hepatic flexure tumour invading into gyota&amp;apos;s (sic) fascia - taken large LN at ileocolic pedicle flush with SMA.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;, consists of a right hemicolectomy including terminal ileum 30mm in length and 25mm in diameter with large bowel 160mm in length and varying diameter (80mm at caecum and 40mm in distal colon), and ileocolic mesentery 60mm in width.  There is adherent omentum measuring 80 x 70 x 10mm.  There is an unremarkable appendix, 30mm in length and 7mm in diameter.  There is an exophytic circumferential tumour with an ulcerated centre located at the hepatic flexure, extending into the ascending colon.  The tumour is 110mm in circumference and 58mm in length.  The tumour is 50mm from the proximal end and 80mm from distal end.  The tumour invades the muscularis propria and appears to abut the serosa.  The distal portion of the tumour appears circumferentially surrounded b adherent omentum.  The tumour appears to invade the omental fat.  No definite fascial area was identified on the posterior aspect of the colon.  Several small polyps are seen in the distal bowel, measuring up to 3mm.  Multiple lymph nodes are identified within the ileocolic mesentery.  The largest lymph node is 30mm and appears involved by tumour.
+
+Blocks: 1 - LS proximal margin; 2 - LS distal margin, and possible polyp; 3 - entire appendix; 4 - possible mucosal polyps; 5 to 8  - tumour abutting serosa and invading overlying omentum; 9 - tumour invading overlying omental fat; 10 - apical lymph node; 11 &amp;amp; 12 - one lymph node in each block; 13 - RS macroscopically involved lymph node; 14 to 18 - one lymph node each block; 19 &amp;amp; 20 - multiple lymph nodes; 21 - one lymph node; 22 - multiple lymph nodes; 23 - one lymph node; 24 - uninvolved omentum; 25 - tumour for biobanking.  (TO:LN; LN/ta 14/12/66)
+Blocks: 26 to 28 - tumour and uninvolved colon; 29 &amp;amp; 30 - further representative tumour.  (KT)
+
+
+MICROSCOPIC (Reported by Dr D Sarti):
+The sections of the hepatic flexure tumour shows an ulcerated carcinoma with a relatively circumscribed border.  The tumour is composed of syncytial sheets of epithelioid cells with moderate amounts of amphophilic cytoplasm, enlarged moderately pleomorphic nuclei and prominent nucleoli.  Tumour infiltrating lymphocytes are present.  No glandular formation is identified.  No in-situ component is identified.
+
+The tumour shows positive staining with pancytokeratin and calretinin.  The tumour is negative for CK7, CK20, CDX2, TTF-1, PAX8, GATA3, ER, PR, CD56, chromograninA, synaptophysin and SOX10.  Abnormal loss of staining is seen with MLH1 and PMS2, while preserved nuclear staining is seen with MSH2 and MSH6 immunohistochemistry.  Providing a metastasis has been excluded clinically, the features are in keeping with medullary carcinoma of the colon.  A synoptic report follows:
+
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+
+Site of tumour:  Hepatic flexure, extending into ascending colon.
+Maximum tumour diameter:   110mm.
+Distance of tumour to nearer cut end:  50mm (proximal).
+Tumour perforation:  No.
+
+Microscopic Description
+
+Type
+Medullary carcinoma
+
+Differentiation by predominant area
+Poor
+
+Local invasion
+pT4a and pT4b	Tumour penetrates the surface of the visceral peritoneum, pT4a, and tumour also directly invades or is adherent to other organs or structures (omentum), pT4b.
+
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+
+Lymph nodes
+Number of lymph nodes present:	Twenty-three (23).
+Number of lymph nodes involved:	Three (3).
+
+pN1b	Metastases in 2-3 regional LN
+
+Lymphovascular invasion
+Not identified.
+
+Perineural invasion
+Not identified.
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+The sampled uninvolved colon shows no significant abnormality.  The appendix shows focal luminal acute inflammation and foreign body-type giant cells containing polarisable foreign material.
+
+Residual tumour status
+R0	No residual tumour
+
+Response to neoadjuvant therapy
+Not applicable.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Other stains
+BRAF immunohistochemistry was performed and although the tumour shows positive cytoplasmic staining, the control is suboptimal.  A repeat stain is in progress at Pacific Mutual KALGOORLIE, to follow in a supplementary report.
+
+Summary &amp;#8211; TNM 7th Edition
+pT4a/T4b     pN1b     pMX     R0
+
+
+DIAGNOSIS:
+Right hemicolectomy:
+-  Medullary carcinoma of the colon.
+-  Three of twenty-three lymph nodes positive for metastatic carcinoma (3/23).
+-  Supplementary report to follow with repeat BRAF immunohistochemistry.
+
+
+SUPPLEMENTARY REPORT (28.12.2066)
+BRAF immunohistochemistry was performed at Computer Sciences Corporation HEALESVILLE.  This stain shows positive cytoplasmic staining in the tumour, however the control is again suboptimal.  This result should be interpreted with caution.

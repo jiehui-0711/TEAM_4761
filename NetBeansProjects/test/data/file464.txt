@@ -1,0 +1,47 @@
+SPR no: 89I186455O
+MRN no: 8931864
+Site_name: HARVEY DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  89I186455O
+8931864.ONO
+
+MAZZE, NILLA
+Lab No:  89I18645,89I18645
+Duke of Wellington
+WINDSOR  3477
+Specimen: Washings,Tissue
+D.O.B:  11/10/1982
+Sex:  F
+Collected: 15/12/2064 at :
+Location:  PRINCE OF WALESPRIVATE - SINGLETON DISTRICT HOSPITAL
+DR JONAS BRANT BRECHEEN
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Pelvic mass &amp;#8211; complex with raised Ca 125.  Frozen &amp;#8211; adenocarcinoma.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot; Uterus, tubes and ovaries&amp;quot;, consists of an intact uterus with attached bilateral adnexa.  The specimen weighs 73.5g.  The uterus measures 60 x 25 x 20mm and has a smooth shiny serosal surface.  The ectocervix is 20 x 20mm and is unremarkable. The further cross section shows that the endometrium is 1mm and the myometrium is 30mm thick. The myometrium contains multiple leiomyomas ranging from3 to 12mm.   There is a friable tan/brown mass attached to the left side of the uterus measures 75 x 65 x 40mm.  The cut sections show white cream friable parenchyma.  The right fallopian tube measures 40 x 5mm and the right ovary measures 25 x 20 x 10mm and has an unremarkable cut surface Also received in the specimen jar is a piece of friable tumour measures 60 x 35 x 30mm. Two representative sections of the friable mass submitted for frozen section.
+Blocks: 1 &amp;#8211; frozen section; 2 &amp;#8211; frozen section; 3 to 5 &amp;#8211; full LS of anterior body and cervix; 6 to 8 &amp;#8211; full LS of posterior body and cervix; 9 &amp;#8211; representative section of leiomyoma; 10 to 22 &amp;#8211; representative sections of the left adnexal mass; 23 &amp;#8211; representative section of nodule attached to the soft tissue on the side;24 &amp;#8211; representative section of left fallopian tube; 25 to 27 &amp;#8211; right ovary; 28 &amp;#8211; the entire right fallopian tube and fimbrial end.
+FROZEN SECTION REPORT:
+Adenocarcinoma favour primary gynaetract origin.
+Phone results Prof V Rorer by Dr V Santisteban at 11:30am on 13.10.14
+B.  Specimen labelled &amp;quot;Sigmoid appendix&amp;quot;, consists of two pieces of fibrofatty tissue ranging from 20 to 40mm.  It contains white firm nodules 15mm in maximum dimension.
+Blocks: 1 to 4 &amp;#8211; the entire specimen embedded.
+C.  Specimen labelled &amp;quot;Sigmoid nodule&amp;quot;, consists of an irregular shaped fibrofatty tissue measures 40 x 20 x 15mm.  Specimen serially transversally sectioned.  The cut surface reveals a white firm nodule measures 20 x 15 x 10mm.  The entire specimen embedded in 3 blocks.
+D.  Specimen labelled &amp;quot;Pararectal mass&amp;quot;, consists of a piece of irregular shaped tan tissue measures 45 x 20 x 10mm.  Serially transversally sectioned.  The cut surface reveals white nodule in the parenchyma measures 30mm in maximum dimension.  The entire specimen embedded in 3 blocks.
+E.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of fatty tissue measures 300 x 140 x 30mm.  Serially transversally sectioned.  Multiple white firm nodules are identified in the fatty parenchyma ranging from 3 to 15mm.  Representative sections in 3blocks.   (TO: RM;RM/vo 16.12.64)
+MICROSCOPIC (Reported by Dr V Glorioso):
+A. Sections fromthe left adnexal mass show a high grade serous adenocarcinoma. The carcinoma has a predominantly solid growth pattern with numerous areas of tumour necrosis as well as numerous psammoma bodies. Foci of papillary growth are also seen. Thetumour cells are cuboidal to polygonal and show very severe nuclear atypia. Multinucleated tumour cells and cells with bizarre nuclei are also seen. Mitotic figures, including atypical mitoses are numerous. Remnants of tubal epithelium and atrophic left ovary are seen in some sections. The atrophic right ovary and right Fallopian tube are not involved by carcinoma. There is no evidence of in situ tubal carcinoma.
+Sections from the uterus show atrophic endometrium and numerous benign leiomyomas of usual type. Sections from the cervix show benign endocervical and squamous epithelium.
+B. Sections from the sigmoid appendix show multiple deposits of high grade serous carcinoma along the serosal surface and also within the fat.
+C. Sections show multiple deposits of high grade serous carcinoma within the muscularis and mesenteric fat and also along the serosal surface. One benign mesenteric node is present.
+D. Sections show fibrofatty tissue, diffusely involved by high grade serous carcinoma. One benign lymph node is seen within fat.
+E. Sections from the omentum show multiple deposits of high grade serous carcinoma.
+DIAGNOSIS:
+A. Total abdominal hysterectomy + bilateral salpingo-oophorectomy:
+High grade serous adenocarcinoma involving and almost completely replacing the left ovary and Fallopian tube. The right adnexa is not involved.
+
+B. Sigmoid appendix: High grade serous carcinoma.
+C. Sigmoid nodule: High grade serous carcinoma.
+D. Pararectal mass: High grade serous carcinoma.
+E. Omentum: High grade serous carcinoma.

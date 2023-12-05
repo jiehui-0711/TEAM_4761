@@ -1,0 +1,30 @@
+SPR no: 80Q938618I
+MRN no: 8069386
+Site_name: GRAYLANDS SELBY-LEMNOS & SPECIAL CARE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right thigh sarcoma sartorious muscle.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right thigh sarcoma marking stitch 12 o&amp;apos;clock in sartorious muscle&amp;quot;, consists of a mass orientated with a single suture with overlying skin measuring 105mm (12 to 6 o&amp;apos;clock), 60mm (3 to 9 o&amp;apos;clock), 60mm (anterior to deep) and weighs 150g.  The overlying skin measures 89 x 15mm.  The  3 o&amp;apos;clock margin is inked blue, 9 o&amp;apos;clock margin inked red and posterior/deep margin inked black.  The specimen has been sliced from 12 to 6 o&amp;apos;clock into ten slices.  Cut surface shows  fatty  infiltrative lesion into the muscle  measuring 50 x 45 x 72mm. The lesion abuts the 3 o&amp;apos;clock and lies 1mm from the deep and lateral margin.  Superficial margin/skin appears clear with a clearance of approximately 15mm.
+Blocks: 1 to 4 - RS 12  o&amp;apos;clock margin; 5 &amp;amp; 6 - RS slice two; 7 to 11 - slice three; 12 to 16 - slice four; 17 to 21 - slice five; 22 to 27 - slice six; 28 to 33 - slice seven; 34 to 42 - slice ten.
+(TO: LM; LM/ta 28/10/66)
+
+
+MICROSCOPIC: (Reported by Dr U Shue)
+The right thigh tumour has been extensively sampled. Sections show a well differentiated liposarcoma consisting of mixed lipoma-like, sclerosing and inflammatory subtypes. The tumour is unencapsulated and has a mixed pushing and infiltrative periphery, infiltrating and interdigitates between skeletal muscle fibers in areas. The neoplastic adipocytic cells show marked variation in size with numerous hyperchromatic enlarged nuclei and occasional admixed lipoblasts. There is patchy myxoid stromal change. Although sclerosing subtype is prominent in areas, no diagnostic dedifferentiated liposarcoma is identified.
+Although the liposarcoma is largely surrounded by a variably thick cuff of skeletal muscle, fibroadipose tissue and fascia, in areas both lipoma like and sclerosing subtypes extend through these surrounding tissues and abut the surgical margins. Overall, the margins of excision have been assessed as follows:
+12 o&amp;apos;clock margin: Present at margin (3).
+3 o&amp;apos;clock margin: Present at margin (5).
+6 o&amp;apos;clock margin: Clear of margin.
+9 o&amp;apos;clock margin: Present at margin (6 and 19).
+Superficial margin: Clear of margin.
+Deep margin: Present at margin (2 and 11).
+
+
+COMMENT:
+The right thigh tumour is a well differentiated liposarcoma consisting of mixed lipoma-like, sclerosing and inflammatory subtypes. The tumour shows areas of prominent myxoid stromal change in areas. The tumour extends to the margins. If clinically indicated, confirmatory FISH testing for MDM2 amplification may be performed.
+
+
+DIAGNOSIS:
+Right thigh tumour: Well differentiated liposarcoma, present at margins (see report and comment).

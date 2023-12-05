@@ -1,0 +1,35 @@
+SPR no: 73W461159D
+MRN no: 2330777
+Site_name: CLERMONT MULTI-PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right thigh soft tissue tumour.  Newly diagnosed testicular DLBCL.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Tumour right thigh stitch at 12 o&amp;apos;clock&amp;quot;, consists of an ellipse of skin, 125 x 65 x 27mm.  A stitch on one side is designated 12 o&amp;apos;clock.  On the skin surface there is a pink dome shaped lesion,52 x 45 x elevation 23mm.  The subcutaneous fat appears unremarkable with minor patches of fascia.  No tumour is seen on the deep surface.  Inking, 12 o&amp;apos;clock, 6 o&amp;apos;clock black.  A 3mm piece of tumour is taken from the tumour superficially for flow cytometry and 1mm of tissue is taken for tumour banking.  On sectioning the tumour is homogenously pink tan and well demarcated from the surrounding fat and skin measuring approximately 55 x 50 x 35mm and appears 1mm clear of the deep margin, 4mm clear of the 6 o&amp;apos;clock margin, and more than 10mm clear of the 12 o&amp;apos;clock margins, as well as the 3 and 9 o&amp;apos;clock margins.  Blocks: 1 - TS 3 o&amp;apos;clock end; 2 - TS 9 o&amp;apos;clock end; 3 and 4 - RS deep margin; 5 and 6 - 6 o&amp;apos;clock margin; 7 - 12 o&amp;apos;clock margin; 8 - tumour to skin; 9 to 11 - RS tumour.  (TO:ET/vo 8/1/69)
+
+
+MICROSCOPIC (Reported by Dr S Hjermstad):
+Sections of skin to subcutis.  Extending through the dermis into the subcutis is a cellular sheet-like arrangement of large atypical lymphoid cells with a patchy background &amp;quot;starry sky&amp;quot; pattern of tingible body macrophages.  There is associated focal epidermal ulceration. The atypical lymphoid cells display round to irregular nuclei with conspicuous central nucleoli and a moderate amount of amphophilic cytoplasm.  No Reed Sternberg-like cells are seen. Radially at the deep aspect the proliferation has a rather circumscribed border.  In the sections sampled (representative only) atypical lymphoid cells are 0.8mm from the deep margin (block 11), 5mm from the closest radial (6 o&amp;apos;clock margin) and 1.2mm from the 12 o&amp;apos;clock margin. The 3 o&amp;apos;clock and 9 o&amp;apos;clock margins which were assessed enface are free of tumour.
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the atypical lymphoid cells stain as follows:
+Positive: CD20, PAX5, BCL6, cMYC (approximately 30-40% weak to moderate intensity), Kappa (patchy)
+Negative: CD3 &amp;amp; CD5 (highlight background T cells), BCL2 (favoured to mark T cells only), CD21,CD23, Cyclin D1, Fascin, CD30, Lambda
+The Ki67 proliferation index is approximately 80%
+Pending: MUM1 , repeat CD10 (control insufficient)
+Unavailable:  EBER-ISH.
+
+Clonality
+Established by flow cytometry which reportedly showed a population of B cells with the following phenotype:
+
+COMMENT:
+The features are those of  diffuse large B cell lymphoma (DLBCL).   In the context of the previously diagnosed right testicular DLBCL (ALPINE HEALTH (MOUNT BEAUTY) Hospital Ref. 73W46115 ) the features are consistent with cutaneous relapse rather than primary leg type DLBCL.   The previously diagnosed lymphoma reportedly showed the following immunophenotye CD20+/ Bcl-2+/ Bcl-6
++/ CD10 -/ Cyclin D1-/ CD3-/ CD5-/ CD21-/ CD23 -./ MUM1-. Therefore the tumour was classified as activated B cell type by the Hans algorithm.  I note that current lymphoma show CD10 expression by flow cytometry (repeat immunostain pending).
+
+
+DIAGNOSIS:
+Tumour right thigh stitch at 12 o&amp;apos;clock:
+-  Diffuse large B cell lymphoma, consistent with cutaneous relapse

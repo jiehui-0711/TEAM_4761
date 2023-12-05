@@ -1,0 +1,17 @@
+SPR no: 57S143814T
+MRN no: 5664496
+Site_name: SOUTH GIPPSLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left anterior vulval lesion - biopsy uncertain - either BCC or SCC.  Left anterior vulva stitch at 12 o&amp;apos;clock.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left anterior vulva stitch at 12 o&amp;apos;clock&amp;quot;, consists of an orientated rhomboid shape piece of skin with a suture at one pole designated as the 12 o&amp;apos;clock pole/margin with the skin measuring 31mm from 12 to 6 o&amp;apos;clock x 26mm from 3 to 9 o&amp;apos;clock to a depth of 10mm.  The specimen with attached fatty tissue measures 63mm 12 to 6 o&amp;apos;clock x 55mm 3 to 9 o&amp;apos;clock to a depth of 27mm.  The 3 o&amp;apos;clock margin inked blue, 9 o&amp;apos;clock margin inked green and the deep margin inked black.  The surface of the skin bears a pale area approximately 6 x 7mm, which is closest to the 9 o&amp;apos;clock margin by 6mm.  The specimen is sliced from 12 to 6 o&amp;apos;clock into six slices (slice one 12 o&amp;apos;clock).  The cut surfaces reveal no obvious lesion.  Blocks: 1 to 8 - LS 12 o&amp;apos;clock margin from 9 to 3 o&amp;apos;clock direction; 9 &amp;amp; 10 - composite section, slice two; 11 &amp;amp; 12 - composite section, slice three; 13 &amp;amp; 14 - composite section, slice four; 15 &amp;amp; 16 - composite section, slice five; 17 to 28 - LS 6 o&amp;apos;clock margin from 9 to 3 o&amp;apos;clock direction (22 to 24 one LS per block in 2 pieces). AE.  (TO:OO/ta 28/5/67)
+
+
+MICROSCOPIC: (Reported by Dr N Drumbore)
+Sections are of skin extending to subcutis. There is a superficial and nodular basal cell carcinoma, 2.5mm thick, extending into mid dermis. The carcinoma is 2.2mm from the closest peripheral margin (9 o&amp;#8217;clock margin) and well clear (&amp;gt;15mm) from the deep margin. There is no convincing lymphovascular or perineural invasion.
+
+
+DIAGNOSIS:
+Left anterior vulva: Superficial and nodular basal cell carcinoma, margins free of tumour.

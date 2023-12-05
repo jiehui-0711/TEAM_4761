@@ -1,0 +1,31 @@
+SPR no: 80Y549289M
+MRN no: 80954928
+Site_name: LIVERPOOL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Re-excision medial margin (3 o&amp;apos;clock) positive for high grade sarcoma.  Pre-op assessment, patient high risk of delerium post-op as per Anaesthetist. Re-excision positive margin 3 o&amp;apos;clock.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Redo excison R knee stitch marked medial margin&amp;quot;, consists of a &amp;quot;C&amp;quot; shaped excision of skin with attached soft tissue measuring 100mm in length with an intact skin portion measuring 22mm wide with an adjacent ulcer edge/excision bed measuring 20mm wide (42mm total width). The excision measures 13mm deep.  There is a suture along the convex aspect denoting medial margin.  The medial/convex side is inked blue and concave aspect inked black.  The superficial ulcerated area is inked red.  Tissue is serially sliced and AE 17 blocks.
+(TO:AP/vo 11/9/69)
+
+
+MICROSCOPIC: (Reported by Dr V Hamman)
+The specimen has been examined in its entirety and consists of skin extending to deep fascia. Sections show changes consistent with the edge of a recent organising and inflamed surgical cavity (black inked margin). Within the adjacent fibroadipose tissue there is variable fat necrosis, foreign body giant cell reaction and a florid proliferation of reactive appearing myofibroblasts. The recent surgical excision has been reviewed for comparative purposes (80Y54928) and the diagnosis of a high grade sarcoma (?undifferentiated pleomorphic versus de-differentiated liposarcoma - FISH pending) present focally at the margin is confirmed.
+
+In this redo of margins, accurate differentiation between organising scar tissue and residual sarcoma is extremely difficult and subjective. Whilst no definite high grade sarcoma is seen on careful examination of the entire specimen, there are scattered foci, both adjacent to and away from the scarring, in which a myxoid stroma contains scattered mildly atypical, hyperchromatic stellate to spindled cells (blocks 3, 8, 11, 12, 14). These foci are favoured to represent focal residual low grade sarcoma and focally extend to the blue inked (new) margin. In addition, some of the adjacent fat lobules show similar atypical nuclei and there is a single lipoblast, again raising the possibility of a underlying liposarcoma. The results of FISH testing is still pending.
+
+The overlying skin shows multifocal actinic keratoses.
+
+
+COMMENT:
+This case confirms the presence of a recent organising surgical cavity. Differentiation between organising scar tissue and spindle cell sarcoma in this case is extremely difficult and subjective, however, there are scattered discrete foci with more prominent myxoid stroma and mild cytologic atypia, favoured to be residual (low grade) sarcoma, and which extend focally to the inked surgical margin. FISH testing to exclude underlying liposarcoma remains pending. There is no convincing evidence of residual high grade sarcoma.
+
+
+DIAGNOSIS:
+Re-excision medial margin:
+- Broad areas of organising fibrosis, fat necrosis and scarring consistent with a recent surgical cavity.
+- Scattered foci of atypical cells within myxoid stroma, adjacent to and away from the scar are seen, with the appearance favouring residual (low grade) sarcoma and extending focally to the new margin.
+- Focal adipocyte atypia and a lipoblast are seen raising the consideration of an underlying liposarcoma - FISH testing for MDM2 amplifcation remains pending.
+
+Please see comment.

@@ -1,0 +1,53 @@
+SPR no: 88M693738P
+MRN no: 8846937
+Site_name: SOUTHERN CROSS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 8846937.HWP
+ABT, MERIT MIGUELINA
+88M69373,88M69373
+
+Last edited : 18/1/2062		Page: 2
+CLINICAL HISTORY / INDICATION: ? ET, ?Von Willebrand&amp;#8217;s Disease.
+Name: EFREN RATHBUM.
+MRN: 8846937
+Date performed: 1/3/2062
+Episode number: 88M693738P
+Procedure: BMAT
+Site: R PSIC.
+Peripheral Blood:
+Hb: 98g/L		              	Blasts: 0.0x10e9/L
+WBC:  12.71x10e9/L			Monocytes: 0.4x10e9/L
+Platelets: x10e9/L			Eosinophils: 0.06x10e9/L
+Neutrophils: 11.4x10e9/L		Basophils: 0.02x10e9/L
+Lymphocytes: 0.9x10e9/L
+
+Film report:
+Red cells: hypochromic microcytosis with occasional polychromatic cells and elliptocytes.
+White cells: occasional hypersegmented neutrophils.
+Platelets: increased with large and giant forms.  2 megakaryocyte fragments are seen in the tail.
+ASPIRATE
+Ease/difficulty of aspiration: easy.
+Aspirate report: the aspirate consists of multiple platelets clumps .  The specimen is unsuitable for formal evaluation, await trephine.
+
+Haematology registrar: SHAYNE MARCIEL.
+
+Haematology consultant: Susan MacCallum.
+
+Cancer Council Registry: No
+
+
+TREPHINE.
+Length and condition of core: A 10mm specimen was collected and 5 sections examined. The specimen consists of haematopoietic tissue, bone, muscle, cartilage and clot.
+Cellularity: increased for age.
+
+Bone Architecture: Normal.
+Reticulin stain: Grade 1-2+.
+Trephine report: Hypercellular bone marrow with markedly increased megakaryocyteswith a tendancy to form loose clusters.  Some of the megakaryocytes are large with staghorn nuclei.
+Granulopoiesis appears mildly increased and mildly left shifted.  Erythropoiesis appears normoblastic with normal morphology.
+Special stains/Immunohistochemistry: Perls stain &amp;#8211; no stainable iron.
+
+Conclusion: Hypercellular bone marrow with prominent megakaryocyte proliferation inclusing some larger forms with staghorn nuclei.  These finding are consistent with essential thrombocytosis.
+Date of report: 1/8/2062.
+Haematology registrar: ANDREA SPATH
+Haematology consultant: DARNELL OLTHOFF.

@@ -1,0 +1,32 @@
+SPR no: 19E546310W
+MRN no: 1915463
+Site_name: MALDON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post op.  Radical vulvectomy and B/L groin node dissection.  Recent dx left breast Ca currently having RTX.  Left pneumonectomy for lung Ca last year.  CABG x4 2054, stent 2056.
+Dr VICTOR Lominy contacted about the orientation of sutures and indicated that the black suture is designated anterior and the white suture is designated vestibule.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left groin sentinel lymph node&amp;quot;, consists of fatty tissue 35mm x 20 x 15mm.  A single lymph node is identified measuring 30mm across.
+Blocks: 1 to 3 - one lymph node; 4 - remaining tissue.
+
+B.  Specimen labelled &amp;quot;Right groin sentinel lymph node&amp;quot;, consists of a single node with surrounding fat measuring 20mm x 17 x 10mm.  Serially sectioned.  AE 2 blocks.
+
+C.  Specimen labelled &amp;quot;Radical vulvectomy&amp;quot;, consists of an oriented piece of skin measuring 90 x 50 x 15mm.  In the centre of the specimen there is a full thickness defect 50mm x 15mm.  There is a macular ill-defined lesion measuring 40mm x 20mm  and the surrounding skin has pale white areas.  There are two sutures in place.  The black suture is designated anterior and the white suture is designated vestibule.  The anterior suture is designated 12 o&amp;apos;clock.  The 3 o&amp;apos;clock margin is inked blue, 9 o&amp;apos;clock margin is inked black.  The vestibule area is inked black.  The inner cut surface of the defect is inked red.  AE.
+Blocks: 1 to 6 - LS of 12 o&amp;apos;clock; 7 to 36 - TS; (blocks - 23, 26 ,29 with vestibule area (white suture, inked black)); 37 to 40 - LS of 6 o&amp;apos;clock.  Please see diagram.  (TO:LM/vo 14/2/70)
+
+
+MICROSCOPIC (Reported by Dr D Tenore):
+A.  Sections show one lymph node.  No tumour is seen with routine or cytokeratin stains.
+
+B.  Sections show one lymph node.  No tumour is seen with routine or cytokeratin stains.
+
+C.  Sections show squamous mucosa and some skin with underlying tissue including skeletal muscle.  Much of the left side of the specimen has thickened surface squamous epithelium with features of HSIL (VIN 3).  This is partly ulcerated.  No invasive squamous cell carcinoma is seen.  The area of VIN 3 around 32mm in main diameter.  VIN 3 abuts the introital margin focally just posterior to where the marking suture indicated vestibule (block 32).  Other margins are well clear.
+
+
+DIAGNOSIS:
+A.  Left groin sentinel lymph node:  No tumour.
+
+B.  Right groin sentinel lymph node:  No tumour.
+
+C.  Radical vulvectomy:  HSIL (VIN 3).

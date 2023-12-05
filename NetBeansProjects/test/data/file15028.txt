@@ -1,0 +1,38 @@
+SPR no: 88J771725H
+MRN no: 8837717
+Site_name: GRAFTON BASE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian mass, normal tumour markers, hx bilateral breast cancer.  Right tube and ovary.  Right ovarian mass.  Normal TMs.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of an ovary and attached fallopian tube.  The ovary measures 25 x 10 x 9mm, and has an unremarkable cut surface.  The fallopian tube is 55mm in length and 5mm in diameter.  There is a multiloculated cyst within the paraovarian/paratubal tissue, 45 x 35 x 20mm.  The cyst wall is less than 1mm thick with no solid areas.  The cyst contains clear fluid.
+Blocks: 1 - frozen section; 2 and 3 - remaining cyst and associated paratubal/paraovarian tissue; 4 and 5 - ovary; 6 to 8 - fallopian tube.  AE.
+
+FROZEN SECTION REPORT:
+Benign cyst.
+Phone result to Surgical Registrar by Dr V Macphee at 17:02hr on 27.09.16
+(TO: JB;JB/vo 30.11.66)
+
+B.  Specimen labelled &amp;#8220;Uterus, cervix, left tube and ovary&amp;#8221;, consists of a uterus with attached cervix, left fallopian tube and ovary, weighing 136g in total.  The uterus measures 95 x 55 x 55mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 20mm.  The endometrium measures less than 1mm in thickness, and the myometrium measures 22mm in thickness.  There is a pedunculated fibroid, 33 x 25 x 18mm, attached by a 15mm stalk on the posterior uterus.  There are two intramural fibroids, 18 and 40mm.  All three fibroids have a pale grey whorled appearance with variable amounts of calcification.  The left fallopian tube measures 55mm in length with a diameter of 6mm.  The left ovary measures 22 x 16 x 10mm and has an unremarkable cut surface.
+Blocks:  1 to 6 - full LS anterior uterus and cervix (3 to 6 - largest fibroid); 7 to 10 - full LS posterior uterus and cervix; 11 - posterior uterus fibroid; 12 to 14 - complete left fallopian tube; 15&amp;amp;16 - complete left ovary.
+
+C.  Specimen labelled &amp;#8220;Omental biopsy&amp;#8221; consists of omental tissue, 95 x 50 x 15mm in aggregate.  No lymph nodes or masses are identified.  RS 3 blocks.   (TO: JB; JB/ua 11.1.66)
+
+
+MICROSCOPIC (Reported by Dr V Kahn):
+A.  The sections of the paraovarian mass show a benign mesothelial cyst.  The cyst is lined by simple cuboidal epithelium with no significant cytologic atypia.  The right ovary and fallopian tube show no significant abnormality.  There is no evidence of malignancy.
+
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is weakly proliferative.  The myometrium contains hyalinised and calcified leiomyomas.  The left ovary shows no significant abnormality.  There is an incidental 1mm focus of ovarian hilus cells in the fimbrial end of the left fallopian tube.  These cells show strong positive inhibin staining, and are negative for cam5.2, SOX10, GATA3 and CD138.  There is no evidence of malignancy.
+
+C.  The omentum shows no significant abnormality.  A single benign lymph node is seen (0/1).  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right tube and ovary:  Benign mesothelial cyst.
+
+B.  Uterus, cervix, left tube and ovary:  Leiomyomas.
+
+C.  Omentum:  No evidence of malignancy.

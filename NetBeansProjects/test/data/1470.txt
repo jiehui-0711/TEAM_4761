@@ -1,0 +1,71 @@
+Episode No:  24P495250V
+2464952.PAV
+
+Odorizzi, RUDOLPH 
+Lab No:  24P49525
+Hyslop
+SILVERDALESouth Australia  2230
+Specimen: Tissue
+D.O.B: 12/9/2014
+Sex:  F
+Collected: 31/07/2013 at 12:07
+Location:  PRINCE OF WALESPRIVATE-LEONORA HOSPITAL
+DR WILFRED Colby AGUNOS
+Distribution:  DR Will,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Large breast cancer Lt upper outer quadrant	 - wide excision.  Attempted sentinel node biopsy but hot/blue node not identified.  Level 1 sampling instead.  
+MACROSCOPIC:
+A.  Specimen labelled "Left breast lump lateral long stitch, superior short, medial medium" consists of a piece of breast tissue with three marking stitches as described measuring 90 (lateral to medial) x 80mm (superior to inferior) x 42mm (superficial to deep).  There is a normal looking skin ellipse on the superficial aspect measuring 70 x 20mm.  The specimen is inked in three colours: Superficial - superior (above the skin) inked red, superficial - inferior to skin inked blue, deep - inked black.  Specimen is serially sectioned into seventeen slices from lateral to medial.  There is a firm pale tumour with necrotic areas extending from slice five to slice ten measuring 27 x 35 x 35mm.  The tumour is less than 1mm from the superficial, 4mm from superior, 16mm from inferior, 5mm from deep, 20mm from lateral and 33mm from medial margins.  
+Blocks: 1 - slice one lateral margin; 2 & 3 - slice three; 4 & 5 - slice five; 6 to 11 - all of slice six; 12 to 17 - all of slice seven; 18 to 21 - slice eight; 22 to 25 - slice nine; 26 to 29 - slice ten; 30 & 31 - slice fifteen; 32 - slice seventeen (medial margin).
+Block 10 - reserve block.
+
+B.  Specimen labelled "Left axillary node" consists of three lymph nodes measuring from 6 to 15mm in maximum dimension each with a small amount of attached fatty tissue.  
+Blocks: 1 - one bisected lymph node; 2 - two lymph nodes.   
+C.  Specimen labelled "Left axillary tissue" consists of fragments of fatty tissue measuring 70 x 35 x 15mm in aggregate.  All identified lymph nodes are blocked.
+Blocks: 1 - one bisected lymph node; 2 - lymph nodes as seen; 3 - one trisected lymph node.   (FL/ta 3/10/63) 
+ 
+
+MICROSCOPIC (reported by Dr H Hemken & Dr H Vandalsen):
+A - C.  Sections show infiltrating ductal carcinoma and associated high grade ductal carcinoma in situ with the following features:
+
+Invasive carcinoma:
+Site:  Left breast, upper outer quadrant
+Type:  Invasive ductal carcinoma
+Invasive tumour size:  35mm (spanning 7 slices)
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3     Nuclei:  3     Mitoses:  3     Mitotic rate:  25/10hpf.
+Lymphovascular invasion:  Not identified
+	    
+DCIS component:  
+DCIS:  Present in 8 consecutive slices (slice 3 to slice 10)
+Maximum extent ofDCIS:  40mm
+Nuclear grade:  High
+Architecture:  Predominantly solid
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  Extensive
+DCIS in adjacent tissue:  Prominent 
+Excision Margins:  
+Invasive component:  Positive superficial margin (abuts margin), deep 3mm, superior 5mm and well clear of other margins
+In-situ component:  Superficial 2mm, superior 5mm, deep 7mm and well clear of other margins. 
+Receptors (Block A15): 
+ER:  Negative
+PR:  Negative
+HER2 (Novocastra 10A7):  Negative (score 1+) 
+HER2 SISH:  Performed at Ashland, GAWLER HEALTH SERVICE Hospital, see separate report.
+Ki-67 index:  Approximately 80%
+CK 5/6:  Patchy positive (suggestive of basal phenotype)
+
+Nipple:  Not included
+
+LCIS / ALH:  Not identified.   
+Miscellaneous: The surrounding breast tissue shows widespread fibrocystic change, apocrine metaplasia and columnar cell change.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  8
+Number of axillary lymph nodes involved by tumour:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  8
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

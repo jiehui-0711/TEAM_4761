@@ -1,0 +1,67 @@
+
+ 9090207.TSB
+Hulsey, MICHELE
+90X02077
+
+Last edited : 1/5/2064		Page: 2
+CLINICAL:
+Low anterior resection.  Rectal Ca (anaemia), AF, DM, HTN, endometrial Ca.  Melanoma.  
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection", consists of a length of large bowel 210mm in length.  The entirespecimen appears above the anterior peritoneal resection margin.  55mm from the distal resection margin there is a circumferential ulcerated tumour running along the length of bowel for 48mm.  In this area the mesenteric fat in serosa appears puckered.  The cut surface reveals a cream firm tumour which penetrates through the muscularis propria into the mesenteric fat.  The tumour appears to come close to the serosal surface.  Otherwise numerous diverticulum are identified within the bowel wall.  The muscular wall of the bowel appears thickened throughout.  No apical node is identified in the mesenteric fat.  Numerous further lymph nodes are identified.  
+Blocks: 1 - distal resection margin;2 - proximal resection margin; 3 to 5 - tumour to deepest point of invasion; 6 - tumour to uninvolved mucosa; 7 - diverticulum; 8 to 10 - lymph nodes from mesenteric fat; 11 - one lymph node bisected; 12 - further lymph nodes; 13 - lymph nodes from pararectal fat; 14 & 15 - further nodes.
+B.  Specimen labelled "Distal donut", consists of a donut of mucosa 20 x 18 x 10mm.  No suspicious areas are identified.  Representative sections in 1 block.  
+(TO: RI;NW/vo 12.1.64) 
+MICROSCOPIC:  (Reported by Dr Y Dijulio)
+A.  The 48mm ulcerated tumour is a moderately differentiated adenocarcinoma. A synoptic report for colorectal carcinoma follows:
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Proximal rectum. 	
+Maximum tumour diameter: 48mm
+Distance of tumour to nearer cut end: 55mm (distal - macroscopic)
+Tumour perforation: Yes (pT4) 
+Relation of tumour to anterior peritoneal reflection:	 Above 
+Microscopic Description
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: Clear.
+Lymph nodes
+Number of lymph nodes present: Twenty-five.	
+Number of lymph nodes involved: Six (6/25). 
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Foci suspicious for LVSI are seen. 
+Perineural invasion
+Not identified. 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Diverticulum. 
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvant therapy
+Not applicable. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+pTNM STAGE = 3C (pT4N2Mx)
+B.  Sections of the distal bowel wall donuts show no evidence of malignancy. 
+DIAGNOSIS:
+A.  Anterior resection:
+48mm pTNM 3C ulcerated moderately differentiated adenocarcinoma. 
+Margins appear clear. 
+Metastatic carcinoma in six of twenty five lymph nodes (6/25).
+Markers of microsatellite instability show low risk of microsatellite instability. 
+
+B.  Distal donut: No evidence of malignancy. 
+
+

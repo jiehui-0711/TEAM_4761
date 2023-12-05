@@ -1,0 +1,51 @@
+SPR no: 27E348185B
+MRN no: 2713481
+Site_name: WESTMEAD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: MISMATCH REPAIR GENE ASSAY (5.5.2067)
+
+CLINICAL:
+Grade 1 EAC uterus.  Schizophrenia, endometrial ca.  Tissue frozen section.
+12.10.16 at 0925am - MS spoke to Dr ANTON AMARI gynae oncology - no need for frozen section the form was preprinted if a frozen was needed and sent up in error.  Histopathology only on the specimens is required.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, tubes and ovaries&amp;#8220;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 85g in total. The uterus measures 65 x 50 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 25 x 20mm and has an unremarkable surface.  On sectioning the endometrium is 21mm in maximal thickness with the myometrium 2mm thick.  On the posterior body of the uterus is a tumour arising at the endometrium measuring 20 x 20 x 10mm penetrating to a depth of 10mm across a myometrial thickness of 28mm in total. The tumour macroscopically does not go to the cervix and appears localised at the fundus of the uterus on the posterior wall.  The right fallopian tube measures 60mm in length with a maximal diameter of 10mm. The right ovary measures 35 x 15 x 15mm and has an unremarkable cut surface.  The left fallopian tube measures 59mm in length with a maximal diameter of 10mm.  The left ovary measures 30 x 10 x 10mm and has an unremarkable cut surface. At the fimbrial end on the left are multiple cystic thin walled structures filled with clear thin fluid. Blocks 1-3 - full LS of anterior body and cervix; 4-7 - full LS of posterior body and cervix including point of deepest invasion; 8 &amp;amp; 9 - rep sections tumour to serosal surface; 10 - rep sections tumour; 11 - right tube and fimbrial end; 12 - rep sections right ovary; 13 - rep sections left fimbrial end and tube including cystic structures; 14 - rep sections left ovary.
+
+B.  Specimen labelled &amp;#8220;Right pelvic lymph nodes&amp;#8220;, consists of a piece of fibrofatty tissue measuring 55 x 40 x 30mm containing multiple lymph nodes measuring between 10-30mm.  Block 1 - multiple ? lymph nodes; 2 - single lymph node serially sectioned; 3 - single lymph node serially sectioned; 4 - multiple ? lymph nodes; 5-7 - single lymph node serially sectioned, TS.  Comment: All of the lymphoid tissue is embedded.
+
+C.  Specimen labelled &amp;#8220;Left pelvic lymph nodes&amp;#8220;, consists of multiple pieces of fibrofatty tissue containing lymph nodes measuring 60 x 50 x 10mm.  The tissue contains multiple lymph nodes measuring between 5-20mm.  Blocks 1 &amp;amp; 2 - multiple lymph nodes as seen; 3 - single lymph node bisected; 4 - single lymph node bisected; 5 - single lymph node serially sectioned, TS; 6 &amp;amp; 7- single lymph node serially sectioned, TS.  Comment: All of the lymphoid tissue is embedded. (TO: MS/ec  14.12.66)
+
+
+MICROSCOPIC: (Reported by  Dr F Eick)
+A.  Sections of the uterine tumour show a FIGO Grade 1 endometrioid endometrial adenocarcinoma. The carcinoma is predominantly exophytic and consists of malignant infiltrating cribriform glands (grade 1 architecture) lined by mildly pleomorphic carcinoma cells (grade 1 cytology). There are scattered foci suspicious for lymphovascular space invasion. Carcinoma invades up to 3.3mm into a uterine wall 22mm. There is no evidence of cervical, uterine serosa or adnexal involvement by carcinoma. The adjacent uterus shows complex hyperplasia and focal leiomyoma(s). There are also very occasional necrotising granulomata (within  myometrium and focally close to serosal surface). Special stains for organisms (FITE-TB and PASf) are negative. The bilateral adnexae show no significant histologic abnormality.
+
+B.  Sections of the eleven pelvic lymph nodes show no evidence of malignancy (0/11). There are scattered foreign body type granulomata.
+
+C.  Sections of the eleven pelvic lymph nodes show no evidence of malignancy (0/11). There are scattered foreign body type granulomata.
+
+
+IMMUNOHISTOCHEMISTRY:
+Immunoperoxidase stains for MSI proteins (Block  )
+MLH1          Loss of nuclear staining
+PMS2          Loss of nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+COMMENT:
+The uterine tumour (specimen A) shows loss of nuclear staining for MLH1 and PMS2. Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+There are also scattered foci of granulomatous inflammation within the uterus and pelvic lymph nodes. Whilst the uterine granulomas consist of palisaded histiocytes surrounding central zones of necrosis, the lymph node granulomata consist of tight, well formed groups of epithelioid histiocytes. Special stains for organisms are negative. No polarisable foreign material or old diathermied tissue is seen. No diagnostic fibrinoid vasculitis is seen. The etiology of the granulomas remains uncertain and whilst infective causes should be excluded, other causes including autoimmune disease and sarcoidosis, should be considered clinically.
+DIAGNOSIS:
+A.  Uterus, cervix, ovaries and fallopian tubes: Grade 1 endometrioid endometrial adenocarcinoma, 3.3m thick (in uterine wall 22mm thick), with foci suspicious for LVSI and no evidence of cervical, uterine serosal or adnexal involvement. Necrotising granulomata. Loss of nuclear staining for MLH1 and PMS2.
+
+B.  Right pelvic lymph nodes: No evidence of malignancy in eleven lymph nodes (0/11). Granulomata.
+
+C.  Left pelvic lymph nodes: No evidence of malignancy in eleven lymph nodes (0/11). Granulomata.
+Please see comment.
+
+
+***SUPPLEMENTARY REPORT: MISMATCH REPAIR GENE ASSAY (5.5.2067)
+Mismatch repair gene methylation assay was performed by L7 CONSULTING ROOMS Pathology (27-13481850) at the request of the Hereditary Cancer Clinical, WALGETT HEALTH SERVICE. The results are as follows:
+Methylation of the MLH1 promoter region that is consistent with reduced MLH1 gene expression was DETECTED in tumour tissue from this patient.
+Methylation was detected at the C (60%) and D (70%) regions and also at the A (66%) and B (51%) regions and intron 1 (54%).

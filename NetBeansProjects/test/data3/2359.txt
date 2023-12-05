@@ -1,0 +1,67 @@
+Episode No:  22E071111P
+221071.DCE
+
+AUKES, Tilly 
+Lab No:  22E07111
+St Norbert
+MARGATE  TAS  3336
+Specimen: Tissue
+D.O.B:  8/10/2023
+Sex:  F
+Collected: 16/12/2064 at 08:45
+Location:  Molecular Oncology Unit-SPRINGSURE HOSPITAL
+DR BENNIE MURIELE ODMARK
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Upper outer quadrant breast cancer.  Extra deep/superior margin and extra medial margin.  Sentinel node R axilla.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node right axilla", consists of a piece of fatty tissue containing a lymph node measuring 15 x 15mm.  On sectioning the lymph node has a fatty appearance.  AE 1 block. 
+
+B.  Specimen labelled "Right upper quadrant breast cancer stitch short superior long lateral (a stitch towards tumour)", consists ofan irregular piece of fatty tissue with overlying skin and two sutures for orientation marking the short one the superior margin and the long one the lateral margin.  The hook wire is exiting through the medial and lateral margin.  The specimen measures 80mm medial to lateral, 60mm superficial to deep and 40mm superior to inferior.  The ellipse of skin measures 70 x 10mm and appears unremarkable.  The specimen is inked blue superior margin, black inferior margin and red deep margin.  Specimen is serially sectioned from medial to lateral into eight slices.  Slice one medial margin, slice eight lateral margin.  On blocks 2 to 6 there is an ill-defined solid tumour measuring 20 x 20 x 25mm.  Macroscopically thetumour is located 3mm from the superior margin, 4mm from the deep margin and well clear of the inferior margin.  Representative sections are taken according to the attached diagram.  
+Blocks: 1 to 5 - RS medial margin (slice one); 6 and 7 - RS slice two; 8 and 9 - RS slice three; 10 to 14 - slice four; 15 and 16 - RS slice five; 17 and 18 - RS slice six; 19 and 20 - RS slice seven; 21 and 22 - RS lateral margin (slice eight); 23 - shave of tumour from slice four for tumour banking.  
+C.  Specimen labelled "Superior deep margin right breast stitch towards tumour", consists of an irregular piece of fatty tissue with a suture for orientation marking the margin towards the tumour.  The specimen measures 40 x 25 x 20mm.  The margin with the stich is inked blue the opposite margin black.  AE 4 blocks. 
+D.  Specimen labelled "Medium margin right breast stitch towards tumour" consists of a piece of fibrofatty tissue with a suture for orientation marking the margin towards the tumour.  It measures 45 x 30 x 10mm.  The margin with the suture is inked blue the opposite margin black.  Specimen is serially sectioned and AE 6 blocks. 
+(CP/vo 16.12.64) 
+MICROSCOPIC (Reported by Dr G Peil):
+A - D.  Sections show invasive ductal carcinoma of the breast.  The features are as follows:
+Invasive carcinoma:     
+Site:  Right breast. 
+Type:  Invasive ductal carcinoma. 
+Invasive tumour size: 19mm. 
+Grade (Modified Bloom & Richardson):  3.
+Tubules:  3    Nuclei:  3   Mitoses:  3     Mitotic rate:   30/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present.  
+Maximum extent of DCIS:  25mm. 
+Nuclear grade:  Solid. 
+Architecture:  High grade. 
+Necrosis:  Present. 
+Calcification:  Absent. 
+Degree of DCIS in tumour:  Moderate. 
+DCIS in adjacent tissue:  Moderate. 
+Excision Margins:  
+Invasive component: 5mm from deep, 7mm from superior, all other margins well clear. 
+In-situ component:0.2mm from deep with no normal intervening ducts, 7mm from superior, all other margins well clear. 
+Receptors (Block B23): 
+ER:  Positive.
+	80% of nuclei stained
+	predominant intensity of staining:  Weak. 
+PR:   Negative. 
+HER2 (Novocastra 10A7):  Negative (score 1+).
+HER2 SISH:  Performed at Fluor Corporation, SUNSHINE HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approaching 100%. 
+Nipple:  Not applicable. 
+LCIS / ALH:  Absent. 
+Miscellaneous:  The additional margins (specimens C & D) show no evidence of in situ or invasive malignancy. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1. 
+Number of sentinel lymph nodes involved by tumour:   0.       
+An incidental melanocytic naevus is present within the capsule of the lymph node. 
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1.
+Total number of involved lymph nodes (including sentinel node(s)):  0.
+

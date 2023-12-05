@@ -1,0 +1,67 @@
+ 1136559.COY
+RAMBO, Kai
+11I65591
+
+Last edited : 14/9/2062		Page: 2
+CLINICAL:
+Ultralow anterior resection.  Anterior polypoid mid rectal cancer.  T3N0 on MRI.
+[1. Ultralow anterior resection, 2. Distal donut, 3. Rectal tumour (free specimen)].
+MACROSCOPIC:
+A.  Specimen labelled "Ultralow anterior resection" consists of an anterior resection comprised of terminal ileum and rectum.  It measures 300mm from proximal to distal and up to 30mm in maximum diameter.  The segment of rectum below the peritoneal reflection measures 45mm in length.  The circumferential margin is inked black and the distal margin green.  The external surface is unremarkable.  On sectioning and on the peritoneal reflection there is a fungating and ulcerated tumour measuring 75mm from proximal to distal and 60mm in maximum diameter.  It is located 35mm from the distal margin.  On sectioning, the tumour hasa maximum thickness of 10mm and macroscopically invades through the wall into the rectal fat.  The tumour is located 30mm from the radial margin.  Apart from the tumour several polyps are identified ranging from 2 to 4mm.  
+Blocks:  1 - proximal margin; 2 - distal margin; 3 - tumour with nearest left lateral radial margin; 4 - tumour with proximal colon; 5 - tumour with distal rectum; 6 - tumour; 7 - tumour; 8 - tumour (reserved block); 9 - four polyps; 10 to 15 - possible lymph nodes.
+B.  Specimen labelled "Distal donut" a donut of colonic mucosa 20 x 10 x 5mm.  AE one block. 
+C.  Specimen labelled "Rectal tumour" a polyp 20 x 10 x 10mm.  The cut surface is solid and tan.  AE 2 blocks.   (PQ/cc 7/2/62) 
+ 
+MICROSCOPIC (Reported by Dr E Ochiltree): 
+A.
+
+COLORECTAL CARCINOMA PROFORMA
+
+Site of tumour:  Based in mid rectum with focal extension to lower rectum	
+Maximum tumour diameter:   75mm
+Distance of tumour to nearer cut end:   35mm (distal)
+Tumour perforation:     No
+For rectal tumours
+Relationof tumour to anterior peritoneal reflection:	 Astride 
+Type
+Mucinous adenocarcinoma
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: 17mm (left lateral)
+Lymph nodes
+Number of lymph nodes present: 15	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The invasive tumour is arising from a tubulovillous adenoma. Hyperplastic polyps are also present.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3pN0     pMX     R0
+B. Sections show large bowel with no evidence of malignancy.
+C. Sections show a tubulovillous adenoma with low grade dysplasia. There is no convincing evidence of high-grade dysplasia or invasive malignancy.
+DIAGNOSIS
+A. Ultralow anterior resection: 
+- Moderately differentiated mucinous adenocarcinoma invading perirectal fat, margins clear
+- 15 lymph nodes with no evidence of malignancy.
+B. Distal donut: no evidence of malignancy
+C. Rectal tumour: tubulovillous adenoma with low grade dysplasia	
+

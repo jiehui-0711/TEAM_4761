@@ -1,0 +1,24 @@
+SPR no: 53A668567Y
+MRN no: 5306685
+Site_name: JOYCE PALMER HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrial adenocarcinoma on hysteroscopy/DC.  Completion hysterectomy.
+General clinical history: T2DM, HTN, High chol, high BMI.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a previously opened uterus with attached bilateral fallopian tubes and ovaries weighing 213g in total.  The uterus measures 120 x 65 x 55mm and has a smooth shiny serosal surface.  The cervix measures 30 x 22mm and is discoloured by surgical dye.  The endometrial cavity is distended by predominately exophytic papillae form tumour on both the anterior, posterior and fundal aspects located 45mm from the ectocervical margin.  The exophytic tumour mass measures 55 x 50 x 30mm.  The exophytic endometrium measures is up to 15mm thick and rests on myometrium with an unremarkable surface.  On sectioning, the endometrium is 15mm in maximum thickness and the myometrium up to 22mm thick.  No definite macroscopic myometrial invasion is identified. The right fallopian tube measures 55 x 7mm and right ovary 35 x 14 x 12mm.  The left fallopian tube measures 60 x 8mm and left ovary 35 x 13 x 10mm.  No adnexal lesions are identified.  Blocks: 1 to 7 - full LS through anterior body and cervix; 8 &amp;amp; 9 - further sections through anterior tumour with greatest depth of invasion ?; 11 to 14 - full LS through posterior body and cervix including tumour; 15 &amp;amp; 16 - composite sections through thickest posterior tumour; 17 &amp;amp; 18 - right adnexa; 19 &amp;amp; 20 - left adnexa; 21 - tumour for biobank. RS
+
+B.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of a piece of fatty tissue, 35 x 23 x 12mm containing two lymph nodes measuring up to 25mm in maximum dimension.  Blocks: 1 &amp;amp; 2 - one node serially sliced; 3 - one node bisected.   (TO:AP/ta 17/7/71)
+MICROSCOPIC (Reported by Dr N Goldstock)
+A.  Sections of uterus show a grade 1 endometrioid endometrial adenocarcinoma. The carcinoma is predominantly exophytic (up to 15mm thick), with focal extension along adenomyosis, however, no definite myoinvasion is seen in a uterine wall up to 22mm thick. There is no convincing lymphovascular invasion. No uterine serosa, cervical or adnexal involvement by carcinoma is seen. The myometrium shows leiomyoma(s) and adenomyosis. The cervix, ovaries and fallopian tubes shows no significant abnormality.
+
+B.  Sections of the two left external iliac lymph nodes show no evidence of malignancy (0/2).
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, bilateral tubes and ovaries: Superficial (exophytic) Grade 1 endometrioid endometrial adenocarcinoma with no convincing myoinvasion. No evidence of uterine serosal, cervical or adnexal involvement by adenocarcinoma.
+
+B.  Left external iliac lymph node: No evidence of malignancy (0/2).
+
+Markers of microsatellite instability are being performed and a supplementary report will be issued.

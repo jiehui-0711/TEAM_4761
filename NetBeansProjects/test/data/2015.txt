@@ -1,0 +1,63 @@
+
+ 7406316.UDX
+Flakes, Nicky Jordan
+74C63167
+
+Last edited : 27/1/2064		Page: 2
+CLINICAL:
+Low rectal ca.  Rectum abdominal perineal excision.
+MACROSCOPIC:
+Specimen labelled "Abdominoperineal resection of rectum" consists of an abdominoperineal resection of rectum including anus measuring 190mm in length.  12mm from the anal verge and 30mm from the distal resection margin there is a polypoid and partly sessile tumour measuring 35 x 23mm which appears tooccupy approximately 30% of the circumference of the rectum.  The tumour is located entirely below the anterior peritoneal resection margin.  The tumour appears to be on the antero right aspect of the distal rectum.  The mesorectum appears predominantly intact in the specimen.  The right mesorectum is inked black and the left is inked blue.  Four 2 to 3mm polyps were identified in the rectum from 140mm to 150mm from the proximal resection margin.  The closest polyp to the anal verge is 10mm.  Multiple lymph nodes were identified in the mesenteric and the perirectal fat.
+Blocks:  1 - proximal resection margin; 2 to 5 - tumour; 6 & 7 - tumour towards anal verge; 8 - distal resection margin closest to tumour; 9 - further polyps; 10 - one perirectal node bisected;11 - ?further perirectal nodes; 12 & 13 - mesenteric nodes above peritoneal resection margin; 14 to 29 - further representatives rectal fat below peritoneal reflection.  (UW/rt 21.1.64)
+MICROSCOPIC (Reported by Dr S Chy):
+Synoptic Report for Large Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour:	
+Maximum tumour diameter:  35mm
+Distance of tumour to nearer cut end:  30mm
+Tumour perforation:No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	  Below
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  4mm (block 2)
+Lymphnodes
+Number of lymph nodes present:  5
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Four (4) small hyperplastic polyps
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Not assessed (no information is provided)
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is:  2
+Summary - TNM 7th Edition
+pT2     pN0     pMX     R0
+
+
+DIAGNOSIS:
+Rectum - Adenocarcinoma.
+

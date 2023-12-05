@@ -1,0 +1,66 @@
+SPR no: 57H447056T
+MRN no: 3520927
+Site_name: BRIDGETOWN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+37cm cystic mass with solid component.  CA 125 261.  Frozen section.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes, bilateral ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and a large adnexal mass, weighing 1495g in total.  The uterus measures 85 x 55 x 50mm and the ectocervix measures 25 x 15mm.  The endometrium is 1mm in thickness and the myometrium is up to 30mm in thickness.  There is a polyp in the endometrial cavity, 12mm across.  There is a multicystic left adnexal mass, 320 x 280 x 60mm.  The mass contains bloodstained fluid, and also has papillary tissue covering approximately 40% of the internal surface.  There is also a fleshy necrotic solid area in this mass, 50mm across.  The tumour is directly adherent to the posterior uterus, and in this region there are also some unilocular haemorrhagic cysts.  There is also haemorrhagic tissue adherent over the posterior cervix.  There is a second unilocular cystic mass, 70 x 55 x 30mm, arising from the right ovary.  This cyst contains haemorrhagic fluid and has marked calcification in the wall.  The left fallopian tube is 35mm in length and 7mm in diameter.  The right fallopian tube is 40mm in length and 5mm in diameter.  Both tubes appear unremarkable.
+Blocks: 1 to 5 - full LS of anterior body and cervix; 6 to 11 - full LS of posterior body and cervix; 12 to 15 - posterior uterus with adherent tumour and haemorrhagic cysts; 16 - posterior cervix with haemorrhagic tissue; 17 - remainder polyp on the posterior endometrium; 18 to 20 - composite sections posterior uterus with adherent tumour; 21 to 24 - right ovarian mass; 25 - left fallopian tube; 26 - right fallopian tube; 27 to 47 - left adnexal mass (27 to 30 - necrotic nodule; 31 to 41 - papillary tissue; 42 to 45 - cyst wall; 46 &amp;amp; 47 - RS left ovarian mass for frozen section).
+
+FROZEN SECTION REPORT:
+Carcinoma, favour clear cell carcinoma.
+Result to the Anaesthetist by Dr N Pursifull at 12:07pm on 06.04.2069.
+
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omentum measuring 200 x 70 x 20mm.  No lymph nodes or discrete lesions are seen.  RS 3 blocks.
+
+C.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of an appendix measuring 45 x 5 x 5mm with attached mesoappendix 25mm in width.  No discrete lesions are seen.  Blocks: 1 - LS base and TS body; 2 and 3 - TS body; 4 - LS tip.  AE.
+
+D.  Specimen labelled &amp;quot;Sigmoid fat&amp;quot;, consists of a piece of adipose tissue, 30 x 35 x 5mm.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Left paracolic gutter&amp;quot;, consists of a piece of tan tissue measuring 15 x 10 x 4mm.  AE 1 block.
+
+F.  Specimen labelled &amp;quot;Right paracolic gutter&amp;quot;, consists of a tan piece of tissue measuring 20 x 7 x 4mm.  AE 1 block.
+
+G.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of a lymph node with surrounding adipose tissue measuring 25 x 25 x 5mm.  Blocks: 1 - one lymph node; 2 - remainder.  AE.
+
+H.  Specimen labelled &amp;quot;Right external iliac lymph node&amp;quot;, consists of a lymph node, 25 x 10 x 5mm, with surrounding adipose tissue.  Blocks: 1 - lymph node; 2 - remainder.  AE.
+
+I.  Specimen labelled &amp;quot;Umbilical hernia sac&amp;quot;, consists of two pieces of fibroadipose tissue, 25 x 15 x 10mm and 22 x 10 x 5mm, each partially surfaced by peritoneal tissue.  Blocks: 1 &amp;amp; 2- larger piece; 3 - smaller piece.  AE.   (TO:FE/rs 8/7/70)
+
+
+MICROSCOPIC (Reported by Dr N Talamas):
+A.  The sections of the 320mm left ovarian mass show a clear cell carcinoma.  The tumour has a variety of architectural patterns, including tubulocystic, solid and papillary areas.  The tumour cells have clear cytoplasm and hobnailed nuclei with moderate atypia and enlarged nucleoli.  Approximately 10% of the tumour is necrotic.  This tumour is adherent to the posterior uterine serosa and is associated with endometriosis in this region.  The right ovarian mass is an endometriotic cyst with calcification in the wall.  Detached fragments of clear cell carcinoma are seen within the cyst contents.  MSI immunohistochemistry is in progress on the left ovarian carcinoma, to follow in a supplementary report.
+
+The ectocervix and endocervix show no significant mucosal abnormality.  Endometriosis is present over the posterior cervix, as well as in the region of the posterior uterine serosa near the tumour.  The endometrium is inactive.  There is a benign endometrial polyp.  The myometrium shows adenomyosis.  Both fallopian tubes show no significant abnormality.
+
+B.  The omentum shows haemosiderin-laden macrophages and patchy chronic inflammation.  One negative lymph node is seen (0/1).  There is no evidence of malignancy.
+
+C.  The appendix shows fibrous obliteration.  There is no evidence of malignancy.
+
+D to F, I.  The sections of the sigmoid fat, left and right paracolic gutters and umbilical hernia sac show adipose tissue with haemosiderin-laden macrophages and patchy chronic inflammation.  No specific features of endometriosis are seen.  There is no evidence of malignancy.
+
+G.  The sections of the left external iliac lymph node show one negative lymph node (0/1).  There is no evidence of malignancy.
+
+H.  The sections of the right external iliac lymph node show one negative lymph node (0/1).  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A to I.  Uterus with cervix, bilateral fallopian tubes and ovaries, omentum, appendix, left and right external iliac lymph nodes, multiple peritoneal sites:
+-  Clear cell carcinoma of the left ovary associated with endometriosis.
+-  Tumour adherent to posterior uterine serosa.
+-  Endometriotic cyst of right ovary, and endometriosis of posterior uterine serosa and cervix.
+-  Fallopian tubes, omentum, appendix, sigmoid fat, bilateral paracolic gutters, and umbilical hernia sac negative.
+-  Total three negative lymph nodes (0/3).
+SUPPLEMENTARY REPORT (5.11.2069)
+MSI immunohistochemistry was performed on the left ovarian carcinoma.
+
+Mismatch Repair Deficiency (MMRD) Status (block A31)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

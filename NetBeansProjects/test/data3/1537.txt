@@ -1,0 +1,61 @@
+
+Episode No:  13J477280Y
+133477.FVB
+
+Clason, Napoleon 
+Lab No:  13J47728,13J47728
+Cedrela
+WARRNAMBOOL    0837
+Specimen: Washings,Tissue
+D.O.B:  15/11/2005
+Sex:  F
+Collected: 30/8/2063 at :
+Location:  PERI-OPERATIVEUNIT-CAMPBELL TOWN HEALTH AND COMMUNITY SERVICE
+DR FRED SERGIO Landing
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY, DR Guy, PRO Padron
+CLINICAL:
+Previous lobular breast cancer.  Ovarian mass.  
+Please perform ER/PR immunoperoxidase stains as per phone message from Dr M Leafe on 3/9/63.
+MACROSCOPIC:
+A.  Specimen labelled "Left ovary and tube" consists of an ovary 50 x 40 x 30mm with an attached fallopian tube measuring 55mm in length with a maximum external diameter of 8mm.  The ovary has a fleshy tan and cream cut surface.  Two representativesections for frozen section.  
+Blocks:  1- frozen section one; 2- frozen section 2; 3- representative fallopian tube; 4 to 7 - further representative ovarian mass.  (ER/PR stain ordered on Block 6)
+FROZEN SECTION REPORT:
+Metastatic lobular breast cancer. 
+Phone result to anaesthetist by Dr M Felsher at 1.26pm on 30.08.63.
+B.  Specimen labelled "Uterus, right ovary and tube" consists of a uterus with attached cervix, right fallopian tube and ovary weighing 68.3g in total.  The uterus measures 75 x 45 x 25mm.The majority of the serosal surface is smooth, however there are focal nodular and haemorrhagic areas up to 6mm diameter.  The ectocervix measures 35 x 35mm and is unremarkable.  The cut surface reveals the endometrium is 1mm in maximal thickness and the myometrium is 17mm in maximum thickness.  There are haemorrhagic nodules on the serosal surface; the largest measures 7mm diameter and has a cream cut surface.  The right tube and ovary are encased in a single mass, with the tube poorly identified.  The mass measures 42 x 32 x 25mm.  The cut surface reveals nodular cream/tan tissue.  
+Blocks:  1 to 3 - full longitudinal section of anterior body and cervix: 4 to 6 - full longitudinal section of posterior body and cervix; 7 -uterus including nodule on posterior serosal surface; 8 - ?representative tube; 9 to 11 - further representative ovarian mass.  
+C.  Specimen labelled "Omentum" consists of a piece of omental tissue 210 x 150 x 20mm.  The majority of the omental tissue is taken up by ill defined firm cream tumour tissue.  Representative sections in 3 blocks.  
+(TO:  RX:  HD/mm3.9.63) 
+MICROSCOPIC (reported by Dr M Pollan): 
+A.   Sections show ovary which is moderately enlarged and is extensively involved by metastatic lobular carcinoma of breast.  This consists of cells with small, relatively uniform nuclei and a variable amount of eosinophilic cytoplasm.  The cells are in sheets, cords and trabeculae within a fibrous stroma.  Mitoses are infrequent.  Sections of the fallopian tube show extensive involvement of the tubewall, mucosa and serosal surface by similar metastatic lobular carcinoma.  Lymphovascular invasion is noted in the tube wall focally.  
+Immunostains have been performed as requested.  
+Oestrogen receptor:		Positive.
+100% of tumour cells stain. 
+				Predominant intensity of staining:  Strong.
+Progesterone receptor:	Positive.
+				20% of tumour cells stain positive.
+				Predominant intensity of staining:  Strong. 
+Her-2:				1+ (regarded as negative).  Her-2 ISH to follow.
+B.   A section of the posterior cervix shows metastatic lobular carcinoma in subserosal tissue.  The sections of cervix are otherwise unremarkable. Sections of the endometrium show that this is thin and inactive.  There is adenomyosis in the inner myometrium.  A subserosal leiomyoma is noted.  In one section from the posterior uterine wall there is a small area of involvement of subserosal myometrium by metastatic lobular breast carcinoma.  Sections of the right adnexal mass show ovary, fallopian tube and adnexal soft tissues which are all extensively involved by metastatic lobular carcinoma.  Tumour is present on serosal surfaces.
+C.   Sections of omentum show extensive involvement by metastatic lobular carcinoma of breast.  (ec) 
+DIAGNOSIS:
+A.   Left tube and ovary:  Extensive involvement of tube and ovary by metastatic lobular carcinoma of breast. 
+B.   Uterus, right ovary and tube:  
+1.    Metastatic lobular carcinoma involving right ovary, right tube, right adnexal soft 
+       tissues, subserosal myometrium and subserosa of posterior cervix. 
+2.    Leiomyoma, adenomyosis. 
+C.   Omentum:  Metastatic lobular carcinoma.
+  
+ADDITIONAL REPORT:  (24.963)
+Blocks were sent to BEAUDESERT HOSPITAL Hospital for Her-2 ISHanalysis, Dr M Sardi reports:
+Signal Detection has been performed for the Her-2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP 17) control using the Ventana INFORM Her-2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non amplified, diploid). 
+Mean Her-2 copy number per cell: 1.8.
+Mean CEP 17 copy number per cell:  1.7.
+HER-2/CEP 17 ratio:  1.06.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

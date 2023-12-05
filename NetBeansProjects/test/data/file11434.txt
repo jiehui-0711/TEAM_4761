@@ -1,0 +1,94 @@
+SPR no: 90O152723Q
+MRN no: 905152
+Site_name: ROBINA HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportADDITIONAL REPORT (21/9/67)
+
+CLINICAL:
+Obstructive jaundice secondary to pancreatic head mass.  Adenocarcinoma on previous duodenal biopsy.  Histology - Whipple&amp;apos;s specimen.  Silk suture on bile duct, 1x prolene suture on PV margin, 2x prolene suture on SMA margin, 3x prolene suture on uncinate.
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Whipple&amp;apos;s + omentum + gallbladder&amp;#8220;, consists of a pancreaticoduodenectomy with attached omentum, separate gallbladder and several separate omental biopsies.  A separate 17mm lymph node is separate within the specimen container and there is another separate piece of omentum measuring 90 x 50 x 10mm and larger piece of omentum measuring 220 x 90 x 270mm. The pancreaticoduodenectomy has a length of bowel measuring 340mm in length with a maximal diameter of 35mm .  A piece of mesentery is attached to the anterior surface of the duodenum measuring 50 x 40 x 20mm.  An irregularly shaped, pale tan mass includes the pancreas, and measures  60 x 45 x 45mm. Sutures identifying bile duct, PV margin, SMA margin and uncinate process are identified. In the duodenum adjacent to the pancreas is a diffusely infiltrating tumour of pale white appearance in the region of the ampulla.  CBD margin red; PV margin green, SMA margin black, uncinate margin blue, neck of pancreas yellow, posterior pancreas red, anterior surface of pancreas yellow. Specimen sliced superior to inferior displaying a white, diffusely infiltrating tumour within the pancreas into the duodenum. The gallbladder measures 90 x 30 x 7mm and the serosal surface is smooth and shiny with a wall thickness 2mm.  The mucosal surface is green and velvety with no stones appreciated within the lumen. Three pieces of omentum are within the specimen container, measuring 270 x 220 x 90mm, 50 x 40 x 25mm, and 25 x 20 x 15mm. Within the largest piece of omentum are two foci of firm, white calcified tumour, the first measuring 25 x 10 x 3mm and the second measuring 60 x 45 x 25mm.  The distance between these two foci is 230mm.  On sectioning both of the foci of tumour have a white yellow calcified outer area with an inner fatty mucoid centre. The smallest piece contains a single lymph node measuring 17mm. All of pancreatic tissue embedded.
+Block 1 - proximal margin; 2- distal margin; 3 - LS CBD margin; 4 - cystic duct; 5 &amp;amp; 6- neck of pancreas margin; 7-14 - pancreatic tumour from superior to inferior; 15 &amp;amp; 16 - lymph nodes from mesentery attached to anterior duodenum; 17, 18, 19 - gall bladder ; 20 - smaller focus of omental tumour; 21-25 - larger deposit of omental tumour, representative sections. (MS/ec 14/6/66)
+
+
+MICROSCOPIC (Reported by Dr Z Pun:
+
+SUMMARY PANCREATIC TUMOUR
+
+Size of tumour:  31mm
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Tumour site
+Head of pancreas, with extension into uncinate process
+
+Extent of tumour invasion
+Duodenal wall
+Peripancreatic soft tissues
+
+Lymphovascular invasion
+Present
+Type of vessel: Small vessel
+
+Perineural invasion
+Present (within the pancreas, block 11)
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Preinvasive lesion
+Low grade dysaplasia (PanIN 2), clear of margins
+
+Margins:
+Invasive tumour:
+Pancreatic neck: &amp;gt; 10mm
+Common bile duct:  &amp;gt; 10mm
+Portal vein (superior mesenteric vein):  5mm (block 11)
+Superior mesenteric artery:  &amp;gt; 10mm
+Periuncinate soft tissue:  Positive over a 1.4mm front (inferior uncinate, block 14)
+Proximal (stomach):  &amp;gt; 50mm
+Distal (duodenal):  &amp;gt; 50mm
+
+Carcinoma in situ/PanIN-3 at margin:  Not seen
+
+Surfaces:
+Anterior: 1.3mm (block 11)
+Posterior: 0.1mm (block 9)
+
+Lymph nodes:
+Number found: 23
+Number involved: 4
+
+Other pathology:
+- The pancreas shows patchy atrophy and chronic inflammation.
+- The gallbladder shows chronic pancreatitis.
+- Omentum shows patchy fat necrosis.
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+Primary tumour category (pT)
+T3 Tumour extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery
+
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+
+Distant metastasis category (pM)
+MX Not assessable by histology
+
+ADDITIONAL REPORT (21/9/67)
+MSI staining requested by Prof CARLTON BILINSKI.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining*
+PMS2		Preserved nuclear staining*
+MSH2		Preserved nuclear staining*
+MSH6		Preserved nuclear staining*
+
+* Focal staining present, interpreted as positive
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

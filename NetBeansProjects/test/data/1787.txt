@@ -1,0 +1,60 @@
+
+ 4250812.JVQ
+LAL, LEIF RUDOLPH
+42O08123
+
+Last edited : 20/9/2064		Page: 2
+CLINICAL:
+Presumed pancreatic adenoCa in BG IPMN.  Neoadjuvent chemo with gem/abraxane.  Distal pancreatectomy and splenectomy.  
+MACROSCOPIC:
+Specimen labelled "Spleen" consists of distal pancreatectomy with attached spleen.  The pancreas with attached fat, measures 95 x 80 x 40mm.  The attached spleen measures 90 x 70 x 50mm. Greater omentum measures 170 x 120 x 35mm and is attached to a the splenic hilum.  The anterior aspect of the pancreas is inked blue, the posteriorblack with superior red.  On the anterior aspect of the pancreas there is an area of firm puckering over an area 30 x 25mm.  The specimen is transverse sectioned in the parasagittal plane.  Approximately 40mm from the proximal resection margin of the pancreas there is an area expanded into the pancreas which appears cream and well circumscribed measuring 30 x 35 x 30mm.  The area appears to come close to the anterior margin, 2mm from the posterior margin and is wellclear of the superior and inferior margins.  The duct is unable to be definitely identified at the proximal margin.  The cut surface of the spleen appears unremarkable.  Two possible lymph nodes are identified and the splenic hilum.  Theomentum appears unremarkable.  No nodules are seen.  
+Blocks:  1 to 3 - TS of proximal margin; 4 to 6 - full face of tail of pancreas adjacent to margin; 7 to 33 - entire lesion embedded (paired blocks:  7 to 9, 10 to 13, 14 to 17, 18 to 21, 22&23, 24&28 representative fullface, 29&30, 31&32); 34 - lymph nodes; 35&36 - spleen; 37&38- omentum.  (TO: XY:  AG/mm 18.9.64); 39 to 42 - remainder LS of proximal margin AE from inferior to superior.
+(TO: FR; OR/rt 19.9.64)
+MICROSCOPIC (reported by Dr L Quintanilla):
+SUMMARY PANCREATIC TUMOUR
+Histological tumour type: Ductal adenocarcinoma 
+Histological grade 
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands) 
+Microscopic tumour sites: Tail of pancreas 
+
+Extent of tumour invasion: Peripancreatic soft tissues 
+
+Maximum tumour diameter:  35mm
+
+Lymphovascular invasion: 
+ Splenic vein: present (5, 7, 10, 32, confirmed on orcein, panCK and CD31 staining)
+ Small vessel: present with thrombus formation (8)	
+
+Perineural invasion:  Present, extensive multifocal (17, 21, 24 -26)
+
+Preinvasive lesion: Present, the invasive tumour is arising from intraductal papillary mucinous neoplasm (IPMN) with variable low to high grade dysplasia(6,33). 
+
+Margins:
+Invasive lesion:
+ Proximal pancreatic: 40mm
+ Anterior: 1.8mm (26)
+ Posterior: 0.7mm (29)
+ Superior and inferior: > 10mm
+ Splenic vein: > 10mm (42)
+IPMN:
+ Proximal: > 10mm (40)
+Lymph nodes:
+  Number found:  13 (10 pancreatic and 3 splenic)
+  Number involved:  0 
+Response to neoadjuvent therapy
+Grade 2 (minimal response) - Residual cancer outgrown by fibrosis
+Other comments: The spleen is unremarkable.
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+Primary tumour ategory (pT) 
+T3 	Tumour extends beyond the pancreas 
+Regional lymph node category (pN) 
+N0 	No regional lymph node metastasis 
+Distant metastasis category (pM) 
+MX 	Not assessable by histology
+DIAGNOSIS:
+Distal pancreatectomy and splenectomy post chemotherapy:
+	35mm moderately differentiated adenocarcinoma with invasion into peripancreatic soft tissue and splenic vein, grade 2 treatment response (see text for margins)
+	Intraductal papillary mucinous neoplasm with variable low to high grade dysplasia, margins clear
+	13 lymph nodes with no evidence of malignancy
+
+

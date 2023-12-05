@@ -1,0 +1,37 @@
+SPR no: 27O550347K
+MRN no: 8474481
+Site_name: CRAIGIEBURN HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 2 endometrioid adenocarcinoma endometrium.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix,bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix and right adnexa, weighing 48g in total, received opened.  The uterus measures 47 x 45 x 40mm and has a smooth shiny serosa.  The ectocervix measures 24 x 19mm.  Most of the endometrial cavity appears filled by tumour, 26mm in maximum dimension.  The tumour appears to invade the full thickness of the myometrium and abuts the serosa.  There is a 4mm nodule in the posterior cervical canal.  The right fallopian tube is 21mm in length and 4mm diameter.  The right ovary is 23 x 12 x 8mm and appears unremarkable.  There is soft tissue, 36 x 16 x 9mm, in the left adnexal region however no definite left ovary or left fallopian tube is identified.  Blocks: 1 &amp;amp; 2 - full LS anterior body and cervix; 3 &amp;amp; 4 - full LS anterior body and cervix; 5 &amp;amp; 6 - full LS posterior body and cervix; 7 &amp;amp; 8 - right posterior cervix; 9 - posterior uterus with deepest invasion; 10 - left posterior cervix; 11 - right fimbria; 12 - right fallopian tube and right ovary; 13 - RS left para-adnexal tissue.
+
+B.  Specimen labelled &amp;quot;Right pelvic lymph nodes&amp;quot;, consists of a piece of adipose tissue, 59 x 39 x 15mm, containing multiple lymph nodes.  The largest node is 35mm.  Blocks: 1 - multiple lymph nodes; 2 to 4 - one lymph node per block; 5 &amp;amp; 6 - largest lymph node; 7 to 9 - remainder.  AE.
+
+C.  Specimen labelled &amp;quot;Left pelvic lymph nodes&amp;quot;, consists of two pieces of adipose tissue, 10 and 43mm.  Multiple lymph nodes are identified.  Blocks: 1 - multiple lymph nodes; 2 &amp;amp; 3 - one lymph node each block; 4 &amp;amp; 5 - one lymph node; 6 &amp;amp; 7 - remainder.  AE.
+
+D.  Specimen labelled &amp;quot;Left vaginal biopsy&amp;quot;, consists of a biopsy, 6mm.  AE 1 block.
+(TO:JR/ta 21/9/67)
+
+
+MICROSCOPIC (Reported by Dr H Urrabazo):
+A.  The sections show a grade 2 endometrioid adenocarcinoma of the endometrium.  Many of the tumour cells show marked cytologic atypia.  No significant solid architecture is seen.  The tumour invades 28.9mm through a myometrial wall thickness of 29mm.  No serosal involvement is identified.  Tumour invades both the anterior and posterior cervical stroma (both endocervical and ectocervical), with a greatest cervical depth of invasion of 5mm through a cervical wall thickness of 7mm.  A single focus of lymphovascular invasion is present in a vessel located 0.8mm from the ectocervical margin.  The right fallopian tube and right ovary show no significant abnormality.  The left fallopian tube and left ovary are not identified.
+
+Best tissue block for further studies:  A6.
+
+B.  The sections of the right pelvic lymph nodes show twelve negative lymph nodes (0/12).  There is no evidence of malignancy.
+
+C.  The sections of the left pelvic lymph node show eleven negative lymph nodes (0/11).  There is no evidence of malignancy.
+
+D.  The left vaginal biopsy shows polypoid stroma surfaced by normal squamous epithelium, suggestive of a fibroepithelial polyp.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+A to C.  Uterus with cervix, right fallopian tube and ovary, right and left pelvic lymph nodes:
+-  Grade 2 endometrioid adenocarcinoma of the endometrium.
+-  Tumour invades outer half of myometrium.
+-  Tumour invades cervical stroma.
+-  Right fallopian tube and ovary negative.
+-  Total of twenty-three negative lymph nodes (0/23).
+D.  Left vaginal biopsy:  No evidence of malignancy.

@@ -1,0 +1,78 @@
+Episode No:  73L264704Q
+7342647.ALQ
+
+EVERHEART, MYRON SAMAIRA 
+Lab No:  73L26470
+Parcot
+KALGOORLIE  Western Australia  2448
+Specimen: Tissue
+D.O.B:  2/7/2008
+Sex:  F
+Collected: Unknown at :
+Location:  INTENSIVECARE UNIT - MACLEAN DISTRICT HOSPITAL
+DR ANTON MCKINLEY SCOTT-SPANNBAUER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Past history WLE and DXR for (L) breast c/a.  Small recurrence palpable to 1 o'clock, invasive Ca on core biopsy.WLE (re-excision).  Specimen marked long lateral, short superior, medium medial.
+MACROSCOPIC:
+Specimen labelled "Left breast lesion marking sutures; long lateral, medium medial, short superior" consists of an orientated wide local excision measuring 70mm (medial to lateral) x 64mm (inferior to superior) x 24mm (superficial to deep).  The deep margin is inked black, the superficial/inferior margin is inked blue, superficial/superior margin is inked red.  The specimen is serially sectioned in the parasagittal plane into 12 slices from slice 1 medial to slice 12 lateral.  A firm cream poorly circumscribed lesion identified in slice 6 measuring 5mm (medial to lateral) x 6mm (inferior to superior) x 5mm (superficial to deep).  Distance from margins is as follows superficial 3mm, deep 5mm, superior, 20mm and inferior 30mm and well clear of both the medial and lateral margins.  
+Blocks:  1 to 3 - slice 6; 4 - representative slice 1; 5 and 6 - slice 3; 7 and 8 - slice 5; 9 and 10 - slice 7; 11 and 12 - slice 9; 13 and 14 - slice 11; 15- representative slice 12; Two markers on block 1, please refer to attached diagram. 
+(TO: YU;YM/vo .16.8.63)
+MICROSCOPIC (Reported by A/Prof D Namauu):
+Invasive carcinoma:
+Site: 1 o'clock left breast
+Type: Infiltrating carcinoma with some overlapping features between ductal and lobular carcinoma. The E-Cadherin stain is positive, consistent with infiltrating duct carcinoma.
+Invasive tumour size: 8mm
+Grade (Modified Bloom & Richardson): 2
+Tubules:   3   Nuclei:  2     Mitoses:  1    Mitotic rate:      3/10hpf.
+Lymphovascular invasion:  Present at edge of tumour (block 9)
+	    
+DCIS component:  
+DCIS:  Present in tumour and adjacent breast tissue. A 7mm focus is presentin sections taken away from the main tumour, towards medial end of specimen in slice 3.
+Maximum extent of DCIS: 7mm focus of high grade DCIS in slice 3; 4mm focus of intermediate grade DCIS in slice 5.
+Nuclear grade:  High andintermediate grade.
+Architecture: Comedo 
+Necrosis:   Comedo
+Calcification: Present
+Degree of DCIS in tumour: <25%  
+DCIS in adjacent tissue:  Present 
+Excision Margins:  
+Invasive component: The invasive carcinoma is clear of the excision margins. The closest margins are 3mm at superficial/superior, red inked surface and 4mm at black inked, deep margin.
+In-situ component: High gradeDCIS in slice 3 extends to within 0.2mm of the deep margin.  The focus in slice 5 is 5mm from the deep margin. The other margins appear well clear.
+Receptors (Block 1): 
+ER:  Strong positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Strong positive
+	80% of nuclei stained
+	predominant intensity of staining: Strong  
+HER2 (Novocastra 10A7):Negative (1+). SISH in progress. 
+Ki-67 index: Low, <5%.
+Nipple:  
+Not present
+LCIS / ALH:    
+Foci of ALH are present, including involvement of a fibroadenoma.
+Miscellaneous:
+The invasive carcinoma is situated within dense fibrous tissue, possiblyrepresenting scar tissue. The remaining breast tissue shows lobular atrophy and hyalinization, possibly relating to previous radiotherapy.
+Sentinel lymph node(s):
+No lymph nodes arepresent.
+DIAGNOSIS: 
+LEFT BREAST: 
+	8MM INVASIVE DUCTAL CARCINOMA, GRADE 2. ER/PR POSITIVE
+	DUCTAL CARCINOMA IN SITU (INCLUDING EXTREMELY CLOSE DEEP MARGIN)
+	LYMPHOVASCULAR INVASION PRESENT
+
+ADDITIONAL REPORT:  (3.9.63)
+Blocks were sent to ROYAL REHABILITATION HOSPITAL - COORABEL/MOORONG Hospital for Her2 ISH analysis, Dr D Triolo reports:
+HER2 IHC Result:   Negative (1+).
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) controlusing the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 2.6.
+Mean CEP17 copy number per cell:  1.5.
+HER2/CEP17 ratio:  1.7.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

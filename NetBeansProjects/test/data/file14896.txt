@@ -1,0 +1,91 @@
+DateOfBirth
+199603070000
+
+
+SiteName
+TAILEM BEND HOSPITAL
+
+
+FirstName
+Gaspar
+
+
+SPRID
+46V247143F
+
+
+MRN
+46824714
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+XANDER-MCCADDEN
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+CLINICAL:
+76 year old female previous colectomy for adenocarcinoma.  Now segment 7 metastasis.  CRC 2104.  Partial right liver resection.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Partial liver resection&amp;quot;, consists of a 145 x 130 x 75mm portion of liver weighing 573g.  The capsular surface shows fibrous adhesions with a 26 x 20mm indented tan region (possible muscle) centrally.  The surgical margin is inked black.  Transverse sectioning shows a single 65 x 52 x 39mm well circumscribed cream lesion underlying the capsular adhesions and tan region.  The cut surface has a largely necrotic appearance.  The tumour is 13mm from the nearest surgical margin.  The liver appears otherwise unremarkable.
+Blocks:  1 &amp;amp; 2 - tumour closest to surgical margin; 3 &amp;amp; 4 - tumour underlying tan region (? muscle); 5 - tumour adjacent to vessel; 6 - interface of tumour with adjacent liver; 7 - RS liver away from tumour.
+(TO: KM; KM/eh 4/7/2067)
+
+
+MICROSCOPIC (Reported by Dr M Livecchi):
+Sections show metastatic adenocarcinoma, consistent with colorectal origin. The lesion appears moderately differentiated, and is composed of complex glands lined by stratified columnar tumour cells with pleomorphic nuclei. Necrosis is present in approximately 70% of the lesion. No surface involvement is seen. No invasion into the attached diaphragmatic skeletal muscle is present.
+
+The lesion is 2mm from the diaphragmatic margin (block 3), and is 11mm from the liver parenchymal margin.
+
+Sections of the uninvolved liver shows severe macrovesicular steatosis (approximately 70% involvement). Up to 4 foci of lobular inflammation are present per x 20 field. Scattered hepatocytes with ballooning degeneration are seen. There is focal early portal-central and central-central bridging present. Pericellular fibrosis is seen adjacent to central veins. A mild to moderate portal inflammatory infiltrate, composed of lymphocytes, neutrophils and occasional eosinophils, associated with mild focal interface activity is seen. No additional features are identified on Perls, orcein and rhodanine stains.
+
+Brunt system Grade*: 2
+Steatosis: 3 (&amp;gt; 66%)
+Ballooning: present
+Lobular inflammation: 2 (up to 4 foci per x 20 field)
+Portal inflammation: 1/2 (mild to moderate)
+
+Brunt system Stage*: 3 (early focal bridging fibrosis)
+
+* Brunt et al. Nonalcoholic steatohepatitis: a proposal for a grading and staging the histological lesions. Am J Gastroenterol, 1999; 94:2467-2474.
+
+
+COMMENT
+The features are suggestive of steatohepatitis (non-alcoholic or alcoholic) with focal early bridging fibrosis. Correlation with clinical findings is recommended.
+
+
+DIAGNOSIS
+Partial liver resection:
+- 65mm metastatic adenocarcinoma, consistent with colorectal origin, margins clear
+- Features suggestive of steatohepatitis (see comment)
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2050-01-04 00:00:00
+
+
+LastName
+Shiring

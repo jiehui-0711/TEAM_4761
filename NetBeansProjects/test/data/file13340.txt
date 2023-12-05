@@ -1,0 +1,68 @@
+SPR no: 00E651716P
+MRN no: 0016517
+Site_name: BOGGABRI MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right hemicolectomy, caecal tumour, iron deficiency anaemia.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;, consists of a specimen of distal terminal ileum (45mm long), caecum and ascending colon (150mm long), peri-ileal and peri-colonic fatty tissue (variable in size and up to 60mm across).  The vermiform appendix is not identified.  Within the distal limits of caecum and extending into the ascending colon there is a solid tumour 55 x 42mm in surface dimensions.  The tumour is centered on the left lateral wall.  The caecum is peritonealised.  The tumour is 60mm from proximal and 95mm from distal margins.  The tumour has a maximum thickness of 10mm.  The tumour appears to be penetrating the muscularis propria.  The serosa does not appear to be involved.  There is an apparent stump of a ?appendicectomy 8mm long.
+Blocks: 1 - shave proximal margin; 2 - shave distal margin; 3 - TS tumour and serosa; 4 &amp;amp; 5 - paired sections TS of tumour (block 4 - reserve block; 5 - MSI stains); 6 to 9 - TS tumour; 10 - section of ?appendiceal stump; 11 - apical lymph node bisected; 12 - lymph nodes as seen; 13 - one bisected lymph node; 14 - lymph nodes as seen; 15 - one bisected lymph node; 16 - one bisected lymph node.  (TO: HM; HM/ta 27/9/66)
+
+
+MICROSCOPIC: (Reported by Dr A Pitcairn)
+Sections of the colonic tumour show a moderately differentiated adenocarcinoma. A synoptic report for colon carcinoma follows:
+
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Caecum/ascending colon.
+Maximum tumour diameter: 55mm.
+Distance of tumour to nearer cut end: 60mm (proximal margin).
+Tumour perforation: No.
+Microscopic Description
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+
+Lymph nodes
+Number of lymph nodes present: Thirteen.
+Number of lymph nodes involved: None (0/13).
+
+pN0	No regional LN metastasis
+
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Nil significant.
+
+Residual tumour status
+R0	No residual tumour
+
+Response to neoadjuvant therapy
+Not applicable.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary &amp;#8211; TNM 7th Edition  pT3N0MxR0
+
+
+DIAGNOSIS:
+Right hemicolectomy:
+- 55mm moderately differentiated colonic adenocarcinoma, clear of margins.
+- Low risk of microsatellite instability.

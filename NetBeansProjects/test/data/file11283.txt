@@ -1,0 +1,20 @@
+SPR no: 37Z080558Q
+MRN no: 37908055
+Site_name: FRANKSTON PUBLIC SURGICAL CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Excision VIN lesion.  Wide local excision VIN lesion left anterior vulva.  Stitch mark at 12 o&amp;apos;clock.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left anterior vulva stitch at 12 o&amp;apos;clock&amp;quot;, consists of a piece of skin and underlying tissue measuring 50 x 23 x 6mm with a suture at one end demarcating 12 o&amp;apos;clock.  On the surface of the skin is a diffuse, grey raised lesion measuring 20 x 13 x 4mm.  The lesion is macroscopically 5mm from the 3 o&amp;apos;clock margin, 2mm from the 9 o&amp;apos;clock margin, 15mm from the 12 o&amp;apos;clock margin and 15mm from the 6 o&amp;apos;clock margin.  The 3 o&amp;apos;clock margin is inked blue, 9 o&amp;apos;clock margin inked black. Please refer to attached block key diagram.
+Blocks: 1 to 6 - LS 12 o&amp;apos;clock tip; 7 to 15 - TS specimen; 16 to 23 - LS 6 o&amp;apos;clock tip. AE.
+(MS/vo 8.6.66)
+
+
+MICROSCOPIC (Reported by Dr I Eisermann):
+Sections of vulval skin show severe dysplasia involving the full thickness of squamous epithelium.  The appearances are consistent with those of VIN 3.  The lesion is completely excised.  The lesion is 2.2mm to the 9 o&amp;apos;clock lateral margin and is well clear of the deep margin.  There is no evidence of invasive malignancy in the sections examined.
+
+DIAGNOSIS:
+Left anterior vulva - VIN 3, completely excised.

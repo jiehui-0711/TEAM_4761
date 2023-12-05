@@ -1,0 +1,71 @@
+Episode No:  10G805888D
+1028058.WVD
+
+MCCRIMMON, KING 
+Lab No:  10G80588
+Tea Rose
+RENMARK  Queensland  3666
+Specimen: Tissue
+D.O.B:  19/2/2001
+Sex:  M
+Collected: Unknown at :
+Location:  ST GEORGE PRIVATE-LOCKHART & DISTRICT HOSPITAL
+DR KENTON ABE LIPSITZ
+Distribution:   FILE-COPY
+CLINICAL:
+Caecal cancer.  Laparoscopic right hemicolectomy.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a segment of bowel received fresh and unopened containing ileum, caecum and large bowel which measures 200mm in length.  There is an attached appendix which measures 55 x 6mm and has an unremarkable appearance.  The caecum contains a large polypoid tumour which measures 55 x 60 x 25mm which is located 85mm from the distal margin and 55mm from the proximal margin.  The remainingmucosa is unremarkable.  No further polyps seen.  There is attached fat which measures 175 x 55mm.  Distal margin inked black, proximal margin inked blue.  On sectioning the tumour appears to abut the serosal surface and is 32mm in maximum thickness.  
+Blocks:  1 - sections of distal margin; 2- section of proximal margin; 3 & 4 - composite blocks represent tumour at level of deepest invasion including opening of appendiceal orifice; 5 & 6 - composite blocks and further section of tumour at level of deepest invasion; 7 -reserved block; 8 - bowel mucosa proximal to tumour; 9 - tumour with distal mucosa; 10 - serosal surface deep to tumour; 11- apical lymph node; 12 & 13- lymph nodes; 14 - one lymph node bisected; 15-17 - lymph nodes; 18 - LS of the distal tip of appendix; 19 - TS mid appendix.
+(TO: IB: XX/mm 5.6.63) 
+MICROSCOPIC:  (Reported by Dr E Robirds) 
+Sections show a moderately differentiated adenocarcinoma of the caecum.  A synoptic report follows.
+
+Macroscopic Description
+
+Site of tumour:  Caecum	
+Maximum tumour diameter:60mm
+Distance of tumour to nearer cut end:     55mm
+Tumour perforation:     No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Adenocarcinoma extends just beyond muscularis propria.
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Lymph nodes
+Number of lymph nodes present:  12	
+Number of lymph nodes involved:  1	
+pN1a	Metastases in 1 regional LN 
+Lymphovascular invasion
+No definite lymphovascular invasion is identified.
+Perineural invasion
+Not seen
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The appendix is identified and shows no significant abnormality.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated withmicrosatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN1a     pMX     R0	
+
+
+DIAGNOSIS:
+Right hemicolectomy:  Moderately differentiated adenocarcinoma of the caecum,  pT3 N1a MX
+
+
+

@@ -1,0 +1,42 @@
+SPR no: 40T507574V
+MRN no: 4941932
+Site_name: MORANBAH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report40T50757 (40T507574V) Tyksinski, Walker RYAN
+HISTOPATHOLOGY REPORT
+LATROBE REGIONAL HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:  Peritonectomy for metastatic CRC.   Omentum, gallbladder, rectum vaginal vault.
+Previous:
+SOUTH EAST REGIONAL HOSPITAL SP 08-14835 23/11/2056 Colon resection
+Southern IML Pathology 40T50757 18/5/2065 L ovary
+
+MACROSCOPIC:
+&amp;quot;.  A peritonectomy specimen with the follow components.
+- Gallbladder 50mm in length 35mm in diameter with cystic duct opening 5mm in diameter.   The serosa is smooth, shiny. The mucosa is green and velvety. The wall is up to 3mm thick. The gallbladder contains dark green bile.
+- Colorectum 65 mm in length 30mm in diameter with mesorectal fat 70x60x35mm.  Attached to the anterior rectum is a piece of vaginal wall with mucosa 25x20mm which is located below the peritoneal reflection and lies 19mm from the distal colon resection margin. The soft tissue margins are inked blue and the rectum opened which shows no discrete lesion within the rectal mucosa.  On sectioning there is a pale tumoue deposit located between the vaginal wall mucosa and the rectum wall. The metastatic deposit measures 25x20x15mm and abuts radial soft tissue margin and is 4mm to  inferior soft tissue margin and at least 5mm away from the superior soft tissue margin.  (1 gallbladder cystic duct body and fundus; 2-10 rectum with attached vagina [2 proximal margin, 3 distal margin, 4-6 composite block [4 vaginal vault, 5&amp;amp;6 attached rectum; 7 inferior soft tissue margin inclusive of piece of vagina; 8 superior soft tissue margin of tumour; 9 vascular pedicle with one apical node; 10 two possible lymph nodes in perirectal fat)
+- Multiple pieces of peritoneal tissue ranging from 10mm to 50mm. The largest piece contains metastatic deposit 15mm in size. The metastatic deposit appears to extends to a radial soft tissue margin. (11 metastatic deposit; 12&amp;amp;13 random samples of the peritoneal tissue)
+- A piece of omentum 280x40x15mm. The omentum appears oedematous and haemorrhagic  in places.  No discrete lesion identified. (14&amp;amp;15 thickened omentum; 16&amp;amp;17 tumour bank block [16 tumour next to vaginal wall, 17 tumour in peritoneal tissue]).  RS (M-17/JC ank)
+
+MICROSCOPIC:  K Dinovi
+- The tumour deposit between rectum and vaginal wall is metastatic moderately differentiated adenocarcinoma consistent with colorectal origin. This deposit of carcinoma focally involves the peritoneal surface and there is subjacent invasion into mesorectal fat, muscularis propria of colon, and invasion into vaginal wall to extend focally to the vaginal mucosal surface. Carcinoma extends to adjacent mesorectal soft tissue radial margins in several areas.
+- Separate pieces of peritoneal tissue show a peritoneal deposit of metastatic carcinoma deposit.
+- The sections taken of omentum show no definite tumour.
+- Sampled lymph nodes are negative for tumour (0/7).
+- The end margins of colon and the mucosal margins of vagina appear clear of tumour.
+- The gallbladder shows mild cholesterolosis.
+- Immunostains for Mismatch Repair Proteins (MMRP), block 5:
+MLH1, PMS2, MSH2, MSH6:   Intact&amp;#160;nuclear expression.
+
+Interpretation of MMRP Immunostains:
+- No loss of nuclear expression of MMR proteins.
+- Low probability of microsatellite instability-high (MSI-H).
+- Lynch syndrome very unlikely.
+- Note:  There are exceptions to the above Immunostain interpretations. These results should not be considered in isolation, and clinical correlation is recommended.
+
+DIAGNOSIS:
+GALLBLADDER, RECTUM, OMENTUM, VAGINAL WALL:
+- Peritoneal deposits of metastatic moderately adenocarcinoma consistent with colorectal origin with subjacent invasion into rectum and attached vaginal wall in main specimen.
+- positive soft tissue margins main recto-vaginal specimen.
+cy

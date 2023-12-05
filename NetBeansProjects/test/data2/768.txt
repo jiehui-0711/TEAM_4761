@@ -1,0 +1,89 @@
+Episode No:  06K711664I
+0637116.RMI
+
+BEEVERS, Catina 
+Lab No:  06K71166
+Currong
+NEWCASTLE  Queensland  7262
+Specimen: Tissue
+D.O.B:  2/5/1992
+Sex:  F
+Collected: 20/02/2014 at 16:42
+Location:  BILLINGTON CENTRE - MONASH MEDICAL CENTRE - MOORABBIN CAMPUS
+DR Woodrow LOREN WOODROW-Buffalo
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+	CORRECTION OF TYPOGRAPHICAL ERROR 5.5.64 (Dr ARandy)
+
+The following report replaces the originally issued report in which there was a typographical error in the diagnostic summary.  The original report stated that the carcinoma was grade 2.  This should have been grade 3 as described in the body of the report.
+
+CLINICAL:
+Wide local excision of left breast lesion and sentinel lymph node biopsy.  1. breast lesion with orientation sutures: long lateral medium medial short superior.  2. Sentinel lymph node.  Remaining breast tissue.
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary lymph node", consists of a piece of fatty tissue 40 x 30 x 10mm.  Slicing reveals one lymph node 18 x 17 x 7mm.
+Blocks: 1 and 2 - one lymph node.
+B.  Specimen labelled "Left breast lesion short superior long lateral medium medial", consists of a piece of breast tissue with three marking stitches and a guide wire in situ the specimen measures 95 (lateral to medial) x90 (superior to inferior) x 45 (superficial to deep)mm.  The margins are inked in three colours: superficial blue, deep black and superior red.  Specimen is serially sectioned into eleven slices from lateral to medial.  (TO: LA;RZ/vo 23.4.64)  Within slice four there is a circumscribed pale solid tumour measuring 11 x 12 x 9mm.  The tumour is 30mm from lateral, 52mm from medial, 40mm from superior, 39mm from inferior, 21mm from superficial, 15mm from deep margin.
+Blocks:  1 to 4 - slice one (lateral margin); 5 to 10 - all of slice three; 11 to 19 - all of slice four, ER, PR, Her-2, Ki 67 requested on block 15 and reserved block is block 16 (block 16 is trimmed from  block 15);20 to 27 - all of slice five; 28 & 29 - paired sections mid slice six; 30 to 36 - all of slice eight; 37 to 42 - slice ten; 43 to 48 - slice eleven (medial margin).  Please see the diagram.
+C.  Specimen labelled "Remaining left breast tissue", consists of eight unorientated pieces of fatty breast tissue ranging from 10 to 85mm in maximum dimension and 155 x 120 x 30mm in aggregate.  Also, there is a piece of unorientated and a ragged skin without attached fatty tissue measuring 60 x 50 x 2mm.  Ofthe pieces of fatty tissue three pieces are covered by skin ranging from 50 to 80mm in maximum dimension.  No lesions are identified on the skin.  All the pieces are inked blue at the external surfaces.  The nipple is not present.  Slicing reveals yellow glistening cut surfaces.  No distinct nodules are identified.
+Blocks:1 to 7 - representative sections; 8 - representative section of the piece of skin without accompanying fat.  (TO: AE; WC/rt 23.4.64)
+MICROSCOPIC (Reported by Dr A Strader):
+A.  One (1) lymph node shows no evidence of malignancy (0/1).The CAM5.2 keratin immunostain is negative.
+B &C
+Sections show an infiltrating ductal carcinoma, NST with the following features
+SYNOPTIC REPORT FOR BREAST CARCINOMA.
+Invasive carcinoma:
+Site: Left breast.
+Type: Infiltrative ductal, NST.  
+Thecarcinoma has a partly demarcated and partly infiltrative profile and has a heterogenous appearance.  The dominant pattern is of infiltrative nests and cords of cells with grade 3 nuclei and minimal tubule formation.  A minor component shows cells arranged in a tubular pattern and with grade 2 nuclei.  The stroma is desmoplastic and there is a patchy mild peritumoural chronic inflammatory cell infiltrate.  No central necrosis is seen.  The carcinoma is CK5/6 immunonegative.
+Invasive tumour size: 13mm
+Grade (Modified Bloom & Richardson): 3
+Tubules: 2   Nuclei: 3   Mitoses:  3Mitotic rate: 27/10hpf.
+Lymphovascular invasion:  Not seen
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS: 0.6mm
+Nucleargrade:  Intermediate
+Architecture: Cribriform
+Necrosis: Absent
+Calcification: Absent
+Degree of DCIS in tumour:  Nil
+DCIS in adjacent tissue: Minimal (at advancing edge of invasive tumour)
+Invasive component: All margins well clear >10mm
+In-situ component: All margins well clear >10mm
+Receptors (Block B15): 
+ER:   Essentially negative 
+The dominant component is negative with only scant (<1% of nuclei) showing weak nuclear staining.   The better differentiated foci, with tubular architecture, show weak staining of approximately 5% of nuclei.  
+	% of nuclei stained:  Overall <1%
+	predominant intensity of staining:  Weak
+Shown to A/Prof A Yearick who concurs.
+PR:  Negative
+	% of nuclei stained: 0
+	predominant intensity of staining: Nil staining 
+HER2 (Novocastra 10A7): 1+ (negative)
+HER2 SISH:  Performed at Yahoo, VICTORIAN HEART HOSPITAL Hospital, see separate report.
+Ki-67 index: Heterogenous but up to 30%.
+Nipple:  N/A
+LCIS/ALH:   There is focal atypical lobular hyperplasia (ALH).  This focus shows mosaic type CK5/6 immunoexpression and lacks E Cadherin expression.
+Miscellaneous: The breast also shows foci of sclerosing adenosis, fibro adenomatoid change, scattered benign glandular microcalcifications and apocrine metaplasia.  The remaining left breasttissue (specimen C) shows unremarkable skin and breast tissue with a few unremarkable benign ductolobular units.  
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1
+Number of sentinel lymph nodes NOT involved by tumour:  1 
+Number of sentinel lymph nodes involved by tumour: 0        
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0   
+	
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 1  
+Total number of involved lymph nodes (including sentinel node(s)): 0
+
+DIAGNOSIS: 
+A & B.   Left axillary sentinel lymph node and left breast (wide local excision):
+- 13mm grade 3infiltrating ductal carcinoma NST,  ER essentially negative (see text) , PR negative, HER2 SISH to follow, no lymphovascular invasion seen, margins clear; 0.6mm intermediate grade DCIS, margins clear; incidental ALH; one (1) negative sentinel lymph node.  
+C.  Remaining breast tissue:
+-  No significant abnormality.
+   
+  
+ 
+
+

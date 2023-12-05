@@ -1,0 +1,116 @@
+SPR no: 79J9286189
+MRN no: 793928
+Site_name: BALAKLAVA HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report79J92861,79J92861 (79J9286189) MCWHIRT, PATRICE
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GI endometrioid adenoCa.
+Peritoneal washings.
+Uterus tubes + ovaries.
+Left pelvic nodes,.
+Right pelvic nodes.
+Omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS + CERVIX + BILATERAL TUBES AND OVARIES&amp;quot;. A total hysterectomy specimen of a total weight of 106g. It is received opened coronally prior to receipt. The uterus measures 85x60x45mm. The attached cervix measures 35x30x25mm. Attached is a right fallopian tube, measuring 50x10mm; right ovary, measuring 25x16x10mm; a left fallopian tube, 55x8mm and left ovary, 20x13x10mm. The outer surface of the uterus has multiple (up to 5 subserosal fibroids), measuring 3-10mm, all having a white whorled cut surface. The anterior cervix is inked blue, posterior is inked black. Two separate tumour foci are identified and ill-demarcated polypoid lesion in the uterine fundus occupying the anterior and posterior endometrial cavity, measuring 30x20mm, and appears to invade the myometrium (5mm out of 17mm tumour thickness surface, maximum myometrial thickness). It is confined to the uterine body with no extension to the cord or the serosal surfaces. This lesion appears to be 60mm of the cervical resection margin. Another tumour focus is identified in the anterior endocervical canal, measuring 20x15mm, and is 9mm out of 16mm thick. It is located 10mm of the cervical resection margin and 8mm of the anterior cervical margin. It is located 33mm of the first tumour focus, with unremarkable in between endometrium up to 3mm thick. The cut surface of the tubes reveals a cyst towards the fimbrial end bilaterally, measuring 5mm in the right and 3mm in the left fallopian tubes. The remainder cut surface of the ovaries and tubes are unremarkable.
+
+(1 right tube; 2 right ovary ; 3 right parametrial tissue; 4 left tube; 5 left ovary; 6 left parametrium; 7-8 continuous piece, LS of the anterior uterus with tumour No. 2 in the endocervical canal in 7; 10-12 continuous piece, anterior uterus; 13&amp;amp;14 each one LS, anterior body with tumour one, maximum invasion into myometrium; 15-17 continuous piece, LS of posterior uterus from cervix to fundus; 18&amp;amp;19 each one LS tumour No. 1 in body). RS (M-19)
+
+B. &amp;quot;RIGHT PELVIC NODE&amp;quot;. Two fibrofatty pieces of tissue, measuring 20x13x5mm in aggregate. One lymph node is identified, measuring 13mm in maximum diameter with tan and white cut surface. AE (4-1)
+
+C. &amp;quot;LEFT PELVIC NODE&amp;quot;. Multiple fibrofatty pieces of tissue, 25x20x7mm. Three possible lymph nodes are identified, measuring 5-8mm. RS (3-1)
+
+D. &amp;quot;OMENTAL BIOPSY&amp;quot;. A fibrofatty piece of tissue, measuring 35x20x10mm. The outer surface is smooth and shiny. The cut surface is fibrofatty and is unremarkable. AE (M-2/ ZH/cy)
+
+MICROSCOPIC:   (Dr S Cabana)
+
+A, B, C, D.
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid carcinoma
+
+FIGO grade:  I
+
+(architecture grade: I , nuclear grade: 2 )
+
+Myometrial invasion: Invasion into outer half of myometrium
+
+Depth of myometrial invasion:  8 mm (block A14)
+
+Myometrial thickness:  15 mm
+
+% of myometrium invaded:  53 %
+
+Focality: Unifocal
+
+Tumour involves: Anterior and posterior fundus and body
+
+Vascular/lymphatic invasion:  Not identified
+
+Involvement of cervix:  Invasion of cervical stromal connective tissue with 7mm of invasion , cervix 14mm thick (blocks A7,A10)
+
+Involvement of uterine serosa:  No
+Excision margins: Tumor is clear of margin of all margins with 7mm to the cervical soft tissue resection margin.
+
+Non-tumour uterus:
+Adjacent endometrium: atrophic
+Polyps: Not identified
+Adenomyosis:  widespreas foci of adenomyosis are seen with focal involvement by carcinoma.
+Myometrium: benign leiomyomata
+
+Adnexae:
+Left fallopian tube: not involved
+Right fallopian tube:not involved
+Left ovary: not involved
+Right ovary: not involved
+
+Lymph nodes (specimens B and C )
+Nodes involved: 0
+Total number:  4
+
+Other tissues: Omental Biopsy is unremarkable ( specimen D)
+
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2009):
+
+TNM stage:  pT2 pN0 (Tumor invades stromal connective tissue of the cervix but does not extend beyond uterus)
+
+FIGO stage:   II&amp;#160;&amp;#160;&amp;#160;(Cervical stromal invasion, but not beyond uterus )
+
+Comments:
+IHC for MMR proteins will follow.
+
+DIAGNOSIS:
+A. UTERUS + CERVIX + BILATERAL TUBES &amp;amp; OVARIES -
+- GRADE 1 ENDOMETRIOID ADENOCARCINOMA, FIGO STAGE II
+
+B. RIGHT PELVIC LYMPH NODES - NO MALIGNANCY IN 1 NODE.
+
+C. LEFT PELVIC LYMPH NODES - NO MALIGNANCY IN 3 NODES.
+
+D. OMENTUM - NO EVIDENCE OF MALIGNANCY.
+
+23.8.66
+
+SUPPLEMENTARY REPORT:
+
+Immunostains for MSI proteins (Walt Disney 3 ARRIETTA CLOSE; block:A14)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+9.3.66

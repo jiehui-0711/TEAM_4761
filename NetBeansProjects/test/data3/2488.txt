@@ -1,0 +1,50 @@
+Episode No:  20Z226730R
+2092267.KBR
+
+Canedy, HOYT 
+Lab No:  20Z22673,20Z22673
+Wabasha
+WAIKERIE  Northern Territory  5582
+Specimen: Washings,Tissue
+D.O.B:  21/2/1995
+Sex:  F
+Collected: 27/4/2065 at :
+Location:  POSTOPERATIVE RECOVERY - MILLICENT AND DISTRICT HOSPITAL AND HEALTH SERVICES
+DR VAL Cyril Cobham
+Distribution:  DR BARTON,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (14.5.65):
+
+CLINICAL:
+Raised CA125, rib metastasis.  Pelvic mass, elevated CA125. 
+MACROSCOPIC:
+A.  Specimen labelled "Right tube, ovary and appendix", consists of two masses attached by a thin segment of fibrous tissue.  Both masses are relatively smooth, with a tan, solid cut surface.  They measure 95 x 75 x 50mm (mass 1) and 70 x 60 x 30mm (mass 2).  There appears to be an appendix fused to mass 2, with only the non-fused proximal end (21mm length; 8mm diameter) easily measurable.  There are areas within mass 2 which have apale yellow appearance. There is a small fragment of tissue (10 x 11mm) attached to mass 2 which may represent part of the fimbrial end of a fallopian tube (a fallopian tube not otherwise macroscopically identifiable).
+Blocks;1 - FS mass 1; 2 - FS mass 2; 3 - LS proximal tip of appendix (proximal margin inked blue); 4 - LS proximal portion of appendix; 5-9 - TS appendix with adjacent mass 2; 10 - 14 - representative mass 2; 15 - ?fimbrial end fallopian tube adjacent to mass 2; 16 - connectingtissue ass 1 and mass 2; 17 - 21 - representative mass 1.
+FROZEN SECTION:
+Poorly differentiated carcinoma with some signet morphology ?primary, ?metastatic.   Result to Dr Preston by Dr H Gallet at 10:26am on 27.04.65. 
+B.  Specimen labelled "Uterus, left tube and ovary and cervix", consists of a uterus with attached cervix measuring 110 x 60 x 33mm.  The ectocervix measures 48 x 40mm.  The specimen weighs 141g.  The left fallopian tube (55mm length; 7mm diameter) and left ovary (27 x 14 x 9mm) are attached. There is a metal clip attached to the adnexal tissue adjacent to the left fallopian tube.  The right fallopian tube and ovary are not included; there is a segment of firm, tan and patchy yellow tumour (40 x 30 x 30mm) extending from the right uterine cornu. Theposterior serosal surface of the uterus and cervix are inked blue.  There is a cystic structure (22mm maximum dimension) adjacent to the tumour filled with a mucinous yellow material.
+Blocks 1 - 5 - LS posterior uterus and cervix; 6 - 9 - LS anterior uterus and cervix; 10 - cystic structure adjacent to tumour;11 - 16 - representative tumour; 17 - LS fimbrial end left fallopian tube; 18 & 19 - TS left fallopian tube; 20 & 21 - left ovary; 22 - anterior uterus; 23 to 29 - posterior uterus.  
+C.  Specimen labelled "Omentum", consists of omental tissue measuring 80 x 70 x 26mm.  RS 3 blocks.  
+D.  Specimen labelled "Rectal adhesion", consists of twofragments of fibroadipose tissue measuring 16 and 22mm in maximum dimension.  Block 1 - larger fragment; 2 - smaller fragment.  AE.  (KX/ec 28.4.65) 
+MICROSCOPIC (reported by Dr H Marier):
+A.  Sections show a high grade carcinoma of the right ovary.  The tumour has varied morphology with the great majority (90%) of the tumour being undifferentiated consisting of sheets of highly pleomorphic cells with occasional bizarre, pleomorphic nuclei.  Focal rhabdoid differentiation is seen and extensive stromal mucin is present.  The other smaller components consist of eosinophilic clear cell carcinoma with hobnail cells arranged in solid and papillary arrangements, together with areas of endometrioid adenocarcinoma.  Focal areas with signet ring morphology are also seen.
+The tumour cells show positive staining with panCK, CK7, Ca125 and focallywith HBME-1.  The CK20, CDX2, calretinin and D-240 stains are negative.  This immunohistochemical profile is consistent with an ovarian primary.
+There is extensive involvement of the serosa of the appendix with extension into the submucosa.  The mucosa of the appendix appears normal.  Lymphovascular invasion is seen within the appendiceal wall.  The right fallopian tube is not identified.
+B.  Sections of the uterus showa synchronous grade 2 endometrioid adenocarcinoma of the endometrium.  The carcinoma is situated within a deep focus of adenomyosis at a depth of 11mm through a wall thickness of 15mm however, as the tumour is situated within adenomyosis,this may not accurately reflect prognosis.  No lymphovascular invasion is seen.
+Deposits of high grade carcinoma similar to that seen within specimen A are seen on the uterine serosa and within right adnexal soft tissue.
+A ruptured hydrosalpinx is present on the right side.  The endometrium is proliferative and numerous foci of adenomyosis are present within the myometrium.  The ectocervix and endocervix show no significant abnormality.  The left ovary and left fallopian tube also show no significant abnormality.
+C.Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+D.  Sections show fibroadipose tissue with surface fibrin consistent with an adhesion.  There is no evidence of malignancy.
+DIAGNOSIS:
+A - D.  Right and left ovaries and tubes, uterus and cervix, appendix, omentum and rectal adhesion.
+- High grade carcinoma of the right ovary, predominantly of undifferentiated type
+- Synchronous Grade 2 endometrioid adenocarcinoma of the endometrium situated within adenomyosis.
+- Invasion of high grade carcinoma into the submucosa of appendix.
+- Omentum negative.
+SUPPLEMENTARY REPORT (14.5.65, Dr H Bomba):
+2.  Immunostains have been performed on the endometrial tumour as requested.
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).
+

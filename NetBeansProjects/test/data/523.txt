@@ -1,0 +1,94 @@
+
+Episode No:  53H681126H
+532681.EHS
+
+CARDIN, YARA-BELLE 
+Lab No:  53H68112
+Pymont
+AUSTRALIND  New South Wales  5418
+Specimen: Tissue
+D.O.B:  1/1/1994
+Sex:  F
+Collected: 16/08/2013 at 08:38
+Location:  3HR STAY SURGICAL UNIT-NARRABRI DISTRICT HOSPITAL
+DR DARNELL CARROLL STARKS
+Distribution:   FILE-COPY
+CLINICAL:
+Right mastectomy and sentinel node.  Hypertension.  COPD.  Aortic stenosis.   Right mastectomy and sentinel nodes x2.  2x IDC 9 and 12 o'clock.  Sutures - long = lateral, short = superior, medium = medial. 
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node 1", consists of a lymph node encased in fibrofatty tissue measuring 10 x 5 x 4mm.  BAE 1 block. 
+B.  Specimen labelled "Sentinel node 2", consistsof a lymph node encased in fibrofatty tissue measuring 10 x 5 x 5mm. BAE 1 block.
+C.  Specimen labelled "Right breast", consists of a mastectomy measuring 22mm medial to lateral, 140mm superior to inferior and 50mm superficial to deep, weighing 635g. There are three sutures as indicated. There is an ellipse of skin on the anterior specimen measuring 205 x 118mm including a nipple areolar complex measuring 22 x 25mm.  The superficial surface is inked blue and the deep inked black.  There are two tumours identified within the mastectomy, approximately 75mm apart.  
+Tumour 1 (12 o'clock) measures 15 x 10 x 10mm, and is located 40mm from the nipple.  The tumour appears to have a small satellitenodule measuring 6 x 5 x 5mm, 15mm inferior to the main tumour connected by fibrous tissue.  The tumour margins are as follows: 15mm deep, 18mm superficial, 7mm superior, 65mm inferior, 85mm medial and 90mm lateral.  
+Tumour 2 (9 o'clock) measures 8 x 8 x 10mm and is located 62mm from the nipple.  The tumour margins are as follows: 30mm superior, 35mm inferior, 10mm deep, 25mm superficial, 55mm lateral and 100mm medial.  
+Block 1- nipple areolar complex; 2-6 - tumour 1 (block 2 - tumour 1; 3-6 -composite blocks tumour 1 and closest superficial and deep margins); 7-9 - tumour 2 (7 - tumour 2; 8 & 9 - paired blocks tumour and closest superficial and deep margin); 10 & 11 - inner lower quadrant; 12 & 1 3- lower outer quadrant; 14 & 15 - upper outer quadrant; 16 & 17 - upper inner quadrant.  Please see diagram. 
+(TO: AJ;GA/ec  18.10.63) 
+ 
+MICROSCOPIC (Reported by Dr O Nitterhouse):
+A. Sections of sentinel node 1 show no evidence of metastatic carcinoma.
+B. Sections of sentinel node 2 show no evidence of metastatic carcinoma.
+C. Sections of the right breast show two separate tumours, approximately 75mm apart. Tumour 1 (12 o'clock, 40mm from nipple) is a grade 1 infiltrating ductal carcinoma. Tumour 2 (9 o'clock, 62 mm from nipple) is also a grade 1 infiltrating ductal carcinoma. A synoptic report follows.
+Invasive carcinoma (Tumour 1):
+Site: Right breast 12 o'clock, 40mm from nipple
+Type:  Infiltrating ductal carcinoma, NOS
+Invasive tumour size: 15 x 10 x 10mm
+Grade (Modified Bloom & Richardson): 1
+Tubules: 1      Nuclei: 1      Mitoses: 1      Mitotic rate:      1/10hpf.
+Lymphovascular invasion:  Not identified
+	    
+DCIS component:  :  Not identified
+Excision Margins:  
+Invasive component: 
+Superior margin 7mm clear (Block C2)
+All other margins are well clear (>10mm)
+Receptors (Block C2): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining: Strong
+PR:  Positive
+	80% of nuclei stained
+	predominant intensity ofstaining: Strong 
+HER2 (Novocastra 10A7): 0
+HER2 SISH:  Performed at Sonic Automotive Central, FAR NORTH HEALTH SERVICES Hospital, see separate report.
+e-cadherin: Positive
+Ki-67 index: up to 10% focally
+Invasive carcinoma (Tumour 2):
+Site:  Right breast 9 o'clock, 62mm from nipple
+Type:  Infiltrating ductal carcinoma, NOS
+Invasive tumour size:  10 x 8 x 8mm
+Grade (Modified Bloom & Richardson): 1
+Tubules: 3     Nuclei: 1     Mitoses:  1   Mitotic rate:      1/10hpf.
+Lymphovascular invasion:  Not identified
+	    
+DCIS component:  
+DCIS:  Present within tumour
+Maximum extent of DCIS: <5% of tumour 2
+Excision Margins:  
+Invasive component:
+Deep margin 7mm clear (Block C9)
+All other margins are well clear (>10mm)
+In-situ component: Margins are well clear (>10mm)
+Receptors (Block C7): 
+ER:  Positive
+	90% of nuclei stained
+	predominant intensity of staining: Moderate to strong
+PR:  Positive
+	100% of nuclei stained
+	predominant intensity of staining: Strong 
+HER2 (Novocastra 10A7): 0
+HER2 SISH:  Performed at Phelps Dodge Central, PORTLAND DISTRICT HEALTH Hospital, see separate report.
+e-cadherin: Positive
+Ki-67 index: up to 5% focally
+Nipple:  No evidence of malignancy.
+LCIS / ALH:  Present
+Miscellaneous: A 0.4mm focus of atypical ductal hyperplasia is present in the lower inner quadrant (Block C10). ADH is well clear of the surgical margins. The remainder of the right breast shows a sclerosed fibroadenoma (Block C12), an area of sclerosing adenosis (Block C16) and scattered ducts with usual ductal hyperplasia and columnar cell change.
+DIAGNOSIS:
+A. Sentinel node 1
+- NEGATIVE FOR METASTATIC CARCINOMA
+B. Sentinel node 2
+- NEGATIVE FOR METASTATIC CARCINOMA
+C. Right breast
+- TWO SEPARATE GRADE 1 INFILTRATING DUCTAL CARCINOMA, NOS 
+- TUMOUR 1 (12 O'CLOCK): 15mm, ER+ PR+ HER2 - KI67 up to 10% focally
+- TUMOUR 2 (9 O'CLOCK): 10mm, ER+ PR+ HER2 - KI67 up to 5% focally
+

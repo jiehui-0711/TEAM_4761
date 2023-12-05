@@ -1,0 +1,77 @@
+Episode No:  40A666837I
+4006668.JTI
+
+Hellings, Kenton Billie 
+Lab No:  40A66683
+Towpath
+COWRA  ACT  3082
+Specimen: Tissue
+D.O.B:  26/11/2002
+Sex:  F
+Collected: 01/13/2065 at 14:30
+Location:  Tissue Pathology and Diagnostic Oncology-THE ROYAL VICTORIAN EYE AND EAR HOSPITAL
+DR EMERSON Zaniyah GRANDERSON
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast Ca 2 o'clock 4cm FN.  Left axillary sentinel node.  Sutures - long lateral, medium medial, short superior.
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary sentinel lymph node" consists of a lymph node measuring 18mm in maximum dimension.  Serially sectioned and AE 1 block.
+B.  Specimen labelled "Left breast tissue short superior, long lateral, medium medial" consists of an oriented piece of fibrofattytissue measuring 58mm (medial to lateral) x 48mm (superficial to deep) x 30mm (superior to inferior).  There are three sutures orientating short superior, medium medial, long lateral.  The superficial surface is inked blue, the inferior green, superficial blue and deep black.  Serially sectioned from medial to lateral.  There is a diffuse firm area within slices two to six measuring approximately 15 x 10 x 10mm.  This area has central haemorrhage.  The surrounding breast tissue is fibrous and unremarkable.  The margins are as follows:  5mm superior, 5mm inferior, 10mm superficial, 15mm deep, approximately 15mm medial and 28mm lateral.  AE.  Please see diagram.
+Blocks:  1 to 3 one medial margin from superficial to deep; 4 to 6 - slice two; 7 to 9 - slice three; 10 to 12 - slice four; 13 to 15 - slice five; 16 to 18 - slice six; 19 & 20 - slice seven; 21 to 24 - slice eight lateral margins from superficial to deep.
+(TO: BO; TM/rt 2.13.65)
+MICROSCOPIC (Reported by Dr L Zwiefel):
+A.   One lymph node shows no evidence of malignancy.  The CAM 5.2 keratin immunostain is negative (0/1). 
+B.   The specimen is entirely embedded and examined. Sections show a 7mm grade 1 infiltrating ductal carcinoma, NST with the following features: 
+Invasive carcinoma:
+Site:  Left breast 2 o'clock 4cm FN. 
+Type:  Infiltrating ductal carcinoma, NST. 
+The carcinoma is composed predominantly of round to angulated tubules with apical snouts within a mildly cellular stroma.  The tumour infiltrates a small fibroadenoma.  There is patchy associated microcalcification.  The tumour has tubular features, however, it is not classified as a tubular carcinoma as the nuclei are not grade 1.
+Invasive tumour size:  7mm (microscopic measurement). 
+Grade (Modified Bloom & Richardson): 1
+Tubules:  1    Nuclei:  2    Mitoses:  1    Mitotic rate: 1/10hpf.
+Lymphovascular invasion:  Not seen.  
+	    
+DCIS component:
+DCIS:   Not seen. 
+Atypical ductal hyperplasia present within confines of invasive tumour. 
+Excision Margins:  
+Invasive component:  
+Superior:  	6mm (B5)
+Inferior:	7mm (B8) where clefts in margin.
+Superficial:	8mm (B6, B8). 
+Other margins: Well clear (>10mm).
+Atypical ductalhyperplasia:  Not closer than invasive tumour. 
+ 
+Receptors (Block B8): 
+ER:  Positive.
+	95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive.
+	90 % of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7): Negative (1+)
+HER2 SISH:  Performed at Xcel Energy, MODBURY HOSPITAL Hospital, see separate report.
+Ki-67 index: Approximately 8%
+Nipple:   N/A. 
+
+LCIS / ALH:  Focal atypical lobular hyperplasia (B14).   
+Miscellaneous:  Patchy flat epithelial atypia, focal columnar cell hyperplasia with cytological atypia, columnar cell change and columnar cell hyperplasia of usual type, cystic change, papillary apocrine metaplasia, fibroadenoma at least 5mm in dimension extending to deep and lateral margins, 2mm fibroadenomatoid change extending to medial margin, focal benign glandular calcifications and stromal changes consistent with previous core biopsy sampling which extend to the medial margin. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1
+Number of sentinel lymph nodes involved by tumour: 0         
+Number of sentinel nodes with metastases >2.0mm:  0  
+Number of sentinel nodes with metastases <2.0mm:  0    
+Number of sentinel nodes with isolated tumourcells <0.2mm:  0     
+	 
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   1
+Total number of involved lymph nodes (including sentinel node(s)):   0
+
+DIAGNOSIS:
+A & B.  Left axillary sentinel lymph node and left breast (wide local excision):
+-  7mm grade 1 infiltrating ductal carcinoma, ER positive, PR positive, Her2 SISH (see separate report), no lymphovascular invasion seen, margins clear. 
+-  Focal atypicallobular hyperplasia, and patchy flat epithelial atypia.
+-  One negative sentinel lymph node (0/1). 
+

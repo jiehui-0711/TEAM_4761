@@ -1,0 +1,64 @@
+ 1157215.HOM
+Whetzell, Ricardo
+11O72153
+
+Last edited : 30/12/2064		Page: 2
+Supplementary report see below
+
+
+CLINICAL:
+Right hemicolectomy.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" and consistsof a right hemicolectomy comprised of a segment of terminal ileum  measuring 50mm in length and 20mm in maximum diameter.  The caecum and a small segment of ascending colon measuring 140mm in length and up to 60mm in maximum diameter. The appendix is present and measures 70mm in length and 5mm in maximum diameter and appears unremarkable.  There is disruption of the mesenteric surface of the caecum in an area measuring 40 x 50mm (these are is inked green).  The rest of the serosal surface is shiny and smooth.  On sectioning and at the caecum there is a large almost circumferential tumour measuring 50mm (proximal to distal) and located 60mm from the proximal margin and 120mm from distal margin. The tumour is  ulcerated and necrotic and appears to invade through the wall of the colon andinto the pericolic fat with a maximum thickness of 20mm.  40mm from the main tumour there is a polyp 15mm in maximum diameter. The remainder of the clonic mucosa is unremarkable. On sectioning the appendix is unremarkable.  
+Blocks: 1 - RS proximal and distal margins; 2 - polyp AE; 3 to 7 - RS tumour; 8 - reserved block; 9 - tumour with normal appearing mucosa; 10 - one LS proximal and distal appendix and one TS mid appendix; 11 - apical node; 12 to 15 - lymph nodes.  (TO TT: YA/ta 23/12/64) 
+   
+ 
+MICROSCOPIC: (Reported by Dr D Renton):
+
+Macroscopic Description
+
+Site of tumour:  Right hemicolectomy.	
+Maximum tumour diameter: 50mm.
+Distance of tumour to nearer cut end: 60mm from proximal margin.
+Tumour perforation:  No
+Microscopic Description
+Adenocarcinoma NOS.
+
+Differentiation by predominant area
+Poor.
+Local invasion
+
+pT4a:  Tumour penetrates the surface of the visceral peritoneum.
+
+Tumour involvement of margins
+Cut ends: Not involved.
+Lymph nodes
+Number of lymph nodes present:  15	
+Number of lymph nodes involved:  10	
+pN2:  Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present: Extramural vein invasion.
+Perineural invasion
+Absent.
+Histologically confirmed distant metastases
+pMX:   Cannot be assessed histologically.
+Background abnormalities/other comments
+One tubulovillous adenoma with low grade dysplasia.
+Residual tumour status
+R0:  No residual tumour
+Summary
+Right Hemicolectomy: 
+-   Poorly differentiated adenocarcinoma.
+-   pT4    pN2     pMx     R0  (TNM 7th Edition)
+-  10 positivelymph nodes out of 15 (10/15) 
+-  Tubulovillous adenoma with low grade dysplasia.
+Supplementary report: Reported by Dr D Masin (30 December 2064) 
+Mismatch RepairDeficiency (MMRD) Status	
+MLH1		Preserved nuclear staining  
+PMS2		Preserved nuclear staining  
+MSH2		Preserved nuclear staining  
+MSH6		Preserved nuclear staining  
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

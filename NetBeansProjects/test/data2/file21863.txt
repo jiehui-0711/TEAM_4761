@@ -1,0 +1,251 @@
+DateOfBirth
+202509240000
+
+
+SiteName
+ALEXANDRA DISTRICT HOSPITAL
+
+
+FirstName
+BRYAN
+
+
+SPRID
+65N8062076
+
+
+MRN
+655806
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+65N80620 (65N8062076) BARCIK, KERA
+
+HISTOPATHOLOGY REPORT
+NUMURKAH DISTRICT HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+R breast cancer. Frozen section right axillary lymph node. Right breast cancer. Long-lateral, medium-medial, short-superior. Hookwire ET.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT SENTINEL NODE&amp;quot;. Consists of a fragment of fatty tissue 35mm in aggregate. Three nodes, the largest 20mm (blue) and 6 + 4mm node (pale).
+
+F/S:  &amp;quot;Micrometastasis 0.8mm&amp;quot;. Results were given by phone to Anaesthetist at 3:20pm on 6/05/2020 by Dr. Q. Zappala.
+
+(1  the largest node frozen; 2&amp;amp;3  remainder; 4  two smaller nodes not frozen). Representative sections. (M-4).
+
+B. &amp;quot;WIDE LOCAL EXCISION RIGHT BREAST&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision, oriented.
+SPECIMEN X-RAY:  Yes, hookwire split seen at E7, overlying area inked yellow.
+HOOKWIRE:  Yes, entering the specimen medially.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  43mm
+Superior to inferior:  45mm
+Anterior to posterior:  30mm
+WEIGHT:  27g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 9
+FINDINGS / LESION:  There is a stellate lesion noted in slices 4 to 7. It measures 16x10x10mm. The lesion is 10mm from superior margin, 20mm from inferior margin, 7mm from anterior, 7mm from posterior, 13mm from medial and 16mm from lateral margin. Also noted adjacent to the tumour in slices 6, 7 and 8 are ectatic ducts extruding cream-coloured material. There is a cleft in slice 5 which is inked yellow. Entire tissue is embedded.
+
+(1  slice 1; 2&amp;amp;3  slice 2; 4&amp;amp;5  slice 3; 6&amp;amp;7  slice 4; 8&amp;amp;9  slice 5; 10&amp;amp;11  slice 6; 12-14  slice 7; 15-17  slice 8; 18-20  longitudinal through lateral margin slice 9). All embedded. (M-20/MC 4/10/2071 km).
+
+MICROSCOPIC:  (Dr. Q. Silvertooth)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Two invasive foci
+Number and size of individual foci: Tumour 1 - 16mm, Tumour 2 - 8mm
+Diameter of multifocal tumour bed: 27mm (B10&amp;amp;11)
+Tumour 1 and 2 are 11mm apart
+
+TUMOUR 1:
+Tumour 1 forms tubules, single files, nests and single cells. DCIS is within the tumour.
+
+MAXIMUM INVASIVE TUMOUR SIZE:&amp;#160;16&amp;#160;mm (4 slices)
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type (ductal)
+&amp;#160;
+HISTOLOGIC GRADE:  2
+&amp;#160;
+SCORES: Tubules: 3 , Nuclei: 2 , Mitoses: 1 ; Total score: 6&amp;#160;&amp;#160;(of 9)
+&amp;#160;
+MITOTIC RATE: &amp;#160;1&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 16mm. DCIS is all within the carcinoma.
+
+
+TUMOUR 2:
+Tumour 2 predominately forms small tubules and otherwise is similar to tumour 1. There are also cords and single cells. No DCIS is within tumour 2. Tumour 2 is inferior to tumour 1.
+
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;8 mm (2 slices, B11 &amp;amp; B14)
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type (ductal)
+&amp;#160;
+HISTOLOGIC GRADE: 1
+&amp;#160;
+SCORES: Tubules: 2 , Nuclei: 2 , Mitoses: 1 ; Total score:&amp;#160;5&amp;#160;(of 9)
+&amp;#160;
+MITOTIC RATE: &amp;#160;&amp;lt;1&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  8mm
+
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identifed for either tumour
+&amp;#160;
+PERINEURAL INVASION: Not identifed for either tumour
+&amp;#160;
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs):
+Tumour 1: 5%
+Tumour 2: 1%
+
+SKIN INVOLVEMENT: Not applicable
+
+DERMAL LYMPHOVASCULAR INVASION: Not applicable
+&amp;#160;
+NIPPLE INVOLVEMENT: Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+Present
+
+DCIS size / extent: 16mm ( 4 consecutive slices, within tumour 1)
+
+Nuclear grade: Intermediate
+
+Architecture / type: cribriform
+Necrosis: Focal (B8)
+Microcalcification of DCIS: Not identified
+
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified.
+&amp;#160;
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Negative
+
+Distance of invasive tumour 1 to margins:
+Anterior: 5mm
+Posterior: 7mm
+Superior: 8mm
+Inferior: &amp;gt;10mm
+Medial: 12mm
+Lateral: 8mm
+&amp;#160;
+Distance of invasive tumour 2 to margins:
+Anterior: 9mm
+Posterior: 3mm
+Superior: &amp;gt;10mm
+Inferior: 1.5mm (B11)
+Medial: &amp;gt;20mm
+Lateral: 8mm
+
+DCIS MARGINS: Negative
+&amp;#160;
+Distance of DCIS to margins: Same or further away than tumour 1
+&amp;#160;
+ANCILLARY TESTS:
+
+Tumour 1
+IMMUNOSTAINS, block B11
+&amp;#160;
+ER: Positive &amp;#160;50%, &amp;#160;1+
+&amp;#160;
+PgR: Positive &amp;#160;, 100%, 3+
+&amp;#160;
+HER2: Negative 0 (IHC)
+&amp;#160;
+Ki67: 5%
+
+E Cadherin: retained
+&amp;#160;
+Other tumour block suitable for further testing: B8
+
+Tumour 2
+IMMUNOSTAINS, block B11
+&amp;#160;
+ER: Positive 60&amp;#160;%, &amp;#160;1+
+&amp;#160;
+PgR:  Positive 100&amp;#160;%, 3&amp;#160;+
+&amp;#160;
+HER2: Negative 0 (IHC)
+&amp;#160;
+Ki67:5%
+
+E Cadherin: retained
+&amp;#160;
+Other tumour block suitable for further testing: B14
+&amp;#160;
+SEPARATE FINDINGS: &amp;#160;Fibrocystic changes with apocrine metaplasia, usual ductal hyperplasia, columnar cell change, pseudoangiomatous stromal hyperplasia like (PASH like)  changes. Biopsy site.
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Involved
+
+Nodes with macrometastases: 0
+Nodes with micrometastases: 1 (present in frozen section only, 0.8mm in size)
+Nodes with isolated tumor cells:  3 groups of isolated tumour cells present only in the same lymph node as the micro metastases. Present on keratin staining.
+Total number of nodes examined: 3
+&amp;#160;
+Largest nodal tumour deposit: 0.8mm
+Extranodal extension:  Not identified
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c(m),  pN1mi(sn)
+
+OTHER COMMENTS: Tumour 1 and tumour 2 are 11mm apart. They show similar morphology, with tumour 1 having less tubule formation.
+
+DIAGNOSIS:
+A. RIGHT SENTINEL LYMPH NODE:
+ONE OF THREE LYMPH NODES WITH A MICROMETASTASIS AND ISOLATED TUMOUR CELLS
+
+B. RIGHT BREAST HOOKWIRE GUIDED WIDE LOCAL EXCISION:
+MULTIFOCAL INVASIVE CARCINOMA NST, PT1C(M), PN1mi(sn)
+DUCTAL CARCINOMA IN SITU
+
+5/11/2069  jb
+
+
+
+
+
+
+SpecimenReceivedDate
+2019-03-05 00:00:00
+
+
+LastName
+Gerl

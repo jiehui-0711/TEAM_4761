@@ -1,0 +1,52 @@
+
+Episode No:  73X332307P
+7393323.CUP
+
+Leishman, MEL 
+Lab No:  73X33230
+Nynehead
+SAINT ARNAUD  Northern Territory  2702
+Specimen: Tissue
+D.O.B:  27/8/2009
+Sex:  M
+Collected: 25/06/2014 at 12:36
+Location:  Hunter Area Pathology-GAWLER HEALTH SERVICE
+DR MARTIN BUNDJALUNG JONAH-GANDOLFI
+Distribution:  
+SUPPLEMENTARY REPORT (13.9.64):
+
+
+CLINICAL:
+Recurrent left parietal intra-axial tumour.  
+MACROSCOPIC:
+A.  Specimen labelled "Left parietal tumour" consists of a tiny fragment of haemorrhagic tissue 3mm.  Divided half for smear and half for frozen section.  
+Blocks:  1- frozen section.  
+FROZEN SECTION REPORT:
+No definite tumour.
+Phone result to Dr T Silman by Dr T Bulls at 2.15pm on 25.06.14. 
+B.  Specimen labelled "Left parietal lesion" consists of multiple pieces of soft friable tissue measuring in aggregate 5 x 5 x 3mm.  AE 1 block.  (TO: TW  JU/mm 28.8.64) 
+MICROSCOPIC (reported by Dr T Simonian): 
+A.  Sections show a piece of cortex and white matter.  No tumour is seen.
+B.  Sections show pieces of cortex and white matter.  Most of the tissue is cellular tumour.  The tumour cells have enlarged, atypical pleomorphic nuclei and a moderate amount of eosinophilic cytoplasm.  Mitoses are identified and there is also microvascular proliferation.  The features are of recurrent glioblastoma (WHO grade IV).  There are also foci of infarct-like necrosis with hyalinised vessels, consistent with radiotherapy effect but most of the tumour appears viable.   
+
+Immunohistochemical stains: 
+GFAP:   Positive. 
+IDH1:   To be repeated. 
+Ki 67:   Proliferation index around 25%.
+CD68:   Highlights numerous macrophages and activated microglial cells.
+Molecular tests:
+Tissue has been sent to the COOLAH MULTI PURPOSE SERVICE Institute for assessment of MGMT methylation status.  A supplementary report will be issued.
+Block for potential treatment trial (if required):
+Viable tumour is best seen in block B1.
+
+
+DIAGNOSIS: 
+A.  Left parietal tissue:  No tumour.
+B.  Left parietal tumour:  Recurrent glioblastoma (WHO grade 4).
+SUPPLEMENTARY REPORT (13.9.64):
+B.  MGMT testing was performed at the CALVARY PUBLIC HOSPITAL ACT Research Centre.
+DNA was extracted, bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation.
+The sample was tested twice with the appropriate controls and was found to be lowly methylated (14%) at the MGMT promoter region.
+Reported by Dr T Alberson.
+Please note that this test was performed in a research laboratory which is not NATA accredited.
+

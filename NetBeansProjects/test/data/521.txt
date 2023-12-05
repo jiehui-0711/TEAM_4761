@@ -1,0 +1,91 @@
+
+Episode No:  00J110910T
+003110.XCC
+
+PRIMA, PATRINA 
+Lab No:  00J11091
+Midway
+BENDIGO  Western Australia  2127
+Specimen: Tissue
+D.O.B:23/11/2000
+Sex:  F
+Collected: 14/10/2063 at :
+Location:  SA Pathology-ROYAL PRINCE ALFRED HOSPITAL
+DR WILLIS CLIFTON JERRY-SHUMAY
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+IDC right breast 11 o'clock 20mm in size, short superior, long lateral sutures.  Right axilla sentinel node biopsy.  Mastectomy (patient choice).
+MACROSCOPIC:
+A.  Specimen labelled "Right axillary sentinel node" consists of two pieces of fatty tissue 18 and 20mm containing three lymph nodes 5, 8 and 10mm (cytology: no malignant cells identified).  AE 3 blocks.
+Blocks: 1 - one lymph node; 2 - one lymph node; 3 - one lymph node.
+  
+B.  Specimen labelled "Right breast, long lateral, short superior" consists of a mastectomy weighing 640g and measuring 210 (medial to lateral) x 185 (superior to inferior) x 40mm (superficial to deep).  There is an ellipse of skin measuring 180 x 74mm with a nipple areola complex.  There are two sutures as indicated.  Theanterior margin is inked blue and the posterior margin inked black.  There is a stellate tan firm lesion at the 11 o'clock position 25mm from the nipple measuring 18 x 18 x 20mm.  The lesion is 18mm from the deep margin, 22mm from the superficial margin, 90mm from the superior margin, 75mm from the inferior margin, 100mm from the lateral margin and 110 mm from the medial margin. 
+Blocks: 1 - nipple areola complex; 2 & 3 - (paired blocks)tumour and closest margin; 4 - tumour; 5 - upper inner quadrant; 6 - upper outer quadrant; 7 - lower outer quadrant; 8 - lower inner quadrant.  
+C.  Specimen labelled "Right axillary tissue"consists of three pieces of fibrofatty tissue measuring 20 x 10 x 10mm, 50 x 20 x 10mm and 10 x 6 x 4mm.  There are two lymph nodes identified measuring 5 and 10mm in maximum dimension.  Representative sections3 blocks.  
+Blocks: 1 - one lymph node; 2 - one lymph node bisected; 3 - representative fibrofatty tissue.    (UT/ta 15/10/63)   
+ 
+
+FROZEN SECTION REPORT:
+A.  Sentinel lymph node: No malignant cells identified
+Result to Dr Kettel (anaesthetist) by Dr B Gebhart/Dr B Pizzano at 17.15 on 12/8/13.
+   
+MICROSCOPIC:  (Reported byDr B Hwang)
+A.  One of three sentinel lymph nodes shows a focus of isolated tumour cells (<0.2mm) on H&E and IHC (1/3). 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: Three.
+Number of sentinel lymph nodes involved by tumour: One.       
+Number of sentinel nodes with metastases >2.0mm: Nil.
+Number of sentinel nodes with metastases <2.0mm: Nil.
+Number of sentinel nodes with isolated tumour cells <0.2mm: One.     
+	Detected by: H&E and IHC.
+Extranodal spread: Not present. 
+B.  The right breast tumour is an invasive ductal carcinoma associated with multifocal intermediate grade DCIS. A synoptic report for invasive breast carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Right breast (mastectomy); 11 o'clock 25cm FN.
+Type: Invasive ductal carcinoma, NOS.
+Invasive tumour size: 20mm (macroscopic).
+Grade (Modified Bloom & Richardson): 1
+Tubules: 2 Nuclei: 1 Mitoses: 2 Mitotic rate:  9/10hpf.
+Lymphovascular invasion: Present.
+	    
+DCIS component:  
+DCIS: Present. 
+Maximum extent of DCIS: Present in association with tumour over an approximate maximum extent of 6mm.
+Nuclear grade: Very occasional DCIS cells adjacent to the biopsy tract show prominent nuclei, but overall, the nuclear grade is: intermediate.
+Architecture: Cribriform and flat.
+Necrosis: Not identified.
+Calcification: Not identified.
+Degree of DCIS in tumour: <25%.  
+DCIS in adjacent tissue: Minimal.
+Excision Margins:  
+Invasive and in situ component: Margins appear clear.
+Receptors (Block B4): 
+ER:  	POSITIVE
+	100% of nuclei stained
+	Predominant intensity of staining: Strong.
+PR:  	NEGATIVE (<1% of tumour cells positive).
+HER2 (Novocastra 10A7): POSITIVE (3+)
+HER SISH:  Performed at Peter Kiewit Sons Central, GRAYLANDS SELBY-LEMNOS & SPECIAL CARE HOSPITAL Hospital, see separate report.
+Ki-67 index: Variable, up to 5 - 8% of tumour cell nuclei positive.
+Nipple: No significant abnormality. No evidence of Paget's disease of the nipple. 
+
+LCIS / ALH: Not identified. 
+Miscellaneous: The adjacent non-neoplastic breast tissue shows columnar cell change/hyperplasia, patchy fat necrosis and apocrine metaplasia. A biopsy tract is also identified. 
+Lymph node(s): See specimens A and C. 
+C.  Sections of the six axillary lymph nodes show no evidence of malignancy.
+DIAGNOSIS:
+A.  Right axillary sentinel lymph node: One of three sentinel lymph nodes shows a focus of isolated tumour cells (<0.2mm) on H&E and IHC (1/3). 
+
+B.  Right breast (mastectomy): 
+20mm Grade 1 Invasive Ductal carcinoma, NOS, associated with intermediate grade DCIS. 
+Margins appear clear of carcinoma and DCIS.
+ER positive; PR negative; Her-2 positive.
+HER SISH being performed at The ServiceMaster Company Central, INGLEWOOD AND DISTRICT HEALTH SERVICE Hospital; please see separate report.
+
+C.Right axillary tissue: No evidence of malignancy in six lymph nodes (0/6). 
+
+
+
+
+

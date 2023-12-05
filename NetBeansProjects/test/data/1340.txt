@@ -1,0 +1,116 @@
+
+Episode No:  84F664821C
+8426648.GCC
+
+WONDERS, Joseph Efrain 
+Lab No:  84F66482
+Colin Park
+THE OAKS  QLD  4158
+Specimen: Tissue
+D.O.B:  12/12/2041
+Sex:  F
+Collected: 21/02/2013 at 15:46
+Location:  SXR-WINGHAM COMMUNITY HOSPITAL
+DR Landon EMILIO GARTNER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Large L renal tumour presenting with bleeding.  Left kidney. 
+MACROSCOPIC:
+A.  Specimen labelled "Left kidney", consists of a kidney weighing 351.8g and measuring 130mm superior to inferior x 70mm medial to lateral x 70mm superficial to deep. The attached ureter measures 70mm in length and 5mm in maximumdiameter.  The kidney is covered with perinephric fat and has a complete capsule.  There is a large nodular mass in the posterior mid kidney abutting the perinephric fat, but not disrupting the renal capsule.  On sectioning there is a well circumscribed encapsulated nodular tan tumour measuring 57 x 50 x 50 mm.  The tumour has necrotic and haemorrhagic areas. The tumour abuts the hilum and renal capsule posteriorly.The rest of the renal parenchyma appears unremarkable.  The perinephric fat has two possible lymph nodes.  Representative in 10 blocks; 1- ureteric margin; 2- vascular margin; 3 & 4- tumour, posterior capsule and perinephric fat (closest capsule margin); 5 & 6 - paired blocks tumour and hilar region (closest hilar margin); 7 & 8 - representative tumour; 9 - normal renal parenchyma; 10 - two hilar ?lymph nodes.  
+B.  Specimen labelled "Pylolymph", consists of a piece of fibrofatty tissue encasing one lymph node measuring 15 x 8 x 5mm.  Specimen TAE 2 blocks. 
+(TO: DW;CS/ec 24.4.63) 
+ 
+MICROSCOPIC (Reported by A/Prof V Rise):
+
+KIDNEY TUMOUR PROFORMA
+
+Position of tumour: Mid left kidney
+Dimensions of tumour: 57 x 50 x 50 mm
+Tumour type: The carcinoma has a polymorphous pattern and consists of areas resembling clear cell carcinoma admixed with foci demonstrating a papillary architecture. In many areas the tumour displays an alveolar-like growth pattern and the tumour cells contain abundant granular and clear cytoplasm.
+These changes, in combination with the patient's age, suggest that this carcinoma is an Xp11 translocation renal cell carcinoma. 
+Fuhrman grade: 
+	 
+	Grade 3 	nucleoli prominent at 100x magnification 
+	 
+Sarcomatoid differentiation: Absent
+Rhabdoid differentiation: Absent - Although many of the tumour cells have voluminous eosinophilic cytoplasm, no diagnostic evidence of high grade rhabdoid differentiation is seen.
+Necrosis: Present (20 - 25%)
+Tumour spread beyond kidney: The carcinoma is bounded by a thin fibrous capsule which is focally disrupted posteriorly (block 3). Deeper levels have been examined and no definite invasion of perinephric fat is identified.
+Tumour extends beyond Gerota's fascia: No
+Tumour in renal sinus fat: No.  There is a circumscribed nodule of tumour which bulges into therenal sinus fat, bounded by fibrous tissue. (block 5). Staging is difficult as some authors regard only direct tumour invasion between adipocytes to represent invasion of renal sinus fat. Because of this, the tumour is considered pT1b rather than pT3a.
+LVI is identified in this region (see below).
+Tumour in renal vein or its segmental (muscle containing) branches: No. The sections of the vascular margin are clear of tumour.
+Lymphovascular invasion: Foci of Lymphovascular invasion are seen at the periphery of the tumour and also within the tumour capsule (block 3). Lymphovascular invasion is also seen within large thin walled vascular channels at the interface between tumour and hilar fat (block 5).
+Tumour inadrenal gland: N/A
+Lymph node status
+	Site: Hilar (1 in specimen A, 1 in specimen B)
+	Number of lymph nodes: 2 
+	Number of involved nodes: 0
+Involvement of surgical margins:
+	Absent
+Other comments:
+The tumour has the following immunoprofile: 
+Positive staining: P504s, Vimentin, CD10, EMA, CAM 5.2, AE1/AE3 (patchy). 
+Negative : MelanA, HMB 45, CK 20, CK7. 
+The adjacent renal parenchyma shows extensive chronic interstitial inflammation. The glomeruli show no significant morphological abnormality.
+AJCC tumour stage (7th Ed.)
+pT1b Tumour measures more than 4cm but less than 7cm and is confined to the kidney.
+pN0 No regional lymph node metastasis
+
+pMX Cannot be assessed histologically
+
+Scoring Algorithm to Predict Metastases after Radical Nephrectomy (Leibovich et al., Cancer, 2003)
+	
+Primary tumor status score (pathologic T stage)
+pT1a 	0
+pT1b 	2
+pT2 	3
+pT3a 	4
+pT3b 	4
+pT3c 	4
+pT4 	4
+Regional lymph node status (N stage) score
+pNx 	0
+pN0 	0
+pN1 	2
+pN2 	2
+Tumor size (cm)
+< 10 	0
+[?] 10 	1
+Nuclear grade score
+1 	0
+2 	0
+3 	1
+4 	3
+Histologic tumor necrosis score
+No 	0
+Yes 	1
+
+Total score (out of 11): 4
+Comment: The morphological features would support a diagnosis of Xp11 translocation renal cell carcinoma. The case has been referred to COOTAMUNDRA DISTRICT HOSPITAL Hospital for confirmatory FISH. Dr V Aguallo has also seen representative sections of this case.
+DIAGNOSIS
+Left radical nephrectomy:
+	57mm renal cell carcinoma, favour Xp11 translocation RCC, Fuhrman grade 3, margins clear
+	pT1b (AJCC 7th Ed.)
+
+    CONSULTATION/REVIEW FISH REPORT
+                               NANANGO HOSPITAL Hospital  14/6/63.
+
+CLINICAL DETAILS
+Received lx paraffin block (84F66482 - 1) from Dept of 4 JABIRU PLACE, Ashland. THOMAS EMBLING HOSPITAL Hosp, Level 4 Campus Centre, John William, INVERELL, Victoria. 5304.
+TESTS REQUESTED
+TFE3 FISH
+MICROSCOPIC REPORT 
+Specimen tested: 84F66482 - 1
+FISH Probe:
+ZytoLight SPEC TFE3 Dual Colour Break Apart Probe (Zvto Vision)
+FISH Result:
+POSITIVE for TFE3 rearrangement
+Interphase FISH using ZytoLight SPEC TFE3 (Xp11.2) Dual Colour Break Apart Probe (Zyto Vision) showed evidence of rearrangement in majority of tumour nuclei.  
+Comment: TFE3 Break Apart FISH is useful for identifying TFE3 gene rearrangement positive renal cell carcinomas (Kim et al. 2011; Usefulness of a break-apart FISH assay in the diagnosis of Xp11.2 translocation renal cell carcinoma Virchows Arch 459:299-306).
+
+SUMMARY
+LEFT KIDNEY TUMOUR
+- rearrangement of TFES detected by FISH consistent with Xp11 translocation carcinoma
+REPORTED BY: A/Prof Florinda V'Beyal (13/6/63)
+

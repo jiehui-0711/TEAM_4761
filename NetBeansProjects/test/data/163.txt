@@ -1,0 +1,39 @@
+Episode No:  37U119914J
+3771199.DLJ
+
+DUSEN, ALLYSON 
+Lab No:  37U11991,37U11991
+Sheethanger
+ALBURY  QLD  3570
+Specimen: Washings,Tissue
+D.O.B:  3/9/2007
+Sex:  F
+Collected: 29/1/2063 at :
+Location:  Southern IML Pathology - ROYAL MELBOURNE HOSPITAL - ROYAL PARK CAMPUS
+DR GILBERT EARL BRUNELLE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Clear cell cancer of the endometrium.  Post - menopausal bleed.  Endometrial cancer.
+MACROSCOPIC:
+A.  Specimen labelled "Uterus cervix and ovaries", consists of uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 67g in total.The uterus measures 80 x 45 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 33 x 20mm and has an unremarkable surface.  The soft tissue margin is inked blue anteriorly and black posteriorly.  On sectioning there is a polypoid tumour in the upper endometrial cavity measuring 27 x 24 x 15mm.  The tumour has a heterogonous pale and red cut surface with friable consistency.  The myometrium is 44mm in maximum thickness.  The fallopian tube is 45mm in length and up to 9mm in diameter.  The right ovary is 22 x 10x 8mm and has an unremarkable cut surface.  The left fallopian tube measures 42mm in length up to 8mm in diameter.  The left ovary is 23 x 10 x 7mm and has an unremarkable cut surface.  
+Blocks: 1 to 4 - full longitudinal section of anterior body and cervix (3 and 4 paired blocks); 5 to 8 - full longitudinal section posterior body and cervix (7 and 8 paired blocks); 9 - section of tumour (reserved block); 10 - section of tumour; 11 - right fallopian tube and ovary; 12 - left fallopian tube and ovary.
+B.  Specimen labelled "Omental biopsy", consists of omental fatty tissue 135 x 70 x 5mm.  Specimen is serially sliced.  No nodules are seen.  : 1 to 3 - representative sections.
+C.  Specimen labelled "Right external ilac lymph node", consists of a 12 x 10 x 6mm lymph node with a small amount of attached fatty tissue.  
+Blocks: 1 - one bisected lymph node.
+D.  Specimen labelled "Left external iliac lymph node", consists of a piece of fatty tissue 35 x 28 x 6mm.  A definite lymph node is not seen.  
+Blocks: 1 to 3 - AE.
+E.  Specimen labelled "Right bifurcation lymph node", consists of a piece of fatty tissue containing lymph nodes 37 x 20 x 5mm.  
+Blocks: 1 - lymph nodes as seen  
+(TO: TH;NN/vo 30.1.63) 
+MICROSCOPIC (Reported by Dr. J Haack):
+A.  Sections show a poorly differentiated endometrialadenocarcinoma, best classified as a grade 3 endometrioid adenocarcinoma.  Focal villoglandular architecture and eosinophilic globules are noted but no convincing clear cell carcinoma is seen.  The tumour has a maximum depth of invasion of 14mm through a wall 16mm thick.  Focal lymphvascular invasion is seen.  
+The ectocervix and endocervix are uninvolved and unremarkable.  Both ovaries and tubes are unremarkable.
+B.  There is no evidence of malignancy.
+C.  One lymph node shows no evidence of malignancy.
+D.  Five lymph nodes show no evidence of malignancy.
+E.  Two lymph nodes show no evidence of malignancy.
+DIAGNOSIS:
+Grade 3 endometrioid adenocarcinoma of the endometrium, depth 14mm through a wall16mm thick.  Focal lymphvascular invasion is present.  Cervix uninvolved.  The omentum and eight lymph nodes are negative.
+ADDITIONAL REPORT 7/2/63:
+As requested, immunoperoxidase stains for MSI proteins were performed.  MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.
+

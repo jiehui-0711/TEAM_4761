@@ -1,0 +1,76 @@
+ 2162228.SGZ
+Ochiai, LAURALEE
+21P22287
+
+Last edited : 8/3/2066		Page: 2
+
+***SUPPLEMENTARY REPORT: BRAF IMMUNOHISTOCHEMISTRY (8.3.2066)
+Dr F Yeddo
+CLINICAL:
+Right hemicolectomy, cholecystectomy, duodenum.  Intraop finding tumour ascending colon, stuck onto gallbladder and duodenum.  
+MACROSCOPIC:
+Specimen labelled "Right hemi, gallbladder and duodenum", consists of a right hemicolectomy measuring 240mm in length with alength of attached terminal ileum measuring 35mm in length.  No appendix is included within the specimen.  45mm from the distal resection margin is a circumferential ulcerated partly sessile and polypoid tumour measuring 65 x 43mm.  On theserosal surface surrounding the tumour the serosa appears puckered.  There is also adherent fibrous and soft tissue on the serosal surface.  Within this tissue there are three stapled lines from 20 to 35mm.  These stapled lines are removed and underlying margin is inked red whilst the surrounding surface is inked black.  The cut surface reveals the tumour is cream firm and penetrates with muscularis propria and is present at the serosal surface.  The tumour appears to extend to multiple stapled resection margin.  A further polyp is identified 20mm proximal to the tumour.  Numerous lymph nodes are identified within the mesenteric fat.  A few appear replaced by tumour.  A separate sleeve of gallbladder is received separately measuring 30 x 25 x 15mm.  The stapled margin is removed and inked red.  The mucosa of the gallbladder appears unremarkable.  A separate section of presumed small bowel is received measuring 40 x 28 x 20mm.  The suture marker is removed and the underlying margin inked red.  The mucosa appears unremarkable.  
+Blocks: 1 - surgical resection margin; 2 and 3 - one tumour to one stapled margin; 4 to 6 - tumour to second stapled margin; 7 and 8 - tumour to third stapled margin; 9 - further tumour to serosal surface; 10 - separate polyp; 11 - apical node serial sectioned; 12 and 13 - further nodes; 14 - one lymph node serially sectioned; 15 - one lymph node serially sectioned; 16 - separate gallbladder; 17 - separate bowel; 18 - reserved block.  (TO: ML;ZY/vo 30.12.65) 
+ 
+MICROSCOPIC:  (Reported by Dr F Bobrowski)
+The 65mm colonic tumour is a poorly differentiated adenocarcinoma with areas of mucinous differentiation. A synoptic report for colonic adenocarcinoma follows: 
+SYNOPTIC REPORT FOR COLONIC ADENOCARCINOMA
+Macroscopic Description
+Site of tumour: Ascending colon. 	
+Maximum tumour diameter: 65mm.
+Distance of tumour to nearer cut end: 45mm (distal). 
+Tumour perforation: Yes (pT4).
+Microscopic Description
+
+Type
+Adenocarcinoma with areas of mucinous differentiation (CAM5.2 positive). 
+Differentiation by predominant area
+Moderate to poorly differentiated. 
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 17 (one lymph node shows direct involvement)
+Number of lymph nodes involved: 2 (2/17). 	
+pN1b	Metastases in 2-3 regional LN
+Lymphovascular invasion
+Present (Mural)
+Perineural invasion
+Present
+Histologically confirmed distant metastases
+pMX	Cannot beassessed histologically
+Background abnormalities/other comments
+A serrated polyp with features most in keeping with a serrated adenoma is present. There is no evidence of high gradedysplasia. 
+The sections of small bowel at the proximal resection show suboptimal orientation with possible flattening of the villi without significant intra-epithelial lymphocytosis. 
+Response to neoadjuvant therapy
+Not applicable. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Summary  pTNM Stage = 3B  (pT4aN1bMx)	
+
+
+DIAGNOSIS:
+Right hemicolectomy: 
+	Poorly differentiated adenocarcinoma with mucinous differentiation.
+Adenocarcinoma extends to the diathermied (serosal) surface. 
+Lymphovascular and perineural space invasion identified. 
+Metastatic carcinoma is present in two of seventeen lymph nodes (one of these nodes is involved by direct invasion) (2/17). 
+Markers of microsatellite instability show absence (loss) of nuclear staining for MLH1 and PMS2 which may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+
+***SUPPLEMENTARY REPORT: BRAF IMMUNOHISTOCHEMISTRY (8.3.2066)
+Dr F Survant
+
+As requested by Professor Garfield, BRAF immunohistochemistry was performed on this case. Due to inconclusive staining on the control slide on the initial BRAF stained slide, the BRAF immunostain was subsequently repeated with a freshly cut control. 
+1st BRAF Immunostain (block 9) = POSITIVE (Control slide inconclusive). 
+
+2nd BRAF Immunostain (block 9) = POSITIVE (Control slide positive). 
+ 
+If clinically indicated, molecular testing to confirm this positive BRAF result may be performed. 
+
+

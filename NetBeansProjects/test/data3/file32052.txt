@@ -1,0 +1,99 @@
+SPR no: 66B978298X
+MRN no: 6609782
+Site_name: SEYMOUR HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple pancreatic cancer.  Downstaged by chemo, radiation, IRE.  Cancer information sheet attached.
+
+Specimen oriented in person by Dr Thukeri: pancreatic neck tissue obliterated by treatment.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Whipple&amp;quot;, consists of a pancreaticoduodenectomy consisting of pancreas (45 x 35 x 30mm) with attached gallbladder connected by cystic and common hepatic duct (42 x 10mm) with gallbladder (70 x 30mm).  The common hepatic bile duct measures 10mm in diameter.  There is attached stomach (70 x up to 60mm) and small bowel (210 x 25mm).  Attached omental fat measures 80 x 45 x 8mm with separate omental fat 190 x 60 x 20mm.  The specimen is oriented fresh by Dr Arthur.
+The margins are inked as follows:  Portal veins blue, SMA black, uncinate green, anterior surface red, posterior surface yellow and previous pancreatic neck green.  The ampulla is located approximately 15mm distal to the gastroduodenal junction.  The mucosa around this area appears slightly haemorrhagic and denuded.  The pancreas is sliced from superior to inferior into eight slices.  No macroscopic lesion is identified.  The gallbladder has a smooth and shiny serosal surface with a wall measuring up to 5mm thick.  The mucosa is dark brown and velvety.  No gallstones are identified.  No mass lesions are seen.  No lesions are identified within the separate omental fat.  The overlying serosa however appears thickened.
+Blocks: 1 - common hepatic duct margin; 2 - gastric margin; 3 - small bowel margin; 4 to 10 - slices one to seven through pancreas from superior to inferior; 11 to 13 - LS through inferior/uncinate portion of pancreas LS; 14 &amp;amp; 15 - RS lesser omental fat; 16 - gallbladder; 17 &amp;amp; 18 - separate omental fat.
+Please note, blocks 5 to 10 are big blocks.  Macroscopic photographs are available.
+(TO:AP/rs 15/2/70)
+
+Additional blocks 19 to 48 (possible nodes)
+
+
+MICROSCOPIC (Reported by Dr R Bali):
+Sections show multiple residual deposits of moderately differentiated adenocarcinoma, up to 7mm in size, over a 30mm area, with treatment effect.  The lesion is based in the pancreas. There is invasion into the adjacent duodenum, intra and extrapancreatic bile duct and common hepatic duct.  Extensive fibrosis, acellular mucin pools, fibrosed arteries with obliteration of the lumen, haemosiderin deposition and recanalisation are seen, in keeping with treatment effect. The residual tumour (approx. 30% of the lesion) is outgrown by treatment effect (approx. 70% of the lesion).
+
+The pancreas shows extensive chronic pancreatitis with fibrosis, loss of acini and chronic inflammation. Low and high grade dysplasia (PanIN 2 and 3) are seen.
+
+The common hepatic/common bile duct is dilated up to a diameter of 10mm. Acute on chronic inflammation, ulceration and mural fibrosis are present.
+
+There is also full thickness fibrosis of the duodenal wall with ulceration and loss of smooth muscle in the muscularis propria and mucosae.
+
+The gallbladder shows chronic cholecystitis.
+
+
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 2: Moderately differentiated (post treatment)
+
+Microscopic tumour sites
+Head of pancreas
+Common bile (extra and intrapancreatic) and common hepatic ducts
+Duodenum
+
+Maximum tumour diameter
+Multiple residual deposits, up to 7mm in size, over a 30mm area (superior to inferior)
+
+Lymphovascular invasion
+Not identified
+
+Type of vessel
+N/A
+
+Perineural invasion
+Present
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Present (7), &amp;gt; 10mm clear of margins
+
+Margins:
+Obliterated pancreatic neck (soft tissue): 0.9mm (7)
+Common hepatic duct: 1.2mm (with perineural invasion, 1)
+Portal vein (superior mesenteric vein): 0.6mm (7)
+Superior mesenteric artery: &amp;gt; 10mm
+Periuncinate soft tissue: &amp;gt; 10mm
+
+Surfaces:
+Anterior: &amp;gt; 10mm
+Posterior: 8mm (6)
+
+Lymph nodes:
+Number found:   11 (specimen examined twice for lymph nodes)
+Number involved: 0
+
+Response to neoadjuvent therapy (modified Ryan)
+Grade 2 (partial response) - Residual cancer with evident regression, but more than single cells or rare small groups of cancer cells
+
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (ypT)
+ypT2		Tumour &amp;gt;2 cm and &amp;#8804;4 cm in greatest dimension
+
+Regional lymph node category (ypN)
+yN0		No regional lymph node metastasis
+
+Distant metastasis category (ypM)
+yMX 		Not assessable by histology
+
+
+DIAGNOSIS
+Whipple resection post treatment:
+- Multiple residual deposits of moderately differentiated pancreatic adenocarcinoma, up to 7mm in size, over a 30mm area, with treatment effect, invasion into duodenum, common bile and common hepatic ducts
+- 11 lymph nodes with no evidence of malignancy

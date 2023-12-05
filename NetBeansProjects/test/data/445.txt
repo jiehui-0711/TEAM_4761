@@ -1,0 +1,76 @@
+
+Episode No:  91C1228258
+9101228.GOW
+
+SUTHERS, ENRIQUE JOE 
+Lab No:  91C12282
+W Easton
+CHARTERS TOWERS  NT  6725
+Specimen: Tissue
+D.O.B:  24/12/2006
+Sex:  F
+Collected: 21/05/2013 at 15:18
+Location:  DICKINSON 3 SOUTH - NEPEAN HOSPITAL
+DR NICKY LOU CARRETERO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY, DR Battaglini
+CLINICAL:
+Left breast lesion @ 12 o'clock.  DCIS on core.  Hookwire localised WLE.  
+Long stitch lateral, loopat nipple end, double deep.  Please x-ray at Tissue Pathology and Diagnostic Oncology Radiology.  
+MACROSCOPIC:
+Specimen labelled "left breast tissue" consists of a piece of breast tissue with three marking stitches as described on the request form measuring 40mm (lateral to medial) x 55mm (superior to inferior) x 70mm (superficial to deep).  There is a guidewire entering from the superficial aspect.  There is a skin ellipse superficially 45 x 15mm.  The skin appears normal.  The margins are inked in three colours, superior red, lateral blue and medial black.  Specimen is serially sectioned from superficial to deep into 10 slices.  There is a calcified focus 7mm in maximum dimension in slice 6, 30mm from superficial, 22mm from deep, 12mm from medial, 15mm fromlateral, 15mm from superior and 45mm from inferior margin.  There are defects into the superior and inferior surfaces possibly surgical.  
+Blocks:  1 to 6 - slice 1 (superficial); 7 to 9 - slice 2; 11 to 13 - slice 3; 14 to 18 - slice 4; 19 to 23 - slice 5; 24 to 28 - slice 6 (25 - contains calcifications); 29 to 33 - slice 7; 34 to 38 - slice 8; 39 to 41- slice 9; 42 to 45 - slice 10.  AE.  Please see diagram.  
+(OO/mm 24.7.63) 
+MICROSCOPIC (reported by Dr Z Renker):
+Sections show infiltrating ductal carcinoma of the breast.  The features are as follows:
+Invasive carcinoma:
+Site:  Left breast.
+Type:  Infiltrating ductal carcinoma.  
+Invasive tumour size:  10mm (across 3 slices).  
+Grade (Modified Bloom & Richardson):  1
+Tubules:  1  Nuclei:  2  Mitoses:  1  Mitotic rate:  3/10hpf.
+Lymphovascular invasion:   Absent.
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  20mm (across 4 slices).
+Nuclear grade:  Moderate to high grade.  
+Architecture:  Micropapillary & cribriform.
+Necrosis:Present.
+Calcification:  Present.
+Degree of DCIS in tumour:  Minimal.
+DCIS in adjacent tissue:  Widespread
+Excision Margins:  
+Invasive component:  1mm from lateral margin, well clear of other margins.  
+In-situ component:  Positive lateral margin, well clear of other margins.  
+Receptors (Block 24): 
+ER:  Positive.  
+	100% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	90% of nuclei stained
+	predominant intensity of staining:  Moderateto strong.  
+HER2 (Novocastra 10A7):  Negative (score 1+).
+Ki-67 index:  Approximately 5%.
+Nipple:  Not applicable.
+LCIS / ALH:  Absent.
+Sentinel lymph node(s):
+Number of sentinel lymph nodesexamined:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  0
+Total number of involved lymph nodes (including sentinel node(s)):  0
+ADDITIONAL REPORT (8/7/63):
+Blockswere sent to QUEANBEYAN DISTRICT HOSPITAL Hospital for Her2 ISH analysis, Dr Z Crawmer reports:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the VentantaINFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 1.8.
+Mean CEP17 copy number per cell:  1.3. 
+HER2/CEP17 ratio:  1.38.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ADDENDUM (17/9/63):
+Due to the fragmented and disrupted nature of the superior margin of the specimen, a review of the margin status has been conducted.  The previously stated 1mm clearanceof invasive tumour to the lateral margin should instead refer to the medial margin at the superior end of the specimen. 
+

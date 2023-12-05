@@ -1,0 +1,98 @@
+Episode No:  58M856566Y
+5848565.PQY
+
+KAMPFER, Boy 
+Lab No:  58M85656
+North Bronte
+RIVERVIEW  WA  2824
+Specimen: Tissue
+D.O.B:  3/11/1997
+Sex:  F
+Collected: 18/2/2064 at :
+Location:  SEALSCentral-KATANNING HOSPITAL
+DR Kenny SHAD Rajaniemi
+Distribution:     FILE-COPY
+
+SUPPLEMENTARY REPORT:  (18.1.66)
+
+CLINICAL:
+Extended right hemicolectomy - transverse colon ca.  Paget's disease Dx 2059.  
+MACROSCOPIC:
+Specimen labelled "Extended right hemicolectomy" consists of a segment of terminal ileum measuring 50mm long and 20mm diameter, and right colon 370mm long and  30mm diameter.  The mesocolon measures 350 x 90 x 20mm and omental tissue is noted at the distal aspect of the right colon measuring 170 x 50 x 40mm.  There is no appendix seen.  The serosal surface is unremarkable.  340mm away from the proximal margin, 50mm away from the distal margin is a flat ulcerated tumour.  The ulcer has rolled edges and measures 25 x 15mm.  The tumour is in the posterior-lateral bowel wall.  On cut surface the tumour measures 2mm thick and does not appear to infiltrate the muscularis propria.   A single polyp 2mm diameter is identified in the proximal ascending colon.  The remainder of the mucosal surface is unremarkable.  Twenty four lymph nodes are identified measuring 1 to 10mm in maximum extent.  
+Blocks: 1 - LS proximal margin; 2 - LSdistal margin; 3 to 6 - LS of tumour; 7 - polyp; 8 - apical lymph node; 9 - single node; 10 - single node; 11 - single node; 12 - single node; 13 - single node; 14 - two nodes;15 - three nodes; 16 - four nodes; 17 - four nodes; 18 - five nodes.    (EB/ta 18/2/64) 
+ 
+MICROSCOPIC (Reported by Dr O Dobias): 
+Sections show a moderately differentiated adenocarcinoma which invades through the bowel wall into subserosal fat.  There is very extensive lymphovascular invasion both in the bowel wall and in the mesentery; this includes tumour involvement of lymphatic vessels and small muscular veins.  There are mesenteric lymph node metastasesand also multiple extranodal tumour deposits in the mesentery.  There is metastatic tumour in the apical lymph node and tumour is present in a vein adjacent to the apical node.
+A synoptic report follows:
+Site of tumour:	
+Maximum tumour diameter:   25mm
+Distance of tumour to nearercut end:  50mm
+Tumour perforation: No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: 5mm
+Lymph nodes
+Number of lymph nodes present: 21	
+Number of lymph nodes involved: 11	
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (Mural / Extramural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The described polyp is autolytic but appears to be a hyperplastic polyp. 
+ 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining.
+PMS2		Preserved nuclear staining.
+MSH2		Preserved nuclear staining.
+MSH6		Preserved nuclear staining.
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+DIAGNOSIS:  
+Right colon:  Adenocarcinoma with lymph node metastases (11/21).  
+pT3  pN2  pMx  R0.  
+SUPPLEMENTARY REPORT:  (18.1.66)
+Report from ORANGE HEALTH SERVICE Cancer Centre, YAROOMBA:
+Reported by:  WADJARRI Rudolf;  Authorised by:  Patricia CUTI.
+PATHOLOGY REVIEW:
+Histological typing:  Adenocarcinoma
+The sample was reviewed by a pathologist and was considered to contain 30% tumour cells within the area selected for analysis.
+(Note:  This is not a formal Pathologyreview and is based solely on an H&E of the tissue provided and not as ancillary clinical or pathology information that may be available elsewhere).
+
+COLORECTAL PANEL MUTATION ANALYSIS
+KRAS:  No mutation detected
+             May respond to anti-EGFRtherapy
+NRAS:  No mutation detected
+             May respond to anti-EGFR therapy
+BRAF:  No mutation detected
+
+KRAS & NRAS genes are frequently mutated in metastatic colorectal tumours, in particular at codons: 12, 13, 59, 61, 117 and 146.  Approximately 35-45% of these tumours will harbour a mutation of the KRAS gene, with NRAS gene mutations accounting for an additional 6% of cases.  Approximately 90% of all RAS mutations occur at codons 12 and 13 of KRAS.  RAS gene mutations lead to constitutive activation of EGFR downstream pathways and patients with these mutations areunlikely to benefit from anti-EGFR therapy.
+
+BRAF gene mutations are found in approximately 10-15% of colorectal tumours with approximately 90% being the p.Val600Glu (V600E) mutation.  The presence of a V600E BRAF mutation is associated with a poor prognosis irrespective of treatment.
+TEST DESCRIPTION:
+Next generation sequencing is performed on DNA extracted from macro-dissected FFPE tumour tissue followed by targeted mutational analysis of the KRAS (exons 2, 3 & 4), NRAS (exons 2, 3 & 4) and BRAF (exons 11 & 15) genes.  Analysis of low quality samples may be supplemented with additional techniques including Sanger sequencing, high resolution melt (HM) analysis, real-time PCR, pyro-sequencing and cobas (r) (Roche Molecular Diagnostics) mutation test assays.
+Note:  Synonymous changes and intronic variants outside of splice-sites are not reported.
+REFERENCES
+* Catalogue of Somatic Mutations in Cancer: http.//www.sangar.ac.uk/qeneticsn/CGP/cosmic/.
+* Luo H-Y et al. (2014) World Journal of Gastroenterology 20(14):3858-3874
+* Vaughn C at a1 (2011) Genes, Chromosome & Cancer 50:307-312
+* Douillard J-Y at al. (2013) New England Journal Medicine 369(11):1023-1034 
+* Yokota T (2012) anti-cancer Agents in Medicinal Chemistry 12:163-171
+* Reference sequence GenBank accession numbers: KRAS: NM_033360.2, NRA: NM_00254.3 and BRAF:NM_004333.4
+

@@ -1,0 +1,47 @@
+SPR no: 13M964379H
+MRN no: 1349643
+Site_name: KUNUNURRA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrial cancer.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and right ovary&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and right ovary weighing 1225g in total.  The uterus measures 150mm superior to inferior x 155mm medial to lateral (75mm cornu to cornu) and 80mm anterior to posterior.  The serosal surface is smooth and shiny.  The ectocervix measures 30 x 18mm and has an unremarkable surface.  The right ovary is 25 x 17 x 10mm and appears unremarkable.  The right fallopian tube is 65mm in length with a maximum diameter of 5mm.  .  The left fallopian tube is 55mm in length x 5mm in maximum diameter and appears unremarkable. On sectioning, a cream to dark brown fungating tumour is present involving the entire endometrial cavity and lower segment and extending down into the cervical canal.  This tumour extends to a depth of 20mm through a wall thickness of 25mm in the anterior lower uterine segment, and 20mm in depth through a wall thickness of 30mm in the posterior uterine body. A relatively well circumscribed 105 x 83 x 100mm firm cream lesion is also present within the myometrium of the right uterine wall, which may represent extension of the presumed endometrial tumour, or a separate lesion (?leiomyoma).
+Blocks:  1 &amp;amp; 2 - right ovary and fallopian tube; 3 - left fallopian tube; 4 to 13 - full LS of posterior body and cervix; 14 to 28 - full LS of anterior body and cervix; 29 - tumour near left anterior cervix; 30 to 34 - ? leiomyoma anterior uterine body; 35 - tumour near posterior cervix (left); 36 - tumour near posterior cervix (right); 37 - tumour near posterior lower uterine segment (left); 38 to 41 - ? leiomyoma posterior uterine body.
+
+B.  Specimen labelled &amp;quot;Left ovarian mass&amp;quot;, consists of a 125 x 70 x 60mm firm lobulated ovary weighing 320g.  The serosal surface is smooth and shiny.  On sectioning, the cut surface is diffusely pale yellow with occasional cream fibrous regions.  A 33 x 25 x 13mm thin walled cyst (&amp;lt;1mm wall thickness) is present at one end, with a smooth inner lining containing dark brown material.  No papillary excrescences or solid regions are identified.
+Blocks:  1 to 10 - representative sections of tumour (block 4 with haemorrhagic cyst)
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of 85 x 65 x 25mm omental fat.  No lesions are identified.
+Blocks:  1 to 3 - representative sections.
+
+D.  Specimen labelled &amp;quot;Posterior vaginal wall biopsy&amp;quot;, consists of a 5 x 3 x 3mm dark brown tissue.  AE 1  block.  (TO: KM; KM/eh 23/5/2066)
+
+MICROSCOPIC (Reported by Dr C Clerc):
+A.  Sections show an very extensive grade 2 endometrioid adenocarcinoma of the endometrium involving the entire endometrial cavity, lower segment, and the upper endocervical stroma.  The tumour has a maximum depth of invasion of 20mm through a wall 24mm thick.  No definite lymphvascular invasion is seen.  The ectocervix is uninvolved and ulcerated.  Tumour extends to within 8mm of the vaginal margin.
+In addition the uterus shows a very large degenerating benign cellular leiomyoma.  Mitoses are scant, there is no significant atypia and no coagulative necrosis.
+The right ovary and both tubes are unremarkable.
+MSI stains are pending.
+
+B.  Sections show a large benign thecoma which is focally luteinised.  An adjacent small serous cystadenofibroma is noted.  There is no evidence of malignancy.
+
+C.  The omentum shows no evidence of malignancy.
+
+D.  Sections show inflamed granulation tissue and fibrin.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+Extensive grade 2 endometrioid adenocarcinoma of the endometrium, depth of invasion 20mm through a wall 24mm thick, endocervical stromal involvement present.  No definite lymphvascular invasion.  Omentum negative.  Large left ovarian luteinised thecoma.
+ADDITIONAL REPORT 5/7/65:
+
+Immunoperoxidase stains for MSI proteins:
+
+MLH1:  Loss of nuclear staining
+PMS2:  Loss of nuclear staining
+MSH2:  Preserved nuclear staining
+MSH6:  Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+This result was discussed with Dr C. Clamp on 5/7/65.

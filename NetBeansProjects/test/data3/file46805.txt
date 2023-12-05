@@ -1,0 +1,32 @@
+SPR no: 57C124181O
+MRN no: 10549487
+Site_name: WONDAI HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 3 endometrial carcinoma with mixed clear cell/papillary morphology.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;L external iliac lymph node&amp;quot;, consists of fatty tissue with ? lymph nodes approximately 17mm in total.  Fat trimmed.  Remainder for FS (in five pieces).  AE 1 block.
+FROZEN SECTION:  One negative lymph node (0/1)
+Result to Dr Kohlmeyer by Dr O Belliston 18:40pm on 23.05.66.
+B.  Specimen labelled &amp;quot;Cervix, uterus, bilateral fallopian tubes + ovaries&amp;quot;, consists of a uterus with attached, bilateral fallopian tubes and ovaries weighing 96g in total. The uterus measures 85 x 65 x 32mm and has a smooth and shiny serosal surface.  The ectocervix measures 37 x 33mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 15mm in maximum thickness.  The myometrium contains a fibroid measuring 15mm in diameter.  The right fallopian tube measures 40mm in length and 6mm in maximum diameter.  The right ovary measures 24 x 11 x 11mm and has an unremarkable cut surface.  The left fallopian tube measures 25mm in length and 6mm in maximum diameter.  The left ovary measures 33 x 12 x 7mm and has an unremarkable cut surface.
+Blocks 1-3 - full LS of anterior body and cervix; 4 &amp;amp; 5 - slice 7 of anterior body (myometrium fibroid); 6-8 - full LS of posterior body and cervix; 9 &amp;amp; 10 - RS of slice 6 and 7 of posterior body (myometrium fibroid); 11 - right fallopian tube; 12 - RS of right ovary; 13 - left fallopian tube; 14 - left ovary RS.  RS 14 blocks.
+C.  Specimen labelled &amp;quot;Right external iliac sentinel lymph node&amp;quot;, consists of a piece of unoriented irregularly shaped fibrofatty tissue measuring 28 x 15 x 5mm.  Two possible lymph nodes are identified ranging from 5mm to 18mm.  AE 2 blocks (1 - one possible lymph node serially sliced,
+2 - one lymph node).
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of unoriented irregularly shaped fibrofatty tissue measuring 100 x 54 x 13mm.  The specimen is serially sliced.  No lymph nodes, nodules or lesions are identified.  RS 3 blocks.  (TO:JM/ec 27/7/69)
+MICROSCOPIC (Reported by Dr O Solares):
+A.  One lymph node shows no evidence of malignancy.
+B.  Sections show a grade 3 endometrioid adenocarcinoma of the endometrium.  The tumour has a maximum depth of invasion of 6mm through a wall 16mm thick.  No lymphvascular invasion is seen.  The ectocervix is ulcerated.  The endocervix is uninvolved and unremarkable.
+Both tubes and ovaries are unremarkable.
+C.  Two lymph nodes show no evidence of malignancy.
+D.   The omentum is unremarkable.  There is no evidence of malignancy.
+DIAGNOSIS:
+Grade 3 endometrioid adenocarcinoma of the endometrium, depth 6mm through a wall 16mm thick.  Cervix uninvolved.  Three lymph nodes and the omentum are negative.
+ADDITIONAL REPORT 9/7/66:
+As requested, immunoperoxidase stains for MSI proteins were performed.
+MLH1  Loss of nuclear staining
+PMS2  Loss of nuclear staining
+MSH2  Preserved nuclear staining
+MSH6   Equivocal nuclear staining.
+
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes above is associated with microsatellite instability phenotype (MSI) and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

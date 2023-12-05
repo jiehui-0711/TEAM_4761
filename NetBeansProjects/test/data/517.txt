@@ -1,0 +1,84 @@
+Episode No:  83V255071L
+838255.BSD
+
+STERN, LUCIE 
+Lab No:  83V25507
+Doctor Paul Ware
+WALGETT  New South Wales  6160
+Specimen: Tissue
+D.O.B:  3/8/1997
+Sex:  F
+Collected: 28/08/2013 at 12:21
+Location:  Anat Path-MARGARET RIVER HOSPITAL
+DR MAXIMO HOLLIS LUTHER-ABREW
+Distribution:  DR Lundi,  FILE-COPY,  FILE-COPY
+CLINICAL:
+Left breast Ca 12 o'clock adjacent to nipple.  Second lesion at 12 o'c 2cm from nipple seen on ultrasound.  Proven axillary metastasis. Central partial mastectomy plus axillary lymph node clearance.  
+MACROSCOPIC:
+A.  Specimen labelled "Left breast lesion with nipple plus marking suture.  Short superior medium medial long lateral", consists of a wide local excision with one hook wire exceeding from the superficial margin.  The specimen is x-rayed and measures 42mm (superficial to deep) x 30mm (superior to inferior) x 55mm (medial to lateral).  The ellipse of skin with nipple and areola complex measures 55 x 25mm.  The skin surface is unremarkable.  The specimen is inked as follows: blue superior margin, black inferior margin, red deep margin.  The specimen is serially sectioned from medial to lateral into 11 slices.  Slice 1 medial margin and slice 11 is lateral margin. In slices 5 to 8 in the retro areola area there is a gritty irregular mass measuring 20 x 25 x 23mm.  This lesion abuts the inferior margin in slice 7.  The rest of the parenchyma has a fibrofatty appearance.  In the inferiormargin there is a false cut measuring 15mm in length.  The specimen is AE according to the attached diagram.
+Blocks: 1 to 3 - medial margin (slice 1); 4 and 5 - slice 2; 6 to 8 - slice 3; 9 to 12 - slice 4; 13 to 17 - slice 5; 18 to 23 - slice 6; 24 to 29 - slice 7; 30 to 35 - slice 8; 36 to 41 - slice 9; 42 to 44 - slice 10; 45 to 47 - slice 11.
+B.  Specimen labelled "Level 1 left axilla", consists of an irregular piece of fatty tissue 40 x 30 x 20mm containing six lymph nodes ranging from 2 to 15mm.  
+Blocks: 1 to 6 - lymph nodes. 
+C.  Specimen labelled "Level 2 left axilla", consists of an irregular piece of fibrofatty tissue 20 x 20 x 10mm containing five lymph nodes ranging from 4 to 12mm.  
+Blocks: 1 and 2 - lymph nodes.  (TO: HW;HS/vo 11.4.63) 
+MICROSCOPIC (Reported by Dr V Kassabian):
+Sections show a single 35mm grade 3 invasive ductal carcinoma.  The tumour is dumbbell shaped (presumably accounting for the radiologicalimpression of two tumours) with a retroareolar expansion which includes involvement of the dermis of the nipple and a contiguous expansion superolateralto the nipple.  Retraction artifact and poor fixation makes it is difficult to distinguish lymphovascular invasion from solid ductal carcinoma in situ (DCIS).  There is, however, extensive lymphovascular invasion including foci at the superior margin and dermis of the nipple and dispersed foci of high grade DCIS across 35mm.  Fourteen (14) of fifteen (15) level 1 and 2 left axillary lymph nodes contain metastatic ductal carcinoma (14/15) and there are foci of extranodal extension. 
+A synoptic report follows:
+Specimens:  Left central partial mastectomy, level 1 and 2 left axillary lymph node dissection.
+Invasive carcinoma:
+Site: Retroareolar and extending contiguously lateral to nipple
+Type: Invasive ductal carcinoma NST
+Invasive tumour size: Approximately 35mm (across 7 consecutive slices)
+Grade (Modified Bloom & Richardson):
+Tubules: 3     Nuclei:  3    Mitoses:   2   Mitotic rate: 14/10hpf.
+Lymphovascular invasion: Present; extensive 
+There is lymphovascular invasion both at and well beyond the advancing edge of tumour (eg A27, A22).  There are foci of lymphovascular invasion at the superior margin (A28, A34) and within the retroareolar dermis (A12).
+	    component:  
+DCIS:  Present
+Maximum extent of DCIS: Approximately 35mm (7 consecutive slices)
+Nuclear grade: High 
+Architecture: Solid and comedo
+Necrosis:   Present 
+Calcification: Present
+Degree of DCIS in tumour:  Minor
+DCIS in adjacent tissue:  Moderate
+Excision Margins:  
+Invasive component: superior margin 0.5mm (A17, A34) including with foci of probable lymphovascular invasion (A34), superficial margin 5mm (A17), inferior margin 7.3mm (A16) and well clear (>10mm) from other margins.
+In-situ component: superior margin0.2mm (A22) without intervening normal ducts, superficial margin 5mm (A17),well clear from other margins/
+Receptors (Block: A17): 
+ER:  Positive
+	95 % of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	At least 30% of nuclei stained (suboptimal stain)
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7): Negative (1+)
+HER2 CISH (Performed at QUORN HEALTH SERVICES Hospital - see separate report)
+Ki-67 index: Heterogeneous but up to 45%.
+Nipple:  The subepithelial stroma/dermis of the nipple is infiltrated by ductal carcinoma and there are foci of dermal lymphovascular invasion. 
+
+Paget's disease:  Not seen.
+LCIS / ALH:  Not seen.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 0
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 15 (level 1-13, level 2-2)
+Number of axillary lymph nodes involved by tumour: 14 (12/13 level 1, 2/2 level 2)     
+Number of axillary nodes with metastases >2.0mm:  14  
+Number of axillary nodes with metastases <2.0mm:  0   
+Number of axillary nodes with isolated tumour cells <0.2mm: 0       
+Extra nodal spread:   Present in multiple lymph nodes 
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  15
+Total number of involved lymph nodes (including sentinel node(s)):   14
+
+
+DIAGNOSIS:
+A-C.  Left breast central partial mastectomy, level 1 and 2 left axillary clearance.
+-   Invasive ductal carcinoma, NST, 35mm, grade 3; 0.5mm from superior margin, other margins clear; extensive lymphovascular invasion (including at the superior margin and dermal); ER positive, PR positive; HER2 -see separate report ; 
+-   High grade DCIS across 35mm; 0.2mm from superior margin; other margins well clear
+-   Metastatic carcinoma in fourteen (14) of fifteen (15) left axillary lymph nodes (14/15); extranodal extension present.
+
+
+

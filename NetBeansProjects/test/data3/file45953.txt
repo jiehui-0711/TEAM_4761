@@ -1,0 +1,34 @@
+SPR no: 55L977921R
+MRN no: 10499198
+Site_name: CALVARY HEALTH CARE SYDNEY LTD
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Serous borderline ovarian tumour.  CA-125 22.  DM type 1 pre-op.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cervix, uterus, bilateral fallopian tubes + ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 198g in total.  The uterus appears distorted, making definitive orientation difficult.  The uterus measures 105 x 75 x 43mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 30mm and has an unremarkable surface.  The endometrium is up to 3mm thick and the myometrium up to 29mm thick.  There are multiple intramural and subserosal fibroids ranging from 6 to 20mm.  The presumed right fallopian tube is 120mm in length and 7mm diameter.  The right ovary measures 40 x 40 x 20mm.  The right ovary contains multiple cysts ranging from 3 to 11mm.  There is a haemorrhagic area in the right parametrium.  The left fallopian tube is 66mm in length and 8mm diameter.  The left ovary measures 34 x 23 x 16mm and contains multiple cysts ranging from 3 to 7mm.
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 - subserosal anterior fibroid; 6 - anterior endometrium; 7 - anterior fibroid; 8 to 11 - full LS of posterior body and cervix; 12 and 13 - right fimbriae; 14 to 19 - serially embedded TS of right fallopian tube from ovary towards uterus; 20 - right parametrium; 21 to 31 - right ovary; 32 - left fimbriae; 33 to 37 - serially embedded TS left fallopian tube from ovary towards uterus; 38 to 42 - left ovary (42 - includes left parametrium).
+
+B.  Specimen labelled &amp;quot;Left buttock skin tag&amp;quot;, consists of a polypoid piece of skin measuring 4 x 3 x 2mm.  BAE 1 block.
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of adipose tissue, 125 x 85 x 6mm.  RS 3 blocks.   (TO:WP/vo 4/8/69)
+
+
+MICROSCOPIC (Reported by Dr N Satmary):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is early secretory.  The myometrium shows leiomyomas.  Foci of endometriosis are present over both anterior and posterior uterine serosa.  The presumed right fallopian tube and ovary shows several foreign body-type granulomas, consistent with prior surgery.  Both ovaries contain benign follicular cysts and corpus luteum cysts.  The left fallopian tube shows no significant abnormality.  There is no evidence of malignancy.
+
+B.  The sections show a polyp composed of keratinised squamous epithelium with underlying fibrovascular stroma, consistent with a fibroepithelial polyp (skin tag).  There is no evidence of dysplasia or malignancy.
+
+C.  The sections of omentum show focal endosalpingiosis.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Uterus with cervix, bilateral fallopian tubes and ovaries:
+-  Uterine leiomyomas.
+-  Endometriosis of uterine serosa.
+-  No evidence of tumour.
+
+B.  Left buttock:  Fibroepithelial polyp.
+
+C.  Omentum:  Endosalpingiosis only.

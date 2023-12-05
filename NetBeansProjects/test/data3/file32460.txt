@@ -1,0 +1,46 @@
+SPR no: 35N404454T
+MRN no: 35540445
+Site_name: BATLOW/ADELONG MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian mass.  Hx bowel cancer.  Right pelvic side wall mass.  Uterus ovaries and tubes. Three pigmented lesions of fourchette. Omental biopsy.
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right pelvic side wall mass&amp;quot;, consists of a solid mass measuring 75 x 50 x 30mm.  The external surface is smooth and intact.  The cut surface is whorled and pale grey and appears oedematous.  No necrotic or haemorrhagic areas identified.  Two representative sections for frozen section.
+Blocks: 1 and 2 - frozen section; 3 to 10 - representative mass.
+
+FROZEN SECTION REPORT:
+Benign favour leiomyoma, Ddx fibroma.
+Phone result to Dr K Dowey by Dr K Updyke at 11:35am on 16.02.2070.
+
+B.  Specimen labelled &amp;quot;Uterus tubes ovaries cervix&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 128 grams in total.  The uterus measures 105 x 70 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 23mm and is unremarkable.  The endometrium is up to 2mm in thickness and the myometrium is up to 20mm in maximum thickness.  The myometrium appears trabeculated but unremarkable.  The right fallopian tube is in two segments and measures 57mm in length x 6mm in diameter.  The right ovary measures 25 x 23 x 15mm and the cut surface contains haemorrhagic cysts.  The left fallopian tube is in two segments and measures 55mm in length x 7mm in diameter.  The left ovary measures 30 x 20 x 18mm and the cut surface shows a cyst 10mm in diameter.  The cyst has a smooth inner lining and contains clear haemoserous fluid.  The fallopian tube is unremarkable.  Representative sections
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to 8 - full LS of posterior body and cervix; 9 - right fallopian tube; 10 - right ovary; 11 and 12 - left fallopian tube; 13 - left ovary.
+
+C.  Specimen labelled &amp;quot;Vulva punch biopsy&amp;quot;, consists of a 4mm punch biopsy of skin to a depth of 4mm.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of fibroadipose tissue, 37 x 22 x 10mm.   No focal lesions are identified on sectioning.  Representative sections in 3 blocks.
+(TO:JL/vo 18/2/70)
+
+
+MICROSCOPIC (Reported by Dr K Locust):
+A.  Sections show a hyalinised benign smooth muscle tumour which has some fat within it (lipoleiomyoma).  There is no significant atypia and there is no evidence of malignancy.  No necrosis is seen.  With immunostains the tumour cells stain smooth muscle actin positive but stains for melan-A and HMB 45 are negative..
+
+B.  Sections of the cervix are unremarkable.  Sections of the endometrium show that this is in early proliferative phase.  The myometrium has focal adenomyosis but is otherwise unremarkable.
+The described cyst in the left ovary is a simple cyst.  The ovaries and fallopian tubes are otherwise unremarkable.
+
+C.  Sections show stratified squamous epithelium with underlying tissue.  There is increased pigmentation of basal keratinocytes with some pigment also seen in the superficial underlying tissue.  No significant melanocytic proliferation is seen.  The features are of vulval melanosis.  There is no evidence of malignancy.
+
+D.  Sections show unremarkable fat.  No abnormality is seen.
+
+
+DIAGNOSIS:
+A.  Right pelvic side wall mass:  Lipoleiomyoma.
+
+B.  Uterus, ovaries and fallopian tubes:
+1.  Simple cyst left ovary.
+2.  Focal adenomyosis.
+
+C.  Punch biopsy vulva:  Melanosis.
+
+D.  Omental biopsy:  No abnormality seen.

@@ -1,0 +1,109 @@
+Episode No:  01Z395670B
+019395.RSB
+
+WILLARS, Felicia 
+Lab No:  01Z39567
+Casimere
+COLAC    5139
+Specimen: Tissue
+D.O.B:  22/3/1999
+Sex:  F
+Collected: 12/2/2063 at :
+Location:  Pathwest-TOWNSVILLE UNIVERSITY HOSPITAL
+DR Fernando DEAN Brain-MANGANARO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right axilla sentinel node.  Right 10 o'clock 18mm IDC.  Left 8 o'clock 40mm IDC.  Left axilla code 5 lymph node.  Bilateral mastectomy + left axilla contents.  Sutures:  Shortsuperior, long lateral.
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel lymph node" consists of a piece of fatty tissue 22 x 20 x 5mm containing a single lymph node.  Three TS.  Cut section of node appears unremarkable.  Imprints x2 + scrape x1 of each surface.
+Block:  1 - one lymph node.
+Imprint cytology:  No evidence of metastatic carcinoma, but monotonous lymphoid population ?resting node ?CLL await paraffins.  Results via anaesthetist to Dr Ahmad-Teichmann by Dr A. Bussell.
+B.  Specimen labelled "Right breast long lateral, short superior" consists of a breast measuring 262 (lateral to medial) x 180 (superior to inferior) x 70mm(superficial to deep).  The overlying skin measures 110 x 65mm bearing a prominent nipple 50mm in maximum dimension.  The skin appears unremarkable.  The superficial margin is inked blue and the deep margin is inked black.  Specimen is sliced.  There are extensive pale fibrotic areas.  At 9 o'clock 103mm from the nipple there is a stellate scar 12 x 10 x 8mm.  This stellate scar is 2mm from superficial margin away from skin, 15mm from deep and 30mm from lateral margin.  It is well clear of all other margin.
+Blocks:  1 & 2 - the stellate scar with superficial margin; 3 - lateral margin closest to the stellate lesion; 4 - deep margin closest to the stellate lesion; 5 - 10 o'clock 60mm from the nipple; 6 - 11 o'clock 75mm from the nipple; 7 - 10 o'clock 17mm from the nipple; 8 - 10 o'clock 90mm from nipple; 9 - 9 o'clock 50mm from nipple; 10 - 10 o'clock 30mm from nipple; 11 & 12 - random sections lower outer quadrant; 13 & 14 - random sections lower inner quadrant; 15 & 16 - random sections upper inner quadrant; 17 - section of nipple; 18 - tissue behind nipple.  Please see the diagram.
+C.  Specimen labelled "Left breast 1372g short superior, long lateral" consists of a breast with two marking stitches measuring 280 (lateral to medial) x 200 (superior to inferior) x 60mm (superficial to deep).  The overlying skin measures 200 x 70 bearing a prominent nipple 15mm in maximum dimension.  The skin surface is unremarkable.  Superficial margin is inked blue and deep margin is inked black.  At 8 o'clock 10mm from the nipple is an indurated tumour with pale and focally haemorrhagic cut surface measuring 42 x 23 x 25mm.  The tumour is 7mm from superficial, 47mm from deep, 90mm from superior, 70mm from inferior, 40mm from medialand 170mm from lateral margins.
+Blocks:  1 - tumour and superficial margin; 2 - section of tumour (ER, PR, Her-2, Ki 67 requested); 3 - section of tumour (reserved block); 4 - section of tumour and adjacent skin;5 - section of tumour; 6 - deep margin closest to tumour (macroscopically free of tumour); 7 - section of nipple; 8 - tissue behind nipple; 9 & 10 - random sections upper inner quadrant; 11 & 12 - randomsections lower inner quadrant; 13 & 14 - random sections lower outer quadrant; 15 & 16 - random sections upper outer quadrant.
+D.  Specimen labelled "Left axillary contents" consists of one larger piece and few smallerfragments of fatty tissue 80 x 60 x 25mm in aggregate.  Specimen is sliced and examined for lymph node.  Several lymph nodes are identified.  The largest lymph node is 25mm in maximum dimension.
+Blocks:  1 - lymph nodes are seen; 2 - one bisected lymph node; 3 & 4 - the largest lymph node; 5 & 6 - one lymph node; 7 - one bisected lymph node; 8 - one bisected lymph node; 9 - two trisected lymph node; 10 - lymph nodes are seen; 11 - one bisected lymph node.  (TO: VM; OD/rt 13.2.63)
+MICROSCOPIC (Reported by Dr A Hessell):
+A.  The lymph node is negative for tumour.  The CAM 5.2 is negative.  
+B.  Sections show a grade 2 infiltrating lobular carcinoma (t=3, n=2, m=1, mitoses <1/10HPF).  The tumour (size 12mm) is located laterally at 9 o'clock and is 3mm clear of the superficial margin (not covered by skin).  The deep margin is 15mm clear and the lateral margin 30mm clear.  
+There are no other foci of infiltrating tumour and the nipple and areolaappear normal.  There is an incidental 2mm focus of ADH (atypical ductal hyperplasia) in the lower inner quadrant. 
+Invasive carcinoma: (Right breastplus sentinel node)
+Site: Rightbreast mastectomy
+Type: Infiltrating lobular carcinoma
+Invasive tumour size: 12mm
+Grade 2(Modified Bloom & Richardson):
+Tubules: 3     Nuclei: 2     Mitoses: 1    Mitotic rate: <1/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component:  superficial 3mm, deep 15mm, lateral 30mm
+In-situ component: n/a
+Receptors (Block B2): 
+ER:  positive
+	>95% of nuclei stained
+	predominant intensity of staining:  strong
+PR:  positive
+	30% of nuclei stained
+	predominant intensity of staining:  moderate
+HER2 (Novocastra 10A7): negative
+HER2 SISH:  Performed at Humana Inc, SOUTH WEST HEALTHCARE - WARRNAMBOOL CAMPUS Hospital, see separate report.
+Ki-67 index: 10%
+Nipple:  Normal
+LCIS / ALH:    Absent
+Miscellaneous: Incidental 2mm focus of ADH in lower inner quadrant
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1
+Number of sentinel lymph nodes involved by tumour: 0         
+Axillary/othernodes:
+Number of axillary lymph nodes examined: 0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node):  1
+Total number of involved lymph nodes (including sentinel node):   0
+ 
+C.  Sections show a grade 3 infiltrating ductal carcinoma (t=3, n=3, m=2, mitoses 8/10HPF).  The tumour measures 42 x23 25mm (grossly) but there is widespread surrounding LVI (lymphovascular invasion) and secondary tumour nodules so that the true dimensions is much greater.  Extensive LVI is seen in the lower inner quadrant away from the mass and in overlying dermal lymphatics.  Multiple secondary tumour nodules are seen deep to the nipple and areola complex.  The closest margin is superficial (away from skin) which is 7mm clear.  The deep margin is 40mm clear and other margins well clear.  
+Random sections from other quadrants show no other tumour deposits and there is no DCIS.  
+D.  Five (5) of the fifteen (15) left axillary nodes identified contain metatatic ductal carcinoma with focal perinodal spread. 
+Invasive carcinoma: (left breast plus axillary nodes)
+Site: Left breast mastectomy.
+Type: Infiltrating ductal carcinoma. 
+Invasive tumour size: 42 x 23 x 25mm plus secondary nodules.
+Grade 3(Modified Bloom & Richardson):
+Tubules: 3     Nuclei: 3     Mitoses: 2     Mitotic rate:     8 /10hpf.
+Lymphovascular invasion:  present - extensive
+	    
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component: Superficial 7mm, other margins well clear. 
+In-situ component: n/a
+Receptors (Block C2): 
+ER:  Positive
+	90% of nuclei stained
+	predominant intensity of staining: Strong 
+PR:   Positive
+	15% of nuclei stained
+	predominant intensity ofstaining: Moderate 
+HER2 (Novocastra 10A7): negative (0/1+)
+HER2 SISH:  Performed at W.W. Grainger Inc, BELLINGER RIVER DISTRICT HOSPITAL Hospital, see separate report.
+Ki-67 index: About 10%
+Nipple:Multiple secondary tumour nodules and widespread LVI, no Paget's disease.
+LCIS / ALH:  Absent  
+Miscellaneous: No
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 0
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 15of axillary lymph nodes involved by tumour: 5         
+Number of axillary nodes with metastases >2.0mm:  2  
+Number of axillary nodes with metastases <2.0mm: 3     
+Extranodal spread:  Present 3mm in extent  
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 15  
+Total number of involved lymph nodes (including sentinel node(s)): 5  
+ 
+
+  
+

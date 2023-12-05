@@ -1,0 +1,116 @@
+SPR no: 30A248307V
+MRN no: 3002483
+Site_name: KUNUNOPPIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  30A248307V
+3002483.BTV
+
+ZABEK, KENIA CLARISA
+Lab No:  30A24830
+&amp;apos;COROMANDEL&amp;apos;
+RENMARK  QLD  7024
+Specimen: Tissue
+D.O.B:  11/11/1988
+Sex:  F
+Collected: 27/04/2015 at 08:58
+Location:  2 BUNDEENA DR-ALICE SPRINGS HOSPITAL
+DR EDMUNDO QUADE MADOLE
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Left breast Ca.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left sentinel node&amp;#8221;, consists of a piece of fibroadipose tissue measuring 30 x 24 x 10mm.  On sectioning, there is a thinrim of lymphoid tissue which appears to extend over the length of the specimen.  AE 4 blocks, sequentially embedded.
+B.  Specimen labelled &amp;#8220;Left breast tissue&amp;#8221;, consists of a mastectomy specimen measuring 190 x 130 x 70mm.  There is an overlying ellipse of skin measuring 232 x 120mm.  There is a suture at one skin apex marking lateral.  Superficial margin inked blue, and the deep margin is inked black. The nipple measures 15mm in diameter and is situated93mm from the medial skin apex and 45mm from the inferior skin edge.  On sectioning, two tumours (arbitrarily designated tumour one and tumour two) are identified.  Tumour one is a firm, ovoid tumour located deep to the nipple at the 12o&amp;apos;clock position.  Tumour one measures 21mm (superficial to deep) x 19mm (superior to inferior) x  21mm (medial to lateral).  Tumour one  is 55mm from the deep margin, 40mm from inferior margin and 67mm from the superior margin. Thereis cystic region (23 x 22 x 10mm) with scattered calcifications located 17mm inferior to tumour one.  Tumour two is a firm, stellate tumour located at roughly the 2 o&amp;apos;clock position 55mm from the nipple.  Tumour two measures 7mm (superficial to deep) x 9mm (superior to inferior) x 7mm (medial to lateral).  Tumour two is 27mm from the deep margin, 35mm from inferior margin, 45mm from the superior margin and 22mm deep to the skin.  Tumour one and tumour two are located about 60mm apart.  RS 21 blocks.
+Blocks: 1 to 3 &amp;#8211; tumour one including nipple (B2 reserve block); 4 &amp;#8211; cystic/calcified area inferior to tumour one; 5 &amp;#8211; tissue directly medial to tumour one; 6 &amp;#8211; tissue directly lateral to tumour one; 7 &amp;amp; 8 &amp;#8211; tumour two; 9 &amp;#8211; medial to tumour 2, 10 &amp;#8211; tissue between tumour one and tumour two; 11 &amp;#8211; tissue lateral to tumour two; 12 &amp;#8211; skin inferior to tumour one; 13 &amp;#8211; skin superior to tumour one; 14 &amp;amp; 15 &amp;#8211; representative left upper quadrant; 16 &amp;amp; 17 &amp;#8211; representative left lower quadrant; 18 &amp;amp; 19 &amp;#8211; representative right upper quadrant; 20 &amp;amp; 21 &amp;#8211; representative right lower quadrant.
+Additional tissue embedded 1 June 2065.  Blocks: 22 &amp;#8211; deep margin directly superior to tumour two; 23 &amp;#8211; superior margin in the region of tumour two; 24 to 27 &amp;#8211; representative intervening tissue between tumour one and tumour two.   Please refer to block diagram.  (TO: JB;JB/ta 30/6/65)
+
+
+
+
+MICROSCOPIC (Reported by Dr J Kuykendall):
+A &amp;amp; B.  Sections show two separate invasive carcinomas arising in discontinuous field of atypical ductal hyperplasia and predominantly low grade and focally intermediate grade ductal carcinoma in-situ (DCIS).There is some fixation artefact present.  The single sentinel lymph node contains metastatic carcinoma. A synoptic report follows:
+
+Synoptic Report for Breast Carcinoma
+
+Invasive carcinoma (Tumour 1):
+Site: Nipple
+Type: Infiltrating ductal carcinoma, NST
+Invasive tumour size: 19.5mm
+Grade (Modified Bloom &amp;amp; Richardson): 1
+Tubules: 1     Nuclei: 2     Mitoses: 1     Mitotic rate:     3 /10hpf.
+Lymphovascular invasion:  Not seen
+Invasive carcinoma (Tumour 2):
+Site: 2 o&amp;#8217;clock, 55mm from nipple
+Type: Infiltrating ductal carcinoma with tubular features
+As there are areas with grade 2 nuclei within this tumour it is classified as a ductal carcinoma with tubular features rather than a tubular carcinoma.
+Invasive tumour size: At least 12mm (3 consecutive slices)
+Grade (Modified Bloom &amp;amp; Richardson): 1
+Tubules: 1     Nuclei: 2Mitoses: 1     Mitotic rate: 2 /10hpf.
+Lymphovascular invasion:  Not seen
+DCIS component:
+DCIS: Present
+Maximum extent of DCIS: Discontinuously over at least 90mm (B1 to B11)
+Nuclear grade: Predominantly low, focally intermediate
+Architecture: Micropapillary, cribriform and solid
+Necrosis: Absent
+Calcification: Present
+Degree of DCIS in tumour: Mild
+DCIS in adjacent tissue:  Mild
+AtypicalDuctal Hyperplasia
+Present
+Degree:  Moderate
+Excision Margins
+Invasive component (tumours 1 and 2): All margins well clear (&amp;gt;10mm)
+In-situ component: All margins well clear (&amp;gt;10mm)
+Atypical ductal hyperplasia:  All margins clear (&amp;gt;5mm)
+
+Receptors: (Tumour 1, block B1):
+ER:  Positive
+95% of nuclei stained
+predominantintensity of staining:  Moderate
+PR:  Positive
+80% of nuclei stained
+predominant intensity of staining: Moderate
+HER2 (Novocastra 10A7): 0 (negative)
+Ki-67 index:  Approximately 10%
+Receptors:  (Tumour 2, Block B7):
+ER:  Positive
+95% of nuclei stained
+predominant intensity of staining:  Moderate
+PR:  Positive
+80% of nuclei stained
+predominant intensity of staining: Moderate
+HER2 (Novocastra 10A7): +1 (negative)
+HER2 SISH (see separate report)
+Ki-67 index: 2%
+Nipple:  The stroma underlying the nipple in infiltrated by invasive carcinoma
+Paget&amp;#8217;s:  Not seen.
+
+LCIS / ALH:  Focal (B4)
+Miscellaneous:
+In the vicinity of the invasive tumours, as well as between them, there are cysts, columnar cell change and columnar cell change with superimposed architectural and cytological atypia equivalent to atypical duct hyperplasia.  The breast lobules away from these areas are atrophic.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1
+Number of sentinel lymph nodes involved by tumour: 1
+Number of sentinel nodes with metastases &amp;gt;2.0mm:  1 (several deposits individually measuring up to 3.5mm)(eg A2L6)
+Number of sentinel nodes with metastases &amp;lt;2.0mm: 0
+Detected by: H&amp;amp;E stain
+Number of sentinel nodes with isolated tumour cells &amp;lt;0.2mm: 0
+Detected by:
+Extranodal spread: Present (0.2mm beyond capsule of node over front of 0.6mm)(A4L2)
+Axillary/other nodes: N/A
+
+Lymph nodetotal:
+Total number of lymph nodes examined (including sentinel node(s)):   1
+Total number of involved lymph nodes (including sentinel node(s)):   1
+
+
+DIAGNOSIS:
+A &amp;amp; B.  Left mastectomy and left sentinel lymph node:
+-  Two separate infiltrating ductal carcinomas
+-  19.5mm grade 1 infiltrating duct carcinoma, NST, at nipple, ER positive,PR positive, HER2 SISH (see separate report), margins clear.
+-  12mm grade 1 infiltrating duct carcinoma with tubular features, 2 o&amp;#8217;clock 55mm FN, ER positive, PR positive, HER2 SISH (see separate report), margins clear.
+-  Atypical ductal hyperplasia, predominantly low and focally intermediate grade ductal carcinoma in-situ, margins clear.
+-  One sentinel lymph node containing metastatic carcinoma (1/1).

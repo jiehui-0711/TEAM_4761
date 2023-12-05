@@ -1,0 +1,36 @@
+Episode No:  01F803396E
+0128033.YQE
+
+LICATA, Hyman 
+LabNo:  01F80339,01F80339
+Churston
+MOUNT ISA  Australian Capital Territory  6105
+Specimen: Washings,Tissue
+D.O.B:  12/11/2002
+Sex:  F
+Collected: 29/05/2013 at 18:31
+Location:  NSW Health - GERALDTON HOSPITAL
+DR MERVIN Gowans
+Distribution:  DR Majerowski,  FILE-COPY
+SUPPLEMENTARY REPORT (6.8.63):
+
+
+CLINICAL:
+GI endometrioid adenocarcinoma.  DM2 - poorly controlled.  Obesity.  OA - fixed left knee deformity.  Alopecia.  Retinal vein occlusion.  
+MACROSCOPIC:
+Specimen labelled "Uterus, cervix, bilateral tubes and ovaries" consists of a uterus with attached cervix, left fallopian tube and ovary weighing 192g when fixed.  Theuterus measures 90 x 60 x 50mm and has a smooth shiny serosal surface.  The ectocervix measures 20 x 20mm and is unremarkable.  On opening the uterus the endometrium is seen to have a nodular roughened area measuring 40 x 32mm anteriorly and 40 x 35mm posteriorly.  These areas take up the majority of the uterine cavity.  Posteriorly the tumour invades to a maximum depth of 10mm over a total wall thickness 16mm.  Anteriorly the tumour invades to a maximum depth of 12mmover a total wall thickness of 28mm.  One fibroid 12mm is identified.  In the right adnexa there is a strip of tissue 15mm in length ?fallopian tube.  No definite right ovarian tissue is identified.  The left fallopian tube measures 55mm in length with a maximum external diameter of 6mm.  The left ovary measures 20 x 13 x 10mm.  Arising from the ovary there is an intact cyst measuring 60 x 45 x 45mm which has a smooth outer lining.  The cyst contains a large amount of cream cheesy material with hair.  
+Blocks:  1 to 4 - full longitudinal section of anterior body and cervix; 5 to 8 - full longitudinal section of posterior body and cervix; 9 - further posterior uterus at deepest point of invasion; 10& 11 - further anterior uterus at deepest point of invasion; 12 - ?right tube; 13 - right adnexal tissue ?ovary; 14 - representative left tube; 15 to 17 - ovary and representative cyst of ovary.  (TO:  EL:  JI/mm 2.7.63) 
+MICROSCOPIC (reported by Dr A Achenbach): 
+Sections show a Grade 1 endometrioid adenocarcinoma of endometrium.  There is deep myometrial invasion on the posterior wall.  Maximum depth of invasion is 10mm out of a total myometrial thickness of 13mm.  No lymphovascular invasion is seen and there is no cervical involvement.  A leiomyoma is confirmed in the myometrium.  Sections of the left ovary show a benign cystic teratoma.  Tissues present in the teratoma include squamous epithelium, skin appendage structures and columnar epithelium.  There is no evidence of malignancy and no immature tissues are seen.  Sections of the left fallopian tubeshow no significant abnormality.  No right tube or ovary are identified in sections from the right adnexa.
+DIAGNOSIS:
+Uterus, left ovary and fallopian tube (right ovary and tube not identified):
+1.  Grade 1 endometrioid adenocarcinoma of endometrium showing deep myometrial invasion.  Stage 1B.
+2.  Benign cystic teratoma left ovary. 
+SUPPLEMENTARY REPORT (6.8.63):
+Immunostains have been performed as requested.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI). 
+

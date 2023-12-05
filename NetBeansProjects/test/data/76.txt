@@ -1,0 +1,84 @@
+
+Episode No:  56G618462I
+5626184.RHI
+
+COSSIO, MANDUWAY 
+Lab No:  56G61846
+Germyn
+ANTHONY LAGOON  South Australia  5540
+Specimen: Tissue
+D.O.B:  8/4/2013
+Sex:  F
+Collected: 24/12/2063 at :
+Location:  CARDIOTHORACIC ICU-AUSTIN HEALTH - HEIDELBERG REPATRIATION HOSPITAL
+DR BRADLY FREDERIC BARUFFI
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Small cell Ca left breast - ?primaryvs metastatic.  Left axillary node for imprint cytology.  Left breast mass (central) - small cell Ca on core.  Short stitch superior, long axillary tail.
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary lymphnode" consists of a piece of fatty tissue containing three lymph nodes 10, 10 and 5mm.  Imprint cytology performed.
+Blocks:  1 - lymph node one; 2 - lymph node two; 3 lymph node three; 4 - representatives fatty tissue.
+B.  Specimen labelled "Left breast sentinel node number 2" consists of a mass of fatty tissue measuring 20mm containing two lymph nodes 12 and 4mm.  Imprints taken for cytology.
+Blocks:  1 - lymphnode one; 2 - lymph node two.
+C.  Specimen labelled "Left breast (short stitch superior, long axillary tail)" consists of a mastectomy measuring 160mm (medial to lateral) x 130mm (superior to inferior) x 40mm (superficial to deep).  There is an overlying skin ellipse measuring 153 x 55mm including a nipple and areolar complex measuring 40 x 35mm which has an unremarkable appearance.  A flat pigmented lesion is located on the skin ellipse towards theaxillary tail measuring 4 x 4mm. This lesion is well clear (>15mm) from all margins. On sectioning a mass is identified at approximately the 3 o'clock position, 10mm from the nipple measuring 30 x 20 x 30mm.  The mass is located 5mm from the deep margin, 15mm from the superficial margin, 30mm from the inferior margin and 50mm from the superior margin.  The remaining breast parenchyma is unremarkable.
+Blocks:  1 to 5 - full face of tumour (block 1 - tumour with closest deep margin, 3 - reserved block); 6 -7  representative tumour; 8 - superficial margin closest to tumour; 9 - inferior margin; 10 - superior margin; 11 - tissue medial to tumour; 12 - tissue lateral to tumour; 13 - nipple; 14 - representative upper inner quadrant; 15 - representative lower inner quadrant; 16 - representative upper outer quadrant; 17 - representative lower outer quadrant.
+(TO: ZM; NW/rt 26.12.63)
+FROZEN SECTION REPORT:
+A.  Three negative lymph nodes.
+B.  Two negative lymph nodes.
+Result to anaesthetist by Dr RO/NH at 1738 p.m. on the 24th of December 2063.
+MICROSCOPIC:  (Reported by Dr P Belongie)
+A.  Sections of the five left axillary (sentinel) lymph nodes show no evidence of malignancy by H&E and IHC (0/5).
+B.  Sections of the two sentinel lymph nodes #2 show no evidence of malignancy by H&E and IHC (0/2).
+C.  The left breast tumour is a poorly differentiated (small cell) neuroendocrine carcinoma. A synoptic report for breast carcinoma follows:
+Invasive carcinoma:
+Site: Left breast.
+Type: Poorly differentiated (smallcell) neuroendocrine carcinoma. 
+Invasive tumour size: 30mm (macroscopic).
+The carcinoma consists of poorly differentiated neuroendocrinecells arranged in infiltrative sheets, trabeculae and cords within fibrosclerotic stroma. Very occasional glands are present within some of the sheetsof tumour cells which may represent focal glandular differentiation. Many of the tumour nests show central necrosis. Focally, the stroma has a hypereosinophilic appearance and congo red staining shows minimal apple green birefringence, possibly representing amyloid. 
+Grade (Modified Bloom & Richardson): 3.
+Tubules: 3   Nuclei: 3Mitoses: 3     Mitotic rate:      Up to 40/10hpf.
+Lymphovascular invasion: Foci highly suspicious for LVI are present.
+	
+DCIS component:  
+Not identified. 
+Excision Margins:  
+Invasive component:
+Deep margin: 2.2mm (C6)
+Superficial margin: 5.5mm (C8)
+Superior margin: Clear of tumour (C10)
+Inferior margin: Clear of tumour (C9)
+Medial margin: Clear of tumour
+Lateral margin: Clear of tumour
+Immunohistochemistry and Hormone Receptors (Block  C1)
+ER:  	NEGATIVE
+PR:	NEGATIVE   
+HER2 (Novocastra 10A7):  NEGATIVE
+HER SISH:  Performed at Peter Kiewit Sons Central, NORMANTON HOSPITAL Hospital, see separate report.
+Ki-67 index: Variable, up to 90% in areas.
+CD56: Positive.
+CK7: Focal positivity.
+CK20, calcitonin and synaptophysin: Negative.
+Nipple: No significant histologic abnormality.
+
+LCIS / ALH: Not identified.
+Miscellaneous: The tumour shows focal change consistent with a previous biopsy tract. The adjacent non-neoplastic breast tissue shows fibrocystic change, columnar cell change, apocrine metaplasia and patchy chronic inflammation.
+Sentinel lymph node(s):
+See specimens A and B.
+ 
+
+COMMENT:
+The breast tumour is a poorly differentiated (small cell) neuroendocrine carcinoma. A poorly differentiated adenoid cystic carcinoma and metastatic Merkel cell carcinoma were also considered, but positive staining for the neuroendocrine marker CD56 and negative CK20, respectively, makes these diagnoses unlikely. Although TTF-1 staining is negative, the possibilityof primary lung origin cannot be entirely excluded, and correlation with clinical and radiological findings is essential.
+DIAGNOSIS:
+A.  Left axillary (sentinel) node: No evidence of malignancy in five lymph nodes (0/5) (H&E and IHC).
+
+B.  Left breast sentinel node 2: No evidence of malignancy in two lymph nodes (0/2) (H&E and IHC).
+
+C.  Left breast: 
+30mm poorly differentiated (small cell) neuroendocrine carcinoma. 
+Margins appear clear of carcinoma. 
+ER, PR and Her-2 negative.
+Please see comment. 
+
+

@@ -1,0 +1,172 @@
+DateOfBirth
+200209190000
+
+
+SiteName
+TRESILLIAN FAMILY CARE CENTRE - WILLOUGHBY
+
+
+FirstName
+WALTON
+
+
+SPRID
+05N076468U
+
+
+MRN
+055076
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+05N07646,05N07646 (05N076468U) MALANGO, JAMAL
+
+HISTOPATHOLOGY REPORT
+THE ROYAL ADELAIDE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Complex atypical hyperplasia ? cancer.
+1. Peritoneal washings for cyto.
+2. Uterus, tubes + ovaries.
+3. R pelvic sentinel node.
+4. L pelvic sentinel node.
+5. Omentum.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS WITH BILATERAL TUBES AND OVARIES&amp;quot;. Consists of uterus with cervix, with bilateral tubes and ovaries. Entire specimen is 355g. Anterior cervix inked blue, posterior black. Specimen is received partially opened through cervix. Uterus is 80mm intercornual distance x 120mm superior to inferior x100mm anterior to posterior. The uterus serosal surface is tan and smooth, and largely distorted by underlying fibroid. The ectocervix is 33x25mm. Ectocervix is tan and smooth. Anterior myometrium is 23mm and posterior myometrium is 65mm including fibroid. Within the endometrial cavity there is a pale friable tumour 38x30c35mm. The tumour appears to invade over half of the myometrial thickness. Within the posterior myomtrium there is a large circumscribed pale whorled lesion 58x45x60mm. In addition, within the endometrial cavity there is also a polypoid lesion 28x5x3mm that appears to rise within the anterior wall/fundus.
+
+The right fallopian tube is 60mm in length x5-10mm in diameter. Towards the fimbrial end there is a haemorrhagic dilatation up to 10mm in diameter. There are multiple clear paratubal cysts 2-3mm towards the fimbrial end. The right ovary is 25x13x12mm. The right ovary outer and cut surface is unremarkable. Left fallopian tube is 60mm in length x 7mm in diameter. The left fallopian tube outer and cut surface is unremarkable. Left ovary is 25x12x12mm. The left ovary outer and cut surface is unremarkable.
+
+(1 right parametrial shave; 2 left parametrial shave; 3 right cornual shave; 4 left cornual shave; 5-15 full face of uterus with cervix [5 anterior cervix; 6 anterior lower uterine segment; 7-9 anterior wall; 10 fundus; 11-13 posterior wall; 14 posterior lower uterine segment; 15 posterior cervix]; 16 anterior wall; 17 polyp all embedded; 18 further section of deepest tumour invasion; 19 pale whorled nodule; 20&amp;amp;21 right fallopian tube; 22 right ovary; 23 left fallopian tub; 24 left ovary. .Representative sections. (M-24)
+
+B. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. Consists of a piece of fatty tissue 8mm with one lymph node 5mm within. Lymph node bisected. All embedded. (M-1)
+
+C. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Consists of multiple pieces of fatty tissue 30mm. One lymph node 10mm identified. Lymph node serially sectioned. Representative sections. (M-1)
+
+D. &amp;quot;OMENTUM&amp;quot;. Consists of a piece of fatty tissue 50mm. Tissue serially sectioned with no lesion see. All embedded. (M-4/SL 7/11/2072 ank)
+
+MICROSCOPIC:  (Dr. B Mccommons)
+
+Specimen A:
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Hysterectomy, bilateral salpingo-oophorectomy
+
+TUMOR SITE: Endometrial cavity
+
+TUMOR SIZE:  38mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid adenocarcinoma
+
+HISTOLOGIC GRADE: 1
+
+MYOMETRIAL INVASION:
+Depth of invasion:  15mm
+Myometrial thickness:  18mm
+Percentage depth of myometrial invasion:  80%
+
+UTERINE SEROSA INVOLVEMENT: Not seen
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not seen
+
+CERVICAL STROMAL INVOLVEMENT: Not seen
+
+OTHER TISSUE/ORGAN INVOLVEMENT:  Not identified
+
+LYMPHOVASCULAR INVASION:
+Not identified
+
+REGIONAL LYMPH NODES:
+Site:
+Number of lymph nodes involved:  0
+Number of lymph nodes examined: 1
+
+DISTANT METASTASES (histologically confirmed): Not known
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Non tumour endometrium: Atypical complex hyperplasia
+Adenomyosis: Present
+Left fallopian tube: Not involved
+Right fallopian tube: Not involved
+Left ovary: Not involved
+Right ovary: Not involved
+
+
+ANCILLARY STUDIES/IMMUNOSTAINS :
+MMRP Immunostains -
+
+
+Immunostains for mismatch repair proteins (Aetna CPC Pathology; block: A8 )
+
+MLH1: 	retained nuclear staining
+PMS2: 	retained nuclear staining
+MSH2: 	retained nuclear staining
+MSH6: 	retained nuclear staining
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1, PMS2,  MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1B
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b
+
+COMMENT(S): Leiomyoma in myometrium. Endometriosis in cervix.
+
+Specimen B:
+Sections show fibrovascular tissue. No lymph node is identified.
+
+Specimen C:
+No evidence of malignancy is seen in one lymph node identified. The nodal parenchyma shows hyalinised fibrosis with focal dystrophic calcification. Immunohistochemistry stain for cytokeratin AE1/AE3 is negative.
+
+Specimen D:
+Sections show omental fat. No evidence of malignancy.
+
+DIAGNOSIS:
+A. UTERUS WITH BILATERAL TUBES AND OVARIES
+- ENDOMETRIOID CARCINOMA, GRADE 1.
+
+B. RIGHT PELVIC SENTINEL NODE
+- FIBROADIPOSE TISSUE, NO LYMPH NODES IDENTIFIED.
+
+C. LEFT PELVIC SENTINEL NODE
+- NO EVIDENCE OF MALIGNANCY IN ONE NODE.
+
+D. OMENTUM
+- NO EVIDENCE OF MALIGNANCY.
+
+9/11/2072 cy
+
+
+
+
+
+SpecimenReceivedDate
+2054-07-28 00:00:00
+
+
+LastName
+Wisher

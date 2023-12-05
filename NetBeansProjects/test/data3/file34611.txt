@@ -1,0 +1,107 @@
+SPR no: 88E491777N
+MRN no: 10358014
+Site_name: SOUTH GIPPSLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report88E49177 (88E491777N) Straseskie, HOYT
+
+MSI SUPPLEMENTARY REPORT
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Diverticulitis with psoas abscess.
+
+1)  Colon ca biopsy.
+2)  Small bowel.
+3)  Sigmoid colon.
+
+MACROSCOPIC:
+A.  &amp;quot;CA COLON&amp;quot;.  Multiple ragged fragments of tan tissue measuring up to 30x10x10mm.  All embedded block 1.
+
+B.  &amp;quot;SMALL BOWEL&amp;quot;.  An unoriented 90mm length of small bowel with attached mesentery, measuring up to 20mm in thickness.  There is a fibrinopurulent exudate on aspect of the mesentery.  The mucosal surface is unremarkable.
+
+(1&amp;amp;2  margins; 3&amp;amp;4  sampled TS through fibrinopurulent serosal surface).
+
+C.  &amp;quot;SIGMOID COLON&amp;quot;.  A length of large bowel 180mm with an open circumference up to 80mm with attached pericolic fat up to 30mm.  There is a fibrinopurulent exudate involving the serosal surface for a distance of up to 50mm that lies 25mm from the closer resection margin.  The cut surface reveals a circumferential ulcerating lesion that measures up to 80mm in length that lies 10mm from the black inked resection margin and 110mm from the blue inked resection margin.  There are five 3 to 5mm polyps that lie 50mm from the blue inked margin.  The cut surface of the lesion invades through muscularis into subserosal fat possibly involving the serosal surface.  There is an overlying fibrinopurulent exudate over the tumour.
+
+(1  blue inked margin; 2  black inked margin; 3  five possible polyps; 4  longitudinal section of tumour edge to black inked margin; 5  longitudinal tumour edge to blue inked margin; 6, 7&amp;amp;8  tumour invading through muscularis into subserosa and possible serosa; 9&amp;amp;10  is a pad slice showing tumour invading to serosa; 11  possible apical tie shave; 12  four lymph nodes; 13-16  pericolic fat).  RS (M-16/MY 24/10/2066 km).
+
+Further blocks:
+(17&amp;amp;18 continuous slice tumour with adjacent ? diverticulum; 19 ? perforated diverticulum; 20 tumour involving underlying diverticulum proximal tumour; 21-23 tumour perforating through the serosa; 24 ? six lymph nodes). RS (M-24/ZH 26/9/2065 ank)
+
+Blocks 25-30:  Further blocks of tumour and serosa
+
+MICROSCOPIC:   (Dr. V Gardener)
+A.  Sections show fragments of infiltrating moderately differentiated adenocarcinoma of colon with extensive necrosis.
+B.  Sections show small bowel.  There is a focus showing granulomatous reaction with multinucleated foreign body giant cells, some of which contain basophilic foreign material in the muscularis propria and subserosal fat.  The surrounding tissue shows fibrous scarring. The mucosal surface appears unremarkable.  No evidence of malignancy.
+C.  Sections show colon in which there is an ulcerated infiltrating moderately differentiated adenocarcinoma. The tumour extends into the subserosal fat and involves a diverticulum resulting in peridiverticular abscess and perforation.  At the perforated site, there is tumour within 0.1mm of the  the free serosal surface which shows foreign body giant cell reaction and inflamed granulation tissue.  There is focal lymphatic permeation.  Occasional hyperplastic polyps are identified in the adjacent colon.
+No evidence of malignancy is seen in fourteen lymph nodes identified.
+Tumour type:   Adenocarcinoma
+
+Histologic grade:   Moderately differentiated
+
+Depth of invasion:   Tumour involves diverticulum with peridiverticular abscess, foreign body reaction to faecal material  and perforation
+
+Peritoneal surface involvement:   At the site of perforation, tumour almost abuts the free serosal surface (pT4a)
+
+Tumour infiltrating lymphocytes:   Moderate
+
+Excision Margins:
+Proximal:   Clear
+Distal:   Clear
+Radial:   N/A
+Donuts:   Not received
+
+Lymph nodes:
+Number positive:   0
+Total number:  14
+Apical node:  Not identified
+
+Intramural vein invasion:   Not seen
+
+Extramural vein invasion:   Not seen
+
+Small vessel (lymphatic) invasion:  Focally present
+
+Perineural invasion:   Not seen
+
+Distant metastases:   Not known
+
+Other findings:
+Polyps:  Hyperplastic polyps
+Polyp adjacent to carcinoma:   Not seen
+Remote colon:  unremarkable
+
+
+Ancillary studies:
+
+Mismatch repair enzymes, Immunostains:  to follow
+
+Microsatellite instability (MSI):  not tested
+
+Synthesis/stage (AJCC/UICC TNM 7):
+
+TNM stage:   pT4a, pN0, pMx
+
+Stage grouping:   Stage II
+
+
+DIAGNOSIS
+A.  CA COLON -  ADENOCARCINOMA
+B.  SMALL BOWEL - FOREIGN BODY GRANULOMATOUS REACTION.
+C.  SIGMOID COLON -
+-PERFORATED ADENOCARCINOMA INVOLVING  INFLAMED DIVERTICULUM.
+-DIVERTICULAR ABSCESS.
+23/10/2065 ank
+MSI SUPPLEMENTARY REPORT
+
+Immunostains for MSI proteins (BRIGHAM & WOMEN'S HOSPITAL MONASH MEDICAL CENTRE - CLAYTON CAMPUS; block:C5 )
+MLH1: 		Positive
+PMS2: 	Positive
+MSH2: 	Positive
+MSH6: 	Positive
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

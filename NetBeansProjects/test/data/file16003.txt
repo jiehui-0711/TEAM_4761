@@ -1,0 +1,86 @@
+SPR no: 23C702166X
+MRN no: 23070216
+Site_name: BALLARAT HEALTH SERVICES (BASE HOSPITAL)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Anterior resection.  Rectal cancer.  Donut.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Ultra low anterior resection&amp;quot;, consists of a segment of large bowel and rectum measuring 370mm in length and 50mm in circumference, with mesocolon 30mm in width.  The anterior peritoneal reflection is 50mm from the distal resection margin.  The mesorectal fat appears intact.  The anterior radial margin is inked blue and posterior radial margin inked black.
+There is a scar-like tumour measuring 22 x 20mm, located in the posterior rectum 30mm above the anterior peritoneal reflection.  This lesion is 70mm clear of the distal margin.  No definite invasion of the muscularis propria is identified macroscopically.  There are three possible mucosal polyps in the rectum, 2 to 5mm across.  Lymph nodes are difficult to palpate within the attached mesocolon.  The mesocolon was re-examined for lymph nodes following further fixation.
+Blocks: 1 &amp;amp; 2 -  distal margin; 3 - proximal margin; 4 - normal colon; 5 to 10 - full profile of tumour with radial margin; 11 to 18 - all of tumour (11 &amp;amp; 12 - one slice; 13 &amp;amp; 14 - one slice; 15 &amp;amp; 16 - one slice; 17 &amp;amp; 18 - one slice); 19 to 21 - mucosal polyps; 22 to 26 - multiple lymph nodes.
+Re-select blocks:  27 to 32 - multiple possible lymph nodes; 33 to 45 - pericolic/perirectal fat.
+
+B.  Specimen labelled &amp;quot;Donut&amp;quot;, consists of a piece of mucosal tissue measuring 20 x 15 x 10mm.  No lesion is seen.  RS embedded in 2 blocks.   (TO: LM; LM/ta 21/12/66)
+
+
+MICROSCOPIC (Reported by Dr H Chier):
+A &amp;amp; B.  SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+
+Site of tumour:  Rectum, above anterior peritoneal reflection.
+Maximum tumour diameter:  22mm.
+Distance of tumour to nearer cut end:  70mm.
+Tumour perforation:  No.
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+ypT2	Invasion into muscularis propria
+
+Tumour involvement of margins
+Cut ends:  Not involved.
+Non-peritonealised circumferential margin:  Not involved.
+Histological measurement from tumour to non-peritonealised margin:  At least 20mm clear.
+
+Lymph nodes
+After additional fixation, the pericolic fat was re-examined for lymph nodes and further sections submitted.
+
+Number of lymph nodes present:	Ten (10).
+Number of lymph nodes involved:	Nil (0).
+
+pN0	No regional LN metastasis
+
+Lymphovascular invasion
+Absent
+
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+Two hyperplastic polyps are seen.  The tumour arises adjacent to a focus of high grade dysplasia.
+
+Residual tumour status
+R0	No residual tumour
+
+Response to neoadjuvant therapy
+Grade 2 (minimal response) - Residual cancer outgrown by fibrosis
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Summary &amp;#8211; TNM 7th Edition
+ypT2     pN0     pMX     R0
+
+
+DIAGNOSIS:
+Ultra-low anterior resection:
+-  Rectal moderately differentiated adenocarcinoma, ypT2.
+-  Ten negative lymph nodes (0/10).

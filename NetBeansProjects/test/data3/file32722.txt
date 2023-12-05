@@ -1,0 +1,42 @@
+SPR no: 15Z830500P
+MRN no: 15983050
+Site_name: BOX HILL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+High-grade serous carcinoma, favour left fallopian tube primary.  Now:  stoma reversal.  1.  Pelvic washings; 2.  Colostomy; 3.  Sigmoid; 4.  Distal doughnut; 5.  Appendix; 6.  Proximal doughnut.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Colostomy&amp;quot;, consists of a stoma site measuring 38 x 30 x 22mm with attached fatty fibrous tissue measuring 45mm x 30 x 25mm.  The stoma site has a thin peripheral rim of skin measuring 1 to 2mm thick.  Within the adjacent soft tissue there is a blind ended loop of bowel measuring 25mm long to a diameter of 15mm.  The mucosa appears unremarkable.  Two possible lymph nodes are identified within the attached fat.
+Blocks: 1 - TS through stoma site; 2 - TS through adjacent loop of bowel; 3 - lymph nodes.
+
+B.  Specimen labelled &amp;quot;Sigmoid colon&amp;quot;, consists of an unoriented segment of bowel measuring 45 x 30mm.  The serosal surface is smooth and shiny.  The mucosa has a regular tan appearance.  No lesions are identified.  No lymph nodes are identified within the attached fat.  RS 3 blocks including resection margin.
+
+C.  Specimen labelled &amp;quot;Proximal doughnut&amp;quot;, consists of an extensively stapled and sutured loop of bowel measuring 25 x 18 x 8mm.  Tissue is serially sliced and all embedded 2 blocks.
+
+D.  Specimen labelled &amp;quot;Distal doughnut&amp;quot;, consists of a loop of bowel wall measuring 17 x 16 x 15mm.  The mucosa appears slightly haemorrhagic. Trisected AE 3 blocks.
+
+E.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a vermiform appendix measuring 40 x 7mm.  The serosal surface is smooth and shiny.  The wall measures 2 to 3mm thick and the lumen is patent.  AE.  Blocks: 1 - base; 2 - tip.  (TO:AP/eh 29/1/70)
+
+
+MICROSCOPIC: (Reported by Dr C Camerena)
+A.  Sections show a portion of large bowel. No skin is present. The mucosa shows patchy acute on chronic inflammation and surface erosion in keeping with prolapse. The remaining bowel appears unremarkable. There is no evidence of malignancy.
+
+B.  Sections show colonic mucosa with normal crypt architecture.  There is a focal patchy increase in acute inflammatory cells, in keeping with a mild focal active colitis. There is focal adenomatous change of tubules, in keeping with an incidental low grade tubular adenoma. The subepithelial collagen layer is not thickened.  Granulomas and organisms are not identified.  The subserosal fibroadipose tissue shows oedema with scattered reactive appearing mesothelial cells. There is no evidence of malignancy.
+
+C.  Sections of colonic donut show no evidence of dysplasia or malignancy.
+
+D.  Sections of bowel donut show patchy, prominent lymphoid hyperplasia (?terminal ileum). The subserosal tissue shows a foreign body type reaction associated with areas of necrobiotic pseudogranulomata, in keeping with recent post-surgical change. In block B2, on the opposite side of the bowel mucosa, is a strip of squamous mucosa, possibly representing origin from vaginal mucosa. There is no evidence of malignancy.
+
+E.  The appendix has been examined in its entirety. The appendix shows fibrous obliteration of the tip. There is a serrated polyp with features favouring a sessile serrated adenoma, clear of margins. There is no evidence of acute appendicitis, dysplasia or malignancy.
+
+
+DIAGNOSIS:
+A.  Colostomy: Changes suggestive of prolapse. No evidence of malignancy.
+
+B.  Sigmoid colon: Mild focal active colitis, incidental low grade tubular adenoma and mild subserosal oedema with scattered reactive mesothelial cells.
+
+C.  Proximal donut: No evidence of dysplasia or malignancy.
+
+D.  Distal donut: Patchy lymphoid hyperplasia (?terminal ileal origin), subserosal necrobiotic pseudo-granulomatous inflammation (in keeping with recent surgery) and focal squamous mucosa (?portion of vaginal wall). No evidence of malignancy.
+
+E.  Appendix: Fibrous obliteration of tip and serrated polyp favour sessile serrated adenoma, clear of margin. No evidence of acute appendicitis, dysplasia or malignancy.

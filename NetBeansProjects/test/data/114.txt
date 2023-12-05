@@ -1,0 +1,71 @@
+
+Episode No:  16Q500775V
+166500.TTN
+
+LANDAZURI, VITA 
+Lab No:  16Q50077
+W Goodenow
+CABOOLTURE  Tasmania  3995
+Specimen: Tissue
+D.O.B:  8/9/1990
+Sex:  F
+Collected: 09/12/2013 at 09:26
+Location:  PARKES8-ST VINCENT'S HOSPITAL (DARLINGHURST)
+DR MILLARD JOELLA ALWINE
+Distribution:   FILE-COPY, DR Hoppesch,   NSW-CANCER-REGISTRY, DR Irzyk
+***SUPPLEMENTARY REPORT: MICROSATELLITE INSTABILITY MARKERS (13.2.2063)
+
+CLINICAL:
+Splenic flexure cancer.  Extended right hemicolectomy.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy extended", consists of a specimen of distal terminal ileum (45mm in length), colon (485mm in length), pericolonic fatty tissue (patchy and up to 60mm across).  The vermiform appendix is not identified.  Closer to the distal end there is a pale solid tumour 34 x 32 x 11mm.  The tumour occupies 80% of the circumference of the large bowel and is based on the mesenteric side.  The tumour is 75mm from distal and well clear of the proximal margins.  The tumour is infiltrating into the fat and is 30mm from the mesenteric resection margin.  Several lymph nodes are identified.
+Blocks: 1 - shave proximal margin; 2 - shave distal margin; 3 - TS tumour; 4 - tumour in relation to mesenteric resection margin; 5 - LS tumour; 6 - TS tumour (reserved block); 7 - TS tumour, ?serosal involvement; 8 - apical lymph node bisected; 9 - lymph nodes as seen; 10 - lymph nodes as seen; 11 - one bisected lymph node; 12 - one bisected lymph node; 13 - lymph nodes as seen; 14 - one bisected lymph node; 15 - one bisected lymph node; 16 - one lymph node (close to the tumour).  (AK/vo 11.2.63) 
+MICROSCOPIC:  (Reported by Dr E Spates)
+The 34mm colonic tumour is a moderately differentiated adenocarcinoma of the splenic flexure. A synoptic report for colonic carcinoma follows:
+SYNOPTIC REPORT FOR COLONIC CARCINOMA
+Macroscopic Description
+Site of tumour: Splenic flexure.	
+Maximum tumour diameter: 34mm.
+Distance of tumour to nearer cut end: 75mm (distal margin).
+Tumour perforation: Yes (pT4).
+Microscopic Description
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4a   Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends: Not involved
+Lymphovascular invasion
+Focal suspicious for LVSI are present.
+Perineural invasion
+Not identified. 
+Lymph nodes
+Number of lymph nodes present: Twenty two. 	
+Number oflymph nodes involved: One (1/22). 
+pN1a	Metastases in 1 regional LN
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The non-neoplastic colon shows melanosis coli. 
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvant therapy
+Not applicable. 
+Mismatch Repair Deficiency (MMRD) Status	
+Pending. 
+
+pTNM Stage (TNM 7th Edition): 3B pT4aN1aMx	
+
+
+DIAGNOSIS:
+Extended right hemicolectomy: 
+34mm pTNM Stage 3B moderately differentiated adenocarcinoma of the splenic flexure. 
+Metastatic carcinoma present in one of twenty two lymph nodes (1/22).
+Markers of microsatellite instability are being performed and a supplementary report will be issued. 
+
+
+***SUPPLEMENTARY REPORT: MICROSATELLITE INSTABILITY MARKERS (13.2.2063) Dr Odell
+Immunoperoxidase stains for MSI proteins (Block 5)
+

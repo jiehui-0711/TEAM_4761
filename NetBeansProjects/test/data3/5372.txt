@@ -1,0 +1,54 @@
+Episode No:  30W514466R
+3085144.PRR
+
+Nyswonger, Israel 
+Lab No:  30W51446
+East Port
+SHOALHAVEN HEADS  WA  5576
+Specimen: Tissue
+D.O.B:  13/12/1974
+Sex:  F
+Collected: 5/2/2066 at :
+Location:  POSTOPERATIVE RECOVERY-BALRANALD MULTI PURPOSE SERVICE
+DR WILBERT Bryce Sporle
+Distribution:  
+CLINICAL:
+Large transverse colon mass.  Biopsies necrotic tissue only ?primary bowel, ?other.  R hemicolectomy and extended small bowel resection.  Colonic cancer, diastolic dysfunction,pulmonary HTN, GORD.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a segment of small bowel (approximately 750mm long), caecum, ascending colon and transverse colon (290mm long).  The small bowel measures 750mm in length.  The caecum and large bowel measures 290mm in total length.  The distal and proximal margins are inked green.  Within the transverse colon, there is a large fungating necrotic tumour measuring 120 x 110 x 105mm.  The tumour is circumferential.  The colonic mucosa overlying the tumour is obliterated.  The tumour is 70mm from distaland is well clear of the proximal margin.  The tumour comes very close to the serosa.  The serosa overlying the tumour is adherent to the mesentery of small bowel.  The serosal surface of the small bowel is variably red along its length.  The small bowel mucosa appears viable throughout the length.  The ?vermiform appendix is 45mm long and up to 5mm in diameter.
+Blocks:  1 - LS proximal margin; 2 - LS distal margin; 3 & 4 - adhesion of tumour to the small bowel mesentery; 5 & 6 - representative of tumour (6 - reserved block); 7 to 18 - sections oftumour; 19 - one bisected lymph node; 20 - one bisected lymph node (19 & 20 - colonic lymph nodes); 21 - one LS tip of appendix and two TS mid appendix; 22 - lymph nodes as seen from small bowel mesentery; 23 - tumour adherent to small bowel mesentery; 24 - tumour adherent to small bowel; 25 - ?pericolonic lymph node as seen; 26 - pericolonic lymph nodes as seen.
+(GO/rt 6.2.66)
+MICROSCOPIC (Reported by Dr K Convery):
+Synoptic Report for Large Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour:	Transverse colon
+Maximum tumour diameter:  120mm
+Distance of tumour to nearer cut end:  70mm (distal)
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Poor
+Local invasion
+pT4b	Tumour is adherent to small bowel mesentery
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not applicable
+Histological measurement from tumour to non-peritonealised margin: Not applicable
+Lymph nodes
+Number of lymph nodes present:	14
+Number of lymph nodes involved:	0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present (Extramural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+There is extensive peritonitis but no definite tumour perforation is seen.
+	The appendix is unremarkable except fibrous obliteration.
+

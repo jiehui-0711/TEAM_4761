@@ -1,0 +1,76 @@
+Episode No:  33Y027383O
+3390273.VIO
+
+CENTNER, MODESTO 
+Lab No:  33Y02738
+Hunnewell
+ROBINVALE  NT  3561
+Specimen: Tissue
+D.O.B:  1/4/2030
+Sex:  M
+Collected: 09/10/2013 at 08:33
+Location:  ANTENATAL WARD-MEEKATHARRA HOSPITAL
+DR ARMANDA ANGEL KARANGELEN
+Distribution:  FILE-COPY
+SUPPLEMENTARY REPORT:  (7.2.63)
+
+CLINICAL:
+Redo resection right frontal GBM.  Hx of right superior frontal astrocytoma.  
+MRI: 6/12/63:  There  is  a  resection  site  within  the  right  frontal  lobe  superiorly.    Adjacent  to  this  there  are  multiple  areas  of  ill-defined  enhancement.  The  largest  is  within  the  right  frontal  lobe  superiorly,  extending  to  the  midline,  abutting  and  extending  under  the  falx.   This  measures  4.3  x  1.6  cm  in  maximal  axial  dimensions  (previously  2.9cm  x  1.0  cm). 
+MACROSCOPIC:
+Specimen labelled "Right frontal tumour" consists of two large fragments of green and partly haemorrhagic tissue 25 and 30mm in maximum dimension and several small fragments up to 8mm.  Representative sections in 5 blocks (approximately 95% of tissue embedded).  (TO: SY:  SO/mm 6.12.63) 
+MICROSCOPIC (reported by Dr I Soito):
+Sections show high grade glioma adjacent to a previous resection site. The lesion is cellular and is composed of scattered tumour cells with round to markedly pleomorphic, hyperchromatic nuclei.  Scattered mitoses are seen.  There is focal mild endothelial hyperplasia.  Noconvincing glomeruloid endothelial proliferation is seen. Although large areas of necrosis are present, no convincing palisading necrosis is identified.  Scattered reactive astrocytes with strong staining for GFAP and increased numbersof microglia are present. Aggregates of foamy macrophages, associated with haemosiderin deposition are seen adjacent to dense fibrous tissue, in keeping with previous resection.
+Immunohistochemical stains: 
+GFAP: negative in most tumour cells, highlights reactive astrocytes
+IDH1: +ve
+Ki67 index: 10 to 20%
+CD68: macrophages and microglial adjacent to cavity
+P53: +ve
+
+Molecular tests: 
+Tissue will be sent to AUGATHELLA HOSPITAL's Hospital for 1p/19q FISH testing.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block 1. 
+
+COMMENT
+The findings arein keeping with recurrent high grade glioma.  The tumour has a similar morphology to the previous specimen (33Y0273, diagnosed as glioblastoma multiforme, WHO grade 4)
+Many of the tumour cells appear negative for GFAP and have round nuclei. 1p/19q FISH will be performed to exclude a possible oligodendroglial component.
+
+
+DIAGNOSIS:
+Right frontal tumour: resection site with recurrent high grade glioma (see comment).
+SUPPLEMENTARY REPORT:  (27.12.63)
+
+FISH ANALYSIS
+Reported by Dr I Bolte, JERILDERIE MULTI PURPOSE SERVICE's Hospital. 
+"RESULTS:
+This case was analysed for 1p/19q LOH using Vysis dual colour probe sets LSI 1p36/LSI 1q25 and LSI 19q13/19p13.  Cut off values were adopted fromSmith et al. 2000 (J Clin Oncol:18;636-645) who defined a 1p/1q ratio of <0.85 and a 19q/19p ratio of <0.9 as indicating LOH.  Sixty cells were formally scored with each probe pair. The case was also hybridised with Vysis LSI EGFR/Cep7 dual colour probe pair to assess whether amplification of EGFR as present.
+Chromosome 1
+Mean copies 1p per cell: 1.7
+Mean copies 1q per cell: 2.63
+1p/1q ratio: 0.64:  Isolated 1p loss detected.
+Chromosome 19
+Mean copies 19q per cell: 2.82
+Mean copies 19p per cell: 2.82
+19q/19p ratio: 1.0
+Interpretation:  Negative for 19q loss (multiple fields assessed). 
+EGFR:
+Mean copies of EGFR per cell: 2.29
+Mean copies cep7 per cell: 2.38
+EGFR/cep7 ratio: 0.96
+Interpretation:  Negative for EGFR amplification.
+CONCLUSION:
+Negative for dual1p/19q loss; isolated 1p loss detected, of uncertain significance". 
+
+SUPPLEMENTARY REPORT:  (7.2.63)
+
+"DNA was extracted from paraffin tissue from MERLIN BUNN(33Y02738). 
+The DNA was bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation. 
+The MGMT promoter was unmethylated.
+Dr FREDDY NIELAND
+Head, SEALSCentral Program
+DAVID BERRY HOSPITAL ClinicalSchool"
+Note: This test is not NATA accredited and is used for research purposes only.
+

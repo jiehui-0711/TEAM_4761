@@ -1,0 +1,61 @@
+Episode No:  95T232539I
+957232.NIZ
+
+Rouse, Dewey Tarka 
+Lab No:  95T23253
+E Beecher
+DEVONPORT  Tasmania  2783
+Specimen: Tissue
+D.O.B:  27/11/2003
+Sex:  F
+Collected: 28/01/2014 at 15:03
+Location:  Pathology West - ORROROO CAMPUS
+DR MICHAEL KRISTOPHER HOGBERG
+Distribution:  DR Bobby,  FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Left breast lesion - intracystic papillary Ca - hookwire localised wide excision.  Mild GN.  Skin ellipse transverse, short stitch superior, long lateral and medium medial.  
+MACROSCOPIC:
+Specimen labelled "Left breast lesion short stitch superior, long lateral, medium medial" consists of a piece of breast tissue with three marking stitches and a guidewire in situ measuring 85mm (lateral to medial) x 140mm (superficial to deep) x 48mm (superior to inferior).  The superficial skin ellipse is 40 x 10mm and shows no abnormality.  Superior margin is inked blue and inferior margin is inked black.  Specimen serially sectioned into twenty-three slices from deep towards superficial.  There is a firmpale tumour in slices 10 to 12 measuring 16 x 15mm.  The tip of the guidewire is seen within the tumour.  The tumour is 2mm from superior, 8mm from inferior, 47mm from medial and 11mm from lateral and well clear of deep and superficial margins.  There is a 2mm firm pale nodule in slice 18, 8mm from the lateral margin
+Blocks:  1 - slice 1 en face (deep margin); 2- slice 9; 3 - lateral margin slice 10; 4 - tumour slice 10 (reserve block); 5 to 10 - all of the slice; 11 to 13 - lateral half of slice 12; 14 - slice 13; 15 - slice 14; 16 - nodule slice 18; 17 & 18 - representative slice 23 (superficial margin); 19 to 24 - all of slice 17; 25 to 29 - the remainder of slice 18; 30 to 38 - all of slice 19. (MP/mm 3.1.64)
+MICROSCOPIC (reported by Dr X Fruits):
+Sections show an intracystic papillary carcinoma.  There is an absence of myoepithelial cells within and surrounding the lesion as demonstrated by the CK5/6 and p63 stains.  A small amount of ductal carcinoma in situ (DCIS) surrounds the main lesion.  A separate focus of DCIS is identified approximately 15mm from the main tumour mass.  The features are as follows:
+Carcinoma:
+Site:  Left breast.
+Type:  Intracystic papillary carcinoma
+Invasive tumour size:  16mm
+Grade (Modified Bloom & Richardson):  1
+Tubules:  2   Nuclei:  2  Mitoses:  1  Mitotic rate:  6/10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  Small amount surrounding main tumour plus 15mm focus approximately 15mm from main tumour
+Nuclear grade:  Intermediate
+Architecture:  Solid and cribriform
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  Absent
+DCIS in adjacent tissue:  Separate focus away from main tumour
+Excision Margins:
+Invasive component:  2mm from superior, 5mm from inferior, 8mm from lateral, all other margins well clear.
+In-situ component:  Abuts inferior and lateral margins with no normal intervening ducts, other margins well clear.
+Receptors (Block 6):
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Moderate to strong
+PR:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Moderate to strong
+HER2 (Novocastra 10A7):  Equivocal (Score 2+)
+HER2 SISH:  Performed at ALLTEL Corporation, WINTON HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 5 to 10%
+Nipple:  Not applicable
+LCIS / ALH:  Not seen
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+Axillary/othernodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  0
+

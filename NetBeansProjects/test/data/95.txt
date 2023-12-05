@@ -1,0 +1,64 @@
+Episode No:  21S446523I
+2174465.FJI
+
+LEDAY, WILLARD 
+Lab No:  21S44652
+PROSERPINE HOSPITAL
+MITTAGONG  SA  4674
+Specimen: Tissue
+D.O.B:  23/6/1979
+Sex:  F
+Collected: 30/04/2012 at 12:33
+Location:  Pathology North-JUNEE MULTI PURPOSE SERVICE
+PRO TED GARY WRAIGHT
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Colonic carcinoma.  Dementia.  Anaemia.  OS.  Right hemicolectomy for locally advanced cancer. 
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy", consists of a section of colon with attached ileum 510mm in length.  The section of ileum measures 270mm in length.  At the ileocaecal junction in the caecum over a length of 60mm thereis a circumferential necrotic ulcerated tumour. The tumour is 220mm from the distal resection margin.  On the serosal surface there is an area of roughening 70 x 60mm.  There is also a suture adjacent on the peritoneal surface for a length of 40mm which closes a defect through the full wall thickness.    The tumour appears to invade to a maximum depth of 35mm through the muscular wall to the serosal surface. The remainder of the ileal and colonic mucosa appears unremarkable. Multiple lymph nodesare identified within the small bowel and colonic mesentery and pericolic fat. Block 1 - margins; 2 - uninvolved ileum; 3 - uninvolved colon; 4 - tumour to normalcolon; 5 & 6- representative tumour; 7 - area of ?perforation; 8 & 9 - representative tumour; 10- terminal ileum to tumour; 11 - apical node from colonic mesentery; 12 - apical node from small bowel mesentery; 13 - lymph nodes; 14-17 - lymph nodes; 18-20 -further normal colon to tumour; 21 & 22 - further lymph nodes.    
+(BW/ec 3.7.62) 
+MICROSCOPIC (reported by Dr H Zets): 
+Sections show a poorly differentiated adenocarcinoma of the caecum.  No in situ component can be demonstrated.  The tumour cells show positive staining with CAM5.2 and CK20.  The CK7, CDX2, TTF-1, ER, HEP-Par1, S100 and Ca125 stains are negative.  This staining pattern is consistent with a colonic primary.  The features are as follows:
+
+Macroscopic Description
+
+Site of tumour:  Caecum	
+Maximum tumour diameter:  60mm
+Distance of tumour to nearer cut end:  220mm (distal)
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Poor
+Local invasion
+pT4a - Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymph nodes
+Number of lymph nodespresent:  23
+Number of lymph nodes involved:  6 (apical node negative)
+pN2 - Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (Mural)
+Perineural invasion
+Present
+Histologically confirmed distant metastases
+pMX - cannot be assessed histologically
+Background abnormalities
+Nil
+Residual tumour status
+R1 - Microscopic margin involvement (in area of suturing)
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a     pN2     pMX     R1
+

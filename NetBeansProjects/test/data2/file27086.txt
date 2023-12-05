@@ -1,0 +1,19 @@
+SPR no: 15D111539E
+MRN no: 1511115
+Site_name: ALEXANDRA DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+61 year old male background of metastatic renal cell carcinoma with right nephrectomy and distal pancreatectomy.  Now nodal mass at pancreatic neck resected.  Mets, renal Ca.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Retroperitoneum lymph node&amp;quot;, consists of an irregular piece of tissue measuring 33 x 20 x 14mm with multiple staple lines measuring 17 to 32mm in length.  The surface is haemorrhagic and partially coated in a thin fibrous capsule.  Tissue is serially sliced and demonstrate a partially cystic partially solid appearance with cyst measuring 1 to 5mm in maximal dimension and solid area measuring 14 x 12 x 10mm with a uniform cream cut surface.  AE 2 blocks.  (TO:AP; AP/eh 18/6/69)
+
+
+MICROSCOPIC (Reported by Dr D Sowell):
+Sections show a circumscribed deposit of tumour.  This consists of sheets of cells with moderately pleomorphic nuclei and clear cytoplasm.  The features are consistent with metastatic clear cell renal cell carcinoma.  No lymph node is identified but tumour may have completely replaced a lymph node.  No lymphovascular invasion is seen.
+There is atrophic pancreatic tissue with dilated ducts adjacent to the tumour deposit.
+Excision of the tumour deposit is narrow but appears complete.
+
+
+DIAGNOSIS:
+Retroperitoneal tissue:  Metastatic renal cell carcinoma.

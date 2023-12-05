@@ -1,0 +1,76 @@
+
+Episode No:  80N039300G
+805039.JBA
+
+TOEDEBUSCH, Zachary 
+Lab No:  80N03930
+Salmar
+DERBY  TAS  0851
+Specimen: Tissue
+D.O.B:  21/4/2017
+Sex:  M
+Collected: 23/12/2013 at08:36
+Location:  ENVOI Pathology-SANDRINGHAM HOSPITAL
+DR HERBERT AUGUSTUS Magobet
+Distribution:  DR Stefan, MS Hetchman,  FILE-COPY
+SUPPLEMENTARY REPORT (2.5.63):
+
+
+CLINICAL:
+Distal sigmoid colon cancer. Low anterior resection and distal donut.
+MACROSCOPIC:
+A.  Specimen labelled "Low anterior resection", consists of a segment of rectosigmoid colon measuring 100mm in length and 25mm in maximum diameter.  There is attached mesentery to a maximum diameter of 110mm.  The specimen lies entirely above the anterior peritoneal reflection.  The serosal surface is unremarkable.  The mucosal surface has three polypoid lesions.  The first lesion is a pedunculated polyp measuring 15 x 15 x 10mm, this polyp is located 60mm from the proximal margin and 65mm from the distal margin.  The second is a polypoid tumour measuring 45 x 45mm; it is located 20mm from the distal margin and 70mm from the proximal margin.  The third lesion is a polyp measuring 15 x 10 x 8mm; this polyp is located 7mm from the distal margin and is well clear (more than 100mm of the proximal margin.  Several smaller polyps are present ranging from 3 to 5mm, the closestof which is located 15mm from the distal margin.  Proximal margin inked blue, distal margin inked black and radial margin inked green.  On sectioning the largest mass (the second described polypoid tumour) appears to invade through the muscularis propria and possibly reaches the serosa. 
+Blocks: 1 - proximal margin; 2 - distal margin closest to polyp number three; 3 - distal margin; 4 and 5 - polyp one bisected; 6 to 9 - tumour at level at deepest invasion (block 9 reserved block); 10 - section of tumour with adjacent normal mucosa; 11 - polyp number three; 12 - smaller polyps; 13 - radial margin closest to tumour; 14 - apical lymph node; 15 to 20 - lymph nodes.  
+B.  Specimen labelled "Distal donut", consists of colonic mucosa stapled together in a loop measuring 30 x 20 x 8mm.  Stapled margin removed and new margin inked black.  Serially sectioned and AE 2 blocks.  (JI/vo 25.2.63) 
+MICROSCOPIC (Reported by Dr X Vanburen):
+A.  Macroscopic Description
+Site of tumour:
+Maximum tumour diameter:  45mm
+Distance of tumour to nearer cut end:  20mm
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	  Above
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  >10mm
+Lymph nodes
+Number of lymph nodes present:  29
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The other two described polyps are tubulovillous adenomas with low grade dysplasia.  Four hyperplastic polyps are also noted.
+Residual tumour status
+R0	No residualtumour
+Mismatch Repair Deficiency (MMRD) Status  To follow
+
+B.  Sections show unremarkable large intestinal wall.
+DIAGNOSIS:
+A.  Low anterior resection:
+1.  Moderately differentiated adenocarcinoma, no lymph node metastases (0/29).  pT3  pN0  pMx  R0
+2.  Two tubulovillous adenomas.
+B.  Distal donut:  No abnormality seen. 
+SUPPLEMENTARY REPORT (2.5.63):
+
+Mismatch Reoair Deficiency (MMRD) Status:
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).
+

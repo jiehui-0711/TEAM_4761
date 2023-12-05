@@ -1,0 +1,65 @@
+SPR no: 95Q1035720
+MRN no: 9561035
+Site_name: BONALBO HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report95Q10357 (95Q1035720) OVITT, MARGARITO
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Left pararectal mass, right pararectal mass, pelvic mass, pelvic tumour x 2, right pelvic side wall.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT PARARECTAL MASS&amp;quot;. A fibrofatty piece of tissue measures 70x35x15mm with possible glistening surface (peritoneal covering) is identified on one area (inked blue). The remainder surface is inked black.  The specimen is serially sliced into 12 slices.  The cut surface reveals area of thickening with ill defined lesion towards the possible peritoneal surface in slices 5-7. The remainder cut surface is fatty and unremarkable.
+
+(1 LS slice 1 and 12 [peripheral edges]; 2 firm area slice 4; 3 firm area slice 5; 4 slice 6; 5 slice 7). RS (M-5)
+
+B.  &amp;quot;LEFT PARARECTAL MASS&amp;quot;.  Multiple fibrofatty pieces of tissue consistent with fat with overlying covering peritoneum measuring 110x65x20mm in aggregate. The serosal surfaces are extensively ragged and haemorrhagic with firm and fibrous cut surface.  The possible margin is inked blue.
+
+(1-4 RS firm areas).  RS (M-4)
+
+C.  &amp;quot;PELVIC MASS&amp;quot;.  Three tissue fragments and appendix 53x5mm with unremarkable outer and cut surface. A fibrofatty piece of tissue measures 55x25x6mm with unremarkable outer and cut surface and a firm hard mass measures 90x60x37mm with a disrupted overlying smooth capsule. The margins are inked blue.  The mass is serially sliced into 16 slices. The cut surface reveals mainly solid tan and haemorrhagic lesion becomes cystic towards one end with spaces filled with clear serous fluid.  The mass appears to be encapsulated in most of the lesion with edges abutting the margin macroscopically.
+
+(1 appendix base; 2 appendix tip [all appendix embedded]; 3 two LS RS fibrofatty tissue; 4 onwards mass [4 two LS slice 1 [detached tumour capsule], 5&amp;amp;6 slice 2, 7-10 slice 8, 11 slice 11; 12 cystic edges of the lesion in slice 14 and 16]). RS (M-12)
+
+D.  &amp;quot;PELVIC TUMOUR&amp;quot;. One solid piece of tissue 8x4x5mm. The margins are inked blue. Bisected. AE (2-1)
+
+E.  &amp;quot;PELVIC TUMOUR 2&amp;quot;.  A fibrofatty piece of tissue measures 35x30x25mm with a disrupted partial mass with smooth inner lining, haemorrhagic and tan centre measuring 20x20x15mm.  The haemorrhagic mass is disrupted and appears to be partially cystic at one edge.
+
+(1&amp;amp;2 TS across the specimen with mass; 3&amp;amp;4 mass towards the cystic end).  RS (M-4)
+
+F.  &amp;quot;RIGHT PELVIC SIDE WALL&amp;quot;. A fibrofatty piece of tissue 16x10x5mm.  It has a glistening surface (? peritoneum).  The remainder margins are inked blue. The cut surface is firm solid and brown across the specimen.  AE (5-1/ZH 16/2/2067 ank)
+
+MICROSCOPIC:   (Dr Y Kunstlinger)
+A,C,D&amp;amp;E. Sections show involvement of all of these specimens by metastatic well differentiated neuroendocrine tumour. The tumour is characterised by closely arranged lobules with foci of pseudoacinar architecture. There is patchy mild to moderate nuclear atypia and a brisk mitotic grade (25 mitoses/10hpf). There are also foci of necrosis. The tumour focally forms a surgical margin of Specimen A (right pararectal mass), and forms the surgical margins of Specimen C,D&amp;amp;E (pelvic mass, pelvic tumour and pelvic tumour No. 2) over a broad front in the specimen.
+
+Immunohistochemical stains performed on block C5 show positive staining of the tumour for CAM 5.2, chromogrannin A, synaptophysin, CD56 and PAX8 and negative staining for TTF1 and CDX2. The proliferative index (Ki67) is 25%.
+The appearances and immunoprofile are those of grade 3 (WHO) well differentiated neuro-endocrine tumour as previously documented (95Q10357, 95Q103572C, 24/9/65).
+
+Specimen C also includes the appendix which shows a sessile serrated adenoma and mild periappendicitis.
+
+B. Sections show strips of peritoneum with florid reactive mesothelial hyperplasia and mixed inflammation. There is no evidence of malignancy.
+
+F. Sections show unremarkable fibroadipose tissue. There is no evidence of malignancy.
+
+DIAGNOSIS:
+A. RIGHT PARARECTAL MASS
+- METASTATIC WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR.
+
+B. LEFT PARARECTAL MASS
+- FLORID REACTIVE MESOTHELIAL HYPERPLASIA, ACTIVE INFLAMMATION.
+
+C. PELVIC MASS
+- METASTATIC WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR.
+
+D. PELVIC TUMOUR
+- METASTATIC WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR.
+
+E. PELVIC TUMOUR NO. 2
+- METASTATIC WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR.
+
+F. RIGHT PELVIC SIDE WALL
+- BENIGN FIBROADIPOSE TISSUE.
+
+17/2/2067 cy

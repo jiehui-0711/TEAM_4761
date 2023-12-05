@@ -1,0 +1,20 @@
+SPR no: 86U228900Q
+MRN no: 8257608
+Site_name: CARITAS CHRISTI HOSPICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Large liver lesion is segment 7/8.  ?Haemangioma.  ?Adenoma.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right lobe of liver&amp;quot;, consists of a fresh lobe of liver weighing 431g, measuring 135 x 105 x 55mm.  A 1x 4mm piece adjacent to large intraparenchymal clot (&amp;quot;tumour&amp;quot;) and a 4mm piece of normal liver taken fresh for tumour banking.  The staples are removed on the margin, and the margin is inked black. The liver is serially sectioned into sixteen slices for examination. There is a tan well circumscribed lesion measuring 70 x 103 x 45mm, which appears partially clefted by an area of haemorrhage measuring 15 x 70 x 41mm.  This area of haemorrhage appears to track to the capsular surface causing disruption at the capsular surface over an area of approximately 25 x 20mm, which is inked blue.  This tan lesion abuts the the capsular surface, and blends into more homogenous pale tissue, and this paler tissue abuts the inked margin.  The tan area appears to be clear of the cut margin by 10mm.  Blocks: 1 - RS uninvolved liver slice two; 2 - RS tan lesion at commencement in slice eight, to capsular surface; 3 - RS tan lesion abutting capsule slice eleven; 4 - RS tan lesion abutting capsule and with adjacent blood clot slice eleven;5 - RS slice thirteen with pale lesion/haemorrhage disrupting liver capsule; 6 - RS tan lesion to uninvolved liver parenchyma slice thirteen; 7 - RS tan pale lesion to margin slice thirteen; 8 - RS tan pale lesion to margin slice fourteen; 9 - RS tan pale lesion to margin slice fifteen ; 10 - RS tan lesion to clot and liver capsule and adjacent liver parenchyma slice fourteen; 11 - RS tan lesion with clot and haemorrhage slice nine.  (TO:WP/rs 28/4/68)
+
+
+MICROSCOPIC (Reported by Dr W Bock and registrar Dr W Bostelmann):
+Sections show an approximately 100mm well circumscribed, unencapsulated hepatocellular lesion which blends with the background liver tissue.  The lesion is composed of benign appearing hepatocytes arranged in irregular plates of one to two cells thick.  There is no significant atypia and no mitotic figures are seen.  No bile ducts are demonstrated within the lesion with CK19.  Isolated arteries are seen within the lesion and arterialised sinusoids are demonstrated with CD34.  Very mild inflammation is present however, no steatosis is present.  The features are consistent with a hepatocellular adenoma.  The lesion abuts the capsule and extends to the surgical resection margin.  The background liver shows no significant abnormality and no steatosis is seen.  There is no evidence of malignancy.
+
+COMMENT:
+Subclassifation of the adenoma is difficult due to lack of required immunohistochemistry however, no significant steatosis is seen, typical of HNF1alpha-inactivated adenomas.  Beta-Catenin shows no nuclear staining that is seen in Beta-Catenin-activated adenomas.  A further opinon will be obtained.
+
+
+DIAGNOSIS:
+Liver:  Consistent with hepatocellular adenoma, margin involved (see comment).

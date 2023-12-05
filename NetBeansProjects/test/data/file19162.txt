@@ -1,0 +1,95 @@
+SPR no: 30L035165U
+MRN no: 3040351
+Site_name: COWRA DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+30L03516 (30L035165U) BIBEE, PHILIP VINCENZO
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Colon cancer, peritoneal disease. Frozen section, small bowel one, small bowel two, small bowel three. CRC. Retroperitoneal, level segment IV, pelvic peritoneum, omentum, wound.
+
+MACROSCOPIC:
+A. &amp;quot;SMALL BOWEL 1&amp;quot;. A tan red red fragment measuring  5x3x2mm. All embedded for frozen section. AE (1-1).
+
+F/S: &amp;quot;Adenocarcinoma&amp;quot;. Reported by Dr J Disparte via phone to Dr GRAHAM HAGEN on 23.2.17 at 10.57am.
+
+B. &amp;quot;SMALL BOWEL 2&amp;quot;. A tan red fragment measuring  5x4x1mm. All embedded for frozen section. AE (1-1)
+
+F/S: &amp;quot;Fibrosis and chronic inflammation - no malignancy. Reported by Dr J Mayton via phone to Dr DUNCAN TALAS on 23.2.17 at 10.57am.
+
+C. &amp;quot;SMALL BOWEL 3&amp;quot;. A tan red fragment measuring  3x2x2mm. All embedded for frozen section. AE (1-1)
+
+F/S: &amp;quot;Smooth muscle/fibrosis/haemorrhage - no malignancy&amp;quot;. Reported by Dr J Orem via phone to Dr EDWIN NAVEJAS on 23.2.17 at 10.57am.
+
+D. &amp;quot;GALLBLADDER, OMENTUM, PERITONEAL DISEASE&amp;quot;. Received in one bucket multiple tissue fragments including:
+
+A gallbladder measuring  70x30mm. The outer surface is smooth and grey. The wall is up to 3mm thick. The mucosal surface is granular with multiple yellow flecking. No calculi are identified.
+
+(1 cystic duct and TS neck; 2 TS body and LS fundus).
+
+A fibrofatty piece of tissue consistent with omentum measuring 400x140x30mm. Multiple surface adhesions are identified but no definite nodules are seen. The specimen is serially sliced. The cut surface is fatty and unremarkable.
+
+(3-6 RS omentum).
+
+Received multiple fibrofatty pieces of tissue with glistening covering (?peritoneum) measuring 100x80x30mm. No definite surface nodules are identified. Firm white areas adjacent to dilated vessels are seen on cut surface.
+
+(7-10 RS peritoneum). RS (M-10).
+
+E. &amp;quot;ANTERIOR ABDOMINAL WALL&amp;quot;. Multiple fibrofatty pieces of tissue with adjacent muscle of a total measurement of 80x70x20mm. There is a shiny surface ?peritoneum which is ragged with focal areas of haemorrhage but no definite nodules are identified. The cut surface reveals firm fibrous tissue across the specimen. RS (M-4).
+
+F. &amp;quot;RETROPERITONEUM&amp;quot;. A fibrofatty piece of tissue measuring  50x30x12mm with glistening ragged surface ?peritoneum. The other surface (surgical margin) is inked blue with involvement of the underlying fat, located 5mm of the nearest possible surgical resection margin.
+
+(1&amp;amp;2 tumour nodule). RS (2-2).
+
+G. &amp;quot;TUMOUR LIVER SEGMENT 4&amp;quot;. A segment of liver resection with a total weight of 15g consisting of a capsule measuring  35x20mm with underlying tissue to a depth of 20mm. The margins are inked blue. The cut surface reveals central scar with areas of calcification, measuring  10x6x6mm located 5mm of the nearest resection margin and 7mm of the overlying capsule.
+
+(1 LS of each peripheral resection margin; 2&amp;amp;3 each one TS scar). RS (4-3/ZH/ht).
+
+MICROSCOPIC:    (Dr. J. Donohoo)
+A.  Sections of fibrofatty tissue show irregular nests and small glands within fibrodesmoplastic stroma.  These contain irregular hyperchromatic nuclei.  There is surrounding patchy chronic inflammation.  The glands are positive for CDX2 and CK20 and they are negative for CK7 on immunohistochemistry.
+
+B.  Sections show vascular fibrous tissue and small groups of smooth muscle with minimal adipose tissue. There is no evidence of malignancy.
+
+C.  Sections show fibrin, organising granulation tissue and fibrosis. There is no evidence of malignancy.
+
+D.  The gallbladder mucosa shows focal cholesterolosis. The wall shows smooth muscle hypertrophy and is fibrotic.  There is scattering of chronic inflammatory cells.  There are no atypical features.
+
+The omental fat shows lobulated adipose tissue with intervening thin fibrous septa.  Small suture granulomas are present on the surface. There are also large zones of organising fibrosis.  There are large vessels and traumatic neuroma present within the fatty tissue.  A 0.4mm focus of metastatic adenocarcinoma is present towards the surface of the omentum (D8).  There are three small unremarkable lymph nodes and one nodule which shows foamy macrophages and calcification.
+
+E.  The fibrofatty tissue shows large zones of fibrosis with elastic fibres.  There is surface haemorrhage, fibrin, scattered chronic inflammation and segments of skeletal muscle at the edge of the fragments.  There is no evidence of malignancy.
+
+F.  Sections of fibrofatty tissue show a 11mm deposit of metastatic adenocarcinoma composed of small nests and tumour glands embedded within extensive desmoplastic stroma.  Prominent perineural invasion is present.  There are two small lymph nodes with no involvement.
+
+G.  The liver tissue shows extensive macrovesicular and microvesicular steatosis involving zones 2 and 3, most prominent around the central veins.  The portal tracts are unremarkable and are not inflamed.  There is no lobular activity.  A isolated neutrophil is present within sinusoids but there is no hepatocyte damage. There is a 6mm nodule of fibrosis with extensive dystrophic calcification foamy macrophages.  Within this a few isolated atypical glands are identified which consists of columnar cells with elongated hyperchromatic nuclei and frequent mitoses.  These are surrounded by chronic inflammation and they sit within fibrous stroma amongst the deposits of calcification.  They are positive for CK20 and CDX2 and negative for CK7 with immunohistochemistry, consistent with metastatic colorectal adenocarcinoma.  A giant cell reaction is present around some of the calcified deposits.
+
+DIAGNOSIS:
+A.  SMALL BOWEL 1:
+- METASTATIC COLORECTAL ADENOCARCINOMA
+
+B.  SMALL BOWEL 2:
+- NO EVIDENCE OF MALIGNANCY
+
+C.  SMALL BOWEL 3:
+- NO EVIDENCE OF MALIGNANCY
+
+D.  GALLBLADDER, OMENTUM, PERITONEAL DISEASE:
+- METASTATIC ADENOCARCINOMA INVOLVING OMENTUM
+- CHRONIC CHOLECYSTITIS
+- THREE UNINVOLVED LYMPH NODES
+
+E.  ANTERIOR ABDOMINAL WALL:
+- NO EVIDENCE OF MALIGNANCY
+
+F.  RETROPERITONEUM:
+- METASTATIC ADENOCARCINOMA
+- TWO UNINVOLVED LYMPH NODES
+
+G.  TUMOUR LIVER SEGMENT 4:
+- METASTATIC COLORECTAL ADENOCARCINOMA
+- MODERATE TO SEVERE STEATOSIS
+
+
+29/4/2067 ank

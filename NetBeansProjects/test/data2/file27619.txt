@@ -1,0 +1,110 @@
+SPR no: 63D269601U
+MRN no: 63126960
+Site_name: ALPHA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+75 year old female uncinate process mass.  Abuts SMA intraoperatively.  Para-aortic noted excised separately.  Also separate left hilar nodes pancreatic ca.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Whipples&amp;quot;, consists of a pancreaticoduodenectomy, with attached gallbladder.  The portion of small bowel measures 259mm in length with a maximum circumference of 56mm.  The portion of stomach measures 50mm (along the staple line) x19 x 32mm.  The pancreas measures 60 x 45 x 37mm, and contains orienting sutures (1 denoting portal vein, 2 denoting SMA, 3 denoting uncinate process).  The pancratic neck margin measures 25 x 10mm.  The gallbladder measures 94 x 37 x 37mm, and has a smooth shiny serosal surface. The cystic duct measures 15mm in length by a maximum diameter of 3mm.  The common hepatic duct margin is identified, with the common hepatic duct extending approximately 3mm above where the cystic duct meets.  The gallbladder wall thickness measures 1mm, and the gallbladder mucosa appears green and velvety.  The gallbladder contents contain a single gallstone measuring up to 46mm in maximum dimension, along with bile fluid.  The pancreatic neck margin is inked green, the portal vein margin is inked black, the SMA margin is inked blue, the uncinate process inked green, the anterior surface of the pancreas inked red, and the posterior surface of the pancreas inked yellow.  The common hepatic duct margin is inked black and the gastric and distal small bowel margins are inked blue.  The pancreas is sliced into six slices from superior to inferior (slice one superior) The cut slices reveal a pale firm poorly circumscribed lesion present from slices three to five and measuring 25 x 26 x approximately 23mm.  This lesion appears to abut very closely to the uncinate process margin, as well as the duodenal mucosa.
+Blocks: 1 - Bisected LS of extra pancreatic common bile duct to common hepatic duct margin; 2 - LS of gastric and distal small bowel margins; 3 to 6 - LS of the pancreatic neck margin (block 3 &amp;amp;  block 6 - either end); 7 to 9 - peripancreatic lymph nodes as seen; 10 - two TS cystic duct; 11 - two RS gallbladder body; 12 - two RS gallbladder fundus; 13 - cystic duct lymph node; 14 - slice one of pancreas; 15 &amp;amp; 16 - composite sections slice two of pancreas; 17 1&amp;amp; 8 - composite sections slice three of pancreas; 19 &amp;amp; 20 - composite sections slice four of pancreas; 21 - slice five pancreas; 22 - slice six pancreas.
+Photos taken.
+
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of fatty tissue measuring 290 x 170 x 15mm.
+Blocks 1-4: RS.
+
+C.  Specimen labelled &amp;quot;Para aortic lymph node&amp;quot;, consists of a piece of fatty tissue measuring 35 x 20 x 13mm.  AE 2 blocks.
+
+D.  Specimen labelled &amp;quot;Hilar lymph node&amp;quot;, consists of a piece of fatty tissue measuring 32 x 18 x 18mm.
+Blocks: 1 &amp;amp; 2 - lymph nodes as seen.
+(TO: NM; NM/rs 30/8/68)
+
+
+MICROSCOPIC (Reported by Dr P Walliser):
+A.
+
+SUMMARY PANCREATIC TUMOUR
+
+Size of tumour:  27mm
+
+Histological tumour type
+Neuroendocrine carcinoma (large cell)
+Grade (WHO 2010): 3
+
+Microscopic tumour sites
+Pancreas
+Head of pancreas
+Uncinate process
+Extent of tumour invasion
+Duodenal wall
+Peripancreatic soft tissues
+
+Lymphovascular invasion
+Present
+Type of vessel
+Vein  (multifocal)
+Small vessel (multifocal)
+Perineural invasion
+Present, focal (e.g. A18)
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+Preinvasive lesion
+Not identified
+Margins:
+Invasive tumour:
+Pancreatic neck: &amp;gt; 10mm
+Common bile duct:  &amp;gt;10mm
+Portal vein (superior mesenteric vein):  2.5mm (A19)
+Superior mesenteric artery: positive over a 2.5mm front (A19 L2)
+Periuncinate soft tissue: 0.5mm (A18)
+Proximal (stomach): &amp;gt; 20mm
+Distal (duodenal):  &amp;gt; 20mm
+
+Surfaces:
+Anterior:  &amp;gt; 10mm
+Posterior:  8mm (A8)
+
+Lymph nodes:
+Number found:  34
+Number involved:  4 (up to 3mm in size)
+
+Other pathologies:
+- Focal chronic pancreatitis is seen.
+- Hyperplastic changes (PanIN 1) are focally present in a small pancreatic duct (A4)
+
+Immunohistochemistry:
+panCK: +ve
+CD56: +ve
+Chromogranin: patchy +ve
+Synaptophysin: focal weak +ve
+Ki67 index: focally up to 25%
+Insulin: -ve
+Glucagon: -ve
+Somatostatin: focal weak +ve
+Serotonin: focal weak +ve
+Gastrin: -ve
+
+B. Sections show omentum with no evidence of malignancy.
+
+C. Sections show 7 lymph nodes with no evidence of malignancy.
+
+D. Sections show 6 lymph nodes with no evidence of malignancy.
+
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+Primary tumour category (pT)
+T3 Tumour invading the duodenum
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+Distant metastasis category (pM)
+MX Not assessable by histology
+DIAGNOSIS:
+A. Whipple resection:
+- 27mm large cell neuroendocrine carcinoma of the pancreas, with invasion into duodenum (see text for margins)
+- Multifocal lymphovascular and venous invasion
+- Metastatic carcinoma in 4 out of 34 lymph nodes
+B. Omentum: no evidence of malignancy
+C. Para-aortic lymph nodes: 7 lymph nodes with no evidence of malignancy
+D. Hilar lymph nodes:: 6 lymph nodes with no evidence of malignancy

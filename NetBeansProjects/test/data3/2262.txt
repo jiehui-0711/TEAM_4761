@@ -1,0 +1,71 @@
+Episode No:  38T605854F
+3876058.NLF
+
+Corporan, Young 
+Lab No:  38T60585
+Hazeldean,
+KURRAJONG HEIGHTS  VIC  2678
+Specimen: Tissue
+D.O.B:  5/6/1998
+Sex:  F
+Collected: 28/04/2065 at 11:31
+Location:  3 ARRIETTA CLOSE-ST VINCENT'S HOSPITAL (DARLINGHURST)
+DR JAN Sherell PETTETT
+Distribution:  
+SUPPLEMENTARY REPORT:  (21.5.65)
+
+
+CLINICAL:
+Right buttock lesion.  Lipoma-like lesion.
+MACROSCOPIC:
+Specimen labelled "Gluteal mass" received fresh and sent for cytogenetics, consists of an unoriented piece of fibrofatty tissue measuring 190 x 120 x 25mm.  One surface is smooth and inked blue.  The opposite surface is ragged with attached pieces of muscle and inked black.  The cut surface shows a pale yellow homogenous lipomatous surface.  There are no areasof necrosis or fibrous areas.  Representative sections in 10 blocks.  (TO: EI:  XS/mm 29.4.65) 11-20 (Additional rep blocks).
+MICROSCOPIC (Reported by Dr J Frondorf):
+Sections show lobules of adipose tissue which focally are seen expanding and separating striated muscle fibres.  The adipose tissue, there is no significant variation in cell size and no atypical stromal cells or lipoblasts were identified.  Scattered within the lobules of adipose tissue especially towards the surface of some lobules there is a bland hypocellular spindle cell component.
+Immunohistochemistry:
+The spindle cell component stains as follows:
+Positive:  CD34
+Negative:  Calretinin, HMB-45, Glut 1, SMA, S100, CK5/6, AE1/AE3
+Comment:
+The morphology favours a lipoma, with the involvement of striated muscle suggestive of an intramuscular lipoma.  The lesion also shows a patchy bland spindle cell component which may represent a spindle cell lipoma component.  FISH and Cytogenetics studies are pending and will be issued in a supplementary report.
+DIAGNOSIS:
+Gluteal mass:
+-  Favour intramuscular lipoma (see comment).
+FLUORESCENCE IN SITU HYBRIDISATION - FISH REPORT
+HAPS's Pathology - 15/5/65
+
+Clinical History:
+MDM2 FISH on buttock lesion
+Nature of Specimen: 
+Tumour
+FISH Probe:
+MDM2(12q15),D12Z3 (12 centromere) loci-specific probe (ZytoVision)
+FISH Results:
+nuc ish(D12Z3,MDM2)x2.ish 3q(MDM2+),12q(D12Z3+,MDM2-)
+Comment:
+Interphase and metaphase FISH was undertaken on an adherent culture preparation of this patient's R. buttock lesion.
+Interphase and metaphase FISH detected a signal pattern consistent with translocation of the MDM2 locus from 12q to 3q. There was no evidence of amplification of the MDM2 locus in this tissue.
+Summary: 
+Translocation of MDM2 (12q15) to 3q. Please correlate with the karyotypic findings in this tumour (38-7605854).
+Reported By: J. Inacio	Validated By: Dr J. Mohaupt
+Date: 11/05/65 8:15 am
+SUPPLEMENTARY REPORT:  (21.5.65)
+Report from SEALSCentral's Pathology:
+Reported by J. Kjar, validated by Dr J Reeher:
+CYTOGENETICS:
+Specimen Type:  Tumour
+Preparation:
+S-1
+S-2
+S-3
+S-4
+Analysis:
+Cells Counted                                      7
+Cells Analysed (GTW BANDING)       8
+Band Resolution Level                      <300-300
+Karyotype:
+46,XX,t(3;12)(q28;q14.3) [15]
+Comment
+All 15 cells examined were abnormal and pseudodiploid, with a t(3;12)(q28;q14.3) detected as the sole cytogenetic abnormality.
+t(3;12) is the translocation reported most frequently in lipomas, being detected in approximately 25% of Iipoma (Sandberg AA. Cancer Genetics and Cytogenetics (2004); 150: 93-115).  The breakpoint on 3q is within the LPP gene and on 12q within the HMGA2 gene.This finding is consistent with the Interphase FISH findings
+in this tumour, which showed MDM2 (at 12q15) translocated to 3q.  Please consider the cytogenetic findings within the context of other laboratory findings.
+

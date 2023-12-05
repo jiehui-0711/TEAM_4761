@@ -1,0 +1,22 @@
+SPR no: 41U3612303
+MRN no: 417361
+Site_name: COLLINSVILLE MULTI-PURPOSE HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Skin lesion (R temporal scalp), suture posterior.  ?KA.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Lesion right temporal scalp, suture posterior&amp;quot;, consists of an oriented ellipse of skin 46 x 20mm to a depth of 3mm with a suture at one end demarcating posterior.  In the centre of the skin is a raised rounded polypoid lesion 15 x 20mm to a height of 12mm.  Suture taken as 9 o&amp;apos;clock.  12 o&amp;apos;clock inked blue, 6 o&amp;apos;clock black.
+Blocks: 1 to 3 - LS 3 o&amp;apos;clock; 4 &amp;amp; 5 - mid section TS; 6 &amp;amp; 7 - LS 9 o&amp;apos;clock AE.
+(TO: MS; MS/ta 5/6/65)
+
+
+MICROSCOPIC (Reported by Dr L Pietig):
+Sections of skin to subcutis with striated muscle centrally towards the deep aspect.  The lesion is an exo-endophytic moderate to poorly differentiated squamoproliferative lesion which is partially ulcerated.  The lesion is composed of infiltrative nests of squamous cells, some of which show central keratin tunnels and some also showing maturation through enlarged glassy keratinocytes.  The lesion measures at least 7.5mm thick and extends to the deep margin discontiguously over a front of approximately 13mm.  There is perineural invasion close to the deep margin.  No lymphovascular invasion is seen. Focal infiltration of striated muscle is also seen.  The lesion is about 3mm clear of the closest radial (superior and inferior) margins, and is about 8mm clear of the anterior margin.  The posterior margin is well clear. The results are patchy, changes of actinic keratosis which appear clear of margins.
+
+
+DIAGNOSIS:
+Lesion right temporal scalp, suture posterior (excision):
+-  Ulcerated moderate to poorly differentiated invasive keratinising squamous cell carcinoma with infundibulocystic differentiation, at least 7.5mm thick,  perineural invasion close to deep margin. positive deep margin, closest radial margin about 3mm clear,

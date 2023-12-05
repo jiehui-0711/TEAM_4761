@@ -1,0 +1,64 @@
+Episode No:  05J562884Z
+0535628.VMZ
+
+Schmith, Delinda 
+Lab No:  05J56288
+S Adams
+MARCOOLA  QLD  7290
+Specimen: Tissue
+D.O.B:  10/12/1994
+Sex:  M
+Collected: 22/06/2065 at 10:38
+Location:  Seals-CAMPBELL TOWN HEALTH AND COMMUNITY SERVICE
+DR EDGARDO SPENCER THIELEMIER
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Sigmoidectomy.  Palliative.  Known extensive liver and nodal mets.  Obstructing tumour.
+MACROSCOPIC:
+Specimen labelled "Sigmoid colon" and consists of a segment of colon (received opened) 110mm in length and 60mm in circumference, with mesocolic fat 35mm in width.  There is a circumferential stenosing tumour, 50 x 45 x 12mm.  The tumour is 25mm clear of the closest margin and 35mm clear of the opposite margin.  The tumour infiltrates through the muscularis propria and abuts the overlying serosa which appears puckered.  The tumour infiltrates into the mesocolic fat.  This area is located immediately next to an ill-defined indurated mesocolic mass, 30 x 15 x 30mm.  A lymph node is identifiedin direct continuity with this mass.  There are also multiple small lymph nodes in the vicinity of this matted mass.
+Blocks: 1 - margin closest to tumour; 2 - opposite margin; 3 - tumour with uninvolved bowel; 4 & 5 - tumour extending to serosa (4 - reserve block); 6 to 9 - paired sections tumour and pericolic fat with indurated mass; 10 - apical tissue; 11 lymph node; 12 & 13 - multiple lymph nodes; 14 - one lymph node immediately adjacent to mass in mesocolon; 15 to 18 - multiple lymph nodes adjacent to mesocolic mass.   (NT/ta 22/6/65) 
+ 
+MICROSCOPIC (reported by Dr C Checketts):
+Sections show moderately differentiated adenocarcinoma of the sigmoid colon.  The features are as follows:  
+
+Macroscopic Description
+
+Site of tumour:  Sigmoid colon.  	
+Maximum tumour diameter:  50mm
+Distance of tumour to nearer cut end:  25mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4a	Tumour penetrates the surface ofthe visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Lymph nodes
+Number of lymph nodes present:  13	
+Number of lymph nodes involved:  3	
+pN1b	Metastases in 2-3 regional LN
+Lymphovascular invasion
+Present:  Extramural
+Perineural invasion
+Present
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvant therapy
+Not applicable. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with micro satellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of micro satellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a   pN1b     pMX     R0
+

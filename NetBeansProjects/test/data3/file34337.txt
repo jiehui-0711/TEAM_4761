@@ -1,0 +1,35 @@
+SPR no: 66O086679A
+MRN no: 2365722
+Site_name: HENTY MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Abdominal sarcoma.  Stitch on gastric margin.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Abdominal sarcoma stitch on gastric margin&amp;quot;, consists of a nodular encapsulated mass, 3720g, 260 x 180 x 170mm.  There is an attached portion of colon measuring 150 x 35mm, and some attached omentum measuring 160 x 90 x 15mm.  A suture is present on the gastric margin, which is inked green. The colonic margins are differentially inked blue and black.  The colon is attached to the tumour by a fibrous adhesion, however the tumour does not appear to involve the colon.  The cut surface of the tumour shows firm pale tan whorled tissue with areas of myxoid change, cystic degeneration and necrosis.  Some possible small lymph nodes are identified in the attached fatty tissue, up to 5mm in maximum extent.  Fresh tumour and benign colon are sampled for biobanking.  Blocks: 1 - blue-inked colonic resection margin; 2 - black-inked colonic resection margin; 3 &amp;amp; 4 - colon and adhesion to tumour; 5 - additional RS colon near adhesion; 6 to 9 - tumour at gastric resection margin; 10 to 19 - RS tumour; 20 to 25 - fat containing possible lymph nodes.
+
+B.  Specimen labelled &amp;quot;Greater omentum&amp;quot;, consists of a sheet of omentum, 460 x 200 x 25mm.  No tumour or lymph nodes are identified.  Representative sections embedded in 3 blocks.
+
+C.  Specimen labelled &amp;quot;Deep margin&amp;quot;, consists of two pieces of fatty tissue, 50 x 23 x 7mm and 12 x 6 x 4mm.  The larger piece is covered by smooth tan fascia on one surface, which is inked black, and the opposite side is inked blue.  The cut surfaces of both pieces show normal adipose tissue with no focal lesions.
+Blocks: 1 to 3 - larger piece serially sectioned; 4 - smaller piece embedded whole.  AE.
+(TO:FB/eh 23/2/66)
+
+
+MICROSCOPIC (Reported by Dr R Mugrage):
+A.  Sections show a leiomyosarcoma.  It is cellular and consists of fascicles of cells with spindle shaped, blunt ended nuclei and eosinophilic cytoplasm.  A minor component of the tumour has a more loose, myxoid appearance.  There is generally mild and moderate cytologic atypia but there are foci of severe cytologic atypia with highly atypical pleomorphic cells.  Mitoses are present, numbering up to around 8 per 10 high power fields, including abnormal forms.  There is some patchy tumour necrosis but this is not particularly prominent.  No lymphovascular invasion is seen. The tumour is FNCLCC grade 1 (tumour differentiation score 1, mitosis score 1, microscopic tumour necrosis score 1).
+The tumour has a lobulated, apparent circumscribed edge but does abut inked excision margins in some places, including the gastric margin which was marked with a stitch (block A9).
+The tumour is adherent to serosal fat of the attached segment of colon but the bowel mucosa and wall are uninvolved and show no significant abnormality.
+The fat attached to the tumour mass is unremarkable.  Two lymph nodes were identified in the fat and these are unremarkable.
+With immunostains the tumour cells show strong diffuse positive staining for smooth muscle actin (SMA) and desmin, and show some patchy weak staining for CD34.  Stains for myogenin and c - kit are negative.
+The proliferation index with a Ki-67 stain is around 15%.
+
+B.  Sections show unremarkable fat.  No tumour is seen and no lymph nodes are identified.
+C.  Sections show pieces of mesothelium with underlying fat and other soft tissue.  No tumour is seen.  No significant abnormality is seen.
+
+
+DIAGNOSIS:
+A.  Abdominal sarcoma:  Leiomyosarcoma.
+
+B.  Greater omentum:  No abnormality seen.
+
+C.  Deep margin:  No significant abnormality.

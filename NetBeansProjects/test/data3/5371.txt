@@ -1,0 +1,47 @@
+ 4581632.AWL
+Suchocki, Jarod
+45V16320
+
+Last edited : 19/2/2066		Page: 2
+SUPPLEMENTARY REPORT 11/2/66
+
+CLINICAL:
+Abdominal wall sarcoma.  Consent for Bio Bank done.  Stitch at 12 o'clock.  Abdominal wall tumour.  Sampled fresh for Cytogenetics and tumour bank (NT).
+MACROSCOPIC:
+Specimen labelled "Abdominal wall lesion:  stitch 12 o'clock" consists of an oriented piece of fibrofatty tissue to underlying muscle measuring 100 x 70mm to a depth of 30mm.  There is a suture at one edge mark 12 o'clock.  There is a roughly elliptical shape of peritonealised fibrous tissue at the peritoneal surface which is haemorrhagic.  The 12 o'clock margin is red, the 6 o'clock green and deep black.  The superficial surface is inked blue.  On sectioning, there is a fleshy tan tumour within muscle measuring 32 x 30 x 28mm.  The tumour appears to abut the deep and peritonealised surfaces.  Other margins are as follows:  15mm 6 o'clock, 10mm 12 o'clock, 40mm 3 o'clock and approximately 60mm 9 o'clock.  Representative sections.
+Blocks:  1 to 4 - 9 o'clock margin slice one; 5 & 6 - slice five middle third; 7 to 10 - slice six; 11 to 14 - slice seven; 15 to 20 - slice eight; 21 to 26 - slice nine; 27 to 28 - medial two third ofslice ten; 29 - slice fifteen 3 o'clock margin; 30 - tumour for Bio Bank.  (OO/rt 25.12.65)
+MICROSCOPIC (Reported by Dr M Liechti):
+Sections show a well circumscribed tumour surrounded by skeletal muscle and fibrofatty tissue.  The tumour comprises of a mixture of epithelioid and spindle cells arranged in solid sheets, nests and trabeculae within a background of myxoid stroma.  The tumour cells have oval nuclei, prominent nucleoli and eosinophilic cytoplasm.  There are up to 6 mitoses per 10 HPF.  The Ki-67 proliferation indexis 20%.  The tumour cells are strongly positive for Vimentin.  There is focal positive staining for SMA, EMA and Desmin.  The stains for MNF-116 (pan-cytokeratin), S100, HMB45, Myogenin and CD34 are negative.  The appearances are consistent with those of myxoid leiomyosarcoma.  The tumour is 1.5mm to the superficial margin and is 0.2mm to the deep/peritoneal surface.  The other margins are well clear.  There is no evidence of lymphovascular or perineural invasion.
+FNCLCC Tumour grade
+Tumour differentiation 	Score 2
+Mitotic count			Score 1
+Tumour necrosis		Score 0
+Histological grade		Grade 1
+DIAGNOSIS:
+Abdominal wall lesion - Myxoid leiomyosarcoma.
+SUPPLEMENTARY REPORT
+CYTOGENETICS REPORT - LUCIO MERRION
+Southern IML Pathology - CAMDEN HOSPITAL's Hospital - 11/2/66
+
+Clinical Information:
+core bx favour leiomyosarcoma
+Specimen: 
+Tumour Biopsy
+SUMMARY:
+Complex karyotype detected. Abnormalities include a t(9;22)(q22;q12). EWSR1 (22q12) rearrangement confirmed by lnterphase FISH. This is consistent with a diagnosis of extra skeletal myxoid chondrosarcoma. Please compare with other findings.
+
+Preparation
+Tumour cell collagenase
+Analysis
+Cells analysed:10 
+Cells counted:10
+Band Resolution: 300
+ISCN Karyotype
+46,XX,+1,der(1 ; 18)(q10;q10)1+8,der(8;14)(q10;q10),t(9;22)(q22;q12),der(21)t(7;21)(q11.2;p10)[8]/46, sl,ins(11;?)(q13;?)[11]. nuc ish(EWSR1x2)(5EWSR1sep3EWSR1x1)[20]
+EWSR1 breakapart probe (ZytoVision)
+Interpretation
+A complex abnormal karyotype was detected. A reciprocal translocation between 9q22 and 22q12 was identified. This translocation is described in extraskeletal myxoid chondrosarcoma and results in EWSR1-NR4A3 gene rearrangement. EWSR1 rearrangement at 22q12 was confirmed by interphase FISH in this case. Rearrangement of the partner gene (NR4A3) located in 9q22 has not been confirmed in this case, but the involvement of EWSR1 is highly suggestive of this diagnosis. In additional to the translocation, there was whole arm gains of 1q, 7q and 8q, and a subclone with an insertion of material of unknown origin into 11q. The t(9;22) rearrangement hasnot been reported in leiomyosarcoma to our knowledge. Leiomyosarcoma are reported as having complex karyotypes but the reported abnormalities did not appear to feature in this case. These results are consistent with a diagnosis of extraskeletal myxoid chondrosarcoma. Please correlate with other findings.
+Requested by Prof Wilburn Stippich
+Reported by Deon EVANICH 15/01/66 4:13pm.  
+Validated by Dr Orsa Myra 15/01/66 4:33pm   (ta) 
+

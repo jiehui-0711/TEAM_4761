@@ -1,0 +1,38 @@
+SPR no: 43Y473706B
+MRN no: 43947370
+Site_name: WEIPA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left retroperitoneal sarcoma.
+General clinical history: OSA, Epilepsy, Glaucoma, BPH.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left retroperitoneal sarcoma&amp;quot;, consists of a kidney with perinephric fat, 220mm (superior to inferior) x 130mm (medial to lateral) x 130mm (anterior to posterior) and attached proximal ureter 25mm in length x 4mm in diameter (blue suture).  Black silk suture and a staple line are removed from the renal vascular margins.  The specimen is inked: anterior blue, medial black and posterior green.  The kidney measures 110mm (superior to inferior) x 90mm (anterior to posterior) x 55mm (medial to lateral).  On sectioning three cream, well circumscribed rubbery lesions are identified within the perinephric fat.  Lesion one measures 40 x 42 x 35mm and is located 4mm from the lateral margin, 5mm from the posterior margin, 10mm from the renal parenchyma and well clear of all other margins.  The perinephric fat posterior to this lesion (and abutting the posterior margin) appears vaguely fleshy and mottled over an area corresponding to approximately 70 x 60mm.  The second lesion measures approximately 45 x 40 x 40mm and is located at the superior aspect of the specimen.  The lesion abuts the superior and posterior margins and is well clear of the renal parenchyma and all other margins.  The third lesion measures 42 x 42 x 17mm and protrudes as a lobular projection from the superior aspect of the specimen.  The adrenal gland measures 54 x 20 x 11mm and is encased by slightly mottled fatty tissue with fibrous septa that abuts the medial and superior margins.  The inferior and anterior perinephric fat grossly appear largely unremarkable.  The renal parenchyma appears unremarkable with no cysts or other discrete lesions identified.  Blocks: 1 - shave, ureteric margin; 2 - further TS ureter extending towards kidney; 3 - shave vascular margins; 4 &amp;amp; 5 - anterior margin; 6 &amp;amp; 7 - inferior margin; 8 - lesion one in relation to renal parenchyma; 9 to 12 - lesion one interface with lateral margin; 13 &amp;amp; 14 - mottled fat at posterior margin (posterior to lesion one); 15 &amp;amp; 16 - lesion two at superior margin; 17 - lesion two at posterior margin; 18 &amp;amp; 19 - adrenal gland at medial margin; 20 &amp;amp; 21 - fat surrounding adrenal gland and superior pole of kidney; 22 - inferior pole of kidney and adjacent perinephric fat; 23 &amp;amp; 24 - renal pelvis/sinus fat; 25 &amp;amp; 26 - lesion three at superior margin; 27 - reserve block for biobanking.  Shown to FZ.  (TO:BF/ta 22/11/71)
+MICROSCOPIC: (Reported by Dr M Bandy)
+Sections of the perinephric tumour show a 42mm focus of dedifferentiated liposarcoma arising within a 220mm well differentiated liposarcoma. The well differentiated liposarcoma consists predominantly of lipoma-like component with lesser amounts of sclerosing subtype. The well differentiated liposarcoma shows typical histologic features including variation in adipocyte size, focal moderate to marked nuclear atypia and hyperchromasia, as well as, focally prominent lipoblasts.
+
+Of the three separate tumour nodules identified, only nodule 1 shows features of dedifferentiated liposarcoma. This 42mm focus of dedifferentiation is a predominantly circumscribed nodule of undifferentiated spindle cell sarcoma with an abrupt transition from adjacent well differentiated liposarcoma. The nodule consists of moderately to focally highly pleomorphic spindle cells arranged in short storiform and haphazard fascicles, with surrounding collagenous stroma. Mitoses are readily identified (up to 25 per 10 hpf). No necrosis is seen. At the posterior aspect of the dedifferentated liposarcoma, the cellular spindled component interdigitates between foci of lipoma like well differentiated lipoma, consistent with a &amp;quot;mosaic&amp;quot; pattern of dedifferentiation. Mosiac type dedifferentiated liposarcoma extends focally to the margin at this posterior area.
+
+Well differentiated liposarcoma abuts, but does penetrate, the renal and adrenal capsules. The renal and adrenal parenchyma shows no significant abnormality. The ureteric and renal vascular margins appear free of tumour.
+
+Margins of excision:
+Well differentiated liposarcoma
+Anterior margin: Present at margin (4).
+Posterior margin: Present at margin (13).
+Superior margin: Present at margin (16)
+Inferior margin: Present at margin (7)
+Medial margin: Present at margin (18)
+Lateral margin: No diagnostic liposarcoma seen.
+
+Dedifferentiated liposarcoma
+Posterior margin: Present at margin (mosaic pattern) (14).
+Lateral margin: 1.5mm (9).
+Inferior, anterior, superior and medial margins: Free of dedifferentiated liposarcoma.
+
+
+COMMENT:
+The left retroperitoneal tumour is a 220mm well differentiated liposarcoma containing a 42mm focus of dedifferentiated liposarcoma. Well differentiated liposarcoma extends broadly to most margins (except lateral margin). Dedifferentiated liposarcoma is predominantly circumscribed, however, at its posterior aspect shows a mosaic pattern of dedifferentiation and focally abuts the deep margin.
+
+
+DIAGNOSIS:
+Left retroperitoneal tumour: 42mm focus of dedifferentiated liposarcoma arising within a 220mm well differentiated liposarcoma, margins involved.

@@ -1,0 +1,69 @@
+SPR no: 87S448879A
+MRN no: 877448
+Site_name: WONGAN HILLS HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Bio-bank tissue back with do consent.  Greater curvature ? GIST.
+Subtotal gastrectomy.  Skin tag left hip region.
+
+
+MACROSCOPIC:
+A.  Specimen is unlabelled as to site or nature and consists of gastrectomy specimen with diameter ranging from 45 to 70mm.  Lesser curvature is 110mm long and greater curvature is 280mm long.  The greater curvature fat/omentum is 260 x 250 x 20mm.  The lesser curvature fat is 80 x 30 x 20mm.  Proximal stapled resection margin is 70mm and distal stapled resection margin is 25mm.  A solid and cystic mass is present within the greater curvature omentum, 290 x 190 x 110mm.  The tumour is at least 30mm clear from the proximal resection margin and more than 75mm clear from the distal resection margin.  The serosal surface of tumour appears intact, apart from a 50mm area which has a friable appearance (? necrotic) and carries an incision mark from biobank sampling.  On sectioning the tumour is haemorrhagic and possibly 40 - 50% necrotic.  A 12mm mucosal nodule overlies the centre of the mass.  Also, seven polyps ranging 3 to 5mm are noted located at proximal part of stomach.  The closest is at least 7mm clear from blue inked resection margin.  No other mass or lesion seen.  Specimen is photographed.  Blocks: 1 - polyp closest to the blue inked resection margin, longitudinally bisected; 2 - two polyps; 3 - three possible polyps; 4 - two possible polyps; 5 and 6 - the nodule within the centre of mucosa; 7 to 14- interface of tumour with stomach mucosa; 15 and 16 - tumour and a haemorrhagic 30mm cyst on the serosal surface of omentum; 17 to 23 - tumour and bare serosal surface; 24 to 26 - tumour, focal necrosis and relationship with the discoloured tan area (inked orange/the site of biobanking); 27 to 33 - interface of tumour with fat; 34 - LS of distal resection margin inked black; 35 to 42 - entire lesser curvature fat; 43 - a possible 15mm lymph node attached to the serosal surface of the tumour, bisected; 44 - two greater curvature lymph node; 45 to 48 - greater curvature omentum; 49 - two lymph nodes from greater curvature; 50 to 55 - greater curvature fat.
+
+B.  Specimen labelled &amp;quot;Skin tag left hip&amp;quot;, consists of a polypoid piece of skin, 18 x 15 x 12mm.  Resection margin is inked.  Longitudinally bisected.  AE 1 block.  (TO:KN/vo 10/6/69)
+
+
+MICROSCOPIC (Reported by Dr W Friske):
+A. Sections of the macroscopically identified mass show a gastrointestinal stromal tumour.
+A synoptic report follows:
+
+Procedure:  Subtotal gastrectomy.
+
+Tumour site:  Stomach wall along greater curvature with extension into omentum.
+
+Tumour size:  290 mm (pT4 - Tumour &amp;gt; 10 cm in greatest dimension).
+
+Tumour focality:  Unifocal.
+
+Histologic type:  Gastrointestinal stromal tumour, epithelioid type.
+
+Mitotic rate:  10 mitoses per 5 square mm.
+
+Necrosis:  Present.
+- Extent:  Approximately 5% on microscopic examination.
+- The central portion of the tumour shows prominent cystic change.
+
+Histologic grade:  G2 - High grade (mitotic count &amp;gt; 5 per 5 square mm).
+
+Risk assessment:  High risk.
+
+Margins:  Uninvolved by tumour.
+- Distance of tumour from closest margin (proximal resection margin): 30 mm.
+
+Regional lymph nodes:  pN0 - No regional lymph node metastasis.
+- Number of lymph nodes found:  7.
+- Number of lymph nodes involved:  0.
+
+Distant metastasis:  pMx - Cannot be assessed histologically.
+
+Immunohistochemistry:
+- Positive: c-KIT (CD117).
+- Negative: CD34, panCK, SOX10, S100, Melan A, HMB45, SMA and desmin.
+- The Ki-67 proliferation index is 9.4% (413 cells counted).
+
+Other finding(s):
+1.  A 30 mm tumour deposit  (Block A16) is seen on the serosa of the omentum.
+2.  A 5 mm tumour deposit (Block A49) is seen in the greater curvature fat.
+3.  The gastric mucosa away from the tumour shows several fundic gland polyps and minimal chronic inflammation. No Helicobacter seen.
+
+B.  Sections show a fibroepithelial polyp (skin tag).  The overlying epidermis shows no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Subtotal gastrectomy specimen
+- Gastrointestinal stromal tumour, epithelioid type (pT4 N0 Mx R0; high grade &amp;amp; high risk)
+B.  Skin tag, left hip
+- Skin tag confirmed
+ADDENDUM (Dr W Koepsel on 15/11/71):
+The tumour is positive for DOG1 immunostain.  The diagnosis is unchanged.

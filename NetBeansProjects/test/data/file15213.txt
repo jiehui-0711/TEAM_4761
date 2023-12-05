@@ -1,0 +1,46 @@
+SPR no: 15M906064G
+MRN no: 15490606
+Site_name: FRANKSTON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***ADDITIONAL REPORT ADDED (9.1.2066)
+
+CLINICAL:
+Obstructive jaundice - klatskin tumour on imaging. Gallbladder macroscopically involved.  Everything to the left of right posterior sectoral artery/vein/duct taken.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Extended left lobe of liver&amp;quot;, consists of a partial hepatectomy with attached gallbladder weighing 248g. The  segment of liver is 170 x 110 x 40mm.  The liver resection margin is 110 x 40mm which includes multiple stapled lines and is inked black post removal of staples.  The liver capsule show an ill defined white area at the left side of the specimen, approximately 15x10 mm.
+
+Dr WILFRED YRAY kindly examined the specimen and defined common bile duct and right hepatic duct margin.  The red ink is added to the area of defect post sampling the shave margin of the common bile duct and right hepatic duct margin.
+
+The specimen is serially sliced from right to left into forty two slices. On sectioning an ill defined firm satellite shaped solid lesion is noted extending from slice five to fifteen, 35 x 28 x 15mm.  The lesion appears abutting the black inked liver resection margin.  It is abutting the red inked defect post right hepatic margin shave removal. Multiple separate pale areas noted from slice three to six, 3 to 7mm across.
+
+The gallbladder is 68 x 40 x 30mm.  The gallbladder wall varies from 2 to 5mm in maximum thickness.  The mucosa is diffusely denuded with some haemorrhagic areas.  No gross lesion is seen.  A tan/orange oval shaped crystalloid stone is noted within the gallbladder, 20 x 15 x 12mm.
+
+Blocks: 1 - shave of right hepatic duct margin; 2 - shave of common bile duct; 3 &amp;amp; 4 - LSs of slice one - right end; 5 &amp;amp; 6 - slice two; 7 - ill defined pale area from slice four; 8 to 10 - full face slice five; 12 - ill defined pale area in slice six; 13 - the lesion in slice six; 14 &amp;amp; 15, 16 &amp;amp; 17 - lesion and adjacent liver in slice eight; 18 &amp;amp; 19 - lesion and adjacent liver in slice nine; 20 &amp;amp; 21 - lesion and adjacent liver in slice ten; 22 &amp;amp; 23 - lesion and adjacent liver in slice eleven; 24 to 26 - lesion and adjacent liver in slice twelve; 27 to 31 - full face of slice thirteen; 32 &amp;amp; 33 - liver and adjacent lesion in slice fourteen; 34  to 36 - lesion and adjacent liver with dilated ducts/vessels from slice fifteen; 37 to 39 - middle slice sixteen ?lesion; 40 - ill defined white areas from slices three and four; 41 to 43 - middle slice nineteen with dilated ducts/vessel; 44 - RS slice twenty one; 45 - RS slice twenty two; 46 - middle slice twenty seven; 47 - middle slice thirty one; 48 &amp;amp; 49 - the ill defined white area overlying the capsule in slices thirty five to thirty eight; 50 - slice forty two - left end; 51 - second level common bile duct margin; 52 - gallbladder neck; 53 - one TS body adjacent to the neck; 54 to 58 - RS body thickened wall; 59 to 60 - RS LS fundus.  AE 60 blocks. Diagram available. Photos taken.  (TO:LN; LN/ta 7/12/66)
+
+Supplementary macroscopic (9.1.2066 LN): Specimen was reviewed - no lymph nodes identified. A small amount of soft tissue around the gallbladder neck embedded in blocks 61 and 62 (LN 5.1.66).
+
+
+MICROSCOPIC: (Reported by Dr E Zorn)
+Sections of the left lobe of liver show a moderately differentiated adenocarcinoma within the hepatic hilum and gallbladder neck. The foci of adenocarcinoma consist of infiltrative malignant tubules and cribriform structures associated with focal perineural and lymphovascular space invasion. At the liver hilum, carcinoma expands the hilum and infiltrates into underlying hepatic parenchyma up to 20mm in depth. Carcinoma abuts the diathermied hepatic hilar margin. Sections of the right hepatic duct margin and common bile duct margins appear free of tumour. The adjacent liver parenchyma shows areas of reactive portal bile duct hyperplasia and parenchymal necrosis/autolysis. The gallbladder shows moderately differentiated adenocarcinoma within the neck, extending through the full thickness of the gallbladder wall and focally abutting the serosal surface. There is background high grade dysplasia within the gallbladder mucosa.
+
+
+IMMUNOHISTOCHEMISTRY:
+Carcinoma cells positive for: CAM5.2, CK9, Ck7, CK20 (focal), CDX-2 (focal); TTF-1 (focal).
+Carcinoma cells negative for: Hepar-1, PSA.
+
+
+COMMENT:
+The hepatic resection and cholecystectomy show moderately differentiated adenocarcinoma expanding the hepatic hilum and involving the gallbladder neck. The overall morphology and pattern of immunohistochemical staining would be consistent with primary bile duct origin (cholangiocarcinoma). Whilst TTF-1 positivity is typically a marker of pulmonary tumours, aberrant TTF-1 positivity has been described in some cholangiocarcinomas. Carcinoma is present at the diathermied hilar margin and is 1.1mm from the true hepatic resection margin; carcinoma is clear of the right hepatic duct and common bile duct margins.
+
+
+DIAGNOSIS:
+Extended left lobe of liver:
+- Moderately differentiated adenocarcinoma (cholangiocarcinoma) of the hepatic hilum and gallbladder neck.
+- Tumour is present at the hilar margin and is 1.1mm from the true hepatic resection margin (see comment and additional report below).
+
+
+***ADDITIONAL REPORT WITH AMENDMENT - Dr E Meier
+The case was discussed at the GIT MDT and clarification of the surgical margin involvement and lymph node count were requested. The slides have been reviewed and the surgical margins re-assessed. Tumour extends to the diathermied hilar margin, whilst tumour is 1.1mm from the true hepatic surgical margin (the original report has been amended in bold/underline above).
+
+The macroscopic specimen was re-examined and additional tissue embedded - no lymph nodes are identified in the entire specimen.

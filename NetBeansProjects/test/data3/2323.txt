@@ -1,0 +1,58 @@
+Episode No:  86H967168W
+8629671.PVW
+
+BRAMHAM, Adelaide Ray 
+Lab No:  86H96716,86H96716
+Hauschildt
+GEELONG  ACT  2805
+Specimen: Washings,Tissue
+D.O.B:  7/8/1990
+Sex:  F
+Collected: 2/6/2065 at :
+Location:  BRIGHAM & WOMEN'S HOSPITAL - KAROONDA AND DISTRICT SOLDIERS' MEMORIAL HOSPITAL
+DR EDWIN CAREY WICE
+Distribution:  DR RENATO,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (25.2.65):
+
+
+CLINICAL:
+Endometrial cancer.  Type 2 DM.  Hypertension.
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, tubes and ovaries" consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 142g in total.  The uterus was received with a parasagittal incision made through the anterior aspect of the uterus.  The uterus measures 95 x 60 x 55mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 20mm and appears unremarkable.  Upon opening there is a polypoid friable cream tumour occupying the majority of the anterior endometrial cavity measuring 58 x 42mm.  Posteriorly, there is a cream, friable tumour measuring 45 x 38mm.  The maximum thickness of the tumour anteriorly is 28mm over a total wall thickness of 39mm.  Posteriorly, the tumour invades to maximum depth of 11mm over a total wall thickness 22mm.  The right fallopian tube measures 55mm in length with a maximum external diameter of 6mm.  The right ovary measures 24 x 12 x 8mm and has an unremarkable cut surface.  The left fallopian tube measures 45mm in length with a maximum external diameter of 6mm.  The left ovary measures 24 x 12 x 9mm and has an unremarkable cut surface.
+Blocks:  1 to5 - full LS of anterior body and cervix; 6 to 9 - full LS of posterior body and cervix; 10 & 11 - paired blocks at deepest point of invasion anteriorly; 12 & 13 - further representative posterior uterus at deepest point of invasion; 14 - right tube; 15 - right ovary; 16 - left tube; 17 - left ovary; 18 - reserved block.
+B.  Specimen labelled "Left external iliac nodes" consists of two piecesof fatty tissue 20 and 45mm in maximum dimension.  Multiple lymph nodes were identified from 8 to 30mm.
+Blocks:  1 - one lymph node serially sectioned; 2 - one lymph node serially sectioned; 3 - one lymph node bisected; 4 & 5 -one lymph node serially sectioned.
+C.  Specimen labelled "Left obturator" consists of a piece of fatty tissue 40mm.  Two lymph nodes were identified 14 and 20mm.
+Blocks:  1 - one lymph node serially sectioned; 2 - one lymph node bisected.
+D.  Specimen labelled "Right external iliac node" consists of a piece of irregular fatty tissue 55mm in maximum dimension.  Multiple lymph nodes were identified from 8 to 32mm.:  1 - lymph node serially sectioned; 2 - one lymph node serially sectioned; 3 - lymph nodes; 4 & 5 - one lymph node serially sectioned.
+E.  Specimen labelled "Right obturator nodes" consists of a piece of fatty tissue 50mm in maximum dimension.  Two lymph nodes were identified 10 and 25mm.
+Blocks:  1 - one lymph node bisected; 2 & 3 - one lymph node serially sectioned.
+F.  Specimen labelled "Right common iliac node" consists of a piece of fatty tissue 45mm in maximum dimension.  Two lymph nodes were identified 15 and 20mm.
+Blocks:  1 - one lymph node serially sectioned; 2 - one lymph node serially sectioned.  (VC/rt 2.7.65)
+MICROSCOPIC (Reported by Dr V Madu):
+A.  Sections of uterus show a poorly differentiated endometrioid adenocarcinoma (grade 3).  The carcinoma shows architectural grade 3 with more than 85% solid component.  The tumour cells show nuclear grade 3.  There is extensive squamous change.  The carcinoma invades into the outer half of myometrium with a maximal depth of invasion of 29mm.  The total myometrial thickness is 40mm (block A10 and A11).  The tumour is within the uterine corpus and is completely excised.  The endocervix and cervix are unremarkable.  There is possible lymphovascular invasion focally (block A11).  The rest of endometrium is atrophic and shows no significant abnormality.  The myometrium show features of adenomyosis.  The uterine serosa is unremarkable.  Both fallopian tubes are unremarkable.  Both ovaries are unremarkable.
+Stains for mismatch repair deficiency (MMRD) statusare to follow and a supplementary report will be issued.
+B.  Four (4) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+C.  Two (2) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+D.  Six (6) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+E.  Two (2) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+F.  Two (2) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Uterus, cervix, tubes and ovaries - Endometrioid adenocarcinoma (grade 3).
+B.  Left external iliac nodes - No evidence of malignancy (0/4).
+C.  Left obturator - No evidence of malignancy (0/2).
+D.  Right external iliac nodes - No evidence of malignancy (0/6).
+E.  Right obturator nodes- No evidence of malignancy (0/2).
+F.  Right common iliac nodes - No evidence of malignancy (0/2).
+SUPPLEMENTARY REPORT (20/2/2065):
+Mismatch Repair Deficiency (MMRD) Status (Block A11)
+MLH1		Loss of nuclear staining
+PMS2		Preserved nuclear staining (weak)
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+SUPPLEMENTARY REPORT (25.2.65, Dr V Quaife):
+The slides of the previous endometrial curette (86H96716) have been reviewed as requested.
+The curette shows features of a grade 1 endometrioid adenocarcinoma, as previously reported.  There is no significant solid tumour component in this specimen.
+

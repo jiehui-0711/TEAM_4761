@@ -1,0 +1,151 @@
+DateOfBirth
+201303030000
+
+
+SiteName
+PORTLAND TABULAM HEALTH CENTRE
+
+
+FirstName
+BURT
+
+
+SPRID
+25U6658189
+
+
+MRN
+257665
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Pellitteri
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+25U66581,25U66581 (25U6658189) GALLOSA, CHERIE ARISTIDE
+
+HISTOPATHOLOGY REPORT
+CLARE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+G1 endometrial adeno CA.
+
+1. Peritoneal washings.
+2. Uterus, tubes and ovaries.
+3. R pelvic sentinel node.
+4. L pelvic sentinel node.
+5. Omentum bx.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. Consists of uterus with attached cervix, bilateral tubes and ovaries. Anterior is inked blue, posterior black. The specimen is opened coronally partially on the left side. The uterus with attached cervix, together weighs 99g and measures 75 superior to inferior x 35 intercornu. The ectocervix is 30x30 with a slit-like os 12mm. It is cream-coloured unremarkable. Anterior endomyometrium is 22, posterior endomyometrium is 24mm. At the site of opening, there is an exophytic tumour bulging into the uterine cavity. The exophytic mass measures 25 superior to inferior x 24 medial to lateral. It occupies 10mm of 22mm thickness of anterior endomyometrium and is mostly centred in the anterior aspect of the uterus. There is also areas of adenomyosis.
+
+(1  right parametrial tissue; 2  left parametrial tissue; 3  right cornu; 4  left cornu; 5-11  one full face sagittal slice [5  anterior cervix, 6  posterior cervix, 7  anterior lower uterine segment, 8  posterior lower uterine segment, 9  anterior endomyometrium, 10&amp;amp;11  posterior endomyometrium]; 12&amp;amp;13  composite slices showing tumour deepest extent; 14  further section of tumour at site of opening [not full face]; 15&amp;amp;16  composite slice transverse section showing [15  anterior endomyometrium, 16  posterior endomyometrium, possible adenomyosis]).
+
+The right ovary and fallopian tube together weigh 7g. Fallopian tube is 55mm in length with a maximum diameter of 10mm. Ovary is 30x12x5mm. The serosal surfaces are unremarkable. On sectioning, the ovary is has a normal appearing cut surface.
+
+The left ovary and fallopian tube weighs 6g. Fallopian tube measures 40mm in length with a maximum diameter of 6mm. There are multiple paratubal cysts ranging from 1 to 2mm. Ovary is 25x12x5mm. On sectioning through the ovary, the cut surface is firm and normal appearing.
+
+(17  right fallopian tube; 18  right ovary; 19  left fallopian tube; 20  left ovary). Representative sections. (M-20).
+
+B. &amp;quot;R PELVIC SENTINEL NODE&amp;quot;. Consists of fatty tissue, it measures 12x10x4mm with one possible lymph node. All embedded. (1-1).
+
+C. &amp;quot;L PELVIC SENTINEL NODE&amp;quot;. Consists of one piece of fatty tissue, measuring 15x10x5mm. One possible node identified. Representative sections. (M-1).
+
+D. &amp;quot;OMENTUM BX&amp;quot;. Consists of fatty tissue 15x10x5mm. All embedded.  (1-1/MC 3/7/2071 km).
+
+MICROSCOPIC:  (Dr G Navarrette)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE: Fundus/Body
+
+TUMOR SIZE:  25mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 1
+
+MYOMETRIAL INVASION:
+Depth of invasion: 5mm
+Myometrial thickness: 25mm
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:  Not identified
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUES:
+Right ovary: Unremarkable
+Left ovary: Unremarkable
+Right fallopian tube: Unremarkable
+Left fallopian tube: Unremarkable
+Parametrium: Not involved
+Omentum (Specimen D): Not involved
+
+LYMPHOVASCULAR INVASION: Not identified
+
+SENTINEL LYMPH NODES (Specimen B Right Pelvic Sentinel Node &amp;amp; Specimen C Left Pelvic Sentinel Node):
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0 (AE1/AE3 stains are negative)
+Number of sentinel lymph nodes examined: 2 (one node each specimen)
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+1. There is extensive deep adenomyosis and this is partly involved by carcinoma.
+2. Focal areas of desmoplastic stromal reaction are seen consistent with invasion of the superficial myometrium.
+3. The tumour is partly exophytic/polypoid.
+4. There is a separate endometrial polyp.
+5. Displaced degenerated tumour is seen in some superficial vessels however no diagnostic features of lymphovascular invasion is identified.
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Block A14.
+MLH-1 and PMS-2 both show negative (absent) nuclear staining. This is usually, though not exclusively, associated with hyper-methylation phenotype, however, if clinically indicated further investigation could be considered.
+MSH-2 aned MSH-6 both show positive (retained) nuclear staining.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report):
+IA: No or less than half myometrial invasion
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+pT1a: Tumor limited to endometrium or invading less than half of the myometrium
+pN0(sn): No regional lymph node metastasis
+
+DIAGNOSIS:
+A:UTERUS TUBES AND OVARIES: ENDOMETRIAL ENDOMETRIOID ADENOCARCINOMA (FIGO GRADE 1).
+
+B: RIGHT PELVIC SENTINEL NODE: NEGATIVE FOR MALIGNANCY.
+
+C: LEFT PELVIC SENTINEL NODE: NEGATIVE FOR MALIGNANCY.
+
+D: OMENTUM BIOPSY: NEGATIVE FOR MALIGNANCY.
+
+3.8.71
+
+
+
+
+
+SpecimenReceivedDate
+2872-07-21 00:00:00
+
+
+LastName
+Abriola

@@ -1,0 +1,110 @@
+SPR no: 71W7993903
+MRN no: 7187993
+Site_name: MEEKATHARRA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report71W79939 (71W7993903) Knake, OLIVER
+HISTOPATHOLOGY REPORT
+MORANBAH HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Left recurrent breast cancer.  Previous radiotherapy 19 years ago
+Left mastectomy, stitch medial
+
+MACROSCOPIC:
+&amp;quot;LEFT MASTECTOMY, SUTURE MEDIAL&amp;quot;.
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Mastectomy, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  220mm
+Superior to inferior:  170mm
+Anterior to posterior:  35mm
+WEIGHT:  800g
+SKIN:  200x140mm
+NIPPLE:  15mm
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED:  Non- Standard: Anterosuperior blue,anteroinferior green, posterior black
+DISSECTION: Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION:  Located at 110mm from the 3 o&amp;apos;clock in the posterior half, there is a firm pale tumour measuring 16x10x15mm. The lesion is 15mm from the posterior margin.  Located 120mm from the 3 o&amp;apos;clock in the anterior side there is a scarred area 10mm across which lies 35mm medial to the firm lesion in the anterior half.  Located at 80mm from 2 o&amp;apos;clock in the posterior half, there is a hard calcified area measuring 15x5mm.  The closest margin is the posterior margin. The calcification is clear of the margin by 14mm.
+(1-4 lesion in the posterior half [1&amp;amp;2 composite, 3&amp;amp;4 composite]; 5-8 cavity [5&amp;amp;6 composite, 7&amp;amp;8 composite]; 9-11 interval between the cavity and the lesion in the anterior half in composite; 12&amp;amp;13  lesion, anterior half; 14 upper outer quadrant; 15-18 hard calcification 30mm to the anterior margin [15&amp;amp;16 include one section composite, 17&amp;amp;18 one section composite]; 19 lower outer quadrant; 20 lower inner quadrant; 21 upper inner quadrant; 22 nipple).  RS (M-22/LMA 29/9/2070 nh)
+MICROSCOPIC: (Dr S Kytle)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:  Left breast
+&amp;#160;
+NUMBER OF INVASIVE FOCI: 1
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 15mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE:  Invasive ductal carcinoma NOS (with a minor component of invasive micropapillary carcinoma)
+&amp;#160;
+HISTOLOGIC GRADE:  2
+
+SCORES Tubules:  3, Nuclei:  2, Mitoses:  2; Total score: &amp;#160;7&amp;#160;(of 9)
+
+MITOTIC RATE: 7&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  23mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Focally present
+&amp;#160;
+PERINEURAL INVASION:  Not identified
+&amp;#160;
+SKIN INVOLVEMENT:  Not present
+
+DERMAL LYMPHOVASCULAR INVASION:  Not present
+&amp;#160;
+NIPPLE INVOLVEMENT:   Not present
+&amp;#160;
+MUSCLE INVOLVEMENT:   Not present
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: Present within the invasive tumour and up to 8mm beyond the edge of invasive carcinoma towards the area of old scarring
+Nuclear grade:   Intermediate
+Architecture / type: Cribriform
+Necrosis: Present
+Microcalcification of DCIS: Present
+Extensive intraduct component: Present
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:  Local excision is complete with greater than 10mm to all margins
+&amp;#160;
+DCIS MARGINS: Local excision is complete with greater than 10mm to all margins.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block 1
+ER:  POSITIVE   95%   3+
+PR:  POSITIVE     5%   2+
+HER2: POSITIVE  3+, SISH to follow.
+Ki67:    25-30%
+&amp;#160;
+Other tumour block suitable for further testing: Block 3
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS:  There is an area of mature fibrous scarring 35mm medial to the carcinoma which is associated with some plump stromal fibroblasts consistent with a previous surgical bed with radiotherapy effect.  Elsewhere the breast tissue is relatively atrophic with patchy dystrophic stromal microcalcification and some heavily calcified vessels.
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): rpT1c
+
+OTHER COMMENTS:  Nil
+
+DIAGNOSIS:
+LEFT MASTECTOMY  -
+-  15mm GRADE 2 INVASIVE DUCTAL CARCINOMA, MARGINS CLEAR
+-  ER/PR /HER2 POSITIVE
+11/1/2067 nh
+SUPPLEMENTARY REPORT:
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+Mean HER2 copy number per cell: 13.4
+Mean CEP17 copy number per cell: 1.8
+HER2/CEP17 Ratio: 7.4
+HER2 status:    POSITIVE
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122.
+Reported by: Dr S Stoldt
+Date: 11.7.70

@@ -1,0 +1,26 @@
+SPR no: 66A382928F
+MRN no: 2361353
+Site_name: THEODORE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Tissue histopathology and fluid cytology.  1.  Endometrial curettings.  2.  Pelvic washings.  3.  Left tube and ovary.  Planned admission for elective left salpingo-oophorectomy.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Endometrial curettings&amp;quot;, consists of multiple pieces of tan coloured tissue with gelatinous material measuring 10 x 5 x 3mm in aggregate.  AE 1 block.
+
+B.  Specimen labelled &amp;quot;Left fallopian tube, left ovary&amp;quot;, consists of a piece of fallopian tube measuring 75mm in length and 9mm in maximum diameter.  There is an attached ovary measuring 38 x 20 x 15mm.  There is attached fibrofatty tissue measuring 35 x 20 x 5mm.  The fallopian tube is serially sliced.  The ovary is serially sliced, the cut surface shows multiple unilocular cysts ranging from 2mm to 12mm in maximum diameter.  The cysts contain clear serous fluid.  Blocks: 1 to 4 - fallopian tube (block 1 fimbrial end bisected); 5 to 10 - ovary (serially embedded) all fallopian tube and ovary embedded.  RS 10 blocks.  (TO:MK/rs 15/8/69)
+
+
+MICROSCOPIC (Reported by Dr S Ifantides):
+A. The sections show early secretory endometrium. There is no evidence of endometritis, hyperplasia or malignancy.
+
+B. The sections of the fallopian tube show focal endometriosis (slide B1).  Small groups of histiocytes and some dystrophic calcification is found within the lumen.  There is no evidence of malignancy or dysplasia.
+The sections of the ovary show primordial and developing follicles, cystic follicles, follicular cysts and corpora albicantes. Occasional small groups of foreign body giant cells are seen near the surface (slide B5). A few small simple serous cysts are seen with foci of dystrophic calcification (slides B6, B8, B9).  Occasional cysts show mild tufting and low grade cytological atypia, consistent with focal residual low grade borderline serous tumour (slide B9).   There is no evidence of invasive malignancy.
+
+The history of left ovarian low grade serous borderline tumour in 2067 (66A38292) is noted. Representative slides have also been shown to Dr S Cotham.
+
+DIAGNOSIS:
+A. Endometrial curettings: Secretory endometrium.
+B. Left fallopian tube, left ovary: Focal residual low grade borderline serous tumour, focal endometriosis.

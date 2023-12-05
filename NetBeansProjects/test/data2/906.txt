@@ -1,0 +1,99 @@
+Episode No:  34V725999M
+348725.ZXY
+
+LINSDAU, JEROLD 
+Lab No:  34V72599
+Dowrelio
+ALSTONVILLE  ACT  4744
+Specimen: Tissue
+D.O.B:29/8/2010
+Sex:  F
+Collected: 18/12/2012 at 09:03
+Location:  Med Onc-MONASH MEDICAL CENTRE - MOORABBIN CAMPUS
+DR Jean KENDALL Rocco-KAUMANS
+Distribution:   FILE-COPY
+CLINICAL:
+IDC right breast 7 o'clock.  Wide local excision + sentinel node biopsy R) axilla + shave of infero-lateral margin of cavity.
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node right axilla" consists of five blue dyed lymph nodes ranging from 5 to 10mm.
+Blocks:  1 to 5 - one lymph node each.
+B.  Specimen labelled "Right breast lesion long lateral, short superior, medium medial" consists of a piece of firm breast tissue with three sutures for orientation as above.  It measures 55mm medial to lateral, 30mm superior to inferior and 30mm superficial to deep margin.  The superior margin is inked black, the inferior margin is inked blue, the superficial margin is inked red and the deep margin is inked green.  The specimen is serially sectioned into 9 slices from medial to lateral.  On sectioning and in slices 3 to 9 there is an ill-defined and gritty lesion measuring 30mm from medial to lateral, 20mm from superior to inferior and up to 17mm from superficial to deep margin.  The specimen is AE according to the diagram.
+Blocks:  1 - medial margin; 2 - slice 2; 3 & 4 - slice 3; 5 & 6 - slice 4; 7 & 8 - slice 5; 9 & 10 - slice 6; 11 & 12 - slice 7; 13 & 14 - slice 8; 15 & 16 - lateral margin.
+C.  Specimen labelled "Inferior lateral margin right breast suture on cavity" consists of an irregular piece of fibrofattytissue with a suture on the cavity side measuring 45 x 30 x 5mm.  The cavity side is inked blue and the opposite side is inked black.  The specimen is sectioned from lateral to medial and AE.
+Blocks:  1 - most lateral margin; 2 to 5 -serial sections; 6 - most medial margin.
+(YO/bl 20/2/62)
+MICROSCOPIC (Reported by Dr I Szopinski):
+A.  Five lymph nodes are identified.  All five lymph nodes are involved by metastatic ductal carcinoma.  In four lymphnodes, the metastases are greater than 2mm.  No extranodal spread is seen.
+B.  Sections show invasive ductal carcinoma measuring 30mm in diameter.  The invasive carcinoma scores grade 3 (T-2, N-3, M-3).  Possible lymphovascular invasion is present.  There is extensive DCIS within the invasive carcinoma and within adjacent tissue measuring 35mm in diameter.  The DCIS shows high grade nuclei with a mixture of cribriform, solid and micropapillary architecture.  Necrosis and calcification are present.  The tumouris incompletely excised.  The invasive carcinoma is 1mm to the inferior margin (block B8 and B13), is 1.5mm to the superior margin (block B5), is 2mm to the deep margin (block B12) and is 2.5mm to the deep margin (block B9).  The DCISinvolves superior margin (block B5, B7 and B11), lateral margin (block B15 and B16), inferior margin (block B10 and B12), deep margin (block B5) and superficial margin (block B12).  The medial margin is well clear.  The tumour cells are strongly positive for ER and PR.  The stain for HER-2 is negative.  The breast tissue away from the tumour shows fibrocystic change.
+C.  The specimen C (inferior lateral margin right breast) shows foci of invasive ductal carcinoma within background of extensive DCIS.  The tumour is incompletely excised.  The invasive ductal carcinoma and DCIS extends to the new resection margin over a broad area.
+Synoptic Report of Breast Carcinoma
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  30mm
+Grade (Modified Bloom & Richardson):  3
+Tubules: 2     Nuclei: 3     Mitoses: 3     Mitotic rate: 28/10hpf.
+Lymphovascular invasion:  Present
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  35mm (scattered within invasive carcinoma)
+Nuclear grade:  High
+Architecture:  Cribriform, solid and micropapillary
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  More than 60%
+DCIS in adjacent tissue:  Present
+Excision Margins:  
+Invasive component:  Theinvasive carcinoma is 1mm to the inferior margin (block B8 and B13), is 1.5mm to the superior margin (block B5), is 2mm to the deep margin (block B12) and is 2.5mm to the deep margin (block B9).  
+In-situ component:  The DCISinvolves superior margin (block B5, B7 and B11), lateral margin (block B15 and B16), inferior margin (block B10 and B12), deep margin (block B5) and superficial margin (block B12).  The medial margin is well clear.
+Receptors (Block B5): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  strong
+PR:  Positive
+	65% of nuclei stained
+	predominant intensity of staining:  strong
+HER-2 (Novocastra 10A7):  Negative (0 staining)
+Ki-67 index:  35%
+Nipple:  Not applicable
+
+LCIS/ALH:  Absent
+Miscellaneous:
+- In specimen B, the breast tissue away from the tumour shows fibrocysticchange.
+- The specimen C (inferior lateral margin right breast) shows foci of invasive ductal carcinoma within background of extensive DCIS.  The tumour is incompletely excised.  The invasive ductal carcinoma and DCIS extends to the new resection margin over a broad area.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  5
+Number of sentinel lymph nodes involved by tumour:  5
+Numberof sentinel nodes with metastases >2.0mm:  4
+Number of sentinel nodes with metastases <2.0mm:  1
+	Detected by:  H&E
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0
+Extranodal spread:  Absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (includingsentinel node(s)):  5
+Total number of involved lymph nodes (including sentinel node(s)):  5
+SUMMARY:
+A.  Sentinel node right axilla - Metastatic ductal carcinoma involving all five lymph nodes (5/5).
+B.  Right breast lesion
+- Invasive ductal carcinoma; grade 3;
+- 30mm; incompletely excised (see text for details);
+- ER positive/PR positive/HER-2 negative.
+C.  Inferior lateral margin right breast - Invasiveductal carcinoma and DCIS, incompletely excised.
+The HER-2 ISH test will be performed at MACQUARIE HOSPITAL Hospital and an additional report will be issued.
+
+SUPPLEMENTARY REPORT (19/3/2063):
+Block B5 was sent to GIN GIN HOSPITAL Hospital for Her-2 in-situ Hybridisation analysis:
+Signal Detection has been performed for the HER-2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER-2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER-2 ISH result:  Negative (non-amplified, polysomy)
+
+Mean Her-2 copy number per cell: 2.8
+Mean CEP17 copy number per cell: 2.6/CEP ratio: 1.08
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  	HER-2/CEP17 < 1.8
+Equivocal:  	HER-2/CEP17 = 1.8-2.2
+Positive:  	HER-2/CEP17 > 2.2 
+Reported by
+Dr I Shirer
+

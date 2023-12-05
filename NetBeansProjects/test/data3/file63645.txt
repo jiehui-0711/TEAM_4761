@@ -1,0 +1,89 @@
+SPR no: 39T390707K
+MRN no: 397390
+Site_name: MALLEE TRACK HEALTH AND COMMUNITY SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Proximal gastric Ca. No neoadjuvant treatment.  Small wedge of liver on where stomach was stitched on to segment 2.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Gastrectomy&amp;quot;, consists of a gastrectomy, 170mm long x up to 150mm in open circumference.  The lesser curvature is 140mm and greater curvature is 230mm long.  The attached lesser curvature fat is 170 x 40 x 25mm.  The attached greater curvature fat is 240 x 70 x 40mm which is contiguous with an attached piece of omentum, 490 x 150 x 30mm.
+Located 45mm from the proximal margin and 80mm from the distal margin, is an ulcerated tumour with raised edges, 50 x 50mm, present on the anterior wall of the stomach. Corresponding to this tumour, on the serosal surface is a 20 x 15 x 5mm piece of attached liver.  On sectioning, the tumour invades the stomach wall however, does not appear to invade to the attached piece of liver or the serosal surface.  A 14mm lymph node, immediately adjacent to tumour is noted. No other mass or lesion is seen. Specimen photographed. The proximal resection margin is inked black and the distal resection margin is inked blue. The resection margin of the attached piece of liver is inked green.
+Blocks: 1 and 2 - LS of proximal margin; 3 and 4 - LS of distal margin; 5 - tumour and attached piece of liver to the surface; 6 - another section showing tumour with attached piece of liver; 7 to 10 - tumour and deepest invasion; 11 - tumour and interface with normal bowel for MSI testing;
+12 - closest lymph node to tumour; 13 - random stomach; 14 to 16 - lymph nodes from proximal stomach (five possible lymph nodes in each of blocks 14 and 15 and four possible lymph nodes in 16); 17 - five possible lymph nodes from lesser curvature fat; 18 to 21 - lymph nodes from greater curvature (18 - four possible lymph nodes; 19 - lymph node bisected; 20 - lymph node bisected; 21 - two possible lymph nodes); 22 - haemorrhagic area within the omentum; 23 to 24 - further RS of the omentum.
+
+B.  Specimen labelled &amp;quot;Donuts&amp;quot;, consists of two donuts, respectively 16 x 16 x 9mm and 21 x 20 x 7mm. The smaller is inked blue and the larger inked black. No mass or lesion is seen. AE. Blocks: 1 and 2 - larger donut; 3 - smaller donut.  (TO:KN/vo 7/7/72)
+
+
+MICROSCOPIC (Reported by Dr K Siebenberg):
+A.  Sections show moderate to poorly differentiated adenocarcinoma of the anterior wall of the stomach arising on a background of intestinal metaplasia.  Extensive lymphovascular and perineural invasion is present.  Tumour penetrates muscularis propria but does not involve the serosal surface.  There is no extension into the attached liver.  Four (4) of the thirty eight (38) lymph nodes identified contain adenocarcinoma (one by direst spread).  Tumour is well clear of the proximal and distal margins.
+
+B.  The proximal and distal donuts show no significant abnormality.  No Barrett&amp;#8217;s mucosa is seen.  There is no evidence of malignancy.
+
+The overall features are as follows:
+
+Tumour site:   Body, anterior wall
+
+WHO histological tumour type:  Tubular and poorly cohesive adenocarcinoma
+
+Lauren histological tumour type:  Mixed
+
+Growth pattern:  Infiltrating
+
+Maximal dimension of tumour:  50mm
+
+Local invasion (pT):
+T3	Tumour penetrates subserosal connective tissue without invasion of visceral peritoneum or adjacent structures.
+
+Serosal surface involvement:  Absent
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary):  Present
+Large vessels (vein and artery):  Absent
+
+Perineural growth:  Present
+
+Degree of regression after preoperative chemoradiation:  Not applicable
+
+Her2 status:  Negative
+
+Distance of tumour from margins:
+From proximal:  Well clear
+From distal:  Well clear
+From radial/circumferential (proximal/cardia tumours):  Not applicable
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  38
+Number of lymph nodes involved:  4 (1 by direct spread)
+
+N2	Metastasis in 3 - 6 regional lymph nodes
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis:  Absent
+Helicobacter infection:  Absent
+Intestinal metaplasia:  Present
+Gastric polyps:  Absent
+Barrett&amp;#8217;s mucosa:  Absent
+
+Other:  The proximal and distal donuts show no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block A6)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS:
+A &amp;amp; B.  Gastrectomy and donuts:
+- Moderate to poorly differentiated adenocarcinoma of the gastric body, margins clear
+- Four lymph nodes positive for adenocarcinoma
+- pT3    N2    MX

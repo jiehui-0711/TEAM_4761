@@ -1,0 +1,84 @@
+DateOfBirth
+199909150000
+
+
+SiteName
+MANNING RURAL REFERRAL HOSPITAL (TAREE)
+
+
+FirstName
+Waddington
+
+
+SPRID
+54J117747P
+
+
+MRN
+54311774
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+Bethurum
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Left radical orchidectomy.  Liposarcoma of spermatic cord.  Previous inguinal hernia repair.  Overlying scrotal skin - suture is cord.  Deep surface superiorly near cord suture is external oblique aponeurosis.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Re-excision sarcoma left groin/scrotum, stitch on cord&amp;quot;, consists of a 160 x 82 x 40mm radical orchidectomy.  There is a 105 x 82mm overlying triangular excision of skin with a 31mm vertical bilateral iatrogenic linear defect.  A suture is present as described.  Medial inked blue, lateral inked green, deep inked black, cord inked yellow.  Sampled for biobank.  Shave of spermatic cord taken and false margin inked red.  The specimen is serially sliced (superior to inferior) into fifteen slices.  The testicle is seen in slices fourteen and fifteen measuring 25 x 30 x 25mm.  On sectioning there is a haemorrhagic cavity seen in slices eleven to thirteen, 25 x 15 x 30mm.  Blocks: 1 &amp;amp; 2 - shave of spermatic cord; 3 &amp;amp; 4 - deeper shave of spermatic cord; 5 to 16 - LS slice one; 17 to 20 - composite slice three; 21 to 24 - composite slice five; 25 to 29 - composite slice seven; 30 to 35 - composite slice nine; 36 to 40 - composite slice ten; 41 to 45 - composite slice eleven; 47 to 50 - composite slice twelve; 51 to 54 - composite slice thirteen; 55 to 62 - LS slice fifteen; 63 - ? haematoma.  Shown to Dr N Skartvedt.  Photograph available.  (TO:DN/ta 15/10/71)
+
+
+MICROSCOPIC (Reported by Dr N Sacchi):
+Sections show skin with underlying testis and surrounding fatty tissue.  The testis shows Leydig cell hyperplasia and age-related changes.  There is a region of fibrosis associated with an organising haematoma and focal haemosiderin deposition in keeping with previous surgery.  In addition, there are small numbers of dispersed atypical spindle to stellate cells with enlarged hyperchromatic and irregular nuclei.  These atypical cells are seen throughout the entirety of the specimen.  The background stroma has a fibrous to myxoid appearance.  In areas, the adipocytes show a mild degree of variation in cell sizes.  The histology is consistent with a well-differentiated liposarcoma with mixed lipoma-like and sclerosing features.
+
+The atypical cells extends to the spermatic cord shave margin as well as the deep margin focally.  Assessment of clearance amongst the rest of the margins is difficult due to the subtle cell size variation amongst the adipocytes and the sparsely distributed nature of the atypical cells.  Recognising this limitation, the excision margins are summarised as follows:
+-  Spermatic cord margin:  Involved by tumour (Block 1).
+-  Superficial:  3 mm (Block 27).
+-  Deep:  Involved by tumour (Block 19).
+-  Superior:  &amp;gt; 10 mm.
+-  Inferior:  6 mm (Block 55).
+-  Medial:  1 mm (Blocks 41 &amp;amp; 42).
+-  Lateral:  2 mm (Blocks 39 &amp;amp; 50).
+The overlying skin is uninvolved.  Two reactive lymph nodes are identified.
+
+There is no evidence of dedifferentiation.
+
+Reserve block for molecular studies:  42.
+Reserve block for tumour banking:  39.
+
+
+DIAGNOSIS:
+Left groin/scrotum:  Consistent with well-differentiated liposarcoma
+
+Comment:  Material will be forwarded to ST GEORGE'S HEALTH SERVICE Hospital for confirmatory MDM2 FISH testing.
+
+
+
+
+
+
+SpecimenReceivedDate
+2353-06-09 00:00:00
+
+
+LastName
+Scottie

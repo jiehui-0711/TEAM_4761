@@ -1,0 +1,58 @@
+SPR no: 08X287486W
+MRN no: 10465632
+Site_name: CASTLEMAINE HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Stage 1B1 cervical cancer.
+Additional information:  Previous pathology (08X28748) - cervical cone biopsy, mesonephric adenocarcinoma plus CIN 2/3, clear of margins.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of two lymph nodes with a variegated cut surface 24 x 15 x 10mm and 15 x 10 x 8mm.  Larger node serially transversely sectioned (2 RS (approx 50%) for frozen section) and smaller node bisected (1x for frozen section).   Blocks: 1 - frozen section larger node (2 TS); 2 - frozen section smaller node; 3 - remainder of node in block 1; 4 - remainder of node in block 2.  AE.
+
+B.  Specimen labelled &amp;quot;Right external iliac lymph node&amp;quot;, consists of two lymph nodes 23 x 8 x 8mm and 13 x 10 x 6mm.  Each node bisected and half submitted for frozen section.
+Blocks: 1 - frozen section larger node; 2 - frozen section smaller node; 3 - remainder of lymph node in block one;4 - remainder of lymph node in block two.  AE.
+
+FROZEN SECTION REPORT:
+A &amp;amp; B.  No evidence of malignancy
+Phone results to Anaesthetist by Dr B Wynter at 10:10am on 20/01/2066.
+
+C.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 77grams in total.  The uterus measures 70 x 45 x 25mm and has a smooth shiny serosal surface.  The ectocervix measures 38 x 32mm and has an unremarkable surface.  On sectioning the endometrium is 3mm in maximum thickness and the myometrium is 12mm in maximum thickness.  The myometrium is unremarkable.  The right fallopian tube measures 55mm in length x 7mm in maximum diameter.  The right ovary measures 27 x 11 x 8mm and has an unremarkable cut surface.  The left fallopian tube measures 55mm in length and 6mm in maximum diameter.  The left ovary measures 21 x 11 x 8mm and has an unremarkable cut surface.  On sectioning of the cervix, an ill-defined firm white area is identified involving the anterior cervical wall and measuring 14 x 12mm in cross section.  The right fallopian tube contains a 7mm parafimbrial cyst.
+Blocks: 1 to 9 - anterior cervix sectioned parasagittally and embedded sequentially from right to left; 10 to 15 - posterior cervix sectioned parasagittally and embedded from left to right; 16 - right parametrium; 17 and 18 - left parametrium; 19 and 20 - remainer of longitudinal section of anterior body of uterus; 21 and 22- remainder of longitudinal section of posterior body of uterus; 23 - right fallopian tube fimbria bisected; 24 - four RS right fallopian tube body; 25 and 26 - right ovary bisected; 27 - left fallopian tube fimbria bisected; 28 - four representative TS left fallopian tube body; 29 and 30 - left ovary bisected.
+
+D.  Specimen labelled &amp;quot;Internal iliac lymph node (right)&amp;quot;, consists of a lymph node 12 x 8 x 3mm.  Bisected.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Right obturator lymph node&amp;quot;, consists of a piece of fatty tissue 60 x 30 x 15mm.  Six lymph nodes are identified ranging 8 to 24mm in maximum extent. Blocks: 1 and 2- largest lymph node trisected; 3 to 5 - one bisected node in each; 6 - two probable lymph nodes
+
+F.  Specimen labelled &amp;quot;Right external iliac lymph node number 2&amp;quot;, consists of a lymph node 8 x 7 x 6mm.  Bisected AE 1 block.
+
+G.  Specimen labelled &amp;quot;Internal iliac lymph node (left)&amp;quot;, consists of a lymph node 14 x 8 x 5mm.  Bisected AE 1 block.
+
+H.  Specimen labelled &amp;quot;Left obturator lymph node&amp;quot;, consists of multiple pieces of fatty tissue 24 x 15 x 5mm in aggregate.  AE 1 block.
+
+I.  Specimen labelled &amp;quot;Left external iliac lymph node 2&amp;quot;, consists of multiple pieces of fatty tissue 40 x 15 x 12mm in aggregate. One lymph node is identified 25 x 12 x 9mm.  Blocks: 1 - lymph node bisected; 2 - remaining fatty tissue AE.  (TO:MW/vo 22/2/66)
+
+
+MICROSCOPIC (Reported by Dr B Westerfield):
+A.  Paraffin sections confirm two (2) benign lymph nodes.  There is no evidence of malignancy.
+
+B.  Paraffin sections confirm two (2) benign lymph nodes.  There is no evidence of malignancy.
+
+C.  Sections of the cervix show ulceration with underlying granulation tissue and scar consistent with a previous cone biopsy.  The entire cervix is examined and no residual adenocarcinoma or CIN is identified.  The endometrium is inactive.  The fallopian tubes and ovaries show no significant abnormality.  A single (1) lymph node is identified which shows no significant abnormality.  There is no evidence of malignancy.
+
+D.  The single (1) lymph node shows no significant abnormality.  There is no evidence of malignancy.
+
+E.  The seven (7) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+F.   The single (1) lymph node shows no significant abnormality.  There is no evidence of malignancy.
+
+G.   The single (1) lymph node shows no significant abnormality.  There is no evidence of malignancy.
+
+H.   The single (1) lymph node shows no significant abnormality.  There is no evidence of malignancy.
+
+I.  The two (2) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A - I.  Uterus, cervix, bilateral fallopian tubes and ovaries, lymph nodes:
+- No residual adenocarcinoma or CIN identified.
+- Eighteen negative lymph nodes.

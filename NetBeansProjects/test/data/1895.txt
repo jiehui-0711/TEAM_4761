@@ -1,0 +1,88 @@
+
+Episode No:  21G371746A
+2123717.MRA
+
+Mucci, Enrique 
+Lab No:  21G37174
+Broomgerrie
+QUAKERS HILL  TAS  1108
+Specimen: Tissue
+D.O.B:  7/12/1992
+Sex:  M
+Collected: 18/11/2064 at :
+Location:  CARDIOTHORACIC ICU-RIVERLAND GENERAL HOSPITAL
+DR Dana NIYAH Abbitt
+Distribution:    NSW-CANCER-REGISTRY
+
+ADDITIONAL REPORT (5/12/64)
+
+
+CLINICAL:
+Left insular intra-axial brain tumour.  ? GBM.  
+MACROSCOPIC:
+A.  Specimen labelled "Left intra-axial brain tumour", consists of a cream/pink piece of solid tissue 12 x 5 x 2mm.  Two smears are prepared.  Half of the remainder for FS in 1 block.  Block 1 - FS; 2 - remainder, AE.    
+ 
+FROZEN SECTION:  High grade glioma. 
+Result to Dr Aubrey by Dr H Reasons 2:28pm on 16.9.14. 
+B.   Specimen labelled "Left intra-axial tumour", consists of fragments of cream and pink coloured solid tissue 25 x 18 x 4mm in aggregate. AE 1 block. 
+(TO: AS/ec 19.11.64) 
+MICROSCOPIC: (Reported by Dr H Magnia and Dr H Hainsworth)
+A&B. Sections show highly cellular glial tissue. The majority of the malignant cells have round to oval nuclei with clear cytoplasm. There is moderate to marked cytological atypia. Patchy chicken-wire type vasculature is seen. Foci of palisading necrosis are present. Frequent mitoses are seen in specimen B, estimated to be 10/10 HPF. Microvascular proliferation is not seen. 
+Immunohistochemical stains: 
+GFAP: predominantly negative
+Ki67: 40%
+IDH1: -ve
+P53 focal positive
+
+Molecular tests: 
+Tissue will be sent to Dr KEITH DOGGETT, ROYAL BRISBANE & WOMENS HOSPITAL Cancer Centre for MGMT methylation testing.
+Tissue will be sent to BRUCE ROCK MEMORIAL HOSPITAL's Hospital, GLEN INNES, for 1p/19q and EGFR FISH.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block B1. 
+
+COMMENT
+The findings would favour glioblastoma. Focal oligodendroglial features are seen. 1p/19q and EGFR FISH will be performed to exclude possible anaplastic oligodendroglioma and small cell glioblastoma.
+DIAGNOSIS:
+A&B. Left insular intra-axial brain tumour: High grade glioma, favour glioblastoma (WHO grade 4)
+
+SUPPLEMENTARY REPORT (28.11.2064)
+
+Report from Southern IML's Pathology
+Reported by Dr STEPHANE Sylvester Lamar, 27/11/2064
+Accession: H123-71746
+
+MATERIAL RECEIVED:
+Slides: x6 (21G 37174 B1). Left insular intra-axial brain tumour.? GBM
+CLINICAL DETAILS:
+High grade glioma, favour glioblastoma (WHO grade IV). FISH analysis for 1p/19q LOH performed at request of Dr H Perla. Cc Dr H Karlinsky.
+RESULTS:
+This case was analysed for 1p/19q LOH using Vysis dual colour probe sets LSI 1p36/LSI 1q25 and LSI 19q13/19p13. Cut-offvalues were adopted from Smith et al. 2000 (J Clin Oncol:18;636-645) who defined a 1p/1q ratio of <0.85 and a 19q/19p ratio of <0.9 as indicating LOH. The case was also hybridised with Vysis LSI EGFR/Cep7 dual colour probe pair to assesswhether amplification of EGFR was present.
+Chromosome 1
+Mean copies 1p per cell: 1.6
+Mean copies 1q per cell: 1.55
+1p/1q ratio: 1.03
+Interpretation: No 1p loss identified
+Chromosome 19
+Mean copies 19q per cell: 1.9
+Mean copies 19p per cell: 1.9
+19q/19p ratio: 1.0
+Interpretation: No 19q loss identified
+EGFR:
+Mean copies of EGFR per cell: 3.6
+Mean copies cep7 per cell: 3.5
+EGFR/cep7 ratio: 1.03
+Interpretation: No EGFR amplification present
+CONCLUSION: Negative for both 1p/19 loss and EGFR amplification.
+
+
+
+ADDITIONAL REPORT (5/12/64)
+Tissue was sent to Dr Erich GIORGI, THE QUEEN ELIZABETH HOSPITAL Cancer Centre for MGMT methylation testing:
+
+"DNA was extracted from paraffin tissue from WILFRED MUSIC (21G37174). 
+The DNA was bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMTpromoter in order to detect methylation. 
+The sample was tested twice with the appropriate controls and was found to be methylated (55%) atthe MGMT promoter region."
+
+
+

@@ -1,0 +1,77 @@
+DateOfBirth
+199206220000
+
+
+SiteName
+BLACKALL HOSPITAL
+
+
+FirstName
+Zacate
+
+
+SPRID
+27K261541M
+
+
+MRN
+2742615
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Clinical history on request form reportedly incorrect.  Clinical history obtained from Dr Newbill:
+-  Pancreatic tail tumour identified on CT scan, 6 - 7 mm in size
+-  Tumour consistent with insulinoma biochemically
+-  Associated weight gain
+Additional:  Abdominal CT scan (Spectrum Imaging, 25/8/2067) - 9mm hyperdense focus in the pancreatic tail may represent a neuroendocrine tumour or an intrapancreatic splenuncule.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Distal pancreas&amp;quot;, consists of a segment of distal pancreas (100 x 70 x 23mm), spleen (115 x 67 x 50mm; 125 grams), peripancreatic fibroadipose tissue/omentum (up to 130mm in width), and separate gallbladder (80 x 41 x 33mm).  The anterior pancreatic surface is inked blue, posterior pancreatic surface is inked black, and superior pancreatic surface is inked red.  The pancreas is sectioned sequentially from proximal to distal into fourteen approximately equal slices (a shave of the pancreatic margin taken prior).  No tumour is identified.  There is an apparent splenunculus within the pancreatic tail parenchyma, 12 x 12 x 10mm.  The serosal surface of the gallbladder is green/yellow and smooth.  The gallbladder has a wall thickness of 2mm and contains a single, ovoid, mixed gallstone, 37mm in maximum dimension.  The mucosa is green.  The surface of the spleen is smooth and grey.  The splenic parenchyma is tan and red.  No tumour is identified in the spleen, gallbladder, or fibroadipose tissue.
+Blocks: 1 &amp;amp; 2 - shave pancreatic margin; 3 to 7 - slice five pancreas; 8 to 12 - slice seven pancreas; 13 to 17 - slice eight pancreas; 18 to 21 - slice nine pancreas; 22 to 27 - slice ten pancreas; 28 to 32 - slice eleven pancreas; 33 to 37 - slice twelve pancreas; 38 to 40 - slice thirteen pancreas; 41 to 43 - slice fourteen pancreas (distal); 44 to 45 - representative splenic fat; 46 to 48 - representative fibroadipose tissue/omentum; 49 - splenic hilum; 50 &amp;amp; 51 - spleen; 52 - TS shave neck/cystic duct gallbladder, and fundal LS; 53 - body TS gallbladder.
+(TO:JB/eh 18/12/67)
+
+
+MICROSCOPIC (Reported by Dr F Ryman &amp;amp; registrar Dr F Kuks):
+The complete pancreatic tail is examined.  Sections of pancreas show a benign 12mm splenunculus within the pancreatic tail.  The remaining pancreas contains scattered foci of low grade pancreatic intraepithelial neoplasia (PanIN-1) within small ducts.  PanIN-1 is clear of the pancreatic resection margin.  The gallbladder shows chronic cholecystitis.  The spleen shows no significant abnormality.  Fourteen (14) negative lymph nodes are identified.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+Distal pancreas:
+- 12mm benign splenunculus
+- Scattered foci of PanIN-1, clear of margin
+- Chronic cholecystitis and cholelithiasis
+- Fourteen (14) negative lymph nodes
+
+
+
+
+
+
+SpecimenReceivedDate
+2377-11-27 00:00:00
+
+
+LastName
+Kocian

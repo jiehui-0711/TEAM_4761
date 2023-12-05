@@ -1,0 +1,178 @@
+DateOfBirth
+20251214
+
+
+SiteName
+MENINGIE HOSPITAL
+
+
+FirstName
+Kip
+
+
+SPRID
+91X558271T
+
+
+MRN
+918558
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+91X55827 (91X558271T) BRUMLOW, DEL
+
+HISTOPATHOLOGY REPORT
+KING ISLAND DISTRICT HOSPITAL AND HEALTH CENTRE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Left axillary sentinel node for frozen section. Long-lateral, medium-medial, short-superior, left breast cancer.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL NODE&amp;quot;. A fat with two lymph nodes. Lymph node 1, pale 8x6x5mm. Lymph node 2, pale 5mm. 1x TS each node on one chuck.
+
+F/S: &amp;quot;Negative&amp;quot;. Results were given by phone to Dr. Bogie (Anaesthetist) at 2:29pm on 7/04/2019 by Dr. Y. Din.
+
+1. Lymph node + 2
+2. Remainder lymph node 1
+3. Remainder lymph node 2.
+
+(1  frozen section; 2  remainder LN 1; 3  remainder LN 2; 4  remainder fatty tissue). All embedded. (M-4).
+
+B. &amp;quot;WIDE LOCAL EXCISION LEFT BREAST&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision, orientated.
+SPECIMEN X-RAY:  Yes
+HOOKWIRE:  Yes, hookwire split G7, inked yellow.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  35mm
+Superior to inferior:  31mm
+Anterior to posterior:  24mm
+WEIGHT:  11g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 5
+FINDINGS / LESION:  A pale firm lesion 20x15x12mm present in slices 3 to 5.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+Anterior 4mm, posterior abuts, superior abuts, inferior 8mm, medial 12mm and lateral 3mm.
+
+(1&amp;amp;2  LS of slice 1; 3  slice 2; 4  slice 3; 5  slice 4; 6&amp;amp;7  LS of slice 5). All embedded. (M-7/SL 6/6/2069 km).
+
+MICROSCOPIC:  (Dr. Y. Margo)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 9mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Infiltrating duct carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules: 3, Nuclei:  2, Mitoses:  1; Total score: 6&amp;#160;&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;5&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 19mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+PERINEURAL INVASION: Not seen
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs):&amp;lt;10%
+&amp;#160;
+SKIN INVOLVEMENT: N/A
+
+DERMAL LYMPHOVASCULAR INVASION: N/A
+&amp;#160;
+NIPPLE INVOLVEMENT: N/A
+&amp;#160;
+MUSCLE INVOLVEMENT: N/A
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: Extends 10mm beyond invasive tumour
+Nuclear grade: Low grade
+Architecture / type: Solid / Pagetoid (E-cadherin positive)
+Necrosis: Absent
+Microcalcification of DCIS: Absent
+Extensive intraduct component: Absent
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Present
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Invasive carcinoma is completely excised with a clearance of 2.5mm from closest posterior margin.
+&amp;#160;
+DCIS MARGINS: DCIS extends within 0.2mm from the medial margin and 0.7mm from the posterior margin without intervening normal ducts. All other margins are clear of DCIS.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B5
+
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+OESTROGEN RECEPTOR:         positive(90% of cells +++)
+PROGESTERONE RECEPTOR:  negative
+
+HER-2 IMMUNOPEROXIDASE
+NEGATIVE (score 0-1+)
+
+Ki-67 proliferative index: 40%
+
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved (including negative staining with Cam5.2)
+
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 2
+
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1b , pN0
+
+DIAGNOSIS:
+LEFT SENTINEL NODE:  NO TUMOUR SEEN IN 2 LYMPH NODES
+
+WIDE LOCAL EXCISION  LEFT BREAST:  INFILTRATING DUCT CARCINOMA
+
+5/7/2070 nh
+
+
+
+
+
+SpecimenReceivedDate
+2019-04-03 00:00:00
+
+
+LastName
+Chaidez

@@ -1,0 +1,94 @@
+SPR no: 24I5648488
+MRN no: 243564
+Site_name: HENTY MULTI PURPOSE SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report24I56484,24I56484 (24I5648488) Armintrout, DARRELL
+HISTOPATHOLOGY REPORT
+BEAUFORT & SKIPTON HEALTH SERVICES - BEAUFORT CAMPUS HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+G1 endometrial adeno Ca.
+
+1.  Peritoneal washings for Cyto.
+2.  Uterus, tubes and ovaries.
+3.  Right pelvic sentinel node.
+4.  Left pelvic sentinel node.
+5.  Omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;.  Consists of uterus and bilateral salpingo-oophorectomy specimen weighing 55g in total.  The uterus measures 60x22x30mm.  The cervix 29mm from left to right with a 5mm slit-like os. The specimen has been previously partially opened in the coronal plane.  The right fallopian tube measures 50x5mm.  The right ovary 25x15mm.  The left fallopian tube 50x5mm with a 7mm parafimbrial cyst.  The left ovary 25x12x6mm.  The coronal section is continued and the specimen is bivalved and hinged at the fundus.  The cut surface reveals a papilliform endometrial cavity up to 10mm in thickness with myometrium up to 7mm in thickness.  Photograph and block diagram created.
+
+(1  right parametrial shave; 2  left parametrial shave; 3  right fallopian tube and ovary; 4  right fimbrial end all embedded; 5  left fallopian tube and ovary; 6  left fimbrial end all embedded with parafimbrial/paratubal cyst; 7-12  a whole midline sagittal slice [7-9  anterior aspect, 10-12  posterior aspect]; 13  coronal section of endometrium to left cornu; 14  coronal section of endometrium to right cornu).  Representative sections.  (M-14).
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  Consists of two lymph nodes, the larger 6x3x3mm.  The smaller possible lymph node 3mm.
+
+(1  bisected larger node; 2  smaller node embedded whole). Lymph nodes all embedded (3-2)
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Consists of fibrofatty tissue 30x10x5mm, contains two lymph nodes.  The larger 10x5x3, the smaller 7x5x2mm.
+
+(1  larger lymph node bisected; 2  second lymph node embedded whole).  Lymph nodes all embedded.  (M-2).
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  Consists of an irregular piece of fatty tissue, 16x7x5mm.  Bisected.  Both halves embedded block 1.  All embedded.  (2-1/MY 11/6/2070 km).
+
+MICROSCOPIC:  (Dr F Fjeseth)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:  Radical hysterectomy
+TUMOR SITE: Fundus &amp;amp; lower uterine segment
+TUMOR SIZE:  45mm greatest dimension
+HISTOLOGIC TYPE: Endometrioid adenocarcinoma, (with focal mucinous differentiation &amp;lt;5%)
+HISTOLOGIC GRADE: FIGO Grade 1
+MYOMETRIAL INVASION:
+Depth of invasion:  3 mm
+Myometrial thickness:  10mm
+Percentage depth of myometrial invasion:  30%
+UTERINE SEROSA INVOLVEMENT: Not identified
+LOWER UTERINE SEGMENT INVOLVEMENT: Present
+CERVICAL STROMAL INVOLVEMENT: Not present
+OTHER TISSUE/ORGAN INVOLVEMENT: Not identified
+MARGINS: Clear
+LYMPHOVASCULAR INVASION: Not identified
+REGIONAL LYMPH NODES:
+Site: Right and Left pelvic sentinel nodes
+Number of lymph nodes involved: 0
+Number of lymph nodes examined: 4
+DISTANT METASTASES (histologically confirmed): Nil
+ADDITIONAL PATHOLOGIC FINDINGS:
+Non tumour endometrium: atrophic
+Adenomyosis: not present
+Left fallopian tube: paratubal cyst
+Right fallopian tube: no significant pathology
+Left ovary: no significant pathology
+Right ovary: no significant pathology
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. To follow
+OTHER SPECIMENS: Omental biopsy- no evidence of malignancy
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a pN0(sn)
+COMMENT(S):
+DIAGNOSIS:
+
+A.  UTERUS, TUBES AND OVARIES - GRADE 1 ENDOMETRIAL ADENOCARCINOMA, FIGO STAGE 1A.
+B.  RIGHT PELVIC SENTINEL NODE - NO EVIDENCE OF MALIGNANCY IN 2 NODES.
+C.  LEFT PELVIC SENTINEL NODE - NO EVIDENCE OF MALIGNANCY IN 2 NODES.
+D.  OMENTAL BIOPSY- NO EVIDENCE OF MALIGNANCY.
+16.7.71
+SUPPLEMENTARY REPORT:
+
+Immunostains for MMR proteins (block: A10)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+15.7.68

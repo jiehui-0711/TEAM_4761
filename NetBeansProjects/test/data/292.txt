@@ -1,0 +1,100 @@
+
+Episode No:  46P225370J
+4652253.UBJ
+
+COMPANION, YONG 
+Lab No:  46P22537
+W Holly
+MORWELL  VIC  5162
+Specimen: Tissue
+D.O.B:  13/4/1992
+Sex:  F
+Collected: 01/11/2013 at 08:24
+Location:  SEALS central-PROSERPINE HOSPITAL
+DR LUCIEN JONAH BUNTON
+Distribution:   FILE-COPY
+CLINICAL:
+Sentinel lymph node biopsy.  CKD ?cause.  Bronchiectasis.  Adenocarcinoma cervix.  Gout.  Hyperlipidemia.  Diverticular disease.  Dysplastic R kidney.  Core bx proven invasive ductal ca.  IDC 5 o'clock retroareolar suture in axillary tail.
+
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node" consists of a node 10mm in maximum diameter.  AE 1 block.
+B.  Specimen labelled "Left breast stitch at axilla" consists of a mastectomy with an ellipse of skin attachedand a suture for the orientation marking the axillary tail.  Specimen measures 200mm (medial to lateral), 190mm (superior to inferior), 40mm (superficial to deep).  The ellipse of skin measures 190 x 100mm.  The nipple and areola complexis unremarkable.  The superficial margin is inked blue.  The deep margin is inked black.  The specimen is serially sectioned from medial to lateral to reveala  lower outer quadrant there is  a firm grey retroareolar tumour 20 x 20 x 17mmwhich extends into the lower outer quadrant at 5 o'clock.  The tumour is 50mm from the deep margin, 35mm from the inferior margin, 85mm from superior margin, 40mm from medial margin and 100mm from lateral margin.  In the axillarytail 50mm from the suture mark there is a nodule 15mm in maximum diameter it is located more than 90mm from the nipple, 20mm from the deep margin, 20mm from the superficial margin and 50mm from the superior margin.  
+Blocks:  1 - nipple with tumour; 2 & 3 - composite of nipple with tumour; 4 & 5 - tumour; 6 - next lateral section close to the tumour; 7 - next medial section close to the tumour; 8 - closest deep margin to the tumour; 9 - closest infero-anterior margin to the tumour; 10 - representative section of superior margin; 11 & 12 - upper outer quadrant; 13 & 14 - upper inner quadrant; 15 & 16 - lower inner quadrant;17 to 20 - composite of the axillary tail nodule (17 - nodule close to deep margin; 18 - nodule close to superficial margin; 19 - nodule close to superficial margin; 20 - nodule with deep margin);  21 margin close to axillary tail nodule; 22 - further section of axillary tail nodule.
+(TO: GX; BM/rt 3.1.63)
+MICROSCOPIC (Reported by Dr K Whitehall):
+A.  One (1) lymph node shows no evidence of malignancy (0/1).  The CAM5.2 keratin immunostain is negative.
+B.  Sections show two separate infiltrating ductal carcinomas, NST.  The first carcinoma (tumour A) is a 20mm grade 2 infiltrating ductal carcinoma, NST located at 5 o'clock subjacent to the nipple/areolar complex. The tumour cells display moderately pleomorphic  nuclei with occasional nucleoli and are arranged in infiltrative cords and anastomosing nests within a hyaline stroma.  The tumour extends around large ducts beneath the nipple and there is minimal intermediate grade DCIS withinthe confines of the tumour. The tumour also focally extends into the dermis of the nipple/areola but no dermal lymphatic spread or Pagetoid epidermal involvement is seen.  A second separate tumour is located in the axillary tail at 2 o'clock 90mm from the nipple.  This tumour is a 12mm grade 2 infiltrating ductal carcinoma, NST arising within a field of intermediate to high grade DCIS approximately 20mm in maximum dimension; the DCIS extends into the upper outerquadrant of the breast.  The infiltrative carcinoma is composed of cells with moderate to focally highly nuclei, with occasional conspicuous nucleoli and is arranged in poorly formed tubules and infiltrative nests within a sclerotic stroma.  A synoptic report follows.
+Invasive carcinoma:
+Tumour A
+Site:  Left breast retroareolar at 5 o'clock.
+Type:  Infiltrating ductal, NST
+Invasive tumour size: 20mm
+Grade (Modified Bloom & Richardson): 2
+Tubules: 3     Nuclei: 2     Mitoses: 1     Mitotic rate: 3 /10hpf.
+Lymphovascular invasion:  Not seen.
+Tumour B
+Site:  Left breast axillary tail, 2 o'clock 90mm FN.
+Type:  Infiltrating ductal, NST
+Invasive tumour size: 12mm
+Grade (Modified Bloom & Richardson): 2
+Tubules: 2     Nuclei: 3    Mitoses: 1     Mitotic rate: 4 /10hpf.
+Lymphovascular invasion:  Not seen.
+DCIS component:  
+DCIS:  Present (mainly in axillary tail)
+Maximum contiguous extent of DCIS: Approximately 20mm
+Nuclear grade:  Intermediate to high
+Architecture: Solid and comedo
+Necrosis:   Present
+Calcification: Present
+Degree of DCIS in tumour (tumour B):  Moderate
+DCIS inadjacent tissue:  Moderate
+Excision Margins:  
+Invasive component: Tumours A and B well clear (>10mm) from all margins
+In-situ component:  All margins well clear (>10mm)
+Receptors (Blocks B1 and B17): 
+Tumour A
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Negative
+	0 % of nuclei stained
+HER2 (Novocastra 10A7): Equivocal 2+;15%complete weak to moderate membrane staining and background cytoplasmic staining.
+HER2 SISH:  Performed at Wells Fargo, WEIPA HOSPITAL Hospital, see separate report.
+Ki-67 index: Heterogeneous but up to 15% in the most proliferative areas.
+Tumour B
+ER:  Positive
+	50% of nuclei stained
+	predominant intensity of staining:  Moderate
+PR:  Positive
+	30 % of nuclei stained
+	predominant intensity of staining:  Moderate
+HER2 (Novocastra 10A7): Negative 1+
+HER2 SISH not performed.
+Ki-67 index: Up to 5%.
+Nipple:  Infiltrating carcinoma involves the dermis of the nipple/areolar but no Pagetoid epidermal involvement is seen.
+LCIS / ALH: Not seen.
+Miscellaneous:  The background breast lobules are atrophic but otherwise unremarkable.
+
+Sentinel lymph node(s):
+Number ofsentinel lymph nodes examined: 1
+Number of sentinel lymph nodes involved by tumour: 0
+Number of sentinel nodes with isolated tumour cells <0.2mm: 0
+	 
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 1
+Total number of involved lymph nodes (including sentinel node(s)):   0
+DIAGNOSIS:
+A & B.  Sentinel lymphnode and left mastectomy:
+-  Two grade two infiltrating ductal carcinomas, NST
+-  Tumour A, 20mm grade2 infiltrating ductal carcinoma, retroareolar at 5 o'clock, ER positive, PR positive; no lymphovascular invasion seen; margins well clear.
+-  Tumour B, 12mm grade 2 infiltrating ductal carcinoma,  2 o'clock 90mm FN, ER positive, PR positive; no lymphovascular invasion seen; margins well clear.
+-  Intermediate to high grade DCIS (mainly associated with tumour B); margins well clear.
+-  One (1) negative sentinel lymph node (0/1).
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+SPR no: 32H4153918
+MRN no: 323415
+Site_name: TRANGIE MULTI PURPOSE HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report32H41539,32H41539 (32H4153918) TEDDER, VALENCIA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Stromal tumour on curettings.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, BILATERAL TUBES, OVARIES AND CERVIX&amp;quot;.  A total hysterectomy specimen with a total weight of 72g.  It consists of a uterus measuring 62x44x25mm.  Attached is a cervix measuring 30x27x20mm.  The specimen has been opened along its left edge.  Attached is right fallopian tube 55x6mm and enlarged right ovary 40x26x20mm, a left fallopian tube 56x7mm and left ovary measuring 24x16x13mm.  The external os is oval and measures 18x9mm.  Upon opening, the endometrium is slightly thickened up to 4mm.  The myometrium is up to 13mm thick.  In the submucosal area, the myometrium forms thickened projection towards the endometrial cavity, localised in the fundus  area.  No discrete lesions or fibroids are identified.  An area of scarring is identified at the anterior isthmus (?previous CS).
+
+The fallopian tubes shows multiple paratubal cysts filled with clear serous fluid measuring 2-5mm on both tubes.  The cut surface of the right ovary reveals an intact surface with underlying firm white homogenous and nodular lesion with central areas of possible residual ovarian stroma.  This nodular firm area occupies more than 80% of the ovarian tissue.  The left ovary reveals a similar cut surface with firm white and nodular homogenous areas with adjacent residual ovarian tissue.
+
+(1 right fallopian tube two LS fimbrial end and one TS mid; 2-6 RS right ovary; 7 left fallopian tube two LS fimbrial end and one TS mid; 8-10 RS left ovary; 11-13 LS anterior uterus from cervix to fundus; 14-16 LS posterior uterus from cervix to fundus; 17&amp;amp;18 submucosal thickening at fundus [17 anterior, 18 posterior]; 19&amp;amp;20 fundus thickened submucosal areas [19 anterior, 20 posterior]).  RS (M-20) further blocks (21-24 right ovary; 25&amp;amp;26 Left ovary; 27&amp;amp;28 anterior body/fundus; 29&amp;amp;30 post body/fundus; 31 fundus with anterior serosal surface, 32 fundus with posterior serosal surface) Rs (M-32/ZH). [Biobank tumour block is A10]
+
+B.  &amp;quot;OMENTUM&amp;quot;.  A fibrofatty piece of tissue measuring 18x6x5mm with unremarkable outer and cut surfaces.  Serially sliced.  AE (M-1/ZH 12/7/2067 nh)
+
+MICROSCOPIC:  (Dr I Amburgy)
+A.  Sections of the right fallopian tube and the left fallopian tube are unremarkable.
+The right and left ovaries show a nodular tumour with a central fibromatous zone and a peripheral rind of bland plump spindled cells with a prominent vascular background and with appearances or endometrial stroma cells. In some areas, in between the fibromatous and endometrial stromal areas there are condensed groups of cells that are suggestive of focal sex-cord stromal differentiation (including focal areas with decreased reticulin staining and focal positive staining for inhibin) however these are a very minor component of the tumours. In addition the right ovary also contains endometrial type glands in some areas imparting an appearnce of &amp;apos;endometriosis&amp;apos; and with some glands embedded in to the fibromatous stroma (positive for PAX-8, EMA). CD10 and WT-1 are positive in the endometrial stromal component and  SMA is positive in the fibromatous areas.
+Sections of the cervix are unremarkable.
+The endometrium shows a nodular-polypoid appearance with adenomyosis and focal serosal endometriosis.
+In addition, there is a well circumscribed nodule measuring 10mm in diameter with composition of endometrial stroma and with some nodular areas resembling smooth muscle. This involves the endometrium and with infiltration of the myometrium. In some areas there is interdigitation of endometrial stromal cells with myometrial smooth muscle. No unequivocal lymphatic space invasion is seen. There is less than 1 mitosis / 10hpf. No areas of necrosis or cytologic pleomorphism. The tumour invades 8mm in a myometrial thickness of 14mm.
+The tumour has appearances of low grade endometrial stromal sarcoma (block A16). CD10 is positive in endometrial stroma cells and SMA and desmin are positive in cells with smooth muscle differentiation.
+B.  The section shows omentum in which small nodules composed of cellular plump spindled cells with intervening collagen are seen. These are positive for CD10 (focal, variable), and are negative for inhibin, calretinin, and SMA.
+Comment: The appearances are those of low grade endometrial stromal sarcoma of the uterus with involvement of both ovaries and omentum (pT3).
+DIAGNOSIS:
+A.  UTERUS, TUBES AND OVARIES: LOW GRADE ENDOMETRIAL STROMAL SARCOMA OF UTERUS AND BOTH OVARIES - SEE TEXT AND COMMENTS.
+
+B.  OMENTUM: LOW GRADE ENDOMETRIAL STROMAL SARCOMA.
+
+18/7/2067 nh

@@ -1,0 +1,89 @@
+Episode No:  47M9305891
+4749305.WYE
+
+CASSIS, Finn 
+Lab No:  47M93058
+Stanmore
+KURRAJONG HEIGHTS  New South Wales  1422
+Specimen: Tissue
+D.O.B:  21/11/1992
+Sex:  F
+Collected: 21/11/2012 at 09:46
+Location:  Peter Mac-GOODOOGA HOSPITAL
+DR Irwin Cecil AUGUSTUS-STINEBUCK
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast sentinel node biopsy.  Left breast nipple biopsy.  Left breast mass marked with sutures:  long lateral, short superior, medium medial.
+MACROSCOPIC:
+A.  Specimen labelled "Left nipple biopsy" consists of one punch biopsy measuring 2mm in diameter and up to 4mm deep.  AE 1 block.
+B.  Specimen labelled "Left sentinellymph node" consists of an irregular piece of fibrofatty tissue measuring up to 45 x 25 x 20mm containing two nodes, the larger measuring up to 30 x 15 x 12mm and the smaller measuring up to 14 x 9 x 5mm.
+Blocks:  1 & 2 - larger lymph node sectioned; 3 - smaller node trisected.
+C.  Specimen labelled "Left breast lesion, long lateral, short superior, medium medial" consists of a lumpectomy weighing 142.1g, (sutures taken as described) measuring 65mm medial to lateral, 50mm superior to inferior and 95mm superficial to deep.  Lateral margin inked green, superior margin inked blue, inferior margin inked black.  The specimen is serially sectioned into 15 slices superficial to deep.There is a lesion present in slices 3 to 5 measuring 20mm from medial to lateral, 18mm superior to inferior and 20mm superficial to deep.  Macroscopically the lesion appears clear of the margins.  The tumour is firm, ill defined, white with patchy focal areas of haemorrhage.  Embedded according to the attached diagram.
+Blocks:  1 to 8 - slice 1; 9 to 14 - slice 3; 15 to 20 - slice 4; 21 to 26 - slice 5; 27 to 29 - slice 6; 30 - representative slice 9; 31 - representative section slice 11; 32 to 36 - slice 13; 37 to 42 - slice 15, 43 to 46 - slice 2; 47 to 50 - remainder of slice 6; 51 to 56 - slice 8; 57 to 61 - remainder of slice 11, 62 to 67 - slice 7; 68 to 73 - remainder of slice 9; 74 to 79  - slice 10; 80 - representative slice 12. (TO:JQ; DQ/bl 24/1/62)
+MICROSCOPIC (Reported by Dr M Digrande):
+A.  Sections show skin to deep dermis including a nipple duct. The epidermis shows Paget's disease with randomly distributed single and clustered large malignant cells extending into the granular layer. The cells displays enlarged irregular nuclei with abundant pale cytoplasm and focal intracytoplasmic lumina.  Immunoperoxidase stains are confirmatory; the malignant cells show positive expression for CK7, HER2 (2+) and are negative for S100, MelanA, CK5/6.  There is a band-like lichenoid infiltrate of lymphocytes and occasional plasma cells in the upper dermis. No invasive carcinoma is seen and the single large nipple duct shows no evidence of ductal carcinoma in-situ. 
+B.Two (2) lymph nodes show no evidence of malignancy. The CAM5.2 keratin immunostains are negative.
+C. The specimen has been extensively sampled and examined.  Sections show a 20mm grade 3 infiltrating ductalcarcinoma.  There is extensive high grade ductal carcinoma in-situ in the surrounding tissue, including well away from the invasive tumour.  The features are as follows:
+DIAGNOSIS:
+Invasive carcinoma:
+Site:	Left breast
+Type:	Ductal NOS
+Invasive tumour size: 20mm (4consecutive slices).
+Grade (Modified Bloom & Richardson): 3
+Tubules:  3    Nuclei:  3    Mitoses:     Mitotic rate: 2    14/10hpf.
+Lymphovascularinvasion:   Present (block C10, C16) - difficult to assess because of marked retraction artefact 
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  Approximately 45mm (9 consecutive slices)
+Nuclear grade:  High  
+Architecture:  Solid and cribriform
+Necrosis:  Present
+Calcification: Present
+Degree of DCIS in tumour:  Mild (several foci)
+DCIS in adjacent tissue:  Extensive (extension from slices two to ten)
+Excision Margins:  
+Invasive component:
+Medial		0.9mm; (block C45)
+Inferior		2mm (block C14)
+Superior	3.5mm (block C12)
+Lateral		9mm (block C10)
+Superficial	>6mm (block C7/8)
+Deep			Well clear >10mm 
+In-situ component:
+Superior	0.25mm (block C54); no intervening normal ducts
+Lateral 	1mm (block C30); no intervening normal ducts
+Medial		1.1mm (block C20); no intervening normal ducts
+Please note diathermied tumour, probably DCIS, without intervening normal ducts is also present 0.25mm from diathermy artefact close to the medial margin (block C45) which is interpreted as an area of marginal incision and not the true margin.
+Inferior 	4mm (block C62)
+Superficial 	>6mm (block C7/8)
+Deep 		Well clear >10mm
+Receptors (Block C10): 
+ER:  Positive 
+	>90% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Negative
+	 0% of nuclei stained
+HER2 (Novocastra 10A7):  Negative 1+, CISH to follow
+Ki-67 index:  Approximately 50%
+Nipple:  Paget's disease (see specimen A).
+LCIS / ALH:  Not seen
+Miscellaneous: The non-tumour breast tissue shows foci of columnar cell change and columnar cell hyperplasia, the latter focally with cytological atypia. There is fibrocystic change, apocrine metaplasia, sclerosing adenosis, foci of florid ductal hyperplasia of usual type and focal pseudoangiomatous hyperplasia stromal alteration (PASH).
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  Two (2)
+Number of sentinel lymph nodes involved by tumour:  Zero (0)          
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  N/A
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  Two (2)
+Total number of involved lymph nodes (including sentinel node(s)):  Zero (0)
+DIAGNOSIS:
+A-C.  Left breast excision, sentinel lymph nodes & nipple biopsy:
+-  20mm Grade 3 infiltrating ductal carcinoma NOS
+-  Foci of lymphovascular invasion
+-  ER positive, PR negative, HER2 negative, (CISH to follow)
+-  Extensive high grade DCIS approximately 45mm dimension
+-  See above for margins
+-  Two (2) negative sentinel lymph nodes
+-  Paget' disease.
+

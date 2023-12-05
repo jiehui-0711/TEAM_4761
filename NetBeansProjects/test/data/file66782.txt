@@ -1,0 +1,139 @@
+SPR no: 03O6995508
+MRN no: 035699
+Site_name: THE SUTHERLAND HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report03O69955,03O69955 (03O6995508) LOBALBO, ILUKA
+HISTOPATHOLOGY REPORT
+JULIA CREEK MULTI-PURPOSE HEATH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Serous Ca uterus
+1. Peritoneal washings for cytol
+2. Uterus tubes + ovaries
+3. L pelvic lymph node
+4. R pelvic lymph node
+5. Omental Bx (2-5 for histol)
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS + TUBES AND OVARIES&amp;quot;. A partially opened uterus with attached bilateral fallopian tubes and ovaries. The entire specimen weighs 77.6g. Anterior resection margin inked blue and posterior resection margin inked black.
+
+The uterus measures 72x40x25mm and weighs 63g. The cervix measures 33x25mm with slit-like os 13mm. The anterior myometrium measures 10mm and posterior myometrium measures 15mm. The endometrium measures 1-2mm. The uterus serosal surface is unremarkable. The ectocervix is unremarkable. There is a tan polyp 10x6x1mm present in the posterior endocervix. The uterus myometrium has a trabeculated cut surface. No obvious lesion identified in endometrium.
+
+The right fallopian tube measures 45x5mm. There are multiple 2-3mm cysts on the fallopian tube surface. There is a 5mm pale yellow nodule adjacent to where the right fallopian tube attaches to uterus. The right ovary measures 26x14x8mm and weighs 2.4g. The right ovary outer surface is unremarkable.
+
+The left fallopian tube measures 45x7mm. There are multiple pale cysts on the left fallopian tube surface. The left ovary measures 21x13x8mm and weighs 1.7g. The left ovary outer surface is unremarkable.
+
+(1 right parametrium; 2 left parametrium; 3 right cornual shave; 4 left cornual shave;
+5-9 one full face of uterus and cervix [5 anterior cervix, 6 anterior uterus, 7 fundus, 8 posterior uterus, 9 posterior cervix]; 10-14 one full face of uterus and cervix [10 anterior cervix, 11 anterior uterus, 12 fundus, 13 posterior uterus, 14 posterior cervix]; 15-23 left half of uterus [15 slice 2, 16 slice 3, 17 slice 4, 18 slice 5, 19&amp;amp;20 composite blocks for slice 6; 21&amp;amp;22 composite blocks for slice 7; 23 slice 8]; 24-28 right half of uterus  [24 slice 12, 25 slice 13, 26 slice 14, 27 slice 15, 28 slice 16]; 29-31 right fallopian tube; 32&amp;amp;33 right ovary; 34-36 left fallopian tube; 37&amp;amp;38 left ovary [bilateral fallopian tubes and ovaries all embedded]). Representative sections. (M-38)
+
+B. &amp;quot;OMENTAL BX&amp;quot;. One piece of fatty tissue 45x35x12mm.  Representative sections.(M-3)
+
+C. &amp;quot;R PELVIC LYMPH NODE&amp;quot;. Fragments of fatty tissue in aggregate 40x15x8mm. One lymph node identified.
+
+(1 one lymph node; 2 remaining fatty tissue).  All embedded. (M-2)
+
+D. &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;. Fragments of fatty tissue in aggregate 38x25x8mm. One lymph node identified.
+
+(1 one lymph node; 2 remaining fatty tissue).  All embedded. (M-2/SL 1/6/2071 nh)
+
+MICROSCOPIC: (Dr C Bredesen)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:  Total abdominal hysterectomy and bilateral salpingooophrectomy
+
+TUMOR SITE: Endometrium
+
+TUMOR SIZE: 20mm approximately
+
+HISTOLOGIC TYPE: Serous carcinoma
+
+HISTOLOGIC GRADE: 3
+
+MYOMETRIAL INVASION:
+Depth of invasion:  14.5mm
+Myometrial thickness:  15.5mm
+Percentage depth of myometrial invasion:  94%
+
+UTERINE SEROSA INVOLVEMENT: Not present
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Present
+
+CERVICAL STROMAL INVOLVEMENT: Not present
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not present
+
+MARGINS: Clear
+
+LYMPHOVASCULAR INVASION:
+Present, substantial: found extensively throughout the myometrium and also focally within lymphatics in the hilum of the left ovary.
+
+REGIONAL LYMPH NODES:
+Site: Right and Left Pelvic
+
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 	1 (Left Pelvic Node)
+Number of nodes with micrometastasis: 		0
+Number of nodes with isolated tumor cells: 		0
+Total number of lymph nodes examined: 		2
+
+Extra-nodal spread: Not present
+
+DISTANT METASTASES (histologically confirmed): Not known
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Non tumour endometrium: Atrophic
+Adenomyosis: Not identified
+Left fallopian tube: Not involved
+Right fallopian tube: Not involved
+Left ovary: Lymphovascular invasion in hilum of left ovary
+Right ovary: Not involved
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains - To follow on Block A12
+
+OTHER SPECIMENS: The omentum is not involved
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 3C1
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b, pN1
+
+Comments:
+Serous carcinoma almost completely replaces a small endometrial polyp but shows widespread invasion throughout much of the myometrium with lymphovascular invasion. Further confirmatory immunostains will follow.
+
+DIAGNOSIS:
+A. UTERUS, TUBES AND OVARIES
+- SEROUS CARCINOMA OF ENDOMETRIUM WITH WIDESPREAD MYOMETRIAL INVASION &amp;amp; LYMPHOVASCULAR INVASION.
+- TNM STAGE: pN1b, pN2.
+- FIGO STAGE: III C1.
+
+B. OMENTAL BIOPSY
+- NO EVIDENCE OF MALIGNANCY.
+
+C. RIGHT PELVIC LYMPH NODE
+- NO EVIDENCE OF MALIGNANCY IN 1 NODE.
+
+D. LEFT PELVIC LYMPH NODE
+- METASTATIC SEROUS CARCINOMA IN 1 NODE.
+
+2/6/2071 cy
+
+SUPPLEMENTARY REPORT:
+
+Immunostains show positivity for P53 (strong diffuse ie mutated pattern), P16, CK7, ER (80% 2+). PR and WT1 are both negative.This is consistent with serous carcinoma.
+
+Immunostains for MMRP proteins (block: A12)
+
+MLH1:  normal (positive staining)
+PMS2:  normal (positive staining)
+MSH2:  normal (positive staining)
+MSH6:  normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+6.7.71

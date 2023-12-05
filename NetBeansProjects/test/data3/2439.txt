@@ -1,0 +1,38 @@
+Episode No:  66W850324Q
+6688503.HLQ
+
+Scarberry, ANTOINE 
+Lab No:  66W85032,66W85032
+Kelsey
+BRUNSWICK HEADS  Northern Territory  7018
+Specimen: Washings,Tissue
+D.O.B:  16/5/2006
+Sex:  F
+Collected: 27/5/2065 at :
+Location:  ST GEORGE PRIVATE - LITHGOW HOSPITAL
+DR Lowell Peter SWARTZMILLER
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Endometrial cancer.  HTN.  Class 3 obesity.  Endometrial cancer.
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, tubes and ovaries" consists of a uterus with attached cervix, and bilateral fallopian tubes and ovaries weighing 161g in total.  The uterusmeasures 103 x 62 x 37mm and has a smooth, shiny serosal surface.  The ectocervix measures 33 x 27mm and has an unremarkable surface.  The endometrium appears thickened in places, ?tumour.On sectioning, the endometrium is roughly 3mm in maximum thickness and the myometrium is 21mm in maximum thickness.  The myometrium is unremarkable.  The right fallopian tube measures 54mm x 8mm.  The right ovary measures 30 x 14 x 13mm and has a patchy grey and yellow cut surface.  The left fallopian tube measures 54mm x 7mm.  The left ovary measures 30 x 13 x 10mm and has a patchy grey and yellow cut surface.
+Blocks:  1 to 5 - LS midline anterior uterus and cervix; 6 & 7 - LS right anterolateral uterus; 8 & 9 - LSleft anterolateral uterus; 10 to 13 - LS midline posterior uterus and cervix; 14 & 15 - LS right posteriolateral uterus; 16 - LS left posteriolateral uterus; 17 - representative right fallopian tube; 18 - representative right ovary; 19 - representative left fallopian tube; 20 - representative left ovary.
+B.  Specimen labelled "Posterior vaginal margin" consists of a piece of mucosal tissue measuring 22 x 12mm toa depth of 23mm.  The surgical margin is inked blue.  Specimen serially sectioned in seven blocks.  AE.
+(ID/rt 28.5.65)
+MICROSCOPIC (Reported by Dr P Taves):
+A.  Sections of uterus show small foci of a well differentiated endometrioid adenocarcinoma (grade 1) admixed with complex hyperplasia.  The carcinoma shows architectural grade 1 andno solid component is seen.  The tumour cells show nuclear grade 1.  Squamous morules are present.  The carcinoma is confined tothe endometrium and no myometrial invasion is seen.  The tumour is within the uterine corpus and is completely excised.  The endocervix and cervix are unremarkable.  There is no evidence of lymphovascular invasion.  The rest of endometrium is atrophic and shows no significant abnormality.  The myometrium is unremarkable.  The uterine serosa is unremarkable.  Both fallopian tubes are unremarkable.  Both ovaries are unremarkable.  Immunohistochemical stains for mismatch repair deficiency (MMRD) are to follow and a supplementary report will be issued.
+B.  Sections show normal appearing vaginal tissue with no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Uterus, cervix, tubes and ovaries - Endometrioid adenocarcinoma (grade 1).
+
+B.  Posterior vagina margin - No significant abnormality.
+SUPPLEMENTARY REPORT (6/3/2065):
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is: A3
+

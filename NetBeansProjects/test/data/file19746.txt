@@ -1,0 +1,74 @@
+DateOfBirth
+199507230000
+
+
+SiteName
+BLUE MOUNTAINS DISTRICT ANZAC MEMORIAL HOSPITAL
+
+
+FirstName
+Purkerson
+
+
+SPRID
+63R856360V
+
+
+MRN
+6368563
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Yaw
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+80F metastatic ovarian cancer. Left salpingo-oophorectomy, omentectomy and removal remnant uterus.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Pelvic tumour&amp;quot;, consists of a piece of unorientated, irregularly shaped haemorrhagic tissue, measuring 70 x 110 x up to 25mm. A possible fallopian tube is identified, approximately 70mm in length and a diameter of 5mm. There is a possible ovary measuring 20 x 18 x 15mm. The haemorrhagic fibrofatty tissue measures 75 x 30 x 15mm and there is a pale nodule 10 x 8 x 8mm adjacent to the ovary. There is a separate detached ragged pale nodule, 45 x 30 x 20mm and containing necrotic material. No definite uterus is identified. Blocks: 1 &amp;amp; 2 - LS possible fimbrial end; 3 to 7 - TS fallopian tube; 8 to 15 - TS ovary; 16 - RS first nodule; 17 to 19 - LS fibrofatty tissue with attached large necrotic nodule; 20 - end TS opposite end.
+
+B.  Specimen labelled &amp;quot;Gastrocolic omentum&amp;quot;, consists of haemorrhagic fibrofatty tissue, 130 x 80 x 15mm. There are multiple separate foci of pale firm nodules measuring 15 to 40mm in greatest dimension. RS 3 blocks.
+
+C.  Specimen labelled &amp;quot;Infracolic omentum&amp;quot;, consists of a piece of fibrofatty tissue, 100 x 55 x 30mm. There are areas of pale firm nodules, 65 x 40mm. The cut surface shows uniform, pale firm colour. There are haemorrhagic regions within the pale area. RS 3 blocks. (TO:JT/ta 2/3/70)
+
+
+MICROSCOPIC (Reported by Dr R Settler):
+A.  Sections show high grade serous carcinoma involving the left fallopian tube (including the fimbrial end and lymphatics), the left ovary, and paradnexal soft tissues. The structure described as a &amp;apos;uterine remnant&amp;apos; shows a large nodule of high grade serous carcinoma and no identifiable uterine structures.  A small remnant of the fimbrial end of the right fallopian tube is identified.
+No STIC is seen.
+
+B &amp;amp; C.  Sections of the omentum show extensive high grade serous carcinoma.  The Chemotherapy Response Score is 2 = partial response.
+
+
+DIAGNOSIS:
+High grade serous carcinoma involving the left tube, left ovary, paradnexal soft tissues and the omentum.
+
+
+
+
+
+
+SpecimenReceivedDate
+2847-07-19 00:00:00
+
+
+LastName
+Deon

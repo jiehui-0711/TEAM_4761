@@ -1,0 +1,63 @@
+SPR no: 48E651604Q
+MRN no: 481651
+Site_name: RAVENSTHORPE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right breast 12 o&amp;apos;clock 10mm IDC.  HWL wide local excision plus sentinel node biopsy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right axilla sentinel node&amp;quot;, consists of a piece of fatty tissue, 20 x 12 x 7mm containing two possible lymph nodes measuring 5 and 8mm in maximum dimension.  Blocks: 1 &amp;amp; 2 - one lymph node per block bisected; 3 - remaining fat.
+
+B.  Specimen labelled &amp;quot;Right breast lesion stitch long lateral short superior medium medial&amp;quot;, consists of an oriented piece of fibrofatty tissue weighing 16.2g and measuring 45mm medial to lateral, 38mm superior to inferior and 20mm superficial to deep.  There is a hookwire inserting through the anteromedial aspect with the tip embedded within the tissue.  The tissue is inked superior red, inferior green, superficial blue and deep black.  The specimen is sliced from medial to lateral into eight slices.  The hookwire is seen to insert between slices four and five.  Within slice three and four there is a firm spiculated mass measuring 10 x 7 x 7mm located 1mm from the nearest deep margin.  The mass lies within 8mm of the superior margin.  All other margins are greater than 10mm clear.  The tissue adjacent to the lesion appears diffusely fibrofatty in appearance and no other lesions are identified.  Blocks: 1 &amp;amp; 2 - LS through medial margin slice one; 3 &amp;amp; 4 - slice two; 5 &amp;amp; 6 - slice three; 7 &amp;amp; 8 - slice four; 9 &amp;amp; 10 - slice five; 11 &amp;amp; 12 - slice six; 13 - slice seven; 14 &amp;amp; 15 - LS lateral margin slice eight.  AE.  Please see diagram for block description.  (TO:AP/rs 9/1/69)
+
+
+MICROSCOPIC (Reported by Dr L Lasane):
+A, B.  Sections show breast tissue with a 9mm diameter grade 1 infiltrating ductal carcinoma. Invasive carcinoma is close to the deep excision margin.  Three (3) sentinel lymph nodes are all free of tumour.  A synoptic report follows:
+
+Invasive carcinoma:
+Site: Right breast 12 o&amp;apos;clock.
+Type:  Infiltrating ductal carcinoma.
+Invasive tumour size:  9mm.
+Grade (Modified Bloom &amp;amp; Richardson): 1
+Tubules: 2    Nuclei:  2    Mitoses: 1     Mitotic rate:  2/10hpf.
+Lymphovascular invasion:  Absent.
+
+DCIS component:
+DCIS:  Present.
+Maximum extent of DCIS: 5mm.
+Nuclear grade:  Intermediate.
+Architecture:  Cribriform.
+Necrosis:   Absent.
+Calcification: Absent.
+Degree of DCIS in tumour: &amp;lt;5%.
+DCIS in adjacent tissue:  Absent.
+
+Excision Margins:
+Invasive component: Deep 1.9mm, superficial 10mm, superior 8mm, all others &amp;gt;10mm.
+In-situ component: Deep 3mm, all others &amp;gt;10mm.
+
+Receptors (Block B5):
+ER:  	Positive.
+100% of nuclei stained
+predominant intensity of staining:  Strong.
+PR:  	Positive.
+100% of nuclei stained
+predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7):  0 (negative)
+HER2 SISH:  Performed at ANTENATAL WARD, WERRIS CREEK COMMUNITY HOSPITAL Hospital, see separate report.
+Ki-67 index: 3%
+
+Nipple:  Not applicable.
+
+LCIS/ALH:  Absent.
+
+Miscellaneous: Nil of note.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 3.
+Number of sentinel lymph nodes involved by tumour:  0.
+
+
+DIAGNOSIS:
+A, B.  Right breast tissue and right axilla sentinel lymph nodes:  9mm diameter grade 1 infiltrating ductal carcinoma.  Sentinel lymph nodes negative (0/3).
+pT1b   pN0

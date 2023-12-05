@@ -1,0 +1,40 @@
+SPR no: 85A648111M
+MRN no: 850648
+Site_name: LAURA CAMPUS
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report85A64811 (85A648111M) HATLEY, ELISA
+
+HISTOPATHOLOGY REPORT:
+SUPPLEMENTARY REPORT 3/5/68
+SUPPLEMENTARY REPORT (3/3/68)
+
+HISTORY:
+?recurrent leiomyosarcoma.
+
+MACROSCOPIC:
+&amp;quot;LESION ANTERIOR ABDOMINAL WALL SUTURE 12 O&amp;apos;CLOCK&amp;quot;. A lobulated nodular piece of tissue of a total weight of 24g, with a suture at one edge, measuring 50x35x30mm. The specimen has a ragged surface with skeletal muscle (considered anterior and inked black). The presumed posterior surface is smooth with fatty tissue (inked blue). The 3 o&amp;apos;clock margin is inked green, the 9 is inked red. The specimen is serially sliced, from superior to inferior, into 9 slices. The cut surface reveals a well-demarcated, possibly encapsulated lesion, starting from Slice 2 to Slice 8. It measures 28mm superior to inferior x 26mm x 22mm. It has mainly yellow, possibly necrotic cut surface, with firm, white focal viable areas (about 20% of the entire tumour at one edge invading into the adjacent skeletal muscle edge). This tumour is within 1mm of the nearest presumed 3 o&amp;apos;clock margin, within 3mm of the 9 o&amp;apos;clock margin, 2mm of anterior skeletal muscle and well clear of the posterior glistening surface by 4mm. It is also well clear of anterior superior and inferior margin by 10mm.
+
+(1 two LS, Slice 1 [superior]; 2 Slice 2; 3&amp;amp;4 Slice 4; 5&amp;amp;6 Slice 6 [block 5 tumor block for tissue banking] ; 7&amp;amp;8 Slice 7; 9 two LS, Slice 9 [inferior]). RS (M-9 [please see block diagram]/ZH 24/2/2067 cy)
+
+MICROSCOPIC:   (Dr V Crace)
+Sections show a poorly circumscribed deposit of high grade sarcoma within skeletal muscle. There is extensive central tumour necrosis. The rim of viable tumour is composed of atypical oval to spindled cells arranged in haphazardly orientated fascicles. There is moderate nuclear atypia and brisk mitotic activity.
+Immunostains show that the tumour is weakly positive for smooth muscle actin and negative for desmin and S100. The proliferative index is approximately 50% (Ki67).
+The tumour is surrounded on all aspects by a rim of benign tissue. The smallest margin (0.2mm) is at the 9 o&amp;apos;clock peripheral margin (assuming that skeletal muscle forms the anterior aspect of the specimen).
+
+Comment: The appearances and immunoprofile are consistent with recurrent leiomyosarcoma. The previously reported leiomyosarcoma was negative for SMA and desmin in the poorly differentiated areas (85A64811, 85A6481114, 2/5/66).
+
+DIAGNOSIS:
+ORIENTATED EXCISION LESION ANTERIOR ABDOMINAL WALL - RECURRENT SARCOMA, CONSISTENT WITH POORLY DIFFERENTIATED LEIOMYOSARCOMA, FOR MARGINS, SEE TEXT.
+
+2/2/67 ld
+
+SUPPLEMENTARY REPORT 3/5/68
+An ALK immunostain is negative.
+The above diagnosis is unchanged.
+3/5/68 ld
+SUPPLEMENTARY REPORT (3/3/68)
+Immunostains: (Requested by Dr AUGUSTUS BRUDER)
+ER: Weakly positive, 20% nuclei 1+
+PR: Negative
+3/3/68 ld

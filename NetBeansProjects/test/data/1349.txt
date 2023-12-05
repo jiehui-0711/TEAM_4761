@@ -1,0 +1,65 @@
+
+Episode No:  53R090086Y
+536090.AVR
+
+Wildsmith, Orville 
+Lab No:  53R09008
+Dragon Slayers
+WAUCHOPE  VIC  2296
+Specimen: Tissue
+D.O.B:  17/11/1992
+Sex:  M
+Collected: 2/11/2063 at :
+Location:  DHM-GOULBURN BASE HOSPITAL
+DR PHILIP Robt DENEKE
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT, 5.5.2064
+
+
+CLINICAL:
+Distal pancreatectomy.  
+MACROSCOPIC:
+Specimen labelled "Distal pancreas omentum", consists of the distal pancreas (85 x 35 x 15mm) and two pieces of omental fatty tissue 320 x 155 x 6 and 160 x 80 x 10mm.  The pancreas is stapled at one end (presumably the proximal resection margin).  There is a suture next to the stapled line.  The pancreas is tapered towards its tip.  One surface is inkedblue and one surface is inked black.  Proximally there is a 37 x 22 x 15mm pale lobular indurated nodule.  The nodule abuts the blue inked surface and is 1mm from the black inked surface.  It almost abuts proximal stapled margin.  Slicing the omental tissue reveals few ?lymph nodes.
+Blocks: 1 to 17 - the entire pancreas from distal to proximal (block 8 reserved block); 14 to 17 - proximal nearmargin (after removing the staples);18 - possible lymph nodes; 19 to 22 - sections of omentum looking for lymph nodes.
+(TO: NJ;NU/vo 2.11.63) 
+MICROSCOPIC (Reported by A/Prof O Symon):
+Sections of distal pancreas show extensive hyperplasia of the pancreatic islets which in some areas replaces the pancreatic parenchyma in a peripheral "ring like" fashion.  Residual benign ducts and occasional pancreatic acini are noted within the areas of hyperplasia.  
+Elsewhere in the distal pancreas the hyperplastic islets have a more random distribution throughout the pancreatic parenchyma.  
+The hyperplastic islets are associated with amyloid deposition which is confirmed in Congo Red and Crystal Violet stains.  
+The hyperplastic islets, includingareas where they focally coalesce, show no significant nuclear atypia.  
+Immunohystochemistry shows a marked predominance of insulin staining cells within the hyperplastic islets, accounting for approximately 80% of the cell population. There is an admixture of glucagon positive cells, situated mainly around the periphery of the hyperplastic islets.  
+Ki67 expression is low, staining approximately 1% of cells. 
+The exocrine pancreatic acini and ducts show no significant morphological abnormality.  Occasional pancreatic ducts show mild hyperplasia associated mild atypia, suggestive of PanIN-1.
+The sections of omentum reveal a single benign lymph node.  
+entire pancreas has been embedded.  Three peripancreatic lymph nodes are identified, all of which show no evidence of malignancy.  
+Sections taken from the proximal margin show pancreatic parenchyma with 
+interspersed hyperplastic islets.  
+Comment:  The overall appearances would favour a diagnosis of pronouncedislet cell hyperplasia rather than a pancreatic endocrine neoplasm.  The distribution of the hyperplastic islets and the admixture of glucagon and insulin staining cells would support this interpretation.  
+In addition the deposition of amyloid within hyperplastic islets is a known phenomenon in patients with diabetes and this finding should be correlated with the patients clinical and biochemical features, in particular evidence of hyperinsulinemia. 
+The features are unusual and the case has been refereed to BENDIGO HEALTH - THE BENDIGO HOSPITAL Hospital in LYNDOCH for further expert opinions.
+
+
+DIAGNOSIS:
+Distal pancreas:  Pronounced islet cell hyperplasia with predominance of insulin secreting cells.  
+Amyloid deposition identified within hyperplastic islets.
+SUPPLEMENTARY REPORT, 5.5.2064
+
+
+Report from ROYAL MELBOURNE HOSPITAL - ROYAL PARK CAMPUS Hospital
+Reported by: Prof Roosevelt VANVRANKEN (29.4.64)
+CLINICAL DETAILS
+M / 76 Slides of distal pancreatectomy for opinion.
+NATURE AND SITE OF SPECIMEN
+09-12-13 53R09008 1-6 H&E x6, 7 variously stained slides x8 (incl controls), 8-22 H&E x15 & paraffin block 53R09008 9	Return slides & block
+
+MICROSCOPIC REPORT
+Sections of pancreas show diffuse islet cell hyperplasia. Prominent amyloid deposition is present in many islets. Occasional ductuloinsular complexes are seen, although these are not prominent. Focally, some of the islets have a mildly distorted microarchitecture with a ribbon-like appearance although the changes fall well short of those described in so-called pancreatic islet dysplasia". There is a mild increase in B cells (~75% of islet cells present).
+The exocrine pancreas shows no significant abnormality. Focal PanIN-1B but no high grade PanIN is seen. The lymph nodes identified appear essentially normal.
+No evidence of malignancy is seen.
+COMMENT
+Please correlate the histology result with the clinical and biochemical findings (is there a history of diabetes mellitus?).
+SUMMARY
+Review distal pancreas: Diffuse islet cell hyperplasia, no evidence of malignancy
+
+
+

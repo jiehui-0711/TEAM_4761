@@ -1,0 +1,80 @@
+
+Episode No:  41N961106E
+4159611.BSE
+
+Castelum, Trent 
+Lab No:  41N96110
+Gallinson
+CONDOBOLIN  Victoria  1130
+Specimen: Tissue
+D.O.B:  17/6/2000
+Sex:  M
+Collected: 22/03/2013 at 16:43
+Location:  Anatomical Pathology-ACT
+DR JESUS MAIAH Gruninger
+Distribution:   FILE-COPY
+CLINICAL:
+T1 G3 TCC of the bladder with associated CIS.  Bladder cancer.  
+MACROSCOPIC:
+Specimen labelled "Bladder & prostate" consists of a bladder with attached prostate measuring in total 125 x 110 x 45mm.  The prostate measures 40 x 30 x 30mm.  The external serosa appears unremarkable.  On opening no definite tumour mass is seen on the bladder surface, although a firm area (8 x 10mm) is noted on the left lateral wall, 40mm from the urethral-bladder junction and 70mm from the urethra surgical margin.  The anterior surface of the bladder is inked blue and the posterior inked green.  No lymph nodes are found.  Representative in 39 blocks (firm area in left lateral wall all embedded).  
+Blocks:  1- right ureter; 2- left vas; 3- right vas; 4 - left ureter; 5 - shave of urethra/prostatic margin; 6 to 14 - apex of prostate embedded from right to left; 15 to 18 - left transverse section from anterior to posterior of left bladder wall; 19 to 22 - full transverse section from posterior to anterior of left bladder wall; 23 to 26 - full transverse section of left bladder wall; 27 - left dome; 28 - anterior and posterior left upper wall; 29 - right dome; 30 & 31 - paired blocks of upper right wall anterior to posterior; 32 & 33 - mid right bladder wall anterior to posterior; 34 - right trigone; 35 - left trigone; 36, 37, 38 & 39 - full longitudinal section of prostate and bladder.  Please see diagram.  (TO: HH; LA/mm 8.5.63)  
+Resect blocks:  Eight possible lymph nodes identified; 40 - lymph node from left; 41 - possible lymph nodes from right.
+(TO: XP;LJ/ec 30.5.63) 
+ 
+MICROSCOPIC:  (Reported by Dr M Talaga) 
+Sections show a 6mm infiltrative urothelial carcinoma arising from the left lateral wall of the bladder.  A synoptic report follows.
+
+Tumour
+	Tumour site(s):  left lateral wall, adjacent to previous excision (Blocks 19, 22 	& 23)
+	Tumour size (maximum dimension, largest tumour):  6mm, invading lamima 	propria up to a depth of 1.5mm
+	Histologic type and grade:  Invasive urothelial carcinoma,high grade with 	focal micropapillary differentiation
+	Approximate % of urothelial carcinoma subtypes:
+		Not otherwise specified - 80%
+Micropapillary -  20%
+		
+	CIS separate to invasive component	: Present (throughout bladder, plus focal 	involvement of left ureter and prostatic urethra) 
+	Lymphovascular invasion:  Not seen
+
+Extentof tumour
+	Lamina propria invasion:  Present
+			
+	Inner muscularis propria (Detrusor muscle) invasion:  Absent
+	Outer muscularis propria (Detrusor muscle) invasion:  Absent
+	Perivesical fat invasion:  Absent	
+	Ureters:
+		Invasive tumour: Absent
+		Carcinoma in situ: 
+Left ureter:  Present (Blocks 17 & 35) 
+Right ureter: Absent(Block 33)	
+	Urethra:  
+		Invasive tumour: Absent
+		Carcinoma in situ: Present (prostatic urethra)
+	Surface peritoneal involvement:  Absent
+	Invasion into other organs: 
+		Prostate: Absent
+		Seminal vesicles:  Absent
+Surgical margin status:
+	Perivesical fat margin, invasive tumour:  Negative
+		Site of nearest margin: Left lateral (> 10mm)
+	Ureter:	
+		Invasive tumour: Negative 
+		Carcinoma in situ: Negative (Left ureter, > 10 mm)			
+	Urethra:
+		Invasive tumour: Negative
+		Carcinoma in situ: Positive prostatic urethral margin	 (confirmed by 		positive staining for p53, CK20 and high Ki67 index)						
+Lymph node status
+No lymph nodes are identified.
+Comment:
+The prostate gland is unremarkable
+AJCC Tumour staging category (pT) (7th edition):
+T1 	Tumour invades subepithelial connective tissue 
+AJCC Tumour staging category (pN) (7th edition):
+NX 	Lymph nodes cannot be assessed 
+
+DIAGNOSIS
+Radical cystectoprostatectomy:
+	Invasive urothelial carcinoma, high grade, with focal micropapillary differentiation invading lamina propria, invasive tumour clear of margins
+	Extensive carcinoma in situ with positive prostatic urethral margin
+	pT1 NX  (AJCC 7th Ed.)
+
+

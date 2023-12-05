@@ -1,0 +1,47 @@
+Episode No:  31O480619P
+315480.RDY
+
+Aspen, LATRISHA 
+Lab No:  31O48061
+Cemmaes Court
+SYDNEY  TAS  4224
+Specimen: Tissue
+D.O.B:  11/12/1990
+Sex:  M
+Collected: 20/11/2064 at :
+Location:  Seals-BOWRAL HOSPITAL
+DR SCOTT Rowan KOSKI
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Ca prostate.  Prostate and SVs L and R pelvic LNs.  
+MACROSCOPIC:
+A.  Specimen labelled "Prostate" consists of a prostatectomy weighing 68g.  The prostate gland is 55 x 50 x 40mm.  The right seminal vesicle is 22 x 15 x 10mm.  The right vas deferens is 15mm in length and 4mm in diameter.  The left seminal vesicle is 20 x 14 x 10mm.  The left vas deferens is 18mm in length and 4mm in diameter.  The left anterior margin is inked blue, right anterior black and posterior red.  The prostate was sectioned from apex to base into 7 slices.  The cut surfaces showbilateral nodularity, with the largest nodule 10mm across.  
+Blocks:  1- right vas deferens; 2- right seminal vesicle; 3 - left vas deferens; 4 - left seminal vesicle; 5 to 11 - slice 1 apex serially embedded from left towards right (left and right margins in block 5); 12 to 17 - slice 8 base serially embedded from left towards right (left and right margins in block 12); 18 - slice 2; 19 - slice 3; 20 - slice 4; 21 - slice 5; 22 - slice 6.  AE.  
+B.  Specimen labelled "Right pelvic lymph node" consists of a piece of adipose tissue 55 x 40 x 10mm.  Two lymph nodes are identified 10 and 30mm across.  
+Blocks:  1 to 3 - largest lymph node; 4 - second lymph node.  
+C.  Specimen labelled "Left pelvic lymph node" consists of a piece of adipose tissue 50 x 30 x 15mm.  Two lymph nodes are identified 5 and 55mm across.  
+Blocks:  1 to 5 - largest lymph node; 6 - second lymph node.  
+(TO: NE:  BW/mm 21.11.64) 
+MICROSCOPIC:  (Reported by A/Prof I Haq & Dr IJerrell)  
+A to C.
+SYNOPTIC REPORT FOR RADICAL PROSTATECTOMY
+Histological type:  Acinar adenocarcinoma.
+Tumour location:
+Dominantnodule:  Right lateral lobe.
+	Smaller nodules:  Left and right apex, right lateral lobe.
+Volume/Size:	1.6ml (20mm x 10mm x 5mm x 4 slices x 0.0004) 
+Gleason score:  4 + 3 = 7 with tertiary score 5
+Extraprostatic extension:  Present.  Gleason 4 adenocarcinoma is seen directly abutting adipose tissue, and extends 0.5mm in depth beyond the prostate capsule over a 2.5mm front.  This focus is 1mm clear of the inked surgical margin.
+Surgical margins:  Clear.
+Perineural invasion:Present at edge of tumour. (A21 and A22)
+Seminal vesicles:  Not involved.
+Lymph nodes:  Two right pelvic lymph nodes and two left pelvic lymph nodes are all negative for metastatic carcinoma (total 0/4 lymph nodes).
+Lymphovascular invasion:  Not identified. 
+DIAGNOSIS:
+A.  Prostate, radical prostatectomy:  
+	Adenocarcinoma, Gleason score 4 + 3 = 7 with tertiary score 5.
+	pT3a pN0 MX
+
+B.  Right pelvic lymph node:  Two negative lymph nodes (0/2).
+C.  Left pelvic lymph node:  Two negative lymph nodes (0/2).
+

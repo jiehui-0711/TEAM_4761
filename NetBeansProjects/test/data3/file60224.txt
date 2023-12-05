@@ -1,0 +1,120 @@
+SPR no: 51R2068129
+MRN no: 516206
+Site_name: FINLEY HOSPITAL & COMMUNITY HEALTH CARE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report51R20681,51R20681 (51R2068129) Coslow, ISRAEL
+HISTOPATHOLOGY REPORT
+PEAK HILL HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Grade II endometrioid adenoca.
+PMS2 negative.
+1. Peritoneal washings.
+2. Uterus, tubes + ovaries.
+3. Omental biopsy.
+4. L pelvic sentinel node.
+5. R pelvic sentinel node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS AND TUBES AND OVARIES&amp;quot;. Consists of a partially opened uterus with attached cervix, bilateral tubes and ovaries. Anterior is inked blue, posterior black. Adnexal tissue is separated from the main specimen. Uterus with attached cervix together weighs 64g and measures 70mm superior to inferior, 30mm intercornual distance. Ectocervix is 35x25mm with an ovoid os 10x2mm which is cream is coloured and unremarkable. Anterior endomyometrium is 20mm, posterior endomyometrium is 15mm. Within the endometrial cavity involving the endometrium is a lesion with a pale tan cut surface. It is somewhat glistening. It measures 17mm superior to inferior, 20mm medial to lateral and is 11mm of 20mm thickness anterior endomyometrium and 6mm thickness posterior endomyometrium. No other lesion is identified on further sectioning the myometrium.
+
+(1 anterior and posterior cervix; 2 anterior and posterior lower uterine segment; 3 anterior endomyometrium; 4 posterior endomyometrium; 5&amp;amp;6 further sections of anterior endomyometrium; 7&amp;amp;8 further sections of posterior endomyometrium; 9 right parametrial tissue; 10 left parametrial tissue; 11 right cornu; 12 left cornu)
+
+The right ovary and fallopian tube together weigh 4g. Fallopian tube measures 42mm in length with a maximum diameter of 5mm. Ovary is 20x11x6mm. The fallopian tube serosa is ---------. The ovarian serosa shows a focal nodular fibrous area measuring 6mm maximum dimension. On sectioning through the ovary other than the focal fibrous area the cut surface is unremarkable. The left ovary and fallopian tube together weigh 5g. Fallopian tube measures 50mm in length with a maximum diameter of 5mm. There is a paratubal cyst 5mm maximum dimension. The ovary is 25x10x5mm. There is a focal 2mm nodule on the surface. The cut surface is otherwise unremarkable.
+
+(13 right ovary and fallopian tube including fibrous area; 14 left ovary and fallopian tube including 2mm serosal nodule). Representative sections. (M-14)
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. Consists of a piece of fatty tissue 20x12x4mm. One possible node identified, bisected. All embedded. (2-1)
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Consists of three pieces of fatty tissue 20x20x5mm with three possible lymph nodes identified. Lymph nodes embedded entirely.
+
+(1 one node bisected; 2 one node bisected; 3 one node bisected). Representative sections. (M-3)
+
+D.  &amp;quot;OMENTAL BX&amp;quot;. Consists of a piece of fat consistent with omentum. It measures 20x20x5mm. No suspicious areas are identified on palpation or sectioning. All embedded. (M-1/MC 8/5/2070 ank)
+
+MICROSCOPIC:  (Dr. N Fallon)
+
+Specimen A:
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:
+Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE:
+Body
+
+TUMOR SIZE: 20mm greatest dimension
+
+HISTOLOGIC TYPE:
+Endometrioid carcinoma, NOS with a minor mucinous component
+
+HISTOLOGIC GRADE:
+Overall FIGO Grade 2
+
+MYOMETRIAL INVASION:
+
+Depth of invasion:  8mm
+Myometrial thickness:  14mm
+Percentage depth of myometrial invasion:  55%
+
+UTERINE SEROSA INVOLVEMENT:
+Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:
+Not identified
+
+CERVICAL STROMAL INVOLVEMENT:
+Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+Not identified (Right and Left Ovary, Right and Left Fallopian tube, Parametrium and Omentum show no involvement).
+
+MARGINS:
+All margins show no involvement.
+
+LYMPHOVASCULAR INVASION:
+Present, substantial (&amp;gt; 5 vascular spaces)
+
+SENTINEL LYMPH NODES (Specimens B and C):
+
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0 (keratin AE1/AE3 negative)
+Total number of lymph nodes examined: 4
+Number of sentinel lymph nodes examined: 4
+
+DISTANT METASTASES (histologically confirmed):
+Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Focal Atypical hyperplasia
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains - Block A5 -
+PMS-2 and MLH-1 are NEGATIVE
+MSH2 and MSH6 are positive. Negative staining of a carcinoma is associated with microsatellite instability phenotype, and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1B (Invasion equal to or more than half of the myometrium)
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b (Tumour invading one half or more than half of the myometrium) pN1 (No regional lymph node metastasis)
+
+Specimen B:
+The single lymph node shows no involvement. A Keratin AE1/AE3 Immunohistochemical stain is negative.
+
+Specimen C:
+The three lymph nodes show no involvement. A Keratin AE1/AE3 Immunohistochemical stain is negative.
+
+Specimen D:
+The omental biopsy shows lobulated mature adipose tissue, with no tumour identified.
+
+DIAGNOSIS:
+A. UTERUS, TUBES AND OVARIES
+- ENDOMETRIOID ADENOCARCINOMA WITH A MINOR MUCINOUS COMPONENT, FIGO GRADE 2, pT1b, pN0, WITH SUBSTANTIAL LYMPHOVASCULAR INVASION. FOR DETAILS, PLEASE SEE TEXT.
+B. RIGHT PELVIC SENTINEL NODE
+- THE SINGLE LYMPH NODE SHOWS MILD REACTIVE CHANGES ONLY.
+C. LEFT PELVIC SENTINEL NODE
+- THE THREE LYMPH NODES SHOW MILD REACTIVE CHANGES ONLY.
+D. OMENTAL BX
+- UNREMARKABLE LOBULATED ADIPOSE TISSUE.
+6/5/2070 cy

@@ -1,0 +1,87 @@
+
+Episode No:  95V079928Q
+958079.YGV
+
+DUMAN, ODESSA 
+Lab No:  95V07992
+Birchdene
+BENALLA  SA  5070
+Specimen: Tissue
+D.O.B:  13/2/1992
+Sex:  F
+Collected: 09/12/2013 at 09:28
+Location:  ACUTECARE WARD-BRAESIDE HOSPITAL
+DR MARLIN Royce Dagel
+Distribution:  DR Barile,  FILE-COPY,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Sigmoid colon cancer + R + L ovary.  
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection" consists of a segment of sigmoid colon 110mm in length with mesenteric fatty tissue (110 x 80 x 25mm).  The entire mesenteric fatty tissue is peritonealised.  One resection margin is stapled.  The staples are removed and new margin is inked blue.  There is an indurated pink tumour measuring 36 x 20 x 10mm.  The tumour occupies 50% of the sigmoid colon circumference and has raised edges and a depressed centre.  The tumour is 13mm from the stapled margin and 60mm from the other margin.  The tumour extends from the mesenteric to the antimesenteric side.  There appears to be focal extension of tumour into fattytissue (block 5).  Separate from the main specimen there is a pouch shaped piece of colorectal mucosa with surrounding fatty tissue measuring 27 x 22 x 10mm.  There are multiple suture knots around the mucosa at the opening of the pouch.No lesions are identified within this piece.  
+Blocks:  1- LS, the stapled margin; 2- shaved margin, the other margin; 3 to 6 - representative TS of tumour (3 reserved block); 7 - representative sections of the separate smaller piece; 8 - apical lymph node; 9 - lymph nodes as seen; 10 - one bisected lymph node; 11 - lymph nodes as seen; 12 - one bisected lymph node; 13 - one bisected lymph node.
+B.  Specimen labelled "Distal donut" consists of an ovalpiece of colorectal mucosa 27 x 20 x 6mm.  The specimen is stapled at one end, the staples are removed and the remainder is bisected and embedded in 1 block.  
+C.  Specimen labelled "Right ovary + tube" consists of an ovary (25 x 17 x 10mm) with attached fallopian tube (40mm in length) and up to 6mm in diameter.  The cut surfaces of the ovary are unremarkable. 
+Blocks:  1 & 2 - sections of the ovary; 3 - sections of the fallopian tube.
+D.  Specimen labelled "Left ovary + tube" consists of a fallopian tube 60mm in length and up to 6mm in diameter with an attached unilocular cyst 52 x 40 x 35mm.  The cyst has smooth inner and outer surfaces and is filled with clear fluid.  Separately the ovary measures 25 x 12 x 10mm and has an unremarkable cut surface.  
+Blocks:  1- representative sections of the ovary; 2 to 4 - sections of the fallopian tube and the attached cyst; 5 - fimbrial end.  (TO: CZ: PP/mm 2.11.63) 
+MICROSCOPIC (Reported by A/Prof Z Rongo & registrar Dr Z Desrocher):
+A:  Sections show moderately differentiated adenocarcinoma invading through the muscularis propria into pericolonic fat and extends extremely close to the antimesenteric surface without the involvement of the peritoneal surface.  CK 20 and CDX2 stained positively.
+A serrated adenoma is identified in the immediately adjacent colonic mucosa.
+The separate piece of colon shows no evidence of malignancy.
+Synoptic report to follow:
+Macroscopic Description
+
+Site of tumour: Sigmoid	
+Maximum tumour diameter:  36mm
+Distance of tumour to nearer cut end:  13mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to peritonealised surface: less than 0.1mm. Tumour extends through the muscularis propria, into percolic fat and extends extremely close to the serosa but does not appear to have breached this surface. 
+Lymph nodes
+Number of lymph nodes present:  14	
+Number of lymph nodes involved:  1	
+The apical node is free of tumour.
+pN1a	Metastases in 1 regional LN
+Lymphovascular invasion
+Suspicious foci are identified.
+Perineural invasion
+Present very focally at tumour edge. 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclearstaining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclearstaining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+(y)pT3     pN1a     pMx     	
+
+B:Section shows unremarkable colonic mucosa.  There is no malignancy.
+C:  Sections of the ovary are unremarkable and the morphological features are consistent with the stated patient's age.  Sections of the Fallopian tubeare also unremarkable.  There is no evidence of malignancy.
+D:  Sections of the ovary are unremarkable and the morphological features are consistent with the stated patient's age.  Sections of the Fallopian tube are also unremarkable.  There is simple, benign paratubal cyst lined by bland cuboidal epithelium.  
+There is no evidence of malignancy.
+DIAGNOSIS
+A:  ANTERIOR RESECTION
+Moderately differentiated adenocarcinoma. 
+pT3     pN1a     pMx     	
+B:  DISTAL DONUTS
+Unremarkable, no evidence of malignancy.
+C:  RIGHT OVARY + TUBE
+Unremarkable ovary and fallopian tube
+D:  LEFT OVARY + TUBE
+Unremarkable ovary and fallopian tube with simple paratubal cyst.
+
+
+

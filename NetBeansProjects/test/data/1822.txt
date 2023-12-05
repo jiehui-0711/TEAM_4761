@@ -1,0 +1,83 @@
+
+Episode No:  01E630268R
+0116302.QWR
+
+DEADY, WINNIE-MAE 
+Lab No:  01E63026
+Twydall
+ROBINVALE  South Australia  1006
+Specimen: Tissue
+D.O.B:  22/3/1995
+Sex:  F
+Collected: 15/04/2013 at 18:08
+Location:  DAYSURGERY UNIT-WEST WIMMERA HEALTH SERVICE - NHILL
+DR HUMBERTO Octavio KNOPP
+Distribution:  DR Egnew, DR Cory,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast cancer with suspicious axillary nodes.  Total mastectomy with level 2 axillary clearance.  Left breast and level 2 axilla - stitch in axillary apex (level 2).  
+(Core biopsy 01E63026 - IDC).
+MACROSCOPIC:
+Specimen labelled "Left mastectomy stitch apex" consists of a mastectomy 260mm (medial to lateral) x 220mm (inferior to superior) x 60mm (superficial to deep).  There was an overlying ellipse of skin 260mm (medial to lateral) x 185mm (inferior to superior).  The ellipse of skin contains a nipple areolar complex 70 x 60mm which appears unremarkable.  There is an attached axillary tail measuring 110 x 60 x 35mm.  The superficial margin is inked green and the deep margin is inked black.  In the 11 to 12 o'clock position 20mm from the nipple there is a stellate cream ill define lesion identified measuring 20mm (medial to lateral) x 22mm (inferior to superior) x 17mm (superficial to deep).  Distance from margins is as follows deep 75mm, superior/superficial 60mm, inferior/superficial 95mm, medial 65mm and lateral 130mm.  The remainder of the breast tissue appears unremarkable.  Numerouslymph nodes are identified in the axillary tail from 3 to 20mm.  
+Blocks:  1 & 2 - full face of tumour; 3 & 4 - tumour to skin; 5 - deep margin overlying tumour; 6 - inferiosuperficial margin overlying tumour; 7 - superiosuperficial overlying tumour; 8 & 9 - representative inner upper quadrant; 10 & 11 - representative inner lower quadrant; 12 & 13 - representative outer upper quadrant; 14 & 15 - representative outer lower quadrant; 16 - nipple and tissue deep tonipple; 17 - apical lymph node; 18 & 19 - lymph nodes; 20 - one lymph node bisected; 21 - one lymph node serially sectioned; 22 - one lymph node bisected; 23 & 24 - lymph nodes; 25 - reserved block.  Tumour markers on block 1.  Please refer to attached diagram.  
+(TO:  JG:  TJ/mm 18.6.63) 
+MICROSCOPIC (reported by Dr C Wanty): 
+Sections show a grade 2 infiltrating ductal carcinoma, Bloom & Richardson score 7 (t=3, n=3, m=1). The tumour is located in the 11 to 12 o'clock position and has a estimated size of 20 x 22 x 17mm. The excision margins are well clear of the tumour in all areas (deep 75mm, superficial 95mm, other margins well clear).  No LVI (lymphovascular invasion) is seen. 
+There is a minimal amount of high grade DCIS of solid type within the tumour including at its periphery. The DCIS is also well clear of the margin by the same distance. There is no DCIS in other areas of the breast. 
+The nipple and areola show ductectasia but are otherwise normal. Random sections from the various breast quadrants show atrophic changes only. 
+One (1) of the twenty one (21) left axillary nodes identified contains a deposit of metastatic ductal carcinoma with 1mmperinodal spread (size of the deposit about 3mm).  (ec) 
+DIAGNOSIS:  
+Left mastectomy plus axillary nodes:  
+Invasive carcinoma:  
+Site:  Left breast, mastectomy. 
+Type:  Infiltrating ductal carcinoma. 
+Invasive tumour size: 20 x 22 x 17mm. 
+Grade (Modified Bloom & Richardson): 2. 
+Tubules:  3    Nuclei:  3    Mitoses: 1Mitotic rate:  2/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS: Minimal DCIS within the tumour but not outside it. 
+Nuclear grade:  High.  
+Architecture:  Solid. 
+Excision Margins:  
+Invasive component:  Deep 75mm, superficial 95mm, other margins well clear. 
+In-situ component:  Similar to IDC. 
+Receptors (Block  1): 
+ER:  Positive.
+	>95% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	60% of nuclei stained
+	predominant intensity of staining: Moderate.  
+HER2 (Novocastra 10A7): Equivocal 2+.
+Slides sent to SPRINGWOOD HOSPITAL Hospital for CISH.
+Ki-67 index:  30%. 
+Nipple:  No significant abnormality.  
+
+LCIS / ALH: Absent. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0.
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 21. 
+Number of axillary lymph nodes involved by tumour: 1.         
+Number of axillary nodes with metastases >2.0mm: 1.   
+Extranodal spread:    Present 1mm in extent. 
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 21.  
+Total number of involved lymph nodes (including sentinel node(s)):   1.
+  
+ADDITIONAL REPORT:  (3.7.63)
+Blocks were sent to TIBOOBURRA HEALTH SERVICE Hospital for Her2 ISH analysis, Dr C Pang reports:
+HER2 IHC Result: 2+.
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2Dual ISH DNA Probe Cocktail Assay (Roache). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, polysomy).
+Mean Her2 copy number per cell: 4.3.
+Mean CEP17 copy number per cell:  3.16.
+HER2/CEP17 ratio:  1.36.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

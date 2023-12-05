@@ -1,0 +1,26 @@
+SPR no: 42V648048J
+MRN no: 4286480
+Site_name: BOWEN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Large pancreatic body mass.  Negative biopsy pre op.  Subtotal pancreatectomy, splenectomy and adrenalectomy.  Portal lymph nodes.
+Received fresh with tumour bank form.  Sampled for tumour bank red and blue.  Discussed with Dr Kluge at 5:45 pm.  Consent form for Health Science Alliance Biobank  received with attached request form.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Spleen and pancreas&amp;#8221; consists of the distal part of a pancreas, attached spleen, mesenteric fat and left adrenal gland.  The pancreas measures 130 x 80 x 70mm.  The anterior surface of pancreas is smooth, which appears to be fibrous capsule.  The spleen measures 95 x 60 x 25mm and the attached mesentery measures 120 x 80 x 15mm.  The left adrenal gland is adherent to the superior side of pancreas measuring 35 x 15 x 15mm.  The posterior surface of the pancreas is inked black.  The peri-adrenal margin is inked blue.  The stapled proximal pancreatic margin is identified.  On sectioning the pancreas contains a well circumscribed, partially encapsulated pale yellow solid tumour.  The capsule measures up to 3mm in thickness.  The tumour measures 120 x 70 x 70mm, occupying almost the entire pancreas.  The tumour is very close to the proximal pancreatic neck margin.  The adrenal gland is unremarkable and no tumour invasion is seen.  The spleen is unremarkable.
+Blocks: 1 &amp;amp; 2 - LS proximal pancreatic neck margin; 3 &amp;amp; 4 - RS adrenal and adherent pancreas; 4 to 7 - RS tumour and inferior posterior surface; 8 to 10 - RS tumour and superior posterior surface; 11 - RS tumour and pancreatic neck margin; 12 to 20 - RS tumour; 21 - single lymph node serially from peripancreatic fat; 22 to 25 - multiple lymph nodes from peripancreatic fat; 26 &amp;amp; 27 - RS spleen; 28 to 30 - possible lymph nodes from mesenteric fat.
+
+B.  Specimen labelled &amp;#8220;Portal lymph node&amp;#8221; consists of a fibrofatty piece of nodular ?lymph node tissue measuring 35 x 24 x 15mm.  Specimen serially sliced TS.  AE 3 blocks.  (MS/ua 8.12.66)
+
+
+MICROSCOPIC (Reported by Dr L Fennelly):
+A.  Sections of pancreas show a neuroendocrine tumour (grade 2).  The tumour is well circumscribed and majority of the tumour is surrounded by a thick layer of fibrous capsule.  The tumour cells are predominantly arranged in trabecular pattern with fibrous stroma.  The tumour cells are relatively uniform with finely granular amphophilic to eosinophilic cytoplasm and a centrally located round to oval nucleolus.  No necrosis is seen.  No definite lymphovascular invasion is seen.  There are up to 4 mitoses per 10 HPF.  The Ki-67 proliferation index is 5%.  The tumour is completely excised.  The tumour is 2mm to the proximal pancreatic neck margin (block 1).  The tumour is separated from the posterior, superior and inferior surfaces by a thick layer of fibrous capsule (2mm to 3mm in thickness).  Twelve (12) lymph nodes are identified in the peripancreatic adipose tissue.  The lymph nodes are unremarkable.  There is no evidence of tumour metastasis.  The attached left adrenal gland is unremarkable.  The spleen is unremarkable.
+
+B.  One (1) lymph node is identified.  The lymph node is unremarkable.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+A.  Pancreas and spleen - Neuroendocrine tumour (grade 2).
+
+B.  Portal lymph node - No evidence of malignancy (0/1).

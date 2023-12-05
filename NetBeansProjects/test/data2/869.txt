@@ -1,0 +1,44 @@
+Episode No:  52R906085X
+526906.AVN
+
+HAYERTZ, Abram 
+Lab No:  52R90608
+Nilsson
+BEECHWORTH  Northern Territory  7185
+Specimen: Tissue
+D.O.B:  22/2/2007
+Sex:  M
+Collected: 07/11/2012 at 09:05
+Location:  Envoi-STANTHORPE HOSPITAL
+DR Zack Wandjoo-Marotz
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Ca prostate.  Radical perineal prostatectomy. 
+MACROSCOPIC:
+Specimen labelled "Prostate gland", consists of a prostate gland with seminal vesicles and vas deferens attached. It weighs 36g and measures 45mm medial to lateral, 35mm superior to inferior and 30mm anterior to posterior. The right seminal vesicle measures 20 x 10 x 5mm. The right vas deferens measures 20mm in length and 5mm in maximum diameter.  The left seminal vesicle appears partly amputated and measures 10 x 5 x 5mm. The left vas deferens measures 20mm in length and up to 5mm in maximum diameter. The external surface is dusky and rough.  Anterior margin inked blue, posterior margin black, right lateral margin inked green, left lateral margin red.  The specimen is serially sectioned from the apex to the base into five slices.  Slice 1 - apex; 2 - base.  The cut surface is white/pink with small cysts.  The specimen is AE according to the diagram.  Blocks 1-7 - apex (slice 1); 8 - slice 2; 9 - slice 3; 10 - slice 4; 11-19 - base (slice 5); 20 - resection margin right vas deferens; 21 - rest of vas deferens; 22 & 23 - right seminal vesicle; 24 - resection margin left vas deferens; 25 - rest of leftvas deferens; 26 - left seminal vesicle.  
+(TO: NF: AF/ec 1.9.62) 
+ 
+MICROSCOPIC: (Reported by Dr N Roseman) 
+
+RADICAL PROSTATE PROFORMA
+
+Histological type: Adenocarcinoma, NOS
+Tumour location:
+Dominant nodule: Left posterior mid to base prostate
+	Non-dominant (>10mm): Not seen
+	Smaller nodules: Present
+Volume/Size (Dominantnodule): 1.6ml (22mm x 18mm x 10mm x 0.0004) 
+Gleason score: 3+4=7
+Extraprostatic extension: Absent
+Surgical margins: Clear, nearest margin 1mm (left base)
+Perineural invasion: Present (within prostate)
+Seminal vesicles: Not involved
+Lymphovascular invasion: Not seen
+High grade PIN: Present
+DIAGNOSIS:
+Radical prostatectomy:
+- Adenocarcinoma, Gleason score 3+4=7
+Stage (AJCC/UICC TNM system, 7th edition)
+pT2c Bilateral disease 
+ 
+

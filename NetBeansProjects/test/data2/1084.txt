@@ -1,0 +1,85 @@
+Episode No:  11V368656U
+1183686.PRU
+
+Bohnsack, Wendolyn HIPOLITO 
+Lab No:  11V36865,11V36865,11V36865
+Belfry
+COOBER PEDY  NT  6018
+Specimen: Tissue,Washings
+D.O.B:  1/9/2008
+Sex:  F
+Collected: 3/7/2063 at :
+Location:  DARLING POINT - YEA AND DISTRICT MEMORIAL HOSPITAL
+DR Gale HEATH Thiengtham
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (5.8.63):
+
+SUPPLEMENTARY REPORT (8.7.63):
+
+
+CLINICAL:
+Right ovarian mass, elevated CA-125 and CEA.  Personal and family history of bowel cancer.  Hist of bowel cancer.  Modified radical TAH/right oophorectomy today.  Frozen section: adenocarcinoma ?metastatic bowel cancer.  For Histopathology and Immunohistochemistry for mismatch repair genes.  Ca 125 145.  CEA 25.  Bowel cancer 2060.  Left hemicolectomy and left oophorectomy, chemotherapy.  LN positive x1.  FHx bowel cancer.  Right ovarian mass, complex.
+MACROSCOPIC:
+A.  Specimen labelled "Pelvic mass" consists of a piece of cream solid and cystic tissue 70 x 40 x 30mm.  Two sections taken for frozen section.
+Blocks:  1 - frozen section 1; 2 - frozen section 2; 3 to 5 - further representative sections.
+FROZEN SECTION REPORT:
+Necrotic tissue with foci of adenocarcinoma consistent with metastatic colorectal carcinoma.  Result to Dr D Bielicki by A/Prof D Lemma at 10:35 on 1/5/13.
+B.  Specimen labelled "Uterus and cervix" consists of a uterus with attached cervix weighing 104g in total.  The uterus measures 90 x50 x 40mm and has a smooth shiny serosal surface.  The cervix measures 30 x 25mm and has an unremarkable appearance.  On sectioning the endometrium is 1mm in maximum thickness over a total myometrial thickness of 25mm.  Numerous fibroids up to 12mm are identified in the myometrium.  All the fibroids appear whorled and unremarkable.  In the right adnexa there are areas of peritoneum with attached haemorrhage measuring 70 x 50 x 25mm.  Small amounts of attached haemorrhage are also attached to the left adnexa.  
+Blocks:  1 to 4 - full longitudinal section of anterior body and cervix, 5 to 8 - full longitudinal section of posterior body and cervix; 9 to 12 - representative right adnexa; 13 - representative left haemorrhagic tissue in adnexa.
+C.  Specimen labelled "Right tube and ovary" consists of a solid and cystic mass measuring 200 x 150 x 70mm with an attached fallopian tube measuring 50mm in length with a maximum external diameter of10mm.  Around the tube there is an area of roughened tissue over the surface measuring 100 x 55mm.  The cut surface reveals a largely necrotic solid cystic tissue with areas of haemorrhage identified.
+Blocks: 1 & 2 - representativetube; 3 to 8 - representative mass.
+D.  Specimen labelled "Omentum" consists of two pieces of omental tissue 130 x 50 x 30mm and 60 x 28 x 20mm.  Multiple cream nodules are identified up to 50mm in maximum dimension.
+Blocks:  1 to 3 - representative sections of separate nodules; 4 - reserve block.
+(TO:  PM; WH/bl 4/7/63)
+MICROSCOPIC (Reported by Dr D Arvanitis):
+A.  Sections show mainly necrotic tissue.  Within the necrotic tissue there are patchy islands of adenocarcinoma.  The tumour consists of closely packed glands lined by tall columnar epithelial cells.  The appearances are most consistent with a metastatic adenocarcinoma from colon.  
+B.  Sections of the cervix are unremarkable. Sections of the endometrium show that this is thin and inactive.  Leiomyomas are confirmed in the myometrium. The myometrium is otherwise unremarkable.  Sections from the right adnexa show haemorrhagic fibrofat with some adherent recent blood and thrombus. Within part of the blood and thrombus there are sheets of reactive mesothelial cells with associated small groups of malignant epithelial cells.  No definite tumour is seen within the intact tissue.  Sections of the left adnexa show markedly haemorrhagic tissue but no tumour is identified.  
+C.  Sections of the mass show a deposit of metastatic adenocarcinoma, consistent with a metastasis from colon.  There are variable sized irregular cystic spaces lined by columnar epithelial cells.  There is prominent, patchy dirty necrosis.  Mucus is also noted within the cysts and within the necrotic tissue.  No normal ovary is identified.  Tumour is noted extending into adjacent fibrofat.  In one section there is apparent attached muscularis propria of intestinal wall and tumour abuts the outer aspect of this tissue.  Sections of the right fallopian tube show focal tumour attached to the fimbrial end of the tube but the tube is otherwise unremarkable.   
+Immunostains for mismatch repair enzymes will be performed as requested and a supplementary report issued.  
+D.  Sections show fibrofat with patchy deposits of metastatic moderately differentiated adenocarcinoma, similar to that seen in specimens A and C.  Muscularis propria of intestinal wall is identified attached at one edge of the tissue; tumour abuts the outer aspect of this tissue.  (ec) 
+DIAGNOSIS:  
+A.   Pelvic mass:  Metastatic adenocarcinoma. 
+B.   Uterus: Focal tumour within blood and thrombus attached to right adnexal soft tissue.  
+C.   Right tube and ovary:  Metastatic adenocarcinoma.
+D.   Omentum:  Metastatic adenocarcinoma. 
+SUPPLEMENTARY REPORT (8.7.63):
+C.  With immunostains the tumour cells are strongly CDX2 positive and also show some patchy CK 20 positivity, but they are CK 7 negative.  This is consistent with a metastatic adenocarcinoma from colon.
+Stains for mismatch repair enzymes:
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MSH2, MSH6, MLH1 and PMS2 indicates a low likelihood of microsatellite instability phenotype.
+SUPPLEMENTARY REPORT:  (5.8.2063);
+Report from BILOELA HOSPITAL's Pathology:
+Reported by:  Dr D Halas:
+MOLECULAR TISSUE ANALYSIS: TARGETED KRAS MUTATION DETECTION:
+TUMOUR SAMPLE:
+Date Received: 19/7/2063
+Specimen Received:  1 x FFPE block labelled 11V36865 C 7 
+Nature of specimen:  Mass right ovary
+Clinical History:  Metastatic colon cancer
+Slide examined by Dr D Bombich (FRCPA) Date: 22/7/2063
+Microscopic Diagnosis: Adenocarcinoma.of malignant cells as % of all viable cells within marked area on slide: 50% Macro-Dissection Required: Yes
+KRAS MUTATION TEST: 
+Date Tested: 23/7/2063
+RESULT:
+Targeted KRAS mutation analysison DNA extracted from FFPE tumour tissue:
+POSITIVE
+MUTATION DETECTED: KRAS Codonl2/13
+
+Interpretation:
+The tumour sample from Joaquina VINEGAR CARRIES a known activating KRAS gene mutation that affects codon 12/13 of the KRAS protein.
+This patient is NOT expected benefit from treatment with an EGFR antagonist based therapy.
+(Lievre et al. KRAS mutation status is predictive of response to cetuximab therapy in colorectal cancer, Cancer Res 2006;66:3992-5). 
+METHOD:
+* DNA was extracted from FFPE tumour tissue using the Roche cobas DNA Sample Preparation kit.
+* KRAS gene mutations were analyzed using the Roche cobas KRAS Mutation Test kit (ARTG: 118368).
+COMMENTS:
+* Thisis intended as an adjunct to other prognostic and predictive factors to aid clinical treatment decisions.
+* This test detects the presence of KRAS gene mutations affecting codons 12/13 or 61 of the KRAS protein, but does not specifythe KRAS gene mutation detected. Other mutations, either in the KRAS gene or in other genes, will NOT be detected by this analysis. 
+* This test has been shown in our laboratory to detect at least 5% mutant KRAS alleles in a background of normal DNA. 
+* The analytical sensitivity and specificity of this test are 99.5% and 99%, respectively. PCR inhibitors or rare mutations affecting the binding sites of PCR primers used in this assay may cause a false negative result.
+* This test has been processed as a Level 1 genetic test according to the NPAAC guidelines (2007).
+* Only the testing performed by our laboratory is covered by NATA accreditation, not the referenced materialused for clinical interpretation of this testing.
+

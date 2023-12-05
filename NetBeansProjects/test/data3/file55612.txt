@@ -1,0 +1,144 @@
+SPR no: 55C502685V
+MRN no: 550502
+Site_name: BODDINGTON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report55C50268,55C50268 (55C502685V) Bracher, KAZUKO
+HISTOPATHOLOGY REPORT
+JUNEE MULTI PURPOSE SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GII endometrial adeno ca.
+
+1.  Peritoneal washings for Cyto.
+2.  Uterus, tubes + ovaries.
+3.  Right pelvic sentinel node.
+4.  Left pelvic sentinel node.
+5.  Omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;CERVIX, UTERUS, BOTH TUBES AND OVARIES&amp;quot;.  Consists of uterus, attached cervix, tubes and ovaries weighing 115g altogether.
+Uterus measures 90x60x40mm.  Serosa is grey and smooth.  Specimen received partially opened coronally.  Specimen serially sliced sagittally and sectioning shows large creamy lobulated circumscribed lesion maximum dimension of 50mm from fundus to the lower segment with thickness of maximum 30mm out of 32mm.  Tumour is clear by 2mm from the serosal surface.  No extension to the cervix identified.
+Right tube measures 50mm in length, 6mm diameter.  Serosa is mildly erythematous.  Sectioning is unremarkable.  Right ovary measures 30x20x10mm.  Outer surface is yellow and lobular.  Sectioning is unremarkable.
+Left tube measures 50mm in length, 7mm in diameter.  Serosa is smooth and grey.  Paratubal cyst present.  Sectioning is unremarkable.  Left ovary measures 30x10x10mm.  Outer surface yellow and lobular.  Sectioning is unremarkable.
+
+(1  right parametrium; 2  left parametrium; 3  right tube; 4  right ovary; 5  left tube; 6  left ovary; 7-12  one full face of the tumour [7  anterior cervix]; 13-19  second full face of the tumour sagittal view [13  posterior cervix]; 20  section of tumour and serosa; 21  right cornu; 22  left cornu).  RS (M-22).
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  Lymph node 15mm, trisected.  AE (3-1).
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Lymph node 20mm.  M-1 AE
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  Fibrofatty tissue 30x30x5mm.  Embedded block 1.  AE (1-1/SM 9/11/2071 km).
+
+MICROSCOPIC:  (Dr. N Rollind)
+
+A.  ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:
+Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE:
+Fundus, body and lower uterine segment/isthmus
+
+TUMOR SIZE:  50mm greatest dimension
+
+HISTOLOGIC TYPE:
+Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE:
+FIGO grade 2 with squamous differentation and extensive areas of tumour necrosis
+
+MYOMETRIAL INVASION:
+Difficult to measure accurately due to the extent of tumour and its exophytic/endophytic growth pattern, but estimated at 25mm
+
+Depth of invasion:  Estimated 25mm
+Myometrial thickness: Estimated 27mm
+Percentage depth of myometrial invasion:  90% (Greater than 50% of myometrial invasion)
+
+UTERINE SEROSA INVOLVEMENT:
+Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:
+Present
+
+CERVICAL STROMAL INVOLVEMENT:
+Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+Not identified (Right and left ovaries, right and left fallopian tubes, parametrium and the omental biopsy all show no evidence of malignancy)
+
+MARGINS:
+
+- Paracervical margin:
+Uninvolved by carcinoma.
+
+- Parametrial margin:
+Uninvolved by carcinoma
+
+- Ectocervical/vaginal cuff margin:
+Uninvolved by carcinoma
+
+LYMPHOVASCULAR INVASION:
+Present, focal (focal is &amp;#8804; 5 vacscular spaces)
+
+REGIONAL LYMPH NODES:
+Site:
+- Pelvic nodes
+
+Number of lymph nodes involved: 0
+Number of lymph nodes examined: 2
+
+(or if sentinel nodes included):
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0 (keratin AE1/AE3 stain negative)
+Total number of lymph nodes examined (sentinel and nonsentinel): 2
+Number of sentinel lymph nodes examined: 2
+
+DISTANT METASTASES (histologically confirmed):
+(includes non-regional lymph nodes)
+Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Two small leiomyomas 1 and 2mm respectively, are seen incidentally within the myometrium. A small focus of probable atypical hyperplasia is seen adjacent to the invasive carcinoma.  The endometrium elsewhere appears atrophic.
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains.
+Immunostains for MSI proteins (United Technologies Corporation Molecular Oncology; block: A17)
+
+MLH1:  Absence of staining of tumour nuclei
+PMS2:  Absence of staining of tumour nuclei
+MSH2:  Positive (normal) staining of tumour nuclei
+MSH6:  Positive (normal) staining of tumournuclei
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1B
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b, pN0
+
+B.  The single sentinel node shows mild reactive changes only.
+
+C.  The single sentinel node shows mild reactive changes only.
+
+D.  Sections show lobulated adipose tissue in keeping with omentum.  There is no evidence of malignancy in the tissue examined.
+
+DIAGNOSIS:
+A.  CERVIX, UTERUS, BOTH TUBES AND OVARIES :
+-ENDOMETRIOID ADENOCARCINOMA, GRADE 2, WITH INVASION INTO THE OUTER MYOMETRIUM, pT1b, pN0.
+
+B.  RIGHT PELVIC SENTINEL NODE :
+-THE SINGLE LYMPH NODE SHOWS MILD REACTIVE CHANGES ONLY.
+
+C.  LEFT PELVIC SENTINEL NODE :
+-THE SINGLE LYMPH NODE SHOWS MILD REACTIVE CHANGES ONLY.
+
+D.  OMENTAL BIOPSY :
+-NO SIGNIFICANT ABNORMALITY.
+
+17/9/2070 ank

@@ -1,0 +1,28 @@
+SPR no: 65V968298N
+MRN no: 65896829
+Site_name: DONNYBROOK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Hyperparathyroidism secondary to LEFT inferior parathyroid adenoma.  Please confirm presence of parathyroid tissue in specimen and weigh too.  New left coi.  HTN, IHD, GORD.
+Ulcerated LEFT pinna - increasing in size ?SCC.  LEFT-sided Pinnectomy performed.  Marking suture at superior aspect of pinna.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left inferior parathyroid gland&amp;quot;, consists of a 20 x 10 x 4mm piece of red tissue weighing 672mg.  Bisected 1 for frozen section.
+Blocks: 1 - frozen section; 2 - remainder of tissue.
+
+FROZEN SECTION REPORT:
+Parathyroid tissue weighing 672mg.
+Phone results to Dr. Lavern (Anaesthetist) by Dr P Dinn at 1325hrs on 18/07/2067
+
+B.  Specimen labelled &amp;quot;Left pinna stich superior&amp;quot;, consists of a helical potion of the ear with a concave and convexed surface measuring 51 x 20 x 13mm.  A stitch marks superior.  The margin is inked blue.  On the skin surface there is an irregularly ulcerated tan and grey lesion, 30 x 15mm and appears to involve the margin of the concave surface of the specimen.  Blocks: 1 - 4mm TS superior end; 2 to 7 - serial TS embedded from superior to inferior; 8 - three LS inferior end.  AE.
+(TO:BL/vo 16/6/69)
+
+
+MICROSCOPIC (Reported by Dr P Ertzbischoff):
+A.  Sections of the parathyroid tissue show features consistent with a parathyroid adenoma, weighing 672mg.  There is a circumscribed proliferation of bland parathyroid chief cells devoid of fat.  Adjacent normal parathyroid tissue with fat is seen.  No atypia or significant mitosis is seen.  There is no evidence of malignancy.
+B.  Sections from pinna show a basal cell carcinoma of nodular type penetrating the deep dermis. The tumour do not invade cartilage and is 4mm from superior and inferior margins.  It is less than 0.1mm from medial resection margin, at centre of specimen.  No perineural invasion is seen.
+DIAGNOSIS:
+A.  Left inferior parathyroid gland:  Features in keeping with parathyroid adenoma.
+B.  Left Pinna excision:  Basal cell carcinoma, margin close, please see report.

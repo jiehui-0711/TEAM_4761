@@ -1,0 +1,36 @@
+SPR no: 12P121736C
+MRN no: 1251217
+Site_name: THEODORE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+1.  Retroperitoneal mass close to renal hilum for biobanking also.
+2.  Gallbladder.
+General Clinical History:  HTN.  Smoker.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Retroperitoneal mass close to renal hilum for biobanking also&amp;quot;, consists of a nodular mass, 50 x 45 x 31mm and weighs 42g.  Surface is inked.  Sectioning reveals a vaguely lobulated white/tan cut surface.  Haemorrhage or necrosis or calcification is not identified.  RS 12 blocks.  About 70 - 80% of the specimen is submitted.
+Blocks: 1 and 2 - LS from one end; 3 and 4 - composite; 5 to 8 - composite; 9 to 12 - LS from other end.  (Note: Specimen was sampled for biobanking by registrar, Dr D Lumb.)
+
+B.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of an unopened gallbladder, 72mm long x 25mm in diameter.  The serosal surface is smooth and shiny.  The wall of the gallbladder is up to 3mm thick.  Mucosa is velvety green.  No mass or lesions or gallstones are seen.  RS 1 block including cystic duct margin, body and fundus.  (TO:KN/rs 18/1/68)
+
+
+MICROSCOPIC (Reported by Dr D Ortea and Registrar Dr D Hancin):
+A. The specimen has been extensively sampled and shows a high grade malignant tumour contained within an encapsulated nodular tissue featuring sparse residual lymphoid tissue at the periphery in keeping with a metastasis to a lymph node. The tumour is composed of large epithelioid cells with round to oval nuclei, coarse chromatin, prominent nucleoli and moderate amounts of lightly eosinophilic cytoplasm. Occasional large bizarre forms and moderate numbers of mitotic figures (including atypical ones) are identified. The tumour cells are largely arranged in compact sheets although micropapillary as well as glandular patterns with open and cleft-like lumina are also noted.
+
+The tumour cells show the following immunoprofile:
+- Positive (strong and diffuse): panCK, CK7, PAX8, ER (3+ intensity, 90% of tumour cells), p16, p53 and WT1.
+- Positive (weak and patchy): GATA3.
+- Negative: CK20, CDX2, TTF1, napsin and SOX10.
+
+The overall features are consistent with a metastatic poorly differentiated carcinoma in a lymph node. A high grade serous carcinoma of the peritoneum/gynaecological tract is favoured.
+
+B. Sections show mild thickening of the gallbladder wall due to muscle hypertrophy, fibrosis and mild chronic inflammation.  Focal Rokitansky-Aschoff sinus formation is present.  The appearance is in keeping with mild chronic cholecystitis.  There is no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+A. Retroperitoneal biopsy
+- Consistent with metastatic poorly differentiated carcinoma in a lymph node (see comment)
+
+B. Gallbladder
+- Mild chronic cholecystitis
+Comment: The morphology and immunoprofile of the tumour favour a high grade serous carcinoma of peritoneal/gynaecological tract primary.

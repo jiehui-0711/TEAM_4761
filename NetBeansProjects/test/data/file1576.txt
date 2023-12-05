@@ -1,0 +1,38 @@
+SPR no: 22I210792A
+MRN no: 2232107
+Site_name: CAPRICORN COAST HOSPITAL AND HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  22I210792A
+223210.UXG
+
+JACINTO, ASHTON ANDY
+Lab No:  22I21079
+Swinley
+WYNDHAM  Tasmania  2146
+Specimen: Tissue
+D.O.B:  19/12/1985
+Sex:  M
+Collected: 23/02/2015 at 09:22
+Location:  POW L7 CONSULTING ROOMS-BARMERA HEALTH SERVICES
+DR DIRK KEENAN BAKEY
+Distribution:
+SUPPLEMENTARY REPORT (5.5.65):
+
+CLINICAL:
+Right hepatectomy for CLM.  NMSC.  EtOH excess.  Prostate ca.  CRCa/colectomy.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hepatic lobe&amp;quot;, consists of a partial hepatectomy 135 x 120 x 90mm.  The resection margin is inked blue.  Slicing shows one solid nodule 66 x 60 x 54mm.  The nodule has a variegated cut surface showing pale solid and necrotic areas.  The nodule is 1mm from the capsule of the liver and 1mm from the inked resection margin.
+Blocks: 1 and 2 &amp;#8211; tumour and inked resection margin; 3 &amp;#8211; tumour and capsule of liver; 4 &amp;#8211; section of tumour reserved block; 5 &amp;#8211;sectionof tumour; 6 &amp;#8211; liver away from tumour (liver special stained requested on block 6).  (TO: HM;HM/vo 25.4.65)
+MICROSCOPIC (Reported by Dr G Dest):
+Sections of the tumour show that this is circumscribed with a lobulated outline.  It consists of trabeculae of hepatoid cells with large, pleomorphic nuclei, often a single prominent nucleolus, and rather abundant eosinophilic or pale cytoplasm.  The trabeculae are often several cells thick.  The tumour cells show patchy macro and microvesicular steatosis.  The appearances are of a moderately differentiated hepatocellular carcinoma.  No lymphovascular invasion is seen.  The tumour is 1mm from the inked excision margin at the closest point; excision appears complete.  The tumour does not reach the capsular surface of the liver.
+The liver tissue away from the tumour shows fibrous bands which are generally thin, and variable sizednodules; the features are consistent with cirrhosis.  There is a mild and moderate, patchy infiltrate of chronic inflammatory cells, mainly lymphocytes but also including some plasma cells and occasional eosinophils, in the fibrous bandsand expanded portal tracts.  There is only focal, mild piecemeal necrosis.  No bile duct lesions are identified.  There is minimal lobular inflammation.  No cholestasis is seen and there is minimal steatosis.  No Mallory&amp;#8217;s hyaline is identified.  Central veins, where identified, appear normal.
+The Metavir activity score is A1 (out of 3) and the fibrosis score is F4 (out of 4).
+With special stains there is no increase in stainable iron, no alpha 1 antitrypsin globules are seen, and orcein stain for hepatitis B surface antigen is negative and a rhodanine stain for copper is negative.
+No indication of the cause of the cirrhosis is identified histologically.
+DIAGNOSIS:
+Right hepatic lobe:
+1.  Moderately differentiated hepatocellular carcinoma.
+2.  Cirrhosis, Metavir activity score A1, fibrosis score F4.
+SUPPLEMENTARY REPORT (5.5.65):
+The tumour cells stain positive with a Hepar-1 immunostain, consistent with hepatocellular carcinoma.

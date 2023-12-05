@@ -1,0 +1,112 @@
+Episode No:  94W078890U
+948078.XYB
+
+Lavatch, RONA 
+Lab No:  94W07889
+Falklands
+FRESHWATER  New South Wales  3483
+Specimen: Tissue
+D.O.B:  6/5/2021
+Sex:  F
+Collected: 21/07/2065 at 10:05
+Location:  Tissue Pathology and Diagnostic Oncology-MONASH HEALTH WOMEN'S SANDRINGHAM
+DR DUSTY Ysabella KRASNICI
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+E/o (R) breast lesion + axillary sentinel lymph node biopsy.  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast sentinel node 1" consists of a piece of fibrofatty tissue measuring 17 x 15x 10mm containing a lymph node measuring 15mm in maximum dimension.  The lymph node is serially sectioned and AE 1 block. 
+B.  Specimen labelled "Sentinel node 2" consists of a piece of fibrofatty tissue measuring 25 x 18 x 6mm.  There is a lymph node measuring 7mm in maximum dimension.  Specimen serially sectioned and the lymph node AE 1 block.
+C.  Specimen labelled "Right breast mass, short stitch superior, medium stitch medial, long stitch lateral" consists of an oriented piece of fibrofatty tissue measuring 40mm (medial to lateral) x 37mm (superior to inferior) x 23mm (superficial to deep).  There are three sutures orientating long lateral, medium medial and short superior.  The specimen is inked as follows:  superior red, superficial blue, deep black and inferior green.  The specimen is serially sectioned from medial to lateral into 7 slices.  On sectioning there is a firm tan tumour within the fibrofatty tissue measuring 25 x 20 x 20mm.  The tumour appears to abut the superficial, inferior and deep margins, 5mm from the superior margin, 8mm from the medial margin and 3mm from the lateral margin.  Please see diagram.  AE.  
+Blocks:  1 & 2- slice 1, medial margin parasagitally sectioned from superficial to deep; 3 & 4 - slice 2; 5 & 6 - slice 3; 7 & 8- slice 4; 9 & 10 - slice 5; 11 & 12 - slice 6; 13 & 14 - slice 7, lateral margin parasagitally sectioned from superficial to deep.  
+D.  Specimen labelled "New superior margin lesion, stitch = margin" consists of an oriented piece of fibrofatty tissue measuring 25 x 20 x 6mm.  There is a suture on one surface designated margin.  The sutured surface is inked red and the opposite blue.  Specimen serially sectioned and AE 2 blocks.  
+E.  Specimenlabelled "Rt axillary tissue" consists of a piece of fibrofatty tissue measuring 15 x 10 x 8mm.  There is a 10mm lymph node within the fibrofatty tissue.  There are also smaller possible lymph nodes <2mm.  AE 2 blocks.  
+Blocks:  1- larger lymph node; 2- rest of tissue.  AE.  
+(TO: VB: FC/MM 22.7.65)
+MICROSCOPIC:  (Reported by Dr Z Villandry):
+A.  One lymph node with no evidence of metastasis (0/1).
+B.  One lymph node with no evidence of metastasis (0/1).
+C.  Sections show features of a grade 3 invasive ductal carcinoma NST, approximately 27.5mm in size based on number of sections involved.  The tumour cells show high grade nuclear features and brisk mitotic activity, arranged mainly in compact sheets, nests, and trabeculae.  Focal areas of tumour necrosis are seen.  There is no lymphovascular space invasion.  Moderate degree of intermediate to high grade DCIS can be seen in the lesion, present in four consecutive sections, corresponding to 22mm.  Surgical margins are clear for both invasive and in-situ components.
+  
+D.  Sections show benign breast tissue with noevidence of malignancy.
+E.  Three lymph nodeswith no evidence of metastasis (0/3).
+Synoptic report to follow:
+Invasive carcinoma:
+Site:  Right breast.
+Type:  Invasive ductal carcinoma, NST.
+Invasive tumour size:  17.5mm on the cut surface and up to 27.5mm based on number of sections involved. 
+Grade (Modified Bloom & Richardson):  3.
+Tubules: 3     Nuclei: 3    Mitoses: 3     Mitotic rate: 28/10hpf.
+Lymphovascular invasion:  Not seen.
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  22mm.
+Nuclear grade:  Intermediate and high grade.
+Architecture:  Mainly solid.
+Necrosis:  Present. 
+Calcification:  Absent.
+Degree of DCIS in tumour:  Moderate (within and at the advancing edge of the tumour).
+DCIS in adjacent tissue:  Absent.
+Excision Margins:  
+Invasive component:
+Superior margin:  1.5mm.
+Deep margin:  2.5mm.
+Inferior margin:  3.8mm.
+Superficial margin:  5mm.
+Medial margin:  6mm.
+Lateral margin:  6mm.
+In-situ component:
+Lateral margin:  1.5mm.
+Deep margin:  2.5mm.
+Inferior margin:  4mm.
+Superficial margin:  6.5mm.
+Superior margin:  7.5mm.
+Medial margin:  11mm.
+Receptors (Block C8): 
+ER:  Positive.
+	More than 95% of nuclei stained.
+	Predominant intensity of staining:  Moderate to strong. 
+PR:  Positive.
+	More than 95% of nuclei stained
+	Predominant intensity of staining:  Moderate to strong.
+HER2 (Novocastra 10A7):  Negative (0) with less than 10% incomplete membranous staining.
+HER2 SISH:  Performed at Liberty Media, BULLI HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 50%.
+Nipple:  N/A.
+
+LCIS / ALH:  Absent.   
+Miscellaneous:
+-  The background parenchyma shows features of columnar cell change and hyperplasia, and flat atypia.
+-  Microcalcification can be seen multifocally.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:Two (2).
+Number of sentinel lymph nodes involved by tumour:  Zero (0).       
+Number of sentinel nodes with metastases >2.0mm:  N/A.   
+Number of sentinel nodes with metastases <2.0mm:  N/A.     
+Number of sentinel nodes with isolated tumour cells <0.2mm:  N/A.      
+Extranodal spread:  N/A.
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  Three (3).
+Number of axillary lymph nodes involved by tumour:  Zero (0).
+Number of axillary nodes with metastases >2.0mm:  N/A.       
+Number of axillary nodes with metastases <2.0mm:   N/A.        
+Number of axillary nodes with isolated tumour cells <0.2mm:  N/A.               
+Extranodal spread:  N/A.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  Five (5). 
+Total number of involved lymph nodes (including sentinel node(s)):  Zero (0/5).  
+
+
+DIAGNOSIS:
+A - C.  Right breast mass and sentinel lymph nodes:
+-  Grade 3 invasive ductal carcinoma NST, up to 27.5mm in size.
+-  22mm of intermediate to highgrade DCIS within the tumour.
+-  No lymphovascular space invasion
+-  Surgical margins clear.
+-  ER & PR positive, HER2 negative on IHC.
+-  Ki-67 approximately 50%.
+-  No evidence of tumour metastasis in thesentinel lymph nodes (0/2).
+D.  New superior margin:  Benign breast tissue.
+E.  Right axillary tissue:  No evidence of tumour metastasis in the axillary lymph nodes (0/3).
+

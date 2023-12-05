@@ -1,0 +1,120 @@
+SPR no: 48X5924411
+MRN no: 223773
+Site_name: GLOUCESTER SOLDIERS MEMORIAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT BELOW:
+
+22K77310,22K77310 (22K7731006) SZOCKI, Rayford
+HISTOPATHOLOGY REPORT
+YARRA RANGES HEALTH HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GII endometrial adenoca.
+1. Peritoneal washings for cyto.
+2. Uterus, tubes, ovaries.
+3. Left pelvic side wall.
+4. Left sentinel node.
+5. Right obturator sentinel node.
+6. Right common iliac sentinel node.
+7. Omental biopsy.
+8. Pouch of Douglas.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS WITH CERVIX, BILATERAL TUBES, OVARIES&amp;quot;.  Consists of uterus, cervix, attached bilateral tubes and ovaries.  Uterus received partially opened coronally, all weighing 190g together.
+Right tube measures 55mm in length 8mm diameter. Serosa is mildly erythematous. Sectioning is unremarkable.  Right ovary measures 30x20x10mm.  Outer surface yellow, lobular and sectioning is unremarkable.
+Left tube measures 55mm in length 10mm diameter. Serosa is mildly erythematous.  Sectioning is unremarkable.  Left ovary 30x20x10mm.  Outer surface is lobulated, yellow and sectioning is unremarkable.
+Uterus measures 100x70x60mm.  Received opened partially coronally, serially sliced on sagittal view.  Endometrium measures about 2mm.  Anterior wall measures 30mm, posterior wall 25mm. There is an ill defined whorling area probably adenomyosis in the anterior wall.  There is a white thickening of the endocervix up to 7mm.  Two white whorled nodules (fibroid) present 10 and 7mm.  Endometrium focally thickened.
+
+(1 right tube; 2 right ovary; 3 left tube; 4 left ovary; 5 right parametrium; 6 left parametrium; 7-22 sections of endometrium).  RS (M-22) [Please see block diagram]
+
+Further blocks:
+(23-31 RS).  RS (M-31/SM 5/6/2068 ank).  [Please see block diagram]
+
+B.  &amp;quot;LEFT PELVIC SIDE WALL BX&amp;quot;.  Consists of fibrous tissue 9x5x2mm.  AE (1-1)
+
+C.  &amp;quot;LEFT SENTINEL NODE&amp;quot;. Consists of fibrofatty tissue measuring 20x10x5mm including a lymph node 12x7x4mm.  Serially sliced.  RS (M-1)
+
+D.  &amp;quot;RIGHT OBTURATOR SENTINEL NODE&amp;quot;. Consists of a lymph node 20mm.  Serially sliced.  AE (M-1)
+
+E.  &amp;quot;RIGHT COMMON ILIAC SENTINEL NODE&amp;quot;.  Lymph node 15mm serially sliced.  AE (M-1)
+
+F.  &amp;quot;OMENTAL BIOPSY&amp;quot;. Consists of multiple fibrofatty tissue consistent with omentum.  No definite nodule identified.  AE (M-2)
+
+G.  &amp;quot;POUCH OF DOUGLAS BX&amp;quot;.  Consists of fibrous tissue measuring 10x3x2mm.  AE (1-1/SM 22/4/2070 ank)
+
+MICROSCOPIC:  (Dr G Armas)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE:  Fundus, body
+
+HISTOLOGIC TYPE:  Mucinous carcinoma
+
+HISTOLOGIC GRADE: FIGO grade 1
+
+MYOMETRIAL INVASION: Not identified
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not involved
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+Right ovary:  Unremarkable (focal surface adhesions)
+Left ovary:  Unremarkable (focal surface adhesions)
+Right fallopian tube:  Unremarkable
+Left fallopian tube:  Mild chronic salpingitis
+Parametrium: Mesothelial reaction and chronic inflammation of right parametrium
+Omentum (Specimen F):  Unremarkable
+Other organs/tissue:  Left pelvic side wall biopsy (specimen B):  Fibroblastic reaction
+Pouch of Douglas (specimen G):  Surface adhesions and mild subsurface chronic inflammation.
+
+LYMPHOVASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES:
+Specimen C (Left sentinel node):  Negative for malignancy (one node)
+Specimen D (Right obturator sentinel node):  Negative for malignancy (one node)
+Specimen E (Right common iliac sentinel  node):  Negative for malignancy (one node)
+Number of lymph nodes involved: 0
+Number of lymph nodes examined:3
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+1.  There is deep adenomyosis
+2.  The tumour shows mucinous differentiation in almost all areas (greater than 50%)
+
+ANCILLARY STUDIES/IMMUNOSTAINS:  MSI Immunostains pending
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IA
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a, pN0
+
+DIAGNOSIS:
+A.  UTERUS WITH CERVIX, BILATERAL TUBES, OVARIES:
+-  MUCINOUS ADENOCARCINOMA OF ENDOMETRIUM (GRADE 1)
+
+B.  LEFT PELVIC SIDE WALL BIOPSY:  FIBROBLASTIC REACTION
+
+C.  LEFT SENTINEL NODE:  NEGATIVE FOR MALIGNANCY
+
+D.  RIGHT OBTURATOR SENTINEL NODE:  NEGATIVE FOR MALIGNANCY
+
+E.  RIGHT COMMON ILIAC SENTINEL NODE:  NEGATIVE FOR MALIGNANCY
+
+F.  OMENTAL BIOPSY:  NEGATIVE FOR MALIGNANCY
+
+G.  POUCH OF DOUGLAS BIOPSY:
+-  CHRONIC INFLAMMATION AND MESOTHELIAL REACTION
+
+8/5/2071 nh
+
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (ANTENATAL WARD CULCAIRN MULTI PURPOSE SERVICE HOSPITAL; block: A19 )
+MLH1: Positive (retained) nuclear staining.
+PMS2: Positive (retained) nuclear staining.
+MSH2: Minimal equivocal nuclear staining.
+MSH6: Minimal equivocal nuclear staining.
+
+Comment: In view of the Minimal equivocal nuclear staining for MSH2 and MSH6, clinical correlation is recommended and formal MSI testing could be considered.
+
+8.5.2071

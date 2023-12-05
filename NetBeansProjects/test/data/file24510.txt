@@ -1,0 +1,40 @@
+SPR no: 81V726342K
+MRN no: 8187263
+Site_name: SUNBURY DAY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Peritoneal carcinoma.  Ascitic tap: metastatic adenocarcinoma, Ca 125 - 1681, 3 x Carbo taxol, Ca 125 - 23, newly diagnosed ovarian cancer.
+Further history:  Interval debulking with high grade serous carcinoma.  Family history of endometrial Ca, pancreatic Ca, bowel Ca, breast Ca.  Please perform mismatch repair IPX.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of an indurated omentum measuring 180mm x 130 x 30mm.  The cut surface of the omentum is pale white and infiltrated by tumour. There is a stitch attached on the omentum marking an adherent appendix measuring 40mm in length with an outer diameter of 4mm.  The serosal surface of the appendix appear erythematous. The cut surface of the appendix appear obliterated.  Blocks:  1 to 4 - all of appendix (block 1 longitudinal sections of base, block 2 and 3 transverse sections of mid appendix, block 4 - longitudinal sections of tip), 5 to 7 - representative sections of omentum.
+
+B.  Specimen labelled &amp;quot;Small bowel adhesion&amp;quot;, consists of two pieces of pale tan tissue measuring 25mm x 20 x 5mm.  AE 2 blocks.
+
+C.  Specimen labelled &amp;quot;Pelvic nodule&amp;quot;, consists of a single pale nodule measuring 15 x 10 x 7mm.  The cut surface is pale white.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Bilateral fallopian tubes + ovaries&amp;quot;, consists of a ragged 45mm mass of tumour.  The ovaries are difficult to identify as are the tubes apart from their fimbrial ends.
+Blocks: block 1 and 2 - fimbrial end no.1, block 3 - fimbrial end no.2, block 4 to 18 - tumour mass.  (TO: LM; LM/eh 20/3/2067)
+
+
+MICROSCOPIC (Reported by Dr W Bisom):
+A.  The omentum shows extensive high grade serous carcinoma, which invades into the tip of the adherent appendix.
+
+B.  Sections show adhesions with scattered calcification.  Also present in the specimen is blood clot which has free floating fragments of serous carcinoma admixed.
+
+C.  Sections show a deposit of high grade serous carcinoma.
+
+D.  Sections show extensive high grade serous carcinoma involving the paradenexal soft tissues, the surface of both ovaries and tubes, and the fimbrial ends of the tubes.  No in situ change is seen in the fimbrial ends.
+
+MSI stains are pending.
+
+
+DIAGNOSIS:
+High grade serous carcinoma of probable peritoneal origin extensively involving the omentum and paradnexal soft tissues, and also involving the surface of both ovaries and tubes, the fimbrial ends of the tubes, small bowel adhesion, and the pelvic nodule.
+ADDITIONAL REPORT 22/3/67:
+As requested, immunoperoxidase stains for MSI proteins were performed. MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.
+ADDITIONAL REPORT 30/7/68:
+As requested, ER and PR were performed.
+The tumour is strongly positive for ER and negative for PR.

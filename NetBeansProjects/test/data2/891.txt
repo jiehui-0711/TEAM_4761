@@ -1,0 +1,82 @@
+Episode No:  96M132287M
+964132.GVT
+
+Schmeiser, HILDE 
+Lab No:  96M13228
+Greystead
+DRUMMOND COVE  Australian Capital Territory  7277
+Specimen: Tissue
+D.O.B:  12/4/1988
+Sex:  F
+Collected: 2/12/2062 at :
+Location:  RENAL CLINIC
+DR LEONEL Lyndon LENDERMAN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT ADDED: EGFR MUTATION ANALYSIS (19.3.62)
+Dr Z Viereck
+
+CLINICAL:
+(R)UL lesion.  Adeno.  EGFR mutation.  RU lobe, lymph node, chest wall.
+MACROSCOPIC:
+A.  Specimen labelled "Right lobe of lung" consists of a lobe of lung 160 x 80 x 55mm with an attached piece of chest wall 75 x55 x 25mm weighing 196g when fresh.  There are two stapled resection margins 60mm and 95mm in length.  In the lung tissue beneath the chest wall there is a cream firm relatively well circumscribed mass measuring 45 x 40 x 35mm.  The tumour comes within 10mm of one of the stapled resection margins and appears to come close to the pleura of the adhering chest wall.  The tumour is 20mm from the hila resection margin.  Multiple lymph nodes are identified within the hilum.The remainder of the lung appears unremarkable.
+Blocks:  1 - vascular margins; 2 - lymph nodes; 3 - bronchial resection margins; 5 - tumour to bronchial resection margin; 4 to 7 - representative tumour; 8 - uninvolved lung; 9 block.
+B.  Specimen labelled "Trachea bronchial" consists of an irregular piece of tan tissue which is smooth on one side and roughened on the other, 12 x 7 x 6mm.  Serially sectioned AE 1 block.
+C.Specimen labelled "Hilar LN" consists of one lymph node 12mm.  AE 1 block.
+D.  Specimen labelled "Paratracheal lymph node" consists of a piece of unorientated tan fatty tissue 24 x 18 x 12mm.  Multiple lymph nodesare identified from 2 to 20mm.
+Blocks:  1 - small lymph nodes; 2 - large lymph node serially sectioned.
+E.  Specimen labelled "Subcarinal lymph node" consists of a piece of black/tan tissue with surrounding fatty tissue 20 x 12 x 10mm.  One lymph node is identified taking up the majority of the specimen.  Serially sectioned AE 1 block.
+(LOc/bl 13/2/62)
+MICROSCOPIC: (Reported by Dr Z Mcindoe - 14.2.2062)
+A.  The 45mm lung tumour is a moderately to poorly differentiated adenosquamous carcinoma. A synoptic report for lung carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE LUNG CARCINOMA
+1.  Specimen type: Lobectomy
+2.  Topography: R lung (RLL)
+3.  Tumour location: Peripheral
+4.  Tumour size: 45mm
+5.  Tumour type: Adenosquamous carcinoma.carcinoma consists of infiltrative nests and groups of malignant cells with mixed glandular and squamoid morphology. At the periphery of the tumour, its has a predominantly lepidic pattern of growth. There is prominent tumour associated necrosis in areas. 
+6.  Histological grade: Moderately to poorly differentiated.
+7.  Vessel invasion: Present. 
+8.  Perineural invasion: Present (focal).
+9.  Pleural involvement: Tumour has invaded through the parietal pleura into overlying adherent chest wall structures (see below).
+10.  Bronchial resection margin: Free of tumour.
+Minimum distance between tumour and bronchial resection margin: 20mm.
+11.  Vascular resection margin: Free of tumour.
+12.  Other resection margins: 10mm from stapled line of resection (macroscopic).
+13.  Chest wall: Carcinoma is focally infiltrates the parietal pleura andis present less than 1mm from the overlying adherent ribs, however, no convincing bony infiltration is seen. 
+Tumour absent from the inked chest wall resection margin (approximately 5.0mm). 
+14.  Non-neoplastic lung: Theadjacent non-neoplastic lung shows emphysematous change, subpleural fibrosis and patchy collapse. 
+15.  Lymph nodes:
+Lymph nodes from main resection specimen: No evidence of malignancy in four lymph nodes (0/4). 
+16.  Pathological staging (pTNM AJCC/IUCC 7th Ed.): STAGE IIB
+pT: T3
+pN: N0
+pM: Mx
+17.  Immunohistochemistry:
+The sampled block of tumour shows strong CK5/6 and p63 positivity in keeping with squamous differentiation. There is patchy very focal but strong nuclear staining for TTF-1, most likely in areas of glandular differentiation (TTF-1 is typically negative in areas of squamous differentiation). CK7 and CAM5.2 are positive. ER and PR show non-specific cytoplasmic staining.
+B.  Sections of the three tracheobronchial lymph nodes show no evidence of malignancy.
+C.  Sections of the two hilar lymph nodesshow no evidence of malignancy. 
+D.  Sections of the thirteen paratracheal lymph nodes show no evidence of malignancy.
+E.  Sections of the four subcarinal lymph nodes show no evidence of malignancy.
+Representative slides seen with Dr Boori DESIMAS.
+
+
+DIAGNOSIS:
+A.  Right lobe of lung:
+45mm, pTNM STAGE IIB, adenosquamous carcinoma of the lung. 
+Lymphovascular and perineural infiltration is seen.
+The vascular and bronchial margins appear clear of carcinoma. 
+Carcinoma infiltrates the overlying adherent chest wall soft tissue, but no convincing bone infiltration is seen and tumour is clear of the chest wall margin.
+
+B.  Tracheobronchial: No evidence of malignancy in three lymph nodes (0/3). 
+
+C.  Hilar lymph node:  No evidence of malignancy in two lymph nodes (0/2).
+
+D.  Paratracheal lymph node: No evidence of malignancy in thirteen lymph nodes (0/13). 
+
+E.  Subcarinal lymph node: No evidence of malignancy in four lymph nodes (0/4). 
+
+
+***SUPPLEMENTARY REPORT ADDED: EGFR MUTATION ANALYSIS (19.3.62)
+Dr Z Kastner
+Report from SCOTT MEMORIAL HOSPITAL, HILL TOP, reported by COURTNEY GELBACH/Laraine Farinacci.
+

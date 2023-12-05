@@ -1,0 +1,70 @@
+
+Episode No:  15I856637O
+1538566.KSO
+
+Peloquin, DANA 
+Lab No:  15I85663
+Old Barnaby
+NEWMAN  Queensland  4154
+Specimen: Tissue
+D.O.B:  13/11/2012
+Sex:  F
+Collected: 09/02/2015 at 12:33
+Location:  Douglass Hanly Moir-GOLD COAST UNIVERSITY HOSPITAL
+DR DOMENIC JESUS FERNANDEZ
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast cancer.  Sentinel LN biopsy.  Left breast cancer at 6 o'clock.  Left mastectomy + (L) axilla SLNBx + left axillary dissection + gracilis flap recon.
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node left axilla" consists of adipose tissue, 34 x 27 x 15mm, containing a 10mm lymph node.  Imprints made.  AE 4 blocks.  
+IMPRINT CYTOLOGY REPORT:
+Node positive.
+Phone result to Dr D Spielmaker by Dr D Welters at 2.15 pm on 9.2.15
+B.   Specimen labelled "Left breast with stitch axillary tail" consists of a mastectomy, 160 x 135 x 30mm.  There is a suture indicating the axillary tail.  There is a tear-drop shaped piece of skin 65 x 30mm.  The nipple-areola complex is included, and appears unremarkable.  The superficial margin is inked blue and the deep margin black.  At 6 o'clock 2cm from nipple is a firm tan tumour, 28 x 20 x 25mm.  The tumour is 8mm clear of the deep margin and 6mm clear of the superficial margin.  There appears to be a second tumour nodule, 6 x 5 x 5mm.  This nodule is 4mm from the main tumour.  
+Blocks:  1 & 2 - tumour with closest superficial margin (2- reserved block); 3 & 4 - cross section of tumour with deep margin in 4; 5 - upper innerquadrant; 6 - upper outer quadrant; 7 - lower outer quadrant; 8 - lower inner quadrant; 9 & 10 - second smaller tumour nodule; 11 - tissue between the two nodules; 12 - nipple.  Please see block diagram.  
+C.  Specimen labelled "Axillary lymph node" consists of a piece of adipose tissue140 x 95 x 20mm.  Multiple lymph nodes are identified, the largest being 15mm across.  
+Blocks:  1- one lymph node; 2 to 8 - multiple lymph nodes. 
+(TO: CN:  KR/mm 12.4.65) 
+MICROSCOPIC (reported by Dr D Tietje/Dr D Saabatmand):
+A to C.  The left breast contains pleomorphic invasive lobular carcinoma.  Both macroscopically described nodules at 6 o'clock and the intervening breast tissue show a single tumour measuring 38mm. 30mm away in the inner lower quadrant, there is a satellite deposit measuring 5mm.
+Invasive carcinoma:
+Site:  Left breast.  
+Type:  Pleomorphic invasive lobular carcinoma.
+Invasive tumour size:  38mm, plus a 5mm satellite deposit over a 70mm area
+Grade (Modified Bloom & Richardson):
+Tubules:  3    Nuclei:  3    Mitoses:  2   Mitotic rate:  8/10hpf.
+Lymphovascular invasion:  Present in multiple areas.  
+	    
+DCIS component:  
+Not seen.
+Excision Margins:  
+Invasive component:
+ Superficial: 5mm
+ Deep: 8mm
+Other margins: > 10mm
+Receptors (Block B1): 
+ER:   Positive.  
+	75% of nuclei stained
+	Predominant intensity of staining:  Moderate.  
+PR:   Positive.  
+	10% of nuclei stained
+	Predominant intensity of staining:  Moderate.  
+HER2 (Novocastra 10A7):  0.
+Ki-67 index:  30%.
+Nipple:  No significant abnormality.  
+
+LCIS / ALH:  Present, classical variant
+Miscellaneous:  The uninvolved breast shows benign proliferative changes, including columnar cell change, usual ductal hyperplasia, apocrine metaplasia andintraductal papillomas.
+Sentinel lymph node (specimen A):
+Number of sentinel lymph nodes examined:  1 
+Number of sentinellymph nodes involved by tumour:  1 (7mm in size)
+Extranodal spread: Not seen 
+Other axillary nodes (specimen C):
+Number of axillary lymph nodes examined:  17
+Number of axillary lymph nodes involved by tumour:  1 (isolated tumour cells, < 100 tumour cells over a 1.5mm area)
+Extranodal spread:  Not seen
+DIAGNOSIS:
+A to C.  Left axilla sentinel lymph node, left mastectomy and axillary lymph nodes:
+-  Two deposits of pleomorphic invasive lobular carcinoma, grade 3, 38mm and 5mm in size, over a 70mm area, extensive lymphovascular invasion, margins clear
+- Metastatic carcinoma present in 1 out of 1 sentinel lymph node and 1 out of 17 non-sentinel lymph nodes, no extranodal spread seen
+

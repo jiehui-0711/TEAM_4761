@@ -1,0 +1,66 @@
+
+Episode No:  28C469893W
+281469.WYI
+
+JANISZEWSKI, RORY 
+Lab No:  28C46989
+Olde Lantern
+GUNNEDAH  Australian Capital Territory  3315
+Specimen: Tissue
+D.O.B:  3/12/2010
+Sex:  F
+Collected: 13/11/2013 at 08:41
+Location:  POST OPERATIVE RECOVERY-CONCORD REPATRIATION HOSPITAL
+DR KAI CARROLL LOUIS-KULIG
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left 9 o'c DCIS.  Mastectomy + sentinel node biopsy.  Short superior, long lateral.  
+MACROSCOPIC:
+A.  Specimen labelled "Left breast, long lateral, short superior" consists of mastectomy specimen without axilla weighing 166g.  Two sutures noted short marking superior, long marking lateral.It measures 135mm (superior to inferior), 140mm (medial to lateral) and 25mm (superficial to deep).  An ellipse of skin measuring 110 x 45mm is noted containing nipple areola complex.  Nipple measures 12mm in diameter.  The skin surfaceis unremarkable.  Posterior margin inked black, interior inked blue.  On the cut surface at the junction of upper inner and lower inner quadrant (9 o'clock position) on area of breast measuring 35 x 18 x 14mm, feels firm and gritty.  This area is 3mm to posterior margin, 25mm to closest inferosuperficial margin and 30mm to closest superosuperfical margin.  Remainder of the breast tissue is fibrofatty.  No mass-likelesion identified.  No lymph nodes identified within the lateral aspect of the specimen.  
+Blocks:  1 to 12 - sections of the abnormal area (blocks 1 & 2 - paired with posterior margin; 3 & 4 - paired with posterior margin; 5 & 6 - paired with posterior margin; 7 to 11 - full longitudinal section with superficial and deep margins; 12 - with posterior margin); 13 - representative sections upper inner quadrant with posterior margin; 14 - representative sections lower inner quadrant with posterior and superficial margin; 15 & 16 - representative section upper outer quadrant with superficial and deep margin; 17 & 18 - representative sections lower outer quadrant with the superficial and deep margin; 19 - section of nipple.  Representative sections in 19 blocks.  
+B.  Specimen labelled "Left axilla sentinel node" consists of a piece of fatty tissue measuring 13mm in maximum extent containing a single node measuring 9 x 5 x 3mm.  Specimen transversely sectioned.  The cut surface of the lymph node is unremarkable.  
+Blocks:  1- lymph node transversely sectioned AE.  
+(TO: RO  BM/mm 15.1.63) 
+MICROSCOPIC (reported by Dr F Massaglia):
+A and B. 
+Invasive carcinoma:
+Site: 9 o'clock left breast
+Type and size: multifocal (at least 20 foci) microinvasive ductal carcinomas, up to 0.7mm in size over a 28mm area, arising from DCIS
+Grade  (Modified Bloom & Richardson):  favour grade 3 based on morphology
+Tubules: 3      Nuclei:  3     Mitoses: occasional mitoses seen in some of the invasive tumour deposits (formal mitotic count not possible due to size of lesions).
+Lymphovascular invasion:  Not seen
+	    
+DCIS component:  
+Maximum extent of DCIS:  35mm
+Nuclear grade:  high
+Architecture: solid, cribriform
+Necrosis:   present
+Calcification:  present
+Degree of DCIS in tumour:  nil
+DCIS in adjacent tissue:  extensive
+Excision Margins:  
+Invasive component:
+ Deep: 5mm
+ Other margins: > 10mm
+In-situ component:
+ Deep: 0.8mm (no intervening normal ducts)
+ Other margins: > 10mm
+Receptors: 
+ER:   10 % of nuclei stained (controls show satisfactory staining)
+	predominant intensity of staining:  weak
+PR:   negative (controls show satisfactory staining)
+	0 % of nuclei stained
+HER2 (Novocastra 10A7):  3+
+Ki67: approximately 50%
+Nipple:  No Paget's disease identified
+LCIS / ALH:    Not seen
+Miscellaneous: A core biopsy tract is seen
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+DIAGNOSIS:
+A and B. Left mastectomy and axillary sentinel lymph node biopsy:
+- > Multifocal (at least 20 foci) microinvasive ductal carcinomas, up to 0.7mm insize over a 28mm area, favour grade 3, arising from 35mm of high grade DCIS, margins clear
+- HER2 SISH to follow in a separate report
+- 1 sentinel lymph node with no evidence of malignancy
+

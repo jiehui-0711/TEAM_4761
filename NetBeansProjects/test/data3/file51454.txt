@@ -1,0 +1,118 @@
+SPR no: 34C115211M
+MRN no: 341115
+Site_name: BYRON CENTRAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT BELOW:
+34C11521,34C11521 (34C115211M) TAECKER, COLETTA
+HISTOPATHOLOGY REPORT
+BOOROWA MULTI PURPOSE SERVICE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GI endometriod AdenoCa.
+1. Peritoneal Washings - Cytol.
+Histo:
+2. Uterus tubes and ovaries
+3. Appendiceal epiploica.
+4. Right pelvic sentinel node.
+5. Left pelvic sentinel node.
+6. Omental bx.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS WITH CERVIX, BILATERAL TUBES AND OVARIES&amp;quot;. Consists of uterus, cervix attached tubes and ovaries, weighing 134g together.
+Right tubes measure 40mm in length, 8mm in diameter. Serosa is smooth. There is a circumscribed encapsulated fatty lump (?lipoma) attached the fimbria, 25mm. Right ovary, 20x15x10mm. Sectioning is unremarkable.
+Left tube measures 40mm in length, 10mm in diameter. Paratubal cyst is present. Left ovary measures 30x15x10mm. Sectioning is unremarkable.
+
+Uterus measures 80x40x60mm. Ectocervix, 25x20mm, with a slit-like os, 10mm across. Ectocervix appears denuded. The anterior wall measures 30mm, posterior wall measures 32mm. Within posterior wall, there is a large creamy fairly circumscribed lobulated tumour with a depth of 30mm and it is 3mm from the serosal surface at closest. No definite infiltration to the cervix is present.
+
+In the anterior wall, there are three intramuscular circumscribed white whorl nodule, 25,10 and 8mm.
+
+(1-3 right fimbria and ?lipoma attached; 4 right tube; 5 right ovary; 6 and 7 left tube; 8 left ovary; 9 right parametrium; 10 left parametrium; 11-14 one full face anterior uterus; 14-18 more section of tumour; 19-21 section of anterior wall). RS (M-21) [Please see block diagram]
+
+B. &amp;quot;APPENDICEAL EPIPLOICA&amp;quot;. Fibrofatty tissue, 10mm. AE (1-1)
+
+C. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. Fibrofatty tissue, 30mm, containing a lymph node, 10mm. RS (M-1)
+
+D. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Fibrofatty tissue, 30mm, containing two lymph nodes, 20 and 10mm.
+
+(1 first lymph node; 2 second lymph node). RS (M-2)
+
+E. &amp;quot;OMENTAL BIOPSY&amp;quot;. Fibrofatty tissue, 20mm. AE (1-1/SM 8/7/2071 cy)
+MICROSCOPIC: (Dr H Aina)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE: Fundus and Body
+
+TUMOR SIZE:  30mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 2
+
+MYOMETRIAL INVASION:
+Depth of invasion:  13mm
+Myometrial thickness: 17mm
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not identified
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+Right ovary - Unremarkable
+Left ovary - Unremarkable
+Right fallopian tube - Unremarkable
+Left fallopian tube - Unremarkable
+Parametrium - Unremarkable
+Omentum (Specimen E) - Normal appearance
+Other organs/tissue (specify): (Specimen B - &amp;quot;Appendiceal Epiploica&amp;quot; ) consists of benign serous lined cystic space.
+
+- Ectocervical/vaginal cuff margin:
+Uninvolved by carcinoma
+
+LYMPHOVASCULAR INVASION: Present, focal (focal is &amp;#8804; 5 vacscular spaces)
+
+REGIONAL LYMPH NODES:
+Site: (Specimen C - &amp;quot;Right Pelvic Sentinel Node&amp;quot; and Specimen D - &amp;quot;Left Pelvic Sentinel Node&amp;quot;)
+
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0
+Total number of lymph nodes examined (sentinel and nonsentinel): 3 (one node in Specimen C and two nodes in Specimen D)
+Number of sentinel lymph nodes examined: 3
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Pending Block A16
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1B
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b, pN0
+
+DIAGNOSIS:
+A. UTERUS
+- ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA (GRADE 2).
+B. &amp;quot;APPENDICEAL EPIPLOICA&amp;quot;
+- BENIGN SEROUS CYST.
+C. RIGHT PELVIC LYMPH NODE
+- NEGATIVE FOR MALIGNANCY.
+D. LEFT PELVIC SENTINEL NODE
+- NEGATIVE FOR MALIGNANCY.
+E. OMENTAL BIOPSY
+- NEGATIVE FOR MALIGNANCY.
+16/7/2071 cy
+Supplementary report:
+
+Immunostains for MSI proteins (ANTENATAL WARD BELMONT HOSPITAL; block: A16)
+MLH1: Positive (retained) nuclear staining.
+PMS2: Positive (retained) nuclear staining.
+MSH2: Positive (retained) nuclear staining.
+MSH6: Positive (retained) nuclear staining.
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+17.6.2071

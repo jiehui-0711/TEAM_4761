@@ -1,0 +1,140 @@
+
+Episode No:  62S021442H
+6270214.MFH
+
+Moll, KEN 
+Lab No:  62S02144
+Yale
+ANDERGROVE  TAS  2042
+Specimen: Tissue
+D.O.B:  10/3/2010
+Sex:  M
+Collected: Unknown at :
+Location:  Pathology North-WESTERN DISTRICT HEALTH SERVICE - HAMILTON
+DR Nick Lily Cosper
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY, DR MITCHEL
+ADDITIONAL REPORT:  (9.12.63).
+
+ADDITIONAL REPORT:(3.2.63)
+
+
+CLINICAL:
+Right corpus callosal and left periventricular lesions.  BG of thyroid papillary carcinoma, resection & neck radiotherapy. ?Cerebral metastases.   
+Imaging (2/5/62): There  is  a  complex  enhancing  lesion  in  the  posterior  left  frontal  lobe  periventricular  white  matter  with  surrounding  oedema.    There  is  a  nonenhancing  exophytic  lesion  extending  from  the  genu  of  the  corpus  callosum  into  the  frontal  horn  of  the  right  lateral  ventricle. 
+MACROSCOPIC:
+A.  Specimen labelled "(R) frontaltumour" consists of multiple fragments of cream tissue, 1 to 3mm.  One smear, remainder - frozen section.  
+Blocks:  1 - remainder of tissue.  AE 1 block.  
+FROZEN SECTION REPORT:
+High grade glial tumour.result to neurosurgical registrar by Dr R Korthauer at 11.00am on 02.01.13.
+B.  Specimen labelled "Left frontal tissue" consists of multiple pieces of cream tissue from 1 to 4mm.  One smear - remainder in frozen section.  
+Blocks:  1 - remainder of frozen section tissue embedded.  AE 1 block.
+FROZEN SECTION REPORT:
+High grade glial tumour.  
+Phone result to Dr Warner Cusmano by Dr R Ubl at 12.55pm on 02.01.13.
+C.Specimen labelled "Right frontal tumour" consists of multiple fragments of tissue measuring from 2mm to 15mm measuring in aggregate 20 x 18 x 5mm.  
+Blocks:  1 - smaller fragments; 2 - larger piece.  AE 2 blocks.  
+.  Specimen labelled "(L) frontal tumour" consists of multiple fragments of tissue ranging from 2mm to 10mm measuring in aggregate, 20 x 15 x 5mm.  AE 1 block.
+(TO:  IF; PN/mm 3.5.63) 
+MICROSCOPIC (reported by Dr R Snode):  
+A and C. Sections show fragments of a cellular glial lesion and white matter. A small amount of grey matter is seen. The lesion is composed of tumour cells with irregular, hyperchromatic nuclei.  Scattered tumour cells with bizarre, giant nuclei and intranuclear inclusions are seen. No mitoses are present and the Ki67 proliferative index is low (2%). No definite endothelial proliferation or necrosis is seen. Hyalinised vessels with a perivascular lymphocytic infiltrate are present. There are no granular bodies, perivascular pseudorosettes or true ependymal rosettes. 
+Immunohistochemical stains: 
+GFAP: positive in glial processes, cell bodies negative
+IDH1: -ve
+K67 index: 2%
+EMA: -ve
+p53: focal weak staining
+Neurofilament: focal weak staining
+Chromogranin/NeuN/synaptophysin: -ve 
+
+Molecular tests: 
+Tissue will be sent to Dr Freddie Iiams, BRIDGETOWN HOSPITAL Cancer Centre for MGMT methylation analysis.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block C1.
+Comment:
+The findings of a glial lesion composed of markedly pleomorphic tumour cells with low proliferative activity. Although no necrosis or endothelial proliferation is seen, in the context of IDH1 negativity and a glioblastoma in the opposite side, the findings would favour a glioblastoma (WHO grade 4). No convincing oligodendroglioma or ependymal differentiation is present.
+B and D. Sections show fragments of glioblastoma (WHO grade 4), with small amounts of grey and white matter. The lesion is markedly cellular and is composed of moderately to markedly pleomorphic tumour cells, some of which contain intranuclear inclusions.  The lesion has a Ki67 index of 20 to 30% with rare mitoses. Non-palisading necrosis and marked endothelial proliferation are also present.
+Immunohistochemical stains: 
+GFAP: +ve
+IDH1: -ve
+K67 index: 20 to 30%
+EMA: -ve
+p53: focal weak staining
+Neurofilament: focal weak staining
+Chromogranin/NeuN/synaptophysin: -ve 
+
+Molecular tests: 
+Tissue will be sent to Dr GENARO TREVOR, COBRAM DISTRICT HEALTH Cancer Centre for MGMT methylation analysis.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block D1.
+
+DIAGNOSIS:
+A AND C: LESION RIGHT CORPUS CALLOSUM/FRONTAL HORN LATERAL VENTRICLE: FAVOUR GLIOBLASTOMA (WHO GRADE 4) (SEE COMMENT)
+B AND D. LESION LEFT FRONTAL PERIVENTRICULAR WHITE MATTER: GLIOBLASTOMA (WHO GRADE 4)
+ADDITIONAL REPORT (25.3.63))
+FISH analysis was performed by St. Vincent's Hospital, the results of which are as follows:  Reported by:  Dr R Foller.
+RESULTS:
+This case was analysed for 1p/19q LOH using Vysis dual colour probe sets LSI 1p36/LSI 1q25 and LSI 19q13/19p13.  Cut-off values were adopted from Smith et al. 2000 (J Clin Oncol:18;636-645) who defined a 1p/1q ratio of <0.85 and a 19q/19p ratio of <0.9 as indicating LOH.  The case was also hybridised with Vysis LSI EGFR/Cep7 dual colour probe pair to assess whether amplification of EGFR was present.
+Chromosome 1
+Mean copies 1p per cell: 2.74
+Mean copies 1q per cell: 2.56
+1p/1q ratio: 1.07
+Interpretation: No 1p loss detected, polysomic
+Chromosome 19
+Mean copies19q per cell: 2.78
+Mean copies 19p per cell: 2.67
+19q/19p ratio: 1.04
+Interpretation: No 19q loss detected, polysomic
+EGFR: 
+Mean copies of EGFR per cell:  3.81
+Mean copies cep7per cell:  3.57
+EGFR/cep7 ratio: 1.07
+Interpretation:  No EGFR amplification present polysomic.  
+
+CONCLUSION:  Negative for both 1p/19q loss and EGFR amplification.  
+
+ADDITIONAL REPORT (3.2.63)
+Tissue has been sent to Dr Yarran HLADIK, GRENFELL MULTI PURPOSE SERVICE Cancer Centre for MGMT methylation testing.
+Both the right corpus callosal and left frontal periventricular lesions are positive for MGMT methylation.
+Note: The results are for research purposes only and are not NATA accredited.
+ADDITIONAL REPORT:  (9.12.63)
+
+Report from RHW Pathology, Department of CORONARY CARE UNIT, MCLAREN VALE:
+Reported by:  DrHARRIS ENNES, Neuropathlogist.  
+
+
+History:
+57 year old man with a previous history of papillary carcinoma of the thyroid treated with resection and radiotherapy to the neck.  Now two separate intracerebral lesions, a complex enhancing lesion in the left posterior frontal periventricular white matter with surrounding oedema.  A second exophytic non-enhancing lesion in the corpus callosum protrudes from the genu into the right frontal horn.
+Macroscopic:
+Thirty nine (39) slides labelled "62S02144 JUAN" were received including 2 intraoperative smears ("A" and "B"), 2 haematoxylin and eosin stained frozen sections ("F/S A" and "F/S B"), 11 haematoxylin and eosin stained paraffin sections ("AFS1", "BFS1", "C1", "C1 recut 1-6", "C2", "Dl"), 2 sections stained for reticulin ("C1" and "D1"), 17 sections from block C1 immunostained for NeuN, chromogranin A, 68kD neurofilament protein, p53, GFAP (x2), synaptophysin, vimentin (x2), CD34, Ki-67, IDHIR132H, MIC2, pancytokeratin, CD68, EMA and TTFI, and 5 sections from block D1 immunostained for 68kD neurofilament protein, lDH132H, pancytokeratin, CD34 and TTFI.
+Microscopic:
+B and D (Left periventricular frontal tumour).
+Multiple fragments of tumour consisting of moderately pleomorphic elongated cells, predominantly arranged in interweaving bundles.  Scattered cells with nuclear pseudoinclusions are identified.  Mitoses are easily found and the Ki-67 labelling index is approximately 20-30%.  Foci of necrosis are present and there is prominent microvascular proliferation.  Compared to the right frontal tumour (see below) this lesion is more cellular and the cells more uniform and less pleomorphic.
+Special stains demonstrate perivascular reticulin only and highlight the microvascular proliferation.  The tumour cells are strongly Vimentin positive and many are also GFAP positive.
+There is moderate granular membranous and some cytoplasmic MIC2 staining. CD34 stains endothelial cells.  There is a small amount of focal patchy interstitial staining, although this is much less prominent than in the contralateral lesion (see:below).  Scattered strongly p53 : positive cells are noted, probably <5%. Compared to the contralateral lesion there are also more numerous weakly staining cells.
+The majority ofthe tumour cells are negative for EMA although very rare cells, especially at periphery of several tissue fragments contain an EMA-positive paranuclear dot.  Stains for NeuN, chromogranin, synaptophysin, pancytokeratin, IDH1 RI25H and TTFI are negative.
+A and C (Right frontal corpus callosum tumour):
+The intraoperativesmear contains two populations of cells.  The predominant component consists of cells with large round or lobated nuclei of slightly different sizes with a thin, well defined nuclear membrane, uniformly granular chromatin containing several chromcentres and often a prominent nucleolus.  Scattered binucleate cells are noted and a number of these nuclei also containing pseudoinclusions.  There is a minor component of relatively uniform cells with elongated round ended nuclei but no nucleoli.  Some -perivascular lymphocytes are noted but no vascular proliferation is seen.
+The permanent sections consist of multiple pieces of tissue including fragments of normal cerebral cortex and fragments of solid tumour.
+The tumour is moderately cellular and pleomorphic.  Many of the tumour cells have medium to large round or lobated nuclei with a prominent nucleolus and a small amount of well delineated perinuclear clear to granular cytoplasm.  A number also contain nuclear pseudoinclusions and several are bi- or trinucleate.  Scattered triangular cells with darkly staining amphophilic cytoplasm and hyperchromatic nuclei are also included as are cells with large, hyperchromatic somewhat "smudgy" chromatin, cells with ovoid nuclei and perinuclear halos, and some with finely vacuolated cytoplasm.  Although a number of these cells resemble dysplastic neurons, stains for neural antigens including neurofilament protein, NeuN, synaptophysin and chromogranin are negative.
+In some areas the interstitium is finely vacuolated and slightly basophilic, suggesting mucin.  There are scattered micro-cysts and very rare calcospherites.  No Rosenthal fibres or eosinophilic granular bodies are identified with haematoxylin and eosin. No ependyma is identified.
+Perivascular chronic inflammatory cells are noted, often surrounding veins with some adventitial fibrosis.  There is no vascular proliferation or necrosis and mitotic figures are not identified.  The Ki67 labelling index is low (visually estimated at approximately 2%).
+Although in one fragment the tumour appears to be well demarcated from the surrounding dense paucicellular fibrillary gliosis, neurofilament antibodies highlight prominent axons bundles traversing the tumour.  These are accentuated adjacent to vessels.  In some areas beaded axons and axonalspheroids are also noted.
+Special stains demonstrate perivascular reticulin only.  The GFAP staining is generally pale and most of the tumour cells do not show cytoplasmic immunoreactivity adjacent to the nucleus, although scattered GFAP positive processes are noted, especially adjacent to vessels.  These processes do not radiate towards the vessels as seen in ependymal perivascular pseudorosettes.
+In addition to normal endothelial staining there is very strong, uniform CD34 immunoreactivity between the tumour cells resulting in haloes of CD34 negative cytoplasm surrounding-tumour nuclei.  Included fragments of cerebral cortex show the expected normal endothelial staining.  Vimentin also shows prominent dark interstitial staining in many of the tumourfragments, although less intense than the CD34 staining, as well as some cytoplasmic staining.  Prominent activated microglia and scattered macrophages are noted within the tumour with CD68 antibodies. Approximately 4-5% of tumour nucleiare weakly p53 positive.
+NeuN identifies normal neurons in cortical fragments but not tumour cells. lmmunostains for synaptophysin, IDH R125H, chromogranin, pancytokeratin and TTFI are negative.  MIC2 (CD99) is also negative although there is high background staining.
+FISH analysis (Dr R Maltez, CLONCURRY MULTI-PURPOSE HEALTH SERVICE's Hospital) on the right frontal tumour was negative for lp/19q loss although polysomy for Ip and 19q was demonstrated.  There was no EGFR amplification.
+MGMT methylation analysis by pyrosequencing (Dr Koori Challis, QUILPIE HOSPITAL Cancer Centre) demonstrated MGMT promoter methylation in both tumours.
+Diagnosis:
+Left frontal tumour:  GLIOBLASTOMA (WHO GRADE IV)
+Right frontal tumour:  DIFFUSE ASTROCYTOMA (WHO GRADE II; see Comment)
+
+Comment:
+The right frontal lesion is a low grade glioma without high grade features and is best classified as a diffuse astrocytoma (WHO grade II).  However, a number of unusual morphological findings are noted, including the very limited GFAP staining and the strong CD34 immunoreactivity, that are not typical of most WHO grade II diffuse astrocytomas.
+Although limited or absent GFAP staining is described in some subependymal giant cell astrocytomas, there are no other features supporting this diagnosis.  Similarly, although CD34 immunoreactivity is a feature of many glioneuronal tumours and of pleomorphic xanthoastrocytomas, the other morphologicaland immunohistochemical findings in this case do not support these diagnoses.
+The relationship between the left and the right frontal lesions is uncertain.  Although they are radiologically and morphologically distinct, suggesting separate lesions, the possibility of microscopic continuity or a common origin cannot be entirely excluded. FISH analysis to assess Ip and 19q polysomy and EGFR amplification will be performed on the left frontal glioblastoma.  If clinically indicated, further genetic analysis may be helpful.
+This case was reviewed by Dr Arie Perry (Director of Neuropathology, UCSF) who agreed that the left frontal lesion is a glioblastoma (WHO grade IV).  He also agreed that the right frontal tumour is unusual but considered that the features were those of a low grade tumour, best classified as a diffuse astrocytoma (WHO grade II).
+commented that he had also seen low grade astrocytomas with limited GFAP immunoreactivity.  He suggested that further immunostaining for other glial markers,
+including Olig-2, Sox-2 and S100, might-be helpful.
+

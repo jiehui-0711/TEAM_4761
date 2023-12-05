@@ -1,0 +1,59 @@
+
+277298.WLF
+SHENEMAN, Michel
+27S29884
+CLINICAL:
+Lung cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Right upper lobe lung" consists of right upper lobe of lung measuring up to 50mm (medial to lateral), 210mm (superior to inferior) and 170mm (anterior to posterior).  Post inflation the lobe weighs 462.2g.  A stapled resection margin is present on the medial aspect inferior to the hilum and is inked blue, staples removed. The pleural surface is smooth and shiny with some dark discoloration present. 
+ In the lower area of the lobe, 46mm from the bronchial margin and 12mm from the nearest surgical margin, there is a irregular subpleural tumour present with associated pleural puckering.  The tumour has an ill-defined edges and measures up to 30mm (medial to lateral), 40mm (superior to inferior) and up to 60mm (anterior to posterior).  Within this area there is a solid component measuring up to 25mm (medial to lateral) x 35mm (superior to inferior) x 45mm (anterior to posterior).  Extending from the solid component there is grey to black discoloured tissue which is softer in consistency (?tumour).  On sectioning the lobe the remainder of the lung parenchyma shows no other focal lesions.  
+Blocks:  1 - bronchial margin; 2 - vascular margin; 3 - four perihilar lymph nodes; 4 & 
+5 - one disrupted large perihilar lymph node; 6 to 9 - one full face lesion in quadrants (block 7 - closest stapled surgical margin); 10 - tumour underlying pleural puckered area; 11 - tumour reserve block; 12 - tumour with surgical margin; 13 - tumour with surrounding soft grey area; 14 - soft grey area of lesion abutting puckering pleura; 15 rep.lobe apex; 16 - rep central ; 17 - rep. central tumour; 18 - bronchial margin (nb. fresh tumour tissue was sampled for potential tumour banking).
+B. Specimen labelled "Bronchial trachea lymph node" consists of two lymph nodes measuring 8mm and 10mm.  AE 1 block.
+C. Specimen labelled "Hilar lymph node" consists of one lymph node in two pieces measuring in aggregate, 20 x 8 x 5mm.  AE 1 block.
+D. Specimen labelled "Paratracheal lymph node" consists of one irregular piece of fibrofatty tissue measuring in aggregate, 30 x 20 x 10mm containing several lymph nodes measuring from 6mm to 25mm.  
+Blocks:  1 - four lymph nodes; 2 - remaining possible lymph nodes.  (TO:  FE; ZV/mm 8.1.63) 
+MICROSCOPIC:  (Reported by Dr G Macura)
+A.  The 60mm subpleural tumour is an invasive adenocarcinoma. The tumour is associated with indrawing of the visceral pleura and abuts but does not penetrates its elastic layer (PL0).  The immunoprofile of the tumour (TTF1 and CK7 positive, CK20 and PSA negative) is consistent with a lung primary.
+A synoptic report for lung carcinoma follows: Specimen type:   Right upper lobe lobectomy
+Tumour location:  Peripheral. 
+Tumour Morphology:
+Tumour type:  Adenocarcinoma.  Papillary predominant (50%), acinar pattern (40%) and lepidic pattern (10%)
+Histological grade:  Well to moderately differentiated.   
+Tumour description:  The tumour is an invasive adenocarcinoma with a papillary predominant (85%) architecture comprising glands supported by fibrovascular cores. Scattered apical mucin vacuoles (dPAS) positive are seen. Acinar areas comprise approximately 40% and are associated with central fibrosis measuring approximately 8mm.  Peripherally, corresponding to the softer textured areas described grossly, there is lepidic growth (10%).  No micropapillary growth or squamous differentiation is seen.  No separate tumour nodules are identified.
+Staging/Prognostic Factors:
+Tumour size:  60mm maximum diameter (macroscopically).
+Separate tumour nodules:  Not seen 
+Vessel invasion:  Not seen 
+Perineural invasion:  Not seen 
+Pleural invasion:  Tumour abuts but does not penetrate the elastic layer of the visceral pleura (PL0).
+Resection margins:
+Bronchial margin:  Not involved with tumour clearance of 46mm.
+In situ carcinoma:  Not seen.
+Vascular margin:  Not involved.
+Other surgical margin (staple line at hilum):  Not involve with tumour clearance of 
+5.5 mm (block 12)
+Direct involvement of contiguous structures: Absent 
+Lymph nodes:  
+Five (5) peribronchial lymph nodes show anthrosilicosis but no evidence of malignancy.
+Block suitable for further testing: (A11)
+Ancillary test findings:
+Immunohistochemical stains:  -   Positive:  TTF1, CK 7
+-   Negative:  CK20, PSA.
+This pattern of immunoexpression is consistent with a primary lung tumour.
+Molecular pathology testing:   Not performed - molecular testing can be performed upon receipt of a request form.
+Pathological tumour stage:  Stage 1B (pT2, N0, MX) (AJCC 2010, 7th edn).  
+Non-neoplastic lung: Away from the tumour the lung parenchyma shows patchy mild aggregates of intraalveolar pigmented macrophages.  No interstitial fibrosis is seen. The walls of the pulmonary arterioles and small arteries show mild muscular hypertrophy.  No obstructive pneumonitis changes are seen.
+B. Sections show two lymph nodes with marked anthracosis.  No evidence of malignancy.
+C. Sections show one lymph node with marked anthracosis.  No evidence of malignancy.
+D. Sections show eleven lymph nodes with marked anthracosis.  No evidence of malignancy.
+SUMMARY:
+A. Right upper lobe lung:  
+-   Papillary predominant invasive adenocarcinoma consistent with lung primary. -   Bronchial and stapled resection margin clear. -  No definite invasion of visceral pleura (PL0) -   Five (5) negative peribronchial lymph nodes.
+B. "Bronchial trachea lymph node".  -   Two (2) negative lymph nodes.
+C. Hilar lymph node.  
+-   One (1) negative lymph node.
+D. Paratracheal lymph node. 
+-   Eleven (11) negative lymph nodes.
+
+

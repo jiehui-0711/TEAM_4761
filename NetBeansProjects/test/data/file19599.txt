@@ -1,0 +1,80 @@
+SPR no: 09C794196V
+MRN no: 091794
+Site_name: EAST WIMMERA HEALTH SERVICE - DONALD
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report09C79419,09C79419 (09C794196V) LEANZA, DANNETTE VLADIMIR MARVIN
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GI endometrioid adenoCA. Hep B.
+Uterus tubes and ovaries. Right pelvic sentinel node. Left pelvic sentinel node.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. Consists of an uterus with attached cervix and bilateral adnexa, weighing 102g. The uterus measures 85mm superior to inferior, 50mm cornu to cornu, 38mm anterior to posterior. The cervix measures 25x20x5mm, with a centrally placed os, 5mm in length. The ectocervix appears partially cauterised over an area, measuring 15x6mm, but is otherwise unremarkable in appearance. The serosa of the uterus is pink, shiny and distorted by subserosal nodule, measuring 15mm posteriorly. A rough area is also seen in the anterior wall, measuring 30x20mm, towards the right hand side. The roughen region is inked yellow. Remaining margins anterior-blue, posterior-black. Specimen is sliced as follows:
+
+One longitudinal sliced centrally followed by transverse sections of the remaining right and left half of the uterus. Cut surface shows an endometrial cavity, 60mm in length with a polypoid nodule attached to the fundus. The nodule measures 40x20x15mm, and has a cream, whorl cut surface with an ill-defined base, 6mm, to the serosal surface. Multiple circumscribed pale nodules are also seen within the anterior and posterior myometrium up to 12mm in size.  The endometrium is flattened around the polypoid mass, but in the right lower uterine segment the endometrium is up to 4mm thick and is 3mm to the anterior resection margin. The right fallopian tube with fimbrial end measures 55mm in length, 5mm in diameter. The serosa is smooth and shiny and appears intact. The right ovary measures 15x10x8mm. The cut surface of the right tube and right ovary are unremarkable in appearance. The left fallopian tube with fimbrial end measures 40mm in length, 5mm in diameter, attached to an ovary 15x13x8mm. The serosa of the tube and ovary are intact. Siuatated at the proximal end of the left tube is a fibroid, 15mm in diameter, which has a circumscribed cream, whorl cut surface. The cut surface of left ovary and tube are unremarkable.
+
+(1-6 central slice [1 anterior and posterior cervix; 2 lower segment/upper cervix; 3&amp;amp;4 anterior and posterior wall; 5&amp;amp;6 fundus with polyp attachment]; 7 additional section of fundus, polyp attachment; 8 trimmings of polyp; 9&amp;amp;10 posterior and anterior wall, polyp attachment in 9, 10 has fibroid; 11&amp;amp;12 right side transverse section, Slice 5; 13&amp;amp;14 right side transverse section, Slice 6; 15 anterior uterine wall with adhesion; 16&amp;amp;17 Slice 9, right side, posterior and anterior with adhesion; 18&amp;amp;19 right side, Slice 10, polypoid area of endometrium, tumour bank is Block 19; 20 sequent endometrium, Slice 11 on right; 21 thickened endometrium, Slice 12 on right; 22 transverse section of endocervix; 23 right cornua; 24 right tube, fimbrial end; 25 right ovary; 26 left cornua; 27 left tube, fimbrial end;  28 left ovary with transverse section of tube; 29 right parametrium; 30 left parametrium; 31 further section of cervix [please see block diagram]). RS (M-31)
+
+B. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. Consists of one piece of fatty tissue, 12x6x5mm, bisected. AE (2-1)
+
+C. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Consists of two pieces of fatty tissue, 10x10x3mm, 15x5x3mm, containing four lymph nodes up to 5mm. AE (2-1/ JC/cy)
+
+MICROSCOPIC:   (Dr. A. Henningsen)
+A-C. Sections show an endometrioid endometrial carcinoma of the uterine corpus arising in a background of complex atypical hyperplasia. The tumour shows variable morphology with areas of classic glandular architecture with focal squamous morules and areas of solid nests and sheet like areas (5-50% of the tumour). The nuclei are pleomorphic with visible nucleoli and frequent atypical mitoses and necrotic areas.  Sheets and cords of small cells accompanied by hyalinised stroma are also present, showing crush artefact.  The anterior wall of the specimen is disrupted (A4) and shows direct communication with free floating tumour nests.  However no tumour is present at the uterine surface.  The features are summarised below:
+
+SYNOPTIC REPORT FOR ENDOMETRIAL CARCINOMA
+TUMOUR TYPE:  Endometrioid endometrial carcinoma
+
+FIGO GRADE: 3 (architecture grade 2, nuclear grade 3)
+
+MYOMETRIAL INVASION: 	Invasion into outer half of myometrium (A14)
+- DEPTH OF MYOMETRIAL INVASION:  5mm
+- MYOMETRIAL THICKNESS:  9mm
+- % OF MYOMETRIUM INVADED:  60%
+FOCALITY: Multifocal
+TUMOUR INVOLVES: fundus, body, lower uterine segment, cervical glands, and the surface of the large endometrial polyp.
+INVOLVEMENT OF CERVIX: No (tumour colonises the glands but no stromal invasion)
+INVOLVEMENT OF UTERINE SEROSA: No
+VASCULAR INVASION: Present (A4)
+EXCISION MARGINS: clear by 3mm to anterior ragged subserosal resection margin (A4).
+OTHER FEATURES:
+- Adjacent endometrium: complex atypical hyperplasia
+- Polyps: The lumen is occupied by a large endometrial polyp, the surface of which is colonised by carcinoma.  Carcinoma does not involve the body of the polyp.
+- Adenomyosis: Present and involved by endometrial carcinoma
+- Multiple benign leiomyomas
+ADNEXAE:
+Left fallopian tube: Not involved
+Right fallopian tube: Not involved
+Left ovary: Not involved
+Right ovary: Not involved
+LYMPH NODES: Nodes involved: 0, Total number: 4
+Specimen B (right pelvic sentinel node): one lymph node with no malignancy.
+Specimen C (left pelvic sentinel node): three lymph nodes with no malignancy.
+Cytokeratin immunohistochemistry: Negative
+
+STAGING (AJCC/UICC TNM 7):  pT1b pN0 cMx
+FIGO STAGE (2008): Stage IB
+
+Immunohistochemistry:
+The tumour shows positive staining for vimentin, wild type staining pattern for p53. There is patchy staining for CD10 (in the crushed areas), CD56 and p16.
+There is negative staining for oestrogen receptor, progesterone receptor, synaptophysin, chromogranin, AMACR, NapsinA, CEA.
+
+Immunohistochemistry for mismatch repair proteins:
+MLH1: NEGATIVE
+PMS2: NEGATIVE
+MSH2: Preserved positive staining
+MSH6: Preserved positive staining
+
+
+DIAGNOSIS:
+A. UTERUS, BILATERAL TUBES AND OVARIES:
+- FIGO GRADE 3 ENDOMETRIOID ENDOMETRIAL CARCINOMA, FIGO STAGE 1B
+
+B. RIGHT PELVIC SENTINEL NODE:
+- ONE LYMPH NODE WITH NO MALIGNANCY
+
+C. LEFT PELVIC SENTINEL NODE:
+- THREE LYMPH NODES WITH NO MALIGNANCY

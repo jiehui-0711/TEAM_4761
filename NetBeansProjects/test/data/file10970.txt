@@ -1,0 +1,39 @@
+SPR no: 25F352686Y
+MRN no: 25135268
+Site_name: BROADMEADOWS HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 25135268.RYE
+HAUSMAN, CHIEKO TORIA
+25F35268,25F35268
+
+Last edited : 22/5/2066		Page: 2
+CLINICAL:
+Pelvic mass, bleeding.  PMB and bilateral pelvic masses.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a mass measuring 150 x 130 x 60mm.  The mass is partially disrupted on one surface.  The  fallopian tube measures 60mm in length with an outer diameter of 5mm.  On sectioning the mass shows  fleshy  pale areas with necrotic areas.  Two sections for frozen section.
+Blocks: 1 &amp;#8211; frozen section one; 2 &amp;#8211; frozen section two; 3 to 17 &amp;#8211; RS mass; 18 to 20  &amp;#8211; all fallopian tube.
+FROZEN SECTION REPORT:
+Carcinoma &amp;#8211; favour either endometrioid carcinoma of ovary or metastatic colorectal Ca.
+Result to Dr F Hinsey by A/Prof F Piluso/Dr F Bogany/Dr F Heikkinen at 10:50am on 22/3/16.
+B.  Specimen labelled &amp;quot;Uterus, cervix&amp;quot;, consists of a uterus with attached cervix weighing 114g in total.  The uterus measures 110 x 40 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 40 x 35mm and has an unremarkable surface.  On sectioning the endometrium measures 1mm in maximum thickness and the myometrium is 20mm in maximum thickness.  The myometrium shows three polyps on the posterior body at the fundus measuring 20 x 12 x 3mm, 15 x 8 x 4mm, 15 x 5 x 4mm.  There is also some foci of probable adenomyosis.
+Blocks: 1 to 7 &amp;#8211; full RS anterior body and cervix; 8 &amp;amp; 9 &amp;#8211; endometrium and myometrium with an area of probable foci of abnormalities; 10 to 16 &amp;#8211; full LS posterior body and cervix; 17 &amp;#8211; one polyp; 18 &amp;amp; 19 &amp;#8211; polyp (paired slice); 20 &amp;#8211; polyp.
+C.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a mass with attached fallopian tube measuring 90 x 85 x 60mm.  The serosal surface appear lobulated with  rugged areas.   The cut surface of the mass shows heterogeneous pale haemorrhagic and necrotic areas.  The fallopian tube measures 70mm in length with a diameter of 8mm.
+Blocks: 1 to 9 &amp;#8211; RS from mass; 10 to 13 &amp;#8211; all fallopian tube.
+D.  Specimen labelled &amp;quot;Pelvic tissue&amp;quot;, consists of fatty tissue measuring 70 x 35 x 15mm.  The cut surface shows uniform fatty tissue.  AE 9 blocks.
+E.  Specimen labelled &amp;quot;Left uterosacal nodule&amp;quot;, consists of two fragments of tan brown tissue measuring 25 x 30 x 10mm.  AE 3 blocks.
+F.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of an opened gallbladder measuring 70mm in length with an open circumference of 50mm and a wall thickness of 2mm.  Outer surface appears glistening with congested vessels.  The inner surface shows multifocal mucosal erosion with numerous yellowish gallstones measuring from 5 to 10mm.
+Blocks: 1 &amp;#8211; cystic duct; 2 &amp;#8211; two RS body; 3 &amp;#8211; two RS fundus.
+G.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of fatty tissue measuring 180 x 80 x 30mm.  On sectioning there is a single area of probable tumour measuring 5mm across.  The rest of the tissue show s uniform fatty tissue.
+Blocks: 1 &amp;#8211; RS of probable tumour area; 2 to 4 &amp;#8211; RS fat area.
+(TO: LM; LM/ta 25/5/66)
+MICROSCOPIC (Reported by Dr F Graniela):
+A &amp;amp; C.  Sections show high grade Mullerian adenocarcinoma of both ovaries, with overlapping features of both endometrioid and serous carcinoma.  Carcinoma is also present within adhesions at the fimbrial ends and the serosa of the tubes.  A tiny focus of carcinoma is situ is noted in the right fallopian tube.
+The tumours are positive for CK7 and PAX-8, and are negative for CK20 and CDX-2, consistent with a Mullerian primary.
+B.  The ectocevrix and endocervix are unremarkable.  The endometrium shows weak proliferative activity and shows several benign polyps.  The myometrium is unremarkable.
+D.  Sections show fatty tissue with approximately four negative lymph nodes. There is no evidence of malignancy.
+E.  Sections show numerous adhesions.  There is no evidence of malignancy.
+G.  Sections show moderate chronic cholecystitis.  There is no evidence of malignancy.
+H.  Sections show a 4mm deposit of Mullerian adenocarcinoma in the omentum.
+DIAGNOSIS:
+High grade Mullerian adenocarcinoma (mixed endometrioid and serous) involving both ovaries and tubes.  A small focus is also present in the omentum.

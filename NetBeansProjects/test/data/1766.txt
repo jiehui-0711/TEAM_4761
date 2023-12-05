@@ -1,0 +1,39 @@
+
+Episode No:  21Y6762301
+2196762.JCC
+
+KUCHENBECKER, WILLIAN 
+Lab No:  21Y67623
+Marshalls
+BAXTER  NT  2408
+Specimen: Tissue
+D.O.B:  9/9/2039
+Sex:  F
+Collected: 17/06/2014 at 13:00:  2 BUNDEENA DR-BUNDABERG HOSPITAL
+PRO Brad CEDRIC Biscoe
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+HISTORY:  
+Appendix cancer.  Peritonectomy.  Right hemicolectomy.  Omentectomy.  Right colon, omentum, peritoneum.
+Previous: see 21Y676230C,  31-01-14, HISTO REVIEW of outside slides.
+MACROSCOPIC:  
+'RIGHT COLON PERITONEAL DISEASE, OMENTUM'.  Multiple pieces of tissue.
+Omentum - there is a piece of omentum which is tattooed approximately 240x70x10mm.  No nodules are present in the omentum.  
+Small bowel - there is a piece of small bowel 110x20mm. The serosal surface has areas of haemorrhage.  The wall is 3mm in thickness and the luminal surface shows normal mucosa. There is a small amount of mesentery which is unremarkable.  
+Peritoneum - there are numerous pieces of peritoneum with an aggregate of approximately 80x80x5-10mm. There are no solid areas present. There is focal area of ? mucin, very thin layer of mucin on the peritoneal surface.  
+Right hemicolectomy - Terminal ileum, caecum and ascending colon.  The appendix is not present. The terminal ileum is 250mm in length and has a pale/dusky serosal surface, awall 3mm in thickness and a normal mucosa.  The colon is 140mm in length and 30mm in diameter.  The previous appendiceal site is seen.  No obvious tumour is present at this site.  Mucosal folds are slightly reduced around the caecum withnormal in the ascending colon.  The wall is 5mm in thickness. The serosal surface has areas of haemorrhage and the attached pericolic fat has a ? foci of mucin 5mm in diameter.  
+(1and2 omentum; 3-5 piece of small bowel [3and4 resection margins, 5 mid section]; 6-9 sections of peritoneum; 10-12 hemicolectomy specimen [10 proximal resection margin, 11 distal resection margin, 12 appendix site]; 13 ? mucin; 14and15 lymph nodes [14 two, 15 two]).  RS (M-15/XU/ank) Further sampling: 16,17 R colon serosa and attached peritoneum; 18-21 other pieces of peritoneal tissue with ?mucinous surface; AE. Further peritoneum, granular areas: 22-29 AE
+MICROSCOPIC:  
+The surface mucinous deposits and granulation tissue has been extensively sampled. Over the surface of the bowel, there is granulation tissue. Over peritoneum and focally in omentum, there are multiple relatively small deposits of surface acellular mucin which isassociated with organising granulation tissue and  mesothelial hyperplasia. Some of the mucin is calcified. The mucin deposits form small rounded nodules and a thin surface layer in some areas. 
+In this sampled multiple sections, convincing mucinous epithelium is NOT  demonstrated in any of the surface peritoneal mucin deposits. There are some reactive mesothelial cell clusters and a single small tubular structure which is in fibrin and not mucin and is considered probably mesothelial also (does not appear to be mucinous epithelium). There are some surface suture granulomas present. 
+Five sampled lymph nodes show reactive changes (0/5).
+Comments:
+In my understanding, in the setting of an appenidiceal mucinous neoplasm, the finding of widespread peritoneal deposits of acellular mucin, is generally classified along with cases of disseminated low grade mucinous neoplasm with epithelium (low grade pseudomyxoma peritonei), although associated mucinous epithelium is not demonstrated for grading. The peritoneal disease then in this case is classified as 
+'disseminated low-grade mucinous neoplasms (AJCC Grade 1) with acellular mucin only'. [AJCC mucinous tumour grading: low grade neoplasm (G1) and high grade adenocarcinomas (G2 andG3].
+The limited literature data suggest that patients with acellular peritoneal mucin have a much lower risk of disease recurrence and have an improved overall survival compared with those patients with the more common cellular low-grade disease.
+Ref:  Davison, J. M., H. A. Choudry, et al. (2014). 'Clinicopathologic and molecular analysis of disseminated appendiceal mucinous neoplasms: identification of factors predicting survival and proposed criteria for a three-tiered assessment of tumor grade. Mod Pathol. 2014 Mar 14.  [Epub ahead of print].'Modern Pathology doi: 10.1038/modpathol.2014.37.
+DIAGNOSIS:  
+RIGHT COLON, SMALL BOWEL, PERITONEUM, OMENTUM -
+- Disseminated low-grade mucinous neoplasms (AJCC Grade 1) with acellular mucin only; 
+- (equivalentto DPAM Ronnett but without neoplastic epithelium in mucin deposits, or equivalent to low grade PMP). 
+28/8/64, G Quinney.  
+

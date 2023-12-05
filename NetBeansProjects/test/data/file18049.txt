@@ -1,0 +1,85 @@
+DateOfBirth
+200212050000
+
+
+SiteName
+ALBANY HOSPITAL
+
+
+FirstName
+Manzione
+
+
+SPRID
+65Z217015U
+
+
+MRN
+65921701
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+73F with high grade serous cancer. Omentum. Epiplocia fat. Uterus, cervix,tubes and ovaries. Rectal peritoneum.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus cervix bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries, weighing 139g in total. The uterus measures 95 x 55 x 35mm and has adesions on its anterior surface. The ectocervix measures 40 x 40mm and appears unremarkable. The endometrial has a maximum thickness of 2mm and the myometrium has a maximum thickness of 23mm. No mass is seen in the endometrium. Eight fibroids which range in size from 6 to 18mm across are seen in the myometrium. The right fallopian tube measures 65mm in length and 4mm in diameter. The right ovary measures 30 x 16 x 8mm. The left fallopian tube measures 55mm in length and 6mm in diameter and the left ovary measures 25 x 14 x 9mm. Both adnexae have a smooth and shiny serosal surface. Blocks: 1 to 5 - composite LS of anterior wall of uterus and cervix; 6 to 9 - composite LS of posterior wall of uterus and cervix; 10 - fibroid; 11 - right parametrial shave; 12 - left parametrial shave; 13 to 15 - entire right fallopian tube; 16 to 17 - entire right ovary; 18 to 20 - entire left fallopian tube; 21 to 22 - entire left ovary.
+
+B.  Specimen labelled &amp;quot;Rectal peritoneum&amp;quot;, consists of two pieces of tan tissue, 16 and 17mm across. AE 1 block.
+
+C.  Specimen labelled &amp;quot;Epiplocia fat&amp;quot;, consists of a piece of fat, 15mm across. Bisected AE 1 block.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a 180 x 110 x 34mm piece of omentum. The surface is indurated. RS 3 blocks. (TO:YL/vo 9/9/71)
+
+
+MICROSCOPIC (Reported by Dr R Hardey):
+A. The sections show scattered adhesions on the serosa of the anterior uterine body and right and left parametrium with calcification and occasional degenerate, atypical cells (slides A2, A11,A12).
+Adenomyosis and intramural leiomyomata are seen in the uterus, with no atypical features.
+The endometrium is thin and inactive.
+The cervix shows Nabothian cysts and mild chronic inflammation.
+Scattered Walthard and simple serous cysts are seen adjacent to the left fallopian tube (slide A19). There are small nests of degenerate serous carcinoma in the wall of the left fallopian tube (slide A19) and an area of high grade serous carcinoma invading into the right fallopian tube (slide A13). Small, detached nests of tumour cells are seen in the lumen of the tube (slide A18).  There is no tubal carcinoma in situ.
+Small adhesions with dystrophic calcification are seen on the surface of the ovaries but there is no obvious involvement by serous carcinoma (slides A16, A17, A22).
+
+B. The sections show high grade serous carcinoma with associated fibrosis, chronic inflammation and calcification.
+
+C. The sections show lobulated mature adipose tissue consistent with epiploica. There are areas of high grade serous carcinoma with associated calcification, chronic inflammation and fibrosis on the surface.
+
+D. The sections show lobulated mature adipose tissue consistent with omentum.  There are areas of fibrous tissue containing high grade serous carcinoma with associated moderate chronic inflammation, necrosis, aggregates of foam cells and focal dystrophic calcification (chemotherapy response score 2).
+
+
+DIAGNOSIS:
+A. Uterus, ovaries and fallopian tubes: High grade serous carcinoma on serosa of uterus and parametria.
+B,C,D. Rectal peritoeum, epiploic fat, omentum: High grade serous carcinoma.
+
+
+
+
+
+
+SpecimenReceivedDate
+2189-09-25 00:00:00
+
+
+LastName
+Hollis

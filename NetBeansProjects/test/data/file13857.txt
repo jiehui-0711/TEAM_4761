@@ -1,0 +1,62 @@
+SPR no: 91G492979Y
+MRN no: 91249297
+Site_name: SUNSHINE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+34F.  Pelvic mass.  Elevated Ca 125.  Ovarian cancer.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right paracolic gutter nodule&amp;quot;, consists of nodular fatty tissue measuring 15 x 10 x 8mm.  Cut surface shows firm white tissue.
+Blocks: 1 - the frozen section; 2 - remainder.  AE.
+
+FROZEN SECTION RESULT:
+Poorly differentiated carcinoma, favour serous carcinoma.
+Phone results to Anaesthetist by Dr X Crome and Dr X Haeussler at 9:20am on 17.08.2016
+
+B.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a an ovary 180 x 150 x 80mm with attached fallopian tube 100mm long and up to 7mm in diameter.  The external surface of the ovary is roughed in two areas 70 x 50mm and 40 x 30mm (both inked black).  Slicing reveals solid and cystic cut surfaces (the solid component is predominate).  The solid component shows a heterogenous cut surface with tan friable, possible necrotic and red areas.  Attached to the surface of the ovary there is soft tissue 50 x 35 x 15mm covered by smooth tan shiny surface.  There are numerous small nodules on the shiny surface ranging from 1 to 2mm in maximum dimension (block 10)
+Blocks: 1 to 6 - the entire fallopian tube; 7 to 9 - sections from the areas with roughened surface; 10 - soft tissue attached to external surface of ovary; 11 - representative section of ovary, reserved block; 12 to 18 - representative sections of the ovary.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omental fatty tissue 110 x 75 x 10mm.  Approximately ten solid nodules are identified and scattered through the fatty tissue ranging from 3 to 7mm in maximum dimension.
+Blocks: 1 - representatives of the nodules.
+
+D.  Specimen labelled &amp;quot;Left parafimbrial nodule&amp;quot;, consists of a 10 x 10 x 7mm nodule with a unilocular cystic cut surface filled with clear fluid.  BAE 1 block.
+
+E.  Specimen labelled &amp;quot;Caecal nodule&amp;quot;, consists of a piece of tan and yellow solid tissue 18 x 14 x 4mm.  On slicing there is one nodule with pale solid cut surfaces 7mm in maximum dimension.  AE 1 block.
+
+F.  Specimen labelled &amp;quot;Transverse colon nodules&amp;quot;, consists of a nodular piece of tan and yellow solid tissue 14 x 12 x 12mm.  Sliding reveals pale solid cut surfaces.  Trisected and AE 1 block.
+G.  Specimen labelled &amp;quot;Small bowel mesenteric nodules&amp;quot;, consists of a piece of tan and yellow solid tissue 12 x 6 x 3mm.  AE 1 block.
+
+H.  Specimen labelled &amp;quot;Uterine nodule&amp;quot;, consists of a nodular piece of pale solid tissue 10 x 7 x 6mm.  BAE 1 block.   (HM/vo 20.10.66)
+
+
+MICROSCOPIC (Reported by Dr X Kaui):
+A.  Paraffin section confirm poorly differentiated carcinoma.
+
+B.  Sections of the ovary show a  high grade carcinoma focally consisting of open glands lined by cells with columnar morphology however, solid nests of tumour cells are also present.  Extensive areas of necrosis are present.  Focally the tumour cells show bizarre nuclear morphology with multinucleation and smudged chromatin.  The tumour cells show focal staining with CK7 and are positive for CA125 and PAX8.   The CK20, CDX2 and WT1 stains are negative.  The morphology and immunohistochemical profile favour a grade 3 endometrioid adenocarcinoma.  A small focus of carcinoma is adherent to the luminal epithelium of the fallopian tube.  The fallopian tube otherwise shows no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block B13)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+C.  Sections show poorly differentiated carcinoma consistent with high grade endometrioid adenocarcinoma.
+
+D.  Sections show a benign serous cyst adenoma.  There is no evidence of malignancy.
+
+E &amp;amp; F.  Sections show poorly differentiated carcinoma consistent with high grade endometrioid adenocarcinoma.
+
+G.  Sections show a single (1) benign lymph node:  There is no evidence of malignancy.
+
+H.  Sections show poorly differentiated carcinoma consistent with high grade endometrioid adenocarcinoma.
+
+
+DIAGNOSIS:
+A - H.  Right tube and ovary, colonic and uterine nodules, omentum:
+- Favour grade 3 endometrioid adenocarcinoma of the ovary.
+- Carcinoma involving paracolic gutter, omentum, caecum and transverse colon nodules and uterine nodule.
+- Single benign lymph node.

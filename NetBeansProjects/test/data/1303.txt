@@ -1,0 +1,89 @@
+
+Episode No:  97E4217625
+971421.SSH
+
+Trigleth, GRAIG 
+Lab No:  97E42176
+Scardenia
+OLD BAR  Western Australia  2729
+Specimen: Tissue
+D.O.B:  21/10/2001
+Sex:  M
+Collected: 15/01/2013 at 13:00
+Location:  Immunology-MENINGIE HOSPITAL
+DR GEORGE Jim Blackard
+Distribution: FILE-COPY
+CLINICAL:
+Mid rectal cancer.  Preop MRI T4 N0 ?invading into seminal vesicles.  Neoadj chemo DXRT long course.  At operation, seminal vesicles not involved.  No liver mets.  Good macroscopic clearance.  Rectal CA.  Psoriasis.  Smoker.  Low anterior resection.
+MACROSCOPIC:
+A.  Specimen labelled "Lower anterior resection" consists of a low anterior resection specimen  240mm long and open circumference of the rectum measuring 60mm.  The open circumference of the sigmoid colon is 42mm.  The distal end of the specimen is entirely above the anterior peritoneal reflection (no complete circumferential non-peritonealised fat).  No adhesions or seminal vesicles identified.
+Located 41mm from the distal surgical margin and well clear of the proximal margin there is a circumferential focally ulcerated tumour occupying a length of 58mm.  The tumour appears confined within the bowel wall with possible focal mesenteric invasion. The closest radial margin is on the right aspect measuring 15mm, the left radial margin is greater than 20mm and the posterior margin well clear.  There are two small possible rectal polyps measuring up to 3mm.  In the sigmoid colon nodiverticula are identified.  There are two possible sigmoid polyps measuring up to 5mm.  Proximal margin inked blue, distal light green, radial margin dark green. 
+Blocks:  1 - one rectal polyp; 2 - distal surgical margin with rectal polyp and proximal surgical margin; 3 - tumour with nearest fat margin (right); 4 - tumour most distal section; 5 to 16 - tumour AE distal to proximal, right and left respectively; 17 - two sigmoid polyps; 18 - one bisected node; 19 - five possible lymph nodes; 20 & 21 - one bisected lymph node each; 22 - four possible lymph nodes; 23 - six possible lymph nodes; 24 - four possible lymph nodes; 25 - remaining possible rectal lymph nodes; 26 - first lymph node at high point resection sigmoid colon; 27 - possible lymph nodes; 28 - three possible lymph nodes; 29 - two possible lymph nodes; 30 to 33 possible lymph nodes each; 34 - anterior distal surgical margin including serosal surface (staple line removed); 35 to 37 - representative posterior radial margin of rectal fat.
+B.  Specimen labelled "Distal donut" consists of a distal donut measuring 13mm in length and 16mm in circumference.  The mucosa is unremarkable.  Surgical margin inked blue, stapled line removed.  Serially sectioned in a clockwise fashion.  AE 2 blocks.   (ED/bl 18/3/63)
+MICROSCOPIC (Reported by Dr Z Campau):
+A.  Sections show a moderately differentiated adenocarcinoma within the middle-third of the rectum.  A synoptic report follows:
+Macroscopic Description
+
+Site of tumour:  Mid rectum	
+Maximum tumour diameter:  Approximately 58mm
+Distance of tumour to nearer cut end:  41mm from distal end
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above; the distal end of the specimen is entirely above the anterior peritoneal reflection.
+
+Microscopic Description
+
+Morphological Description
+Sectionsshow a circumferential ulcerated moderately differentiated adenocarcinoma within the rectum.  The tumour is composed of scattered, often widely separated, small tubular malignant glands or more complex glandular structures which invade through the muscularis propria reaching the interface of the expanded fibrotic subserosa with mesentery.  No single cell invasion is seen.  No lymphovascular or perineural invasion is seen.  Anteriorly, in an area presumably covered by serosa (mesothelial layer denuded) the tumour extends close to but does not penetrate the presumed serosal surface and there is associated organising haemorrhage but no adhesions are seen.  The ulcerated area of mucosa shows no residual carcinoma but there are adjacent foci of atypical mucosal glands including definite focal high grade dysplasia within the confines of the tumour.  There is a mild response to neoadjuvant therapy with moderate stromal fibrosis and a patchygiant cell reaction to foci of dystrophic calcification (the latter almost abutting the presumed serosal surface); these changes are limited to the rectal wall with no significant stromal alteration within the mesorectum.  Other features of radiotherapy effect include hyaline alteration of vessel walls and intimal foamy histiocytes.  The non-neoplastic mucosa shows patchy chronic architectural disorder with irregular and branched crypts.  No basal plasmacytosis or granulomas are seen and the crypt architectural changes may relate to therapy induced chronic ulceration.
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3 - Beyond muscularis propria (block A11).
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised radial margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  12mm (microscopic) (block A3)
+Lymph nodes
+Number of lymph nodes present:  Twenty-seven (27)
+Number of lymph nodes involved:  One (1) (block A28)
+pN1a - Metastases in 1 regional LN
+Lymphovascular invasion
+Not seen
+Perineural invasion
+Not seen
+Histologically confirmed distant metastases
+pM0 - No distant metastasis
+Background abnormalities/other comments
+x1 rectal hyperplastic polyp; the other polypoid  areas of mucosa described grossly are histological unremarkable and probably represents polypoid mucosal folds.
+Residual tumour status
+R0 - No residual tumour
+Response to neoadjuvant therapy
+Grade 2 (minimal response) - residual cancer outgrown by fibrosis
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclearstaining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Other findings:  Some mucosal chronic architectural changes within the area of tumour (? therapy related).
+Stage (AJCC 7TH Edition, 2010)
+(y)pT3     pN1a     pM0     R0
+B.  Sections of rectal mucosa and wall show no evidence of malignancy.  The crypt architecture is normal. 
+
+
+DIAGNOSIS:
+A & B:  Low anterior resection and distal donut.
+-  Mid rectal moderately differentiated adenocarcinoma.
+-  12mm clear of closest non-peritonealised radial margin.
+-  One of twenty seven (1/27) lymph nodes contain metastatic adenocarcinoma.
+-  Stage (y) pT3, N1a, M0, R0.
+-  Mismatch Repair Deficiency Status:  Preserved.
+-  Minimal response to neoadjuvant therapy.  
+-  x1 rectal hyperplastic polyp.
+-  Distal donut uninvolved.
+-	 
+

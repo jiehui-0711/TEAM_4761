@@ -1,0 +1,20 @@
+SPR no: 85C654094H
+MRN no: 851654
+Site_name: BATEMANS BAY HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Subcutaneous sarcoma - leiomyosarcoma on core (done in ROSEBERY).
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Sarcoma right upper thigh stitch 12 o&amp;apos;clock&amp;#8220;, consists of an orientated ellipse of skin and subcutis measuring 110 x 40mm to a depth of 20mm. There is a single suture in place designated 12 o&amp;apos;clock.  The 3 o&amp;apos;clock margin is inked blue, 9 o&amp;apos;clock margin is inked black and deep margin is inked red. The specimen is sliced into fourteen slices from 12-6 o&amp;apos;clock. The cut surface shows a circumscribed pale white nodule measuring 20 x 20 x 10mm.  The lesion lies 4mm from deep margin, 23mm from 9 o&amp;apos;clock margin, 11mm from 3 o&amp;apos;clock margin, 13mm from superficial/ skin.  The rest of the tissue is uniformly fatty.
+Block 1 &amp;amp; 2 - representative sections of the 12 o&amp;apos;clock margin; 3 - representative sections of slice 2; 4-6 - slice 4; 8-10 - slice 5; 11-13 - slice 6; 14-16 - slice 7; 17 - representative sections of slice 8; 18-20 - slice 9; 21 - representative sections of slice 11; 22 &amp;amp; 23 - slice 13; 24 &amp;amp; 25 - representative sections of 6 o&amp;apos;clock.  See diagram.   (LM/ec   16.12.66)
+
+
+MICROSCOPIC (Reported by Dr V Ards and registrar Dr V Femrite):
+Sections of skin and subcutis show a 20mm well-circumscribed tumour within the subcutaneous tissue.  The tumour is composed of spindle cells with a high nuclear-to-cytoplasmic ratio, blunted nuclei, and eosinophilic cytoplasm.  The tumour cells are arranged in fascicles and display moderate-to-severe nuclear atypia. There is no necrosis.   Mitoses are frequent (9 per 10 hpf); the Ki67 index is approximately 20%.  The tumour is positive for desmin and SMA, and negative for S100, SOX10 and myogenin.  There is very focal non-specific staining with panCK.  These findings are consistent with a leiomyosarcoma.  The tumour is 2mm clear of the (closest) deep margin.  All other margins are well clear (greater than 10mm).  The surrounding adipose tissue and overlying skin show no significant abnormality.
+
+
+DIAGNOSIS:
+Right upper thigh:  Leiomyosarcoma, completely excised

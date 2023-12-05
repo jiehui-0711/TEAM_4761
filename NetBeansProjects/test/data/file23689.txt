@@ -1,0 +1,108 @@
+DateOfBirth
+200001170000
+
+
+SiteName
+WAR MEMORIAL HOSPITAL
+
+
+FirstName
+Seton
+
+
+SPRID
+58Q905147J
+
+
+MRN
+5869051
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Virgilio
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+SUPPLEMENTARY REPORT (2.9.2072)
+
+
+CLINICAL:
+Ovarian mass.  Abdominal pain.  Bloating sensation.  Ca 125 - 42.  Ca ovary high grade.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary (fresh)&amp;quot;, (NB: PHONE CALL FROM THEATRE - SPECIMEN LABELLED INCORRECTLY, SHOULD BE RIGHT TUBE AND OVARY) consists of a fallopian tube 42mm in length x 8mm in diameter attached to an ovarian mass 85 x 50 x 15mm.  The ovary has a smooth external surface and is unilocular with a 50 x 40mm solid / papillary area internally.  Otherwise the internal surface is smooth.  Two RS from frozen section.
+Blocks: 1 and 2 - frozen section deblocked; 3 to 9 - representative solid area of ovary (75 percent of solid area AE); 10 - fallopian tube.
+FROZEN SECTION REPORT:
+High grade carcinoma, favour female genital tract primary, favour serous.
+Phone result to Dr Llopis by Dr N Creten and Dr N Amrhein at 10:00am on 06.09.2017.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix fallopian tube and ovary&amp;quot;, consists of a uterus with attached cervix, left tube and ovary weighing 31 grams in total.  The uterus measures 55 x 30 x 18mm and has a smooth shiny serosal surface.  The ectocervix measures 22 x 20mm and is haemorrhagic but otherwise unremarkable.  The endometrium is 1mm in thickness and the myometrium is up to 7mm in thickness.  The myometrium is unremarkable.  The left fallopian tube measures 48mm in length x 5mm in diameter.  The left ovary measures 17 x 7 x 7mm and has a disrupted surface but is otherwise unremarkable.
+Blocks: 1 and 2 - full LS through anterior body and cervix; 3 and 4 - full LS through posterior body and cervix; 5 - ovary; 6 and 7 - fallopian tube.  AE.
+
+C.  Specimen labelled &amp;quot;Bowel donut&amp;quot;, consists of two donuts of bowel measuring 15 x 15 x 7mm and 18 x 15 x 5mm.  The mucosa is unremarkable.  Representative sections in 1 block.
+
+D.  Specimen labelled &amp;quot;Sigmoid colon&amp;quot;, consists of a length of bowel 75mm in length x 25mm in diameter.  The bowel is received opened longitudinally and is unable to be oriented.  One end is inked blue and the other black.  There is surrounding mesocolon to a width of 50mm.  Within the meso colon there is a solid tan tumour measuring approximately 40 x 35 x 35mm.  The cut surface of the tumour is sclerotic but does not appear to involve the bowel serosa and appears confined to the surrounding fat.  The bowel mucosa is unremarkable with normal mucosal folds present.  Lymph nodes are found within the fat measuring 2 to 3mm in maximum dimension.  Representative sections.
+Blocks: 1 - bowel margins; 2 - bowel and closest tumour; 3 to 5 - representative tumour; 6 - lymph nodes.
+
+E.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a fragment of omentum measuring 20 x 17 x 15mm.  There is a deposit of tumour within the omentum over an area of 45 x 15 x 10mm.  The tumour has a dense sclerotic cut surface.  Representative sections of the tumour in 3 blocks.
+(TO:JL/vo 11/9/67)
+
+
+MICROSCOPIC (Reported by Dr N Ellerkamp):
+A.   Sections show high grade serous carcinoma involving the right ovary.  The fallopian tube is uninvolved and unremarkable.
+
+B.  Sections show high grade serous carcinoma involving the left ovary and the wall of the left tube including the fimbrial end.  No carcinoma is situ is seen in the tube.
+The ectocervix and endocervix show no significant abnormality.  The endometrium is weakly proliferative.  The myometrium is unremarkable.
+
+C.   The large bowel is unremarkable.  There is no evidence of malignancy.
+
+D.   Sections show high grade serous carcinoma involving the pericolic fat.  The tumour abuts but does not penetrate the muscularis propria.  Two of nine (2 of 9) lymph nodes show metastatic serous carcinoma.  The proximal and distal surgical margins are free of carcinoma.
+
+E.  The omentum shows a large deposit of high grade serous carcinoma.
+
+
+DIAGNOSIS:
+High grade serous carcinoma of the right ovary, also involving the left ovary and tube, the sigmoid colon and the omentum.
+
+
+SUPPLEMENTARY REPORT (Reported by Dr N Dreitzler 2.9.2072):
+ER and PR staining was performed as requested by Dr N Rehl.
+
+Receptors (Block E3, omentum):
+ER:	Positive
+75% of nuclei stained
+Predominant intensity of staining:  Strong
+PR:	Positive
+30% of nuclei stained
+Predominant intensity of staining:  Strong
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2184-07-03 00:00:00
+
+
+LastName
+Kudzma

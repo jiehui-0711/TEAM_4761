@@ -1,0 +1,71 @@
+SPR no: 87F108604J
+MRN no: 872108
+Site_name: NANANGO HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Reporttrrowtblind0brdrbfcs1 Episode No:  87F108604J
+872108.QBKfs24
+rpaddl108t
+fs24SODAWASSER, CARLENA
+alang1025 trbrdrrrdrw10 rowd lbrdrbLab No:  87F10860,87F10860
+Saint Mayeul
+cgrid0 lshdrawnil drt10 tbg1033
+*HomeAddressCityMIRANDA    4468
+5 brdrscltxlrtbn
+1033rw10 0rw10 rdrs3rdrsin0Specimen: Washings,Tissue
+D.O.B:  13/9/1995
+Sex:  F
+windtype3 cellx6390drw10 brdrsh31033Collected: 10/03/2016  at 13:05
+Location:  THE CANBERRA HOSPITAL
+sdrr p1033
+DR HUMBERTO STOTTLEMYERcell hrpaddr108w10 fault
+0
+rbrdrtdrw10 toDistribution:   DR Dimodica, DR Broce,    FILE-COPY,   NSW-CANCER-REGISTRY
+pnum746265 paddfl311746265
+ht
+ql HISTORY:  cs0
+Uterus, tubes and ovaries, left para-aortic node, right para-aortic nodes; right common ileac nodes; right pelvic nodes, omentum, ?fallopian tube ca rcinoma.
+MACROSCOPIC:  rch
+A. &amp;quot;UTERUS, CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES&amp;quot;. A total hysterectomy specimen weighing in total 71g. consisting of a uterus measu ring 80x45x25mm with attached cervix 35x25x25mm. The external os is oval 5x5mm. Attached is a right fallopian tube measuring 60x11mm, right ovary 26x15x6mm, left fallopian tube 45x7mm and a left ovary 29x15x10mm. The identified endometriu m is up to 3mm, the myometrium is trabeculated and up to 12mm thick with scarring at the anterior lower segment (?previous CS).
+There is a mass arising from the origin of the right fallopian tube measuring 40x30x27mm and is  sparing the distal 25mm as well as the fimbrial end of the right tube. The cut surface is solid white and homogenous. It is abutting the overlying serosal surface macroscopically. It appears to be confined to the fallopian tube with no ex tension to the nearby ovary or the adjacent right cornu. The cut surface of the left tube, left ovary and right ovary are unremarkable. There is a possible polyp in the posterior body of the uterus measuring 5mm.
+(1-7 LS acr oss the uterus [1 anterior cervix; 2 posterior cervix; 3 anterior isthmus; 4 posterior isthmus; 5 anterior body; 6 posterior body with polyp; 7 fundus]; 8 left tube fimbrial end bisected; 9 remainder left tube five TS; 10&amp;amp;11 each one LS l eft ovary; 12&amp;amp;13 right ovary [12 three TS; 13 two TS]; 14&amp;amp;15 each one LS right fimbrial end; 16 distal end of tumour with adjacent normal right tube; 17 TS mass mid tube; 18&amp;amp;19 continuous piece full face of tumour; 20 proximal end of tumo ur; 21 tumour block for tissue banking). RS (M-21/ZH/ht).
+B. &amp;quot;RIGHT COMMON ILIAC NODES&amp;quot;. Two fibrofatty pieces of tissue measuring 30x20x10mm and 25x15x13mm. Two lymph nodes identified measuring 24mm and 18mm in maximum diamete r. A possible white deposit 9mm is noted in the largest node. The smaller node appears to be totally replaced by firm white nodule.
+(1&amp;amp;2 largest lymph nodes in two blocks; 3 smaller lymph node, five TS). RS (M-3).
+ar C. &amp;quot;RIGHT PELVIC NODE&amp;quot;. A fibrofatty piece of tissue 27x20x13mm bearing one lymph node 21mm in maximum diameter and is macroscopically involved with a white hard deposit 10mm in maximum extent.
+(1&amp;amp;2 lymph node in two blocks ). RS (5-2).
+D. &amp;quot;LEFT AORTIC NERVE&amp;quot;. A possible single lymph node 25x20x13mm with firm white cut surface [macroscop ic involvement by a tumour deposit]).
+(1&amp;amp;2 one lymph node in two blocks). AE (M-2).
+E. &amp;quot;RIGHT PARA-AORTIC NODE&amp;quot;. Multiple fibrofatty pieces of tissue measuring 40x35x10mm. One possible lymph node identified 20x1 3x10mm with firm white cut surface. Partially cystic areas are seen on cut surface.
+(1 ?cystic lymph nodes four TS; 2 remainder fragments). AE (M-2).
+F. &amp;quot;OMENTUM&amp;apos;. A fibrofatty piece of tissue consistent with omen tum measuring 300x150x20mm. The outer surface is smooth glistening with focal areas of haemorrhage. Specimen serially sliced, no definite firm nodules or deposits are identified.
+(1-5 RS omentum). RS (M-5/ZH/ht).
+h
+MICROSCOPIC:    (Dr X Naumoff)insrsid10553329
+A. Sections of cervix show Nabothian&amp;#8217;s cysts and focal transitional cell metaplasia. The endometrium is atrophic with cystic dilatation. There i s an endometrial polyp identified. The left fallopian tube appears unremarkable. Both left and right ovaries appear unremarkable.
+In the wall of the right fallopian tube, there is an infiltrating poorly-differentiated tumour w ith features favouring high grader serous adenocarcinoma. The tumour comprises of pleomorphic epithelioid cells arranged in irregular tubule- glandular and solid patterns.   There is central necrosis.  Numerous mitotic figures are identif ied.  Surrounding the tumour, there is fibrosis and chronic inflammation. There is focal lymphatic permeation. The tumour involves the free serosal surface of the tube.
+The intact tubal epithelium shows no evidence of intraep ithelial carcinoma.
+Adjacent to the right ovary, there is an involved lymph node noted.
+Immunohistochemistry stains show positive staining for Cytokeratin Cam 5.2, Cytokeratin 7, WTF-1, PAX-8, p16, oestrogen and pr ogesterone receptors.
+There is negative staining for Cytokeratin 20, p53, CEA, Calretinin.
+B. Metastatic carcinoma is seen in two out of two lymph nodes identified. There is extranodal spread.
+C. Met astatic carcinoma is present in one lymph node identified.
+D. Metastatic carcinoma with extranodal spread and extensive necrosis are noted involving the entire lymph node identified. Tumour deposits are noted in the adjacent f ibroadipose tissue.
+E. Sections show fibroadipose tissue in which there are two lymph nodes identified, one of which shows involvement by metastatic carcinoma. The surrounding fibroadipose tissue shows large deposits of carcino ma with extensive necrosis.
+F. Sections show fibroadipose tissue in which there are changes of fat necrosis and fibrous scaring. A small lymph node is identified. No evidence of malignancy.
+ltrchDIAGNOSIS:
+A. UTERUS, CERV IX, BILATERAL OVARIES AND FALLOPIAN TUBES
+- HIGH GRADE SEROUS ADENOCARCINOMA INVOLVING RIGHT FALLOPIAN TUBE.
+FIGO STAGE IC
+B. RIGHT COMMON ILIAC NODES
+- METASTATIC CARCINOMA IN TWO OUT OF TWO LYMPH NODES IDENT IFIED.
+C. RIGHT PELVIC NODE
+- METASTATIC CARCINOMA IN ONE LYMPH NODE IDENTIFIED.
+D. LEFT AORTIC ?NODE
+- METASTATIC CARCINOMA IN ONE LYMPH NODE AND TUMOUR DEPOSITS WITHIN  ADJACENT FIBROADIPOSE TISSUE.
+E. RIGHT PARA-AORTIC NODE
+- METASTATIC CARCINOMA IN ONE OUT OF TWO LYMPH NODES AND TUMOUR DEPOSITS IN ADJACENT FIBROADIPOSE TISSUE.
+F. OMENTUM
+- NO EVIDENCE OF MALIGNANCY.
+s1818/5/2066 cy
+tlchSUPPLEMENTARY REPORT 1 May 2066
+Immunohistochemistry stain for MLH-1, PMS-2, MSH2 and MSH6 proteins are positive.rch

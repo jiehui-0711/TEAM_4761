@@ -1,0 +1,127 @@
+SPR no: 52P961798Z
+MRN no: 5259617
+Site_name: ST VINCENT'S HOSPITAL (DARLINGHURST)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report52P96179,52P96179 (52P961798Z) Di GEMMA, RAYMUNDO
+HISTOPATHOLOGY REPORT
+BANKSTOWN-LIDCOMBE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Serous endometrial Ca
+1. Peritoneal washings for cytol
+2. Uterus, tubes and ovaries
+3. Left pelvic nodes
+4. Left obturator nodes
+5. Right pelvic nodes
+Omental biopsy
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, FALLOPIAN TUBE, OVARIES&amp;quot;. A uterus with attached cervix, bilateral tubes and ovaries. The specimen is received partially opened coronally. Adnexa removed from the main specimen. The right ovary and fallopian tube together weigh 7g. The fallopian tube measures 60mm in length. There is evidence of previous tubal ligation. The serosa is unremarkable. The ovary measures 20x10x10mm. The surface appears somewhat cystic. On sectioning, the cut surface shows multiple cysts with smooth inner lining. Within the adjacent soft tissue is a nodule 8mm in maximum dimension. The nodule has a haemorrhagic tan cut surface. The left ovary and fallopian tube together weigh 4g. The fallopian tube measures 50mm in length with a maximum diameter of 6mm. There is evidence of previous tubal ligation. The serosa is unremarkable. The ovary is 20x12x8mm with a cyst measuring 15mm. On sectioning through the ovary, the cyst has a smooth inner lining and is filled with clear serous fluid.
+
+(1 right side fimbrial end fallopian tube; 2&amp;amp;3 remainder fallopian tube; 4&amp;amp;5 right ovary; 6 shave right cornu; 7 fimbrial end left fallopian tube; 8 remainder left fallopian tube; 9&amp;amp;10 left ovary; 11 shave left cornu; 12 right parametrial tissue; 13 left parametrial tissue;
+
+The uterus with attached cervix together weigh 214g and measures 100mm superior to inferior, 55mm intercornual distance, ectocervix is 30x12mm. Anterior inked blue, posterior black. As previously mentioned, the specimen was received opened in the coronal plane. There is an exophytic mass bulging out of the endometrium with a grey friable appearance. It replaces most of the myometrium and measures 75mm superior to inferior, 70mm right to left and 60mm anterior to posterior. Most of the myometrium is replaced by the tumour, anteriorly it appears to involve 6mm of 12mm myometrial thickness, posteriorly the tumour replaces the entire myometrium over an area measuring 45mm. It bulges the serosa posteriorly. It does not appear to have breached it and is less than 1mm from the serosal surface. In this area it forms a nodular configuration. Also noted in the soft tissue at the pouch of Douglas there are two cysts, one is pedunculated. The first cyst is  5mm in maximum dimension, the second is 12mm in maximum dimension. On sectioning through the pedunculated cyst, the inner surface shows gelatinous material with solid pale cream component. The smaller cyst is filled with serous fluid with a smooth inner lining. The left half of the uterus is sectioned from fundus to cervix into 15 slices.
+
+14 pedunculated cyst; 15-22 one surgical slice of tumour [15 anterior cervix, 16 anterior lower uterine segment, 17 anterior endomyometrium, 18 anterior fundus, 19 posterior fundus, 20 posterior endomyometrium, 21 posterior lower uterine segment, 22 posterior cervix]; 23 smaller cyst at the pouch of Douglas; 24&amp;amp;25 nodular area posterior serosa). Representative sections. (M-25).
+
+B. &amp;quot;LEFT PELVIC NODE&amp;quot;. A piece of fatty tissue measuring 40x25x10mm and two possible lymph nodes are identified. The nodes measure 12 and 30mm. Entire nodes embedded.
+
+(1 30mm node; 2 10mm node). Representative sections. (M-2)
+
+C. &amp;quot;LEFT OBTURATOR NODE&amp;quot;. One piece of fatty tissue with one node, altogether 25x10x8mm.
+
+(1 node bisected; 2 remainder of fatty tissue).  All embedded. (M-2)
+
+D. &amp;quot;RIGHT PELVIC NODE&amp;quot;. Pieces of fatty tissue together 35x30x10mm. Three possible lymph nodes are identified.
+
+(1&amp;amp;2 one node bisected; 3 one node bisected; 4 one node). Representative sections. (M-4)
+
+E. &amp;quot;OMENTUM&amp;quot;. A piece of fatty tissue consistent with omentum measuring 80x45x10mm. No suspicious areas are identified on palpation or sectioning. Representative sections. (M-5 /MC 10/6/2069 nh)
+
+MICROSCOPIC: (Dr. N. Wassel)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:
+Hysterectomy
+
+TUMOR SITE:
+Fundus
+Body
+Isthmus/lower uterine segment
+
+TUMOR SIZE:  75mm greatest dimension (macroscopic)
+
+HISTOLOGIC TYPE:
+Serous carcinoma - high grade
+
+HISTOLOGIC GRADE:
+FIGO grade 3
+
+MYOMETRIAL INVASION:
+Invades into outer half of myometrium and is less than 0.1mm from serosa (A25)
+
+UTERINE SEROSA INVOLVEMENT:
+Not identified
+
+
+LOWER UTERINE SEGMENT INVOLVEMENT:
+Present
+
+CERVICAL STROMAL INVOLVEMENT:
+Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+(list all that apply)
+Right ovary - Not involved
+Left ovary - Not involved
+Right fallopian tube - Not involved
+Left fallopian tube - Not involved
+Rght and Left Parametrium - Not involved
+Omentum - Not involved
+Other tissue (specify): Two cysts in Pouch of Douglas - Not involved. One is fat necrosis, the other is a benign pseudocyst lined by macrophages.
+
+LYMPHOVASCULAR INVASION:
+Not identified
+
+REGIONAL LYMPH NODES:
+Site: Pelvic Nodes (3 right pelvic lymph nodes, 2 left pelvic lymph nodes, 2 left obturator lymph nodes) (Specimens B, C, D)
+
+Number of lymph nodes involved: 0
+Number of lymph nodes examined: 7
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+-Inactive endometrium
+-Cervix - Transitional cell metaplasia
+-Right fallopian tube - chronic salpingitis, endosalpingiosis, benign paratubal cysts
+-Left fallopian tube - endosalpingiosis, benign paratubal cyst
+-Right and left ovary - serous inclusion cysts
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Not repeated (see report 52P96179)
+The high grade serous carcinoma is positive for p16, Pax8, ER (70% moderate), PR (patchy),
+The high grade serous carcinoma is negative for p53 (null mutation),WT1,
+
+OTHER SPECIMENS: Omentum - not involved (Specimen E)
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1B
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b, pN0
+
+COMMENTS: Sections of the uterus show a large partly polypoid tumour filling and expanding the endometrial cavity. The majority of the tumour is high grade serous carcinoma with a papillary architecture and sheet like necrosis.  A small amount has intermediate grade nuclei and a more glandular and villous architecture.(A16) The carcinoma widely invades into the outer half of the myometrium and is less than 0.1mm from the serosal surface (A25). It does not involve the cervical stroma, parametrium or cornu.
+
+DIAGNOSIS:
+A. UTERUS, FALLOPIAN TUBE, OVARIES -
+UTERUS - HIGH GRADE SEROUS CARCINOMA
+BOTH OVARIES - NEGATIVE FOR MALIGNANCY
+BOTH FALLOPIAN TUBES - NEGATIVE FOR MALIGNANCY
+
+B. LEFT PELVIC LYMPH NODES - NEGATIVE FOR MALIGNANCY
+
+C. LEFT OBTURATOR LYMPH NODES - NEGATIVE FOR MALIGNANCY
+
+D. RIGHT PELVIC NODES - NEGATIVE FOR MALIGNANCY
+
+E. OMENTUM - NEGATIVE FOR MALIGNANCY
+
+13/9/2068 ank

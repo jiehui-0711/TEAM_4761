@@ -1,0 +1,49 @@
+SPR no: 05H084488D
+MRN no: 05208448
+Site_name: BEVERLEY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report05H08448 (05H084488D) Detro, Markus MATTHEW
+HISTOPATHOLOGY REPORT
+BASS COAST REGIONAL HEALTH HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Peritonectomy, ovarian cancer.  Good response to chemo
+Spleen, anterior resection, peritoneal disease, gallbladder, omentum
+
+MACROSCOPIC:
+&amp;quot;GALLBLADDER, SPLEEN, OMENTUM, ANTERIOR RESECTION + PERITONEUM&amp;quot;
+In one specimen jar, multiple tissue fragments including:
+
+An anterior resection specimen 210x35mm with mesentery up to 75mm, the distal 25 mm is not covered by peritoneum.  There is a loosely attached peritoneal strip measuring 115x100x20mm.  The outer surface of the mesocolon and the attached serosal surfaces have ragged areas with minute white discolouration and calcification ( ? necrotic deposits). No luminal polyps of tumors are identified.
+
+(1 proximal margin; 2 distal margin with anterior peritoneal reflection abnormality; 3 further distal margin with peritoneal reflection deposits; 4&amp;amp;5 necrotic deposits with bowel wall; 6 mesocolon deposits; 7&amp;amp;8 attached peritoneum deposits;
+
+A spleen weighing 162g and measuring 110x80x23mm.  The outer surface is smooth and becomes focally ragged on one edge at the attachment of peritoneal covering.  The cut surface is unremarkable.
+
+(9&amp;amp;10 ragged surface areas);
+
+A gallbladder 75x35mm.  The outer surface is smooth and glistening.  The wall is up to 3mm thick.  The mucosal surfaces are green and granular.  No calculi are identified.
+
+(11 cystic duct and TS neck; 12 TS body and LS fundus;)
+
+A fibrofatty piece of tissue consistent with omentum 175x150x65mm.  No definite deposits are identified.  The ragged areas are sampled.
+
+(13-16 omentum.)
+
+Multiple fibrofatty pieces of tissue consistent with peritoneal strips that are extensively ragged, haemorrhagic and with focal calcified deposits on the outer surface.
+
+17-19 peritoneal involvement.  RS (M-19/ZH 7/9/2067 nh)
+
+MICROSCOPIC: (Dr C Luedi)
+The serosal surfaces of the large bowel and the mesocolic surfaces show vascularised adhesions, submesothelial macrophage reaction and scattered very small groups of atypical cells consistent with residual carcinoma.  The tumour cell groups show variable morphology including some with hyperchromatic enlarged nuclei with nuclear shape and membrane irregularities.  Small nucleoli are seen in some cells and occasional multinucleated cells are seen.  Other cell groups show a somewhat more uniform nuclear morphology. The surgical margins are unremarkable.
+Sections of the splenic parenchyma are unremarkable.  On the serosal surface of the spleen, there is a deposit of high grade carcinoma with poorly formed gland formation and atypical irregular nuclei with nucleoli. There is accompanying macrophage and fibroblastic stromal reaction.
+Sections of the gallbladder are unremarkable.
+Sections of the omentum show predominantly unremarkable fatty tissue but with focal areas of fibroblastic reaction and lymphocyte reaction. Within one of these fibro-inflammatory foci small groups of cells and single atypical cells consistent with residual carcinoma are seen (chemotherapy response score 3).
+The sections of the separate fibrofatty piece of tissue demonstrate subperitoneal fibrosis and fibroblastic reaction with rare small deposits of tumour similar to that seen in the previous specimens.
+Immunohistochemistry (block 10): There is positive staining for CAM5.2, WT-1, p-16, ER (Moderate staining), PAX-8 (moderate staining), and p-53 (strong diffuse staining). PgR is negative.
+Comment : The appearances are those residual high grade carcinoma that is morphologically and immunohistochemically consistent with high grade serous carcinoma. Clinical correlation is recommended.
+DIAGNOSIS:
+PERITONECTOMY SPECIMEN -
+-FOCAL RESIDUAL HIGH GRADE CARCINOMA (CONSISTENT WITH HOGH GRADE SEROUS CARCINOMA).
+7/9/2067 ank

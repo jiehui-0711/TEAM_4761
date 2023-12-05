@@ -1,0 +1,80 @@
+
+Episode No:  70B125960I
+7001259.RAI
+
+SIMITIAN, TOMAS 
+Lab No:  70B12596
+Tolman
+GREENWELL POINT  Australian Capital Territory  4133
+Specimen: Tissue
+D.O.B:  20/7/2000
+Sex:  M
+Collected: Unknown at :
+Location:  Molecular Oncology-INGLEWOOD AND DISTRICT HEALTH SERVICE
+DR JONATHON GONZALO BESTINE
+Distribution:   FILE-COPY
+CLINICAL:
+High grade TCC bladder with associated cis.  Prostate bladder and bilateral pelvic nodes.  
+MACROSCOPIC:
+A.  Specimen labelled "Bladder and prostate", consists of a bladder with attached prostate measuring 150 x 100 x 60mm in total.  The bladder is covered with perivesicular fat which appears unremarkable.  The bladder measures 90 x 70 x 45mm. The prostate measures 50 x 35 x 35mm.  The right ureter measures 45mm in lengthx 5 x 5mm in maximum dimension.  The left ureter measures 35mm in length x 5 x 4mm in maximum dimension. The right vas measures 40mm in length x 5 x 5mm in maximum dimension and the left vas measures 33mm in length x 5 x 5mm in maximum dimension.  On opening the bladder there is a tumour within the left anterolateral wall, measuring 40 x 30mm to a depth of 13mm.  The tumour is exophytic, tan and firm.  The tumour appears to invade through to the outer half of the bladder wall. The tumour is 20mm from the bladder neck, 75mm from the prostatic apex surgical margin, approximately 60mm from the right ureteric bladder junction, approximately 25mm from the left ureteric bladder junction, andwell away from the ureteric and vas deferens surgical margin.  The prostate appears unremarkable. The prostate is inked as follows: left blue, right black, anterior yellow.
+Blocks: 1 and 2 - paired blocks prostatic apex margin (shave); 3 to 5 - full transverse section of prostate from apex to base; 6 - right seminal vesicle; 7 - left seminal vesicle; 8 - right ureteric and vas deferens margin; 9 - left ureteric and vas deferens margin; 10 to 15 - tumour (10 and 11, 12 and 13 - paired blocks areaof deepest invasion through bladder; 14 - tumour and uninvolved bladder anteriorly; 15 - tumour and bladder posteriorly); 16 - right vesicoureteric junction; 17 - left vesicoureteric junction; 18 - bladder base and neck; 19 - trigone mid line; 20 - right lateral wall; 21 - left lateral wall; 22 - anterior; 23 - posterior; 24 - dome; 25 - ?lymph nodes.  
+26 to 35: Rest oftumour embedded
+B.  Specimen labelled "Right pelvic lymph node", consists of a piece of fibrofatty tissue measuring 65 x 50 x 10mm.  There are lymph nodes identified from 5 to15mm in maximum dimension.  
+Blocks: 1 to 3 - lymph nodes; 4 - one lymph node bisected.
+C.  Specimen labelled "Left pelvic lymph node", consists of a piece of fibrofatty tissue measuring 85 x 30 x 15mm.  There are lymph nodes identified from 5 to 40mm in maximum dimension.
+Blocks: 1 and 2 - lymph nodes; 3and 4 - one lymph node serially sectioned. 
+(TO: XT;QS/vo 2.4.63) 
+
+MICROSCOPIC (Reported by Dr S Krolak):
+A to C.
+
+BLADDER CYSTECTOMY PROFORMA
+Tumour
+	Tumour site: left anterolateral wall 		 
+	Tumour size (maximum dimension):  40mm
+	Histologic type and grade:  Invasive urothelial carcinoma, high grade, not otherwise specified
+	CIS separate to invasive component	: Present (extensive, multifocal involving all walls of the bladder)
+	Lymphovascular invasion:  Present (multifocal)
+
+Extent of tumour
+	Perivesical fat invasion:  Present (microscopic, 0.7mm into fat, A31)	
+	Ureters:
+		Invasive tumour: Absent
+		Carcinoma in situ: Absent
+	Urethra:  Absent 
+	Surface peritoneal involvement:  Absent
+	Invasion into other organs: 
+		Prostate: Absent
+		Seminal vesicles:  Absent				
+Surgical margin status:
+	Perivesical fat margin, invasive tumour:  Negative
+		Site of nearest margin: left anterolateral (2.5mm, A31)	
+	Ureter:	
+		Invasive tumour: Negative
+		Carcinoma in situ: Negative	
+	Urethra:
+		Invasive tumour: Negative
+		Carcinoma in situ: Negative							
+Lymph node status
+Site 1:	Perivesical (specimen A)
+	Metastatic carcinoma present in 0 out of 1 lymph nodes
+Site2:	Right pelvic (specimen B)
+	Metastatic carcinoma present in 0 out of 5 lymph nodes
+Site 3:	Left pelvic (specimen C)
+	Metastatic carcinoma present in 0 out of 6 lymph nodes
+Other abnormalities:
+The urothelium shows focal squamous metaplasia.
+AJCC Tumour staging category (pT) (7th edition):
+T3 	Tumour invades perivesical tissue 
+	T3a 	microscopically 
+N0 	No lymph node metastasis 
+
+
+DIAGNOSIS
+A to C. Radical cystoprostatectomy, right and left pelvic lymph nodes:
+	Invasive urothelial carcinoma, high grade, with microscopic invasion into perivesical fat, margins clear
+	Extensive multifocal carcinoma in situ of the bladder, margins clear
+	12 lymph nodes with no evidence of malignancy
+	pT3a N0  (AJCC 7th Ed.)
+
+

@@ -1,0 +1,88 @@
+Episode No:  09O312544M
+095312.OML
+
+STILTZ, MELYNDA 
+Lab No:  09O31254
+Kazan
+SCARNESS  Tasmania  2195
+Specimen: Tissue
+D.O.B:  13/4/1995
+Sex:  F
+Collected: 12/04/2013 at 09:35
+Location:  North-PORT MACQUARIE BASE HOSPITAL
+DR EDDY BIRRUNGA CARDENOS
+Distribution:DR CHRISTOPHER,  FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT:  (2.6.63)
+
+CLINICAL:
+Right ductal breast Ca on core.  30mm 12 o'clock 3cm FN.  R breast Ca 12 o'clock.  Internal mammory node (one node).  Level 2 R axillary SN.  Lateral R breast tissue - hot + blue.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axillary sentinel lymph node" consists of a piece of unorientated fatty tissue 30 x 25 x 10mm.  Two lymph nodes are identified from 4 to 12mm.  AE 2 blocks. 
+B.  Specimen labelled "Tumour right breast 12 o'clock short stitch towards nipple, long stitch lateral, medium medial" consists of a orientated wide local excision with three sutures in situ designated measuring 62mm (medial to lateral) x 55mm (inferior to superior) x27mm (superficial to deep).   The deep margin is inked black, superficial margin green and the superior margin blue.  Specimen is serially sectioned in a parasagittal plain into ten slices, from slice one lateral to slice ten medial.  A cream firm poorly circumscribed lesion is identified in slices three to eight.  The tumour measures 38mm (medial to lateral) x 22mm (inferior to superior) x 15mm (superficial to deep).  Distance from margin is as follows: deep 3mm, inferior 5mm, superior 20mm, superficial 7mm, lateral 15mm and well clear of the medial margin.  
+Blocks: 1 to 5 - slice one; 6 & 7 - slice two; 8 to 10 - slice three; 11 to 13 - slice four; 14 to 16 - slice five; 17 to 19 - slice six; 20 to 22 - slice seven; 23 to 25 - slice eight; 26 to 27 - slice nine; 28 to 31 - slice ten.  AE. Please refer to attached diagram. 
+  
+C.  Specimen labelled "Right axillary breast tissue" consists of a piece of unorientated fatty tissue 30 x 25 x 15mm.  Serially sectioned AE 3 blocks.
+  
+D.  Specimen labelled "Internal mammary node" consists of four fragments of fatty tissue from 3 to 4mm.  AE 1 block.   (TO: QA; AZ/ta  14/6/63) 
+ 
+MICROSCOPIC (reported by Dr C Trobough):
+A to D.  Sections show a grade 2 invasive lobular carcinoma of the breast.  A synoptic report follows.
+Invasive carcinoma:
+Site:  Right breast, 12 o'clock
+Type:  Invasive lobular carcinoma
+Invasive tumour size:  38mm
+Grade (Modified Bloom & Richardson):
+Tubules: 3      Nuclei:  2     Mitoses: 1      Mitotic rate:      3/10hpf.
+Lymphovascular invasion:  Not identified  
+	    
+DCIS component:  Absent
+Excision Margins:  
+Invasive component:
+Superficial	2mm  (Block B12)
+Deep			2mm  (Block B 24)
+Superior	11mm	(Block B6)
+Inferior		3mm	(Block B13)
+Lateral		10mm
+Medial		15mm
+Receptors (Block B15): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:Strong
+PR:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Strong 
+HER2 (Novocastra 10A7):  1+
+Ki-67 index:  5%
+Nipple:  Not included
+LCIS / ALH:  Present    
+Miscellaneous:
+Sections ofthe right axillary breast tissue (Specimen C) show no evidence of malignancy.
+Sentinel lymph node(s):
+Number of sentinel lymphnodes examined: 1
+Number of sentinel lymph nodes involved by tumour: 0          
+Internal mammary lymph node:
+Number of lymph nodes examined:  1
+Number of lymph nodes involved by tumour:  0          
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2   
+Total number of involved lymph nodes (including sentinel node(s)):  0   
+DIAGNOSIS:
+A.  Right axillary sentinel lymph node:  No evidence of malignancy
+B.  Right breast 12 o'clock:  Grade 2invasive lobular carcinoma
+C.  Right axillary breast tissue:  No evidence of malignancy
+D.  Internal mammary lymph node:  No evidence of malignancy
+
+ADDITIONAL REPORT:  (2.6.63)
+Blocks were sent to MERCY HOSPITAL FOR WOMEN Hospital for Her2 ISH analysis, Dr C Mcsharry reports:
+HER2 IHC Result:   1+ at GEORGE TOWN HOSPITAL AND COMMUNITY CENTRE.
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roache). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 2.3.
+Mean CEP17 copy number per cell:  1.3. 
+HER2/CEP17 ratio:  1.77.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

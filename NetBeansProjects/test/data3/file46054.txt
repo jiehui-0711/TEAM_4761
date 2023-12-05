@@ -1,0 +1,36 @@
+SPR no: 08I448147G
+MRN no: 0744241
+Site_name: STAWELL REGIONAL HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pelvic masses 12cm and 6cm in diameter.  Ca 125 43 LDH 423.  Frozen section.  Uterine mass, anterior fibroid, base anterior fibroid.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterine mass&amp;quot;, consists of an ovoid mass measuring 120 x 100 x 90mm with three defects in the outer surface ranging from 13 to 25mm in maximum dimension.  The outer surface otherwise appears roughened.  The cut surface shows a circumscribed whorled nodule within the myometrium with a uniform dark grey cut surface.  There is no macroscopic evidence of necrosis or haemorrhage.  The mass measures 100mm in maximum dimension.  The lesion shows a peripheral rim of haemorrhage.  The surrounding myometrium has a uniform pale appearance and no other lesions are identified.  The circumscribed mass measures at least 5mm from the closest resection margin.  Blocks: 1 &amp;amp; 2 - frozen section; 3 to 12 - further sections through mass.
+
+B.  Specimen labelled &amp;quot;Anterior fibroid&amp;quot;, consists of a nodular piece of pale tissue measuring 80 x 55 x 50mm.  Most surfaces are coated in a shiny serosa with an area of roughening 35 x 30mm.  This rough area is inked blue.  The cut surface has a uniform pale and whorled appearance.  No areas of haemorrhage or necrosis identified.  RS 6 blocks.
+
+C.  Specimen labelled &amp;quot;Base of anterior fibroid&amp;quot;, consists of an irregular piece of pale firm tissue measuring 17 x 12 x 10mm.  Serially sliced.  AE 1 block.  (TO:QL/rs 6/8/67)
+
+
+FROZEN SECTION REPORT:
+A. Smooth muscle tumour, no atypical features seen.  Phone results to anaesthetist by Dr A Jons at 17:10 on 05/04/66.
+
+
+MICROSCOPIC: (Reported by Dr A Mckelvey)
+A.  Sections show of the 120mm mass show a smooth muscle tumour. The lesion is well demarcated and non-encapsulated and is comprised of bland desmin and SMA positive smooth muscle cells arranged in long wavy fascicles and storiform areas. There is patchy myxoid degeneration and broad areas of hyaline type necrosis. There is no significant cytologic atypia or mitotic activity. There is a focus of secretory type endometrium. There is no evidence of malignancy.
+
+Immunohistochemical stains confirm the leiomyoma is positive for desmin and SMA and negative for beta catenin, CAM 5.2, CK5/6, CD34, c-Kit, NF, S100
+Representative slides seen with Dr A Capas.
+
+B.  Sections show a benign leiomyoma. The tumour is composed of bland smooth muscle cells arranged in moderately cellular, variably thick intersecting fascicles. Very occasional mitoses, up to 3 per 10 high power fields are identified. There is focal myxoid degenerative type change. There is no significant cytologic atypia or coagulative necrosis. There is no evidence of malignancy.
+
+C.  Sections show fragments of benign smooth muscle. There are no atypical features. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Uterine mass: Leiomyoma and secretory endometrium. No evidence of malignancy.
+
+B.  Anterior fibroid: Leiomyoma with patchy myxoid degeneration. No atypical features. No evidence of malignancy.
+
+C.  Base of anterior fibroid: Smooth muscle showing no evidence of malignancy.

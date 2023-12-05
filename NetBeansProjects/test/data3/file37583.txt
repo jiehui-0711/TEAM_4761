@@ -1,0 +1,83 @@
+SPR no: 67A577469F
+MRN no: 8124086
+Site_name: CAMPBELL TOWN HEALTH AND COMMUNITY SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportFURTHER REPORT  8/8/2070: MMRP immunostains
+67A57746 (67A577469F) Bethoney, Johnny
+HISTOPATHOLOGY REPORT
+NORTHAMPTON HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:   Peritonectomy &amp;amp; HIPEC colorectal Ca.  Frozen section peritoneal nodule. Omentectomy, cholecystectomy, partial bladder (urinary) resection, liver resection (seg VII), small bowel, mesenteric lymph node, rectal resection, pelvic mass.
+Previous: 38471-16mp 16/5/2065 DHM anterior resection colon, pT4a, node positive, well/moderately differentiated ca; MMRP retained.
+
+MACROSCOPIC:
+A.  &amp;quot;PERITONEAL NODULE&amp;quot;.  Fatty tissue, shiny on one side, 15x9x3mm.  Two TS through centre for frozen section.  (1 frozen section; 2 remainder).  AE (M-2).
+Frozen section report: &amp;quot;No evidence of malignancy&amp;quot;.  To Dr Caramella (registrar) at 11:40am
+Dr R Flanner.
+
+B.  &amp;quot;OMENTUM, GALLBLADDER, PERITONEAL DISEASE, RECTUM&amp;quot;.
+Several separate pieces of tissue.
+- Sigmoid colon and upper rectum measuring 150mm in length and 35mm in maximum circumference with mesocolon 40 mm wide.  The peritoneal reflection is close to the distal margin. The mucosa appears unremarkable.  At the distal peritoneal reflection adjacent to the colon wall there is a firm area of tumour invading subjacent mesocolic fat measuring 20x20x15mm.  This focus of tumour abuts the circumferential radial mesorectal margin and is 20 mm from the distal rectal margin.  No obvious invasion into the rectal wall is present.  Another firm area in mesocolon more proximally 10 mm in diameter is noted.
+- Attached to the colon there is a 100 mm diameter thin piece of stripped peritoneum with a attached round disc of apparent bladder wall 25x25x20mm and possible mucosa 15x15mm.
+There is a tumour focus extending from the peritoneal surface over the bladder into bladder wall, 15 mm diameter. The tumour is within 2-3mm from the radial bladder wall surgical margins.
+- A portion of small bowel 40mm in length and 25mm in diameter with two staple line margins.  There is a focus of mmucosal ulceration 10 mm diameter and the cut surface shows a firm irregular tumour infiltrating to the bowel wall and involving peritoneal surface measuring 15x10mm.
+- There is a gallbladder measuring 50x35x10mm.  The serosa appears smooth and mucosa is velvety.  No lesions seen.
+- The omentum and peritoneum measure 250x190x80mm in aggregate.  There is a nodule 20mm identified in the omentum.
+(1 proximal margin of the colon;  2 distal surgical margin of rectum; 3-5 nodule at distal peritoneal reflection including radial mesorectal margin]; 6-8 second firm area mesocolon; 9-11 TS bladder and tumour; 12&amp;amp;13 LS of bladder and tumour; 14 surgical margins small bowel; 15&amp;amp;16  nodule  small bowel; 17 gallbladder; 18&amp;amp;19 omental nodule).  RS (M-19).
+Further mesocolic nodes: B20-B23; ?several nodes; LV
+
+C.  &amp;quot;LIVER SEGMENT VII&amp;quot;.  A portion of liver 50x30x30mm.  Sectioning shows a pale nodule tumour nodule 8mm which is 4mm from surgical margins.  (1-3 nodule and margin; 4 rest of liver parenchyma).  RS (4-4).
+
+D.  &amp;quot;MESENTERIC LYMPH NODE&amp;quot;.  Fibrofatty tissue 50x40x20mm.  Three nodes identified, maximum dimension 30mm with a white firm surface.  (1-3 one node; 4 one node; 5 one node; 6 ?one node).  RS (M-6/RSammie)
+
+MICROSCOPIC: (R Mogle)
+
+A.  PERITONEAL NODULE:
+Sections show peritoneal tissue with fibrosis, tumour is not seen.
+
+B.  OMENTUM, GALLBLADDER, PERITONEAL DISEASE, RECTUM:
+There are peritoneal deposits of metastatic moderate to poorly differentiated adenocarcinoma consistent with colorectal origin.
+- Tumour involves the mesocolic peritoneal surface at the upper rectum distal peritoneal reflection and invades into subjacent mesocolic fat.
+- There is a separate peritoneal nodule invading more proximal mesocolon.
+- A separate deposit of carcinoma involves the peritoneal surface of bladder and invades into the bladder wall extending into lamina propria of bladder. The bladder mucosal surface is denuded.
+- A separate tumour nodule nvolves the segment of small bowel extending into small bowel mucosa with luminal  ulceration.
+
+MARGINS:
+Invasive carcinoma deposit in distal mesocolic fat extends focally to the radial mesorectal margin (block B4).
+Invasive carcinoma in bladder extends focally to a radial soft tissue margin in muscularis propria of bladder (block B10).
+
+Other tissues:
+The gallbladder is unremarkable.Sampled mesocolic lymph nodes are tumour free (0/4).
+
+C.  LIVER SEGMENT VII:
+The liver deposit is metastatic colorectal carcinoma. Tumour appears to extend focally to a diathermy liver parenchymal margin in one section.  The adjacent liver tissue shows fatty change and nonspecific reactive changes.
+
+D.  MESENTERIC LYMPH NODE:
+Three of five lymph nodes contain metastatic colorectal carcinoma.  There are also separate tumour deposits within fat not necessarily related to lymph nodes.
+
+COMMENT(S):
+MMRP Immunostains are being repeated but were retained on the previous coloectomy specimen from 2067 (outside report DHM).
+
+DIAGNOSIS:
+
+A.  PERITONEAL NODULE:
+- fibrosis.
+B.  OMENTUM, GALLBLADDER, PERITONEAL DISEASE, RECTUM:
+- multiple peritoneal deposits of metastatic moderate to poorly differentiated colorectal adenocarcinoma (involving distal part of colon, more proximal mesocolon, bladder surface and bladder wall, and small bowel segment.
+- focal margin involvement adjacent to some of tumour deposits.
+C.  LIVER SEGMENT VII:
+- metastatic adenocarcinoma in liver.
+- carcinoma extends to diathermy liver parenchymal margin focally.
+D.  MESENTERIC LYMPH NODE:
+- metastatic carcinoma (3/5 nodes positive).
+ank
+- - - -
+FURTHER REPORT  11/9/2069:
+IMMUNOSTAINS for Mismatch Repair Proteins (MMRP), block B16:
+MLH1, PMS2, MSH2, MSH6:   Intact&amp;#160;nuclear expression.
+Interpretation of MMRP Immunostains:
+- No loss of nuclear expression of MMR proteins.
+- Low probability of microsatellite instability-high (MSI-H).
+- Lynch syndrome very unlikely.
+- Note:  There are exceptions to the above Immunostain interpretations. These results should not be considered in isolation, and clinical correlation is recommended.

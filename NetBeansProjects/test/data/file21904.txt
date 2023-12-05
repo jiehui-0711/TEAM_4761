@@ -1,0 +1,91 @@
+SPR no: 24I207291D
+MRN no: 243207
+Site_name: DOOMADGEE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report24I20729,24I20729 (24I207291D) NOVAKOVICH, ISABEL JACINTA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Large abdominal mass.  Increased CA-125: 620.  Borderline ?invasive left ovarian Ca
+Left ovary and tube.  Right ovary and tube, omentum, left pelvic node, left para-aortic node, appendix
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT OVARY AND TUBE&amp;quot;.  Received fresh, a partially opened ovarian mass with a tube weighing 400g, measuring 130x170x40mm with a 70mm length of fallopian tube.  The inner lining of the cavity is rough with solid area.
+
+Frozen section report:  &amp;quot;High grade proliferative epithelial tumour with areas highly suspicious for carcinoma, endometrioid&amp;quot;.  Result phone by JOSH DOUIN to Dr Brunell 4.10pm, 29/8/17.
+
+Post fixation assessment reveals unremarkable fallopian tube cut surface.  The underlying cystic lesion contains solid areas up to 30mm thick with the solid areas having minute papillary excrescences.  Areas of multiloculated wall filled with haemorrhagic debris is identified.  No definite residual ovarian tissue is identified.
+
+(1&amp;amp;2 frozen section; 3&amp;amp;4 each two LS fimbrial end; 5 two TS fallopian tube; 6-8 each contain one TS of fallopian tube with underlying cyst wall solid areas; 9 thin cyst wall; 10-14 RS remainder cyst wall with 12 being tumour block for tissue banking).  RS (M-14).
+
+B.  &amp;quot;RIGHT OVARY AND TUBE&amp;quot;.  A fallopian tube 45x10mm with ovary 30x25x15mm.  The outer surface is focally ragged and haemorrhagic overlying the tube.  The cut surface of the tube is unremarkable.  The cut surface of the ovary reveals a single cyst with haemorrhagic lining measuring 10mm in maximum diameter.
+
+(1&amp;amp;2 tube; 3-6 ovary).  AE (M-6)
+
+C.  &amp;quot;OMENTUM&amp;quot;.  A fibrofatty piece of tissue consistent with omentum measuring 270x160x20mm.  Focal ragged areas are identified on the surface over 15x10mm.  The remainder of the omentum is serially sliced.  No discrete lesions are seen.
+
+(1-5 RS ragged areas).  RS (M-5).
+
+D.  &amp;quot;LEFT PELVIC NODE&amp;quot;.  A lymph node 20x7x6mm serially sliced.  AE (M-1).
+
+E.  &amp;quot;LEFT PARA-AORTIC NODE&amp;quot;.  A fibrofatty piece of tissue 24x15x10mm with fatty and firm cut surface, serially sliced.  AE (M-2).
+
+F.  &amp;quot;APPENDIX&amp;quot;  An appendix 65x10mm with mesoappendix up to 25mm.  The outer surface is smooth and becomes firm and white towards the tip.  The proximal margin is inked blue.  the wall is up to 2mm thick.  The lumen is filled with faecal material.  The distal 14mm of the appendix is firm white and replaced by fibrous tissue.
+
+(1 base [two LS one two TS[; 2&amp;amp;3 mid appendix each two LS; 4 tip [two LS]).  RS (M-4/ZH 2/10/2067 nh)
+
+MICROSCOPIC:   (Dr. G. Rutland)
+
+OVARIAN CARCINOMA WORKSHEET
+
+
+A. LEFT OVARY:	Involved		Primary
+If primary then: -
+Histological type and proportions:	Endometrioid carcinoma arising form proliferating (borderline) endometrial adenofibroma on background of endometriosis.
+Histological grade:		G2
+Nuclear grade:		G2
+Lymphatic invasion:		Absent
+Blood vessel invasion:	Absent
+Capsular extension:	 	Absent
+Direct extraovarian extension (specify): Nil present
+
+Immunoperoxidase staining of the tumour cells shows positive staining with Pax-8.
+Immunostains for MSI proteins (Sun Microsystems CPC Pathology; block: A7 )
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+LEFT FALLOPIAN TUBE: No significant abnormality
+B.  RIGHT OVARY:	Not involved -Endometriotic deposits are sen
+
+RIGHT FALLOPIAN TUBE: No significant abnormality
+C.  OMENTUM: Not involved.  Foci of mesothelial hyperplasia are seen.
+D,E.  LYMPH NODES:
+Left pelvic and Lt para-aortic: No tumour seen in 1 lymph node examined.
+F.  APPENDIX: Distal endosalpingiosis otherwise  no significant abnormality.
+DIAGNOSIS:
+LEFT OVARY :
+-MODERATELY DIFFERENTIAED ENDOMETRIOID CARCINOMA ARISING FROM BORDERLINE ENDOMETRIAL ADENOFIBROMA.
+-ENDOMETRIOSIS.
+LEFT FALLOPIAN TUBE :
+-NO SIGNIFICANT ABNORMALITY.
+RIGHT OVARY :
+-ENDOMETRIOTIC DEPOSITS.
+RIGHT FALLOPIAN TUBE :
+-NO SIGNIFICANT ABNORMALITY.
+OMENTUM :
+-FOCI OF MESOTHELIAL HYPERPLASIA.
+-NO TUMOUR SEEN
+LEFT PELVIC NODE :
+-NO TUMOUR SEEN IN 1 LYMPH NODE.
+LEFT PARA-AORTIC NODE :
+-NO TUMOUR SEEN IN 1 LYMPH NODE.
+APPENDIX :
+-ENDOSALPINGIOSIS.
+3/11/2067 ank

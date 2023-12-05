@@ -1,0 +1,85 @@
+
+Episode No:  54U871612Q
+547871.RDF
+
+CORNA, COLLENE 
+Lab No:  54U87161
+Pappas
+MURRAY BRIDGE  SA  6479
+Specimen: Tissue
+D.O.B:  12/12/1997
+Sex:  F
+Collected: 03/12/2012 at 19:07
+Location:  BILLINGTON CENTRE-KING EDWARD MEMORIAL HOSPITAL
+DR ROBBY CHUCK TY-HOFFSTETTER
+Distribution:   FILE-COPY
+CLINICAL:
+Right breast carcinoma 4 o'cl - wide local excision + sentinel node biopsy.  Suture - short superior, long lateral, medium medial. 
+Note different site for specimen A and Specimen B.
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node" consists of a piece of unorientated fatty tissue 20 x 13 x 8mm.  One lymph node 18mm is identified.  Serially sectioned, AE one block. 
+B.  Specimen labelled "Right breast lesion; long lateral, medium medial, short superior" consists of a piece of orientated breast tissue with three sutures in situ and a hookwire is seen to insert from the medial/superficial aspect.  The specimen measures 48mm (medial-lateral) x 28mm (inferior-superior) x 30mm (superficial-deep).  The superior margin is inked blue, the inferior margin is inked black and the superficial margin is inked green.  The specimen is serially sectioned in the parasagittal plane into nine slices from slice 1 lateral to slice 9medial.  A firm cream poorly circumscribed stellate tumour with an area of haemorrhage at the centre is identified in slices 6 to 8 measuring 8mm (medial-lateral) x 6mm (inferior-superior) x 5mm (superficial-deep).  The distance from margins is as follows: inferior 4mm, superior 7mm, superficial 4mm, deep 15mm and well clear of both the lateral and medial margins.  A hookwire is seen to insert into slice 2.
+Blocks:  1 - representative slice 1; 2 - slice 2; 3 & 4 -slice 5; 5 & 6 - slice 6; 7 & 8 - slice 7; 9 & 10 - slice 8; 11 & 12 - slice 9; 13 - slice 3; 14 - slice 4.  Tumour markers on block 8.  Please refer to attached diagram.  (KI/cc  2/6/62) 
+ 
+MICROSCOPIC (Reported by Dr P Hosendove): 
+A.  One (1) lymph node is identified.  The lymph node is unremarkable.  Both histological and immunohistochemical examinations show no evidence of tumour metastasis.
+B.  Sections show an invasiveductal carcinoma, NOS measuring 8mm in diameter.  The carcinoma scores grade 1 (T-2, N-1, M-2).  There is no evidence of lymphovascular invasion.  No DCIS component is seen.  The carcinoma is completely excised.  The invasive carcinoma is 2.5mm to the superior margin and is 4.5mm to the superficial margin.  The other margins are well clear.  The tumour cells are strongly positive for ER and PR.  The stain for HER-2 is negative.  An area of fibrosis is present adjacent tothe tumour, in keeping with previous biopsy.  The rest of breast tissue is unremarkable.
+Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive carcinoma, NOS
+Invasive tumour size:  8mm
+Grade (Modified Bloom & Richardson):  1
+Tubules: 2     Nuclei: 1     Mitoses: 2     Mitotic rate: 8/10hpf.
+Lymphovascular invasion:  Absent
+	
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component:  The invasive carcinoma is 2.5mm to the superior margin and is 4.5mm to the superficial margin.  The other margins are well clear.
+In-situ component:  Not applicable
+Receptors (Block B10): 
+ER:  Positive
+	100% ofnuclei stained
+	predominant intensity of staining:  strong
+PR:  Positive
+	90% of nuclei stained
+	predominant intensity of staining:  strong
+HER2 (Novocastra 10A7):  Negative (1+ staining)
+Ki-67 index:  12%
+Nipple:  Not applicable
+
+LCIS / ALH:  Absent
+Miscellaneous:
+- An area of fibrosis is present adjacent to the tumour, in keeping with previous biopsy.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinelnode(s)):  0
+DIAGNOSIS:
+A.  Right axilla sentinel node - No evidence of malignancy (0/1).
+B.  Right breast lesion
+- Invasive ductal carcinoma, NOS;
+- Grade 1; 8mm; completely excised;
+- ER positive/PR positive/HER-2 negative.
+The HER-2 ISH test will be performed at KURRI KURRI DISTRICT HOSPITAL Hospital and an additional report will be issued.
+
+SUPPELEMENTARY REPORT (26/2/2062):
+Block B10 was sent to BRAIDWOOD MULTI PURPOSE SERVICE Hospital for Her-2 in-situ Hybridisation analysis:
+Signal Detection has been performed for the HER-2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER-2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER-2 ISH result:  Negative (non-amplified, diploid)
+
+Mean Her-2 copy number percell: 1.9
+Mean CEP17 copy number per cell: 1.6
+HER-2/CEP ratio: 1.13
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  	HER-2/CEP17 < 1.8
+Equivocal:  	HER-2/CEP17 = 1.8-2.2
+Positive:  	HER-2/CEP17 > 2.2 
+Reported by
+Dr P Wonder
+

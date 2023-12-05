@@ -1,0 +1,103 @@
+SPR no: 58I629306U
+MRN no: 583629
+Site_name: ROYAL PRINCE ALFRED HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report58I62930,58I62930 (58I629306U) Deglopper, Refugio Boyd
+HISTOPATHOLOGY REPORT
+KATANNING HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Carcinosarcoma of uterus
+Uterus, tubes + ovaries
+Omental biopsy
+Right pelvic lymph node
+Left pelvic lymph node
+Bladder biopsy
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;.  A uterus with attached cervix, bilateral tubes and ovaries.  Specimen received partially opened coronally over the right side.  It weighs 226g and measures 30mm intercornual distance, 90mm superior to inferior.  The ectocervix is 30x20mm with an ovoid os 12x3mm.  It is cream coloured and unremarkable.  The serosa is bulged by multiple subserosal nodules with a pale white whorled appearance.  Noted at the opened aspect of the specimen is a nodule with a lobulated, somewhat leaf-like architecture and pale white appearance.  The nodule measures 65mm left to right, 52mm superior to inferior, 50mm anterior to posterior.  The lesion is 2mm from the serosal surface.  Anterior inked blue, posterior black.  Also noted are multiple nodules with a pale white whorled appearance ranging from 7-20mm.
+
+(1 posterior cervix; 2 posterior lower uterine segment; 3&amp;amp;4 posterior endomyometrium including 65mm nodule in relation to serosa; 5 section of 65mm nodule with closest serosa; 6&amp;amp;7 sections of 65mm nodule [anterior endomyometrium]; 8 anterior cervix; 9 anterior lower uterine segment; 10 RS of pale white whorled nodules; 11 one further section of 65mm nodule with closest serosa;
+
+The right fallopian tube and ovary together weigh 12g.  The fallopian tube measures 60mm in length with a maximum diameter of 8mm.  The serosa is dusky but is otherwise unremarkable.  The ovary measures 42x13x5mm.  The cut surfaces are unremarkable.  The left ovary weighs 9g and measures 35x12x12mm.  The serosa is unremarkable and the cut surface is also unremarkable.  The left fallopian tube is 45mm in length with a maximum diameter of 9mm.  The serosa is somewhat dusky.
+
+12 right ovary; 13 right fallopian tube; 14 left fallopian tube; 15 left ovary).  RS (M-15)
+
+Further tissue:  There is a pale firm area adjacent to the endometrium with a maximal measurement of 45mm superior to inferior and 12mm thick.  This area takes up 12mm of the 19mm myometrial thickness.  Further sections of this area are sampled.
+
+(16 lower uterine segment; 17&amp;amp;18 sections of pale area in relation to serosa; 19-21 composite slices of pale area in relation to serosa; 22&amp;amp;23 further sections of pale area in relation to serosa; 24 section of pale area closest in relation to serosa).  RS (M-24/MC 8/6/2067 nh)
+
+
+B.  &amp;quot;OMENTAL BIOPSY&amp;quot;.   A mass of fat consistent with omentum measuring 40x30x25mm. On palpation there are no suspicious areas identified, or on sectioning.  RS (M-2)
+
+C.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  A mass of fat 30x30x10mm with one 13mm lymph node.  Lymph node bisected and embedded in one block.  RS (M-1)
+
+D.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Fat 40x25x10mm with a 15mm lymph node bisected.  RS (M-1)
+
+E.  &amp;quot;BLADDER BIOPSY&amp;quot;.  One 6mm papillary piece of tissue.  AE (1-1/MC 30/7/2070 nh)
+
+MICROSCOPIC: (Dr. O. Gutieres)
+The endometrium shows residual endometrial carcinoma composed of an endometrioid (90%) and clear cell (10%) component. This is in a background of complex hyperplasia. The adenocarcinoma invades the myometrium just beyond 50%. The endometrioid component is Grade 1, with less than 5% solid areas. There is some villoglandular and cribriforming growth pattern. The tumour is present along the posterior fundus. There is no residual sarcomatous component. The previously excised polypoid carcinosarcoma is noted (DHM: 56508-19MP). (JS 10/6/2068 cy)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE: Fundus
+
+TUMOR SIZE: 45mm greatest dimension (macroscopic)
+
+HISTOLOGIC TYPE: Mixed endometrioid carcinoma (90%) and mucinous carcinoma (10%)
+
+HISTOLOGIC GRADE: FIGO grade 1
+
+MYOMETRIAL INVASION: Difficult to assess because of background adenomyosis, but is estimated to be just more than 50% (eg. block A23), pT1b
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not identified
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT: No other tissue involved.
+
+MARGINS:  No cervix involvement
+
+LYMPHOVASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES:
+Right and pelvic sentinel lymph nodes are negative for malignancy.  Immunohistochemistry for cytokeratin AE1/3 is negative.
+Number of lymph nodes involved: 0
+Number of lymph nodes examined: 2
+
+DISTANT METASTASES (histologically confirmed): Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Benign leiomyomas
+Complex endometrial hyperplasia.
+The right ovary, right fallopian tube, left ovary and left fallopian tube are all unremarkable.  The left fallopian tube shows a Hilus cell rest (A14).
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains were performed on original biopsy (OWI 62930-19MP) - preserved nuclear staining for MSH2 and MSH6.  Loss of nuclear staining for MLH1 and PMS2.
+
+OTHER SPECIMENS:
+B. Omental biopsy shows fibrosis with no evidence of malignancy.
+C. The right pelvic sentinel lymph node shows no evidence of malignancy.
+D. The left pelvic sentinel lymph node shows no evidence of malignancy.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report):  Stage 1B
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b pN0
+
+E. The biopsy shows a non-invasive low grade papillary urothelial carcinoma.  There is no invasion into the minimal sampled lamina propria.  There is no detrusor muscle in the biopsy.
+DIAGNOSIS:
+A. UTERUS, BILATERAL TUBES AND OVARIES:
+- Residual endometrial carcinoma (grade 1 endometrioid and mucinous components)
+- No residual sarcomatous component
+B. OMENTAL BIOPSY:
+- No evidence of malignancy
+C.  RIGHT PELVIC SENTINEL NODE:
+- No evidence of malignancy
+D.  LEFT PELVIC SENTINEL NODE:
+- No evidence of malignancy
+E.  BLADDER BIOPSY:
+- Non-invasive low-grade papillary urothelial carcinoma

@@ -1,0 +1,129 @@
+SPR no: 89S060386T
+MRN no: 8960603
+Site_name: MARYBOROUGH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT BELOW:
+89S06038 (89S060386T) ANDRION, Agustin Neville
+HISTOPATHOLOGY REPORT
+CONCORD REPATRIATION HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Invasive ductal carcinoma 3cm nipple 11 o&amp;apos;clock, axillary sentinel node biopsy for frozen section.  Invasive ductal carcinoma R breast 1 o&amp;apos;clock 3cm FN, size 14mm.  Breast wide excision.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT AXILLARY SENTINEL NODE&amp;quot;.  Consists of three lymph nodes, 15, 10 and 6mm.  One TS from 15mm LN and 1/2 each 10 and 6mm nodes for frozen section.
+
+F/S:  &amp;quot;All nodes negative&amp;quot;.  Result given by phone to Registrar (Andrea) at 1:30pm on 26/08/2067 by     X. Lav.
+
+(1  frozen section; 2  remainder 15mm node; 3  10 and 6mm nodes remainder).  RS (M-3).
+
+B.  &amp;quot;WIDE LOCAL EXCISION RIGHT BREAST&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Wide local excision, oriented.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  40mm
+Superior to inferior:  55mm
+Anterior to posterior:  30mm
+WEIGHT:  40g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Non-Standard:  Medial red, Lateral green, Anterior blue, Posterior black.
+DISSECTION: Cut from superior to inferior.
+Number of slices:  11
+FINDINGS / LESION:  There is a well demarcated stellated lesion noted in slices 3 to 5.  It measures 12mm superior to inferior x 15mm medial to lateral x 15mm anterior to posterior.  It is approximately 10 to 15mm from superior margin, approximately 24mm from inferior margin, less than 1mm from anterior, 10mm from posterior, 10mm from superior and 10mm from inferior.  Remainder of the breast tissue is predominantly fatty.
+(1-3  longitudinal through superior margin slice 1; 4&amp;amp;5  slice 3; 6&amp;amp;7  slice 4; 8  medial half slice 8; 9&amp;amp;10  slice 7; 11&amp;amp;12  slice 9; 13-15  longitudinal through inferior margin slice 11 [tumour in blocks 4 to 8] slice 11 fragmented on sectioning).  RS (M-15/MC 27/9/2068 km).
+MICROSCOPIC:  (Dr X Mehtala)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA: (Specimen B)
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single invasive focus
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 16mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type (ductal)
+&amp;#160;
+HISTOLOGIC GRADE: 2
+&amp;#160;
+SCORES: Tubules:    3, Nuclei:    2, Mitoses:    1; Total score: 6&amp;#160;&amp;#160;(of 9)
+&amp;#160;
+MITOTIC RATE: &amp;#160;3&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 16mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Suspicious
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: Not applicable
+
+DERMAL LYMPHOVASCULAR INVASION: Not applicable
+&amp;#160;
+NIPPLE INVOLVEMENT: Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+Nuclear grade: Intermediate
+Architecture / type: Cribriform
+Necrosis: Not identified
+Microcalcification of DCIS: Not identified
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+&amp;#160;
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Negative
+Distance of invasive tumour to margins:
+Anterior: 1mm (B6)
+Posterior: 6mm (B8)
+Superior: At least 10mm
+Inferior: At least 24mm
+Medial: 6mm (B6)
+Lateral: 10mm (B5)
+&amp;#160;
+
+DCIS MARGINS:
+Negative.  DCIS is confined within invasive carcinoma
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B6
+ER: Positive &amp;#160;100%, 3+
+PgR: Positive 100%, 3+
+HER2: Pending - further report to follow
+Ki67: 10%
+&amp;#160;
+Other tumour block suitable for further testing: B6
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: (Specimen A): Involved by isolated tumour cells.
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 2 (seen on CAM5.2 stained sections)
+Total number of nodes examined: 3
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c, pN0 (i+)
+
+DIAGNOSIS:
+A.  RIGHT AXILLARY SENTINEL NODE -
+- ISOLATED TUMOUR CELLS.
+B.  WIDE LOCAL EXCISION RIGHT BREAST -
+-INVASIVE DUCT CARCINOMA - NST (GRADE 2).
+29/9/2068 ank
+SUPPLEMENTARY REPORT:
+FURTHER IMMUNOHISTOCHEMISTRY: Block B6.
+Her-2: Negative (0 staining).
+
+30.5.2068

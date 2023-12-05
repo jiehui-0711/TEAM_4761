@@ -1,0 +1,79 @@
+
+Episode No:  33P823491Z
+3358234.YDZ
+
+COURTEAU, MERLENE 
+Lab No:  33P82349
+Deerview
+STRATHALBYN  Queensland  2582
+Specimen: Tissue
+D.O.B:  28/5/2006
+Sex:  F
+Collected: 18/06/2014 at 16:34
+Location:  Lowy-GOULBURN VALLEY HEALTH - CENTRE FOR OLDER PERSONS
+DR DESMOND ZACKARY Bettle
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Duodenal polyp.  High grade dysplasia on Bx.  Obvious infiltrating Ca at laparotomy.  Whipples with adherent right colon en bloc resection.  Long suture in bile duct.  Left gastric LN as separatespecimen.  
+MACROSCOPIC:
+A.  Specimen labelled "Pancreaticoduodenectomy plus right colon" consists of distal stomach with attached duodenum, pancreatic head and gallbladder with an adherent section of right colon.  The distal stomach measures 55mm in length, duodenum 120mm in length.  The pancreatic head measures 70 x 45 x 40mm.  Pancreatic neck resection margin is inked black, portal vein margin blue, anterior surface red, and the posterior surface green.  75mm from the distal resection margin of the duodenum and 15mm proximal to the ampulla there is an almost circumferential sessile, partly polypoid tumour measuring 50mm in length along the duodenum, it occupies approximately 95% of the bowel wall.  The tumour appears to invade through the muscularis propria and abuts the serosal surface.  The tumour also appears to invade into the pancreas and mesenteric fat however, the tumour does appear centred in the small bowel.  The bile duct appears patent throughout.  The attached right hemi-colon measures 340mm in length with an area of terminal ileum included measuring 40mm.  There is an attached unremarkable appendix measuring 65mm in length.  In the mid portion of the colon it appears puckered and adherent to the duodenum where the tumour is seen.  The tumour does not appear to extend into the bowel wall.  Mucosa appears slightly flattened in the colon, but otherwise unremarkable.  In the duodenum 60mm distal to the tumour there is a cream firm deposit on the serosal surface, the deposit measures 5mm in maximum dimension.  An area of greater omentum is adherent between the duodenum and the right colon measuring 230 x 150 x 30mm.  The attached gallbladder was received intact and measures 85mm in length with a maximum external diameter of 40mm.  The serosa appears unremarkable.  The maximum thickness of the wall is 3mm.  The mucosa appears unremarkable.  No gallstones are identified.  Numerous lymph nodes are identified in the pericystic, peripancreatic, greater omental and right hemi-mesentericfat.  
+Blocks: 1 - bile duct margin; 2 - small bowel resection margins; 3 - pancreatic neck resection margin; 4 & 5 - full face tumour including pancreas to colon; 6 to 9 - further tumour; 10 - tumour to colon; 11 - further tumour; 12 - colon resection margin; 13 - representative colon; 14 & 15 - one lymph node pericystic; 16 - further lymph node pericystic serially sectioned; 17 - pyloric lymph nodes; 18 - inferior pancreatic lymph node; 19 - representative appendix; 20 - serosal nodule of duodenum; 21 - one lymph node from greater omentum; 22 - one lymph node from greater omentum serially sectioned; 23 - right hemi-colon apical node; 24 to 26 - further right colon nodes; 27 - body of gallbladder; 28 - fundus of gallbladder.
+  
+B.  Specimen labelled "Left gastric lymph node" consists ofa piece of fatty tissue measuring 9mm.   AE 1 block.    (JM/ta 21/8/64)  
+MICROSCOPIC (Reported by Dr H Cavicchi & registrar Dr H Cira):
+A & B.  Sections show moderate to focally poorly differentiated adenocarcinoma of the duodenum which invades into the adjacent pancreas.  The carcinoma does not breach the serosal surface or invade the attached right colon.  The features are as follows:
+Macroscopic Description
+
+Site of tumour:  Duodenum 	
+Maximum tumour diameter:  50mm
+Distance of tumour to nearer cut end:  75mm (distal)
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma
+Differentiation by predominant area
+Moderate to focally poorly differentiated
+Local invasion
+pT4	Tumour invasion of pancreas. 
+
+Tumour involvement of margins
+Cut ends of duodenum:  Not involved
+Pancreatic neck resection margin:  Well clear
+Common hepatic duct margin:  Well clear
+Circumferential pancreatic margins:  Well clear
+
+Lymph nodes
+Number of lymph nodes present:  22
+Peripancreatic:  3
+Pericystic:  2
+Duodenal: 1
+Pyloric:  2
+Greater omental:  2
+Mesentery of right colon: 11
+Left gastric (specimen B):  1
+Number of lymph nodes involved:  1 (duodenal)	
+pN1	Metastases in 1-3regional LN
+Lymphovascular invasion
+Present 
+Perineural invasion
+Present 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+There is an incidental sessile serrated adenoma within the appendix.
+The gallbladder shows no significant abnormality.
+The attached right colon shows no significant abnormality.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) ofnuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4    pN1     pMX    R0
+

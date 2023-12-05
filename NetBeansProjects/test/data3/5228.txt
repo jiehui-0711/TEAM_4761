@@ -1,0 +1,50 @@
+Episode No:  40P960079J
+4059600.TXJ
+
+Caltabiano, Gilma EMELY 
+Lab No:  40P96007,40P96007
+Borsdane
+KERANG  Northern Territory  3070
+Specimen: Washings,Tissue
+D.O.B:  27/3/1993
+Sex:  F
+Collected: 18/2/2066 at :
+Location:  POSTOPERATIVE RECOVERY - PINGELLY HEALTH CENTRE
+DR FIDEL Thurman SABAT
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Endometrial cancer grade 3.
+MACROSCOPIC:
+A.  Specimen labelled "Cervix, uterus, bilateral tubes and ovaries" consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries, received opened (sagittal incision) in formalin.  The complete specimen weighs 140g.  The uterus measures 95 x 55 x 60mm and has a smooth, shiny serosal surface.  The ectocervix measures 36 x 34mm and has unremarkable surface.  On sectioning, the myometrium is 34mm in maximum thickness, with no fewer than four fibroids measuring 5 to 12mm in maximum dimension.  There is a papilliform tumour at the fundal aspect of the endometrial cavity measuring 20mm in maximum dimension.  The tumour appears to extend to a depth of 5mm.  The left fallopian tube measures 55 x 7 x 5mm and the left ovary measures 20 x 17 x 9mm with an unremarkable cut surface.  The right fallopian tube measures 57 x 7 x 5mm and the right ovary measures 27 x 13 x 8mm with an unremarkable cut surface.  AE.
+Blocks:  1 to 5 - composite LS posterior uterus and cervix; 6 to 7 -left coronal sections of tumour/fundus; 8 to 10 - composite LS anterior uterus and cervix; 11 - representative fibroid; 12 - complete fimbrial end left fallopian tube, plus mid TS; 13 - RS left ovary; 14 - complete LS right fallopian tube, plus mid TS; 15 - representative right ovary.  RS.
+B.  Specimen labelled "Right obturator" consists of fibroadipose tissue measuring 30 x 20 x 9mm, containing multiple lymph nodes.
+Blocks:  1 - multiple lymph nodes; 2 - single lymph node, longitudinally bisected; 3 - multiple lymph nodes.
+C.  Specimen labelled "Left obturator lymph node" consists of fibroadipose tissue measuring 35 x 22 x 17mm in aggregate, containing two lymph nodes.
+Blocks:  1 - single lymph node; 2 - single lymph node; 3 - associated fibroadipose tissue.  AE.
+D.  Specimen labelled "Right external iliac" consists of fibroadipose tissue measuring 55 x 40 x 14mm in aggregate, containing multiplelymph nodes.
+Blocks:1 - multiple lymph nodes; 2 - multiple lymph nodes; 3 - single lymph node.
+E.  Specimen labelled "Left external iliac lymph node" consists of fibroadipose tissue measuring 30 x 35 x 10mm, containing multiple lymph nodes.
+Blocks:  1 - multiple lymph nodes; 2 - associated fibroadipose tissue.  AE.
+F.  Specimen labelled "Right common iliac lymph node" consists of a lymph node with a small amount of attached fibroadipose tissue measuring 25 x 14 x 9mm.  On sectioning, the lymph node has a small pale grey/yellow area measuring 3mm in maximum dimension.  BAE 1 block.  (TO: WB; ZU/rt 18.2.66)
+MICROSCOPIC (Reported by Dr L Larrivee):
+A.  Sections show a grade 3 endometrioid adenocarcinoma of the endometrium.  The tumour has a maximum depth of invasion of 13mm through a wall 25mm thick.  A moderate amount of lymphvascular invasion is present.
+The ectocervix and endocervix are uninvolved and unremarkable.  Lymphatic invasion is seen in the right paraovarian soft tissues.  Otherwise the ovaries and tubes are unremarkable.
+B.  One of nine lymph nodes shows a 1.5mm deposit of metastatic carcinoma.
+C.  Five lymph nodes show no evidence of malignancy.
+D.  Seven lymph nodes show no evidence of malignancy.
+E.  Three lymphnodes show no evidence of malignancy.
+F.  One lymph node shows almost total replacement by metastatic carcinoma.  
+No extracapsular spread is seen.
+DIAGNOSIS:
+Grade 3 endometrioid adenocarcinoma of the endometrium, depth 13mm through a wall 25mm thick.  Cervix uninvolved.  Moderate lymphvascular invasion is present.  Two of twenty five (2 of 25) lymph nodes show metastatic carcinoma.
+SUPPLEMENTARY REPORT (Reported by Dr L Windley)
+MMRD immunoperoxidase stains were requested at the Gynaecology Tumour Board meeting because this patient has a history of bowel cancer as well as the current endometrial adenocarcinoma. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype. In this case, there is strong and diffuse nuclear expression of all four antigens.
+

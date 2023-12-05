@@ -1,0 +1,69 @@
+Episode No:  97H558786W
+972558.SVR
+
+SHANAFELT, MIGUEL 
+Lab No:  97H55878
+S Cobblestone
+EUROA  VIC  7315
+Specimen: Tissue
+D.O.B:  6/2/2008
+Sex:  M
+Collected: 3/2/2063 at :
+Location:  St Vincent-BLACKTOWN HOSPITAL
+DR ALEJANDRO BLAIR Krompel
+Distribution:   FILE-COPY
+CLINICAL:
+Lung cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Right lower lobe" consists of a right lower lobe of lung, 130mm (medial to lateral), 150mm (anterior to posterior) and 80mm (superior to inferior). A stapled line extends from the bronchial resection margin.  In the superior aspect ofthe specimen there is an area of pleural puckering, 30 x 30mm.  It is 20mm from the closest stapled resection margin and 40mm from the bronchial margin.  On sectioning and in the area of pleural puckering there is a solid ill defined white/grey tumour measuring 45 x 30 x 30mm.  The rest of the parenchyma appears non-consolidated and is unremarkable.  
+Blocks:  1- one TS bronchial margin; 2- vascular margin; 3 to 8 - serial sections of tumour (approximately 90% embedded) (block 7 reserved block); 9 - non tumoral lung; 10 - one peribronchial lymph node.  
+B.  Specimen labelled "Paratracheal node" consists of three lymph nodes, 5, 10 and 10mm.  AE 1 block.
+C.  Specimen labelled "Hilar node" consists of two lymph nodes measuring 7 and 15mm in maximum diameter.  AE 1 block.  
+D.  Specimen labelled "Subcarinal" consists of one lymph node, 15mm in maximum diameter.  Specimen BAE 1 block.  (MT/mm 3.3.63) 
+MICROSCOPIC:  (Reported by Dr XJess):
+A.  The 45mm tumour is an invasive non-mucinous adenocarcinoma.  The carcinoma displays a mixed lepidic (70%) and acinar growth (30%) pattern the latter comprising angulated glands within a cellular chronically inflamed stroma, mainly around or within an area of subpleural scarring and elastosis. The crowded moderately pleomorphic tumour cells display enlarged elongated grooved nuclei, variably prominent nucleoli, occasional intranuclear inclusions and eosinophilic to vacuolated cytoplasm. Focally sebaceous-like features are present with cytoplasmic microvacuolation.  A minor component shows mucinousdifferentiation, highlighted with dPAS staining (block A5).  In several foci lepidic tumour shows continuity with ciliated respiratory epithelium.  The carcinoma abuts but does not penetrate the elastic layer of the pleura (PL0) (highlighted with orcein stains) and there is associated pleural retraction and foci of mild mesothelial hyperplasia.  The vascular and bronchial resection margins are uninvolved and well clear (40mm-macroscopic) of tumour. The stapled resectionmargin is also clear (20mm-macroscopic).  One peribronchial lymph node shows reactive sinus histiocytosis with anthracosis but no evidence of malignancy. The subpleural scar contains dilated bronchioles consistent with broncioloectasis.Away from the tumour, apart from a focus of reactive type 2 metaplasia and scattered intraalveolar macrophages, the lung parenchyma is unremarkable. 
+Immunohistochemistry:
+The tumour cells stain as follows:
+Positive:  TTF1, CK7
+Negative:  CK20
+This pattern of staining is consistent with a lung primary.
+B. Three (3) lymph nodes show no evidence of malignancy.
+C.  Two (2) lymph nodes show no evidence of malignancy.
+D. One (1) lymph node shows no evidence of malignancy.
+A synoptic report for lung carcinoma follows:
+
+SYNOPTIC REPORT FOR INVASIVE LUNG CARCINOMA
+Specimen type:  Lobectomy
+Topography:  Right lowerlobe
+Tumour location:  Peripheral
+Tumour size:  45mm (gross estimate)
+Tumour type (IASLC/ATS/ERS classification 2011)1
+-  Lepidic predominant non-mucinous invasive adenocarcinoma, (70% lepidic, 30% acinar pattern).
+-  Acinar componentmeasures 13mm in maximal extent
+Histological grade:  Intermediate grade
+Vessel invasion:  Not seen
+Perineural invasion:  Not seen
+Visceral pleural involvement:  Not seen
+Bronchial resection margin:  
+-  Carcinoma in-situ:  Not seen.
+-  Invasive carcinoma:  Not involved, 40mm clear
+Other margin (stapled): 20mm clear
+Vascular resection margin:  Not involved, 40mm clear 
+Lymph nodes:  Seven (7) negative lymph nodes 
+-  (One (1) peribronchial, three (3) paratracheal, two (2) hilar and one (1) subcarinal)
+Non-neoplastic lung:Unremarkable apart from focal type 2 metaplasia associated with sparse intraalveolar pigmented macrophages.
+Pathological staging (AJCC 7th Ed. 2010): 
+-  pT2aN0M0R0
+
+DIAGNOSIS:
+A-D.  Right lower lobectomy, paratracheal lymph node, hilar lymph nodes and subcarinal lymph nodes: 
+-  45mm lepidic predominant non-mucinous invasive adenocarcinoma
+-  Margins clear
+-  Seven (7) negative regional lymph nodes
+-  Stage pT2aN0M0R0.
+
+
+Molecular studies for EGFR mutation detection can be performed upon receipt of a request form with signed patient consent.
+
+(1) Travis et al. International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society International Multidisciplinary Classification of Lung Adenocarcinoma. Journal of Thoracic Oncology 2011, 6(2),p.244. 
+

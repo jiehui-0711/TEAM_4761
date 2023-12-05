@@ -1,0 +1,94 @@
+
+ 6069210.UVT
+Legere, Kermit APRIL
+60S92107
+
+Last edited : 27/9/2063		Page: 2
+***ADDITIONAL REPORT: HER-2 SISH RESULTS (26.9.63)
+
+CLINICAL:
+Left breast lesion 11 o'clock.  Invasive ductal carcinoma on core.  Left breast lesion wide local excision - marked long lateral, short superior, medium medial.  Left sentinel lymph node.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axilla sentinel node" consists of three pieces of fibrofatty tissue measuring 18, 14 and 5mm in maximum dimension.  Within each fragment are lymph nodes ranging from 3mm to 9mm in maximum dimension.  AE 3 blocks.  
+Blocks: 1 - possible one lymph node bisected; 2 - one lymph node bisected; 3 - possible one lymph node.
+B.  Specimen labelled "Left breast lesion short superior, long lateral, medium medial" consists of a piece of fibrofatty tissue with three sutures as indicated measuring 62mm(medial to lateral) x 49mm (superficial to deep) x 45mm (superior to inferior) and weighs 71.4g.  The specimen is inked as follows:  Superior - blue, inferior - black, superficial - green and deep - red serially sectioned from medial to lateral into ten slices.  There is a firm tan nodular tumour measuring 12 x 12 x 10mm in slices three to five.  The tumour margins are as follows: 7mm - superior, 9mm - inferior, 9mm - superficial,15mm - deep, 12mm - medial, 28mm - lateral.  Elsewhere there is normal fibrous breast tissue with surrounding fat.  Specimen AE.  See diagram. 
+Blocks: 1 to 3 - medial margin slice one; 4 to 7 - slice two; 8 to 11 - slice three; 12 to 15 - slice four; 16 to 19 - slice five; 17 to 23 - slice six; 24 to 27 - slice seven; 28 to 31 - slice eight; 32 to 35 - slice nine; 36 to 39 - lateral margin slice ten. 
+(TD/ta 9/5/63) 
+MICROSCOPIC:  (Reported by Dr R Lipkind)
+A.  Sections of the bisected left axilla sentinel lymph node show no evidence of malignancy (0/1) (H&E and IHC). 
+B.  Section of the left breast lesion show an invasive ductal carcinoma associated with multifocal DCIS. A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Left breast, WLE.
+Type: Invasive ductal carcinoma, NOS.
+The carcinoma consists of infiltrative sheets and trabeculae with focal tubule formation. A CD56 immunohistochemical stain for neuroendocrine differentiation is negative. 
+Invasive tumour size: 12mm (macroscopic).
+Grade: 2 (Modified Bloom & Richardson)       
+Tubules: 2 Nuclei: 2 Mitoses: 3 Mitotic rate: 18/10hpf.
+Lymphovascular invasion: Not identified. 
+
+DCIScomponent:  
+DCIS: Present. 
+Maximum extent of DCIS: DCIS is present in seven consecutive slices, over an approximate maximum extent of 35mm. 
+Nuclear grade: Predominantly intermediate (and focally high grade). 
+Architecture: Solid, cribriform, micropapillary and comedotype. 
+Necrosis: Present.  
+Calcification: Absent. 
+Degree of DCIS in tumour: Minimal.
+DCIS in adjacent tissue: Present. 
+Focally pagetoidextension of DCIS into large ectatic ducts is present (block 25). 
+Excision Margins:  
+Invasive component:
+Superficial margin: 5.5mm (block 14). 
+Inferior margin: 8.0mm (block 18)
+Superior margin: 10mm (block 19)
+Deep margin: Clear (>10mm)
+Lateral margin: Clear (>10mm)
+Medial margin: Clear (>10mm) 
+In-situ component:
+Inferior margin: 0.25mm (block 25)
+Superior margin: 0.56mm (block 32)
+Lateral margin: 0.56mm (block 36
+Deep margin: 3.3mm (block 21)
+Superficial margin: 8.0mm (block 15)
+Medial margin: Clear (>10mm). 
+(Note: no intervening ducts/acini between closest margins and DCIS). 
+Receptors: 
+ER:   POSITIVE.
+	100% of nuclei stained
+	Predominant intensity of staining: Strong.
+PR:   POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: Moderate
+HER2 (Novocastra 10A7): Equivocal (2+)
+Ki-67 immunoproliferative index: Variable, up to 5% of tumour cell nuclei positive.
+
+Nipple: Not included. 
+LCIS / ALH: Present (multifocal). 
+Miscellaneous:
+The adjacent non-neoplastic breast tissue shows columnar cell and fibroadenomatoid change and apocrine metaplasia. Organising haemorrhage and fibrosis consistent with a recent biopsy site are also present. There are scattered foci of atypical ductal hyperplasia (B8/B17) which appear clear of margins (focally 2.2mm to inferior margin). 
+DIAGNOSIS:
+A.  Left axilla sentinel node: No evidence of malignancy (0/1) (H&E and IHC). 
+
+B.  Left breast lesion: 
+- 12mm invasive ductal carcinoma associated with multifocal intermediate (and focal high grade) DCIS.
+- Carcinoma appears clear of margins.
+- DCIS is very close to inferior, superior and lateral margins.
+- ER, PR positive; Her-2 equivocal. 
+
+Her-2 SISH is being performed and a supplementary report will be issued. 
+
+***ADDITIONAL REPORT: HER-2 SISH RESULTS (26.9.63)
+Blocks were sent to HUGHENDEN HOSPITAL Hospital for Her2 ISH analysis, Dr R Moe reports:
+HER2 IHC Result:   2+ at POW. 
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, polysomy).
+Mean Her2 copy number per cell: 3.95.
+Mean CEP17 copy number per cell:  3.5.
+HER2/CEP17 ratio:  1.13.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

@@ -1,0 +1,23 @@
+SPR no: 88P600611L
+MRN no: 88560061
+Site_name: TOMAREE COMMUNITY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pelvic mass for investigation.   36 week pelvic/abdominal mass.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a large, multicystic ovary, 270 x 240 x 170mm, with overlying attenuated fallopian tube 100mm in length.  The surface of the ovary is intact.  On sectioning, the cystic areas have a varying complexity, with a relatively minor component of microcystic/solid areas.  The microcystic /solid areas sampled for frozen section in two blocks.  RS 27 blocks.
+FROZEN SECTION REPORT:
+Mucinous tumour, favour borderline.
+Phone results to Dr anaesthetist by Dr V Waddoups/Dr CARLTON RABENA at 12:20pm 14/2/17.
+B.  Specimen labelled &amp;quot;Uterus cervix right tube and ovary&amp;quot;, consists of a uterus with attached cervix and right fallopian tube and ovary, weighing 155g in total.  The uterus measures 130 x 75 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 36 x 20mm and has an unremarkable surface.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  On sectioning the endometrium measures 1mm in maximum thickness and they myometrium measures 25mm in maximum thickness.  The myometrium contains a few scattered fibroids measuring up to 33mm in maximum dimension.  The fibroids have a pale grey, whorled appearance; there is no necrosis.  The right fallopian tube measures 55 x 5 x 6mm.  The right ovary measures 28 x 14 x 9mm, with an unremarkable cut surface.
+Blocks: 1 to 6 - mid line LS posterior uterus and cervix; 7 to 13 - mid line LS anterior uterus and cervix; 14 &amp;amp; 15 - representative anterior fibroids; 16 - LS complete fimbrial end right fallopian tube, and mid TS; 17 - representative right ovary.
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of omentum, 150 x 35 x 15mm.  The serosal surface is smooth.  On thin sectioning, no lymph nodes or tumours are identified.  There is a metal clip within the omental tissue.  RS 3 blocks.
+(TO: JB; JB/rs 17/4/67)
+MICROSCOPIC (Reported by Dr V Hutchinson):
+A.  Sections show a borderline mucinous tumour of the ovary with a moderate degree of atypical epithelial proliferation.  There are small areas of torsion and rupture, but there is no evidence of invasion.  The fallopian tube is unremarkable.
+The tumour shows diffuse positivity for CK7 and patchy positivity for CK20 and CDX2, consistent with an ovarian primary.
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is essentially inactive.  The myometrium shows adenomyosis and leiomyomas.  The right ovary and tube show no significant abnormality.  There is no evidence of malignancy.
+C.  The omentum is unremarkable.  There is no evidence of malignancy.
+DIAGNOSIS:
+Borderline mucinous tumour of the left ovary.  No evidence of malignancy.

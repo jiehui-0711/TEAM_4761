@@ -1,0 +1,24 @@
+SPR no: 40B6213219
+MRN no: 400621
+Site_name: COHUNA DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Strong FHx of ovarian and bowel cancer.  BRCA 1+2 neg.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus + ovaries + tubes + cervix&amp;quot;, consists of a previously opened uterus with attached cervix, bilateral fallopian tubes and ovaries (in formalin), weighing 70.5 grams.  The uterus cannot be measured accurately due to the partially opened fixation, measuring approximately 40 x 68 x 35mm and has a smooth and shiny serosal surface.  The ectocervix measures approximately 25 x 25mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 10mm in maximum thickness. The myometrium contains one fibroid measuring 13mm in maximum diameter.  The right fallopian tube measures 65mm in length and up to 8mm in maximum diameter.  The right ovary measures 32 x 18 x 5mm and has an unremarkable cut surface.  The left fallopian tube measures 58mm in length and up to 8mm in maximum diameter.  There is a parafimbrial cyst  measuring up to 8mm in maximum diameter.  The left ovary measures 30 x 15 x 5mm and has an unremarkable cut surface.  Blocks: 1 to 3 - full LS anterior body and cervix; 4 to 6 - full LS posterior body and cervix; 7 - right fallopian tube, fimbrial end; 8 &amp;amp; 9 - TS right fallopian tube (AE); 10 &amp;amp; 11 - right ovary (AE); 12 - left fallopian tube, fimbrial end bisected; 13 &amp;amp; 14 - TS left fallopian tube (AE); 15 &amp;amp; 16 - left ovary (AE).   RS 16 blocks.
+
+B.  Specimen labelled &amp;quot;Omentum biopsy&amp;quot;, consists of a piece of unorientated oval shaped fibrofatty tissue, measuring 40 x 33 x 6mm.  Serially sliced.  No nodules or lesions are identified.  AE 3 blocks.  (TO:JT/ta 29/9/69)
+
+
+MICROSCOPIC (Reported by Dr L Monsky):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive and atrophic.  The myometrium contains a leiomyoma.  Both fallopian tubes and ovaries are examined in their entirety and show no significant abnormality.  There is no evidence of malignancy.
+
+B.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A &amp;amp; B.  Uterus and cervix, ovaries and fallopian tubes, omentum:
+-  Leiomyoma.
+-  Inactive endometrium.
+-  Omentum negative.

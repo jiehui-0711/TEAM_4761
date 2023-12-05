@@ -1,0 +1,68 @@
+SPR no: 04D8320074
+MRN no: 041832
+Site_name: EAST WIMMERA HEALTH SERVICE - BIRCHIP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report04D83200 (04D8320074) ROKOS, Faviola TREVOR
+HISTOPATHOLOGY REPORT
+CENTRAL HIGHLANDS RURAL HEALTH - CRESWICK HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ca ovary, post chemotherapy x3.
+
+1. Left ovary.
+2. Right ovary.
+3. Omentum.
+4. Diaphragm.
+5. Para-aortic posterior peritoneum.
+6. Appendix.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT OVARY&amp;quot;. Consists of a cystic mass weighing 182g and it measures 85x65x60mm. On opening the cyst contents, it is filled with haemorrhagic cyst fluid. The inner lining shows focal papillae and the wall feels firm focally over an area measuring 30x30mm. There is no discernible fallopian tube. There is focal area that is suggestive of fimbriae and this is at this firm area of the cyst. This area measures 30x6mm. The serosal surface of the ovary is inked blue. The papillae are seen at the thickened aspect of the cyst. Representative sections taken.
+
+(1-4  thickened area of cyst with papillae and possible fallopian tube; 5  further section of thickened area; 6-8  further sections of cyst).  Representative sections. (M-8).
+
+B. &amp;quot;RIGHT OVARY&amp;quot;. Consists of ovary with fallopian tube, altogether it weighs 7g. Fallopian tube measures 45mm in length with a maximum diameter of 7mm. There are multiple paratubal cysts, 2 to 6mm. Ovary is 25x15x5mm. Serosal surface is unremarkable. On sectioning the ovary, the cut surface is firm and normal appearing. Entire fallopian tube is embedded. Representative sections of ovary taken.
+
+(1&amp;amp;2  fallopian tube; 3  representative sections of ovary). Representative sections. (M-3).
+
+C. &amp;quot;OMENTUM&amp;quot;. Consists of omentum, it measures 350x75x25mm. There is a tumour deposit with a pale white appearance measuring 22x15x10mm. There are also areas of fat necrosis. Representative sections are taken.
+
+(1&amp;amp;2  tumour deposit; 3-5  further representative sections of omentum).  Representative sections. (M-5).
+
+D. &amp;quot;RIGHT DIAPHRAGM&amp;quot;. Consists of a strip of fibrous tissue with fat at one edge. It measures 270x100x10mm. On the fibrous tissue are nodular tumour deposits ranging from 2 to 15mm. Representative sections. (M-2).
+
+E. &amp;quot;AORTIC PERITONEUM&amp;quot;. Consists of a piece of fibrofatty tissue 10mm maximum dimension. All embedded.  (1-1).
+
+F. &amp;quot;APPENDIX&amp;quot;. Consists of a vermiform appendix with attached mesoappendix, it measures 40x6mm. The mesoappendix is up to 25mm wide. Base is inked blue. Within the mesoappendix, there is a pale nodule 2mm maximum dimension ?tumour. The wall of the appendix is 2mm. The entire central transverse sections are embedded.
+
+(1  longitudinal of the base and tip; 2  transverse sections).  Representative sections. (M-2/MC 11/4/2071 km).
+
+MICROSCOPIC:  (Dr A Singuefield)
+A. The sections show ovaries with cyst lined partly by fibrous tissue and macrophage reaction and partly by attenuated epithelium and focal columnar epithelium with cilia. In other areas, there are groups and nests of cells and small cystic spaces with atypical high grade epithelium consistent with high grade serous carcinoma within the dense fibrous tissue. No definite fallopian tube is identified.
+
+B. Sections of the fallopian tube are unremarkable. The ovary contains benign serous inclusion.
+
+C. Sections of the omentum show residual tumour nodules measuring up to 14mm in diameter in the histologic sections (22mm amcroscopic size) and with associated adjacent fibroblastic reaction and macrophage reaction which is consistent with chemotherapy effect. The tumour grows in sheets and poorly formed glandular spaces and with high grade nuclear features. The appearances are those of Chemotherapy Response Score: 2 (CRS 2).
+
+D.The sections shows fibrous tissue within which there is tumour nodule consisting of high grade serous carcinoma.
+
+E. The section shows fibrofatty tissue in which there is fibroblastic reaction with small amount of high grade serous carcinoma.
+
+F. The section shows appendix with normal range appearances. Within the mesoappendix, there is small reactive lymph node.
+Immunohistochemistry (Block C1): There is positive staining for WT-1, CK7, PAX-8 and with patchy staining gfot p-16. P-53 shows complete absence of nuclear staining (this is an abnormal finding).
+Comment: The appearances are those of high grade serous carcinoma with superimposed chemotherapy effect involving the left ovary, the omentum, the right diaphragm and the aortic peritoneum. Chemotherapy Response Score = 2. Clinical correlation is recommended.
+DIAGNOSIS:
+A. LEFT OVARY
+- HIGH GRADE SEROUS CARCINOMA.
+B. RIGHT OVARY AND FALLOPIAN TUBE
+- NEGATIVE FOR MALIGNANCY.
+C. OMENTUM
+- HIGH GRADE SEROUS CARCINOMA, CRS 2.
+D. RIGHT DIAPHRAGM
+- HIGH GRADE SEROUS CARCINOMA.
+E. AORTIC PERITONEUM
+- HIGH GRADE SEROUS CARCINOMA.
+F. APPENDIX
+- NORMAL RANGE APPEARANCES.
+13/4/2071 cy

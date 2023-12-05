@@ -1,0 +1,16 @@
+SPR no: 39R7992171
+MRN no: 2461464
+Site_name: MONA VALE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+50 year old female with ? complex ovarian cyst.  Abdominal hysterectomy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left ovary&amp;quot;, consists of pink bloody tissue, 30 x 20 x 16mm with intact serosa.  Inked blue, cut surfaces show a unilocular cyst (22mm) with orange-yellow tissue within (~12 x 9 x 8mm).  Two x 4mm pieces of yellow tissue taken for biobank by I Zima.  Blocks: 1 to 7 - RS.
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of an unorientated piece of fat measuring 22 x 11 x 8mm.  Bisected AE 1 block.  (TO:FA/eh 24/4/68)
+MICROSCOPIC (Reported by Dr I Dehler):
+A  Sections show a follicular cyst.  Surface adhesions are present and there is an adherent hydrosalpinx.  There is no evidence of malignancy.
+B.  The omentum is unremarkable.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Left ovary:  Follicular cyst, adhesions, hydrosalpinx.
+B.  Omental biopsy:  No significant abnormality detected.

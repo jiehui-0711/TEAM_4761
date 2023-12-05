@@ -1,0 +1,96 @@
+SPR no: 81W402602D
+MRN no: 81840260
+Site_name: HORNSBY KU-RING-GAI HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+CBD stricture.  ?Ampullary nodule.  Whipples procedure.  Aortocaval lymph nodes.  Portal LNs.  Silk tie on bile duct.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Whipples&amp;#8221; consists of a Whipple specimen with attached gallbladder.  The segment of distal stomach and small bowel measures 260mm in length, consisting of 45mm of stomach and 225mm of small bowel.  The serosal surface of both the distal stomach is unremarkable. A stent is present in the ampulla and common bile duct.  At the ampulla there is a small nodule measuring 7mm across.  On sectioning, the nodule shows pale ill defined lesion measuring 14 x 12mm .  The lesion appears to involve the muscularis propria but there is no definite macroscopic invasion into the adjacent pancreatic tissue.  The pancreas measures 80 x 50 x 28mm, with the cross section of the pancreatic resection margin measuring 35 x 25 x 20mm.  The following ink were use for orientation in the pancreas.  The pancreatic neck resection margin is inked green, portal vein is inked black, SMA is inked blue, uncinate is inked green, anterior surface is inked red, posterior surface is inked yellow.The pancreas  has been sliced into eleven slices.  The cut surface is  unremarkable. The attached omental fat measures 110 x 90 x 40mm.  The attached gallbladder measures 120mm in length with an open circumference of 90mm and wall thickness of 2mm.  The serosal surface appears smooth and shiny with congested vessels.  Inner surface is dark brown and granular.  No gallstones seen.
+Blocks:  1 to 3 - pancreatic neck resection margin; 4 - CBD margin; 5 - proximal resection margin; 6 - distal resection margin; 7 to 9 - gallbladder (7 - cystic duct, 8 - representative sections of body; 9 - representative sections of fundus); 10 - representative sections of normal stomach and small bowel, 11 to 12 - lymph node (11 - one lymph node; 12 - lymph nodes as seen); 13 to 15 - representative sections of fat; 16 to 23 - individual slices of pancreas; 24 &amp;amp; 25 - one slice bisected; 26 &amp;amp; 27 - one slice bisected; 28 - one slice bisected.  All pancreatic tissue are embedded.
+
+B.  Specimen labelled &amp;#8220;Aortocaval lymph node&amp;#8221; consists of a single fatty tissue measuring 30 x 20 x 10mm.  One lymph node identified measuring 12mm across.
+Blocks:  1 - one lymph node; 2 - remaining tissue.
+
+C.  Specimen labelled &amp;#8220;Portal lymph node&amp;#8221; consists of two pieces of tan brown tissue measuring 30 x 25 x 14mm.
+Blocks:  1 - lymph nodes as seen; 2 - one probable lymph node bisected; 3 - remaining tissue.
+(TO: LM; LM/rt 7.12.66)
+
+
+MICROSCOPIC (Reported by Dr V Doyan):
+A.
+SUMMARY PANCREATIC TUMOUR
+
+Size of tumour:  18mm
+
+Histological tumour type
+Adenocarcinoma
+
+Histological grade
+Grade 3 to 4: Moderately to poorly differentiated
+
+Tumour site
+Ampulla of Vater
+
+Extent of tumour invasion
+Pancreas
+Duodenal wall
+
+Lymphovascular invasion: Present
+Type of vessel:  Small vein (block 21)
+
+Perineural invasion
+Not identified
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Preinvasive lesion
+Not identified
+
+Margins:
+Invasive tumour:
+Pancreatic neck:  &amp;gt; 10mm
+Common bile duct: &amp;gt; 10mm
+Portal vein (superior mesenteric vein): &amp;gt; 10mm
+Superior mesenteric artery: &amp;gt; 10mm
+Periuncinate soft tissue: &amp;gt; 10mm
+Proximal (stomach): &amp;gt; 10mm
+Distal (duodenal): &amp;gt; 10mm
+
+Carcinoma in situ/PanIN-3 at margin:  Not seen
+
+Surfaces:
+Anterior: &amp;gt; 10mm
+Posterior: &amp;gt; 10mm
+
+Lymph nodes:
+Number found: 22
+Number involved: 7
+
+Other pathology:
+- Chronic cholecystitis is present in the gallbladder.
+- Moderate active chronic gastritis is present in the gastric antrum. Scattered groups of Helicobacter pylori are seen on immunohistochemistry.
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+Primary tumour category (pT)
+T3 Tumour invades pancreas
+
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+
+Distant metastasis category (pM)
+MX Not assessable by histology
+
+B. Sections show one lymph node with no evidence of malignancy.
+C. Sections show five lymph nodes with no evidence of malignancy.
+DIAGNOSIS
+A. Whipple resection:
+- 18mm moderately to poorly differentiated adenocarcinoma of the ampulla of Vater, invasion into duodenum and pancreas, margins clear
+- Metastatic carcinoma in 7 out of 20 lymph nodes
+- pT3 N1 MX (AJCC 7th Ed.)
+- Moderate active chronic gastritis, Helicobacter pylori present
+B. Aortocaval lymph node: 1 lymph node with no evidence of malignancy
+C. Portal lymph nodes: 5 lymph nodes with no evidence of malignancy

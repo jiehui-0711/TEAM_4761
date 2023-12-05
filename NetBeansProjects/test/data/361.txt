@@ -1,0 +1,72 @@
+Episode No:  38J5433778
+383543.JUT
+
+RAIA, SHARIKA 
+Lab No:  38J54337,38J54337
+Lebanon
+WOORI YALLOCK  New South Wales2587
+Specimen: Fluid,Tissue
+D.O.B:  7/5/1978
+Sex:  F
+Collected: 7/5/2063 at :
+Location:  PARKES 4 EAST-COOLAH MULTI PURPOSE SERVICE
+DR DONNY MEHRUN SCHREYER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY, DR Delross
+
+***SUPPLEMENTARY REPORT: MICROSATELLITE INSTABILITY MARKERS (10.5.2063)
+
+CLINICAL:
+Transverse colon cancer.  Nodal involvement.Extended right hemicolectomy and ascites. 
+MACROSCOPIC:
+Specimen labelled "Transverse colon", consists of a segment of bowel received in a loop. The bowel contains a portion of ileum which measures 50 x 10mm, a segment of large bowel measuring 185 x 25mm and attached appendix which measures 55 x 5mm.  There is attached omentum which measures 110 x 70 x 10mm and epiploic fat measuring 240 x 55mm.  On the serosal surface of the large bowel there is a pale nodular area with associated adherent fat which measures 30 x 35mm. On the corresponding mucosal surface there is a circumferential polypoid tumour which measures 30 x 55mm and is situated 60mm from the distal margin and 160mm from the proximal margin. No other mucosal lesions/ polyps are identified. The serosal surface is inked black, proximal margin is inked blue and distal margin is inked green.  On sectioning the tumour appears to show serosal involvement.  
+Block 1- proximal and distal margins;2-8 - represent a full TS through the centre of the tumour; 3 & 4 - composite blocks and represent a full thickness section from mucosa to serosa at level of deepest invasion; 9 - representative tumour; 10 - transition from tumour to normal mucosa at distal end; 11 - transition from tumour to normal mucosa at proximal end; 12 - LS of distal appendix and TS mid appendix; 13 - apical node; 14 - five lymph nodes; 15 - five lymphnodes; 16-18 - representative fat.  (BI/ec 8.5.63) 
+ 
+MICROSCOPIC: (Reported by Dr H Nicewander)
+The transverse colon tumour is a 55mm moderately to poorly differentiated adenocarcinoma with areas of mucinous differentiation. A synoptic report for colonic carcinoma follows:
+
+SYNOPTIC REPORT FOR COLON CARCINOMA
+Macroscopic Description
+Site of tumour: Transverse colon.	
+Maximum tumour diameter: 55mm (macroscopic).
+Distance of tumour to nearer cut end: 60mm (distal margin). 
+Tumour perforation: Not identified. Tumour extends very close to the serosal surface, but no definite direct serosal penetration is seen. 
+Microscopic Description
+Type
+Adenocarcinoma showing areas of mucinous (signet ring cell) differentiation. 
+Differentiation by predominant area
+Moderate to poorly differentiated (signet ring cell). 
+Local invasion
+pT3muscularis propria.
+Tumour involvement of margins
+Cut ends: Not involved.
+Lymph nodes
+Number of lymph nodes present: Eight.	
+Number of lymph nodes involved: One of eight (1/8).	
+pN1	Metastases in 1-3 regional LN
+Lymphovascular invasion
+Present: Extramural.
+Perineural invasion
+Not identified.
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities
+The appendix shows no significant histologic abnormality. 
+Residual tumour status
+R0	No residual tumour
+Summary - TNM 7th Edition  pTNM Stage = 3B  (pT3N1MxR0)	
+
+Mismatch Repair Deficiency (MMRD) Status
+Markers of microsatellite instability are being performed and a supplementary report will be issued. 
+
+DIAGNOSIS:
+Transverse colon:
+55mm moderately to poorly differentiated Stage 3B transverse colon adenocarcinoma with areas of mucinous (signet ring cell) differentiation.
+There is focal extramural lymphovascular space invasion.
+One of eight lymph nodes shows metastatic adenocarcinoma. 
+Markers of microsatellite instability are being performed and a supplementary report will be issued. 
+
+
+***SUPPLEMENTARY REPORT: MICROSATELLITE INSTABILITY MARKERS (10.5.2063)
+Dr H Orrell
+Immunoperoxidase stains for MSI proteins 
+

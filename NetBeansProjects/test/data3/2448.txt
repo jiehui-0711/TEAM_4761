@@ -1,0 +1,55 @@
+Episode No:  99W359664M
+9983596.PLM
+
+Hickenbottom, Patricia 
+Lab No:  99W35966
+Mount Kennedy
+CHARTERS TOWERS  QLD  3561
+Specimen: Tissue
+D.O.B:  25/9/2000
+Sex:  F
+Collected: 2/6/2065 at :
+Location:  Molecular Oncology Unit-BULLI HOSPITAL
+DR Dustin Elke BORODEC
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+WLE upper outer quadrant palpable lesion right breast.  Excised down onto fascia.  Marking sutures:  Long lateral/short superior/medium medial.  Sentinel node.
+MACROSCOPIC:
+A.  Specimen labelled "Rt sentinel node biopsy" consists of a lymph node with a small amount of fatty tissue 25mm across.  The lymph node is AE in blocks 1 & 2.
+B.  Specimen labelled "Rt breast mass short superior, long lateral, medium medial" consists of a disc-like piece of fibrofatty tissue 40mm (from medial to lateral) x 45mm (from superior to inferior) x 15mm (from superficial to deep).  Superior superficial inked blue, inferior superficial inked green and deep resection margin inked black.  On sectioning there is an ill-defined firm area in the breast tissue measuring 20 x 7mm in slices three, four and five.  Specimen sliced from lateral to medial into eight slices.  The firm area is approaching the deep and superficial margin. It appears well clear of the superior and inferior margin.
+Blocks:  1 - the transverse lateral margin; 2 - slice two; 3 & 4 - slice three; 5 & 6 - slice four; 7 & 8 - slice five; 9& 10 - slice six; 11 - slice seven; 12 - slice eight TS of the medial margin.  AE.  (WX/rt 2.7.65)
+MICROSCOPIC (Reported by Dr Z Nunez & registrar Dr Z Vandygriff):
+A & B.  Sections show lobular carcinoma of the breast.  The features are as follows:
+Invasivecarcinoma:
+Site:  Right breast, upper outer quadrant
+Type:  Invasive lobular carcinoma (E-cadherin negative)
+Invasive tumour size:  20mm
+Grade (Modified Bloom & Richardson):  2
+Tubules:  3   Nuclei:  2   Mitoses:  1   Mitotic rate:  2/10hpf.
+Lymphovascular invasion:  Not identified
+DCIS component:
+DCIS:  Absent
+Excision Margins:
+Invasive component:  0.3 from deep, 1mm from superficial, 3mm from superior and inferior, well clear of medial and lateral
+LCIS:  Present at lateral margin
+Receptors (Block B6):
+ER:   Positive
+	100% of nuclei stained
+	predominant intensity ofstaining:  Strong
+PR:  Positive
+	20% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  Negative (Score 0)
+HER2 SISH:  Performed at Smith International, BATLOW/ADELONG MULTI PURPOSE SERVICE Hospital, see separate report.
+Ki-67 index:  Less than 5%
+LCIS / ALH:  Present
+Miscellaneous:  The uninvolved breast contains columnar cell change
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

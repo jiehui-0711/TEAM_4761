@@ -1,0 +1,68 @@
+Episode No:  42Z571980C
+429571.YVC
+
+AVIS, NATASIA SADIE 
+Lab No:  42Z57198
+Horsnell
+ROSEBERY  SA  3502
+Specimen: Tissue
+D.O.B:  15/1/2020
+Sex:  F
+Collected: 26/09/2013 at 11:30
+Location:  St Vincent - ST VINCENT'S HOSPITAL (LISMORE)
+DR WILLARD RAFAEL CRUZ-DUTTER
+Distribution:  DR Gordinier,  FILE-COPY,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Rt breast lobular Ca. - upper outer quadrant.  Short stitch superior, long lateral medium medial.  Sentinel lymph node from right axilla.
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node", consists of a blue dyed lymph node 25 x 15 x 15mm.  AE 1 block. 
+B.  Specimen labelled "Right breast lesion short superior, long lateral, medium medial", consists of a piece of fibrofatty tissue with three sutures for orientation taken as above  It measures 45mm medial to lateral 65mm superior to inferior 20mm superficial to deep margin.  The superficial margin is inked blue, deep margin inked black, medial margin inked green and lateral margin inked red.  The specimen is serially sectioned from superior to inferior into nine slices.  On sectioning slices three to six there is an ill defined fibrous area measuring 20 x 30 x 10mm.  In slices four and five the fibrous area abuts the medial margin inked green.  
+Specimen AE according to the attached diagram.
+Blocks: 1 and 2 - Slice one (superior margin); 3 and 4 two; 5 and 6 - slice three; 7 and 8 - slice four; 9 and 10 - slice five; 11 and 12 - slice six; 13 and 14 - slice seven; 15 and 16 - slice eight; 17 and 18 - slice nine (inferior margin). 
+(TO: UO;ST/vo 29.11.63) 
+MICROSCOPIC (Reported by Dr M Gettis):
+A. One sentinel lymph node identified shows no evidence of metastatic carcinoma. The cam 5.2 immunostain is negative.
+B. Sections show an invasive lobular carcinoma, Grade 1. A synoptic report follows.
+Invasive carcinoma:
+Site: Right breast, upper outer quadrant
+Type: Invasive lobular carcinoma
+Invasive tumour size: 25 x 20 x 10mm (across five slices)
+Grade (Modified Bloom & Richardson): 1
+Tubules: 3      Nuclei: 1     Mitoses: 1      Mitotic rate:      2/10hpf.
+Lymphovascular invasion: Not identified
+	    
+DCIS component:  
+Not identified
+
+
+
+
+Excision Margins:  
+Invasive component:
+- Medial: 4mm (Block B7)
+- Lateral: 0.5mm (Block B10)
+- Superior: >10mm
+- Inferior: >10mm
+- Superficial: 3mm (Block B9)
+- Deep: 1mm (Block B7)
+In-situ component: Not applicable
+Receptors (Block B7): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining: Strong
+PR:  Positive
+	100% of nuclei stained
+	predominant intensity of staining: Strong(Novocastra 10A7): 1+
+HER2 SISH:  Performed at Avery Dennison, WARIALDA MULTIPURPOSE SERVICE Hospital, see separate report.
+Ki-67 index: 5%
+Nipple: Not applicable
+LCIS / ALH: Present extensively
+DIAGNOSIS:
+A. Right axilla sentinel node
+- NO EVIDENCE OF METASTATIC CARCINOMA
+B. Right breast, upper outer quadrant
+- 25MM INVASIVE LOBULAR CARCINOMA, GRADE 1
+- ER POSITIVE, PR POSITIVE, HER 2 NEGATIVE, Ki67 INDEX 5%
+
+
+

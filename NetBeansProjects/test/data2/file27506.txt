@@ -1,0 +1,21 @@
+SPR no: 05G148653L
+MRN no: 0521486
+Site_name: QUIRINDI COMMUNITY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+55 year old lady, left lobe of liver excised (segment 2/3) - previous cervical SCC requiring hysterectomy / bilateral salphingooophrectomy, however this liver metastasis ?ovarian in origin.
+Specimen received fresh and sampled for Biobanking. Dr Zachariah (27/9/2065).
+MACROSCOPIC:
+Specimen labelled &amp;quot;left lobe of liver&amp;quot; received fresh, consists of a liver segment measuring 145 x 80 x 48mm and weighs 300g.  The surgical resection margin is inked blue.  On the capsular surface there is an area of puckering with some fat wrapping, measuring 70mm x 40mm.  The cut surface reveals pale ill defined lesion corresponding to the puckered area measuring 70mm x 45mm x 35mm.  The tumour lies 9mm from the resection margin, abuts the  capsular surface.  The rest of the liver is unremarkable.
+Blocks: 1 &amp;amp; 2 - RS of tumour to margin; 3 to 9 - full profile of lesion; 10 &amp;amp; 11 - RS of tumour in relation to capsule; 12 - RS of normal liver.
+(TO: LM; LM/eh 26.8.65)
+
+
+MICROSCOPIC: (Reported by Dr X Calvello)
+The 70mm hepatic tumour is a focally keratinising moderately differentiated squamous cell carcinoma. There is multifocal lymphovascular space and perineural invasion. Carcinoma infiltrate the hepatic hilar tissue and is focally less than 0.1mm from the hepatic surgical margin (within a vessel). Tumour focally abuts the overlying hepatic capsular surface (block 6).
+
+
+DIAGNOSIS:
+Liver: 70mm deposit of metastatic moderately differentiated squamous cell carcinoma.
+Please correlate with clinical and imaging findings.

@@ -1,0 +1,46 @@
+SPR no: 99G321791I
+MRN no: 9923217
+Site_name: MERRIWA MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  99G321791I
+9923217.ZCI
+
+PAPAKOSTAS, UYEN ROZANNE LORETTA
+Lab No:  99G32179
+Americana
+KIAMA  Queensland  6401
+Specimen: Tissue
+D.O.B:  17/7/2017
+Sex:  F
+Collected: 07/08/2015 at 16:30
+Location:  SEALS Central-MULLEWA HOSPITAL
+PRO STACY MICHAEL DUARTES
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+HISTORY:
+AMX Ca - peritonectomy. Rt hemicolectomy.  Chole.  Spleen.  Diaphragm strip.
+MACROSCOPIC:
+&amp;quot;GALLBLADDER, SPLEEN, RIGHT COLON, SMALL BOWEL, PERITONEAL DISEASE&amp;quot;.
+Gallbladder - A gallbladder measuring 70x30mm.  The external surface is covered in tumour deposit.  On opening there is viscous bile and the mucosa shows scant cholesterolosis.
+(1 TS resection margin; 2 representative gallbladder)
+Spleen - A spleen measuring up to 110x70x50mm with adherent omentum, peritoneum and diaphragm measuring up to 250x100x70mm.  The spleen is involved by tumour on the surface.
+(3&amp;amp;4 representative spleen; 5&amp;amp;6 representative omental and peritoneal tumour cake)
+Peritoneal Disease - Multiple strips of diaphragm and peritoneal tissue measuring in aggregate 150x150x100mm.  There is diffuse tumour involvement of all pieces.
+(7-9 representative tissue)
+Segments of Bowel - Three segments of bowel measuring up to 150, 140 and 400mm in length.  Each piece has dense tumour deposits over the serosal surface and mesentery.  One piece appears to have some fibrinous exudate present also.  On opening the mucosa is oedematousin areas but otherwise unremarkable.
+(10&amp;amp;11 LS resection margins piece one; 12 serosal tumour deposit piece 1; 13&amp;amp;14 LS resection margins piece two; 15-18 serosal and mesenteric tumour deposits piece two; 19&amp;amp;20 LS resection margin piece three; 21&amp;amp;22 serosal tumour deposits piece three)
+Right Colon - A segment of bowel loop measuring in aggregate 140x100x70mm.  It is predominantly small bowel with ileocaecal valve and caecum attached at resectionmargin.  There is an area of scarring in the caecum and there is a thickened appendix present adherent to the bowel loop measuring up to 50mm in length and 12mm in external diameter.  It has a pale firm appearance.  The serosal and mesenteric surfaces are carpet by gelatinous tumour deposit.
+(23 LS resection margin; 24 representative serosal deposits; 25&amp;amp;26 LS distal appendix with mesenteric nodes; 27 TS mid appendix; 28 LS proximal appendix; 29&amp;amp;30 representative mesenteric nodes; 31&amp;amp;32 tumour reserve block).  RS (M-32/ED/ank)
+MICROSCOPIC:  (Z Bassett)
+The sections of the gallbladder show deposits of extracellular mucus on the serosal surface with some groups and strips of attenuated cuboidal epithelium with low grade nuclear cytology.
+Sections of the spleen show normal appearing splenic parenchyma.  On the serosal surface, there are deposits of extracellular mucus associated with columnar mucinous epithelium with intermediate gradecytology.  There is also infiltration of reactive fibroblastic connective tissue by small groups of cells and infiltrative pattern glands showing intermediate grade cytology including nuclear hyperchromasia and  nuclear shape and membraneirregularities.
+Sections of the omentum and peritoneal tissue show deposits of extracellular mucus associated with dense fibrous connective tissue and with columnar mucinous epithelium with intermediate nuclear grade features.  There is infiltration of connective tissue with reactive desmoplastic stroma by variably sized glands and small nests of tumour cells.   A focus of endometriosis is also identified.
+Sections of the three separate segments of bowel show small and large bowel with normal mucosa and normal wall.  The serosa and adventitia contains mucinous tumour with similar appearances to that seen in the previous specimen including intermediate grade nuclear cytology.Several mesenteric lymph nodes are seen and show reactive changes only.
+Sections of the right hemicolectomy specimen show an appendix in which the distal appendix is occupied by a tumour with combined morphology. There is a component of villous pattern mucinous tumour that penetrates the wall of the appendix to reach the adjacent periappendiceal connective tissues with intermediate nucleargrade features and desmoplastic stromal reaction and with associated metaplastic calcification. There is an associated usual type carcinoid (neuroendocrine tumour grade 1) growing in nests and cords and small groups of cells, and forming rosette structures.  The carcinoid shows granular chromatin and inconspicuous nucleoli.  The carcinoid tumour component measures 20mm in diameter and infiltrates through the full thickness of the wall of the appendix to focally involve the mesoappendix.
+Fourteen periappendiceal and mesenteric lymph nodes are identified and show reactive changes only.  The proximal and distal margins of the hemicolectomy specimen are unremarkable.
+Immunohistochemistry (Block 25 &amp;#8211; distal appendix): The mucinous tumour shows strongstaining for CDX2 and CK20, and moderate staining for CK7. The carcinoid tumour shows positive stianing for CAM5.2, CDX-2, synaptophysin, chromogranin, and with less than 2% staining with Ki-67
+Comment:  The appearances are those of moderately differentiated adenocarcinoma involving the peritoneal surfaces with associated prominent extracellular mucus production (pseudomyxoma peritonei clinical pattern).  In the appendix, there is a combined mucinous tumour consistent with mucinous adenocarcinoma that penetrates through the appendiceal wall, and with associated with ususal type carcinoid (neuroendocrine tumour grade 1).  No evidence of metastatic spread of the carcinoid component identified in the sections examined.
+DIAGNOSIS:
+PERITONECTOMY SPECIMEN:
+- MODERATELY DIFFERENTIATED MUCINOUS ADENOCARCINOMA WITH PSEUDOMYXOMA PERITONEI CLINICAL PATTERN; COMBINED MUCINOUS ADENOCARCINOMA AND CARCINOID TUMOUR OF APPENDIX - SEE TEXT FOR DETAILS.
+15/10/2065 nh

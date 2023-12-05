@@ -1,0 +1,126 @@
+SPR no: 31N5740825
+MRN no: 315574
+Site_name: HENTY MULTI PURPOSE SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report31N57408,31N57408 (31N5740825) MIURA, Gilberto
+HISTOPATHOLOGY REPORT
+ROYAL REHABILITATION HOSPITAL - COORABEL/MOORONG HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GI endometrioid adenoCa.  1. Peritoneal washings for Cytol. 2. Uterus tubes + ovaries. 3. Left sentinel nodes. 4. Right sentinel nodes. 5. Omentum.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, CERVIX, BILATERAL OVARIES + FALLOPIAN TUBE&amp;quot;. An uterus and cervix, bilateral salpingo-oophorectomy. The uterus and cervix is 105x80x63mm. The ectocervix is 30x21mm. Total specimen weight is 211g. The ectocervix is unremarkable. The serosal surface is smooth and shiny. Anterior paracervical margin inked blue, posterior  inked black.
+- The endometrium is soft and polypoid in appearance up to 5mm in thickness. The myometrium is up to 24mm thick. There appears to be invasion into myometrium towards the fundus with and illdefined pale area extending into myometrium ?greater than half the thickness of myometrium.
+- In the right side myometrium there is a hard heavily calcified fibroid  50mm diameter. This has a calcifed periphery and rubbery tan fibrous centre. Multiple other smaller fibroids are present from 7mm to 13mm across.
+- The right fallopian tube is not able to be identified readily. There is a small area of ?fibrial tissue at the distal end of the ovary, with adjacent vascular tissue. No normal right tube tissue is seen.
+- The right ovary is 22x7x6mm and weighs 2.1g.
+- The left fallopian tube is 50mm in length and 3mm in diameter with a paratubal cyst present at the fimbrial end 5mm across.
+- The left ovary is 23x17x7mm and weighs 4.4g and appears normal.
+Blocks:
+1-8 anterior left endometrial cavity; 9-12 posterior left endometrial cavity; 13 the right posterior endometrium; 14 left fallopian tube [fimbrial end and transverse section]; 15 representative section of left ovary; 16-18 ?right ovary; 19 ?fimbrial remnant of right fallopian tube). [Please see diagram] Representative sections (M-19)
+Further blocks:
+20-24  left sided endometrium from anterior to posterior; 25-29  left sided endometrium from anterior to posterior; 30  anterior right endometrium; 31  posterior right endometrium [diagram drawn]). Representative sections. M-31/AO 16/5/2071 km).
+Further blocks: A32 central section large calcified fibroid; LV
+Further tissue:
+(33-35 left ovary all embedded; 36 left fallopian tube and ?left fallopian tube fimbrial end). Representative sections (M-36/AO 16/6/2069 cy)
+B. &amp;quot;LEFT PELVIC SENTINEL LYMPH NODE&amp;quot;. Two pieces of fatty tissue 12-27mm across with three lymph nodes identified ranging from 7-10mm across. All lymph nodes embedded.
+(1 largest lymph node; 2 one lymph node; 3 one lymph node). All embedded. (M-3)
+C. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. A 20mm fragment of fatty tissue with one possible lymph node 3mm across identified. All embedded. (1-1)
+D. &amp;quot;OMENTUM BIOPSY&amp;quot;. Two pieces of fatty tissue 4-6mm across. Fatty tissue all embedded. All embedded. (2-1/AOcy)
+MICROSCOPIC: Dr I Strutton
+A. Uterus, Cervix, Bilateral Ovaries + Fallopian Tube:
+
+ENDOMETRIAL CARCINOMA, SYNOPTIC:
+(based on CAP 2020 Endometrium 4.1.0.2; RCPA V2 2019, FIGO 2018)
+
+Tumor Site:   Fundus, Body
+
+Histologic Type:   Endometrioid carcinoma
+
+Histologic Grade:   FIGO grade 1
+
+Myometrial invasion:   Present.
+Depth of myometrial invasion:   11mm
+Myometrial thickness:   21mm
+Percentage of myometrial invasion: just over 50% (section A28), also &amp;gt;50% invasion A27
+
+MELF pattern of invasion:  Present, focal
+
+Uterine Serosa Involvement:   Not identified
+
+Distance of myoinvasive tumour to serosa:  5mm
+
+Lymphovascular Invasion:   Not identified
+
+Cervical Stromal Invasion:   Not identified
+
+Margins:
+Parametrial/Paracervical Margin:  Not involved by carcinoma
+Distance of invasive tumour from margin: well clear &amp;gt;10mm
+
+REGIONAL LYMPH NODES:
+B. Left Pelvic Sentinel Lymph Node:
+Number of  nodes with macrometastasis: 0
+Number of nodes with micrometastasis: 0
+Number of nodes with isolated tumor cells: 0
+Number of  sentinel lymph nodes examined: 3
+
+C. Right Pelvic Sentinel Node:
+Number of  nodes with macrometastasis: 0
+Number of nodes with micrometastasis: 0
+Number of nodes with isolated tumor cells: 0
+Number of  sentinel lymph nodes examined: 1
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Endometrium:   Atypical endometrial hyperplasia. Focal endometrial decidual change suggestive of exogenous hormone effect.
+Myometrium:  Leiomyomas
+Ectocervix:  Normal squamous mucosa
+Endocervix:  Normal endocervical mucosa.
+Right ovary:   No histologic abnormality
+Left ovary:   No histologic abnormality
+Right fallopian tube: Only a small part of distal fimbrial end of right tube tissue identified in distorted tissue end of right ovary. This section of tube tissue appears normal. ?Possible previous tube removal or pre-existing tube abnormality.
+Left fallopian tube:   No histologic abnormality
+
+IMMUNOHISTOCHEMISTY (IHC):
+Block: A8, A11.
+MISMATCH REPAIR PROTEINS (MMRP) IHC:
+MLH1:  NORMAL staining.
+PMS2:  NORMAL staining.
+MSH2:  NORMAL staining.
+MSH6:  NORMAL staining.
+Conclusion:
+This is the normal pattern of MMRP immunohistochemistry.
+There is no immunohistochemical evidence of a mismatch repair deficiency.
+
+ER:      POSITIVE, 50% of nuclei, 2+
+PR:      POSITIVE, 50% of nuclei, 2+
+p53 IHC:  Normal/wild type heterogenous staining pattern
+Her-2:  NEGATIVE IHC (score 1 by Immunohistochemisty IHC)
+
+OTHER SPECIMENS:
+D. Omentum Biopsy: Fatty omental tissue. Negative for malignancy.
+
+PROVISIONAL PATHOLOGICAL FIGO STAGE pre-MDT:   IB (1B)
+(2018 FIGO Cancer Report)
+
+DIAGNOSIS:
+A. Uterus, Cervix, Bilateral Ovaries + Fallopian Tube:
+- Endometrioid carcinoma of endometrium;
+- FIGO grade 1;
+- Myometrial invasion present, just over 50% of myometrium thickness involved;
+- uterine leiomyomas;
+- normal right ovary;
+- normal left ovary;
+- small amount of fimbrial end of right fallopian tube present only;
+- normal left fallopian tube.
+
+B. Left Pelvic Sentinel Lymph Node:
+- Sentinel nodes Not involved (0/3)
+
+C. Right Pelvic Sentinel Node:
+- Sentinel node Not involved (0/1)
+
+D. Omentum Biopsy:
+- Negative for malignancy.

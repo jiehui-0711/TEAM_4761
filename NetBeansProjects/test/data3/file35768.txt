@@ -1,0 +1,35 @@
+SPR no: 95U208779E
+MRN no: 273888
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report95U20877,95U20877 (95U208779E) Roaf, SAMMY
+HISTOPATHOLOGY REPORT
+THE ROYAL ADELAIDE HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Reccurrent serous Ca ovary, right groin node, gastro-colic ligament.  Peritoneal washings for cytology.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT GROIN NODE&amp;quot;.  Fatty tissue 30x30x20mm containing one lymph node 15mm.
+
+(1&amp;amp;2  lymph node trisected).  RS (3-2).
+
+B.  &amp;quot;GASTRO-COLIC LIGAMENT&amp;quot;.  Fibrofatty tissue 90x15x10mm.  The surface of the fibrofatty tissue is covered in multiple small nodules up to 6mm in size.
+
+(1  examples of small nodules; 2  one bisected lymph node).  RS (M-2/JC 26/6/2069 km).
+
+MICROSCOPIC:  (Dr Y Ikeda)
+A.  Sections show extensive replacement of the lymph node by metastatic high grade carcinoma. The carcinoma is characterised by solid nodular architecture with pleomorphic high grade nuclei and brisk mitotic activity.  Scattered psammoma bodies are noted.  There is tumour necrosis.  No definite extracapsular extension is seen.
+A panel of immunostains show that the carcinoma is positive for CK7, WT1, p53, Her Ag, BerEP4 and PAX 8 and weak positive staining for CK5/6. There is patchy staining for HBME1 and CEA. Stains for CK20 and calretinin are negative.
+
+Comment: The appearances and immunoprofile are consistent with the stated clinical history of recurrent ovarian high grade serous carcinoma.
+
+B.  Sections show extensive involvement of the fibrofatty tissue by high grade pleomorphic carcinoma with appearances identical to that of specimen A and consistent with the history of recurrent ovarian serous carcinoma.  The excision includes two incidentally sampled uninvolved lymph nodes.
+
+SUMMARY:
+A.  RIGHT GROIN NODE  -
+- EXTENSIVE INVOLVEMENT BY HIGH GRADE CARCINOMA IN KEEPING WITH RECURRENT HIGH GRADE SEROUS OVARIAN CARCINOMA.
+B.  GASTRO-COLIC LIGAMENT -
+- INVOLVEMENT BY HIGH GRADE SEROUS CARCINOMA
+27/6/2070 nh

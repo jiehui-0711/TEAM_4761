@@ -1,0 +1,59 @@
+Episode No:  00M126793P
+0041267.YJP
+
+PAROBEK, COLTON GASTON
+Lab No:  00M12679
+Casterline
+MOONIE  New South Wales  3235
+Specimen: Tissue
+D.O.B:  4/7/1993
+Sex:  M
+Collected: 19/04/2013 at 11:49
+Location:  Envoi pathology-EAST WIMMERA HEALTH SERVICE - ST ARNAUD
+DR JC JARRED KLITZ
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Ca prostate.  
+MACROSCOPIC:
+A.  Specimen labelled "Prostate" consists of a prostate 45 x 40 x 36mm and weighing 34.7g.  The right vas measures 25mm and the left vas measures 20mm in length.  The right seminal vesicle measures 18 x 10 x 10mm.  The left seminal vesicle measures 17 x 10 x 8mm.  The left half is inked blue and the right half black with anterior green.  The prostate is transversely sectioned into 4 slices.  Slice 1 (apex) and 5 (base) are further parasagitally sectioned.  Specimen all embedded.  
+Blocks:  1 - 8 - slice 1 (apex) from right to left; 9 & 10 - slices 2 and 3; 11 to 23 - slice 5 (base) (with blocks 15&16, 17&18, 19&20, 21&22 - paired blocks bisected sections with posterior first); 24 - right seminal vesicle; 25 - right vas; 24 - left seminal vesicle; 25 - left vas. AE.  Please refer to attached diagram.  
+B.  Specimen labelled "Right pelvic lymph nodes" consists of a piece of unorientated fatty tissue 45mm.  Multiple lymph nodes are identified from 5 to 22mm.  
+Blocks:  1 & 2 - lymph nodes. 
+C.  Specimen labelled "Left pelvic lymph node" consists of a piece ofunorientated fatty tissue 48mm.  One lymph node 20mm is identified.  
+Blocks:  1- lymph node; 2- remainder of tissue.  AE.
+D.  Specimen labelled "Tissue at bladder neck" consists of a cream piece of tissue 6 x 5 x3mm.  BAE 1 block.  (TO:  WY:  LI/mm 21.6.63) 
+MICROSCOPIC:  (Reported by Dr B Gayne)
+A-D. The prostate has been entirely embedded and examined.  Sectionsshow an acinar adenocarcinoma with the following features:
+Histological type:  Acinar adenocarcinoma. 
+Tumour location: 
+Dominant nodule:  Right mid posterolateral prostate extending into right posterolateral base.
+	Non-dominant (>10mm):  Not present.
+	Smaller nodules:  Present; right mid posterior, left mid posterior, right mid 	anterior, left mid anterior, right lateral apex and central apex. 
+Volume/Size:	0.6ml (17mm x 6.2mm x 13.5mm x 0.0004) 
+Gleason score: 	5 + 3 =8 with tertiary pattern 4. 
+Extraprostatic extension:  Present
+-  Extensive - right posterolateral mid prostate; up to 1.5mm beyond prostate over a front of approximately 11mm; Gleason grade 5 (A9, A10) 
+-  Focal minimal -  right posterolateral base prostate; 0.1mm beyond  prostate over front of 0.1mm; Gleason grade 5 (A11).
+Surgical margins:  	0.4mm clear (intraprostatic tumour - A10).
+			0.7mm clear (extraprostatic tumour - A9). 
+Perineural invasion:	Present: numerous foci including extraprostatic.  
+Seminal vesicles:	Not involved.
+Bladder neck (Specimen C):	Not involved.
+Lymph nodes (Specimens B & C):  Seven negative lymph nodes (0/7) (six right pelvic 
+nodes and one left pelvic node). 
+Lymphovascular invasion: 	Not seen. 
+Other: Numerous acutely inflamed benign glands. Organising thrombus in a medium sized vein (A22).
+Stage (AJCC/UICC TNM system, 7th edition)
+pT3a  Extracapsular extension. 
+pN0    No positive regional nodes. 
+MX     Cannot be assessed histologically.
+DIAGNOSIS:
+A-D. Prostate, right and left pelvic lymph nodes and bladder neck tissue:
+- Acinar adenocarcinoma, Gleason score 5 +3 =8 (tertiary pattern 4)
+- Extensive extracapsular invasion by Gleason grade 5 carcinoma
+- Seminal vesicles and bladder neck not involved
+- Margins clear
+- Seven negative pelvic lymph nodes (0/7)
+- Stage pT3a, N0, MX.
+ 
+

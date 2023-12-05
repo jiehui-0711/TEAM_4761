@@ -1,0 +1,74 @@
+
+Episode No:  12Y046648N
+1290466.MWN
+
+GODYN, ADALBERTO 
+Lab No:  12Y04664
+Saric
+NAMBUCCA HEADS  Tasmania  6281
+Specimen: Tissue
+D.O.B:  10/5/1982
+Sex:  M
+Collected: 24/05/2013 at 09:20
+Location:  Immunology-AUBURN HOSPITAL & COMMUNITY HEALTH SERVICES
+DR FRANCESCO CHONG FRANQUI
+Distribution:   FILE-COPY
+CLINICAL:
+Abdominoperineal resection.  MRI shows T2N2 rectal Ca.  Has had chemo radiotherapy.   
+MACROSCOPIC:
+Specimen labelled "Abdominoperineal resection" consists of a segment of large bowel comprising of distal part of sigmoid colon, rectum and anus measuring 260mm in total length and 30mm in diameter.  The attached mesentery measures 50mm in maximal width.  Onopening there is an ulcerated tumour abuts the dentate line and 45mm below the anterior peritoneal reflection.  The tumour is 25mm in diameter and appears to invade into the muscularis propria.  The tumour is 40mm from the distal surgical margin (rectum) and is 4mm to the closest circumferential margin.  Elsewhere the bowel mucosa appears normal aside from a few diverticula near the proximal end.  
+Blocks:  1 - proximal surgical margin; 2- diverticula and normal bowel; 3- distal surgical margin; 4 to 13 - left anterior portion of tumour (4&5 - paired blocks, 8&9 - paired blocks; 10&11 - paired blocks; 12&13- paired blocks); 14 to 18 - right anterior portion of tumour (15&16 - paired blocks, 17&18- paired blocks) tumour AE; 19 to 23 - lymph nodes from below peritoneal reflection (19 - four lymph nodes, 20 - three lymph nodes, 21 - one lymph node bisected, 22 - one lymph node bisected, 23 - ?lymph nodes); 24 to 28 - lymph nodes from above peritoneal reflection (24 - one lymph node bisected; 25 - four possible lymph nodes, 26 - ?lymph nodes; 27 - ?two lymph nodes; 28 - ?four lymph nodes).  (VR/mm 26.7.63) 
+MICROSCOPIC (Reported by Dr D Guerrouxo):  
+Synoptic Report for large bowel carcinoma
+Macroscopic Description
+
+Site of tumour:  Anus (see otherfindings below)
+Maximum tumour diameter:  25mm
+Distance of tumour to nearer cut end:  40mm (distal)
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour toanterior peritoneal reflection:	  Below
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT2	Tumour more than 2cm but not more than 5cm in greatest dimension
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  3mm (block 13)
+Lymph nodes
+Number of lymph nodes present:  10
+Number oflymph nodes involved:  2
+pN1	Metastases in peri-rectal lymph nodes
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Diverticular disease within sigmoid colon
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Grade 2 (minimal response) - Residual cancer outgrown by fibrosis
+Mismatch Repair Deficiency (MMRD) Status (block 5)
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutationor somatic inactivation of that mismatch repair gene.
+Other findings:
+- The epicenter of tumour is located less than 2cm from the dentate line.  Therefore the tumour is classified as anal adenocarcinoma.
+- The twolymph nodes involved by metastatic adenocarcinoma are peri-rectal (below the peritoneal reflection, block 21 and 22).
+- Prostatic tissue is present at the anterior side of specimen with florid chronic inflammation.  
+Summary - TNM 7th Edition
+(y)pT2     pN1     pMX     R0	
+DIAGNOSIS:
+Abdominoperineal resection - Adenocarcinoma.
+

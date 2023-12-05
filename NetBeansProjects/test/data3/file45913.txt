@@ -1,0 +1,38 @@
+SPR no: 13C775114V
+MRN no: 1419234
+Site_name: BANKSTOWN-LIDCOMBE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Hyperparathyroidism.  Right superior parathyroid adenoma on SPECT.  Epilepsy (no seizures sice 2036).  High cholesterol, hysterectomy, oopherectomy 2043, arthritis, depression, ovarian tumour 2061.  Fibromyalgia.  Recurrent left abdominal liposarcoma.  Right superior parathyroid gland for frozen section and histopathology.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Parathyroid right&amp;quot;, consists of a tan piece of tissue, 24 x 14 x 6mm weighing 1.302g.  Half taken for frozen section.  Blocks: 1 - frozen section; 2 - remaining tissue.
+
+FROZEN SECTION REPORT:
+Consistent with parathyroid tissue.
+Result phoned to Dr Anaesthetist by D Tyminski at 12:26pm on 01/07/66.
+
+B.  Specimen labelled &amp;quot;Abdominal sarcoma&amp;quot;, consists of an unoriented mass measuring 230 x 170 x 100mm.  The mass is partially coated in an intact serosa.  There are three segments of bowel wall.  The largest macroscopically appears colonic and measures 155 x 50mm.  Two small bowel segments measure 135 x 60mm and 110 x 75mm.  No other anatomically defining features are identified on the surface.  The cut surface of the mass has a multilobulated appearance with nodules of dense pale whorled tissue with small foci of haemorrhage.  No discrete areas of necrosis are identified.  There is minimal appreciated fat on the peripheral aspect.  The tumour appears to approach all margins but is encapsulated by an intact serosa.  The tumour approaches but does not perforate into the mucosa of the attached bowel segments.  Blocks: 1 to 6 - bowel resection margin and associated bowel wall with tumour from each segment respectively; 7 to 18 - two representative sections from each unoriented margin; 19 &amp;amp; 20 - sections of central tumour; 21 - reserved block for tumour banking.
+
+C.  Specimen labelled &amp;#8220;Small bowel anastamosis&amp;#8221; consists of an unoriented piece of small bowel measuring 50 x 17 x 13mm distorted by multiple staples.  The mucosa has regular tan folds and no masses are identified.  RS 1 block.  (TO:KY/eh 7/7/66)
+
+
+MICROSCOPIC (Reported by Dr D Lennington):
+A. Sections show a circumscribed nodule composed of benign parathyroid cells with bland ovoid nuclei and amphophilic cytoplasm, largely devoid of fat. The features would be consistent with the clinical impression of a parathyroid adenoma. A thin rim of normal parathyroid tissue is present adjacent to the lesion. There is no evidence of malignancy.
+
+B. Sections show a 230mm high-grade sarcoma. The lesion shows varying degrees of cellularity. There are hypercellular areas, composed of sheets of tumour cells with pleomorphic, hyperchromatic nuclei, course chromatin and prominent nucleoli, resembling undifferentiated pleomorphic sarcoma. Up to 13 mitoses are seen per hpf.  There are also less cellular areas, composed of spindle shaped tumour cells forming vague fascicles, within fibrous/myxoid stroma. Focal necrosis is present.
+Although no well differentiated liposarcoma is identified, the features would be consistent with the known history of high grade dedifferentiated liposarcoma (see SUNSHINE HOSPITAL 13C7751).
+The lesion focally extends into the muscularis propria of the small bowel (B4).
+Dedifferentiated tumour is present at the margin in several sections. The longitudinal resection margins of the small and large bowel show no evidence of malignancy.
+FNCLCC grade: 3 (score 6)
+Tumour differentiation: 3 (dedifferentiated liposarcoma)
+Mitosis count: 2 (13 per 10 hpf)
+Tumour necrosis: 1  (&amp;lt;50% necrosis)
+
+C. Sections show small bowel with no evidence of malignancy.
+
+
+DIAGNOSIS
+A. Right superior parathyroid adenoma
+B. Recurrent abdominal lesion: 210mm high-grade dedifferentiated liposarcoma
+C. Small bowel anastomosis: no evidence of malignancy

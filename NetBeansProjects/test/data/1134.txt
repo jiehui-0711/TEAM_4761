@@ -1,0 +1,85 @@
+
+Episode No:  76I313441D
+763313.LKC
+
+Lipovsky, Mason 
+Lab No:  76I31344
+Walburgh
+DEVONPORT  Victoria  8003
+Specimen: Tissue
+D.O.B:  22/7/1980
+Sex:  M
+Collected: 05/06/2012 at 12:07
+Location:  Orana-RICHMOND HOSPITAL
+DR CHRIS JARRETT Villeneuve
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+***SUPPLEMENTARY REPORT (14.8.2062): MSI MARKERS
+
+CLINICAL:
+Omentum - adherent to tumour.  Right colon cancer with attached abdominal wall.  Transverse colon, ?diverticular disease.  Diverticulitis.  HT, IHD.
+MACROSCOPIC:
+A.  Specimen labelled "Omentum", consists of a piece of omentum 90 x 55 x 12mm.  No definite lesions are identified. Representative sections in4 blocks.
+B.  Specimen labelled "Right colon", consists of a right hemicolectomy including caecum and right colon 170mm in length with attached terminal ileum 55mm.  An unremarkable appendix 60mm in length is also identified. Within the caecum, and involving the ileocaecal valve, is a circumferential ulcerated tumour, 60mm in maximum dimension. The proximal margin is 45mm from the tumour. The tumour invades through the muscularis propria at the ileocaecal valve, and into adipose tissue, to a maximum depth of 20mm.  Overlying the tumour atthe caecum, is an attached roughened area of muscle. Sectioning through the tumour shows a tan cut surface with invasion through muscularis propria into the overlying adherent abdominal wall tissue, where it comes close to the margin.  The colonic mucosa distal to the tumour appears markedly thinned and several diverticula are noted.  One 5mm polyp is also identified within the distal colon.  Multiple lymph nodes are identified in the pericolic fat from 2-40mm, some of which show features suspicious for tumour involvement.  
+Block 1 - margins; 2 &3 - tumour at ileocaecal valve; 5-7 - representative tumour; 8 - tumour to normal mucosa; 9 - representative colonic mucosa; 10- polyp; 11 - appendix tip; 12- lymph nodes; 13 - representative one macroscopically involved node; 14 - representative two macroscopically involved nodes; 15 - nodes; 16 - tumour for tumour banking. 
+C.   Specimen labelled "Transverse colon", consists of a section of colon 80mm in length.  Several diverticula are identified throughout the mucosa.  No suspicious areas are identified.  Block 1 - margins; 2-4 - representative diverticula; 5-7 - representative pericolic fat.  (RR/ec 8.8.62) 
+ 
+MICROSCOPIC: (Reported by Dr U Abeita) 
+A.  Sections of omentum show mature adipose tissue with focal fat necrosis. There is no evidence of malignancy. 
+ 
+B.  The caecal/ileocaecal valve tumour is a moderately differentiated adenocarcinoma. A synoptic report for adenocarcinoma follows:
+SYNOPTIC REPORT FOR COLONIC CARCINOMA
+Macroscopic Description
+Site of tumour: Caecum including the ileocaecal valve. 	
+Maximum tumour diameter: 60mm.
+Distance of tumour to nearer cut end: 45mm (proximal).
+Tumour perforation: Yes (pT4).
+
+Microscopic Description
+Type
+Adenocarcinoma NOS.
+The adenocarcinoma shows extensivefull thickness infiltration of the bowel wall into the surrounding pericolic adipose tissue. Sections through the overlying adherent abdominal wall tissues, show adenocarcinoma invading fibrous tissue and skeletal muscle, and it is 1.6mmfrom the soft tissue margin.
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4b	Tumour directly invades or is adherent to other organs or structures
+Tumour involvement of margins
+Cut ends: Not involved.
+Abdominal wall tissue (soft tissue margin): 1.6mm.
+Lymph nodes
+Number of lymph nodes present: Nine. 	
+Number of lymph nodes involved: Five (5/9).	
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present 
+Perineural invasion
+Not identified.
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenoma: A tubulovillous adenoma is present.
+The representative section of appendix shows no significant histologic abnormality.
+Residual tumour status
+R0	No residual tumour (margins appear clear). 
+Mismatch Repair Deficiency (MMRD) Status	
+Pending.
+Stage (pTNM 7thEdition): STAGE IIIC (pT4bN2aMx)
+C.  Sections of transverse colon show uncomplicated diverticular disease. There is no convincing dysplasia or evidence of malignancy. 
+DIAGNOSIS:
+A.  Omentum: No evidence of malignancy.
+
+B.  Right colon:  
+60mm, Stage IIIC, moderately differentiated adenocarcinoma of the caecum (including ileocaecal valve) with lymphovascular space invasion and clear of margins.
+Adenocarcinoma extends into the overlying adherent abdominal wall tissue, and is clear of the abdominal wall soft tissue margin by 1.6mm.
+Five of nine lymph nodes show metastatic adenocarcinoma with up to 0.56mm extranodal extension (5/9).
+Microsatellite markers pending.
+
+C.  Transverse colon: Uncomplicated diverticular disease.
+
+Markers of microsatellite instability are being performed and a supplementary report will be issued. 
+
+
+***SUPPLEMENTARY REPORT (14.8.2062): MSI MARKERS
+Dr U Dalomba
+Immunoperoxidase stains for MSI proteins 
+

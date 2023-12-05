@@ -1,0 +1,72 @@
+
+Episode No:  76G456811J
+762456.VFD
+
+Groleau, FABIAN 
+Lab No:  76G45681
+N Lenwood
+QUEANBEYAN  QLD  5520
+Specimen: Tissue
+D.O.B:  5/6/1993
+Sex:  F
+Collected: 27/08/2013 at17:15
+Location:  2.PARKES 8-PLANTAGENET HOSPITAL
+DR George Jake Haggett
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Ascending coloncancer.  Left hemicolectomy for histopath.  
+MACROSCOPIC:
+Specimen labelled "Left hemicolectomy", consists of a section of colon 215mm in length. 45mm from one resection margin there is a circumferential ulcerated tumour over a length of bowel 30mm.  In the serosa in the area overlying the tumour the serosa appears puckered with adherent fat. The cut surface reveals a firm cream tumour which appears to invade through the muscularis propria and focally abuts the serosal surface.  In the area of the tumour several uncomplicated diverticulum are unremarkable.  Several further diverticulum are identified in the remainder of the colon.  No othersuspicious areas are identified.  Multiple lymph nodes are identified in the mesenteric fat.  Block 1- resection margins; 2-6 - representative tumour; 7 - uncomplicated diverticulum; 8 - apical node; 9-11 - further lymph nodes; 12 - reserve block.  (TO: WC;PQ/ec 29.10.63) 
+MICROSCOPIC: (Reported by Dr T Mcguinnes) 
+
+Macroscopic Description
+
+Site of tumour: Descending colon. 	
+Maximum tumour diameter:30mm
+Distance of tumour to nearer cut end: 45mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate 
+Local invasion
+pT3	Beyond muscularis propria
+The tumour invades through the muscularis propria and extends into the mesenteric fat.  It reaches very close to the serosal surface of the bowel wall where there is some associated fibrosis and haemorrhage.  No serosal penetration is seen.  The features are insufficient for definite serosal invasion.
+Tumour involvement of margins
+Cut ends: Not involved
+Mesenteric margin: Not involved
+No non-peritonealised (retroperitoneal) margin identified. 
+Lymph nodes
+Number of lymph nodes present: 17. 	
+Number of lymph nodes involved:  0.	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent.  
+The tumour abuts and disrupts the wall of an intramural vein but no definite vascular invasion is seen.  (block3).  Elsewhere an orcein elastin stain shows some elastin fibres around tumour, however definite lymphovascular invasion is not seen in the corresponding H& E stained section or with CD31 immunostain.
+Perineural invasion
+Present.  Focal (block 4).
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Other:  Non-complicated diverticular disease.  
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		loss of nuclear staining
+PMS2		loss of nuclear staining
+MSH2		Preserved nuclear staining/loss of nuclear staining
+MSH6		Preserved nuclear staining/loss of nuclear staining
+Comment:
+Absence (loss)of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+DIAGNOSIS:
+Left hemicolectomy:
+-  48mm moderately differentiated descending colon adenocarcinoma, intramural perineural invasion; no definite lymphovascular invasion; micosatellite instability phenotype (abnormal loss of MLH1/PMS2)  margins clear; seventeen (17) negative lymph nodes (0/17); stage pT3 N0 MX R0; 
+
+
+
+ 
+

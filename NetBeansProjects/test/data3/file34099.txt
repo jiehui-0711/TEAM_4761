@@ -1,0 +1,43 @@
+SPR no: 82D000772K
+MRN no: 2108410
+Site_name: PEMBERTON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post hysterectomy and bso for tubal cancer.  Now staging.  1.  Left lower abdominal wall biopsy; 2.  Sigmoid fat; 3.  Omentum; 4.  Left paracolic gutter nodule; 5.  Right pelvic sidewall nodule.  For primary debulking.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omentum, 420 x 95 x 30mm.  On sectioning, there are two deposits of tumour measuring 9 and 40mm.  Blocks: 1 - larger deposit; 2 - smaller deposit; 3 - uninvolved omentum.
+
+B.  Specimen labelled &amp;quot;Left lower abdominal wall biopsy&amp;quot;, consists of fibroadipose tissue, 28 x 17 x 10mm, sectioned transversely.  AE 2 blocks.
+
+C.  Specimen labelled &amp;quot;Sigmoid fat&amp;quot;, consists of fibroadipose tissue, 40 x 25 x 8mm.  Sectioned transversely.  AE 2 blocks.
+
+D.  Specimen labelled &amp;quot;Right pelvic sidewall nodule&amp;quot;, consists of fibroadipose tissue, 32 x 18 x 13mm.  Sectioned transversely.  AE 2 blocks.
+
+E.  Specimen labelled &amp;quot;Left paracolic gutter nodule&amp;quot;, consists of fibroadipose tissue, 10 x 8 x 5mm.  BAE 1 block.  (TO:ZF/eh 17/1/69)
+
+
+MICROSCOPIC (Reported by Dr W July):
+A.  Sections show two separate foci of high grade serous adenocarcinoma.  The larger focus measures 40mm in diameter.  The carcinoma shows predominantly papillary architecture with widespread psammoma body type calcification.
+
+B.  Sections show normal appearing fibrofatty tissue with no significant abnormality.  There is no evidence of malignancy.
+
+C.  Sections mature adipose tissue with no significant abnormality.  One (1) lymph node is identified.  The lymph node is unremarkable.  There is no evidence of malignancy.
+
+D.  Sections show fibrofatty tissue with foci of high grade serous adenocarcinoma.
+
+E.  Sections show normal appearing smooth muscle and fibrous tissue with no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Omentum - High grade serous adenocarcinoma.
+
+B.  Left lower abdominal wall biopsy - No significant abnormality.
+
+C.  Sigmoid fat - No significant abnormality.
+
+D.  Right pelvic sidewall nodule - High grade serous adenocarcinoma.
+
+E.  Left paracolic gutter nodule - No significant abnormality.

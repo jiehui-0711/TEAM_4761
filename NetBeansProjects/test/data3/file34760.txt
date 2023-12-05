@@ -1,0 +1,143 @@
+SPR no: 36A4127358
+MRN no: 358767
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report36A41273,36A41273 (36A4127358) SOTTILE, ADELLE
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GIII Ca corpus.
+1. Peritoneal washings for cytology.
+2. Uterus, tubes and ovaries.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;.  A partially coronally opened from the right side a total hysterectomy specimen of a total weight of 118g. Consists of a uterus 90x60x55mm, cervix 30x30x25mm, right fallopian tube 65x6mm, right ovary 25x15x10mm, left fallopian tube 60x6mm and left ovary 20x11x10mm.  The external os is round 15x10mm with surrounding unremarkable ectocervix.  Anterior cervical margin is inked blue, posterior black.
+
+There is a tumour within the left posterior corpus mainly exophytic and loosely attached to the posterior body measuring 40x25 mm. It invades into the underlying myometrium (at left posterior body) where the tumor is 14 mm thick out of 18 mm- total myometrial thickness.
+The tumor is confined to the uterus with no involvement of the cornu, serosal surface or the cervix. It is located 45mm of cervical, 20mm of the nearest parametrial resection margin.   There is a cystic lesion in the posterior body separate from the tumour with myxoid and mucinous cut surface, measures 20x15x15mm.  The remainder endometrium is thickened up to 6 mm. Focal cystic areas are identified within the endometrium.
+
+(1 right tube two LS fimbrial end and one TS mid; 2 right ovary; 3 right parametrium; 4 left tube two LS fimbrial end and one TS mid; 5 left ovary; 6 left parametrium; 7-9 anterior body from cervix to fundus; 10-12 anterior body from cervix to fundus; 13 anterior body; 14 coronal section right cornu; 15 coronal section left cornu;
+16-19 full face LS  posterior uterus from cervix to fundus; 20&amp;amp;21 posterior uterus and body maximum invasion; 22&amp;amp;23 tumour maximum invasion into myometrium; 24 cystic mucoid/myxoid lesion in relation to tumour).  RS (M-24).  [Please see block diagram]
+
+B.  &amp;quot;RIGHT SENTINEL NODE (PELVIC)&amp;quot;.  Multiple fibrofatty pieces of tissue 40x20x10mm in aggregate. Five possible lymph nodes are identified, largest measures 18x5x5mm with unremarkable cut surface.
+
+(1 largest lymph node serially sliced; 2 ? four lymph nodes; 3 remainder fat).  AE (M-3)
+
+C.  &amp;quot;LEFT SENTINEL NODE PELVIC&amp;quot;. Four pieces of tissue 5-13mm, two of which representing lymph nodes measuring 7 and 9mm in maximum diameter.  AE (4-1)
+
+D.  &amp;quot;LEFT PELVIC NODES&amp;quot;. A fibrofatty piece of tissue 40x25x15mm in aggregate. Six possible lymph nodes are identified, largest measures 11x8x4mm. The remainder nodes are 3-5mm.
+
+(1 largest lymph node trisected; 2 ? five lymph nodes; 3 remainder fat).  AE (M-3)
+
+E.  &amp;quot;OMENTAL BIOPSY&amp;quot;. A fibrofatty piece of tissue 20x10x8mm with unremarkable outer and cut surface.  Serially sliced.  AE (M-1/ZH 8/5/2069 ank)
+
+MICROSCOPIC:   (Dr J Chockley)
+A. Sections show an endometrial carcinoma with 2 distinct components. One is FIGO grade 2 endometrioid endometrial adenocarcinoma. The second is undifferentiated carcinoma with appearances and immunoprofile most in keeping with small cell neuroendocrine carcinoma.
+
+Both components infiltrate into the outer half of the myometrium. There is extensive lymphvascular space invasion (premominantly small cell component). There is no involvement of the cervix or bilateral cornu. There is focal lymphovascular space involvement in the vessels of the left parametrium. Sections of the adjacent endometrium, cervix, right parametrium, bilateral ovaries and fallopian tubes are unremarkable.There is a single myxoid leiomyoma.
+
+See synoptic report.
+
+B. Sections show five benign reactive lymph nodes. A cytokeratin immunostain is negative.
+
+C. Sections show one benign reactive lymph node. A cytokeratin immunostain is negative.
+
+D. Sections show six benign reactive lymph nodes.
+
+E. Sections show unremarkable adipose tissue. There is no evidence of malignancy.
+
+ENDOMETRIAL TUMOUR SYNOPTIC REPORT
+
+TUMOUR TYPE: MIXED CARCINOMA;
+Small cell neuroendocrine carcinoma and FIGO grade 2 endometrioid adenocarcinoma.
+
+FIGO GRADE: 2 (Endometrioid adenocarcinoma only)
+
+MYOMETRIAL INVASION: Invasion into outer half of the myometrium
+
+DEPTH OF MYOMETRIAL INVASION: 10mm
+
+MYOMETRIAL THICKNESS: 15mm
+
+% OF MYOMETRIUM INVOLVED: 65%
+
+FOCALITY: Unifocal
+
+TUMOUR INVOLVES: Fundus and body
+
+VASCULAR / LYMPHATIC INVASION: Present and extensive
+
+INVOLVEMENT OF CERVIX: Absent
+
+INVOLVEMENT OF THE UTERINE SEROSA: Absent
+
+EXCISION MARGINS: Clear
+
+NON-TUMOUR UTERUS:
+Adjacent endometrium: Atrophic
+Adenomyosis: Present
+
+ADNEXAE:
+Left fallopian tube: Within normal limits
+Right fallopian tube: Within normal limits
+Left ovary: Within normal limits
+Right ovary: Within normal limits
+
+LYMPH NODES:
+Not involved
+Nodes involved: 0
+Total number: 12 (right and left pelvic sentinel nodes and left pelvic nodes)
+
+OTHER TISSUES:
+Omentum: Within normal limits
+
+ANCILLARY TESTS:
+IMMUNOSTAINS Block A21
+NEUROENDOCRINE COMPONENT
+CAM5.2, AE1/3, Synaptophysin: Weak positive with paranuclear dot positive
+EMA, chromogrannin A, PAX8, vimentin: Negative
+p53: Strongly positive
+Ki67: 80 to 90%
+
+FIGO GRADE 2 ENDOMETRIOID ADENOCARCINOMA COMPONENT
+CAM5.2, AE1/3, EMA, PAX8, vimentin:  Positive
+Synaptophysin, chromogrannin A: Negative
+p53: Strongly positive
+Ki67: 40 to 50%
+
+BOTH COMPONENTS:
+SMA, desmin, ER, PR, SOX10, CD45: Negative
+MSI proteins (block: A21)
+
+MLH1:  Intact (normal)
+PMS2:  Intact (normal)
+MSH2:  Intact (normal)
+MSH6:  Intact (normal)
+
+Tumour block suitable for further testing: A22
+
+TUMOUR STAGE
+TNM: pT1b, pN0 (AJCC 2018, 8th edition)
+
+FIGO STAGE	(2008): 1B
+
+DIAGNOSIS:
+A. UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES
+- MIXED ENDOMETRIAL CARCINOMA;
+SMALL CELL NEUROENDOCRINE CARCINOMA and FIGO GRADE 2 ENDOMETRIOID ADENOCARCINOMA
+- EXTENSIVE LYMPHVASCULAR SPACE INVASION INCLUDING THE VESSELS OF THE LEFT PARAMETRIUM.
+- INVOLVEMENT OF THE OUTER HALF OF THE MYOMETRIUM
+- MYXOID LEIOMYOMA
+- UNREMARKABLE CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES
+
+B. RIGHT PELVIC SENTINEL LYMPH NODE - FIVE BENIGN LYMPH NODES
+
+C. LEFT PELVIC SENTINEL LYMPH NODE - ONE BENIGN LYMPH NODE
+
+D. LEFT PELVIC LYMPH NODES - SIX BENIGN LYMPH NODES
+
+E. OMENTUM, BIOPSY - BENIGN
+
+8/4/69 ld

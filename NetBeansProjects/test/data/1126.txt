@@ -1,0 +1,130 @@
+
+Episode No:  65T9073436
+657907.JKJ
+
+WALSTAD, ELIA 
+Lab No:  65T90734
+East Olivera
+ORBOST  TAS  6221
+Specimen: Tissue
+D.O.B:  11/12/2004
+Sex:  F
+Collected: 23/7/2062 at :
+Location:  Hunter Area Pathology-CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+DR Otha Lawrence WESTON-Valant
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast lesion.  IDC left breast 2 o'cl - wide local excision.  SLNB.  Suture - short superior, long lateral, medium medial.
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary sentinel node bx", received fresh, consists of fibrofatty tissue 55 x 20 x 9mm containing a lymph node 25 x 12 x 9mm.  Two imprints done.
+Blocks:1 & 2 - one lymph node.
+IMPRINT CYTOLOGY REPORT:
+One negative lymph node.
+Phone result to anaesthetist by Dr Q Riggens at 1635hr on 21/5/12.
+B.  Specimen labelled "Left breast lesion; long lateral, short superior, medium medial" consists of a piece of firm breast tissue measuring 110mm (lateral-medial) x 45mm (superior-inferior) x 90mm (superficial-deep).  The skin ellipse on the superficial aspect is 70 x 15mm and appears normal.  Three marking sutures are present as described.  The superior surface is inked red, the inferior surface is inked green and the deep surface is inked black.  The specimen is serially sliced from lateral to medial into eighteen slices.  There is an indurated tumour with a pale cut surface measuring 22 x 18 x 13mm.  There are haemorrhagic areas within the tumour.  The tumour is 56mm from lateral, 45mm from medial, 12mmfrom superior, 3mm from inferior, 20mm from superficial and 50mm from deep margins.  The remainder of the breast tissue is fatty and unremarkable.  Within the specimen jar, there is a separate piece of fibrofatty tissue measuring 12 x 10x 5mm.  Its outer surface is inked green.  
+Blocks:  1 & 2 - middle third of slice 10 (block 1 - tumour and superficial margin); 3 to 10 - all of slice 11 blocked from deep to superficial (block 7 - ER, PR, HER2, Ki-67); 11 to19 - all of slice 12 blocked from deep to superficial (block 15 - reserved block for tumour banking); 20 & 21 - middle third of slice 13; 22 & 23 - middle third of slice 9; 24 & 25 - paired sections from slice 15; 26 - representative sections slice 1 (lateral margin); 27 - representative sections slice 18 (medial margin); 28 - separate piece of tissue bisected; 29 - another section from slice 18 (medial margin).
+Further tissue: Block 30-37 - slice 16 AE from deep to superficial clockwise; 38-45 - slice 7 AE from deep to superficial clockwise; 46-49 - remainder slice 18 from deep to superficial.   Please see attached diagram.   (HM/cc 24/7/62)
+ 
+MICROSCOPIC (Reported by Dr Q Fazio): 
+A.  One lymph node is identified.  The tumour is involved by a small deposit of metastatic ductal carcinoma (isolated tumour cells, measuring less than 0.2mm).  This is detected by both H&E and immunohistochemical examinations.  There is no extranodal spread.
+B.  Two separate invasive tumours are identified.  Pleasesee synoptic report below for details.
+Synoptic Report for Breast Carcinoma
+
+Tumour 1
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  22mm
+Grade (Modified Bloom & Richardson):  3
+Tubules: 2     Nuclei: 3     Mitoses: 3     Mitotic rate: 16/10hpf.
+Lymphovascular invasion:  Present (extensive)
+	    
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component:  The invasive carcinoma is 2mm from inferior margin (block B20), is 15mm from superior margin (block 16) and is well clear of the other margins (more than 15mm).
+In-situ component:  Not applicable
+Receptors (Block B7): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining: strong
+PR:  Weakly positive
+	5% of nuclei stained
+	predominant intensity of staining:  moderate
+HER-2 (Novocastra 10A7):  Negative (1+ staining)
+Ki-67 index:  35%
+Tumour 2
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive lobular carcinoma
+Invasive tumour size:  24mm
+Grade (Modified Bloom & Richardson):  1
+Tubules: 3     Nuclei: 1     Mitoses: 1     Mitotic rate: 1/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component:  The invasive lobular carcinoma focally involves the medial margin (block B48) and is 3.5mm to the inferior margin (block B36).  The other margins are well clear (more than 10mm).
+In-situ component:  Not applicable
+Receptors (Block B36): 
+ER:  To follow
+PR:  To follow
+HER-2 (Novocastra 10A7):  To follow
+Ki-67 index:  To follow
+Nipple:  Not applicable
+
+LCIS / ALH:  Absent
+Miscellaneous:
+- The small separate piece of tissue embedded in block B28 is a lymph node.  This is counted as an axillary lymph node.  The lymph node is involved by metastatic ductal carcinoma.  
+- 2 of 2 lymph nodes are involved by metastatic ductal carcinoma.  The tumour cells are positive for E-Cadherin.
+- The invasive ductal carcinoma is present in slice 10 to slice 13.
+- The invasive lobular carcinoma is present in slice 15 to slice 19 measuring 24mm in diameter microscopically.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  1
+Number of sentinel nodes with metastases >2.0mm:  0
+Number of sentinel nodes with isolated tumour cells <0.2mm:  1
+	Detected by:  H&E
+Extranodal spread:  Absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  1
+Number of axillary lymph nodes involved by tumour:  1
+Number of axillary nodes with metastases >2.0mm:  0
+Number of axillary nodes with metastases <2.0mm:  1
+Number of axillary nodes with isolated tumour cells <0.2mm:  0
+Extranodal spread:  Absent
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)):  2
+SUMMARY:
+A & B.  Left breast lesion 
+	Two separate tumours;
+	Tumour 1: Invasive ductal carcinoma (22mm, grade 3), completely excised; 
+	ER positive/PR weakly positive/HER-2 negative;
+	Tumour 2: Invasive lobular carcinoma (24mm, grade 1);
+	Focally involves the medial margin (see text for details);
+	ER/PR/HER-2 to follow;
+	2 of 2 lymph nodes involved by metastatic ductal carcinoma.
+
+The HER-2 ISH test will be performed at BIGGENDEN MULTIPURPOSE HEALTH SERVICE Hospital and an additional report will be issued.
+
+SUPPLEMENTARY REPORT (22/8/2062):
+Please see report of 65T90734 for hormonal status (ER/PR/HER-2/Ki-67) regarding tumour 2 (lobular carcinoma).
+ADDITIONAL REPORT (27/8/2062):
+Blocks were sent to NORTH WEST REGIONAL HOSPITAL Hospital for Her-2 CISH analysis, Dr Q Aben reports:
+Tumour 1
+Her 2 in situ hybridisation: (Her2 CISH Invitrogen SPOT-Light assay, block B7) 
+Her2 CISH result: NEGATIVE (non-amplified, diploid)
+Mean Her2 copy number per cell: 1.75
+Tumour 2
+Her 2 in situ hybridisation: (Her2 CISH Invitrogen SPOT-Light assay, block B36) 
+Her2 CISH result: NEGATIVE (non-amplified, diploid)
+Mean Her2 copy number per cell: 1.80
+SCORING CRITERIA (ASCO/CAP recommendations):
+1 to <2.5 copies:  	Non amplified (diploid)
+2.5 to <4 copies:  	Nonamplified (polysomy) 
+4 to 6 copies:		Equivocal 
+>6 but < 10 copies:	Low level amplification
+10 or more copies: 	High level amplified.  
+

@@ -1,0 +1,114 @@
+SPR no: 95V7082603
+MRN no: 958708
+Site_name: OAKEY HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT ATTACHED
+
+95V70826 (95V7082603) Kaub, Frankie
+
+HISTOPATHOLOGY REPORT
+MITCHELL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+R breast.
+R axillary dissection.
+(note: confirmed with Dr. Troy, patient has neoadjuvant chemotherapy. MC, AP Reg. 15/5/67).
+
+MACROSCOPIC:
+A. Specimen labelled &amp;quot;RIGHT BREAST TISSUE&amp;quot;
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Mastectomy with suture but no designation on request form or specimen container, taken as 12 o&amp;apos;clock.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  190mm
+Superior to inferior:  180mm
+Anterior to posterior:  35mm
+WEIGHT:  675g
+SKIN:  Yes - 115x40mm
+NIPPLE:  Yes - 16mm
+MUSCLE:  No
+OTHER TISSUES / PIECES: N/A
+MARGIN INKED: Non-standard: Anterior superior - blue; Anterior inferior - green; Posterior - black.
+DISSECTION: Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION: The breast tissue is fibrofatty in appearance. There are areas with ectatic ducts extruding cream coloured material noted in the upper outer quadrant. No obvious tumour is noted macroscopically. Entire upper outer quadrant embedded.
+(1 lateral half of nipple; 2-39 upper outer quadrant of anterior half, entirely embedded from lateral towards medial [please see diagram]; 40-77 upper outer quadrant, posterior half, embedded from lateral towards medial [please see diagram]). RS (M-77)
+B. &amp;quot;RIGHT AXILLARY CLEARANCE&amp;quot;. Consists of a piece of fatty tissue, 100x90x18mm. Fourteen possible lymph nodes are identified.
+(1 three lymph nodes; 2 three nodes; 3 one node, bisected; 4 one node, bisected; 5 three nodes; 6 and 7 one node, bisected; 8 one node, bisected; 9 one node, bisected). RS (M-9/MC 15/4/2067 cy)
+MICROSCOPIC: (Dr. Z. Tuzzo)
+A-B. The entire outer upper quadrant has been examined.  There is a large zone of stromal changes including reactive fibroblasts, mild chronic inflammmation, dilated ducts containing foamy macrophages, stromal calcification, pigmented histiocytes and lobular atrophy (eg. blocks A16, A23, A55).  This zone probably represents the tumour bed and is estimated to be 25mm across.
+
+Within this there zone there are 3 small clustered vessels which show intravascular carcinoma (block A60), with high nuclear grade.  Each cluster contains 15 to 20 cohesive tumour cells with focal suggestive of gland formation.
+
+There is no residual intraductal or stromal invasive malignancy.
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+NUMBER OF INVASIVE FOCI:  No residual stromal invasive carcinoma found.
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: N/A
+&amp;#160;
+TUMOUR BED (FIBROSIS) SIZE:  25mm (estimated from slices showing stromal changes).
+
+INVASIVE CARCINOMA TYPE:  Invasive carcinoma of no special type present within small vessels.
+&amp;#160;
+HISTOLOGIC GRADE:  High nuclear grade (unable to grade on tiny amount of tumour).
+
+MITOTIC RATE:  1 mitosis present within one of the small groups of tumour cells.
+&amp;#160;
+TREATMENT EFFECT IN BREAST:  No residual stromal invasive carcinoma is present.
+
+PERITUMOURAL LYMPHOVASCULAR INVASION: Present (A60)
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT:  Not identified
+
+DERMAL LYMPHOVASCULAR INVASION:  Not identified
+&amp;#160;
+NIPPLE INVOLVEMENT:  Not identified
+&amp;#160;
+MUSCLE INVOLVEMENT: Not identified
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): Not identified &amp;#160;
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+ANCILLARY TESTS:  Hormone stains performed on intravascular tumour.
+ER: Negative
+PR: Negative
+Her2: 3+
+&amp;#160;
+LYMPH NODES (Specimen B): AXILLARY LYMPH NODES:
+Nodes with macrometastases:  0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 10
+There is fibrous scarring possibly related to prior lymph node metastasis in 1 lymph node, with complete response to treatment.
+&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): ypT0, ypN0, cMx
+
+DIAGNOSIS:
+A-B. RIGHT TOTAL MASTECTOMY AND AXILLARY CLEARANCE:
+- RESIDUAL INTRAVASCULAR CARCINOMA WITH HIGH NUCLEAR GRADE
+- NO STROMAL OR INTRADUCTAL CARCINOMA
+- NO LYMPH NODES INVOLVED
+------------------------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT (28/4/2068)
+
+HER-2 IN-SITU HYBRIDISATION
+
+Block A60
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+Mean HER2 copy number per cell: 32.1
+Mean CEP17 copy number per cell: 3.4
+HER2/CEP17 Ratio: 9.44
+Comment:
+[Include interpretation of HER2 status designation in conjunction with IHC where indicated].
+HER2 status:      POSITIVE
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122
+Reported by: Dr V Marjoniemi
+Date: 28/4/68
+28/5/2070 nh

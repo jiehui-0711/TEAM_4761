@@ -1,0 +1,27 @@
+SPR no: 27X794798T
+MRN no: 2797947
+Site_name: TUMBY BAY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL HISTORY:
+Vulvar cancer.  Right anterior vulva, stitch 12 o&amp;apos;clock.  Left vulval lesion stitch 12 o&amp;apos;clock.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right anterior vulva stitch 12 o&amp;apos;clock&amp;quot;, consists of an oriented ellipse of skin 55 x 30 x 20mm. There is a suture at one tip designating 12 o&amp;apos;clock.  3 o&amp;apos;clock edge is inked blue and the 9 o&amp;apos;clock black.  On the surface of the skin there is a plaque-like cream lesion 20mm in maximum dimension. Please see diagram.  Blocks 1 to 5 - 12 o&amp;apos;clock margin from 3-9 o&amp;apos;clock; 6 to 13 - TS mid from 12-6 o&amp;apos;clock; 14 to 18 - LS 6 o&amp;apos;clock margin from 3-9 o&amp;apos;clock.  AE.
+
+B.  Specimen labelled &amp;quot;Left vulval lesion stitch 12 o&amp;apos;clock&amp;quot;, consists of an oriented ellipse of skin 30 x 12 x 3mm. There is a suture at one tip designating 12 o&amp;apos;clock.  3 o&amp;apos;clock edge is inked blue and the 9 o&amp;apos;clock black.  On the surface of the skin there is a plaque-like cream lesion measuring approximately 10mm in maximum dimension.  Please see diagram.  Blocks 1 &amp;amp; 2 -  LS 12 o&amp;apos;clock margin from 3-9 o&amp;apos;clock; 3 to 7 - TS lesion from 12-6 o&amp;apos;clock; 8 to 10 - LS 6 o&amp;apos;clock margin from 3-9 o&amp;apos;clock. AE.  (JL/ec  15.6.66)
+
+
+MICROSCOPIC (Reported by Dr H Leatherman):
+A.  Sections show a small focus of superficially invasive squamous cell carcinoma arising on a background of vulva intraepithelial neoplasia grade 3 (VIN 3).  The focus of squamous cell carcinoma measures approximately 1mm across and invades to a depth of 1mm, lying 5mm from the deep resection margin.  No lymphovascular or perineural invasion is seen.  The carcinoma lies 10mm from the 3 o&amp;#8217;clock margin and is well clear of the 9 o&amp;#8217;clock margin.  The surrounding VIN 3 comes to within 4mm of both the 3 and 9 o&amp;#8217;clock resection margins.  The 12 and 6 o&amp;#8217;clock margins are well clear.
+
+B.  Sections show VIN 3.  No invasive malignancy is seen.  VIN 3 focally involves the 3 o&amp;#8217;clock resection margin and comes to within 1mm of the 9 o&amp;#8217;clock margin and 2mm of the 6 o&amp;#8217;clock margin.  The 12 o&amp;apos;clock margin is well clear.
+
+
+DIAGNOSIS:
+A.  Right anterior vulva:
+- Superficially invasive squamous cell carcinoma, margins clear.
+- VIN 3, margins clear.
+
+B.  Left vulva:  VIN 3, margin involved.

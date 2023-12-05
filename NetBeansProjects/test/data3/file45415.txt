@@ -1,0 +1,37 @@
+SPR no: 01J233003A
+MRN no: 10513348
+Site_name: LAKE CARGELLIGO MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+43yr old with ovarian mass.  Left ovarian cyst.  Ca 125 37.  Pre-menopausal.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left fallopian tube + ovary&amp;quot;, consists of a previously disrupted cyst, 70 x 55 x 8mm with attached tube, 55 x 6mm.  The serosa is shiny.  The cyst is unilocular with wall thickness of 1 to 2mm and smooth inner lining.  The cyst contains haemorrhagic debris.  No solid areas or papillary excrescences are identified.  2 x RS for frozen section.  Blocks: 1 - frozen section one; 2 - frozen section two; 3 - fimbria and two TS tube with one TS ovary; 4 to 9 - one TS each ovary.
+
+FROZEN SECTION REPORT:
+Mucinous cystadenoma (benign).  Please check appendix.  No evidence of atypical (B/S features).
+Result to Dr Juan by Dr B Pora at 10:25 on 16/07/70
+
+B. Specimen labelled &amp;quot;Cervix, uterus, right fallopian tube + ovary&amp;quot;, consists of a uterus with attached cervix and right fallopian tube and ovary weighing 167g in total.  The uterus measures 100 x 70 x 50mm and has a smooth shiny serosal surface.  The ectocervix measures 34 x 32mm and has an unremarkable surface.  On section, the endometrium is 3mm in maximum thickness and the myometrium is 21mm in maximum thickness.  The myometrium is unremarkable.  The right fallopian tube is 55 mm in length with a diameter of 9mm.  The tube is associated with a paratubal cyst 7mm in size.  The right ovary measures 45 x 27 x 20mm and has a cystic cut surface.  Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to 9 - full LS posterior body and cervix; 10 - fimbria and paratubal cyst; 11 - three TS tube; 12 &amp;amp; 13 - one TS each ovary.
+
+C.  Specimen labelled &amp;quot;Right uterosacral ligament&amp;quot;, consists of two ragged tan fragments of tissue, 25 x 8mm and 10 x 5mm.  Blocks: 1 - smaller fragment and three TS of larger fragment.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a fatty piece of tissue, 75 x 65 x 25mm.  Specimen is serially sliced.  No lesions or lymph nodes identified.  Blocks: 1 to 3 - fatty tissue.
+(TO:KE/ta 18/7/67)
+
+
+MICROSCOPIC (Reported by Dr B Comissiong):
+A. The paraffin sections confirm a mucinous cystadenoma in the ovary.  The cyst is lined by mucinous epithelium of endocervical type with no nuclear stratification and no significant nuclear atypia.  The ovary also shows primordial and developing follicles and corpora albicantes.   The fallopian tube shows no dysplasia, but many intraepithelial lymphocytes are seen in the mucosa (slide A3).   Cystic Walthard nests are also noted in adjacent tissues. There is no evidence of malignancy or atypia.
+
+B. The sections of the cervix show Nabothian cysts and mild patchy acute and chronic inflammation.  The endometrium is in mid secretory phase.  The myometrium shows a few glands in the superficial muscle near the endometrium, some of which are widely dilated (slide B4).  There are scattered simple serous cysts and Walthard nests adjacent to the fallopian tube as well as a small area of endometriosis (slide B11).  The ovary shows an area of endometriosis including a small endometriotic cyst (slide B12). Primordial and developing follicles, a corpus luteum and corpora albicantes are also seen. There is no evidence of malignancy.
+
+C. The sections show fibrofatty tissue with areas of endometriosis.There is no evidence of malignancy or atypia.
+
+D. The sections show lobulated mature adipose tissue consistent with omentum.  Focal mild chronic inflammation is seen.   There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A. Left ovary: Mucinous cystadenoma.
+B. Uterus, right ovary and fallopian tube:  Endometriosis.
+C. Right uterosacral ligament: Endometriosis.
+D. Omental biopsy: No evidence of malignancy.

@@ -1,0 +1,42 @@
+ 6114789.QKO
+BERTONCINI, Gayle Jena
+61F47896,61F47896
+
+Last edited : 14/4/2063		Page: 2
+CLINICAL:
+Pelvic mass Ca 125 = 1205 Ca 15.3 = 88.  Previous history of TCC bladder.  
+MACROSCOPIC:
+A.  Specimen labelled "Right pelvic mass, right ovary" consists of a disrupted solid/cystic mass 75 x 70 x 55mm adjacent to ovary measuring 30 x 15 x 14mm with tube 60mm in length.  The cut surface shows mostly solid tumour with necrosis and haemorrhage.  Two representative sections for frozen section. 
+Blocks:  1 & 2 - frozen section 2; 3 to 9 - representative tumour; 10 - TS possible left tube; 11 - TS right tube; 12 - representative right ovary.
+FROZEN SECTION REPORT:
+Poorly differentiated carcinoma.
+Phone result to gynaecology resident by Dr Q Caughorn at 10.10am on 2/1/13.
+B.  Specimen labelled "Uterus, left tube + ovary" consists of a uterus with attached cervix, left fallopian tube and ovary weighing 42g in total.  The uterus measures 70 x 40 x 16mm and has a smooth shiny serosal surface.  The ectocervix measures 18 x 15mm and has an unremarkable surface.  On sectioning the endometrium is <1mm in maximum thickness and the myometrium is 9mm in maximum thickness.  The myometrium has a small ?papilloma up to 4mm diameter on the superior-anterior wall.  The left fallopian tube measures 45mm in length and 6mm in maximal diameter.  The left ovary measures 25 x 13 x 14mm and has an unremarkable cut surface.  There is a partial right fallopian tube present measuring 20mm in length and up to 10mm in maximal diameter.  
+Blocks: 1 to 3 - full longitudinal section of anterior body and cervix; 4 to 6 - full longitudinal section of posterior body and cervix; 7 - endometrial representative section with ?papilloma; 8 - right fallopian tube; 9 - representative left fallopian tube; 10 - representative LS left ovary.
+C.  Specimen labelled "Omental biopsy" consists of a piece of omentum measuringup to 65 x 48 x 5mm.  On sectioning, there are no tumour deposits identified.
+Blocks:  1 to 3 - representative sections.   (LJ/cc  3/5/63) 
+MICROSCOPIC (reported by Dr Q Guill):
+A.  Sectionsshow a high grade carcinoma arranged in sheets, trabeculae and papillae containing fibrovascular cores, with extensive areas of necrosis.  The tumour cells have a moderate amount of eosinophilic cytoplasm with pleomorphic nuclei containing coarse chromatin and small nucleoli.  Focally the tumour has a squamoid appearance and no glandular formation is seen.  Abundant mitoses are present.  The tumour lies adjacent and focally adherent to the ovary, which otherwise appears normal.  A section of normal fallopian tube is also identified.  The tumour shows strong positive staining with CK7, CA125 and WT1.  The CK20 and CK5/6 stains are negative.
+COMMENT:
+Although the tumour cells have very similar morphology that seen in the previously diagnosed high grade urothelial carcinoma (L7 CONSULTING ROOMS: Q11478963), the immunohistochemical profile is different.  The urothelial carcinoma shows positive staining with CK7 and CK20, plus focal staining with CK5/6.  The CA125 stain is negative.
+It is thus concluded that the current tumour may not represent a recurrence of urothelial carcinoma, but instead is favoured to represent a poorly differentiated mulleriancarcinoma.  As a normal ovary and fallopian tube are present, the tumour may be of peritoneal origin.
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive and contains a small benign endometrial polyp.  The myometrium, fallopian tubes and left ovary show no significant abnormality.  There is no evidence of malignancy.  
+C.  Sections of the omentum show no significant abnormality.  There is no evidence of malignancy.  
+This case has been reviewed by Dr Q Ankersen.
+DIAGNOSIS:
+A - C:  Right pelvic mass, uterus and cervix, fallopian tubes and ovaries, omentum:
+- Favour poorly differentiated mullerian carcinoma (see comment)
+- Possible peritoneal origin
+- Omentum negative
+ADDITIONAL REPORT (17/3/63):
+
+Immunoperoxidase stains for MSI proteins (block:  A5)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

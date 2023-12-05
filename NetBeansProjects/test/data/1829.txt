@@ -1,0 +1,67 @@
+
+Episode No:  02D444407T
+0214444.BUT
+
+NETTERVILLE, Earnest CARLO 
+Lab No:  02D44440
+Sequoia Hill
+COONABARABRAN  Western Australia  5007
+Specimen: Tissue
+D.O.B:  17/2/1998
+Sex:  F
+Collected: 10/12/2013 at 12:03
+Location:  Hunter Area Pathology-ESK HOSPITAL
+DR Gregg Hans Caulley
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Lap right hemicolectomy.  Ascending colon ca.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of specimen of distal terminal ileum (60mm in length) and colon (150mm in length), pericolonic fatty tissue (up to 40mm across).  The vermiform appendix is not identified.  Within the colon there is a polypoid tumour measuring 45 x 44 x 20mm.  The tumour appears to be comprised of invasive component arising in anadenomatous component.  The apparent invasive component measures 42 x 22 x 20mm.  The tumour is 37mm from distal and 160mm from proximal margin.  The tumour is infiltrating the pericolonic fatty tissue.  The cut surface of the tumour is pale and mucinous.  The tumour is 50mm from the mesenteric resection margin.  Several lymph nodes are identified.
+Blocks:  1 - LS proximal margin; 2 - LS distal margin; 3 - TS tumour; 4 & 5 - paired sections, TS tumour (4 - reservedblock); 6 - LS tumour and apparent adenomatous component; 7 & 8 - paired sections, TS tumour; 9 & 10 - paired sections (TS) tumour and apparent adenomatous component; 11 - ? adenomatous component; 12 - apical lymph node bisected; 13 - lymph nodes are seen; 14 - one bisected lymph node; 15 - lymph nodes as seen.  (TO: TG; DE/rt 13.2.63)
+MICROSCOPIC (Reported by Dr B Tretheway):
+Sections show a moderately differentiated mucinous adenocarcinoma arising in atraditional serrated adenoma.  Approximately half of the tumour is carcinoma and half adenoma.  The carcinoma has infiltrated through the full thickness of the muscularis propria and invades serosal fat.
+One (1) of the fifteen (15)lymph nodes identified contains a small deposit of metatatic carcinoma without perinodal spread.  This involved node was located very close to the tumour mass and all other nodes including the most atypical are clear.
+No polyps are identified and the colonic and ileal mucosa shows no abnormality.  
+DIAGNOSIS:
+Right hemicolectomy:  
+Macroscopic Description
+
+Site of tumour: Ascending colon
+Maximum tumour diameter: 45mm
+Distance of tumour to nearer cut end: 37mm
+Tumour perforation: No
+Microscopic Description
+
+Type
+Mucinous carcinoma
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: 10mm
+Lymph nodes
+Number of lymph nodes present: 15
+Number of lymph nodes involved: 1
+pN1a	Metastases in 1 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities
+Adenoma - Serrated
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3	pN1a	pMx	R0
+

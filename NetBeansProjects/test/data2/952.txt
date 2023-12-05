@@ -1,0 +1,72 @@
+Episode No:  38O850000O
+385850.AAC
+
+FEIGHNER, ALFREDO-Leonore 
+Lab No:  38O85000
+Staton
+HEDDON GRETA  Queensland  4230
+Specimen: Swab,Tissue
+D.O.B:  2/5/2010
+Sex:  F
+Collected: 31/01/2013 at 09:16
+Location:  Hunter Area Pathology-ST VINCENT'S HOSPITAL (LISMORE)
+DR Ian Reinaldo PETCHULIS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Whipple's.  Neuroendocrine tumour. 
+MACROSCOPIC:
+A.  Specimen labelled "Whipple's" (The specimen is orientated by the surgical registrar Kassie Dumars, who describes a large piece of fatty tissue at pancreatic head, a ragged area behind the large piece of tissue as vascular groove and a piece of pancreas with ragged margin as surgical margin of the uncinate process), consists of Whipple's resection composed of duodenum 150 x 30 x 30mm, gallbladder 90 x 30 x 30mm and head of pancreas 60 x 55 x 50mm. The pancreas appears deformed by a large solid mass 60 x 50 x 40mm. The pancreas is inked as follows: Light green neck of the pancreas, blue anterior margin, black posterior margin, red vascular bed and green surgical margin of the uncinate process.  The pancreas is serially sectioned from superior to inferior into seven slices.  Slice 1 - most superior pancreas; 7 - most inferior pancreas. On sectioning the tumour appears well circumscribed, partly encapsulated with a solid and fleshy cut surface with areas of haemorrhage.  The tumour is less than 1mm from anterior margin, abuts the vascular margin and is 5mm from the surgical margin of the uncinate process and 15mm from posterior margin.  
+The serosal surface of the duodenum is unremarkable. A polypoid lesion attached to the ampulla of Vater 15mm in maximum diameter and a second tiny polyp 1mm is also noted. The proximal duodenal mucosa is flattened with a nodular area 10 x 10mm which is located 10mm from the proximal margin. 
+The external and internal surfaces of the gallbladder are unremarkable.  No gallstones are identified. The cystic duct and biliary duct arepatent.
+A piece of omentum 300 x 200 x 5mm is present which on sectioning is unremarkable.  
+Block 1 -  Common hepatic duct margin; 2 - Duodenal distal margin; 3 & 4 - Duodenal proximal margin close to nodular area; 5 & 6 - shave of pancreatic neck; 7 - slice 2; 8 - slice 3; 9 - slice 4 (please see attached diagram); 10 - tumour (reserve block); 11 - nodule close to the ampulla of Vater; 12 - tiny polyp in distal duodenum; 13 - 1TS cystic duct and 1TS gallbladder neck; 14 - 1TS gallbladder body; 15 - 2LS gallbladder fundus; 16 - one lymph node; 17 - one lymph node; 18-20 - three representative sections of the omentum.
+B.  Specimen labelled "Hilar lymph node", consists of a nodular piece of tissue 30 x 30 x 10mm containing multiple lymph nodes. AE 2 blocks. 
+C.  Specimen labelled "Lymph node around INV", consists of an irregular piece of tissue 25 x 20 x 10mm with a ? lymph node 10mm in maximum diameter. AE 1 block. 
+(BN/ec 3.3.63) 
+ 
+MICROSCOPIC (Reported by Dr I Boley & Dr I Bon): 
+A - C.  Sections of pancreas show a neuroendocrine tumour with size approximately 60mm. The tumour consists of nests, cords and ribbons of cells with granular cytoplasm and intermediate sized uniform nuclei with fine even chromatin.  An extremely rare mitosis is seen (less than 1/10HPF).  There is multifocal perineural invasion within the tumour as well as focal vascular invasion, including within the gall bladder wall.  There is atrophy of adjacent pancreatic tissue.  There is no tumour invasion of the duodenal wall.  The features are as follows: 
+Tumour location:  Head of pancreas
+Histologic type (WHO classification):
+Well differentiated pancreatic endocrine neoplasm, low grade
+Histologic grade (TNM grading system):
+Low grade:  <2 mitoses/50 hpf and NO necrosis
+Tumour size:  60mm
+Mitotic rate (less than 1 mitosis per 10hpf):
+Vascular space invasion:  Present.
+Perineural invasion:  Present.
+Perineural invasion of retroperitoneal (periuncinate) neural plexus: Not seen.
+Presence of unusual histologic features:  Not seen. 
+Presence of other pathological components:  Not seen.
+Presence of non-ischemic tumour necrosis: Not seen.
+Extent of invasion:
+Extension out of pancreas:  Not present. 
+Involvement of serosal/peritoneal surfaces:  Not present. 
+Invasion of adjacent organs/structures:  Within blood vessel of gallbladder wall
+Distance of invasive tumour from resection margins:
+Pancreatic neck:  Negative.
+Periuncinate soft tissue:  Negative.
+Posterior retroperitoneal:  Negative
+Portal vein bed:  0.3 mm.
+Anterior margin:  2.2 mm.
+Common hepatic duct:  Negative.
+Lymph nodes:
+Number of lymph nodes from main resection specimen:  4
+Number of involved lymph nodes from main resection specimen:  3
+Separately received lymph nodes:
+Hilar lymph nodes (specimen B):  2 positive lymph nodes out of 4
+Lymph node around INV (specimen C):  2 negative lymph nodes
+Pathologic Staging (pTNM, AJCC 7th edition 2060):
+pT2  pN1  pMX
+
+Additional pathologic comments and findings in other resected organs:
+- Sections of the gallbladder show chronic cholecystitis
+- The omentum is unremarkable.
+- The nodule in the proximal duodenum seen macroscopically corresponds to normal pancreatic tissue. 
+Immunohistochemistry:
+CD56:  Strongly positive. 
+Synaptophysin:  Patchy positive.
+Chromogranin:  Patchy positive.
+Ki-67 immunoproliferative index:  Less than 2%
+Other immunohistochemical stains: CAM 5.2 and NSE:  Strongly positive.
+

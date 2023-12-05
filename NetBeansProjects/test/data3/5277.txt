@@ -1,0 +1,83 @@
+
+Episode No:  44I195080L
+443195.CVB
+
+THIELGES, KRISTOFER BRYANT 
+Lab No:  44I19508,44I19508
+S Claire
+MANILLA  NT  4565
+Specimen: Washings,Tissue
+D.O.B:  28/11/2000
+Sex:  F
+Collected: 12/04/2066 at 09:31
+Location:  CAMPBELL TOWN HEALTH AND COMMUNITY SERVICE
+DR Williams SICKEL
+Distribution:     FILE-COPY, DR ANIBAL,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT ATTACHED
+
+HISTORY:
+Heterologous carcinosarcoma uterus. 
+Peritoneal washings, uterus, tubes and ovaries, right pelvic nodes, left pelvic nodes, omental biopsy. 
+MACROSCOPIC:
+A. "UTERUS, TUBES AND OVARIES". A total hysterectomy specimen with a total weight of 93g consists of a  partially opened uterus at the  left side measuring  85x55x35mm. The  cervix measures 30x30x25mm. The right fallopian tube measures 40x6mm. The  left fallopian tube 36x7mm. The  right ovary measures 25x13x7mm and the  left ovary measures 20x13x6mm. The  outer surface of the uterus appears to be ragged and  haemorrhagic focally, more prominent on the posterior body area. The  anterior surface is inked blue, the posterior is inked black. The left parametrial area is disrupted due to previous post operative opening.  
+Upon coronal opening the uterus, there is a polypoid exophytic tumour occupying most of the endometrial cavity in the body and  fundus area.  Centrally there are focal areas ofhaemorrhage, areas of yellow tissue (?fat) and possible myxoid polyps. Cystic changes within the tumour is seen posteriorly.  The tumour measures 30x15mm and appears to be confined to the uterine body with no extension into the cervix,cornu or parametrial tissue.  The  tumour  is invading to a depth of 16 mm out of 18mm (depth vs myometrium thickness) and is located within 2mm of the posterior serosal surface and 40mm of the external os. The reminder endometrium is upto 3 mm thick and unremarkable.  
+(1 right fallopian tube, [two LS fimbrial end and one TS mid]; 2 TS right ovary and TS right tube; 3 right parametrial tissue; 4 left tube, [two LS fimbrial end and  one TS mid]; 5 TS left ovary and TS left tube; 6 left parametrial tissue; 7-9 continuous piece anterior body from cervix to fundus; 10&11 continuous piece LS isthmus and body; 12 tumour maximum invasion anterior body; 13-15 continuous piece posterior uterus; 13 cervix; 14 isthmus; 15 body and  fundus; 16&17 continuous piece [16 isthmusand 17 posterior body]; 18&19 [18 tumour block for biobanking, 19maximum areas of invasion into the posterior body). RS (M-19/KL/ht).
+B.  "OMENTAL BIOPSY'. Unorientated fibrofatty piece of tissue measuring 40x20x16mm. The outer surface is smooth and glistening. A metal structure measuring 15x5x4mm is noted at one surface. The cut surface of the  tissue is unremarkable. AE (M-6).
+C. "RIGHT PELVIC NODES". Multiple fibrofatty piecesof tissue measuring 40x30x15mm in aggregate. Five possible lymph nodes are identified, largest measuring  12mm in maximum diameter with firm white areas (?metastatic deposits) measuring 8mm in maximum diameter. 
+(1 largest ?involved lymph node four TS; 2 four lymph nodes). RS (M-2).
+D.  "LEFT PELVIC NODES". Multiple fibrofatty pieces of tissue measuring  30x20x10mm and a blood clot, 20x12x3mm. Two possible lymph nodes identified, 9mm and  5mm.
+(1 larger lymph node trisected; 2 smaller lymph node). RS (4-2).
+MICROSCOPIC:  (Dr L Blechinger)
+A.  ENDOMETRIAL CARCINOMA: 
+Tumour type:  Carcinosarcoma
+FIGO grade:  3
+(architecture grade:  3, nuclear grade:  3)
+Myometrial invasion:  Invasion through myometrium to serosa
+Depth of myometrial invasion:   15mm
+Myometrial thickness:   15mm
+Focality:  Unifocal
+Tumour involves: Fundus, body, lower uterine segment, cervical stroma, parametrium - left parametrial soft tissue 
+Vascular/lymphaticinvasion:  Present
+Involvement of cervix:  Invasion of cervical stromal connective tissue
+Involvement of uterine serosa:  Serosal invasion present
+Excision margins:  Carcinoma is clear of cervical soft tissue margin.
+Adnexae:  
+Left fallopian tube: Unremarkable 
+Right fallopian tube:  Unremarkable
+Left ovary:  Carcinoma is present in ovarian hilum/mesovarium
+Right ovary:  Carcinoma is present in ovarian hilum/mesoovarium
+C&D.  Lymph nodes:  
+Nodes involved: 3 (1 node specimen C and 2 nodes specimen D)
+Total number: 7 (5 nodes specimen C and 2 nodes specimen D)
+B.  Other tissues:  
+Omentum - Unremarkable
+Comment:  
+1. The carcinomatous component has the morphology of serous carcinoma.
+2. The sarcomatous component is of homologous type.
+3. The metastatic deposits consists of carcinoma component only.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT3a, pN1
+FIGO stage: III C
+DIAGNOSIS:  
+A.  UTERUS - CARCINOSARCOMA.
+B.  OMENTUM - NEGATIVE FOR MALIGNANCY.
+C.  RIGHT PELVIC NODES - METASTATIC CARCINOMA.
+D.  LEFT PELVIC NODES - METASTATIC CARCINOMA.
+14/4/66 ank
+SUPPLEMENTARY REPORT: 
+
+Immunostains for MSI proteins (Allied Waste Industries CLONCURRY MULTI-PURPOSE HEALTH SERVICE Lab; block:A18)
+MLH1: Positive staining present
+PMS2: Positive staining present
+MSH2: Positive staining present
+MSH6: Positive staining present
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutationor somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+24/4/66 ank
+
+
+

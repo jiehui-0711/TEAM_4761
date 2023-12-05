@@ -1,0 +1,80 @@
+
+Episode No:  99O204039S
+9952040.IZS
+
+BIENVENUE, WAYNE 
+Lab No:  99O20403
+Lake Largo
+PICTON  QLD  2620
+Specimen: Tissue
+D.O.B:  26/6/1988
+Sex:  F
+Collected: 26/03/2013 at 17:05
+Location:  ACUTECARE WARD - NORTHEAST HEALTH WANGARATTA
+DR HUEY ADALBERTO WIMER
+Distribution:  DR Rumbold,  FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (13.6.63):
+
+
+CLINICAL:
+Right breast Ca (8 o'clock).  Hookwire localised WLE + SLNBx.  Hot and blue node identified as mapped.  Extra axillary tissue sent from adjacent (low count ?node within).  Sudden onset headache.  Sudden onset confusion.  Left breast cancer 2043 -mastectomy.  Thyroid - had radiation at age 25, currently on Thyroxine.  breast Ca 8 o'clock 10cm FN - WLE (hookwire) - short stitch superior, long lateral, medium medial - x-ray please.  Rt axillary sentinel node + extra axillary tissue.
+(X-rays done).
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node right axilla" consists of a fatty nodule 25 x 20 x 10mm.  AE 2 blocks.  
+B.  Specimen labelled "Extra axillary tissue" consists of two pieces of fatty tissue 10 and 15mm in maximum diameter.  No lymph nodes are identified.  AE 2 blocks.  
+C.  Specimen labelled "Right breast lump" consists of a fibrofatty piece of tissue with three sutures for orientation as above and one hookwire exiting from the superficial margin.  The specimen measures 70mm (medial to lateral), 80mm (deep to superficial margin) and 30mm (superior to inferior margin).  There is an ellipse of skin 45 x 10mm.  The ellipse of skin has a ?linear scar 25mm in length.Superior margin inked blue, inferior margin black and deep margin green.  The specimen is serially sectioned from medial to lateral into 12 slices.  Slice 1 medial margin, slice 12 lateral margin.  On sectioning, in slices 2 to 4, there is a well circumscribed solid white and gritty lesion measuring 10mm from superficial to deep, 8mm superior to inferior and 10mm medial to lateral.  The tumour is located 5mm from the inferior margin, 12mm from the superior margin, 35mmfrom the deep margin and well clear from medial and lateral margins.  The rest of the parenchyma is unremarkable.  Representative sections according to the attached diagram.  
+Blocks:  1 to 3 - medial margin (slice no 1); 4 - one representative section slice 2; 5 & 7- slice no 3; 8 to 10 - slice 4; 11 - representative slice 5; 12 - representative slice 6; 13 - two representative sections of the lateral margin (slice 12) (reserved block - block 6); 14 to 16 - re-select, see diagram .  (TO: KV: KW/mm 29.5.63) 
+MICROSCOPIC (reported by Dr Z Kiltie):
+A, C.  Sections show a 10mm diameter grade 2 infiltrating ductal carcinoma.  Invasive carcinoma comes close to the inferior excision margin; all other margins are free of tumour.  The sentinel lymph node is free of tumour.  
+Also in the specimen there is an area of low to intermediate grade DCIS which is close to, but apparently separate from, the invasive carcinoma.  This focus is adjacent to the inferior excision margin but is well clear of other margins.  
+A synoptic report follows:
+
+Invasive carcinoma:
+Site:  Right breast 8 o'clock lower outer quadrant.  Wide local excision.  
+Type:  Infiltrating ductal carcinoma.  
+Invasive tumour size:  10mm.
+Grade 2 (Modified Bloom & Richardson):
+Tubules: 2   Nuclei:  3  Mitoses:  1  Mitotic rate:  3/10hpf.
+Lymphovascular invasion:  Absent.
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  3mm (in main tumour).
+Nuclear grade:  Intermediate.
+Architecture:  Cribriform.
+Necrosis:  Absent.
+Calcification:  Absent.
+Degree of DCIS in tumour:  Minimal.
+DCIS in adjacent tissue:  Present. There is an apparent separate area of low to intermediate grade DCIS, cribriform pattern.  This measures 9mm in diameter and is adjacent to the inferior excision margin.  (blocks Z9, Z95).  It is well away from other margins.  
+Excision Margins:  
+Invasive component:  Inferior 2.5mm, superficial 6mm, all others >10mm.  
+In-situ component:  Separate focus of DCIS 0mm from inferior margin as noted.  All other margins >10mm.  
+Receptors (Block Z9): 
+ER:  Positive. 
+	100% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	100% of nuclei stained
+	predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7):  Equivocal (2+).
+Ki-67 index:  15%.
+LCIS / ALH:  Absent.
+Miscellaneous:  The breast also shows patchy changes of columnar cell changeand moderate epithelial hyperplasia of unusual type.  
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes NOT involved by tumour:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+B.  Sections show fatty breast tissue.  No lymph node is seen.  No abnormality is seen.
+DIAGNOSIS:
+A, C.  Hookwire localised wide local excision right breast and sentinel lymph node biopsy:
+-  10mm diameter grade 2 infiltrating ductal carcinoma, sentinel lymph node negative (0/1), pT1B  N0.
+-  Apparent separate area of low to intermediate grade DCIS, see text.  
+B.  Extra axillary tissue:  No lymph node, no abnormality seen.  
+SUPPLEMENTARY REPORT (13.6.63):
+A.  Her-2 ISH has shown a negative (nonamplified, polysomy) result.
+Mean Her-2 copy number per cell:  2.93
+Reported by Dr Z Patt.
+

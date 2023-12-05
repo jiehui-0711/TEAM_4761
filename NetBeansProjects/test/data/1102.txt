@@ -1,0 +1,61 @@
+Episode No:  44D592246C
+441592.HKP
+
+JAMASON, BRIGIDA 
+Lab No:  44D59224,44D59224
+Cabban
+KIAMA  South Australia  5134
+Specimen: Fluid,Tissue
+D.O.B:  22/5/1988
+Sex:  F
+Collected: 6/11/2063 at :
+Location:  DICKINSON 3 SOUTH - INJUNE HOSPITAL
+DR COY LOLLAR
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (15.1.63):
+
+
+CLINICAL:
+Right ovarian mass.  Ovarian cancer.  PHx hysterectomy.  
+MACROSCOPIC:
+A.  Specimen labelled "Right ovarian mass" consists of a red/tan haemorrhagic disrupted tumour measuring 120 x 65 x 40mm.  The cut surface is soft and fleshy with small cystic areas approximately 3 to 10mm in diameter.  Two representative sections for frozen section.  
+Blocks:  1- frozen section 1; 2 - frozen section 2; 3-12- representative tumour
+FROZEN SECTION REPORT:
+Carcinosarcoma (MMMT).
+Phone result to Dr Dowdy by Dr L Lenoci at 3.36pm on 0408.13.
+B.  Specimen labelled "Right tube" consists of ragged haemorrhagic and cream tissue measuring 60 x40 x20mm. There is an attached fallopian tube which measures 50mm in length with a maximum diameter of 10mm.  An ovary is present measuring 25 x 20 x 10mm.  On sectioning the ovary appears unremarkable. A possible tumour deposit is identified on the fimbrial end of the fallopian tube measuring 10 x 5 x 5mm.  
+Blocks:  1 & 2 - LS of the fimbrial end of the fallopian tube; 3 - representative TS fallopian tube; 4 to 6 - ovary AE; 7 & 8 - representative soft tissue.  
+C.  Specimen labelled "Remaining of right ovary" consists of disrupted soft cream and haemorrhagic tissue measuring 150 x 130 x 50mm.  The tissue has the same morphologic appearance as specimen A. Representative sections in 8 blocks.  
+D.  Specimen labelled "Left tube and ovary" consists of an ovary which measures 35 x 20 x 10mm.  There is attached fibrofatty tissue which measures 30 x 20 x 20mm.  No definite fallopian tube tissue is identified.  On sectioning the ovary is unremarkable.  
+Blocks:  1 to 3 - ovary AE; 4 to 6 - possible fallopian tube tissue.  
+E.Specimen labelled "Omentum" consists of a piece of omentum which measures 200 x 70 x 10mm.  No tumour deposits are identified.  Representative sections in 3 blocks.  
+F.  Specimen labelled "Descending colon" consists of firm cream tissue which measures 30 x 30 x 4mm.  AE 1 block.
+G.  Specimen labelled "Pouch of Douglas" consists of firm cream tissue which measure 15 x 10 x 3mm.  AE 1 block.
+H.  Specimen labelled "Bladder peritoneum" consists of fibrofatty tissue which measures 40 x 20 x 10mm in aggregate.  AE 3 blocks.  (TO: ZI: UK/mm 7.11.63) 
+MICROSCOPIC (reported by Dr L Menietto): 
+A.  Sections show tumour and also the fimbrial endof a fallopian tube.  No normal ovarian tissue is seen.  The tumour is a malignant mixed Mullerian tumour, roughly 50% carcinoma and 50% sarcoma.  The carcinoma has features most in keeping with a grade 3 endometrioid adenocarcinoma.  The sarcoma consists of undifferentiated cells with large, irregular nuclei and a variable amount of generally pale cytoplasm.  Mitoses are very frequent and there is patchy tumour necrosis.  No heterologous elements are identified.  The included fimbrial end of the fallopian tube is unremarkable.
+   
+B.  Sections show ovary and fallopian tube.  There is some malignant mixed tumour attached to the fimbrial end of the tube.  The tube elsewhere also does not show any significant abnormality.  Sections of the ovary show malignant mixed tumour in adherent tissue on the serosal surface.  The ovary itself is unremarkable.  
+C.  Sections show malignant mixed Mullerian tumour.  This is mostly similar to specimen A but a minor component of rhabdomyosarcoma is identified in the stromal component.  No other heterologous elements are seen.   No normal ovarian tissue is seen.  There is patchy tumour necrosis.  
+D.  Sections show ovary and fallopian tube.  There is some malignant mixed Mullerian tumour present within, and on the serosa, of tissue adjacent to the ovary but the ovary itself is not involved.  No definite fallopian tube is identified.  
+E.  Sections of omentum show some patchy surface mesothelial reaction.  No tumour is seen.  
+F.  Sections show tumour tissue including both epithelial and malignant stromal components, similar to specimen A.  
+G.  Sections show fibrous tissue with associated tumour.  The tumour includes both malignant epithelialand stromal components, similar to specimen A.  
+H.  Sections show mesothelium with underlying fibrofat.  The tissue is haemorrhagic and congested.  There is some tumour present on the serosal surface, including both epithelial and malignant stromal components, similar to specimen A.  
+DIAGNOSIS:  
+A.  Right ovarian mass:  Malignant mixed Mullerian tumour.  
+B.  Right tube:  Malignant mixed tumour at fimbrial end of tube and on serosa of ovary.  
+C.  Remainder of right ovary:  Malignant mixed Mullerian tumour with heterologous element (rhabdomyosarcoma).  
+D.  Left ovary:  Malignant mixed tumour in paraovarian tissue.  
+E.  Omentum:  No tumour.  
+F.  Descending colon:  Malignant mixed tumour present.  
+G.  Pouch of Douglas:  Malignant mixed tumour present.  
+H.  Bladder peritoneum:  Malignant mixed tumour present.  
+SUPPLEMENTARY REPORT (15.1.63):
+A.  Immunostains for mismatch repair enzymes have been performed as requested.
+MLH1:    Preserved nuclear staining.
+PMS2:    Preserved nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).
+

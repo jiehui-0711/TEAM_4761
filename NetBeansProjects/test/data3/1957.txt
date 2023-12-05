@@ -1,0 +1,84 @@
+
+Episode No:  87J824788P
+873824.TVU
+
+Sevey, Darryl 
+Lab No:  87J82478,87J82478
+Trevor Toms
+KINGSTON  TAS  7151
+Specimen: Washings,Tissue
+D.O.B:  8/4/2000
+Sex:  F
+Collected: 14/10/2064 at 17:15
+Location:  THE ROYAL ADELAIDE HOSPITAL
+DR TAYLOR WARSAGER
+Distribution:  DR HOWARD, DR TERENCE,  FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT 11/5/64
+HISTORY:
+GIII endometrial adeno ca.  
+MACROSCOPIC:
+A.  "RIGHT PELVIC LYMPH NODES".  Multiple fragments of fatty tissue measuring 60x50x20mm.  Two lymph nodes measuring 18, 15mm in maximum extent are identified.  Cut surface of the larger node is fatty.  
+(1 single node bisected; 2&3second node).  RS (M-3).
+B.  "LEFT PELVIC MASS LYMPH NODE".  Multiple fragments of fatty tissue measuring in aggregate 50x50x30mm.  Four possible lymph nodes measuring 6-10mm in maximal extent are identified.  
+(1single node bisected; 2 two nodes; 3 single node).  RS (M-3).
+C.  "UTERUS, TUBES, OVARIES, CERVIX".  Uterus with cervix and bilateral adnexa weighing 96g.  The uterus measures 70x45x30mm.  The right fallopian tube measures 50mm in length with maximum diameter of 5mm, right ovary measures 20x15x8mm, left fallopian tube measures 50mm with maximum diameter of 5mm.  The left ovary measures 15x10x8mm.  The cervix measures 30x20mm with cervical os which measures 15mm.  Proximal fragments of right and left fallopian tube shows previous sterilisation and is inked blue, posterior inked black.  Endometrial cavity contains exophytic soft friable tumour measuring 20x30x20mm.  It appears invasive into myometrium measuring 2mm away from the serosal surface.  Cut surfaces of the right and left ovaries and fallopian tubes are unremarkable.
+(1-4 full LS of anterior uterus [1; cervix, 2; low segment 3 &4; endometrium with tumourand serosa]; 5-7 full LS of posterior uterus; 8&9 section of the deepest invasion with nicks in between; 10&11 another section of deepest invasion with nicks in between; 12 RS TS right ovary, fallopian tube and LS fimbria; 13 RS TS left ovary and fallopian tube; 14 LS left fimbria; 15 right cornu; 16 left cornu; 17 right parametrium; 18 left parametrium).  RS (M-18).
+D.  "OMENTUM BIOPSY".  A piece of omentum measuring 60x20x5mm.  The serosal surface and cut surface is unremarkable.  
+(1&2 representative sections).  RS (M-2/SE/nh)
+MICROSCOPIC:
+A.  Sections show two benign reactive lymph nodes.  
+B.  Sections show four benign reactive lymph nodes.  
+C.  Sections show FIGO grade 3 endometrioid endometrial adenocarcinoma.  The carcinoma involves the inner half of the myometrium (3mm invasion in a wall 13mm in thickness).  There is a focus of possible lymphovascular space invasion (C10).  There is adjacent complex atypical endometrial hyperplasia.  
+Sections of the right and left fallopian tubes and ovaries are unremarkable.  Sections of the cervix show foci of microglandular hyperplasia.  There isno evidence of glandular or squamous atypia or dysplasia.  
+Immunohistochemical stains show that the tumour shows only focal moderate positive staining for p53, patchy staining for p16 and proliferative index of 60-70% (Ki-67).  The findings are in keeping with endometrioid endometrial adenocarcinoma.  
+D.  Sections show unremarkable omental fatty tissue.  There is no evidence of malignancy.  
+ENDOMETRIAL CARCINOMA: 
+Tumourtype:  Endometrial adenocarcinoma
+FIGO grade:  III
+(architecture grade: 3, nuclear grade: 3)
+Myometrial invasion:  Present
+Depth of myometrial invasion:   3mm  (C2) 
+Myometrial thickness:  13mm
+% of myometrium invaded:   10%
+Focality:  Unifocal
+Tumour involves:  endometrium and myometrium only
+Vascular/lymphatic invasion:  possibe (C10)
+	
+Involvement of cervix:  No
+Involvement of uterine serosa:   No
+Excision margins:  Not involved
+Non-tumour uterus:  
+Adjacent endometrium:  Complex atypical hyperplasia
+Polyps:  Nil
+Adenomyosis:  Absent
+Lymph nodes:    Not involved
+A.  0/2
+B.  0/4
+Other tissues:  Omentum - within normal limits.
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+TNM stage: pT1a,  pN0,  pMx
+FIGO Stage 1A
+DIAGNOSIS:
+A.  RIGHT PELVIC  LYMPH NODES - TWO BENIGN REACTIVE LYMPH NODES
+B.  LEFT PELVIC LYMPH NODES - FOUR BENIGN REACTIVE LYMPH NODES.
+C.  UTERUS, CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES -
+- FIGO GRADE 3 ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA
+- 3mm INVASION IN A MYOMETRIAL THICKNESS OF 13mm (INNER HALF OF MYOMETRIUM).
+- NO INVOLVEMENT OF THE CERVIX OR PARAMETRIAL TISSUE.
+- UNREMARKABLE CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES. 
+20/10/2064 nh
+SUPPLEMENTARY REPORT: 
+Immunostains for MSI proteins (Family Dollar Stores SEYMOUR HEALTH Lab; block: C8)
+There is a well differentiated component in this carcinoma and in this component, the mismatch repair enzyme immunohistochemistry is positive for all 4markers. However, in the poorly differentiated grade 3 component, the results are as follows:
+MLH1:  	NEGATIVE (abnormal)
+PMS2: 	NEGATIVE (abnormal)
+MSH2: 	POSITIVE (normal)
+MSH6: 	POSITIVE (normal)
+Comment:
+Mismatch repair gene deficiency DETECTED
+
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+Results should be interpreted in conjunction with other investigation, including MSI testing where possible.
+11/6/64 ld
+

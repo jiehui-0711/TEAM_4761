@@ -1,0 +1,27 @@
+SPR no: 49M003459P
+MRN no: 4940034
+Site_name: MACLEAN DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Sarcoma right popliteal fossa.  Biobank consent with specimen.  Sutures short superior, long lateral, double deep.  Sarcoma.  Nephrectomy.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right popliteal fossa sarcoma, short superior, long lateral, double deep&amp;quot;, consists of a tumour with attached fragments of fibroadipose tissue and skeletal muscle, with orienting sutures in situ, weighing 105g.  The specimen measures 74mm (superior to inferior), 70mm (medial to lateral), and 53mm (superficial to deep).  The tumour appears encased by a thin (less than 1mm) fibrous membrane.  The specimen is sectioned from superior to inferior into eight slices.  The tumour appears to at least focally abut most margins; the inferior margin appears 2mm clear of tumour.  Lymph nodes are not identified in the small amount of adherent fibroadipose tissue.
+Blocks: 1 - superior margin (slice one); 2 - superficial margin (slice four); 3 - superior margin (slice three); 4 - superior margin (slice seven); 5 - deep margin (slice two); 6 - deep margin (slice five); 7 - lateral margin (slice five); 8 - lateral margin (slice six); 9 - medial margin (slice six); 10 - medial margin (slice two); 11 &amp;amp; 12 - inferior margin; 13 - reserve block.  (TO:JB/ta 9/1/69)
+
+
+MICROSCOPIC (Reported by Dr L Gaddie):
+Sections show a high grade malignant spindle cell neoplasm infiltrating the skeletal muscle.  The tumour has a fibroblastic appearance with moderate cellular pleomorphism, frequent mitoses (up to 5 per 10 HPF) and focal myxoid stroma.  No necrosis is seen.  The appearances are consistent with those of myxofibrosarcoma.  Majority of tumour is surrounded by skeletal muscle.  The tumour is less than 1mm to the superficial margin (block 2) and deep margins (block 5), separated by a thin layer of fibrous tissue.  The other margins are well clear.
+
+Comment:
+The overall appearances of the tumour are identical to those seen in the core biopsy performed on 16/11/2069 (49M00345, StVincent Pathology).  Please see previous report for the result of immunohistochemical stains.  I agree with Dr Saul Wekenmann (ST GEORGE PRIVATE Pathology) that the changes are compatible with metastatic dedifferentiated liposarcoma.
+
+The best tumour block for molecular/genetic testing is:  13
+
+
+DIAGNOSIS:
+Right politeal fossa sarcoma
+- High grade sarcoma, features of myxofibrosarcoma.
+- Compatible with metastatic dedifferentiated liposarcoma.

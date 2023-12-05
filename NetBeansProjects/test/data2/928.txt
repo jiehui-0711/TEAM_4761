@@ -1,0 +1,78 @@
+Episode No:  00H553040M
+0025530.MAM
+
+Lopilato, ANNMARIE 
+Lab No:  00H55304
+Majilla
+WORRAGEE  New South Wales  2745
+Specimen: Tissue
+D.O.B:  7/8/2009
+Sex:  F
+Collected: Unknown at :
+Location:  Peter Mac - NORTH MIDLANDS HOSPITAL
+DR JASON IRA Reginald-Hackerd
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (26.3.63):
+
+
+CLINICAL:
+Breast Ca.  Leftbreast Ca 9 o'clock 5cm FN.  Short superior, medium medial, long lateral sutures.  Sentinel lymph nodes 1 & 2 left axilla.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node 1" consists of a node measuring 20 x 16 x 9mm serially sectioned.AE 1 block.
+B.  Specimen labelled "Sentinel node 2" consists of a fatty node measuring 15 x 10 x 7mm serially sectioned.   AE 1 block.
+  
+C.  Specimen labelled "Left breast lesion short superior, medium medial, long lateral" consists of a lumpectomy (sutures taken as described) measuring 73 x 53 x 31mm.  Superior margin inked red, superficial black and deep margin inked blue.  Specimen is serially sectioned from lateral to medial in twelve slices.  There is an ill defined white firm tumour present in slices four to seven.  The stellate lesion covers an area of 16 x 17 x 17mm and is located within 7mm of the superficial margin, 5mm of the deep margin, 16mm of the superior margin and 18mm of the inferior margin.  It is well clear of the lateral and medial margins.  Tumour embedded according to the attached diagram.  
+Blocks: 1 to 5 - slice one; 6 to 9 - three; 10 to 13 - slice four; 14 to 19 - slice five; 20 to 22 - slice six; 23 to 25 - slice seven; 26 to 28 - slice eight; 29 to 32 - slice twelve; 33 to 35 - slice nine; 36 & 37 - slice ten; 38 & 39 - slice eleven.  21 assigned as tumour reserve block.  (TO: WE; FL/Ta 13/3/63) 
+MICROSCOPIC (Reported by Dr A Leibowitz): 
+A - C.  Sections show breast tissue with a 25mm diameter grade 2 infiltrating ductal carcinoma.  Tumour comes close to superficial and deep excision margins but other margins are well clear.  The two sentinel lymph nodes are free of tumour.  
+A synoptic report follows:  
+
+Invasive carcinoma:
+Site:   Left breast 9 o'clock upper inner quadrant, wide local excision.
+Type:  Infiltrating ductal carcinoma.
+Invasive tumour size:  25mm.
+Grade 2 (Modified Bloom & Richardson):
+Tubules:  3   Nuclei:  2Mitoses:  1   Mitotic rate:  4/10hpf.
+Lymphovascular invasion:  Absent.
+
+
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  25mm.
+Nuclear grade:  Intermediate.
+Architecture:  Cribriform.
+Necrosis:  Present.
+Calcification:  Absent.
+Degree of DCIS in tumour:  <25%.
+DCIS in adjacent tissue:  Present.
+Excision Margins:  
+Invasive component:  Lateral >10mm, medial >10mm, superior >10mm, inferior 7mm, superficial 3mm, deep3mm.
+In-situ component:  All >10mm.
+Receptors (Block C24): 
+ER:  Positive.
+	100% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	50% of nuclei stained
+	predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7):  Equivocal (2+).
+Ki-67 index:  20%.
+LCIS / ALH:  Absent.
+Miscellaneous:  There is also some columnar cell change and moderate and florid hyperplasia of usual type.  
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2.
+Number of sentinel lymph nodes NOT involved by tumour:  2
+Number of sentinel lymph nodes involved by tumour:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)):  0
+DIAGNOSIS:
+A - C.  Wide local excision left breast and sentinel lymph nodes:
+-  25mm diameter grade 2 infiltrating ductal carcinoma. 
+-  Sentinel lymph nodes negative (0/2).  
+-  pT2  N0.
+SUPPLEMENTARY REPORT (26.3.63):
+Her-2 ISH has shown a negative (nonamplified, diploid) result.
+Mean Her-2 copy number per cell:   1.7.
+Reported by Dr A Kapichok
+

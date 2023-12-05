@@ -1,0 +1,78 @@
+Episode No:  86L5745318
+8645745.IEX
+
+Finster, Yessenia 
+Lab No:  86L57453
+Meadfoot
+WARRNAMBOOLAustralian Capital Territory  2474
+Specimen: Tissue
+D.O.B:  19/5/2012
+Sex:  M
+Collected: 07/09/2065 at 10:40
+Location:  ACUTE STROKE UNIT-TEXAS HOSPITAL MULTIPURPOSE HEALTH SERVICE
+PRO Latesha Erwin VITTITOE
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+HISTORY:  
+Anterior resection.  Metastatic colorectal cancer.Pre-op EBRTX.
+MACROSCOPIC:  
+"COLON + RECTUM". Segment of large bowel measuring 470mm in length. There is ulcerated circumferential tumour at the distal aspect of the specimen. It is right the peritoneal reflection but predominantly below the peritoneal reflection. It measures 45mm in length with circumference ofthe bowel appears the level is 25mm. The distance from the distal margin is 25mm. The distance to the proximal surgical margin is 400mm. There is possible involvement of serosa of the bowel, the level of the peritoneal resection and above the peritoneal resection. The bowel above the lesion appears dilated. The circumference of the bowel measures up to 100mm. The lesion of the bowel is sectioned transversely. The lesion appears to involve the full thickness of the bowel and deeply invades the surrounding fatty tissue. The depth of the whole invasion could be summated up to 30mm. The distance from the lesion to the radial surgical margin is about 7mm. There are multiple pale, white lesions identified on the peritoneum attached to the specimen. There are 14 possible lymph nodes identified, measuring from 4 up to 10mm in maximal extent. The representative sections are taken and embedded.
+(1 longitudinal section of proximal surgical margin; 2 longitudinal section of distal surgical margin; 3 transverse section of the bowel with a serosa above the peritoneal reflection, possibly involve by the tumour; 4 longitudinal section through the peritoneal reflection; 5,6,7&8 full face transverse section through the middle of the tumour with the bowel; 9 longitudinal section of the proximal aspect of the tumour; 10 longitudinal section of the distal aspect of the tumour; 11 section of the peritoneum; 12 peritoneal nodule; 13 four lymph nodes; 14 four lymph nodes; 15 two lymph nodes; 16 three lymph nodes; 17 one smaller sectioned transversely). RS (M-17/UV/cy)
+MACROSCOPIC FINDINGS SUMMARY
+Operation type:  Anterior resection
+Specimen length:  470mm
+Tumour site:  Rectosigmoid junction, rectum
+Tumour size:  45mm
+Distance from margins:  
+Proximal:  400mm
+Distal:  25mm
+Radial:  7mm
+Perforation:  Absent
+Peritoneal reflection:  Tumour astride
+Mesorectal integrity:  Complete
+MICROSCOPIC     (Dr W Damrow)  
+
+Tumour type: Mucinous adenocarcinoma with signet ring differentiation
+Histologic grade:  High grade (poorly differentiated)
+Depth of invasion:  T4a - Tumour penetrates to the surface ofthe visceral peritoneum
+Peritoneal surface involvement:  Present
+Tumour infiltrating lymphocytes: Low density (<5/hpf)
+Excision Margins:  
+Proximal:  Clear (>10mm)
+Distal:Clear (>10mm)
+Radial:  Not involved
+Donuts:  Not received
+Lymph nodes:  
+Number positive:  4
+Total number:  12
+Apical node:  Not identified
+Intramural vein invasion:  Not identified
+Extramural vein invasion:  Not identified
+Small vessel (lymphatic) invasion:  Not identified
+Perineural invasion:  Not identified
+Distantmetastases:  Present, in adjacent attached peritoneum
+Other findings:  
+Polyps:  Nil seen
+Remote colon:  Radiotherapy changes
+Treatment effect:  Grade 3 (poor response)
+Ancillary studies:  
+Mismatch repair enzymes, Immunostains:  to follow
+Microsatellite instability (MSI):  not tested
+Synthesis/stage (AJCC/UICC TNM 7):  
+TNM stage:  pT4a, pT2a, pM1b
+Stage grouping:  IV B
+Residual tumour:  RX Cannot be assessed
+DIAGNOSIS:
+RECTOSIGMOID : 
+POORLY DIFFERENTIATED MUCINOUS ADENOCARCINOMA WITH SIGNET RING CELLS
+13/7/65 ank
+SUPPLEMENTARY REPORT: 
+Immunostainsfor MSI proteins (ONEOK BELMONT HOSPITAL Lab; block: 3)
+MLH1:	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+

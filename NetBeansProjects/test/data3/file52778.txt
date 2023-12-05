@@ -1,0 +1,120 @@
+SPR no: 20W0995805
+MRN no: 2080995
+Site_name: BEVERLEY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report20W09958 (20W0995805) MIDY, KARRAK Charles
+HISTOPATHOLOGY REPORT
+GNOWANGERUP HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Sentinel node biopsy right breast.
+Right breast 1 o&amp;apos;clock 4cm FN. 10mm IDC ER +. PR +. Her-2 equivocal.
+Right breast 1 o&amp;apos;clock (short-superior, long-lateral, medium-medial).
+Right axilla sentinel nodes.
+
+MACROSCOPIC:
+A. &amp;quot;SENTINEL NODE RIGHT BREAST&amp;quot;. Consists of a piece of fatty tissue, 25mm in diameter. Four nodes: 12,8,5 and 4mm. The largest three are blue.
+
+F/S: &amp;quot;Negative&amp;quot; per phone by Dr. H. Roshak at 3:12pm on 16/04/67.
+
+(1 frozen section, two largest nodes; 2 remainder of the largest node, paraffin; 3 remainder of 8mm node; 4 two smallest nodes, not frozen). RS (M-4)
+
+B. Specimen labelled &amp;quot;LUMP RIGHT BREAST, SHORT-SUPERIOR, MEDIUM-MEDIAL, LONG-LATERAL&amp;quot;.
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Lumpectomy
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  55mm
+Superior to inferior:  40mm
+Anterior to posterior:  40mm
+WEIGHT:  27g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 9
+FINDINGS / LESION:  Within mid-portion of the specimen, Slices 4-6, there is a circumscribed white, stellate, firm lesion, measuring 15mm medial to lateral, 15mm posterior to inferior, 10mm superior to inferior.
+It is 5mm from inferior margin, 7mm from anterior margin, 11mm from posterior margin, 17mm from superior margin and more than 15mm from medial and lateral margins.
+(1 and 2 serial LS, Slice 1 [1 three LS; 2 three LS]; 3 and 4 Slice 3; 5 and 6 Slice 5; 7 and 8 Slice 6; 9 and 10 Slice 7; 11 two LS; 12 two LS; 13 one LS, Slice 9, lateral margin [3 and 4 medial side of the tumour; 9 and 10 lateral side of the tumour]). RS (M-13/SM 18/4/2070 cy)
+
+MICROSCOPIC:  (Dr. H. Dusza)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 12mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Infiltrating duct carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules:    3, Nuclei:    2, Mitoses:    1; Total score: &amp;#160;&amp;#160;6(of 9)
+
+MITOTIC RATE: &amp;#160;5&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 30mm
+
+PERITUMOURAL LYMPHOVASCULAR INVASION: Present prominent
+
+PERINEURAL INVASION: Not seen
+&amp;#160;
+SKIN INVOLVEMENT: N/A
+
+DERMAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+NIPPLE INVOLVEMENT: N/A
+&amp;#160;
+MUSCLE INVOLVEMENT: N/A
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size: 30mm
+Nuclear grade: Intermediate grade
+Architecture / type: Cribriform/solid
+Necrosis: Present
+Microcalcification of DCIS: Present
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not seen
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma is completely excised with a clearance of 3mm from closest inferior margin.
+&amp;#160;
+DCIS MARGINS:
+DCIS extends within 0.3mm of the anteroinferior and 0.3mm from posterior margins without intervening normal ducts.&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B5
+&amp;#160;
+ER: &amp;#160;Positive (90% of cells +++)
+PgR: &amp;#160;Positive (90% of cells +++)
+HER2: &amp;#160;Negative (0)
+Ki67: 15%
+&amp;#160;
+A.  LYMPH NODES
+SENTINEL LYMPH NODES: Involved by single isolated tumour cell
+
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 1 (a single isolated tumour cell identified by Cam5.2 staining)
+Total number of nodes examined: 4
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c, pN0(i+)
+
+DIAGNOSIS:
+SENTINEL NODE RIGHT BREAST :
+-SINGLE ISOLATED TUMOUR CELL IN 1 OUT OF 4 LYMPH NODES.
+LUMP RIGHT BREAST :
+-INFILTRATING DUCT CARCINOMA.
+26/8/2067 ank

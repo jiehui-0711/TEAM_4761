@@ -1,0 +1,53 @@
+
+ 639803.VAH 
+Flegler, Beulah 
+63Y80380
+ CLINICAL:
+Palpable DCIS right breast ?any IDC ->WL Excuse -+ SLN bx
+MACROSCOPIC:
+A. Specimen labelled "Right breast sentinel node 1, count 3178" consists of a bluish lymph node 12mm in maximum dimension with attached adipose tissue.  AE 1 block.  Sentinel node protocol ordered.
+B. Specimen labelled "Right breast sentinel node 2, count 741" consists of a 7mm lymph node with attached adipose tissue.   AE 1 block.
+C. Specimen labelled "Right breast axillary tissue" consists of a 9mm ?lymph node and adipose tissue.   TAE 1 block.
+D. Specimen labelled "Right breast cancer medium medial, long lateral" consists of a lumpectomy with three marking sutures (long lateral, medium medial and short stitch confirmed with Dr ART Wheary indicating superior) measuring 50mm (medial to lateral), 60mm (superior to inferior) 30mm (superficial to deep) and weighing 41g.  The superior margin inked red, the deep margin black and the remaining green.  The specimen focally appears disrupted anteriorly and at the mid aspect.  The specimen sequentially sectioned from medial to lateral into nine slices to reveal a firm poorly circumscribed cream tumour present in slices three to seven.  The tumour measures 20mm (superior to inferior) and 15mm (superficial to deep).  The tumour is very close to the superficial margin, 5mm from the deep margin and is greater than 10mm from other resection margins.  The remaining breast tissue is mixed fibrofatty and no other lesions are identified.  
+Blocks: 1 & 2 - slice one medial end; 3 & 4 - slice two; 5 to 7 - slice four, eight and nine; slice 5;10 - slice six; 11 to 13 - slice seven; 14 to 16 - slice eight; 17 to 19 - slice nine; 20 - reserve block for tissue banking, the disrupted area is present in slices three and twenty.  Please refer to attached photograph.  (FO/ta 12/12/62)  
+ 
+MICROSCOPIC (Reported by Dr Q Sheltra):
+A. One (1) lymph node is identified.  The lymph node is unremarkable.  Both histological and immunohistochemical examinations show no evidence of tumour metastasis.
+B. One (1) lymph node is identified.  The lymph node is unremarkable.  Both histological and immunohistochemical examinations show no evidence of tumour metastasis.
+C. One (1) lymph node is identified.  The lymph node is unremarkable.  There is no evidence of tumour metastasis.
+D. Synoptic Report for Breast Ductal Carcinoma In-Situ (DCIS) 1)   Location:  Right breast
+2) Size:  20mm
+3) Resection/biopsy margin:  The DCIS is 2.5mm to the superficial margin (block D6) and is 5mm to the deep margin (block D10).  The other margins are well clear. 4)   Ductal carcinoma in situ (DCIS ):
+Nuclear grade:  High
+Architectural pattern:  Solid and cribriform Necrosis:  Present
+5) Lobular carcinoma in situ (LCIS):  Absent
+6) Calcification:  Absent
+7) Non-neoplastic breast:  Unremarkable
+8) Nipple:  Not applicable
+9) Hormone Receptor Assay :
+ER:  positive (strong staining in 50% of tumour cells)
+PR:  positive (strong staining in 95% of tumour cells) 10)  Other findings/comments:  No invasive carcinoma is seen.
+DIAGNOSIS:
+A. Right breast sentinel node 1 - No evidence of malignancy (0/1).
+B. Right breast sentinel node 2 - No evidence of malignancy (0/1).
+C. Right breast axillary tissue - No evidence of malignancy (0/1).
+D. Right breast cancer - High grade ductal carcinoma in-situ, 20mm, completely excised.
+SUPPLEMENTARY REPORT (1/11/2063):
+In specimen D, two small foci of invasive ductal carcinoma, NOS are present at the periphery of DCIS measuring 2.7mm and 0.6mm in diameter respectively (block D9).  The invasive carcinoma is completely excised and is well clear of all the resection margins (more than 10mm).  
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  2.7mm and 0.6mm
+Grade (Modified Bloom & Richardson):  1
+       Tubules: 3     Nuclei: 2     Mitoses: 1     Mitotic rate: 1/10hpf Lymphovascular invasion:  Absent
+Excision margin:
+Invasive component:  Well clear of all the resection margins
+Receptors (Block D9): 
+ER:  Positive
+95 % of nuclei stained
+     predominant intensity of staining: moderate PR:  Positive
+95 % of nuclei stained
+predominant intensity of staining: strong
+HER-2 (Novocastra 10A7):  Equivocal (2+ staining)
+Ki-67 index:  Less than 5% (difficult to interpret because of numerous lymphoid follicles within adjacent area)
+The HER-2 ISH test will be performed at DYSART HOSPITAL Hospital and an additional report will be issued.
+
+

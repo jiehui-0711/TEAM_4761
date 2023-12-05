@@ -1,0 +1,53 @@
+SPR no: 19N157486U
+MRN no: 1951574
+Site_name: SNOWTOWN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (13.11.2067)
+
+CLINICAL:
+10cm pelvic mass.  CA125 171.  CEA 21.  Smoker/ETOH, severe emphysema, mitral valve regurgitation.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right fallopian tube plus ovary&amp;quot;, consists of a fallopian tube 90mm in length with a diameter of 5mm and an ovary, 110 x 80 x 75mm.  The serosa appears intact.  The ovary contains multiloculated cysts with occasional solid areas.  Two RS for frozen section.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 - LS fimbriae; 4 - three TS fallopian tube; 5 to 12 - RS cyst wall.
+
+FROZEN SECTION REPORT:
+Mucinous tumour.  Benign on frozen sections, can&amp;apos;t exclude borderline lesion favour ovarian primary, cannot exclude appendiceal origin.  Phone result to Dr Waldo by Dr E Angerer/E Dohn at 2:44pm on 27/10/2066.
+
+B.  Specimen labelled &amp;quot;Uterus, left tube, ovary and cervix&amp;quot;, consists of a uterus with attached cervix, left fallopian tube and ovary weighing 50g in total.  The uterus measures 68 x 37 x 25mm and has a smooth shiny serosal surface.  The ectocervix measures 27 x 23mm and has an unremarkable surface.  The left fallopian tube measures 50mm in length with a maximum diameter of 7mm, and has a suture ligating the lumen in the mid region.  The left ovary measures 30 x 9 x 14mm and has a 10mm smooth walled cyst on the cut surface.  On sectioning, the endometrium is 1mm in maximum thickness, and the myometrium is 15mm in maximum thickness.  There is a 6mm intramural fibroid in the right myometrium.
+Blocks: 1 to 3 - full LS of anterior body and cervix; 4 to 6 - full LS of posterior body and cervix; 7 - RS fibroid; 8 - LS left fimbriae; 9 - three TS left fallopian tube pre and post suture; 10 - three TS left ovary.  Please refer to blocking diagram.
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of an irregular piece of fat, 85 x up to 47 x 10mm.  Blocks: 1 to 3 - RS.
+
+D.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a vermiform appendix measuring 58mm in length with a diameter of 4mm, and a mesoappendix to a width of 13mm.  The serosal surface is smooth and pale grey.  Base inked blue.  Blocks: 1 - LS base; 2 - LS tip; 3 and 4 - sequentially embedded mid TS.  AE.
+
+E.  Specimen labelled &amp;quot;Mesenteric deposit&amp;quot;, consists of two pale pieces of tissue measuring 3mm and 4mm.  AE 1 block.
+
+F.  Specimen labelled &amp;quot;Caecum nodule&amp;quot;, consists of a pale and brown irregular piece of tissue 4 x 3 x 3mm.  AE 1 block.  (TO:NM/rs 28/9/67)
+
+
+MICROSCOPIC (Reported by Dr E Wojtas):
+A.  Sections of right ovary show a low grade borderline mucinous tumour.  Majority of tumour is endocervical type with broad papillae lined by stratified mucinous and eosinophilic endocervical-like cells.  Intestinal type is also focally present with intestinal type epithelium with globlet cells.  In just over 10% of epithelium, there is low grade cytological atypia with scattered mitotic figures.  The tumour is confined within the ovary.  The right fallopian tube is unremarkable.  There is no evidence of invasive malignancy.  The tumour cells are strong (3+) and diffuse staining for CK20.  There is focal strong (3+) staining for CDX-2.  There is focal moderate (2+) staining for CK7 and PAX-8.  In the right clinical setting, the staining pattern is in keeping with that of primary ovarian mucinous tumour.
+B.  Sections of uterus show a small leiomyoma.  The endometrium is atrophic.  The cervix is unremarkable.  The serosa is unremarkable.  The left ovary is unremarkable except a small simple cyst.  The left fallopian tube is unremarkable.  There is no evidence of malignancy.
+C.  Sections show adipose tissue with no significant abnormality.  There is no evidence of malignancy.
+D.  Sections of appendix show no significant abnormality.  There is no evidence of malignancy.
+E &amp;amp; F.  Sections show features of benign mesothelial inclusion cyst.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Right ovary and fallopian tube - Borderline mucinous tumour.
+
+B.  Uterus, left tube, ovary and cervix - Small leiomyoma.
+
+C.  Omental biopsy - No significant abnormality.
+
+D.  Appendix - No significant abnormality.
+
+E.  Mesenteric deposit - Benign mesothelial inclusion cyst.
+
+F.  Caecum nodule - Benign mesothelial inclusion cyst.
+
+
+SUPPLEMENTARY REPORT (Reported by Dr E Trevisone 14.10.2069):
+MSI immunohistochemistry was performed on the ovarian tumour as requested by Dr E Bonsee.
+The tumour cells show preserved nuclear staining with MLH1, PMS2, MSH2 and MSH6.

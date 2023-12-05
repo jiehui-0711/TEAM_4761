@@ -1,0 +1,124 @@
+
+Episode No:  96M724804F
+9647248.CKF
+
+EDRIDGE, RANDAL Undoolya 
+Lab No:  96M72480
+W Hawley
+BALLINA  New South Wales  7052
+Specimen: Tissue
+D.O.B:  22/10/2014
+Sex:  F
+Collected: 5/12/2065 at :
+Location:  NSW Health-LAIDLEY HOSPITAL
+DR Dhirril LAMAR HARGRAVE
+Distribution:  
+CLINICAL:
+Left breast mastectomy + sentinel lymph node biopsy.  Previous right breast cancer - right mastectomy.  Left breast ca - 1 o'clock position 4cm from nipple.
+MACROSCOPIC:
+A.  Specimen labelled "Left sentinel node" and consists of a piece of adipose tissue measuring 50 x 38 x 15mm.  Two lymph nodes are identified measuring 5 and 15mm across.  The larger lymph node has blue dye discolouration.  
+Blocks: 1 & 2 - larger lymph node; 3 - smaller lymph node.  
+B.  Specimen labelled "Left breast" and consists of a mastectomy measuring 295 x 180 x 50mm.  There is overlying ellipse of skin 230 x 90mm.  The nipple and areolaappear unremarkable.  The superficial margin is inked blue and the deep margin black.  At 1 o'clock, 4cm from the nipple is a tumour, 23 x 20 x 25mm.  The tumour lies entirely below the skin ellipse and is 20mm clear of the deep margin.  There is a second tumour nodule 11 x 10 x 10mm located at 12 o'clock 6cm from the nipple.  The second tumour nodule is 15mm from the first tumour nodule.  The second nodule is 24mm clear of the superficial margin and 45mm clear of thedeep margin.  The remainder of the breast is unremarkable.  
+Blocks: 1 to 3 - cross section through main tumour at 1 o'clock, 4cm FN; 4 - main tumour (reserve block); 5- deep margin overlying main tumour; 6 - tissue between the two tumours; 7 & 8 - second tumour at 12 o'clock, 6cm FN; 9 - superficial margin overlying second tumour; 10 - upper outer quadrant; 11 - lower outer quadrant; 12 - lower inner quadrant; 13 - upper inner quadrant; 14 - nipple.  Please refer to attached diagram.  (TO: JI; IE/ta 13/5/65) 
+ 
+ 
+MICROSCOPIC: (Reported by Dr Y Bonanni):
+
+Invasive carcinoma:
+1.  Lesion one 
+Site:  Left breast, 1 o'clock 5 cm FN.
+Type:  Invasive ductal carcinoma, NST.
+Invasive tumour size:  18mm (microscopic).
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3    Nuclei:  3    Mitoses:  3   Mitotic rate:  12 /10hpf.
+Lymphovascular invasion:  Present.
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS:  7mm.
+Nuclear grade:  High grade.
+Architecture:  Predominantly solid type.
+Necrosis:  Present. 
+Calcification:  Present.
+Degree of DCIS in tumour:  DCIS is present as scattered involved ducts within the invasive tumourand also as a 7mm focus at the interface between invasive component and surrounding parenchyma.
+DCIS in adjacent tissue:  Absent.
+Excision Margins:  
+Invasive component:  Clear, 20mm from the closest deep margin.
+In-situ component:As above.
+Receptors (Block B2): 
+ER: Positive 
+	20% of nuclei stained
+         Predominant intensity of staining:  Weak to moderate
+PR:  Negative
+	% of nuclei stained
+         Predominant intensity of staining:  
+HER2 (Novocastra 10A7):   Positive (Score 3+).
+HER2 SISH:  Performed at Rohm and Haas, YARRAWONGA HEALTH Hospital, see separate report.
+wKi-67 index:  60%
+2.  Lesion two
+Site:  Left breast, 12 o'clock 6 cm FN (15mm from the first lesion).
+Type:  Invasive ductal carcinoma, NST.
+Invasive tumour size:  9.5mm (microscopic).
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3   Nuclei:  3    Mitoses:  2   Mitotic rate: 7/10hpf.
+Lymphovascular invasion:  Present.
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  5mm.
+Nuclear grade:  High grade.
+Architecture:  Solid type.
+Necrosis:  Present. 
+Calcification:  Present.
+Degree of DCIS in tumour:  Focal. 
+DCIS in adjacent tissue:  Absent. 
+Excision Margins:  
+Invasive component:  24mm from the closest superficial and 45mm from the deep margin.
+In-situ component:  As above.
+Receptors (Block B8): 
+ER:  Positive
+         30 % of nuclei stained
+          Predominant intensity of staining:  Weak to moderate
+PR:  Negative.
+	% of nuclei stained
+	Predominant intensity of staining:  
+HER2 (Novocastra 10A7):   Positive (score 3+).
+HER2 SISH:  Performed at Sealed Air Corporation, GULARGAMBONE MULTI PURPOSE SERVICE Hospital, see separate report.
+wKi-67 index:  60%.
+Nipple:  Unremarkable.
+
+LCIS / ALH:  Absent.
+Miscellaneous:  
+-  Microcalcification present in relation to both benignand malignant elements.
+-  An incidental 2mm fibroadenoma in lower outer quadrant.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  Two (2).
+Number of sentinel lymph nodes involved by tumour:  One (1).     
+Number of sentinel nodes with metastases >2.0mm:  Zero (0).  
+Number of sentinel nodes with metastases <2.0mm:  Zero (0).   
+	Detected by:
+Number of sentinel nodes with isolated tumour cells <0.2mm:  One (1).    
+	Detected by:  CAM5.2 immunostain.
+Extranodal spread:  Absent.
+Axillary/other nodes: NA.
+Number of axillary lymph nodes examined:
+Number of axillary lymph nodes involved by tumour:
+Number of axillary nodes with metastases >2.0mm:    
+Number of axillary nodes with metastases <2.0mm:      
+Number of axillary nodes with isolated tumour cells <0.2mm:       
+Extranodal spread:    
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  Two.
+Total number of involved lymph nodes (including sentinel node(s)): 1/2.
+
+DIAGNOSIS:
+Left breast mastectomy + sentinel lymph node biopsy:
+-  Two foci of grade 3 invasive ductal carcinoma, 18 and 9.5mm in size.
+-  Focal high grade DCIS within the invasive tumours.
+-  ER weakly positive, PR negative, HER-2 positive (3+) on IHC.
+-  Surgical margins clear.
+-  Widespread lymphovascular space invasion.
+-  One sentinel lymph node with Isolated tumour cells (<0.2mm) detected on IHC. (1/2)
+
+
+

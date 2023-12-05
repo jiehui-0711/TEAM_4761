@@ -1,0 +1,29 @@
+SPR no: 59L586926N
+MRN no: 1280455
+Site_name: JUNEE MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Choriocarcinoma.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus and cervix bilateral fallopian tube&amp;quot;, consists of a uterus, cervix and bilateral fallopian tubes weighing 57g in total and received partially opened with a cut through the parasagittal plane.  The uterus measures 70 x 60 x 30mm and has a smooth and shiny serosal surface.  The cervix measures 20 x 18mm and has an unremarkable surface.  On opening there is a multilobulated dark brown tumour within the posterior wall of the lower uterine segment measuring 13mm in maximal dimension located 18mm from the cervical resection margin.  The tumour measures 8mm below the endometrial surface and 7mm from the serosal surface.  The remaining endometrium measures less than 1mm thick on a myometrium that measures up to 17mm thick.  A second haemorrhagic lesion is identified towards the body on the posterior wall measuring 3mm in diameter separated by 5mm of unremarkable tissue from the primary lesion.  No other endometrial or myometrial deposits are identified.  The right fallopian tube measures 60 x 9mm and the left fallopian tube measures 65 x 7mm.  No lesions are identified.  Blocks: 1 to 4 - slice one; 5 to 8 - slice two; 9 to 12 - slice three; 13 to 18 - slice four; 19 to 22 - slice five; 23 to 26 - slice six; 27 - right fallopian tube; 28 - left fallopian tube.  (TO:NH/eh 21/6/70)
+
+
+MICROSCOPIC (Reported by Dr Y Packwood):
+Sections show two separate foci of high grade malignant epithelioid tumour within the stroma of the lower segment and at the junction of the lower segment and endometrial mucosa (Blocks 10 and 15).  The tumour is composed predominantly of lobules of malignant mononucleated epithelioid cells with amphophilic to clear cytoplasm, moderate nuclear pleomorphism, vesicular chromatin and, conspicuous nucleoli. Numerous mitoses ,including atypical forms, are identified.  Scattered admixed multinucleated tumour cells are also present.  There is a confluent central zone of haemorrhagic necrosis.  No chorionic villi or fetal tissue is seen.  No lymphovascular invasion or perineural invasion is seen.  The tumour is 7mm clear of the closest serosal surface  (Block 15)and well clear of the inferior margin.
+
+The adjacent endometrium is weakly proliferative with no evidence of endometrial hyperplasia or endometritis.  Away from the tumour the myometrium, ectocervix and endocervix are unremarkable.  The right and left fallopian tubes are unremarkable.
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the tumour cells stain as follows:
+Positive: HCG (intensely positive in multinucleate cells with weaker expression in mononuclear tumour cells) and AE1/AE3
+
+COMMENT:
+The tumour shows similar morphlogical feature to those seen in the prior endometrial curetting (96P0061) and is consistent with choriocarcinoma.
+
+
+DIAGNOSIS:
+Uterus cervix bilateral fallopian tube:
+-  Two foci, 3mm and 8mm, of choriocarcinoma within uterine stroma, no lymphovascular invasion identified, margins clear.

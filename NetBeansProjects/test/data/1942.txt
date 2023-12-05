@@ -1,0 +1,46 @@
+Episode No:  44Z764595S
+4497645.ZNS
+
+Mccammack, Jess 
+Lab No:  44Z76459,44Z76459
+Timber Cove
+MANDURAH  Queensland  3428
+Specimen: Fine needle aspirate,Tissue
+D.O.B:  21/5/1980
+Sex:  F
+Collected: 29/08/2014 at 12:52
+Location:  Pathology North-WARWICK HOSPITAL
+PRO MANHA Suzanne Sladky
+Distribution:  DR Jacquay,   NSW-CANCER-REGISTRY
+
+
+CLINICAL:
+Widespread lymphadenopathy, ? lymphoma, ? carcinoma, ? other. 
+MACROSCOPIC:
+Specimen labelled "Left supraclavicular lymph node core biopsy", consists of a core biopsy 10mm and three pieces of tissue 1-2mm. AE 1 block.  (TO: RC/ec   1.10.64)  
+ 
+MICROSCOPIC: (Reported by Dr K Fast)  
+Sections show a core biopsy which includes fat and skeletal muscle at one edge. The biopsy is almost entirely infiltrated by a high grade lymphoid neoplasm. The lymphoma comprises sheets of large cells, showing high grade nuclear atypia. Some tumour cells are multilobated. Mitotic figures including atypical mitoses are numerous. Apoptotic material is present. Scattered mature lymphocytes are seen in the background. There is extension of lymphoma into the adjacent fat. 
+Uniform CD45 expression by the tumour cells, confirms that this is a lymphoma. The lymphoma cells uniformly express B-lymphocyte markers including CD20 and Pax-5. They also express bcl-6 and bcl-2. CD10 is negative. There is no expression of CD30, cyclin D1 or CD138. T-lymphocyte markers CD3 and CD5 highlight small numbers of T-cells scattered in the background. The proliferation index Ki-67 is 70-80%.
+DIAGNOSIS:
+Left supraclavicular lymph node core biopsy: Diffuse large B-cell lymphoma, NOS.
+Comment: FISH testing for double/triple-hit lymphoma has been requested and the results will be issued in a supplementary report. 
+SUPPLEMENTARY REPORT (25.11.64):
+Report from North's Pathology, TEA GARDENS:  
+Reported by K Hulstrand, validated by Dr K K Veazey:
+FLOURESCENCE IN SITU HYBRIDISATION - FISH:
+
+FISH Probe: 
+BCL6 (3q27) dual colour break apart rearrangement probe (Vysis) 
+MYC (8q24) dual colour break apart rearrangement probe (Vysis) 
+MYC,D8Z2,IGH tricolour dual fusion translocation probe (Vysis)
+BCL2 (18q21) dual colour break apart rearrangement probe (Vysis)
+FISH Results:
+nuc ish(BCL6x2)(3'BCL6 sep 5'BCL6x1),(5'MYC,3' MYC)x2-3(5'MYC con 3' MYCx2-3), (D8Z2x2-3,MYC x 2- 3,IGHx2-3), (3'BCL2,5'BCL2)x2-3(3' BCL2 con 5'BCL2x2-3)
+Comment:
+Interphase FISH detected rearrangement of the BCL6 locus in this tissue, with one rearranged and one non-rearranged locus seen.
+Interphase FISH detected no evidence of MYC/IGH or MYC rearrangement in this tissue, with the majority of nuclei showing two copies of non-rearranged MYC and IGH, although some nuclei were seen with three copies of non-rearranged MYC and IGH.
+There was no evidence of BCL2 rearrangement, with the majority of nuclei showing two copies, and a minority three copies of non-rearranged BCL2.
+Summary:
+BCL6 rearrangement detected; no evidence of MYC/IGH or MYC rearrangement; no evidence BCL2 rearrangement.
+

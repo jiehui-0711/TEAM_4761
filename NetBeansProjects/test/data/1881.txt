@@ -1,0 +1,60 @@
+
+Episode No:  52A267456J
+5202674.PPJ
+
+Dokken, SHANAE 
+Lab No:  52A26745
+Runcorn
+YARRAGON  SA  0813
+Specimen: Tissue
+D.O.B:  17/12/1989
+Sex:  F
+Collected: 16/1/2064 at :
+Location:  Molecular Oncology-GRENFELL MULTI PURPOSE SERVICE
+DR ORLANDO MERLIN Jayes
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right hemicolectomy.  Low hb 79.  Dizzy.  Bleeding PR.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy", consists of a right hemicolectomy measuring 225mmin length including a length of terminal ileum measuring 50mm.  28mm from the distal resection margin there is a slightly pedunculated sessile lesion measuring 45 x 30mm appearing to take up approximately 45% of the bowel circumference.  The cut surface reveals the tumour appears to invade into the muscularis propria.  At the ileocecal valve there is a 10 x 10mm haemorrhagic area which is possibly ulcerated  ?related to surgery.  25mm distal to the ileocecal valve a small 3mm polyp is identified which appears confined to the mucosa.  The specimen includes an unremarkable appendix measuring 60mm in length with a maximum external diameter of 6mm.  A separate piece of fatty tissue is identified in the specimen measuring 70mm in maximum dimension.  Numerous lymph nodes are identified within the mesenteric fat and separate piece of fatty tissue.  
+Blocks: 1 - resection margin; 2to 4 - representative tumour; 5 - tumour to uninvolved mucosa; 6 - area of haemorrhage at ileocecal valve; 7 - polyp; 8 - representative appendix; 9 - apical nodes; 10 to 14 - further nodes; 15- reserved block.  (TO: HR;QA/vo 19.1.64) 
+MICROSCOPIC (Reported by Dr N Biddie):
+
+Site of tumour:  Right colon	
+Maximum tumour diameter: 45mm
+Distance of tumour to nearer cut end:   28mm (distal)
+Tumour perforation:     No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 23	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The appendix is unremarkable. Pigmented macrophages are seen in the mucosa, possibly in keeping with melanosis coli. Black pigment is seen adjacent to the tumour. 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repairenzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Summary - TNM 7th Edition
+pT3     pN0     pMX     R0	
+
+
+

@@ -1,0 +1,112 @@
+SPR no: 75B818606A
+MRN no: 750818
+Site_name: EAST WIMMERA HEALTH SERVICE - WYCHEPROOF
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report75B81860,75B81860 (75B818606A) BONAMICO, TOMOKO
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GII/III endometrial ca.  Nodule in omentum approximately 3cm.  Peritoneal washings for cytology.  Uterus, tubes + ovaries.  Pelvic peritonectomy.  Omentum.  Left pelvic nodes.  Right paracolic serosa.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES, OVARIES, PELVIC PERITONEUM&amp;quot;.  A uterus with attached bilateral fallopian tubes, ovaries and cervix and peritoneum (anterior) weighing 106g total. The uterus measures up to 45mm from medial to lateral, 75mm from fundus to cervix, and 38mm from anterior to posterior.  The cervix measures 25mm in maximum diameter and is unremarkable.  The anterior peritoneum attached has a puckered area of uterine serosal surface and measures in extent up to 50x50mm from medial to lateral.  The uterine serosal surface shows pale nodules anteriorly and on the right lateral aspect, the largest measuring 10mm in maximal extent.  There is a peritoneal deposit anteriorly measuring 8mm in maximal extent.  The right fallopian tube measures up to 50mm in length and 5mm in diameter.  A thin walled paratubal cyst attached to the fimbrial end measures 20mm in maximum diameter. The right ovary measures up to 20x12x10mm.  The left fallopian tube measures up to 50mm in length and 5mm in diameter.  The left ovary measures 20x12x10mm.  There is peritoneum attached to the posterior uterus bilaterally.  Multiple firm pale nodules are present on the left side measuring up to 5mm in maximal extent. On sectioning there is a tumour which fills the uterine cavity and extends to the lower uterine segment.  Centrally it is necrotic.  It extends over half of the myometrial thickness and involves the serosal surface at the area of puckering anteriorly.  The tumour measures up to 45x40x30mm.  On sectioning the ovaries are unremarkable.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3-6 anterior cervix to fundus as per diagram; 7-9 posterior cervix to fundus as per diagram; 10 peritoneal deposit posteriorly, 11 serosal uterine deposit left posterior lateral; 12 serosal deposit right anterior peritoneum; 13 LS/TS right tube; 14 right paratubal cyst lining RS; 15 LS right ovary; 16 LS/TS left fallopian tube; 17 LS left ovary; 18 right cornu; 19 left cornu; 20 posterior wall fibroid with tumour; 21 tumour reserve block).  RS (M-21/EE/ank)
+
+B.  &amp;quot;OMENTUM&amp;quot;. A fibrofatty piece of tissue consistent with omentum measuring 220x100x15mm.  The outer surface is glistening with focal areas of haemorrhage.  Deep to the haemorrhagic area, there is a nodule measuring 30x20x20mm. The cut surface reveals a partially calcified nodule with soft inner contents.  The remainder cut surface of the omentum is fibrofatty and unremarkable.
+
+(1-3 RS of the calcified nodule; 4&amp;amp;5 RS remainder omentum).  RS (M-5)
+
+C.  &amp;quot;LEFT PELVIC NODES&amp;quot;. Two fibrofatty pieces of tissue measuring 20x13x5mm and 25x15x3mm.  One possible lymph node is identified measuring 8mm with unremarkable cut surface.  Another lymph node is identified measuring 5mm.
+
+(1 two lymph nodes with the largest bisected).  RS (3-1)
+D.  &amp;quot;SEROSAL BIOPSY RIGHT PARACOLIC GUTTER&amp;quot;. Three fibrofatty pieces of tissue 5, 6 and 7mm.  AE (3-1/ZH/ank)
+
+MICROSCOPIC:   (Dr. S. Malkasian)
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade: 	3
+
+(architecture grade:  3, nuclear grade:  2)
+
+Myometrial invasion:  Present
+
+Depth of myometrial invasion:   32mm (block 5)
+
+Myometrial thickness:   32mm
+
+% of myometrium invaded:   100%
+
+Focality:  Unifocal
+
+Tumour involves: Body and fundus
+
+Vascular/lymphatic invasion:  Present
+
+Involvement of cervix:  Not present
+
+Involvement of uterine serosa:  Present, anteriorly with several nodules over the serosa of the uterus and adjacent anterior pelvic peritoneum
+
+Excision margins:  Clear
+
+Non-tumour uterus:
+Adjacent endometrium: Atypical hyperplasia
+Polyps:  Not identified
+Adenomyosis:  Focally present
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved (but adjacent small paraovarian serosal deposit)
+Right ovary:  Not involved
+
+Lymph nodes:
+Nodes involved:  0
+Total number: 2
+
+Other tissues:
+B. The omentum contains a 3cm benign nodule containing abundant old haemorrhage with aundant haematoidin pigment with dystrophic microcalcification and some metaplastic bone  towards the periphery.  There is no evidence of malignancy.
+
+D.  The biopsy of the serosa of the right paracolic gutter shows fibrofatty tissue with a small focus of metastatic endometrioid adenocarcinoma.
+
+Comment:  A small deposit of metastatic endometrioid carcinoma is also seen in the left paraovarian serosa but not within the ovarian cortex itself (block 17).  IHC for MMR proteins will follow.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT3a N0 M1
+
+FIGO stage:  IV B
+
+DIAGNOSIS:
+A.  UTERUS, TUBES, OVARIES, PELVIC PERITONEUM -
+-GRADE 3 ENDOMETRIOID ADENOCARCINOMA WITH SEROSAL DEPOSITS (pT3a)
+B.  OMENTUM -
+-ORGANISING HAEMORRHAGE, NO EVIDENCE OF MALIGNANCY.
+C.  LEFT PELVIC NODES -
+-NO EVIDENCE OF MALIGNANCY IN 2 NODES.
+D.  SEROSAL BIOPSY RIGHT PARACOLIC GUTTER -
+-SMALL DEPOSIT OF METASTATIC ENDOMETRIOID ADENOCARCINOMA
+- FIGO STAGE IVB.
+18/10/2066 ank
+SUPPLEMENTARY REPORT:
+
+Immunostains for MSI proteins (Leggett & Platt ACUTECARE WARD; block: A6)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+26.10.66

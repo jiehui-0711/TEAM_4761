@@ -1,0 +1,83 @@
+Episode No:  20Z261400V
+209261.MAC
+
+Tisby, Stacee 
+Lab No:  20Z26140
+Guerrero
+TUNCURRY  Australian Capital Territory  3521
+Specimen: Tissue
+D.O.B:  5/2/1994
+Sex:  F
+Collected: 24/09/2012 at 15:50
+Location:  StVincent-ROBINVALE DISTRICT HEALTH SERVICES - MANANGATANG CAMPUS
+DR DAMIAN Edmund DANA-Setler
+Distribution:   FILE-COPY
+CLINICAL:
+Right 9 o'clock breast carcinoma.  Wide local excision + sentinel node biopsy.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel lymph node" consists of two lymph nodes 10 and 8mm in maximum diameter.  The lymph nodes are serially sectioned and AE.
+Blocks: 1 - one lymph node; 2 - one lymph node. 
+B.Specimen labelled "Right breast lesion long lateral, medium medial, short superior" consists of an irregular piece of fibrofatty tissue with three sutures for orientation, short superior, long lateral, medium medial measuring 40mm(medial to lateral), 70mm (superficial to deep) and 50mm (superior to inferior).  The superior margin is inked, medial margin blue and lateral margin black.  The specimen is serially sectioned from anterior to posterior into ten slices.  Slice one anterior margin, slice ten posterior margin.  On sectioning in slices one to four there is a ill defined white and gritty tumour 20mm (superior to inferior) 20mm (medial to lateral) and 20mm (anterior to posterior).  Macroscopically it is located less than 3mm from the lateral margin.  The rest of the parenchyma is unremarkable.  Representative sections are taken according to the diagram attached. 
+Blocks: 1 - two representative sections from anterior margin (slice one); 2 to 5 - slice two; 6 & 7 - representative sections from slice three; 8 & 9 - representative sections from slice four; (9 tissue selected for tissue bank )10 - one representative sectionfrom slice five; 11 - one representative section from slice eight; 12 - one representative section from the posterior margin (slice ten);.  (HS/ta 27/11/62) 
+MICROSCOPIC (Reported by Dr G Comings): 
+A.Two lymph nodes are identified.  The lymph nodes are unremarkable.  Both histological and immunohistochemical examinations show no evidence of tumour metastasis.
+B.  Sections show an invasive lobular carcinoma measuring 20mm indiameter.  The carcinoma scores grade 2 (T-3, N-2, M-1).  Possible lymphovascular invasion is focally present.  The carcinoma is incompletely excised.  The invasive carcinoma focally extends to the inferior margin (block B6 and B7).  Theinvasive carcinoma is 6mm to the superficial margin (block B1) and lateral margin (block B7).  The other margins are well clear.  LCIS is focally present but no DCIS component is seen.  The tumour cells are positive for ER and PR.  The stain for HER-2 is negative.  The rest of breast tissue shows no significant abnormality.
+Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive lobular carcinoma
+Invasive tumour size:  20mm
+Grade (Modified Bloom & Richardson):  2
+Tubules: 3     Nuclei: 2     Mitoses: 1     Mitotic rate: 5/10hpf.
+Lymphovascular invasion:  Present
+	    
+DCIS component:  
+Absent 
+Excision Margins:  
+Invasive component:  The invasive carcinoma focally extends to the inferior margin (block B6 and B7).  The invasive carcinoma is 6mm to the superficial margin (block B1) and lateral margin (block B7).  The other margins are well clear. 
+In-situ component:  Not applicable
+Receptors (Block B7): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining: strong
+PR:  Positive
+	70% of nuclei stained
+	predominant intensity of staining: strong
+HER2 (Novocastra 10A7):  Negative (0 staining)
+Ki-67 index:  13%
+Nipple:  Not applicable
+
+LCIS / ALH:  Present
+Miscellaneous:
+- The tumour cells are negative for E- Cadherin.
+- The rest of breast tissue shows no significant abnormality.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)):  0
+SUMMARY:
+A.  Right axilla sentinel lymph node - No evidence of malignancy (0/2).
+B.  Right breast, wide local excision
+	Invasive lobular carcinoma; grade 2;
+	20mm; focally extends to the inferior margin;
+	ER positive/PR positive/HER-2 negative.
+
+The HER-2 ISH test will be performed at WESTMEAD HOSPITAL Hospitaland an additional report will be issued.
+
+ADDITIONAL REPORT:  (6.12.62)
+Blocks were sent to THE SUTHERLAND HOSPITAL Hospital for Her2 CISH analysis, Dr G Premer reports:
+Her 2 in situ hybridisation: (Her2 CISH Invitrogen SPOT-Light assay, block B5). 
+Her2 CISH result: NEGATIVE (non-amplified, diploid).
+Mean Her2 copy number per cell: 1.65.
+SCORING CRITERIA (ASCO/CAP recommendations):
+to <2.5 copies:  	Non amplified (diploid)
+2.5 to <4 copies:  	Non amplified (polysomy) 
+4 to 6 copies:		Equivocal 
+>6 but < 10 copies:	Low level amplification
+10 or more copies: 	High level amplified.  
+ 
+

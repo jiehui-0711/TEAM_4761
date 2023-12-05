@@ -1,0 +1,49 @@
+SPR no: 33T730965Q
+MRN no: 3377309
+Site_name: MACLEAN DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left thigh mass liposarcoma.  Specimen received fresh and sampled for biobanking.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Sarcoma left thigh stitch 12 o&amp;apos;clock&amp;quot;, consists of an oriented ellipse of skin with attached subcutaneous mass measuring 440 x 260 to a depth of 230mm. This measurement includes up to 25mm of unremarkable subcutaneous fat.  The entire specimen weighs 12.5kg.  The skin surface appears unremarkable. The underlying soft tissue mass is mostly lined by a thin fibrous capsule, with a ragged firm area seen on the deep aspect up to 80mm in diameter. A bundle of thrombosed vessels is seen running in the superior to inferior direction pushed to the 9 o&amp;apos;clock edge.  The 9 o&amp;apos;clock margin is inked red, 3 o&amp;apos;clock blue and deep black.  On sectioning the mass has a multilobulated fatty appearance with variably sized, discrete and partially encapsulated nodules.  Towards the superior end a 55mm circumscribed nodule resembling a fibroid abuts the deep margin.  A central necrotic nodule 150mm in greatest dimension shows macroscopic appearances of fat necrosis.  A discrete fleshy necrotic haemorrhagic and solid nodule is located along the 9 o&amp;apos;clock edge measures 125mm in greatest dimension 5mm from the 9 o&amp;apos;clock margin and well clear of all other margins.  Remaining discrete nodules have a mostly fatty appearance with no further solid areas identified.
+Blocks: 1 - 12 o&amp;apos;clock skin; 2 - thrombosed vessels; 3 to 6 - 12 o&amp;apos;clock margin; 7 - interface between fat and solid fibroma-like area; 8 to 10 - 3 o&amp;apos;clock margin; 11 to 13 - deep margin; 14 to 16 - 9 o&amp;apos;clock margin; 17 to 19 - 6 o&amp;apos;clock margin; 20 to 24 - internal areas; 25 - tumour abutting overlying skin; 26 and 27 - tumour for biobanking.  Please see blocking diagram.
+
+B.  Specimen labelled &amp;quot;Left thigh sarcoma deep margin&amp;quot;, consists of two unoriented pieces of fibrofatty tissue, 30 x 15 x 12mm and 15 x 10 x 8mm.  On sectioning the cut surface has an irregular solid white to fatty appearance.
+Blocks: 1 and 2 - larger piece; 3 - smaller piece.  AE.  (TO:AP/rs 6/4/72)
+
+
+MICROSCOPIC (Reported by Dr H Strebeck and Dr H Schley):
+A.  Sections of the 440mm thigh mass show morphologic features in keeping with a liposarcoma. The mass is predominantly composed of atypical, hyperchromatic adipocytes and stromal cells distributed throughout expansile lipogenic lobules of tumour, consistent with well-differentiated (lipoma-like ) liposarcoma. A minor component of sclerosing and inflammatory liposarcoma are also present. Malignant cells infiltrate between skeletal muscle fibres and fascial planes at the tumour periphery, and broadly extend to the soft tissue resection margins.  Central portions of well differentiated tumour show myxoid stromal changes and large sheets of ischaemic-type tumour necrosis. Partially thrombosed medium sized veins are noted at the tumour periphery.  Whilst tumour is seen abutting the deep aspect of subcutaneous fat, the overlying skin shows no significant abnormality.
+
+Amongst the  well differentiated tumour, there is an abrupt transition to two discrete nodules demonstrating non-lipogenic dedifferentiated tumour:
+
+The first, 55mm focus (in the 12 o&amp;apos;clock region), is formed by intersecting short fascicles and whorls of plump spindled cells with abundant eosinophilic cytoplasm and hyperchromatic nuclei and coarse chromatin. Interspersed multinucleated tumour cells, with smudgy chromatin are present, resembling degenerative-type nuclear atypia. No necrosis is seen and mitoses are present at 6 per 10hpf, in keeping with low grade dedifferentiated liposarcoma with myoid features.
+
+The second, 125mm focus (in the 9 o&amp;apos;clock region), is formed by hypercellular fascicles of elongated spindled cells with variable dense eosinophilic cytoplasm and pleomorphic hyperchromatic nuclei with coarse chromatin. Mitoses are prominent, seen at 29 per 10 high power fields, and bands of tumour necrosis are readily identified. No morphologic rhabdomyosarcomatous dedifferentiation is seen. Immunostains demonstrate that the spindled cells are positive for desmin (strong) and SMA (patchy strong), and are negative for SOX10, S100 (weak/non-specific), EMA, MNF116, CD34 (vessels only) and myogenin (scattered cells, very weak only). The overall features of this second focus are in keeping with dedifferentiated liposarcoma with high grade (leimyosarcomatous) dedifferentiation.
+
+The margins of excision are as follows:
+Well-differentiated liposarcoma: either abuts  or extends broadly to all surgical margins. In some areas there is an intervening thin fibrous pseudocapsule
+
+Dedifferentiated liposarcoma:
+12 o&amp;apos;clock: 2mm, at the deeper aspect of this margin where tumour infiltrates striated muscle (A5)
+3 o&amp;apos;clock: Clear
+6 o&amp;apos;clock: Clear
+9 o&amp;apos;clock: 3mm (A15)
+Deep: Positive (A12, A13 - low grade dedifferentiated component)
+
+FNCLCC Histologic Grade: Grade 3
+Differentiation score: 3
+Mitoses: 3
+Necrosis: 1
+
+B.  Sections of fibroadipose tissue and skeletal muscle show haphazard infiltrative fascicles of malignant and hyperchromatic myoid spindled cells, in keeping with low grade dedifferentiated liposarcoma. Dedifferentiated liposarcoma, as well as a background component of discrete lobules of well-differentiated (lipoma-like) liposarcoma, extend to the margins of excision.
+
+
+DIAGNOSIS:
+A.  Left thigh sarcoma:
+-   De-differentiated liposarcoma with 125mm high grade (leiomyosarcomatous) and 55mm low  grade (myoid) differentiation, present within a 440mm well-differentiated liposarcoma, with predominant lipoma-like morphology (FNCLCC grade 3).
+B.  Left thigh sarcoma, deep margin:
+-    Low grade dedifferentiated liposarcoma present at margin, on a background of well-differentiated (lipoma-like) liposarcoma.

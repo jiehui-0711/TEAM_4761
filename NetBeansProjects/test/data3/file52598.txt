@@ -1,0 +1,53 @@
+SPR no: 35V558322H
+MRN no: 3585583
+Site_name: GLADSTONE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report35V55832 (35V558322H) Yarrell, JULES
+HISTOPATHOLOGY REPORT
+THE ROYAL WOMEN'S HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right mastectomy, previous wide local excision.  Angiosarcoma
+
+MACROSCOPIC:
+&amp;quot;RIGHT BREAST SUTURE 12 O&amp;apos;CLOCK&amp;quot;.  A mastectomy with suture indicating 12 o&amp;apos;clock.
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Mastectomy
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  180mm
+Superior to inferior:  155mm
+Anterior to posterior:  25mm
+WEIGHT:  27g
+SKIN:  Yes, 180x75mm
+NIPPLE:  Yes, 12x12mm
+MUSCLE:  No
+MARGIN INKED: Superior half of anterior margin blue, inferior half of anterior margin green, posterior margin black.
+DISSECTION: Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION 1:  Within the 6 o&amp;apos;clock region deep to the nipple, there is a haemorrhagic lesion which measures 15mm anterior to posterior, 10mm superior to inferior and 10mm medial to lateral.
+MACROSCOPIC DISTANCE OF LESION 1 TO MARGINS:Anterior 3mm, posterior 30mm
+superior 80mm, inferior 50mm
+LESION 2: Within the 6 to 7 o&amp;apos;clock region approximately 20mm from the nipple and 15mm inferior to lesion 1 there is a haemorrhagic nodule extending from the dermis. The overlying skin is erythematous and firm. Lesion 2 measures 10mm superior to inferior, 7mm anterior to posterior and 10mm medial to lateral.
+MACROSCOPIC DISTANCE OF LESION 2 TO MARGINS:Anterior - 1mm, posterior 30mm
+superior 100mm, inferior 15mm
+OTHER MACROSCOPIC COMMENTS: The remaining breast tissue is fibrofatty and no other lesions are identified.
+(1 medial margin; 2 upper inner quadrant; 3 lower inner quadrant;  4-6 medial to lesion 1  [5&amp;amp;6 composite sections]; 7 superior to lesion 1; lesion; 8-11 lesion 1 note nipple all embedded; 12&amp;amp;13 deep to lesion 1; 14&amp;amp;15 inferior to lesion 1; 16&amp;amp;17 lesion 2 RS; 18 closest deep margin to lesion 2; 19 closest inferior margin to lesion 2; 20&amp;amp;21 lateral to lesion 1 and 2 respectively; 22 upper outer; 23 lower outer; 24 lateral margin).  RS (M/24 [Please see block diagram] /MM 6/5/2068 nh)
+MICROSCOPIC:  (Dr. J. Brokins)
+Sections show breast in which both macroscopically described areas show atypical vascular spaces including inter-anastomosing vascular spaces with pleomorphic endothelial cells showing mitotic activity and with apoptosis. The atypical cellular proliferation extends deep to the dermis into the underlying breast parenchyma as well as the dermal nipple and the dermis of the macroscopically described lesion 2. The size of the proliferation is difficult to estimate due to irregular diffusely infiltrating nature of the process, however, it exceeds 30mm in the sections and the two lesions described macroscopically also show tumour tissue in the intervening sections examined, to give a maximum macroscopic measurement of 45mm.
+The appearances are those of angiosarcoma. The  angiosarcoma shows a subtle, infiltrative  growth pattern making margin evaluation challenging. Where assessable, angiosarcoma is 0.4mm from the superior dermal margin, 1mm from the inferior dermal margin, 9mm from the posterior (deep) margin, and is not seen in sections of the other margins. A focus of perineural invasion is identified which lies approximately 25mm from the posterior margin.
+In the sections, there is also fibrosis consistent with scar and some duct show epithelial hyperplasia and lobular carcinoma in situ.  No invasive carcinoma or ductal carcinoma in situ is identified in the sections.
+Immunohistochemistry (block 17,
+CD31: positive
+CD34: positive
+ERG: positive
+C-myc: postiive (patchy distribution)
+Ki-67: variabe 80-90%
+The case has been reported in conjunction with Dr NEWTON SCHOENROCK.
+DIAGNOSIS:
+RIGHT MASTECTOMY SUTURE 12 O&amp;apos;CLOCK -
+- 45MM ANGIOSARCOMA INVOLVING DERMIS AND BREAST PARENCHYMA
+- CLOSE DERMAL MARGIN (see text).
+- PERINEURAL INVASION.
+8/4/2068 km

@@ -1,0 +1,89 @@
+
+Episode No:  02Z115042B
+0291150.KHB
+
+MCCUMBER, LYNN MAX 
+Lab No:  02Z11504
+Kiska
+NEW NORFOLK  Queensland  3095
+Specimen: Tissue
+D.O.B:  14/1/1982
+Sex:  M
+Collected: 21/01/2013 at 16:33
+Location:  2.PARKES 8-ORANGE HEALTH SERVICE
+DR BENEDICT ALEXIS WALZIER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Muscle invasive bladder Ca.
+MACROSCOPIC:
+A.  Specimen labelled "Bladder and prostate" consists of a prostate with bladder attached.  The specimen measures 110mm medial to lateral x 80mm superior to inferior x 80mm anterior to posterior.  The prostate measures 40 x 30 x 30mm.  The seminal vesicles and vas deferens are identified.  The bladder measures 70 x 50 x 50mm.  The dome of the bladder is covered by normal peritoneum.  The specimen is opened anteriorly.  Atthe posterior-lateral aspect of the bladder close to the trigone there is a depressed and ulcerated area 25 x 10mm.  This area surrounds the right ureteric orifice.  Anterior margin inked green, posterior margin blue.
+Blocks: 1 - resection margin right ureter; 2 - resection margin left ureter; 3 - right apex; 4 - left apex; 5 - representative TS right prostate; 6 - representative TS left prostate; 7 - right trigon; 8 - right anterior; 9 - right dome; 10 & 11 - tumour with right ureteric orifice; 12 to 16 - tumour AE; 17 - representative left trigon; 17 - representative left anterior; 19 - anterior dome; 20 - LS of left ureteric orifice; 21 - representative left lateral; 22 - right seminal vesicle withright vas deferens; 23 - left seminal vesicle with left vas deferens; 24 - ?lymph node; 25 to 38 (additional blocks) - prostate, AE.  (TO: NK; XY/ta 24/3/63) 
+B.  Specimen labelled "Appendix" consists of a tiny appendix 30 x 3mm with a piece of mesoappendix 10 x 10 x 2mm.  The lumen is narrow.  AE.
+Blocks:  1 - two LS proximal; 2 - one TS mid; 3- two LS distal.
+C.  Specimen labelled "Right pelvic lymph node" consists of a piece of fatty tissue 40 x 40 x 10mmwith four lymph nodes ranging from 10 to 30mm.
+Blocks:  1 - two lymph nodes; 2 - two lymph nodes.
+D.  Specimen labelled "Left pelvic lymph node" consists of a piece of fatty tissue 25 x 5 x 5mm with one lymph node 15 x 5 x 5mm.  AE 1 block.
+(TO: XZ; KV/bl 24/3/63)
+MICROSCOPIC (Reported by Dr A Lindy):
+A, C and D. The entire area surrounding the previous local excision has been embedded across multiple blocks.
+Sections show a 3.5 mm deposit of invasive urothelial carcinoma, high-grade in the muscularis propria (detrusor muscle), adjacent to the site of previous local excision.  The lesion is clear of the margins.
+No carcinoma in situ is identified.
+A 4.5mm deposit of adenocarcinoma, Gleason score3+4=7 is present in the right mid posterolateral prostate.  There is no evidence of lymphovascular or perineural or extraprostatic spread.
+The seminal vesicles show no evidence of malignancy.
+
+BLADDER CARCINOMA PROFORMA
+
+Tumour
+	Tumour site: Right posterolateral bladder wall at site of previous local excision(adjacent to right ureteric orifice)
+	Tumour size (maximum dimension):  3.5 mm
+	Histologic type and grade:  Invasive urothelial carcinoma, high grade
+	Carcinoma in situ: Absent
+	Lymphovascular invasion:  Absent
+
+Extent of tumour			
+	Muscularis propria (Detrusor muscle) invasion: Present (inner half)
+	Perivesical fat invasion: Not involved	
+	Ureters: Not involved		
+	Urethra:Not involved	
+	Surface peritoneal involvement:  Absent
+	Invasion into other organs: 
+		Prostate: Not involved	
+		Seminal vesicles:  Not involved	
+Surgical margin status:
+	Perivesical fat margin, invasive tumour:  Negative	
+	Ureters:  Negative		
+	Urethra:  Negative
+	Nearest margin: 10mm (right posterolateral perivesical fat)
+							
+AJCC Bladder tumour staging category (pT) (7th edition):
+pT2a 	Tumour invades superficial muscularis propria (inner half) 
+N1 	Single regional lymph node metastasis in the true pelvis
+MX	Distant metastasis cannot be assessed histologically 
+PROSTATE CARCINOMA PROFORMA
+Histological type: Adenocarcinoma
+Tumour location:
+Dominant nodule: 4.5mm nodule in right posterolateral prostate
+Other nodules: Absent
+Volume/Size:  0.015 ml (4.5 mm x 4mm x 2mm x 0.0004) 
+Gleason score: 3+4=7
+Extraprostatic extension: Absent
+Surgical margins:  Clear (1mm)
+Perineural invasion: Absent
+Seminal vesicles: Not involved
+Lymphovascular invasion: Absent
+High grade PIN: Present
+AJCC Prostatic adenocarcinoma staging category (pT) (7th edition):
+pT2a 	Unilateral, one-half of one side or less 
+B. Sections of the appendix show fibrous obliteration of the lumen.  There is no evidence of malignancy.
+C. Sections show 4 lymph nodes with no evidence of malignancy
+D. Sections show a lymph node with a 7 mm deposit of metastatic urothelial carcinoma, with focal glandular differentiation.  There are sheets and nests of tumour cells with focal glandular formation, reminiscent of the previous biopsy (02Z11504). The tumour cells are positive for CK7, and are negative for CK20 and PSA. There is no evidence of extranodal spread.  
+DIAGNOSIS
+A. Cystoprostatecomy:
+	3.5mm deposit of invasive urothelial carcinoma, high grade, in superficial (inner halfof) detrusor muscle, pT2a (AJCC 7th Ed.), margins clear
+	2 perivesical lymph nodes with no evidence of malignancy
+	4.5mm prostatic adenocarcinoma, Gleason score 3+4=7, pT2a (AJCC 7th Ed.), margins clear
+
+B. Appendix: no evidence of malignancy
+C. Right pelvic lymph nodes: 4 lymph nodes with no evidence of malignancy
+D. Left pelvic lymph node: 1 lymph node with a 7 mm deposit of metastatic urothelial carcinoma
+

@@ -1,0 +1,65 @@
+SPR no: 40N545756Z
+MRN no: 4055457
+Site_name: COLLINSVILLE MULTI-PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportdrslwWidth3528tqcEpisode No:  40N545756Z
+4055457.PRZ
+2210 drsstright
+MIERZWIAK, GENEVIEVE
+l108rdrsrrth3ntblLab No:  40N54575
+Hoford
+ghtbrdrw10 llx3420rdrs 10 id4055457
+BUNDABERG  New South Wales   1225
+langnp1033paddr108drw10 ng1033
+7 rdrsvltain Specimen: Tissue
+D.O.B:  17/6/1994
+Sex:  F
+eprdrs3rdrsidth3528Collected: 23/06/2015insrsid8013677  at 18:30
+Location:  Hunter Area Pathology-BASS COAST REGIONAL HEALTH
+plain brdrbbrdrw10 ain
+*ConsultantDocNamePRO TOMMY CRISTOBAL HAMMACK
+vertaltbrdrr33
+08brdrw10 n0Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+lain drs p1033
+ustright
+SUPPLEMENTARY REPORT 3/9/65
+
+HISTORY:
+Pseudomyxoma. DPAM. Appendix small bowel, rectum, bilateral diaphragm, peritoneal disease,  gallbladder.
+MACROSCOPIC:
+&amp;#8220;APPENDIX, GALLBLADDER, DIAPHRAGM, PERITONEAL DISEASE, SMALL BOWEL, RECTUM&amp;#8221;. A segment of large bowel, segment of small bowel, a partial gastrectom y, gallbladder, spleen with attached omentum, appendix, multiple pieces of tissue and multiple pieces of thick mucus. The segment of large bowel measures 210mm in length with circumference up to 65mm. One surgical margin is opened, the  other is stapled. The open surgical margin is presumed to be proximal, the stapled margin is distal. There is peritoneal reflection within the specimen. The peritoneal reflection is located 65mm from the proximal surgical margin and 140 mm from the  distal surgical margin. There are no obvious mucosal lesions. There are multiple nodular lesions identified on the peritoneal surface. There is large nodular lesion identified within the mesentery of the  bowel. It measures up  to 50mm in diameter.
+(1 LS proximal surgical margin; 2 LS distal surgical margin; 3 another section of the bowel with attached lesion in the mesentery; 4-8 RS of the peritoneum attached to the specimen).
+There i s tubular piece of tissue identified within the container measuring 40mm in length with diameter up to 9mm. It probably represents appendix.
+(9-13 whole specimen embedded from distal to proximal).
+There is partial  gastrectomy measuring up 120mm in length with circumference of one surgical margin 1 being 115mm and circumference of surgical margin 2 being 40mm. There are no obvious lesions seen within the stomach.
+(14 RS of the presumed p roximal surgical margin; 15 presumed distal surgical margin; 16 representative from the uneven area of the serosa of the stomach).
+Specimen checked for lymph nodes, no obvious lymph nodes identified. One area suspicious for lym ph nodes is embedded in block 17.
+(17 ?lymph node from rectum).
+There is segment of small bowel in the container, it measures 470mm in length with circumference up to 55mm. The serosal surface of the bowel appear s very uneven with multiple lesions containing mucin. There are also multiple depositions of mucin identified within the mesentery of the bowel.
+(18 RS of margin 1; 19 margin 2; 20&amp;amp;21 RS of the serosa of the bowel; 22&amp;amp;23 RS of  the mesentery).
+The next piece of tissue is spleen with attached probably omentum heavily infiltrated by the mucin. The whole specimen measures 390x180x70mm.
+(24&amp;amp;25 RS of the spleen with the tumour; 26-28 RS of t he omental cake).
+A gallbladder measuring 140x60x45mm. The serosa of the gallbladder is dull and  dusky. On opening of gallbladder, there are multiple small within the lumen. The gallstones measure up to 3mm in diameter. Ther e are multiple pieces of fibrous fatty tissue mixed with mucin identified in the container. They measure an aggregate of 36x30x90mm.
+(32-40 RS; 41 RS of tumour). RS (M-41/SS/ht).
+MICROSCOPICinsrsid2696183 :  (Dr K Paszek)
+Sections show extensive involvement of the specimen by low grade mucinous neoplasm.
+The appendiceal mucosa is replaced by mucinous neoplasm with villiform/papillary architecture and low nuc lear grade. Focally, the mucinous neoplasm extends through the thickness of the muscularis propria, virtually to the level of periappendiceal fat. However, there is no full appendiceal wall thickness perforation in the sections examined.
+There is extensive intra-abdominal low grade mucinous neoplasm. There are deposits of tumour involving the mesentery of the large bowel, the serosal surface of the large bowel, small bowel, stomach, gallbladder, spleen and li ver. There is extensive involvement of omental fat. The deposits are characterised by extensive extracellular mucin and of moderate cellularity characterised by strips of mucinous epithelium with low to intermediate nuclear grade. No high  grade epithelial changes are seen, and no frankly infiltrative architecture is seen.
+Representative sections of the distal (unstapled) margin of the partial gastrectomy show a 10mm neuroendocrine tumour. The tumour infiltra tes from the base of the mucosa, through partial but not full thickness muscularis propria. Tumour is characterised by trabecular and gyriformform architecture and is mitotically inactive. Immunostains including Ki-67 are pending and a fu rther report will follow. The neuroendocrine tumour virtually forms the inked resection margin with only a very thin rim (less than 0.1mm of intervening fibrovascular tissue in the section examined).
+Sections of the small and  large bowel mucosa are unremarkable. Sections of the stomach show chronic gastritis with patchy intestinal metaplasia. The splenic parenchyma is unremarkabl .
+DIAGNOSIS:
+- LOW GRAD E MUCINOUS NEOPLASM OF THE APPENDIX.
+- EXTENSIVE INTRA-ABDOMINAL LOW GRADE MUCINOUS NEOPLASM INVOLVING THE SEROSAL SURFACE OF THE SMALL AND LARGE BOWEL, GALLBLADDER, STOMACH, SPLEEN AND LIVER. TUMOUR DEPOSITS WITHIN MESENTERY AND OM ENTUM.
+- INCIDENTAL 9mm GASTRIC NEUROENDOCRINE TUMOUR EXTENDING INTO BUT NOT THROUGH MUSCULARIS PROPRIA. Ki-67 AND GRADE TO FOLLOW.
+1/8/65 ank
+SUPPLEMENTARY REPORT 3/9/65
+The partial gastrecto my component of the specimen has been further sampled.
+There is generalised moderate chronic gastritis with intestinal metaplasia and mild atrophy in the body. Helicobacter are not seen.
+Immunostains confirm a 9mm neuroe ndocrine tumour. There is positive tumour staining for chromogrannin, synaptophysin, CD56 and CAM5.2 with perinuclear dot staining. There is focal staining for S100. Positive gastrin staining in the adjacent mucosa confirms location in th e antrum. The proliferative index on Ki67 is 2% (800 cells counted). Review of the tumour shows a mitotic rate of 1/10hpf and focal lymphvascular space invasion is seen.
+The features are those of a  grade 1 (WHO 2010) neuroendocrine tumour.
+REVISED DIAGNOSIS:
+- LOW GRADE MUCINOUS  NEOPLASM OF THE APPENDIX.
+- EXTENSIVE INTRA-ABDOMINAL LOW GRADE MUCINOUS NEOPLASM INVOLVING THE SEROSAL SURFACE OF THE SMALL AND LARGE BOWEL, GALLBLADDER, STOMACH, SPLEEN AND LIVER. TUMOUR DEPOSITS WITHIN MESENTERY AND OMENTUM.ar  - INCIDENTAL 9mm GASTRIC NEUROENDOCRINE TUMOUR EXTENDING INTO BUT NOT THROUGH MUSCULARIS PROPRIA. GRADE 1. FOCAL LYMPHOVASCULAR SPACE INVASION.
+
+3/9/65 ld

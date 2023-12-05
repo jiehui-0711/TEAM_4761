@@ -1,0 +1,58 @@
+SPR no: 78R0226855
+MRN no: 78602268
+Site_name: COLLIE DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (27.10.68)
+
+
+CLINICAL:
+Grade 1 endometrioid adenocarcinoma of the endometrium.  Tumour from L anterior fundus and myometrium sampled fresh for endometrial study.  (kt).  15/9/66.
+
+Additional note:
+The lymph nodes are sentinel lymph nodes as per Dr Spier.
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, tubes ovaries and cervix&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 74g.  The uterus measures 70 x 45 x 30mm and has a shiny serosal surface.  The ectocervix measures 30 x 20mm and has an unremarkable surface.  On sectioning there is an irregular, thickened area of endometrium measuring 10 x 5mm and 12 x 6mm on the anterior and  posterior myometrium respectively.  The myometrium measures 15mm in maximum thickness.  The myometrium is unremarkable.  The right fallopian tube measures 40mm in length with an outer diameter of 4mm.  The right ovary measures 25 x 12 x 10mm.  The cut surface is unremarkable.  The left fallopian tube measures 50mm in length with and outer diameter of 5mm.  The left ovary measures 20 x 15 x 10mm.  The cut surface is unremarkable.
+Blocks: 1 to 4 - LS anterior body and cervix; 5 to 7 - all of the thickened area on the anterior body; 8 to 11 - full LS posterior body and cervix; 12 to 17 - all of the thickened area in the posterior body; 18 &amp;amp; 19 - RS of right adnexa (18 - fallopian tube; 19 - ovary); 20 &amp;amp; 21 - RS left adnexa (20 - fallopian tube; 21 - ovary); 22 to 26 - all of the endometrium from anterior body; 27 to 31 - all of the endometrium from posterior body and cervix.
+
+B.  Specimen labelled &amp;quot;Right obturator lymph node&amp;quot;, consists of a single node with surrounding fat measuring 20 x 10 x 4mm.  Serially sectioned and embedded in 2 blocks.  AE.
+
+C.  Specimen labelled &amp;quot;Left internal iliac lymph node&amp;quot;, consists of a single node with surrounding fat measuring 10 x 5 x 4mm.  Serially sectioned and embedded in 1 block.  AE.
+(TO:LM/ta/eh 16/9/65)
+
+
+MICROSCOPIC (Reported by Dr S Yoest):
+A,  The endometrium is extensively sampled.  Sections show an endometrial endometrioid adenocarcinoma confined to the endometrium.  There is focal myometrial invasion associated with an inflammatory reaction and  intraepithelial neutrophils, 1mm through myometrium 10mm thick. Additional blocks of uterus are pending.   Extension into foci of adenomyosis, is also seen.  No lymphovascular invasion is seen.  The adenocarcinoma is composed of back to back tubular glands lined by columnar cells with stratified oval to elongated nuclei with open chromatin and inconspicuous nucleoli (FIGO architecture 1, nuclei 1, overall grade 1).  Definite tubal differentiation is not seen.  The ectocervix and endocervix are uninvolved and unremarkable.
+
+The right and the fallopian tubes and right and left ovaries are unremarkable.  The ovaries show senescent changes.
+
+B. One lymph node shows a single tubular ciliated gland is present within the subcapsular sinus.  The cytological appearance is different from that seen in the endometrial adenocarcinoma and a the appearances are more consistent with a diagnosis of nodal endosalpingosis/mullerian inclusion  favoured rather than metastasis (0/1).
+
+C.  One lymph node shows no evidence of malignancy (0/1).
+
+DIAGNOSIS:
+A.Uterus,  cervix allopian tubes and ovaries
+-  Invasive endometrial endometrioid adenocarcinoma, FIGO grade 1, myometrial invasion 1mm through a wall 10mm thick (additional blocks pending, additional report to follow), extension into focI of adenomyosis, cervix uninvolved, lymphovascular invasion not identified, margin clear.
+-  Mismatch repair enzyme immunohistochemistry result to follow in an additional report.
+-  Unremarkable fallopian tubes and ovaries.
+B.  Right obturator lymph node:
+-  One negative lymph node (0/1).
+-  Focus of endosalpingosis/mullerian inclusion.
+C.  Left internal iliac lymph node:
+-  One negative lymph node (0/1).
+Selected slides shown to Dr S Blaszczyk who concurs.
+
+
+SUPPLEMENTARY REPORT (26.9.69) (Reported by Dr S Teixeira)
+Additional blocks of endomyometrium show adenomyosis and essentially inactive endometrium only.
+
+Immunohistochemistry:
+Mismatch Repair Deficiency Protein Expression (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.&amp;apos;

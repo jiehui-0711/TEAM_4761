@@ -1,0 +1,55 @@
+SPR no: 59D560607X
+MRN no: 5915606
+Site_name: CALVARY PUBLIC HOSPITAL ACT
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian mass Ca 125 3000 Cancer ? Left ovarian cyst, pelvic washings, left ovarian cyst (frozen); right ovarian cyst (frozen); right fallopian tube; uterus cervix left tube and ovary; omentum biopsy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left ovarian cyst&amp;quot; received fresh, consists of a piece of opened haemorrhagic cyst wall measuring 57 x 35 x 20mm.  Mostly thin wall with a soft solid area up to 24mm across.
+Blocks: 1 &amp;amp; 2 - frozen section; 3 to 8 - representative cyst wall (approximately 60% embedded).
+
+B.  Specimen labelled &amp;quot;Right ovarian cyst&amp;quot; received fresh, consists of a nodule 22 x 20 x 18mm with a smooth outer surface.  The cut surface shows a solid nodule with a mucoid centre.
+Blocks: 1 - frozen section; 2 &amp;amp; 3 - remaining all embedded.
+
+C.  Specimen labelled &amp;quot;Uterus cervix left tube and ovary&amp;quot;, consists of a uterus with attached cervix and left fallopian tube and ovary, weighing 128g in total.  The uterus measures 103 x 74 x 51mm and has a dull serosal surface with attached haemorrhage.  The cervix measures 25 x 20mm and have a smooth and shiny ectocervix.  The endometrium measures up to 3mm thick and the myometrium measures up to 24mm thick.  No endometrial or myometrial lesions are identified.  A scar is visible in the lower anterior uterine segment.  The left fallopian tube and ovary weighs 13.7g in total with fallopian tube measuring 60mm in length to a diameter of 8mm and ovary measuring 50 x 22 x 13mm.  A metal clip is identified occluding the fallopian tube lumen.  The serosal surface is dull and haemorrhagic and the cut surface is multicystic.
+Blocks: 1 to 5 - full LS of anterior body and cervix; 6 to 9 - full LS of posterior body and cervix; 10 - LS fimbrial end; 11 - TS fallopian tube; 12 to 16 - all of ovary embedded.
+
+D.  Specimen labelled &amp;quot;Right fallopian tube&amp;quot;, consists of a fallopian tube measuring 53mm in length to a diameter of 10mm.  The serosal surface is slightly haemorrhagic but otherwise smooth and shiny.  The lumen appears patent.  No focal lesions identified.
+Blocks: 1 - LS fimbrial end; 2 &amp;amp; 3 - TS through tube.  AE.
+
+E.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of omental fat measuring 210 x 75 x 15mm.  A firm nodule is identified measuring 13 x 10 x 10mm.  The cut surface of the nodule has a heterogenous fibrous haemorrhagic appearance.  The remaining fatty tissue is lobular in appearance.  No other focal lesions are identified.
+Blocks: 1 to 3 - all of nodule embedded; 4 &amp;amp; 5 - representative fat.
+(TO:AP/eh 19/9/65)
+
+
+FROZEN SECTION REPORT:
+A.  Endometriosis.
+Result to Anaesthetist by Dr O Chandra at 1:20pm on 15/04/2018.
+
+B.  Corpus luteum.
+Result to Anesthetist by Dr O Forrester at 1:25pm on 12/07/2019.
+
+
+MICROSCOPIC: (Reported by Dr O Gretter)
+A.  Paraffin embedded sections confirm the presence of and endometriotic cyst(s) and extensive endometriosis. There are no atypical features. There is no evidence of malignancy.
+
+B.  Paraffin embedded sections confirm the presence of a corpus luteum (cyst). There are no atypical features. There is no evidence of malignancy.
+
+C.  The ectocervix and endocervix show no significant abnormality. The endometrium is mid secretory. The myometrium show a leiomyoma. The serosa shows fibrous adhesions. The left fallopian tube and ovary show focal endometriosis. There is no evidence of complex atypical hyperplasia or malignancy.
+
+D.  Sections of the right fallopian tube show focal endosalpingiosis. There are no atypical features. There is no evidence of malignancy.
+
+E.  Sections show dense fascia with overlying mature fibroadipose tissue. There is patchy active chronic inflammation, small collections of pigmented histiocytes and mesothelial cell hyperplasia. There is no convincing evidence of endometriosis or malignancy.
+
+
+DIAGNOSIS:
+A.  Left ovarian cyst: Endometriotic cyst and endometriosis.
+
+B.  Right ovarian cyst: Corpus luteum (cyst).
+
+C.  Uterus, cervix, left ovary and tube: Mid secretory endometrium, leiomyoma, fibrous serosal adhesions and focal endometriosis of the left ovary and fallopian tube.
+
+D.  Right fallopian tube: Focal endosalpingiosis.
+
+E.  Omental biopsy: No evidence of endometriosis or malignancy.

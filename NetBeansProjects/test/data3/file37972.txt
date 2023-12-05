@@ -1,0 +1,107 @@
+SPR no: 25Z260606G
+MRN no: 10514223
+Site_name: BATLOW/ADELONG MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+<spr><sections><section><name>Pathology Report</name><text>18H08439 (25Z260606G) BENTREM, LANCE Christian
+HISTOPATHOLOGY REPORT
+GOOMALLING HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+CLINICAL NOTES:  Peritonectomy - CRC (preop chemo).  Histo: R hemicolectomy, Anterior resection/uterus, Gallbladder, Spleen, Diaphragm strip,  bilateral, Omentum.
+MACROSCOPIC:
+A. &quot;UTERUS, PERITONEAL DISEASE, SPLEEN, OMENTUM, TUBES, OVARIES, SMALL BOWEL, GALLBLADDER&quot;.
+Peritonectomy specimen with multiple components:
+- The first Is a right hemicolectomy specimen, 210mm in total length. It has terminal ileum 40mm in length, 25mm in diameter; caecum with ascending colon, 180mm in length, 40mm in diameter; appendix - 50mm in length, 6mm in diameter, with mesoappendix, 10mm wide. Mesocolic fat, 170x60x10mm. The serosa of the large bowel is covered in adhesion and there is a puckered at the caecum, 20x5mm. Appendix is also adherent to this region and the serosa is pale and indurated. When opened, there is an ulcerated plaque-like tumour within the caecum, 25x20x10mm. The tumour appears to extend to the puckered surface on the serosa and into adjacent paracolic fat. The appendix is adherent to the serosal surface but no direct involvement of tumour. The tumour lies 55mm to the proximal margin, 130mm from the distal margin with closest radial margin being the vascular pedicle, 60mm. No additional mucosal lesions seen. Multiple lymph nodes present. [please see block for numbers].
+(1 margins proximal and distal LS; 2 appendix tip; 3-6 composite block [3 appendix, proximal end; 4 ileocaecal valve with tumour; 5 appendix, TS, continuous with Block 4; 6 tumour to distal and normal]; 7&amp;8 composite block, tumour to puckered area with overlying adherent fat; 9&amp;10 further samples of tumour to puckered area; 11 ileocaecal vascular pedicle with one trisected apical node; 12 vascular tissue with possible lymph nodes; 13 two lymph nodes and one metastatic deposit in mesocolic fat; 14 five possible lymph nodes; 15 one bisected nodule ?lymph node; 16 second deposit in mesocolic fat [tumour bank block]).
+
+- Second specimen is  an anterior resection specimen with uterus, cervix and adnexae removed and block. It includes:
+Rectosigmoid colon - 150mm in length, 30mm in diameter, with mesocolic and mesorectal fat, 190x40x30mm. Anterior to the rectum is uterus with cervix, 70x40x35mm, with adnexae right fallopian tube with fimbrial end, 65mm in length, 10mm in diameter, with a parafimbrial cyst, 15mm in size attached to fatty stalk, 30mm in length. The right ovary measures 30x30x15mm. The left adnexae consists of left tube with fimbrial end, 45mm in length, 7mm in diameter, with left ovary, 25x15x15mm. The anterior to the uterus is a strip of peritoneal tissue, 420x60x5mm. Multiple small to medium sized plaques are present on the peritoneal tissue, numbering greater than 30, and ranged from 3mm to 40mm in size. Focally, indurated area with fat necrosis is also present. Adhesions are seen between the right ovary and the mesocolic fat and left ovary and mesocolon. The left fimbrial end is adherent to the mesocolic fat and associated with adjacent scarring ?metastatic deposit. On sectioning, both ovaries appear to be replaced by tumour. A metastatic deposit is seen between the rectum and the posterior cervix. The deposit measures up to 30mm in size. The deposit is 20mm from the distal end of the rectum and well clear of proximal margin. No obvious mucosal lesions are seen in the large bowel. On sectioning of the uterus, there is an intrauterine device in-situ and the endometrial cavity is 50mm in length. The lining is flat, 1mm thick, and a fibroid is seen in the anterior wall, up to 5mm. No obvious mass forming lesion is seen.
+(17&amp;18 composite block, adhesion between pieces of rectum with tumour deposit [17 has distal rectal margin]; 19 proximal rectosigmoid margin; 20&amp;21 composite block, posterior cervix and adhesion to the metastatic deposit described earlier; 22 anterior cervix; 23&amp;24 uterine wall body; 25 fundus; 26 right ovary with tumour and surface adhesion; 27 right tube; 28 left ovary with adhesion to large bowel; 29 left tube; 30 peritoneal plaque; 31 further sample from the large metastatic deposit between large bowel close to inferior inked margin).
+
+- Third specimen unopened gallbladder, 70mm in length, 25mm in diameter, with cystic duct opening, 2mm in diameter. A possible cystic node is 4mm. The serosa is smooth and shiny. The mucosa is dark green and velvety. The wall is up to 2mm thick. No gallstones are identified. (32 cystic duct, body, fundus and possible cystic node).
+
+- Multiple strips of diaphragm and peritoneal tissue, ranging from 3-210mm. Plaque-like areas are seen on the peritoneal tissue, up to 40mm.
+- Also present is omentum 250x50x20mm
+- Spleen, 110x70x35mm.
+
+Multiple plaque-like pale areas are seen on the surface of the spleen and the omentum. Largest measures up to 35mm. On sectioning, no additional lesions seen within the splenic parenchyma. (33 samples of the plaque-like area on the peritoneal tissue; 34 ?trisected lymph node; 35&amp;36 spleen; 37 omentum with deposits (tumour bank block)). RS (M-37/JC)
+
+B. &quot;RIGHT DIAPHRAGM&quot;. One pale cream, partially cauterised tissue, 20x10x3mm. Trisected. AE (3-1/JC cy)
+
+MICROSCOPIC: H. Sherles
+
+A. UTERUS, PERITONEAL DISEASE, SPLEEN, OMENTUM, TUBES, OVARIES, SMALL BOWEL, GALLBLADDER:
+
+There is an ulcerated invasive carcinoma in caecum adjacent to ileocaecal valve. The carcinoma is present within a sessile colonic tubular adenoma and appears to be the site of the primary tumour. The tumour invades through colon wall virtually to the peritoneal surface but has not been demonstrated to directly involve the surface in the sections. There are multiple and widespread separate peritoneal metastases.
+
+COLORECTAL CARCINOMA SYNOPTIC REPORT (based on CAP guidelines 2017):
+
+TUMOR SITE: Caecum, adjacent to ileocaecal valve.
+MACROSCOPIC TUMOR PERFORATION: Not identified
+TUMOUR SIZE: 25 mm diameter
+HISTOLOGIC TYPE: Adenocarcinoma
+HISTOLOGIC GRADE: G2-G3: Moderately to poorly differentiated
+TUMOR EXTENSION:  Tumor invades through the muscularis propria into pericolorectal tissues and very close to the peritoneal surface (within 0.1 mm)
+TREATMENT EFFECT: Absent: Extensive residual cancer with no evident tumor regression (poor or no response, score 3).
+SMALL VESSEL LYMPHOVASCULAR INVASION: Not identified
+LARGE VESSEL (VENOUS) INVASION: Not identified
+PERINEURAL INVASION: Not identified
+TUMOR BUDDING: High score (10 or more) Budd count: 20 per 0.785 mm2
+TYPE OF POLYP IN WHICH INVASIVE CARCINOMA AROSE:  Sessile tubular adenoma of colon.
+TUMOR DEPOSITS (PERICOLIC/PERIRECTAL FAT):  Present, several
+MARGINS, R hemicolectomy and Left hemicolectomy:
+- Proximal, distal margins: Not involved, distance of invasive tumor to margin: >10 mm
+- Mesenteric margin Rt hemicolectomy: Not involved, distance of invasive tumor to mesenteric margin: >10 mm
+
+REGIONAL LYMPH NODES: (right hemicolon nodes)
+Number of lymph nodes involved: 1 (a small 2 mm diameter metastasis is present)
+Number of lymph nodes examined: 11 (note mesocolon dissection for lymph nodes was difficult due to tumour nodules in mesocolon)
+
+DISTANT METASTASES (histologically confirmed):
+Present, sites:
+- peritoneum numerous deposits
+- Pouch of Douglas peritoneum, invading into rectal wall to level of rectal submucosa and into external myometrium.
+- Spleen surface and splenic hilar fat
+- Omentum
+- Right ovary (parenchymal and surface) and right fallopian tube surface
+- Left ovary (parenchymal and surface) and left fallopian tube surface
+
+ADDITONAL PATHOLOGIC FINDINGS:
+Ectocervix, endocervix normal.
+Endometrium: inactive, no atypical features.
+Small uterine leiomyoma present.
+Gallbladder normal; cystic duct lymph node negative for tumour.
+Appendix normal.
+Small bowel normal.
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+Immunostains for Mismatch Repair Proteins (MMRP), block A10:
+
+MLH1, PMS2, MSH2, MSH6:   Intact&#160;nuclear expression.
+
+Interpretation of MMRP Immunostains:
+- No loss of nuclear expression of MMR proteins.
+- Low probability of microsatellite instability-high (MSI-H).
+- Lynch syndrome very unlikely.
+- Note:  There are exceptions to the above Immunostain interpretations. These results should not be considered in isolation, and clinical correlation is recommended.
+
+- B. RIGHT DIAPHRAGM: Peritoneal metastasis present.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):  ypT3 N1a M1c
+
+DIAGNOSIS:
+
+A. UTERUS, PERITONEAL DISEASE, SPLEEN, OMENTUM, TUBES, OVARIES, SMALL BOWEL, GALLBLADDER:
+- Invasive Adenocarcinoma colon (caecum adjacent to ileocaecal valve),
+- G2-G3: Moderately to poorly differentiated,
+- 25 mm diameter.
+- Tumor invades through the muscularis propria into pericolorectal tissues and very close to the peritoneal surface.
+- Treatment effect absent: Extensive residual cancer with no evident tumor regression (poor or no response, score 3).
+- High tumour budding score
+- Mesocolon tumour deposits present, several.
+- Margins of right hemicolectomy and left hemicolectomy negative
+- Lymph node metastasis right hemicolon nodes (1/11 nodes positive)
+- Distant metastases present including peritoneum deposits, Pouch of Douglas peritoneum  invading into rectal wall and into external uterine myometrium, spleen surface and splenic hilar fat, omentum, right ovary (parenchymal and surface) and right fallopian tube surface, left ovary (parenchymal and surface) and left fallopian tube surface.
+- MMRP Immunostains positive (Mismatch repair proficient tumour)
+B. RIGHT DIAPHRAGM:
+- Peritoneal metastasis present.
+- - -

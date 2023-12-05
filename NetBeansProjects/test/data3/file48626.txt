@@ -1,0 +1,39 @@
+SPR no: 24R939093T
+MRN no: 24693909
+Site_name: GORDONVALE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Excision of leiomyosarcoma from right side of retroperitoneal, in continuity with right kidney.
+Sutures: single - renal hilum, double - deep, loop - caval margin, long - ureter. Otherwise well.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Sarcoma right retroperitoneum, single stitch renal hilum, double stitch deep, loop stitch caval margin, long stitch ureter&amp;quot;, consists of a kidney with perinephric fat measuring 155 x 100 x 55mm weighing 341g. The ureter measures 55mm in length and 5mm in maximum diameter.  Just adjacent to the inferior pole of the kidney there is a well circumscribed tumour measuring 40 x 30 x 35mm. The lesion has a whorled and pale homogeneous appearance with areas of haemorrhage measuring 15 x 10 x 5mm. The tumour does not appear to invade the kidney or hilar vessels but abuts the renal capsule and ureter. The serosa and Garota&amp;apos;s fascia is intact. No lymph nodes are seen.  No adrenal gland seen.
+Block 1- ureteric margin; 2- hilar margin; 3 &amp;amp; 4- normal kidney; 5 - renal calyces; 6 - tumour to kidney; 7 - tumour to ureter; 8-10 - tumour with margins; 11 - tumour closest to ureter; 12 &amp;amp; 13 - composite sections of haemorrhagic portion; 14 - RS of tumour with haemorrhagic portion; 15 - tumour with adjacent kidney.   (TO:FY/ec 1/8/66)
+
+
+MICROSCOPIC (Reported by Dr F Baurer):
+Sections show a relatively well circumscribed high grade spindle cell neoplasm.  The tumour is hypercellular with spindle cells resembling smooth muscle with moderate to severe pleomorphism.  There are frequent mitotic figures (more than 10 per 10 high power fields) with abundant abnormal mitotic figures.  Coagulative tumor cell necrosis is focally present.  The appearances are consistent with those of leiomyosarcoma.  The tumour is completely excised.  The tumour is 1mm to the closest soft tissue resection margin, which is separated by a thin layer of fibrofatty tissue.  There is no evidence of lymphovascular or perineural invasion.  The ureter is compressed but not obstructed by the tumour.  The kidney is unremarkable and no invasion of kidney is seen.
+
+FNCLCC GRADING CRITERIA:
+Tumour differentiation:
+Score 2	defined histological subtype (see references 1, 2 below).
+
+Mitosis count:
+Score 2	10-19/10 HPF.
+
+Microscopic tumour necrosis:
+Score 2	50% of less.
+
+Histological grading:
+Grade 3: Total score of 6, 7 or 8.
+
+The tumour block best for molecular/genetic testing is:  7
+Immunohistochemical stains are to follow and a supplementary report will be issued.
+DIAGNOSIS:
+Sarcoma right retroperitoneum - High grade sarcoma, consistent with leiomyosarcoma.
+
+
+SUPPLEMENTARY REPORT (21/10/2066):
+The tumour cells are positive for SMA and Desmin.  The stains for MNF-116, SOX10 and HMB45 are negative.  The staining pattern is in keeping with that of leiomyosarcoma.

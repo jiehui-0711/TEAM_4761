@@ -1,0 +1,67 @@
+SPR no: 93V721861G
+MRN no: 9059309
+Site_name: ST GEORGE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+9mm tumour right breast invasive breast cancer.  Previous mastectomy left side for breast cancer. 1.  Right mastectomy stitch marks 12 o&amp;apos;clock; 2.  Sentinel node.  Irregular heart beat, left breast mysectomy.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right SLN&amp;quot;, consists of fatty tissue measuring 38 x 22 x 10mm containing an 8mm lymph node.  Lymph node bisected.  AE.  Blocks: 1 - lymph node bisected; 2 - remaining fat.
+
+B.  Specimen labelled &amp;quot;Right breast&amp;quot;, consists of a mastectomy weighing 380g and measuring 185mm medial to lateral, 150mm superior to inferior and 30mm superficial to deep.  An overlying ellipse of skin measures 170 x 65mm with a nipple measuring 15 x 14 x 7mm.  The superficial superior aspect if inked blue, superficial inferior inked green and deep aspect inked black.  On sectioning within the upper outer quadrant there is a spiculated firm tumour measuring 12 x 10 x 8mm with associated peripheral fat necrosis located approximately 30mm from the nipple in the 11 o&amp;apos;clock position.  The tumour measures 17mm from the nearest deep resection margin.  A second firm area is identified in the 6 o&amp;apos;clock position located 15mm from the nipple measuring 5 x 5 x 3mm.  This lesion measures greater than 20mm from the superficial and deep margin.  There is at least 40mm of fibrous breast tissue between the first and second lesion.  The tissue between the two lesions has irregular grit like ? calcification.  Blocks: 1 &amp;amp; 2 - composite sections through nipple and subareolar tissue including second firm lesion; 3 - tissue medial to tumour; 4 to 6 - sections through tumour; 7 - tissue lateral to tumour; 8 - grit like calcification between tumour one and tumour two; 9 - inner upper quadrant; 10 - inner lower quadrant; 11 - outer upper quadrant; 12 - outer lower quadrant.  Please see diagram for block description.  (TO:AP/eh 6/7/70)
+
+
+MICROSCOPIC (Reported by Dr Z Wilkening):
+A and B.
+
+Invasive carcinoma:
+Site: Right breast, 11 o&amp;apos;clock, 4cm FN
+Type: Invasive ductal carcinoma with focal micropapillary differentiation
+Invasive tumour size:  12mm
+Grade (Modified Bloom &amp;amp; Richardson):  2
+Tubules: 2     Nuclei: 3     Mitoses:  2    Mitotic rate:  10/10hpf.
+Lymphovascular invasion:  Not seen
+
+DCIS component:
+Maximum extent of DCIS:  40mm
+Nuclear grade:   High
+Architecture:  Solid, cribriform, micropapillary
+Necrosis:   Present
+Calcification:  Present
+Degree of DCIS in tumour: Focal
+DCIS in adjacent tissue:  Extensive
+
+Excision Margins:
+Invasive component: &amp;gt; 10mm all margins
+In-situ component: &amp;gt; 10mm all margins
+
+Receptors (Block B4):
+ER:  	Positive
+95% of nuclei stained
+predominant intensity of staining:  strong
+PR:  	Positive
+100% of nuclei stained
+predominant intensity of staining:  strong
+HER2 (Novocastra 10A7):  0
+HER2 SISH:  Performed at Immunology, QUILPIE HOSPITAL Hospital, see separate report.
+Ki-67 index:  15%
+
+Nipple:  No evidence of Paget&amp;apos;s disease
+
+LCIS/ALH:  Present (B8)
+
+Miscellaneous:
+A core biopsy tract, an intraductal papilloma, benign ductal hyperplasia and apocrine change are also present.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1
+Number of sentinel lymph nodes involved by tumour:   0
+
+
+DIAGNOSIS
+A and B. Right breast and sentinel lymph node:
+- 12mm invasive ductal carcinoma with focal micropapillary differentiation, grade 2
+- 40mm intermediate grade ductal carcinoma in situ
+- 1 sentinel lymph node with no evidence of malignancy

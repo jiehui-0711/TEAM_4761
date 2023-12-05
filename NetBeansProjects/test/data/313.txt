@@ -1,0 +1,83 @@
+
+Episode No:  17Y316412F
+179316.LEG
+
+WITHINGTON, FREDRIC'ARDELLA 
+Lab No:  17Y31641
+Sagemont
+STAWELL  New South Wales  6164
+Specimen: Tissue
+D.O.B:  4/9/1991
+Sex:  F
+Collected: 11/02/2013 at 16:36
+Location:  3/9 JENNIE COX CLOSE-DELORAINE DISTRICT HOSPITAL AND COMMUNITY HEALTH SERVICES
+DR DECLAN TYRON MERLE-MARCHITTO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (27.4.63):
+
+
+CLINICAL:
+27mm IDC upper outer quadrant.  Right breast.  Wide local excision + sentinel node biopsy.  Sutures; short superior, long lateral, medium medial.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla central lymph node" consists of a piece of fatty tissue 30mm in maximum dimension.  Three ?lymph nodes identified from 3 to 22mm.  
+Blocks: 1 - two small lymph nodes; 2 - larger lymph node bisected.  
+B.  Specimen labelled "Right breast lesion long lateral, short superior, medium medial" consists of a wide local excision with three sutures in situ designated measuring 65mm (medial to lateral) x 92mm (inferior to superior) x 68mm (superficial to deep).  There is anoverlying ellipse of skin running from superolateral to inferior medial measuring 30mm (medial to lateral) x 75mm (inferior to superior).  The lateroinferior margin is inked blue the superomedial margin is inked green and the deep aspect is inked black.  The specimen is serially sectioned in the transverse plane into thirteen slices from slice one superior to slice thirteen inferior.  The cut surface reveals a firm well circumscribed cream tumour in slices five to eight measuring 18mm (medial to lateral) x 20mm (inferior to superior) x 25mm (superficial to deep).Distance from margins is as follows:  medial margin 8mm, lateral margin 15mm, deep margin 20mm and well clear of the inferior and superior margins.  There is a haemorrhagic area identified in slices nine to twelve measuring 25mm in maximum dimension which appears near the skin.  
+Blocks: 1 & 2 - representative slice one; 3 & 4 - representative slice four; 5 - representative slice five; 6 to 10 - slice six AE; 11 to 13 - representative slice seven; 14 - representative slice eight; 15 - representative slice ten; 16 & 17 - representative slice eleven; 18 - representative slice thirteen (tumour markers on block 7); 19 to 23 - remainder of slice one AE; 24 to 27 - slice two AE; 28 to 31 - slice three AE; 32 to 34 - remainder of slice four AE; 35 to 39 - remainder of slice five AE; 39 to 40 - remainder of slice seven AE; 41 to 45 - remainder of slice eight AE; 46 to 51 - remainder of slice nine AE; 52 to 55 - remainder of slice ten AE; 56 to 59 - remainder of slice eleven AE; 60 to 64 - slice twelve AE; 65 to 74 - remainder of slice thirteen entire specimen AE. (ta 16/4/63)    
+Please refer to attached diagram.(TO: YP; QV/ta  14/4/63) 
+  
+MICROSCOPIC (Reported by Dr D Corolis):
+A, B.  Sections show breast tissue with a 40mm diameter grade 1 infiltrating ductal carcinoma.  There is extensive intermediate grade DCIS outside the tumour. The invasive carcinoma is well clear of excision margins. The DCIS extends very close to the medial margin and is also close to the lateral margin.  The three sentinel lymph nodes are all free of tumour.  A synoptic report follows:
+Invasive carcinoma:
+Site:  Right breast, UOQ, WLE. 
+Type:  Infiltrating ductal carcinoma. 
+Invasive tumour size:  40mm. 
+Grade (Modified Bloom & Richardson):  1
+Tubules: 2     Nuclei:  2    Mitoses:   1   Mitotic rate:  3/10hpf.
+Lymphovascular invasion:   Absent. 
+	    
+DCIS component:  
+DCIS: Present.  
+Maximum extent of DCIS: 60mm.
+Nuclear grade:  Intermediate. 
+Architecture: Cribriform, solid. 
+Necrosis:   Present. 
+Calcification: Present.
+Degree of DCIS in tumour:  <25%. 
+DCIS in adjacent tissue:  Widespread. 
+Excision Margins:  
+Invasive component: 
+Superior >10mm, inferior >10mm, medial 8mm,lateral >10mm, superficial >10mm, deep >10mm.
+In-situ component:
+Superior >10mm, inferior >10mm, superficial 10mm, deep 6mm, medial 1.5mm (block B11), lateral 5mm (block B12). 
+Receptors (Block B7): 
+ER:  Positive.
+	100% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	3% of nuclei stained
+	predominant intensity of staining: Weak.  
+HER2 (Novocastra 10A7): Negative (0/1+).
+Ki-67 index: 10%.
+Nipple:  N/A. 
+LCIS / ALH:  Absent.   
+Miscellaneous: Some atypical columnar cell change and adenosis are also noted. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3.
+Number of sentinel lymph nodes NOT involved: 3.
+Number of sentinel lymph nodes involved by tumour: 0.         
+Lymphnode total:
+Total number of lymph nodes examined (including sentinel node(s)):   3.
+Total number of involved lymph nodes (including sentinel node(s)): 0.
+DIAGNOSIS:  
+A, B.  Right breast wide local excision and sentinel lymph nodes right axilla:
+40mm grade 1 infiltrating ductal carcinoma.  Sentinel lymph nodes negative (0/3).
+pT2  N0. 
+SUPPLEMENTARY REPORT (27.4.63):
+Her-2 ISH has shown a negative (nonamplified, diploid) result.  
+Mean Her-2 copy number per cell:   1.8
+Reported by Dr D Difelice.
+ 
+ 
+  
+
+

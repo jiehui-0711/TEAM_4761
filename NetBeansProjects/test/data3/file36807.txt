@@ -1,0 +1,106 @@
+SPR no: 18J5645046
+MRN no: 233317
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report18J56450 (18J5645046) BOLDWYN, Ruby LINSEY
+HISTOPATHOLOGY REPORT
+BALRANALD MULTI PURPOSE SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+G1 endometrioid adenoca.
+1. Peritoneal washings for cyto.
+2. Uterus, tubes and ovaries.
+3. Omental biopsy.
+4. Right pelvic sentinel node.
+5. Left pelvic sentinel node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND CERVIX&amp;quot;. Consists of uterus with attached cervix, ovaries and tubes weighing 67g together. Serosa appears smooth and shiny.  Anterior inked blue, posterior black.  The uterus was received opened coronally.  Cut section appears irregular and ragged.  It is cut sagittally.
+Anterior myometrium measures 15mm and posterior myometrium 15mm.  On sectioning there is a white irregular endometrial lesion involving at least 50% of the myometrium with a possible foci of necrosis, starts from fundus, anterior and posterior wall and involving lower segment.  No obvious invasion to the cervix identified.  No tumour identified in parametrium.
+
+Right tube measures 40mm in length and 7mm diameter.  Paratubal cyst present, serosa otherwise is smooth and shiny and sectioning is unremarkable.  Right ovary measures 30x15x10mm.  Sectioning is unremarkable.  Left tube measures 45mm and 6mm diameter.  It appears unremarkable.  Left ovary measures 20x15x10mm.  Sectioning is unremarkable.
+
+(1-3 one full face sagittal view left posterior; 4&amp;amp;5 one full face sagittal view right posterior; 6-8 one full face sagittal view left anterior; 9-11 one full face sagittal view right anterior; 12 right parametrium; 13 left parametrium; 14 right tube; 15 right ovary; 16 left tube; 17 left ovary). RS (M-17)
+
+B.  &amp;quot;OMENTAL BIOPSY&amp;quot;. Consists of fibrofatty tissue 20x10x10mm.  Bisected.  AE (2-1)
+
+C.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  Consists of a node 10x7x6mm. Serially sliced. AE (M-1)
+
+D.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Consists of multiple fibrofatty tissue 30x20x15mm.  It contains a lymph node 7x5x6mm.  Sliced and embedded.  AE (M-1/SM 22/5/2067 ank)
+
+MICROSCOPIC:  (Dr. D. Bachta)
+Specimen A:
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid carcinoma
+
+FIGO grade:  2
+
+(architecture grade: 2, nuclear grade:3)
+
+Myometrial invasion:  Invasion into outer half of myometrium
+
+Depth of myometrial invasion:   8mm
+
+Myometrial thickness:   12mm
+
+% of myometrium invaded:   67%
+
+Focality:  Unifocal
+
+Tumour involves:  Fundus, body, lower uterine segment
+(cervical glands, cervical stroma, and parametrium not involved)
+
+Vascular/lymphatic invasion:  Present
+
+Involvement of cervix:  Not involved
+
+Involvement of uterine serosa:  No
+
+Excision margins:  Not involved
+
+Non-tumour uterus:
+Adjacent endometrium:  Nil abnormality
+Adenomyosis:  Not seen
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+
+Lymph nodes:
+Specimen C:  Micrometastasis in one lymph node (0.3mm)
+Specimen D:  Isolated tumour cells in one lymph node
+
+Other tissues:
+Specimen B (Omentum):  Not involved
+
+Pathologic Staging (AJCC/UICC TNM 8, FIGO 2008):
+
+TNM stage:
+pT1b  pN1 pMx
+
+FIGO stage:  IIIC1
+
+DIAGNOSIS:
+UTERUS:  MODERATELY DIFFERENTIATED ENDOMETRIOID CARCINOMA
+OMENTUM:  NO SIGNIFICANT ABNORMALITY
+RIGHT PELVIC LYMPH NODE:   MICROMETASTASIS IN ONE LYMPH NODE EXAMINED
+LEFT PELVIC LYMPH NODE:  ISOLATED TUMOUR CELLS IN ONE LYMPH NODE
+21/5/2069 nh
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (Molecular Oncology LIVERPOOL HOSPITAL; block: A11)
+
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

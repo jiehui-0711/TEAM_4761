@@ -1,0 +1,40 @@
+SPR no: 14T946976O
+MRN no: 020652
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report14T94697 (14T946976O) VACA, Marco
+HISTOPATHOLOGY REPORT
+BOWRAL HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Central mastectomy, long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;CENTRAL RIGHT MASTECTOMY&amp;quot;.
+&amp;quot;Long - lateral, Medium - medial, Short - superior.&amp;quot;
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Re-excision, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  130mm
+Superior to inferior:  35mm
+Anterior to posterior:  90mm
+WEIGHT:  297g
+SKIN:  Yes, it measures 105x40mm
+NIPPLE:  Yes, measuring 10mm
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Standard:  Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial
+Number of slices:  20
+FINDINGS / LESION:  There is a large cavity in the retroareolar aspect of the specimen.  It measures 70 anterior to posterior, 20 superior to inferior, 80 medial to lateral.  The cavity opens onto the skin surface over an area measuring 30mm.  It is 18mm from superior margin, 7mm from inferior margin, 40mm from posterior margin, 16mm from lateral margin and 30mm from medial margin.  Adjacent to the cavity are areas of fat necrosis.  No obvious lesional tissue is identified.  Representative sections taken.
+(1  longitudinal through lateral margin slice 1; 2, 3&amp;amp;4  anterior half cavity slice 3; 5-10  anterior half cavity slice 6; 11  inferior portion cavity slice 5; 12&amp;amp;13  anterior half slice 11 [12  includes nipple]; 14  superior cavity slice 12; 15  anterior slice 14; 16-19  anteromedial aspect cavity slice 16; 20-21  medial aspect cavity slice 17; 22&amp;amp;23  longitudinal anterior half slice 20 medial margin).  RS (M-23/MC 4/2/2068 km).
+MICROSCOPIC:  (Dr E Papa)
+Histology shows the previous biopsy cavity to be formed by maturing fibrous scar tissue and fat necrosis.  Within the immediately adjacent breast tissue are three foci of residual invasive ductal carcinoma consistent with grade 2, with associated intermediate grade DCIS, measuring 7mm, 3mm and 2.5mm.  The 7mm focus lies just deep to the nipple and extends within 2.5mm of the adjacent anterior dermal margin adjacent to the nipple.  The other two foci are at least 7mm clear of the inferior margin.  The remainder of the breast tissue is  otherwise unremarkable, relatively fatty breast tissue.  There is no evidence of Paget&amp;apos;s disease of the nipple.
+
+DIAGNOSIS:
+CENTRAL RIGHT MASTECTOMY -
+- THREE FOCI OF RESIDUAL INVASIVE DUCTAL CARCINOMA WITH DCIS, MARGINS CLEAR.
+6/2/2067 km

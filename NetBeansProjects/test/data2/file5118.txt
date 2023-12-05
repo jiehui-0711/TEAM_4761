@@ -1,0 +1,40 @@
+SPR no: 64R4236807
+MRN no: 6464236
+Site_name: ROMA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report64R42368 (64R4236807) WOFFORD, ROSETTA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Mesothelioma. ?recurrent.
+Frozen section.
+Mesothelioma. Bowel resection + closure of stoma.
+Small bowel. Peritoneum nodule.
+(Please check Ki67).
+
+MACROSCOPIC:
+A. &amp;quot;PERITONEAL NODULE 1&amp;quot;. Consists of a pale nodule, 6x3x3mm. AE (1-1)
+
+B. &amp;quot;PERITONEAL NODULE 2&amp;quot;. Consists of a pale nodule, measuring 5x3x3mm.
+
+(1 frozen section; 2 remaining tissue). AE (M-2)
+
+C. &amp;quot;PERITONEAL NODULE 3&amp;quot;. Consists of a pale nodule, measuring 5mm.
+
+(1 frozen section tissue; 2 remaining tissue). AE (M-2)
+
+Frozen section: &amp;quot;Consistent with mesothelioma&amp;quot; per phone to Theatre 5 at 3:50pm by Dr. R. Sumners on 7/6/68.
+
+D. &amp;quot;PERITONEAL NODULE&amp;quot;. Specimen received in formalin. Consists of three pieces of pale, firm tissue with fatty tissue attached, measuring from 5-7mm in maximal extent. Largest piece bisected.
+
+(1 smaller nodule; 2 larger nodule, bisected [tumour reserved block]). AE (M-2)
+
+MICROSCOPIC:   (Dr R Chamberlin)
+A-D.  Histology of each of these nodules shows similar morphology and appearances consistent with those of malignant mesothelioma.  The tumour consists of a variable admixture of predominantly atypical spindle cells with some foci containing some epithelioid cells with moderate nuclear atypia, prominent nucleoli and easily identifiable mitotic activity.  Occasional small foci of necrosis are present.  There is a fibrous reactive stroma with some inflammatory cells around the periphery.  Immunostains show positivity for Cytokeratin 5/6, Cytokeratin 7, D2-40, WT1, Calretinin, HBME1 and EMA with negativity for Cytokeratin 20, TTF1, MOC31 and BEREP4, consistent with mesothelioma.  Ki67 is difficult to estimate but is approximately 40-50%.
+
+DIAGNOSIS:
+A-D.  PERITONEAL NODULES - MALIGNANT MESOTHELIOMA.
+
+7/11/2064 ank

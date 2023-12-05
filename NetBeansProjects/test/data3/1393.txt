@@ -1,0 +1,88 @@
+
+Episode No:  28D604157N
+281604.DNU
+
+MCFATE, Jere IVAN 
+Lab No:  28D60415
+Harvest Park
+WANGARATTA    4415
+Specimen: Tissue
+D.O.B:  8/1/2011
+Sex:  F
+Collected: 13/05/2063 at 15:54
+Location:  Tissue Pathology and Diagnostic Oncology-PORT BROUGHTON DISTRICT HOSPITAL AND HEALTH SERVICES
+DR INES Ramona STEPHEN-Grich
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+IDC left breast 5 o'c - wide local excision + sentinel node biopsy.  Short superior, long lateral and medium medial.  
+MACROSCOPIC:
+A.  Specimen labelled "Left sentinel node" consists of a large lymph node, 25 x 25 x 10mm.  Macroscopically the cut surface has a pale nodular appearance.  AE 2 blocks.  
+B.  Specimen labelled "Left breast lesion, long lateral, short superior, medium medial" consists of a piece of firm breast tissue with three marking sutures for orientation as above measuring 65mm (medial to lateral) x 60mm (superior to inferior) x 30mm (superficial to deep).  The superior margin is inked red, the inferior margin is inked green, the superficialmargin is inked black and the deep margin is inked blue.  The specimen is serially sectioned from lateral to medial into 8 slices.  On sectioning, in slices 4, 5 and 6 there is a well defined solid white lesion measuring 15mm (superiorto inferior) x 11mm (superficial to deep) x 15mm (medial to lateral).  The rest of the parenchyma has an unremarkable appearance.  Macroscopically the lesion is located 5mm from the superficial margin, 10mm from deep margin and more than 10mm from other margins.  Representative sections taken according to the attached diagram.  
+Blocks:  1 & 2 - lateral margin; 3- inferior of slice 2; 4 & 5 - centre of slice 3; 6 to 8 - slice 4; 9 to 11 - slice 5; 12 & 13 - mid and inferior of slice 6; 14 - inferior slice 7; 15 - medial margin.  (Block 10 reserved block).  (PG/mm 14.5.63)
+MICROSCOPIC (Reported by Dr G Leuty):  
+A.  One (1) lymph node is identified.  The lymph node is involved by metastatic adenocarcinoma and the tumour metastasis measures 1.6mm in diameter.  No extranodal spread is seen.
+B.  Sections show an invasive ductal carcinoma, NOS measuring 15mm in diameter.  The carcinoma scores grade 3 (T3, N-3, M-3).  There is no evidence of lymphovascular invasion.  No DCIS component is seen.  The carcinoma is completely excised.  The invasive carcinoma is 1.5mm to the superficial margin (block B7) and is 8mm to the deep margin (block B10).  The other margins are well clear (more than 10mm).  The tumour cells are positive for ER and PR.  The stain for HER-2 is equivocal (2+ staining).  The rest of breast tissue shows no significant abnormality.
+Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  15mm
+Grade (Modified Bloom & Richardson):  3
+Tubules: 3     Nuclei: 3     Mitoses: 3     Mitotic rate: 20/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component:  The invasive carcinoma is 1.5mm to the superficial margin (block B7) and is 8mm to the deep margin (block B10).  The other margins are well clear (more than 10mm).
+In-situ component:  Not applicable
+Receptors (Block B10): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity ofstaining:  strong
+PR:  Positive
+	50% of nuclei stained
+	predominant intensity of staining:  strong
+HER-2 (Novocastra 10A7):  Equivocal (2+ staining)
+Ki-67 index:  20%
+Nipple:  Not applicable
+
+LCIS / ALH:  Absent
+Miscellaneous:  The rest of breast tissue shows no significant abnormality.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  1
+Numberof sentinel nodes with metastases >2.0mm:  0
+Number of sentinel nodes with metastases <2.0mm:  1
+	Detected by:  H&E
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0
+Extranodal spread:  Absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  1
+SUMMARY:
+A.  Left sentinel node - 1 of 1 lymph node involved by tumour metastasis.
+B.  Left breast lesion
+	Invasive ductal carcinoma, NOS;
+	15mm; grade 3; completely excised;
+	ER positive/PR positive/HER-2 equivocal.
+
+The HER-2 ISH test will be performed at PETER MACCALLUM CANCER CENTRE Hospital and an additional report will be issued.
+
+ADDITIONAL REPORT:  (6.664)
+Blocks were sent to QUEENSLAND CHILDREN'S HOSPITAL Hospital for Her2 In-SituHybridisation analysis, Dr G Dykhoff reports:
+HER2 IHC Result:   Equivocal (2+).
+Signal Detection has been performed for theHer2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roache). 
+Her2 Dual ISH result: POSITIVE (amplified).
+Mean Her2 copy number per cell: 8.55.
+Mean CEP17 copynumber per cell:  2.3.
+HER2/CEP17 ratio:  3.72.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

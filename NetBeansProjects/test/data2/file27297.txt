@@ -1,0 +1,31 @@
+SPR no: 00J874662P
+MRN no: 0038746
+Site_name: GAYNDAH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Large ovarian mass with peritoneal metastasis on imaging.  Primary debulking.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of hardened omental fat, 250 x 180 x 30mm.  Macroscopic tumour is present.  Two representative sections for frozen section.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 to 10 - representative sections of tumour and fat.
+
+FROZEN SECTION REPORT:
+Poorly differentiated carcinoma.
+Phone result to anesthetics registrar by Dr A Thode at 12:24pm on 15/5/17.
+
+B.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a tube with adherent ovary.  The ovary measures 60 x 55 x 35mm and displays fungating tumour emerging from the serosal surface.  The tube measures 50mm in length with a diameter of us up 6mm.  The tube is adherent to the ovary.  Total specimen weight is 37g.  The fimbrial end of the tube is difficult to identify however appears incorporated into the ovarian mass.  The ovarian tumour on sectioning has a solid white appearance and in the area of disruption of the serosal surface has frond-like projections.  The tumour has a prominent myxoid and gelatinous component measuring up to 10% of the total tumour volume.
+Blocks: 1 - possible fimbrial end of tube; 2 &amp;amp; 3 - RS possible tubes; 4 to 10 - RS ovarian tumour.
+
+C.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a ovary with attached tubes.  The tube is adherent to the surface of the ovary and measures 50mm in length with a diameter of up to 10mm.  The serosal surface of the ovary is roughened with velvety tumour present on the serosal surfaces.  The ovary measures 40 x 30 x 20mm.  Total specimen weight is 40g.
+Blocks: 1 - apparent fimbrial end of tube; 2 &amp;amp; 3 - TS adherent tube; 4 to 10 - RS ovary attached to the edge of the ovary is a segment of fat 50 x 30 x 15mm.  There is tumour present within the fat; 11 &amp;amp; 12 - RS tumour in fat adherent to ovary.
+
+D.  Specimen labelled &amp;quot;Pouch of Douglas&amp;quot;, consists of a segment of fibrofatty tissue containing possible tumour measuring 22 x 15 x 5mm.  Specimen serially sliced TS.  AE 1 block.
+(TO:MS/rs 18/7/67)
+
+
+MICROSCOPIC (Reported by Dr A Moir &amp;amp; registrar Dr A Baublitz):
+A.  Sections of the omentum show extensive involvement by high grade serous carcinoma.  The tumour has a predominantly solid architecture however, focal slitlike and papillary architectures are seen.  Extensive necrosis is present.
+B &amp;amp; C.  Sections show high grade serous carcinoma involving ovarian parenchyma and para-adnexal soft tissue.  Where identifiable, the fallopian tube shows no significant abnormality.
+D.  Sections of fibroadipose tissue show involvement by high grade serous carcinoma.
+DIAGNOSIS:
+A &amp;#8211; D.  Omentum, right and left fallopian tubes and ovaries, pouch of Douglas:  High grade serous carcinoma involving omentum, right and left ovaries and para-adnexal soft tissue and pouch of Douglas.

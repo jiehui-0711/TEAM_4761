@@ -1,0 +1,51 @@
+SPR no: 94P431703G
+MRN no: 9464317
+Site_name: ESPERANCE MULTI PURPOSE CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left axillary dissection level 3. 1. Level 1-3. 2. Level 3 nodes. Sarcomatoid lesions - previous sarcoma + melanoma + colon cancer.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left axillary dissection&amp;quot;, consists of an axillary dissection 125 x 87 x 68mm with an overlying ellipse of skin 72 x 11mm. Thirteen lymph nodes which range in size from 5-34mm are identified. 25mm deep to the skin is a tan nodule 80 x 75 x 53mm. At one end of the nodule is a tan/yellow and possibly necrotic area 47 x 31 x 35mm across.
+Block 1- four lymph nodes; 2- three lymph nodes; 3 - three lymph nodes; 4 - one lymph node; 5 - one lymph node bisected; 6 &amp;amp; 7 - one lymph node trisected; 8-19 - composite section of nodule to skin; 20 - reserve block for biobanking. Photos taken.
+
+B.  Specimen labelled &amp;quot;Level 3 tissue&amp;quot;, consists of two pieces of fibrofatty tissue 9-30mm across. Three lymph nodes which range in size from 5-10mm are seen. Block 1- three lymph nodes.
+(TO:YL/ec 18/4/71)
+
+
+MICROSCOPIC (Reported by Dr Z Reiner)
+A. Sections show an 80mm deposit of metastatic undifferentiated (poorly differentiated) malignancy. The tumour consists of infiltrative sheets of poorly differentiated malignant cells with variable epithelioid to spindled morphology. The epithelioid appearing tumour cells have mild to moderate amounts of eosinophilic (focally rhabdoid) cytoplasm. The tumour cell nuclei appear epithelioid to spindled with moderate pleomorphism, round to angulated irregular nuclear membranes and hyperchromasia. Nuclei overlap and touch in areas. In block A16, a focus of markedly atypical bizarre epithelioid tumour cells is seen. Mitoses are readily identified throughout and there are broad sheets and serpiginous foci of tumour necrosis and haemorrhage (with focal dystrophic calcification and scattered cholesterol clefts). Tumour sheets appear separated by variably thick fibrous septae and whilst there are infiltrative foci that extend directly into adipose tissue, much of the tumour deposit appears surrounded by a fibrous pseudocapsule. Whilst the tumour deposit is a presumed lymph node metastasis, underlying nodal tissue is essentially completely effaced. Tumour is at least 0.45mm from the surgical margin (A19). The overlying skin shows no significant abnormality. One separate lymph node shows effacement by necrosis (without involvement by tumour) and eighteen additional lymph nodes show no evidence of malignancy (0/18).
+
+Immunohistochemical stains were performed and the results are as follows:
+Tumour cells positive for: CAM5.2 (perinuclear dot like), desmin (perinuclear dot like), CD56, BCL-6
+Tumour cells negative for: S100, SOX10, synaptophysin, STAT6, CK20, chromogranin, MITF, MIC2, SMA, LCA, CD34, HMB45, MelanA and BCL-6.
+A ki-67 is high (greater than 80%).
+Additional stains performed in 2070 not repeated.
+
+
+COMMENT:
+The 80mm left axillary tumour is a deposit of metastatic (high grade) poorly differentiated malignancy.
+
+The previous history is noted:
+- 2002: External slides reviewed at CONDOBOLIN RETIREMENT VILLAGE (ZM-64-317032) of right upper arm subcutaneous lump which was diagnosed as a monophasic synovial sarcoma.
+- 2013: Skin lesion excised from back and the tissue is examined at HAWKER MEMORIAL HOSPITAL (ZM-64-317032). A diagnosis of superficial spreading melanoma (Breslow thickness 0.5 mm, Clark level III) with a predominance of naevoid cells was made.
+- 2017: Subtotal colectomy at TOTTENHAM HOSPITAL (94P43170) for caecal adenocarcinoma, pT3 N1a Mx R0.
+- 2018: Liver segmental resection at LONG JETTY HEALTH CARE FACILITY (94P43170) for metastatic adenocarcinoma consistent with colorectal primary.
+- 2020: Left axillary and right femoral reaming biopsies: Poorly differentiated malignancy with necrosis; variable cytokeratin, SOX10, S100 positivity; SSYT negative - favour metastatic melanoma, cannot exclude metastatic sarcoma or sarcomatoid carcinoma.
+
+The previous left axillary and right femoral reaming biopsies have been reviewed and show overlapping histopathologic features and morphologic similarity to the current 80mm left axillary lesion. Whilst no demonstrable SOX10 or S100 staining is seen in this current excision, there is persisting positive cytokeratin, desmin and CD56 staining. BRAF, CK14, GFAP and K3K27me3 remain outstanding (other stains performed in 2070 have not been repeated).
+
+Overall, the 80mm left axillary deposit is a poorly differentiated high grade malignancy. Whilst there are similarities in morphology between the recently reported left axillary biopsy, femoral reaming biopsy and this current left axillary excision, there are some differences in the overall pattern of immunohistochemical staining in the tumours, making definitive classification difficult. However, following intra-departmental review, an overall pathologic differential diagnosis is thought to include: a dedifferentiated malignant melanoma; poorly differentiated carcinoma/neuroendocrine carcinoma; poorly differentiated myoepithelial carcinoma, as well as, a malignant sarcomatoid tumour (eg. MPNST). Given that classification of this tumour is difficult and there remains some uncertainy, the case (and previous biopsies from 2070) will be sent to Professor DYLAN RASHID for an additional opinion.
+
+B. Sections of the three level three lymph nodes show no evidence of malignancy (0/3).
+
+
+DIAGNOSIS:
+A. Left axillary dissection:
+- 80mm deposit of poorly differentiated malignancy (difficult to subclassify and sent for additional opinion from Professor Pat).
+- One additional lymph node effaced by necrosis only and 18 reactive appearing lymph nodes.
+- Margin appears clear of tumour (0.45mm).
+
+B. Level 3 tissue: No evidence of malignancy.

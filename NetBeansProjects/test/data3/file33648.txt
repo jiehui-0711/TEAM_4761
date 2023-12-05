@@ -1,0 +1,76 @@
+SPR no: 64X838319D
+MRN no: 649838
+Site_name: COOKTOWN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left breast 5 o&amp;apos;c IDC.  Wide local excision + sentinel node biopsy + shave of inferior margin.  Short superior long lateral medium medial suture on cavity of shave of inferior margin.  Sutures.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left axilla sentinel node biopsy&amp;quot;, consists of a fat covered lymph node, 25mm in maximum dimension.  The specimen is serially sectioned and all embedded in 2 blocks.
+
+B.  Specimen labelled &amp;quot;Left breast lesion long - lateral short - superior medium - medial&amp;quot;, consists of a piece of fibroadipose tissue, 65 x 43 x 40mm.  There are three sutures orientating short superior medium medial and long lateral.  The specimen is inked as follows:  Superficial blue, deep black, superior red and inferior green and serially sectioned from medial to lateral into 11 slices.  On sectioning there is a firm sclerotic tumour within slices 5 &amp;amp; 6 measures 12 x 12 x 10mm.  The margins are as follows:  9mm deep, 5mm inferior, 7mm superficial, 15mm superior, 50mm lateral and more than 20mm medial.  The rest of the breast tissue is fibrofatty.  Please see diagram.  Blocks: 1 to 2 - slice one lateral margin; 3 &amp;amp; 4 - slice three; 5 to 7 - slice four; 8 to 10 - slice five; 11 to 13 - slice six; 14 - inferior half of slice eight; 15 - slice nine; 16 - slice eleven medial margin.
+
+C.  Specimen labelled &amp;quot;Shave of inferior margin suture on cavity&amp;quot;, consists of a piece of fibroadipose tissue, 45 x 25 x 10mm.  There is a suture on one flat surface designated the cavity which is inked red and the opposite surface inked black.  On sectioning, no discrete lesion is seen macroscopically.  The specimen serially sectioned and all embedded in 2 blocks.
+(TO:JL/eh 15/1/66)
+
+
+MICROSCOPIC (Reported by Dr Q Weiglein):
+A to C.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  12mm
+Grade (Modified Bloom &amp;amp; Richardson):  3
+Tubules: 3     Nuclei: 3     Mitoses: 3     Mitotic rate: 16/10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  Scattered within invasive carcinoma
+Nuclear grade:  High
+Architecture:  Comedo and cribriform
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  Less than 20%
+DCIS in adjacent tissue:  Absent
+
+Excision Margins:
+Invasive component:  The invasive carcinoma is 2mm to the superior margin (block B11), 2mm to the inferior margin (block B9) and 6mm to the superficial margin (block B10).  The other margins are well clear.
+
+In-situ component:  The DCIS is 0.5mm to the superficial margin (block B8), 0.5mm to the superior margin (block B11) and 5mm to the superior margin (block B8).  No intervening normal breast ducts are seen.  The other margins are well clear.
+
+Receptors (Block B10):
+ER:  Positive
+85% of nuclei stained
+predominant intensity of staining:  strong
+PR:  Negative
+HER2 (Novocastra 10A7):  Positive (3+ staining)
+HER SISH:  Performed at UROLOGY OPD, KYOGLE MEMORIAL MULTI PURPOSE SERVICE Hospital, see separate report.
+Ki-67 index:  30%
+
+Nipple:  Not applicable
+
+LCIS / ALH:  Absent
+
+Miscellaneous:
+- Specimen C (shave of inferior margin) shows benign fibrocystic change.  There is no evidence of malignancy.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:   1
+Number of sentinel lymph nodes involved by tumour:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+
+DIAGNOSIS:
+A.  Left axilla sentinel node biopsy - No evidence of malignancy (0/1).
+
+B.  Left breast lesion - Invasive ductal carcinoma.
+
+C.  Shave of inferior margin - Fibrocystic change.

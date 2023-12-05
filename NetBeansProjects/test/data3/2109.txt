@@ -1,0 +1,31 @@
+Episode No:  83Y528914T
+8395289.EMT
+
+Vittorini, Oren 
+Lab No:  83Y52891
+Royall
+WANGARATTA  Western Australia  3488
+Specimen: Tissue
+D.O.B:  20/6/2033
+Sex:  F
+Collected: 03/04/2064 at 08:14
+Location:  Molecular Oncology Unit-BOWRAL HOSPITAL
+DR HORACE MAXIMO Dolly
+Distribution:   FILE-COPY
+CLINICAL:
+Gastric lymphoma.   Gastrectomy for gastric lymphoma.  Background of Blooms syndrome.  
+MACROSCOPIC:
+A.  Specimen labelled "Retroduodenal node" consists of a lymph node measuring 10 x 4 x 5mm.   BAE 1 block.  
+  
+B.  Specimen labelled "Total gastrectomy" consists of a stomach measuring 130 x 60 x 35mm.  A small amount of fatty tissue is noted measuring 50 x 20 x 10mm.  Omentum is noted along the greater curve measuring 160 x 160 x 30mm.  Rim of oesophageal margin is inked black.  Stapled distal margin inked blue following the removal of staple lines.   70mm away from the proximal margin, 40mm away from the distal margin is a large ulcer with whorled edge measuring 40 x 40mm is noted within the body of stomach.  On the cut surface is a tumour measuring 6mm in depth combined within the muscularis propria.  Two enlarged lymph nodes measuring 30 x 20 x 10mm and 30 x 10 x 10mm identified within the lesser curve fatty tissue.  The cut surface of both lymph nodes is pale and fleshy.  A lymph node measuring 6 to 20mm in maximum extent is identified along the greater curve.  Separate to the stomach two pale firm nodules ?tumour, ?lymph node measuring 3mm in maximum extent is noted on thesurface of the omentum.  
+Blocks: 1 -LS proximal margin; 2 - LS distal margin; 3 to 5 - TS of tumour through the centre; 6 - LS of tumour with whorled edge and adjacent tonormal gastric mucosa; 7 - RS and TS fundus; 8 - RS TS of body; 9 - RS TS pylori; 10 & 11 - representative TS of two lymph nodes from lesser curve; 12 to 15 - lymph nodes from the greater curve (block 12 - single node bisected; 13 - two nodes; 14 - two nodes; 15 - three nodes); 16 - two nodules on omentum ?lymph node ?tumour deposits.   (XS/ta 3/5/64) 
+MICROSCOPIC (Reported by Dr V Huch): 
+A. Sections show a mildly enlarged lymph nodes sinus histiocytosis.  There is no convincing evidence of lymphoma present.
+B. Sections of the gastric lesion show diffuse large B cell lymphoma.  There is a transmural, sheet-likeinfiltrate of atypical, medium to large lymphoid cells with pleomorphic nuclei and coarse chromatin.  Scattered mitoses are seen.  The atypical lymphoid cells are positive for CD20. CD3, CD5, CD10, bcl-2 and cyclin D1 are negative. Ki67 index is approximately 80%. Occasional small clusters of follicular dendritic cells are present on CD21 staining.
+No lymphoepithelial lesions are seen in the gastric mucosa.
+Mild chronic gastritis with mild focalintestinal metaplasia is present.  No Helicobacter pylori are identified.
+Enlarged lymph nodes with partial involvement by diffuse large B cell lymphoma are present.
+DIAGNOSIS
+A. Retroduodenal lymph node: no significant abnormality
+B. Total gastrectomy: diffuse large B cell lymphoma
+

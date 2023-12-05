@@ -1,0 +1,50 @@
+SPR no: 68H041218T
+MRN no: 6820412
+Site_name: CRANBOURNE INTEGRATED CARE CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: MSI IMMUNOHISTOCHEMISTRY 6.9.2066
+Dr Q Treamer
+CLINICAL:
+Endometrial cancer TLH BSO + PLND, cholecystectomy, hyperthyroid (MNG) GORD.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, tubes and ovaries&amp;quot;, consists of a previously sagittally opened uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 55g in total.  The uterus measures 70 x 40 x 35mm with a smooth shiny serosal surface.  The ectocervix measures 35 x 25mm and shows no significant abnormality.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.   On sectioning, the endometrium measures up to 8mm in maximum thickness, and the myometrium is 24mm in maximum thickness.  The thickest area of endometrium is at the fundal aspect of the endometrial cavity, and represents tumour which appears to extend to a depth of 15mm.  The tumour appears clear of the serosal surface, and does not appear to extend into the lower uterine segment.  A single 11mm fibroid is noted in the posterior myometrium, which has no atypical features.  The left fallopian tube, 45 x 5 x 4mm, and left ovary, 24 x 18 x 8mm, show no significant abnormality.  The right fallopian tube, 43 x 6 x 5mm, and right ovary, 25 x 18 x 10mm, show no significant abnormality.
+Blocks: 1 to 4 - midline TS anterior uterus and cervix; 5 to 8 - midline LS posterior uterus and cervix (block 8 - deepest invasion); 9 - tumour; 10 - tumour and fibroid; 11 - LS complete fimbrial end left fallopian tube, and mid TS; 12 - left ovary; 13 - LS complete fimbrial end right fallopian tube, and mid TS; 14 - right ovary.
+
+B.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of fibroadipose tissue, 60 x 45 x 25mm in aggregate, containing lymph nodes.
+Blocks: 1 &amp;amp; 2 - fibroadipose tissue, lymph nodes as seen; 3 - single lymph node, bisected.
+
+C.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of fibroadipose tissue, 68 x 40 x 28mm in aggregate, containing lymph nodes.
+Blocks: 1 &amp;amp; 2 - lymph nodes as seen; 3 - single lymph node, bisected; 4 - single lymph node, bisected.
+(TO:JB/eh 9/2/65)
+
+
+MICROSCOPIC: (Reported by Dr Q Valer)
+A.  Sections of the uterus show a grade 2 endometrioid endometrial adenocarcinoma. The carcinoma invades up to 10mm into a uterine wall 12mm thick. The carcinoma consists predominantly of infiltrative malignant glands, however, in approximately 20% of the tumour, infiltrative sheets of tumour extend into the myometrium. There is focal lymphovascular space invasion. There is no involvement of the overlying uterine serosa, lower uterine segment or cervix. The myometrium contains benign leiomyomas. There is a focus of serosal endometriosis/endosalpingiosis. The cervix and bilateral ovaries and fallopian tubes show no significant histologic abnormality.
+Representative slides seen with Dr Q Bencivenga.
+
+B.  Sections of the ten left pelvic lymph nodes show no evidence of malignancy (0/10).
+
+C.  Sections of the eleven right pelvic lymph nodes show no evidence of malignancy (0/11).
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, tubes and ovaries:
+- Grade 2 endometrioid endometrial adenocarcinoma.
+- Focal lymphovascular space invasion.
+- No evidence of serosal, cervical or adnexal involvement by adenocarcinoma.
+B.  Left pelvic lymph node: No evidence of malignancy in ten lymph nodes (0/10).
+
+C.  Right pelvic lymph node: No evidence of malignancy in eleven lymph nodes (0/11).
+
+MSI markers are being performed and a supplementary report will be issued.
+
+
+***SUPPLEMENTARY REPORT: MSI IMMUNOHISTOCHEMISTRY 5.7.2066
+Dr Q Nuessen
+Immunohistochemistry for MSI markers was performed and the results are as follows:
+MLH1 	Loss of nuclear staining
+PMS2 	Loss of nuclear staining
+MSH6	Preservation of nuclear staining
+MSH2	Preservation of nuclear staining
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

@@ -1,0 +1,53 @@
+
+Episode No:  09F016547J
+091016.NMT
+
+SIZAR, HOWARD 
+Lab No:  09F01654
+Runford
+RENMARK  TAS  5084
+Specimen: Tissue
+D.O.B:  24/8/1993
+Sex:  M
+Collected: 28/08/2013 at 08:26
+Location:  St Vincent-BATLOW/ADELONG MULTI PURPOSE SERVICE
+DR JAXON AL-KARSTEN
+Distribution:   FILE-COPY
+
+CLINICAL:
+Ca prostate.  Prostate SV.  G7 L base. 
+MACROSCOPIC:
+A.  Specimen labelled "Prostate", consists of a prostate measuring 45 x 38 x 35mm and weighing 29.9g.  The left seminal vesicle measures 15 x 15 x 10mm, however no definite right seminal vesicle identified. The ? left vas measures 7mm in length while the ? right vas measures 8mm in length.  The left half is inked blue, the right half is inked black with anterior red.  The prostate is transversely sectioned into four slices.  Slice 1 (apex) and4 (base) are further parasagittally sectioned. The specimen is AE.  Blocks 1-7 - slice 1 (apex) from right to left; 8 & 9 - slices 2and 3; 10-18 - slice 4 (base); 19 - left vas. AE.  Please refer to attached diagram.  Blocks 8 and 9 were subsequently subdivided into quadrants and embedded clockwise from right anterior with nicks medial (blocks 8-1 to 9-4).
+B.  Specimen labelled "Bladder neck biopsy", consists of an irregular tan piece of tissue measuring 13 x 10 x 10mm.  Serially sectioned, AE 1 block. 
+(TO: RF;BL/ec 29.10.63) 
+MICROSCOPIC: (Reported by Dr A Hobday) 
+The entire prostate and seminal vesicle have been embedded and examined.  Sections show two separate small foci of acinar adenocarcinoma with an overall Gleason score of 3+4=7 in the left and right posterolateral mid prostate.  The pattern 4 carcinoma is present focally in the left mid posterolateral prostate and comprises 5% of the tumour.  Multiple levels in this area and in the left base of prostate have been examined and no dominant pattern 4 carcinoma is identified.  Specimen B comprises a nodule of benign prostatic tissue and fibromuscular stroma in which there is no evidence of malignancy.   No thick bundles of smooth muscle are seen.  A synoptic report follows.
+
+Specimen:  Prostate and seminal vesicles
+Histological type:  Acinar adenocarcinoma
+Tumour location:
+Dominant nodule: Left mid posterolateral
+	Non-dominant (>10mm): Absent
+	Smaller nodules: Right mid posterolateral
+Volume/Size:	0.03ml (3.5mm x 3.2mm x 6mm x 1 slice x 0.0004) 
+
+The tumour is present in two consecutive slices but is cutting out early in the second slice, therefore one slice is used in the calculation above.
+Gleason score: 3+4=7  (95% 3 , 5% 4)
+Extraprostatic extension: Absent
+Surgical margins: Clear
+Perineural invasion: Absent
+Seminal vesicles: Not involved
+Lymph nodes: N/A
+Lymphovascular invasion:  Absent
+Other:  Patchy high grade prostatic intraepithelial neoplasia (PIN) is present.
+Stage (AJCC/UICC TNM system, 7th edition)
+pT2c Bilateral disease 
+pNX Regional lymph nodes not sampled. 
+MX Cannot be assessed histologically
+
+DIAGNOSIS:
+A & B.  Radical prostatectomy and bladder neck biopsy:
+-  Acinar adenocarcinoma, Gleason score 3+4=7; margins clear.
+-  Stage pT2c NX MX.
+-  Specimen B is benign prostatic tissue.
+

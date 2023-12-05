@@ -1,0 +1,35 @@
+ 9497121.VFK
+MOULD, KENDRICK
+94Y71218
+
+Last edited : 14/2/2062		Page: 2
+
+CLINICAL:
+Ca prostate for radical prostatectomy.  Hypertension. 
+MACROSCOPIC:
+Specimen labelled "Prostate", consists of a prostate gland weighing45g and measuring 50mm from medial to lateral, 35mm superior to inferior and 30mm superficial to deep. The external surface is ragged at the anterior margin and dusky. The right seminal vesicle measures 10 x 10 x 5mm. The right vas deferens measures 10mm in length and 5mm in maximum diameter. The left seminal vesicle measures 10 x 10 x 5mm. The left vas deferens measures 15mm in length and 5mm in maximum diameter.The prostate is serially sectioned from the apex to the base into five slices - slice 1 apex, slice 5 - base.  On section, the cutsurface has a white and solid appearance with small cystic areas.  The specimen is AE according to the attached diagram.  Blocks 1-9 - apex; 10 - slice 2; 11 - slice 3; 12 - slice 4; 13-23 - base; 24 - right vas deferens surgical margin; 25 - rest of right vas deferens; 26 - right seminal vesicle; 27 - left vas deferens surgical margin; 28 - rest of vas deferens; 29 - left seminalvesicle.  (TO: UA: FW/ec 1.2.62) 
+ 
+MICROSCOPIC: (Reportedby Dr X Lempicki) 
+Histological type: adenocarcinoma (NOS), small acinar type
+Tumour location: left lateral
+Dominant nodule:  apex to base, left anterior / lateral
+	Non-dominant (>10mm): Absent
+	Smaller nodules: Present
+Volume/Size:	6ml (25mm x 20mm x 30mm x 0.0004) 
+Gleason score: 3 + 4 = 7
+Extraprostatic extension:Absent
+Surgical margins: Negative
+Perineural invasion: Present (blocks 11, 17, 22)
+Seminal vesicles: Not involved
+Lymph nodes: Not submitted
+Lymphovascular invasion: Absent
+DIAGNOSIS:
+- Adenocarcinoma, Gleason score 3 + 4 = 7
+- Stage (AJCC/UICC TNM system, 7th edition)
+pT2c Bilateral disease 
+pNX Regional lymph nodes not sampled. 
+MX Cannot be assessed histologically
+
+CONCLUSION
+Prostate (radical prostatectomy): Prostatic adenocarcinoma Gleason score 3 + 4 = 7, perineural invasion present.
+

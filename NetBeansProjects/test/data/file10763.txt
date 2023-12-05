@@ -1,0 +1,35 @@
+SPR no: 35B325662R
+MRN no: 3503256
+Site_name: PETER MACCALLUM CANCER CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  35B325662R
+3503256.SHR
+
+THALLS, THEA
+Lab No:  35B32566,35B32566
+Van Ness
+BANORA POINT  QLD  1218
+Specimen: Fluid,Tissue
+D.O.B:  27/12/2006
+Sex:  F
+Collected: 11/03/2016 at 08:11
+Location:  Hunter Area - BOOROWA MULTI PURPOSE SERVICE HOSPITAL
+DR TERRY KORY SANSCHAGRIN
+Distribution:
+CLINICAL:
+Pelvic mass, raised Ca125.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left tube + ovary&amp;#8221; consists of an ovary measuring 80 x 65 x 60mm with a white whorled cut surface.  Serosa is intact.  Attached fallopian tube measures 55mm.  Two pieces for FS.
+Blocks:  1 &amp;amp; 2 - frozen sections; 3 - fallopian tube; 4 - sections of ovary away from the mass; 5 to 8 &amp;#8211; representative of the mass.
+FROZEN SECTION REPORT:
+Fibroma.
+Result to Anaesthetist by Dr I Papale/Dr I Jergenson at 9:46am on 11.03.2016
+B.  Specimen labelled &amp;#8220;Uterus, cervix, right tube and ovary&amp;#8221; consists of a uterus with attached cervix, right fallopian tube and ovary, weighing 36g in total.  The uterus measures 68 x 35 x 25mm and has a smooth, shiny serosal surface.  The ectocervix measures 20 x 15mm and has an unremarkable surface.  On sectioning, the endometrium is less than 1mm in maximum thickness and the myometrium is 13mm in maximum thickness.  The myometrium is unremarkable.  The right fallopian tube measures 50mm in length and up to 7mm in diameter.  The right ovary measures 25 x 15 x 6mm and has unremarkable cut surface.
+Blocks:  1 to 3 &amp;#8211; full LS of anterior body and cervix; 4 to 6 &amp;#8211; full LS of posterior body and cervix; 7 &amp;#8211; right fallopian tube; 8 &amp;#8211; right ovary.  (HM/rt 16.5.66)
+MICROSCOPIC (Reported by Dr I Degrazio):
+A.  Paraffin sections confirm a fibroma of the ovary.  The remainder of the ovary shows scattered small collections of Leydig cells and small non-specific non-caseating granulomas.  The fallopian tube shows no significant abnormality. There is no evidence of malignancy.
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows no significant abnormality.  The right ovary shows small collections of Leydig cells and scattered small non-specific non-caseating granulomas.  The fallopian tube shows no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Left tube and ovary:  Fibroma.
+B.  Uterus, cervix, right tube and ovary:  No significant abnormality.

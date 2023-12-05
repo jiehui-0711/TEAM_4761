@@ -1,0 +1,103 @@
+SPR no: 78M263632Y
+MRN no: 784263
+Site_name: TEMORA HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportAccession Number: 78M263632Y
+Laboratory Number: 78M26363,78M26363
+SEALS HISTOPATHOLOGY REPORT
+
+HISTORY:
+GI endometrial adenoca. L pelvic node. R pelvic node, omental biopsy, uterus with ovaries and tubes.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;. Two irregular nodes measuring  6mm and 10mm. AE (2-1).
+
+B. &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;. An irregular node measuring  15mm in maximum extent. Transversely sectioned showing no obvious tumour. AE (4-1).
+
+C. &amp;quot;OMENTAL BIOPSY&amp;quot;. An unorientated piece of fatty tissue measuring  45x30x6mm. There is no tumour or suspicious areas identified on inspection or sectioning. AE (M-2).
+
+D. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. A uterus with attached bilateral fallopian tubes and ovaries and cervix weighing 100g total. The uterus measures 55mm from medial to lateral, 80mm from fundus to cervix and 40mm from anterior to posterior. The tubes appear to have been ligated bilaterally. The right fallopian tube measures 45mm in length and 7mm in diameter with some small parafimbrial cysts present measuring  up to 5mm in maximum extent. The right ovary measures 35x10x10mm and has an adjacent loculated cyst measuring 15mm in maximum extent. The left fallopian tube measures up to 40mm in length and 6mm in external diameter, the left ovary measures up to 30x10x10mm. The cervix measures 35mm in diameter and has a blue discoloration seen. The serosal surface of the uterus is unremarkable. Anterior cervical margin inked blue, posterior cervical margin inked black. On sectioning centred on the fundus is a necrotic exophytic tumour which measures up to 35mm from medial to lateral, 25mm superior to inferior, and 15mm thick. It does not appear to extend more than 50% of the myometrium thickness. The myometrium measures 15mm in maximum extent. The tumour does not involve the lower uterine segment. On sectioning the tumour appears to approach the left cornu, but does not involve the right cornu. On sectioning the ovaries are unremarkable and the associated ovarian cyst is smooth walled and filled with clear fluid. On sectioning the myometrium there is no further mass lesions identified.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3-5 anterior cervix to fundus [notches inferior]; 6-8 posterior cervix fundus [notches inferior]; 9 LS and TS including fimbrial end right fallopian tube; 10 RS TS right ovary including cyst; 11 RS TS and LS including fimbrial and left tube; 12 RS TS left ovary; 13 further tumour; 14 left cornu; 15&amp;amp;16 paired; left lateral side tumour; 17 tumour reserve block). RS (M-17/EE/ht).
+
+MICROSCOPIC:    (Dr S Walkowiak)
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  1
+
+(architecture grade: 1 , nuclear grade: 2 )
+
+Myometrial invasion:  present, inner half
+
+Depth of myometrial invasion:   5mm
+
+Myometrial thickness:   16mm
+
+% of myometrium invaded:   31%
+
+Focality:  uniofocal
+
+Tumour involves:  fundus and left cornu
+
+Vascular/lymphatic invasion:  not identified
+
+Involvement of cervix:  not present
+
+Involvement of uterine serosa:  not present
+
+Excision margins:  clear
+
+Non-tumour uterus:
+Adjacent endometrium:  atrophic
+Polyps:  not present
+Adenomyosis:  minimal
+
+Adnexae:
+Left fallopian tube:  not involved
+Right fallopian tube: not involved
+Left ovary:  not involved
+Right ovary:  not involved
+
+Lymph nodes:
+Nodes involved:  	0
+Total number:  	3 (2 left pelvic, 1 right pelvic)
+
+Other tissues:
+D. The omental biopsy shows no evidence of malignancy,
+
+Comment:
+IHC for MMR proteins will follow.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1a, pN0 pMx
+
+FIGO stage: 1A
+
+DIAGNOSIS:
+A. LEFT PELVIC LYMPH NODE - NO MALIGNANCY IN 2 NODES.
+B. RIGHT PELVIC LYMPH NODE - NO MALIGNANCY IN 1 NODE.
+C. OMENTAL BIOPSY - NO EVIDENCE OF MALIGNANCY.
+D. UTERUS, BILATERAL TUBES AND OVARIES - GRADE 1 ENDOMETRIOID ADENOCARCINOMA, FIGO STAGE 1A.
+22.6.66
+SUPPLEMENTARY REPORT:
+
+Immunostains for MSI proteins (R.R. Donnelley South Eastern Area; block:D8)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: weak staining, probably normal
+MSH6: weak staining, probably normal
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+15.7.66

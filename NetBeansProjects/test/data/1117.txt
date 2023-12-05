@@ -1,0 +1,86 @@
+
+Episode No:  96A063552Q
+9600635.PFQ
+
+WHITCOME, Abel 
+Lab No:  96A06355
+Kamena
+WAUCHOPE  TAS  3179
+Specimen: Tissue
+D.O.B:  10/5/1989
+Sex:  M
+Collected: Unknown at :
+Location:  DAYSURGERY UNIT-HESSE RURAL HEALTH SERVICE
+DR Louie Darrisaw
+Distribution:   FILE-COPY
+CLINICAL:
+Descending colon cancer, anterior resection.  AF, CABG, lung Ca, Rt upper lobectomy, anaemia, type 2 diabetes, cardiac ablation.  
+MACROSCOPIC:
+Specimen labelled "Left hemicolectomy" consists of a segment of colon, 110mm long and up to 70mm in circumference with attached mesenteric fat, 125 x 70 x 40mm.  There is circumferential tumour with a polypoid/fungating appearance, 44 x 65 x 20mm.  The tumour is 26mm from one resection margin and 55mm from the other resection margin.It is well clear of the radial resection margin. The tumour has a firm cut surface with mucoid areas (approximately 40 to 50% of the tumour).  The serosa overlying the tumour is smooth.  Extra muscular extension of tumour appears to bepresent focally (block 16).  There is a sessile polyp 10mm in maximum dimension, 15mm from the tumour and 32mm from the a resection margin. There are several lymph nodes within the mesenteric fat.
+Blocks:  1 - margin further from the tumour (shave margin); 2 - margin closer to the tumour (LS); 3 - sessile polyp bisected; 4 & 5 - transverse sections of tumour and serosa; 6 - longitudinal section of tumour and adjacent mucosa; 7 - TS tumour and adjacent lymph node; 8- TS tumour and adjacent lymph node (same lymph node as in block 7); 9 - TS tumour; 10 - one lymph node sliced; 11 - apical lymph node trisected; 12 - one bisected lymph node; 13 - one sliced lymph node; 14 - one bisected lymph node; 15- nodes as seen; 16 - transverse section tumour; 17 - TS tumour, reserved block for tumour banking.  (HM/mm 14.6.62) 18 & 19 Additional nodes, each one node bisected.
+MICROSCOPIC:  (Reported by Dr Y Menitz)
+Sections show an ulcerated moderately differentiated invasive mucinous adenocarcinoma.  A synoptic report forcolon carcinoma follows:
+Macroscopic Description
+
+Site of tumour:  	Descending colon	
+Maximum tumour diameter:                            65	mm
+Distance of tumour to nearer cut end:	   26mm
+Tumour perforation:	No
+Microscopic Description
+
+Type
+Mucinous adenocarcinoma
+
+
+Differentiation by predominant area
+Moderately differentiatied: the tumour is composed predominantly of well formed glands plus nest and cords of malignant cells within an abundant extracellular mucinous stroma (>50% mucinous).  No significant signet ring differentiation is seen.
+Local invasion
+pT3	Beyond muscularis propria
+The tumour contiguously extends into mesocolic fat (eg block 9)
+Tumour involvement of margins
+Cut ends:	Not involved
+Non peritonealised circumferential margin:
+	Not applicable
+Lymphocytic infiltrate
+Not assessed
+Lymph nodes
+Number of lymph nodes present:  12	
+Number of lymph nodes involved:  4 (blocks 8, 10, 15)	
+One (1) of the involved lymph nodes shows a focus of extranodal extension 0.3mm in diameter extending 0.3mm beyond the lymph node (block8).
+Apical lymph node: negative
+pN2a	Metastases in 4-6 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities
+Adenomas	Type: Tubulovillous adenoma with moderate to high grade dysplasia (32mm from resection margin)
+Number:           One (1) 
+Residual tumour status
+R0	No residual tumour
+
+Summary - TNM 7th Edition 2010
+pT3	pN2a	pMx	(cM)	R0	
+
+Mismatch Repair Deficiency (MMRD) Status
+Immunoperoxidase stains for MSI proteins (Sealed Air Corporation SARINA HOSPITAL)
+				
+MLH1		Loss of staining (abnormal)     			
+PMS2		Loss of staining (abnormal)     			
+MSH2		Staining (normal)				
+MSH6		Staining (normal)				
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6, as in this case,  is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene. 
+
+SUMMARY:
+-  Left hemicolectomy
+-  Mucinous adenocarcinoma in descending colon
+-  TNM Stage 7th Edition: pT3, pN2a, Mx
+-  One (1) focus of extranodal extension
+-  Residual tumour (R):  0
+-  Microsatellite instability phenotype present
+-  One (1) tubulovillous adenoma with high grade dysplasia.
+		
+

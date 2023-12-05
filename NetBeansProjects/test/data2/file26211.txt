@@ -1,0 +1,30 @@
+SPR no: 76G249328M
+MRN no: 76224932
+Site_name: WARREN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+54 year old female thigh leiomyosarcoma - chemoradiotherapy.  On PET noted to have a small 8mm tail of pancreas lesion confirmed on MR.  ?Metastasis, ?primary pancreatic lesion.  Ca oesophagus.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Subtotal pancreas stitch - anterior lower border of neck of pancreas&amp;quot;, consists of the tail of the pancreas with a  long suture at the bottom of the staple line which denotes the anterior lower border of pancreas, with a staple line that extends from inferior to superior from the suture, with the pancreas measuring 73 x 44 x 21mm. The pancreas has a firm palpable lesion on the anterior aspect which measures 20 x 20mm. The pancreas is attached to the spleen via fatty tissue. The spleen measures 100 x 63 x 36mm, and weighs 111g. There is also attached fatty tissue from the spleen, which measures 420 x 76 x 8mm.  The splenic surface is smooth and shiny.  The stapled pancreatic margin is inked black, the anterior pancreatic surface is inked blue, the posterior pancreatic surface inked red, and the inferior border of the pancreas inked green. The pancreas was serially sectioned from medial to distal into 9 slices. The cut surfaces of the pancreas reveal a pale firm lesion measuring approximately 15mm from (distal to medial) x 9mm from (anterior to posterior) x 9mm (superior to inferior).  The lesion is present in slices three to five and appears closest to the posterior (red inked) margin which is less than 1mm. The entire pancreas has been embedded.
+Blocks: 1 to 11 - cruciate sections of (medial) cut pancreas margin (slice 1) from inferior to superior (block 1 -  inferior medial margin of pancreas, block 9 - most superior medial margin of pancreas; 10 &amp;amp; 11 - superior peripancreatic adipose and vascular tissue - sequentially embedded); 12 - lymph node close to spleen; 13 to 15 - RS attached fatty tissue from spleen; 16 to 18 - RS spleen; 19 to 22 - serial cruciate sections from superior to inferior of distal pancreas (slice nine); 23 to 29 - sequentially embedded pancreas from slice two to slice eight (medial to distal direction).   Photos taken on macropath.    (TO: NM; NM/ta 20/7/2068)
+
+
+MICROSCOPIC (Reported by Dr S Fadely):
+The distal pancreas is entirely embedded and examined.  Within the distal tail of the pancreas there is a 10mm tumour composed of a moderately cellular arrangement of malignant spindle cells.  The spindle cells display predominately moderate but scattered highly pleomorphic forms with hyperchromatic vesicular chromatin and inconspicuous nucleoli.  There are numerous mitoses including atypical forms.  The tumour has a fascicular arrangement arrangement and there are patchy areas of both hyalinisation and necrosis, involving about 20% of the tumour compatible with a treatment response.    The tumour has both an infiltrative as well as pushing border and at focally there is a thin fibrous pseudocapsule.  There are patchy areas of oedema and occasional vessels within the tumour show fibromyxoid intimal change compatible with previous treatment.  Apart from focal PanIN-1, the pancreatic parenchyma is unremarkable.  The tumour cells do not appear to arise from vessel walls.  The tumour is well clear of the pancreatic resection margin and appears confined to the pancreas.  The spleen is unremarkable and uninvolved.  Sixteen lymph nodes show no evidence of malignancy (0/16).
+
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the tumour cells stain as follows:
+Positive: SMA, Desmin and P63 (patchy weak)
+Negative: Myogenin, AE1/AE3, CK5/6,  CD34, EMA, CD117, SOX10, HMB45.
+The tumour Ki67 proliferation index is approximately 60%.
+Margins/Surfaces:
+The tumour is well clear of the pancreatic resection margin.  The tumour is 1.4mm from the posterior pancreatic surface, 3mm from the anterior pancreatic surface and about 9mm from the inferior edge.  No lymphovascular invasion or perineural invasion is seen.
+COMMENT:
+The morphology and immunoprofile is consistent with leiomyosarcoma.  The history of a soft tissue leiomyosarcoma in the right thigh is noted.  In this context the tumour within the tail of the pancreas is consistent with a metastasis from the that tumour.
+DIAGNOSIS:
+Subtotal pancreas:
+-  Leiomyosarcoma (see comment).

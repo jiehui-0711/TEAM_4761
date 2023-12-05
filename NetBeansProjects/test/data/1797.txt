@@ -1,0 +1,41 @@
+
+Episode No:  11B603244J
+1106032.MMJ
+
+Sneller, Wilton 
+Lab No:  11B60324,11B60324
+Macnichol
+TUMUT  South Australia  5417
+Specimen: Washings,Tissue
+D.O.B:  22/11/2002
+Sex:  F
+Collected: 15/07/2014 at 11:31
+Location:  ACUTE CARE WARD - THE KILMORE AND DISTRICT HOSPITAL
+DR QUINTON CHANCE Rochin
+Distribution:  PRO Uptgraft,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Endometrial cancer.  Laparoscopic left renal cystectomy.  1x LSCS.  BMI 31.  Osteoarthritis. 
+MACROSCOPIC:
+Specimen labelled "Uterus + tubes + ovaries + cervix " consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 134g in total. The uterus is received opened and distorted.  The uterus measures 100 x 50 x 50mm.  The cervix is 30 x 30mm and has a smooth unremarkable surface.  On sectioning the endometrium is less than 1mm in maximum thickness and the myometrium is 25mm in maximum thickness. The myometrium contains multiple fibroids ranging from 5 to 10mm in maximum diameter. The right fallopian tube and fimbria measures 60 x 5 x 5mm and appears unremarkable. The right ovary measures 15 x 10 x 5mm and has an unremarkable cut surface. The left fallopian tube measures and fimbria measure 50 x 5 x 5mm.The left ovary measures 15 x 10 x 5mm and has an unremarkable cut surface.
+Blocks: 1 to 4 - full longitudinal section of anterior body and cervix; 5 and 6 - representative sections of anterior; 7 to 10 - one full longitudinal section of posterior body and cervix; 11 and 12 - representative sections of posterior endomyometrium; 13 - right parametrial tissue; 14 - left parametrial tissue; 15 ovary; 16 - left ovary; 17 - right fallopian tube and fimbria; 18 - left fallopian tube and fimbria;  19 & 20 - rest of anterior endomyometrium; 21 & 22 - restof posterior endomyometrium.  (WH/vo 18.9.64)
+MICROSCOPIC (Reported by Dr E Becera & registrar Dr EAlfonzo):
+Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  The tumour consists of complex and branched endometrial glands lined by atypical columnar epithelial cells.  No myometrial or lymphovascular invasion is seen.  The ectocervix and endocervix show no significant abnormality.  The endometrium away from the tumour is inactive.  Several benign leiomyomas and foci of adenomyosis are present within the myometrium.  The right fallopian tube shows focal moderate epithelial dysplasia.  The left fallopian tube and both ovariesshow no significant abnormality. 
+DIAGNOSIS:
+Uterus, cervix, tubes and ovaries:
+- Grade 1 endometrioid adenocarcinoma of the endometrium
+- No myometrial or lymphovascular invasion
+- Focal dysplasia of the right fallopian tube
+- Leiomyomas and adenomyosis
+ADDITIONAL REPORT (25/9/64):
+
+Immunoperoxidase stains for MSI proteins (Block 19)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype(MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

@@ -1,0 +1,76 @@
+Episode No:  98Y628548Q
+9896285.KVQ
+
+JESKA, Erich 
+Lab No:  98Y62854
+Shupin
+URRAWEEN  New South Wales  2559
+Specimen: Tissue
+D.O.B:  23/9/1974
+Sex:  M
+Collected: 26/06/2012 at 12:01
+Location:  Forensic Medicine-BEACONSFIELD DISTRICT HEALTH SERVICE
+DR RICKIE Weston SOLE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+High anterior resection for suspected colon cancer.  Smallfirm subcapsular nodule in seg IVB of liver.  H/T, IDH (CABG 15 years ago), AF, T2DM. 
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection (sigmoid colon)", consists of a segment of unoriented large bowel 175mm in length and 55mm in open circumference with attachedmesosigmoid up to 100mm in width and 30mm in thickness.  A circumferential, constrictive tumour is identified 55mm from one resection margin. The tumour measures 30mm in length and 45mm in width.  The tumour appears to invade underlying mesosigmoid and it is up to 17mm in thickness. There are no serosal tumour deposits. Six polyps are identified measuring from 2-12mm. There are also several diverticulae, one of themcontaining faecolith.  
+Blocks 1 & 2- resection margin; 3 & 4 - paired blocks deepest invasion; 5 - tumour closest to serosa; 6 & 7 - tumour with adjacent non-neoplastic colon; 8 - one polyp trisected; 9 - three polyps; 10 - one polypbisected; 11 - reserved block for tissue bank; 12 - diverticulum; 13 -  apical node; 14 - high point of resection with possible nodes; 15 - four lymph nodes; 16 - three nodes; 17 - three nodes; 18 - one node bisected; 19 - four nodes; 20 ? tumour, ? lymph node.  (MI/ec  29.8.62) 
+B.  Specimen labelled "Segment IVB liver biopsy" consists of a piece of hard tan tissue 7 x 5 x 4mm.  AE one block.  [The specimen will be processed after decalcification].   (ZE/cc  30/8/62) 
+ 
+MICROSCOPIC: (Reported by Dr Y Funderbunk) 
+A.  Sections show a moderately differentiated adenocarcinoma of the sigmoid colon.  The carcinoma has infiltrated through the full thickness of the bowel wall and shows invasion of the mesosigmoid for a distance of approximately 7mm.  Carcinoma infiltrates to the peritoneal surface which appears to have been breached by tumour.  
+Five (5) polyps have been identified and the largest of these (size 9mm) is a malignant polyp which shows submucosal invasion by moderately differentiated adenocarcinoma .  Three (3) of the polyps are tubular adenomas with low grade dysplasia and the 4th is a hyperplastic polyp.  
+The seventeen (17) lymph nodes identified are free of metastatic carcinoma (one of the nodes close to the tumour shows direct involvement but there is no metastatic spread).
+The sigmoid also shows uncomplicated diverticular disease and the colonic mucosa away from the tumours and diverticula shows no significant abnormality.  
+B.  Sections show dense fibrous tissue showing nodular dystrophic calcification.  There is only minimal liver tissue present which shows no abnormality.  
+DIAGNOSIS:  
+Sigmoid Colectomy:   
+Macroscopic Description
+
+Site of tumour:  Sigmoid colon	
+Maximum tumour diameter:     45mm
+Distance of tumour to nearer cut end:     55mm
+Tumour perforation:   No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT4a	Tumour penetrates the surface ofthe visceral peritoneum
+
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 17	
+Number of lymph nodes involved:0	
+pN0	No regional LN metastasis
+
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas: Tubular adenoma (x3), hyperplastic polyp (x1)
+Synchronous carcinomas - 9mm malignant polyp with submucosal invasion (pT1) 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining 
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a   pN0     pMX    RO	
+ 
+
+ 
+

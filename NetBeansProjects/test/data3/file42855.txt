@@ -1,0 +1,26 @@
+SPR no: 27P366738O
+MRN no: 10461205
+Site_name: BARWON HEALTH - NEWCOMB RENAL UNIT CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Segment 4 liver tumour.  Liver cysts.  Hilar lymph node and extended left hemihepatectomy.
+
+
+MACROSCOPIC:
+S.  Specimen labelled &amp;quot;Gallbladder and liver&amp;quot;, consists of a hemihepatectomy, 220 x 115 x 85mm and weighing 580g.  The gallbladder is provided separately. There is a posterolateral parenchyma resection margin with an area of 160 x 65mm.  A staple line is identified in the posterior aspect of the resection margin which is removed along with 3mm of tissue.  The neoresection margin is inked black and the remaining parenchyma margin inked blue. Within the lateral aspect of the liver segment there is a multilobulated circumscribed tumour measuring 85 x 58 x 42mm.   The tumour has a uniform lobulated tan appearance.  No definitive areas of necrosis are identified.  The tumour abuts the capsular surface and is close to the parenchymal resection margin.  Friable tumour is identified within the adjacent large vessel.  A separate intact gallbladder is provided measuring 105 x 45mm.  The serosal surface is smooth and shiny.  The wall measures 1mm thick with a focal area of thickening measuring 10 x 7 x 2mm.  The mucosa is dark green and velvety and the lumen contains bile sludge and dark grit like material.  No mucosal lesions are identified.  Blocks: 1 &amp;amp; 2 - tumour with adjacent parenchymal and vascular margin; 3 &amp;amp; 4 - tumour with adjacent parenchymal margin; 5 &amp;amp; 6 - tumour with adjacent capsular surface; 7 - tumour within large vessel; 8 - parenchyma away from tumour; 9 - cystic duct and cystic duct lymph node; 10 - body and fundus including wall thickening.
+
+B.  Specimen labelled &amp;quot;Hilar lymph node&amp;quot;, consists of a 7mm lymph node with attached fat.  BAE 1 block.  (TO:AP/ta 8/4/70)
+
+
+MICROSCOPIC (Reported by Dr F Maclay):
+A.  Sections of liver show a multinodular solid epithelioid malignant tumour with intervening thin fibrous septa. The tumour shows attenuation of reticulin network. On immunohistochemistry  the tumour cells are positive for arginase.   The features are of a moderately differentiated hepatocellular carcinoma.  HCC is present within small vessels and a  large vessel favoured to be a segmental vein.  HCC is 0.3mm from the parenchymal resection margin (block A2) and 0.1mm from the capsular surface.  Sections of gallbladder show yellow golden refractile material within the lumen consistent with tiny gallstone fragments.  There are two pericholecystitic lymph nodes (one is the cystic duct lymph node and the other is area of wall thickening identified macroscopically), with no evidence of malignancy (0/2). The liver parenchyma away from the tumour shows fibrous expansion of portal tracts on Masson stain, moderate amount of mixed  parenchymal and stromal  iron deposition on Perl&amp;apos;s stain and no stainable copper or copper-associated protein with rhodanine and orcein stains.
+
+B.  Sections show no evidence of malignancy in one lymph node (0/1).
+
+DIAGNOSIS:
+A.  Gallbladder and liver:
+- Moderately differentiated hepatocellular carcinoma, 85mm with vascular invasion, AJCC 8th Edition, pT2.
+- No evidence of malignancy in two lymph nodes (0/2)
+- Increased iron deposition within non-neoplastic liver
+B.  Hilar lymph node:  No evidence of malignancy in one lymph node (0/1).

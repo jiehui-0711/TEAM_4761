@@ -1,0 +1,22 @@
+SPR no: 54K574876C
+MRN no: 54457487
+Site_name: BOORT DISTRICT HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+ULAR anterior resection for malignant polyp with +ve deep margin.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Anterior resection&amp;#8220;, consists of a segment of rectum measuring 170mm in length with attached mesorectal fatty tissue variable in thickness and up to 40mm across.  The peritoneal reflection is 28mm from the distal margin.  The non-peritonealised circumferential margin is inked blue.  30mm proximal to the peritoneal reflection, there is an apparent mucosal scar measuring 35mm in maximum dimension (along the transverse plane).  30mm proximal to the apparent scar, there is a flattened mucosal area 20 x 15mm in surface dimensions and 50mm.  Proximal to this flat area, there is a second flat mucosal area 12 x 10mm.  A well defined mass lesion is not identified.  Lymph nodes are tiny and few.  Extra sections of fat were submitted looking for lymph nodes.  Block 1- LS distal margin; 2- LS proximal margin; 3-15 - entire circumference of the rectum in the area of apparent scar, blocked anticlockwise starting from anterior (12 o&amp;apos;clock); 16-19 - first flat area; 20-22 - second flat area; 23 - apical lymph node; 24 - lymph nodes as seen; 25-34 - sections of fat looking for lymph nodes.
+(HM/ec  20.7.66)
+
+
+MICROSCOPIC (Reported by Dr N Mazzarella):
+Sections of rectum show an area of scar tissue, in keeping with previous surgery/biopsy.  No residual tumour is seen.  The colonic mucosa overlying the scar tissue area is unremarkable.  Both resection margins are unremarkable.  There is no evidence of lymphovascular invasion.  Nine (9) lymph nodes are identified within the attached pericolic adipose tissue.  1 of 9 lymph nodes is involved by metastatic adenocarcinoma.  The involved lymph node is near the scar tissue.  The apical lymph node is identified and is unremarkable.
+
+
+DIAGNOSIS:
+Anterior resection
+- Scar tissue and no evidence of residual tumour.
+- 1 of 9 lymph nodes involved by metastatic adenocarcinoma.

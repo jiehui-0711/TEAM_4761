@@ -1,0 +1,57 @@
+SPR no: 89K408977S
+MRN no: 8944089
+Site_name: ROXBY DOWNS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report89K40897 (89K408977S) DISON, BARNEY
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Stage III ovarian Ca.  RRx with chemotherapy x 4.
+Uterus, tubes and ovaries.  Omentum
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, OVARIES, FALLOPIAN TUBES AND CERVIX&amp;quot;.  A uterus, bilateral fallopian tubes, and bilateral ovaries, with an aggregate weight of 108.3g, and overall specimen dimensions of 117mm from medial to lateral, 73mm from superior to inferior and 46mm from anterior to posterior.  The anterior soft tissue margin is inked blue and the posterior is inked black.  The specimen is sectioned in the midline sagittal plane.  Right ovary measures 32x8x11mm.  The right fallopian tube measures 71x7-15mm.   The left ovary measures 24x8x12mm and the left fallopian tube measures 42x6-16mm.  The endometrium measures less than 1mm.  The myometrium is up to 18mm .  No serosal deposits are seen. There are numerous fibroids within the myometrium, 4-22mm in size.   A white polypoid lesion is present in the endometrial cavity, 20x6x3mm.
+
+(1 anterior cervix;  2 posterior cervix; 3-5 composite TS through the middle of the uterus [3 posterior, 4-5 anterior, 4 shows the polyp and the largest fibroid]; 6 further section of the largest fibroid; 7 section of the second-largest fibroid; 8 right cornu; 9&amp;amp;10 longitudinally trisected fimbrial end of tube [9 two outer thirds, one of which has fragmented into two parts, 10 central third]; 11-15 sequentially embedded sections of the right ovary with adjacent fallopian tube [all ovary embedded]; 16&amp;amp;17 remainder of right fallopian tube;
+
+One of the fibroids in the left lateral aspect of the uterus is too calcified to cut.  It measures 15mm in maximum dimension.
+
+18 left cornu; 19-22 sequentially embedded sections of left ovary [whole ovary embedded, 21&amp;amp;22 shows possible adjacent adherent fimbrial end of fallopian tube; 23 remainder of fallopian tube longitudinally bisected; 24-27 sequentially embedded TS of left fallopian tube [all tube embedded]).  RS (M-27).
+
+B.  &amp;quot;OMENTUM&amp;quot;.  Two unoriented pieces of fibrofatty tissue, consistent with omentum, 100x90x12mm and 162x78x20mm.  The larger piece of tissue has an unusual appearance to the surface with pale grey semi-shiny deposits.  Sectioning reveals firm yellow/orange lesional tissue within the omentum, suspicious for metastatic deposits.  The smaller piece of tissue appears mostly macroscopically unremarkable, with a few suspicious foci for tumour involvement, 1-2mm in size.
+
+(1-4 RS from the largest piece of tissue; 5&amp;amp;6 RS from the smaller piece of tissue showing possible areas of tumour involvement).  RS (M-6/LK/nh).
+
+MICROSCOPIC:   (Dr V Smeltz)
+A.  The whole of both fallopian tubes and ovaries have been embedded and this shows only very minor focal deposits of residual high-grade serous carcinoma found focally over the serosa of the broad ligaments adjacent to both fallopian tubes. Elsewhere there are scattered calcified psammoma bodies over the surface of the fallopian tubes and in the cortex of the ovary but no viable tumour is seen within both ovaries.  One slightly larger area 2mm focus of dystrophic calcification is seen within the left ovary, again unassociated with any viable tumour.  Otherwise, both ovaries appear atrophic and the fallopian tubes are otherwise unremarkable with no evidence of tubal intraepithelial neoplasia in the fimbriae.  The endometrium is atrophic and there is a small mixed endometrial-endocervical polyp.  There is no evidence of endometrial atypia.  The ectocervical squamous and endocervical epithelium is unremarkable with no atypia present.  Multiple intramural leiomyomata are present within the myometrium showing partial hyalinisation in places.
+
+B.  Histology shows fatty omental tissue which shows a background of fibrosis and patchy chronic inflammation with patchy nodular immature fibrosis and some foamy histiocytes with some calcified psammoma bodies consistent with chemotherapeutic effect.  Scattered amongst these are isolated single malignant tumour cells with some small tumour cell nests which show high grade nuclear atypia with ongoing mitotic activity.  Immunostains show positivity for CK7, WT1, P53, ER (80% moderate staining) consistent with that of residual high grade serous carcinoma with a partial chemotherapeutic response.  Ki67 is approximately 80%.
+
+DIAGNOSIS:
+A.  UTERUS, OVARIES, FALLOPIAN TUBES AND CERVIX -
+-  SMALL FOCAL DEPOSITS OF RESIDUAL SEROUS CARCINOMA OVER SEROSA OF BOTH FALLOPIAN TUBES.  NO OTHER VIABLE TUMOUR IDENTIFIED
+
+B.  OMENTUM -
+-  SMALL DEPOSITS OF RESIDUAL HIGH GRADE SEROUS CARCINOMA SHOWING CHEMOTHERAPEUTIC EFFECT
+
+20/1/2066 nh
+
+SUPPLEMENTARY REPORT:
+
+Immunostains for MMR proteins (block: B3), requested by Dr LEO FRANKART, ST VINCENT'S HOSPITAL (DARLINGHURST) Hospital, ACT.
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+25.1.67

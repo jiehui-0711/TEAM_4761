@@ -1,0 +1,46 @@
+SPR no: 99L523334B
+MRN no: 9945233
+Site_name: TRESILLIAN FAMILY CARE CENTRE - WOLLSTONECRAFT
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+DCIS 10 o&amp;apos;clock.  Left breast breast short stitch superior medium medial long lateral.  Hook wire localised.  Wide local excision.  New medial margin.  New lateral margin marked with stitch.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Short superior medium medial long lateral left breast lesion&amp;quot;, consists of a piece of fibrofatty tissue.  Specimen x-ray performed which identifies the tip of the hookwire terminating in coordinate G9.  (X-ray from lateral to medial with superior along the numerical border of the X-ray).  Specimen measures 55mm superficial to deep x 50mm superior to inferior x
+25mm medial to lateral. The hookwire enters superficially through an ellipse of skin measuring 32mm superior to inferior x 12mm medial to lateral.  The surface of the skin appears unremarkable.  The medial margin is inked blue, lateral black, superior striped red. Specimen serially sliced TS into nine slices from deep to superficial (one = deep, 9 = superficial with skin).  The tip of the hookwire is identified in slice five. In slices five and six is a small rounded white lesion at the medial margin measuring 5mm medial to lateral x 5mm superior to inferior x 7mm superficial to deep.  The lesion is adjacent to the medial margin, 23mm from the superior margin, 30mm from the inferior margin, 22mm from the lateral margin, and 25mm from the deep and 35mm from the superficial margin.  A haemorrhagic rounded lesion superficial to the tumour in slice five is seen in blocks 8 and 9 and measures 7mm medial to latera x 7mm superior to inferior x 7mm superficial to deep.  The lesion is homogenous and appears to be biopsy related.  The haemorrhagic lesion is 5mm from the medial, 7mm from the lateral, 12mm from the superior, 22mm from the inferior, adjacent to the skin margin superficially and 50mm from the deep margin.
+Blocks: 1 to 5 - slice one (1= superior, 5 = inferior); 6 and 7 - slice two; 8 and 9 - slice three; 10 to 12 - slice four (red ink on lateral margin in block eleven is artifactual and from dotting tip of hookwire on X-ray); 13 to 15 - slice five (clip in block fourteen); 19 to 21 - slice seven (hole is block 21 is due to irregularity of margin); 22 to 24 - slice eight (23 embedded on opposite face with haemorrhagic area); 25 to 29 - LS slice nine (25- superior; 29 - inferior).  AE.  Please refer to attached block key diagram for specimen A.
+
+B.  Specimen labelled &amp;quot;New medial margin stitch at margin left breast lesion&amp;quot;, consists of a fibrofatty piece of tissue measuring 40 x 25mm to a depth of 5mm.  One surface has a suture.  Sutured margin inked blue, opposite margin black.  Specimen serially sliced TS.
+Blocks: 1 - shave edge of specimen; 2 and 3 - mid section TS; 4 - shave opposite edge of specimen.  AE.
+
+C.  Specimen labelled &amp;quot;New lateral margin stitch at margin left breast lesion&amp;quot;, consists of two fragments of tissue one with a suture.  The sutured specimen measures 35 x 20 x 10mm with the separate specimen 40 x 20 x 5mm.  The sutured margin is inked blue on the specimen with suture with the opposite margin inked black.  On the separate fragment of tissue all of the specimen is inked blue.
+Blocks: 1 and 2 - unsutured piece of tissue serially sliced TS; 3 to 5 - sutured specimen serially sliced TS.  AE.  (TO: MS;MS/vo 19.4.67)
+
+
+MICROSCOPIC (Reported by A/Prof RODRIGO MIRANDO):
+A. All of the tissue has been embedded. The sections of breast tissue show an organising biopsy bed, with a number of core tracts visible, one of which is close to the surface of the specimen.
+The previous core biopsy 99L52333 has been reviewed and no diagnostic evidence of residual ductal carcinoma in situ is seen in the sections from this excision specimen.
+
+A single small focus of atypical lobular hyperplasia is identified around the biopsy cavity.
+
+The background breast tissue shows a range of benign changes, including foci of florid epithelial hyperplasia, intraduct papillomas with superimposed hyperplasia and foci of sclerosing adenosis with benign calcifications. Small fibroadenomas are also present as well as scattered cysts.
+Atypical apocrine change and columnar hyperplasia are both seen superimposed on areas of sclerosing adenosis.
+
+There is no evidence of in situ or invasive malignancy seen.
+
+B. All of the tissue has been embedded. A small amount of skeletal muscle is present on one surface of the specimen.
+The remainder of the tissue shows adipose tissue with a small number of benign, proliferative ducts, some of which show apocrine change.
+No diagnostic evidence of in situ or invasive malignancy is seen.
+
+C. All of the tissue has been embedded. The breast tissue contains several enlarged ducts displaying epithelial hyperplasia with superimposed thermal artefact, making interpretation difficult in some areas. The adjacent ducts without diathermy effect show variable degrees of epithelial hyperplasia without atypia.
+Benign ductal and lobular calcifications are identified.
+No diagnostic evidence of in situ or invasive malignancy is seen.
+
+
+DIAGNOSIS:
+A. Left breast excision: Organising biopsy cavity with surrounding proliferative changes.
+No evidence of malignancy
+B. New medial margin: No evidence of malignancy
+C. New lateral margin: No evidence of malignancy

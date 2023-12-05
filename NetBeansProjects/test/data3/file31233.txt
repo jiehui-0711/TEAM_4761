@@ -1,0 +1,74 @@
+SPR no: 22V011505B
+MRN no: 2280115
+Site_name: GOWER WILSON MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Caecal carcinoma + multiple colonic polyps.  Subtotal colectomy.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Subtotal colectomy&amp;quot;, consists of a segment of large bowel (720mm in length x 80mm circumference), terminal ileum (60mm in length x 54mm circumference), and pericolic fibroadipose tissue (up to 100mm width).  The appendix is not received.  The surgical margins are inked blue.  The serosal surface appears smooth and shiny.  On sectioning, there is a tan, nodular caecal tumour, 47 x 46 x 18mm, partly involving the ileocaecal valve.  The tumour extends to a depth of 20mm into the adventitia.  The tumour is 45mm from the proximal surgical margin, 600mm from the distal surgical margin, and 100mm from the apical vascular tie.  The remaining bowel mucosa is studded by no fewer than 40 sessile and pedunculated polyps, 4 to 13mm in maximum dimension.  The polyps are concentrated within the proximal large bowel, and decrease dramatically in number towards the distal large bowel.  The closest polyps are 45mm and 40mm from the proximal and distal surgical margins, respectively.  Lymph nodes are identified in the pericolic fibroadipose tissue.
+Blocks: 1 - LS proximal margin; 2 - LS distal margin; 3 to 6 - LS tumour, ?deepest invasion (6 - MSI); 7 - LS representative caecal polyps; 8 &amp;amp; 9 - representative ascending polyps; 10 - single transverse polyp, bisected; 11 - representative  transverse colon polyps; 12 - representative distal aspect polyps; 13 - apical vascular margin, apical lymph nodes as seen; 14 - one lymph node, trisected; 15 - one lymph node, ?involved; 16 to 19 - lymph nodes as seen.  (TO:JB/eh 9/10/69)
+
+
+MICROSCOPIC (Reported by Dr H Weder):
+Synoptic Report for Large Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour:  Caecum
+Maximum tumour diameter:  47mm
+Distance of tumour to nearer cut end:  45mm (proximal)
+Tumour perforation:  No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not applicable
+
+Lymph nodes
+Number of lymph nodes present:  14
+Number of lymph nodes involved:  1
+
+pN1a	Metastases in 1 regional LN
+
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastas
+pMX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+- There are multiple tubular adenomas with low grade dysplasia.
+
+Residual tumour status
+R0	No residual tumour
+
+Response to neoadjuvent therapy (Modified Ryan scheme)
+Not applicable
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is:  6
+
+Summary &amp;#8211; TNM 7th Edition
+pT3     pN1a     pMX     R0
+DIAGNOSIS:
+Subtotal colectomy - Adenocarcinoma.

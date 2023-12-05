@@ -1,0 +1,108 @@
+SPR no: 07K098991N
+MRN no: 07309899
+Site_name: MERREDIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+ADDITIONAL REPORT (10/8/71)
+CLINICAL:
+Large right adrenal tumour - radiologically consistent with ACC.  Incidental right colon tumour found on PET.  Presented with myositis ?paraneoplastic process.
+Right adrenal tumour sampled fresh for biobanking.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right adrenal tumour&amp;quot;, consists of an unoriented ovoid mass with a smooth pale tan outer capsule 175 x 130 x 80mm.  The mass is lined by fascia on one side (presumed anterior) with attached fatty tissue, 150 x 90 x 30mm extending from the fascia beyond the edge of the mass.  The mass weighs 1188g (trimmed of attached fatty tissue).  Outer surface inked black (not lined by fascia). The cut surface is variegated yellow, pale tan and grey with patchy areas of haemorrhage. Some areas show a vaguely nodular architecture. No normal adrenal gland is identified.  Blocks: 1 to 18 - RS margins (4 to 6 - presumed posterior; 15 to 18 - presumed anterior); 19 &amp;amp; 20 - grey areas; 21 &amp;amp; 22 - haemorrhagic/necrotic areas; 23 to 25 - pale tan and yellow areas; 26 &amp;amp; 27 - interface with attached fat; 28 - reserve block for biobanking.  Specimen shown to Dr A Dromgoole.
+B.  Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;.
+Specimen
+Specimen length: 200mm
+Length of terminal ileum: 80mm
+Length of caecum/ascending colon: 120mm
+Thickness of mesocolon: 100mm
+Appendix: 95mm in length by 7mm in maximum diameter.
+
+Tumour
+Location: Proximal ascending colon at junction of mesentery and antimesenteric surface.
+Description: 30 x 20 x 20mm tan fungating polyp.  No definite extension into the submucosa is seen.
+Maximum tumour diameter: 30mm
+Perforation:  Absent
+Appearance of serosa overlying tumour: Unremarkable
+Distance of tumour to proximal cut end: 90mm
+Distance of tumour to distal cut end: 70mm
+Distance of tumour to circumferential margin: Well clear
+
+Other
+Polyps: Nil
+Adherent structures: Nil
+Other: On sectioning the appendix is unremarkable.
+Inked margins:  base of appendix red, proximal and distal cut ends blue.
+
+Blocks
+1 - LS proximal margin; 2 - LS distal margin; 3 &amp;amp; 4, 5 &amp;amp; 6 - composite sections, all of base of polyp embedded; 7 - LS base, mid TS and LS tip of appendix; 8 - shave of apical margin; 9 - one possible lymph node as seen; Additional blocks: 10 and 11: lymph nodes as seen.   (TO:BF/ta/ta 6/6/69)
+
+
+MICROSCOPIC (Reported by Dr A Steuck and Dr A Haeussler):
+A.  Sections show a cellular encapsulated tumour composed of polygonal cells with distinct cell borders and voluminous cleared, vacuolated and eosinophilic cytoplasm.The nuclei are predominantly irregular with vesicular chromatin, prominent nucleoli and occasional pseudoinclusions.  Numerous giant cells with bizarre enlarged nuclei are also seen.  The cells are predominantly arranged in diffuse sheets and vague nodules separated by fibrous septae.  A 5mm focus of sarcomatoid-like change is seen (A4).  Broad areas of necrosis, haemorrhage and oedematous stroma with degenerative changes are seen. Dystrophic calcification, adipose tissue and metaplastic bone formation are present. A thin rim of adrenal gland is identified at the periphery of the lesion.
+
+There are 35 mitoses per 50 hpf. Occasional atypical tripolar mitoses are seen.
+
+No lymphovascular or capsular invasion is seen.
+
+The finding are of an adrenal cortical carcinoma with focal sarcomatoid differentiation. The mitotic rate (&amp;gt; 20 per 50 hpf) is in keeping with a high grade lesion.
+
+The lesion is &amp;lt; 0.1mm clear of the margin (separated by a thin fibrous capsule).
+
+Immunohistochemistry:
+CAM5.2: patchy +ve
+Calretinin: +ve
+Inhibin-alpha: patchy +ve
+Melan A: patchy +ve
+Synaptophysin: patchy +ve
+S100: rare cells +ve
+Chromogranin: -ve
+Ki67 index: up to 15% (visually estimated)
+
+Weiss criteria
+High nuclear grade 			1
+Mitotic rate (&amp;gt;5/50HPF):		1  (35 per 50 hpf)
+Clear cells (&amp;lt;25% of tumour):		1
+Abnormal mitoses:			1
+Necrosis:				1
+Diffuse architecture			1
+Capsular invasion:			0
+Venous invasion			0
+Sinusoidal invasion			0
+
+Total score:				6 (a score of 3 more suggests malignancy)
+
+B. Sections show a tubulovillous adenoma with predominantly low grade dysplasia. Focally there are tumour cells with nuclear rounding, loss of nuclear polarity, coarse chromatin and increased mitotic activity, in keeping with focal high grade dysplasia. No invasion into the submucosa is seen.  The lesion is &amp;gt; 10mm clear of the margins.The appendix appears unremarkable.
+
+12 lymph nodes show no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right adrenal tumour:  175mm high grade adrenal cortical carcinoma with focal sarcomatoid differentiation
+
+B.  Right hemicolon:  tubulovillous adenoma with focal high grade dysplasia
+
+
+ADDITIONAL REPORT (4/5/68)
+MSI requested by Dr Clora SIMONTON.
+
+Mismatch Repair Deficiency (MMRD) Status (adrenal lesion)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Focal weak staining (interpreted as preserved staining)
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+ADDITIONAL REPORT (11/8/69)
+MSI on colonic lesion requested by clinical genetics.
+
+Mismatch Repair Deficiency (MMRD) Status (colonic lesion)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

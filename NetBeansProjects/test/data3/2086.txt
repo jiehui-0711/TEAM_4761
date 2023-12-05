@@ -1,0 +1,56 @@
+
+Episode No:  43X483091Y
+4384830.YEY
+
+BALWIN, Leon 
+Lab No:  43X48309
+South Dickenson
+EUROA  New South Wales  2203
+Specimen: Tissue
+D.O.B:  9/8/1987
+Sex:  M
+Collected: 17/01/2064 at14:38
+Location:  Southern-MONA VALE HOSPITAL
+DR DONOVAN Maura Dedinas
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Abnormal PSA and DRE.  Prostate needle biopsies.  
+MACROSCOPIC:
+A.  Specimen labelled "Prostate biopsy left apex" consists of two cores 18 and 20mm and a 2mm fragment.   AE 1 block.
+B.  Specimen labelled "Prostate biopsy left mid" consists of two cores 16 and 18mm.   AE 1 block.
+C.  Specimen labelled "Prostate biopsy left transition" consists of a 14mm biopsy.    AE 1 block.
+D.  Specimen labelled "Prostate biopsy left lateral" consists of two cores 12 and 16mm in length.   AE 1 block.
+E.  Specimen labelled "Prostate biopsy left base" consists of two cores 18 and 20mm.   AE 1 block.
+  
+F.  Specimen labelled "Prostate biopsy right apex" consists of two cores 10 and 11mm and two fragments measuring 2 and 4mm.   AE 1 block.
+  
+G.  Specimen labelled "Prostate biopsy right mid" consists of two cores 14 and 15mm.   AE 1 block.
+  
+H.  Specimen labelled "Prostate biopsy right transition" consists of a 20mm core.   AE 1 block. 
+I.  Specimen labelled "Prostate biopsy right lateral" consists of two cores 9 and 12mm and a 3mm fragment.   AE 1 block.
+  
+J. Specimen labelled "Prostate biopsy right base" consists of two cores 12 and 14mm and a 2mm fragment.    AE 1 block.   (MK/ta 17/1/64) 
+MICROSCOPIC (reported by Dr K Lainhart):
+A. Sections show adenocarcinoma, Gleason score 4+4=8, involving 60% and 80% of 2 out of 2 cores. High grade PIN is also present. Perineural spread is seen.
+
+B. Sections show adenocarcinoma, Gleason score 4+4=8, involving 80% of 1 out of 2 cores. 
+C. Sections show a core biopsy of prostate gland with no evidence of malignancy. 
+D. Sections show adenocarcinoma, Gleason score 4+4=8, involving 90% both cores. High grade PIN is also present. Perineural spread is seen.
+E. Sections show adenocarcinoma, Gleason score 4+4=8, involving 30% of 1 out of 2 cores.
+F, G, H & I. Sections show core biopsies of prostate gland with no evidence of malignancy. 
+J. Sections show adenocarcinoma, Gleason score 3+3=6, involving 10% of 1 out of 2 cores.
+PROSTATE BIOPSIES SUMMARY:
+Tumour type:  	  Adenocarcinoma, NOS	
+Gleason Score:  4+4=8 (left side from apex to base) and a minor 3+3 = 6 (right base)
+Approximate Gleason Score across all cores(%):
+	3 -  1%
+	4 -  99%
+Location of tumour:  Left apex, left mid, left lateral, left base and right base
+Perineural invasion:  Present
+Lymphovascular invasion:  Not identified
+Extraprostatic spread:  Not identified
+High grade PIN:  Present
+DIAGNOSIS:
+Prostate core biopsies
+- ADENOCARCINOMA, NOS 4+4 =8 and a focus of 3+3 = 6 (SEE SUMMARY)
+

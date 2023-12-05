@@ -1,0 +1,22 @@
+ 433475.RDC
+Timmins, ELDEN
+43J47561,43J47561
+
+Last edited : 7/9/2063		Page: 2
+CLINICAL:
+Metastatic cancer ?colorectal primary. 
+MACROSCOPIC:
+Specimen labelled "Omentum secondary", consists of a piece of omentum 120 x 100 x 30mm.  On sectioning there are multiple fibrotic white ill-defined nodules identified.  
+Blocks: 1 to 5 - representative sections from the nodules. Block 3 reserved block.
+(IC/vo 5.9.63)
+MICROSCOPIC (Reported by Dr L Bonnot):
+Sections show omental fat with metastatic adenocarcinoma. The lesion has a complex glandular architecture, and is composed of tumour cells with pleomorphic, vesicular nuclei.
+The tumour cells are positive for CK7 and CK20. TTF-1 is negative.
+COMMENT
+AlthoughCK7 staining is unusual for a colorectal lesion, the morphology is similar to the previous biopsy of the primary caecal lesion (43J4756). The overall findings would favour a colorectal primary.
+
+DIAGNOSIS:
+Omentum: metastatic adenocarcinoma, favour colorectal origin (see comment)
+
+
+

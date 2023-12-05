@@ -1,0 +1,44 @@
+Episode No:  49Z995078N
+4999950.SWN
+
+Snaer, Tyson 
+Lab No:  49Z99507,49Z99507
+Longcommon
+KURRAJONG HEIGHTS  Northern Territory  4858
+Specimen: Washings,Tissue
+D.O.B:  21/1/1998
+Sex:  F
+Collected: 24/11/2065 at 21:37
+Location:  Immunology - STAWELL REGIONAL HEALTH
+DR Jimmy Booker Logarbo
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Endometrial cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, tubes and ovaries" and consists of a previously opened and distorted uterus with attached cervix, bilateral tubes and ovaries weighing 255g in total (after fixation).  The uterus measures 70 x 50 x 130mm in its open state.  The serosa is smooth and shiny.  The ectocervix measures 23 x 10mm.  The ectocervix is partly disrupted at the left lateral wall.  The right fallopian tube measures 40mm in length and 5mm in diameter with attached right ovary,20 x 15 x 10mm.  The left fallopian tube measures 40mm in length and 5mm in diameter with attached left ovary of 25 x 15 x 5mm.  Towards the left lateral wall is a subserosal fibroid, 30 x 30mm which is bulging the serosa.  The specimen is received as opened along lateral walls from the lower uterine segment to the body and through the anterior lower uterine segment. There is a ragged horizontal incision at the cervical canal, 10mm from the ectocervix area.  
+There is a circumscribed exophytic firm pale tan tumour on the right posterior wall, 30 x 30mm in cross dimension.  On sectioning the tumour appears to extend to the superficial myometrium with the maximum invasion of 3mm where the myometrium is 18mm in maximum thickness.  The total thickness of the tumour is 6mm and it is 15mm from the serosal surface.  The maximum thickness of myometrium where the the fibroid ispresent is 22mm.  The uninvolved endometrium is 1mm in maximum thickness.  Within the anterior wall are five fibroids, ranging from 10 x 10 x 10mm to 50 x 50 x 50mm.  The left cornu and anterior wall are largely distorted by multiple fibroids.  Within the posterior wall are eight fibroids ranging from 2 x 2 x 2mm to 20 x 20 x 15mm.  All the fibroids have an unremarkable surface.  The sectioning of ovaries appears to be unremarkable.  
+Blocks: 1 & 2 - anterior cervix; 3 to 5 - anterior body and fundus; 6 & 7 - corresponding to block 5 intramural fibroids and serosa; 8 to 10 - posterior cervix and body (block 10 contains tumour); 11 & 12 - composite sections of the right posterior wall (block 12 - tumour with deepest invasion); 13 - right posterior wall; 14 - right cornua; 15 & 16 - composite sections, left posterior wall (mid line); 17 - lower uterine fibroid; 18 - left cornua fibroid; 19 - right fimbria; 20 - right tube; 21 - right ovary; 22 - left fimbrial end; 23 - left tube; 24 - left ovary.
+B.  Specimen labelled "Small bowel" and consists of a segment of small bowel measuring 90mm in length and 80mm in diameter with attached mesentery of 13mm.  The serosa is smooth and shiny.  There is no obvious tumour within the mucosa.  
+Blocks: 1 - one margin; 2 - the opposite margin; 3 - TS at the mid portion; 4 - representative mesentery.   (TO:DOMINIQUE;CLINTON/ta 25/11/65) 
+ 
+ 
+
+MICROSCOPIC: (Reported by Dr L Bierner):
+A. Sections show an endometrioid adenocarcinoma, grade 1. The lesion is composed of complex back-to-back glands lined by tumour cells with mild to moderate atypia.  No significant solid component or severe nuclear atypia are seen.
+The maximum depth invasion is 5mm into a wall 18mm thick.
+Two foci of lymphovascular invasion are present. 
+The adjacent endometrium is inactive. Benign leiomyomas and superficial adenomyosis are present in the myometrium.  
+The cervix, ovaries and fallopian tubes show no evidence malignancy.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss ofnuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+B. Sections of the small bowel appear unremarkable.  There is no evidence of malignancy.
+
+DIAGNOSIS
+A. Uterus with cervix, bilateral fallopian tubes and ovaries: endometrioid adenocarcinoma, grade 1, depth of invasion 5mm into a wall 18mm thick, lymphovascular invasion present
+B. Small bowel: no abnormality detected
+

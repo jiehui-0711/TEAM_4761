@@ -1,0 +1,34 @@
+SPR no: 01F180622J
+MRN no: 01218062
+Site_name: STRATHALBYN AND DISTRICT HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report01F18062 (01F180622J) Ferryman, CHIQUITA YEVETTE
+HISTOPATHOLOGY REPORT
+KURRI KURRI DISTRICT HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+anastomosis leak post peritonectomy.
+Left colon.
+
+MACROSCOPIC:
+&amp;quot;COLON&amp;quot;. Segment of colon 270mm in length. The proximal half of the specimen has a circumference of 40mm and the mucosa is fairly unremarkable. The distal half has a circumference of 25mm and the mesocolon has florid exudate and is thickened. Located 90mm from the distal margin in the right anterior wall there is a full thickness defect 20x10mm surrounded by exudate.  The wall is thickened and fibrotic up to 10mm with a focal area of pale white change. Located 10mm distal to the defect, the mucosa has cobblestone appearance and contains multiple red polyps up to 12mm across. Located 30mm from the proximal margin there is an area of serosal nodularity 5mm across.  The proximal margin is inked blue, the distal margin is inked black.
+
+(1 proximal margin; 2 normal mucosa; 3-5 inflammatory polypoid area; 6-8 wall defect ; 9 pale white area; 10 nodular area on serosa; 11 two lymph nodes, 12 one lymph node, 13 distal margin and a bisected lymph node adjacent to the section, 13 distal margin and one lymph node bisected, 14-17 further sections of thickened bowel wall and lymph nodes).
+RS (M-13/LMA 4/7/2071 cy)
+
+
+MICROSCOPIC: (Dr. A. Dez)
+The bowel shows a 7mm deposit of poorly differentiated adenocarcinoma towards the proximal end of the specimen (block 10), centered in the deep submucosa and inner layer of the muscularis propria.  It is composed of small irregular nests of pleomorphic tumour cells, some showing signet ring morphology, with focal gland formation, and an atypical mitosis.  These tumour cells stain for CAM5.2 with immunohistochemistry.  The surrounding stroma is desmoplastic.
+
+The distal end of the specimen shows polypoid oedema of the submucosa with alternating areas of fibrosis and haemosiderin and vascular congestion. The muscularis propria is variably hypertrophied and there is extensive fibrosis, mixed inflammation and reactive changes in the mesentery, with associated thick layer of fibrinopurulent inflammation on the serosal surface.  This surrounds the site of the wall defect, which shows full thickness necrosis of the wall with associated granulation tissue and fibrinoinflammatory changes.
+
+There are 5 lymph nodes sampled.  Two show discontinuous tumour cells, up to 1.5mm across (block 12, 14).
+
+
+DIAGNOSIS:
+COLON:
+- Metastatic adenocarcinoma in the wall of the large bowel.
+- Metastatic adenocarcinoma in 2 lymph nodes.
+- Changes consistent with anastomotic breakdown
+8/8/2070 cy

@@ -1,0 +1,109 @@
+SPR no: 99U024341D
+MRN no: 997024
+Site_name: CHARTERS TOWERS HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT ATTACHED
+
+99U02434,99U02434 (99U024341D) PRIDHAM, YULANDA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+G III endometroid adeno ca.
+
+1.  Peritoneal washings for cytology.
+2.  Uterus, tubes and ovaries.
+3.  Omental biopsy.
+4.  Left pelvic nodes.
+5.  Right pelvic nodes.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS + TUBES + OVARIES&amp;quot;.  A total abdominal hysterectomy with bilateral salpingo-oophorectomy weighing 53g and separate firm nodular tissue weighting 23g. The hysterectomy is received partially opened in the coronal plane. The uterus and cervix measure 60mm in length, up to 30mm in width and up to 35mm from anterior to posterior.  The cervix measures 25mm in length and is up to 25mm from left to right with a 5mm slit-like os.  The overlying uterine serosal surface is smooth and shiny with a small serosal disruption 5x5mm posteriorly.  The right fallopian tube measures 45mm in length and up to 6mm in width.  The right ovary measures 23x12x10mm.  The left fallopian tube is up to 55mm in length and up to 7mm in width.  The left ovary measures up to 21x15x7mm.   The body of the uterus is cut into several parasagittal slices revealing endometrium up to 1mm in thickness with myometrium measuring up to 20mm in thickness maximally in the posterior aspect.    Located in the posterior aspect of the uterus is a tan endometrial area measuring 7mm that infiltrates to a depth of up to 7mm. There is a firm subserosal whorled lesion that is adjacent to the serosal disruption.
+The separate nodular piece of encapsulated tissue measures 40x40x30mm.  Serial sections through the separate piece of tissue reveals a lobular whorled cut surface with no areas of necrosis.
+
+(1  anterior cervix; 2  posterior cervix; 3  right parametrium shave; 4  left parametrium shave; 5   RS right fallopian tube ,fimbrial end all embedded; 6  right ovary; 7  RS left fallopian tube, fimbrial end all embedded; 8  left ovary; 9  right cornu; 10  left cornu; 11&amp;amp;12  one composite section of parasagittal slice through body of uterus; 13-16  remainder of endometrium; 17  posterior subserosal fibroid + serosal disruption; 18&amp;amp;19  one composite slice of well circumscribed whorled lobulated  tissue; 20&amp;amp;21 further anterior cervix; 22&amp;amp;23 further posterior cervix ).  RS (M-23).
+
+B.  &amp;quot;OMENTAL BX&amp;quot;.  A piece of omentum, measuring 40x30x10mm.  There are no palpable nodules of lymph nodes.  Specimen cut into transverse sections and serially all embedded in blocks 1 to 3.  AE (M-3).
+
+C.  &amp;quot;LEFT PELVIC NODE&amp;quot;.  Multiple ragged pieces of fibrofatty tissue, measuring up to 30x25x5mm in total aggregate with two possible pieces of nodal tissue.  The larger measuring 12x3x3mm.  The other 5x3x2mm.
+
+(1  two possible nodes; 2&amp;amp;3  residual fat).  AE (M-3).
+
+D.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.  Fibrofatty tissue measuring up to 30x20x5mm in total aggregate containing one lymph node measuring 12x3x3mm.
+
+(1  one lymph node; 2  trimmed fat).  AE (M-2/MY 19/1/2067 km).
+
+MICROSCOPIC:   (Dr Y Mastrocola)
+A.  ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid
+
+FIGO grade:  3
+
+(architecture grade:  3, nuclear grade:  2)
+
+Myometrial invasion:  Invasion limited to inner half of myometrium
+
+Depth of myometrial invasion:   7mm
+
+Myometrial thickness:   19mm
+
+Focality:  Unifocal
+
+Tumour involves: Fundus
+
+Vascular/lymphatic invasion:  Present
+
+Involvement of cervix:  Not involved
+
+Involvement of uterine serosa:  No
+
+Excision margins:  Carcinoma is clear of cervical surgical margins
+
+Non-tumour uterus:
+Adjacent endometrium:  Atypical hyperplasia
+
+Adnexae:
+Left fallopian tube:  Unremarkable
+Right fallopian tube:  Unremarkable
+Left ovary:  Unremarkable
+Right ovary:  Unremarkable
+
+C, D.  Lymph nodes:
+Nodes involved:  0
+Total number:  10 (7 nodes in Specimen C and 3 nodes in Specimen D)
+
+B.  Other tissues (Omentum):  Unremarkable
+
+Comment:
+MSI immunohistochemistry pending block A12
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1a, pN0, pMx
+
+FIGO stage: 1A
+
+DIAGNOSIS:
+A.  UTERUS -
+-ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA (GRADE 3).
+B.  OMENTUM -
+-NEGATIVE FOR MALIGNANCY.
+C.  LEFT PELVIC NODE -
+-NEGATIVE FOR MALIGNANCY.
+D.  RIGHT PELVIC NODE -
+-NEGATIVE FOR MALIGNANCY.
+23/1/2067 ank
+Supplementary Report:
+
+Immunostains for MSI proteins (LandAmerica Financial CPC Pathology; block:   A12)
+MLH1:  Absent staining.
+PMS2:  Absent staining.
+MSH2:  Positive staining present.
+MSH6:  Positive staining present.
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+29/1/2067 km

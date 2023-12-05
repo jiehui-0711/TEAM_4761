@@ -1,0 +1,33 @@
+SPR no: 53Y988672F
+MRN no: 53998867
+Site_name: LITHGOW HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Metastatic adenocarcinoma female genital tract origin.  Interval debulking after Carbo taxol.  Ca 125 3836 initially, now 211.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, left tube and ovary&amp;quot;, consists of a uterus with attached cervix, left fallopian tube and ovary weighing 521g in total.  The uterus measures 70 x 45 x 23mm and has a smooth serosal surface.  The ectocervix measures 23 x 23mm and is unremarkable.  The endometrium is up to 2mm in thickness and the myometrium is up to 15mm in maximum thickness.  The left fallopian tube measures 35mm in length and 7mm in diameter.  The left ovary measures 20 x 12 x 10mm and has an unremarkable cut surface.  The surrounding adnexal soft tissue is haemorrhagic.  Blocks: 1 to 3 - full longitudinal section through anterior body and cervix; 4 to 6 - full longitudinal section through posterior body and cervix; 7 - left fallopian tube; 8 - ovary; 9 - left adnexal soft tissue.
+
+B.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a fallopian tube with attached ovary.  The fallopian tube measures 40mm in length and 9mm in diameter.  There is a solid nodular mass at the fimbrial end, 4mm.  The ovary measures 20 x 12 x 12mm and the cut surface is unremarkable.  Blocks: 1 - fallopian tube and nodule AE; 2 to 4 - ovary AE.
+
+C.  Specimen labelled &amp;quot;Bladder nodule&amp;quot;, consists of a haemorrhagic nodular piece of fibroadipose tissue, 62 x 42 x 35mm.  There are prominent grey fibrous septae but no discrete nodules are seen.  RS 6 blocks.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of three pieces of omentum measuring 45mm, 145 x 95 x 20mm, and 195 x 132 x 25mm.  There are nodular deposits within the fat ranging from 5 to 15mm.  RS 3 blocks.   (TO:JL/eh 1/5/70)
+
+
+MICROSCOPIC (Reported by Dr O Hufnagel):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows no significant abnormality.  There are small deposits of high grade serous carcinoma over the serosa of the anterior and posterior uterus, left ovary and left para-adnexal soft tissue.  The tumour deposits are associated with fibroblastic granulation tissue and psammomatous calcification.  The left fallopian tube shows no significant abnormality.
+
+B.  The sections show foci of high grade serous carcinoma in the serosa of the right ovary, right fallopian tube and para-adnexal soft tissue.  Focal tumour is also seen within the right ovary.  The tumour deposits are associated with nodular areas of fibrosis, fibroblastic granulation tissue and psammomatous calcification.  The fimbrial end of the right tube shows focal epithelial cytologic atypia which is favoured to be reactive in nature.  No significant increase in nuclear staining is seen with p53 and Ki-67 immunohistochemical stains.  There is no convincing evidence of serous tubal intraepithelial carcinoma (STIC).  One negative lymph node is identified in the paratubal adipose tissue (0/1).
+
+C.  The sections of the bladder nodule show adipose tissue infiltrated by high grade serous carcinoma.  The carcinoma is associated with fibroblastic granulation tissue and psammomatous calcification.
+
+D.  The sections of the omentum show readily identifiable foci of high grade serous carcinoma.  The carcinoma is associated with nodular areas of fibrosis, fibroblastic granulation tissue and psammomatous calcification.
+
+Chemotherapy Reponse Score (CRS)
+Score 2:  Partial tumour response (regression associated fibro-inflammatory changes with readily identifiable viable tumour).
+
+
+DIAGNOSIS:
+A to D.  Uterus with cervix, bilateral fallopian tubes and ovaries, bladder nodule and omentum:
+-  High grade serous carcinoma with partial tumour response involving uterine serosa, right ovary, bilateral ovarian serosa, right tubal serosa, para-adnexal soft tissue serosa, bladder nodule and omentum.

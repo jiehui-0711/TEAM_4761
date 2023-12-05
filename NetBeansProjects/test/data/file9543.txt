@@ -1,0 +1,46 @@
+SPR no: 48G479763Y
+MRN no: 482479
+Site_name: MALDON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report48G47976 (48G479763Y) SIEBERT, VESPER
+
+HISTOPATHOLOGY REPORT:
+
+*SUPPLEMENTARY REPORT ATTACHED*
+
+HISTORY:
+Ca ovry.  Omentum.
+
+MACROSCOPIC:
+&amp;quot;OMENTUM&amp;quot;. Consists of multiple pieces of unorientated fibroadipose tissue and blood clot, 6-200mm in size and 200x210x50mm in aggregate.  On the fatty tissue, resembling omentum, there are milky white, thick areas, which are present on both the surface and within the fatty tissue.
+
+(1-3 RS from the largest piece of fatty tissue; 4 sections from the second largest piece of tissue; 5 RS of a smaller piece of lobulated fatty tissue; 6 sections from a more fibromembraneous area). RS (M-6/LK/ank)
+
+MICROSCOPIC:   (Dr. L Sperow)
+Sections show adipose tissue extensively infiltrated by a clear cell tumour.  The tumour has a predominantly papillary growth pattern, but also shows areas of tubular growth pattern.  There are scattered psammoma bodies present.  The papillary cores in some areas have a hyalinised appearance.  In some areas, eosinophilic material is seen within the tubular structures.  Individual tumour cells have abundant clear cytoplasm, and irregular nuclei with some nuclear membrane folding, and small nucleoli.  There is little or no nuclear stratification in most areas.  Mitotic figures are extremely sparse (less than 1 per 10 high power fields).  Immunohistochemical stains show that the tumour is positive for EMA, PAX8, Ber-EP4, CK7, and HBME-1.  It shows very weak variable focal positivity for p53, and very focal positivity for Napsin A.  It is negative for WT1, cytokeratin 20, calretinin, CEA, p16, AMACR, and D-240.
+This case has been subject to intradepartmental consultation.  The appearances raise a differential diagnosis of clear cell carcinoma versus serous carcinoma.  The overall histologic appearance and immunohistochemical staining pattern favours clear cell carcinoma.  While the female genital tract is the most likely site of origin, clinical correlation is required as to likely primary site.
+DIAGNOSIS:
+OMENTUM:
+- FAVOUR CLEAR CELL CARCINOMA.
+- CLINICAL CORRELATION IS REQUIRED AS TO MOST LIKELY SITE OF ORIGIN (PLEASE SEE TEXT AND COMMENT ABOVE).
+
+14/2/2066 nh
+
+SUPPLEMENTARY REPORT
+
+Immunostains for MSI proteins (eBay ACUTE CARE WARD; block:  2 )
+
+MLH1:  Positive (norma) staining of tumour nuclei
+PMS2:  Positive (norma) staining of tumour nuclei
+MSH2:  Positive (norma) staining of tumour nuclei
+MSH6:  Positive (norma) staining of tumour nuclei
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+22/2/2066 ht

@@ -1,0 +1,111 @@
+
+Episode No:  13E155315T
+131155.JDP
+
+Meydid, WANDJOO 
+Lab No:  13E15531
+Ellena
+NARRANDERA  Tasmania  2899
+Specimen: Tissue
+D.O.B:  23/4/1999
+Sex:  F
+Collected: 25/06/2063 at 09:02
+Location:  Immunology-PETER MACCALLUM CANCER CENTRE
+DR Fern Tangela CYRIL-Flippo
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+			   Additional report on 8.7.2063
+
+
+CLINICAL:
+Right breast 11 o'clock carcinoma - wide local excision + sentinel node biopsy + shave of inferior margin of cavity.  Short superior, long lateral, medium medial sutures.  
+MACROSCOPIC:
+A.   Specimen labelled "Right sentinel node biopsy", consists of two pieces of fatty tissue 45 x 40 x 15mm in aggregate. There are two lymph nodes 35 and 15mm in maximum dimension.  Block 1 - one bisected lymph node; 2-4 - comprise one lymph node. 
+B.   Specimen labelled "Right breast lesion long lateral, short superior, medium medial", consists of a piece of breast tissue with three sutures as described on the label measuring 100mm (lateral to medial) x 90mm (superior to inferior) x 40mm (superficial todeep).  Superficial margin is inked blue, deep is inked black and superior is inked red. Specimen is serially sectioned into twelve slices numbered from medial to lateral.  There is an indurated pale tumour with focal haemorrhage in slices 3-5 measuring 15 x 25 x 17mm.  The tumour is 15mm from medial, 20mm from superior, 35mm from inferior, 5mm from superficial, 11mm from deep and well away from the lateral margins.  Block 1 - representative slice 1 (medial margin); 2 & 3- medial third of slice 2; 4-11 - slice 3; 12-15 -medial third of slice 4; 13 - ER, PR, HER2, Ki67; 14 - reserve block; 16-18 - medial third of slice 5; 16-18 - medial third of slice 5; 19 & 20 - medial third of slice 6; 21 & 22 - medial third of slice 7; 23 & 24 - medial third slice 8; 25 - representative slice 12 (lateral); Please see the diagram; 26 to 32 - rest of medial margin; 33 to 36 -rest of slice no 2; 37 to 42 - rest of slice no 4; 43 to 46 - rest of slice no 5; 47 to 53 -rest of slice no 6; 54 to 58- rest of slice 7; 59 to 63 - rest of slice 8; 64 to 69 - slice 9; 70 to 75 - slice 10; 76 to 81 - slice 11; 82 to88 - rest of slice 12.  (TO: EI: YY/mm 28.6.63) 
+C.  Specimen labelled "Re-excision of inferior deep margin of right breast long lateral, short superior, medium medial", consists of a piece of breast tissue with three marking sutures as described on the label measuring 70 x 20 x 55mm.  The margins are inked in three colours: superior red, inferior black and superficial green. Specimen is serially sectioned into eleven slices numbered from medial to lateral. There is a pale relatively firm area extending from slice 3 to slice 7 (? fibrosis)measuring 16 x 15 x 19mm.  Block 1 - slice 1 (medial margin); 2 - slice 2; 3 & 4 - slice 3; 5 & 6 - slice 4; 7 & 8 - slice 5; 9 & 10 - slice 6; 11 & 12 - slice 7; 13 & 14 - slice 8; 15-17 - slice; 18 & 19 - slice 10; 20 - slice 11 (lateral margin). AE.  
+(ZF/ec 25.6.63) 
+MICROSCOPIC (Reported by Dr E Bihm):
+A, B & C.  Sections of the wide local excision (Specimen B) show an encapsulated papillary carcinoma, intermediate grade (WHO 2012) and intermediate grade ductal carcinoma in situ covering an area of approximately 75mm across (9 out of 12 consecutive slices).  A 15mm grade 2 infiltrating ductal carcinoma, NOS, is present adjacent to the area ofDCIS stated above.  Invasive carcinoma is transected at the inferomedial margin of the wide local excision (Specimen B - B31) and is present at the superomedial margin of the re-excision of the inferior deep margin (Specimen C - C2, 3 and 5).  A synoptic report follows.
+
+Invasive carcinoma:
+Site:  Right breast
+Type:  Infiltrating ductal carcinoma, NOS
+Invasive tumour size: 15mm (across three consecutive slices,)
+Grade (Modified Bloom & Richardson):  2
+Tubules:  2      Nuclei:  2     Mitoses:  2     Mitotic rate:      9/10hpf.
+Lymphovascular invasion:  Not seen
+	    
+DCIS and encapsulated papillary carcinoma component:  
+DCIS:  Present extensively
+Maximum extent of DCIS:  75mm  
+Nuclear grade:  Intermediate 
+Architecture:  Encapsulated papillary carcinoma; solid and cribriform
+Necrosis:  Not seen  
+Calcification:  Present 
+Degree of DCIS in tumour:  Minimal 
+DCIS in adjacent tissue:  Extensive
+Excision Margins:  
+Invasive component:
+	Superior		>10mm
+	New Inferior	2.8mm		(Blocks C3 - normal intervening ducts present)
+	Medial		10mm
+	Lateral		>10mm
+	Superficial	0.6mm		(Block C3 - normal intervening ducts absent)
+	Deep		>10mm
+In-situ and encapsulated papillary carcinoma component:
+	Superior		>10mm	
+	New Inferior	4mm		(Block C7 intervening ducts present)
+	Medial		3.5mm		(Block B31 - normal intervening ducts present)
+	Lateral		>10mm
+	Superficial	>10mm
+	Deep		2mm		(Block B35 - normal intervening ducts present)
+Receptors (Block C3): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong  
+PR:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong 
+HER2 (Novocastra 10A7):  0
+Ki-67 index:  20%
+Nipple:  Not included
+LCIS / ALH:  Present  (Block B26, B55 & C12)
+Miscellaneous:
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:	2
+Number of sentinel lymph nodes involved by tumour:  0         
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)):  0
+DIAGNOSIS:
+A.  Right sentinel node:  Two negative lymph nodes
+B & C.  Right breast and re-excision inferior deep margin:  Grade 2 infiltrating ductal carcinoma, NOS plus encapsulated papillary carcinoma and intermediate grade ductal carcinoma in situ
+ADDITIONAL REPORT (Reported by Dr E Headings on 8.7.2063):
+Papillary encapsulated carcinoma and ductal carcinoma in situ measures 75mm in total extent.  Withinthis area, papillary encapsulated carcinoma itself is present across 4 consecutive slices (Slices 3, 4, 5 & 6) and measures approximately 20mm.
+
+Receptors for encapsulated papillary carcinoma (Block B13): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong  
+PR:  Positive
+	90% of nuclei stained
+intensity of staining:  Weak to strong 
+HER2 (Novocastra 10A7):  1+
+Ki-67 index:  30%
+ADDITIONAL REPORT:  (11.763)
+The following pertains to the Her2 ISH of the infiltrating ductal carcinoma, NOS:
+Blocks (Block C3) were sent to OAKEY HOSPITAL Hospital for Her2 ISH analysis, Dr E Asfour reports:
+HER2 IHC Result:   0 (at LIVERPOOL HOSPITAL).
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roache). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 2.1.
+Mean CEP17 copy number per cell:  1.75.
+HER2/CEP17ratio:  1.2.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

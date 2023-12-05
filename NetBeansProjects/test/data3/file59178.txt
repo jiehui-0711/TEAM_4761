@@ -1,0 +1,43 @@
+SPR no: 49Z7647011
+MRN no: 49976470
+Site_name: CRAIGIEBURN HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left gastroc soft tissue sarcoma.  Soft tissue mass left leg stitch 12 o&amp;apos;clock.  New medial margin stitch new margin.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Soft tissue mass stitch at 12 o&amp;apos;clock left leg&amp;quot;, consists of an ellipse excision of skin which measures 110 (12 to 6 o&amp;apos;clock) x 80 (3 to 9 o&amp;apos;clock) x 45mm (superficial to deep). The ellipse of skin measures 110 x 30mm.  A suture is present at one corner representing
+12 o&amp;apos;clock.  3 o&amp;apos;clock inked blue, 9 o&amp;apos;clock inked green and deep inked black.  Skeletal muscle is present on the deep surface.  Specimen is serially sectioned from 12 to 6 o&amp;apos;clock into fourteen slices.  In slices 5 to 8 a lobular lesion which is homogeneous and appears distinct from the surrounding mature adipose tissue is identified which measures 28 x 22 x 21mm.  The lesion is 10mm deep to the skin, 6mm from the closest 3 o&amp;apos;clock margin, 9mm from the closest
+9 o&amp;apos;clock margin and 6mm from the closest deep margin.
+Blocks 1 &amp;amp; 2 - 12 o&amp;apos;clock TS; 3-6 - slice 5; 7-10 - slice 6; 11-14 - slice 7; 15 - 6 o&amp;apos;clock TS.  Please see diagram.
+
+B.  Specimen labelled &amp;quot;New medial margin stitch at margin&amp;quot;, consists of fibrofatty tissue which measures 65 x 16 x 16mm.  One suture is noted on one surface as described. The opposite surface appears slightly diathermied.  Sutured surface inked blue, opposite surface inked black. The specimen is otherwise unoriented.  Block 1- 2TS tips; 2-7 -2TS each. AE. (TO:YL/ec 9/2/68)
+
+
+MICROSCOPIC (Reported by Dr L Huisman):
+A. Sections show skin with underlying subcutis and skeletal muscle. Within the subcutaneous fat, there is a 28 mm encapsulated, circumscribed malignant lesion. The lesion is highly cellular, and is composed of spindle shaped and epithelioid tumour cells with pleomorphic, hyperchromatic nuclei. Anastomosing fascicles are seen. There are up to 15 mitoses per 10 hpf. No necrosis is seen. No invasion into skeletal muscle is present. No lymphovascular or perineural invasion is identified. A fibrosis scar is also present.
+Margins:
+Deep: 5mm (A5)
+Superficial: 9mm (A4)
+Other margins: &amp;gt; 10mm
+FNCLCC grade:  2
+Tumour differentiation: 2 (sarcoma with histological typing)
+Mitoses: 2 (15/10 hpf)
+Necrosis: 0 (no necrosis)
+Immunohistochemistry:
+S100: patchy nuclear staining
+SOX10: -ve (This was focally positive in the previous excision)
+H3K27me3: lost in approx. 70% of tumour cells
+INI-1: retained
+Ki67 index: approx. 15%
+EMA: focal weak +ve
+SMA: focal weak +ve
+Other negative stains: c-kit, desmin, HMB45, melan A, mitf, myogenin, panCK, stat6, TLE1
+COMMENT
+The findings are of an intermediate grade sarcoma, with features favouring a malignant peripheral nerve sheath tumour. The morphology is similar to the previous specimen (MACQUARIEWARD Pathology MACLEAN DISTRICT HOSPITAL LY97R47011).
+B. Sections show fat and fibrous tissue with no evidence of malignancy.
+DIAGNOSIS
+A. Left gastrocnemius soft tissue excision: 28mm intermediate grade sarcoma, with features favouring malignant peripheral nerve sheath tumour
+B. New medial margin: no evidence of malignancy

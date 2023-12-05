@@ -1,0 +1,18 @@
+SPR no: 21P734048X
+MRN no: 2157340
+Site_name: DYSART HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Advanced ovarian adenocarcinoma.  Underwent neoadjuvant chemotherapy.  Laparotomy and interval debulking today.  ?UTI.  Post four cycles of Carbo/Taxol.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, bilateral tubes and ovaries&amp;#8221; consists of a uterus with attached cervix, bilateral fallopian tubes and bilateral ovaries weighing 169g in total.  The uterus measures 80 x 70 x 50mm and has a smooth but haemorrhagic serosal surface specially anteriorly.  The ectocervix measures 32 x 30mm and is unremarkable.  The endometrium is 1mm in maximum thickness and the myometrium is up to 17mm in maximum thickness.  The myometrium contains fibroids ranging from 15 to 17mm in maximum dimension.  The right fallopian tube measures 52 x 7 x 7mm.  The left ovary measures 30 x 20 x 13mm and has an unremarkable cut surface.  The ovaries are all embedded.
+Blocks:  1 to 3 - full longitudinal section of anterior body and cervix; 4 - further section of fibroids and myometrium anteriorly; 5 - sclerotic areas through myometrium; 6 to 8 - full longitudinal section of posterior body and cervix; 9 - right fallopian tube; 10&amp;amp;11 - right ovary; 12 - left fallopian tube; 13&amp;amp;14 - left ovary; 15 - representative largest fibroid.
+B.  Specimen labelled &amp;#8220;Small bowel nodule&amp;#8221; consists of fibrous grey tissue 80 x 5 x 5mm and 48 x 5 x 5mm.  All embedded 2 blocks.
+C.  Specimen labelled &amp;#8220;Omentum&amp;#8221; consists of a piece of fibroadipose tissue, 165 x 55 x 25mm.  The omentum is thickened and haemorrhagic and on sectioning there are dense fibrous bands between lobules of fat.  No discrete mass is identified on sectioning.  Representative sections in three blocks.  (TO: JL; JL/ua 30.9.66)
+MICROSCOPIC (Reported by Dr G Walden):
+A, B &amp;amp; C.  Sections show adhesions, chronic inflammation and calcification associated with scant malignant cells on the surface of both ovaries, in the paradnexal soft tissue, on the uterine serosa, in the small bowel nodule, and in the omentum. Extensive chemotherapy effect is present.   Most of the malignant cells are within the omentum, and these show changes consistent with chemotherapy affected high grade serous carcinoma.
+Focal carcinoma in situ is noted in the fimbrial end of the right fallopian tube.
+The ectocervix and endocervix are unremarkable.  The endometrium is inactive.  The myometrium shows leiomyomas.
+DIAGNOSIS:
+High grade serous carcinoma (with extensive chemotherapy changes) of probable peritoneal origin predominantly involving the omentum, and also involving the surface of both ovaries, paradnexal soft tissue, uterine serosa, and small bowel.

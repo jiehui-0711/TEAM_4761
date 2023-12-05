@@ -1,0 +1,43 @@
+
+Episode No:  32S204859C
+3272048.OYC
+
+Hunger, Agustin ISAIAS 
+Lab No:  32S20485,32S20485
+Springpath
+COWRA  TAS  6433
+Specimen: Washings,Tissue
+D.O.B:  14/10/2007
+Sex:  F
+Collected: 15/06/2065 at 11:58
+Location:  WEST GYNAECOLOGY - BASS COAST REGIONAL HEALTH
+DR Kasey DWIGHT Mcgeary
+Distribution:    NSW-CANCER-REGISTRY
+			SUPPLEMENTARY REPORT (26.6.65)
+CLINICAL:
+Endometrial cancer.  Ischaemic heart disease, CABG 2054.  Obesity, BMI 33.  Bowel cancer 2049.  Type 2DM.
+MACROSCOPIC:
+Specimen labelled "Uterus tubes and ovaries", consists of a uterus, bilateral fallopian tubes and ovaries weighing 126g in total.  The uterus measures 70 x 65 x 55mm.  The uterus is covered by smooth shiny serosal surface along its height anteriorly and posteriorly.  The ectocervix is not present.  There is a pale solid endometrial tumour with relatively friable surface 48 x 31 x 7mm.  The myometrium is 27mm in maximum thickness.  The right fallopian tube measures 35mm in length and up to 7mm in diameter.  The right ovary measures 28 x 20 x 16mm and contains a single unilocularcyst 16 x 10 x 9mm.  The cyst contains friable red solid material.  The left fallopian tube measures 47mm in length and up to 8mm in diameter.  There are several pale/yellow areas of discolouration over the serosal surface of the fallopian tubes ranging from 1 to 3mm in maximum diameter The left ovary measures 32 x 31 x 15mm and contains a single unilocular cyst (excised through prior to resection) 15 x 10 x 10mm.  The cyst has a smooth inner surface and is filled with dark red soft solid material.  
+Blocks: 1 to 4 - full longitudinal section of anterior uterus (3 and 4 are paired); 5 to 8 - full longitudinal section of posterior uterus (7 and 8 are paired; MSI studies are requested on block 7); 9 to 11 - more sections of tumour (block 10 reserved block); 12 - representatives right ovary; 13 - right ovary and right fallopian tube; 14 - representative left fallopian tube including several TS from the area with ?deposits; 15 - representatives left ovary.  (TO: IG;VC/vo 16.6.65); 16 & 17 - paired sections-of uterus (16 - cervix); 18 - section of cervix; 19 - ?cervix; 20 & 21 - paired sections full thickness of body of uterus; 22 - endomyometrium; 23 - sections of endomyometrium; 24 - full thickness section of body of uterus; 25 - endomyometrium; 26 & 27 - full thickness section of body of uterus; 28 - section of endomyometrium.  The entire visible endometrium has been blocked.  (TO: WO:  NA/mm 17.6.65) 
+MICROSCOPIC (Reported by Dr K Hirsbrunner):
+The endometrium is entirely embedded and examined.  Sections show grade 1 endometrioid adenocarcinoma confined to the endometrium.  The carcinoma is composed of crowded, focally back to back and complex cribriform glands lined by cells with grade 1 nuclei.  There is irregularity of the endomyometrial junction however, no myometrial invasion is seen.  The lesion shows surface involvement of the upper endocervical mucosa, however, no cervical stromal invasion is seen.No lymphovascular invasion is seen.  There is associated complex hyperplasia with cytological atypia.
+The ectocervix is focally distorted with stromal organising thrombi in this area suggestive of previous surgery. The smallamount of residual ectocervical squamous epithelium is unrermarkable.   Apart from focal adenomyosis the myometrium is unremarkable.  The uninvolved endometrium is weakly proliferative in type.  The right and left fallopian tubes are unremarkable.  The cysts described within the right ovary is a haemorrhagic follicular cyst and the left ovarian cyst also a follicular cyst.  The small serosal structures on the fallopian tubes described grossly are benign paratubal cysts.
+Microsatellite protein immunoexpression analysis pending.
+Selected slides shown to Dr K Reagen who concurs.
+
+DIAGNOSIS:  
+Uterus, tubes and ovaries:  
+-   Non-myoinvasive grade 1 endometrioid adenocarcinoma, Stage 1A (FIGO)
+-   Supplementary report to follow with MSI immunohistochemistry results.
+		
+	SUPPLEMENTARY REPORT (26.6.65)(Reported by Dr K Purkhiser)
+
+Mismatch Repair Deficiency (MMRD) Immunohistochemistry Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

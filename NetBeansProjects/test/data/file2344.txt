@@ -1,0 +1,134 @@
+SPR no: 80X051355K
+MRN no: 8090513
+Site_name: YASS DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  80X051355K
+8090513.PPK
+
+VIGGIANO, ERICH
+Lab No:  80X05135
+Spurn
+DANDENONG  ACT  4160
+Specimen: Tissue
+D.O.B:  6/12/1982
+Sex:  F
+Collected: 29/6/2065 at :
+Location:  DAY SURGERY-GATTON HOSPITAL
+DR SAM LES TAULA
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Bilateral breast Ca.  Advanced breast cancer on Tamoxifen.   Thickened endometrium.
+Further history from Dr Macina (7.8.2065): Imaging of the right breast shows no definite primary tumour, however, extensive right axillary lymph node involvement is confirmed (?metastases from contralateral breast tumour).
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right breast tissue plus axillary dissection&amp;quot;, consists of a mastectomy specimen measuring 185 x 135 x 25mm, with an overlying ellipse of skin measuring 160 x 84mm.  There is attached axillary tissue measuring 80 x 75 x 25mm.  The complete specimen weighs 265g.  The nipple measures 14mm in diameter andis situated 64mm from the medial skin apex and 27mm from the inferior skin edge.  The overlying ellipse of skin appears unremarkable.  The superior margin is inked blue, the inferior margin is inked red, and the deep margin is inked black.  On sectioning, there is a very firm and calcified tumour situated 40mm from the nipple at roughly the 10 o&amp;#8217;clock position.  The tumour measures roughly 18 x 15 x 14mm.  The tumour is 8mm from the deep margin, 28mm from theinferior margin, 30mm from the superior margin, and 16mm deep to the skin.  The remaining breast parenchyma has a fibrofatty appearance.  There are few small calcified areas palpable in the region deep to the nipple.  Multiple lymph nodesare identified in the axillary tissue.  RS.
+Blocks: 1 &amp;#8211; representative nipple; 2 &amp;#8211; tissue deep to nipple; 3 and 4 &amp;#8211; representative right upper quadrant; 5 and 6 &amp;#8211; representative right lower quadrant; 7 and8 &amp;#8211; representative left upper quadrant; 9 and 10 &amp;#8211; representative left lower quadrant; 11 to 14 &amp;#8211; tissue adjacent to calcified tumour; 15 to 19 &amp;#8211; tissue deep to nipple (region of palpable calcifications); 20 &amp;#8211; four lymph nodes; 21 &amp;#8211; two lymph nodes; 22 &amp;#8211; single lymph node, bisected; 23 &amp;#8211; RS single presumed involved lymph node (25mm in maximum dimension); 24 &amp;#8211; single lymph node, bisected; 25 &amp;#8211; single lymph node, bisected; 26 &amp;#8211; RS single presumed involved lymph node (43mm in maximum dimension); 27 &amp;#8211; RS presumed involved lymph node (33mm in maximum dimension).
+Additional tissue embedded 1 June 2065 and 2 June 2065 following decalcification.  Blocks: 28 &amp;#8211; RS directly lateral to calcified tumour (decalcified); 29 and 30 &amp;#8211; calcified tumour (decalcified); 31 and 32 &amp;#8211; RS directly medial to calcified tumour (decalcified).  (TO: JB;JB/vo 6.1.65) ; 33 to 39 &amp;#8211; regionmedial aspect of tissue deep to nipple; 40 to 46 &amp;#8211; representative sections tissue deep lateral aspect to nipple.
+(TO: JB; JB/rt 7.7.65)
+B.  Specimen labelled &amp;quot;Left breast tissue and axillary dissection&amp;quot;, consists of a mastectomy specimen measuring 210 x 150 x 50mm, with overlying ellipse of skin measuring 235 x 13mm.  There is axillary tail measuring 100 x 110 x 45mm, including an attached segment of muscle measuring 100 x 40 x 35mm.  The nipple measures 15mm in diameter and is situated 110mm from the medial skin apex of skin and 55mm from the inferior skin edge.  The complete specimen weighs 483g.  There are multiple firm, palpable nodules scattered over the skin surface.  On sectioning, there is a multifocal tumour which diffusely infiltrates though the fibroadipose breast tissue.  The tumour involves the skin and appears to abut the deep and superior margins.  The tumour is 4mm from the inferior margin.  Accurate assessment of the full extent of the tumour is challenging given its diffuse nature, but it appear to measure up to 110mm in maximum dimension (medial to lateral).  The bulk of the tumour is directly deep to the nipple and measures 85mm from superior to inferior.  The axillary tissue appears to be one solid, adherent mass of lymph nodes/tumour; individual lymph nodes are largely not identifiable.  RS.
+Blocks: 1 &amp;#8211; medial breast tissue; 2 and 3 &amp;#8211; left upper quadrant; 4 and 5 &amp;#8211; left lower quadrant; 6 to 15 &amp;#8211; central region of specimen, including sections of nipple; 16 &amp;#8211; right lower quadrant; 17 &amp;#8211; right upper quadrant; 19 &amp;#8211; reserved tumour block; 20 to 27 &amp;#8211; representative sections of (70mm) axillary mass.  Please refer to block diagram.
+C.  Specimen labelled &amp;quot;Node left axilla above axillary vein&amp;quot;, consists of a lymph node measuring 17mm in maximum dimension.  BAE 1 block.
+D.  Specimen labelled &amp;quot;Lateral left axillary node&amp;quot;, consists of a lymph node measuring 28mm in maximum dimension.  RS 1 block.
+E.  Specimen labelled &amp;quot;Left apical node&amp;quot;, consists of a lymph node measuring 37mm in maximum dimension.  RS in 1 block.
+F.  Specimen labelled &amp;quot;Curettings&amp;quot;, consists of pale grey and haemorrhagic tissue measuring 22 x 14 x 10mm in aggregate.  AE 1 block.   (TO: JB;JB/vo 30.6.65)
+MICROSCOPIC:  (Reported by Dr V Hartman)
+A.  The right breast has been extensively sampled. There is an incidental 3.3mm grade 3 invasive carcinoma of the breast associated with multifocal lymphovascular space invasion, perineural growth and extensive axillary lymph node metastases (9/12 axillary lymph nodes involved).
+Invasive carcinoma:
+Site: Left breast (blocks A16, A33, A34).
+Type: Invasive carcinoma of no special type.
+The carcinoma consists of infiltrative highly atypical malignant trabeculae and cords with an associated mild chronic inflammatory cell infiltrate.
+Invasive tumour size: Approximately 3.3mm.
+Grade (ModifiedBloom &amp;amp; Richardson): 3
+Tubules:      Nuclei: 3     Mitoses: X    Mitotic rate:      Up to 3/10hpf.
+(Note: there is insufficient tumour for a complete mitotic count. Based on the tumour morphology, very high ki-67 and comparison with the contralateral breast tumour, this tumour has been assigned as grade 3 for mitoses).
+Lymphovascular invasion: Present (multifocal).
+Focal perineural growth.
+
+DCIS component:
+Not identified.
+Excision Margins:
+Invasive component:
+Clear of margins.
+
+Receptors (Block A33):
+ER:  	POSITIVE
+75% of nuclei stained
+Predominant intensity of staining: Moderate tostrong.
+PR:  	NEGATIVE.
+HER2 (Novocastra 10A7): NEGATIVE.
+HER SISH:  Performed at DHM, MORUYA DISTRICT HOSPITAL Hospital, see separate report.
+Ki-67 index: Approximately 60%.
+E-cadherin: Positive.
+Nipple: The nipple shows no significant abnormality. Scattered fungal elements are noted within the superficial nipple skin.
+LCIS / ALH: Not identified.
+Miscellaneous: The non-neoplastic breast tissue shows a spectrumof proliferative changes including columnar cell change/hyperplasia, florid epithelial hyperplasia, multiple foci of sclerosing adenosis, papillary apocrine metaplasia, fibrocystic change, fibroadenomatoid change and scattered microcalcifications. In areas, the columnar cell change shows papillary type tufting, in keeping with atypical ductal hyperplasia (clear of margins A32). A single large duct in A42 shows partial involvement by atypical ductal hyperplasia which approaches, but falls short of definite, low grade papillary intraduct carcinoma. There is a calcified 15mm fibroadenoma.
+Axillary/other nodes:
+Number of axillary lymph nodes examined: Twelve.
+Number of axillary lymph nodes involved by tumour: Nine (9/12).
+Number of axillary nodes with metastases &amp;gt;2.0mm: Nine (up to 16mm).
+Extranodal spread: Present (up to 1.6mm).
+B.Sections of the 110mm left breast tumour show a grade 3 invasive carcinoma of no special type. A synoptic report for invasive carcinoma follows:
+Invasive carcinoma:
+Site: Left breast.
+Type: Invasive carcinoma of no special type.
+Invasive tumour size: 110mm.
+The tumour shows extensive involvement of the left breast tissue, with multiple coalescing tumour nodules infiltrating fibroadipose tissue over an approximate maximum extent of 110mm.
+Grade (Modified Bloom &amp;amp; Richardson): 3
+Tubules: 3     Nuclei: 3     Mitoses: 3     Mitotic rate:      17/10hpf.
+Lymphovascular invasion: Present (widespread and multifocal).
+Perineural invasion: Present.
+
+DCIS component:
+DCIS: Not identified.
+Excision Margins:
+Invasive component:
+Deep margin: Tumour present at margin.
+Superior margin: Tumour present at margin.
+Superficial (skin): Tumour infiltrates within subepithelial stroma (with focal infiltration of nipple epithelium).
+Medial margin: Foci of lymphovascular space invasion approximately 10mm from margin.
+Inferior margin: Foci of lymphovascular space invasion less than 2.2mm from the margin.
+Lateral margin: Present at lateral margin (apical fibroadipose tissue involved).
+Receptors (Block B6):
+ER:  	POSITIVE
+99% of nuclei stained
+Predominant intensity of staining: Strong.
+PR:  	NEGATIVE
+Less than 1% of nuclei stained.
+HER2 (Novocastra 10A7): Negative (1+)
+HER SISH:  Performed at Pathology North, WALCHA MULTIPURPOSE SERVICE Hospital, see separate report.
+Ki-67 index: Variable, up to 70%.
+Nipple: Tumour shows extensive infiltration of the nipple stroma, including focal direct infiltration of the overlying nipple skin.
+
+LCIS / ALH: Not identified.
+Miscellaneous: The adjacent involved breasttissue shows focal florid epithelial hyperplasia, apocrine metaplasia and intra-duct papilloma(s).
+Axillary/other nodes:
+Theaxillary tail contains a 70mm mass of matted lymph nodes showing extensive involvement by metastatic adenocarcinoma. The mass of matted nodes contains foci of tumour associated necrosis and carcinoma extends to the inked margins in areas.
+C.  Sections show fibroadipose tissue containing a 16mm focus of metastatic adenocarcinoma. At least two partially involved nodes are identified (2/2), however, tumour replaces much of the tissue. There is focal perineural invasion. Scattered large calibre vessels are present.
+D.  Sections of the lateral left axillary lymph node show metastatic adenocarcinoma with extranodal extension of 0.56mm.
+E.  Sections of the leftapical node show metastatic adenocarcinoma with extranodal extension of at least 5.5mm.
+F.  Sections show a benign endometrial polyp. There are no atypical features. There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Right breast tissue plus axillary dissection:
+3.3mm grade 3 invasive carcinoma of no special type.
+Multifocal lymphovascular space invasion and focal perineural growth.
+Metastatic carcinoma in 9 of 12 lymph nodes (largest nodeup to 16mm in dimension with extranodal extension up to 1.6mm).
+ER positive; PR and Her-2 negative.
+Metastatic carcinoma in 9 of 12 axillary lymph nodes (9/12).
+
+B.  Left breast tissue and axillarydissection:
+110mm grade 3 invasive carcinoma of no special type.
+The carcinoma shows extensive involvement of breast tissue, including focal nipple epithelium and subareolar stromal involvement.
+Lymphovascular space and perineural invasion present.
+ER positive; PR and Her-2 negative.
+70mm depositof metastatic tumour in axilla within mass of matted lymph nodes.
+
+C.  Node left axilla above axillary vein: Metastatic carcinoma involving at least two lymph nodes infiltrating fibroadipose tissue(2/2). Focal perineural invasion.
+
+D.  Lateral left axillary lymph node: Metastatic adenocarcinoma withextranodal extension of at least 0.56mm.
+
+E.  Left apical node: Metastatic adenocarcinoma with extranodal extension of at least 5.5mm.
+
+F.  Curettings: Benign endometrial polyp.
+
+HER-2 SISH is beingperformed at Molecular Oncology BRIDGETOWN HOSPITAL and separate reports will be issued.

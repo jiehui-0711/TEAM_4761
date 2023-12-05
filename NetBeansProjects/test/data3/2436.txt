@@ -1,0 +1,32 @@
+Episode No:  97E916643S
+971916.PMI
+
+GLAWE, BOBBIE 
+Lab No:  97E91664
+Danewood
+KURRAJONG HEIGHTS  Northern Territory  5355
+Specimen: Tissue
+D.O.B:  10/6/1991
+Sex:  M
+Collected: 21/10/2065 at 13:59
+Location:  St Vincent's Pathology-THEODORE HOSPITAL
+DR Harlan CAMI HOLTKAMP
+Distribution:  FILE-COPY
+CLINICAL:
+Large mass posterior neck - ?atypical lipomatous tumour.  Specimen was sampled for Cytogenetics when fresh.
+MACROSCOPIC:
+Specimen labelled "Mass posterior neck stitch 9 o'clock" consists of an orientated ellipse of skin measuring 170 x 75mm with a suture attached to one pole marking 9 o'clock.  There is underlyingtissue measuring 170 x 105 to a depth of 90mm.  The surface of the skin is unremarkable.  The 12 o'clock margin is inked black and the 6 o'clock margin is inked blue.  The cut surface reveals a relatively well circumscribed fatty tan gelatinous and partly cystic tumour taking up the majority of the underlying soft tissues measuring 130 x 85 x 80mm.  The specimen appears to come close to the 12 and 6 o'clock soft tissue margins.  It is 8mm from the deep margin and is well clear of both the 3 and 9 o'clock margins.
+Blocks:  1 - 3 o'clock margin; 2 - 9 o'clock margin; 3 to5 - tumour to deep margin; 6 to 8 - tumour to 12 o'clock margin; 9 to 11 - 6 o'clock margin; 12 to 15 - representative tumour; 16 - reserved block.  (TO: IB; BZ/rt 22.10.65)
+MICROSCOPIC (Reported by Dr X Daymude & Dr X Gravitz):
+Sections show a well circumscribed tumour which consists of a lipomatous and myxoid components.  The myxoid component is moderately cellular with spindle cells with round to tapered ends, even chromatin and minimal cytologic atypia.  Frequent mast cells are present.  Mitoses are inconspicuous and there is no necrosis.  There is a prominent vascular pattern with dilated "staghorn" blood vessels throughout.  No 'chicken-wire' vascular patternis seen.  Focally there is more hyalinised fibrous tissue with some ropey collagen.  The lipomatous component consists of adipocytes of variable size; no definite lipoblasts are identified.  No hyperchromatic atypical cells are identified.  There is evidence of previous haemorrhage with haemosiderin laden macrophages.  
+Immunohistochemistry:
+CD34: Strongly positive
+BCL2: Positive
+CD99: Moderate background staining with scattered tumour cells positive
+SMA / Desmin / S100: Negative in tumour cells
+Ki67: Generally 2-3%
+The histologic appearance and strong CD34 staining are most in keeping with a myxoid spindle cell lipoma.  There is no evidence of malignancy.
+The tumour is 2.5mm from the 6 o'clock margin, 4.5mm from the 12 o'clock margin, 5mm from the deep margin and well clear of the 3 and 9 o'clock margins. 
+DIAGNOSIS:
+Posterior neck:  Myxoid spindle cell lipoma, excision appears complete.
+

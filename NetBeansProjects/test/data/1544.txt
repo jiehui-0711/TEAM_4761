@@ -1,0 +1,49 @@
+Episode No:  81J522936E
+8135229.IRE
+
+Runk, Gerry 
+Lab No:  81J52293
+Marley
+BURPENGARY  VIC  1114
+Specimen: Tissue
+D.O.B:  22/8/2000
+Sex:  M
+Collected: 05/07/2013 at 15:35
+Location:  DICKINSON 2 NORTH-BUNDABERG HOSPITAL
+DR Keneth LUIGI-Baucom
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Prostate Ca.
+MACROSCOPIC:
+A.  Specimen labelled "Right pelvic lymph node" consists of fibrofatty tissue which measures 45 x 35 x 20mm containing multiple lymph nodes.
+Blocks:  1 & 2 - lymph nodes; 3 to 5 - one lymph node serially sectioned.  
+B.  Specimen labelled "Left pelvic lymph node" consists of fibrofattytissue which measures 50 x 35 x 20mm.  Multiple lymph nodes are identified.  
+Blocks:  1 & 2 - lymph nodes.
+C.  Specimen labelled "Prostate and seminal vesicles" consists of a prostate with attached bilateral vas deferens and seminal vesicles.  The prostate measures 55 x 50 x 45mm and weighing 48g.  The right vas deferens measure 15mm and the left vas deferens measures 20mm in length.  The right seminal vesicle measures 20 x 12 x 8mm and the left seminal vesicle measures 25 x 20 x 15mm.  The left half is inked green and the right black with anterior red.  The prostate is transversely sectioned into 4 slices.  Slice 1 (apex) and 4 (base) are further parasagitally sectioned.  
+Blocks:  1 to 13 - slice 1 (apex from right to left); 14 & 15 - slices 2 & 3; 16 to 38 - slice 4 (base) (18&19, 20&21, 22&23, 24&25, 26&27, 28&29, 30&31,32&33,34&35 - paired blocks; 39to 41 - right seminal vesicle; 42 to 47 - left seminal vesicle; 48&49 -right vas deferens; 50&51 - left vas deferens.  (TY/mm 9.10.63) 
+MICROSCOPIC (reported by Dr W Macafee):
+A - C.  Sections show acinar adenocarcinoma, the features are as follows:
+Histological type:  Acinar adenocarcinoma. 
+Tumour location:
+Dominant nodule:  Right and left anterior quadrants within apex, mid and base.
+	Non-dominant (>10mm):  Right posterior quadrant mid prostate. 
+	Smaller nodules:  Present. 
+Volume/Size:	3.8ml (33mm x 18mm x 4mm x 4 slices x 0.0004) 
+Gleason score: 3 + 4 = 7.
+Extraprostatic extension:  Absent. 
+Surgical margins:  Positive
+-  Right posterior apex, Gleason grade 3 over a distance of 3mm.
+-  Anterior apex, Gleason grade 3 over a distance of 1mm.
+Perineural invasion:  Present. 
+Seminal vesicles:  Not involved. 
+Lymph nodes:  Negative (5 right pelvic, 7 left pelvic). 
+Lymphovascular invasion:  Absent. 
+DIAGNOSIS:
+A - C.  Prostate and pelvic lymph nodes: 
+- Adenocarcinoma, Gleason score 3 + 4 = 7, margins involved. 
+- Stage (AJCC/UICC TNM system, 7th edition)
+pT2c 	Bilateral disease 
+pN0 	No positive regional nodes. 
+MX 	Cannot be assessed histologically
+ 
+

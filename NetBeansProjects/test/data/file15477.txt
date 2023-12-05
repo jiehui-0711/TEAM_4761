@@ -1,0 +1,21 @@
+SPR no: 79K513978Q
+MRN no: 7945139
+Site_name: QUIRINDI COMMUNITY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Subtotal pancreatectomy.  Tumour in body of pancreas ?neuroendocrine tumour.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Pancreas and omentum&amp;quot;, consists of a segment of pancreas, 120 x 40 x 27mm, weighing 57g, and omentum, 320 x 180 x 10mm.  There is a groove at the superior-posterior aspect of the specimen presumably representing the splenic artery bed.  The anterior surface is inked blue, posterior surface is inked yellow, superior surface is inked black, and splenic artery bed is inked red.  On sectioning, there is a tumour, 23 x 17 x 20mm, towards the proximal end of the specimen.  On sectioning, the tumour has a pale grey/pale yellow appearance, with scattered central areas of haemorrhage.  The tumour is at least 15mm from the proximal margin; 1mm from the anterior, posterior, and inferior surfaces; 10mm from the superior surface; and 80mm from the distal tip.  The tumour is 10mm from the splenic artery bed.  The remaining pancreatic parenchyma is unremarkable.  No tumour or lymph nodes are identified within the omental tissue
+Blocks: 1 to 5 - LS complete proximal margin; 6 - LS distal tip; 7 to 18 - sequential TS pancreatic tumour from most proximal to most distal (7/8, 9/10, 11/12, 13/14, 15/16, and 17/18 - composite slices with the first block including the superior surface and the second block including the inferior surface); 19 and 20 - composite TS mid/distal pancreas; 21 - TS distal pancreas; 22 to 24 - omentum.  (JB/vo 12.12.66)
+
+
+MICROSCOPIC (Reported by Dr S Ruegsegger):
+Sections of pancreas show a 23mm grade 1 neuroendocrine tumour.  The tumour is enclosed by a thin fibrous capsule and is composed of cells arranged in nests, cords and occasional rosette structures.  The cells have abundant eosinophilic cytoplasm and small round nuclei with granular chromatin.  The tumour shows positive staining with CD56 and synaptophysin.  The chromogranin stain is negative.  Up to 1 mitoses per 10 high power field is identified and the Ki67 index is approximately 2%.  No areas of necrosis are seen.  An occasional foci suspicious for lymphovascular invasion is seen however, no perineural invasion is identified. There is no spread into extrapancreatic adipose tissue with the anterior margin 1.5mm clear, the inferior margin 7mm clear, the posterior margin 8mm clear and the superior margin well clear.  The pancreatic resection margin is at least 10mm clear of tumour.  The eight (8) lymph nodes identified show no significant abnormality.
+
+
+DIAGNOSIS:
+Pancreas and omentum:
+-   23mm grade 1 neuroendocrine tumour.
+-   Excision appears complete.
+-   Eight (8) negative lymph nodes.

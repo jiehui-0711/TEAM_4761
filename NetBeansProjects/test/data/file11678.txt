@@ -1,0 +1,39 @@
+SPR no: 75D360595L
+MRN no: 75136059
+Site_name: BLUE MOUNTAINS DISTRICT ANZAC MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrioid endometrial adenocarcinoma.  Diagnosed after PMB.  CT no metastatic disease seen.  Undergoing laparoscopy and hysterectomy and surgical staging.  Hypothyroidism.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, bilateral tubes and ovaries&amp;#8221; consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 135g in total.  The uterus measures 95 x 57 x 55mm and has a smooth, shiny serosal surface.  The ectocervix measures 30 x 18mm and has an unremarkable surface.  The posterior aspect of the specimen is inked blue.  There is a firm tumour at the fundus of the uterus which measures approximately 9mm in depth.  The myometrium measures up to 26mm in depth.  The myometrium contains four fibroids measuring from 2 to 7mm in maximum dimension.  The left fallopian tube segment measures 25mm in length with a diameter of 7mm.  There is no fimbrial end; the distal tip is blind ending and cystic (?previous tubal surgery).  The left ovary measures 30 x 14 x 17mm with an unremarkable cut surface.  The right fallopian tube measures 45mm in length with a diameter of 7mm.  The right ovary measures 35 x 15 x 17mm, with an unremarkable cut surface.
+Blocks:  1 to 4 - composite midline LS posterior uterus and cervix (4 - fibroid); 5 &amp;amp; 6 - composite LS posterior uterus, ?point of deepest invasion; 7 &amp;amp; 8 - composite LS posterior uterus, ?point of deepest invasion; 9 &amp;amp; 10 - composite LS posterior uterus, point of deepest invasion; 11 &amp;amp; 12 - posterior uterus, ?point of deepest invasion; 13 to 16 - composite LS anterior uterus and cervix; 17 - LS complete left fallopian tube; 18 - representative left ovary; 19 - complete LS right fallopian tube and mid TS; 20 - representative right ovary.
+
+B.  Specimen labelled &amp;#8220;Posterior vaginal wall lesion&amp;#8221; consists of a pale grey piece of tissue  measuring 11 x 6 x 4mm.  AE 1 block.  (TO: JB; JB/rt 7.5.66)
+
+
+MICROSCOPIC (Reported by Dr T Hosang):
+A.  Sections of the cervix are unremarkable.
+Sections of the endometrial tumour show a grade 1 endometrioid adenocarcinoma.  There is invasion of the superficial myometrium.  Maximum depth of myometrial invasion is 8mm out of a total myometrial thickness of 23mm.  There are foci of lymphovascular invasion in the myometrium.  There is some adenomyosis in the myometrium and this is focally involved by tumour.  Leiomyomas are also noted in the myometrium.  There is no cervical involvement by tumour.
+Sections of the ovaries and fallopian tubes are unremarkable.
+
+Immunostains for mismatch repair enzymes have been performed on the endometrial tumour.
+MLH1:  Loss of nuclear staining.
+PMS2:  Loss of nuclear staining.
+MSH2:  Preserved nuclear staining.
+MSH6:  Preserved nuclear staining.
+
+Loss of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+
+B.  Sections show a polyp comprising stratified squamous epithelium with underlying fibrous tissue.  The epithelium is hyperplastic but shows no dysplasia. There is a mild infiltrate of scattered chronic inflammatory cells in the underlying tissue. The appearances are most consistent with a fibroepithelial polyp.
+
+
+DIAGNOSIS:
+A.   Uterus, ovaries and fallopian tubes:
+-     Grade 1 endometrioid adenocarcinoma of endometrium invading superficial myometrium, stage 1A.
+-     Adenomyosis and leiomyomas.
+
+B   Posterior vaginal wall:  Fibroepithelial polyp.

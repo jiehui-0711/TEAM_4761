@@ -1,0 +1,49 @@
+SPR no: 89U976268P
+MRN no: 2363883
+Site_name: MANSFIELD DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Grade 2 endometrial adenocarcinoma on curettage.  TAH BSO, PLND + washings.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus cervix bilateral fallopian tube + bilateral ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 110g in total.  The uterus is received opened and is distorted by fixation.  The uterus measures 85 x 62 x 45mm and has a smooth shiny serosa.  The ectocervix measures 34 x 32mm.  The entire endometrial cavity is occupied by a tumour up to 8mm in thickness.  No definite myometrial invasion is seen macroscopically.  The myometrium is up to 18mm in thickness.  The left fallopian tube is 50mm in length and 8mm diameter, and the left ovary is 23 x 18 x 8mm.  The right fallopian tube is 48mm in length and 5mm in diameter, and the right ovary is 30 x 15 x 6mm.
+Blocks: 1 - LS fundus area; 2 - left cornu; 3 - right cornu; 4 to 6 - TS through areas of deepest invasion; 7 - lower uterine segment; 8 - anterior cervix; 9 - posterior cervix; 10 &amp;amp; 11 - circumferential sections of lower uterine segment (10 - left side; 11 - right side); 12 - left ovary; 13 - left fallopian tube; 14 - right ovary; 15 - right fallopian tube.
+
+B.  Specimen labelled &amp;quot;Right external iliac sentinel lymph node&amp;quot;, consists of fibroadipose tissue, 23 x 23 x 7mm, containing a 17mm lymph node.  Blocks: 1 - one lymph node.
+
+C.  Specimen labelled &amp;quot;Left common iliac sentinel lymph node&amp;quot;, consists of fibroadipose tissue, 20 x 16 x 10mm, containing a 15mm lymph node.  Blocks: 1 - one lymph node.  AE.
+
+D.  Specimen labelled &amp;quot;Right pelvic lymph nodes&amp;quot;, consists of fibroadipose tissue, 45 x 40 x 20mm, containing multiple lymph nodes.  The lymph nodes range from 12 to 25mm.
+Blocks: 1 - multiple lymph nodes; 2 to 5 - one lymph node each block.
+
+E.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of fibroadipose tissue, 65 x 30 x 10mm, containing multiple lymph nodes.  The lymph nodes range from 4 to 33mm.
+Blocks: 1 - multiple lymph nodes; 2 to 4 - one lymph node each block; 5 - multiple lymph nodes; 6 &amp;amp; 7 - largest lymph node.   (TO:ZF/rs 14/6/69)
+
+
+MICROSCOPIC (Reported by Dr S Foxworthy):
+A.  The sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  The tumour is composed of complex glands associated with squamoid areas.  No significant solid architecture or marked cytologic atypia is seen.  The tumour invades 8mm through a myometrial wall thickness of 19mm.  A single focus suspicious for lymphovascular invasion is seen.  There is a small focus of adenocarcinoma on the cervical surface.  No cervical stromal invasion is seen.  Both fallopian tubes and ovaries are uninvolved by tumour.
+
+Mismatch Repair Deficiency (MMRD) Status (block A4)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B.  Multiple levels of the right external iliac sentinel lymph node show one negative lymph node (0/1).  No significant staining is seen with cam 5.2 immunohistochemistry.  There is no evidence of malignancy.
+
+C.  Multiple levels of the left common iliac sentinel lymph node show one negative lymph node (0/1).  Focal endosalpingiosis is noted in the nodal capsule.  No significant staining is seen with cam 5.2 immunohistochemistry.  There is no evidence of malignancy.
+
+D.  The sections of the right pelvic lymph nodes show six negative lymph nodes (0/6).  There is no evidence of malignancy.
+
+E.  The sections of the left pelvic lymph nodes show nine negative lymph nodes (0/9).  There is no evidence of malignancy.
+DIAGNOSIS:
+A to E.  Uterus with cervix, bilateral fallopian tubes and ovaries, right external iliac sentinel lymph node, left common iliac sentinel lymph node, right and left pelvic lymph nodes:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  Tumour invades inner half of myometrium.
+-  Focal carcinoma on the cervical surface.  No cervical stromal invasion.
+-  Fallopian tubes and ovaries negative.
+-  Total of seventeen negative lymph nodes (0/17).

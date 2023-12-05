@@ -1,0 +1,46 @@
+SPR no: 48P347573Q
+MRN no: 4853475
+Site_name: KOOWEERUP REGIONAL HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: MSI MARKERS (17.11.2066)
+
+CLINICAL:
+Suspected tubal cancer.  Pelvic washings.  Uterus tubes and ovaries.  Sigmoid nodule.  Omentum.  HTN.  hyperlipidaemia.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tube bilateral ovaries&amp;quot;, consists of a uterus with attached cervix bilateral fallopian tubes and ovaries weighing 38 grams in total.  The uterus measures 58 x 30 x 20mm and has a smooth shiny serosal surface.  The ectocervix measures 25 x 20mm and is unremarkable.  On sectioning the endometrium is 2mm in thickness and the myometrium is up to 10mm in thickness.  The myometrium is unremarkable.  The right fallopian tube measures 32mm in length x 5mm in diameter.  The right ovary measures 15 x 10 x 8mm.  The left fallopian tube measures 38mm in length x 6mm in diameter.  The left ovary measures 20 x 17 x 5mm.  The cut surface of the ovaries are unremarkable.
+Blocks: 1 to 2 - full LS through anterior body and cervix; 3 and 4 - full LS through posterior body and cervix; 5 to 6 - right fallopian tube AE; 7 and 8 - right ovary AE; 9 and 10 - left fallopian tube AE; 11 and 12 - left ovary AE.
+
+B.  Specimen labelled &amp;quot;Sigmoid nodule&amp;quot;, consists of a circumscribed nodular piece of tissue 25 x 17 x 18mm.  The outer surface is smooth and on sectioning the inner cut surface is composed of a unilocular cyst filled with blood with a solid papillary component.  Specimen AE in 2 blocks.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of fibroadipose tissue measuring 370 x 110 x 20mm.  The omentum contains nodular deposits of tumour measuring 65 x 53 x 15mm.  The tumour deposits are embedded within the omentum and are cystic with solid sclerotic areas.  Representative sections of the tumour in 3 blocks.  (TO:JL/vo 9/11/69)
+
+
+MICROSCOPIC: (Reported by Dr K Bernadette)
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium shows cystic atrophy.  The right fallopian tube shows high grade serous adenocarcinoma arising adjacent to a focus of serous carcinoma in situ. The right and left ovaries show follicles at varying stages of development and benign serous cysts. The left fallopian tube shows no significant abnormality. There is no evidence of atypical complex endometrial hyperplasia. There is no evidence of cervical, endometrial, uterine serosal or ovarian involvement by serous adenocarcinoma.
+
+B.  Sections of the sigmoid nodule show a 25mm cystic deposit of metastatic high grade serous adenocarcinoma.
+
+C.  Sections of omentum show deposits of metastatic high grade serous (cystic papillary) carcinoma. There is infiltration of surrounding adipose tissue and focal lymphovascular space invasion.
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, bilateral fallopian tubes and ovaries: 15mm high grade serous adenocarcinoma of the right fallopian tube arising adjacent to a focus of tubal serous carcinoma in situ.
+
+B.  Sigmoid nodule: Metastatic high grade serous carcinoma.
+
+C.  Omentum: Metastatic high grade serous carcinoma with focal lymphovascular space invasion.
+
+Markers of microsatellite stability are being performed and a supplementary report will be issued.
+
+
+***SUPPLEMENTARY REPORT: MSI MARKERS (16.10.2065)
+Dr K Rauhecker
+Immunoperoxidase stains for MSI proteins were performed as requested:
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining indicates low risk of microsatellite instability.

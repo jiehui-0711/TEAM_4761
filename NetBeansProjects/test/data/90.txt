@@ -1,0 +1,89 @@
+
+Episode No:  88Q652432O
+8866524.IGO
+
+MALTESE, SUKI 
+Lab No:  88Q65243
+Camley Park
+YARRAGON  QLD  3522
+Specimen: Tissue
+D.O.B:  27/4/1990
+Sex:  F
+Collected: 23/04/2012 at 15:16
+Location:  ACUTE CARE WARD-HUGHENDEN HOSPITAL
+DR BERNARDO DICK ROSICH
+Distribution:   FILE-COPY
+CLINICAL:
+Breast cancer (right).  Sentinel node for frozen section.  Hx of palpable R breast ca for R mastectomy and SNBx.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axillarysentinel node", consists of a piece of fatty tissue 35mm in diameter with two nodes 6 and 10mm.  Smaller node too small to imprint.  Imprints of the larger node taken. Block 1 - larger lymph node; 2 - smaller lymph node.
+IMPRINT CYTOLOGY REPORT:  
+No malignant cells seen. 
+Reported by Dr W Edelen to Dr W Trotz at 4:25pm on 23/4/12.  
+B.  Specimen labelled "Right breast", consists of a mastectomy 220mm (medial to lateral) x 150mm (inferior to superior) x 40mm (superficial to deep). There is an overlying ellipse of skin measuring 200mm (medial to lateral) x 75mm (inferior to superior). The superficial margin is inked green and the deep margin is inked black.  A firm cream stellate tumour is identified which is located in the 2 o'clock position 50mm from the nipple. The tumour measures 15mm (medial to lateral) x 17mm (inferior to superior) x 8mm (superficial to deep). The lesion is 22m from the nearest deep margin. Several ? lymph nodes are identified in the outer upper quadrant up to 15mm inmaximum dimension.  
+Block 1-4 - full face of tumour from superficial to deep; 5 & 6 - further sections of tumour to deep margin; 7 & 8 -upper inner quadrant; 9 & 10 - inner lower quadrant; 
+11 & 12 - outer upper quadrant; 13-15 - ?lymph nodes; 16 - nipple and tissue deep to nipple; 17 - section of tumour taken for tumour bank.  Please refer to attached diagram.   (QA/ec 26.6.62) 
+ 
+MICROSCOPIC: (Reported by Dr W Ratley)  
+Invasive carcinoma:
+Site: Right breast 2 o'clock 
+Type: Invasive ductal carcinoma, not otherwise specified (NOS)
+Invasive tumour size: 17mm
+Grade (Modified Bloom & Richardson):  2
+Tubules: 2     Nuclei: 2     Mitoses: 2     Mitotic rate:   8/10hpf.
+Lymphovascular invasion:  Not seen.
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  8 mm
+Nuclear grade:  High
+Architecture:Solid
+Necrosis:   Present
+Calcification:  Absent
+Degree of DCIS in tumour:  Present, focal
+DCIS in adjacent tissue:  Absent
+Excision Margins:  
+Invasive component:  > 10 mm all margins
+In-situ component:  > 10 mm all margins
+Receptors (Block B1): 
+ER:   Positive
+	100% of nuclei stained
+	predominant intensity of staining: strong
+ 
+PR:   Positive
+	100% of nuclei stained
+	predominant intensity of staining: strong 
+HER2 (Novocastra 10A7):  Repeat staining to follow in an additional report.
+Ki-67 index: 5%
+Nipple:  No evidence of Paget's disease
+LCIS / ALH:    Present (B6)
+Miscellaneous: A core biopsy tract is present (B5) in the tumour. Perineural invasion is seen within the tumour (B5).
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 2
+Number of sentinel lymph nodes involved by tumour: 0
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 4 (in axillary tail)
+Number of axillary lymph nodes involved by tumour: 0         
+Lymph node total:
+Total numberof lymph nodes examined (including sentinel node(s)):   6
+Total number of involved lymph nodes (including sentinel node(s)):  0
+DIAGNOSIS:
+A and B.  Right mastectomy and axillary sentinel lymph node:
+- 17 mm invasive ductal carcinoma NOS, grade 2, ER positive, PR positive, HER2 immunoperoxidase and HER2 CISH pending, Ki67 5%, > 10 mm all margins.
+- 8 mm high grade DCIS, > 10mm all margins.
+- 6 lymph nodes (2 sentinel and 6 non-sentinel) with no evidence of malignancy.
+
+
+
+ADDITIONAL REPORT (7/3/62)
+Repeat HER2 staining:  1+
+HER2 CISH to follow in another additional report.
+ADDITIONAL REPORT 2 (7/5/62)
+Material was sent to Dr W Branstrom, THE CANBERRA HOSPITAL Hospital, for HER-2 CISH testing, the results of which are as follows:
+Her-2 in-situ hybridisation: (Her-2 CISH Invitrogen SPOT-Light assay, blockB1)  
+HER-2 CISH result: NEGATIVE (non-amplified, diploid).
+
+Mean HER-2 copy number per cell:  2.15
+Scoring Criteria (ASCO/CAP recommendations):  
+Non amplified (diploid) 1-2.5 copies.  Non amplified (polysomic) = 2.5 < 4 copies.  Equivocal = 4-6 copies.  Low level amplification = >6 but <10 copies.  High level amplified = 10 or more copies.
+

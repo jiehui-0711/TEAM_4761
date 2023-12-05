@@ -1,0 +1,23 @@
+SPR no: 27G634936Z
+MRN no: 2726349
+Site_name: CRAIGIEBURN HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Focal adenocarcinoma arising on a background of endometrial polyp with simple hyperplasia.  Uterus, tubes, ovaries, omentum.  Fhx - ovarian and endometrial Ca.  Specimen has been sampled ?ABn endometrium L ant cornu region) and normal endometrium for study (KT).
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Uterus, bilateral ovaries and fallopian tube, cervix&amp;#8221; consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 54g in total.  The uterus measures 65 x 50 x 25mm and has a smooth shiny serosal surface.  The anterior serosal surface shows two tan shiny nodules measuring 5 to 6mm in maximum dimension.  The ectocervix measures 25 x 17mm and appears slightly tan around os but is otherwise unremarkable.  On sectioning the endometrium is 1mm in maximum thickness and no definite endometrial lesion is identified.  The myometrium is 15mm in maximum thickness. No myometrial lesion is seen. The right fallopian tube/fimbria measures 65mm in length and 6mm in maximum diameter.  The serosa shows multiple paratubal cysts measuring 1 to 15mm in maximum dimension but is otherwise unremarkable.  The right ovary measures 35 x 20 x 8mm and has an unremarkable cut surface.  The left fallopian tube/fimbria measures 60mm in length and 6mm in maximum diameter and appears unremarkable.  The left ovary measures 30 x 15 x 6mm and has an unremarkable cut surface.
+The anterior resection margin is inked blue and posterior is inked black.
+Blocks: 1 to 3 - full longitudinal section of anterior body and cervix; 4 &amp;amp; 5  - full longitudinal section of anterior body and cervix, 6 to 10 - rest of left anterior endometrium as per diagram; 11 to 14 - rest of right anterior endometrium as per diagram including the described serosal nodules in blocks (13 &amp;amp; 14); 15 to 17 -  full LS posterior body and cervix; 18 &amp;amp; 19 - full LS posterior body and cervix; 20 to 24 - rest of right posterior endometrium as per diagram; 25 &amp;amp; 26 - rest of left posterior endometrium as per diagram; 27 to 32 - the entire right fallopian tube/ovary; 33 to 38 - the entire left fallopian tube/ovary.  RS 38 blocks.  Please see diagram.  (TO:LN; LN/ta 13/12/66)
+MICROSCOPIC (Reported by Dr. G Tourikis):
+The endometrium has been all embedded. The endometrium is inactive. No residual malignancy, simple hyperplasia or polyp are seen.
+Focal adenomyosis and a benign leiomyoma are present. The cervix shows no evidence of HPV effect, CIN or malignancy.
+The fallopian tubes and ovaries have been all embedded. There is no evidence of malignancy.
+Mismatch Repair Deficiency (MMRD) Status
+To be performed on previous specimen (see 27G6349).
+
+
+DIAGNOSIS
+Uterus and cervix, bilateral fallopian tubes and ovaries: inactive endometrium with no evidence of residual malignancy

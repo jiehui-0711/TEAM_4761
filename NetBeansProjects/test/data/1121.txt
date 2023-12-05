@@ -1,0 +1,63 @@
+
+Episode No:  65O685578K
+6556855.SWK
+
+THELL, MITCHELL 
+LabNo:  65O68557
+Rocher
+TERRANORA  NT  2660
+Specimen: Tissue
+D.O.B:  30/1/2007
+Sex:  M
+Collected: 14/01/2013 at 09:03
+Location:ACUTE CARE WARD-PENOLA WAR MEMORIAL HOSPITAL
+DR Brody CODY KANEHOLANI
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right hemicolectomy perforated cancer with associated abscess.  
+MACROSCOPIC:
+Specimen labelled "Extended Rt hemicolectomy" consists of a right hemicolectomy; 290mm in length with a section of terminal ileum included measuring 65mm in length and unremarkable appendix attached measuring 50mm in length with a maximum diameter of 10mm.  80mm from the distal resection margin there is a soft polypoid tumour measuring 25 x 20mm which appears to take up approximately 50% of the circumference of the bowel.  The tumour appears to invade into the muscularis propria with ill defined creamtissue running to the serosal surface ?further invasion ?reaction to perforation.  Just distal to the presumed tumour there is a full thickness defect within the wall with an associated large mass of fibrinopurulent exudate around themesenteric side of the bowel measuring 90 x 70 x 40mm.  Multiple small diverticula are identified proximal to the tumour.  The remainder of the mucosa appears unremarkable.  A piece of ?omentum, 280 x 100 x 15mm is included in the specimen.  No suspicious lesions are identified in the omentum.  Multiple lymph nodes are identified in the mesenteric fat from 3 to 15mm.  
+Blocks:  1 to 9 - ?tumour with deepest point of invasion; 10 & 11 - ?site of perforation; 12 - proximal colonic diverticula; 13 - margins; 14 - appendix; 15 to 18 - lymph nodes; 19 to 21 - representative omentum.  (RR/mm 17.3.63) 
+MICROSCOPIC (reported by Dr R Almsteadt & Dr R Unick):
+Sections show moderately differentiated adenocarcinoma of the right colon.  Macroscopic perforation is seen, and on this basis the tumour is staged as pT4.  The features are as follows:
+Macroscopic Description
+
+Site of tumour:  Right colon	
+Maximum tumour diameter:  25mm
+Distance of tumour to nearer cut end:  80mm(distal)
+Tumour perforation:  Yes (pT4)
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3 - Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymph nodes
+Number of lymph nodes present:  21
+Number of lymph nodes involved:  0	
+pN0 - No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Present
+Histologically confirmed distant metastases
+pMX - Cannot be assessed histologically
+Background abnormalities/other comments
+Appendix shows no significant abnormality.
+Extensive peritumoural abscess formation.
+Residual tumour status
+R0 - No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear stainingSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4pN0     pMX     R0	
+

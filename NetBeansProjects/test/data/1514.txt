@@ -1,0 +1,41 @@
+Episode No:  78P943327O
+7869433.HTO
+
+Medders, MALEAH Jackie 
+Lab No:  78P94332
+Corvette
+OAKDALE  Tasmania  2540
+Specimen: Tissue
+D.O.B:  6/9/1986
+Sex:  F
+Collected: 12/06/2013 at 15:24
+Location:  MACQUARIE WARD - EAST WIMMERA HEALTH SERVICE - ST ARNAUD
+DR EFFIE Yuriko Satterley
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT (19.8.63):
+
+
+CLINICAL:
+History of bowel cancer.  Rising CEA and left ovarian mass on CT.  Left pelvic mass, low anterior abdominal wall nodule - histology & immunohistochemistry for mismatch repair proteins.  
+MACROSCOPIC:
+A.  Specimen labelled "Left pelvic mass" consists of a 90 x 80 x 50mm solid mass attached to a flattened piece of tan/haemorrhagic solid tissue (65 x 35 x 5mm).  The mass has a solid/mucoid cut surface.  There are mucoid deposits on the external surface of the mass (inked black) over an area measuring 30 x 25mm.  There is also a separate piece of tan/haemorrhagic solid tissue 40 x 30 x 6mm.  
+Blocks:  1 to 3 - representative sections including the surface deposits; 4 - representative section; 5- representative section, the area with the attached solidtissue; 6 - representative section, reserved block; 7 to 9 -representative sections; 10- representatives separate piece of tissue.
+B.  Specimen labelled "Lower anterior abdominal wall nodule" consists of a nodular piece of tan solid tissue 20 x 16 x 9mm.  The specimen is bisected.  The cut surface shows a poorly circumscribed yellow area 15mm in maximum dimension.  AE 1 block.  (TO:  MP:  MY/mm 15.8.63) 
+MICROSCOPIC (reported by Dr S Filippo): 
+A.  Sections show ovary which is enlarged and replaced by metastatic moderately differentiated adenocarcinoma.  This consists of small irregular cystic spaces and some glands.  The glands and cysts are lined by crowded epithelial cells with pleomorphic nuclei.  There is prominent mucin production but no definite necrosis is seen.  The features are consistent with a metastasis from colon.  Tumour extends to the serosal surface of the ovary.  Immunostains for mismatch repair enzymes will be performed as requested and a supplementary report issued.  Sections of the described separate piece of tissue show that this is fallopian tube; no significant abnormality is seen.  
+B.  Sections show fibrofat and some skeletal muscle.  There is fat necrosis with associated fibrosis and an infiltrate of numerous foamy macrophages.  There is no evidence of malignancy.  
+DIAGNOSIS:
+A.  Left ovary and fallopian tube:  Metastatic adenocarcinoma.
+B.  Lower anterior abdominal wall nodule:  Fat necrosis. 
+SUPPLEMENTARY REPORT (19.8.63):
+Immunostains:
+CDX2:   Positive.
+Cytokeratin 20:   Negative.
+Cytokeratin 7:   Negative.
+The immunophenotype is consistent with a metastatic adenocarcinoma from colon.
+MLH1:   Preserved nuclearstaining.
+PMS2:   Preserved nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).
+

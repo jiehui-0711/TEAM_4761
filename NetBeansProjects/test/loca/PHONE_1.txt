@@ -1,0 +1,5 @@
+file1363 48行 4253 4575-> Phone: 4253 4575
+file161 53行 8382 9154-> Please advise laboratory (8382 9154) should interphase FISH be of assistance in this case.
+file17797 40行 4253 4575-> Phone: 4253 4575
+file3312 58行 8382 9154-> Insufficient mitoses available for karyotyping.  Please advise the Laboratory (8382 9154) should Interphase FISH on FFPE tissue be of assistance in this case.
+file3312 69行 8382 9154-> Regrettably there were insufficient mitoses available for cytogenetic analysis.  Please advise the Laboratory (8382 9154) should Interphase FISH on FFPE tissue be of assistance in this case.

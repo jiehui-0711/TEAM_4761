@@ -1,0 +1,78 @@
+SPR no: 05N656279O
+MRN no: 0556562
+Site_name: WIMMERA HEALTH CARE GROUP - DIMBOOLA
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+78F 3cm breast mass detected on US at 3 o&amp;apos;clock with biopsy suggestive of lobular Ca; under went lumpectomy and sentinel node biopsy.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Sentinel node no. 1&amp;quot;, consists of a single node with surrounding fat measuring 20mm x 8 x 6mm.  AE 1 block.
+
+B.  Specimen labelled &amp;quot;Sentinel node no. 2&amp;quot;, consists of a fatty tissue measuring 30mm x 18 x 8mm.  Possible lymph nodes identified. AE.
+Blocks: 1 -possible  lymph node as seen; 2 - remaining tissue.
+
+C.  Specimen labelled &amp;quot;Sentinel node no.3&amp;quot;, consists of fatty tissue measuring 15mm x 20 x 10mm.  Two possible lymph nodes identified measuring 5 to 15mm. AE
+Blocks: 1 - one possible lymph node; 2 - one possible lymph node; 3 - remaining tissue.
+
+D.  Specimen labelled &amp;quot;Left breast cancer, short superior, medium medial long lateral&amp;quot;, consists of an oriented irregularly shaped fibrofatty tissue measuring 75mm medial to lateral, 70mm superior to inferior, 20mm superficial to deep.  There is an ellipse of skin measuring 34mm x 12mm.  The skin surface shows a macular lesion measuring 17 x 11mm.  The superior margin is inked red, superficial / anterior is inked blue, posterior / deep is inked black.  There are three orientating sutures.  The specimen has been sliced into 12 slices from lateral to medial.  The cut surface shows pale firm ill defined lesion measuring 30 x29mm x 17mm in slice no 2 to slice 7.  Tumour lies 1mm from anterior / superficial, 25mm from inferior margin, 8mm from deep margin, 23mm from the superior margin.  The rest of the breast tissue is uniformly fibrofatty.
+Blocks: 1 to 3 - slice one; 4 &amp;amp; 5 - slice two; 6 to 8 - slice four; 9 to 12 - slice five; 13 to 15 - RS of slice six; 16 &amp;amp; 17 - RS slice seventeen; 19 to 23 - slice eight; 24 to 27 - slice nine; 28 &amp;amp; 29 - slice eleven; 30 to 33 - slice twelve. (TO:LM; LM/eh 16/9/68)
+
+All tissue embedded. 34-36- slice 3, 37&amp;amp;38-remaining tissue for slice 6, 39&amp;amp;40-remaining tissue for slice 7,41-43- slice 10 ( LM,17/5/17).
+
+MICROSCOPIC (Reported by Dr A Winners):
+A to D.
+Invasive carcinoma:
+Site: Left breast
+Type: Invasive lobular carcinoma
+Invasive tumour size:  32mm (estimate based on number of involved slices)
+Grade (Modified Bloom &amp;amp; Richardson): 1
+Tubules:  3    Nuclei:  1    Mitoses: 1      Mitotic rate:     1 /10hpf.
+Lymphovascular invasion:  Not seen
+
+Excision Margins:
+Invasive component:
+Superior: 8mm (D4)
+Inferior: 10mm
+Superficial: Positive (D8, D35)
+Deep: 2mm (D16)
+Lateral: Greater than 5mm
+Medial: Greater than 10mm
+
+
+
+Receptors (Block D21):
+ER:
+90% of nuclei stained
+predominant intensity of staining:  strong
+PR:
+50% of nuclei stained
+predominant intensity of staining:  strong
+HER2 (Novocastra 10A7): 0,negative
+HER2 SISH:  Performed at WEST GYNAECOLOGY, TOOSEY AGED AND COMMUNITY CARE Hospital, see separate report.
+Ki-67 index: 2-3%
+
+Nipple:  N/A
+
+LCIS / ALH:  Present
+
+Miscellaneous:
+- There is a cluster of few ducts showing cribriforming and solid bridge formation 1.3mm in maximum extent (block D22). This focus cuts out on immunostain slides. The features favour atypical ductal hyperplasia. This focus is 0.1mm from the deep margin with no intervening benign glands.
+
+- There is a small intraductal papilloma with apocrine features, 0.2mm from the deep margin (D36)
+
+- The described macular  lesion of skin is seborrheic keratosis.
+
+Sentinel lymph node(s):
+Multiple levels have been performed. Two lymph nodes are identified (specimen A and C)
+Number of sentinel lymph nodes examined: 2
+Number of sentinel lymph nodes involved by tumour:   1  (A1)
+Number of sentinel nodes with metastases &amp;gt;2.0mm:    1
+Detected by: H&amp;amp;E and immunohistochemistry
+Extranodal spread: Not seen
+
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   2
+Total number of involved lymph nodes (including sentinel node(s)):   1

@@ -1,0 +1,50 @@
+
+Episode No:  62E239483S
+621239.MVH
+
+BUHOVECKEY, AUGUST 
+Lab No:  62E23948
+El Refugio
+YALLOURN NORTH  New South Wales  6031
+Specimen: Tissue
+D.O.B:  16/11/2008
+Sex:  M
+Collected: 25/10/2013 at 15:14
+Location:  SA Pathology-WESTERN HEALTH - MELTON HEALTH
+DR HUMBERTO CHESTER SAHE
+Distribution:   FILE-COPY,NSW-CANCER-REGISTRY
+
+CLINICAL:
+Adenocarcinoma of the prostate Gleason 3 + 4 on biopsy.  Bilateral pelvic nodes and prostate and seminal vesicles.
+MACROSCOPIC:
+A.  Specimen labelled "Right pelvic lymph node" consists of fibrofatty tissue measuring 55 x 45 x 15mm.  Multiple lymph nodes are identified.
+Blocks:1 - one lymph node bisected; 2 - lymph nodes.
+B.  Specimen labelled "Left pelvic lymph node" consists of fatty tissue measuring 35 x 25 x 5mm.  Multiple lymph nodes are identified.
+Blocks:  1 - lymph node; 2 - remaining tissue.  AE.
+C.  Specimen labelled "Prostate" consists of a prostate measuring 38 x 55 x 35mm and weighing 50.7g.  The right vas deferens measures 15mm in length and the left vas deferens measures 20mm in length.  The right seminal vesicle measures 33 x 18 x 15mm and the left vas deferens measures 30 x 23 x 18mm.  The left half is inked blue and theright black with anterior was inked red.  The prostate sectioned into seven slices. There is no true posterior margin is slice 5.  Slice one (apex) and slice seven (base) further parasagitally sectioned.  Specimen is AE.
+Blocks:  1 to 4 - slice one (apex) from left to right; 5 - slice two; 6 - slice three; 7 - slice four; 8 - slice five; 9 - slice six; 10 to 12 - slice seven (base) from left to right, nick posterior; 21 to 24 - right seminal vesicle; 25 to 28 - left seminal vesicle. 29 - right vas deferens 30 to 32 - left vas deferens. Please refer to attached diagram.  (TO: QF; QZ/rt30.12.63) 
+MICROSCOPIC (Reported by Dr Q Biddinger):
+A to C.
+RADICAL PROSTATE PROFORMA
+
+Histological type: Adenocarcinoma, NOS
+Tumour location:  Bilateral, multifocal
+Dominant nodule:  Left posterior base to lower mid
+	Non-dominant (>10mm): Not seen
+	Smaller nodules: Present 
+Volume/Size:  2.0 ml (28mm x 18mm x 10mm x 0.0004) 
+Gleason score:  3+4=7
+Extraprostatic extension:  
+- Single focus left posterior mid, Gleason 3 tumour with perineural invasion, 0.2mm into fat over a 0.7mm front, 2mm from margin (C9 L3, shown to Dr JIMMIE STARY).
+Surgical margins:  Clear
+Perineural invasion: Present (within prostate and extracapsular)
+Seminal vesicles: Not involved
+Lymph nodes: 4 right (specimen A) and 1 left (specimen B) lymph nodes show no evidence of malignancy
+Lymphovascular invasion: Not seen
+DIAGNOSIS:
+A to C. Bilateral pelvic nodes, prostate and seminal vesicles: Adenocarcinoma, Gleason score 3+4=7
+Stage (AJCC/UICC TNM system, 7th edition)
+pT3a Extracapsular extension 
+pN0 No positive regional nodes. 
+MX Cannot be assessed histologically
+

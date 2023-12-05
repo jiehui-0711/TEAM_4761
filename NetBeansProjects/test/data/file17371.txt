@@ -1,0 +1,104 @@
+DateOfBirth
+194103030000
+
+
+SiteName
+GEORGE TOWN HOSPITAL AND COMMUNITY CENTRE
+
+
+FirstName
+Rashad
+
+
+SPRID
+63C552138V
+
+
+MRN
+6305521
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+Wragge
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Several large sarcomatous soft tissue deposits in right arm and axilla bx as sarcomatous tumours.  ?In transit disease.  Previous excision of sarcomatous tumour ?myxofibrosarcoma from right base of thumb.
+
+Previous pathology report and slides obtained for comparative purposes (UROLOGY OPD 63055-21IX): Right axilla and right forearm biopsies - similar morphologic features favour high grade undifferentiated sarcoma (possibly myxofibrosarcoma) (Professor Dimodica).
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right axillary nodal mass&amp;quot;, consists of an unorientated ellipse of skin, measuring 52 x 16mm to a depth of 40mm.  The underlying fatty tissue measures 62 x 55mm.  The overlying skin appears to have a possible linear incision/scar measuring 6mm.  Specimen inked blue.  The specimen is serially TS which reveals a pale firm mass measuring 44 x 20 x approximately 30mm.  The lesion appears to abut the deep and radial margins.  Blocks: 1 to 3 - composite sections, one TS showing closest margins.
+
+B.  Specimen labelled &amp;quot;Right forearm nodule&amp;quot;, consists of an unorientated ellipse of skin measuring 48 x 23mm to a depth of up to 14mm.  The surface of the skin appears grossly unremarkable.  Cut margins inked blue.  There appears to be a pale, firm mass on the cut surface measuring 22 x 20 x 13mm.  This mass appears to abut the deep margin and a radial margin.  Blocks: 1 &amp;amp; 2 - two mid TS per block; 3 - LS both poles.
+
+C.  Specimen labelled &amp;quot;Right arm tumour stitch at proximal&amp;quot;, consists of an oriented ellipse of skin with attached fatty tissue, with a suture at one pole designating the 12 o&amp;apos;clock pole, with the specimen measuring 120mm (12 to 6 o&amp;apos;clock) x 70mm (3 to 9 o&amp;apos;clock) to a depth of 55mm.  The ellipse of skin measures 104mm (12 to 6 o&amp;apos;clock) x 34mm (3 to 9 o&amp;apos;clock).  The skin appears unremarkable.  On the deep aspect there appears to be a pale grey fascial surface. The 3 o&amp;apos;clock margin inked blue, 9 o&amp;apos;clock margin inked green, and the deep margin inked black.  Specimen is serially sliced from 12 to 6 o&amp;apos;clock into thirteen transverse slices (slice one 12 o&amp;apos;clock).  The cut surfaces reveal a pale and necrotic lobulated lesion with mucous like substance, measuring 66mm  (3 to 9 o&amp;apos;clock) x 50mm (deep to superfical) x approximately 120mm (12 to 6 o&amp;apos;clock).  The lesion appears to abut the 3 and 9 o&amp;apos;clock and deep margins.  Blocks: 1 - RS deep margin, slice six; 2 - RS deep margin, slice four; 3 - RS to 3 o&amp;apos;clock margin, slice four; 4 - RS 3 o&amp;apos;clock margin, slice two; 4 &amp;amp; 5 - RS 9 o&amp;apos;clock margin, slice nine; 6 - RS 9 o&amp;apos;clock margin, slice three; 7 &amp;amp; 8 - composite sections, one LS 12 o&amp;apos;clock margin; 9 - LS 12 o&amp;apos;clock margin; 10 &amp;amp; 11 - LS 6 o&amp;apos;clock margin; 12 - RS tumour to skin surface, slice four; 13 - RS tumour to skin surface, slice six.
+(TO:NM/ta 27/7/68)
+
+
+MICROSCOPIC: (Reported by Dr R Versoza)
+A.  Sections are of skin extending to subcutis. The subcutis is expanded by a 44mm malignant sarcomatoid spindle cell tumour. The tumour deposit is highly cellular and consists of sheets of moderately pleomorphic spindled cells arranged in intersecting fascicles and storiform structures. The tumour cells have brightly eosinophilic myoid appearing cytoplasm. There are scattered highly atypical bizarre cells with markedly enlarged nuclei, some of which are binucleate. Mitoses are readily identified, including numerous atypical mitoses. Foci of insipient necrosis are also present. The overlying epidermis shows no significant abnormality. The tumour abuts the radial and deep margins over a broad front.
+
+B.  Sections are of skin extending to subcutis. The subcutis is expanded by a 22mm malignant spindle cell tumour. The tumour deposit is moderately to highly cellular and consists of sheets of mild to moderately pleomorphic spindled cells arranged in intersecting fascicles and storiform structures. The tumour cells have brightly eosinophilic myoid appearing cytoplasm. Mitoses are readily identified, including occasional atypical forms. No necrosis or anaplastic bizarre cells are seen. The overlying epidermis shows no significant abnormality. The tumour abuts the radial and deep margins focally.
+
+C.  Sections of the right arm tumour show a subcutaneous malignant myxoid sarcoma (myxofibrosarcoma; myxoid MFH). The tumour is moderately cellular and composed of malignant spindled to epithelioid cells arranged within discohesive sheets separated by variable amounts of myxoid stroma. The tumour cells show moderate to marked cytologic atypia with epithelioid, rhabdoid and spindled forms. Scattered anaplastic appearing tumour cells are seen. There are broad areas of tumour associated necrosis and mitoses are readily identified. The tumour infiltrates surrounding fibroadipose tissue and the margins are as follows:
+
+Deep margin: Less than 0.1mm (C1)
+12 o&amp;apos;clock margin: Present at margin (C9)
+3 o&amp;apos;clock margin: Focally abuts the margin (C3)
+6 o&amp;apos;clock margin: 0.25mm (C11)
+9 o&amp;apos;clock margin: Less than 0.1mm (C4)
+Skin surface: 0.25mm (C13).
+
+
+IMMUNOHISTOCHEMISTRY (B2 and C1):
+Tumour cells positive for: CD10, CD68 (patchy), vimentin. Tumour cells negative for: AE1/AE3, SMA, SOX10, desmin, HMB45 and myogenin.
+A ki-67 immunoproliferative index is high.
+
+
+COMMENT:
+Similar to the findings of the recent core biopsies (as reported by Professor Azevedo - see above), the right axilla and right forearm lesions are malignant spindle cell sarcomas, with features consistent with high grade undifferentiated pleomorphic sarcomas. The morphologies of the two lesions are similar, each showing some some cytoplasmic features suggestive of focal myoid differentiation and minimal myxoid stroma, whilst the right axilla tumour shows more significant cytologic atypia than the forearm tumour.
+
+The separate and larger right arm tumour is a high grade myxofibrosarcoma (myxoid MFH) with the most significant cytologic atypia of all three tumours. Immunohistochemical stains performed on both the of the right forearm and right arm tumours are identical.
+
+Overall, the presence of three discrete right arm, right forearm and right axillary malignant spindle cell sarcomas (albeit with variable degrees of atypia and myxoid stroma), would be compatible with the clinical impression of in transit sarcoma.
+
+
+DIAGNOSIS:
+A.  Right axillary nodal mass: 44mm undifferentiated pleomorphic sarcoma, present at margins.
+
+B.  Right forearm nodule: 22mm undifferentiated pleomorphic sarcoma, present at margins.
+
+C.  Right arm tumour: 120mm high grade myxofibrosarcoma, present at 3 o&amp;apos;clock margin.
+
+Please see comment.
+
+
+
+
+
+
+SpecimenReceivedDate
+2679-02-10 00:00:00
+
+
+LastName
+Froiland

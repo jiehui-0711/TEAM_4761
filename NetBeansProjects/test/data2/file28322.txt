@@ -1,0 +1,45 @@
+SPR no: 12D453372F
+MRN no: 12145337
+Site_name: WAIKERIE HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+SCC cervix.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, tubes, ovaries and cervix&amp;quot;, consists of a uterus with attached cervix bilateral fallopian tubes and ovaries weighing 146 grams in total.  The uterus measures 105 x 43 x 33mm and has a smooth shiny serosal surface.  There is a cuff of vaginal tissue surrounding the cervix up to 7mm in width.  The ectocervix measures 36 x 25mm.  On the right lateral aspect, there is a 27 x 9mm full thickness defect from the outer surface of the specimen joining with the endocervical canal associated with old blood.  The external surface of the ectocervix is otherwise unremarkable.  Opening the specimen coronally shows a 35 x 34mm pale tumour involving the cervix in extending towards the lower uterine segment.  The right lateral full thickness defect involves part of this tumour.  The tumour has a pale cut surface with a firm texture and a well circumscribed boarder.  Slices show the tumour has a anteroposterior dimension of 35mm.  The anterior paracervical/vaginal margin is inked blue and the posterior is inked black.  On sectioning the endometrium is 2 to 3mm thick and the myometrium is 14mm thick with no focal lesions.  The right fallopian tube is 52 x 6mm in diameter and the right ovary is 23 x 14 x 10mm.  The left fallopian tube is 40mm x 4mm in diameter and the left ovary is 23 x 19 x 18mm.  The cut surface of the left ovary shows a 14mm diameter simple cyst.  The cut surface of the right ovary and both fallopian tubes in normal.
+Blocks: 1 to 25 - the anterior half of the cervix and lower uterine segment in thirteen sagittal slices from left to right each bisected; 26 to 50 - the posterior half of the cervix and lower uterine segment in thirteen sagittal slices from right to left, each bisected (blocks 25 and 26 - whole slices); 51 to 53 - composite sections of longitudinal sections of anterior uterine body; 54 and 55 - composite sections of longitudinal section of posterior uterine body; 56 - right fallopian tube fimbrial end; 57 - right fallopian tube three TS; 58 and 59 - right ovary two TS; 60 - left fallopian tube fimbrial end; 61 - left fallopian tube three TS; 62 and 63 - left ovary two TS.  All of the cervix embedded.
+
+B.  Specimen labelled &amp;quot;Right external iliac lymph node&amp;quot;, consists of multiple pieces of fibrofatty tissue 31 x 24 x 8mm in aggregate.  Two possible lymph nodes identified, 5 and 16mm.
+Blocks: 1 - one ? lymph node; 2 - one lymph node bisected.
+
+C.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of 14 x 10 x 6mm fibrofatty tissue.  A 7mm possible lymph node is identified.  Blocks: 1 - one ?lymph node.
+
+D.  Specimen labelled &amp;quot;Right common iliac lymph node&amp;quot;, consists of a 23 x 23 x 8mm unoriented fibrofatty tissue.  Four possible lymph nodes are identified, 4 to 11mm.
+Blocks: 1 and 2 - each have ?two lymph nodes.
+
+E.  Specimen labelled &amp;quot;Left common iliac lymph node&amp;quot;, consists of three unoriented fatty tissues 17 x 13 x 4mm in aggregate.  Two possible lymph nodes identified, 10 and 14mm.
+Blocks: 1 - two ?lymph nodes.   (TO:SW/vo 26.7.69)
+
+
+
+MICROSCOPIC (Reported by Dr E Buttry):
+A.  Sections show a very large moderately differentiated squamous cell carcinoma of the cervix.  The tumour has a maximum depth of invasion of 19.4mm through a wall 20mm thick.  At the right lateral aspect of the specimen (where there is a large tear seen macroscopically) the tumour has penetrated the full thickness of the wall (too ragged for an accurate measurement of depth), and invades into fat over a broad front.  In this area there is perineural invasion, and tumour appears to extend to the vaginal margin.  The tumour has an estimated width of 35mm and an approximate length of 40mm.  Focal lymphvascular invasion is present.
+There is no adenocarcinoma is situ.
+The endometrium is essentially inactive and focally shedding.  Both ovaries and tubes show no significant abnormality.
+Two small paracervical lymph nodes are identified and these are negative.
+
+B.  Two lymph nodes show no evidence of malignancy.
+
+C.  One lymph nodes show no evidence of malignancy.
+
+D.  Four lymph nodes show no evidence of malignancy.
+
+E.  Two lymph nodes show no evidence of malignancy.
+
+
+DIAGNOSIS:
+Moderately differentiated squamous cell carcinoma of the cervix with full thickness invasion and wall rupture, width 35mm, length 40mm.  Focal lymphvascular invasion is present.  Eleven (11) lymph nodes are negative.
+AMENDED REPORT 1/10/65:
+On review, the vaginal margin is clear of tumour by approximately 6mm.

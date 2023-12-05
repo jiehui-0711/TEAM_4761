@@ -1,0 +1,120 @@
+SPR no: 54N627675Z
+MRN no: 545627
+Site_name: BRIDGETOWN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT 26/1/2071
+
+54N62767 (54N627675Z) MACOMBER, Joel Nannette
+
+HISTOPATHOLOGY REPORT
+COOKTOWN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca
+Frozen - left sentinel lymph node
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL LYMPH NODE&amp;quot;. Fat with two lymph nodes. Lymph node 1 is 15x8x6mm, partly fat. Lymph node 2 is 15x10x8, fatty. No lesions identified.
+
+Frozen section result:  &amp;quot;Negative&amp;quot; Reported by N Sheckler, 18/1/72.
+
+(1 one TS frozen LN1, LN2; 2 remainder LN1; 3 remainder LN2).  Representative sections.(M-3)
+
+B. &amp;quot;LESION LEFT BREAST&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  40mm
+Superior to inferior:  50mm
+Anterior to posterior:  17mm
+WEIGHT:  28g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED:  Non-standard:  Anterior blue, posterior black, medial red, lateral green.
+DISSECTION: Cut from superior to inferior.
+Number of slices: 7
+FINDINGS / LESION:  A well-defined grey-white firm area with irregular border is present in slices 2-7 measuring 12x10mm.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:Anterior 9mm, posterior 10mm
+superior 10, inferior 16, medial 10mm and lateral 20mm
+(1-3 LS slice 1; 4&amp;amp;5 slice 2; 6&amp;amp;7 slice 3; 8&amp;amp;9 slice 4; 10&amp;amp;11 slice 5; 12&amp;amp;13 slice 6; 14&amp;amp;15 six LS LS slice 7). ------ (M-15/AA 19/2/2069 nh)
+MICROSCOPIC: (Dr N Marquez)
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+Specimens A and B.
+
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single invasive focus
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;30mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type (ductal)
+&amp;#160;
+HISTOLOGIC GRADE:  2
+SCORES: Tubules:  3, Nuclei: 2, Mitoses: 1; Total score: 6&amp;#160;(of 9)
+MITOTIC RATE: 6&amp;#160;&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 30mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Absent
+PERINEURAL INVASION: Not identified
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): &amp;lt; 10%
+
+SKIN INVOLVEMENT: Not applicable
+DERMAL LYMPHOVASCULAR INVASION: Not applicable
+NIPPLE INVOLVEMENT: Not applicable
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS accounts for less than 25% of the tumour area and extends 5mm beyond the invasive tumour margin
+Nuclear grade:  Intermediate to high
+Architecture / type: Solid, cribriform , comedo
+Necrosis: Present
+Microcalcification of DCIS: Present
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+&amp;#160;
+EXCISION MARGINS
+INVASIVE TUMOUR AND DCIS MARGINS
+Distance of invasive tumour to margins:
+Anterior: 3mm (B6)
+Posterior: 5 mm (B8)
+Superior: 16mm (B4)
+Inferior: 4mm (B14)
+Medial: 6mm  (B12)
+Lateral: &amp;gt;10mm (B13)
+&amp;#160;
+ANCILLARY TESTS: to follow
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES (Specimen A): Involved by micro-metastasis
+Nodes with macrometastases: 0
+Nodes with micrometastases: 1 (0.6mm)
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 2
+&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN1(mi)
+
+DIAGNOSIS:
+A: LEFT SENTINEL NODE BIOPSY
+- MICRO-METASTASIS IN ONE OF TWO LYMPH NODES (1/2)
+B: HOOKWIRE LOCALISED ORIENTED WIDE LOCAL EXCISION LEFT BREAST
+- 30mm GRADE 2  INVASIVE DUCT CARCINOMA WITH DCIS
+- SEE SYNOPTIC FOR MARGINS
+22/2/2069 ld
+SUPPLEMENTARY REPORT 24/2/2070
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B13
+ER: Positive &amp;#160;100%, &amp;#160;3+
+PgR: Positive &amp;#160;100%, &amp;#160;3+
+HER2: Negative 0 (IHC)
+Ki67:0 to 5%
+
+25/1/2069 ld

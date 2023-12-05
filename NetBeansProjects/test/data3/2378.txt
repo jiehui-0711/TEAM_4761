@@ -1,0 +1,57 @@
+Episode No:  98P603411R
+9856034.CDR
+
+HALGRIMSON, Peter 
+Lab No:  98P60341
+Office
+PENRITHACT  3334
+Specimen: Tissue
+D.O.B:  24/3/2015
+Sex:  F
+Collected: 19/08/2065 at 09:54
+Location:  Palms-BOYUP BROOK SOLDIERS MEMORIAL HOSPITAL
+DR Denver Angelina CHIZEK
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+64F. ? left breast cancer.  3 o'clock breast mass.  Short superior, long lateral, medium medial.  + L axillary lymph nodes (sentinel lymph node).  Preop lymphoscintigraphy.  Obese PVD. 
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary lymph node", consists of a non-blue lymph node 16mm in maximum dimension.  AE 2 blocks.. 
+B.  Specimen labelled "Left breast cancer 3 o'clock, short superior, long lateral, medium medial", consists of an orientated hookwire localised excision of fibrofatty breast tissue, weighing 194g.  Orientating sutures are present as follows: short suture superior, medium suture medial, and long suture lateral. The specimen measures 125mm (medial to lateral) x 85mm (anterior to posterior) x 39mm (superior to inferior).  Anteriorly the ellipse of skin measures 65 x 14mm, and appears unremarkable.  The hookwire exits close to one tip.  The specimen is sectioned from medial towards lateral into nineteen slices.  The tip of the hookwire is in slice twelve.  In slices nine to sixteen there is a firm, pale stellate tumour 28mm (anterior to posterior) x 18mm (superior to inferior) x approximately 38mm (medial to lateral).  The tumour is 3mm from the closest margin inferiorly.  It is 9mm from the inferior margin, 7mm from thesuperior margin, 48mm from the skin, and well clear of both medial and lateral margin.  The remainder of the breast tissue appears entirely fatty.
+Blocks:  1 to 2 - medial margin; 3 to 6 - central slice eight immediately medial to tumour; 7 - central slice nine showing medial edge of tumour with inferior margin; 11 - central slice eleven showing tumour with inferior margin; 9 to 10 - tumourslice thirteen with inferior and posterior margins respectively; 11 to 16 - full face slice fourteen; 17 to 18 - tumour slice fifteen with inferior and posterior margins respectively; 19 - tumour for banking; 20 - lateral edge of tumour slice sixteen; 21 to 22 - immediately lateral to tumour central slice seventeen; 23 to 24 - lateral margin slice nineteen.  Diagram supplied.  XRAYS taken. (DR/rt 20.8.65)
+MICROSCOPIC (Reported by Dr X Bonaventure & registrar Dr X Nygren):
+A & B.  Sections show invasive ductal carcinoma of the breast.  The features are as follows:
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma
+Invasive tumour size:  35mm (spanning8 slices)
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3   Nuclei:  3  Mitoses:  3   Mitotic rate:  23/10hpf.
+Lymphovascular invasion:  Present
+Perineural invasion:  Present
+
+DCIS component:
+DCIS:  Absent
+Excision Margins:
+Invasive component:  5mm from inferior, 8mm from posterior, all other margins well clear
+In-situ component:  Not applicable
+Receptors (Block B13):
+ER:  Positive
+	50% of nuclei stained
+	predominant intensity of staining:  Moderate to strong
+PR:  Positive
+	60% of nuclei stained
+	predominant intensity of staining:  Moderate to strong
+HER2 (Novocastra 10A7):  Negative (score 1+)
+HER2 SISH:  Performed at International Paper, MOUNT MORGAN HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 40%
+Nipple:  Not applicable
+LCIS / ALH:  Present
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

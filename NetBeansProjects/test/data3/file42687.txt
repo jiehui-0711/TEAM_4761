@@ -1,0 +1,42 @@
+SPR no: 63V971799J
+MRN no: 8697781
+Site_name: CONDOBOLIN RETIREMENT VILLAGE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report63V97179 (63V971799J) Shirakawa, MIKE
+HISTOPATHOLOGY REPORT
+GNOWANGERUP HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Involved margins multifocal cancer.
+Right mastectomy, suture superior
+(MC&amp;amp;S swab previous cavity)
+
+MACROSCOPIC:
+&amp;quot;RIGHT BREAST SUPERIOR SUTURE&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Mastectomy, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  170mm
+Superior to inferior:  130mm
+Anterior to posterior:  60mm
+WEIGHT:  580g
+SKIN:  Yes, 165x70mm
+NIPPLE:  Yes, 15mm
+MUSCLE:  No
+MARGIN INKED:  Non-standard:  Anterior superior blue, anterior inferior green, posterior black.
+DISSECTION:
+Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION:  There is a scar at 10-12 o&amp;apos;clock 50x20mm with partial dehiscence of the lateral edge over 12mm.  Underlying the scar there is a cavity partially defective of its posterior edge measuring 70mm medial to lateral, by 45x45mm.  The inner lining of the cavity is necrotic with thick green exudate.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS: Posterior defective centrally and 3mm where intact, superior 5mm, inferior 20mm, medial 65mm and lateral  25mm.  The remainder of the breast tissue is fibrofatty with no discrete lesions.
+(1 nipple; 2 central posterior; 3 upper inner; 4 lower inner; 5 lower outer; 6 upper outer; 7 cavity with anterior skin at site of dehiscent wound; 8 intact scar anteriorly with cavity; 9 superior anterior; 10 superior posterior; 11 inferior anterior; 12 inferior posterior; 13 lateral anterior; 14 lateral posterior; 15 medial anterior [no margins]; 16 lateral posterior [16 is block for tissue banking]).  RS (M-16/ZH 20/1/2071 nh)
+MICROSCOPIC:  (Dr P Sehorn)
+The sections show breast tissue with breast ducts and lobules including some ducts with moderate to florid epithelial hyperplasia.  There is fat necrosis, fibroblastic reaction consistent with the previous surgery effect and with associated dense acute inflammation within the cavity space.
+Sections of the nipple appears unremarkable.  Sections of the skin appears unremarkable.  The breast parenchyma is predominantly fatty and is negative for ductal carcinoma in-situ and negative for invasive malignancy within the breast parenchyma.
+An incidental intramammary lymph node is identified (Block 6) from the upper outer quadrant and within this intramammary lymph node there is a 0.3mm diameter focus of metastatic carcinoma.
+DIAGNOSIS:
+RIGHT BREAST -
+-SURGERY RELATED CHANGES, INTRAMAMMARY LYMPH NODE WITH 0.3mm METASTATIC CARCINOMA.
+25/1/2071 ank

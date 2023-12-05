@@ -1,0 +1,46 @@
+SPR no: 32P4316023
+MRN no: 32543160
+Site_name: J254
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report32P43160 (32P4316023) Fetrow, THUKERI
+HISTOPATHOLOGY REPORT
+EAST WIMMERA HEALTH SERVICE - BIRCHIP HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Mesothelioma.
+Rt colon, peritoneum, gallbladder/spleen, rectum/omentum.
+Please check Ki67.
+
+MACROSCOPIC:
+&amp;quot;COLON, SPLEEN, OMENTUM, GALLBLADDER, PERITONEAL DISEASE, DIAPHRAGM&amp;quot;.  Consists of gallbladder with spleen with hilar fat, two segments of bowel, one consistent with the right hemicolectomy, the other rectum and there is attached omentum on the right hemi specimen.  Gallbladder measures 85x45mm.  On the serosa is a deposit of tumour with a pale white appearance.  The wall is up to 2mm thick.  The mucosa is granular green in appearance. No stones are found within the lumen.
+
+(1 cystic duct and neck of gallbladder; 2 two sections of the body with tumour deposit and one section of fundus [no tumour deposit])
+
+Spleen measures 140x90x35mm. The attached fat at the hilum is 280x80x30mm.  Fat is detached, the spleen weighs 259g.  Both the splenic capsule and the attached hilar fat is involved by tumour deposit with a pale white appearance.
+
+(3&amp;amp;4 sections of spleen including capsular deposit of tumour; 5 fat attached to spleen with tumour deposit; 6 further section of fat attached to hilum of spleen [tumour block])
+
+Right hemicolectomy measures 580g [terminal ileum by itself is 100mm, colon is 480mm].  Proximal diameter is 35mm, distal diameter is 60mm. The attached omentum is 240x170x25mm.  The entire omentum, serosa of the bowel both small and large is caked by tumour with a pale white appearance. The mucosa appears uninvolved by tumour.  Proximal margin inked blue, distal black.
+
+(7 proximal and distal margins; 8 tumour on serosa of small bowel and large bowel; 9 omentum caked by tumour)
+
+Segment of bowel consistent with ? rectum.  It measures 390mm. The attached fat is 80mm.  Proximal margin inked black, distal blue.  On opening the mucosa is unremarkable and shows normal mucosal folds. There is tumour noted on the attached pericolic fat and serosa of the bowel.  Radial margin of the rectum green.
+
+(10 proximal and distal margin; 11 radial margin with adjacent tumour)
+
+Also separately are multiple pieces of fibrofatty tissue ? mixture of peritoneum and possibe diaphragm in aggregate 270x190x40mm.  The peritoneal pieces are caked by tumour with pale white appearance.
+
+No obvious diaphragm is identified macroscopically.
+(12&amp;amp;13 sections from separate fibrofatty tissue [peritoneum]).  RS (M-13).
+
+MICROSCOPIC:  (Dr. J Weinger)
+Sections of the gallbladder show denuded surface epithelium. On the serosal surface, there is deposition of malignant epithelioid cells with eosinophilic cytoplasm consistent with mesothelioma. There is involvement of the capsular surface of the spleen. The splenic parenchyma appears unremarkable. Multiple foci of tumour deposits are also seen within the peritoneum. The tumour cells formed solid sheets and tubulopapillary architecture. Scattered mitotic figures are noted. Mitoses is 6/10hpf. There is extensive tumour involvement of the serosal surface of the large bowel. No evidence of malignancy is seen in two lymph nodes identified.
+Immunohistochemistry stains show positive staining for cytokeratin 7, CAM5.2, cytokeratin 5/6, D2-40, WT1, EMA, Calretinin
+Negative:  cytokeratin 20, Sox-10,  TTF-1, CEA
+Ki67 30%
+Comment:  Histology and immunohistochemistry profile are in keeping with epithelioid malignant mesothelioma.
+DIAGNOSIS:
+COLON, SPLEEN, OMENTUM, GALLBLADDER, PERITONEAL DISEASE, DIAPHRAGM
+- MALIGNANT MESOTHELIOMA INVOLVING PERITONEUM, COLONIC SEROSA, SPLEENIC CAPSULE AND GALLBLADDER SEROSA.
+7/9/2071 cy

@@ -1,0 +1,64 @@
+Episode No:  53P778463V
+535778.LQK
+
+Nascimento, YOUNG JOSUE Danilo 
+Lab No:  53P77846
+Main Line
+MOURA  Australian Capital Territory  6910
+Specimen: Tissue
+D.O.B:  18/1/1987
+Sex:  M
+Collected: 27/9/2062 at :
+Location:  Pathwest-THE FORENSIC HOSPITAL
+DR Alphonse Raleigh PICCONE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Lung cancer.
+Additional information obtained:  Lung lobe not adherent to a parietal pleura.
+MACROSCOPIC:
+A.  Specimen labelled "Right upper lobe" consists of a right upper lobe measuring 150 x 110 x 55mm.  In the apex of the lobe there is an area of pleural puckering measuring 30 x 20mm.  On sectioning in the area of pleural puckering there is a white ill defined and fleshy tumour measuring 60 x 40 x 35mm.  Tumour comes to within 5mm of the bronchial margin.  The rest of the parenchyma is unremarkable.  
+Blocks:1 - bronchial and brachial resection margin; 2- hilar lymph node; 3 to 5 - tumour; 6 - tumour with normal lung; 7 - one representative section from normal lung; 8 to 10 - interlobular lymph nodes; 11 - interlobular lymph node; 12 - tissue for tissue bank; reselect blocks 13-16 -representative sections of the tumour close to the pleura.   
+B.  Specimen labelled "Paratracheal lymph node" consists of a piece of fatty tissue, 50 x 20 x 10mm with a lymph node, 15 x 10 x 10mm.  On sectioning the lymph node is black and friable.  Four more lymph nodes are identified.  
+Blocks:  1 & 2 - largest lymph node; 3 - three lymph nodes; 4 - one bisected lymph node.  (JU/mm 28.9.62) 
+MICROSCOPIC (reported by Dr O Broussard):
+A.  Sections show a moderately differentiated adenocarcinoma of the right upper lobe.  The tumour measures approximately 60mm across and comes to within 4mm of the bronchial and vascular resection margins at the hilum.  Tumour is seen to completely fill the lumen of a large bronchial artery and tumour can also been seen in occasional veins.  No definite invasion of the elastic layer of the pleura is seen and no tumour is seen on the surface of the visceral pleura.  Focally carcinoma is present in areas in which the pleura is ragged and appears stripped from the lung.  The fourteen (14) lymph nodes identified show no evidence of malignancy.  The remaining lung parenchyma shows scattered emphysematous change.
+B.  The five (5) lymph nodes identified show no evidence of malignancy.
+DIAGNOSIS:
+A & B.  Right upper lobe and paratracheal lymph nodes:
+- Moderately differentiated adenocarcinoma, size approximately 60mm
+- Arterial and venous invasion present
+- Very close bronchial and vascular resection margins
+- No definite pleural invasion (PL0)
+- Nineteen (19) negative lymph nodes
+- Stage: T2bN0.
+ADDITIONAL REPORT (10/11/62):
+
+TARGETED EGFR MUTATION DETECTION, SPRINGWOOD HOSPITAL's Hospital, reported by Dr O Kosofsky.
+"TUMOUR SAMPLE:
+Date of collection: 27/9/2062
+Date Received: 10/5/2062
+Specimen Received: I x FFPE block labelled 53P77846 A5 Weikert 
+Nature of specimen: Resected Tumour from Lung
+Clinical History: Adenocarcinoma Right Lung, T2bN0
+Slide examined by Dr O Nusz (FRCPA) Date: 10/8/2062
+Microscopic Diagnosis: Adenocarcinoma 
+Proportion of malignant cells as% of all viable cells within marked area on slide: 40% Macro-Dissection Required Yes
+EGFR MUTATION TEST: 
+Date Tested: 10/10/2062
+RESULT:
+Targeted EGFR mutation analysis on DNA extracted from FFPE tumour tissue:
+NEGATIVE
+MUTATION NOT DETECTED
+
+Interpretation:
+The tumour sample from Kieran LAMAR CLYDE Moriarty DOES NOT CARRY a mutation of clinical significancein the regions of the EGFR gene targeted in this analysis (see comment below).
+METHOD:
+* DNA was extracted from FFPE tumour tissue using the Roche cobas DNA Sample Preparation kit.
+* The presence of EGFR gene mutations was analyzed using the Roche cobos 4800 EGFR Mutation Test kit (ARTG Id: 535778).
+COMMENTS:
+*This testdoes not diagnose cancer. It is intended as an adjunct to other prognostic and predictive factors to aid clinical treatment decisions.
+The cobas EGFR Mutation Test detects 41 common mutations in exons 18 to 21 of the EGFR gene, but may not specify the EGFR gene mutation detected (a list of EGFR mutations detected is available from our laboratory). Other mutations, either in the EGFR gene or in other genes, will not be detected by this analysis.
+* This test hasbeen shown in our laboratory to detect at least 5% mutant EGFR alleles in a background of normal DNA. Therefore a negative result should be interpreted with caution, as it does not exclude the presence of low levels of a clinically significant EGFR mutation.
+* The analytical sensitivity and specificity of this test are 98.5% and 98.8%, respectively (determined by manufacturer). PCR inhibitors or rare mutations affecting the binding sites of PCR primers and/or probesused in this assay may cause a false negative result * This test has been processed as a Level 1 genetic test according to the NPAAC guidelines (2007).
+* This test is not currently covered by our NATA scope of accreditationand results should be interpreted accordingly"
+

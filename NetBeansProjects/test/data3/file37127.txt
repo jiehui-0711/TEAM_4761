@@ -1,0 +1,137 @@
+SPR no: 97Q677895G
+MRN no: 363927
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report97Q67789,97Q67789 (97Q677895G) WALEGA, Felipe
+HISTOPATHOLOGY REPORT
+MOUNT GAMBIER AND DISTRICTS HEALTH SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GII endometrial adeno ca.
+
+1.  Peritoneal washing for Cyto.
+2.  Uterus, tubes and ovaries.
+3.  Right plevic sentinel lymph node.
+4.  Appendices epiploica.
+5.  Left pelvic lymph node.
+6.  Posterior vaginal wall.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES, OVARIES&amp;quot;.  Uterus attached cervix and ovaries and tubes weighing 163g.
+Uterus measures 100x60x45mm.  Serosa at the posterior appears retracted and ragged over the lower segment.  Anterior inked blue, posterior inked black.  The specimen received partially opened coronally and cut surface appears very irregular.  There is a lobulated abundant mucus located in the cervix (posterior cervix) measuring, 40x30mm.  Cervix amputated.  Both anterior and posterior portion of uterus serially sliced from superior to inferior.  There is a white firm irregular endometrial tumour within the fundus and measuring approximately 45x35mm, it is involving approximately 75% of the myometrium (depth of 15mm, with 24mm myometrium thickness).  Lower segment macroscopically appears free from the tumour. Right tube measures 50mm in length and 10mm in diameter.  Sectioning is unremarkable.  Right ovary measures 15x15x10mm.  Sectioning is unremarkable.  Left tube 40mm in length, 10mm in diameter.  Sectioning is unremarkable.  Left ovary measures 20x15x10mm.  Sectioning is unremarkable.
+
+(1&amp;amp;2  one full face of the cervix with mucus; 3&amp;amp;4  thickened full face of cervix; 5&amp;amp;6  anterior cervix full face; 7-15  tumour anterior; 16&amp;amp;17  lower segment anterior; 18-21  tumour posterior; 22&amp;amp;23  lower segment posterior [one full face of the lower segment embedded]; 24  right tube; 25  right ovary; 26  left tube; 27  left ovary).  RS (M-27).
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  Fibrofatty tissue 40x10x5mm.  Possible three lymph nodes 3mm diameter.  All embedded block 1.  AE (3-1).
+
+C.  &amp;quot;APPENDICIA EPIPLOICA&amp;quot;.   Round fibrofatty tissue 10x5x3mm.  Embedded block 1.  AE (1-1).
+
+D.  &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;.  Multiple fibrofatty tissue measuring 40x20x10mm in aggregate.  Possible of three lymph nodes.
+
+(1  ?two lymph nodes; 2  remainder).  AE (M-2).
+
+E.  &amp;quot;POSTERIOR VAGINAL WALL&amp;quot;.  Fibrofatty tissue measuring 25x20x15mm.  Margins inked blue and serially sliced.  AE (M-2/SM 6/1/2067 km).
+
+MICROSCOPIC:  (Dr X Mcmurdo)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT
+
+PROCEDURE:
+Total hysterectomy and bilateral salpingo-oophorectomy
+
+SPECIMEN INTEGRITY:
+Opened
+
+TUMOR SITE:
+Endometrium, Uterine fundus and body
+
+TUMOR SIZE:
+Greatest dimension: 45 mm (macroscopic measurement)
+Additional dimensions: 35 x 15 mm
+
+HISTOLOGIC TYPE:
+Mucinous adenocarcinoma.
+
+HISTOLOGIC GRADE:
+FIGO grade 2
+
+MYOMETRIAL INVASION:
+Present
+
+Depth of invasion: 14 mm
+Myometrial thickness: 20 mm
+Percentage depth of myometrial invasion: 70 %
+
+ADENOMYOSIS:
+Focally present
+
+UTERINE SEROSA INVOLVEMENT:
+Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:
+Not identified.
+
+CERVICAL STROMAL INVOLVEMENT:
+Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+Not identified
+
+Right Ovary: Not involved.
+Right fallopian tube: Not involved.
+Left ovary: not involved
+Left fallopian tube: Not involved.
+Parametrium: Not involved.
+MARGINS:
+Uninvolved by carcinoma
+- Parametrial/paracervical margin:
+Uninvolved by carcinoma
+LYMPHOVASCULAR INVASION:
+Present, single focus identified
+REGIONAL LYMPH NODES:
+B) Right Pelvic Sentinel lymph nodes:  negative (0/5)
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0
+Number of sentinel lymph nodes examined: 5
+D) Left Pelvic lymph nodes: negative (0/4)
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0
+Number of sentinel lymph nodes examined: 4
+DISTANT METASTASES (histologically confirmed):
+Not identified
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Block A7
+MLH1: ABNORMAL (loss of staining)
+PMS2: ABNORMAL (loss of staining)
+MSH2: normal (positive staining)
+MSH6: equivocal - to be repeated
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+Other:
+Non tumour endometrium is atrophic with decidual change.
+OTHER SPECIMENS:
+(C) Sections show fatty epiploic appendages, no evidence of malignancy present.
+(E) Posterior vaginal wall: No evidence of malignancy identified.
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b, pN0, pMx
+COMMENT: The sections of cervical lesion show benign endocervical hyperplasia.
+SUMMARY:
+
+A. UTERUS + CERVIX, BILATERAL TUBES AND OVARIES:
+- Mucinous adenocarcinoma, FIGO grade 2, FIGO stage 1B
+B.  RIGHT PELVIC SENTINEL NODES:
+- no evidence of malignancy in 5 nodes.
+C.  EPIPLOIC APPENDAGES:
+- no evidence of malignancy.
+D.  LEFT PELVIC  NODES:
+- no evidence of malignancy in 4 nodes
+E.  POSTERIOR VAGINAL WALL:
+- no evidence of malignancy.
+SUPPLEMENTARY REPORT:
+repeat MSH6: suboptimal staining but is favoured to show focal positive staining and is probably normal.
+05.06.18

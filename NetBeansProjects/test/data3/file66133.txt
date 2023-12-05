@@ -1,0 +1,55 @@
+SPR no: 42J497705F
+MRN no: 423497
+Site_name: WILCANNIA HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT 25/6/2071
+42J49770 (42J497705F) Paton, DEREK M
+HISTOPATHOLOGY REPORT
+ST GEORGE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+1. Omentum.
+2. Uterus, bilateral tubes + ovaries, Pouch of Douglas peritoneum.
+3. Left pelvic node.
+Ca ovary.
+Completed 6 cycle chemotherapy.
+
+MACROSCOPIC:
+A. &amp;quot;2 UTERUS, BILATERAL TUBES AND OVARIES, POUCH OF DOUGLAS PERITONEUM&amp;quot;. Consists of a uterus with attached cervix, bilateral fallopian tubes and bilateral ovaries. Attached to the cervix and the right lateral uterus is a 70x60x30mm mass  with a focally haemorrhagic 40x34x30mm component. Anterior inked blue, posterior black, right lateral inked green and left lateral inked red. Total weight 253g. Specimen dimensions - superior to inferior uterus 50mm, superior to inferior cervix 30mm, intercornual distance 45mm, anterior to posterior uterus 35mm, right to left cervix 40mm and anterior to posterior cervix 37mm. The superficial surface of the uterus has a 55x55mm strip of peritoneum attached at the base of the uterus. The entire posterior surface of the uterus, cervix and bilateral adnexal areas is irregular and fibrous to haemorrhagic. Cut surface of the  uterus shows anterior myometrium 16mm, posterior myometrium 15mm, endometrium 4mm. An 18mm long polyp arising from the posterior endometrial wall fills the endometrial cavity. The right fallopian tube is 90mm long x 12mm wide. The fimbrial end is covered in the dark brown irregular fibrous and haemorrhagic tissue. The right ovary is 37x35x25mm and is globally enlarged with an irregular fibrous surface. The cut surface is white and reveals multiloculated spaces ranging from 2-12mm in diameter. Cut surface of the right adnexal mass is dark brown and haemorrhagic with a 3mm rim of tan tissue capsule. The left fallopian tube is 65mm long x 6mm wide. A single 4mm diameter clear fluid filled cyst at the fimbrial end. Cut surface of the left fallopian tube is unremarkable. The left ovary is globally enlarged measuring 43x42x26mm with the irregular fibrous tissue attached to the medial aspect. Cut surface shows a creamy surface with multiloculated spaces ranging from 1-25mm in diameter. Specimen discussed with pathologist LV.
+
+(1 right parametrium; 2 left parametrium; 3-8 full face of cervix and uterus [3 anterior cervix; 4 posterior cervix; 5 anterior uterus; 6 anterior apex; 7 posterior apex; 8 posterior uterus]; 9&amp;amp;10 right fimbriae; 11 right fallopian tube; 12-16 TS of right ovary; 17 right fibrofatty tissue attached to lower uterus and cervix; 18&amp;amp;19 TS of haemorrhagic nodule; 20 left fallopian tube; 21-26 TS of left ovary; 27 fatty tissue attached to anterior uterus and cervix). Representative sections. (M-27)
+
+B. &amp;quot;1 OMENTUM&amp;quot;. Consists of 410x105x20mm strip of omental fat. Separately in the specimen bucket is a 60x25x13mm portion of colonic fatty tissue and a 25x20x10mm piece of unoriented tan polypoid tissue. Multiple tan white deposits identified throughout the omental tissue ranging from 3-5mm in diameter and isolated 25x20x17mm area of tan tissue is attached to the omental fat and appears to invade into the fatty tissue.
+
+(1 possible colonic fat; 2 tan tissue; 3 tan deposit in omentum; 4-6 full face of the larger nodule of tan lesion into the omental fat). Representative sections. (M-6)
+
+C. &amp;quot;3 LEFT PELVIC NODE&amp;quot;. Consists of a 20x10x5mm piece of fatty tissue containing a 11mm diameter lymph node. Lymph node has a yellowy tan cut surface. All embedded. (M-1/BM 27/5/2071 ank)
+
+MICROSCOPIC:  (Dr M Desorcy)
+A. Sections show tubo-ovarian carcinosarcoma.
+There is surface and parenchymal involvement of bilateral ovaries, replacement of the right fimbriae, and serosal surface involvement of bilateral fallopian tubes. There is extensive extra-ovarian extra-tubal tumour characterized by haemorrhagic tumour deposits involving the serosal aspect of the uterus and cervix together with a complex right adnexal mass. There is sarcomatous differentiation in these latter areas.
+The epithelial component is high grade serous in type and characterized by solid, complex acinar and papillary architecture with scattered psammomatous calcifications. A panel of immunostains show that the carcinoma is positive for CK7, CAM5.2, AE1/3, p16, PAX8 and WT1. P53 stain is entirely negative consistent with the presence of mutation. Other negative stains include AMACR and Napsin A.
+The sarcomatous component is characterized by high grade pleomorphic spindle cell morphology with extensive rhabdomyosarcomatous differentiation (heterologous). No other heterologous differentiation is identified. Immunostains show that the sarcomatous component is strongly positive for desmin and negative for S100.
+Representative sections of the cervix are unremarkable. The endometrium is atrophic with cystic atrophy. A benign endometrial polyp is confirmed. The uninvolved tubal mucosa is unremarkable. No definite serous tubal intra-epithelial carcinoma (STIC) is identified. Bilateral ovaries show features of serous cystadenofibroma in addition to carcinosarcoma.
+B. Sections show extensive involvement of the omentum by carcinosarcoma with appearances as described in specimen A. There are minimal features of chemotherapy response (CRS 1).
+C. Sections show one benign lymph node. There is no evidence of metastatic malignancy.
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES
+- TUBO-OVARIAN CARCINOSARCOMA
+- INVOLVEMENT OF BILATERAL OVARIES AND FALLOPIAN TUBES
+- CARCINOSARCOMA TUMOUR MASSES INVOLVING POSTERIOR AND RIGHT LATERAL ASPECT OF UTERUS
+B. OMENTUM
+- INVOLVED BY CARCINOSARCOMA
+- CRS 1
+C. LEFT PELVIC LYMPH NODE - ONE BENIGN LYMPH NODE
+7/6/2071 ld
+SUPPLEMENTARY REPORT 25/6/2069
+Immunostains for MSI proteins (Pathmark Stores SEALS; block: A15)
+MLH1: Retained (intact)
+PMS2: Retained (intact)
+MSH2  Retained (intact):
+MSH6: Retained (intact)
+Comment:
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+28/7/2070 ld

@@ -1,0 +1,67 @@
+
+Episode No:  41S283971J
+417283.YTE
+
+NIKAS, Kurtis 
+Lab No:  41S28397
+Almeric
+YARRA GLEN  South Australia  4627
+Specimen: Tissue
+D.O.B:  3/12/1989
+Sex:  F
+Collected: 26/03/2013 at 15:07
+Location:  INTENSIVE CARE UNIT - CUMMINS HOSPITAL
+DR SOL Garth Rhine
+Distribution:  DR QUINTON,  FILE-COPY,   NSW-CANCER-REGISTRY, DR Divine
+CLINICAL:
+Previous left breast cancer.  WLE + ALNDx  + radiotherapy.  New 9mm lobular Ca at 9 o'clock, 3cm FN.  Neo-adjuvant arimidex.  Mastectomy.  Early breast cancer 2047.  Likely recurrence.  
+MACROSCOPIC:
+Specimen labelled "Left breast stitch axillary tail" consists of a total mastectomy with one suture for orientation (axillary tail) measuring 160mm (medial to lateral) x 100mm (superior to inferior) x 20mm (superficial to deep).  An ellipse of skin with nipple and areolar complex measuring 150 x 45mm is present.  A ?linear old scar close to the areolar measuring 20mm is present. The specimen is inked blue superficial margin, black deep margin.  On sectioning and at 9 o'clock 3cm FN there is a stellate ill defined fibrotic area measuring 15mm from (superior to inferior) and 12mm (superficial to deep) and 7mm (medial to lateral).  The lesion is located 15mm from the closest superficial margin, 15mm from the closest deep margin, 45mm from superior margin and 40mm from inferior margin.  The lesion is well clear from medial and lateral margin.  The rest of the parenchyma has a fibrofatty appearance.  
+Blocks: 1 - one representative section of nipple and areola with ?scar; 2 & 3 - tumour with deep margin; 4 & 5 - composite of tumour with  deep margin; 6 - representative sections of closest superficial - superior margin; 7 - representative section of closest superficial - inferior margin; 8 & 9 - two representative sections upper outer quadrant; 10 & 11 - two representative sections lower outer quadrant; 12 & 13 - two representative sections upper inner quadrant; 14 & 15 - two representative sections lower inner quadrant; 16 - four possible lymph nodes from the axillary tail.   (PG/ta 28/5/63) 
+MICROSCOPIC (reported by Dr L Nordgren):
+Sections show invasive lobular carcinoma of the breast.  The features are as follows:
+
+Invasive carcinoma:
+Site:  Left breast, 9 o'clock. 
+Type:  Invasive lobular carcinoma. 
+Invasive tumour size:  16mm. 
+Grade (Modified Bloom & Richardson):  1
+Tubules:  3   Nuclei:  1   Mitoses:1   Mitotic rate:  1/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Absent.
+Excision Margins:  
+Invasive component: 11mm from deep margin, other margins well clear. 
+In-situ component:  Not applicable. 
+Receptors (Block 2): 
+ER:  Positive.
+	95% of nuclei stained
+	predominant intensity of staining:  Moderate to strong. 
+PR:  Negative.  
+HER2 (Novocastra 10A7):  Equivocal (score 2+).
+Ki-67 index:  Approximately 1%. 
+Nipple:  No significant abnormality. 
+LCIS / ALH:  Small focus of LCIS.  
+Miscellaneous:  Some extension of tumour cells within ducts. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0.
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0.    
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  0
+ADDENDUM (14/6/63):
+
+HER-2 IN SITU HYBRIDISATION REPORT. 
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centrorneric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE (non amplified, diploid)
+HER2 copy number per cell: 1.7 
+Mean CEP17 copy number per cell: 1.4 
+HER2/CEPI7-Ratio: 1.21
+SCORING CRiTERIA (ASCOICAP recommendations): 
+Negative: HER2/CEP 17 < 1.8
+Equivocal: HER2/CEP 17 = 1.8 - 2.2
+Positive: HER2ICEP 17 >2.2
+Reported by: Dr. L. Thiele
+

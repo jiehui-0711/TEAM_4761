@@ -1,0 +1,92 @@
+SPR no: 47E643592I
+MRN no: 47164359
+Site_name: CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+78 year old male complete neoadjuvant chemoradiotherapy for GOJ (oesophageal) adenocarcinoma.  At least partial response on PET. Palpable tumour and lesser curve node. Donuts included with specimen.  Newly diagnosed gastroesophageal junction adenocarcinoma.
+
+
+MACROSCOPIC:
+A. Specimen labelled &amp;quot;Oesophagus&amp;quot;, consists of a resection of oesophagus and partial gastrectomy. The oesophagus is 95mm in length with a circumference of 50mm when oesophagus is opened and laid flat. There is up to 50mm of attached perigastric fat present.  The partial gastrectomy has a lesser curve of 45mm and a greater curve of 60mm, there is a stapled resection margin running along the gastric resection margin which is removed and inked black.
+At the gastro-oesophageal junction is a pale white, firm area, 25 x 20mm which lies 80mm form the proximal oesophageal resection margin and 22mm from the distal gastric resection margin. Within this area is an ulcer, 8 x 5mm.  There is a focal irregular area of mucosa in upper oesophagus, 3 x 4mm which is 20mm from the pale white lesion at gastro-oesophageal junction and 50mm from the proximal oesophageal junction.  The gastric mucosa away from the lesion appears unremarkable. The radial margin inked blue.  On sectioning through no definite invasive components seen however, there is some irregular thickening of the wall underneath the pale white area the gastro-oesophageal junction extending to a thickness of possibly 3mm, which appears clear of radial margin by at least 2mm. There is also a 7mm firm lymph node ?involved present in the fat attached to stomach.  Entire gastro-oesophageal junction embedded.
+Blocks: I &amp;amp; 2 - LS sections proximal oesophageal resection margin; 3 to 15 - shows gastric resection margin extending up to oesophageal junction LS sections, 3 - one end, 14 &amp;amp; 15 - other end, 8 &amp;amp; 9 - paired, 8 - superficial (partially fragmented), 9 radial deep, 10 &amp;amp; 11 - paired, 10 - superficial, 11 - deep with one ?involved lymph node serially sectioned, 12 &amp;amp; 13 - paired, 12 - superficial undercut partially fragmented, 13 - deep with the same paired lymph node from block 11, 14 &amp;amp; 15-paired, 14- superficial, 15-deep, contains paired lymph node from blocks 11 &amp;amp; 13; 16 to 25 - gastro oesophageal junction embedded from one end to the other, 16 - one end, 25 - other end, 9-to 23 - contains pale white area, 6 &amp;amp; 7 - contain ulcerated area in stomach; 26 - two sections of irregular area proximal to gastro oesophageal junction; 27 - ?five lymph nodes; 28 - ?three lymph nodes; 29 - one lymph node bisected; 30 - ?four lymph nodes; 31 - ?two lymph nodes; 32 - ?two lymph nodes; 33 - firm fat ?lymphoid; 34 - firmer fat ?lymph nodes; 35 - firmer fat ?lymph nodes.  See diagram.
+
+B.  Specimen labelled &amp;quot;Proximal and distal donut&amp;quot;, consists of two donuts of tissue, first donut has blue sutures and is 20 x 20 x up to 7mm in length, mucosa appears unremarkable. The other donut is 23 x 20 x 5mm and appears to have gastric mucosa.
+Blocks: I - donut with ?gastric mucosa; 2 - donut with blue sutures bisected.  AE 2 blocks. (TO:JR/rs 20/9/69)
+
+
+MICROSCOPIC (Reported by Dr L Schoolman):
+A &amp;amp; B.  Sections show residual moderately differentiated adenocarcinoma of the gastro-oesophageal junction, post treatment.  Tumour invades into adventitial connective tissue coming to within 0.4mm of the circumferential margin in the region of oesophageal squamous mucosa.  The carcinoma also comes to within 2.5mm of the circumferential margin underlying gastric mucosa.  Tumour is well clear of the proximal margin and approximately 23mm clear of the distal margin, taking into account a negative distal donut.  Two lymph nodes show metastatic adenocarcinoma.  The features are as follows:
+
+Tumour location
+Gastro-oesophageal junction
+Histologic type
+Adenocarcinoma
+
+Histologic grade
+Grade 2 Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Pattern of growth
+Infiltrating
+
+Maximum tumour dimension
+55mm
+
+Depth of invasion
+(T3)  Adventitial connective tissue
+
+Peritoneal involvement
+Absent
+
+Pleural involvement
+Absent
+
+Lymphatic and capillary space invasion
+Suspicious
+
+Perineural invasion
+Present
+
+Degree of regression (AJCC)
+Grade 2 (partial response) - Residual cancer with evident regression, but more than single cells or rare small groups of cancer cells
+
+SURGICAL MARGIN STATUS
+Distance of carcinoma to proximal margin:
+At least 40mm (including donut)
+
+Distance of carcinoma to distal margin:
+Approximately 23mm (3mm main specimen, 20mm donut)
+
+Distance of carcinoma to radial/circumferential margin:
+0.4 mm (in region of squamous mucosa, block A18).
+
+Donuts
+Not involved
+
+LYMPH NODE STATUS
+Number of lymph nodes identified:  21
+Number of positive lymph nodes:  2
+
+N1    Metastasis in 1-2 regional lymph nodes
+
+Other pathologies
+Barrett mucosa
+Margin involvement:  Not involved
+
+Immunoperoxidase stains for MSI proteins (Block A8)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+SUMMARY:
+A &amp;amp; B.  Oesophagus and donuts:
+- Moderately differentiated adenocarcinoma of the gastro-oesophageal junction
+- ypT3    N2    MX
+- Margins clear.

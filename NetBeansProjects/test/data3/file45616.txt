@@ -1,0 +1,40 @@
+SPR no: 71V7691688
+MRN no: 10516243
+Site_name: SWAN DISTRICTS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+<spr><sections><section><name>Pathology Report</name><text>CLINICAL:
+52 year old with large complex ovarian mass.  Ovarian surface tumour.  Left tube and ovary.  Frozen.  10cm complex ovarian cyst with abnormal uterine bleeding.  Negative pipelle sampling pre-operatively.  Ca 125=47.  Nil other disease visible macroscopically.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Ovarian surface tumour&amp;quot;, consists of a soft tan tissue, 7 x 4 x 3mm.  AE for frozen section one.  Blocks: 1 - frozen section one.  AE.
+FROZEN SECTION REPORT:
+Spindle cell lesion.  ?Stromal tumour.
+Result to Dr Isaiah by Dr U Bried at 14:07 21/07/66.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary frozen&amp;quot;, consists of disrupted ovary, received in multiple pieces, 120mm in aggregate and fallopian tube 50 x 60mm.  Two RS for frozen section one and two.  Blocks: 1 - frozen section one; 2 - frozen section two; 3 - two mid TS fallopian tube, LS fimbria; 4 to 13 - RS; 14 to 22 - RS.  (rs 29/6/70)
+
+FROZEN SECTION REPORT:
+Favour stromal lesion.
+Result to Dr Howard by Dr U Ducayne at 16:01 25/07/69.
+
+C.  Specimen labelled &amp;quot;Uterus, cervix; right tube and ovary&amp;quot;, consists of a uterus with attached cervix, right fallopian tube and right ovary weighing 121g in total. The specimen is received open.  The uterus measures 80 x 60 x 48mm and has a smooth shiny serosal surface. The ectocervix measures 28 x 25mm and has a unremarkable surface. The right fallopian tube measures 63mm in length with a maximum diameter of 6mm. There is a 3mm tan nodule on the serosal surface of the distal right fallopian tube. The right ovary measures 35 x 21 x 15mm and has an unremarkable cut surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 24mm in maximum thickness.  The myometrium is unremarkable.  Blocks: 1 to 3 - full LS anterior body and cervix; 4 to 6 - full LS posterior body and cervix; 7 - LS right fimbria; 8 - three TS right fallopian tube, including with tan nodule; 9 to 11 - RS, TS right ovary.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of an irregularly shaped unorientated piece of fat, measuring 82 x 70 x 23mm.  Blocks: 1 to 3 - RS.
+
+E.  Specimen labelled &amp;quot;Right pararectal space peritoneal cyst&amp;quot;, consists of an unorientated smooth fluid filled, clear cyst measuring 29 x 8 x 8mm.  The internal cyst lining appears smooth.  Inked blue.  Sectioned into six slices.  AE 1 block.   (TO:SJ/ta 22/6/67)
+
+
+MICROSCOPIC (Reported by Dr U Pollman):
+A &amp;amp; B.  Sections show a poorly differentiated sex cord stromal tumour with features favouring a poorly differentiated granulosa cell tumour.  There are a variety of architectural patterns present, including thyroid like follicles.  Only occasional nuclear grooves are seen.  The tumour is positive for Calretinin, patchy positive for Inhibin, and negative for EMA and AE1/3.  Small foci resembling theca cells are noted, and focally the tumour merges with fibrothecoma-like areas.
+
+C.  The ectocervix and endocervix show no significant abnormality.  The endometrium is benign and shedding.  The myometrium is unremarkable.  The right tube is unremarkable.  The right ovary shows stromal hyperplasia and hyperthecosis.  There is no evidence of malignancy.
+
+D.  The omentum shows no significant abnormality.  There is no evidence of malignancy.
+
+E.  Sections show cystic adhesions.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+Poorly differentiated granulosa cell tumour of the left ovary.
+ADDITIONAL REPORT 5/9/67:
+B.  The left fallopian tube is unremarkable.

@@ -1,0 +1,97 @@
+SPR no: 41W429687E
+MRN no: 418429
+Site_name: DENILIQUIN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report41W42968,41W42968 (41W429687E) Olewinski, BOOKER
+HISTOPATHOLOGY REPORT
+KYABRAM & DISTRICT HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Stage IV endometrial ca.
+
+1.   Peritoneal washings.
+2.   Right pelvic lymph node.
+3.   Omental biopsy.
+4.   Uterus, tubes and ovaries.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;.   Consists of a partially opened uterus with attached cervix (opened coronally) and bilateral tubes and ovaries.   Anterior is inked blue, posterior black.   The adnexal tissue is separated from the main specimen.   The uterus with attached cervix together weighs 116g, it measures 45mm intercornual distance, 80mm superior to inferior.   The ectocervix is 35x25 with a slit-like os 10mm, it is cream coloured unreamarkable.   Anterior endomyometrium is 29mm.   Posterior endomyometrium is 30mm.   The serosa is somewhat firm and pale posteriorly of an area measuring 20x10mm.   The endometrium is replaced by an exophytic tumour with a papillary-like excrescences.   The tumour is 35mm medial to lateral x 40mm superior to inferior.   It occupies 10mm of 25mm posterior endomyometrial thickness and 8mm of 22mm of anterior endomyometrial thickness. Also noted in the left peri adnexal soft tissue (left meso-uterus/ broad ligament area) is an area of possible deposit of tumour.
+
+(1  right parametrial tissue; 2  left parametrial tissue; 3&amp;amp;4   periadnexal soft tissue involved by tumour; 5  right cornu; 6  left cornu; 7-13  one sagittal slice [7  anterior cervix, 8  posterior cervix, 9  anterior lower uterine segment, 10  posterior lower uterine segment, 11  anterior endomyometrium, 12&amp;amp;13  posterior endomyometrium]; 14&amp;amp;15  further sections of anterior endomyometrium; 16&amp;amp;17  further sections of posterior endomyometrium).
+
+The right ovary and fallopian tube together weigh 12g.   Right fallopian tube measures 70mm in length with a maximum diameter of 5mm.   There are multiple paratubal cysts, less than 1mm in dimension.   The ovary is 40x15x9mm.   Serosa is unremarkable.   On sectioning, through the ovary, it has a firm normal-appearing cut surface.   The left ovary and fallopian tube together weigh 9g.   Fallopian tube is 55mm in length with a maximum diameter of 5mm.   Serosa shows multiple paratubal cysts less than 1mm.   Ovary is 35x15x8mm.   Serosa is unremarkable.
+
+(18  right fallopian tube; 19  right ovary; 20  left fallopian tube; 21  left ovary).   Representative sections. (M-21).
+
+Further tissue:
+(22 pale yellow area, left posterior serosa; 23 and 24 right ovary; 25-27 left ovary). Representative sections (M-27/MC 20/9/2069 cy)
+
+
+B.  &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;.   Consists of fatty tissue measuring 20x10x5mm.   No obvious lymph node tissue is identified.  All embedded.  (1-1).
+
+C.  &amp;quot;OMENTAL BIOPSY&amp;quot;.   Consists of fatty tissue consistent with omentum, it measures 50x30x12mm.   No suspicious areas are identified on palpation or sectioning.  Representative sections.  (M-2/MC 16/5/2070 km).
+
+Further tissue:
+Remainder of the omentum is entirely embedded in Blocks 3-5. All embedded. (M-5/MC 19/9/2068 cy)
+
+MICROSCOPIC:  (Dr L Mendivel)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+
+TUMOR SITE: Fundus/Body/Isthmus/lower uterine segment
+
+TUMOR SIZE:  40mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE:  FIGO grade 2
+
+MYOMETRIAL INVASION: Present
+Depth of invasion: 14 mm
+Myometrial thickness: 23 mm
+
+UTERINE SEROSA INVOLVEMENT: Present (Block A22) - sub-serosal macrophage reaction with underlying carcinoma in lymphatics within deep myometrium and probable single tumour cell within macrophage reaction.
+
+LOWER UTERINE SEGMENT INVOLVEMENT:  Present
+
+CERVICAL STROMAL INVOLVEMENT: Present (Block A6/A7 - carcinoma invades 3mm in 9mm upper endocervical stromal thickness and with lymphatic space invasion in cervical stroma)
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+Right ovary - Lymphatic space invasion in ovarian stroma [Note: adnexal LVI does not upstage the carcinoma].
+Left ovary - Lymphatic space invasion in ovarian stroma [Note: adnexal LVI does not upstage the carcinoma].
+Right fallopian tube - Unremarkable
+Left fallopian tube - Unremarkable
+Parametrium - Unremarkable
+Omentum (Specimen C) - Unremarkable
+Other organs/tissue (specify): Specimen B (Labelled &amp;quot;Right Pelvic Lymph Node&amp;quot;) consists of adipose tissue only. No lymph node tissue is identified.
+
+MARGINS: Ectocervical/vaginal cuff margin: Uninvolved by carcinoma
+
+LYMPHOVASCULAR INVASION: Present, substantial (&amp;gt; 5 vascular spaces), seen in myometrium, cervical stroma and ovaries.
+
+REGIONAL LYMPH NODES: Not identified - see text above for specimen B.
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+1.There is a benign leiomyoma of the myometrium.
+2. There is an area of macrophage, giant cell, and chronic inflammatory reaction of the left peri-adnexal soft tissues. AE1/AE3 stain is negative for neoplasm. However subseroal macrophage reaction associated with deep myometrial lymphatic invasion and  probale single tumour cell in macrophage reaction is consistent with uterine serosal involvement by carcinoma.
+3. The endometrial carcinoma shows areas of squamous differentiation.
+4. There is prominent LVI in myometrium and with LVI seen in cervical stroma and ovaries.
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Block A16.
+MLH-1, PMS-2, MSH-2 and MSH-6 each show positive (retained) nuclear staining. This is the normal (wild-type) staining pattern.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IIIA: Tumor invades the serosa of the corpus uteri and/or adnexae.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+pT3a: Tumor involves serosa and/or adnexa (direct extension or metastasis)
+pNX: Regional lymph nodes cannot be assessed
+DIAGNOSIS:
+A; UTERUS, TUBES AND OVARIES: ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA
+
+B;&amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;: FATTY TISSUE ONLY
+
+C:OMENTAL BIOPSY: NEGATIVE FOR MALIGNANCY
+
+24.9.69

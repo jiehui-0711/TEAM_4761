@@ -1,0 +1,118 @@
+SPR no: 27G9496762
+MRN no: 272949
+Site_name: BURRA HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report27G94967,27G94967 (27G9496762) RAZIANO, YAEKO JERRIE
+
+HISTOPATHOLOGY REPORT:
+
+SUPPLEMENTARY REPORT 3 September 2066
+
+HISTORY:
+GI Endometrial adenoca.
+Peritoneal washings for cyto, uterus, tubes and ovaries, omental biopsy, right pelvic lymph node, left pelvic lymph node.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, CERVIX, BILATERAL TUBES AND OVARIES&amp;quot;. A uterus with attached cervix, bilateral tubes and ovaries weighing 165g total. It has been previously opened laterally. The uterus measures up to 60mm from medial to lateral, 95mm from fundus to cervix and 50mm anterior to posterior. The cervix measures 35mm in diameter and is unremarkable. The right fallopian tube measures 55mm in length and 7mm in external diameter. The fimbrial end has some pale areas. The right ovary measures up to 30x15x8mm. The left fallopian tube measures 55mm in length and 7mm in external diameter. The left ovary measures 25x15x10mm. The serosal surface of the uterus is unremarkable. On further opening there is a polypoid mass centred on the right lateral uterine wall and measuring up to 35mm medial to lateral, 40mm superior to inferior, and 25mm anterior to posterior. It does not appear to involve the lower uterine segment. Anterior cervical margin inked blue and posterior inked black. On sectioning the tumour it is pale and has central necrotic areas. The myometrium measures 20mm thick and the tumour appears to extend into the myometrium less than 3mm and involves the cornual region on the right side. On sectioning the ovaries, the left ovary shows a 4mm diameter smooth walled cyst. The myometrium shows two fibroids, one 15mm in diameter, the other 6mm in diameter.
+
+(1-5 anterior cervix to fundus [notches inferior]; 6-10 posterior cervix to fundus [notches inferior]; 11 right cornu; 12&amp;amp;13 paired by notch, right lateral wall myometrium with tumour; 14&amp;amp;15 paired by notch, right lateral wall myometrium with tumour; 16&amp;amp;17 RS fibroids; 18 right parametrial tissue; 19 left parametrial tissue; 20 LS right fallopian tube including pale areas of fimbrial end and TS tube; 21 RS TS right ovary; 22 LS and TS left fallopian tube including fimbrial end; 23 RS TS left ovary including small cyst; 24 tumour reserve block). RS (M-24).
+
+B. &amp;quot;OMENTAL BIOPSY&amp;quot;. An unorientated piece of fatty tissue measuring  20x15x7mm. There are no suspicious areas noted on inspection or sectioning. AE (M-1).
+
+C. &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;. Multiple pieces of fatty tissue, measuring  in aggregate 15x15x20mm. Two possible nodes identified measuring  7mm and 10mm in maximal extent.
+
+(1 two possible nodes; 2&amp;amp;3 remaining tissue with possible nodes).
+
+D.  &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;. A piece of unorientated fatty and haemorrhagic tissue measuring up to 20x15x10mm. One node identified measuring  10mm in maximal extent.
+
+(1 node trisected; 2 remaining tissue). AE (M-2/EE/ht).
+
+MICROSCOPIC:     (Dr. H Hummert)
+A.  Sections of cervix show occasional Nabothian cysts and focal endometrosis. The myometrium shows adenomyosis and occasional leiomyomas.  At the fundus, there is endometrioid adenocarcinoma with polypoid appearance grade 1 (architecture: 1, nuclear: 2). The tumour invades 3mm into the inner half of the myometrium (myometrial thickness : 20mm).  No evidence of lymphovascular invasion.
+
+Uninvolved endometrium appears inactive with cystic dilatation. There is focal atypical complex hyperplasia.  Both fallopian tubes and ovaries appear unremarkable.  In the left ovary, occasional epithelial inclusion cysts are identified.
+
+B.  Sections show fibrofatty tissue.  No evidence of malignancy.
+
+C.  No evidence of malignancy is seen in 3 lymph nodes identified.
+
+D.  No evidence of malignancy is seen in 5 lymph nodes identified. One node shows focal endosalpingiosis.
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  1
+
+(architecture grade:  1, nuclear grade:  2)
+
+Myometrial invasion:  Present
+
+Depth of myometrial invasion:   3mm
+
+Myometrial thickness:   20mm
+
+% of myometrium invaded:   15%
+
+Focality:  Unifocal
+
+Tumour involves: Fundus
+
+Vascular/lymphatic invasion: Not seen
+
+Involvement of cervix:  Not seen
+
+Involvement of uterine serosa:  Not seen
+
+Excision margins:  Appear clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic with focal atypical complex hyperplasia
+Polyps:  Not identified
+Adenomyosis:  Present
+
+Adnexae:
+Left fallopian tube:  Unremarkable
+Right fallopian tube:  Unremarkable
+Left ovary:  Occasional epithelial inclusion cysts
+Right ovary:  Unremarkable
+
+Lymph nodes:
+Nodes involved:  0
+Total number:  8
+
+Other tissues:
+Myometrium shows occasional leiomyomas.  One lymph node shows focal endosalpingiosis.
+
+Comment:
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1a, pN0, M0
+
+FIGO stage: 1A
+
+DIAGNOSIS:
+A.  UTERUS, CERVIX, BILATERAL TUBES AND OVARIES -
+-ENDOMETRIOID ADENOCARCINOMA, GRADE 1, FIGO STAGE 1A.
+-MSI IMMUNOHISTOCHEMISTRY STAINS IN PROGRESS.
+B.  OMENTAL BIOPSY -
+-NO EVIDENCE OF MALIGNANCY.
+C.  RIGHT PELVIC LYMPH NODE -
+-NO EVIDENCE OF MALIGNANCY IN 3 NODES.
+D.  LEFT PELVIC LYMPH NODE -
+-NO EVIDENCE OF MALIGNANCY 5 NODES.
+24/8/2066 ank
+
+SUPPLEMENTARY REPORT 3 September 2066
+Supplementary report:
+Immunostains for MSI proteins (Brunswick Corporation 3 ARRIETTA CLOSE; block:A15  )
+MLH1:  Negative
+PMS2:  Negative
+MSH2:  Positive
+MSH6:  Positive
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

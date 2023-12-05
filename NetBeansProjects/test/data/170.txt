@@ -1,0 +1,68 @@
+
+Episode No:  86T267086Z
+8672670.VRZ
+
+CARINO, MAURICE SANTOS 
+Lab No:  86T26708
+Greenwich Point
+GRETA  TAS  4107
+Specimen: Tissue
+D.O.B:  18/7/2006
+Sex:  M
+Collected: 1/1/2063 at :
+Location:  DOMAIN AGED CARE RM 2
+DR GARRY DARRELL LINGREN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+(R) RCC + thrombus in IVC.  Nephrectomy + excision of IVC/atrial thrombus.  
+MACROSCOPIC:
+Specimen labelled "Right kidney" consists of a right nephrectomy, covered in perinephric fat to peritoneum, right renal vein and in situ thrombus within the renal vein measuring in total 200 x 110 x 80mm, weighing 940g.  The kidney measures 115 x 60 x 58mm and is encapsulated.  The capsule has a nodular appearance over the mid pole.  The ureter is 60mm in length x 5 x 5mm in maximum dimension.  The ureter appears uninvolved with tumour.  Included with the specimen is the right adrenal gland measuring 20 x 13 x 13mm.  The adrenal appears haemorrhagic but uninvolved with tumour.  The renal vein has a length of firm yellow thrombus measuring 135 x 40 x 35mm protruding through the end of the renal vein.  On sectioning the thrombus is in continuation with the renal vein through to the hilum where the thrombus is admixed with tumour.  There is a multifocal tan/yellow tumour within the mid to lower pole of the kidney which abuts but does not breech the renal capsule.  There is also renal sinus fat involvement with a deposit of tumour measuring 7x 7 x 6mm, 5mm from the renal hilum within the sinus fat.  The tumour bulk measures 55 x 50 x 30mm within the renal parenchyma. The tumour is 65mm from the ureteric surgical margin, 50mm from the peritoneum, 45mm from the closest perinephric fat margin, and at the renal hilum. Elsewhere the kidney parenchyma appears unremarkable.  
+Blocks:  1- renal vein margin and thrombus; 2- renal artery margin and ureteric margin; 3 to 6 - representative thrombus distal to proximal (5 & 6 - LS through thrombus tip); 7 - adjacent TS through renal vein and thrombus; 8 to 14 - tumour (blocks 8 - tumour in IVC and hilum, 9 - tumour at renal hilum; 10 - closest area of capsule involvement at the mid pole; 11 - lower pole with tumour; 12 - mid to lower pole with tumour; 13 - hilum and upper pole with tumour; 14-  mid pole cortex with tumour); 15 & 16 - paired blocks adrenal gland; 17 - uninvolved kidney; 18& 19 - ?lymph nodes; 20 - extra section of closest tumour to capsule in the mid pole.  (TO: JF  LI/mm 2.4.63) 
+MICROSCOPIC (Reported by A/Prof V Rindler & Dr V Garbarino):
+
+Sections show clear cell renal cell carcinoma of the kidney.  The tumour has a nested growth pattern of polygonal cells with abundant clear cytoplasm, centrally located round to oval nuclei and moderately conspicuous nucleoli. There is a fine vascular network of branching capillaries.  
+The carcinoma is confined within the renal capsule and does not extend into the renal sinus fat.  
+Tumour extends into the renal vein with invasion of the muscular vessel wall. 
+Immunoprofile: CD 10 and Vimentin show strong positive staining. 
+CD117 and CK 7 arenegative. The immunohistochemical profile is consistent with clear cell renal cell carcinoma, although some morphological features raise the possibility of chromophobe RCC. Dr V Hust has also reviewed the immunohistochemical panel and agrees with this diagnosis.
+Sections of the adrenal gland are unremarkable.  No lymph nodes are identified.
+The uninvolved renal parenchyma shows patchy chronic interstitial inflammation. 
+KIDNEY TUMOUR PROFORMA
+
+Position of tumour:  Midto lower pole
+Dimensions of tumour:  55mm (Macroscopic measurement)
+Tumour type:  Clear cell renal cell carcinoma
+Fuhrman grade:  Grade 2 	 
+Sarcomatoid differentiation: Absent
+Rhabdoid differentiation: Absent
+Necrosis: Absent
+Tumour spread beyond kidney:  Not present
+Tumour extends beyond Gerota's fascia:  Not present
+Tumour in renal sinus fat: Notpresent. The tumour bulges into the renal sinus fat, but there is no true invasion seeen.
+Tumour in renal vein or its segmental (muscle containing branches):  There is macroscopic tumour thrombus involving the renal vein withinvasion of the vessel wall.
+Lymphovascular invasion:  None, other than renal vein involvement. 
+Tumour in adrenal gland:  Not involved by the tumour
+Involvement of surgical margins:  The ureteric margin is clear from the tumour. Tumour thrombus is present in the section taken from the renal vein margin.
+	
+AJCC tumour stage (7th Ed.)
+At least pT3a. The tumour extends into the renal vein. However, if at surgery the tumour was found to extend into the vena cava below the diaphragm, it would correspond to pT3b.  If there was extension within the IVC beyond the diaphragm, the tumour would be pT3c.
+pNX Regional lymph nodes cannot be assessed.
+pMX Cannot be assessed histologically
+Scoring Algorithm to Predict Metastases after Radical Nephrectomy (Leibovich et al., Cancer, 2003)
+	
+Primary tumor status score (pathologic T stage)
+pT3a (at least)	4
+Regional lymph node status (N stage) score
+pNx 	0
+Tumor size (cm)
+< 10 	0
+Nuclear grade score
+2 	0
+Histologic tumor necrosis score
+No 	0
+Total score (out of 11):  4
+DIAGNOSIS
+Right kidney
+- Clear cell renal cell carcinoma Fuhrman grade 2 with renal vein extension
+- pT3a (at least - see above) pNX pMX (AJCC 7thEd.)
+

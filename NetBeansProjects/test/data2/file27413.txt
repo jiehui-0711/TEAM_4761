@@ -1,0 +1,26 @@
+SPR no: 79X496679J
+MRN no: 7984966
+Site_name: LAURA CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+TLH +/- salpingo-oophrectomy, thick endometrium ? malignancy ? adenomyosis.  Total laparoscopic hysterectomy.  Left uterosacral.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 194g in total.  The uterus measures 130 x 65 x 45mm and has a smooth and shiny serosal surface.  The cervix measures 37 x 35mm and has a smooth and shiny surface. Specimen received opened anteriorly.  The cut extended dividing uterus into left and right half. The left tube measures 70mm in length with a diameter up to 10mm and has multiple thin walled ? paratubal cysts on the surface with a smooth outer and inner lining and cyst wall thickness of up to less than 1mm containing clear fluid.  The left ovary measures 25 x 22 x 10mm and is cystically dilated with the cyst occupying the majority of the ovary measuring 15 x 10 x 5mm. On the left side at the fundus is a 5mm fibroid with a homogenous white whorled appearance. The endometrium is up to 7mm thick across a total myometrial thickness of 75mm.  The myometrium contains possible adenomyosis.  The right tube measures 65mm in length with a diameter of up to 7mm and has two possible paratubal cysts measuring 2mm each with a thin smooth outer and inner surfaces with a wall thickness of up to &amp;lt;1mm.  The right ovary measures 35mm x 25mm x 10mm and has a superficial cystic structure on the serosal surface measuring 10mm in maximum dimension, with smooth inner and outer capsular surfaces, with capsule measuring less than 1mm in maximum dimension, and containing clear fluid.
+Blocks: 1 - frozen section one; 2 - fimbrial end left tube including largest ? paratubal cyst; 3 - TS left fallopian tube; 4 &amp;amp; 5 - left ovary; 6 to 14 - full longitudinal section left body and cervix (blocks 9 &amp;amp; 10, 11 &amp;amp; 12 paired blocks, nick in common surface); 14 - fibroid at fundus; 15 and 16 - additional sections of left body including endometrium; 17 - fimbrial end right tube; 18 - TS right tube including possible paratubal cyst; 19 &amp;amp; 20 - RS right ovary; 21 to 28 - full longitudinal section right body and cervix (blocks 24 &amp;amp; 25, 26 &amp;amp; 27 paired blocks) nick in common surfaces.
+
+FROZEN SECTION RESULT:
+Normal secretary endometrium.
+Result to Dr T Digerolamo by Dr T Lammy at 1:40pm on 17/5/17.
+
+B.  Specimen labelled &amp;quot;Left uterosacral&amp;quot;, consists of one biopsy, 12 x 8 x 3mm.  Serially sliced TS. AE 1 block.  (TO:MS/eh 20/7/67)
+
+
+MICROSCOPIC (Reported by Dr T Marciniak):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is mid secretory.  The myometrium shows extensive adenomyosis plus a leiomyoma.  The ovary contains benign follicular cysts and the fallopian tubes show scattered benign paratubal cysts only.  The endometrium is extensively sampled and there is no evidence of hyperplasia.  There is no evidence of malignancy.
+B.  Sections show extensive endometriosis.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Uterus, cervix, bilateral fallopian tubes and ovaries:
+- Mid secretory endometrium with extensive adenomyosis.
+- Leiomyoma
+B.  Left uterosacral:  Extensive endometriosis

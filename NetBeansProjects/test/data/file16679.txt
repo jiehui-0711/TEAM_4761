@@ -1,0 +1,57 @@
+SPR no: 03P284810P
+MRN no: 0352848
+Site_name: NYNGAN MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: MICROSATELLITE MARKERS
+Dr B Wilebski (9.1.2066)
+
+CLINICAL HISTORY:
+G1 EAC uterus.
+Specimen labelled hernial sac was not received, this was discussed with Dr HEATH RICKMON, Gynae registrar, she believes this is a separate specimen from the omentum. The removal of hernial sac was an additional procedure and was not suspicious for malignancy (note by SL 9:03am 2.11.16)
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus + cervix&amp;#8220;, consists of a uterus with attached cervix weighing 500g in total. The uterus measures 150 x 115 x 75mm and has a smooth shiny serosal surface.  The non-peritonealised uterine margins are inked blue anteriorly and black posteriorly.  The ectocervix measures 35 x 35mm and has an unremarkable surface.  There is an ill defined solid friable endometrial mass 37 x 35 x 7mm. The tumour appears to be infiltrating the myometrium to a depth of 3-4mm in an area where the myometrium is 35mm in maximum thickness (blocks 12 and 13).  The myometrium contains seven fibroids ranging from 10-58mm in maximum dimension.  The fibroids have pale grey solid lobulated cut surfaces with no necrosis.  Blocks 1-11 - full LS of anterior body and cervix (4 &amp;amp; 5 - paired; 6 &amp;amp; 7 - paired; 8 &amp;amp; 9 - paired; 10 &amp;amp; 11 - paired); 12 &amp;amp; 13 - paired sections ? myometrial invasion; 14-24 - full LS of posterior body and cervix (17 &amp;amp; 18 - paired; 19 &amp;amp; 20 - paired; 21 &amp;amp; 22 - paired; 23 &amp;amp; 24 - paired, the disruption in block 18 is artefactual); 25 &amp;amp; 26 - paired sections of full thickness of myometrium, ? myometrial invasion; 27 &amp;amp; 28 - paired sections full thickness of myometrium; 29-31 - representative of fibroids; 32-40 - remainder of the cervix.  The cervix is AE.
+
+B.  Specimen labelled &amp;#8220;Left tube + ovary&amp;#8220;, consists of a cystic ovary 40 x 35 x 30mm, fallopian tube 45mm long and up to 7mm in diameter and parametrial soft tissue 30 x 20 x 8mm. The external surface of the ovary is smooth.  Slicing the ovary reveals a unilocular cyst filled with clear fluid 38 x 30 x 25mm.  There are no solid nodules within the cyst.  Blocks 1-4 - representative of ovary; 5 - representative fallopian tube.
+
+C.  Specimen labelled &amp;quot;Right tube + ovary&amp;#8220;, consists of an ovary 40 x 30 x 20mm with fallopian tube 50mm long and up to 10mm in diameter and parametrial soft tissue 20 x 20 x 15mm. The external surface of the ovary is smooth.  Slicing the ovary reveals pale and yellow solid cut surfaces.  A well defined lesion is not seen.  Blocks 1-3 - representative ovary; 4 - representative fallopian tube.
+
+D.  Specimen labelled &amp;#8220;Omentum&amp;#8220;, consists of two unorientated and irregularly shaped pieces of adipose tissue 90 x 70 x 20mm and 45 x 35 x 15mm.  The specimen is sliced.  No nodules are seen.  Blocks 1-3 - random sections.  (TO:  HM/ec  4.1.66)
+
+
+MICROSCOPIC: (Reported by Dr B Cafarelli)
+A.  Sections of the endometrial tumour show a FIGO Grade 1 endometrioid endometrial adenocarcinoma. The adenocarcinoma consists predominantly of complex, crowded glands with minimal intervening stroma lined by moderately pleomorphic carcinoma cells (FIGO architecture grade 1; cytology grade 2 = overall FIGO Grade 1). The carcinoma infiltrates up to 8mm in a uterine wall up to 30mm thick. There is no convincing lymphovascular space invasion. No cervical, uterine serosal or cervical involvement by carcinoma is seen. The cervix has been examined in its entirety and shows patchy acute inflammation with superimposed changes consistent with HPV infection and CIN 1, clear of margins (A1 and A36). There is tubal metaplasia of the endocervical glands. The myometrium contains leiomyomas and focal adenomyosis.
+
+B.  Sections of the left ovary show a prominent cystic follicle. The fallopian tube shows paratubal cysts. There are no atypical features. There is no evidence of malignancy.
+
+C.  Sections of right ovary show focal endosalpingiosis. There fallopian tube is unremarkable. There is no evidence of malignancy.
+
+D.  Sections of omentum show mature fibroadipose tissue with focal mesothelial cell proliferation. There are no atypical features. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Uterus and cervix:
+- Grade 1 endometrioid endometrial adenocarcinoma; invading 8mm into uterine wall 30mm thick; no evidence of uterine serosa, cervical or adnexal involvement by adenocarcinoma.
+- Cervical changes consistent with HPV and CIN 1.
+
+B.  Left fallopian tube and ovary: No evidence of malignancy.
+
+C.  Right fallopian tube and ovary: No evidence of malignancy.
+
+D.  Omentum: No evidence of malignancy.
+
+Markers of MSI instability are being performed and a supplementary report will be issued.
+
+
+***SUPPLEMENTARY REPORT: MICROSATELLITE MARKERS
+Dr B Abdulaziz (9.1.2066)
+
+Immunoperoxidase stains for MSI proteins were performed and the results are as follows:
+MLH1 - Preserved nuclear staining
+PMS2 - Preserved nuclear staining
+MSH2 - Preserved nuclear staining
+MSH6 - Preserved nuclear staining
+
+COMMENT:
+Preservation of nuclear staining makes microsatellite instability unlikely.

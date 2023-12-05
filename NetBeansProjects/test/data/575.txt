@@ -1,0 +1,76 @@
+
+Episode No:  21O839140H
+215839.EMA
+
+LOPAZ, MAUD GINNY 
+Lab No:  21O83914
+E Forest
+WARRAGUL  Victoria  0909
+Specimen: Tissue
+D.O.B:  23/1/1990
+Sex:  F
+Collected: Unknown at :
+Location:  INTENSIVE CARE-GNOWANGERUP HOSPITAL
+DR ERIK TYSON COSSEY
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT (2/7/63)
+
+CLINICAL:
+Re-excision of right inferior breast cancer.  Stitches.  Loop-medial, long-lateral, double-deep.  
+MACROSCOPIC:
+Specimen labelled "Right breast tissue" consists of an orientated wide local excision measuring 75mm (medial to lateral) x 24mm (inferior to superior) x 70mm (superficial to deep).  There is a thin strip of skin which appears to have a scar along the majority of the length measuring 70mm (medial tolateral) x 7mm (inferior to superior).  The superior margin is inked yellow, the inferior margin blue and the deep aspect black.  Three sutures are in situ as designated.  Specimen is serially sectioned in the parasagittal plane into elevenslices from slice one medial, to slice eleven lateral.  There is a cream firm area identified in slice ten measuring 4mm (medial to lateral) x 6mm (inferior to superior) x 10mm (superficial to deep).  There is a disrupted capsule at the superficial margin which opens both superiorly and inferiorly onto the specimen.  No definite lesion is identified.  Distance from margins is as follows:  inferior 5mm, superior 7mm, deep 15mm, superficial 15mm, lateral 3mm and well clear of the medial margin.  (JS/ta  23/7/63)  
+Blocks:  1 and  2-slice 1; 3 and 4 - slice 2; 5 and 6 - slice 3; 7 and 8 slice 4; 9 to 11 slice 5; 12 to 14 slice 6; 15 to 17 slice7; 18 and 19 slice 8; 20 and 21 slice 9; 22 and 23 slice 10; 24 to 27 slice 11.  AE please refer to attached diagram. 
+(TO: IZ;AM/vo 23/7/63)
+MICROSCOPIC (Reported by Dr G Ciriaco): 
+Sections show 4 deposits of invasive lobular carcinoma, grade 2, 0.6mm to 11mm in size over a 38mm area (slices 6, 7, 10 and 11), adjacent to surgical cavity.
+Intraduct lobular neoplasia (LCIS) is present in the adjacent breast tissue.
+Invasive carcinoma:
+Site:  Right breast, re-excision inferior margin
+   
+Type: Invasive lobular carcinoma, classical variant
+Invasive tumour size: 4 deposits, measuring 11mm, 3mm, 1.3mm and 0.6mm over a 38mm area (slices 6, 7, 10 and 11)
+Grade:   2 (Modified Bloom & Richardson)       
+Tubules:  3   Nuclei: 2  Mitoses: 1  Mitotic rate: 2/10hpf.
+Lymphovascular invasion:  absent
+	    
+Excision Margins:  
+Invasive component:
+ Lateral: positive (block 25)
+ Superolateral: 1mm (no intervening normal ducts, block 24)
+ Superior: 2mm (no intervening normal ducts, block 15)
+ Inferior: 4.5mm (block 23)
+ Deep: 6mm (block 23)
+ Other margins: > 10mm
+Receptors: 
+ER:   positive
+	90 % of nuclei stained
+	predominant intensity of staining: strong 
+PR:   positive
+	80 % of nuclei stained
+	predominant intensity of staining: strong
+HER2 (Novocastra 10A7):  1+
+Ki67 index:  10%
+LCIS / ALH:   Present
+DIAGNOSIS:
+Re-excision inferior margin right breast: 4 deposits of invasive lobular carcinoma, grade 2, 0.6mm to 11mm in size over a 38mm area, ER positive, PR positive, HER2 1+, HER2 SISH pending, Ki67 index 10%, positive lateral margin, 1mm superolateral margin, 2mm superior margin, 4.5mm inferior margin, 6mm deep margin, other margins >10mm.
+ADDITIONAL REPORT (2/7/63)
+
+HER-2 IN-SITU HYBRIDISATION 
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid) 
+
+Mean HER2 copy number per cell: 1.8 
+Mean CEP17 copy number per cell: 1.6 
+HER2/CEP17 Ratio: 1.13 
+
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8 
+Equivocal: HER2/CEP17 = 1.8-2.2 
+Positive: HER2/CEP17 >2.2 
+
+Reported by: Dr G Dumdei 
+
+Date: 1.7.63
+

@@ -1,0 +1,101 @@
+
+Episode No:  12Q891770Z
+1268917.TAZ
+
+BAIMA, WILBURN KEITHA 
+Lab No:  12Q89177
+Mountnessing
+COFFS HARBOUR  Northern Territory  3223
+Specimen: Tissue
+D.O.B:  19/6/2036
+Sex:  F
+Collected: 06/12/2012 at 12:37
+Location:  PERI-OPERATIVEUNIT-BLACKWATER HOSPITAL
+DR BOYCE ANGEL BALOCK
+Distribution:   FILE-COPY
+
+CLINICAL:
+Hx of R breast carcinoma for WLE and SNBx. 
+MACROSCOPIC:
+A.  Specimen labelled "Right axillary lymph node", consists of one lymph node 15 x 15 x 10mm.  AE 2 blocks.
+B.  Specimen labelled "Right breast cancer short superior, long lateral, medium medial", consists of an irregularly shaped piece of fibrofatty tissue with three sutures for orientation as above, measuring 60mm medial to lateral, 30mm superficial to deep margin and 60mm superior to inferior. The medial margin is inked red, the lateral margin is inked green, superficial blue, deep margin black. The specimen is serially sectioned from superior to inferior into ten slices; slice 1 superior margin, slice 10 inferior margin.  On section, in slices 4-10 is an ill defined white and firm area measuring 35mm from superior to inferior, up to 20mm from medial to lateral and up to 40mm from superficial to deep.  Macroscopicallythe lesion abuts the medial and deep margins.  The specimen is AE according to the attached diagram. 
+Blocks 1 & 2 - superior margin (slice 1); 3 & 4- slice 2; 6-7 - slice 3; 8-11 - slice 4; 12-17 - slice 5; 18-22 - slice 6; 23-26 - slice 7; 27-30 - slice 8; 31-33 - slice 9; 34-35 - slice 10.  (TO: ZJ: QP/ec 9.2.62) 
+ 
+MICROSCOPIC: (Reported by Dr D Clap)  
+Invasive carcinoma:
+Site: Right breast 
+Type:  Invasive ductal carcinoma
+Invasive tumour size: 12mm
+Grade (Modified Bloom & Richardson): 3
+Tubules: 3  Nuclei:  3  Mitoses:  3  Mitotic rate:     21/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS: 5mm
+Nuclear grade:  high grade
+Architecture: solid / cribriform
+Necrosis:   comedo necrosis
+Calcification:  occasional coarse calcificationsof DCIS in tumour:  minor
+DCIS in adjacent tissue:  small amount outside of tumour
+Excision Margins:  
+Invasive component: 8mm from lateral margin (slide B13), more than 10mm from other margins
+In-situ component: 8mm from lateral margin (slide B21), more than 10mm from other margins.
+Receptors (Block B21): 
+ER:  Negative 
+	0% of nuclei stained
+	predominant intensity of staining:  not applicable
+PR:  Negative
+	0% of nuclei stained
+	predominant intensity of staining:  not applicable
+HER2 (Novocastra 10A7): Positive (2+) with areas of 1+ staining (technical artifact is noted) 
+Ki-67 index: 90%
+Nipple:  Not submitted
+
+LCIS / ALH: Absent   
+Miscellaneous:
+The uninvolved breast tissue is mainly fatty with small areas of fibrosis.  Some of the ducts are mildly dilated. Occasional small lobular calcifications are seen (slide B9).  Foci of columnar cell change are present.  Occasional lobules show secretory changes.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: One
+Number of sentinel lymph nodes involved by tumour:  0        
+Number of sentinel nodes with metastases >2.0mm:   0 
+Number of sentinel nodes with metastases <2.0mm:   0   
+	Detected by: immunoperoxidase / H&E
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0     
+	Detected by: immunoperoxidase / H&E
+Extranodal spread: Not applicable
+Axillary/other nodes: 0
+Number of axillary lymph nodes examined:
+Number of axillary lymph nodes involved by tumour:          
+Number of axillary nodes with metastases >2.0mm:    
+Number of axillary nodes with metastases <2.0mm:      
+Number of axillarynodes with isolated tumour cells <0.2mm:       
+Extranodal spread:    
+Lymph node total: 
+Total number of lymph nodes examined (including sentinel node(s)): 1
+Total number of involved lymph nodes (including sentinel node(s)):    0
+COMMENT
+The slides have also been shown to A/Prof LOGAN PETRUNGER.  The tumour shows features suggesting a basal phenotype.
+
+CONCLUSION
+Right breast (wide local excision and sentinel node biopsy):  Invasive ductal carcinoma (NOS), 12mm, clear of margins by 8mm or more, modified Bloom and Richardson grade 3, with no metastases in one sentinel node.
+ADDITIONAL REPORT:  (20.2.62)
+Four unstained slides were sent to TRESILLIAN FAMILY CARE CENTRE - BELMORE Hospital for Her2 CISH analysis and their report is as follows:
+"Material received:
+12Q89177A93 unstained slides x 4.
+Clinical Details:
+R breast ca - WLE and SNBIHC result: Negative
+Results:
+Signal detection has been performed for the HER2 gene that maps to chromosome 17q21 using Invitrogen SpotLight detection system. 
+HER2 CISH result: Negative.
+TUMOUR STATUS: Non-amplified (diploid)
+Mean HER2 gene copies per cell: 2.2
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations):
+	Non amplified (diploid) = 1-2.5 copies
+  	Non amplified (polysomic)  >2.5-4 copies 
+	Equivocal - 4-6 copies
+	Amplified > 6 copies
+Summary
+Right breast tumour: HER2 negative.
+Reported by: A/Prof ISRAEL D Disanti (20/2/62)"
+

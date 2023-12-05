@@ -1,0 +1,74 @@
+Episode No:  12R688155G
+126688.FNO
+
+Svenningsen, RUPERT 
+Lab No:  12R68815
+Gurnet
+ROMA  Western Australia  5138
+Specimen: Tissue
+D.O.B:  28/8/2001
+Sex:  F
+Collected: 01/07/2013 at 09:01
+Location:  ACUTECARE WARD-PORTLAND TABULAM HEALTH CENTRE
+DR Emanuel JOE ROGGE
+Distribution:   FILE-COPY, DR Kuizinas, DR BOY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Anorectal SCC.   Colostomy end. 
+5/9/63: Extrahistory obtained shows recent PET and CT suspicious for liver metastasis with no lymph node involvement noted. 
+Previous biopsies (12R68815) on the 4/7/63 - Poorly differentiated squamous cell carcinoma with basaloid features. The favored site of origin is from the anal canal.
+MACROSCOPIC:
+A.   Specimen labelled "Rectum and anus AP resection", consists of a anus, rectum and sigmoid colon to a length of 280mm.  The bowel diameter is 35 x 30mm in maximum diameter.  The bowel is covered with mesentery.  The anterior peritoneal resection is 75mm from the distal margin (anus).  The mucosa shows three small polyps, 2-3mm in maximum dimension.  Otherwise the mucosa shows normal mucosal folds.  At the distal rectum there is a firm tan ulcerated lesion measuring 15 x 12 x 5mm.  The tumour is 28mm from the distal surgical margin, 255mm from the proximal surgical margin, and 35mm distal to the anterior peritoneal reflection.  The tumour appears to invade into the subcutaneous tissue to a depth of 10mm from the mucosal surface.  There is a full thickness defect 5mm from the lesion ? surgical, inked red.  The anterior surface is inked green and the posterior black. 
+Block 1 - proximal surgical margin; 2 - three polyps; 3-10 - tumour (3 & 4- paired blocks, 5 & 6 - paired blocks; 7 & 8 - paired blocks; 9 & 10- paired blocks); 11 - normal bowel away from tumour; 12 &13 - lymph nodes distal to anterior peritoneal reflection; 14 - ?Apical lymph nodes; 15 - 17 - ?lymph nodes proximal to anterior peritoneal reflection. (TO: XN;JI/ec 3.9.63) ; 18 to 21 - blocks of anus and rectum; 22 to 31 - ?lymph nodes.  (TO: CW;SD / vo 4.9.63) Blocks 32 to 41 - ?lymph nodes below anterior peritoneal reflection ; 38 to 41 - ?lymph nodes above anterior peritoneal reflection; 42 & 43 - ?lymph nodes below anterior peritoneal reflection; 44 to 49 - anal canal AE; 50 - ?lymph nodes below AP reflection.   (ta 7/9/63) 
+B.  Specimen labelled "Colostomy", consists of a segment of bowel with a stapled margin at one side measuring 22mm in length x 22 x 16mm in maximum dimension. The stapled margin is 35mm in length.  The stapled margin is removed and inked green.  The unstapled margin is inked black. The mucosa appears unremarkable.  AE in 7 blocks; 1 - black margin; 6 - green margin; 7 - representative fat. 
+(TO: IZ;ZG/ec 3.9.63) 
+MICROSCOPIC (Reported by A/Prof E Stutes):  
+A. and B. 
+Sections show a poorly differentiated basaloid squamous cell carcinoma with basaloid features. The tumour infiltrates in nests and cohesive groups through the submucosa of the anorectal junction,beneath both squamous epithelium and glandular mucosa. There is focal keratinisation and tumour necrosis. 
+There is associated full thickness anal intraepithelial neoplasia (AIN3) in the anal epithelium with koilocyte changes consistent with human papilloma virus. A synoptic report is as follows:
+	
+Macroscopic Description
+
+Site of tumour: Proximal anal canal	
+Maximum tumour diameter:     15mm located anteriorly at the midline.
+Distance oftumour to nearer cut end:     28mm from anal verge
+Tumour perforation:     No
+Relation of tumour to anterior peritoneal reflection:	 35mm below
+Distance of tumour to the nonperitonealised 	circumferential margin:A single focus of tumour extends to the inked surface of this margin and shows diathermy artefact. However, the margin appears split at this point, and it is possible that there is a thinlayer of adipose tissue covering this area. 
+Microscopic Description
+
+Type
+Poorly differentiated squamous cell carcinoma with basaloid features.
+Differentiation by predominant area
+Poor
+Local invasion
+pT1	Anal carcinoma less than 2cm in greatest dimension.
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Possible involvement very focally - see above.
+Lymph nodes
+Number of lymph nodes present: 6	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present
+Perineural invasion
+Occasional small nerve fibres are seen trapped within islands of tumour.
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+AIN3 in anal squamous epithelium, associated with changes consistent with human papilloma virus. P16 staining confirms the patchy distribution of AIN 3 within the anal canal. HPV changes and AIN 2-3 extend very close to the peripheral anal margin focally. The invasive carcinoma is also strongly p16 positive.
+Two hyperplastic polyps are noted in the mucosa of the sigmoid colon.
+Diverticular disease in the colon.
+Haemorrhoids, with organising thrombus in dilated vessels in the anal canal.
+The sections of the colostomy (specimen B) show no evidence of malignancy.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+No prior treatment
+Mismatch Repair Deficiency (MMRD) Status	
+Not tested.
+Summary - TNM 7th Edition
+pT1    pN0    pMx    R	
+Comment: The specimen was re-examined twice to further section the anal canal and to also identify more lymph nodes. Only a small number of nodes were identified despite further examination.
+A provisional result was discussed with Dr Ilasin by Dr E Fabrizio.
+

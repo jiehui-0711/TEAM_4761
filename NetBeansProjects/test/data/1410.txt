@@ -1,0 +1,97 @@
+
+Episode No:  09Q499880P
+0964998.WCP
+
+DIFEO, Milissa 
+Lab No:  09Q49988
+East Perrin
+BLACKWATER  South Australia  5000
+Specimen: Tissue
+D.O.B:  23/6/2015
+Sex:  F
+Collected: 21/03/2013 at 15:46
+Location:  Immunology - ALPINE HEALTH (BRIGHT)
+DR CARTER MARY ODIS-Delekta
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+1.  Atypical biopsy of right breast mass 11 o'clock - hookwire localisation excision biopsy.  
+2.  Left breast subareolar lesions (5 - 7 o'clock) - DCIS on biopsy, potential further lesions on MRI.  
+1.  Marked short superior, medium medial,long lateral.
+2.  Sentinel lymph node x 2 axilla.
+3.  Left central mastectomy, marked short superior, long lateral (nipple on specimen).  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast lesion, short superior, medium medial" consists of a wide local excision of breast measuring 40 (medial to lateral) x 30 (superior to inferior) x 22mm (superficial todeep). Superficial inked blue, superior inked black, deep inked green.  There is a hookwire in situ with the tip ending in slice 2.  Specimen serially sectioned and AE 17 blocks.  Please refer to attached diagram.  
+B.  Specimen labelled "Left central mastectomy" consists of a mastectomy specimen measuring 50mm (medial to lateral) x 45mm (superior to inferior) x 40mm (superficial to deep) with overlying skin including nipple which measures 25 x15mm.  Request form is labelled as long lateral, short superior.  Superior inked black, superficial inked blue and deep is inked green.  On sectioning there are some nodular areas deep to the nipple but no discrete mass identified.  Serially sectioned and AE 35 blocks.  Please refer to attached diagram.
+C.  Specimen labelled "Left axilla sentinel node" consists of fibroadipose tissue measuring 35 x 20 x 10mm containing two lymph nodes. 
+Blocks:  1 &2 - one lymph node bisected; 3 - one lymph node.  (CA/mm 24.5.63)
+MICROSCOPIC (reported by Dr A Jastrzebski):
+A.  Sections show florid fibrocystic change with sclerosing adenosis, radial scar and intraductal papilloma.  The intraductal papilloma is atypical being partly colonised by DCIS and there is a 2mm area of DCIS (ductal carcinoma in situ) adjacent to and in continuity with the intraductal papilloma.  There is also a separate 2mm focus of intermediate DCIS 6mm from the deep margin and 8mm from the superficial margin.
+B.  Sections show extensive intermediate/high grade DCIS occurring in an area of florid sclerosing adenosis.  The DCIS is present in all eleven slices (50mm in maximal dimension).  The medial, lateral, deep and inferior margins are positive for DCIS.  The DCIS is seen in major ducts deep to the nipple and colonises a ductal papilloma.
+Sections show a grade 3 infiltrating ductal carcinoma, Bloom and Richardson score 8 (t = 3, n = 3, m = 2) which is present within the area of extensive DCIS and is present in slices5 and 6.  The tumour measures 10mm (medial to lateral) x 10mm (superior to inferior) x 5mm (superficial to deep) and appears clear of the surgical margins.  The closest margins are inferior (5mm) and deep (6mm).  Possible focal LVI (lymphovascular invasion) is seen at the periphery of the tumour.
+C.  The two (2) sentinel nodes identified are negative for tumour.  The CAM5.2 is negative.
+DIAGNOSIS:
+A.  Right breast lesion - WLE:
+-	High grade DCIS (2 foci, each 2mm);
+-	Atypical papilloma (partly colonised by DCIS).
+B & C.  Left central mastectomy and left sentinel nodes:
+Invasive carcinoma:
+Site:  Left breast, central mastectomy
+Type:  Infiltrating ductal carcinoma 
+Invasive tumour size:  10 x 10 x 5mm
+Grade 3 (Modified Bloom & Richardson):
+Tubules:  3      Nuclei:  3      Mitoses:  2      Mitotic rate:  10/10hpf.
+Lymphovascular invasion:  Possible - focal
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  50mm
+Nuclear grade:  High
+Architecture:  Solid, comedo
+Necrosis:  Present
+Calcification:  Present - focal 
+DCIS in adjacent tissue:  Widespread
+Excision Margins:  
+Invasive component: 
+Deep 6mm
+Inferior 5mm
+Other margins well clear
+In-situ component:
+POSITIVE - medial, lateral, deep and inferior margins
+Receptors (Block B11): 
+ER:  Positive 
+	>95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive 
+	50% of nuclei stained
+	predominant intensity of staining:  Moderate   
+HER2 (Novocastra 10A7):  Equivocal 2+
+Ki-67 index:  30%
+Slides sent to PRINCESS ALEXANDRA HOSPITAL Hospital for CISH.
+Nipple:  Normal (DCIS deep to nipple)
+
+LCIS / ALH:  Absent
+Miscellaneous:
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel lymph nodes involved by tumour:  0    
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)):  0
+SUPPLEMENTARY REPORT (18/6/2063):
+Block B11 was sent to LOCKHART & DISTRICT HOSPITAL Hospital for Her-2 in-situ Hybridisation analysis:
+Signal Detection has been performed for the HER-2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER-2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER-2 ISH result:  Negative (non-amplified, polysomy)
+
+Mean Her-2 copy number per cell: 2.7
+Mean CEP17 copy number per cell: 2.8
+HER-2/CEP ratio: 0.96
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  	HER-2/CEP17 < 1.8
+Equivocal:  	HER-2/CEP17 = 1.8-2.2
+Positive:  	HER-2/CEP17 > 2.2 
+Reported by
+Dr A Ayotte
+

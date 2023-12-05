@@ -1,0 +1,74 @@
+SPR no: 47X699897U
+MRN no: 4796998
+Site_name: OSBORNE PARK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSupplementary report 1 19/7/2066: ER IHC
+Supplementary report 2 28/7/2066 MMRP
+
+(47X699897U) 47X69989,47X69989 HISTOPATHOLOGY REPORT
+
+HISTORY: Grade 2-3 endometrioid endometrial ca on curettage.  Uterus, bilateral tubes + ovaries, cervix.
+
+MACROSCOPIC:
+&amp;quot;UTERUS, TUBES + OVARIES + CERVIX&amp;quot;.  Uterus with attached cervix and bilateral tubes and ovaries.  Specimen was received partly divided coronally into anterior and posterior halves.  Anterior paracervix margin inked blue, posterior black.  Uterus with attached cervix weighs 117g and measures 75mm superior to inferior, 35mm intercornual distance; ectocervix is 25x20mm with a slit like os 3 mm. Anterior endomyometrium is 30mm, posterior endomyometrium is 30mm.  The endometrium is less than 1mm thick away from the tumour (see below).  Ectocervix is skin coloured and unremarkable.  Serosa is smooth. Within the endometrium is a large sessile largely exophytic papillary and friable tumour mass with a pale solid cut surface. The tumour measures 45x35mm and is up to 30mm in thickness and is located mostly anteriorly.  The cut surface shows no obvious invasion but there are pale areas in myometrium ?adenomyosis. The myometrium is 20 mm thickness. (1 right parametrium; 2 left parametrium; 3-11 right half [3 anterior cervix, 4 anterior lower uterine segment; 5 anterior endomyometrium, 6 posterior endomyometrium, 7 posterior lower uterine segment, 8 posterior cervix]; 9-12 second slice [9&amp;amp;10 CS anterior endomyometrium, 11&amp;amp;12 posterior endomyometrium, 13-20 taken from the first slice left half [13 anterior endomyometrium, 14 anterior lower uterine segment, 15&amp;amp;16 CS anterior endomyometrium, 17 fundus, 18 posterior endomyometrium, 19 lower uterine segment posterior endomyometrium; 20 posterior cervix]; 21-26 second slice [21&amp;amp;22 CS anterior endomyometrium, 23&amp;amp;24 CS anterior endomyometrium, 25&amp;amp;26 posterior endomyometrium].  Please see diagram for block orientation).  The right ovary and tube weighs 6g. The fallopian tube is 30mm in length x10mm maximum diameter.   Ovary measures 25x15x6mm.  No lesions seen. The left ovary and fallopian together weigh 8g. Fallopian tube measures 42mm in length x 10mm maximum diameter. There is a 7mm paratubal cyst.  The left ovary is 20x12x7mm. Serosal surface is smooth.  On sectioning through the fallopian tube the cyst is filled with gelatinous material, the lining is otherwise smooth.  On sectioning through the left ovary the cut surface is firm and normal appearing. (27 fimbrial end right fallopian tube; 28 two TS right fallopian tube; 29 two TS right ovary; 30 fimbrial end left fallopian tube; 31 TS left fallopian tube; 32 two TS left ovary). RS (M-32/MC/ank) Further tissue 1 anterior main area of tumour:  33,34 full thickness tumour body. 35 adjacent, extending to lower segment
+36,37 full thickness tumour body. 38 adjacent, extending to lower segment 39 full thickness tumour, body.lv Further tissue 2 posterior and fundus: Rest of posterior endomyometrium including fundus is embedded from right to left 40-49: 40,41 full thickness, 42,43 full thickness, 44,45 adjacent slices posterior endomyometrium, 44 posterior, 45 adjacent fundus; 46 47 48 49  full thickness; RS M-49. mc
+
+MICROSCOPIC:   Reported by K. Braner
+The endometrioid carcinoma has solid growth in the luminal parts and the invasive component has more glandular differentiation overall favouring grade 3. There is myometrial invasion posterior wall towards fundus and fundus proper. The more exophytic polypoid parts of the tumour (anterior wall) do not have underlying invasion in the sections.
+
+ENDOMETRIAL CANCER SYNOPTIC REPORT:
+Operative procedure:  hysterectomy with attached left and right fallopian tubes and ovaries.
+Accompanying specimens: Peritoneal washings cytology
+Tumour site: Fundus and Body
+Maximum tumour dimension: 45 mm
+Histological tumour type: Endometrioid adenocarcinoma
+Histological grade: Grade 3
+Myometrial invasion: &amp;gt; 50%
+Percentage of myometrium infiltrated by carcinoma:  70 % (17 mm of 23 mm)
+Lymphovascular invasion: Present, mutliple foci, deep to invasive tumour.
+Cervical stromal invasion: Not identified
+Uterine serosa: Not involved
+Parametria: Not involved
+Adnexa: Not involved
+Cervical surface or crypts: Not involved
+Paracervical resection margins: clear of tumour
+Distance of myoinvasive tumour to serosa: 7 mm
+
+Background endometrium: Probable complex hyperplasia
+
+Other organ comments:
+Fallopian tubes and ovaries are unremarkable.
+Endocerix mucosa is normal
+Ectocervix mucosa is largely denuded but where attached is normal
+Endomyometrium: Adenomyosis is present, not involved by carcinoma.
+
+Peritoneal cytology: Pending. see separate report 47X69989
+
+Immunohistochemical markers: MMRP pending
+
+Tumour stage FIGO:  1B
+
+- - - - - - - - -
+DIAGNOSIS:
+UTERUS, TUBES and OVARIES:
+- endometrioid adenocarcinoma of uterus
+- Grade 3.
+- Invasion into outer half of myometrim.
+- Lymphovascular invasion present
+
+Pending: Immunostains: ER, MMRP, peritoneal washings cytology
+- - - - - - - - -
+Supplementary report 1 L Vonthethoff
+Immunostains: Estrogen receptor (ER): Positive, 90% of cells, strong staining.
+
+Pending: MMRP immunostains, peritoneal washings cytology
+- - - - - - - - -
+Supplementary report 2 28/7/2066
+Immunostains for DNA Mismatch Repair (MMR) proteins block 41:
+MLH1, PMS2:  ABNORMAL - loss of staining
+MSH2 and MSH6:  Normal staining (intact expression)
+Comment:
+Mismatch repair deficient tumour.
+Tumours that show loss of MMR proteins are almost always characterised by microsatellite instability (MSI-H).   MSI in endometrial (and colorectal) cancer results from defective DNA MMR, either due to germline-inactivating DNA MMR mutations (Lynch syndrome patients), or epigenetic inactivation of the MLH1 gene by promoter hypermethylation (sporadic tumors).   Epigenetic (sporadic) cause of MSI is more common than Lynch syndrome.
+- - - - - - - - -

@@ -1,0 +1,89 @@
+Episode No:  04J611147B
+0436111.MTB
+
+BRADEEN, Neville 
+Lab No:  04J61114
+Manwaring
+WAGGA WAGGA  Northern Territory  3143
+Specimen: Tissue
+D.O.B:  6/6/2000
+Sex:  F
+Collected: Unknown at :
+Location:  DAY SURGERY UNIT-WESTERN HEALTH - BACCHUS MARSH
+DR REX LEN ROMANDIA
+Distribution: FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Hx of bx confirmed multifocal invasive R breast Ca and +ve FNA R ax nodes for R mastectomy and axillary dissection.  R breast, axillary lymph nodes.  [Level I lymph node, Level III lymph node, Level II lymph nodes, sutures 12 o'clock].
+MACROSCOPIC:
+A.  Specimen labelled "Right mastectomy and axillary dissection" consists of a mastectomy with attached axillary tail, 250mm (medial-lateral) x 165mm (inferior-superior) x 60mm (superficial-deep).  This includes axillary tail measuring 80 x 70 x 20mm.  There is an overlying ellipse of skin 190mm (medial-lateral) x 45mm (inferior-superior).  There is an unremarkable nipple/areola complex 38 x 38mm.  There is a suture designating the superioraspect attached.  The deep margin is inked black and the superficial margin is inked green.  There is a firm cream stellate poorly circumscribed lesion in the 7 o'clock position 45mm from the nipple measuring 15mm (medial-lateral) x 15mm (inferior-superior) x 7mm (superficial-deep) (lesion #1).  There is a haemorrhagic area ?biopsy tract in the centre of the lesion.  The nearest margin is the inferosuperficial margin at 20mm.  The deep margin is 30mm and the lesion is well clear of the medial and lateral margins.  25mm deep to lesion 1 in the 7 - 8 o'clock position in the retroareolar area there is an area 5 x 5 x 5mm, which is 10mm from the deep margin [lesion #2].  There is a further suspicious area also in the retroareolar space, 50mm deep from skin and 30mm superior to lesion 1 which is firm and poorly circumscribed measuring 8mm x 7mm x 6mm [lesion #3].  The nearest margin is the deep margin at 22mm.  In the 8 to 9 o'clock position 55mm from the nipple and 15mm lateral to lesion 1 there is a further poorly circumscribed firm lesion measuring 8mm x 8mm x 10mm [lesion #4].  The inferior, superficial and deep margins are 30mm away.  Multiple lymph nodes are identified in the axillary tail from 4 to 23mm.  
+Blocks:  1 to 3 - lesion #1; 4 - lesion #2; 5 - lesion #1; 6 & 7 - lesion #3; 8 to 10 - lesion #4; 11 & 12 - representative inner upper quadrant; 13 & 14 - representative innerlower quadrant; 16 & 17 - representative outer upper quadrant; 18 & 19 - representative outer lower quadrant; 20 - nipple and tissue deep to nipple; 21 - axillary lymph nodes; 22 - one lymph node serially sectioned; 23 & 24 - lymph nodes.  Please refer to attached diagram.
+B.  Specimen labelled "Level 1 node right" consists of an unorientated piece of fatty tissue 75 x 40 x 15mm.  Multiple lymph nodes are identified up 5mm.  AE one block. 
+C.  Specimen labelled "Level 2 lymph nodes right" consists of a piece of unorientated fatty tissue 70 x 50 x20mm.  Multiple lymph nodes are identified from 3 to 20mm.  AE two blocks.    
+D.  Specimen labelled "Level 3 lymph node right" consists of an unorientated piece of fattytissue 30 x 18 x 8mm.  No definite lymph nodes are identified.  AE one block. (GT/cc  13/2/63) 
+ 
+MICROSCOPIC (Reported by Dr B Astafan): 
+A.  Sections show grade 2 infiltrating ductal carcinoma (IDC) located at 7 o'clock from the nipple and measuring approximately 12mm (medial-lateral) x 11mm (superior-inferior) x 24mm (superficial-deep).  
+The IDC is poorly circumscribed and incorporates two lesions, 14mm apart and is 15mm from the deep margin and 22mm from the superficial margin.
+There is a large area of high grade DCIS located at 7 o'clock which incorporates the  foci of IDC.  The DCIS is also multifocal and measures in total 12mm (medial-lateral) x 24mm (superior-inferior) x 35mm (superficial-deep).  DCIS is present 2mm from the superficial margin and 9mm from the deep margin.
+There are no other malignant lesions identified within the breast and the lesions which were thought to be suspicious grossly proved on histology to be a radial scar and a past biopsy scar.  Random sections from the various quadrants showed no abnormality and the nipple and areola appear normal.
+Four (4) of the ten (10) right axillary lymph nodes identified are largely replaced by metastatic IDC.  There is no significant perinodal spread.
+B.  The six (6) lymph nodes identified are negative for tumour.
+C.  The ten (10) lymph nodes identified are negative for tumour.
+DIAGNOSIS:
+Invasive carcinoma:
+Site:  Right breast, mastectomy
+Type:  Infiltrating ductal carcinoma, NOS 
+Invasive tumour size:  12 x 11 x 24mm (incorporates 2 lesions 14mm apart)
+Grade (Modified Bloom & Richardson):  2
+Tubules:  2    Nuclei:  2    Mitoses:  3    Mitotic rate:  20/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  12 x 24 x 35mm
+Nuclear grade:  High
+Architecture:  Comedo, solid, cribriform
+Necrosis:  Present
+Calcification:  Present - occasional focus
+Degree of DCIS in tumour:  >25%
+DCIS in adjacent tissue:  Widespread
+Excision Margins:  
+Invasive component:  
+Deep 15mm
+Superficial 22mm
+In-situ component:
+Deep 9mm
+Superficial 2mm
+Receptors (Block A21): 
+ER:  Positive
+	60% of nuclei stained
+	predominant intensity of staining:  moderate 
+PR:  Positive
+	30% of nuclei stained
+	predominant intensity of staining:  moderate
+HER2 (Novocastra 10A7):  Positive (3+)
+Ki-67 index:  10%
+Slides sent to LIVERPOOL HOSPITAL for CISH
+Nipple:  Normal
+
+LCIS / ALH:  Absent
+Miscellaneous:  Nil
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  26
+Number of axillary lymph nodes involved by tumour:  4
+Number of axillary nodes with metastases >2.0mm:  4
+Number of axillary nodes with metastases <2.0mm:  0
+Number of axillary nodes with isolated tumour cells <0.2mm:  0    
+Extranodal spread:  Absent
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  26
+Total number of involved lymph nodes (including sentinel node(s)):  4
+ADDITIONAL REPORT:  (1.3.63)
+Blocks were sent to PORT MACQUARIE BASE HOSPITAL Hospital for Her2 ISH analysis, Dr B Esselink reports:
+Block A21:
+Signal Detection has been performed for the Her2 gene (17q21) using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roache). 
+Her2 ISH result: POSITIVE (amplified).
+Mean Her2 copy number per cell: 13.0.
+

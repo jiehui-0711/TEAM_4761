@@ -1,0 +1,86 @@
+Episode No:  52C403084L
+5214030.XLL
+
+Shelkoff, GILDA N 
+Lab No:  52C40308
+W Woodstock
+HAHNDORF  QLD  0810
+Specimen: Tissue
+D.O.B:  25/6/2011
+Sex:  F
+Collected: 21/11/2013 at 15:56
+Location:  WEST GYNAECOLOGY-TRESILLIAN FAMILY CARE CENTRE - WOLLSTONECRAFT
+DR GENARO MAL SARRO
+Distribution:  DR Rafiq,  FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Rt breast cancer - 11 o, 4cm FN.
+MACROSCOPIC:
+A.  Specimen labelled "Right breast long stitch, short superior, long lateral, medium medial" consists of breast tissue with three sutures as mentioned above.  It weighs 141g and measures 90mm (from medial to lateral) x 70mm (from superior to inferior) x 50mm (from superficial to deep).  Superior inked red.  Superficial inked blue.  Deep inked black.  Specimen has been serially sectioned from lateral to medial into fourteenslices.  On the cut surface an irregularly outlined pale firm tumour measuring 20mm (from medial to lateral) x 25mm (from superior to inferior) x 15mm (from superficial to deep) is noted.  It appears to measure 10mm to superficial margin, 25mm to deep margin, 20mm to superior margin, 20mm to inferior margin.  It measures more than 10mm away from lateral and medial margin(tumour present in slices 7 to 10).  Remainder of the breast tissue is fibrofatty.  Cut surface of slice 5 is somewhat gritty.
+Blocks:  1 - LS of lateral margin; 2 to 7 - slice seven; arranged from superficial anti clockwise; 8 to 13 - slice eight, arranged from superficial anti clockwise; 14 to 19 - slice five arranged from superficial anti clockwise; 20 - LS of medial margin.  Multiple pieces in 20 blocks.
+B.  Specimen labelled "Right sentinel node" consists of a lymph node measuring 12 x 10 x 6mm.  Lymph node does not contain blue dye.  Specimen TS.  AE 1 block.
+C.  Specimen labelled "Right axillary tissue" consists of a mass of fatty tissue measuring 35 x 20 x 20mm.  Seven lymph nodes measuring 1 to 4mm in maximum extent identified.
+Blocks:  1 - three nodes; 2 - four nodes.  Multiple pieces in 2 blocks.
+(TO: VA; ZV/rt 24.1.63)
+MICROSCOPIC (Reported by Dr N Bonenfant):
+A, B & C. Sections shows a Grade 2 infiltrating ductal carcinoma, NOS. A synoptic report follows.
+Invasive carcinoma:
+Site:  Right breast, 11 o'clock 4cm from nipple
+Type:  Infiltrating ductal carcinoma, NOS
+Invasive tumour size: 25 x 20 x 15mm
+Grade (Modified Bloom & Richardson): 2
+Tubules: 2      Nuclei: 3     Mitoses: 1     Mitotic rate:  8/10hpf.
+Lymphovascular invasion:  Present (Block A5)
+	    
+DCIS component: 
+DCIS:  Present
+Maximum extent of DCIS:  20mm (across 4 consecutive slices)
+Nuclear grade: Intermediate
+Architecture:  Solid, cribriform, micropapillary
+Necrosis:  Present
+Calcification:  Not identified
+Degree of DCIS in tumour: 15%
+DCIS in adjacent tissue:  Not identified
+Excision Margins:  
+Invasive component
+	Superficial: 5.5mm (Block A10)
+	Deep: 3.5mm (Block A18)
+	All other margins: >10mm
+
+In-situ component
+	Superficial: 6mm (Block A2)
+	Deep: 8mm (Block A5)
+	Superior: 1mm (Block A19)
+	Inferior: 6mm (Block A4)
+	Medial & Lateral: >10mm
+	All margins clear with normal intervening ducts.
+
+Receptors (Block A3): 
+ER:  Negative (Positive internal and external controls)
+PR:  Negative (Positive internal and external controls)
+HER2 (Novocastra 10A7): 0
+HER2 SISH:Performed at Fortune Brands, SUNSHINE COAST UNIVERSITY HOSPITAL Hospital, see separate report.
+Ki-67 index: up to 30%
+Nipple:  Not included
+LCIS / ALH:  Not identified
+Miscellaneous: The uninvolved breast parenchyma shows areas of usual ductal hyperplasia, columnar cell change with microcalcification and fibroadenomatoid change.
+Sentinel lymph node(s):
+Number of sentinel lymph node(s) examined: 1
+Number of sentinel node(s) with metastases <2.0mm: 1
+	Detected by: H&E
+Extranodal spread:  Not identified
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 7
+Number of axillary lymph nodes involved by tumour: 0       
+DIAGNOSIS:
+A. Right breast
+- 25MM GRADE 2 INFILTRATING DUCTALCARCINOMA NOS, MARGINS CLEAR
+- ER NEGATIVE, PR NEGATIVE, HER 2 NEGATIVE, KI67 30%
+- DUCTAL CARCINOMA IN SITU PRESENT, MARGINS CLEAR
+B. Right sentinel node
+- MICROMETASTASES PRESENT IN ONE LYMPH NODE (1/1)
+C. Right axillary tissue
+- NO EVIDENCE OF METASTATIC CARCINOMA IN SEVEN LYMPH NODES (0/7)
+ADDITIONAL REPORT (Reported by Dr N Weissenbach on 16.3.2064):
+The cancer morphology is reviewed in conjunction with A/Prof N Dilello. Basal-like features are not seen on histological examination and the grade of the carcinoma is unchanged. On immunohistochemistry, the tumour cells display positive staining with CK5/6. Only very occasional positive staining (<5%) is demonstrated within the tumour with CK14. 
+

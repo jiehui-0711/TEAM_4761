@@ -1,0 +1,74 @@
+SPR no: 40D5889406
+MRN no: 366907
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report40D58894 (40D5889406) Rado, DARRICK
+HISTOPATHOLOGY REPORT
+NARROGIN HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ca ovary.  Rx with chemotherapy.  See under 401588.YLC
+Uterus, tubes, ovaries and pelvic peritoneum.
+Rectosigmoid colon bowel
+Omentum
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, OVARIES, TUBES + PELVIC PERITONEUM&amp;quot;.  A uterus, cervix, attached tubes and ovaries 124g.  The uterus measures 75x50x35mm.  There is a portion of fatty tissue at the pouch of Douglas 50x60mm.
+
+The right tube measures 35mm in length and 7mm in diameter.  A paratubal cyst is present.  The fimbria appears mildly enlarged.  Sectioning is unremarkable.   The right ovary measures 25x15x10mm.  The outer surface is lobulated and yellow and sectioning is unremarkable.
+
+The left tube measures 50mm in length and 10mm in diameter.  The fimbria appears oedematous and enlarged.  The serosa is smooth.  A paratubal cyst is present.  The left ovary is 25x15x10mm.  The outer surface is yellow and lobular and sectioning is unremarkable.  Both tubes and ovaries embedded entirely.
+
+The endometrium measures 1-2mm.  The anterior wall measures 17mm, posterior 16mm.  There is a grey friable lesion inside the uterine cavity measuring 20x20x10mm.  No obvious invasion into the myometrium is present.  No extension to the cervix identified.  There is a white whorled nodule 17mm in the anterior uterine wall.
+
+(1 right parametrium; 2 left parametrium; 3&amp;amp;4 pouch of Douglas; 5&amp;amp;6 right tube; 7&amp;amp;8 right ovary; 9&amp;amp;10 left tube; 11-13 left ovary; 14-19 one full face of right uterus; 20&amp;amp;21 more sections of endometrium left uterus).  RS (M-21)
+
+B.  &amp;quot;RECTOSIGMOID COLON&amp;quot;.  A portion of rectosigmoid 90mm in length and 30mm in diameter entirely above anterior peritoneal reflection.  Specimen is unoriented and unable to orient it.  Circumferential margin inked black.  Mucosa appears intact.  Some irregularity and induration over the serosa is present with some dark-black foci.
+
+(1 surgical margins; 2 - 5 area of induration over the serosa)  RS (M-5)
+
+C.  &amp;quot;OMENTUM&amp;quot;.  Fibrofatty tissue compatible with omentum measuring 90x70x40mm.  Multiple nodularity is present.  RS (4-4/SM 7/3/2071 nh)
+
+MICROSCOPIC: (Dr M Matheney)
+A.  Sections demonstrate deposits of high grade serous carcinoma with associated macrophage reaction, fibrosis and bizarre cytologic atypia consistent with previous chemotherapy effect.  High grade serous carcinoma is present on the fimbrial ends of both the right and left fallopian tubes, on the serosal and hilar regions of the right and left ovaries, on the Pouch of Douglas peritoneum, and on the uterine serosa.  Lymphatic space invasion is seen in some areas. There is associated psammomatous calcification in several sections.
+Sections of the cervix appear  unremarkable.  The endometrium is completely replaced by fibrosis and histiocytic macrophage reaction with scattered foreign body giant cells and with amorphous debris within the endometrial cavity.  These appearances are suggestive of previous endometrial ablation.  A small benign leiomyoma of the myometrium is also seen.
+B.  The sections show segment of colon.  On the serosal surface there is a deposit of high grade serous carcinoma with irregular and slit-like glandular spaces and some papillary architecture and with high grade nuclear atypia including areas of fibrosis consistent with previous chemotherapy effect.  Psammomatous calcifications are also seen.  Carcinoma infiltrates into muscularis propria of the large bowel. The mucosa and submucosa and surgical margins appear unremarkable.
+C.  The sections show omentum in which there is high grade serous carcinoma with similar features to that seen in the previous specimen.  There is prominent fibroblastic reaction consistent with previous chemotherapy effect, however, easily identified carcinoma is present (chemotherapy response score 2).
+Comment : Immunostains of previous peritoneal biopsy (40D58894) show positive P53, WT1, and Pax8 staining.  ER/PR negative.  The staining pattern is consistent with high grade serous carcinoma.
+SURGICAL PATHOLOGY CANCER CASE SUMMARY:
+OVARY OR FALLOPIAN TUBE OR PRIMARY PERITONEUM:
+
+Histologic Type: Serous carcinoma
+
+Histologic Grade: High grade
+
+Other tissue/Organ Involvement:
+Right ovary
+Left ovary
+Right fallopian tube
+Left fallopian tube
+Pelvic peritoneum - Pouch of Douglas peritoneum and serosa and muscularis propria of rectosigmoid colon
+Omentum
+
+Treatment Effect: Moderate response identified (CRS 2)
+
+Regional Lymph Nodes: No lymph node submitted or found
+
+Pathologic Stage Classification (pTNM, AJCC 8th Edition):
+pT3c - Macroscopic peritoneal metastasis beyond pelvis more than 2cm in greatest dimension with or without metastasis to the retroperitoneal lymph node (includes extension of tumour to capsule of liver and spleen without parenchymal involvement of either organ)
+
+pNX - Regional lymph nodes cannot be assessed.
+
+FIGO Stage: IIIC - Macroscopic peritoneal metastases beyond the pelvic brim &amp;gt;2cm in greatest dimension, with or without metastases to the retroperitoneal nodes.
+
+Additional Pathologic Findings : See text above.
+
+DIAGNOSIS:
+A.  UTERUS, OVARIES, TUBES AND PELVIC PERITONEUM -
+-HIGH GRADE SEROUS CARCINOMA OF BOTH FALLOPIAN TUBES AND OVARIES AND POUCH OF DOUGLAS PERITONEUM.
+B.  RECTOSIGMOID COLON -
+-HIGH GRADE SEROUS CARCINOMA.
+C.  OMENTUM -
+-HIGH GRADE SEROUS CARCINOMA (CHEMOTHERAPY RESPONSE SCORE 2).
+6/2/2070 ank

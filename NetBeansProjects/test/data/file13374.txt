@@ -1,0 +1,29 @@
+SPR no: 16X692832G
+MRN no: 16869283
+Site_name: YARRA RANGES HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Further excision left foot sarcoma.  Bladder Ca - surgically excised.  Left foot sarcoma and left knee lesion.  High grade sarcoma with myoid differentiation , favour leiomyosarcoma.  Further re-excision for greater margins.  Left knee lesion noted on PET scan - benign on FNA, for excision biopsy.
+1.  Left foot further excision - long lateral, short proximal, double deep.
+2.  Left knee - transverse skin ellipse - suture at 12 o&amp;apos;clock.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Further excision dorsum left foot short proximal, long lateral, double deep&amp;quot;, consists of a flattened round piece of tissue with a rim of skin around 3/4 of the specimen.  Orientating sutures are attached as described.  Specimen measures 130mm (proximal to distal) x 95mm  (medial to lateral) x 10mm (superficial to deep).  Right deep margin inked blue, left deep margin inked black.  Proximal surgical margin inked red.  Alternative slices blocked.  Specimen sliced from proximal to distal into thirteen slices.  All slices one and twelve blocked LS.
+Blocks: 1 - right edge of proximal margin; 2 to 20 - mid section of proximal margin; 21 - left edge of proximal margin; 22 to 26 - slice three; 27 to 30 - slice five; 31 to 34 - slice seven; 35 to 38 - slice nine; 39 to 42 - slice eleven; 43 - right edge slice thirteen; 44 to 52 - mid section edge of skin; 53 - left edge of slice thirteen.  Please refer to attached block key diagram.
+
+B.  Specimen labelled &amp;quot;Left knee subcutaneous lesion stitch at 12 o&amp;apos;clock&amp;quot;, consists of an orientated ellipse of skin measuring 30 x 6mm with suture along the long edge demarcating 12 o&amp;apos;clock with deep tissue attached measuring to a depth of 37mm.  Total specimen size is 40 x 40 x 10mm.  The 12  o&amp;apos;clock surface is inked blue, 6 o&amp;apos;clock surface inked black.  The cut surfaces show no obvious focal lesions.
+Blocks: 1 - shave 3 o&amp;apos;clock margin; 2 - shave 6 o&amp;apos;clock margin, specimen serially sliced TS from 3 to 9 o&amp;apos;clock; 3 to 8 - mid section of specimen TS AE.   (MS/ta 28/9/66)
+
+
+MICROSCOPIC (Reported by Dr D Mehelich):
+A.  Sections show a large ulcer with a rim of skin, in keeping with previous surgery.  The base of ulcer is covered by granulation tissue and fibrous tissue.  There are several foci of residual high grade sarcoma involving deep adipose tissue and skeletal muscle.  The sarcoma extends at least 10mm from the base of ulcer.  The tumour is cellular and part of it has a myxoid stroma.  The tumour appearances are same as those described in the previous specimen (16X69283).  The residual tumour focally extend to the deep margin near the distal end of specimen (block A50).  The residual tumour is less than 0.2mm to the deep margin near the proximal/lateral part of specimen (block A26).  The rest of tumour foci are clear of the margins.  No lymphovascular or perineural invasion is seen.
+
+B.  Sections show mature adipose tissue.  There is an area of haemorrhage within the adipose tissue.  The surrounding area shows reactive change.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Further excision dorsum left foot - Residual high grade sarcoma (see text for margins).
+
+B.  Left knee - Focal haemorrhage.

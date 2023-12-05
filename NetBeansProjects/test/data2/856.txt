@@ -1,0 +1,80 @@
+Episode No:  04N636048C
+0456360.LVC
+
+TIPLER, Orville 
+Lab No:  04N63604
+Haselrigge
+HADSPEN  ACT  1490
+Specimen: Tissue
+D.O.B:  15/1/1990
+Sex:  M
+Collected: Unknown at :
+Location:  RENAL CLINIC-GOODOOGA HOSPITAL
+DR KOREY Leopoldo Rollings
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Emergency right hemicolectomy for caecal tumour- likely obstructing appendix orifice leading to perforated appendicitis.  Biopsies also taken form retroperitoneal abscess cavity wall - ?tumour.  Polyps.
+MACROSCOPIC:
+A.  Specimen labelled "Retro peritoneal abscess wall" consists of three pieces of nodular tan tissue 12, 15 and 17mm in maximum dimension.  AE 2 blocks.  
+B.  Specimen labelled "Right colon hemicolectomy" consists of a right hemicolectomy with terminal ileum approximately 105mm in length and up to 22mm in diameter attached to caecum and ascending colon together measuring 170mm in length and up to 65mm in diameter.  The distal terminal ileum, caecum and proximal ascending colon are adherent, with fat wrappingand a serosal fibrinopurulent exudate.  
+On opening, an ulcerated, circumferential tumour is present in the caecum, measuring approximately 45 x25 x 12mm.  The tumour infiltrates through muscularis propria into subserosal tissue.  The tumour measures approximately 100mm from the nearest resection margin (proximal).
+Theappendix is dilated and filled with necrotic material.  Its dimensions are difficult to estimate due to adherent mesocolonic fat.  The mesoappendix shows extensive fibrosis.  The site of perforation is not identified.  
+The mucosa of the terminal ileum appears unremarkable.  The ascending colon shows multiple polyps up to 4mm.  
+Blocks: 1- proximal resection margin; 2 - distal resection margin; 3 - tumour and appendix; 4 - further representative appendix; 5 to 8 - further representativetumour; 9 to 11 - polyps ascending colon; 12 - tumour reserve block; 13 - one apical node; 14 - one apical node; 15 - one apical node; 16 to 22 - mesocolonic lymph nodes.  
+Further lymph nodes to be harvested after overnight fixation.
+(TO: KR RY/Ta 20/12/62)
+  
+MICROSCOPIC (Reported by Dr Y Eckerman): 
+A.  Sections show appendix wall and adjacent fibrofat.  The appendiceal mucosa shows architectural distortion and there is a heavy infiltrate of mixed, mainly chronic, inflammatory cells in the appendix wall. The adjacent tissue shows fat necrosis and a heavy infiltrate of mixed, mainly chronic, inflammatory cells.  No tumour is identified.  
+B.  Sections show a moderately differentiated adenocarcinoma of caecum.  The tumour overlies the appendix base.  A synoptic report follows: 
+Macroscopic Description
+
+Site of tumour:  Caecum. 	
+Maximum tumour diameter: 45mm
+Distance of tumour to nearer cut end: 100mm
+Tumour perforation:No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate 
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: >10mm
+Lymph nodes
+Number of lymph nodes present: 20	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas:  Seven tubular adenomas with low grade dysplasia.  One tubular adenoma with high grade dysplasia and very focal invasive moderately differentiated adenocarcinoma. 
+The caecal tumour overlies the appendix base.  Some of the mucosa of the proximal appendix shows adenomatous change but no adenocarcinoma is seen within the appendix.  The appendix also shows active chronic inflammation.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0pMx     R0	
+
+ 
+DIAGNOSIS:  
+A.   Retroperitoneal abscesswall:  Appendix wall and adjacent tissue showing florid inflammation. 
+B.   Right hemicolectomy:
+1.  Adenocarcinoma of caecum, pT3 N0 Mx R0.
+2.  Adenoma with high grade dysplasia and very focal invasive moderately 
+       differentiated adenocarcinoma. 
+3.  Seven other tubular adenomas with low grade dysplasia. 
+4.  Adenomatous change in proximal appendiceal mucosa, and active chronic appendicitis.
+

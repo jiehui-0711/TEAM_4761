@@ -1,0 +1,35 @@
+Episode No:  90W9612824
+9089612.XFL
+
+CUMBLIDGE, KALI HOBERT 
+Lab No:  90W96128
+Claibourne
+PEARCEDALE  TAS  3902
+Specimen: Tissue
+D.O.B:  30/3/1999
+Sex:  F
+Collected: 18/9/2063 at :
+Location:  PRINCE OF WALESPRIVATE - SHOALHAVEN DISTRICT MEMORIAL HOSPITAL
+DR VIDYA SADE Chiola
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Known with metastatic (stage 4) endometrioid adenocarcinoma.  Now having palliative TAH and BSO.  Metastatic endometrial cancer liver/bone mets.  
+MACROSCOPIC:
+Specimen labelled "Uterus, tubes cervix" consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 408g in total.  The uterus measures 125 x 95 x 65mm.  The serosal surface appears focally haemorrhagic.  The ectocervix measures 40 x 35mm.  The ectocervix has an unremarkable surface.  On sectioning the endometrial cavity is filled with a tan/haemorrhagic solid tumour extending close to the serosal surface and measuring approximately 90 x 55 x 50mm.  The myometrium containsmultiple fibroids ranging from 5 to 35mm in maximum dimension.  All fibroids have whorled grey cut surfaces.  The left fallopian tube is 55mm in length and up to 14mm in maximum diameter.  The left ovary measures 28 x 18 x 10mm and has an unremarkable cut surface.  The right fallopian tube is 55mm in length and up to 10mm in maximum diameter.  The right ovary measures 28 x 20 x 11mm and has an unremarkable cutsurface.  
+Blocks:  1 to 6 - full longitudinal section of anterior body and cervix; 7 to 12 - full longitudinal section of posterior body and cervix; 13 - section of tumour, reserve block; 14 - Left ovary and fallopian tube; 15 - right ovary and fallopian tube.  
+(BY/mm 19.9.63)
+MICROSCOPIC (Reported by Dr X Spritzer):  
+Sections of uterus show a poorly differentiated endometrioid adenocarcinoma (grade 3).  Majority of tumour (more than 70%) show solid sheet-like growth pattern.  Focal areas of necrosis are present.  The tumour involves the entire uterine cavity including the lower uterine segment.  The tumour invades the wall of cervix but the ectocervix itself is not involved.  The ectocervical margin is clear.  There is extensive lymphovascular invasion.  The tumour invades the full thickness of myometrial wall and involves the serosa/parametria in multiple areas.  The maximal depth oftumour invasion and myometrial wall thickness is 25mm.  Several small benign leiomyomas are present within the myometrium.  Multiple tumour deposits are seen on the serosal surface of both ovaries.  Right ovary also shows tumour metastasis within its parenchyma and lymphovascular invasion.  Both fallopian tubes are unremarkable.
+DIAGNOSIS:
+Uterus, cervix, tubes and ovaries - Endometrioid adenocarcinoma (grade 3).
+SUPPLEMENTARY REPORT (22/10/2063):
+Mismatch Repair Deficiency (MMRD) Status(Block 5)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+SUPPLEMENTARY REPORT (10/1/2063):
+The tumour cells are strongly positive for ER and PR.
+

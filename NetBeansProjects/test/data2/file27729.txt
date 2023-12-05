@@ -1,0 +1,54 @@
+SPR no: 16D062377B
+MRN no: 1610623
+Site_name: BROKEN HILL BASE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+SUPPLEMENTARY REPORT - MMRD STATUS (9.7.2068)
+
+CLINICAL:
+71 yo, with cervical cancer.  TLH BSO + PLND.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 122g in total.  The uterus measures 55 x 70 x 60mm and has a smooth serosa.  The ectocervix measures 34 x 33mm.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  Both the endometrium and endocervical canal have a nodular thickened appearance, consistent with diffuse tumour involvement.  In the uterine body, the tumour extends to a depth of 18mm through a myometrial thickness of 22mm.  Within the cervix the tumour appears to invade into the inner half of the cervical wall.  The tumour appears clear of both the serosal and soft tissue cervical margins.  The myometrium contains a few fibroids, up to 17mm, with probably infiltration by tumour.  Two subserosal fibroids are also noted, 8 and 10mm.  The left fallopian tube, 48 x 5 x 5mm, and left ovary, 28 x 25 x 15mm, show significant abnormality.  The right fallopian tube, 45 x 5 x 5mm, and right ovary, 35 x 22 x 13mm, show no significant abnormality.
+Blocks: 1 to 4 - midline LS anterior uterus and cervix (3 &amp;amp; 4 - deepest invasion); 5 to 8 - midline LS anterior uterus and cervix; 9 to 12 - midline LS posterior uterus and cervix; 13 to 16 - midline LS posterior uterus and cervix; 17 - left fallopian tube; 18 - left ovary; 19 - right fallopian tube; 20 - right ovary.  Tumour sampled for endometrial cancer research.
+
+B.  Specimen labelled &amp;quot;Right external iliac&amp;quot;, consists of a lymph node, 20mm, encased in fibroadipose tissue, 25 x 16 x 10mm.  Blocks: 1 - single lymph node.
+
+C.  Specimen labelled &amp;quot;Right obturator lymph node&amp;quot;, consists of fibroadipose tissue, 35 x 18 x 12mm, containing multiple lymph nodes.  Blocks: 1 - single lymph node; 2 - multiple lymph nodes.
+
+D.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of fibroadipose tissue, 42 x 35 x 12mm, containing multiple lymph nodes.  Blocks: 1 - multiple lymph nodes; 2 - single lymph node.
+(TO:JB/rs 3/8/68)
+
+
+MICROSCOPIC (Reported by Dr F Brobst):
+A.  The sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  No significant solid architecture or marked cytologic atypia is seen.  The tumour invades 14mm through a myometrial wall thickness of 19mm.  Multiple foci of lymphovascular invasion are seen.  The tumour invades into the superficial endocervical stroma, and is well clear of the cervical radial margin.  The ectocervix is uninvolved and unremarkable.  The myometrium contains leiomyomas, one of which is partially infiltrated by tumour.  Both fallopian tubes and ovaries are uninvolved by tumour.
+
+MMRD immunohistochemistry is in progress, to follow in a supplementary report.
+
+B.  The sections show one lymph node containing metastatic adenocarcinoma (1/1).  The largest deposit of carcinoma is 1mm.  No extranodal extension is identified.
+
+C.  The sections show three negative lymph nodes (0/3).  There is no evidence of malignancy.
+
+D.  The sections show two out of five lymph nodes containing metastatic adenocarcinoma (2/5).  The tumour deposits are 0.1mm and 0.8mm.  No extranodal extension is identified.
+
+
+DIAGNOSIS:
+A.  Uterus with cervix, bilateral fallopian tubes and ovaries:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  Tumour invades outer half of myometrium.
+-  Tumour invades endocervical stroma.
+-  Multifocal lymphovascular invasion present.
+-  No significant abnormality of fallopian tubes and ovaries.
+-  MMRD immunohistochemistry to follow.
+B.  Right external iliac lymph node:  One lymph node positive for metastatic carcinoma (1/1).
+C.  Right obturator lymph node:  Three negative lymph nodes (0/3).
+D.  Left external iliac lymph node:  Two out of five lymph nodes positive for metastatic carcinoma (2/5).
+SUPPLEMENTARY REPORT (10.9.2065)
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

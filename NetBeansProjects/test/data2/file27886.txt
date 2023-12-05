@@ -1,0 +1,33 @@
+SPR no: 22A326258Y
+MRN no: 2203262
+Site_name: MOREE DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ca endometrium.  87 year old with post menopausal bleeding.  On EUA large mass from cervix, seen to be extending from endometrium.  Clinically stage 2 endometrial carcinoma.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes, ovaries&amp;quot;, consists of a uterus with attached cervix bilateral fallopian tubes and ovaries weighing 226g in total.  The uterus measures 112 x 65 x 45mm and has a smooth shiny serosal surface.  The anterior paracervical soft tissue is inked blue and the posterior is inked black.  Protruding from the cervical os is 34 x 14 x 10mm amount of red/brown tissue.  The ectocervix measuring 45 x 35mm and otherwise has a unremarkable surface.  On sectioning the endometrium is diffusely thickened and continuous with the protruding tissue at the cervical os.  The endometrium is 30mm in maximal thickness where the total wall thickness is 35mm (posteriorly) and the endometrium reaches within 2mm of the serosal surface.  It has a pale tan cut surface.  In residual myometrium there are two circumscribed pale firm lesions with whorled cut surfaces, one anteriorly and one posteriorly consistent with fibroids, 12 to 15mm in diameter.  The right fallopian tube measures 40mm in length by 7mm in diameter and the right ovary is 19 x 9 x 8mm.  The left fallopian tube is 36 x 6mm in diameter and the left ovary is 20 x 8 x 7mm.  Both fallopian tubes and ovaries have a normal cut surface.
+Blocks: 1 to 6 - full longitudinal section of anterior body and cervix; 7 &amp;amp; 8 - full thickness section of anterior body bisected; 9 to 15 - full longitudinal section of posterior body and cervix; 16 to 19 - two full thickness sections of posterior body, each bisected; 20 - posterior body showing closest approach to serosal surface; 21 - right fallopian tube fimbrial end; 22 - four TS right fallopian tube; 23 - right ovary in five sections; 24 - fimbrial end left fallopian tube; 25 - four TS left fallopian tube; 26 &amp;amp; 27 - left ovary in six sections.  All the ovaries embedded.
+(TO:SW/rs 11/10/65)
+
+
+MICROSCOPIC (Reported by Dr G Reznick):
+Sections of uterus show a grade 1 endometrioid endometrial adenocarcinoma. The tumour occupies nearly the entire length of uterus in superior to inferior dimension and is  estimated to be 100mm in maximum extent.  The carcinoma infiltrates the cervical stroma with extension to endocervix and also infiltates  the full thickness of myometrium and extends to serosa (e.g block 19).  Foci of  lymphovascular invasion are seen (e.g block 7). The carcinoma is 2mm from the closest cervical soft tissue margin (anterior).  There are two  leiomyomas within myometrium.  Sections of the ovaries and fallopian tubes show no significant abnormality.
+
+DIAGNOSIS:
+Uterus, cervix, bilateral tubes, ovaries:
+- Endometrioid endometrial adenocarcinoma, grade 1, extending to uterine serosa and cervical stroma
+- Lymphovascular invasion
+- Two leiomyomas
+- No significant abnormalities in ovaries and fallopian tubes
+Supplementary report (reported by Dr G Lamana, 23/9/2065)
+
+Mismatch Repair Deficiency (MMRD) Status (block 19)
+MLH1		loss of nuclear staining
+PMS2		loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

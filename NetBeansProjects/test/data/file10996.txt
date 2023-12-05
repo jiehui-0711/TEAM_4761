@@ -1,0 +1,23 @@
+SPR no: 73B382744G
+MRN no: 7303827
+Site_name: SOUTHERN CROSS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report ind0rbdrawnil 1  7303827.KMG
+s0 RYMAN, HANSch
+73B38274
+rbdrawnil a
+0Last edited : 22/5/2066		Page: 2insrsid8719213
+ustright
+081CLINICAL:
+Prior WLE with multifocal grade 3 breast cancer on background extensive DCIS.
+Left ma stectomy.  Suture at lateral skin edge.
+MACROSCOPIC:uk03827442
+A.   Specimen labelled &amp;quot;Left b reast stitch at lateral edge&amp;quot;, consists of mastectomy specimen with overlying skin ellipse measuring 225 x 110mm with total specimen size measuring 260 x 170 x 55mm.  Within the centre of the specimen is a cavity measuring 95mm from media l to lateral, 10mm superficial to deep and 70mm superior to inferior.  There is a stitch at one side of the specimen demarcating the lateral edge.
+Blocks: 1 &amp;#8211; medial margin and cavity; 2 &amp;#8211; lateral with cavity; 4 &amp;#8211;  superficial margin and cavity; 5 &amp;#8211; superior wall of cavity; 6 &amp;#8211; inferior wall of cavity; 7 &amp;#8211; nipple areola complex; 8 &amp;#8211; lower outer quadrant; 9 &amp;#8211; upper outer quadrant; 10 &amp;#8211; upper inner quadrant;  11 &amp;#8211; lower inner quadrant;.  (TO: MS;MS/vo 5.1.66)
+B.  Specimen labelled &amp;#8220;Prior excision deep cavity&amp;#8221;, consists of fibrofatty tissue measuring 40 x 60 x 20mm in aggregate.  Representative sections 3 blocks.par (TO: MS/ec   5.1.66)
+fcs0
+MICROSCOPIC (Reported by Dr U Kellom):fcs0
+A and B.  Sections of breast show a surgical cavity lined by granulation tissue. 3081The adjacent breast tissue shows columnar change and81 benign ductal hyperplasia. There is no evidence of residual malignancy. The nipple sho ws no evidence of Paget&amp;apos;s disease.
+DIAGNOSIS
+li0A and B. Left breast and prior excision deep cavity: surgical cavity with no  evidence of residual malignancy

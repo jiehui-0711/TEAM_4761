@@ -1,0 +1,107 @@
+
+Episode No:  43Q948858J
+4369488.OUJ
+
+KWIATKOWSKI, WARRIGAL 
+Lab No:  43Q94885
+Regentville
+MOAMA  Northern Territory  1715
+Specimen: Tissue
+D.O.B:  26/3/2011
+Sex:  F
+Collected: 18/04/2013 at 18:26
+Location:  RENAL CLINIC-KALEEYA HOSPITAL
+DR Nickolas FRANK FLYE
+Distribution:   FILE-COPY,NSW-CANCER-REGISTRY
+CLINICAL:
+Left axillary contents.  Fungating breast cancer left breast.  Long history of breast cancer, untreated, known liver and lung mets.  Breast Ca.
+Additional information:
+Dr Reed (pathology registrar) confirmed with Dr Dorsey(surgical registrar) that the specimens are unoriented.
+MACROSCOPIC:
+A.  Specimen labelled "Left breast" consists of an unorientated,  irregular breast 270 x 250mm to a depth of 130mm. Skeletal muscle forms the deep margin of the specimen in some areas.  There is a large fungating ulcerated tumour measuring 220 x 170mm which has destroyed and replaced the nipple areolar complex and the majority of the surrounding skin; ulcerated tumour is 10mm from the closest radial cutaneous margins skin margin.  Sectioning reveals a poorly circumscribed cream tumour with extensive areas of necrosis.  The tumour invades the skeletal muscle and appears to abut the deep margin in several areas.   The tumour appears to extend to the superficial margin and the radial resection margins.  
+Blocks:  1 - tumour to deep margin; 2- tumour to skin; 3 to 5 - further representative tumour; 6 - tumour to skin radial margin; 7 to 14 - further representative tumour and margins.
+B.  Specimen labelled "Left axillary contents" consists of an unoriented, irregular piece of tan and fatty tissue,  95 x 80 x 45mm.  The cut surface reveals multiple lymph nodes, many of which are replaced by cream tumour. The largest involved lymph node measures 55mm in maximum dimension.  An estimated twenty lymph nodes are identified, however, the exact count is difficult to assess as many of the lymph nodes are matted together by tumour. The tumour appears to abut the resection margin of the specimen.  Representative sections in 8 blocks.  
+(TO:  JQ:  IB/mm 21.6.63) 
+MICROSCOPIC:  (Reported by Dr U Swanston & Dr U Hsia)
+A & B.  Sections show a 220mm, fungating, ulcerated, poorly differentiated adenocarcinoma.  The carcinoma is arranged in dissecting sheets and solid nests with associated stromal desmoplasia and extensive necrosis.  No well formed tubules are seen.  The carcinoma extensively ulcerates skin, destroying the nipple areolar complex, replaces much of the breast tissue and infiltrates skeletal muscle reaching the deep margin. The mitotically active tumour cells have large pleomorphic nucleoli, irregular nuclear membranes, vesicular chromatin and eosinophilic macronucleoli. Although in areas the tumour has asquamoid appearance, no intercellular prickles or keratinisation indicative of squamous differentiation are seen, and dPAS stains highlight scattered glandular lumina both betweenand within cells consistent with poorly differentiated adenocarcinoma. The small amount of sampled residual breast lobules show no evidence of ductal carcinoma in situ (DCIS).   Numerous foci of lymphovascular invasion are seen within the dermis (A2), breast and extranodal tissue of the axilla. The tumour extends to the superficial, radial and deep resection margins.
+Approximately seventeen of twenty one (17/21) axillary lymph nodes contain metastatic poorly differentiated adenocarcinoma with similar appearances to the breast tumour.  There is extensive extranodal involvement including infiltration of axillary skeletal muscle, mainly via extensive extranodal lymphatic spread. The carcinoma extends to the resection margin of the axillary specimen.
+Immunohistochemistry:
+The breast tumour cell stains as follows:
+Positive:  CK7, CK20, TTF1 (patchy weak), E Cadherin.
+Negative:  ER, PR, CK5/6, Napsin A.
+Equivocal:  HER2  (2+).
+The left axillarymetastasis stains as follows:
+Positive:  CK7, CK20, TTF1 (diffuse moderate), ER (20% predominantly weak intensity).
+Negative:  PR, Napsin A.
+The Ki67 proliferation index of the breast tumour is approximately 50-60%.
+	
+COMMENT:
+The morphology of the currentbreast tumour and axillary metastasis match those of the previously excised left breast tumour (core biopsy - 80V36805) and left axillary lymph node metastasis (excision biopsy - 80V36805). 
+A lung primary was suggested as the site of origin of the previously sampled left axillary metastasis based on the reported immunoprofile (80V36805 - CK7 positive, CK20 positive, TTF1 positive, ER negative).  The previously sampled left breast tumour (80V36805), in a more limited sample, was CK7 positive, TTF1 minimally positive, CK20 positive, ER positive (approximately 30% predominantly moderate intensity) and PR negative.  The current breast tumour specimen and axillary metastasis show similar positive immunoexpression for CK7, CK20 and TTF1.  The ER results in the current specimens are conflicting; the breast tumour is ER negative (tested twice with appropriate controls) and the axillary metastases ER positive.  Another marker for lung adenocarcinoma, Napsin A, is negative in both the breast tumour and axillary metastases, although poorly differentiated lung adenocarcinoma may lose expression.  In view of the advanced nature of the breast tumour, axillary location of metastases,and despite the lack of an identifiable in-situ component (the tumour has replaced much of the breast tissue), a breast primary (grade 3 ductal, NST) with axillary metastasis seemsmuch more likely than origin from a lung adenocarcinoma.  The TTF1 and CK20 results are interpreted as aberrant.  TTF 1 expression by breast carcinomas is very rare but has been reported with clone SPT24 used in this case.  Correlation with the clinical and radiological features is advised.
+Invasive carcinoma:
+Site: Left breast
+Type: Infiltrating ductal carcinoma NST (see comment).
+Invasive tumour size: 220mm
+Grade (Modified Bloom & Richardson): 3
+Tubules: 3     Nuclei: 3     Mitoses:      Mitotic rate:  65/10hpf.
+Lymphovascular invasion:  present
+	    
+DCIS component:  not seen 
+Excision Margins:  
+Invasive component: 
+Radial (specimen unoriented):  Positive (A2)
+Superificial:  Positive (A6)
+Deep: Positive (A3).
+Receptors (Block A9): 
+ER:  Negative (A9), (A11) (breast carcinoma) - tested twice with positive controls; 
+  	0 % of nuclei stained
+	predominant intensity of staining:  N/A
+ER:  Positive (B5) (axillary lymph node metastasis)
+	20 % of nuclei stained
+	predominant intensity of staining:  weak
+PR:  Negative (A9) (breast carcinoma)
+	0% of nuclei stained
+intensity of staining: N/A 
+HER2:  (Novocastra 10A7):  Equivocal (2+) (A9) (breast carcinoma).  CISH to follow.
+Ki-67 index:  Approximately 50- 60%
+Nipple:  Not identified
+
+LCIS / ALH:    Not seen
+Miscellaneous:
+There is minimal residual breast tissue for assessment.
+Sentinel lymph node(s):
+Number of sentinel lymph nodesexamined: 0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  Approximately 21
+Number of axillary lymph nodes involved by tumour:  17     
+Number of axillary nodes with metastases >2.0mm:17
+Number of axillary nodes with metastases <2.0mm:  0 
+Number of axillary nodes with isolated tumour cells <0.2mm:  0     
+Extranodal spread:    Present
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  Approximately 21 
+Total number of involved lymph nodes (including sentinel node(s)):   17
+DIAGNOSIS:
+A & B.  Left breast and left axillarycontents:
+-  220mm grade 3 infiltrating ductal carcinoma, NST; ER positive in axillary metastasis; ER negative in breast tumour; PR negative; HER2 equivocal (CISH to follow)(see comment).
+-  Positive radial, superficial, deep and left axillary dissection margins.
+-  Metastatic carcinoma in seventeen (17) of twenty one (21) left axillary lymph nodes (17/21).
+-  Extranodal extension. 
+	SUPPLEMENTARY REPORT HER-2 IN-SITU HYBRIDISATION  7/8/63
+
+Source of material:  Jones Apparel Group, RYLSTONE DISTRICT HOSPITAL
+Material received: 4 slides labelled "80V36805-7G Garrell" 
+Clinical notes: IDC G3
+HER2 IHC Result: Negative (2+)
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE (nonamplified, diploid)
+Mean HER2 copy number per cell: 2.0 
+Mean CEPI7 copy number per cell: 1.5
+HER2/CEP17 Ratio: 1.33
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive: HER2/CEPI7 >2.2
+Reported by: Dr U Morgon 
+Date: 7.5.2063   (TA 7/8/63)    (TA 7/8/63) 
+

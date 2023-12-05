@@ -1,0 +1,63 @@
+SPR no: 73Q6869762
+MRN no: 7366869
+Site_name: BEECHWORTH HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Large left submandibular mass involving medial pterygoids and lingual nerve (not seen on CT or MRI).  Core Bx: ?adenocarcinoma ?mucoepidermoid. Level 2 to 3 nodal disease.
+1.  Level 1 clearance en bloc with submandibular gland.  Local invasion into medial pterygoid muscle and lingual nerve.  Decision to take 1cm segment of lingual nerve.  Mass circumferentially mobilised and delivered with macroscopic clear margins.
+2.  Level 2 to 5 SND en bloc.  Sent as separate specimens (levels).
+3.  Excision biopsy of submental cutaneous lesion.
+4.  Biopsy of node adjacent to accessory nerve in level 5 sent as separate specimen.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Level 1 left submandibular gland&amp;#8221; consists of a fibrofatty irregularly shaped piece of tissue measuring 115 x 45 x 25mm and weighing 37g.  The specimen is unorientated.  The outer surface is nodular and firm.  One surface of the gland is smooth (inked blue) and the opposite is more roughened (inked black).  The cut surfaces show an ill-defined and infiltrative tumour measuring 65 x 35 x 25mm involving the submandibular gland.  The tumour is very close to the inked resection margin.  Several lymph nodes are identified in the attached adipose tissue.
+Blocks: 1 to 9 - RS submandibular gland; 10 - single lymph node serially sectioned; 11 - single lymph node serially sectioned; 12 - multiple lymph nodes; 13 - single lymph node serially sectioned.
+B.  Specimen labelled &amp;#8220;Submandibular cancer level 2&amp;#8221; consists of a fibrofatty piece of tissue measuring 85 x 45 x 17mm containing multiple ?lymph nodes.  The external surface of the specimen is inked black.
+Blocks:  1 - multiple ?lymph nodes; 2 - single lymph node bisected; 3 - single lymph node bisected; 4 - single lymph node bisected; 5 - single cluster of lymph nodes bisected; 6 - single lymph node; 7 to 10 - single lymph node serially sectioned TS.
+C.  Specimen labelled &amp;#8220;Submandibular cancer level 3&amp;#8221; consists of a fibrofatty piece of tissue measuring 70 x 25 x 10mm.  The tissue contains multiple ?lymph nodes measuring between 5 and 25mm.
+Blocks:  1 - single ?lymph node bisected; 2 - single ?lymph node bisected; 3 - single lymph node bisected; 4 - single lymph node; 5&amp;amp;6 - single lymph node serially sectioned TS.
+&amp;#160;
+D.  Specimen labelled &amp;#8220;Submandibular cancer level 4&amp;#8221; consists of a fibrofatty piece of tissue, 65 x 50 x 10mm containing multiple ?lymph nodes measuring between 5 and 7mm.
+Blocks:  1 - multiple lymph nodes; 2 - single lymph node bisected; 3 - multiple lymph nodes.
+E.  Specimen labelled &amp;#8220;Submandibular cancer level 5&amp;#8221; consists of a fibrofatty piece of tissue measuring 45 x 25 x 10mm containing multiple ?lymph nodes.
+Blocks:  1 - multiple ?lymph nodes; 2 - single ?lymph node; 3 - single ?lymph node.
+F.  Specimen labelled &amp;#8220;Nodes near level 5 accessory node&amp;#8221; consists of a single piece of tissue measuring 5 x 3 x 1mm.  AE 1B.
+G.  Specimen labelled &amp;#8220;Submental lesion&amp;#8221; consists of an ellipse of skin that is unorientated measuring 20 x 6mm with deep tissue to a depth of 8mm.  Deep surface inked black.  In the deep tissue is a firm round white nodule measuring 10 x 5 x 5mm.
+Blocks: 1 - tips of ellipse; 2 - mid section TS.  AE.  (MS/ua 8.1.66)
+
+
+MICROSCOPIC (Reported by Dr U Tica):
+A.  Sections show a high grade mucoepidermoid carcinoma involving the submandibular salivary gland.  The tumour shows a mixture of squamoid (epidermoid), mucous producing and cells of intermediate type.  The tumour cells with high grade nuclei are arranged in solid nests, sheets and cords.  Glandular formations are focally present.  The cystic component is less than 5% of the tumour.  There are up to 16 mitoses per 10 HPF.  No tumour necrosis is seen.  There are foci of lymphovascular and perineural invasion.  The tumour is classified as high grade based on microscopic appearances (WHO tumour classification, 2015).  The tumour invades into the surrounding adipose tissue and skeletal muscle.  The tumour extends to the inked resection margin over a broad area (block A1, A2 and A3).  Complete excision cannot be guaranteed.  Five (5) lymph nodes are identified within the attached soft tissue.  3 of 5 lymph nodes are involved by metastatic mucoepidermoid carcinoma.
+
+B.  Thirteen (13) lymph nodes are identified in total.  5 of 13 lymph nodes are involved by metastatic mucoepidermoid carcinoma.  The largest tumour metastasis measures 24mm in diameter.
+
+C.  Four (4) lymph nodes are identified in total.  2 of 4 lymph nodes are involved by metastatic mucoepidermoid carcinoma.
+
+D.  Six (6) lymph nodes are identified in total.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+E.  Sections show fibroadipose tissue only.  No lymph nodes are identified.  There is no evidence of malignancy.
+
+F.  One (1) lymph node is identified.  The lymph node is unremarkable.  There is no evidence of malignancy.
+
+G.  Sections of skin show a chondroid syringoma (mixed tumour).  The lesion is well circumscribed and is within the dermis.  The lesion is incompletely excised.  There is no evidence of malignancy.
+
+The block best for molecular genetic testing is:  A5
+
+Summary &amp;#8211; TNM 7th Edition
+pT3     pN2b     pMX     R1
+DIAGNOSIS:
+A.  Level 1 left submandibular gland - High grade mucoepidermoid carcinoma.  Metastatic mucoepidermoid carcinoma involving 3 of 5 lymph nodes (3/5).
+
+B.  Submandibular level 2 - Metastatic mucoepidermoid carcinoma (5/13).
+
+C.  Submandibular level 3 - Metastatic mucoepidermoid carcinoma (2/4).
+
+D.  Submandibular level 4 - No evidence of malignancy (0/6).
+
+E.  Submandibular level 5 - No lymph nodes identified.
+
+F.  Nodes near level 5 accessory node - No evidence of malignancy (0/1).
+
+G.  Submental lesion - Chondroid syringoma.

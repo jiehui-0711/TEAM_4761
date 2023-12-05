@@ -1,0 +1,53 @@
+SPR no: 16B230437S
+MRN no: 1602304
+Site_name: LEIGH CREEK HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  16B230437S
+1602304.JSS
+
+PORTELA, TEMPEST RONNY
+Lab No:  16B23043,16B23043
+North Shoreline
+GLEN INNES  ACT  2900
+Specimen: Washings,Tissue
+D.O.B:  20/11/2034
+Sex:  F
+Collected: 23/11/2065 at :
+Location:  INTENSIVE CARE UNIT SOUTH - CHERBOURG HOSPITAL
+DR BERNARDO IGNACIO MILITELLO
+Distribution:
+CLINICAL:
+35yo female.  10cm ovarian mass.  Ca125 2230.  Ca19.9 1500.  Ca15.3 75.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Right ovary&amp;#8221; consists of a multicystic ovary, 80 x 50 x 30mm filled with blood.  No solid or papillary areas are seen.  Two representative sections for frozen section.
+Blocks:  1 &amp;#8211; frozen section one; 2 &amp;#8211; frozen section two; 3 to 10 &amp;#8211; representative section.
+FROZEN SECTION REPORT:
+Endometriotic cyst.
+Result to Gynae Fellow by Dr EDISON DELORBE at 15:42pm on 21/09/2015
+B.  Specimen labelled &amp;#8220;Left ovarian cyst&amp;#8221; consists of an opened cyst, 70 x 30 x 10mm.  The cyst has a smooth inner lining and and outer surface, and contains some old blood.  Two representative sections for frozen section.
+Blocks:  1 &amp;#8211; frozen section one; 2 &amp;#8211; frozen section two; 3 to 8 &amp;#8211; representative section.
+FROZEN SECTION REPORT:
+Endometriotic cyst.
+Result to Gynae Fellow by Dr IVORY FRANKO at 15:42pm on 21/09/2015
+C.  Specimen labelled &amp;#8220;Fragment of right ovary&amp;#8221; consists of a pale tan solid tissue fragment 45 x 11 x 5mm.  The inner surface has adherent blood.  AE 3 blocks.
+D.  Specimen labelled &amp;#8220;Uterine adhesion&amp;#8221; consists of a dark tan tissue fragment, 15 x 10 x 2mm.  BAE 1 block.
+E.  Specimen labelled &amp;#8220;Appendix&amp;#8221; consists of a vermiform appendix, 52mm long and 5mm in diameter with attached mesoappendix 7mm wide.  The serosal surface is smooth and shiny.  The base of the appendix is inked green.
+Blocks:  1 &amp;#8211; tip; 2 &amp;#8211; TS mid portion; 3 &amp;#8211; base.  AE.
+F.  Specimen labelled &amp;#8220;Omental biopsy&amp;#8221; consists of a thin omental tissue fragment, 100 x 50 x 2mm.  There are no focal lesions.
+Representative sections in 3 blocks.  (TO: TTS; TTS/rt 24.11.65)
+MICROSCOPIC (Reported by Dr C Marineau and Registrar Dr C Feroz):
+A.  Sections show ovary with multiple foci of endometriosis.  There is no dysplasia or evidence of malignancy.
+B.  Sections show ovary with multiple foci of endometriosis. There is no dysplasia or evidence of malignancy.
+C.  Sections of ovary show foci of endometriosis. There is no dysplasia or evidence of malignancy.
+D.  Sections show mesothelium with underlying tissue.  There are sheets of haemosiderin laden macrophages within the tissue.  No endometrial glands or stroma are seen.  The features are consistent with previous haemorrhage.
+E.  Sections of appendix show foci of endometriosis within the submucosal and muscularis layers at the tip.  Sheets of haemosiderin laden macrophages are also present in the mesoappendix, consistent with old haemorrhage; however epithelium and stroma are not present at this area.  There is no acute inflammation, dysplasia or malignancy.
+F.  Sections show omental fat with scattered haemosiderin laden macrophages within the fibrous stroma, consistent with previous haemorrhage.  There is no associated glandular epithelium or endometrial stroma.   There is no evidence of malignancy.
+
+DIAGNOSIS:
+A.  Right ovary:  Endometriosis.
+B.  Left ovarian cyst:  Endometriosis.
+C.  Fragment of right ovary:  Endometriosis.
+D.  Uterine adhesion:  Features of previous haemorrhage.
+E.  Appendix:  Endometriosis.
+F.  Omental biopsy:  No significant abnormality.

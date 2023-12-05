@@ -1,0 +1,129 @@
+DateOfBirth
+199808190000
+
+
+SiteName
+MANNING RURAL REFERRAL HOSPITAL (TAREE)
+
+
+FirstName
+Errol
+
+
+SPRID
+58B671874X
+
+
+MRN
+5806718
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Walt
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+58B67187,58B67187 (58B671874X) AKEN, LINO TYRELL
+
+HISTOPATHOLOGY REPORT
+LYELL MCEWIN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Uterus, left and right fallopian tubes and ovaries. See EMR. Uterus, tubes and ovaries (left and right). Left sentinel node for histopathology. Fluid cytology, peritoneal washings. Background moderately differentiated endometrioid adenocarcinoma.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES, OVARIES&amp;quot;. The specimen is received in multiple fragments. It is not able to be orientated. The total specimen weight is 180g.
+
+Fragment 1: Fragment 1 is 70x70x50mm. The serosal surface is disrupted and haemorrhagic. A 55x49x47mm pale nodular mass is present. The mass has a uniform pale whorled cut surface. The suspected endometrium is polypoid in appearance and is friable. Attached to this piece is a fallopian tube and ovary (suspected left side). The fallopian tube is 39mm in length and 7mm in diameter. The serosal surface is haemorrhagic. On sectioning no focal lesions are seen. The ovary is 15x13x9mm and weighs 1.8g. The cut surface is pale with no focal lesions seen.
+
+Fragment 2: Fragment 2 is a ragged piece of pale tan tissue. No definitive serosal surface is identified. Attached to this fragment, there is a fallopian tube and ovary. Fallopian tube 2 is 30mm in length and 7mm in diameter. On sectioning no focal lesions are seen. Ovary 2 is 15x10x7mm and weighs 1.6g. The cut surface is pale with no focal lesions seen.
+
+Cervix: A cervix is received separately 25x18x30mm. The ectocervix is 25x18mm. The os is 12mm across. Anterior is inked blue, posterior is inked black.
+
+Received separately are multiple fragments of friable, polypoid tissue (suspected endometrium) 60mm in aggregate.
+
+(1  anterior cervix; 2  posterior cervix; 3&amp;amp;4  composite blocks of fibroid and polypoid endometrium to parametrium; 5&amp;amp;6  composite blocks of polypoid endometrium and possible myometrium; 7  polypoid endometrium; 8&amp;amp;9  composite blocks of polypoid endometrium to serosa [3-9  from fragment 1]; 10-14  representative sections from fragment 2 [12  with 12mm cystic lesion, 14 possible polyps]; 15-17  representative sections of fragments of polypoid tissue; 18  section of fibroid; 19  fallopian tube 1 [suspected left side from fibroid]; 20  ovary 1; 21  fallopian tube 2; 22  ovary 2). Representative sections. (M-22). (Images are available).
+
+Further tissue:
+(23&amp;amp;24 fragments of soft papillary tan tissue; 25 anterior cervix; 26 posterior cervix; 27&amp;amp;28 possible adenomyosis; 29-32 large whorled lesions). Representative sections. (M-32/BM 9/4/2071 ank)
+
+B. &amp;quot;LEFT SENTINEL NODE&amp;quot;. Two fragments of fatty tissue 7 and 9mm across. No definitive lymph node identified.
+
+(1  tissue all embedded). All embedded.  (2-1/AO 8/2/2071 km)
+
+MICROSCOPIC:  (Dr P Rolston)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+HISTOLOGIC TYPE: Serous carcinoma - see comments below
+
+HISTOLOGIC GRADE:  FIGO grade 3
+
+MYOMETRIAL INVASION: Not definitely identified - see comment below
+
+UTERINE SEROSA INVOLVEMENT:  Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not assessable
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUES:
+Right and left ovaries: Benign serous inclusions
+Right and Left fallopian tubes: Unremarkbale
+
+LYMPHOVASCULAR INVASION: Possible focal.
+
+REGIONAL LYMPH NODES (Specime B - Left Sentinel Node):
+Consists of fatty tissue only - no lymph nodeidentified
+
+ADDITIONAL PATHOLOGIC FINDINGS/COMMENTS:
+1. The tissue was received in multiple pieces that are distorted and this somewhat hinders interpretation.
+2. There is adenomyosis and and intramural adenomyomatous nodule.
+3. There is a leiomyoma.
+4. The tumour has a predominant exophytic papillary/villoglandular morphology. In some areas there is a lower grade cytology however other  areas show higher grade cytology and focal necrosis with up to 18 mitoses per 10hpf. In view of the absent staining for p-53 these appearances are consistent with a diagnosis of high grade serous carcinoma.
+5. Carcinoma focally involves adenomyosis and also involves part of a polyp, however no unequivocal myometrial invasion is identified.
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+Block A15
+MMRP Immunostains: The stains for MLH-1, PMS-2, MSH-2 and MSH-6 each show retained (positive) nuclear staining. This is the normal (wild-type) staining pattern.
+Other: There is diffuse strong positive staining for P-16, patchy staining for WT-1, moderate to strong staining for ER in approximately 40-50%, very focal staining for PgR. P-53 shows absent nuclear staining (this is an abnormal staining pattern). Ki-67 is approximately 60-70%
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IA: No or less than half myometrial invasion
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+pT1a: Tumor limited to endometrium or invading less than half of the myometrium
+pNX: Regional lymph nodes cannot be assessed
+
+DIAGNOSIS:
+A: UTERUS, TUBES AND OVARIES: SEROUS CARCINOMA
+
+B: LEFT SENTINEL NODE: FATTY TISSUE ONLY.
+
+9.7.71
+
+
+
+
+
+SpecimenReceivedDate
+2818-10-23 00:00:00
+
+
+LastName
+Chmela

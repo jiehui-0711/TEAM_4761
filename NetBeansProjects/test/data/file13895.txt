@@ -1,0 +1,33 @@
+SPR no: 49C413037H
+MRN no: 490413
+Site_name: TOTTENHAM HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+73 year old female.  Persistent atypical endometrial cells on pap smear.  Hysterectomy non-diagnostic.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, tubes, and ovaries&amp;quot;, consists of a previously opened uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 60g in total.  The uterus measures 65 x 50 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 26 x 27mm and has an unremarkable surface.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  On sectioning, the endometrium measures less than 1mm in maximum thickness and the myometrium measures 19mm in maximum thickness.  No tumour is identified.  The left ovary, 28 x 17 x 8mm, has an unremarkable cut surface.  The left fallopian tube, 55 x 6 x 5mm, is unremarkable.  The right ovary, 28 x 15 x 8mm, has an unremarkable cut surface.  The right fallopian tube, 55 x 5 x 4mm, is unremarkable.
+Blocks: 1 and 2 - composite mid line LS anterior uterus and cervix; 3 to 7 - LS remaining anterior endometrium; 8 to 10 - composite mid line LS posterior uterus and cervix; 11 to 17 - LS remaining posterior endometrium; 18 - LS complete fimbrial end left fallopian tube and mid TS; 19 - representative left ovary; 20 - LS complete fimbrial end right fallopian tube and mid TS; 21 - representative right ovary; 22 &amp;amp; 23 - LS anterior cervix; 24 &amp;amp; 25- LS posterior cervix.
+(JB/vo 24.10.66)
+
+
+MICROSCOPIC (Reported by Dr M Selzer):
+Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  No lymphovascular invasion is identified.  Carcinoma invades to a depth of 2mm through a wall thickness of 14mm.
+The ectocervix and endocervix show no significant abnormality.  The myometrium shows focal adenomyosis. The fallopian tubes and ovaries show no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block 17):
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS:
+Uterus, tubes and ovaries:
+-   Grade 1 endometrioid adenocarcinoma of the endometrium.
+-   No lymphovascular invasion identified.
+-   Invasion to a depth of 2mm through a wall thickness of 14mm.
+-   Cervix uninvolved.

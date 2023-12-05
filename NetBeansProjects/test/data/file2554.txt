@@ -1,0 +1,62 @@
+SPR no: 04D564450T
+MRN no: 041564
+Site_name: CARITAS CHRISTI HOSPICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report 041564.MNC
+KAWELL, BENTON
+04D56445
+
+Last edited : 2/11/2065		Page: 2
+SUPPLEMENTARY REPORT: CYTOGENETICS (2.11.65)
+
+CLINICAL:
+Liposarcoma.  Left retroperitoneum with L nephrectomy, distal pancreatectomy and splenectomy.  Specimen sampled for cytogenetics (SBH), biobank, and tissue culture.
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Spleen liver sarcoma double stitch deep, medial stitch medial, short stitch superior, long stitch lateral&amp;#8221;, includes the spleen (140 x 90 x 54mm), left kidney (124 x 70 x 49mm), distal pancreas (47 x 40 x 13mm), and left adrenal gland (34 x 25 x 7mm), with intervening tumour (fibroadipose tissue) measuring approximately 150 x 120 x 75mm.  The complete specimen measures approximately 280 x 160 x 85mm.  The deep margin is inked black, superficial/medial margin inked red, and superficial/lateral margin inked blue.  On sectioning, the tumour is difficult to distinguish from the adjacent &amp;#8220;normal&amp;#8221; fibroadipose tissue.  One region of the tumour has a roughly ovoid, circumscribed, more fibrous appearance (65 x 45 x 80mm) and may represent a dedifferentiated component.  This presumed dedifferentiated component is surrounded by fibroadipose tissue which may represent well differentiated tumour and/or &amp;#8220;normal&amp;#8221; fibroadipose tissue.  The well differentiated tumour appears to focally abut the superficial margin and is 60mm from the medial margin.  The tumour does not appear to infiltrate the spleen; the splenic parenchyma appears unremarkable.  The tumour does not appear to infiltrate the left kidney; the renal parenchyma appears unremarkable.  There is an attached segment of ureter measuring 39mm in length with a diameter of 4mm; the ureteric lumen is smooth and unremarkable.  There are attached segments of hilar vessels measuring up to 10mm in length; the renal vein lumen is smooth and unremarkable.  The tumour does not appear to infiltrate the distal pancreas; the pancreatic parenchyma appears unremarkable.  The tumour does not appear to infiltrate the left adrenal gland; the adrenal parenchyma appears unremarkable.  RS.
+Blocks: 1 - representative spleen (most superior aspect of specimen); 2 to 6 &amp;#8211; inferior aspect of spleen, with adjacent fibroadipose tissue (?tumour); 7 &amp;#8211; TS renal hilar vessel margin, and TS ureteric margin; 8 &amp;#8211; representative renal cortex and medulla; 9 and 10 &amp;#8211; representative renal pelvis; 12 and 13 &amp;#8211; TS pancreatic surgical margin (staples removed); 14 and 15 &amp;#8211; distal pancreas with adjacent fibroadipose tissue; 16 &amp;#8211; representative adrenal gland, with adjacent fibroadipose tissue; 17 and 18 &amp;#8211; presumed dedifferentiated tumour (including adjacent presumed well differentiated tumour) with superficial margin; 19 and 20 &amp;#8211; presumed dedifferentiated tumour (including adjacent presumed well differentiated tumour) with lateral margin; 21 and 22 &amp;#8211; presumed dedifferentiated tumour (including adjacent presumed well differentiated tumour) with deep margin; 23 &amp;amp; 24 &amp;#8211; presumed well differentiated tumour (including adjacent presumed well differentiated tumour) with medial margin; 25 and 26 &amp;#8211; representative inferior margin, including LS inferior pole of kidney; 27 and 28 &amp;#8211; representative perirenal fat deep aspect; 29 and 30 &amp;#8211; representative perirenal fat superficial kidney; 31 to 34 &amp;#8211; representative presumed dedifferentiated component of tumour; 35 to 38 &amp;#8211; representative presumed well differentiated component of tumour.
+(TO: JB; JB/ta 13/8/65)
+
+MICROSCOPIC:  (Reported by Dr C Fleckenstein)
+The retroperitoneal tumour is a dedifferentiated liposarcoma. The 80mm ovoid circumscribed lesion consists predominantly of a malignant hypercellular spindle cell tumour consistent with dedifferentiated liposarcoma. A larger, extensive well differentiated liposarcomatous component, consisting of mixed lipoma-like, sclerosing and inflammatory subtypes, infiltrates and replaces the adipose tissue surrounding the tumour mass, the kidney, adrenal gland, pancreas, as well as, adipose tissue at the splenic hilum. In areas, the sclerosing subtype shows moderately severe cytologic atypia. The dedifferentiated liposarcoma appears viable and there is no significant necrosis.
+The renal parenchyma shows patchy nephrosclerosis. The pancreatic parenchyma (and margin) shows features of PAN-IN 1B with patchy chronic pancreatitis. The splenic and adrenal tissue parenchyma shows no significant abnormality.
+MARGINS:
+There is widespread involvement of surgical margins by well differentiated liposarcoma. Well differentiated liposarcoma is also present at the pancreatic margin and perinephric fat margins. The ureteric and renal vascular margins show no diagnostic liposarcoma. Margins are detailed below:
+
+Well differentiated liposarcomatous component:
+Present widely at surgical margins (including sclerosing and lipoma-like subtypes): including superior (4), superficial (17 &amp;amp; 18), lateral (19 &amp;amp; 20), deep (21 &amp;amp; 22) and medial (23 &amp;amp; 24).
+Inferior margin: Clear of well differentiated liposarcoma.
+Dedifferentiated liposarcoma component:
+Superficial margin: 3.3mm (17).
+Deep margin: 5.5mm (21)
+Lateral margin: 10mm (19)
+Superior, inferior and medial margins: Clear (&amp;gt;10mm) (25 &amp;amp; 26)
+Pancreatic margin:
+Well differentiated liposarcoma present.
+Renal vascular margins:
+No evidence of tumour.
+Ureteric margin:
+No evidence of tumour.
+COMMENT:
+The retroperitoneal tumour is a dedifferentiated liposarcoma. There is an extensive well differentiated component, which largely encases the dedifferentiated component, right kidney, adrenal and pancreas, as well as, infiltrates splenic hilar fat. The dedifferentiated component appears clear of margins, while the well differentiated component shows widespread margin involvement (superior, superficial, lateral, deep and medial margins positive). The pancreatic margin shows focal PAN-IN 1B.
+DIAGNOSIS:
+Retroperitoneal tumour: Dedifferentiated liposarcoma (see comment).
+
+
+SUPPLEMENTARY REPORT: CYTOGENETICS (2.11.65)
+Report from BILLINGTON CENTRE, SYDNEY CHILDREN'S HOSPITAL&amp;apos;s Pathology, KAMBALDA:
+Reported by CLIFFORD POTEAT, validated by Dr C Gantzler:
+SUMMARY:
+Abnormal hypodiploid karyotype with large marker chromosome. MDM2 amplification detected by FISH.
+Preparation
+Tumour cell collagenase
+Analysis
+Cells analysed:  4
+Cells counted:  4
+Band Resolution: &amp;lt;300-300
+
+ISM Karyotype:  37-44,XX,- 10,- 13, +mar,inc[cp8]. Nuc ish (MDM2amp, D12Z3x2)/(MDM2amp,D12Z3x2)/(MDM2x2D12Z3x2) (Zytovision)
+Interpretation:
+An abnormal clone was detected.  The karyotype could not be accurately described due to the poor chromosome morphology, however loss of chromosomes 10 and 13 and the presence of a large marker chromosome were detected as clonal changes. FISH for MDM2 showed amplification in a population of cells, which is likely to reflect a HSR present in the marker chromosome.
+These results are consistent with a diagnosis of well differentiated/dedifferentiated liposarcoma.
+Please correlate with other findings

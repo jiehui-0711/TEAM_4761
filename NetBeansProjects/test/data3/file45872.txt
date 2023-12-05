@@ -1,0 +1,48 @@
+SPR no: 55G654056M
+MRN no: 10527251
+Site_name: MACLEAN DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT: MSI MARKERS (8.9.2067)
+Dr P Valade
+
+CLINICAL:
+Grade 1 endometrioid endometrial carcinoma.  Nil evidence extra-uterine disease intra-op.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 71g in total and received partially opened.  The specimen is received with a partial incision along the lateral aspect which focally removes the anterior endometrium from the myometrium and serosa.  The uterus measures 73 x 36 x 23mm and has a shiny serosal surface.  The cervix measures 30 x 23mm and has an unremarkable surface.  On opening there is a vague nodularity within the body and fundus of the uterine cavity predominately on the posterior wall measuring 25 x 20mm located 42mm from the cervix.  The tumour measures up to 6mm deep on a myometrium that measures up to 16mm thick.  Tumour is focally seen on the fundic aspect of the anterior wall.  No other lesions are identified.  The right fallopian tube measures 58 x 5mm with right ovary 25 x 12 x 8mm.  The left fallopian tube measures 54 x 4mm with left ovary 18 x 12 x 8mm.  Both adnexa have a smooth and shiny serosal surface and no lesions are identified.  Blocks: 1 to 3 - full LS through anterior body and cervix including tumour in fundic region; 4 to 6 - full LS through posterior body and cervix including tumour with greatest depth of invasion; 7 &amp;amp; 8 - further sections through tumour with invasion of myometrium; 9 &amp;amp; 10 - right adnexa; 11 &amp;amp; 12 - left adnexa.
+
+B.  Specimen labelled &amp;quot;Right external iliac sentinel lymph node&amp;quot;, consists of a possible lymph node, 8 x 4 x 3mm.  BAE 1 block.
+
+C.  Specimen labelled &amp;quot;Left external iliac sentinel lymph node&amp;quot;, consists of a possible lymph node with attached fat, measuring 20 x 10 x 5mm.  Serially sliced into four sections.   AE 1 block.
+(TO:HG/ta 29/7/66)
+
+
+MICROSCOPIC: (Reported by Dr P Fannon)
+A.  Sections of the uterine tumour show a FIGO Grade 1 endometrioid endometrial adenocarcinoma. The adenocarcinoma consists predominantly of complex, crowded glands with minimal intervening stroma lined by moderately pleomorphic carcinoma cells (FIGO architecture grade 1; nuclear grade 2). The carcinoma infiltrates up to 8mm into a uterine wall up to 12mm thick. There is multifocal lymphovascular space invasion. Adenocarcinoma is 4mm from the uterine serosa. There is no evidence of involvement of the otherwise unremarkable cervix. The fallopian tubes and ovaries show no evidence of malignancy.
+
+B.  Sections of the sentinel lymph node show focal microscopic evidence of metastatic adenocarcinoma on H&amp;amp;E (1/1).
+
+C.  Sections of the sentinel lymph node show no evidence of malignancy by H&amp;amp;E and IHC (0/1).
+Representative slides seen with Dr P Walden.
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, bilateral ovaries and fallopian tubes: Grade 1 endometrioid endometrial adenocarcinoma; infiltrates up to 8mm in depth into a uterine wall 12mm; no evidence of serosal, cervical, tubal or ovarian involvement; multifocal lymphovascular space invasion.
+
+B.  Right external iliac sentinel lymph node: Metastatic adenocarcinoma in one lymph node (1/1).
+
+C.  Left external iliac sentinel lymph node: No evidence of malignancy (0/1).
+
+Markers of microsatellite instability are being performed and a supplementary report will be issued.
+
+
+SUPPLEMENTARY REPORT: MSI MARKERS (8.9.2069)
+Dr P Saurez
+Immunoperoxidase stains for MSI proteins were performed as requested:
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

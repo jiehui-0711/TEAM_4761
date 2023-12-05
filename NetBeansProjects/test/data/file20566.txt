@@ -1,0 +1,111 @@
+SPR no: 43C143263P
+MRN no: 430143
+Site_name: GIPPSLAND SOUTHERN HEALTH SERVICE - LEONGATHA CAMPUS
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report43C14326,43C14326 (43C143263P) GEARLDS, SHIRLY
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GI endometrial adeno CA.
+1. Peritoneal washings for cyto.
+2. Uterus tubes &amp;amp; ovaries.
+3. Left pelvic sentinel node.
+4. Right pelvic sentinel node.
+5. Omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. Consists of an uterus with cervix and bilateral attached adnexa, weighing 98.1g. The uterus measures 70mm superior to inferior, 40mm cornu to cornu, 40mm anterior to posterior. The cervix measures 30x25x8mm, with a centrally placed os, 5mm. The ectocervix is smooth, cream and unremarkable. The serosa of the uterus is pink and shiny, with circumscribed nodule, possibly a subserosal fibroid, measuring up to 3mm in size on the posterior wall. Specimen was opened along the left lateral body prior to fixation. When opened, the uterus shows an endometrial cavity, 45mm, with a ragged lining, both anterior to posterior half over an area, measuring approximately 23x20mm, greater than 30mm from the os. The uterus is sliced from fundus to lower segment into 10 slices, with anterior wall being 17mm thick, posterior wall 20mm thick. The ragged area extends towards the right cornua. Maximal thickness 2mm. The myometrial thickness of 12mm in that location. Multiple fibroids also seen within the anterior and posterior myometrium. All have a circumscribed whorled cut surface and the largest is 12mm in diameter. The right fallopian tube with fimbrial end measures 40mm in length, 6mm in diameter. The right ovary measures 20x15x7mm. The left fallopian tube with fimbrial end measures 50mm in length, 6mm in diameter. The left ovary measures 25x10x7mm. The serosa of both tubes and ovaries are smooth, shiny and unremarkable. Cut surfaces are normal.
+
+(1 anterior cervix; 2 posterior cervix; 3 Slice 2, fundus with fibroid; 4 possible cornual side, right cornua, Slice 3; 5&amp;amp;6 Slice 4, lumpy area, right cornua; 7 Slice 3, left cornua, macroscopically normal; 8&amp;amp;9 Slice 5, posterior wall, with two fibroids and ragged endometrium; 10 Slice 5, anterior; 11&amp;amp;12 anterior and posterior body, Slice 6; 13&amp;amp;14 lower uterine segment, macroscopically normal; 15 right fallopian tube, fimbrial end, one transverse section; 16 right ovary and parametrium; 17 left fallopian tube, fimbrial end and one transverse section; 18 left ovary and parametrium). RS (M-18 [please see block diagram])
+
+B. &amp;quot;RIGHT SENTINEL NODE PELVIC&amp;quot;. Consists of two pieces of fatty tissue, both 10mm in size, containing no obvious lymph nodes. AE (2-1)
+
+C. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Consists of multiple pieces of fatty tissue, 20x10x3mm in aggregate, containing two possible lymph nodes, 3mm each.
+
+(1 two lymph nodes; 2 rest of specimen). AE (M-2)
+
+D. &amp;quot;OMENTAL BIOPSY&amp;quot;. Consists of a haemorrhagic piece of fatty tissue, 30x15x7mm. Cut surface is unremarkable. AE (2-2/JC 11/8/2067 cy)
+
+MICROSCOPIC:   (Dr L Holec)
+A. Histology shows an endometrial adenocarcinoma with a villoglandular architecture with columnar cells which in places shows prominent hobnailing with some clear cells and increasing nuclear grade (2 to focal 3). On morphology the tumour shows some overlap between endometrioid and serous adenocarcinoma. Immunostains show focal patchy staining for p53 (ie wild type pattern), patchy p16, weak focal ER (5% 1+), focal minor staining for AMACR and negativity for WT1, p63. Ki67 is approximately 70%. Mismatch repair proteins are normal. This pattern of staining is more in-keeping with an endometrioid adenocarcinoma but due to the slightly ambiguous morphological appearances the tumour is best considered endometrial adenocarcinoma, NOS. Whilst there is minimal myometrial invasion, there are several foci of lymphatic vascular invasion in the immediately adjacent superficial myometrium. No malignancy is seen in 5 sentinel nodes (including IHC) and the omental biopsy is negative. However the peritoneal washings (reported separately 43C14326) contain numerous groups of malignant cells with similar morphology with numerous psammoma bodies present.
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrial adenocarcinoma, NOS
+
+FIGO grade:  2
+
+(architecture grade: 1 , nuclear grade: 2-focal 3 )
+
+Myometrial invasion: Very focally present
+
+Depth of myometrial invasion:   0.5mm
+
+Myometrial thickness:   15mm
+
+% of myometrium invaded:   1.6%
+
+Focality:  Unifocal
+
+Tumour involves:  Fundus
+
+Vascular/lymphatic invasion:  Present, several foci identified
+
+Involvement of cervix:  Not present
+
+Involvement of uterine serosa:  Not present
+
+Excision margins:  Clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic
+Polyps:  Not identified
+Adenomyosis:  Minor focal
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+
+Lymph nodes:
+Nodes involved:  0
+Total number:   5 (2 right pelvic and 3 left pelvic)
+
+Other tissues:  The omental biopsy shows unremarkable fatty omental tissue with no evidence of malignancy.  Several uterine leiomyomas are present with no atypical features.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1a  pN0  pMx
+
+FIGO stage:  IA
+
+
+Immunostains for MSI proteins (block: A10)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+
+DIAGNOSIS:
+A.  UTERUS BILATERAL TUBES AND OVARIES -
+- ENDOMETRIAL ADENOCARCINOMA NOS, GRADE 2, WITH LYMPHATIC VASCULAR INVASION, FIGO STAGE IA, MARGINS CLEAR (PLEASE SEE TEXT).
+
+B.  RIGHT SENTINEL NODE PELVIC -  NO EVIDENCE OF MALIGNANCY IN 2 NODES
+
+C.  LEFT PELVIC SENTINEL NODE -   NO EVIDENCE OF MALIGNANCY IN 3 NODES
+
+D.  OMENTAL BIOPSY -  NO EVIDENCE OF MALIGNANCY
+
+12/8/2067 nh

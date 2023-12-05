@@ -1,0 +1,61 @@
+SPR no: 83Y213778Y
+MRN no: 839213
+Site_name: LOGAN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report83Y21377,83Y21377 (83Y213778Y) VALDERAMO, CRUZ Barton
+HISTOPATHOLOGY REPORT
+HAWKER MEMORIAL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GII endometrioid adenoCa.
+1. Peritoneal washings for Cyto
+Histo:
+2. Uterus tubes and ovaries
+3. Right sentinel pelvic nodes.
+4. Left sentinel pelvic nodes.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. Consists of a radical hysterectomy and bilateral salpingoophorectomy specimen received partially opened weighing 150g. The uterus and cervix measures 80x50x35mm with a smooth serosal surface with two possible subserosal nodules 5 and 7mm. The cervix measures 35x35mm with a 10mm normal appearing slit-like os. The fimbriated right fallopian tube measures 60mm in length and up to 5mm in width with a 25mm simple clear fimbriated cyst attached. The right ovary measures 25x15x5mm. The left fimbriated fallopian tube measures 60mm and is up to 5mm in width. There is a 12mm clear simple parafimbrial cyst. The left ovary measures 30x20x7mm. The anterior margin is inked blue, posterior - black. Specimen is cut into six parasagittal sections from right to left. The cut surface reveals  endomyometrium that is up to 10mm in maximal thickness posteriorly. There is a predominantly exophytic poorly fixed lesion measuring up to 40mm x 20mm in the posterior body that may be superficially invasive of the myometrium [photograph and block diagram are created].
+(1 right parametrial shave; 2 left parametrial shave; 3 and 4 right fallopian tube and ovary, fimbriated end all embedded; 5 and 6 left fallopian tube and ovary, fimbriated end all embedded; 7 and 8 tumour and lower uterine segment from Slice 3; 9-17 entire Slice 4; 18,19 and 20 transverse sections of tumour edge to left parametrium).Further blocks 21-22 anterior cervix and lower uterine segment; 23 posterior cervix. Representative sections (M-23)
+B. &amp;quot;RIGHT SENTINEL NODE&amp;quot;. Consists of fatty tissue 20x15x3mm with a possible 2mm lymph node. All embedded. (M-1)
+C. &amp;quot;LEFT SENTINEL NODE&amp;quot;. Consists of multiple fragments of fibrofatty tissue 25x20x3mm in aggregate with a possible 3mm lymph node. All embedded. (M-1/MY 17/10/2070 cy)
+MICROSCOPIC: (Dr. W. Peth)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE: Fundus and body
+TUMOR SIZE: 40mm greatest macroscopic dimension
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+HISTOLOGIC GRADE:  FIGO grade 2
+MYOMETRIAL INVASION: Present
+Depth of invasion: 4mm (Block A14)
+Myometrial thickness: 12mm
+UTERINE SEROSA INVOLVEMENT:  Not identified
+LOWER UTERINE SEGMENT INVOLVEMENT:  Not identified
+CERVICAL STROMAL INVOLVEMENT: Present - cervical stromal invasion (Block A21)
+OTHER TISSUES:
+Right and Left ovaries: Benign serous inclusions.
+Right and Left fallopian tubes: Unremarkable.
+Parametrium: Unremarkable.
+LYMPHOVASCULAR INVASION: Not identified
+SENTINEL LYMPH NODES:
+Specimen B - Right Sentinel Node; and Specimen C - Left Sentinel Node
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0 (AE1/AE3 are negative)
+Number of sentinel lymph nodes examined: 2 (one node each specimens B&amp;amp;C)
+Extra-nodal spread: Not applicable
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Performed previously on endometrial biopsy at Seals Pathology (See DAY SURGERY UNIT Report 83921-37SV).
+Other: Block for biobank/further testing if required (A14)
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): II: Tumor invades cervical stroma, but does not extend beyond the uterus
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+pT2: Tumor invading the stromal connective tissue of the cervix but not extending beyond the uterus.
+pN0 (sn): No regional lymph node metastasis
+
+DIAGNOSIS:
+A: UTERUS, TUBES AND OVARIES: ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA (GRADE 2).
+B: RIGHT SENTINEL NODE: NEGATIVE FOR MALIGNANCY.
+C: LEFT SENTINEL NODE: NEGATIVE FOR MALIGNANCY.
+16.7.2070

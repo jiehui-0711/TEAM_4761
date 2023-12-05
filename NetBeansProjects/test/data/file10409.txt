@@ -1,0 +1,55 @@
+SPR no: 18P555684H
+MRN no: 1855556
+Site_name: NYNGAN MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 1855556.WKH
+PUTTY, PALMER
+18P55568
+
+Last edited : 5/5/2066		Page: 2
+CLINICAL:
+Palpable left breast lump.  Left mastectomy and SLN in biopsy.  Pre-operative lymphocyntigrophy SLN localization.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Sentinel node left breast&amp;quot;, consists of a piece of fibrofatty tissue measuring 30 x 20 x 10mm containing a lymph node 15mm  in maximum dimension.  The lymph node is AE 2 blocks.
+B.  Specimen labelled &amp;quot;Sentinel node 2 left breast&amp;quot;, consists of a piece of fibrofatty tissue measuring 10 x 10 x 5mm containing a lymph node 8mm in maximum dimension.  The lymph node is AE 1 block.
+C.  Specimen labelled &amp;quot;Left breast&amp;quot;, consists of a breast measuring 195 x 175 x 40mm.  There is an ellipse of overlying skin measuring 170 x 115mm.  The nipple areola complex at the centre is unremarkable.  The superficial surface is inked blue and the deep surface is inked black.  The orientation is checked with Dr Brisley and the tumour is lateral.  On sectioning there are two separate lesions present.  The main tumour is located 2 to 3 o&amp;apos;clock approximately 25mm from the nipple.  The tumour measures 35 x 28 x 25mm and the margins are as follows; 100mm &amp;#8211; superior, 50mm &amp;#8211; inferior, 10mm &amp;#8211; deep, 40mm &amp;#8211; superficial, 60mm &amp;#8211; lateral and approximately 110mm &amp;#8211; medial.  The second lesion is located at 4 o&amp;apos;clock 30mm from the nipple and is approximately 15mm from the main tumour.  The second lesion measures 10 x 10 x 10mm and has a haemorrhagic cut surface.  The margins are as follows; 105mm &amp;#8211; superior, 60mm &amp;#8211; inferior, 50mm &amp;#8211; deep, 50mm &amp;#8211; to the skin and 55mm &amp;#8211; closest superficial margin, 60mm &amp;#8211; lateral, and approximately 120mm &amp;#8211; medial.  The rest of the tissue is fibrofatty.  No lymph nodes are found at the lateral end of specimen.
+Blocks: 1 &amp;#8211; nipple areola complex; 2 &amp;#8211; tissue deep to nipple; 3 &amp;#8211; main tumour; 4 &amp;#8211; main tumour and deep margin; 5 &amp;#8211; lateral to tumour; 6 &amp;amp; 7 &amp;#8211; medial to tumour; 8 &amp;#8211; second lesion; 9 &amp;amp; 10 &amp;#8211; second lesion and skin; 11 &amp;#8211; upper outer quadrant; 12 &amp;#8211; upper inner quadrant; 13 &amp;#8211; lower inner quadrant; 14 &amp;#8211; lower outer quadrant.
+Please see diagram.   (JL/ta 25/4/66)
+MICROSCOPIC (Reported by Dr C Delong):
+A to C.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  35mm
+Grade (Modified Bloom &amp;amp; Richardson):  3
+Tubules: 3     Nuclei: 3     Mitoses: 2     Mitotic rate: 10/10hpf.
+Lymphovascular invasion:  Present
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  50mm
+Nuclear grade:  High
+Architecture:  Comedo and cribriform
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  Less than 10%
+DCIS in adjacent tissue:  Present
+Excision Margins:
+Invasive component:  The invasive carcinoma is 12mm to the deep margin (block C4) and is well clear of the other margins.
+In-situ component:  The DCIS is 14mm to the deep margin (block C4) and is well clear of the other margins.
+Receptors (Block C3):
+ER:  Positive
+95% of nuclei stained
+predominant intensity of staining:
+PR:  Positive
+75% of nuclei stained
+predominant intensity of staining:  moderate
+HER2 (Novocastra 10A7):  Equivocal (2+ staining)
+HER SISH:  Performed at Laverty Pathology, PEAK HILL HEALTH SERVICE Hospital, see separate report.
+Ki-67 index:  10%
+Nipple:  Unremarkable
+LCIS / ALH:  Absent
+Miscellaneous:
+The tumour cells are positive for E-cadherin, in keeping with ductal carcinoma.
+The macroscopically identified second lesion is a haematoma surrounded by fibrous and fat necrosis, in keeping with previous surgery/biopsy.

@@ -1,0 +1,69 @@
+Episode No:  92I617040C
+9236170.MAC
+
+BOLLOM, FINN 
+Lab No:  92I61704
+Panton
+BUNBURY  Northern Territory  2199
+Specimen: Tissue
+D.O.B:  17/3/2020
+Sex:  F
+Collected: 15/10/2063 at :
+Location:  WEST-CASINO AND DISTRICT MEMORIAL HOSPITAL
+DR MEL BOYD EDMUNDS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast re-excision.  Margins:  Medial - loop suture, lateral- single loop suture, deep - double suture. 
+MACROSCOPIC:
+Specimen labelled "Left breast lesion re-excision margins", consists of a piece of breast tissue with three marking stitches measuring 70mm (lateral to medial) x 65mm (superficial to deep) x 20mm (superior to inferior). There is a 65 x 16mm skin ellipse on the superficial aspect.  There is linear scar on the skin surface.  There is a 50 x 40 x 10mm cavity within the inferior surface.  The margins are inked in three colours.  Inferior black, superior blue and deep green. The cavity is left un-inked. The specimen is serially sliced.  No indurated nodules are seen.  
+Blocks 1-5 - slice 1 (lateral margin); 6-10 - slice 2; 11-15 - slice 3; 16-20 - slice 4; 21-25 - slice 5; 26-32 - slice 6; 33-39 - slice 7; 40-45 - slice 8; 46-51 - slice 9; 52-59 - slice 10.  Please see diagram.  (TO: IQ;CE/ec 16.10.63) 
+MICROSCOPIC: (Reported by Dr Z Talamantes) 
+
+Invasive carcinoma:
+Site:  Left breast, re-excision
+Type: Invasive ductal carcinoma, NST
+Invasive tumour size: 4 deposits, 2 to 3mm in size over a 60mm area
+Grade: 1  (Modified Bloom & Richardson)       
+Tubules: 1   Nuclei:  2   Mitoses:  1   Mitotic rate: 1/10hpf.
+Lymphovascular invasion: absent
+	    
+
+DCIS component:  
+Maximum extent of DCIS: 70mm
+Nuclear grade:   intermediate
+Architecture: solid, cribriform, micropapillary
+Necrosis:   present
+Calcification:   present
+Degree of DCIS in tumour:   none
+DCIS in adjacent tissue:   widespread
+Excision Margins:  
+Invasive component:
+ Inferior: 2mm (no intervening normal ducts, 35)
+ Superior and medial: 8mm
+ Other margins: > 10mm
+In-situ component:
+ Superior: positive (17)
+ Inferior: 0.2mm (no intervening normal ducts, 25)
+ Medial: 0.4mm (no intervening normal ducts, 58)
+ Lateral: 0.5mm (no intervening normal ducts, 4)
+ Other margins: > 10mm
+Receptors: 
+ER:   positive
+	90 % of nuclei stained
+	predominant intensity of staining:  strong
+PR:positive
+	90 % of nuclei stained
+	predominant intensity of staining:  strong
+HER2 (Novocastra 10A7):  0
+Ki67 index: 5 to 10%
+LCIS / ALH:   Absent
+Miscellaneous:
+A surgical cavity lined by granulation tissue is present.
+DIAGNOSIS:
+Re-excision left breast:
+	Surgical cavity with 4 deposits of invasive ductal carcinoma NST, grade 1, 2 to 3mm in size, over a 60mm area, ER positive, PR positive, HER2 0, Ki67 5 to 10%, 2mm inferior margin, 8mm superior and medial margins, other margins >10mm
+	HER2 SISH to follow in a separate report
+	70mm intermediate grade DCIS, positive superior margin, 0.2mm inferior margin, 0.4mm medial margin, 0.5mm lateral margin, other margins > 10mm
+
+ 
+

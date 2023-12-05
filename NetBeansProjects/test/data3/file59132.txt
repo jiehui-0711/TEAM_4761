@@ -1,0 +1,63 @@
+SPR no: 54Y323443Y
+MRN no: 5493234
+Site_name: MOUNT MORGAN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Laparotomy for sigmoid perforation.  Distal sigmoid colon resection.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Distal sigmoid&amp;quot;, consists of a segment of bowel measuring 90mm in length and a diameter up to 33mm.  The attached pericolic fat measures up to 30mm in maximum width.  The serosal surface and the pericolic fat is covered by haemorrhage and fibrinopurulent exudate. One margin inked blue and the opposite margin is inked black.  A perforation is identified in mid portion of the specimen. The bowel wall thickness is thickened and measures up to 13mm in maximum thickness.  The mucosal surface appears friable over the perforation site.   Blocks: 1 and 2- LS of one margin; 3 and 4 - LS of opposite margins; 5 to 8 - composite sections of TS of perforation site (blocks 6 and 7 contain perforation site); 9 to 12 - a second TS of perforation site (block 10 and 11 contains perforation site); 13 - one lymph node bisected; 14 and 15 - lymph node as seen; 16 to 19 - further representative sections of TS bowel adjacent to perforation site; 20 to 25 - representative sections of pericolic fat.   (TO:JT/vo 30/1/71)
+
+
+MICROSCOPIC (Reported by Dr N Bonnifield):
+Sections show a moderately differentiated adenocarcinoma. A synoptic report follows:
+
+Type: Adenocarcinoma NOS.
+
+Differentiation by predominant area: Moderate/Poor.
+
+Local invasion: T4a - Tumour penetrates the surface of the visceral peritoneum (Block 17).
+
+Tumour involvement of margins
+Cut ends: Not involved.
+Non-peritonealised circumferential margin: Not involved.
+
+Lymph nodes: N0 - No regional LN metastasis.
+Number of lymph nodes present: 8.
+Number of lymph nodes involved: 0.
+Comment: The small amount of pericolic fat has been extensively sampled for lymph nodes.
+
+Lymphovascular invasion: Absent.
+
+Perineural invasion: Present (Block 6).
+
+Histologically confirmed distant metastases: Mx - Cannot be assessed histologically.
+
+Background abnormalities/other comments: Reactive hyperplastic changes at the margins.
+
+Residual tumour status: R0 - No residual tumour.
+
+Response to neoadjuvant therapy: Not applicable.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining.
+PMS2		Preserved nuclear staining.
+MSH2		Preserved nuclear staining.
+MSH6		Preserved nuclear staining.
+
+Comment: Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+BRAF V600E immunohistochemistry: Not performed.
+
+Summary &amp;#8211; AJCC 8th Edition:  pT4a  N0  Mx  R0.
+
+
+DIAGNOSIS:
+Distal sigmoid colon
+- Moderately differentiated adenocarcinoma (pT4a, N0, Mx, R0) with perforation
+ADDENDUM (Dr N Mcgeever on 19/2/68):
+The case has been reviewed in conjunction with Dr N Goar after the MDT meeting.
+1. Bowel wall perforation is seen through the tumour which shows continuous invasion to the visceral peritoneum (pT4a).
+2. The uninvolved colonic mucosa shows chronic architectural changes without significant active inflammation. Inflammatory bowel disease cannot be entirely excluded. Correlation with the rest of the colonic mucosa away from the tumour is recommended. Similar morphological changes can also be seen in diverticular disease.

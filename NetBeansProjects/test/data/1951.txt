@@ -1,0 +1,63 @@
+
+Episode No:  13K1907505
+1341907.OCO
+
+Stachnik, Felix 
+Lab No:  13K19075
+Lower Bridge
+GOSFORD  Queensland  2159
+Specimen: Tissue
+D.O.B:  27/12/1986
+Sex:  M
+Collected: 19/08/2014 at 18:00
+Location:  MOLECULAR AND CLINICAL GENETICS/ TISSUE PATHOLOGY & DIAGNOSTIC ONCOLOGY-GEORGE TOWN HOSPITAL AND COMMUNITY CENTRE
+PRO Elden Dewayne LEDET
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (1) ATTACHED 5/11/64 MMRP IHC
+HISTORY:
+Pseudomyxoma, peritonei. Colon small bowel, omentum, spleen, peritoneum. 
+Previous:
+DJK 1907-50OZ omental biopsy, from 1/3/2064, reviewed previously.
+MACROSCOPIC:
+'PERITONEAL TUMOUR, SPLEEN, OMENTUM, RIGHT COLON'.
+Spleen - a spleen measuring up to 95x70x40mm and weighing 50g. The capsular surface has a rough appearance. Onsectioning the parenchyma is unremarkable. 
+(1and2 representative spleen with capsule).
+Right colon - a portion of colon measuring up to 280mm in length and 30mm in diameter. There is an appendix attached at the caecalarea measuring 80mm in length and up to 30mm in maximum diameter at the tip which is replaced by a gelatinous mass. The mesenteric fat and serosal surface of the bowel is rough and shows multiple glistening tumour deposits. The specimen includes 50mm of caecum and the remainder is terminal ileum. The mucosa is unremarkable.  (3 TS appendix and mesoappendix; 4and5 LS appendix tip; 6 tumour appendix tip mass; 7 LS resection margins; 8-10 serosal surface adhesion ?tumourdeposits; 11-15 possible nodes [11 three possible nodes, 12 three possible nodes, 13 two possible nodes, 14and15 fat with possible nodes]).
+Colon - a portion of colon 450mm in length and up to 40mm in diameter. There is mesentery attached along the length. The serosal surface has multiple shiny ?tumour deposits ?adhesions along the length. On opening there is a polyp measuring up to 5mm in maximum extent which is located 30mm from the blue inked resection margin.  (16 polyp; 17 LS resection margins; 18-22 mesenteric and serosal ?tumour deposits ?adhesions).
+Peritoneum and omentum - Multiple pieces of omentum and peritoneum measuring in aggregate 150x150x150mm. There are multiple diffuse areas of gelatinous tumour involving majority of the tissue. The largest mass measures up to 200mm in maximal extent.  (23-25 representative sections). RS (M-25/KF/ht).
+Further: 26-30 omental/peritoneal mucin mass; 31 appendixtip; LV
+- MICROSCOPIC -
+The appendix shows a low grade mucinous neoplasm, with extension of mucin and neoplastic mucinous epithelium through the appendix wall with an area of rupture. There is involvement of the peritoneal surface of the appendix by low grade mucinous neoplasm.  The appendix does not show invasive carcinoma.
+The sampled peritoneal deposits show disseminated peritoneal low grade mucinous neoplasm of similar appearance to the appendix lesion.
+Features of peritoneal mucin deposits:
+- Cytologic grade: low grade 
+- Tumor cellularity: low 
+- Destructive invasion: Absent 
+- Signet ring cells: Absent 
+- Angiolymphatic invasion: Absent 
+- Perineural invasion: Absent 
+- Organs involved: Small and large bowel surface, appendix surface, peritoneum , omentum.
+- A few sampled mesenteric lymph nodes are negative for tumour (0/4).
+Ancillary studies/representative blocks:
+Immunostains:  4
+Reserve tissue: 30
+Immunostains (block 4):
+The appendix mucinous neoplasm epithelial lining and the surface peritoneal mucinous tumour shows positive staining for keratins CK7 and CK20, and is CDX2 positive (expected staining). The previous omental biopsy was reported as CK20 negative which appears to be an aberrant result or could be a sampling problem.
+Other findings:
+The colon shows an incidental low grade tubular adenoma x1.
+Comment:
+The peritoneal mucinous disease in this case is classified as disseminated low grade mucinous neoplasm (AJCC Grade G1), also termed well differentiated mucinous by AJCC, and equivalent to disseminated peritoneal adenomucinosis (DPAM, Ronnett).
+- DIAGNOSIS -
+PERITONECTOMY (REMOVAL OF PERITONEAL TUMOUR, SPLEEN, OMENTUM, RIGHT COLON, APPENDIX):
+- Appendix: grade appendiceal mucinous neoplasm (LAMN), ruptured; 
+- Peritoneal mucin deposits: 
+Peritoneal disseminated low grade mucinous neoplasm, AJCC grade 1 (equivalent to DPAM, Ronnett, or low grade PMP) of appendiceal mucinousneoplasm origin.
+24/10/64, D Mcbryar.  
+- - - -
+Supplementary report: (1)
+Immunostains for DNAMismatch Repair (MMR) proteins, (block: 4), appendix:
+MLH1, PMS2, MSH2 and MSH6:  Normal nuclear staining (intact expression)
+Comment:
+Immunohistochemistry of cancer tissues for mismatch repairproteins is a surrogate marker for MSI status, with an absence of one or more of the mismatch repair proteins considered an abnormal result. Intact expression of all four proteins in the above Immunostains indicates that MMR enzymes tested are intact.
+5/11/64, D Heckert.  
+

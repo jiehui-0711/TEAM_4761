@@ -1,0 +1,71 @@
+Episode No:  21I688485Q
+2136884.VNQ
+
+BUENVIAJE, Adrian-BOBBIE 
+Lab No:  21I68848
+Harrishof
+WERRIBEE  Queensland  5356
+Specimen: Tissue
+D.O.B:  12/9/2017
+Sex:  F
+Collected: 27/10/2065 at :
+Location:  Seals - PEMBERTON HOSPITAL
+DR Albert CESAR STRUBE
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast wide local excision and sentinel node biopsy axilla.  Stitch short superior, medium medial, long lateral.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node" consists of two pieces of lymph node and attached fatty tissue measuring 40 x 25 x 10mm and 10 x 7 x 6mm.  There is apale area in the larger lymph node 2mm in maximum dimension (?metastasis).  
+Blocks: 1 - one lymph node; 2 to 4 - one lymph node.  
+B.  Specimen labelled "Left breast lesion" consists of a piece of breast tissue with three marking stitches measuring 55mm (lateral to medial) x 30mm (superior to inferior) x 55mm (superficial todeep).  There is a 50 x 7mm skin ellipse on the superficial aspect.  There are no lesions on the skin surface.  The margins are inked in three colours, superior - blue, inferior - red, and deep - black.  Specimen is serially sectioned into eight slices from lateral to medial.  Extending from slice three to slicefive there is an ill defined pale solid tumour measuring 15 x 12 x 12mm.  The tumour is 22mm from superficial, 10mm from superior, 6mm from inferior, 17mm from deep, 12mm from lateral and 18mm from medial margins.  
+Blocks: 1 to 3 - slice one (lateral); 4 to 6 - slice two; 7 to 9 - slice three (8 - reserve block); 10 to 12 - slice four; 13 to 15 - slice five; 16 to 18 - slice six; 19 & 20 - slice seven; 21 to 23 - slice eight (medial).  AE.  Please see diagram.
+(OC/ta 28/10/65) 
+MICROSCOPIC (Reported by Dr H Dellen):
+A & B.  Sections show invasive ductal carcinoma of the breast.  The features are as follows:
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma
+Invasive tumour size:  20mm (spanning 4 slices)
+Grade (Modified Bloom & Richardson):  2
+Tubules:  3   Nuclei:  2   Mitoses:  2   Mitotic rate:  12/10hpf.
+Lymphovascular invasion:  Present
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  25mm
+Nuclear grade:  High
+Architecture:  Solid and cribriform
+Necrosis:   Present
+Calcification:  Present
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Moderate
+Excision Margins:
+Invasive component: Less than 0.1mm from superior, 4mm from inferior, 8mm from superficial, well clear of other margins
+In-situ component:  5mmfrom superior, well clear of other margins
+Receptors (Block B11):
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	100% of nuclei stained
+	predominant intensity ofstaining:  Strong
+HER2 (Novocastra 10A7):  Negative (score 0)
+HER2 SISH:  Performed at Clorox Company, REDCLIFFE HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 30%
+Nipple:  Not applicable
+LCIS / ALH:  Absent
+Miscellaneous:  Extensive sclerosing adenosis with focal apocrine change
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel lymph nodes involved by tumour:  2
+Number of sentinel nodes with metastases >2.0mm:  1
+Number of sentinel nodes with metastases <2.0mm:  1
+	Detected by:  Routine stains
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0
+Extranodal spread:  Absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)):  2
+

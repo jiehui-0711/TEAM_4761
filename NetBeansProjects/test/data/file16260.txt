@@ -1,0 +1,87 @@
+SPR no: 59Q677906F
+MRN no: 59667790
+Site_name: GORDONVALE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (1.7.66)
+
+
+CLINICAL:
+Right hemicolectomy.  Caecal cancer.  No perforation, no evidence of mets.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Right hemicolectomy&amp;#8220;, consists of a previously opened right hemicolectomy including large bowel (90mm length by 70mm circumference), terminal ileum (50mm length by 48mm circumference), appendix (55mm length by 7mm diameter), and pericolic adipose tissue (up to 110mm in width). There is a centrally ulcerated tumour with raised edges within the caecum, involving the ileocaecal junction. The tumour is circumferential and measures 42mm in length. The tumour is 50mm from the distal margin and 40mm from the proximal margin.  There is a sessile polyp, 12mm in maximum dimension, situated 10mm distal to the tumour; the remaining bowel mucosa appears unremarkable. The stapled surgical margins are inked blue. The tumour appears to extend to a depth of 22mm into the subcutaneous tissue.  The tumour is well clear of the vascular apical margin.  Focally at the deep aspect of the tumour is a gelatinous area, 22 x 16 x 20mm, ? tumour.  Block - LS proximal margin; 2- LS distal margin; 3-5 - LS tumour involving ileocaecal valve; 6-9 - representative LS caecal tumour; 10 &amp;amp; 11 - composite LS including tumour and underlying gelatinous area (10- superficial; 11- deep); 12 - LS tumour and adjacent uninvolved mucosa (MSI); 13 - LS complete polyp; 14 - LS representative uninvolved mucosa; 15 - LS appendiceal tip, and mid TS; 16 - apical margin, apical lymph nodes as seen; 17 - single apical lymph node, bisected; 18-23 - lymph nodes as seen.    (TO:  JB/ec  23.12.66)
+
+
+MICROSCOPIC (Reported by Dr N Spano):
+Sections show an invasive adenocarcinoma with the following features:
+
+Macroscopic Description
+Site of tumour:  Proximal caecum involving ileocaecal valve.
+Maximum tumour diameter:  42mm
+Distance of tumour to nearer cut end:  40mm (proximal)
+Tumour perforation:  No
+
+Microscopic Description
+Type:   Adenocarcinoma with mucinous differentiation.
+
+The tumour is composed of tubular and complex glandular structures as well as a component showing mucinous differentiation, the latter composed of strips of columnar mucinous cells or individual cells including signet ring cells within extracellular mucin. A minor component of tumour is poorly differentiated with poor gland formation. The mucinous component comprises less than 50% of the tumour.
+
+Differentiation by predominant area
+Moderate.
+
+Foci of poorly differentiated carcinoma is also present.
+
+Local invasion
+pT3	Beyond muscularis propria (eg block 7).
+
+Tumour involvement of margins
+Cut ends: Not involved
+Mesenteric margin: Not involved
+
+Lymph nodes
+Number of lymph nodes present: 15
+Number of lymph nodes involved: 3, including two circumscribed deposit of mucinous carcinoma with no residual lymph node architecture, classified as a satellite deposits.
+Apical lymph node:  Not involved.
+
+pN1b	Metastases in 2-3 regional LN
+
+Lymphovascular invasion
+Present - extensive mucosal and submucosal.
+
+Perineural invasion
+Not seen.
+
+Histologically confirmed distant metastases
+pM0	No distant metastasis
+
+Background abnormalities/other comments
+Tubular adenoma with moderate dysplasia x1.
+
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status
+To follow
+
+Stage TNM 7th Edition (2010)
+pT3     pN1b     pM0     R0
+
+DIAGNOSIS:
+Right hemicolectomy:
+-  Moderately differentiated invasive adenocarcinoma with mucinous features with caecum, lymphovascular invasion present, margins clear, three of fifteen lymph nodes containing metastatic adenocarcinoma, stage pT3 N1b M0 R0.
+-  Supplementary report with MSI immunohistochemistry to follow.
+SUPPLEMENTARY REPORT (1.7.66) (Reported by Dr N Delcid)
+
+Immunohistochemistry:
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		loss of nuclear staining (including in repeat stain performed at WEST COAST DISTRICT HOSPITAL Hospital)
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

@@ -1,0 +1,33 @@
+SPR no: 42C067746H
+MRN no: 42006774
+Site_name: QUILPIE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+72 year old female.  Previous resection for rectal adenocarcinoma.  Multiple metastasis - lesions disappeared following chemotherapy.  Most recent imaging demonstrated single lesser sac FDG avid mass which was resected today.  ?Coeliac node.  Cholecystectomy.  Long suture on pancreatic margin.
+Additional information obtained:  Previous pathology (42-CC-67-7462989) - Poorly differentiated adenocarcinoma of the rectum.  Recent FNA stomach - Sydpath (C-17-10792) - Poorly differentiated carcinoma with neuroendocrine features.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Coeliac node pancreas margin&amp;quot;, consists of an irregular piece of tan tissue with attached fat, 57 x 52 x 38mm.  There is a suture and a roughened area measuring 34 x 30mm, which is inked blue.  The remaining outer aspect is coated in a smooth and shiny peritoneum.  On sectioning there is a mostly well circumscribed nodule with a heterogenous cut surface with areas of haemorrhage and possible necrosis.  Towards the pancreatic/roughened resection margin the capsule appears disrupted with possible lesional tissue extending outside the capsule towards the pancreatic resection margin.
+Blocks: 1 to 4 - two composite sections full face through nodule with adjacent resection margin; 5 - further margin with possible extra capsular spread.
+
+B.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of an unopened gallbladder measuring 70 x 42mm.  The serosal surface is smooth and shiny.  The wall measures 2 to 3mm thick and the mucosa is dark green and velvety.  No mucosal lesions are identified.  Within the lumen there is bile sludge but no gallstones are identified.  Towards the fundus there is a firm subserosal nodule measuring 5mm in maximal diameter.  The cut surface has a haemorrhagic appearance.
+Blocks: 1 - cystic duct margin; 2 - fundus with subserosal nodule; 3 - neck and body.
+(TO:AP/ta 7/9/66)
+
+
+MICROSCOPIC (Reported by Dr L Himenez):
+A.  Sections show a 25mm deposit of tumour most probably replacing a lymph node.  The tumour is composed of nests and sheets of cells with extensive areas of necrosis.  The tumour cells have a moderate amount of eosinophilic cytoplasm with discrete cell borders.  No definite glandular formation is seen and the DiPAS stain is negative.  The tumour cells show focal nuclear moulding, coarse chromatin and occasional nucleoli.  Abundant mitotic figures are present.  The tumour cells show strong positive staining with cam5.2 with a focal paranuclear dot pattern.  The CK7, CD56, TTF-1 and synaptophysin stains are also positive.  There is focal staining with chromogranin and CK20.  The CDX2, GATA3, Napsin, PAX8 and HER2 stains are negative.  The morphological appearance and immunohistochemical profile are consistent with large cell (grade 3) neuroendocrine carcinoma.  The Ki-67 index is approximately 90%.  Tumour focally extends into adjacent fibroadipose tissue and displaces adjacent pancreatic tissue.  Tumour comes to within 0.3mm of the sutured resection margin in the region of the attached pancreas.  The remainder of the specimen appears to be covered in mesothelium which is not breeched by tumour.  Seven (7) additional lymph nodes are identified which show no evidence of malignancy.
+
+Comment:  The current tumour has a somewhat similar morphology to the previously resected poorly differentiated adenocarcinoma of the rectum however, metastatic neuroendocrine carcinoma from other sites may need to be considered.
+
+B.  Sections of the gallbladder show mild thickening of the muscle wall together with adenomyosis containing an entrapped gallstone.  There is no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+A.  Coeliac node pancreas margin:
+- Metastatic large cell (grade 3) neuroendocrine carcinoma (see comment).
+- Close pancreatic resection margin.
+- Further seven benign lymph nodes.
+B.  Gallbladder:
+- Adenomyosis
+- Cholelithiasis.

@@ -1,0 +1,109 @@
+SPR no: 56B452412T
+MRN no: 5604524
+Site_name: WERRIS CREEK COMMUNITY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report56B45241 (56B452412T) GRYGIEL, Fausto Darin
+HISTOPATHOLOGY REPORT
+MOUNT DRUITT HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Rt axillary lymph node sentinel biopsy frozen section.
+R breast 4 o&amp;apos;clock.
+R breast lesion hookwire localised wide local excision.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT AXILLARY LYMPH NODE SENTINEL BIOPSY&amp;quot;.  One node 12x8x6mm.  One TS for frozen section.
+
+F/S : &amp;quot;Negative&amp;quot;.  Reported to Theatre 15 by Dr. P. Ellison at 1:35 pm on 26.10.68.
+
+(1 FS; 2&amp;amp;3 remainder).  RS (M-3)
+
+B.  Specimen labelled &amp;quot;RIGHT BREAST WIDE LOCAL EXCISION&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  Yes. Calc with consolidation located H11
+HOOKWIRE:  Yes.  Split hookwire 10-I, those areas inked yellow
+SPECIMEN DIMENSIONS:
+Medial to lateral:  50mm
+Superior to inferior:  55mm
+Anterior to posterior:  30mm
+WEIGHT:  37g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:
+Non-standard:  Anterior blue, Posterior black, Medial red, Lateral green.
+DISSECTION: Cut from inferior to superior
+Number of slices: 9
+FINDINGS / LESION:  Within slices 3 and 4 there is a stellate ill defined firm lesion measuring 8mm inferior to superior, 10mm medial to lateral and 10mm anterior to posterior. It is 7mm from anterior margin, 3mm from medial margin, 7mm from posterior margin and more than 15mm from the rest of margins.
+(1 two LS slice 1; 2 two LS slice 1; 3&amp;amp;4 slice 2; 5&amp;amp;6 slice 3; 7&amp;amp;8 slice 4; 9&amp;amp;10 slice 5; 11 portion of slice 6; 12 portion of slice 8; 13 LS slice 9).  RS (M-13/SM 29/10/2067 ank)
+MICROSCOPIC:  (Dr. P Lelacheur)
+
+A.  Sections show a lymph node.  There are several foci of micrometastasis,  the largest measure 0.6mm.  The other foci are less than 0.1mm in diameter.  These foci are not seen  in the frozen section block.  Within the capsule, naevus cells are present.
+B.  INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI:  One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;13 mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE:  Infiltrating duct carcinoma
+&amp;#160;
+HISTOLOGIC GRADE:  2
+
+SCORES Tubules:  2, Nuclei:  3, Mitoses:  1; Total score: &amp;#160;6&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;3&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  13mm + 3mm DCIS = 16mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION:  Not seen
+&amp;#160;
+PERINEURAL INVASION:  Not seen
+&amp;#160;
+SKIN INVOLVEMENT:  Not seen
+
+DERMAL LYMPHOVASCULAR INVASION:  Not seen
+&amp;#160;
+NIPPLE INVOLVEMENT:  Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT:  Not seen
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent:  &amp;lt;20% within tumour and extends 3mm beyond tumour
+Nuclear grade:  Intermediate
+Architecture / type:  Solid and cribriform
+Necrosis:  Present
+Microcalcification of DCIS:  Present
+Extensive intraduct component:  Not seen
+
+LOBULAR CARCINOMA IN SITU (LCIS):  Not seen&amp;#160;
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:  Invasive carcinoma is 10mm from inferior margin, 15mm from superior margin, 5mm from anterior margin, 5mm from posterior margin, 8mm from medial margin and 14mm from lateral margin.
+&amp;#160;
+DCIS MARGINS:  DCIS adjacent to tumour is 6mm from anterior margin, 8mm from posterior margin, 8mm from medial margin, 12mm from lateral margin, 15mm from superior margin, 10mm from inferior margin.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B7
+
+ER: &amp;#160;	+++ 95%
+PgR: &amp;#160;  ++ 40%
+HER2: &amp;#160; negative (score 1+)
+Ki67:     5-10%
+&amp;#160;
+Other tumour block suitable for further testing:  B5
+
+SEPARATE FINDINGS;  Uninvolved breast tissue show focal atypical ductal hyperplasia.
+&amp;#160;&amp;#160;&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1, pN1mi
+
+DIAGNOSIS:
+A.  RIGHT AXILLARY LYMPH NODE -
+- MICROMETASTASIS IN ONE LYMPH NODE.
+B.  RIGHT BREAST -
+- INFILTRATING DUCT CARCINOMA, GRADE 2, SIZE 13mm.
+11/1/2070 km

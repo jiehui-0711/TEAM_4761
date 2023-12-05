@@ -1,0 +1,45 @@
+Episode No:  02G0837685
+0220837.PWN
+
+Jackosn, Ellyn Hubert 
+Lab No:  02G08376,02G08376
+Conners
+FORSTER  ACT  6409
+Specimen: Washings,Tissue
+D.O.B:  16/10/2009
+Sex:  F
+Collected: 28/12/2065 at :
+Location:  DHM - PORT MACQUARIE BASE HOSPITAL
+DR Sherwood ORVAL SUCHARSKI
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+10cm ovarian mass.  Ca125 226, repeat was 33.  
+MACROSCOPIC:
+A.  Specimen labelled "Left ovary" consists of a cystic ovary, 80 x 60 x 40mm with attached fallopian tube 75mm long and 6mm in diameter.  The ovary is focally disrupted (?surgical).  The external surface is otherwise smooth.  The cut surface of the ovary is solid and cystic.  There are extensive yellowish solid friable areas on the inner surface.  
+Blocks:  1 & 2 - frozen sections; 3 to 5 - entire fallopian tube; 6 to 10 - sections of the ovary; 11 - section of the ovary, reserve block.
+FROZEN SECTION REPORT:
+Borderline serous papillary tumour, stromal necrosis cannot exclude invasion. 
+Phone result to Dr Stevie VERNI by Dr A Chahal at 11.15 on 28.12.65.
+B.  Specimen labelled "Uterus, cervix, right tube + ovary" consists of a uterus with attached cervix, right fallopian tube and right ovary weighing 94g in total.  The uterus measures 90 x 60 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 40 x 35mm and has an unremarkable surface.  On sectioning the endometrium is less than 1mm in maximum thickness and the myometrium is 23mm in maximum thickness.  The myometrium contains one fibroid 7mm in maximum dimension.  The right fallopian tube measures 50mm long and up to 6mm in diameter.  The right ovary measures 28 x 15mm.  Slicing the right ovary reveals a unilocular cyst, 20 x 12 x 6mm.  The cyst is filled with soft solid dark red material.  
+Blocks:  1 to 4 - full longitudinal section of anterior body and cervix; 5 - transverse section endomyometrium; 6 to 8 - longitudinal section of posterior body and cervix; 9 - myometrial fibroid; 10 to 12 - entire right ovary; 13 - representative TS of the right fallopian tube; 14 - all of the right fallopian tube fimbrial end.  
+C.  Specimen labelled "Omentum" consists of omental fatty tissue, 300 x 75 x 7mm.  No nodules are seen.  
+Blocks:  1 to 3 - RS.(FH/mm 29.12.65) 
+MICROSCOPIC (reported by Dr A Guion):
+A.  Sections show clear cell carcinoma of the ovary with predominantly papillary architecture.  The fallopian tubes show no significant abnormality.
+Immunoperoxidase stains for MSI proteins (Block A6)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive with focal cystic atrophy.  A leiomyoma is present within the myometrium.  The right ovary shows an endometriotic cyst and the fallopian tube shows no significant abnormality.  There is no evidence of malignancy.
+C.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A - C.  Uterus, cervix, right and left ovaries and fallopian tubes, omentum:
+- Clear cell carcinoma of the left ovary.
+- Endometriotic cyst of the right ovary.
+- Omentum negative.
+

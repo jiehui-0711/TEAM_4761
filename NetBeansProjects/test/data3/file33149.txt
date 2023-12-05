@@ -1,0 +1,32 @@
+SPR no: 11U909630O
+MRN no: 1179096
+Site_name: BANKSTOWN-LIDCOMBE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Excision fungating tumour right lateral thigh with skin.  Subcutaneous sarcoma extending into underlying muscle.  Excision of lesion with sartorius and tensor fascia lata.  Marking suture:  Short superior, long lateral, double adjacent to lymph node femoral triangle.  Specimen is sampled fresh for biobanking.  Dr Mcclimon request for urgent result to guide further surgical management.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Tumour right thigh, short superior, long lateral, double on lymph node&amp;quot;, consists of an oriented excision of skin with underlying soft tissue measuring 185mm superior to inferior, 130mm medial to lateral and up to 105mm superficial to deep (including nodular protrusion).  On the skin surface there is a multiloculated nodule measuring 95 x 85mm with focal areas of superficial ulceration.  The nodule appears within 20mm of the closest medial peripheral margin.  On the inferior medial aspect there is a double suture denoting a lymph node measuring 50 x 18 x 7mm which is removed from the specimen prior to inking.  The lymph node has a gritty cut surface.  The specimen is inked medial blue, lateral green and deep black.  The tissue is sliced from superior to inferior.  The cut surface demonstrates a lobulated and partially cystic tumour located deep to the skin and sitting superficial to the underlying skeletal muscle.  The tumour has a heterogeneous tan fibrotic and partially haemorrhagic appearance.  Cyst measuring up to 30mm in maximal dimension contain haemoserous fluid.  The tumour measures 105mm superior to inferior, 82mm superficial to deep and 72mm medial to lateral.  The tumour is seen 7mm from the closest deep margin.  It measures 15mm from the medial margin, 32mm from the lateral margin and greater than 40mm from the superior and inferior margin.  The lesion appears unencapsulated and no satellite deposits are identified within the adjacent fat.
+Macroscopic photographs available.
+Blocks: 1 &amp;amp; 2 - LS lateral margin; 3 &amp;amp; 4 - composite sections through tumour and lateral margin; 5 &amp;amp; 6 - tumour with adjacent skin and nodular protrusion; 7 &amp;amp; 8 - tumour with closest deep margin; 9 - central area of tumour ?necrosis; 10 &amp;amp; 11 - tumour and medial margin; 12 &amp;amp; 13 - LS inferior margin; 14 to 17 - lymph node from femoral triangle serially sliced; 18 - reserve block for biobanking.  (TO: AP/rs 5/3/70)
+
+
+MICROSCOPIC (Reported by Dr D Wolf):
+The tumour has been extensively sampled.  Sections show a pleomorphic malignant fibrous histocytoma (undifferentiated high grade pleomorphic sarcoma) involving the deep dermis and subcutaneous tissue.  The tumour invade deep to abut the underlying skeletal muscle.  The tumour is lobulated and composed of high grade tumour cells with marked nuclear pleomorphism and hyperchromasia.  Many tumour cells have prominent eosinophilic cytoplasm.  There are scattered bizarre tumour giant cells admixed with other cells.  There are large areas of necrosis (less than 50% of tumour).  There are frequent mitoses (up to 48 per 10 HPF).  No well differentiate area is seen.  The tumour is completely excised.  The tumour is 11mm to the deep margin (block 7), 14mm to the medial margin (block 10) and 30mm to the lateral margin.  The other margins are well clear.  One (1) lymph node identified.  The lymph node is unremarkable with no evidence of tumour metastasis.  Immunohistochemical stains are to follow and a supplementary report will be issued.
+
+FNCLCC grade
+Tumour differentiation:  3
+Mitotic count:  3
+Tumour necrosis:  1
+
+Histological grade:  3 ( total score 7)
+
+
+DIAGNOSIS:
+Tumour right thigh - Pleomorphic malignant fibrous histocytoma.
+
+
+SUPPLEMENTARY REPORT (10/1/2070):
+The tumour shows strong diffuse staining for Vimentin.  There is focal moderate staining for SMA.  The Desmin show very focal staining.  The stains for MNF-116, Myogenin and CD34 are negative.  The Ki-67 proliferation index is more than 40%.  The diagnosis is unchanged.

@@ -1,0 +1,75 @@
+Episode No:  17I956900C
+173956.YCC
+
+Janeiro, SONDRA 
+Lab No:  17I95690
+Trout Brook
+CONDOBOLIN  New South Wales  6842
+Specimen: Tissue
+D.O.B:  19/12/2003
+Sex:  F
+Collected: 11/12/2012 at 20:07
+Location:  Laverty Pathology-NARACOORTE HEALTH SERVICE
+DR Patrice ALAN Colby-Gryder
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+H/O R WLE + XRT for ca 16 yr ago.  Now 6mm IDC R 2 o'clock 3cm FN.  Completion mastectomy.  
+MACROSCOPIC:
+Specimen labelled "Right breast, short superior, long lateral sutures", consists of a mastectomy 200mm (medial to lateral) x 150mm (inferior to superior) x 50mm (superficial to deep).  There is an overlying ellipse of skin 170mm (medialto lateral) x 90mm (inferior to superior). There is an ill defined nipple areolar complex 45 x 45mm with a ? old scar running in a crescent shape around the inferior areola.  Otherwise the skin is unremarkable.  The deep margin is inked black and the superficial margin is inked blue.  In the 2-3 o'clock position 5cm from the nipple there is a firm cream stellate lesion measuring 6mm (medial to lateral) x 5mm (inferior to superior) x 5mm (superficial to deep). The closest margin is the deep margin at 20mm while the inferosuperficial margin is 30mm.  The tumour is 20mmfrom the skin.  There is dense fibrous area in the 9 o'clock position over an area 45 x 30 x 9mm, ? area of previous surgery.  No further suspicious areas are identified.  
+Block 1 - tumour; 2 - area superficial to tumour; 3 - further tumour to deep margin; 
+4 - tissue medial to tumour; 5 - tissue lateral to tumour; 6 - tissue inferior to tumour; 
+7 - tissue superior to tumour; 8 - representative inner upper quadrant; 9 - representative inner lower quadrant; 10 - representative outer lower quadrant; 11 - representative outer upper quadrant; 12 & 13- representative areas of fibrous tissue; 14 - nipple and tissue deep to nipple.  No reserve block taken.  Please refer to attached diagram.  (HP/ec 14.2.62) 
+ 
+MICROSCOPIC (reported by Dr M Brandsrud): 
+Sections show invasive ductal carcinoma of the breast.  The features are as follows:
+
+Invasive carcinoma:
+Site:  Right breast 
+Type:  Invasive ductal carcinoma.  
+Invasive tumour size:  7mm
+Grade (Modified Bloom & Richardson):  2
+Tubules:  2     Nuclei:  2     Mitoses:  2      Mitotic rate:  13/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  Approximately 60mm (widely scattered small foci)
+Nuclear grade:  Intermediate grade
+Architecture:  Solid and cribriform
+Necrosis:  Absent 
+Calcification:  Present
+Degree of DCIS in tumour:  Nil
+DCIS in adjacent tissue:  Moderate
+Excision Margins:  
+Invasive component:  Well clear of all margins
+In-situ component: 10mm from deep margin, all other margins well clear
+Receptors (Block 1): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	30% of nuclei stained
+	predominant intensity of staining:  Moderate to strong
+HER2 (Novocastra 10A7):  Negative (score1+)
+Ki-67 index:  Approximately 10%
+Nipple:  No significant abnormality.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  0
+ADDITIONAL REPORT (4/3/63):
+HER2 IN SITU HYBRIDISATION reported by Dr M Branyon, BARWON HEALTH NORTH Hospital:
+Mean HER2 IHC Result:  Negative (1+)
+Signal Detection has been performed for the HER2gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).  
+HER2 Dual ISH result:  	NEGATIVE (nonamplified, polysomy)
+Mean HER2 copy number per cell:  3.4
+Mean CEP17 copy number per cell:  3.0
+HER2/CEP17 Ratio:  1.13
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative:  HER2/CEP17 <1.8
+Equivocal:  HER2/CEP17 = 1.8-2.2
+Positive:  HER2/CEP 17 >2.2
+

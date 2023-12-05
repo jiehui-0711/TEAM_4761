@@ -1,0 +1,173 @@
+SPR no: 44B045827Y
+MRN no: 10464448
+Site_name: PORT MACQUARIE BASE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+72 year old female pancreatic head mass with portal vein involvement on imaging.  One suture to portal vein, two sutures to SMA, three sutures to uncinate.   Liver lesion noted during operation.  ?Metastasis from tumour.
+Request information sheet received:  Yes
+Radiology reports received:  No
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Small liver resection ?metastasis&amp;quot;, consists of two fragments of tan tissue, 18 x 6 x 5mm and 7 x 4 x 3mm.  AE for FS in 1 block (larger fragment bisected longitudinally).
+
+FROZEN SECTION REPORT:
+Benign lesion, favour haemangioma.
+Phone result to anaesthetist by Dr K Ziech/K Charron at 10:30 hours on 21/05/66.
+
+B.  Specimen labelled:  Whipples
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&amp;apos;s resection), partial pancreatectomy
+
+Specimen dimensions:
+Small bowel:  190mm length; 52mm circumference
+Size of gallbladder:  Not applicable
+Wall thickness of gallbladder:  Not applicable
+Calculi in gallbladder:  Not applicable
+Size of and weight of spleen:  Not applicable
+Length of common bile duct:  18mm length; 5mm diameter
+Maximum diameter of common bile duct:  3mm
+Size of pancreas:  62 x 55 x 38mm
+Location of stent:  Not applicable
+Length of segment of attached SMV:  29mm length; 7mm diameter
+Cystic duct: 18mm length; 5mm diameter
+Common hepatic duct:  5mm length; 5mm diameter
+
+Orientation:
+Portal vein:  One suture
+SMA:  Two sutures
+Uncinate:  Three sutures
+Common bile/hepatic duct:  Oriented in person by Dr Dedios
+
+Tumour location:
+Pancreatic head
+
+Tumour:
+Description:  Definitive tumour is not identified.  The pancreas has a relatively homogenous tan/pale grey appearance.
+Tumour Size:  Unclear
+
+Distance of tumour to margins:
+Pancreatic neck:  Unclear
+Common bile duct:  Well clear (&amp;gt;10mm)
+Portal vein bed:  Unclear
+Superior mesenteric artery:  Unclear
+Uncinate process:  Unclear
+Gastric:  Well clear (&amp;gt;10mm)
+Distal intestinal margin:  Well clear (&amp;gt;10mm)
+Proximal pancreatic margin (applicable to distal pancreatectomies only):  Not applicable.
+
+Distance of tumour to surfaces:
+Anterior:  Unclear
+Posterior:  Unclear
+
+Additional gross pathologic findings:
+The pancreas is sectioned axially from superior to inferior into ten approximately equal slices.
+
+Specimen inked:
+Anterior:  Yellow, and nick
+Posterior:  Black
+Portal vein/SMV:  Blue
+Superior mesenteric artery:  Red
+Uncinate process:  Green
+Small bowel:  Blue
+Stomach:  Blue
+
+Blocks: 1 - stomach margin; 2 - small bowel margin; 3 - shave (3mm) pancreatic neck margin ; 4 - shave (3mm) cystic duct margin; 5 - shave (3mm) common hepatic duct margin; 6 - extrapancreatic common bile duct; 7 - proximal adherent SMV margin; 8 - distal adherent SMV margin; 9 - shave (2mm) vessels at superioanterior aspect of pancreas; 10 to 12 - peripancreatic/perigastric fibroadipose tissue, lymph nodes as seen; 13 - one lymph node, sectioned; 14 - slice one pancreas (superior); 15 - slice two pancreas; 16 - slice three pancreas; 17 - slice four pancreas; 18 - slice five pancreas; 19 - slice six pancreas; 20 - slice seven pancreas; 21 - slice eight pancreas; 22 - slice nine pancreas; 23 - slice ten pancreas (inferior).  Complete pancreas embedded.
+
+C.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of a gallbladder, 72 x 30 x 30mm.  The serosal surface is smooth and green/grey.  On sectioning, the wall thickness is 1mm and the mucosa is velvety green.  There are no gallstones.  Blocks: 1 - LS fundus and TS cystic duct; 2 - TS body.
+
+D.  Specimen labelled &amp;quot;Common hepatic lymph node&amp;quot;, consists of a lymph node, 17 x 13 x 7mm.  Sectioned transversely.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Retroportal lymph node&amp;quot;, consists of a lymph node, 14 x 12 x 7mm.  Sectioned transversely.  AE 1 block.  (TO:JB/rs 22/4/70)
+
+
+MICROSCOPIC (Reported by Dr K Arruda):
+A.  Paraffin sections show a focally sclerosed vascular malformation consisting of a thick and thin wall blood vessels with surrounding scar.  The adjacent liver shows no significant abnormality.  There is no evidence of malignancy.
+
+B.  Sections show moderately differentiated adenocarcinoma of the pancreatic head and neck.  There is a poorly differentiated component occupying approximately 30% of the tumour.  The tumour measures approximately 35mm across and extends into muscularis propria of the duodenum and peripancreatic soft tissue.  The tumour focally colonises the intrapancreatic common bile duct.  Poorly differentiated adenocarcinoma encases the attached superior mesenteric vein circumferentially over 180 degrees on the pancreatic side of the vessel.  No tumour is seen on the free side of the vein.  The end resection margins of the superior mesenteric vein are also free of tumour.  Perineural and vascular invasion of tumour are seen at approximately 2mm from the pancreatic neck resection margin.  Further cut through sections of this margin show no tumour.  Eight (8) of the twenty-four (24) lymph nodes identified show metastatic adenocarcinoma.  The features are as follows:
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 2:  Moderately differentiated (50% to 95% of tumour composed of glands) with a poorly differentiated component occupying approximately 30% of the tumour.
+
+Microscopic tumour sites
+Head of pancreas
+Neck of pancreas
+
+Extent of tumour invasion
+Pancreas
+Duodenal wall (muscularis propria)
+Peripancreatic soft tissues
+Bile duct (intrapancreatic common bile duct)
+Intima of included SMV
+
+Maximum tumour diameter
+35mm
+
+Lymphovascular invasion
+Present
+
+Type of vessel
+Vein
+
+Perineural invasion
+Present
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Present (PanIN-3)
+
+Margins:
+Pancreatic neck:  Perineural and vascular invasion within 2mm of margin, low grade PanIN at margin
+Common hepatic duct:  Well clear
+Portal vein (superior mesenteric vein):  0.5mm
+Superior mesenteric artery:  5mm
+Periuncinate soft tissue:  Well clear
+Cystic duct:  Well clear
+Adherent SMV ends:  Not involved.
+
+Surfaces:
+Anterior:  1mm
+Posterior:  1mm
+
+Lymph nodes:
+Number found:  24
+Number involved:  8
+
+C.  Sections of the gallbladder and cystic duct lymph node shows no significant abnormality.  There is no evidence of malignancy.
+
+D.  The single (1) lymph node identified shows metastatic adenocarcinoma.
+
+E.  The single (1) lymph node identified shows no significant abnormality.  There is no evidence of malignancy.
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category
+T2		Tumour &amp;gt;2 cm and &amp;#8804;4 cm in greatest dimension
+
+Regional lymph node category (pN)
+N2		Metastasis to four or more regional lymph nodes
+
+Distant metastasis category (pM)
+MX 		Not assessable by histology
+
+
+DIAGNOSIS:
+A - E.  Whipples resection, liver lesion, gallbladder, common hepatic and retroportal lymph nodes:
+-  Moderately differentiated adenocarcinoma of the pancreatic head and neck
+-  Benign liver vascular lesion
+-  Nine lymph nodes positive for metastatic adenocarcinoma.
+ADDENDUM (24/7/66):
+Immunoperoxidase stains for MSI proteins (Block K40)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

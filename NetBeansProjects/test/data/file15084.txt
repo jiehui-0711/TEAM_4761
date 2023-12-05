@@ -1,0 +1,28 @@
+SPR no: 94B8138319
+MRN no: 940813
+Site_name: KAROONDA AND DISTRICT SOLDIERS' MEMORIAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Strong family history (mother uterine cancer).  Previous triple negative breast cancer.  BRCA 1+2 negative.  Ashkenazi Jewish.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, bilateral ovaries and tubes&amp;#8221; consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 130g in total.  The uterus measures 100 x 50 x 60mm and has a smooth shiny serosal surface.  The ectocervix measures 45 x 28mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 23mm.  There is a polyp in the lower uterine segment of the posterior body measuring 10 x 5 x 2mm.  The myometrium is unremarkable.  The right fallopian tube measures 50mm in length with an outer diameter of 7mm.  The serosal surface is unremarkable.  The ovary measures 40 x 25 x 15mm.  Cut surface of the ovary shows a unilocular cyst filled with clear to tan brown fluid and measures 20mm in diameter.  The left fallopian tube measures 60mm in length with an outer diameter of 6mm.  Serosal surface is unremarkable.  The left ovary measures 40 x 22 x 10mm.  The cut surface of the ovary is unremarkable.
+Blocks:  1 to 6 - full longitudinal sections of anterior body and cervix; 7 to 10 - full longitudinal sections of posterior body and cervix; 11&amp;amp;12 - all of the polyp; 13 to 21 - all of right adnexa (13 to 15 - right fallopian tube, 16 to 21 - right ovary); 22 to 29 - all of the left adnexa (22 to 24 - left fallopian tube, 25 to 29 - left ovary).
+
+B.  Specimen labelled &amp;#8220;Omental biopsy&amp;#8221; consists of a fatty tissue measuring 45 x 20 x 8mm.  Cut surface shows uniform fatty tissue.  No focal lesion seen.  AE 3 blocks.  (LM/ua 12.6.66)
+
+
+MICROSCOPIC (Reported by Dr Y Beauchamp):
+A.  Sections of cervix show an endocervical polyp.  The rest of cervix is unremarkable.  The endometrium shows no significant abnormality.  The myometrium is unremarkable.  The serosa is unremarkable.  The right ovary is unremarkable except a follicular cyst.  The left ovary is unremarkable.  Both fallopian tubes are unremarkable.  There is no evidence of malignancy.
+
+B.  Sections show normal appearing omental tissue.  There is no significant abnormality excpet a small granuloma.  No necrosis is seen.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+A.  Uterus - No significant abnormality.
+Cervix - Endocervical polyp.
+Bilateral ovaries - No significant abnormality.
+Bilateral fallopian tubes - No significant abnormality.
+
+B.  Omental biopsy - Small granuloma.

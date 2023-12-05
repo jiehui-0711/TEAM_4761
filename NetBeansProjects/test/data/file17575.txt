@@ -1,0 +1,42 @@
+SPR no: 47N538026L
+MRN no: 4755380
+Site_name: PRINCE OF WALES HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post liver resection for ?mets post chemo.  Primary CRC.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hepatectomy&amp;quot;, consists of a segment of liver with no orientating mark, measuring 170 x 130 x 100mm and weighs 735g.  The capsule shows slight nodularity but is otherwise unremarkable.  The resection margin is inked blue and black ink is added to the areas post removal of the staple line - 1 to 2mm in thickness.  Red ink is added to the bare area of capsule.  The specimen is orientated based on the anatomical structures and operation report.
+
+On sectioning four separate lesions are identified.  The first lesion is in segment eight, 16 x 16 x 12mm which abuts the capsule and is 13mm from the resection margin.  The second lesion is between segment seven and eight sitting 42mm from lesion one, 25 x 18 x 13mm which is 5mm from capsule and 25mm from resection margin.  The third lesion is between segment seven and six, 6 x 5 x 4mm which is 7mm from capsule and 50mm from resection  margin.  The fourth lesion is in segment six, 7 x 6 x 5mm which is partially calcified and is 10mm from capsule and 19mm from resection margin.   The rest of the liver appears slightly nodular.
+
+The gallbladder is 90 x 40 x 40mm.  The serosa appears smooth and shiny.  The gallbladder wall is 1 to 2mm in thickness.  The mucosa is green and velvety with diffuse cholesterolosis.  No gross lesion is identified.  No lymph node is identified.
+
+Blocks: 1 - representative lesion one with adjacent margin; 2 - liver between lesion one and two; 3 - RS lesion two; 4 - RS lesion three; 5 - RS lesion four with adjacent margin; 6 - RS uninvolved liver from segment six; 7 to 10 - RS gallbladder (7 - cystic duct margin and neck; 8 - TS body; 9 - LS fundus; 10 - RS fat around gallbladder neck ?lymph nodes).  RS in 10 blocks.
+(TO:LN; LN/ta 14/2/66)
+
+
+MICROSCOPIC (Reported by A/Prof M Parisien)
+The sections of liver confirm the presence of multiple foci of metastatic carcinoma, morphologically consistent with origin from colorectal carcinoma.
+The majority of the carcinoma appears histologically viable and there are patchy microscopic areas of necrosis, dystrophic calcification and an associated fibro-inflammatory response.
+These changes would be consistent with minimal chemotherapy response.
+
+Response to neoadjuvent therapy:
+Grade 3 (poor response) - Minimal or no tumour kill; extensive residual cancer
+The tumour nodules are clear of the inked margins of the specimen. There is no visible breach of the hepatic capsule.
+The liver parenchyma in close proximity to the tumour foci shows reactive changes with patchy inflammation, bile ductular proliferation and sinusoidal congestion.
+The distant parenchyma shows mild steatosis and increased fibrosis with portal tract expansion, focal bridging fibrosis and bile ductular proliferation. There is mild mixed portal inflammation with focal interface inflammation, including scattered neutrophils breaching the limiting plate.
+Occasional small aggregates of neutrophils are also present within the hepatic lobules. Very occasional degenerate hepatocytes are present and there is focal balloon degeneration. Zone 3 degenerative changes are also present.
+There is no increase in stainable iron or copper.
+The aetiology of these changes is uncertain and may be a reflection of obstructive/reactive changes due to adjacent tumour deposits. Please correlate with the patient&amp;apos;s past history and prior liver function tests.
+The sections of gallbladder show patchy cholesterolosis. No other abnormality is seen.
+Comment: A provisional result was discussed with Dr M Tymeson by A/Prof M Bendig, 14/12/16 at 1845 hrs.
+
+The pathological findings have also been discussed with Dr M Bronston (Spectrum Radiology) to correlate the pathological parameters and lesion locations with the preoperative MRI findings.
+
+
+DIAGNOSIS:
+Liver: Metastatic adenocarcinoma
+Gallbladder: Cholesterolosis

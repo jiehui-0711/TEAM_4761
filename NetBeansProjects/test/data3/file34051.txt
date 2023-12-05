@@ -1,0 +1,36 @@
+SPR no: 50Y230314G
+MRN no: 10458110
+Site_name: OAKEY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Bilateral ovarian cysts, CA 125 87, cancer?  84 year old woman.  Bilateral ovarian masses discovered incidentally at lap chole.  CA 125 86.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a multinodular smooth white ovary, 135 x 65 x 65mm with attached tube, 50 x 15mm.  The cut surface has a pale whorled homogeneous surface.
+Further examination after fixation:  The specimen weighs 318g.  In addition there is a paratubal cyst, 15 x 15 x 15mm, which is thinned walled and contains clear fluid. Two RS for FS.
+Block 1- FS 1; 2 - FS 2; 3-8 - RS of ovary; 9 - longitudinally bisected fimbrial end of fallopian tube; 10 - RS of remaining tube with cyst.
+
+FROZEN SECTION:  Fibroma.
+Result to anaesthetist by Dr P Mccarter at 16:40 on 01.06.67.
+
+B.  Specimen labelled &amp;quot;Uterus and cervix&amp;quot;, consists of a uterus with attached cervix,weighing 22g in total. The uterus measures 78 x 40 x 25mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 25mm and has an unremarkable surface.  On sectioning the endometrium is 1.5mm in maximum thickness. The myometrium is 11mm in maximum thickness.  The endometrial cavity contains a polypoid lesion, 38 x 10 x 8mm which appears adherent to the anterior surface and possibly loosely adherent to the posterior surface also.
+Blocks 1-3 - full LS of presumed anterior body and cervix; 4 - section of polypoid lesion to the left of midline in the anterior half of the specimen; 5 - section of polypoid lesion in the right anterior cervix; 6-8 - full LS of the posterior body and cervix; 9 &amp;amp; 10 - sections of   uterus.
+
+C.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of an ovary with attached fallopian tube 151g in total.  The ovary measures 90 x 65 x 42mm and has a smooth lobulated surface.  The fallopian tube measures 60mm in length and 5-50mm in diameter.  Located 8mm from the fimbrial end is a cyst, 20 x 18 x 14mm, with a thin wall and contains clear fluid.  An additional cyst is present between the fallopian tube and the ovary, 30 x 28 x 24mm.  It is also thin walled and contains clear fluid.  The largest cyst contains two pale 3mm nodules on its surface.
+Blocks 1 &amp;amp; 2 - sections of ovary with adjacent cyst wall; 3-6 - RS of remaining ovary; 7 &amp;amp; 8 - longitudinally bisected fimbrial end of fallopian tube; 9 - RS of remaining fallopian tube; 10 - sections of the largest cyst wall with pale nodule; 11 - sections of the two adjacent cysts; 12 - section between the tube and the largest cyst wall.  (TO:YS/ec 1/7/66)
+
+
+MICROSCOPIC (Reported by Dr P Stolp):
+A.  Sections of the ovary show interlacing bundles of bland spindle cells with fibroblastic morphology.  Significant mitotic activity or cytological atypia is not seen.  The features are of an ovarian fibroma.  Sections of the fallopian tube show no significant abnormality.  A benign paratubal cyst is present.  There is no evidence of malignancy.
+
+B.  Sections of cervix include the transformation zone and shows no significant abnormality.  The endometrium shows cystically dilated endometrial glands within a fibrous stroma consistent with benign endometrial polyp.  There is cystic endometrial atrophy in the background.  There is no evidence of endometritis or malignancy.
+
+C.  Sections of the ovary show interlacing bundles of bland spindle cells with fibroblastic morphology within a collagenous background.  There is no significant mitotic activity or cytological atypia.  The features are of an ovarian fibroma.  Sections of the fallopian tube show no significant abnormality.  The described cystic areas show benign features.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right tube and ovary:  Ovarian fibroma.
+B.  Uterus and cervix:  Endometrial polyp and  cystic endometrial atrophy.
+C.  Left tube and ovary:  Ovarian fibroma.

@@ -1,0 +1,89 @@
+Episode No:  63M741450O
+634741.LNA
+
+Dado, Edison 
+Lab No:  63M74145
+Northome
+TINONEE    6327
+Specimen: Tissue
+D.O.B:  29/12/1992
+Sex:  F
+Collected: 11/07/2012 at 09:10
+Location:  SYDPATH-AYR HOSPITAL
+DR Jerome Andres YARRAN-Sanjurjo
+Distribution:  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast carcinoma 9-10 o'cl - wide local excision & sentinel node biopsy.  Suture - short superior, long lateral, medium medial.
+MACROSCOPIC:
+A.  Specimen labelled "Rightaxilla sentinel node" consists of a 17mm piece of fatty tissue.  One 13mm lymph node is identified.  BAE one block. 
+B.  Specimen labelled "Right breast lesion; long lateral, short superior, medium medial" consists of an orientated wide local excision 65mm (medial-lateral) x 35mm (inferior-superior) x 95mm (superficial-deep).  The inferior margin is inked black, the superior margin is inked blue and the medial margin is inked green.  There is a hookwire entering the specimen from the superficial aspect.  There are three sutures in situ as designated.  The specimen is serially sectioned in the coronal plane into thirteen slices from slice 1 (deep) to slice 13 (superficial).  The hookwire is seen to insert into slice 6.  There is a firm cream poorly circumscribed tumour identified in slices 7 and 8 measuring 10mm (medial-lateral) x 8mm (inferior-superior) x 10mm (superficial-deep).  The distance from margins is as follows:lateral 10mm, superior 11mm, inferior 22mm, medial 40mm and well clear of both the superficial and deep margins.  No other suspicious areas are identified.
+Blocks:  1 to 4 - slice 8; 5 to 9 - slice 7; 10 & 11 - lateral part of slice 9; 12 & 13 - lateral part of slice 6; 14 - lateral part of slice 4; 15 - lateral part of slice 11; 16 & 17 - deep margin; 18 to 20 - superficial margin; 21 - tumour for tumour banking; 22 - remainder of slice 1; 23 & 24 - slice 2; 25 to 27 - slice 3; 28 & 29 - slice 4; 30 to 33 - slice 5; 34 & 35 - remainder slice 6; 36 & 37 - remainder of slice 9; 38 to40 - slice 10; 41 to 43 - remainder of slice 11; 44 to 46 - slice 12; 47 to 49 - remainder of slice 13.  AE.  Tumour markers on block 1. AE.  Please refer to attached diagram.   
+(XZ/cc  13/9/62) 
+ 
+MICROSCOPIC (Reported by DrA Amphy): 
+A.  The lymph node is negative for tumour.  The CAM 5.2 is negative.  
+B.  Sections show a grade 2 infiltrating ductal carcinoma in slices 7 and 8.  The carcinoma measures 10 x 8 x 10mm and there is no lymphovascular invasion.  The tumour is clear of the excision margins (the superior and lateral margins are 7mm clear and the other margins are well clear.  
+There is a focus of high grade ductal carcinoma in situ (DCIS) (cribriform/solid and  apocrine) at the superficial margin (positive margin).  The ductal carcinoma in situ (DCIS) is in the most superficial slice (slice 13) and its size is estimated at 5mm.
+There is a second 2.5mm focus of intermediate ductal carcinoma in situ (DCIS) in slice 5, 3mm from the superior margin.  
+
+
+DIAGNOSIS:
+A & B.  (R) breast wide local excision plus sentinel node.  
+Invasive carcinoma:
+Site:  Right breast wide local excision.  
+Type:  Infiltrating ductal.
+Invasive tumour size:  10 x 8 x 10mm. 
+Grade 2 (Modified Bloom & Richardson):
+Tubules:  2  Nuclei:  2  Mitoses:  3  Mitotic rate:  30/10hpf.
+Lymphovascular invasion:  Absent.
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  5mm (second 2.5mm focus of intermediate DCIS inslice 5)
+Nuclear grade:  High.
+Architecture:  Solid and cribriform.
+Necrosis:  Absent.
+Calcification:  Absent.
+Degree of DCIS in tumour:  None/minimal.
+DCIS in adjacent tissue:  Present. 
+Excision Margins:  
+Invasive component:
+Superior - 7mm.
+Lateral - 7mm.
+Other margins well clear.
+In-situ component:
+High grade DCIS, size 5mm, positive superficial margin.
+Intermediate grade DCIS, size 2.5mm, 3mm from superior margin.  
+Receptors
+ER:  Positive.
+	>95% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	10% of nuclei stained
+	predominant intensity of staining:  Weak.
+(Novocastra 10A7):  Negative (0/1+).  
+Slides sent to KALEEYA HOSPITAL for CISH.  
+Ki-67 index:  The Ki67 is 20% in the worst areas.  
+Nipple:  N/A
+LCIS / ALH:  Nil
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+ADDITIONAL REPORT:  (27.9.62)
+Blocks were sent to QUEANBEYAN DISTRICT HOSPITAL Hospital for Her2 CISH analysis, Dr A Grismore reports:
+Her 2 in situ hybridisation: (Her2 CISH Invitrogen SPOT-Light assay, block B1). 
+Her2 CISH result: NEGATIVE (non-amplified, diploid).
+Mean Her2 copy number per cell: 1.25.
+SCORING CRITERIA (ASCO/CAP recommendations):
+1 to <2.5 copies:  	Non amplified (diploid)
+2.5 to <4 copies:  	Non amplified (polysomy) 
+4 to 6 copies:		Equivocal 
+>6 but < 10 copies:	Low level amplification
+10 or more copies: 	High level amplified.  
+ 
+

@@ -1,0 +1,65 @@
+SPR no: 68N9781230
+MRN no: 685978
+Site_name: CASTLEMAINE HEALTH
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report*SUPPLEMENTARY REPORT ATTACHED*
+68N97812,68N97812 (68N9781230) RUYES, JUDSON
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Metastatic breast ca.
+
+1.  Peritoneal washings.
+2.  Uterus, cervix, bilateral fallopian tubes and ovaries.
+3.  Omentum.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX, BOTH TUBES AND OVARIES&amp;quot;.  A total hysterectomy specimen of a total weight of 96g, consists of a uterus measuring 55x35mm.  The cervix measures 20x25x25mm.  The external os is slit-like 15x2mm.  Attached is right fallopian tube 45x6mm across the enlarged right ovary 55x35x25mm.  A left fallopian tube 35x8mm and the grossly enlarged left ovary 40x35x30mm.  The anterior cervical margin is inked blue, posterior is inked black.  The cut surface reveals an endometrium up to 3mm thick.  The myometrium is unremarkable up to 12mm.  The outer and cut surface of both fallopian tubes is unremarkable.  Both ovaries have lobulated  nodular outer surface and solid white homogeneous cut surface.
+
+(1  right fallopian tube two LS fimbrial end and two TS mid; 2  left fallopian tube two LS fimbrial end and two TS mid; 3&amp;amp;4  right ovary one TS with adjacent tube; 5&amp;amp;6  left ovary one TS with adjacent tube; 7  tumour block of the left ovarian mass for tissue banking; 8-10  LS of uterus from cervix to fundus).  RS (M-10).
+
+B.  &amp;quot;OMENTUM&amp;quot;.  Two fibrofatty pieces of tissue, measuring 6mm and 20mm.  The largest is serially sliced.  The outer surface is firm and fibrotic.  The cut surface is variegated and fatty and firm.  AE (M-1/ZH 2/3/2067 km).
+
+MICROSCOPIC:   (Dr Q Nevels)
+A. The sections of the ovaries and fallopian tubes show infiltration of the ovarian cortex and the fallopian tube wall by single cells, cords, nests and tubular ductal formation including some cribriform groups of cells. These show pale eosinophilic cytoplasm with atypical nuclei including nucleoli. The ovary shows a densely fibrotic background stroma. Lymphatic space invasion is identified. The fallopian tube surface epithelium appears unremarkable.
+Sections of the ectocervix appear unremarkable. Within the endocervical canal and lower uterine segment, there is infiltrating tumour with similar appearances to that seen in the ovaries and fallopian tubes. The tumour involves the endometrial and endocervical mucosa with infiltration into the cervical stroma and into the myometrium. In addition, subserosal deposits of carcinoma including lymphatic space invasion are identified.
+Immunohistochemistry (Block A6): There is positive staining for CK7, CAM5.2, GATA-3. CK20 and PAX-8 are negative.
+ER: Positive 80%, 3+.
+PgR: Positive 90%, 3+.
+Her-2: Negative (0 staining).
+B. The sections show fragments of omental adipose tissue with fibrosis and with single cells, small groups of cells and ductal-tubular spaces with atypical nuclear features and with some cells showing intracytoplasmic vacuoles.
+Comment: The appearances are those of metastatic adenocarcinoma consistent with invasive duct carcinoma of breast.
+DIAGNOSIS:
+A. UTERUS, OVARIES AND FALLOPIAN TUBES
+- METASTATIC INVASIVE DUCT CARCINOMA.
+
+B. OMENTUM
+- METASTATIC INVASIVE DUCT CARCINOMA.
+
+2/7/2067 cy
+
+SUPPLEMENTARY REPORT:
+
+HER-2 IN-SITU HYBRIDISATION
+
+BLOCK A6:
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+HER2 Dual ISH result:   NEGATIVE
+
+Mean HER2 copy number per cell:  1.4
+Mean CEP17 copy number per cell:  1.35
+HER2/CEP17 Ratio:  1.04
+
+SCORING CRITERIA (Update in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal:&amp;#160; HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 6.0
+Positive: HER2/CEP17 &amp;gt; or equal to 2.0
+
+Reported by: Dr. Q. Glow
+Date: 20.2.67
+
+20/2/2067 ank

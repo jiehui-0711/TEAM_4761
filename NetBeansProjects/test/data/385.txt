@@ -1,0 +1,106 @@
+
+Episode No:  78F061574N
+781061.OTM
+
+HAYASE, ERIN 
+Lab No:  78F06157
+Jeffersonian
+WERRIBEE  NT  4655
+Specimen: Tissue
+D.O.B:  24/3/2031
+Sex:  F
+Collected: 6/2/2063 at :
+Location:  PARKES 9 EAST-COOLAH MULTI PURPOSE SERVICE
+DR BRADLY JACQUES AHMAD-CHRISTINA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+
+ADDITIONAL REPORT:  (15.7.63)
+
+ADDITIONAL REPORT (7.8.2063)
+
+
+CLINICAL:
+IDC right breast - chemo 	TAC + 4 - (R) axilla sentinelnode biopsy.  IDC right breast 10 - 11 o'cl.  Rx:  TAC + G.  Good clinical response clip in situ - wide local excision + axilla clearance.  Short superior, long lateral, medium medial.  
+MACROSCOPIC:
+A.  Specimen labelled "Right sentinel node biopsy" consists of two pieces of fat containing two lymph nodes 10 and 12mm.  Imprints from both lymph nodes done.  
+Blocks:  1 - lymph node no 1; 2- lymph node no 2.  
+IMPRINT CYTOLOGY REPORT:
+Metastatic carcinoma. 
+Phone result to anaesthetist by Dr T Gramberg at 3.06pm on 30.4.13.
+B.  Specimen labelled "Right axilla level I" consists of a piece of fatty tissue 70 x 50 x 30mm containing seven lymph nodes ranging from 5 to 10mm.  Specimen 1 and 2 - lymph nodes each; specimen 3 - three lymph nodes.  
+C.  Specimen labelled "Right axilla level 2" consists of a fatty piece of tissue 20 x 20 x 10mm containing two lymph nodes 5 and 10mm.  
+Blocks:  1 - one lymph node; 2- one lymph node.  
+D.  Specimen labelled "Right breast lesion long lateral, short superior, medium medial" consists of an irregular piece of fibrofatty tissue with three sutures for orientation as above and one hookwire exiting from the superficial margin.  The superficial margin is inked blue, deep margin black, superior margin red, inferior margin green.  The specimen measures 66mm (medial-lateral) x 38mm (superior-inferior) x 32mm (superficial-deep).  The specimen is serially sectioned from medial to lateral into 16 slices; slice no 1 medialmargin and slice 16 lateral margin.  On sectioning and in slices 8, 9 and 10 there is an ill defined white and gritty tumour 10mm (superior to inferior), 10mm (superficial to deep) and 10mm (medial to lateral).  It is 10mm from the closest margin (superior margin).  Representative sections taken according to the attached diagram.
+Blocks:  1 to 3 - slice 1; 4 & 5 - slice 2; 6 to 8 - slice 3; 9 to 11 - slice 4; 12 to 15 - slice 5; 16 to 19 - slice 6; 20 to 23 - slice 7; 24 to 27 - slice 8; 28 to 31 - slice 9; 32 to 34 - slice 10; 35 & 35 - slice 11; 37 & 38 - slice 12; 39 & 40 - slice 13; 41 & 42 - slice 14; 43 & 44 - slice 15; 45 to 50 - slice 16.  (TO: YF: ZZ/mm 28.6.63) 
+MICROSCOPIC:  (Reported by Dr C Degrass) 
+A to D.  Sections show at least twenty separate foci of infiltrating ductal carcinoma (NOS), post treatment grade 2, measuring from 0.1 to 5mm over an area of 32 x 25mm (8 consecutive slices - Slices 7to 14).  There is focal intraductal spread but not convincing ductal carcinoma in situ is identified.  A synoptic report follows.
+Invasive carcinoma:
+Site:  Right breast, 10 - 11 o'clock 
+Type:  Infiltrating ductal carcinoma, NOS
+Invasive tumour size:  0.1 to 5mm  (Block D32)
+Grade (Modified Bloom & Richardson):  2  (post treatment)
+Tubules: 2      Nuclei: 3      Mitoses:1      Mitotic rate:      1/10hpf.
+Lymphovascular invasion:  Not seen  
+	    
+DCIS component:  
+DCIS:  Not seen  
+Excision Margins:  
+Invasive component:
+	Superficial	3.5mm     (Block D39 - intervening normal ducts present)
+	Deep		0.7mm	     (Block D40 - intervening normal ducts present)
+	Superior	.0mm	     (Block D37 - intervening normal ducts absent)
+	Inferior		0.5mm     (Block D40 - intervening normal ducts present)
+	Medial 		>10mm
+	Lateral		>10mm
+In-situ component:N/A
+Nipple:  Not included 
+
+LCIS / ALH:  Not seen   
+Miscellaneous:
+There is prominent treatment effect with extensive stromal hyalinosis and foci of tumour necrosis.  There are scattered areas of microcalcification within the tumour as well asuninvolved breast tissue.
+Sentinel lymph node(s):
+Number of sentinel lymph nodesexamined:  2
+Number of sentinel lymph nodes involved by tumour: 1 
+	Size:  2mm
+	Treatment effect:  Present 
+	Extranodal spread:  Absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  4
+Number of axillary lymph nodes involved by tumour:  0        
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  6   
+Total number of involved lymph nodes (including sentinel node(s)):  1   
+
+DIAGNOSIS:
+A to D.  Right breast 10 - 11 o'clock, sentinel and axillary lymph nodes:
+	Multiple foci of post treatment grade 2 infiltrating ductal carcinoma, NOS
+	Size 0.1 to 5mm over an area of 32 x 25mm
+	1/6 positive axillary lymph nodes
+	The positive node is a sentinel node and contains a 2mm metastatic deposit with treatment effect
+	Hormone receptor status pending and an additional report to follow
+
+ADDITIONAL REPORT:  (Reported by Dr C Bory on 8.7.2063)
+
+Receptors (Block D32): 
+ER:  Positive
+	5% of nuclei stained
+	Predominant intensity of staining:  Weak  
+PR:  Negative
+	 
+HER2 (Novocastra 10A7):  0
+Ki-67index:  5%
+ADDITIONAL REPORT:  (15.7.63)
+
+HER2 IN SITU HYBRIDISATION reported by Dr C Cue, HERVEY BAY HOSPITAL Hospital:
+HER2 IHC Result:  0
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 DL ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE  (non amplified, diploid)
+Mean HER2 copy number per cell:  2.68
+Mean CEP 17 copy number per cell:  2.24 
+HER2/CEP17 Ratio: 1.19
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

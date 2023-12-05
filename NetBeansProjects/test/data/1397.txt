@@ -1,0 +1,45 @@
+
+Episode No:  97W8619188
+9788619.FWX
+
+Ambriz, Cole XANDER 
+Lab No:  97W86191,97W86191
+Von Elm
+URRAWEEN  Western Australia  2010
+Specimen: Washings,Tissue
+D.O.B:  12/11/1996
+Sex:  F
+Collected: 13/5/2063 at :
+Location:  DAYSURGERY UNIT - DUMBLEYUNG MEMORIAL HOSPITAL
+DR Linwood WEESE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Clear cell carcinoma of endometrium.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus,tubes and ovaries", consists of a uterus with attached cervix, bilateral fallopian tube and ovaries weighing 33g in total.  The uterus measures 65 x 45 x 20mm and has a smooth serosal surface.  The ectocervix measures 20 x 30mm and has an unremarkable surface.  On sectioning the endometrium is 6mm in maximal thickness and appears slightly haemorrhagic in areas. The myometrium is 7mmin maximum thickness and contains one cream nodule in the posterior uterine body which measures 5 x 5mm.  The right fallopian tube measures 40mm in length and 5mm in diameter.  Theright ovary measures 23 x 12 x 9mm and has an unremarkable cut surface. The left fallopian tube measures 30mm in length and 5mm in diameter.  The left ovary measures 20 x 13 x 8mm and has an unremarkable cut surface.  There is a parafimbrial cyst which measures 15 x 12 x 12mm.  The cyst is uniloculated and has a smooth thin transparent wall.  There is also a paratubal cyst which measure 3 x 7 x 2mm.
+Blocks 1-3 - full LS through anterior body and cervix; 4-6 - full LS through posterior body and cervix; 7 - section ofnodule in posterior myometrium; 8 - TS through right fallopian tube; 9 - LS through right fimbrial end; 10 - representative right ovary; 11 - TS through left fallopian tube; 12 - LS of left fimbrial end; 13 - sections through left ovary; 14 - section through parafimbrial cyst wall; 15- sections through paratubal cyst wall; 16 & 17 - sections of anterior cervix; 18 - section of posterior cervix; 19 & 20 - sections of anterior uterine body; 21 to 24 - sections through posterior uterine body towards left cornu; 20 to 27 - further sections through posterior uterine body; 25 to 30 - further representative posterior uterine wall; 30 & 31 - right cornu; 32 - left cornu; 33 to 40 - further sections of uterine wall.  (Entire uterus embedded)
+B.  Specimen labelled "Right pelvic node", consists of fibroadipose tissue measuring 45 x 25 x 10mm.  Block 1- one lymph node; 2 - one lymph node; 3 - two lymph nodes.
+C.  Specimen labelled "Left pelvic nodes", consists of two pieces of fibroadipose tissue measuring 25 x 10 x 5mm and 30 x 7 x 5mm.  
+Block 1 - one lymph node; 2 - one lymph node.  (NF/ec 15.5.63). 
+MICROSCOPIC: (Reported by Dr X Loung) 
+A.  Sections of uterus show scant residual high grade adenocarcinoma.  The carcinoma shows usual glandular pattern with high grade nuclei.  No solid component is seen.  The carcinoma is confined within the endometrium and no invasion of underlying myometrium is seen.  There is no evidence of lymphovascular invasion.  A small uterine leiomyoma is also present.  The serosa is unremarkable.  The tumour is completely excised.  The cervix is unremarkable.  Both fallopian tubes are unremarkable.  Both ovaries are unremarkable.  
+B.  Three (3) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of tumour metastasis.
+C.  Two (2) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of tumour metastasis.
+Comment:
+It is not possible to properly classify and grade the tumour because only scant residual tumour is present for examination.  Please refer to previous curettings for tumour classification and grading.Representative slides are shown to Dr X Mclamb.
+DIAGNOSIS:
+A.  Uterus, tubes and ovaries - Adenocarcinoma (see comment).
+B.  Right pelvic node - No evidence of malignancy (0/3).
+C.  Left pelvic node - No evidence of malignancy (0/2).
+ADDITIONAL REPORT (19/3/13):
+
+Immunoperoxidase stains for MSI proteins (Block: A37)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Loss of nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

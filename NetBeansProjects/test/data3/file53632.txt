@@ -1,0 +1,160 @@
+SPR no: 57J768579X
+MRN no: 57376857
+Site_name: MALDON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT BELOW:
+57J76857 (57J768579X) Grossett, TYRONE
+HISTOPATHOLOGY REPORT
+DELORAINE DISTRICT HOSPITAL AND COMMUNITY HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+DCIS ?invasive breast CA, sentinel node for frozen section, L axillary sentinel node.  Left breast DCIS.  Suture medial.
+
+MACROSCOPIC:
+A.  &amp;quot;SENTINEL NODE BIOPSY LEFT BREAST&amp;quot;.  A piece of tissue, measuring 40mm maximum dimension.  One pale node 25mm maximum dimension.
+
+F/S:  &amp;quot;Negative&amp;quot;.  Result was given by phone to Fellow at 4:10pm on 18/08/2071 by Dr. N. Cotrone.
+
+(1  frozen section; 2  remainder).  RS (M-2).
+
+B.  &amp;quot;LEFT BREAST MEDIAL SUTURE&amp;quot;.
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Mastectomy, oriented.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  200mm
+Superior to inferior:  150mm
+Anterior to posterior:  30mm
+WEIGHT:  574g
+SKIN:  Yes, 170x55mm
+NIPPLE:  Yes, 16mm
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:  Non-Standard:  Anterior superior black, Anterior inferior green, Posterior blue.
+DISSECTION:  Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION:  Within the central breast tissue and underlying the nipple is an area of haemorrhage with a cavity consistent with previous resection.  This area is surrounded by areas of fat necrosis with no obvious lesion or ectatic duct identified.  The area measures 30mm medial lateral, 35mm superior inferior, and 22mm anterior posterior.  The area of fat necrosis is 2mm from anterior, 2mm from posterior, 55mm from medial, 80mm from lateral 45mm from superior and 65mm from inferior.  No discrete mass lesion is identified.
+(1&amp;amp;2  composite slices including nipple at site of cavity; 3, 4&amp;amp;5  further sections of cavity centrally, sections taken with anterior breast tissue; 6-10  sections of cavity including posterior margin; 11  upper outer quadrant; 12  lower outer quadrant; 13  upper inner quadrant; 14  lower inner quadrant).  RS (M-14/MC 15/9/2068 km).
+Further blocks:
+Further sections of breast tissue at cavity taken.
+(15-19 sections taken from area with cavity from anterior half of breast [please see diagram]; 20-24 sections of fibrosis adjacent and including cavity from posterior half of breast includes posterior margin).  RS (M-24/MC 23/9/2067 ank)
+MICROSCOPIC:  (Dr N Wehn)
+A.  The sections show lymph node with reactive changes.  CAM5.2 shows dendritic pattern staining only.
+
+B.  The sections show breast in which there is a biopsy cavity with fat necrosis and fibroblastic reaction. The breast tissue shows fibrosis and sclerosing adenosis. Sections of the breast quadrants show focal area of lobular carcinoma-in-situ (LCIS).
+
+There is residual low nuclear grade cribriform pattern ductal carcinoma-in-situ (DCIS) including some microcalcification.  Negative for necrosis. Ductal carcinoma-in-situ is identified in multiple blocks adjacent to the biopsy cavity and extends for a distance for a distance of at least 10mm anterior to the biopsy cavity and distance of at least 6mm posterior to the biopsy cavity.
+Ductal carcinoma in-situ is 8mm from the posterior margin.
+
+A few sclerotic ducts suspicious for small foci of invasion measuring 1mm (B22) and 0.5mm (B20) are identified. Immunohistochemistry for myoepithelial markers pending - supplementary report to follow. These suspicious  foci are at least 8mm from the posterior margin (B20)
+
+
+DIAGNOSIS:
+A.  SENTINEL NODE BIOPSY LEFT BREAST -
+-NEGATIVE FOR MALIGNANCY.
+B.  LEFT BREAST -
+-RESIDUAL LOW NUCLEAR GRADE DUCTAL CARCINOMA IN SITU, FOCI OF ATYPICAL SCLEROTIC DUCTS (?INVASION) - IMMUNOHISTOCHEMISTRY PENDING - SUPPLEMENTARY REPORT TO FOLLOW - SEE TEXT FOR DETAILS.
+21/5/2071 ank
+SUPPLEMENTARY REPORT:
+Further blocks :
+B.  Further blocks of fibrotic area centrally are embedded.
+(25-29 taken from anterior half [medial aspect of fibrotic area]; 30-42 taken from posterior aspect [30-34 medial aspect posteriorly; 35-42 lateral aspect fibrotic area centrally).  RS (M-42/MC 22/9/2071 ank)
+
+Deeper levels of previously examined blocks and multiple further tissue blocks were embedded and examined together with CK5/6 and p-63 immunostaining.
+
+A total of three blocks contain small foci of invasive duct carcinoma which are too small to formally grade but have a Grade 1 morphology.
+These are:
+Block B34 - a 2mm diameter focus of invasive carcinoma;
+Block B20 - a 1.5mm diameter focus of invasive carcinoma with perineurial invasion, and;
+Block B22 - a 1.0mm diameter focus of invasive carcinoma.
+It is estimated that these foci are seen in an area spanning  approximately15mm.
+
+Invasive carcinoma is 8mm from the closest (posterior) margin (B34, B20).
+
+Several of the further tissue blocks also show low nuclear grade DCIS as seen in the initial sections. DCIS is 6mm from the closest (posterior) margin (B33).
+
+See also synoptic report below:
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI:
+Multiple invasive foci
+Number and size of individual foci: 3 foci measuring 2.0mm, 1.5mm, and 1.0mm
+Diameter of multifocal tumour bed: Estimated approximately 15mm.
+&amp;#160;
+INVASIVE CARCINOMA TYPE:
+Invasive carcinoma of no special type (ductal)
+&amp;#160;
+HISTOLOGIC GRADE: 1  &amp;#160;(Foci are too small to formally grade)
+
+&amp;#160;
+MITOTIC RATE: &amp;#160;less than 1&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): DCIS extends at least 10mm anterior to biopsy cavity and 6mm posterior to biopsy cavity.
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identifed
+&amp;#160;
+PERINEURAL INVASION: Present
+&amp;#160;
+SKIN INVOLVEMENT:  Not identified
+
+DERMAL LYMPHOVASCULAR INVASION: Not identified
+&amp;#160;
+NIPPLE INVOLVEMENT: Not identified
+&amp;#160;
+MUSCLE INVOLVEMENT:  Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+
+Nuclear grade: Low
+Architecture / type: cribriform
+Necrosis: Not identified
+Microcalcification of DCIS: Present
+Extensive intraduct component: Positive&amp;#160;
+
+LOBULAR CARCINOMA IN SITU (LCIS): Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Negative
+Distance of invasive tumour to margins:
+Posterior: 8mm
+
+DCIS MARGINS: Negative
+Distance of DCIS to margins:
+Posterior: 6mm
+
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B34 pending
+&amp;#160;
+Other tumour block suitable for further testing: B34
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 1
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1a , pN0
+
+DIAGNOSIS:
+A.  SENTINEL NODE BIOPSY LEFT BREAST -
+-NEGATIVE FOR MALIGNANCY.
+B.  LEFT BREAST -
+-RESIDUAL LOW NUCLEAR GRADE DUCTAL CARCINOMA IN SITU WITH 3 SMALL FOCI OF INVASIVE DUCT CARCINOMA - SEE TEXT FOR DETAILS.
+22.05.2018
+FURTHER SUPPLEMENTARY REPORT:
+IMMUNOSTAINS, block B34
+ER: Positive 100%, 3+
+PgR: Positive 70%, 3+
+HER2: Negative, 0
+Ki67: less than 10%
+24.05.2019

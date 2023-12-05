@@ -1,0 +1,54 @@
+
+Episode No:  08K598304A
+0835983.CMA
+
+OREGEL, PERRY 
+Lab No:  08K59830
+Godmans
+PENRITH  NT  4030
+Specimen: Tissue
+D.O.B:  5/9/2014
+Sex:  F
+Collected: 2/12/2063 at :
+Location:  ACUTE STROKE UNIT - INNISFAIL HOSPITAL
+DR EDDIE CECILY MARANA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+54 year old woman with biopsy SYNCHRONOUS proven high grade serous ovarian carcinoma and grade 1 endometrioid endometrial carcinoma.
+MACROSCOPIC:
+A.  Specimen labelled "Right ovary" consists of a ovarian mass with attached adherent omentum weighing 760g in total and measuring 135 x 130 x 110mm.  The attached omentum measures 140 x 120 x 10mm.  The ovarian mass is solid and cystic.  The solid areas have a nodular cream variegated appearance.  The cystic areas are filled with haemoserous fluid and have both smooth lined and papillary excrescences.  There are no obvious masses or lymph nodes within the omentum.
+Blocks:  1 to 14 - ovary (block 14- block for tumour bank); 15 - omentum.
+B.  Specimen labelled "Uterus, cervix, left ovary, bilateral tubes" consists of a uterus with attached cervix, bilateral fallopian tubes and left ovary weighing 226g in total.  The uterus measures 100 x 60 x 48mm and has a smooth shiny serosal surface.  There is adherent haemorrhagic omentum to the anterior uterine body and neck measuring 120 x 80 x 10mm.  The outer surface of the omentum is haemorrhagic and the distal portion is ragged and covered with fibrin.  The ectocervix measures 60 x 35mm and has an unremarkable surface.  On sectioning the endometrium has fleshy papillary excrescences from the right cornu to the left cornu and posterior uterine body over an area of 25 x 10mm, this area is 90mm from the cervical os.  On sectioning the mass appears confined to the endometrium.  The endometrium is 2mm in maximum thickness and the myometrium is 25mm in maximum thickness.  The myometrium is bulky and contains several fibroids from 2 to 12mm in maximum dimension.  Within the right myometrium near the right cornu there is a well-circumscribed haemorrhagic firm nodule measuring 12 x 10 x 10mm.  The right fallopian tube measures 50mm in length x 10 x 10mm in maximum dimension.  The left fallopian tube measures 48mm in length x 5 x 5mm in maximum dimension.  The left ovary measures 35 x 25 x 20mm and has multiple smooth lined cyst within the ovary, ovarian parenchyma.  The cysts are smooth lined and filled with haemoserous fluid.  One cyst is filled with haemorrhagic material.
+Blocks:  1 to 4 LS of anterior body and cervix; 5 & 6 - further endometrium of anterior body; 7 & 8 - haemorrhagic nodule; 9 to 12 - full LS of posterior body and cervix; 13 - endometrium from posterior body; 14 fallopian tube; 15 - right parametrial tissue; 16 - left fallopian tube; 17 to 20 - left ovary, AE; 21 - left parametrial tissue; 22 - omentum; 23 to 27 - further endometrium.
+C.  Specimen labelled "Omentum" consists of two pieces of fibrofatty tissue measuring170 and 100mm in maximum dimension.  No masses or lymph node are identified.  Representative in 3 blocks.
+D.  Specimen labelled "Right external iliac lymph node" consists of a piece of fibrofatty tissue measuring 40mm in maximum dimension.  There are two lymph nodes identified from 5 to 12mm in maximum dimension.
+Blocks:  1 - 2 lymph nodes; 2 - fibrofatty tissue, AE.
+E.  Specimen labelled "Right obturator lymph node" consistsof a piece of fibrofatty tissue measuring 40mm in maximum dimension.  There is one lymph node identified measuring 33mm in maximum dimension.  AE in 2 blocks.
+F.  Specimen labelled "Left obturator lymph node" consists ofa piece of fibrofatty tissue measuring 80mm in maximum dimension.  There are lymph nodes identified from 15 to 28mm in maximum dimension.
+Blocks:  1 - one lymph node bisected; 2 - one lymph node bisected; 3 - one lymph node bisected.
+G.  Specimen labelled "Descending colon epiploicae" consists ofseven pieces of haemorrhagic fibrofatty tissue measuring from 5 to 45mm in maximum dimension.  AE 3 blocks.  (TO: MB; OW/rt 3.12.63)
+MICROSCOPIC (Reported by Dr B Nocks):
+A.  Sections show a partially necrotic clear cell carcinoma of the ovary.  There is a 3mm focus of carcinoma on the ovarian surface.  The tumour is negative for ER and PR.
+B.  Sections show a very small amount of residual grade 1 endometrioid adenocarcinoma of theendometrium.  There are also small foci of complex hyperplasia.  There is no myometrial or lymphvascular invasion.  The ectocervix and endocervix are uninvolved and unremarkable.  The myometrium shows adenomyosis and leiomyomas.  The uterine serosa and parametrium shows endometriosis.  The left ovary shows follicular cysts.  Both tubes are unremarkable.  The omentum shows no evidence of malignancy.
+C.  The omentum shows no evidence of malignancy.
+D.  Two lymph nodes show no evidence of malignancy.
+E.  One lymph node shows no evidence of malignancy.
+F.  Three lymph nodes show no evidence of malignancy.
+G.  Sections show two 1mm foci of clear cellcarcinoma admixed with dense adhesions.
+DIAGNOSIS:
+Clear cell carcinoma of the right ovary with focal ovarian surface involvement and tiny foci of clear cell carcinoma on the descending colon.
+Small foci ofgrade 1 endometrioid adenocarcinoma of the endometrium.  No myometrial or lymphvascular invasion.  Cervix uninvolved.
+Six lymph nodes and the omentum are negative.
+(If MMR staining on the endometrial tumour is required, please contact the Envoi pathology lab to perform this on the curetting specimen as there is too little residual carcinoma in this hysterectomy specimen).
+ADDITIONAL REPORT (16/1/63):
+
+Immunoperoxidasestains for MSI proteins:
+ 
+MLH1:  Preserved nuclear staining
+PMS2:  Preserved nuclear staining 
+MSH2:  Loss of nuclear staining 
+MSH6:  Loss of nuclear staining 
+Comment:  
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2, and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

@@ -1,0 +1,63 @@
+SPR no: 39N695929C
+MRN no: 3956959
+Site_name: MOURA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  39N695929C
+395695.ZFY
+
+STUBLER, DANAE
+Lab No:  39N69592,39N69592
+Lemmon
+BATHURST  Queensland  4468
+Specimen: Washings,Tissue
+D.O.B:  18/2/1995
+Sex:  F
+Collected: 7/1/2064 at :
+Location:  WEST GYNAECOLOGY - BATLOW/ADELONG MULTI PURPOSE SERVICE
+DR MAEGAN RUBIE HERMANCE
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left external iliac lymph node. 73 year old female with 5 months PMB + uterine mass &amp;gt;4cm in size at hysterectomy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left external iliac lymph node&amp;#8221;, consists of a piece of fibrofatty tissue 22 x 15 x 15mm containing a lymph node 20mm in maximum dimension.  The cut surface appears unremarkable.  Specimen bisected, half embedded for FS.
+Block 1- FS; 2 &amp;#8211; remainder of node; 3 &amp;#8211; remainder of fatty tissue.  AE.
+B.  Specimen labelled &amp;#8220;Uterus, cervix, tubes and ovaries&amp;#8221;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 70.2g when fresh. The uterus measures 70 x 40 x 20mm and has a smooth shiny serosalsurface.  The ectocervix measures 22 x 25mm and appears unremarkable. The specimen was received opened with several fragments of tumour identified separately in the specimen.  Onopening there is an exophytic friable necrotic tumour arising predominantly from the anterior uterine body measuring 45 x 25mm anteriorly and 35 x 15mm posteriorly.  Anteriorly thetumour is 17mm in maximum thickness over a total wall thickness 27mm. The tumour appears to be predominantly on the endometrial surface and not definitely invading into the myometrium. Posteriorly the tumour is 7mm in maximum thickness over a total wall thickness of 19mm.  Otherwise the myometrium appears unremarkable. The right fallopian tube measures 50mm in length with a maximum external diameter of 6mm.  The right ovary measures 25 x 12 x 6mm and has an unremarkable cut surface.  The left fallopian tube measures 48mm in length with a maximum external diameter of 5mm. The left ovary measures17 x 10 x 5mm and has an unremarkable cut surface.
+Block 1-4 &amp;#8211; full LS of anterior body and cervix; 5-7 &amp;#8211; full LS of posterior body and cervix; 8-10 &amp;#8211; further anterior uterus with tumour; 11 &amp;amp; 12 &amp;#8211; further posterior uterus with tumour; 13 &amp;#8211; right tube; 14 &amp;#8211; right ovary; 15 &amp;#8211; left tube; 16 &amp;#8211; left ovary; 17 &amp;#8211; reserve block.
+C.  Specimen labelled &amp;#8220;Right externaliliac lymph nodes&amp;#8221;, consists of a piece of ragged fatty tissue 50mm in maximum dimension.  One lymph node 25mm is identified and several further ? lymph nodes are identified.  Block 1 - ?lymph nodes; 2 &amp;amp; 3- one lymph node serially sectioned.
+D.  Specimen labelled &amp;#8220;Left external iliac lymph node&amp;#8221;, consists of a piece of fatty tissue 40mm.  Two lymph nodes are identified 6 and 20mm.  Block 1- one lymph node; 2 &amp;#8211; one lymph node serially sectioned.
+E.  Specimen labelled &amp;#8220;Left obturator lymph nodes&amp;#8221;, consists of three pieces of fatty tissue 20, 35 and 38mm.  Six lymph nodes are identified from 5-22mm.
+Block 1 &amp;amp; 2 &amp;#8211; lymph nodes; 3 &amp;#8211; one lymph node serially sectioned.
+F.  Specimen labelled &amp;#8220;Right external iliac lymph nodes&amp;#8221;, consists of two pieces of fatty tissue 10 and 60mm.  Two possible lymph nodes are identified 5 and 13mm.  Block 1- lymph nodes; 2 &amp;#8211; remainder of fatty tissue. AE.
+G.  Specimen labelled &amp;#8220;Right obturator lymph node&amp;#8221;, consists of a piece of fatty tissue 40mm in maximum dimension.  Multiple lymph nodes are identified from 5-25mm. Block 1- lymph nodes; 2 &amp;#8211; one lymph node serially sectioned. AE.
+(TO: RR/ec  8.1.64)
+FROZEN SECTION:
+Negative for tumour.
+Result to Dr Mauss by Dr J Chunn 11am on 5.11.14.
+MICROSCOPIC: (Reported by DrJ Horman)
+A.  Paraffin embedded sections of the left external iliac lymph node shows no evidence of malignancy (0/1).
+B.  Sections of the endometrial tumour show a mixed clear cell and endometrioid endometrial adenocarcinoma. The clear cell component comprises approximately two thirds of the tumour and consists of atypical clear cells with hobnailing overlying hyalinsed stromal cores (grade 3). The endometrioid adenocarcinoma consists predominantly of complex, crowded glands with villoglandular and cribriform architecture and minimal intervening stroma lined by moderately to highly pleomorphic carcinoma cells (FIGO architecture grade 1; nuclear grade 3 = endometrioid grade 2). Although much of the carcinoma is exophytic with broad areas of tumour associated necrosis, in areas, nests of carcinoma cells invade into myometrium to a depth of 2.2mm into a uterine wall 5.5mm thick. There is multifocal lymphovascular space invasion. There is no evidence of serosal surface involvement.
+The cervix, bilateral fallopian tubes and ovaries appear unremarkable.
+C.  Sections of the three rightexternal iliac lymph nodes show no evidence of malignancy (0/3).
+D.  Sections of the two left external iliac lymph nodes show no evidence of malignancy (0/2).
+E.  Sections of the seven left obturator iliac lymph nodes show no evidence of malignancy (0/7).
+F.  Sections of the two right external iliac lymph nodes show no evidence of malignancy (0/2).
+G.  Sections of the five right obturator lymph nodes show no evidence of malignancy (0/5).
+DIAGNOSIS:
+A.  Left external iliac lymph node: No evidence of malignancy (0/1).
+
+B.  Uterus, cervix, tubes and ovaries:
+Mixed clear cell and endometrioid endometrial adenocarcinoma.
+Carcinoma invades to a depth of 2.2mm into a uterine wall 5.5mm thick.
+There is multifocal lymphovascular space invasion.
+Cervix, bilateral fallopian tubes and ovaries show no significant abnormality.
+
+C.  Right external iliac lymph nodes: No evidence of malignancy in three lymph nodes (0/3).
+
+D.  Left external iliac lymph nodes: No evidence of malignancy in two lymph nodes (0/2).
+
+E.  Left obturator lymph nodes: No evidence of malignancy in seven lymph nodes (0/7).
+
+F.  Right external iliac lymph nodes: No evidence of malignancyin two lymph nodes (0/2).
+
+G.  Right obturator lymph nodes: No evidence of malignancy in five lymph nodes (0/5).

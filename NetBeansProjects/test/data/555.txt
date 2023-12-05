@@ -1,0 +1,46 @@
+
+ 2996828.XYK
+MECZYWOR, ALEIDA
+29X68288
+
+Last edited : 9/10/2063		Page: 2
+CLINICAL:
+Anterior resection.  Adherent omentum and anterior abdominal wall.  No evidence of liver or peritoneal mets.  
+MACROSCOPIC:
+Specimen labelled "Anterior resection" consists of a segment of large bowel measuring 200mmin length x 30 x 30mm in maximum diameter.  One surgical margin is inked black and the other blue.  The serosa is smooth and shiny aside from an area of adherent omentum near the bluesurgical margin.  The adherent omentum covers an area of 50 x 55mm which corresponds to a nodular pale firm tumour at the serosa.  There is a second area of adherent omentum over 40 x 50mm which also corresponds to an area of tumour at the serosal surface.  The attached omentum measures 60 x 40 x 50mm and 50 x 50 x 10mm respectively.  On opening, the mucosal surfaceappears unremarkable.  There is a circumferential exophytic necrotic tumour measuring 30 x 35mm with a circumferential length of 60mm.  The tumour is 35mm from the blue surgical marginand 180mm from the black surgical margin.  The tumour appears to invade through to the serosal surface and through to the mesocolon.  
+Blocks: 1 - blue surgical margin; 2 - black surgical margin; 3 & 4 - tumour; 5 & 6 - (paired blocks) tumour and blue surgical margin; 7 & 8 - (paired blocks) smaller adherent omentum and tumour; 9 to 11 - (paired blocks) tumour and larger adherent omentum; 12 to 14 - (paired blocks) tumour and larger adherent omentum; 15 - normal bowel; 16 - apical lymph nodes; 17 to 22 - lymph nodes.  (RE/ta 7/10/63)  
+MICROSCOPIC (Reported by Dr F Wims and Dr F Hefferan): 
+Sections show a moderately differentiated adenocarcinoma, invading the pericolic fat.  The lesion is associated with extensive inflammation and areas of suppuration in the pericolic fat.  The adherent omentum appears inflamed, but shows no evidence of malignancy, in keeping with pT3.
+Site of tumour: Mid descending colon (ascertained via operation report)	
+Maximum tumour diameter:   60mm
+Tumour perforation:   No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Well to moderately differentiated (low grade)
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Notinvolved
+Histological measurement from tumour to non-peritonealised margin:  35mm
+Lymph nodes
+Number of lymph nodes present: 17	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+ Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumour status
+R0	Noresidual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear stainingMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining 
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3    pN0     pMX     R0	
+

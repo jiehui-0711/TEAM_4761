@@ -1,0 +1,70 @@
+
+Episode No:  65V043971R
+658043.YSF
+
+EBER, MANUEL 
+Lab No:  65V04397
+Du Sault
+KATHERINE    3317
+Specimen: Tissue
+D.O.B:  29/1/1988
+Sex:  F
+Collected: 16/09/2013 at 10:18
+Location:  Anatomical Pathology-MANSFIELD DISTRICT HOSPITAL
+DR ARMAND GALE ANDREU
+Distribution:   FILE-COPY, DR Belliard, DR Ricciardone,   NSW-CANCER-REGISTRY
+CLINICAL:
+Transverse colon cancer.  Extended right hemicolectomy + omentum. 
+MACROSCOPIC:
+A.   Specimen labelled "Right hemicolectomy", consists of a right hemicolectomy including terminal ileum, caecum up to ascending colon.  The ileum measures 45mm in length x 25 x 20mm in maximum dimension.  The caecum to ascending colon measures 130mm in length x 50 x 40mm in maximum dimension.  There is no appendix identified.  The serosa is smooth and shiny.  There is fat wrapping of the attached mesocolon around the caecum.  The wall thickness is 3mm.  On opening there is a exophytic tan tumour measuring 40 x 40mm to a depth of 5mm along the right colon, 30mm from the distal surgicalmargin (ascending colon), 85mm from the proximal surgical margin (terminal ileum) and 50mm from the ileal caecal valve.  The rest of the mucosa appears unremarkable.  
+Block 1 - terminal ileum margin; 2 - ascending colon margin; 3-7 - tumour (3 & 4 - paired blocks; 5 & 6 - paired blocks); 8 - normal bowel; 9-14 - lymph nodes (9 - apical lymph nodes). 
+B.   Specimen labelled "Omentum", consists of a piece of fibrofatty tissue measuring 185 x 120 x 30mm.  The omentum is haemorrhagic in patchy areas.  No definite solid areas of lymph nodes are identified within the omentum.  Representative in 3 blocks.
+(TO: KT;AH/ec  18.11.63) 
+ 
+MICROSCOPIC: (Reported by Dr Q Heffley)
+A.
+COLORECTAL CARCINOMA PROFORMA
+
+Site of tumour:  Transverse colon	
+Maximum tumour diameter:  40mm
+Tumour perforation:     No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends: Not involved
+Distance of tumour to nearer cut end:  30mm (Distal)
+Lymph nodes
+Number of lymph nodes present:  14 	
+Number of lymph nodes involved:  2 (up to 2.5mm in size, apical node not involve, no extranodal spread)
+	
+pN1b	Metastases in 2-3 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN1b     pMX     R0	
+
+B. Sections show omental fat with no evidence of malignancy.
+DIAGNOSIS
+A. Right hemicolectomy:
+- Moderately differentiated adenocarcinoma invading pericolic fat (pT3), margins clear
+- Metastatic carcinoma in 2 out of 14 lymph nodes (pN1b)
+B. Omentum: no evidence of malignancy
+

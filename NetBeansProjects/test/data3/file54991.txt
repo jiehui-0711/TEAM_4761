@@ -1,0 +1,54 @@
+SPR no: 86L853655U
+MRN no: 86485365
+Site_name: DENILIQUIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report86L85365 (86L853655U) MCKILLIPS, Wren
+HISTOPATHOLOGY REPORT
+YARRA RANGES HEALTH HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Small bowel.
+Appendix.
+Colon.
+Omentum.
+Peritoneal disease.
+Previous Hx of ultralow anterior resection in October 2069.  Presented with small bowel obstruction with peritoneal disease.  PCI 33.  ? appendix primary.
+
+MACROSCOPIC:
+&amp;quot;SMALL BOWEL, PERITONEAL DISEASE, OMENTUM, COLON, APPENDIX&amp;quot;.  Received within one specimen jar multiple tissue fragments with confluent involvement of multiple white serosal deposits including:
+
+A complex specimen including multiple segments of adherent small and large bowel measuring 50x15mm, 160x25mm, 125x55mm and 170x40mm with an adherent segment  of solid omentum (omental cake) 150x100x20mm and skin (umbilicus)  35x25 mm with underlying peritoneum 70mm and multiple adherent peritoneum strips over the bowel serosa.
+
+Separate areas of mucosal ulceration are identified, one of which are associated with an omental nodule 35x20x10 mm at which the tumor likely arise from the serosal surface and invades the full thickness of bowel wall. . The remainder ulcerations are 10-15 mm in maximum diameter and associated with serosal deposits and have white firm cut surface. Scattrred coin segments of mucosa adherent to the bowel wall are identified.
+
+(1&amp;amp;2 omental nodule ulcerating the underlying mucosa; 3&amp;amp;4 further mucosal ulceration with serosal nodules; 5 further serosal nodule involving segment of free bowel; 6&amp;amp;7 umbilicus with underlying serosa; 8&amp;amp;9 different segments of bowel involvement; 10 ? three lymph nodes; 11 omental cake)
+
+A segment of bowel possible representing the right colon measuring 90x40mm with an adherent serosal mass 30x30x20mm. The cut surface reveals firm white tumour invading into the fat to approach the mucosal surface. no definite appendix lumen is identified.
+
+(12&amp;amp;13 full face of serosa to mucosa; 14 further mass undermining the mucosa; 15 ? three lymph nodes)
+
+Four segments of bowel measuring 50-160 mm in length with multiple serosal deposits. The shortest segment has a defect ( ? iatrogenic ) measuring 15x10mm with firm edges. The longest segment has adherent proximal and distal bowel loops.
+
+(16 RS of the defective segment; 17 segment of two adherent bowel lobes; 18 RS serosal adhesions)
+
+A fibrofatty piece of tissue consistent with omentum 200x150x40mm about 30% is thickened with firm white cut surface (omental cake).
+
+(19 RS)
+
+Multiple fragments of fibrofatty tissue some with peritoneal covering and some with adherent bowel mucosa  Firm white lesions are identified on the cut surface. One fragment represents a stomal opening 25x20 mm with unremarkable mucosa.
+
+(20 RS).  RS (M-20/ZH 17/11/2070 ank)
+
+MICROSCOPIC:  (Dr W Dannecker)
+Sections of the first described piece of tissue show small bowel with multiple adhesions including adherent omentum and skin and skeletal muscle consistent with abdominal wall. There is extensive involvement of the tissues by moderately to poorly differentiated adenocarcinoma with fibrosis and desmoplastic stromal reaction.  In many areas there is transmural involvement of the segments of small bowel.  The carcinoma is also seen in the section from the umbilicus within the dermis.  No epidermal involvement is seen.  Carcinoma is seen within the fatty and skeletal muscle tissues of abdominal wall and within omentum.  One lymph node is identified and is involved by adenocarcinoma.
+Sections of the next described segment of bowel demonstrate that small and large bowel including ileocaecal.  There is transmural involvement of the bowel wall by moderately to poorly differentiated adenocarcinoma. This is also seen in the region of the ileocaecal valve.  No residual appendiceal structure is identified in the sections.  One of two lymph nodes is involved by adenocarcinoma.
+Sections of the next described segments of bowel demonstrate small bowel with transmural involvement by adenocarcinoma.
+Sections of the separate pieces of soft tissue show involvement by adenocarcinoma.
+A portion of skin with adjacent bowel is consistent with stoma site.  The stoma site is involved by adenocarcinoma.
+Immunohistochemistry (Block 14); CK7 is negative.  CK20 shows focal positive staining. CDX2 shows patchy staining.
+The stains for MLH1, PMS2, MSH2, and MSH6 show positive (retained) nuclear staining. This is the normal (wild-type) staining pattern.
+Comment : There are features of widespread involvement of the peritoneum and segments of small and large bowel by moderately to poorly differentiated adenocarcinoma. The immunohistochemical staining shows focal CK20 and patchy CDX-2 positivity. The appearances could be consistent with although are not specific for colorectal origin and other primary sites are not excluded by either the morphology or the immunohistochemical staining pattern. Clinical correlation is recommended to determine primary site. The appendix has not been identified morphologically.
+DIAGNOSIS:
+PERITONECTOMY SPECIMEN - ADENOCARCINOMA.
+20/7/2071 ank

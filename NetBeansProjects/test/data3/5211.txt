@@ -1,0 +1,79 @@
+Episode No:  33U941101N
+3379411.CEN
+
+PLUTA, YSABEL REESE 
+Lab No:  33U94110
+Taubman
+GUNDAGAI  New South Wales  3235
+Specimen: Tissue
+D.O.B:  14/11/1988
+Sex:  F
+Collected: 11/12/2065 at :
+Location:  POSTOPERATIVE RECOVERY-ROYAL PRINCE ALFRED HOSPITAL
+DR Toby Stanford DAMPIER
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Whipple's procedure.  Dr Ignacio orientated the specimen and inked portal vein margin, SMA marginand uncinate margin.
+MACROSCOPIC:
+A.  Specimen labelled "Whipples" consists of a Whipple's specimen with small bowel, distal stomach, head of pancreas and gallbladder.  The length of small bowel measures 145mmin length with a length of distal stomach measuring 28mm in length.  The section of pancreas included measures 62 x 58 x 50mm.  The gallbladder was received intact and measures110mm in length with a maximum external diameter of 55mm.  The common hepatic duct is marked by a silk suture.  The portal vein bed is inked blue, the SMA bed is inked red, the uncinate green, posterior surface black, anterior surface yellow and the pancreatic neck resection margin is inked black.  The common bile duct appears dilated with a maximum diameterof 14mm.  The common bile duct is probed and appears obstructed near the ampulla.  At the site of the ampulla there is a cream, firm, ill defined mass measuring 17mm in maximum dimension.  The tumour appears to be obstructing the main pancreatic duct which is dilated to a maximum diameter of 5mm.  The tumour appears to come close to the posterior surface, is 80mm from the anterior surface, 20mm from the portal vein margin, 30mm from the SMA margin and well clear of thepancreatic neck resection margin.  The uncinate process appears firm and fibrous.  This area is well separate from the main tumour.  The serosa of the gallbladder appears unremarkable.  The maximum thickness of the wall is 2mm.  The mucosa appears unremarkable.  No gallstones are identified.  A piece of greater omentum fat is identified measuring 430 x 190 x 20mm.  No suspicious areas are identified.
+Blocks:  1 - common hepatic duct resection margin; 2 & 3 - bowel resection margin; 4 - pancreatic neck resection margin; 5 to 8 - serial TS from inferior to superior through tumour; 9 & 10 - inferior aspect of uncinate margin; 11 - hilar node; 12 - one hilar node serially sectioned; 13 - hilar nodes are seen; 14 - hilar nodes; 15 - lesser omental node; 16 - lesser omental node; 17 - cystic duct node; 18 - gallbladder body; 19 - gallbladder fundus; 20 to 22 - representative greater omentum.
+B.  Specimen labelled "Coeliac, hepatic lymph node" consists of a piece of fatty tissue 50 x 35 x 11mm.  Two lymph nodes are identified measuring 15 and 30mm.
+Blocks:  1 - one lymph node serially sectioned; 2 to 4 - one large lymph node serially sectioned.
+C.  Specimen labelled "Aortocaval lymph node" consists of one lymph node with attached fat measuring 30mm in maximum dimension.  Serially sectioned.  AE 2 blocks.  (UN/rt 11.12.65)
+
+
+MICROSCOPIC (Reported by Dr K Hills & registrar Dr K Schmeeckle):
+A - C.  Sections show moderate to poorly differentiated adenocarcinoma arising within the Ampullaof Vater and extending into pancreas and peripancreatic soft tissue.  The features are as follows:
+
+Histological tumour type
+Ductal adenocarcinoma
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Microscopic tumour sites 
+Ampulla of Vater
+
+Extent oftumour invasion 
+Pancreas
+Sphincter of Oddi
+Duodenal wall
+Peripancreatic soft tissues
+
+Maximum tumour diameter
+25mm
+Lymphovascular invasion 
+Present
+Typeof vessel
+Vein - Extrapancreatic vascular invasion giving rise to foci ofinvasive adenocarcinoma
+
+Perineural invasion 
+Present
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Present
+Pre-invasive lesion 
+Present - High grade dysplasia present within ampullary glands
+Margins:
+Pancreatic neck:  Well clear (greater than 10mm)
+Common bile duct:  Well clear (greater than 10mm)
+Portal vein (superior mesenteric vein):  Well clear (greater than 10mm)
+Periuncinate soft tissue:  0.2mmcontained within a lymph node
+Superior mesenteric artery:  7mm
+Surfaces:
+Anterior:  Well clear (greater than 10mm)
+Posterior:  1mm from an area of extrapancreatic lymphovascular invasion
+Lymph nodes:
+Number found:  17
+Number involved:  2
+1 node lymph node by direct invasion (specimen A)
+1 aortocaval lymph node (specimen C) with extranodal spread.
+Other pathologies:
+There is marked dilatation of the common bile and pancreatic ducts with associated pancreatic acinar atrophy.  The gallbladder shows flattening of the mucosa with no other significant abnormality.
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+AMPULLA OF VATER
+T4 Tumour invadesperipancreatic soft tissues or other adjacent organs or structures other than pancreas
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+Distant metastasis category (pM) 
+MX Not assessable by histology
+

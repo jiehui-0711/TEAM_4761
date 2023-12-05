@@ -1,0 +1,127 @@
+DateOfBirth
+199407300000
+
+
+SiteName
+MERCY HOSPITAL FOR WOMEN
+
+
+FirstName
+Gerding
+
+
+SPRID
+67T367609P
+
+
+MRN
+6773676
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+Gattison
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Colonic carcinoma.  Confirmed on colonoscopy.  Lap R hemicolectomy.  No Mets, no perforation.  NB:  Specimen received fresh.  Small pieces sampled and stored for Biobanking on 26/08/2018 at 17:10hr by LM.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;, consists of right hemicolectomy specimen measuring 130mm in length, consisting of 50mm of terminal ileum incontinuum with 110mm of caecum and ascending colon.  There is attached appendix measuring 50mm in length with an outer diameter of 4mm.  Mesocolon measures up to 50mm.  Situated 75mm from the proximal resection margin, 40mm from distal resection margin is a plaque like lesion measuring 35mm x 30mm occupying 90% of the open luminal circumference.  The tumour is on the mesenteric surface.  The serosal surface shows fat wrapping around the tumour area.  The rest of the serosal surface is unremarkable.  On sectioning the tumour invades through the muscularis propria into fat.  Several lymph nodes identified.
+Blocks: 1 - Proximal and distal resection margin; 2 - RS of normal terminal ileum; 3 - RS of normal colon; 4 &amp;amp; 5 - appendix (block 4 longitudinal sections of base + one TS); 5 - two longitudinal sections of tip plus one TS; 6 to 9 - full profile of tumour; 10 to 12 - RS with deepest invasion; 13 to 25 - lymph node (13 - one lymph node; 14 - one lymph node; 15 - one lymph node; 16 - one lymph node; 17 - one lymph node; 18 - one lymph node; 19 - one lymph node; 20 - one lymph node; 21 - one lymph node; 22 - one lymph node; 23 - lymph nodes as seen; 24 - one lymph node; 25 - one lymph node).
+(TO:LM/eh 28/8/66)
+
+
+MICROSCOPIC (Reported by A/Prof S Nies and Dr S S Lucken):
+Macroscopic Description
+
+Site of tumour: Right hemicolectomy
+Maximum tumour diameter:   35  mm
+Distance of tumour to nearer cut end: 40mm ( distal margin)
+Tumour perforation:      No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin:  0.5mm (12)
+
+Lymph nodes
+Number of lymph nodes present: 17
+Number of lymph nodes involved: 1
+
+
+pN1a Metastases in 1 regional LN
+
+Lymphovascular invasion
+Present (Mural / Extramural) (block 12).
+
+Perineural invasion
+Carcinoma is seen wrapping around nerves within the main tumour mass, but no distant perineural invasion is identified.
+
+Histologically confirmed distant metastases
+
+pMX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+Sections of the appendix show sessile serrated adenoma. No evidence of malignancy.
+
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS:
+Right hemicolectomy:
+- 35mm moderately differentiated adenocarcinoma clear of resection margins
+- 0.5mm clearance of tumour from the non peritonealised surface.
+- 1/17 lymph nodes with metastasis
+- Sessile serrated adenoma in appendix.
+- pT3     pN1a     pMx     R0	 (TNM 8th)
+
+
+
+
+
+SpecimenReceivedDate
+2761-04-09 00:00:00
+
+
+LastName
+ADRIAN-Dattilo

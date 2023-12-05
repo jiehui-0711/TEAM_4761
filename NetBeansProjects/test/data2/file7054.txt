@@ -1,0 +1,165 @@
+DateOfBirth
+200612030000
+
+
+SiteName
+AUGUSTA HOSPITAL
+
+
+FirstName
+Sauceman
+
+
+SPRID
+92Z870794X
+
+
+MRN
+92987079
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+***AMENDED REPORT: Dr Y Trapasso (19.11.2068)
+
+CLINICAL:
+Hepatic flexure cancer.
+Specimen sampled for tumour banking.
+
+
+MACROSCOPIC:
+Specimen labelled: &amp;quot;Right hemicolectomy&amp;quot;.
+
+Specimen
+Specimen length: 190mm
+Length of terminal ileum: 20mm
+Length of caecum/ascending colon: 165mm
+Thickness of mesocolon: up to 80mm
+Appendix: 65mm in length and a diameter of 5mm. The serosal surface is smooth and shiny.
+
+Tumour
+Location:  Ascending colon/distal aspect of the specimen.
+Description: A coin-like lesion with raised edges and ulcerated centre. Tumour Invades into muscularis propria.
+Maximum tumour diameter: 40mm, occupying 80% of the circumference of the colon
+Perforation:  Absent
+Appearance of serosa overlying tumour: Obscured by mesocolic fat.
+Distance of tumour to proximal cut end: 110mm.
+Distance of tumour to distal cut end: 25mm.
+Distance of tumour to circumferential margin:  Well clear.
+
+Other
+Polyps: A polyp of 9mm is identified proximal to the tumour, 20mm away.
+Adherent structures: Not applicable.
+Other: Not applicable.
+Inked margins: Proximal blue, distal black.
+
+Blocks: 1 - LS of proximal margin; 2- LS of distal margin; 3 - LS of ileocaecal valve; 4 &amp;amp; 5 - appendix; 6-8 - full face of tumour with adjacent normal; 9 &amp;amp; 11- second full face of tumour with deepest invasion; 12 - tumour with deepest invasion; 13 - polyp; 14 - shave of apical region; 15 - one lymph node; 16 - one lymph node; 17-22 - lymph nodes as seen; 23-25 - RS of mesocolic fat.
+(TO:JT/ec 11/6/72)
+
+
+MICROSCOPIC: (Reported by Dr Y Komatsu)
+The hepatic flexure tumour is a moderately differentiated adenocarcinoma. A synoptic report for colorectal adenocarcinoma follows:
+
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+T3    Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:   Not involved
+Histological measurement from tumour to non-peritonealised margin:
+
+Lymph nodes
+Number of lymph nodes present:  Twenty-three
+Number of lymph nodes involved:  0 of 23
+
+Lymphovascular invasion
+Present (intramural)
+Extramural venous invasion is present focally (Block 10).
+
+Perineural invasion
+Absent
+
+Tumour budding
+Bd1 (low):   0 - 4 buds per 0.785 sq mm
+
+Histologically confirmed distant metastases
+MX    Cannot be assessed histologically
+
+Background abnormalities/other comments
+The appendix shows fibrous obliteration of the tip. The separate polyp identified macroscopically is a tubulovillous adenoma (low grade).
+
+Residual tumour status
+R0    No residual tumour
+
+Response to neoadjuvant therapy
+Not applicable
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1    Preserved nuclear staining
+PMS2    Preserved nuclear staining
+MSH2    Preserved nuclear staining
+MSH6    Preserved nuclear staining
+
+Comment:  Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+BRAF V600E immunohistochemistry
+Not performed
+
+Reserve block for molecular studies:  12
+Reserve block for tumour banking:  8
+
+Summary - AJCC 8th Edition
+Adenocarcinoma NOS
+T3       MX    R0
+
+
+DIAGNOSIS:
+Right hemicolectomy: 40mm moderately differentiated (pT3) adenocarcinoma, LVSI, clear of margins; no evidence of malignancy in twenty-three lymph nodes (0/23).
+
+
+***AMENDED REPORT: Dr Y Garibay (19.10.2070)
+The case was reviewed for presentation at the clinical MDT meeting.
+In deeper levels, a focus of extramural venous invasion was identified (block 10).
+
+
+DIAGNOSIS:
+Focal extramural venous invasion is present (the above synoptic has been amended in underline/bold).
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2051-10-02 00:00:00
+
+
+LastName
+Tassinari

@@ -1,0 +1,47 @@
+SPR no: 10G534220X
+MRN no: 1025342
+Site_name: MAITLAND HOSPITAL (NSW)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report10G53422 (10G534220X) Katzenbach, RHETT Wilfred
+HISTOPATHOLOGY REPORT
+KYABRAM & DISTRICT HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right breast 1 o&amp;apos;clock 4cm FN.
+Re-excision anterior, inferior, posterior margins.
+0.3mm from DCIS.
+Right breast 1 o&amp;apos;clock anteroinferior, posterior margin, long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;RIGHT BREAST 1 O&amp;apos;CLOCK 4cm FN RE-EXCISION ANTERIOR, INFERIOR, POSTERIOR MARGIN&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Re-excision oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  45mm
+Superior to inferior:  15mm
+Anterior to posterior:  70mm
+WEIGHT:  36g
+SKIN:  Yes. Ellipse measuring 35x4mm with a scar measuring 32mm maximum length
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:
+Non-standard:  Superior red, inferior green, medial blue, lateral black
+DISSECTION: Cut from anterior to posterior
+Number of slices: 19
+FINDINGS / LESION:  There is a concavity overlying the superior surface consistent with previous surgery.  On sectioning the cut surface is predominantly fatty.  No discrete lesion is identified macroscopically.  Every other slide embedded.
+(1&amp;amp;2 LS through anterior margin slice 1; 3 slice 3; 4&amp;amp;5 slice 5; 6&amp;amp;7 slice 7; 8&amp;amp;9 slice 9; 10&amp;amp;11 slice 11; 12 slice 13 bisected; 13 slice 15 bisected; 14 slice 17 bisected; 15 LS through posterior margin slice 19).  RS (M-15/MC 4/8/2071 ank)
+MICROSCOPIC:  (Dr. E. Magaldi)
+The breast tissue shows an organising biopsy cavity wall lined by organising granulation tissue, fat necrosis and foreign body granulomatous inflammation. The adjacent breast shows benign breast ducts and lobules with patchy chronic inflammation. There is no residual in-situ or invasive malignancy.
+
+
+
+DIAGNOSIS:
+RIGHT BREAST 1 O&amp;apos;CLOCK 4cm FN RE-EXCISION ANTERIOR, INFERIOR, POSTERIOR MARGIN:
+- ORGANISING BIOPSY CAVITY.
+- NO IN-SITU OR INVASIVE MALIGNANCY.
+6/6/2070 cy

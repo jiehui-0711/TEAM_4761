@@ -1,0 +1,26 @@
+SPR no: 62I207180F
+MRN no: 2197640
+Site_name: MAITLAND HOSPITAL (SA)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Complex right ovarian mass.  Dysfunctional perimenopausal bleeding.  Right complex pelvic mass Ca 125 22.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a fallopian tube, 75 x 9 x 9mm, with an attached ovary, 115 x 95 x 62mm.  The ovarian capsule is intact.  The cut surface of the ovary has a predominantly lobulated and solid tan appearance, with scattered areas of haemorrhage.  Two representative sections of ovary taken for frozen section.  Remainder in NBF for paraffin section.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 &amp;amp; 4 - LS complete fimbrial end fallopian tube, mid TS; 5 to 15 - representative ovary.
+FROZEN SECTION REPORT:
+Favour primary ovarian, ?stromal tumour ?granulosa cell tumour - await paraffin sections.
+Results phoned to Dr COLUMBUS Champagne by Dr Q Nakatsu / Q Wanty at 15:00 hrs on 20/04/69.
+B.  Specimen labelled &amp;quot;Uterus/cervix, left tube and ovary&amp;quot;, consists of a previously sagittally opened uterus with attached cervix and left fallopian tube and ovary, weighing 170g in total.  The uterus measures 95 x 65 x 43mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 35mm and shows no significant abnormality.  On sectioning, the endometrium measures up to 4mm in maximum thickness and the myometrium up to 35mm in maximum thickness.  The myometrium shows no significant abnormality.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 to 9 - midline LS anterior uterus and cervix (6/7 and 8/9 - paired blocks); 10 to 14 - the left fallopian tube, 50 x 10 x 7mm, and left ovary, 42 x 25 x 13mm, show no significant abnormality; 15 - LS complete fimbrial end left fallopian tube, and mid TS; 16 - left ovary.
+FROZEN SECTION REPORT:
+Benign endometrium
+Results phoned to Dr GARLAND ELIO by Dr Q Kazar at 15:35hr on 20/04/2070.
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of omental tissue with a smooth shiny serosal surface, 80 x 25 x 10mm.  On sectioning, no significant abnormality is identified.  RS 3 blocks.
+(TO:JB/eh 6/1/66)
+MICROSCOPIC (Reported by Dr Q Beckner):
+A.   Sections show a moderately differentiated granulosa cell tumour.   The tube is unremarkable.
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium shows complex hyperplasia with cytological atypia.  The myometrium is unremarkable.  The ovary and tube are unremarkable.  There is no evidence of malignancy.
+C.  The omentum shows no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+Moderately differentiated granulosa cell tumour of the right ovary.  Complex hyperplasia with atypia of the endometrium.

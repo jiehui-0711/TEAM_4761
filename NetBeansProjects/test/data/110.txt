@@ -1,0 +1,50 @@
+Episode No:  68O257842H
+6852578.MFH
+
+TAAKE, DORIE 
+Lab No:  68O25784,68O25784
+Mt Vernon
+WARWICK  NT  2891
+Specimen: Washings,Tissue
+D.O.B:  20/2/2001
+Sex:  F
+Collected: 2/12/2063 at :
+Location:  INTENSIVE CARE UNIT-COLLARENEBRI MULTI PURPOSE SERVICE
+DR CAROLINE ANNETTA DELMONACO
+Distribution:   FILE-COPY,NSW-CANCER-REGISTRY
+
+CLINICAL:
+Carcino-sarcoma of uterus.
+MACROSCOPIC:
+A.  Specimen labelled "Left obturator lymph node frozen section", consists of fatty tissue measuring 55 x 20 x 10mm containing two lymph nodes measuring 12 x 10 x 7mm and 20 x 8 x 3mm.  One TS from each for frozen section.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 - remaining lymph one; 4 - remaining lymph two.
+FROZEN SECTION REPORT:
+Metastatic carcinoma one out of two lymph nodes
+Phone result TRACEY NOBLITT (fellow) by Dr R Hutten at 12:47pm on 10.12.13
+B.  Specimen labelled "Uterus, cervix, bilateral tubes and ovaries", consists of a uterus with attached bilateral fallopian tubes and ovaries and detached cervix weighing 198g in total.  The uterus measures 80 x 75 x 55mm and has a smooth shiny serosal surface.  The ectocervix measures 40 x 30mm and is unable to be orientated for anterior and posterior sides.  An exophytic lesion is seen protruding from the cervical os.  The cervical margin is inked black.  On sectioning the cervix is involved by tumour with a maximum thickness of 13mm over a total wall thickness of 19mm.  On sectioning the uterine body, the endometrium is diffusely involved by a tumour comprised of multiple papillary excrescences. The endometrium has a thickness of 12mm over a total wall thickness of 25mm.  The anterior myometrium contains two leiomyomas measuring 5 and 15mm in maximum diameter.  The right fallopian tube measures 50mm in length with a maximum diameter of 6mm.  The right ovary measures 30 x 8 x 10mm and has an unremarkable cut surface.  The left fallopian tube measures 55mm in length with a maximum diameter of 7mm.  The left ovary measures 30 x 8 x 10mm and has and unremarkable cut surface.
+Blocks: 1 to 6 - representative cervix atlevel of deepest invasion; 7 to 10 - full longitudinal section through anterior body; 11 to 13 - full longitudinal section through posterior uterine body; 14 and 15 - further sections of the anterior body at level ofdeepest invasion; 16 and 17 - sections of posterior body at level of deepest invasion; 18 - two LS of the fimbrial end of right fallopian tube; 19 - two representative  TS right fallopian tube; 20 - representative right ovary; 21 - two LS of the fimbrial end of the fimbrial end of the left fallopian tube; 22 - two representative TS left fallopian tube; 23 - representative left ovary. 
+C.  Specimen labelled "Right obturator lymph", consists of fatty tissue measuring 40 x 25 x 8mm.  
+Blocks: 1 - lymph nodes; 2 - one lymph node bisected.
+(KB/vo 13.2.63) 
+MICROSCOPIC (Reported by Dr R Lupton):
+A.  Paraffin sections confirm metastatic adenocarcinoma within one lymph node.  The deposit measures at least 3mm across and shows extranodal spread.  
+B.  Sections show a grade 2 endometrioid adenocarcinoma of the endometrium with prominent squamoid differentiation.  The intervening stroma shows florid desmoplasia however, no sarcomatoidchange is identified.  No definite lymphovascular invasion is seen.
+Within the body of the uterus carcinoma invades to a depth of 10mm through a wall thickness of 11mm.  Carcinoma extensively extends into the endocervical canal coming to within 7mm of the cervical margin.  Within the cervix carcinoma invades the full thickness of the endocervical canal and extends to the inked circumferential resection margin at the point of which the cervix is received amputated.   The myometrium shows leiomyomas and both fallopian tubes and ovaries show no significant abnormality.  
+Immunoperoxidase stains for MSI proteins (Block B3)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) ofnuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatchrepair gene.
+Preserved nuclear staining ofa carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+C.  One (1) of the five (5) lymph nodes identified show a metastatic adenocarcinoma.  The deposit measures approximately 8mm across and shows extra nodal spread.    
+DIAGNOSIS:  
+A - C.  Uterus, cervix, bilateral tubes and ovaries, obturator lymph nodes:
+- Grade 2 endometrioid adenocarcinoma of the endometrium.
+- Invasion to a depth of 10mm through a wall thickness of 11mm with body of uterus  
+- No lymphovascular invasion identified.  
+- Full thickness involvement of cervix with focal positive circumferential margin
+- One positive left and one positive right obturator lymph nodes.
+

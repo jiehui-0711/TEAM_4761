@@ -1,0 +1,56 @@
+SPR no: 03H998989A
+MRN no: 10497033
+Site_name: KURRI KURRI DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrioid adeno-Ca.  Frozen section, presacral sentinel lymph node.  Uterine polyp on prev hysteroscopy - grade 2, 3 endometrioid adenocarcinoma.  No obvious extrauterine disease.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left presacral sentinel lymph node&amp;quot;, consists of two pieces of haemorrhagic fatty tissue, 16 x 13 x 3mm, 12 x 7 x 3mm and no identifiable lymph nodes.  All submitted for frozen section.  Blocks: 1 - frozen section one; 2 - frozen section two.  AE.
+
+FROZEN SECTION REPORT:
+At least one degenerate/crushed lymph node, negative for tumour.  Await paraffin for further assessment.
+Result to Dr C Dibrito by Dr C Mantele at 4:56 on 08/04/2070.
+
+B.  Specimen labelled &amp;quot;Cervix, uterus, bilateral fallopian tubes + ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries (received in formalin) weighing 153g in total.  The uterus and cervix have been partially opened from the posterior aspect.  The uterus measures 95 x 68 x 40mm and has a smooth shiny serosal surface.  On the aspect taken as anterior, there is a pale firm lesion (possible fibroid), at the level of the serosal reflection, measuring 15 x 9 x 5mm.  The ectocervix measures 33 x 24mm and has an unremarkable surface.  The right fallopian tube measures 50mm in length with a maximum diameter of 6mm.  The right ovary measures 33 x 13 x 8mm and shows a 3mm cyst on the cut surface.  The left fallopian tube measures 46mm in length with a maximum diameter of 5mm.  The left ovary measures 43 x 10 x 6mm and shows a 3mm cyst on the cut surface.  On section, an endometrial lesion bulges into the uterine cavity, involving all the endometrium macroscopically.  The anterior endometrial lesion is 14mm in maximum thickness and the anterior myometrium is 19mm in maximum thickness.  In the anterior endomyometrium, the endometrial tumour invades approximately 50% of the myometrium in deepest extent.  In the posterior and right posterior endomyometrium, the myometrium is 23mm in maximum thickness, and the endometrial lesion is 16mm in maximum thickness, with the endometrial lesion invading approximately 50% or more of the myometrium. Blocks: 1 - anterior cervix; 2 - posterior cervix; 3 - RS LS, left anterior endomyometrium with deepest invasion; 4 &amp;amp; 5 - composite sections, one parasagittal section left endomyometrium with deepest invasion; 6 &amp;amp; 7 - composite sections, one parasagittal section right endomyometrium with deepest invasion; 8 - parasagittal section right endomyometrium with attached anterior pale nodule; 9 - LS right fimbria; 10 - two TS right fallopian tube; 11 - three TS right ovary; 12- LS left fimbria; 13 - two TS left fallopian tube; 14 - three TS left ovary.
+
+C.  Specimen labelled &amp;quot;Right external iliac sentinel lymph node&amp;quot;, consists of a piece of fat, 25 x 20 x 10mm.  Blocks: 1 - lymph nodes as seen.
+
+D.  Specimen labelled &amp;quot;Right pelvic lymph nodes&amp;quot;, consists of a piece of fat, 50 x 25 x 20mm.  Two lymph nodes measuring 17 and 40mm across are identified. A third structure resembling vessel/possible lymph node is found measuring 25mm across. Blocks: 1 - one lymph node in five pieces; 2 to 4 - one lymph node serially embedded; 5 - one possible lymph node.
+
+E.  Specimen labelled &amp;quot;Left pelvic lymph nodes&amp;quot;, consists of five pieces of brown and fatty tissue, ranging in size from 4 to 43mm across, and in aggregate 43 x 45 x 15mm.  Blocks: 1 - lymph nodes as seen; 2 &amp;amp; 3 - one lymph node serially embedded; 4 - one lymph node in three pieces; 5 - one lymph node in five pieces.   (TO:UT/ta 8/7/70)
+
+
+MICROSCOPIC (Reported by Dr C Sumners):
+A. The paraffin sections confirm a reactive lymph node.  The specimen also includes fibrous and fatty tissue with nerves and blood vessels.  Some of the material is distorted by diathermy artefact. There is no evidence of malignancy in multiple levels (sentinel node protocol).
+
+B.  The sections show an endometrioid carcinoma FIGO grade 3 (architectural grade 3 and nuclear grade 2)  with areas of metaplasia resembling sex cord stromal tumour. The tumour cells in these areas do not express inhibin and calretinin antigens by the immunoperoxidase method.  Central necrosis is seen in some of the nests of tumour.  The tumour invades to a depth of 15mm in a myometrium 22mm thick (slide B6).  No lymphovascular invasion is found.  The uninvolved endometrium is thin and inactive.   A partially calcified, hyalinised leiomyoma is seen.  The cervix shows mild chronic inflammation and Nabothian cysts and is not involved by the tumour.  The fallopian tubes show no significant abnormality.   The ovaries show corpora albicantes and small surface inclusion cysts.
+
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Oestrogen and progesterone receptor stains have also been requested.
+
+C. The sections show five lymph nodes with no evidence of malignancy in multiple levels (sentinel node protocol).  Artefactual inclusion of tumour tissue is noted.
+
+D. No evidence of malignancy is seen in two lymph nodes. The larger node is mostly replaced by fat.
+
+E. The sections show seven lymph nodes with no evidence of malignancy.   Some of the nodes are partially replaced by fat.
+
+DIAGNOSIS:
+A. Left presacral sentinel lymph node: Reactive lymph node.
+B. Uterus, ovaries and fallopian tubes: Endometrioid carcinoma FIGO grade 3, invading 15mm in a myometrium 22mm thick; no lymphovascular invasion found; cervix, ovaries and fallopian tubes not involved.
+C. Right external iliac sentinel lymph node: No malignancy in five lymph nodes.
+D. Right pelvic lymph nodes: No malignancy in two nodes.
+E. Left pelvic lymph nodes: No malignancy in seven nodes.
+SUPPLEMENTARY REPORT (15.7.67)
+Oestrogen receptor antigen is weakly to moderately expressed in the parts of the tumour showing metaplastic changes and strongly expressed in the portions showing typical endometrioid differentiation.  Progesterone receptor antigen is moderately to strongly expressed in almost all cells throughout the tumour.

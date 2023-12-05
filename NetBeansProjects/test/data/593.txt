@@ -1,0 +1,43 @@
+Episode No:  44D1959847
+441195.ZVM
+
+CAVARETTA, OLA 
+Lab No:  44D19598
+Lipsett
+SILVERDALE    2113
+Specimen: Tissue
+D.O.B:  26/2/1983
+Sex:  F
+Collected: 15/01/2013 at 13:48
+Location:  Anatomical Pathology-ST JOSEPH'S HOSPITAL
+DR TERRELL SHAUN WALLRAVIN
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Micro Ca and invasive Ca (small) in UOQ of (R) breast.  
+MACROSCOPIC:
+A.  Specimen labelled "Right sentinel node 1" consists of one nodewith fatty tissue measuring 22 x 12 x 7mm.  TAE 1 block.  
+B.  Specimen labelled "Right breast marking stitch at 12 o'clock" consists of a right mastectomy measuring 225 x 162 x 31mm with overlying ellipse of skin including nipple measuring 210 x 118mm and weighing 589.8g (received in formalin).  The skin surface shows some Campbell de Morgan spots but is otherwise unremarkable.  There is a marking suture taken as 12 o'clock.  The deep margin is inked black, the remaining margin is inked blue.  At the 9 o'clock position 35mm from the nipple there is a cystic/haemorrhagic area with fibrosis measuring approximately 20 x 30 x 25mm.  The remainder of sections show fibrofatty breast tissue.  It is located 15mm from the skin, at least 20mm from the deep margin, 25mm from the inferior-superficial margin and it is well clear of the superior-superficial margin.  The remaining tissue is fibrofatty.
+Blocks:  1 - representative nipple; 2- tissue deep to nipple; 3 - deep margin surrounding lesion; 4 - deep margin to lesion; 5 - lesion including skin; 6 -lesion superficial not including skin; 7 & 8 - deep margin to lesion; 9 & 10 - deep margin to lesion; 11 & 12 - lesion with skin; 13 & 14 - representative upper outer quadrant; 15 & 16 - representative lower outer quadrant; 17 & 18 - representative lower inner quadrant; 19 & 20 - representative upper inner quadrant.  
+C.  Specimen labelled "Right axillary node" consists of a node with fatty tissue measuring 17 x 14 x 6mm.  TAE 1 block.  (TO: MY YP/mm 18.3.63) 
+MICROSCOPIC (reported by Dr L Stefl):
+A. Sections show a lymph node with no evidence of malignancy on AE1/3 staining and levels.
+B. Sections show 30 mm of high grade ductal carcinoma in situ, solid and cribriform types, adjacent to a haematoma.  There is no evidence of invasive malignancy.
+The adjacent breast tissue shows benign microcalcifications and intraduct lobular neoplasia (LCIS, classical variant).
+The nipple appears unremarkable.
+
+
+DCIS proforma
+Maximum extent of DCIS: 30mm
+Nuclear grade:   high
+Architecture: solid, cribriform
+Necrosis:   absent
+Calcification:   absent
+Excision Margins:  > 10mm all margins
+C. Sections show a lymph node with no evidence of malignancy on AE1/3 staining and levels.
+DIAGNOSIS
+A. Right Sentinel lymph node 1: one lymph node with no evidence of malignancy
+B. Right mastectomy:
+- 30mm high grade DCIS adjacent to a haematoma, > 10mm all margins
+- No evidence of invasive malignancy
+C. Right axillary lymph node: one lymph node with no evidence of malignancy
+

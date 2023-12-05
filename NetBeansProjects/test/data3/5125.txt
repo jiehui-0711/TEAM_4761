@@ -1,0 +1,83 @@
+Episode No:  87R068656D
+876068.QPQ
+
+LENHERR, ELOY 
+Lab No:  87R06865
+Farmingham
+TENNANT CREEK  South Australia  3835
+Specimen: Tissue
+D.O.B:  12/10/1992
+Sex:  F
+Collected: 13/02/2065 at 09:36
+Location:  EAST SURGICAL-MILLICENT AND DISTRICT HOSPITAL AND HEALTH SERVICES
+DR Berry JACALYN YUEN
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Duodenal tumour - presented with anaemia, weight loss.  Early satiety.  Histopath - Duodenum (distal) + proximal jejunum.  Abdominal skin lesion.
+MACROSCOPIC:
+A.  Specimen labelled "Third part of duodenum", consists of a lengthof small bowel measuring 130mm in length x up to 70mm in diameter.  There is a suture which on clarification with Dr LINWOOD Finto specifies the duodenal aspect.  The opposite is proximal jejunum.  The serosal surface is smooth however there is an area of puckering involving a small amount of adherent mesocolon over approximately 60 x 20mm.  There are two stapled margins on each end.  The duodenal margin is inked black and the jejunal margin is inked blue.  On opening the wall thickness is up to 5mm.  There is a exophytic necrotic tumour involving three quarters of the circumference of the bowel wall over 80 x 60 x 30mm.  The tumour is approximately 38mm from the duodenal edge and 58mm from the jejunum surgical margin.  The rest of the bowel is unremarkable.  The tumour appears to infiltrate through the lamina propria into the adherent mesocolon.  Representative sections.
+Blocks: 1 - proximal and distal surgical margins; 2 to5 - full face of tumour including area of deepest invasion; 6 - tumour with area of deepest invasion into mesocolon; 7 - one lymph node serially sectioned; 8 and 9 - lymph nodes as seen; 10 - representative normal bowel away from tumour.
+B.  Specimen labelled "Skin lesion abdominal wall", consists of a thin unorientated ellipse of skin 90 x 8 x 8mm.  There is an exophytic tan papule one the surface 7mm in maximum dimension.  The deep aspect is inked black.  The lesion is AE.
+Blocks: 1 - three TS lesion; 2 - two TS ends.
+(TO: QM;ST/vo 13.2.65) 
+MICROSCOPIC (Reported by Dr V Liscano):
+A.   Sections show a moderately differentiated mucinous adenocarcinoma within the duodenum with the following features:
+BOWEL CANCER PROFORMA
+
+MacroscopicDescription
+
+Site of tumour:	
+Maximum tumour diameter:  80mm
+Distance of tumour to nearer cut end: 38mm from duodenal margin. 
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Mucinous carcinoma
+The ulcerated tumour is composed of tubular and complex glandular structures as well as strips of columnar epithelium with pseudostratified moderately pleomorphic nuclei within abundant extracellular mucin associated with an acute inflammatory cell infiltrate and thin fibrous septae.  Apparent adenomatous 
+COMMENT:
+There are changes of a tubular adenoma with moderate dysplasia in the adjacent mucosa.  The tumour immunoprofile in this case (CK20 positive, CDX2 positive and CK7 negative and AMACR positive) is less commonly seen in a small bowel primary adenocarcinoma than in a small bowel metastasis from a colorectal primary.  Small bowel primary adenocarcinomas typically express CK7, either exclusively or co-expressed with CK20, and lack AMACR expression, however, distinguishing these two possibilities cannot be made based on the immunoprofile alone due to overlapping expression patterns.  As metastasis  from a colorectal primary, in particular, can closely mimick a small bowel primary adenocarcinoma morphologically, including the presence of an apparent in-situ adenomatous component, correlation with staginginvestigations is advised to exclude this possibility1.
+Differentiation by predominant area
+Moderate.
+Local invasion
+pT3	Tumour invades subserosa or non peritonealised perimuscular tissue (mesentery or retroperitoneum <20mm)
+The tumour contiguously invades the mesentery (Block A8) with a fibrous reaction at its advancing edge.
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Notinvolved
+Histological measurement from tumour to mesenteric margin: 5mm (Block A4)
+Lymph nodes
+Number of lymph nodes present: 16	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Not seen. 
+Perineural invasion
+Not seen. 
+Histologically confirmed distant metastases
+cM0distant metastasis
+Background abnormalities/other comments
+Other:  
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:(loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivationof that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+STAGE - TNM 7th Edition (2010)
+pT3     pN0     cM0     R0
+B.   Sections of skin to subcutis.  The lesion is a pigmented intradermal naevus which focally extends to one radial margin.  There is no evidence of malignancy.  
+DIAGNOSIS:
+A.  Third part of duodenum: 
+-   Moderately differentiated mucinous adenocarcinoma in duodenum, invading beyond muscularis propria, no lymphovascular invasion or perineural invasion seen, margins clear, sixteen (16) negative lymph nodes,stage pT3pN0cM0R0 (see comment). 
+B.  Skin lesion abdominal wall:
+-   Intradermal naevus, extending to one radial margin. 	
+
+
+1. Estrella et al.  Mucosal Colonization by MetastaticCarcinoma in the Gastrointestinal Tract: A Potential Mimic of Primary Neoplasia.  Am J Surg Pathol 2011;35:563-572
+
+
+

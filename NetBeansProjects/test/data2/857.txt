@@ -1,0 +1,59 @@
+
+Episode No:  62J656106L
+623656.EAQ
+
+BUELER, Ching WENDELL 
+Lab No:  62J65610
+Brookfall
+SINGLETON    4550
+Specimen: Tissue
+D.O.B:  18/9/1994
+Sex:  F
+Collected: 22/10/2012 at 09:37
+Location:  OBSTETRICS-BALLARAT HEALTH SERVICES (BASE HOSPITAL)
+DR Tjingali Deshawn Takeda
+Distribution:   FILE-COPY, DR Ames, DR Meury,   NSW-CANCER-REGISTRY
+CLINICAL:
+Caecal cancer.  
+MACROSCOPIC:
+Specimen labelled "Right colon" consists of a right hemicolectomy comprising of a segment ofterminal ileum measuring 30mm in length, in continuity with caecum and ascending colon measuring 140mm in length with an open circumference of 80mm at the caecum.  Arising from the caecal mucosa and extending towards the ileocaecal valve, there is an exophytic fungating tan tumour measuring 60 x 50mm. The tumour is 30mm from the proximal resection margin. The cut surface shows full thickness bowel wall involvement with macroscopic evidence of tumour extension into the pericolic fat.  The remainder of the bowel mucosa appears grossly normal.  The appendix is not identified.  Lymph nodes are identified ranging from 3 to 11mm across.
+Blocks:  1- proximal margin; 2 - distal margin; 3 to 7 - tumour (block 7 - research block); 8 - tumour and ileal caecal valve; 9 - apical lymph node; 10 - four lymph nodes; 11 - small lymph nodes; 12 - four lymph nodes; 13 - one lymph node.  
+(TO: (FP;FP/mm 24.12.62) 
+MICROSCOPIC (reported by Dr Q Sorenson):
+	
+Maximum tumour diameter:     60 mm
+Distance of tumour to nearer cut end:  30mm (proximal)
+Tumour perforation:     No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present:  12	
+Number of lymph nodes involved:  0	
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The lesion is arising from a tubulovillous adenoma.
+Residualtumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0     pMX     R0	
+
+
+

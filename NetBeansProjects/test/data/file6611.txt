@@ -1,0 +1,93 @@
+SPR no: 77E9575857
+MRN no: 771957
+Site_name: NARACOORTE HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report77E95758,77E95758 (77E9575857) FIETSAM, RUEBEN KEN
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Stage 1B ca cervix.  Uterus, tubes + ovaries, left pelvic nodes, right pelvic nodes, peritoneal washings.
+Previous: Lletz Cx bx DHM 49658-16MP 18/8/66
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS +  CERVIX, R TUBE, L OVARY AND TUBE&amp;quot;. A total hysterectomy specimen of a total weight of 128g.  Consists of a uterus measuring 82x60x40mm.  The attached cervix measures 37x40x30mm.  Attached is a right fallopian tube measures 90x10mm, left fallopian tube 90x10mm and left cystic ovary measures 42x27x24mm.  The anterior cervical margin is inked blue, posterior black. The external os is haemorrhagic possibly at site of previous procedure measuring 17x15mm with surrounding areas of haemorrhage.  There is a tumour arising from the posterior endocervical canal measuring 22mm superior to inferior x10 x10 mm.  It appears to be invading into endocervix wall for about 6 mm with the cervix thickness of 10mm to 15mm. Tumour is approxiamately 5mm from of the closest posterior deep cervix margin, 7mm of the nearest ectocervical margin, and 10mm of the anterior resection margin.  It appears to be confined to the endocervical canal approaching the isthmus area with no definite involvement of the uterine body or fundus. The identified endometrium is up to 3mm thick. The myometrium is trabeculated and up to 22mm thick.  The serosal surface of the uterus is unremarkable.  The outer surface and cut surface of both tubes are unremarkable. The cut surface of the left ovary reveals a unilocular cyst with haemorrhagic inner lining that is filled with clear serous fluid. A rim of compressed peripheral unremarkable ovarian tissue is identified. (1-16 LS slices of the cervix [1 right cervical shave margin, 2 LS normal tissue right to the tumour, 3&amp;amp;4 continuous piece LS normal tissue right lateral to tumour, 5&amp;amp;6 continuous piece start of tumour, 7&amp;amp;8 continuous piece tumour, note incomplete margins block 7, 9&amp;amp;10 one TS tumour, 11&amp;amp;12 one TS of tumour, 13 end of tumour with posterior margin also for tissue banking, 14 lateral left normal tissue to tumour, 15 lateral left normal tissue to tumour, 16 left shave margin]; 17&amp;amp;18 one TS isthmus region [17 right, 18 left]; 19&amp;amp;20 further superior TS of isthmus region; 21-25 LS slices of uterus [21 anterior isthmus, 22 anterior body, 23 fundus, 24 posterior body, 25 posterior isthmus], 26 right fallopian tube two LS and one TS; 27 left fallopian tube two LS and one TS; 28&amp;amp;29 RS cystic left ovary).  RS (M-29)
+B.  &amp;quot;R PELVIC LYMPH NODE&amp;quot;.  Multiple fibrofatty pieces of tissue measuring 45x30x12mm in aggregate.  Seven lymph nodes are identified, largest measuring 16mm in maximum diameter with homogenous dark brown cut surface.   (1 five lymph nodes; 2 one lymph node trisected; 3 largest lymph node five TS).  RS (M-3)
+C.  &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;.  Multiple fibrofatty pieces of tissue measuring 60x35x17mm in aggregate.  Nine possible lymph nodes are identified, largest measuring 13mm with tan and firm white cut surface.  (1 largest lymph node four TS; 2 second largest lymph node 9mm; 3 four lymph nodes; 4 three lymph nodes). RS (M-4/ZH/ank)
+
+SYNOPTIC REPORT CERVICAL CANCER RESECTION
+(RCPA V1 2013, RCP 2011)
+Specimen/procedure:  Uterus cervix R, L tubes, L ovary, R, L pelvic nodes
+Dimensions of uterus: 82x60x40 mm
+Vaginal cuff: Absent
+Macroscopic tumour: Present
+Number of visible tumours: 1
+Position of tumour: Mainly posterior endocervix
+Tumour appearance: Pale, firm
+Maximum dimensions of tumour (length x width): approximately 22 mm x 10 mm
+Macroscopic tumour thickness:  6 mm out of cervical wall thickness 10 mm
+Closest distance of tumour to margin, macroscopic: 5 mm
+Macroscopic involvement of vagina: Not applicable
+Macroscopic involvement of parametria: No
+Macroscopic involvement of paracervical tissues: No
+Adnexa: T tube, L ovary, L tube, normal
+
+PRIMARY TUMOUR:
+Distribution of invasive component: Single tumour focus
+Tumour type: Squamous cell carcinoma.
+There is a focal pseudoglandular pattern but no definite adenosquamous carcinoma component.
+Differentiation/grade: Moderately differentiated
+
+TUMOUR SIZE:
+Depth of invasion: 6 mm (A10, A18)
+Maximum horizontal dimension: 18 mm
+
+Cervical wall thickness in area of invasion: 10 mm
+Minimum thickness of uninvolved cervical stroma: 4 mm
+Lymphovascular invasion: Suspicious (isolated rounded clusters with peritumour space, and one tumour cluster around a larger vessel in pattern suspicious of lympatic invasion, focal)
+Associated SIL: High grade SIL (CIN3) present
+Associated AIS: Absent
+
+MARGINS:
+Invasive tumour margins:
+Inferior (vaginal or cervical) margin:
+Negative. Distance of invasive tumour to inferior margin: 7 mm
+Deep lateral/radial margin:
+Negative. Distance of invasive tumour to deep margin: 4 mm (A18)
+SIL margin status:
+Negative
+
+OTHER INVOLVEMENT:
+Paracervical involvement: No
+Parametrial involvement: No
+Uterine body involvement: Tumour extends to abut lower uterine segment
+
+LYMPH NODE METASTASES:
+R pelvic:
+Lymph nodes examined: 7
+Lymph nodes positive: 0
+
+L pelvic:
+Lymph nodes examined: 7
+Lymph nodes positive: 0
+
+OTHER TISSUES/ ORGANS:
+Endometrium: Normal
+Myometrium: Normal
+Uterine serosa: small focus of probable endometriosis posterior surface (stroma only)
+Right tube: Normal
+Left tube: Normal
+Left ovary: Normal (corpus luteum present)
+
+ANCILLARY TESTS:
+Immunostains:
+Positive: p16 p63 CK5/6
+Negative: Synaptophysin, chromogranin A
+CD31 and D240 do not show evidence of lymphovascular invasion
+Ki67 labelling of carcinoma cells: 80 %
+
+Provisional pathological Stage: T1b
+(FIGO 2009)
+
+DIAGNOSIS:
+Cervix: Squamous cell carcinoma. Moderately differentiated. Depth of invasion 6 mm. Suspicious for focal lymphovascular invasion. Negative margins. Lymph nodes negative.

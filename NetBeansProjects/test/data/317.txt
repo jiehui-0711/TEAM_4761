@@ -1,0 +1,94 @@
+
+Episode No:  86R260293D
+8662602.ZKD
+
+GUN, NIKOLE 
+Lab No:  86R26029
+Kaul
+MOUNT EVELYN  Western Australia  3025
+Specimen: Tissue
+D.O.B:  15/6/1994
+Sex:  F
+Collected: 28/4/2063 at :
+Location:  MEDIC/SURGERY WARD-TUMBARUMBA MULTI PURPOSE SERVICE
+DR GALEN ANTONE BOGAN
+Distribution:   FILE-COPY
+ADDITIONAL REPORT (5/9/63)
+
+CLINICAL:
+L breast lesion positive on core biopsy.  L breast sentinel node.  Lymph node breast.  
+Largeleft breast cancer - (biopsy proven) left upper outer quadrant. Wide local excision of tumour - sentinel node biopsy (sent separately for frozen section).   Long stitch lateral, short superior, medium medial, double deep.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node left breast " consists of a red/tan piece of tissue 24 x 10 x 15mm containing one lymph node 8 x 5 x 4mm.  The specimen is serially sectioned and two imprints made.  
+Blocks: 1 - lymph node AE; 
+FROZEN SECTION REPORT:
+Negative for tumour.
+Result to Dr CHRIS HANZL by Dr V Hamberry and Dr V Mastromarino at5.42pm on 28/4/63.
+B.  Specimen labelled "Left breast lesion short superior, medium medial, long lateral" consists of an orientated wide local excision measuring 55mm (medial to lateral) x 70mm (inferior to superior) x 90mm (superficial to deep).  There is an overlying ellipse of skin running from superior lateral to inferior superior measuring 85 x 30mm which appears unremarkable.  The medio-superior  margin is inked blue the lateral inferior margin inked green and the deep margin inked black.   Specimen is serially sectioned in the transverse plane into thirteen slices from slice one superior to slice thirteen inferior.  A poorly defined stellate firm cream lesion is identified in slices nine to twelve measuring 23mm (medial to lateral) x 23mm (inferior to superior) x 18mm (superficial to deep).  Distance from margins is as follows:  Medial 8mm, lateral 10mm, deep 30mm, inferior 15mm and well clear of the superior margin.  Several false incisions were made through the medial andlateral margins in the specimenand upon cutting the specimen became somewhat fragmented.   
+Blocks: 1 to 6 - representative slice eleven; 7 to 12 - representative slice ten; 13 & 14 -representative slice nine; 15 - representative slice twelve; 16 & 17 - representative slice eight; 18 - representative slice six; 19 &20 - representative slice one; 21 to 25 - representative slice thirteen.  Tumour markers on block 9.  Please refer to attached diagram.   (TO: TQ; MR/ta  29/4/63) 
+ 
+  
+MICROSCOPIC (Reported by Dr V Sally): 
+A and B.
+
+Invasive carcinoma:
+Site: Left breast
+Type: Invasive ductal carcinoma, NOS
+Invasive tumour size: 26mm (microscopic, medial to lateral)
+Grade:   2 (Modified Bloom & Richardson)       
+Tubules: 2 Nuclei: 3 Mitoses: 2 Mitotic rate: 8/10hpf.
+Lymphovascular invasion: present - focal
+	    
+
+DCIS component:  
+Maximum extent of DCIS: 32mm (superior to inferior)
+Nuclear grade:   intermediate
+Architecture: solid, cribriform
+Necrosis:  absent
+Calcification:   absent
+DCIS in adjacent tissue:    present
+Excision Margins:  
+Invasive component:: 4mm (with intervening normal ducts)
+  Medial and lateral: 6mm
+  Other margins: > 10mm
+In-situ component:
+  Inferior: 4mm (with intervening normal ducts)
+  Other margins: > 10mm
+Receptors: 
+ER:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:    strong 
+PR:   positive
+	90 % of nuclei stained
+	predominant intensity of staining:    moderate 
+HER2 (Novocastra 10A7):  0
+Ki67 index: 20%
+LCIS / ALH:   Not seen.
+Miscellaneous: A core biopsy tract, benign microcalcifications and columnar change are present.
+Sentinel lymph node(s):
+No. of sentinel lymph nodes examined: 1
+No. of sentinel nodes involved by tumour: 1 (measuring 4mm, 2 slices)
+Extranodal spread: present, up to 0.2mm into fat over a 9mm front 
+Note: Intra-operative imprints are negative on review.
+DIAGNOSIS:
+A and B. Left breast wide local excision and sentinel lymph node biopsy:
+- 26mm invasive ductal carcinoma NOS, grade 2, ER positive, PR positive, HER2 0, Ki67 2+, SISH HER2 pending, 4mm inferior margin, 6mm medial and lateral margins, other margins > 10mm, focal lymphovascular invasion present.
+- 32mm intermediate grade DCIS,6mm inferior margin, other margins >10mm
+- 1 sentinel lymph node with a 4mm deposit of metastatic carcinoma, extranodal spread present.
+ADDITIONAL REPORT (5/9/63)
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid) 
+
+Mean HER2 copy number per cell: 1.9 
+Mean CEP17 copy number per cell: 1.8 
+HER2/CEP17 Ratio: 1.05 
+
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8
+Equivocal: HER2/CEP17 = 1.8-2.2 
+Positive: HER2/CEP17 >2.2 
+
+Reported by: Dr V Douthett 
+Date: 5.8.63
+

@@ -1,0 +1,95 @@
+
+Episode No:  26R000266B
+266000.GRP
+
+CUPERUS, JOHNATHAN 
+Lab No:  26R00026
+Deale
+ANNA BAY    2102
+Specimen: Tissue
+D.O.B:  23/5/2028
+Sex:  F
+Collected: 27/5/2063 at :
+Location:  SEALS-WIMMERA HEALTH CARE GROUP - HORSHAM
+DR TERRY CARTER KUPARR-CHAMBERLAIN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT (12/6/63)
+
+CLINICAL:
+IDC left breast - sentinel node biopsy.  IDC left breast 7 o'c - wide local excision.  Short superior, long lateral, medium medial.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axilla sentinel node" consists of three pieces of fatty tissue 10 to 30mm.  Five lymph nodes identified 4 to 14mm.  Five imprints for cytology.  PAP + H&E.
+Blocks:  1 to 5 - each one lymph node.  
+IMPRINT CYTOLOGY REPORT:
+1 to 5 - No malignant cells identified.   No tumour seen. 
+Results reported by Dr G Dyen at 14.10 on 25.03.13.
+B.  Specimen labelled "Left breast lesion long lateral, short superior, medium medial" consists of a piece of breast tissue with three marking sutures as labelled measuring 65mm (lateral to medial) x 65mm (superior to inferior) x 45mm (superficial to deep).  There are two adjacent skin ellipses on the superficial aspect 50 x 15mm and 40 x 15mm.  The skin ellipses appear normal.  The margins are inked in three colours superficial blue, superior red and deep black.  Specimen is serially sectioned into eight slices and numbered from lateral to medial.  There is an indurated tumour with a pale cut surface extending from slice 5 to 8 measuring 35 x 30 x 30mm.  The tumour is 30mm from lateral, 22 mm from superior, 24mm from inferior, 5mm from deep and 3mm from superficial margins.  It is 2mm from the overlying skin.  The tumour is 2mm from the medial margin.  
+Blocks:  1 & 2 - representative slice 1 (lateral margin); 3 - superior slice 2; 4 - superior slice 3; 5 to 8 - upper two-thirds slice 4; 9 to 15 - all of slice 5 (12 - ER PR HER2 Ki67); 16 to 18 - superior half of slice 7; 19 to 29 - slice 8 (medial margin, 20 & 24 - paired, 25 & 26 - paired).  Please see diagram.  (TO:  GM:  TS/mm 28.5.63) 
+MICROSCOPIC (reported by Dr G Cooney):
+A and B.
+Invasive carcinoma:
+Site:  Left breast
+Type: Invasive ductal carcinoma NOS
+Invasive tumour size: 32mm (5 slices)
+Grade:  3 (modified Bloom & Richardson)       
+Tubules: 3  Nuclei: 3 Mitoses: 3 Mitotic rate: 19/10hpf.
+Lymphovascular invasion: absent
+	    
+
+DCIS component:  
+DCIS:    present
+Maximum extent of DCIS:  28mm
+Nuclear grade:   high
+Architecture:  solid, cribriform
+Necrosis:   absent
+Calcification:   absent
+Degree of DCIS in tumour:   minimal
+DCIS in adjacent tissue:   widespread
+Excision Margins:  
+Invasive component:
+  Superficial: 0.4mm (no intervening normal ducts, B17)
+  Medial: 0.8mm (with perineural invasion and no intervening normal ducts, B29)
+  Deep: 4mm (no intervening normal ducts)
+  Other margins: > 10mm
+In-situ component:
+  Superior: 1.8mm (Pagetoid spread, no intervening normal ducts, B16)
+  Deep: 4mm (no intervening normal ducts)
+  Superficial: 8mm
+  Other margins: > 10mm
+Receptors: 
+ER:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:   strong
+PR:   positive
+	70% of nuclei stained
+	predominant intensity of staining:    moderate 
+HER2 (Novocastra 10A7):  2+
+Ki67 index: 40%
+LCIS / ALH:   Absent
+Sentinel lymph node(s):
+No. of sentinel lymph nodes examined:  5 (levelsand CAM5.2 staining)
+No. of sentinel nodes involved by tumour: 0
+DIAGNOSIS:
+A and B. Wide local excision left breast and sentinel lymph nodes:
+- 30mm invasive ductal carcinoma, grade 3, ER positive, PR positive, HER2 2+, HER2 SISH pending, Ki67 40%, 0.4mm superficial margin, 0.8mm medial margin, 4mm deep margin, other margins > 10mm
+- 30mm high grade DCIS, 1.8mm superiormargin, 4mm deep margin, 8mm superficial margin, other margins > 10mm
+- 5 sentinel lymph nodes with no evidenceof malignancy
+ADDITIONAL REPORT (16/6/63)
+
+HER-2 IN-SITU HYBRIDISATION 
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Dual ISH result: NEGATIVE (nonamplified, diploid) 
+
+Mean HER2 copy number per cell: 1.9 
+Mean CEP17 copy number per cell: 1.7 
+HER2/CEP17 Ratio: 1.12 
+
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8 
+Equivocal: HER2/CEP17 = 1.8-2.2 
+Positive: HER2/CEP17 >2.2 
+
+Reported by: Dr G Feltman 
+Date: 11.6.62
+

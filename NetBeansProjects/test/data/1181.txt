@@ -1,0 +1,89 @@
+Episode No:  81S903812V
+817903.VDH
+
+LEBOEUF, Carter 
+Lab No:  81S90381
+Nimco
+GOSFORD  South Australia  2828
+Specimen: Tissue
+D.O.B:  26/12/1984
+Sex:  F
+Collected: 10/10/2062 at :
+Location:  2.23HR STAY SURGICAL UNIT-CORRIGIN HOSPITAL
+DR ANTONE Horacio Miele
+Distribution:    NSW-CANCER-REGISTRY,  FILE-COPY
+
+CLINICAL:
+R breast ca ductal.  Ca - 10 o'clock. R axillary lymph node.  17mm R Br Ca 
+10 o'clock 7cm FN.  Right mastectomy.  Extra axillary tissue.  Extra medial corner skin.  
+MACROSCOPIC:
+A.  Specimen labelled "Axillary sentinel node", consists of an irregular piece of fibroadipose tissue 50 x 30 x 10mm containing three lymph nodes 10, 12 and 15mm in maximum dimension. Two imprints made of each node.  
+Block 1 - sentinel node 1, AE; 2 - sentinel node 2, AE; 3 - sentinel node 3, AE.
+IMPRINT CYTOLOGY:  Three negative lymph nodes.
+Result toDr Robt by Dr X Fei at 15:40pm on 8.8.12. 
+B.  Specimenlabelled "Right breast tissue", consists of a mastectomy with a long suture attached (confirmed to be medial by phone with Dr X Chilo on 10.11.62).  The specimen measures 220mm medial to lateral x 160mm superior to inferior x 45mm superficial to deep and weighs 717g.  The attached skin ellipse measures 205 x 102mm and bears eccentrically (towards the medial pole) a retracted nipple.  A 25mm diameter area of contusion is present at approximately 10 o'clock.  Superficial inked blue, deep black. 
+On sectioning a 22 x 20 x 17mm tumour is present within the upper outer quadrant at approximately 10 o'clock, 120mm from nipple. The tumourmeasures 6mm from the deep margin, 15mm from skin, 25mm from the medial margin, 26mm from the superior margin, 30mm from the inferior margin and is macroscopically well clear of the lateral margin. The remaining cut surfaces show macroscopically unremarkable breast tissue.  
+Block 1 - tumour and deep margin; 2 - tumour and skin; 3 - further representative tumour; 4 - representative upper outer quadrant; 5 - representative lower outer quadrant; 6 - representative lower inner quadrant; 7 - representative upper inner quadrant; 8 - representative 12 o'clock; 9 - representative 6 o'clock; 10 - representative nipple; 11 - tissue deep to nipple; 12 - tumour reserve block.
+C.  Specimen labelled "Extra right axillary tissue", consists of unoriented fibroadipose tissue 38 x 30 x 10mm.  No macroscopic lymph nodes are identified.  AE 2 blocks.
+D.  Specimen labelled "Right medial breast skin corner", consists of unoriented fibroadipose tissue 70 x 60 x 25mm with an attached unremarkable skin ellipse 95 x 25mm.  Superficial inked blue, deep black.  On sectioning no mass lesions are identified.  Representative sections blocks 1 & 2.   (BJ/ec  10.11.62) 
+MICROSCOPIC: (Reported by Dr S Bille) 
+A.  Two (2) of the three (3) sentinel nodes contain small subcapsular deposits of metastatic ductal carcinoma of the breast.  The CAM 5.2 is positive.  
+B.  Sections show a grade 2 infiltrating ductal carcinoma (t=2, n=2, m=2) of the right breast.  The carcinomameasures 22 x 20 x 17mm and is located in the upper outer quadrant, 120mm from the nipple.  The carcinoma is 5mm from the deep margin and the pectoral muscle is not invaded.  
+There is no DCIS and random sectioning from the quadrants show a small intraduct papilloma in the lower inner quadrant and no other abnormality.  The breast is otherwise atrophic and the nipple appears normal.There is a small focus of columnar cell change within breast tissue deep to the nipple.  
+C.  Sections show adipose tissue.  No lymph nodes identified.  
+D.Sections show skin plus underlying adipose tissue.  No lymph nodes identified.  
+A to D.  Right mastectomy plus sentinel nodes plus extra-axillary tissue and skin:
+Invasive carcinoma:
+Site:  Right breast mastectomy.  
+Type:  Infiltrating ductal carcinoma.  
+Invasive tumour size:  22 x 20 x 17mm.
+Grade 2 (Modified Bloom & Richardson):
+Tubules:  2  Nuclei:  2  Mitoses:  2  Mitotic rate:  10/10hpf.
+Lymphovascular invasion:  Absent.
+
+DCIS component:  
+DCIS:  Absent.
+Excision Margins:  
+Invasive component:
+Deep 5mm, other margins well clear.
+In-situ component:
+N/A.
+Receptors (Block B2): 
+ER:  Positive.  
+	>95% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	90% of nuclei stained
+	predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7):  Negative (0/1+).  Slides sent to St George for CISH.
+The Ki67 is 5%.
+Nipple:  Normal.
+
+LCIS / ALH:  Absent.
+Miscellaneous:  Focus of CCC (columnar cell change) deep to the nipple.  
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3
+Number of sentinel lymphnodes involved by tumour:  2
+Number of sentinel nodes with metastases >2.0mm:  0
+Number of sentinel nodeswith metastases <2.0mm:  2
+	Detected by:  [H&E] [IHC]
+Extranodal spread:  Absent.
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  3
+Total number of involved lymph nodes (including sentinel node(s)):  2
+ADDITIONAL REPORT:  (30.10.62)
+Blocks were sent to GIPPSLAND SOUTHERN HEALTH SERVICE - LEONGATHA CAMPUS Hospital for Her2 CISH analysis, Dr S Emler reports:
+Her 2 in situ hybridisation: (Her2 CISH Invitrogen SPOT-Light assay, block B2). 
+Her2 CISH result: NEGATIVE (non-amplified, diploid).
+Mean Her2 copy number per cell: 1.8.
+SCORING CRITERIA (ASCO/CAP recommendations):
+1 to <2.5 copies:  	Non amplified (diploid)
+2.5 to <4 copies:  	Non amplified (polysomy) 
+4 to 6 copies:		Equivocal 
+>6 but < 10 copies:	Low level amplification
+10 or more copies: 	High level amplified.  
+ 
+

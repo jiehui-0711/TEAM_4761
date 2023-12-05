@@ -1,0 +1,74 @@
+
+Episode No:  89A384717Y
+890384.TCS
+
+MEALER, CONNOR 
+Lab No:  89A38471
+Maar
+KYABRAM    6321
+Specimen: Tissue
+D.O.B:  24/4/1982
+Sex:  M
+Collected: 06/12/2013 at 08:22
+Location:  Douglas Hanly Moir-ST VINCENT'S HOSPITAL (DARLINGHURST)
+DR ROYCE CRAIG MEAZELL
+Distribution:  DR Vuoso,  FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Proximal gastric Ca.
+MACROSCOPIC:
+A.  Specimen labelled "Hepatic lymph node" consists of two pieces of fibrofatty tissue measuring 15 x 15 x 7 and 30 x 15 x 15mm.  There are lymph node within each of the specimen measuring 15 and 17mm respectively.  AE 2 blocks.
+(TO: BR; IC/rt 2.8.63)
+B.  Specimen labelled "Gastrectomy" consists of a total gastrectomy measuring 180 x90 x 45mm.  The greater curvature measures 220mm and the lesser curvature measures 180mm.  There is no oesophageal cuff present.  The lesser omentum measures 10 x 60 x 20mm and greater omentum measures 420 x 150 x 20mm. The lesser omentum is adherent to the serosal surface of the stomach on the anterior wall. The proximal margin is inked blue and the distal margin is inked black.  On opening there is an ulcerated tumour anteriorly near the lesser curve, 35mm from the proximal surgical margin and 110mm from the distal surgical margin.  The tumour measures approximately 20x 20mm in area.  The rest of the stomach mucosa appears unremarkable.  
+Blocks:  1- proximal surgical margin; 2 - distal surgical margin; 3 - tumour and closest proximal surgical margin; 4 to 11 - tumour AE; 12 - LS of distal mucosa to tumour; 13 - normal body; 14 -normal antrum and lymph node from lesser curvature; 15 to 20 - ?lymph nodes from greater curvature.  (TO: RJ; VD/rt 2.8.63)
+MICROSCOPIC (Reported by Dr V Koulavongsa):
+A. Sections show two reactive lymph nodes with lipogranulomas and mild sinus histiocytosis. There is no evidence of metastatic carcinoma.
+B. Sections show gastric adenocarcinoma, intestinal type. A synoptic report follows.
+Macroscopic description
+
+Tumour site: Anterior wall close to lesser curvature
+Maximum tumour diameter: 20 x 20mm
+Distance to nearest margin (proximal resection margin): 35mm
+
+Microscopic Description
+
+Tumour site (location): Fundus
+
+WHO histological tumour type: Tubular adenocarcinoma
+Lauren histological tumour type: Intestinal type
+
+Growth pattern: Infiltrating
+
+Maximal dimension of tumour:  20 mm	
+Local invasion (pT):
+T3	Tumour penetrates subserosal connective tissue without invasion of visceral peritoneum or adjacent structures.
+Serosal surface involvement: Not identified
+Vascular space invasion:
+Small vessels (lymphatic and capillary): Not identified
+Large vessels (vein and artery): Not identified
+Perineural growth: Not identified
+
+Her2 status: Negative
+Distance of tumour from margins:	
+From proximal:  35mm
+From distal:  110mm
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present: 6
+Number of lymph nodes involved: 0
+N0	No regional lymph node metastasis
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+Other pathologies:
+Gastritis: Present
+Helicobacter infection: Not identified
+Intestinal metaplasia: Present
+Dysplasia: Present
+- Does it involve a margin? No		
+Gastric polyps: Not identified
+DIAGNOSIS:
+A. Hepatic lymph node
+- NO EVIDENCE OF METASTATIC CARCINOMA IN TWO LYMPH NODES (0/2)
+B. Gastrectomy
+- ADENOCARCINOMA, INTESTINAL TYPE, pT3 N0 MX
+- NO EVIDENCE OF METASTATIC CARCINOMA IN SIX LYMPH NODES (0/6)
+

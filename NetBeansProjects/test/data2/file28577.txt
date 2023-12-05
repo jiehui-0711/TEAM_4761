@@ -1,0 +1,20 @@
+SPR no: 55F146453Z
+MRN no: 5521464
+Site_name: DENTAL HEALTH SERVICES VICTORIA
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+BRCA 2 mutation.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube plus ovary&amp;quot;, consists of an ovary and fallopian tube.  The fallopian tube measures 55mm in length with an outer diameter of 4mm.  The ovary measures 34mm x 15mm x 8mm.  The cut surface of the ovary is unremarkable.  AE 8 blocks.
+Blocks: 1 to 4 - fallopian tube; 5 to 8 - ovary.
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of an ovary and fallopian tube.  The fallopian tube measures 60mm in length with an outer diameter of 4mm.  The ovary measures 35mm x 15 x 5mm.  The cut surface of the ovary is unremarkable.  AE.
+Blocks: 1 to 4 - fallopian tube; 5 to 10 - ovary.
+C.  Specimen labelled &amp;quot;Endometrial curettings&amp;quot;, consists of multiple fragments of tan brown tissue admixed with mucoid material measuring 10 x 8 x 2mm.  AE 1 block.
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a fatty tissue measuring 35mm x 30 x 10mm. The cut surface shows uniform fatty tissue.  AE 3 blocks.  (TO:LM/eh 30/10/65)
+MICROSCOPIC (Reported by Dr O Duvel):
+A &amp;amp; B.  Both ovaries and tubes have been examined in their entirety.   There is no evidence of carcinoma in situ or invasive malignancy.
+C.  Sections show focally shedding proliferative endometrium.  There is no evidence of endometritis, hyperplasia or malignancy.
+D.  The omentum is unremarkable.  There is no evidence of malignancy.
+DIAGNOSIS:
+A to D.  No evidence of malignancy.

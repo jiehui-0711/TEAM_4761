@@ -1,0 +1,83 @@
+Episode No:  80H665316L
+802665.JDS
+
+ROZZELL, Tayla 
+Lab No:  80H66531,80H66531
+Royal Green
+TERRANORA  QLD  3913
+Specimen: Washings,Tissue
+D.O.B:  11/2/2002
+Sex:  F
+Collected: 13/10/2014 at 10:18
+Location:  WEE WAA COMMUNITY HOSPITAL
+DR Brady Satunas
+Distribution:  DR Akram, DR ABRAHAM,  FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT 1/12/64
+SUPPLEMENTARY REPORT 12/1/64
+
+HISTORY:  
+GII endometrial adeno Ca.  Uterus, tubes and ovaries, omental biopsy, left pelvic nodes, right pelvic nodes.  
+MACROSCOPIC:  
+A.  "UTERUS, FALLOPIAN TUBES AND BILATERAL OVARIES".  A uterus with attached fallopian tubes and ovaries.  The uterus has been opened prior toreceipt with significant distortion.  Specimen in total weighs 145g.  Inking:  anterior blue, posterior black.  The right fallopian tube is 40x5mm and unremarkable.  The right ovary is 30x10x10mm and is unremarkable.  The left fallopiantube is 50x5mm and unremarkable and left ovary is 15x5x5mm and is unremarkable.  The uterus is 70mm from fundus to ectocervix.  The uterine body is 55mm by approximately 45mm.  The uterine cervix is 35x20mm and the external cervical osis approximately 10x5mm.  In the uterine isthmus, body and fundus, there is a fungating infiltrative tumour which has a soft white villiform surface and a solid white and haemorrhagic cut surface.  This tumour invades approximately 20mm into the myometrium posteriorly with the myometrium being approximately 25mm in thickness.  The tumour does not appear to invade into the uterine cervix but creeps along the surface superficially.  There is also a well demarcated whitewhorled nodule 15mm in diameter located in the right myometrium.  
+(1 right ovary; 2 right fallopian tube; 3&4 left ovary and fallopian tube; 5 right parametrium; 6 left parametrium; 7-9 anterior sagittal section from cervixto fundus; 10-14 posterior sagittal section from cervix to fundus; 10 single section; 11&12 single section divided into two and nicked; 13&14 single section divided into two and nicked; 15 leiomyoma).  RS (15-15).
+B.  "2 LEFT PELVIC LYMPH NODES".  An irregular piece of fatty tissue approximately 60x30x5mm within which there are a number of lymph nodes.  
+RS (M-4 [all lymph nodes but not all fatty tissue embedded]).  
+C.  "RIGHT LYMPH NODE PELVIC".  An irregularly shaped piece of fatty tissue approximately 40x40x10mm within which there are a number of lymph nodes.  
+(1 one lymph node bisected; the remaining blocks contain one lymph node each).  RS (M-5).
+D.  "OMENTAL BIOPSY".  A piece of fatty tissue 50x40x5mm as well as a number of small white firm pieces of tissue with an aggregate of 10x10x3mm.  
+(1 white tissue; 2 fatty tissue).  RS (M-2/DD/nh).
+Extra tissue (3,4 remainder fatty tissue, 5 remainder small firm pieces of tissue) AE (M-5/LM/ld).
+MICROSCOPIC:  (Dr. F. Rhum)
+A.  Sections show FIGO grade 2 endometrioid endometrial adenocarcinoma which infiltrates to the outer half of the myometrium.  There is focal surface involvement of the cervix without involvementof the stroma.  Sections of bilateral parametrium are benign.  Sections of bilateral ovaries and fallopian tubes are unremarkable.  
+
+B.  Sections show four benign reactive lymph nodes.  There is no evidence of metastatic malignancy.
+C.  Sections show four benign reactive lymph nodes.  There is no evidence of metastatic malignancy.
+D.  Sections of the pieces of firm white tissue show endometrioid endometrial adenocarcinoma, identical tothat identified in specimen A. There is no fatty infiltration evident in these small fragments.  However, sections of the omental fat show no evidence of malignancy, and the omentum is considered negative.  
+ENDOMETRIAL CARCINOMA: 
+Tumour type:  Endometrioid endometrial adenocarcinoma
+FIGO grade:  2
+(architecture grade: 2 , nuclear grade: 2 )
+Myometrial invasion:  Invasion into outer half of myometrium
+Depth of myometrial invasion:   10mm
+Myometrial thickness:   15mm
+% of myometrium invaded:   65%
+Focality:  Unifocal
+Tumour involves:  Fundus, body, lower uterine segment
+Vascular/lymphatic invasion:  Not seen
+Involvement of cervix:  Focal surface involvement. No stromal involvement.
+Involvement of uterine serosa:No
+Excision margins:  Clear
+Non-tumour uterus:  
+Adjacent endometrium:  Inactive
+Adnexae:  
+Left fallopian tube:  Unremarkable
+Right fallopian tube:  Unremarkable
+Left ovary:  Unremarkable
+Right ovary:  Unremarkable
+Lymph nodes: 
+Nodes involved: 0
+Total number: 8
+Other tissues:  Omentum - Negative
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage:  pT1b, pN0, pMx
+FIGO stage:  IB
+DIAGNOSIS:  
+ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA.
+18/12/2064 nh
+SUPPLEMENATARY REPORT 1/12/64
+D. The issue of identification of fragments of endometrial adenocarcinoma within the specimen container with the omentum, without macroscopic or microscopic involvement of the omental fat was discussed with Dr Reed who concurred with the most likely scenario of specimen contamination.
+1/12/64 ld
+SUPPLEMENTARY REPORT 12/1/64
+Immunostains for MSI proteins (ToysRus GEORGE TOWN HOSPITAL AND COMMUNITY CENTRE Lab; block:A12 )
+MLH1:  	POSITIVE (normal)
+PMS2: 	POSITIVE (normal)
+MSH2: 	POSITIVE (normal)
+MSH6: 	POSITIVE (normal)
+Comment:
+Mismatch repair gene deficiency NOT DETECTED
+
+Absence of staining for either MLH1, PMS2,MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+12/1/64 ld
+

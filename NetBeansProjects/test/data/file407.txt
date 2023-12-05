@@ -1,0 +1,93 @@
+DateOfBirth
+201809190000
+
+
+SiteName
+CARNARVON HOSPITAL
+
+
+FirstName
+Willis
+
+
+SPRID
+77J136618R
+
+
+MRN
+7731366
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+?Ovarian malignancy. General clinical history: bilateral ovarian masses, abnormal appendix, raised Ca 125, ascites.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a fallopian tube and attached multicystic mass, 100 x 85 x 60mm. The fallopian tube measures 65mm in length and 7mm in maximum diameter. No normal ovary is identified. The fallopian tube is attached to the mass. The mass is multicystic and has a mostly smooth outer surface with some small nodular deposits. The cut surface shows a solid cystic architecture. Two thirds of the mass is occupied by the solid component. No obvious areas of necrosis or haemorrhage are seen. There is a unilocular cyst with clear serous fluid and wall thickness of less than 1mm. There is also a pale yellow friable mass, 40 x 20 x 40mm, inside the cyst. Blocks: 1 to 10 - RS solid cystic mass; 11 to 15 - fallopian tube and fimbria; 16 - for Biobanking. RS. Shown to Dr U Elmo.
+
+B.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a fallopian tube and a solid cystic mass, 90 x 55 x 45mm. The fallopian tube measures 70mm in length and up to 8mm in maximum diameter. No normal ovary identified. The solid cystic mass has a mostly smooth outer surface with some small pale nodular deposits. On section, the mass appears to be 90% occupied by solid areas. The solid areas appear multilobulated and pale. No obvious haemorrhage or necrosis is seen. There is a unilocular cyst with thin serous fluid. The cyst wall is less than 1mm thick. Blocks: 1 to 10 - representative solid cystic mass; 11 to 13 - fallopian tube and fimbria. RS
+
+C.  Specimen labelled &amp;quot;Uterus and cervix&amp;quot;, consists of a uterus with attached cervix weighing 56g in total. The uterus measures 55 x 40 x 25mm and has a smooth and shiny serosal surface. The ectocervix measures 30 x 25mm and has an unremarkable surface. On section, the endometrium is less than 1mm thick and the myometrium is 12mm in maximum thickness. The myometrium contains two fibroids ranging from 5 to 8mm in maximum diameter. The lower cervix appears multicystic. No fallopian tube or ovary is attached. Blocks: 1 to 3 - full LS anterior body and cervix; 4 - part of anterior uterus with fibroid; 5 to 7 - full LS posterior body and cervix. RS
+
+D.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of an appendix, 60mm in length and up to 8mm in maximum diameter, with attached mesoappendix up to 25mm in width. The resection margin is inked. The serosal surface is dull and haemorrhagic. There appear to be nodules attached to the tip of the appendix, 8 to 18mm in maximum diameter. The cut surface of the nodules are pale and firm. The appendix wall is 1mm thick and contains cream to brown material in the lumen. Blocks: 1 - LS base of appendix; 2 &amp;amp; 3 - mid TS; 4 &amp;amp; 5 - LS tip of appendix and attached nodules; 6 - mesoappendix. AE
+
+E.  Specimen labelled &amp;quot;Pouch of Douglas&amp;quot;, consists of a tan and fatty fragment of tissue, 23 x 15 x 7mm. Resection margin inked. TAE 2 blocks.
+
+F.  Specimen labelled &amp;quot;Rectal nodule&amp;quot;, consists of a fatty and fibrous nodule, 12 x 10 x 8mm and detached tan fatty tissue fragments, 15 x 12 x 5mm in aggregate. Nodule inked. Blocks: 1 &amp;amp; 2 - rectal nodule; 3 - fragments. AE.
+
+G.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of an elongated piece of fatty tissue, 330 x 130 x 5mm. There are multiple (about 5) nodules in the omentum, ranging from 7 to 70mm in maximum diameter. The largest nodule appears multinodular and pale with a pale and firm cut surface. RS of the nodule embedded into five blocks. RS. Shown to Dr U Arvie.   (TO:DN/ta 27/5/71)
+
+
+MICROSCOPIC (Reported by Dr U Benge):
+A. The sections show high grade serous carcinoma.  Sheets of tumour, tubular and papillary structures are seen. In some areas, marked cellular pleomorphism is present (e.g., slide A2). Mitoses are found including abnormal mitotic figures (e.g., slide A6). Tumour cells are found within dilated thin walled lymphovascular channels within the tumour (slide A3). The tumour extends to the surface of the mass focally (e.g., slides A7, A10).
+There are nodules of high grade serous carcinoma in the soft tissues adjacent to the fallopian tube (slides A12-A14). There are areas of tubal carcinoma in situ and invasive carcinoma in the fimbria (slide A15).  Tumour cells are found within thin walled lymphovascular channels (e.g., slide A12). Tumour cells are found within the lumen of the fallopian tube (slide A11).
+
+Immunohistochemistry shows diffuse, strong nuclear expression of PAX 8, WT1 and P53 antigens in the tumour cells.  There is weak to moderate expression of oestrogen receptor antigen in most of the tumour cells.  Progesterone receptor antigen is moderately to strongly expressed in about 5% of the tumour cells.  Her 2 antigen is not expressed.
+
+B. The sections show a mass formed by high grade serous carcinoma, which reaches the surface of the mass (slides B9, B10).   The tumour cells are pleomorphic and some show elongated nuclei (slide B4) but there is no obvious sarcomatoid component.  Numerous mitoses are found in some areas (&amp;gt; 20 / hpf), including atypical forms (slide B4). Tumour cells are found within dilated, thin walled lymphovascular channels (slides B4, B10).
+Tumour cells are found within the lumen of the fallopian tube (slide B12).
+
+C. High grade serous carcinoma is seen in the serosa and soft tissues around the posterior uterine body (slide C6) and cervix (slide C7).  The tumour nodules are seen on the soft tissue margins and abut the myometrium. Tumour cells are found within thin walled lymphovascular channels (slide C6).    The endometrium is thin and inactive. Scattered intramural leiomyomata are seen, showing no atypical features.  The cervix shows Nabothian cysts and patchy moderate chronic inflammation.
+
+D. The appendix shows a hyperplastic polyp. Tumour nodules are seen in the mesoappendix and serosa (slides D2, D4-D6), invading into the muscularis propria (slide D4).
+
+E. The sections show fatty tissue with nodules of high grade serous carcinoma in a desmoplastic stroma.
+
+F. The sections show nodules of high grade serous carcinoma with areas of marked atypia (slides F1, F2), invading in a desmoplastic stroma.
+
+G. Large areas of high grade serous tumour are seen in the omentum. Scattered sheets of poorly differentiated carcinoma are seen, with many mitoses including atypical forms (slide G3). There is no obvious sarcomatoid differentiation.
+
+DIAGNOSIS:
+A. Left ovary and fallopian tube: High grade serous carcinoma, tubal carcinoma in situ, lymphovascular invasion present.
+B. Right ovary and fallopian tube: High grade serous carcinoma, lymphovascular invasion present.
+C. Uterus: High grade serous carcinoma in serosa.
+D. Appendix: High grade serous carcinoma in serosa and mesoappendix.
+E-G. Pouch of Douglas, rectal nodule and omentum: High grade serous carcinoma.
+
+SpecimenReceivedDate
+2683-04-13 00:00:00
+
+
+LastName
+Hissem

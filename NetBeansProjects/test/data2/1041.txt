@@ -1,0 +1,40 @@
+Episode No:  38T7244031
+3877244.BID
+
+BOLUDA, Karrie Refugia 
+Lab No:  38T72440,38T72440
+Anyards
+COORANBONG  QLD  2844
+Specimen: Washings,Tissue
+D.O.B:  19/8/2010
+Sex:  F
+Collected: 29/10/2062 at :
+Location:  Laverty - BOWEN HOSPITAL
+DR Nanda Sheba ANTLE
+Distribution:   FILE-COPY
+CLINICAL:
+Endometrial cancer. 
+MACROSCOPIC:
+Patient details checked by HV/lj
+Specimen labelled "Uterus, cervix, tubes and ovaries", consists of a uterus with cervix and bilateral tubes and ovaries attached measuring 105 x 60 x 50mm.  It weighs 1989g.  The cervix measures 32 x 30mm.  The anterior margin is inked black, posterior margin blue.  The serosal surface of the uterus is smooth and shiny.  The ectocervix has an unremarkable mucosal surface.  The right fallopian tube measures 50 x 5 x 5mm and has signs of previous ligation.  The right ovary measures 40 x 15 x 15mm and is macroscopically unremarkable.  The left fallopian tube measures 60 x 5 x 5mm and has signs of previous ligation.  The left ovary measures 40 x 20 x 10mm and is unremarkable.  On sectioning there is an exophytic and fungating tumour measuring 50 x 30 x 30mm on the endometrium of the posterior uterine wall.  The myometrium has a maximum thickness of 20mm.  There is a large intramural fibroid measuring 40 x 30 x 40mm.
+Blocks 1-4 - 1 full LS of anterior body and cervix with fibroid; 5 & 6 - 2 representative sections of anterior endomyometrium.
+7-11 - 1 full LS of posterior body and cervix; 12 & 13 -representative section of posterior endomyometrium with tumour; 14 & 15 - 1 representative section of posterior endomyometrium with tumour; 16 7 17 - tumourwith posterior endomyometrium; 18 - tumour for tissue bank.
+19 - right parametrial tissue; 20- left parametrial tissue; 21 - rightfimbria; 22 - right ovary and right fallopian tube; 23 - left fimbria; 24 - left ovary and left fallopian tube. (KI/ec 30.10.62) 
+ 
+MICROSCOPIC: (Reported by Dr I Reichler)  
+Sections of the cervix are unremarkable.  Sections of the endometrial tumour show an endometriod adenocarcinoma, grade 2.  Most of the tumour consists of glands and papillae but there is a solid componentmaking up greater than 5%.  There is focal squamous differentiation.  The tumour is exophytic and invades less than 50% through the myometrium; maximum depth of myometrial invasion is 10mm where total myometrial thickness is 25mm.  No lymphovascular invasion is seen.  A benign endometrial polyp is also noted.  The described fibroid is an unremarkable leiomyoma.  Sections of the ovaries and fallopian tubes are unremarkable.  
+
+
+DIAGNOSIS:
+Uterus, fallopian tubes and ovaries:  Endometrioid adenocarcinoma of endometrium, FIGO grade 2, invading less than 50% through myometrium.  Stage 1A.
+SUPPLEMENTARY REPORT (Reported by Dr I Bustard, 6.11.62)
+Immunoperoxidase stains for mismatch repair proteins were requested at the Gynae Oncology TumourBoard Meeting on 5.11.62. 
+Mismatch Repair Deficiency(MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

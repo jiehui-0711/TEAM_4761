@@ -1,0 +1,53 @@
+SPR no: 59W372794N
+MRN no: 1147777
+Site_name: MAITLAND HOSPITAL (SA)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right complex adnexal mass 6cm.  Ca 125 - 81.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left broad ligament peritoneum&amp;quot;, consists of a piece of tan tissue, 22 x 7 x 2mm.  No lesions or palpable nodules identified.  AE for FS in 1 block.
+
+FROZEN SECTION REPORT:
+Foreign body type inflammatory reaction, NEOM.  Phone result to Dr Kubicz by Dr O Policastro and Dr O Imig at 14:40hrs on 18/05/69.
+
+B.  Specimen labelled &amp;quot;Left ovary and left tube&amp;quot;, consists of a previously opened, partially cystic mass, 85 x 50 x 20mm, with an overlying fallopian tube, 55 x 6 x 6mm.  There is a polypoid/papillary area, 80 x 50 x 20mm.  Sampled for frozen section.
+It is not possible to determine whether or not there is surface involvement because the specimen was received disrupted.
+Blocks: 1 - frozen section one, cyst wall; 2 - frozen section two, cyst wall; 3 - frozen section three, solid/papillary area; 4 to 9 - further representative solid/papillary areas; 10 - complete fimbrial end fallopian tube, and mid TS.
+
+FROZEN SECTION REPORT:
+Carcinoma, favour ovarian primary, likely to be serous Ca.  Phone result to Dr Heigl by Dr O Siravo, Dr O Dejongh and Dr O Sweazey at 15:08hrs on 18/04/66.
+
+C.  Specimen labelled &amp;quot;Uterus, cervix, right fallopian tube, right ovary&amp;quot;, consists of a uterus with attached cervix, right fallopian tube and right ovary, weighing 68g in total.  The uterus measures 64 x 43 x 32mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 28mm and shows no significant abnormality.  On sectioning, the endometrium measures 1mm in maximum thickness and the myometrium 18mm in maximum thickness.  The myometrium shows no significant abnormality.  The right fallopian tube, 40 x 5 x 5mm, and right ovary, 25 x 14 x 10mm, show no significant abnormality.  There is a 9mm paratubal cyst.
+Blocks: 1 to 3 - midline LS anterior uterus and cervix; 4 to 5 midline LS posterior uterus and cervix; 6 - LS complete fimbrial end right fallopian tube, and mid TS; 7 - paratubal cyst; 8 0 right ovary.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omentum, 100 x 80 x 30mm.  The serosal surface is smooth and shiny.  On sectioning, no lymph nodes or tumour deposits are identified.  RS 3 blocks.   (TO:JB/rs 17/5/66)
+
+
+MICROSCOPIC (Reported by Dr O Koinzan):
+A.  Sections show mesothelium with underlying fibrofat.  There is a histocyte and giant cell reaction with associated cholesterol clefts.  No foreign material is identified.  There is focal surface mesothelial proliferation and there is a mild patchy infiltrate of chronic inflammatory cells.  No tumour is seen.
+
+B.  Sections of the tumour show a high grade carcinoma which is partly cystic and partly solid.  There are slit-like glandular spaces and papillae.  The features are of a high grade serous carcinoma.  There are some tumour present on the surface of the ovary.  There is focal tumour necrosis.
+Sections of the fimbrial end of the fallopian tube show an area of serous tubal intraepithelial carcinoma (STIC).  The fallopian tube is otherwise unremarkable.
+
+C.  Sections of the cervix show a single small muscular vessel, probably an artery, with features of a necrotising arteritis.  Other vessels are normal and this is almost certainly incidental and of no consequence.  The cervix is otherwise unremarkable.
+Sections of the endometrium show that this is in proliferative phase.  The myometrium is unremarkable.
+Sections of the ovary show a few foci of metastatic serous carcinoma on the serosal surface.  Foci of serosal foreign body type reaction with cholesterol clefts, similar to specimen A, are also noted.  The ovary is otherwise unremarkable.
+Sections of the fimbrial end of the fallopian tube show an area of serous carcinoma.  There is also some associated serous tubal intraepithelial carcinoma (STIC) at the fimbrial end.  This is the likely primary site of the left ovarian tumour and the tumour on the serosa of the right ovary and in the omentum.
+The fallopian tube elsewhere is unremarkable.
+
+D.  Sections show unremarkable fat.  There are small foci of serous carcinoma on and just beneath the serosal surface, with an associated infiltrate of small lymphocytes.
+
+
+DIAGNOSIS:
+A.  Left broad ligament peritoneum:  Histiocyte and giant cell reaction, no tumour.
+
+B.  Left ovary and fallopian tube:
+1.  High grade serous carcinoma of ovary.
+2.  Focal serous tubal intraepithelial carcinoma (STIC) at fimbrial end of tube.
+
+C.  Uterus, right fallopian tube and right ovary:
+1.  Serous carcinoma and STIC at fimbrial end of tube, see text.
+2.  Serous carcinoma on serosal surface of ovary.
+3.  Focal necrotising arteritis in cervix, probably incidental, see text.
+D.  Omentum:  Foci of serous carcinoma.

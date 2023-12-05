@@ -1,0 +1,112 @@
+CLINICAL:
+Distal oesophageal cancer.  Ivor Lewis oesophagectomy.  Neoadjuvant chemoradiation.  Cross protocol.  
+
+
+MACROSCOPIC:
+A.  Specimen labelled "Oesophagogastrectomy", consists of distal oesophagus (61mm long), proximal stomach (45mm long the lesser curvature and 65mm along the greater curvature) and peri-oesophageal and peri-gastric soft tissue (variable in thickness and up to 15mm in maximal thickness).  The radial margin is inked green anteriorly and black posteriorly.  A well defined mucosal mass lesion is not seen.  The distal oesophageal mucosa just above the gastro-oesophageal junction is flattened over a surface of 30 x 22mm.  This area is 30mm from the proximal oesophageal and 60mm from the distal margin.  The entire distal half of the oesophagus and the gastro-oesophageal junction are blocked from proximal to distal.  
+Blocks: 1 - two LS proximal margin; 2 - two LS distal margin; 3 to 7 - one slice of oesophagus blocked clockwise; 8 to 11 - one slice of oesophagus blocked clockwise; 12 to 14 - one slice of oesophagus blocked clockwise; 15 to 17 -  one slice of oesophagus blocked clockwise; 18 to 24 - entire gastro-oesophageal junction, LS; 25 - one lymph node; 26 - lymph nodes as seen; 27 - one lymph node; 28 - one lymph node; 29 - lymph nodes as seen; (25 to 29 - para-oesophageal slymph nodes); 30 - one lymph node; 31 - one lymph node; 32 - lymph nodes as seen (30 to 32 - lesser curvature); 33 - lymph nodes as seen (greater curvature).  Please see the diagram.  
+Reselect blocks 34-41 - all of the proximal margin is embedded.
+
+B.  Specimen labelled "Right paratracheal lymph node", consists of a lymph node measuring 12 x 8 x 4mm.  BAE 1 block.  
+
+C.  Specimen labelled "Coeliac", consists of a lymph node with attached fatty tissue 15 x 15 x 7mm.  BAE 1 block. 
+
+D.  Specimen labelled "Common hepatic artery", consists of a specimen of lymph nodes and surrounding fatty tissue 25 x 23 x 10mm.  There is one lymph node 25 x 12 x 8mm.  
+Blocks: 1 & 2 - one lymph node.  
+
+E.  Specimen labelled "Subcarinal lymph node", consists of a nodular piece of tissue 45 x 35 x 15mm.  On slicing the specimen appears to be two mattered slymph nodes.  
+Blocks: 1 to 5 - one lymph node; 6 to 9 - one lymph node AE.
+
+F.  Specimen labelled "Stomach", consists of a sac shaped piece of tissue bearing gastric mucosa and stapled at one edge 35 x 20 x 20mm.  The staples are removed and new margin is inked green.  No focal lesions are seen.  
+Blocks: 1 & 2 - RS.  
+
+G.  Specimen labelled "Donuts", consists of two donut shaped pieces of tissue bearing mucosa 22 x 18 x 7mm (?squamous mucosa) and 30 x 15 x 7mm (gastric mucosa).  There are multiple sutures embedded into the tissue particularly within the oesophageal donut.  The oesophageal donut is inked green and the gastric donut inked blue.  No focal lesions are identified.  
+Blocks: 1 - representative oesophageal donut;  representative gastric donut.  
+(TO: PB; CP/ta 20/7/66)
+MICROSCOPIC (Reported by Dr. F Verma):
+
+A. The entire distal oesophagus and gastro-oesophageal junction has been embedded.
+
+OESOPHAGEAL CANCER REPORT
+
+Tumour site:  Distal oesophagus, with focal involvement of the gastro-oesophageal junction
+
+Tumour size:  4 residual microscopic deposits, up to 3mm in size, over a 40mm area (A1, 16, 22 and 36)
+
+WHO histological tumour type:
+	Tubular adenocarcinoma
+
+Histological grade:
+	Grade 2 to 3   Moderately to poorly differentiated differentiated (post treatment)
+
+Lauren histological tumour type:
+	Intestinal
+
+Local invasion (pT):
+ypT1b	Tumour invades submucosa
+
+Serosal surface involvement:
+Absent
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary): Absent
+	
+Large vessels (vein and artery): Absent
+
+Perineural growth: Absent
+
+Response to neoadjuvent therapy
+Grade 1 (moderate response) - Single cells or small groups of cancer cells
+
+Distance of tumour from margins:	
+From proximal:  20mm (A36)
+From distal:  60mm
+From radial/circumferential (oesophageal):  14mm (A36)
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  25 (18 para-oesophageal, 5 lesser curve, 2 greater curve)
+Number of lymph nodes involved: 0
+
+ypN0	No regional lymph node metastasis
+
+Note: The majority of the lymph nodes show granulomatous inflammation. The lymph nodes appear enlarged, and are replaced by multiple well circumscribed granulomas composed of epithelioid histiocytes. No necrosis is seen. No organisms are identified on Truant, Fite, silver and diPAS staining. No polarisable foreign bodies are seen.
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Helicobacter infection: Absent
+
+Dysplasia: Absent
+
+Barrett's mucosa: Present
+
+Other microscopic comments:  
+- The tumour bed shows fibrosis and chronic inflammation, in keeping with treatment effect.
+- Moderate active chronic inflammation is present in the gastro-oesophageal junction. There is extensive intestinal metaplasia, in keeping with Barrett's oesophagus. Reactive changes are present in the surface epithelium. No convincing dysplasia is seen.
+
+B. Sections show a reactive lymph node with no evidence of malignancy.
+
+C. Sections show a lymph node with granulomatous inflammation. There is no evidence of malignancy.
+
+D. Sections show a lymph node with granulomatous inflammation. There is no evidence of malignancy.
+
+E. Sections show 2 lymph nodes with granulomatous inflammation. There is no evidence of malignancy.
+
+F. Sections of stomach appear unremarkable. There is no evidence of malignancy.
+
+G. Sections of oesophagus appear unremarkable. There is no evidence of malignancy.
+
+
+COMMENT
+Most of the enlarged lymph nodes show extensive granulomatous inflammation. While no organisms are identified, the possibility infection cannot be excluded. In the absence of an infective aetiology, sarcoidosis may need to be considered.
+DIAGNOSIS
+A. Oesophagogastrectomy (post-chemoradiation):
+- 4 residual microscopic deposits of adenocarcinoma, up to 3mm in size, over a 40mm area, margins clear
+- 25 lymph nodes with no evidence of malignancy, granulomatous inflammation present (see comment)
+- ypT1b N0 MX
+B. Right paratracheal lymph node: 1 reactive lymph node with no evidence of malignancy
+C. Coeliac lymph node: 1 lymph node with granulomatous inflammation, no evidence of malignancy
+D. Comment hepatic artery lymph node: 1 lymph node with granulomatous inflammation, no evidence of malignancy
+E. Subcarinal lymph nodes: 2 lymph nodes with granulomatous inflammation, no evidence of malignancy
+F and G. Stomach and donuts: no evidence of malignancy
+

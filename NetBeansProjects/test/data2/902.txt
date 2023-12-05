@@ -1,0 +1,67 @@
+
+Episode No:  87U482066Y
+8774820.RQY
+
+Huie, KATHRYN YUNA 
+Lab No:  87U48206
+Keim
+BOURKE  WA  3620
+Specimen: Tissue
+D.O.B:  25/8/1973
+Sex:  F
+Collected: 17/12/2012 at 09:08
+Location:  PARKES8-THE QUEEN ELIZABETH HOSPITAL
+DR HOBERT Heath HILTS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Extended right hemicolectomy for caecal tumour + multiple right sided polyps.  
+MACROSCOPIC:
+Specimen labelled "Extended right hemicolectomy" consists of an extended right hemicolectomy measuring 240mm in length with up to 50mm terminal ileum attached.  Thecaecum and ascending colon measure up to 95mm and 50mm in open circumference, respectively.  Multiple polyps are identified throughout the length of the colon.  The appendix is absent.  At the ileocaecal valve there is a polyp measuring 25mm x 25mm.  Within the caecum adjacent to the polyp there is a sessile, ulcerated tumour which measures 30mm long and 35mm wide.  It is present primarily on the antimesenteric border of the colon. The tumour measures 10mm thick anddoes not appear to invade the fat or breach the serosal surface. There are multiple polyps of varying sizes present throughout the caecum and ascending colon. The largest polyp measures up to 14 x 15mm and is located 60mm from the distalmargin.  Another polyp measures 14 x 10mm, a third measures 12 x 13mm and a fourth measures 10 x 15mm.  There are also multiple other smaller polyps.
+Blocks: 1 - proximal surgical margin; 2 - distal surgical margin; 3 - tumour with ileocaecal valve; 4 - distal tumour with normal mucosa; 5 - section of tumour with polyp at ileocaecal valve; 6 - section from tumour to polyp; 7 - tumour with serosal surface; 8 & 9 face of tumour with deepest extension to peri-mesenteric fat; 10 - polyp on lipomatous polyp; 11 - polyp one; 12 - polyp two; 13 - polyp three; 14 - caecal polyps; 15 - fragmented caecal polyp; 16 - six polyps; 17 - three polyps; 18 - one bisected apical lymph node; 19 to 21 - one lymph node each; 22 - three possible lymph nodes; 23 - one bisected lymph node; 24 - one bisectedlymph node; 25 - two lymph nodes; 26 - four possible lymph nodes; 27 - three possible lymph nodes.  (TO: ED; ED/Ta 19/2/62) 
+MICROSCOPIC (Reported by Dr V Eckmeyer): 
+Macroscopic Description
+
+Site of tumour:  
+Maximum tumour diameter:  35mm
+Distance of tumour to nearer cut end:  50mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3  - Beyond muscularis propria
+Tumour involvement of margins
+Not involved
+Not involved
+Histological measurement from tumour to non-peritonealised margin:  >10mm
+Lymph nodes
+Number of lymphnodes present:  14
+Number of lymph nodes involved:   0
+pN0  - No regional LN metastasis
+Lymphovascular invasion
+Present (Mural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX  - Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas - Fourteen (14) tubular adenomas and onehyperplastic polyp were identified in the colon.  One adenoma in the caecum has high grade dysplasia.  The other thirteen (13) adenomas show low grade dysplasia.There is also a lipoma of the ileocaecal valve.  
+Residual tumour status
+R0  - No residual tumour
+Mismatch Repair Deficiency (MMRD) Status
+MLH1  - Preserved nuclear staining
+PMS2  - Preserved nuclear staining
+MSH2  - Preserved nuclear staining
+MSH6  - Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+DIAGNOSIS:
+Extended right hemicolectomy:  
+-  Moderately differentiated adenocarcinoma of caecum, pT3 pN0 pMX R0.
+-  Fourteen (14) tubular adenomas, one with high grade dysplasia.
+-  Lipoma of ileocaecal valve. 
+ 
+

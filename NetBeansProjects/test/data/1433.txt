@@ -1,0 +1,95 @@
+Episode No:  89W554818E
+898554.WDW
+
+Shazier, VITO 
+Lab No:  89W55481
+N Springwood
+WEST WYALONG  South Australia  3941
+Specimen: Tissue
+D.O.B:  24/8/1990
+Sex:  F
+Collected: 17/04/2013 at 08:55
+Location:  PaLMS-BROKEN HILL BASE HOSPITAL
+DR Roman Rusty Freddy-Coopey
+Distribution:   FILE-COPY
+CLINICAL:
+IDC + DCIS right breast 2 o'clock.  WLE + sentinel node biopsy.  Sutures short superior, long lateral, medium medial.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node" consists of two enlarged lymph nodes 25 and 27mm in maximum diameter.  The cut surface has a fatty appearance.  AE.
+Blocks: 1 & 2 - one lymph node; 3 & 4 - second lymph node.
+B.  Specimenlabelled "Right breast lesion, long lateral, short superior, medium medial" consists of an irregular piece of fatty tissue with three sutures for orientation as above measuring 70mm (medial to lateral) x 60mm (superior to inferior) x 30mm (superficial to deep).  Superior margin inked red, inferior margin green, superficial margin blue, deep margin black. The specimen is serially sectioned into ten slices from medial to lateral.  Slice one medial margin, slice ten lateral margin.  On sectioning and in slices five to eight there is a nodular white and well circumscribed lesion measuring 20mm (superior to inferior) x 20mm (superficial to deep) x 25mm (medial to lateral) and is located 5mm from the superficial margin, 10mm from deep margin, 20mm superior margin and 20mm from the inferior margin.  AE according to the attached diagram.  
+Blocks: 1 to 5 - slice one; 6 to 8 - slicetwo; 9 to 12 - slice three; 13 to 16 - slice four; 17 to 20 - slice five; 21 to 24 - slice six; 25 to 28 - slice seven; 29 to 32 - slice eight; 33 ro 36 - slice nine; 37 to 42 - slice ten.  (WW/ta 19/6/63) 
+ 
+MICROSCOPIC (reported by Dr V Macanas):
+A& B.  Sections show at least 12 separate foci of Grade 2 infiltrating ductal carcinoma measuring from 0.1 to 19mm over an area of 35mm across 7 consecutive slices.  A synoptic report follows.
+Invasive carcinoma:
+Site:  Right breast, 2 o'clock
+Type:  Infiltrating ductal carcinoma
+Invasive tumour size:  2 
+Grade (Modified Bloom & Richardson):
+Tubules:  3      Nuclei:  2      Mitoses:  1      Mitotic rate:        7/10hpf.
+Lymphovascular invasion:  Present  (Block B18)
+	    
+DCIS component:  
+DCIS:  Present  (Block B40)  
+Maximum extent of DCIS:  1.5mm
+Nuclear grade:  Intermediate
+Architecture:  Cribriform
+Necrosis:  Not seen
+Calcification:  Not seen 
+Degree of DCIS in tumour:  Not seen 
+DCIS in adjacent tissue: One 1.5mm focus (Block B40)  
+Excision Margins:  
+Invasive component:
+	Superficial	Positive   (Block B28)
+	Deep		0.5mm	    (Block B27)
+	Superior		>10mm
+	Inferior		Positive   (Block B28)
+		10mm
+	Lateral		>10mm
+In-situ component: 
+	Superficial	>10mm
+	Deep		>10mm
+	Superior		>10mm
+	Inferior		>10mm
+	Medial		>10mm
+	Lateral		9mm  (Block B40)  
+Receptors of one tumour focus (Block B14): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	90% of nuclei stained
+	predominant intensity of staining:  Moderate to strong    
+HER2 (Novocastra 10A7):  0
+Ki-67 index:  30%
+e-cadherin:  Positive
+Receptors of a separate tumour focus (Block B23): 
+ER:	Positive  
+	100% of nuclei stained
+	predominant intensity of staining:  Strong 
+PR:  Positive
+	80% of nuclei stained
+	predominant intensity of staining:  Moderate to strong  
+HER2 (Novocastra 10A7):  0
+Ki-67 index:  30%
+e-cadherin:  Positive
+Nipple:  Not included  
+
+LCIS / ALH:  Present    
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:2
+Number of sentinel lymph nodes involved by tumour:  2          
+Number of sentinel nodes with metastases >2.0mm:  1  (Blocks A3 & 4)   
+Number of sentinel nodes with metastases <2.0mm:  1  (Block A2)      
+	Detected by:  H&E and immunohistochemistry
+Extranodal spread:  Not seen
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymphnode total:
+Total number of lymph nodes examined (including sentinel node(s)): 2  
+Total number of involved lymph nodes (including sentinel node(s)): 2 
+DIAGNOSIS:
+A.  Right axillary sentinel lymph nodes:  Two positive nodes (one of which shows a tumour micrometastasis)
+B.  Right breast, 2 o'clock:  Multiple foci of Grade 2infiltrating ductal carcinoma with positive superficial and inferior margins
+

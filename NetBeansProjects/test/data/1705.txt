@@ -1,0 +1,36 @@
+
+Episode No:  81W540317H
+8185403.DTH
+
+Essaff, XUAN 
+Lab No:  81W54031
+Harbor Point
+STRATHALBYN  Tasmania  7176
+Specimen: Tissue
+D.O.B:  20/7/2031
+Sex:  F
+Collected: 03/06/2014 at 16:59
+Location:  L7 CONSULTING ROOMS-TOM PRICE HOSPITAL
+DR Cyrus SABRA Nikach
+Distribution:  
+CLINICAL:
+Left temporal tumour.  Hx of oligo.  
+MACROSCOPIC:
+Specimen labelled "Tumour temporal lobe" consists of small pieces of brain tissue measuring in aggregate 22mm.  AE 1 block.  (TO: OR  JP/mm 8.7.64) 
+MICROSCOPIC (reported by Dr V Oyston):
+Sections show pieces of brain tissue which include cortex, a small amount of white matter and some meningeal tissue.  Some satellitosis of neurones by cells with small round nuclei is noted but this can be normal, particularly in the temporal lobe.  There is infiltration by a small number of scattered cells with small, elongated nuclei; these cells stain CD68 positive, consistent with activated microglial cells.  At least two of the pieces appear to include the edge of the previous surgical cavity; adjacent to this there are reactive astrocytes with associated gliotic tissue.  No definite tumour is identified with routine staining.  
+Immunohistochemical Stains:
+GFAP:  Highlights gliosis and reactive astrocytes, most prominent at the edges of previous operative cavity.
+IDH1:  Negative.
+CD68:  Highlights a moderate number of scattered activated microglial cells and macrophages.  Macrophages most prominent at edge of previous operative cavity.  
+Ki-67:  Virtually negative.
+The features are of cerebral tissue, mainly cortex, showing gliosis and a moderate number of macrophages and activated microglial cells.  
+I note that in the previous excision specimen in 2061 (DICKINSON 2 NORTH Pathology number 818540-31TH) the recurrent tumour was favoured to be a gemistocytic astrocytoma, WHO grade 2, and stained IDH1 positive.  There are gemistocytes around the previous surgical cavity in the present specimen but these are interpreted as reactive, although a small number of tumour cells could also be present.  The lack of staining of the present specimen for IDH1 is further support for the lack of definite recurrent tumour. 
+The slides of the previous specimen (CPC Pathology 818540-31TH) will be reviewed and I will also get the present slides reviewed by Dr V Rinehardt, neuropathologist.  A supplementary report will be issued.  There was also apparently an earlier resection in 2057 but I do not know where this pathology was reported.
+
+
+
+DIAGNOSIS:  
+Left temporal tissue: Gliosis and cavity from previous surgery.  No definite recurrent tumour identified. 
+   
+

@@ -1,0 +1,44 @@
+ 1101467.HPG
+MARENTES, RODNEY Jeneva
+11A14672,11A14672
+CLINICAL:
+Bilateral ovarian masses, raised Ca ? 25.
+MACROSCOPIC:
+A. Specimen labelled "Right tube and ovary" consists of a lobulated cystic mass 120 x 80 x 50mm with a tube 45 x 5 x 5mm.  The outer surface is smooth.  The cut surface shows 75% solid tan/yellowish tumour with the rest cystic.  
+The ___ two sections for frozen section.
+Blocks: 1 & 2 ? frozen section; 3 to 14 ? representative sections from the tumour (block 14 ? reserve block); 15 ? two LS fimbria; 16 ? fallopian tube.   
+FROZEN SECTION REPORT:
+Adenocarcinoma, looks well differentiated.  ?Type.  ?1o/?2o.
+Results to Dr D Koerber by Dr D Monico/Dr D Robey at 11.54am on 24/12/62.
+B. Specimen labelled "Uterus, cervix and left tube + ovary" consists of a uterus with attached cervix, left tube and ovary.  The specimen weighs 47.4g and the uterus measures 150 x 100 x 90mm.  The serosal surface is highly deformed by multiple fibroids.  The cervix measures 30 x 30mm.  The mucosal is shiny and smooth.  The endometrium is 1mm in thickness and the myometrium is up to 50mm in thickness and contains numerous fibroids ranging from 2 to 50mm.  The left tube is 50 x 5 x 5mm.  The ovary is small and measures 25 x 5 x 5mm.  On sectioning it is unremarkable.  
+Blocks: 1 to 5 ? one full LS anterior body and cervix; 6 to 11 ? one full LS posterior body and cervix; 12 & 13 ? two representative sections of posterior endomyometrium; 14 ? right parametrial tissue; 15 ? left parametrial tissue; 16 ? two LS left fimbria; 17 ? left fallopian tube; 18 & 19 ? left ovary.
+  
+C. Specimen labelled "Anterior uterine mass" consists of a nodular and fibrotic mass 60 x 30 x 30mm.  The cut surface is nodular and fibrotic.  Representative sections in 3 blocks.  
+D. Specimen labelled "Appendix" consists of an appendix 60 x 5 x 5mm.  The external surface is unremarkable.  The specimen is AE.
+Blocks: 1 ? two LS proximal appendix; 2 ? four TS mid appendix; 3 ? two LS distal appendix.  
+E. Specimen labelled "Omentum" consists of a piece of omentum 300 x 120 x 20mm.  On sectioning it is unremarkable.  Six representative sections in 3 blocks; reselect blocks 4-6 ? further representative sections.  (TO: MF; MA/ta 24/12/62) 
+MICROSCOPIC (Reported by Dr D Butte):
+A. Sections show an endometrioid tumour which consists of variable sized endometrioid glands with an associated fibrotic stroma.  The glands are often crowded, irregular and complex and they are lined by epithelial cells with large nuclei, often a single prominent nucleolus and a moderate amount of eosinophilic cytoplasm.  There is a moderate mitotic rate.  The architectural pattern is unusual but the appearances are most consistent with a grade 1 endometrioid adenocarcinoma.  
+Last edited : 11/1/2063	Page: 1
+ 1101467.HPG
+Koprowski, FLORENTINO ADELINE
+11A14672,11A14672
+There may also be a borderline endometrioid adenofibromatous component but the bulk of the tumour is considered to be best regarded as endometrioid adenocarcinoma.  No tumour is identified on the surface of the ovary.  Sections of the fallopian tube are unremarkable.  
+Representative slides have also been viewed by Dr D Cabriales.
+B. Sections of the cervix are unremarkable.  Sections of the endometrium show that this is inactive.  Several leiomyomas are confirmed in the myometrium, and there is also adenomyosis in the myometrium.  Sections of the right and left parametrial soft tissue are unremarkable.  Sections of the ovary and fallopian tube are unremarkable.  No tumour is seen.  
+C. Sections show a leiomyoma.  There is no atypia or evidence of malignancy.  
+D. Sections show unremarkable appendix.  No abnormality is seen.  
+E. Random sections of the omentum show a focal surface mesothelial and fibroblastic reaction; the cause of this is uncertain.  The omentum is otherwise unremarkable.  No tumour is seen.  
+DIAGNOSIS:  
+A. Right tube and ovary:  Grade 1 endometrioid adenocarcinoma of ovary.  
+B. Uterus, left ovary and fallopian tube:  Uterine leiomyomas and adenomyosis.  
+C. Anterior uterine mass:  Leiomyoma.  
+D. Appendix:  No abnormality seen.  
+E. Omentum:  No tumour.  
+SUPPLEMENTARY REPORT (reported by Dr D Gonzeles, 3.13.2062)
+Immunohistochemistry for mismatch repair gene products was requested during the Gynae Oncology meeting (1.13.2062) and has been performed on block A12.
+MLH1:  Retained (positive) nuclear reactivity within tumour cells
+PMS2:  Retained (positive) nuclear reactivity within tumour cells
+MSH2:  Retained (positive) nuclear reactivity within tumour cells
+MSH6:  Retained (positive) nuclear reactivity within tumour cells
+Comment: No loss of expression of these mismatch repair gene products has been detected.  Although immunohistochemistry has relatively high sensitivity, it does not detect every tumour in which there is a mutation of one of these genes.

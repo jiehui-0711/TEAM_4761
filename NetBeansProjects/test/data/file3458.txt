@@ -1,0 +1,73 @@
+SPR no: 18Z995313S
+MRN no: 1899953
+Site_name: DALWALLINU HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  18Z995313S
+1899953.EIS
+
+CRUMBY, ART HWA
+Lab No:  18Z99531,18Z99531
+Teaneck
+KYNETON  WA  4011
+Specimen: Washings,Tissue
+D.O.B:  15/12/2007
+Sex:  F
+Collected: 4/2/2065 at :
+Location:  Southern - CHERBOURG HOSPITAL
+DR HUMBERTO DHIRRIL WISEHART
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Endometrial cancer grade 2.  HTN.  Righttube + ovary, pelvic tissue frozen section.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot; consists of a solid mass, 60 x 45 x 30mm with uninvolved overlying fallopian tube 60mm in length.  The majority of the mass has a smooth external surface, with a granular area occupying &amp;lt;20% of the surface.  The cut surfaces show a circumscribed fleshy tan tumour with haemorrhagic areas.
+Blocks:  1 - tumour with granular surface for FS;2- RS of tumour for FS; 3 &amp;amp; 4 - fallopian tube; 5 to 7 - tumour with granular surface; 8 to 10 - RS tumour.
+FROZEN SECTION REPORT:
+Adenocarcinoma, favour endometrioid grade 3.
+Phone result to Dr D Killings by Dr D Mcravin/Dr D Pohlman.
+B.  Specimen labelled &amp;quot;Uterus, cervix, left tube and ovary plus fibroid&amp;quot; consists of a uterus with cervix and left fallopian tube and ovary weighing 688g in total.  The uterus with cervix is 180 x 150 x80mm.  The ectocervix is 20 x 20mm.  The uterus is distorted by multiple intramural and subserosal fibroids.  The largest fibroid is 110 x 80 x 60mm.  The remaining fibroids range from 10-40mm across.  The endometrial cavity is markedlydistorted, with the majority of the endometrium appearing atrophic.  There is an exophytic polypoid lesion which appears to arise over the endometrium overlying a large fibroid.  This polypoid lesion is 40 x 25 x 30mm.  The tumour appears to infiltrate into the myometrium by a depth of 5mm, through a maximal myometrial thickness of 45mm.  The left fallopian tube is 60mm in length, and the left ovary is 25 x 20 x 20mm.  Also received is a separate fibroid, 80 x 50 x 50mm, and a separate smooth grey nodule with a patchy calcified and haemorrhagic cut surface.  A separate fragment of tumour with surface necrosis is received, 45 x 35 x 10mm.
+Blocks:  1 to 3 - anterior body and cervix; 4 to 7 - posterior body and cervix; 8 &amp;amp; 9 - anterior tumour; 10 to 12 - anterior tumour with full thickness of myometrium; 13 - posterior tumour overlying fibroid; 14 - RS largest fibroid; 15 to 17 - separate grey nodule with haemorrhage and necrosis; 18 - left fallopian tube and ovary.
+C.  Specimen labelled &amp;quot;Right external iliac lymph node&amp;quot; consists of two pieces of adipose tissue 15 and 20mm across.  One lymph node is identified, 10mm across.
+Blocks:  1 - onelymph node; 2 - remaining specimen.  AE.
+D.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot; consists of two pieces of adipose tissue both 20mm across.  One lymph node is identified, 15mm across.
+Blocks:  1 - one lymph node; 2- remaining fragments.  AE.
+E.  Specimen labelled &amp;quot;Right obturator lymph node&amp;quot; consists of multiple fragments of adipose tissue, 55 x 35 x 10mm in aggregate.  Multiple lymph nodes are identified, the largest being 30mm across.
+Blocks:  1 &amp;amp; 2 - largest lymph node; 3 - one lymph node; 4 - multiple lymph nodes.
+F.  Specimen labelled &amp;quot;Left obturator lymph node&amp;quot; consists of multiple fragments of adipose tissue, 40 x 20 x 10mm in aggregate.  Multiple lymph nodes are identified, up to 8mm across.
+Blocks:  1- multiple lymph nodes.
+G.  Specimen labelled &amp;quot;Right common iliac lymph node&amp;quot; consists of a piece of adipose tissue, 35 x 20 x 10mm.  One lymph node is identified, 25mm across.
+Blocks:  1 &amp;amp; 2 - one lymph node.
+H.  Specimen labelled &amp;quot;Right paraaortic lymph node&amp;quot; consists of fragments of adipose tissue 35 x 20 x 10mm in aggregate.  Multiple lymph nodes are identified up to 15mm across.
+Blocks:  1 &amp;amp; 2 - multiple lymph nodes.
+I.  Specimen labelled &amp;quot;Periumbilical nodule&amp;quot; consists of a piece of fibroadipose tissue, 70 x 65 x 35mm.  One surface is partially covered by peritoneum.  There is an ill defined pale grey nodule with surrounding fat necrosis, 25mm across.
+Blocks:  1 to 3- RS through nodule.
+J.  Specimen labelled &amp;quot;Omental biopsy&amp;quot; consists of a piece of omentum, 150 x 60 x 20mm.  No focallesions are seen.  RS in three blocks.
+(TO: KT:  KT/mm .4.2.65)
+MICROSCOPIC:  (Reported by Dr D Revells)
+A.  Sections show a poorly differentiated endometrioid adenocarcinoma of the ovary.  The tube is uninvolved.
+B.  Sections show a grade 2 endometrioid adenocarcinoma of the endometrium.  The depth of invasion is difficult to measure due to the distortion of the uterus, however I estimate the depth to be11mm through a wall 45mm thick.  Focal lymphvascular invasion is present.  The ectocervix and endocervix are uninvolved and unremarkable.  The left ovary and tube are unremarkable.
+In addition, the separate specimen received shows a leiomyoma extensively involved by poorly differentiated endometrioid adenocarcinoma (similar in appearance to specimen A).
+Immunoperoxidase stains for MSI are pending.
+C.  One lymph node shows no evidence of malignancy.
+D.  Two lymph nodes show no evidence of malignancy.
+E.  Six lymph nodes show no evidence of malignancy.
+F.  Four lymph nodes show no evidence of malignancy.
+G.  One lymph node shows no evidence of malignancy.
+H.  Five lymph nodes show no evidence of malignancy.
+I.  Sections show scarring, fat necrosis and suture granulomas.  There is no evidence of malignancy.
+J.  There is no evidence of malignancy.
+DIAGNOSIS:
+Poorly differentiated endometrioid adenocarcinoma of the right ovary.  This tumour also involves a separate leiomyoma (?subserosal ?broad ligament).
+Grade 2 endometrioid adenocarcinoma of the endometrium, depth 11mm through a wall 45mm thick.  Focal lymphvascular invasion present.  Cervix uninvolved.
+The ovarian and the endometrial tumours are favoured as synchronous primaries.
+Nineteen (19) lymph nodes and the omentum are negative.
+ADDITIONAL REPORT 12/2/65:
+
+Immunoperoxidase stains for MSI proteins on both specimens A &amp;amp; B:
+
+MLH1:  Loss of nuclear staining
+PMS2:  Loss of nuclear staining
+MSH2:  Preserved nuclear staining
+MSH6:  Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

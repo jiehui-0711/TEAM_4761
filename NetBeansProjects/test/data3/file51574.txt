@@ -1,0 +1,117 @@
+SPR no: 28D656479S
+MRN no: 281656
+Site_name: MONASH HEALTH COMMUNITY
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report28D65647,28D65647 (28D656479S) MURATALLA, Roberto
+HISTOPATHOLOGY REPORT
+LITHGOW HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+High-grade carcinoma ?sarcoma.
+1. Peritoneal washings for Cytol.
+Histopathology:
+2. Left pelvic sentinel node.
+3. Right pelvic sentinel nodes.
+4. Uterus, cervix, bilateral tubes and ovaries.
+5. Omentum biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS WITH CERVIX, BILATERAL TUBES, OVARIES&amp;quot;. Consists of uterus, cervix and attached bilateral tubes and ovaries, weighing 133g, all together.
+Right tube measures 50mm in length, 10mm in diameter. Serosa is smooth and grey. Sectioning is unremarkable. Right ovary, 25x20x15mm. Outer surface is yellow, lobular and smooth. Sectioning is unremarkable.
+Left tube, 40mm in length, 7mm in diameter. Serosa is smooth, grey. Sectioning is unremarkable. Left ovary, 30x25x10mm. Outer surface is lobular, yellow and is smooth. Sectioning is unremarkable.
+
+Uterus measures 90x60x50mm. Ectocervix is 80x20mm, with a slit-like os, 10mm. Serosa is smooth. No tumour deposit is present. Anterior surface is inked blue, posterior is inked black. Specimen is received partially opened choronally. Serially sliced. Anterior myometrium measures 22mm, posterior myometrium measures 24mm. There is a grey, friable, mostly circumscribed, possible necrotic lesion, arising from endometrium, involving the fundus down to lower segment, with a depth of 20mm into the myometrium. There is a possible myometrium invasion. No extensions to the cervix is present.
+
+(1 right parametrium; 2 left parametrium; 3 right tube; 4 right ovary; 5 left tube; 6 left ovary; 7-22 sections of tumour [7-9 one full face, sagittal anterior; 14-17 one full face, sagittal posterior]). RS (M-22) [Please see block diagram]
+
+B. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Consists of a lymph node, 12mm. Serially sliced and all embedded in Block 1. AE (M-1)
+
+C. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. Consists of three fibrofatty tissue, 30,10,10mm, containing three lymph nodes, 13,5,5mm.
+
+(1 and 2 one lymph node; 3 two lymph nodes). RS (M-3)
+
+D. &amp;quot;OMENTUM BIOPSY&amp;quot;. Consists of fibrofatty tissue, 20mm. AE (1-1/SM 9/7/2067 cy)
+
+MICROSCOPIC: (Dr. F Dresbach)
+A.  Sections show a exophytic and invasive carcinosarcoma, predominantly carcinomatous but with very small foci of sarcomatous component.  The sarcomatous component shows spindle cells and focally shows a myxoid background with more rounded cells, suggestive of chondrosarcomatous differentiation.  Myometrial invasion is difficult to accurately assess due to the exophytic growth of the tumour, but focally is measured at a maximum of 8mm through a 20mm myometrial wall.  Other areas show up to 5mm of myometrial invasion through a 20mm wall.  Myometrial lymphovascular invasion is present.
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:  Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE:  Fundus and body, very focal extension to the lower uterine segment posteriorly.
+
+TUMOR SIZE:  Involves both the anterior and posterior myometrium, and extends 20mm in the superoinferior plane.
+
+HISTOLOGIC TYPE:  Carcinosarcoma (malignant mixed M&amp;#252;llerian tumor), with the epithelial component approximately 97%, sarcomatous component approximately 3%.  The sarcomatous component shows focal heterologous elements (focal chondroid differentiation).
+
+HISTOLOGIC GRADE:  FIGO grade 3 (epithelial component)
+
+MYOMETRIAL INVASION:
+Depth of invasion:  8mm
+Myometrial thickness:  20mm (block A7)
+Percentage depth of myometrial invasion:  Maximum 40% focally, other areas show around 25%.
+
+(or, if exact percentage/depth of invasion cannot be determined):  Estimated &amp;lt; 50% myometrial invasion
+
+UTERINE SEROSA INVOLVEMENT:  Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:  Very focal, posteriorly.
+
+CERVICAL STROMAL INVOLVEMENT:  Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:  Not identified.  (Sections of the right and left ovary, left and left fallopian tube and right and left parametrium show no involvement).  The omentum (specimen D) also shows no involvement.
+
+MARGINS:
+(required only if cervix and/or parametrium/paracervix is involved by carcinoma)
+
+- Paracervical margin:  Uninvolved by carcinoma.
+
+- Parametrial margin:  Uninvolved by carcinoma
+
+- Ectocervical/vaginal cuff margin:  Uninvolved by carcinoma
+
+LYMPHOVASCULAR INVASION:  Present, substantial (&amp;gt; 5 vascular spaces)
+
+SENTINEL NODES:  Right and left pelvic sentinel nodes (specimens B and C):  Not involved (confirmed on AE1/AE3 IPX staining).
+
+Number of lymph nodes involved:  0
+Number of lymph nodes examined:  4 (B + C)
+
+(or if sentinel nodes included):
+Number of nodes with macrometastasis (&amp;gt; 2 mm):  0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm):  0
+Number of nodes with isolated tumor cells (0.2 mm or less):  0
+Total number of lymph nodes examined (sentinel):  4
+Number of sentinel lymph nodes examined:  4
+
+DISTANT METASTASES (histologically confirmed):  Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:  Adenomyosis
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains: Tumour cells show positive (normal) staining for MLH-1, MSH2, MSH6, and PMS2, indicating a low likelihood of a microsatellite instability phenotype.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report):  IA:  less than half myometrial invasion.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+pT1a:  Tumor invading less than half of the myometrium.
+pN0:  No sentinal lymph node metastasis.
+
+B.  The single left pelvic sentinel node shows no involvement.  A keratin immunostain is negative.
+
+C.  The right pelvic sentinel node lymph nodes show no involvement (keratin stain negative).
+
+D.  The omentum biopsy shows no involvement.
+
+DIAGNOSIS:
+A.  UTERUS WITH CERVIX, BILATERAL TUBES, OVARIES:
+- CARCINOSARCOMA, FIGO STAGE 1A, pT1a, pN0.
+B.  LEFT PELVIC SENTINEL NODE:
+- THE SINGLE NODE SHOWS REACTIVE CHANGES ONLY.
+C.  RIGHT PELVIC SENTINEL NODE:
+- THE THREE SENTINEL NODES SHOW REACTIVE CHANGES ONLY.
+D.  OMENTUM BIOPSY:
+- UNREMARKABLE ADIPOSE TISSUE.
+16/6/2071 km

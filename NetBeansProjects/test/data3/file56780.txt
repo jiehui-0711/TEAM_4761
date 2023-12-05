@@ -1,0 +1,142 @@
+SPR no: 09Z924639H
+MRN no: 099924
+Site_name: JOYCE PALMER HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report09Z92463 (09Z924639H) Faddis, SPENCER
+HISTOPATHOLOGY REPORT
+PETER MACCALLUM CANCER CENTRE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca 1 o&amp;apos;clock.
+Frozen section. Left sentinel lymph node.
+(1) L breast wide local excision
+(2) L axillary clearance.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL NODE&amp;quot;.  A blue node, 15mm in diameter.
+
+F/S: &amp;quot;Metastatic carcinoma 3.5mm in diameter&amp;quot; per phone to Dr. Nyininy at 3:10pm on 04/02/72 by Dr. B. Streicher.
+
+(1 frozen section; 2 remainder).
+
+B.
+Specimen labelled &amp;quot; WIDE LOCAL EXCISION LEFT BREAST&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  Yes
+HOOKWIRE:  Yes - hookwire split is located at E7 and is inked blue.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  65mm
+Superior to inferior:  50mm
+Anterior to posterior:  25mm
+WEIGHT:  36g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial
+Number of slices: 10
+FINDINGS / LESION:  Area marked is located in Slice 6. Within Slices 5 and 6, there is fairly circumscribed firm creamy lesion, measuring 10mm medial to lateral, 13mm superior to inferior and 10mm anterior to posterior. Adjacent to this lesion, there is a fibrotic area which abuts posterior margin.
+Tumour is 5mm from posterior margin, 7mm from anterior margin, 12mm from superior, 17mm from inferior and more than 18mm from the rest of margins.
+(1 LS from Slice 1; 2 and 3 Slice 2; 4 portion of Slice 4; 5 and 6 Slice 5; 7 and 8 Slice 6; 9 and 10 Slice 7; 11 portion of Slice 8; 12 portion of Slice 9; 13 LS Slice 10). RS (M-13)
+C. &amp;quot;LEFT AXILLARY CLEARANCE&amp;quot;. Fibrofatty tissue, 120x90x30mm. It contains multiple lymph nodes with a maximum dimension of 20mm.
+(1 and 2 one lymph node, sliced; 3 one lymph node; 4 one lymph node bisected; 5 one lymph node; 6 one lymph node bisected; 7 one lymph node bisected; 8 ?four lymph nodes; 9 ?four lymph nodes). RS (M-9/SM 7/1/2071 cy)
+MICROSCOPIC:  (Dr. B. Ferandez)
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI:  One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;19mm (in 3 consecutive slices).
+&amp;#160;
+INVASIVE CARCINOMA TYPE:  Infiltrating duct carcinoma.
+&amp;#160;
+HISTOLOGIC GRADE:  2
+
+SCORES Tubules:  2, Nuclei:  2, Mitoses:  2; Total score: &amp;#160;6&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;9&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  29mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION:  Not seen
+&amp;#160;
+PERINEURAL INVASION:  Not seen
+&amp;#160;
+SKIN INVOLVEMENT:  Not applicable
+
+DERMAL LYMPHOVASCULAR INVASION:  Not applicable
+&amp;#160;
+NIPPLE INVOLVEMENT:  Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT:  Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent:  Extends 10mm beyond invasive tumour.
+Nuclear grade:  Intermediate and high grade.
+Architecture / type:  Solid/cribriform
+Necrosis:  Present
+Microcalcification of DCIS:  Absent
+Extensive intraduct component:  Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not seen
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma is completely excised with a clearance of 5mm from closest anterior and posterior margins.
+&amp;#160;
+DCIS MARGINS:
+DCIS extends within 0.2mm of posterior margin without intervening normal ducts.
+All other margins are clear of DCIS.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B5
+
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+OESTROGEN RECEPTOR:         negative
+PROGESTERONE RECEPTOR: negative
+
+HER-2 IMMUNOPEROXIDASE
+POSITIVE (score 3+) Her-2 SISH to follow
+
+Ki-67 proliferative index:&amp;#160;40%
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES&amp;amp;AXILLARY LYMPH NODES:  Involved by metastatic carcinoma.
+
+Nodes with macrometastases: 6 (1 sentinel and 5 axillary).
+Nodes with micrometastases:  1 (axillary)
+Nodes with isolated tumor cells:  0
+Total number of nodes examined:  12 (1 sentinel and 11 axillary).
+&amp;#160;
+Largest nodal tumour deposit:  8mm
+Extranodal extension: &amp;#160;Present with a span of 2mm
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition):  pT1c, pN2a
+
+DIAGNOSIS:
+LEFT SENTINEL NODE:
+- METASTATIC CARCINOMA IN 1 LYMPH NODE.
+WIDE LOCAL EXCISION LEFT BREAST:
+- INFILTRATING DUCT CARCINOMA.
+LEFT AXILLARY CLEARANCE:
+- METASTATIC CARCINOMA IN 6 OUT OF 11 LYMPH NODES.
+8/1/2072 km
+HER-2 IN-SITU HYBRIDISATION
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+Mean HER2 copy number per cell:  14.3
+Mean CEP17 copy number per cell: 1.5
+HER2/CEP17 Ratio: 9.5
+
+HER2 status:          POSITIVE
+
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122):
+
+Reported by: Dr B Sink
+Date: 9.1.72

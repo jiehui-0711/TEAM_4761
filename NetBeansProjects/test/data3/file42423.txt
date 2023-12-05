@@ -1,0 +1,206 @@
+SPR no: 95D037918K
+MRN no: 185823
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT 17/1/67
+
+95D03791 (95D037918M) KUBIS, Jed CLEMENTINA
+
+HISTOPATHOLOGY REPORT
+SEYMOUR HEALTH AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+R breast sentinel node for frozen section, R breast ca lump + axilla + further (illegible) lateral margin, long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT SENTINEL NODE BIOPSY&amp;quot;.  Consists of two pale LN.
+
+F/S:  &amp;quot;Metastatic carcinoma&amp;quot;.  Results were given by phone on 2/10/2067 by Dr. X. Stober.
+
+(1  LS from each; 2  rest of 1; 3  rest of 2).  RS (M-3).
+
+B.  &amp;quot;LESION RIGHT BREAST LONG-LATERAL, MEDIUM-MEDIAL, SHORT-SUPERIOR&amp;quot;.
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Wide local excision, oriented.
+SPECIMEN X-RAY:  Yes, hookwire split seen at F6 ?calcs at G6.  Overlying areas inked yellow.
+HOOKWIRE:  Yes, entering the specimen anteriorly.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  55mm
+Superior to inferior:  50mm
+Anterior to posterior:  25mm
+WEIGHT:  43g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Standard:  Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral.
+Number of slices:  14
+FINDINGS / LESION:  The entire breast shows ectatic ducts excluding cream-colour to light brown material.  Towards the lateral aspect commencing in slice 10 to 14 is a firm suspicious area.  In some areas ill-defined, in some areas appears a bit more well demarcated.  This area measures 24mm medial to lateral, 25mm superior to inferior, 17mm anterior to posterior.  This suspicious area involves or comes up to the anterior, posterior and inferior margins and is less than 5mm from superior.  Representative sections taken.
+(1&amp;amp;2  longitudinal through medial margin slice 1-2; 3&amp;amp;4 slice 2; 5-7  slice 4; 8-10  slice 6; 11&amp;amp;12  slice 8; 13&amp;amp;14  slice 10; 15&amp;amp;16  slice 11; 17&amp;amp;18  slice 12; 19  slice 13; 20&amp;amp;21  longitudinal through lateral margin slice 14).  RS (M-21).
+C.  &amp;quot;FURTHER POSTERIOR LATERAL RIGHT BREAST LONG-LATERAL, MEDIUM-MEDIAL, SHORT-SUPERIOR&amp;quot;.
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Re-excision, oriented.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  9mm
+Superior to inferior:  27mm
+Anterior to posterior:  17mm
+WEIGHT:  2.3g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Non-Standard:  Medial red, Lateral green, Anterior blue, Posterior black.
+DISSECTION: Cut from superior to inferior.
+Number of slices:  7
+FINDINGS / LESION:  The cut surface reveals ectatic ducts extruding cream-coloured material.  No obvious lesion is noted macroscopically.
+(1  longitudinal through superior margin slice 1; 2  slice 2; 3  slice 3; 4  slice 4; 5  slice 5; 6  slice 6; 7  longitudinal through inferior margin slice 7).  AE (M-7).
+D.  &amp;quot;RIGHT AXILLARY CLEARANCE&amp;quot;.  Fourteen possible lymph nodes are identified ranging from 2 to 20mm.
+(1  one node bisected; 2  one node bisected; 3  one node bisected; 4  three possible lymph nodes; 5  seven possible lymph nodes).  RS (M-5/MC 2/7/2070 km).
+MICROSCOPIC:  (Dr X Duda)
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT Specimen A and B
+(Based on CAP 2017)
+
+INVASIVE CARCINOMA:
+NUMBER OF INVASIVE FOCI: Single invasive focus
+
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160;25 mm
+
+INVASIVE CARCINOMA TYPE:
+Mixed invasive carcinoma of no special type (ductal) with invasive micropapillary component
+&amp;#160;
+HISTOLOGIC GRADE:  3
+SCORES: Tubules: 2, Nuclei: 3, Mitoses: 3; Total score: 8&amp;#160;(of 9)
+MITOTIC RATE: 19&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 30mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Present and extensive
+
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: Not applicable
+DERMAL LYMPHOVASCULAR INVASION: Not applicable
+NIPPLE INVOLVEMENT: Not applicable&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: Scattered involved ducts around the margin of the invasive tumour
+Nuclear grade: High
+Architecture / type: Cribriform, micropapillary, flat
+Necrosis: Not identified
+Microcalcification of DCIS:  Not identified
+Extensive intraduct component:  Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Positive
+
+Site and extent of margin involvement:
+Posterior margin incomplete over a 4mm front&amp;#160;(B18)
+Lateral margin incomplete over a 2mm front&amp;#160;(B21)
+
+Distance of invasive tumour to other margins:
+Anterior: 3mm (B19)
+Superior: 5mm
+Inferior: 3mm (B19)
+Medial: Well clear (&amp;gt;10mm)
+&amp;#160;
+DCIS MARGINS: Negative
+Distance of DCIS to closest margins:
+Inferior: 2mm (B19)
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B19
+ER:  Negative
+PgR: Negative 0
+HER2:  Negative 1+ (IHC, SISH to follow)
+Ki67: 40 to 50%
+
+Immunostains performed on micropapillary component. Immunostains will also be performed on ductal (NST) component and a further report will follow.
+&amp;#160;
+Other tumour block suitable for further testing: B17
+&amp;#160;
+SEPARATE FINDINGS: &amp;#160;Fibrocystic disease including numerous ruptured cysts with fat necrosis (duct ectasia) and immature scar tissue
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Involved
+Nodes with macrometastases: 2
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of sentinel nodes examined: 2
+&amp;#160;
+Largest nodal tumour deposit:  6mm
+Extranodal extension:  Not identified
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+C.
+Specimen C.
+The entire specimen has been embedded and sections show a 4mm focus of residual invasive high grade ductal carcinoma (NST) forming the red inked (medial aspect) of the the most inferior slice over a 4mm front (2mm front in 2 adjacent sections). There is also lymphovascular space invasion. There is no evidence or residual ductal carcinoma in situ.
+
+D.
+Specimen D
+AXILLARY LYMPH NODES: Involved
+Number of involved nodes: 1
+Total number of axillary nodes examined: 13
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN1a
+
+DIAGNOSIS:
+A. RIGHT SENTINEL LYMPH NODE BIOPSY
+- TWO OF TWO LYMPH NODES INVOLVED BY MACRO- METASTATIC CARINOMA
+B. HOOKWIRE LOCALISED ORIENTED WIDE LOCAL EXCISION RIGHT BREAST
+- 25mm HIGH GRADE INVASIVE CARCINOMA OF MIXED DUCTAL AND MICRO-PAPILLARY TYPES
+- INVASIVE CARCINOMA INCOMPLETELY EXCISED AT THE POSTERIOR AND LATERAL MARGINS
+- SMALL COMPONENT OF HIGH GRADE DCIS
+- MICRO-PAPILLARY COMPONENT &amp;quot;TRIPLE NEGATIVE&amp;quot;
+- RECEPTOR STATUS ON INVASIVE DUCTAL COMPONENT TO FOLLOW
+C. ORIENTED RE- EXCISION POSTERO-LATERAL MARGINS RIGHT BREAST
+- 4mm FOCUS RESIDUAL INVASIVE DUCTAL CARCINOMA (NST) FORMING THE MEDIAL ASPECT OF THE MOST INFERIOR SLICE OVER A 4mm FRONT.
+D. RIGHT AXILLARY DISSECTION
+- ONE OF THIRTEEN LYMPH NODES INVOLVED BY METASTATIC CARCINOMA
+17/1/67 ld
+SUPPLEMENTARY REPORT 17/1/70
+B.
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B16, invasive ductal carcinoma
+&amp;#160;
+ER: Negative 0
+PgR: Negative 0
+HER2: Negative 0 (IHC, SISH to follow)&amp;#160;
+Ki67:40 to 50%
+
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+B16, invasive ductal carcinoma
+HER2 Dual ISH result:   NEGATIVE
+
+Mean HER2 copy number per cell:  1.4
+Mean CEP17 copy number per cell:  1.55
+HER2/CEP17 Ratio:  0.9
+
+B19, invasive micropapillary carcinoma
+HER2 Dual ISH result:   NEGATIVE
+
+Mean HER2 copy number per cell:  1.85
+Mean CEP17 copy number per cell:  1.5
+HER2/CEP17 Ratio:  1.2
+
+SCORING CRITERIA (Update in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal:&amp;#160; HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 6.0
+Positive: HER2/CEP17 &amp;gt; or equal to 2.0
+
+Reported by: Dr X Hochstedler
+Date: 20/2/71

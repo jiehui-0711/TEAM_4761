@@ -1,0 +1,31 @@
+SPR no: 92Q454204D
+MRN no: 926454
+Site_name: WESTERN HEALTH - BACCHUS MARSH
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Extended right hemihepatectomy + hilar LN dissection
+Additional information supplied:  Raised AFP, no other known malignancy.
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Liver resection&amp;quot;, consists of a hemihepatectomy measuring 160 x 130 x 50mm weighing 732g.  The liver is diffusely nodular and infiltrated by tumour.  The resection margin is extensively stapled and is inked blue.  The gallbladder is attached and measures 70 x 35 x 25mm.  The cystic duct is clipped and there is no connection between the liver and gallbladder.  The bed of the gallbladder at the fundus is adherent to the liver capsule.  The majority of the liver parenchyma is infiltrated by multinodular tumour, with two predominant nodules measuring 105 and 85mm in maximum dimension. Multiple non-continuous smaller nodules measuring between 6 and 20mm are present throughout the liver.  The liver away from the tumour appears unremarkable.  The gallbladder mucosa is green and velvety with wall thickness up to 1mm.  No stones are identified within the gall bladder. There is tumour adherent to the fundus of the gallbladder that appears to not invade through the gallbladder mucosa.
+Blocks:  1 to 3 - resection margin and adjacent tumour nodule, 4 to 6 - RS larger nodule of tumour with overlying capsule, 7 - larger nodule of tumour with adjacent fat, 8 and 9 - RS smaller main nodule, 10 - RS smaller main nodule with adjacent fat, 11 - shave cystic duct margin, 12 - lymph nodes at neck of gallbladder, 13 - RS gallbladder mucosa, 14 and 15 - RS gallbladder mucosa and underlying tumour, 16 - RS tumour and capsular surface, 17 - RS normal liver away from tumour.
+
+B.  Specimen labelled &amp;quot;Hilar lymph nodes&amp;quot;, consists of a fibrofatty piece of tissue, 70 x 20 x 12mm containing multiple lymph nodes between 5 and 40mm.
+Blocks:  1 - multiple lymph nodes, 2 - single lymph node serially sliced, 3 - single lymph node, 4 - single lymph node bisected, 5 - single lymph node trisected, 6 to 10 - single multilobulated lymph node, serially sliced TS  (MS/eh 29/3/2067)
+
+
+MICROSCOPIC (Reported by Dr Z Naillon):
+A.  Sections show multiple tumour deposits replacing the liver parenchyma with the largest nodule measuring up to 105mm across.  The tumour is composed of malignant cells arranged in nests and trabeculae with occasional pseudoglandular formations.  The tumour cells have abundant eosinophilic granular cytoplasm with focally bizzare nuclear atypia, vesicular chromatin and large eosinophilic nucleoli.  Abundant mitotic figures are present.  Focal fatty change is seen within the tumour.  The tumour shows positive staining with PanCK, cam5.2, AE1/3, arginase and glypican 3.  There is focal staining with AFP.  Sinusoidal cells are identified with the CD34 stain encircling tumour nodules and a canalicular staining pattern is seen with CD10.  The Hepar-1 stain (repeated) is negative.  In addition the CK7, CK20, CDX2, TTF-1 and SOX-10 stains are negative. The appearance is consistent with moderately differentiated hepatocellular carcinoma.  Some of the tumour nodules show central necrosis and extensive lymphovascular invasion is present.  Many of the tumour nodules stretch the overlying capsule but no capsular penetration is seen.  Tumour abuts the hepatic resection margin after removal of surgical staples however, the true margin is possibly clear.  There is no definite extension of tumour into adherent adipose tissue or within the wall of the gallbladder.  The gallbladder otherwise shows no significant abnormality and the cystic duct lymph node is uninvolved.  The background liver shows a mild non-specific chronic inflammatory cell infiltrate but no other significant abnormality.
+
+B.  The five (5) lymph nodes show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Liver:
+-  Moderately differentiated multinodular hepatocellular carcinoma
+-  Extensive lymphovascular invasion
+-  Close surgical resection margin
+-  No invasion into attached adipose tissue or gallbladder
+-  Benign cystic duct lymph node
+B.  Hilar lymph nodes:  Five benign lymph nodes.

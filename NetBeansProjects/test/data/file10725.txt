@@ -1,0 +1,50 @@
+SPR no: 77F204514I
+MRN no: 7722045
+Site_name: MORUYA DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportdrslwWidth3528tqcEpisode No:  77F204514 I
+7722045.CLI
+fs22rw10 brdrsjustright
+WILDER, BOY
+1dl108brdrsdrrdth3intblLab No:  77F20451
+Peverel
+adjustrighthwnil rbrdrl
+EUROA  TAS  4558
+wd rtrw10
+rsclbrdrb108 0Specimen:  Tissue
+D.O.B:  11/3/2012
+Sex:  M
+plain w10 altrsbrdrtctlparCollected: 09/03/2016 at 10:23
+Location:  ACUTE CARE WARD-ALBANY HOSPITAL
+w10 awnil
+DR LESLIE STEPHEN DELANOY
+addr108rw10 rin0
+erf ddfr3 lphaDistribution:    Coventry Health Care83962
+drbngfe1041
+0CLINICAL:
+T otal thyroid &amp;#8211; left hemithyroid and right hemithyroid.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Right hemithyroidid13916397&amp;#8221; consists of right hemithyroidectomyid9850239  weighing 47g and measuring 69mm (from superior to inferior), 45mm (from left to right) and  30mm (from anterior to posterior).  The tracheal margin is inked black.  Specimen serially sliced from superior pole to in ferior pole into thirteen slices.  Within the mid pole of the thyroid is a ?colloid cyst 3081measuring 7 x 7 x 5mm and towards the upper pole is another smaller ?colloid cyst with an area of haemorrhage measuring 7 x 5 x 3mm.  R S 5 blocks.
+rsid9850239 Blocks:  1 &amp;#8211; upper colloid cyst from slice three; 2 &amp;#8211; colloid cyst from slice six; 3 &amp;#8211; RS slice nine; 4 &amp;#8211; RS slice ten; 5 &amp;#8211; RS slice eleven.   (TO: MS; MS/rt 5.12.66); 6 &amp;#8211; slice one; 7 &amp;amp; 8 &amp;#8211; slice two; 9 &amp;#8211; remainder of slice three; 10 &amp;amp; 11 ndash  slice four; 12 to 14 &amp;#8211; slice five; 15 to 17 &amp;#8211; remainder slice six; 18 &amp;amp; 19 &amp;#8211; slice seven; 20 &amp;#8211; remainder slice eight; 21 &amp;#8211; remainder slice nine; 22 &amp;amp; 23 &amp;#8211; remainder slice ten; 24 &amp;amp; 25 sh  remainder slice eleven; 26 &amp;#8211; slice twelve; 27 &amp;#8211; slice twelve; 28 &amp;#8211; slice thirteen.  AE.
+pararsid3236820 (TO: MS; MS/rt 13.5.66)
+
+langfe1041B.  Specimen labelled &amp;#8220;Left hemithyroid&amp;#8221; consist s of a hemithyroidectomy measuring 70mm (3081superior to inferior pole) x 55mm 3081(left to right) x 30mm langfe1041(anterior to posterior)0239  and weighing 49g.  The tracheal margin is inked black.  A pyramidal lobe is included measuring 23 x 6 x 2mm.  The pyramidal lobe is inked blue.  Specimen serially  sliced from superior to inferior into thirteen slices.  Within slices seven to ten are multiple colloid nodules sid9850239 measuring between 3 and 10mm in size.  RS 5 blocks.
+Blocks:  1 &amp;#8211; RS slice three; 2 &amp;#8211; RS slice seven; 3 &amp;amp; 4 &amp;#8211; paired blocks slice eight;  5 &amp;#8211; slice ten.  (TO: MS; MS/rt 5.12.66); 6 &amp;#8211; slice one; 7 &amp;amp; 8 &amp;#8211; slice two; 9 &amp;#8211; remainder slice thre e; 10 &amp;amp; 11 &amp;#8211; slice four; 12 &amp;amp; 13 &amp;#8211; slice five; 14 to 16 &amp;#8211; slice six; 17 &amp;amp; 18 &amp;#8211; slice seven; 19 to 22 &amp;#8211; slice nine; 23 to 25 &amp;#8211; slice ten; 26 to 31 &amp;#8211; slice eleven; 32 to 34 &amp;#8211; slice twe lve; 35 &amp;amp; 36 &amp;#8211; slice thirteen; 37 &amp;#8211; pyramidal lobe in slice thirteen.
+ararsid3236820 All of specimen A &amp;amp; B is embedded.  (TO: MS; MS/rt 11ng5.2.66)
+langnp3081
+bchMICROSCOPIC: (Reported by Dr T Laware)
+A.  The right hemithyroid has been examined in its entire ty. Sections of the thyroid show changes of multinodular goitre, including colloid filled follicles of varying size with nodule formation and patchy fibrosis. There are scattered hyperplastic follicular (adenomatoid) nodules with focal Hu rthle cell (oncocytic) change. There are four papillary microcarcinomas, follicular and mixed papillary/follicular subtypes, ranging from 0.56mm to 6.0mm. The carcinomas extend focally to less than 0.6mm from the inked margin. No convinci ng lymphovascular space invasion or extrathyroidal extension is seen.
+p3081
+B.  The left hemithyroid  has been examined in its entirety. Sections of the thyroid show changes of multinodular goitre, including colloid filled follicles of varying size with nodule formation, patchy fibrosis and focal organising haemorrhage. There are scatter ed hyperplastic follicular (adenomatoid) nodules with focal Hurthle cell (oncocytic) change. An incidental 1.1mm papillary microcarcinoma (follicular variant) is identified (B7), which is unencapsulated and is less than 0.1mm from the ink ed margin. No convincing lymphovascular space invasion or extrathyroidal extension is seen.
+3081
+DIAGNOSIS:
+A.  Right hemithyroid:
+Multinodular goitre with hyperplastic fo llicular (adenomatoid) nodules.
+Four papillary microcarcinomas, ranging from 0.56mm to 6.0mm, focally less than 0.6mm from the inked marg in.
+
+B.  Left hemithyroid:
+Multinodular goitre with hyp erplastic follicular (adenomatoid) nodules.
+1.1mm incidental papillary microcarcinoma, less than 0.1mm to margin.
+ri0
+3916397

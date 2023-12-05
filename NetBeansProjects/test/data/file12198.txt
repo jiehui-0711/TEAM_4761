@@ -1,0 +1,155 @@
+DateOfBirth
+200402210000
+
+
+SiteName
+TERANG & MORTLAKE HEALTH SERVICE
+
+
+FirstName
+Schuiling
+
+
+SPRID
+08J181690M
+
+
+MRN
+083181
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Tad
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+08J18169 (08J181690M) BOUSUM, WILBERT ROBIN
+
+HISTOPATHOLOGY REPORT
+GOULBURN VALLEY HEALTH - SHEPPARTON CAMPUS HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Poorly diff Ca ?origin.
+1. R pelvic side wall mass. 2. Uterus with bilateral tubes and ovaries. 3. Right diaphragmatic wall. 4. Omentum. 5. Appendices epiploicae. 6. L pelvic side wall. 7. L anterior abdominal wall.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT PELVIC SIDEWALL&amp;quot;. Consists of a piece of fibrofatty tissue with one smooth surface. It measures 65x40x35mm. Presumed resection margin is inked blue. The smooth surface is peritonealised. This is not inked. On sectioning, the cut surface reveals a firm area measuring 10x10x8mm. This area has a tan cut surface. Remainder of the tissue is haemorrhagic. The entire firm area is embedded. (1 and 2 firm area; 3 section away from firm area). Representative sections (M-3)
+
+B. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. Consists of uterus with attached cervix, bilateral tubes and ovaries. Consists of uterus with attached cervix, bilateral tubes and cervix. Anterior is inked blue, posterior - black. Adnexal tissue is separated from the main specimen. The uterus with cervix weighs 66g and it measures 80mm superior to inferior, 30mm intercornual distance. Ectocervix is 30x25mm with an ovoid os 2mm. It is creamed coloured and unremarkable. Anterior endomyometrium measures 17mm, posterior endomyometrium measures 15mm. The endometrium is less than 1mm thick. On sectioning, there is a calcified nodule consistent with a fibroid noted posteriorly. This measures 15x15x10mm. There is a possible polyp noted attached to the anterior wall and measuring 3mm. No other suspicious area is identified. The right ovary and fallopian tube weighs 7g. Fallopian tube measures 45mm in length with a maximum diameter of 6mm. The serosa and fimbria appear unremarkable. Ovary is 25x12x6mm. Serosa is unremarkable. On sectioning through the ovary, the cut surface is firm and normal appearing. Representative sections are taken.
+(1 anterior, posterior cervix; 2,3 anterior, posterior endomyometrium; 4 possible polyp; 5 right fallopian tube; 6 right ovary; 7 left fallopian tube; 8 left ovary). Representative sections (M-8)
+
+C. &amp;quot;RIGHT DIAPHRAGMATIC WALL&amp;quot;. Consists of fatty tissue with one surface peritonealised. It measures 120x100x50mm. There is a nodule measuring 80x80x40mm. The non-peritonealised resection margin is inked blue. On sectioning through the nodule, it has a pale white to haemorrhagic cut surface and appears to come up to the resection margin. It is sectioned from one end to the other into 14 slices. (1-4 sections from Slice 1; 5 and 6 sections from Slice 6; 7 and 8 sections from Slice 9; 9 section from Slice 12). Representative sections (M-9)
+
+D. &amp;quot;OMENTUM&amp;quot;. Consists of omental tissue measuring 300x100x25mm. There are multiple nodular deposits of tumour with a pale white appearance. They range from 6-20mm. Representative sections taken. (M-2)
+
+E. &amp;quot;APPENDICES EPIPLOICAE&amp;quot;. A piece of fatty tissue 15x10x6mm. There is a pale area ?fat necrosis measuring 6mm, bisected. All embedded. (2-1)
+
+F. &amp;quot;LEFT PELVIC SIDEWALL&amp;quot;. Consists of two pieces of fatty tissue with an aggregate measurement of 90x40x10mm. On surface is peritonealised. Opposite surface is not peritonealised and this is inked blue. On sectioning, there is a nodular deposit of tumour measuring 20x15x7mm. Representative sections (M-1)
+
+G. &amp;quot;LEFT ANTERIOR ABDOMINAL WALL&amp;quot;. Consists of two pieces of fatty tissue in aggregate 30x30x10mm. On sectioning, the cut surface is variegated. All embedded.
+(1 first piece bisected; 2 second piece bisected). All embedded. (M-2/MC 3/7/2071 cy)
+
+MICROSCOPIC: Dr B Kucha  cy
+
+A. Right Pelvic Sidewall:
+Sections show fatty connective tissue with an overlying layer of peritoneal mesothelium. The subsurface tissue is extensively involved by an infiltrative malignancy which has a predominantly cystic pseudoglandular architecture. The spaces are lined by large epithelial cells with moderate amounts of eosinophilic cytoplasm and eccentric nuclei. The nuclei show variable atypia. There are some papillary structures present. In intervening stromal tissue there is a patchy chronic inflammatory infiltrate and there are some aggregates of foam cells. There are moderate numbers of tumour infiltrating lymphocytes. The subsurface epithelial proliferation merges with overlying mesothelial cells. Some cells contain cytoplasmic vacuoles.
+
+The histologic features are consistent with MALIGNANT MESOTHELIOMA.
+See specimen G for Immunohistochemistry.
+There is deep invasion of subsurface fat by mesothelioma.
+
+B. Uterus, Bilateral Tubes And Ovaries:
+- Ectocervical mucosa is normal. Endocervical mucosa is normal. The endometrium is inactive and there is focal inactive adenomyosis present. There is a small intramural leiomyoma. The serosal/peritoneal surface of the uterus shows no abnormality.
+- The right ovary has some surface fibrous adhesions and small microcalcifications within granulation tissue. There is reactive mesothelial hyperplasia.
+- The right fallopian tube shows no significant abnormality.
+- The left ovary shows areas of surface reactive mesothelial hyperplasia, and some small surface fibrous adhesions and granulation tissue. Within the granulation tissue, there are embedded aggregates of psammoma bodies.
+- The left fallopian tube shows no significant abnormality.
+Tumour is not identified in this specimen.
+
+C. Right Diaphragmatic Wall:
+Sections show fatty subperitoneal tissue with a surface layer of peritoneal mesothelium. There is a subsurface partly solid and partly cystic mass with a papillary, solid and pseudoglandular architecture of similar appearance to the tumour in specimen A (MESOTHELIOMA). The subsurface lesion has an invasive growth pattern and involves much of the specimen. The cells have a variable decidoid appearance. There is a stromal inflammatory infiltrate of small lymphocytes in areas and some xanthoma cells. Some psammoma bodies are present. There are moderate numbers of tumour infiltrating lymphocytes.  The tumour invades some attached skeletal muscle in one  section (C7). There is overlying mesothelial hyperplasia, fibrous adhesions and areas of granulation tissue and in some areas there are aggregates of psammoma bodies.
+
+D. Omentum:
+The omental tissue contains deposits of MESOTHELIOMA.
+
+E. Appendices Epiploicae:
+Sections show fatty tissue with MESOTHELIOMA. There are also some aggregates of foamy histiocytes and cholesterol crystals and moderate numbers of psammomatous calcifications.
+
+F. Left Pelvic Sidewall:
+Sections show subperitoneal fatty tissue with subsurface involvement by MESOTHELIOMA.
+There is deep invasion of subsurface fat.
+
+G. Left Anterior Abdominal Wall:
+Sections show fatty tissue with involvement by MESOTHELIOMA. There is deep invasion of subsurface fat. There are some sheets of foamy histiocytes associated with the tumour and a patchy chronic inflammatory infiltrate of small lymphocytes and plasma cells. The tumour cells have a decidual appearance.
+
+IMMUNOHISTOCHEMISTRY (IHC), block G2
+Other suitable block for testing: A2
+Positive: WT1, Podoplanin (D2-40), calretinin, CK5/6 (all 3+ positive)
+Negative: CD31, MOC-31, CEA, PAX8, ER, TTF1, CEA.
+BAP1: Immunohistochemical loss of nuclear staining
+
+COMMENT on IHC:
+The Immunohistochemical profile is consistent with mesothelioma. Immunohistochemical loss of nuclear BRCA-associated protein 1 (BAP1) is a highly specific marker of malignancy in mesothelial lesions. In the current case there are other diagnostic features of malignancy (in particular deep invasion of subsurface tisssues).
+
+OTHER STAINS:
+DPAS: negative (section G2)
+
+SUMMARY OF TUMOUR FEATURES (all deposits):
+Tumour type:
+- Diffuse malignant mesothelioma, epithelioid type.
+
+Size of largest tumour nodule:
+- 80x80x40mm (right diaphragmatic wall)
+
+Extent of invasion:
+- Invasion into subsurface fat (at least 20mm depth). Focal invasion of skeletal muscle in right diaphragmatic wall specimen (?focal diaphragm invasion)
+
+Mitotic count:
+- 1 per 10 high power fields
+
+Margins:
+- Not applicable, but tumour involves margins of some pieces.
+
+Staging:
+- I am unaware of an agreed formal staging system for peritoneal mesothelioma.
+
+OTHER COMMENT(S):
+- There are moderate numbers of tumour infiltrating lymphocytes (TILs) in most areas of the tumour.
+- MMRP deficiency is rare in mesothelioma and has not been tested.
+- Tumour tissue is retained if testing for other biomarkers is required.
+
+-------------------------------------------------------------------------------------------------------
+DIAGNOSIS:
+A,C,D,E,F,G. Right pelvic sidewall, right diaphragmatic wall, omentum, appendices epiploicae, left pelvic sidewall, left anterior abdominal wall:
+-  PERITONEAL DIFFUSE EPITHELIOID MALIGNANT MESOTHELIOMA;
+-  see comment(s).
+B. Uterus, Bilateral Tubes and Ovaries:
+-  no no significant abnormality.
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+SpecimenReceivedDate
+2792-05-08 00:00:00
+
+
+LastName
+Lauckner

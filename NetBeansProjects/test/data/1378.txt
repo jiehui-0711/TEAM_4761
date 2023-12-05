@@ -1,0 +1,72 @@
+Episode No:  33E662730Q
+331662.SIA
+
+Cassaro, Trent 
+Lab No:  33E66273
+Potomac Branch
+YARRA GLEN  SA  2153
+Specimen: Tissue
+D.O.B:  19/4/2009
+Sex:  M
+Collected: Unknownat :
+Location:  HAPS-COBAR DISTRICT HOSPITAL
+DR FREDDIE PRINCE Lesnick
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+R hemicolectomyfor caecal cancer.
+MACROSCOPIC:
+Specimen labelled "Hemicolectomy" consists of terminal ileum (35mm in length), caecum and proximal ascending colon (95mm in length), vermiform appendix (85mm in length and up to 7mm in diameter), pericolonic and peri-ileal fatty tissue (115 x 60 x 15mm). Within the caecum and incontinuity with the ileocecal valve there is sessile polyp 70 x 45 x 9mm located posteriorly.  Within the centre of the sessile polyp there is 25 x 15 x 7mm tumour.  The tumourdoes not appear to be infiltrating to the muscularis propria.  The tumour is 50mm from the distal and 75mm from the proximal resection margin.  The serosal surface of the vermiform appendix is smooth and glistening, its cut surface is unremarkable.  All of the tumour is blocked.
+Blocks:  1 - proximal shave resection margin; 2 - distal shave resection margin; 3 - tumour; 4 & 5 - paired sections tumour and the polyp; 6 - tumour; 7 - tumour (reserved block); 8 & 9 - polyp and ileocecal valve; 10 to 12 - sections of the sessile polyp; 13 - representatives, the appendix; 14 - the apical lymph node; 15 - lymph nodes are seen; 16 - one trisected lymph node; 17 - lymph nodes are seen; 18 - lymph nodes are seen.  (TO: OD; RA/rt 20.11.63)
+MICROSCOPIC (Reported by Dr J Sutterfield):
+The large right sessile polyp is a traditional serrated adenoma with low grade and focally high grade dysplasia.  Arising within the centre of this sessile polyp is a 25mm moderatelydifferentiated adenocarcinoma which focally invades submucosa (pT1). Approximately 60% of the carcinoma is mucinous. The carcinoma has been totally blocked and there is no invasion ofthe muscularis propria.  The submucosal invasion is to a depth of about 1.5mm.  No perineural or lymphovascular invasion is seen.  
+The appendix shows no abnormality and there is no abnormality of the terminal ileum or colon in other areas.  
+The seventeen (17) lymph nodes identified. are negative for tumour.  
+DIAGNOSIS:  
+Right hemicolectomy:  
+
+Macroscopic Description
+
+Site of tumour: Right colon	
+Maximum tumour diameter:   25mm
+Distance of tumour to nearer cut end:  35mm
+Tumour perforation: No
+Microscopic Description
+
+Type
+Mucinous carcinoma
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT1	Limited to submucosa
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Lymph nodes
+Number of lymph nodes present:17	
+Number of lymph nodes involved:0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas - Serrated adenoma (arising in)
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+(y)pT1     pN0     pMX     RO	
+
+
+
+

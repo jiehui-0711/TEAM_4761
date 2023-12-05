@@ -1,0 +1,47 @@
+SPR no: 18A624365J
+MRN no: 1806243
+Site_name: ST MARYS COMMUNITY HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian mass.  ?Ovarian cancer.  TAHBSO and omentectomy.  Ca 125 = 91.
+Note: specimen is sampled fresh for INOVATE study
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube, left ovary&amp;quot;, consists of a solid mass measuring, 220 x 160 x 110mm with overlying fallopian tube measuring, 170 x 7 x 7mm.  The surface is partially smooth and partially nodular.  The serosal surface is partially disrupted presumably due to intraoperative manipulation.  The cut surface is tan and fleshy with patchy haemorrhagic and yellow areas.  There is associated necrosis comprising approximately 20% of the mass.  Two RS taken for frozen section.
+Blocks: 1 &amp;amp; 2 - frozen section; 3 - fallopian tube; 4 to 23 - further sections through mass; 24 - reserve paraffin block for INOVATE study.
+FROZEN SECTION REPORT:
+High grade carcinoma favour clear cell carcinoma.  Results phoned to Dr KIMIKO Fridal (Fellow) by Dr E Pettinger at 5/12/67.
+
+B.  Specimen labelled &amp;quot;Uterus and cervix&amp;quot;, consists of a uterus with attached cervix measuring 82 x 55 x 32mm and weighing 67.6g.  There are rough adhesions on the serosal surface but is otherwise unremarkable.  The cervix measures 28 x 28mm and is unremarkable.  On sectioning the endometrium measures 1 to 2mm thick with a myometrium measuring 15 to 18mm thick.  A polyp is identified in the lower uterine segment on the anterior aspect that measures 17 x 7 x 5mm with the base located 35mm from the cervical resection margin.  No other lesions are identified within the cervix or body.
+Blocks: 1 to 6 - two full LS of anterior body and cervix including lower uterine segment polyp AE; 7 to 9 - full LS through posterior body and cervix.
+
+C.  Specimen labelled &amp;quot;Right tube and right ovary&amp;quot;, consists of a fallopian tube measuring, 50 x 13mm with attached ovary and soft tissue measuring 55 x 50 x 40mm.  The serosal surface of the ovary is smooth and shiny with multiple nodules measuring 5 to 10mm in maximal dimension. On sectioning the ovary shows a solid pale lobulated appearance which is mostly uniform in colour with focal areas of cystic/mucinous change.  No areas of haemorrhage or necrosis are seen.
+Blocks: 1 - fimbrial end; 2 - fallopian tube; 3 to 7 - RS ovarian mass.
+
+D.  Specimen labelled &amp;quot;Infracolic omentum&amp;quot;, consists of a piece of omental fat, 310 x 200 x 25mm.  A region of fat appears dark brown and thickened (100 x 70 x 15mm) with multiple pale firm nodules identified throughout the remaining fat.  These nodules measures up to 12mm in maximum dimension.
+Blocks: 1 to 4 - omental nodules; 5 - fat from dark brown area.
+
+E.  Specimen labelled &amp;quot;Umbilical nodule&amp;quot;, consists of an irregular piece of fibrofatty tissue, 30 x 28 x 18mm.  The cut surface has a heterogeneous nodular pale and haemorrhagic appearance throughout.  Serially sliced AE 3 blocks.
+
+F.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of multiple pieces of fatty tissue, 65 x 43 x 15mm in aggregate.  Two possible nodes are identified measuring up to 22mm in maximum dimension.
+Blocks: 1 - one node; 2 &amp;amp; 3 - one node in four sections.
+
+G.  Specimen labelled &amp;quot;Pouch of Douglas&amp;quot;, consists of an irregular piece of fibrous tissue, 15 x 7 x 4mm.  AE 1 block.   (TO:AP/rs 5/2/69)
+
+
+MICROSCOPIC (Reported by Dr C Emil):
+A &amp;amp; C.  Sections show clear cell carcinoma of both ovaries.  Small deposits of clear cell carcinoma also involve the fimbrial end of the right tube.  Otherwise the tubes are unremarkable.  There is no evidence of endometriosis.
+
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows adenomyosis.  The uterine serosa shows several deposits of clear cell carcinoma.
+
+D, E &amp;amp; G.  Sections show multiple deposits of clear cell carcinoma.
+
+F.  One lymph node shows no evidence of malignancy.
+
+
+DIAGNOSIS:
+Clear cell carcinoma of both ovaries, also involving the uterine serosa, fimbrial end of right tube, omentum, umbilical nodule and Pouch of Douglas
+
+
+ADDITIONAL REPORT 30/5/70:
+As requested, Immunoperoxidase stains for MSI proteins were performed. MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.

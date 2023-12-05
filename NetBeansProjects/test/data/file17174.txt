@@ -1,0 +1,20 @@
+SPR no: 15H727921K
+MRN no: 15372792
+Site_name: FRANKSTON PUBLIC SURGICAL CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL HISTORY:
+Pancreatic adenocarcinoma.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Gallbladder plus omentum&amp;quot;, consists of a gallbladder plus omentum.  The gallbladder measures 105mm in length with an open circumference of 75mm and wall thickness of 2mm.  The outer surface appears glistening with congested vessels.  Inner surface is greenish granular.  No gallstones are seen.  The omentum measures 120 x 100 x 40mm.  The cut surface of the omentum shows a uniform fatty tissue.  No macroscopic lesions seen.
+Blocks: 1 to 3 - gallbladder (block 1 - cystic duct; 2 - RS of body; 3 - RS of fundus); 4 to 6 - RS of omentum.  7-21 all of the remaining gallbladder tissue, embedded  from the cystic duct end to fundus.
+(TO: LM; LM/rs 23/1/66)
+MICROSCOPIC: (Reported by Dr D Nork)
+The gallbladder has been examined in its entirety. Sections of gallbladder show chronic cholecystitis. The gallbladder wall shows fibromuscular hyperplasia, Rokitansky Aschoff sinus formation and patchy mild chronic inflammation. Scattered reactive/regenerative appearing peribiliary glands are noted within the wall of the cystic duct. There is a fundal adenomyoma. Two reactive appearing peri-cholecystic lymph nodes are seen (0/2). The omentum shows no significant abnormality. There is no evidence of dysplasia or malignancy.
+Representative slides seen with Dr MARCELINO KELIIHOOMALU.
+
+
+DIAGNOSIS:
+Gallbladder and omentum: Chronic cholecystitis and adenomyoma; two reactive pericholecystic lymph nodes (0/2).

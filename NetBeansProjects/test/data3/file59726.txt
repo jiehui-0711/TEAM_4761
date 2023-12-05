@@ -1,0 +1,115 @@
+SPR no: 92X4715155
+MRN no: 929471
+Site_name: YOUNG DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report92X47151,92X47151 (92X4715155) Bitzer, EUGENIO Vladimir
+HISTOPATHOLOGY REPORT
+QUORN HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Carcinoma uterus.
+
+1.  Peritoneal washings for cyto.
+2.  Uterus, tubes and ovaries.
+3.  L pelvic node.
+4.  R pelvic node.
+5.  Omental bx.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS WITH LEFT OVARY, TUBE AND RIGHT OVARY AND TUBE&amp;quot;.  Consists of uterus with attached tubes and ovaries weighing 76g.
+
+Right tube measures 30mm in length, 14mm in diameter.  No definite fimbria identified.  The distal end of the tube is dilated and cystic.  Left ovary measures 22x15x10mm.  Outer surface is lobulated and yellow.  Left tube measures 30mm, 5mm diameter.  Fimbrial end identified.  Proximal to the fimbria tube is dilated and cystic.  Left ovary measures 20x15x10mm.  Outer surface is yellow and lobular in sectioning, unremarkable.
+
+Uterus measures 70x45x30mm.  Serosa is smooth.  Anterior surface inked blue, posterior inked black.  Opened sagittally.  Serially sliced, sagittally.  Anterior wall measures 13, posterior wall measures 13mm.  There is an area of polypoid endometrial thickening at the fundus measuring 2-3mm.  No definite myometrial invasion identified.  No extension to cervix identified.
+
+(1  right parametrium; 2  left parametrium; 3  right tube; 4  right ovary; 5  left tube; 6  left ovary; 7-9  one full face sagittal view; 10-13  section of endometrium; 14  right cornu; 15  left cornu).  Representative sections.  (M-15).
+
+B.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.  Consists of fibrofatty tissue 45mm, containing multiple lymph nodes maximum dimension of 20mm.
+
+(1  one lymph node sliced; 2  one lymph node bisected; 3  one lymph node bisected; 4  ?four lymph nodes).  Representative sections.  (M-4).
+
+C.  &amp;quot;LEFT PELVIC NODE&amp;quot;.  Multiple fibrofatty tissue 45mm.  There is a large lymph node 40mm and possibly two lymph nodes 10 and 5mm.
+
+(1&amp;amp;2  largest lymph node sliced; 3  ?two lymph nodes).  Representative sections.  (M-3).
+
+D.  &amp;quot;OMENTAL BX&amp;quot;.  40mm fibrofatty tissue.  No definite nodule or lymph node identified.  All embedded block 1 to 3.  All embedded.  (M-3/SM 7/6/2069 km).
+
+MICROSCOPIC:  (Dr. Z. Hommerding)
+The uterine fundus shows a carcinosarcoma comoposed of high grade endometrioid carcinoma (80%)  merging into areas of undifferentiated tumour giant cells (with appearances of undifferentiated pleomorphic sarcoma), poorly differentiated areas, and focal areas of vascular differentiation.
+
+The better differentiated endometrioid areas are positive for cytokeratins AE1/AE3 and CAM5.2, p53, ER, PR, and patchy vimentin.  The small area of vascular differentiation is highlighted with CD31 and ERG.  There is negative staining for WT1.
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE:  Uterine fundus
+
+TUMOR SIZE: 20mm
+
+HISTOLOGIC TYPE: Carcinosarcoma (malignant mixed Mullerian tumour)
+80% epithelial, 20% sarcomatous
+
+HISTOLOGIC GRADE:   Grade 3
+
+MYOMETRIAL INVASION:
+Depth of invasion:  7mm
+Myometrial thickness:  13mm
+Percentage depth of myometrial invasion: 53%
+
+UTERINE SEROSA INVOLVEMENT:  Absent
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Absent
+
+CERVICAL STROMAL INVOLVEMENT:  Absent
+
+OTHER TISSUE/ORGAN INVOLVEMENT:  Absent
+
+MARGINS:  Not involved
+
+LYMPHOVASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES:
+B.  RIGHT PELVIC NODE - 5 lymph nodes with no malignancy
+C.  LEFT PELVIC NODE -  4 lymph nodes with no malignancy
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Left fallopian tube: No significant abnormality
+Right fallopian tube: No significant abnormality
+Left ovary: No significant abnormality
+Right ovary: No significant abnormality
+
+ANCILLARY STUDIES/IMMUNOSTAINS:   Immunostains for MMR proteins:
+MLH1:  Positive
+PMS2:  Positive
+MSH2:  Positive
+MSH6:  Positive
+Comment:
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+OTHER SPECIMENS:
+D.  OMENTAL BX  -  Fatty tissue with no malignancy
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IB
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b pN0
+
+
+DIAGNOSIS:
+A.  UTERUS WITH LEFT OVARY, TUBE AND RIGHT OVARY AND TUBE:
+- Carcinosarcoma (malignant mixed Mullerian tumour), FIGO stage IB
+B.  RIGHT PELVIC NODE:
+- 5 lymph nodes with no malignancy
+C.  LEFT PELVIC NODE:
+- 4 lymph nodes with no malignancy
+D. OMENTAL BX:
+- Fatty tissue with no malignancy
+---------------------------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT  (24/6/2070)
+
+The previous biopsy case has been reviewed (Capital pathology 9294-71O, Lab number 929471515, collected 16/5/2068).
+
+The case shows a high grade malignancy with areas of high grade carcinoma (difficult to classify) and intermixed areas of cells showing undifferentiated, anaplastic pleomorphic morphology with frequent cytoplasmic hyaline globules and extensive intercellular haemorrhage (favoured to be procedure-related).  There is widespread staining with ERG.  Similar to the resection specimen, this is positive in both undifferentiated sarcoma and some carcinoma cells (uncertain significance).
+
+The features are in keeping with carcinosarcoma, and the sarcomatous component is favoured to be undifferentiated pleomorphic sarcoma.
+
+The diagnosis remains unchanged.

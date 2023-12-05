@@ -1,0 +1,46 @@
+SPR no: 34S288658Z
+MRN no: 347288
+Site_name: NORTHAMPTON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pancreatic head mass.  Core biopsy.  ?Pancreatic cancer.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Pancreatic biopsy&amp;quot;, consists of six core biopsies measuring 8 to 15mm across as well as three fragments 2 to 3mm.
+Blocks: 1 - six cores; 2 - three fragments.  AE 2 blocks.
+
+B.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of a gallbladder, 80 x 30 x 30mm.  The serosa appears smooth and shiny and partially congested.  There is a defect over the fundus 8 x 8mm.  There is no lymph node.  The gallbladder wall is 1 to 4mm in thickness.  The mucosa is green and velvety.  No stone is identified within the gallbladder or jar.  No gross lesion is identified.
+Blocks: 1 - cystic duct margin and TS neck; 2 - TS body; 3 - LS fundus including edge of defect.  RS 3 blocks.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a segment of omentum, 220 x 160 x 10mm which appears unremarkable.  On sectioning no gross lesion is identified.  Representative 4 blocks.
+(TO:LN; LN/ta 22/3/67)
+
+
+MICROSCOPIC (Reported by Dr I Morado):
+Sections show cores of tissue including tissue surfaced by duodenal mucosa at one end of the core and gastric type transitional type mucosa at the end of another core.  The gastric mucosa could represent heterotopic mucosa from the duodenum.  The tissue is extensively infiltrated by moderate to poorly differentiated adenocarcinoma.  The carcinoma is composed of tubular and cribriform glands as well as some solid nests and cords of cells with moderate and focally highly pleomorphic nuclei, occasional eosinophilic nucleoli and eosinophilic cytoplasm.  There is associated sclerosed desmoplastic stroma.  One of the cores include atrophic pancreatic parenchyma with sparse residual islet cells and lobulocentric atrophic ducts and  contains relatively sparse infiltrating carcinoma.  The tissue surfaced by gastric and small bowel mucosa also contains muscularis which is infiltrated.  The carcinoma involves the duodenal mucosa and focally appears to reach the gastric type mucosa.  There is associated villous atrophy in the duodenal component.  No intraepithelial lymphocytosis is seen.  There is focal perineural invasion. A focus highly suspicious for lymphovascular invasion is also present.
+COMMENT:
+The morphology of the tumour, although not specific is consistent with a pancreaticobiliary primary.
+
+B.  Sections of gallbladder show chronic cholecystitis.  There is thickening of the gallbladder wall and patchy mild transmural chronic inflammation.  The specimen includes a portion of subcapsular hepatocellular parenchyma which shows canalicular cholestasis, highlighted with a Hall&amp;apos;s stain for bile.  Perls staining shows hepatocellular iron deposition through the lobules with a zone 1 and canalicular accentuation.  The iron deposition is grade 3/4 (Modified Scheuer grade) There is some ductular proliferation within the portal tracts unassociated with oedema or neutrophils, however this is difficult to interpret given the subcapsular nature of the sample.  There is no evidence of malignancy.  No lymph nodes identified.
+
+COMMENT:
+The canalicular choestasis presumably relates to intrapancreatic biliary obstruction. The presence of hepatocelluar iron deposition (grade 3/4) warrants further investigation.
+
+
+C.  Sections show mature adipose tissue.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+A.  Pancreatic biopsy:
+- Moderate to poorly differentiated adenocarcinoma invading duodenum and tissue surfaced by gastric transitional type mucosa (? heterotopic in duodenum or native gastric)
+-  Focal perineural invasion
+-  Focus highly suspicious for lymphovascular invasion
+B.  Gallbladder:
+-  Mild chronic cholecystitis
+-  Canalicular cholestasis in liver
+-  Hepatocellular iron deposition (see comment).
+C.  Omentum:
+- No evidence of malignancy
+
+The findings were discussed with Dr COLLIN PROVIS on the 25.3.67

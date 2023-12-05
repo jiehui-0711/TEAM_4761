@@ -1,0 +1,64 @@
+SPR no: 12I163619M
+MRN no: 10512596
+Site_name: SCOTT MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report12I16361 (12I163619M) Horwood, Frank Allan
+HISTOPATHOLOGY REPORT
+BELMONT HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Peritonectomy. Frozen section. Small bowel tumour marked. Small bowel mesentery.
+Mesenteric lymph node. Mesentery. Liver biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;SMALL BOWEL MESENTERY&amp;quot;. A piece of tissue, 30x20x15mm. No focal lesions are identified. Two representative samples taken for frozen section.
+
+F/S: &amp;quot;No evidence of malignancy&amp;quot; per phone by Dr. E. Eagleton on 30/7/70.
+
+(1 frozen; 2&amp;amp;3 remainder of tissue, serially sliced). AE (M-3)
+
+B. &amp;quot;SMALL BOWEL, TUMOUR MARKED&amp;quot;. Received fresh a segment of small bowel with two small submucosal lesions up to 10mm. One of the lesions sampled for frozen.
+
+F/S: &amp;quot;Carcinoid tumour&amp;quot; per phone by Dr. E. Pouncy on 1/7/69.
+
+Post-fixation assessment. A segment of small bowel, 60x30mm, and with attached mesentery up to 20mm. Three submucosal lesions are identified within the specimen. The one sampled with frozen section is marked with a stitch at its serosal surface. It measures 7x5x5mm, and located 25mm of the nearest margin. There is a closely related smaller lesion, 5x5mm, located 40mm of the nearest margin. The largest lesion measures 10x7x5mmm and associated with overlying mucosal erosion and is located 15mm of the nearest margin. No infiltration into the underlying fat is identified.
+
+(1 frozen; 2 remainder of frozen lesion; 3 smallest lesion, bisected; 4-6 largest lesion, each one TS; 7 margin closer to largest lesion; 8 other resection margin; 9&amp;amp;10 mesenteric fat).
+
+C. &amp;quot;MESENTERY LYMPH NODE&amp;quot;. A fibrofatty piece of tissue, 20x20x15mm, bearing one lymph node, 20x10x8mm, with firm, yellow cut surface. Serially sliced. AE (M-2)
+
+D. &amp;quot;MESENTERY&amp;quot;. Three fibrofatty pieces of tissue. The largest has a glistening peritoneal covering, mainly fatty, measuring 40x30x20mm. The possible margin is inked blue. The cut surface is fatty across the specimen.
+
+A firm, brown piece of tissue, 20x15x10mm, with variegated firm and haemorrhagic cut surface. No discrete lesions are identified. The margins are inked blue.
+
+A piece covered by peritoneum (peritoneal strip), 30x15x5mm. The possible margin is inked blue. The cut surface reveals possible skeletal muscle with firm, brown cut surface. No discrete lesions are identified.
+
+(1&amp;amp;2 representative fatty fragments; 3 three TS, firm brown fragments; 4 representative ?muscle). RS (M-4)
+
+E. &amp;quot;LIVER BIOPSY&amp;quot;. A wedge liver biopsy specimen (1g) including two capsular surfaces, 10x5mm, and 12x6mm, with in between tissue to a depth of 7mm. The cut surface is vaguely micronodular and pale in colour. Serially sliced. AE (4-1/ZH 5/8/2069 cy)
+
+MICROSCOPIC:  (Dr E Valenza)
+A.  The sections show fibrofatty tissues and skeletal muscle fibres with fibroblastic reaction and foreign body giant cell reaction to birefringent foreign material.  Negative for malignancy.
+B.  The sections show small bowel in which there are three nodules as described macroscopically.  Each of these consists of similar appearing tumour with a nested pattern of uniform polygonal cells with granular cytoplasm and uniform round to ovoid nuclei with granular chromatin. Occasional mitoses are seen (1.2 mitoses/2mm2 ). The appearances are those of well differentiated neuroendocrine tumour (carcinoid tumour).  Lymphatic space invasion is seen within the submucosa.  The first two described smaller lesions are confined to the submucosa and mucosa.  The larger third lesion involves the muscularis propria with focal involvement of the adjacent mesenteric adipose tissue.  Sections of the remaining bowel wall including the resection margins are unremarkable.  Sections of the mesenteric fat are unremarkable.
+
+C.  The section shows a lymph node that is almost completely replaced by metastatic well differentiated neuroendocrine tumour (carcinoid tumour). It measures 13mm in diameter in the histologic sections. There is lymphatic/vascular space invasion by tumour in the adjacent fatty tissue.
+D.  The sections show fatty tissue, fibroblastic reaction, and skeletal muscle tissue.  Negative for malignancy.
+E.  The sections show a wedge biopsy of liver with architectural distortion including nodule formation and with fibrous septa, and the appearances are those of cirrhosis.  Portal tracts are identified with patchy mild portal chronic inflammation.  No interface hepatitis is seen.  No definite bile duct damage or loss is identified.
+In the hepatic parenchyma there is prominent macrovesicular steatosis (greater than 66% of hepatocytes affected).  Mallory&amp;apos;s hyaline is identified.  Occasional collections of lymphocytes are seen in the parenchyma with rare small collections of polymorph neutrophils. Patchy focal pericellular fibrosis is present. Immunohistochemistry fo ubiquitin shows positive cytoplasmic staining.
+PAS/Diastase: No positively staining globules seen.
+Orcein: Unremarkable.
+Rhodanine for copper: Negative.
+Per&amp;apos;s stain for iron: 0 staining.
+Immunohistochemistry (block B5):  Cam 5.2, synaptophysin, and chromogranin show strong positive staining. Ki-67 shows 5% staining in tumour.
+COMMENT: There are 3 tumour nodules with features of well differentiated neuroendocrine tumour (carcinoid) with mitotic rate of 1.2 mitoses/2mm2  and Ki-67 of 5% (Grade 2). There is a 13mm diameter lymph node metastasis (AJCC 8th ed stage pT3(m), pN1). The liver biopsy shows features of steatohepatitis and cirrhosis.. Clinical correlation is required.
+DIAGNOSIS:
+A.  SMALL BOWEL MESENTERY:
+- FIBROBLASTIC REACTION AND FOREIGN BODY GIANT CELL REACTION.
+B.  SMALL BOWEL:
+- THREE NODULES OF WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR - GRADE 2.
+C.  MESENTERY LYMPH NODE:
+- METASTATIC WELL DIFFERENTIATED NEUROENDOCRINE TUMOUR
+D.  MESENTERY:  FIBROBLASTIC REACTION CONSISTENT WITH SCAR
+E.  LIVER BIOPSY:  CIRRHOSIS, STEATOHEPATITIS.
+9/5/2067 nh

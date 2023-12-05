@@ -1,0 +1,23 @@
+SPR no: 23O597349E
+MRN no: 2525047
+Site_name: THE ROYAL VICTORIAN EYE AND EAR HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 1 endometrioid adenocarcinoma of the uterus.  History left mastectomy/axillary clearance.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached bilateral tubes and ovaries weighing 213g in total.  The uterus measures 105 x 80 x 65 and has a nodular but smooth and shiny serosal surface.  The cervix measures 30 x 30mm and has an unremarkable surface.  The surface is discoloured by blue surgical dye.  The specimen is received with a full thickness incision through the anterior aspect exposing the endometrial cavity.  On opening the endometrium of the posterior wall is distorted by two polypoid lesions, the first measuring 20 x 17 x 10mm located 50mm from the cervical resection margin, and the second measuring 25 x 20 x 5mm located 75mm from the cervical resection margin.  On sectioning the endometrium shows patchy areas of thickening but no definite tumour is seen.  The myometrium is distorted by multiple intramural fibroids with myometrium measuring 34mm in thickness and fibroids measuring up to 35mm in maximum dimension.  No atypical macroscopic features are identified.  The right fallopian tube measures 45 x 6mm and the right ovary measures 22 x 12 x 8mm.  The left fallopian tube measures 40 x 6mm and left ovary measures 22 x 13 x 8mm.  The surface is smooth and shiny and no lesions are seen on sectioning.  Blocks: 1 - LS through anterior cervix; 2 &amp;amp; 3 - representative TS through anterior body showing intramural fibroids and overlying endometrium; 4 to 9 - full LS through posterior body and cervix; 10 - ?adenomyosis; 11 &amp;amp; 12 - composite sections through base of polyp 2; 13 &amp;amp; 14 - all of polyp 1 embedded; 15 &amp;amp; 16 - right adnexa; 17 &amp;amp; 18 - left adnexa.  (TO:VW/rs 30/3/70)
+
+Further blocks: 19 to 27 - rest of endometrium all embedded.
+
+
+MICROSCOPIC (Reported by Dr H Jelle):
+Sections of uterus show a small focus of endometrioid adenocarcinoma measuring 4mm diameter (block 20).  The tumour is well differentiated (FIGO grade 1).  The carcinoma shows architectural grade 1 and no solid component is seen.  The tumour cells show nuclear grade 1.  The carcinoma is confined to the endometrium and no myometrial invasion is seen.  The tumour is within the uterine corpus and is completely excised.  The endocervix and cervix are unremarkable.  There is no evidence of lymphovascular invasion.  There are two endometrial polyps with cystic dilated glands and fibrovascular stroma.  The rest of endometrium shows no significant abnormality.  The myometrium shows multiple leiomyomas and foci of adenomyosis.  Both ovaries are unremarkable.  Both fallopian tubes are unremarkable.
+
+
+DIAGNOSIS:
+Uterus, cervix, bilateral tubes and ovaries
+- Endometrioid adenocarcinoma (grade 1);
+- Endometrial polyp, leiomyoma, adenomyosis.

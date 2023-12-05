@@ -1,0 +1,43 @@
+SPR no: 31M607934Q
+MRN no: 3146079
+Site_name: WESTERN DISTRICT HEALTH SERVICE - HAMILTON
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reportrbrw10 ql Episode No:  31M607934Q
+3146079.JMQ
+todrs 8640
+JUART, ARGENTINA
+0rvaltrdrw10 drr
+dLab No:  31M60793
+Wyther
+r0 clftsWidth3t-108lbrdrb81
+DALBY  ACT  6368
+in0rdrvrtaltpnum
+dl108brdrsrrth3lth3Specimen:  Tissue
+D.O.B:  17/6/1994
+ell Sex:  F
+srsid11469628 rpaddfr3 cellx639010 8416Collected: 30/12/2015 at 18:15
+Location:  DAY SURGERYUNIT-BARWON HEALTH - NEWCOMB RENAL UNIT CAMPUS
+rgaph108rdrw10 txlrtbid11469628
+PRO RICKEY DONTE VILLARD
+22rdrsclbrdrt8640
+n0
+idth1dctlparDistribution:     FILE-COPY
+8rdrw10 0
+in
+aspalphaHISTORY:
+Low gra de appendix tumour closure of ileostomy and excision of fistula.
+MACROSCOPIC:
+&amp;quot;COLON AND STOMA&amp;quot;.
+Ileostomy:  A ream of skin measuring 45x25mm in external dimension. Centrally there are two bowel lumens, one measuring 20mm and the other 15mm in diameter. On the deep aspect there are two stapled resection marg ins, (staple removed, inked blue the other staple removed inked black). The skin margin is inked green. On sectioning the lumen mucosa is unremarkable  on each.
+(1&amp;amp;2 full face lumen 1; 3&amp;amp;4 full face lumen 2).
+Fist ula:  A segment of bowel measuring up to 100mm in length and 35mm in diameter. There are stapled resection margins at each end. Along the length of the bowel there are two areas of defect, one measuring  15mm located 20mm from one resecti on margin (inked blue) and the other measuring 25mm, located 25mm from the opposing resection margin (inked black). The external surface is otherwise ragged. There is mesenteric fat attached along the length. The edge of each defect is inke d red. The mesenteric fat serosal surface has a firm appearance and on sectioning shows fat necrosis. On sectioning the mesentery there are some ?necrotic nodes present ?fat necrosis. The mucosa appears oedematous but is otherwise unremar kable.
+(5 blue inked resection margin with edge of defect 1; 6 black inked resection with edge of defect 2; 7 LS of mucosa between two defects [bisected]; 8 representative firm area of serosal surface near defect 2; 9 repres entative firm surface mucosa; 10 ? fat necrosis ?necrotic node; 11&amp;amp;12 further firm areas of mesenteric fat ?nodes, ?tumour necrosis, [four pieces in each block]. RS (M-12/EE/ht).
+357875MICROSCOPIC:   (Dr I Eastham)
+Sections from the ileostomy show skin in continuity with small bowel. Within the subserosal fat, extravasated mu cin and strips of low-grade mucin secreting epithelium are identified consistent with low-grade appendiceal mucinous tumour. The small bowel mucosa and skin surface appears unremarkable. There is also fibrosis and foreign body giant cell re action adjacent to the mucinous tumour.
+Sections from the fistula site show colon in which there is ulceration and subjacent fibrosis. Within the fatty mesentery, extravasated mucin and strips of low-grade mucin secreting ep ithelium are identified. Focally, there is also foreign body giant cell reaction. Extensive changes of fat necrosis are present. No evidence of malignancy is seen in two lymph nodes identified.
+
+bDIAGNOSIS:
+COLON AND STOMA
+- LOW-GRADE APPENDICEAL MUCINOUS TUMOUR INVOLVING ILEOSTOMY AND FISTULA.
+57/3/66 cy

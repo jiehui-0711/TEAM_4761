@@ -1,0 +1,33 @@
+
+ 9279499.ECA
+CARRETTA, Ria
+92S94991,92S94991
+
+Last edited : 19/2/2066		Page: 2
+CLINICAL:
+Central line placement.  MST4.  Ovarian cancer,interval debulking, 3 cycles chemo.
+MACROSCOPIC:
+A.  Specimen labelled "Right tube and ovary" consists of an irregularly shaped pale grey/tan/orange piece of tissue measuring 40 x 40 x 20mm.  A fallopian tube cannot be definitively identified macroscopically.  The outer surface is inked blue.  Specimen sectioned transversely, revealing ovarian tissue and fibrovascular adnexal tissue.  AE 8 blocks.
+B.  Specimen labelled "?Left tube and ovary" consists of an irregularly shaped piece of pale grey and tan tissue measuring 38 x 23 x 15mm.  Fallopian tube and ovary cannot be definitively identified macroscopically.  The outer surface is inked blue.  AE 5 blocks.
+C.  Specimen labelled "Abdominal scar" consists of a long thin ellipse of skin measuring 125 x 10 x 6mm.  There is an irregularly shaped pale patch in the approximate centre of the specimen measuring 4 x 4mm; the skin surface is otherwise unremarkable - a scar is not macroscopically identified.
+Blocks:  1 - LS apices; 2 - TS pale area; 3 to 5 - representative TS.  RS.
+D.  Specimen labelled "Peritoneal fluid", received in formalin, consists of tan, necrotic appearing tissue measuring 25 x 22 x 8mm in aggregate.  AE 1 block.
+E.  Specimen labelled "Abdominal wall nodule" consists of an irregularly shaped piece of fibroadipose tissue measuring 70 x 56 x 30mm.  The outer surface has a partly fibroadipose and partly smooth pale grey appearance (?serosa).  There is an irregularly shaped pale grey/yellow nodule measuring 37 x 37 x 18mm protruding from the smooth region.  The fibrofatty region is inked blue - presumed deep aspect.  The cut surface has a uniform fibrofatty appearance, ?fat necrosis, ?tumour.
+Blocks:  1 & 2 - composite TS through the middle of specimen; 3 & 4 - composite TS middle of specimen; 5 - representative TS; 6 - representative TS.  RS.
+F.  Specimen labelled "Omentum" consists of fibrofatty tissue measuring 140 x 110 x 25mm.  The specimen is thinly sliced revealing unremarkable fibrofatty tissue, along with tissue with a fibrofatty appearance similar to that seen in specimen E, ?area of fat necrosis, ?tumour.  RS 8blocks.  (UI/rt 17.2.66)
+MICROSCOPIC (Reported by Dr X Modic):
+A & B.  Sections of both ovaries show multiple residual foci of high grade serous adenocarcinoma.  The tumour cells with high grade nuclei are arranged in small tubules and cords within desmoplastic stroma.  The surrounding areas show extensive fibrosis, in keeping with previous neo-adjuvant therapy.  Psammoma body type calcification is present.  Both fallopian tubes are unremarkable.  Thereis no evidence of lymphovascular or perineural invasion.
+C.  Sections of skin show scar tissue.  There is no evidence of malignancy.
+D.  Sections show blood clot only.  There is no evidence of malignancy.
+E & F.  Sections show fibrofatty tissue with multiple residual foci of high grade serous adenocarcinoma.  The tumour cells with high grade nuclei are arranged in small tubules and cords within desmoplastic stroma.  The surrounding areas show extensive fibrosis, in keeping with previous neo-adjuvant therapy.  Psammoma body type calcification is present.  Possible lymphovascular invasion is seen.  There is no evidence of perineural invasion.
+Response to neoadjuvent therapy
+Grade 2 (minimal response) - Residual cancer outgrown by fibrosis
+The block best for molecular genetic testing is: E3
+DIAGNOSIS:
+A.  Right ovary and tube - Serous adenocarcinoma.
+B.  Left ovary andtube - Serous adenocarcinoma.
+C.  Abdominal scar - Scar tissue.
+D.  Peritoneal fluid - Blood clot.
+E.  Abdominal wall nodule - Serous adenocarcinoma.
+F.  Omentum - Serous adenocarcinoma.
+

@@ -1,0 +1,49 @@
+
+Episode No:  48X686125I
+4896861.GNI
+
+ZAHRI, FLETCHER 
+Lab No:  48X68612
+Adelphi
+COONABARABRAN  NT  4342
+Specimen: Tissue
+D.O.B:  7/5/2025
+Sex:  M
+Collected: 11/10/2013 at 14:50
+Location:  DOMAIN AGED CARE RM 2 - ALPINE HEALTH (BRIGHT)
+DR CONNOR SEAN BORTON
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Left testicular cancer.  Left testis and cord.
+MACROSCOPIC:
+Specimen labelled "Left testis and cord" consists of a testis measuring 60 x 50 x 30mm and weighing 52.5g.  There is an attached spermatic cord measuring 70mm in length with a maximum diameter of 15mm.  On sectioning there isa well circumscribed cream and fleshy mass measuring 30 x 25mm.  The tumour appears to abut tunica albuginea at the inferior pole.  The tumour appears well clear of the rete testis and epididymis. The uninvolved testis appears unremarkable. Approximately 80% of tumour embedded.
+Blocks:  1 - spermatic cord margin; 2 - mid spermatic cord; 3 - proximal spermatic cord; 4 to 14 - LS of tumour adjacent to tunica albuginea; 15 - rete testisand epididymis; 16 to 21 - composite blocks representing a full face of testis; 22 -further representative tumour; 23- representative normal testis of away from tumour.  
+(QX/rt 16.12.63)
+MICROSCOPIC (Reported by Dr L Falt & registrar Dr L LEIGH-Langfitt):
+Sections of the testis show pure seminoma.  The features are as follows:  
+Histologic type:  Seminoma (pure)
+	
+Scarring:  Absent 
+Syncytiotrophoblastic giant cells:  Absent
+Maximum tumour size (maximum dimension):  30mm
+Extent of tumour
+Rete testis invasion:  Absent
+Epididymis invasion:  Absent 
+Tunica albuginea invasion:  Absent
+Tunica vaginalis invasion:  Absent
+Spermatic cord invasion:  Absent
+Scrotal wall invasion:  Absent
+Lymphovascular invasion:  Absent
+Intratubular germ cell neoplasia (ITGCN):  Present 
+	Type:  Not otherwise specified	
+	Extent:  Focal (minor)
+Lymph node status:  Not sampled
+AJCC Tumour staging category (pT) (7th edition):  T1
+Tumour limited to the testis and epididymis without vascular/lymphatic invasion; tumour may invade into the tunicaalbuginea but not the tunica vaginalis 
+DIAGNOSIS:
+Left testis:
+- 30mm pure seminoma
+- Tumour limited to testis
+- pT1 (AJCC 7th Ed)
+

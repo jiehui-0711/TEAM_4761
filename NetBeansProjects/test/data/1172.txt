@@ -1,0 +1,64 @@
+
+Episode No:  05T758305M
+057758.KBP
+
+Rater, Harley 
+Lab No:  05T75830
+N Kaspar
+GOOLWA    6705
+Specimen: Tissue
+D.O.B:  3/3/1997
+Sex:  F
+Collected: 25/07/2012 at 19:49
+Location:  Envoi pathology-EXMOUTH HOSPITAL
+DR Junior Jason DICE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Lung cancer.  Left lung with AP (illegible) lymph node attached.  
+MACROSCOPIC:
+A.  Specimen labelled no labelled as to site or nature.  Consists of a left lung measuring 220mm (superior to inferior) x 150 (anterior to posterior) x 100mm (medial to lateral).  In the upper pole there is an area of pleural puckering measuring 50 x 30mm.  The rest of the subpleural surface is unremarkable.  Attached to the hilum there is a large node measuring 30 x 20 x 20mm.  On sectioning of the upper lobe and in the area of pleural puckering there is a well defined soft tan tumour measuring 30 x 30 x 35mm.  A second nodule is identified at the level of the hilum ?lymph node involved by tumour measuring 22 x 15 x 15mm it is located 4mm away from the main tumour.  The main tumour is located 25mm from the hilum margin the second nodular tumour is located 7mm from the surgical margin.  The rest of the parenchyma is unremarkable. The lower lobe is unremarkable.  On sectioning of the nodule attached to the hilum it appears totally replaced bytumour.  A second node is identified measuring 15mm in maximum diameter and it appears to be involved by tumour.  Nine intralobar lymph nodes are identified.  
+Blocks: 1 - bronchial surgical margin; 2 - vascular margin; 3 to 5 - tumour; 6 & 7 - a composite of main tumour with second nodule ?metastatic lymph node close to the surgical margin; 8 - non tumoral tissue from the upper lobe; 9 - non tumoral tissue from the lower lobe; 10 to 12 - intralobar lymph nodes; 13 - one representative section from the large nodule attached to the hilum; 14 - one bisected lymph node; 15 - one representative section from the tumour for the tissue bank.
+B.  Specimen labelled "Left hilum node" consists of a lymph node measuring 5mm across.  AE 1 block.
+ 
+C.  Specimen labelled "Posterior mediastinal node" consists of a lymph node 7mm across.  AE 1 block.  (PG/ta  28/9/62) 
+ 
+MICROSCOPIC: (Reported by Dr A Dunkentell/Dr A Royce Cowie - 3.9.2062)
+A .  The 35mm left lung tumour is a moderately to poorly differentiated basaloid squamous cell carcinoma. A synoptic report for lung carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE LUNG CARCINOMA
+Site and laterality: Left lung.
+Specimen type:Left pneumonectomy.
+Tumour location: Left upper lobe.
+Number of tumours: 1.
+Tumour size: 35mm (macroscopic). 
+Contiguous spread: Tumour abuts subpleural soft tissue, but does not breach the pleura.
+Bronchialmargin: 
+	Distance from main tumour: 25mm (macroscopic).
+	Distance from involvedlymph node at hilum: 7mm (macroscopic).
+
+MICROSCOPIC FEATURES
+Histological type: Basaloid squamous cell carcinoma 
+Grade: Moderately to poorly differentiated (the tumour consists predominantly of infiltrative nests of basaloid squamous cell surrounding a central area of necrosis. Scattered foci of keratinisation and clear cell change are present within the tumour).
+Vessel invasion: Not identified. 
+Visceral pleural invasion: Tumour focally abuts the subpleural fibrous tissue, but does not breach the pleura.
+Bronchial margin: Free of tumour (25mm); note involved lymph node is 7mm to the margin).
+Vascular margin: Free of tumour. 
+Contiguous structures: Nil.
+Carcinoma in-situ: Not identified.
+Lymph nodes: Twenty-one lymph nodes sampled (including intra-pulmonary nodes (from main specimen), lefthilum lymph node (specimen B) and posterior mediastinal node (specimen C).
+	Intrapulmonary nodes: 3/19 lymph nodes show metastatic carcinoma (one shows possible direct invasion by tumour), no convincing extracapsular spread. 
+	Left hilum lymph node (specimen B): No evidence of malignancy in one lymph node.
+	Posterior mediastinal lymph node (specimen C): No evidence of malignancy in one lymph node.
+
+Non-neoplastic lung: The adjacent non-neoplastic lung shows patchy carbon pigment deposition, focal emphysematous change and very occasional intra-alveolar hyaline-membranes are seen. Occasional intra-alveolar multinucleated giant cells, some of which are associated with foreign material, are also present. Thereis a wedge shaped area of subpleural fibrosis at the apex, consisting of collapsed alveoli and areas of fibroelastosis, suggestive ofa pulmonary apical cap (block A3).
+
+pTNM (AJCC 2010) Tumour stage: IIA (pT2N1Mx)
+
+Representative slides shown to Drs Jamie and Kantarian.
+
+DIAGNOSIS:
+A - C.  Left lung, left hilar lymph node and posterior mediastinal lymph node:
+35mm, pTNM Stage IIA, basaloid squamous cell carcinoma, clear of bronchial and vascular margins, with no convincing breach of pleura.
+Metastatic carcinoma is present in three of nineteen intrapulmonary/hilar lymph nodes (specimen A), including by direct extension.
+The left hilar and posterior mediastinal lymph nodes show no evidence of malignancy. 
+
+

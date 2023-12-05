@@ -1,0 +1,23 @@
+SPR no: 42E477287P
+MRN no: 4214772
+Site_name: BOOROWA MULTI PURPOSE SERVICE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 4214772.VSP
+POUPARD, VANNA
+42E47728
+
+Last edited : 3/6/2065		Page: 2
+CLINICAL:
+Small bowel tumour.  GIST.  For Biobank.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Small bowel lesion&amp;quot;, consists of a small segmentof bowel with stapled margin measuring 30mm in length and 25mm outer diameter.  The attached mesentery measures 14mm.  The serosal surface appears smooth, glistening and unremarkable.  The mucosal surface shows a focal area of haemorrhage,probable ulceration,  indurated mucosal surface measuring 7mm x 5mm.  No other lesions are seen.  The serosal surface opposite the ulcerated/indurated mucosa is inked red.  The unstapled margin is inked blue.  The staple is removed andthe margin is inked black.
+Blocks: 1 &amp;#8211; all of probable ulcerated indurated area; 2 to 8 &amp;#8211; all of remaining tissue.  AE.  (TO: LM;LM/vo 25.5.65)
+MICROSCOPIC (Reported by Dr L Powsey):
+Specimen has been entirely embedded and examined.  Sections show a 3.5mm erosion within the small bowel mucosa with replacement by acutely inflamed granulation tissue and with underlying submucosal reactive lymphoid follicles.  The erosion is about 7mm clear of the closest resection margin.  No viral inclusions, pathogenic organisms, thrombi or underlying vasculitis is seen.  No granulomas are seen.  Away from thisarea the small bowel mucosa and wall are unremarkable.  Multiple levels have been examined through the erosion.  There is no evidence of gastrointestinal stromal tumour or malignancy.
+DIAGNOSIS:
+Small bowel lesion:
+- Non specific isolated erosion clear of margins.
+- No evidence of gastrointestinal stromal tumour.
+
+The findings were discussed with Dr L Marzigliano on 26/5/2065.

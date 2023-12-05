@@ -1,0 +1,43 @@
+SPR no: 53D100446K
+MRN no: 53110044
+Site_name: ST MARYS COMMUNITY HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 2 endometrioid adenocarcinoma.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, bilateral tubes and ovaries cervix&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 75grams in total.  The uterus measures 67 x 48 x 32mm and has an unremarkable serosal surface.  The ectocervix measures 23 x 23mm and is haemorrhagic but unremarkable.  On opening there is a shaggy exophytic tumour along the posterior right endometrial wall extending to the anterior lateral surface.  In this area the endometrium is approximately 8mm in thickness. The tumour is 35mm from the os. The myometrium is up to 15mm in thickness.  The tumour appears to infiltrate through to the outer half of the myometrium posteriorly.  The right fallopian tube measures 48mm in length x 7mm in diameter.  The right ovary measures 20 x 13 x 12mm and has an unremarkable cut surface.  The left fallopian tube measures 42mm in length x 7mm in diameter.  The left fallopian tube measures 22 x 12 x 10mm and has an unremarkable cut surface.  Tumour and normal endometrium sampled for research.
+Blocks: 1 to 3 - full LS through anterior body and cervix; 4 to 5 - tumour along anterior uterus the tumour is AE; 6 to 8 - full LS through posterior body and cervix; 9 to 11 - remainder of posterior tumour AE including area of deepest invasion; 12 - right fallopian tube; 13 - right ovary; 14 - left fallopian tube; 15 - left ovary.
+
+B.  Specimen labelled &amp;quot;Right pelvic lymph nodes&amp;quot;, consists of a piece of fibroadipose tissue, 75 x 50 x 15mm.  Lymph nodes are found ranging from 3 to 8mm in maximum dimension.  The lymph nodes are AE.
+Blocks: 1 to 3 - lymph nodes as seen; 4 and 5 - largest lymph node serially sectioned.
+
+C.  Specimen labelled &amp;quot;Left pelvic lymph nodes&amp;quot;, consists of a piece of fibroadipose tissue 58 x 45 x 12mm.  Lymph nodes are identified ranging from 3 to 35mm in maximum dimension.  The lymph nodes are AE.
+Blocks: 1 and 2 - lymph nodes as seen; 3 - one lymph node; 4 - one lymph node; 5 - one lymph node.  (TO:JL/vo 12/7/65)
+
+
+MICROSCOPIC (Reported by Dr N Medich):
+A.  Sections show grade 2 endometrioid adenocarcinoma of the endometrium.  The majority of the tumour has grade 1 architecture however, focally grade 3 nuclei are present giving an overall grade of 2.  The tumour invades to a depth of 9mm through a wall thickness of 15mm.  Focal lymphovascular invasion is seen.  The ectocervix and endocervix show no significant abnormality.  The myometrium shows a few small leiomyomas and focal adenomyosis.  The fallopian tubes and ovary show no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block A11)
+
+MLH1          Loss of nuclear staining
+PMS2          Loss of nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+B.  The twelve (12) lymph nodes in the slides show no significant abnormality.  There is no evidence of malignancy.
+
+C.  The ten (10) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A - C.  Uterus and cervix, bilateral fallopian tubes and ovaries, pelvic lymph nodes:
+-  Grade 2 endometrioid adenocarcinoma of the endometrium.
+-  Invasion to a depth of 9mm through a wall thickness of 15mm.
+-  Focal lymphovascular invasion present.
+-  Cervix uninvolved.
+-  Twenty two negative lymph nodes.

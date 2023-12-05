@@ -1,0 +1,77 @@
+SPR no: 51C418556D
+MRN no: 5104185
+Site_name: CENTRAL HIGHLANDS RURAL HEALTH - KYNETON
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ca cervix.  Radical hysterectomy.  R breast Ca.
+Previous histopathology (51C41855):  Cervical biopsy showed undifferentiated carcinoma consistent with endometrial primary.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right external iliac node&amp;quot;, consists of fibroadipose tissue, 50 x 45 x 26mm in aggregate, containing lymph nodes.  Blocks: 1 to 3 - multiple lymph nodes.
+
+B.  Specimen labelled &amp;quot;Left external iliac lymph nodes&amp;quot;, consists of fibroadipose tissue, 70 x 40 x 20mm in aggregate.  Blocks: 1 - single lymph node; 2 &amp;amp; 3 - multiple lymph nodes; 4 &amp;amp; 5 - single lymph node each block.
+
+C.  Specimen labelled &amp;quot;Right common iliac lymph nodes&amp;quot;, consists of fibroadipose, 35 x 20 x 12mm, containing multiple lymph nodes.  AE 2 blocks.
+
+D.  Specimen labelled &amp;quot;Left common iliac lymph nodes&amp;quot;, consists of fibroadipose tissue, 25 x 18 x 5mm in aggregate.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Right obturator lymph nodes&amp;quot;, consists of fibroadipose tissue, 50 x 40 x 20mm.  Blocks: 1 &amp;amp; 2 - single lymph node; 3 - multiple lymph nodes.
+
+F.  Specimen labelled &amp;quot;Left obturator lymph nodes&amp;quot;, consists of fibroadipose tissue, 60 x 40 x 20mm in aggregate.  Blocks: 1 - multiple lymph nodes; 2 - single lymph node.
+
+G.  Specimen labelled &amp;quot;Right parametrium&amp;quot;, consists of fibroadipose tissue, 20 x 12 x 3mm.  AE 1 block.
+
+H.  Specimen labelled &amp;quot;Left parametrium&amp;quot;, consists of fibroadipose tissue, 28 x 20 x 5mm in aggregate.  AE 1 block.
+
+I.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of fibroadipose tissue, 40 x 18 x 8mm.  No lymph nodes or tumour identified.  AE 1 block.
+
+J.  Specimen labelled &amp;quot;Uterus cervix tubes and ovaries&amp;quot;, consists of uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 136g in total.  The uterus measures 100 x 50 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 45 x 35mm, with a rim of vaginal tissue, up to 22mm in width.  The posterior cervical margin is inked black and the anterior cervical margin is inked blue.  The endocervical canal and endometrial cavity contain abundant tan necrotic tumour, approximately 90 x 35 x 25mm.  The tumour within the endometrial cavity appears confined to the mucosa and no definite myometrial invasion is seen.  The myometrium is up to 11mm in thickness, and the cervical wall up to 14mm in thickness.  The tumour extends to within 1mm of the cervical margin and is at least 22mm from the vaginal margin.  The left fallopian tube, 45 x 7 x 6mm, and left ovary, 32 x 17 x 13mm, show no significant abnormality.  The right fallopian tube, 50 x 7 x 6mm, and right ovary, 27 x 15 x 12mm, show no significant abnormality.
+Blocks: 1 to 6 - midline LS posterior uterus and cervix; 7 &amp;amp; 8 - cervical tumour, ?deepest invasion and closest margin; 9 to 13 - midline LS anterior uterus and cervix; 14 &amp;amp; 15 - anterior cervix, ?deepest invasion and closest margin; 16 - left fallopian tube; 17 - left ovary; 18 - right fallopian tube; 19 - right ovary.   (TO:JB/rs 14/2/70)
+
+
+MICROSCOPIC (Reported by Dr P Wimbs):
+A.  The sections show thirteen negative lymph nodes (0/13).  There is no evidence of malignancy.
+
+B.  The sections show eight negative lymph nodes (0/8).  There is no evidence of malignancy.
+
+C.  The sections show three negative lymph nodes (0/3).  There is no evidence of malignancy.
+
+D.  The sections show one negative lymph node (0/1).  There is no evidence of malignancy.
+
+E.  The sections show four negative lymph nodes (0/4).  There is no evidence of malignancy.
+
+F.  The sections show five negative lymph nodes (0/5).  There is no evidence of malignancy.
+
+G.  The sections show adipose tissue.  There is no evidence of malignancy.
+
+H.  The sections show fibroadipose tissue with one negative lymph node (0/1).  There is no evidence of malignancy.
+
+I.  The sections show adipose tissue with focal fibrosis.  There is no evidence of malignancy.
+
+J.  The sections show a mixed endometrial carcinoma, composed of approximately 40% undifferentiated carcinoma, 30% serous carcinoma, and 30% grade 2 endometrioid adenocarcinoma involving the entire endometrial cavity and endocervical canal.  The undifferentiated carcinoma is composed of dissociated sheets of large plasmacytoid polygonal cells with marked cytologic atypia.  These cells are negative with HMB45, melan-A, MITF, desmin and SMA immunohistochemical stains.  Areas of complex slit-like glands and papilliform tufting are seen, consistent with serous carcinoma.  There are also areas composed of crowded glands lined by columnar cells with marked cytologic atypia, in keeping with grade 2 endometrioid adenocarcinoma.
+
+The tumour invades into the outer half of the myometrium, with a depth of invasion of 6mm through a myometrial wall thickness of 9mm.  The undifferentiated carcinoma component is centred in the lower uterine segment/endocervical canal.  Undifferentiated carcinoma invades into the cervical stroma, with a depth of invasion of 14.5mm through a cervical wall 16mm thick.  Carcinoma is well clear of the vaginal cuff margin.  No lymphovascular invasion is identified.  The ectocervical epithelium shows no significant abnormality.  Leiomyomas and adenomyosis are noted in the myometrium.
+
+Scant clusters of carcinoma cells are seen at the serosal surface of the left ovary.  No involvement of the ovarian parenchyma by tumour is seen.  The left fallopian tube shows no significant abnormality.  The right fallopian tube shows focal full thickness atypia of the fimbrial epithelium, and this shows essentially diffuse positive staining with p53 and Ki-67 immunostains.  These features are consistent with serous tubal intraepithelial carcinoma (STIC)
+
+Representative sections shown to Dr P Twigg.
+
+Mismatch Repair Deficiency (MMRD) Status (block J14)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS:
+A to J.  Uterus, cervix, bilateral fallopian tubes and ovaries, bilateral pelvic lymph nodes, bilateral parametrium and omental biopsy:
+-  Mixed endometrial carcinoma, comprising undifferentiated carcinoma (40%), serous carcinoma (30%) and grade 2 endometrioid adenocarcinoma (30%).
+-  Tumour invades outer half of myometrium.
+-  Tumour invades deep cervical stroma.
+-  Scant serosal tumour deposits in left ovary.
+-  Serous tubal intraepithelial carcinoma (STIC) of the right fallopian tube.
+-  Parametrium and omentum negative.
+-  Total thirty-five negative lymph nodes (0/35).

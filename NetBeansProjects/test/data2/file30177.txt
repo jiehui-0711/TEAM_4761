@@ -1,0 +1,41 @@
+SPR no: 78M709710J
+MRN no: 7847097
+Site_name: MURGON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Peritoneal caking.  ?Primary.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries, weighing 42g in total.  The uterus measures 70 x 40 x 15mm and has a smooth serosa.  The ectocervix measures 35 x 20mm.  The endometrium is 1mm in thickness and the myometrium is up to 10mm in thickness.  There are subserosal fibroids, up to 15mm.  The right fallopian tube is 30mm in length and 4mm diameter.  The right ovary is 20 x 7 x 6mm.  The left fallopian tube is 35mm in length and 4mm diameter.  The left ovary is 20 x 10 x 9mm.  Both ovaries appear unremarkable.
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to 7 - entire anterior endometrium; 8 - fibroid; 9 to 12 - full LS of posterior body and cervix; 13 to 18 - entire posterior endometrium; 19 &amp;amp; 20 - RS fibroid; 21 &amp;amp; 22 - right fallopian tube; 23 to 25 - right ovary; 26 &amp;amp; 27 - left fallopian tube; 28 to 30 - left ovary.  Tubes and ovaries AE.
+
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of adipose tissue measuring 70 x 50 x 30mm.  The cut surface shows indurated pale white and yellow areas.  RS 3 blocks.
+
+C.  Specimen labelled &amp;quot;Pelvic peritoneal&amp;quot;, consists of a piece of fibroadipose tissue, 35 x 30 x 15mm.  AE 3 blocks.
+
+D.  Specimen labelled &amp;quot;Small bowel nodule&amp;quot;, consists of a piece of tan tissue, 9 x 3 x 2mm.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Rectal nodule&amp;quot;, consists of two pieces of tan tissue measuring 15 x 10 x 3mm in aggregate.  AE 1 block.   (TO:LM/rs 19/10/69)
+
+
+MICROSCOPIC (Reported by Dr T Meiste):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows leiomyomas.  Both the anterior and posterior uterine serosa show foci of high grade serous carcinoma associated with granulation tissue.  High grade serous carcinoma is seen involving the serosa of the fallopian tubes, ovaries and para-adnexal soft tissue bilaterally.  The right fallopian tube also shows transmural involvement by high grade serous carcinoma, including focal mucosal changes of serous tubal intraepithelial carcinoma (STIC).  These features are in keeping with primary tubal origin.  Foci of lymphovascular invasion are seen in the left para-ovarian soft tissue and right paratubal soft tissue.
+
+B.  The sections of omentum show high grade serous carcinoma associated with fibroblastic granulation tissue.
+
+C.  The sections of the pelvic peritoneum show high grade serous carcinoma associated with fibroblastic granulation tissue.
+
+D.  The sections of the small bowel nodule show high grade serous carcinoma associated with fibroblastic granulation tissue and necrosis.
+
+E.  The sections of the rectal nodule show high grade serous carcinoma associated with fibroblastic granulation tissue.
+
+
+DIAGNOSIS:
+A.  Uterus with cervix, bilateral fallopian tubes and ovaries:
+-  High grade serous carcinoma involving serosa of uterus, both fallopian tubes and ovaries, and bilateral para-adnexal soft tissue.
+-  Serous intraepithelial carcinoma present in right fallopian tube.
+B.  Omentum:  High grade serous carcinoma.
+C.  Pelvic peritoneum:  High grade serous carcinoma.
+D.  Small bowel nodule:  High grade serous carcinoma.
+E.  Rectal nodule:  High grade serous carcinoma.

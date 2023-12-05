@@ -1,0 +1,66 @@
+Episode No:  42M599361F
+4245993.QEF
+
+MARCOU, VIRGILIO 
+Lab No:  42M59936
+Annin
+LITHGOW  ACT  1223
+Specimen: Tissue
+D.O.B:  21/3/1999
+Sex:  M
+Collected: 10/10/2013 at 16:10
+Location:  Tissue Pathology and Diagnostic Oncology-NORTH MIDLANDS HOSPITAL
+DR PRINCE GUSTAVO NERPIO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+R hemicolectomy.  HOCM, AF.  Right hemicolectomy for caecal cancer.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy", consists of a right hemicolectomy measuring 190mm in length with an attached section of terminal ileum 50mm in length and attached unremarkable appearing appendix 60mm in length with an external diameter of 6mm.  Arising from the caecum and extending onto the ileocecal valve, there is a circumferential polypoid tumour measuring 35 x 32mm.  The tumour is 60mm from the proximal resection margin and 110mm form distal resection margin.  The cut surface reveals the tumour spans the ileocecal valve and invades focally through the muscularis propria and into the mesenteric fat but does not appear to reach the serosal surface.  One small 3mm polyp is identified at the distal margin.  No other mucosal abnormalities are seen.  Multiple lymph nodes are identified in the mesenteric fat.  One appearsinvolved with tumour.
+Blocks: 1 - margins; 2 to 7 - representative tumour; 8 - uninvolved mucosa; 9 - representative appendix- 10 node; 11 and 12 - nodes; 13 - one lymph node bisected; 14 and 15 - lymph nodes.  (TO: WN;OQ/vo 13.12.63) 
+MICROSCOPIC (Reported by Dr M Iliff):
+Sections show a moderately differentiated adenocarcinoma with a mucinous component in which signet ring cells are present. The mucinous component comprises less than 50% of the tumour. A synoptic report follows. 
+Macroscopic Description
+
+Site of tumour:	tumour diameter:     35mm
+Distance of tumour to nearer cut end:     60mm (proximal resection margin)
+Tumour perforation:     No
+Microscopic Description
+
+Type
+Adenocarcinoma with a mucinous component containing malignant epithelium and signet ring cells
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Lymph nodes
+Number of lymph nodes present:  23	
+Number of lymph nodes involved: 9	
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (Mural): Present 
+
+Perineural invasion
+Not identified
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+A tubular adenoma with low grade dysplasia is present at the distal margin.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment: Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN2     pMX     R0
+DIAGNOSIS:
+Right hemicolectomy
+- MODERATELY DIFFERENTIATED ADENOCARINOMA WITH A MUCINOUS COMPONENT
+
+
+

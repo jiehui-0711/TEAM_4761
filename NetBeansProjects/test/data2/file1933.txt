@@ -1,0 +1,182 @@
+DateOfBirth
+200809030000
+
+
+SiteName
+BENALLA HEALTH
+
+
+FirstName
+Mckoon
+
+
+SPRID
+95W1572866
+
+
+MRN
+958157
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+95W15728 (95W1572866) VESSELL, Selby
+
+HISTOPATHOLOGY REPORT
+WHYALLA HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right axillary sentinel node for frozen section. Right breast cancer further surrounding margins (whole cavity), long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT AXILLARY SENTINEL NODE&amp;quot;. Consists of two lymph nodes 8, 7mm, pink.
+F/S: &amp;quot;Negative&amp;quot;. Results were given by phone on 20/4/2070 by Dr. Z. Abendroth.
+(1  transverse section LN 1 and 2; 2  remainder LN 1; 3  remainder LN 2).  Representative sections. (M-3).
+
+B. &amp;quot;RIGHT BREAST TISSUE SUTURE 12 O&amp;apos;CLOCK&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision, oriented.
+SPECIMEN X-RAY:  Yes, there is a marker at H8 and hookwire split at F8. Overlying area of the marker is inked yellow.
+HOOKWIRE:  Yes, entering the specimen supra-anteriorly.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  35mm
+Superior to inferior:  40mm
+Anterior to posterior:  55mm
+WEIGHT:  39g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Non-Standard: Superior red, Inferior green, Medial blue, Lateral black.
+DISSECTION: Cut from anterior to posterior
+Number of slices:  10
+FINDINGS / LESION:  There is a lesion identified in slices 3 and 4 with adjacent focal area of haemorrhage ?previous biopsy tract. The lesion has a tan cut surface and it measures 5mm medial to lateral, 4mm superior to inferior, 8mm anterior to posterior. The tumour is 9mm from superior margin, 22mm from inferior margin, 4mm from medial margin, 20mm from lateral margin, 8mm from anterior margin and 28mm from posterior margin. The remainder of the breast tissue is fibrofatty in appearance. Entire lesion is embedded.
+
+(1&amp;amp;2  longitudinal through anterior margin slice 1; 3&amp;amp;4  superior half slice 2; 5-8  slice 3; 9-12  slice 4; 13&amp;amp;14  superior half slice 5; 15-17  slice 8; 18-20  longitudinal through posterior margin slice 10). Representative sections. (M-20).
+
+C. &amp;quot;RIGHT BREAST TISSUE FURTHER SURROUNDING TISSUE&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Re-excision, oriented.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  40mm
+Superior to inferior:  40mm
+Anterior to posterior:  10mm
+WEIGHT:  6g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Standard:  Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices:  8
+FINDINGS / LESION:  The cut surface is predominantly fibrotic. No discrete lesion is identified. Entire specimen is embedded.
+
+(1  longitudinal through medial margin slice 1; 2  slice 2; 3  slice 3; 4  slice 4; 5  slice 5; 6  slice 6; 7  slice 7; 8  longitudinal through lateral margin slice 8). All embedded.  (M-8/MC 5/6/2069 km).
+
+MICROSCOPIC:  (Dr. Z. Krenzke)
+
+A-B. INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: 6 mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type
+&amp;#160;
+HISTOLOGIC GRADE: 1
+
+SCORES Tubules: 2, Nuclei: 1, Mitoses: 1;  MITOTIC RATE: 1 mitosis per 10 hpfs
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 6mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION:  Not identified
+&amp;#160;
+PERINEURAL INVASION: Not identified
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): &amp;lt;5%
+&amp;#160;
+SKIN INVOLVEMENT: Not identified
+
+DERMAL LYMPHOVASCULAR INVASION: Not identified
+&amp;#160;
+NIPPLE INVOLVEMENT:  Not identified
+&amp;#160;
+MUSCLE INVOLVEMENT:  Not identified
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent: One duct adjacent to the tumour
+Nuclear grade:  Low grade
+Architecture / type: Cribriforming
+Necrosis: Not identified
+Microcalcification of DCIS:  Not identified
+Extensive intraduct component:  Not identified
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160; Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Anterior: 10mm
+Posterior: 28mm
+Medial: 4mm
+Lateral: 15mm
+Superior: 8mm
+Inferior: 20mm
+&amp;#160;
+DCIS MARGINS: As for invasion
+&amp;#160;
+ANCILLARY TESTS: IMMUNOSTAINS, block B5
+ER: &amp;#160;Positive (3+, 100%)
+PgR: &amp;#160;Positive (3+, 80%)
+HER2: &amp;#160;1+
+Ki67: 8%
+&amp;#160;
+LYMPH NODES:
+SENTINEL LYMPH NODES - Two lymph nodes with no malignancy. Cytokeratin immunohistochemistry is negative.
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1b pN0
+
+C. The breast tissue shows benign changes including usual ductal hyperplasia and cystic change. There is no in-situ or invasive malignancy.
+
+
+DIAGNOSIS:
+A. RIGHT AXILLARY SENTINEL NODE  -  Two lymph nodes with no malignancy
+
+B. RIGHT BREAST TISSUE  -  Invasive carcinoma of no special type, pT1b pN0
+
+C. RIGHT BREAST TISSUE FURTHER SURROUNDING TISSUE  -  Benign breast tissue
+
+
+
+
+
+
+SpecimenReceivedDate
+2818-09-14 00:00:00
+
+
+LastName
+DARWIN

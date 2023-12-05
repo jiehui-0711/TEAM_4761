@@ -1,0 +1,49 @@
+
+Episode No:  26Z134013D
+2691340.DID
+
+LICKEY, GLEN NIGEL 
+Lab No:  26Z13401
+Musterfield
+CAMDEN HAVEN  Victoria  5114
+Specimen: Tissue
+D.O.B:  7/1/2035
+Sex:  M
+Collected: 12/08/2013 at 14:10
+Location:  CARDIOTHORACIC ICU-ONSLOW HEALTH SERVICE
+DR BRETT AIDAN MCVINNEY
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right testicular mass.  32yr old man with background of metastatic colorectal carcinoma.
+MACROSCOPIC:
+Specimen labelled "Right testicle" consists of a right testicle and spermatic cord weighing 68.8g.The testicle measures 60 x 45 x 45mm and the cord measures 65mm in length x 5 x 5mm in maximum diameter.  The tunica albuginea and vaginalis are intact and cover the testis.  On sectioning there is a tan haemorrhagic tumour which almost completely replaces the testis.  There are focal areas of necrosis.  The tumour appears to be encapsulated by the tunica.  The tumour measures 40 x 33 x 25mm.  There is a thin ellipse of normal testes which overlies the tumour anteriorly.  The tumour abuts the tunica, epididymis and the thin margin of normal testis.  
+Blocks: 1- proximal spermatic cord margin; 2 - mid cord; 3 to 6 - full face through tumour and surrounding structures; 3 - closest tunica margin; 4 - tumour; 5 - tumour and epididymis; 6 - and normal testis; 7 & 8 - tumour; 9 - tumour reserve block. 
+(AZ/ta 15/10/63)   
+MICROSCOPIC (reported by Dr H Liesmann & Dr H Hottes):
+Sections show a primary germ cell tumour of the testis, pure embryonal carcinoma type, replacing the majority of the testis.  The CD30 stain is diffusely positive throughout the tumour.The features are as follows:
+ 
+Histologic type:  Pure embryonal carcinoma
+	
+Scarring:  Absent 
+Syncytiotrophoblastic giant cells:  Absent
+Maximum tumour size (maximum dimension):  40mm
+Extent of tumour:
+Rete testis invasion:  Absent
+Epididymis invasion:  Absent 
+Tunica albuginea invasion:  Absent 
+Tunica vaginalis invasion:  Absent
+Spermatic cord invasion:  Present (within pampiniform plexus adjacent to testis), spermatic cord margin negative
+Scrotal wall invasion:  Absent
+Lymphovascular invasion:  Present (within pampiniform plexus)
+Intratubular germ cell neoplasia (ITGCN):  Absent 
+Lymph node status:  No lymph nodes received
+Other comment:
+The tumour differs greatly in morphology to that seen in the previous left neck lymph node core biopsy (26Z1340) which showed metastaticpoorly differentiated adenocarcinoma.
+
+DIAGNOSIS:
+Right orchidectomy:
+- 40mm pure embryonal carcinoma, margins clear
+- No invasion of rete testis or epididymus
+- Tunica albuginea and vaginalis intact
+- Lymphovascular invasion of the pampiniform plexus.
+

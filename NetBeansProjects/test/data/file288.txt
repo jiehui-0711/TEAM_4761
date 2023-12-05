@@ -1,0 +1,74 @@
+SPR no: 70P392601S
+MRN no: 7063926
+Site_name: FRANKSTON PUBLIC SURGICAL CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+
+Pathology ReportEpisode No:  70P392601S
+7063926.CES
+
+BARCELLOS, CHADWICK 
+Lab No:  70P39260
+Avon Hill
+WOLLONGONG  New South Wales  1765
+Specimen: Marrow,Tissue
+D.O.B:  9/4/2007
+Sex:  F
+Collected: 28/04/2014 at 12:53
+Location:  CPC Pathology-SCOTT MEMORIAL HOSPITAL
+DR FARAH BILLIE MICHAND
+Distribution:  
+BONE MARROW REPORT
+
+SURNAME: Winfred		FIRST NAME: 	Jagun
+D.O.B.:	9/4/07			MRN: 7063926 
+EPISODE NO: 70P392601S	A.M.O. Demick
+
+HISTORY / INDICATION:  Meig&amp;#8217;ssyndrome. Exclude myeloma.
+Peripheral Blood
+Date: 30/6/64
+Hb: 126			Platelets: 291
+WBC: 	7.4		Neutrophils: 5.5
+Film report: No significant morphological abnormality.
+Date BM performed: 30/6/64
+Procedure: BMAT	Site: JOHN HUNTER HOSPITAL ROYAL NEWCASTLE CENTRE
+
+ASPIRATE
+
+Ease / difficulty of aspiration:	Easy
+Cellularity: Mildly hypocellular.
+Nucleated Differential Cell Count (%):
+Blasts:	&amp;lt;1			Promyelocytes: 1
+Myelocytes: 8			Metamyelocytes: 5
+Neutrophils/Bands: 31		Eosinophils: &amp;lt;1
+Basophils: &amp;lt;1			Mast cells: 	
+Lymphocytes: 23		Plasma cells:	2	
+Monocytes: 2			Promonocytes:			 		
+Erythroblasts:	28		M:E ratio: 1.6:1		
+No. of cells counted: 500							
+Erythropoiesis:	Normal activity with normal morphology.
+Granulopoiesis:Normal in amount with normal maturation.
+Megakaryocytes:  Present in normal 
+Plasma cells: Mildly increased in some sections and quite normal in number in others. Overall the morphology is normal.
+Iron stain: Normal iron stores. No ring sideroblasts.
+Flow cytometry:	 Not indicated.
+Cytogenetics: Not indicated
+Aspirate Report: Mildly hypocellular marrow with normal trilineage haemopoiesis. There are some sections with mildly increased numbers of plasma cells but overall they are present in normal number and have normal morphology without features of atypia. The findings are not in keeping with a diagnosis of plasma cell myeloma. Please correlate with trephine.
+Haematology Registrar: HAROLD BRINDAMOUR
+
+Haematology Consultant: BUCK SHIMSHAK.
+
+Cancer Council Registry: No
+
+TREPHINE BIOPSY
+Length / condition of core: Single 15mm trephine in overall good condition, with a small section with crush artefact at one end. 
+Cellularity: Normocellular.
+Bone architecture: Normal.	
+Reticulin stain: 	Normal.
+Immunohistochemistry: Not indicated.
+Trephine Biopsy Report:  Normocellular marrow with normal trilineage haemopoiesis. There is no evidence of plasma cell myeloma.
+Haematology Registrar: FREDRIC TRICHELL
+
+Haematology Consultant: JOSE GELL
+
+Cancer Council Registry: No

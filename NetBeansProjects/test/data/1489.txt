@@ -1,0 +1,118 @@
+Episode No:  14X744148H
+149744.DKX
+
+Launer, LENNIE  
+Lab No:  14X74414
+N Tyson
+THIRLMEREQLD  6069
+Specimen: Tissue
+D.O.B:  16/5/2003
+Sex:  F
+Collected: 22/10/2063 at ::  Molecular Oncology-CAIRNS BASE HOSPITAL
+DR RICARDO HARRY Cruz-Franzoni
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left axilla sentinel node biopsy.  Left 12 o'clock IDC.  Left 1 o'clock IDC.  Mastectomy + Axilla clearance.  Level 1 + 2.  Suture short superior, long lateral.  
+MACROSCOPIC:
+A.Specimen labelled "Sentinel node left breast" consists of a piece of fatty tissue 35 x 20 x 10mm encasing a lymph node 20 x 5 x 7mm.  Serially sectioned and imprinted for cytology.  A further lymph node 5mm is identified.  
+Blocks: 1 & 2 - lymph node from imprint cytology; 3 - further lymph node identified. 
+FROZEN SECTIONREPORT:
+Metastatic carcinoma.
+Result to Anaesthetist by Dr D Paro at 5.45pm 20/8/13
+  
+B.  Specimen labelled "Left breast short superior, long lateral" consists of a mastectomy measuring 250mm (medial to lateral) x 190mm (inferior to superior) x 50mm (superficial to deep).  There is an overlying ellipse of skin measuring 195mm (medial to lateral) x 75mm (inferior to superior).  This includes a nipple areola complex measuring 35 x 35mm which appears unremarkable.  The superficial margin is inked blue and the deep margin inked black.  The cut surface reveals two tumour.  Tumour one is identified in the 12 o'clock position 75mm from the nipple and measures 23mm (medial to lateral) x 24mm (inferior to superior) x 20mm (superficial to deep).  Tumour one is 23mm from the superior superficial margin and 18mm from the deep margin, and the medial, lateral and inferior margins are well clear.  Tumour two is identified in the 2 o'clock position 110mm from the nipple and measures 10mm (medial to lateral) x 11mm (inferior to superior) x 8mm (superficial to deep).  The deep margin is 20mm from the tumour and the inferior superficial margin is 45mm away while the medial lateral and superior margins are well clear.  Two ?lymph nodes are identified in the axillary tail.  Nofurther suspicious lesions are identified.  
+Blocks: 1 to 4 - tumour one; 5 & 6 - tumour two; 7 - inferior margin and near tumourtwo; 8 & 9 - representative inner upper quadrant; 10 & 11 - representative inner lower quadrant; 12 & 13 - representative outer lower quadrant; 14 & 15 - representative outer upper quadrant; 16 - nipple and tissue deep from the nipple; 17 - lymph nodes; 18 - reserve block.
+ 
+C.  Specimen labelled "Axillary node dissection level one left breast" consists of a piece of fatty tissue measuring 90 x 80 x 25mm in aggregate.  Multiple lymph nodes are identified from 2 to 30mm.  
+Blocks: 1 to 3 - lymph nodes;4 & 5 - one lymph node bisected.  
+D.  Specimen labelled "Axillary node dissection level two left breast" consists of fragments of fatty tissue from 15 to 45mm.  Multiple lymph nodes are identified from 2 to 20mm.  AE 3 blocks.   (EN/ta 24/10/63) 
+   
+MICROSCOPIC (reported by Dr D England & Dr D Dorosky):
+A - D. Sections show two foci of invasive ductal carcinoma.  The features are as follows:  
+
+Tumour 1:
+Invasive carcinoma:
+Site:  Left breast 12 o'clock.
+Type:  Invasive ductal carcinoma. 
+Invasive tumour size:  23mm. 
+Grade (Modified Bloom & Richardson):  2.
+Tubules:2     Nuclei:  2    Mitoses:   2   Mitotic rate: 10/10hpf.
+Lymphovascular invasion:  Not present. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS:  24mm. 
+Nuclear grade:  Intermediate grade 
+Architecture:  Solid and cribriform. 
+Necrosis:Present.  
+Calcification:  Present. 
+Degree of DCIS in tumour:  Moderate.
+DCIS in adjacent tissue:  Moderate. 
+Excision Margins:  
+Invasive component:  Deep 10mm clear, all other margins well clear. 
+In-situ component:  Deep 10mm clear, all other margins well clear. 
+Receptors (Block B2): 
+ER:  Positive.
+	95% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	40% of nuclei stained
+	predominant intensity of staining:  Moderate. 
+HER2(Novocastra 10A7):  Negative (score 1+).
+HER2 SISH:  Performed at TransMontaigne, PRINCE ALBERT TENTERFIELD Hospital, see separate report.
+Ki-67 index:  Approximately 15%. 
+Tumour 2:
+Invasive carcinoma:
+Site:  Left breast 2 o'clock.
+Type:  Invasive ductal carcinoma. 
+Invasive tumour size:  11mm.
+Grade (Modified Bloom & Richardson):  1. 
+Tubules:  2    Nuclei:  2   Mitoses:  1    Mitotic rate:  2 /10hpf.
+Lymphovascular invasion:  Not present. 
+	    
+DCIS component:  
+DCIS:  Present.  
+Maximum extent of DCIS:  5mm within tumour. 
+Nuclear grade:  Intermediate grade
+Architecture:  Solid and cribriform. 
+Necrosis:  Not present. 
+Calcification:  Not present. 
+Degree of DCIS in tumour:  Minimal.  
+DCIS in adjacent tissue:  Not present. 
+Excision Margins:  
+Invasive component:  Well clear of all margins. 
+In-situ component:  Well clear of all margins. 
+Receptors (Block B5): 
+ER:  Positive.
+	95% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive
+	70 % of nuclei stained
+	predominant intensity of staining:  Moderate to strong
+HER2 (Novocastra 10A7):  Negative (score 1+).
+HER2 SISH:  Performed at Henry Schein, IPSWICH HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 5%. 
+Nipple:  Not involved. 
+LCIS / ALH:  Not identified.   
+
+Miscellaneous:  The surrounding breast tissue shows extensive fibrocystic change, florid ductal hyperplasia, apocrine change and sclerosing adenosis. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2.
+Number of sentinel lymph nodes involved by tumour:  1.        
+Number of sentinel nodes with metastases >2.0mm:  1.  
+Number of sentinel nodes with metastases <2.0mm:  0.    
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0.    
+Extranodal spread:  Present. 
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  36 (22 level 1,12 level 2, 2 intramammary).
+Number of axillary lymph nodes involved by tumour:  6 (1 level 1, 4 level 2, 1 intramammary).        
+Number of axillary nodes with metastases >2.0mm:  5 (1 level 1, 3 level 2, 1 intramammary).
+Number of axillary nodes with metastases <2.0mm:  0  
+Number of axillary nodes with isolated tumour cells <0.2mm:  1 (level 2).     
+Extranodal spread:  Present.   
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  38.  
+Total number of involved lymph nodes (including sentinel node(s)):  7.
+
+
+

@@ -1,0 +1,44 @@
+SPR no: 67X544860Q
+MRN no: 6795448
+Site_name: CLERMONT MULTI-PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT:  (15.9.66)
+
+CLINICAL:
+Large retroperitoneal liposarcoma.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Retroperitoneal liposarcoma, long stitch deep&amp;#8221; consists of an oriented  lobulated fatty tumour measuring 440 x 280 x 90mm.  On the inferior portion of the specimen posteriorly there is a vas deferens with tied ends measuring approximately 80mm in length with an external diameter of 2mm.  There is a single orienting suture in place.  The anterior margin is inked blue, right side is inked red and posterior margin is inked black.  The posterior and anterior inks converge on the left side of the specimen.  The cut surfaces show uniform fatty tissue.   Blocks: 1 to 4 - research blocks (1 - research 1, 2 - research 2, 3 - research 3, 4 - research 4); 5 to 9 - representative sections of vas deferens (5&amp;amp;9 are opposite ends of the vas deferens with tied areas); 10 to 16 - representative sections of the posterior margin; 17 to 21 - representative sections of the right margin; 22 to 26 - representative sections of left margin; 27 to 31 - representative sections of anterior margin; 32 to 34 - representative section of superior margin; 35- 37 - representative section of inferior margin; 38 to 44 - representative sections of central part of lesion; 45 - tumour banking reserve block.
+B.  Specimen labelled &amp;quot;Anterior hernia fat&amp;quot; consists of a fatty tissue measuring 70 x 55 x 20mm.  The cut surface is uniformly fatty.  Representative sections embedded in three blocks.
+(TO: LM; LM/ua 26.8.66)
+
+MICROSCOPIC (Reported by Dr. R Diclaudio):
+A.  Sections show a tumour composed of mature appearing adipose tissue.  There is mild variability in size and shape of adipocytes.  Numerous sections have been taken and there are only very occasional atypical cells identified (blocks 19, 21, 26).  These atypical cells are mainly spindle shaped and have enlarged, irregular hyperchromatic nuclei.  Very occasional adipocytes with enlarged, irregular hyperchromatic nuclei are also present.
+Given the size and site of the tumour the diagnosis is most likely atypical lipomatous tumour/well differentiated liposarcoma, however there are only very occasional atypical cells identified in the multiple sections examined.  Sections will be sent to NORSEMAN HOSPITAL&amp;apos;s Hospital for MDM2 FISH and a supplementary report issued.
+There is a thin layer of fibrous tissue between the tumour and the anterior and superior excision margins so excision is likely to be complete at these margins.  There is also a thin layer of fibrous tissue between tumour and at least part of the inferior margin.  Fatty tissue extends to the posterior margin and to right and left side margins.
+B.  Sections show unremarkable fat.
+DIAGNOSIS:
+A.  Retroperitoneal mass:  Fatty tumour showing minimal atypia, supplementary report to follow.
+
+B.  Anterior hernia fat:  Mature fat.
+SUPPLEMENTARY REPORT:  (15.9.66)
+Molecular Genetics Report - Fluorescence in situ Hybridisation - FISH
+Reported by GORDON POLEY, validated by Dr CALLAN JEROMY ADEL, POW L7 CONSULTING ROOMS GOOMALLING HOSPITAL&amp;apos;s Pathology.
+
+SUMMARY:
+MDM2 amplification DETECTED.
+
+FISH Probe/s
+MDM2(12q15), D12Z3(12 centromere) loci-specific probe set (ZytoVision)
+
+ISCN Results
+nuc ish(MDM2amp,D12Z3x2)[48/59]
+
+Interpretation
+Interphase FISH showed a signal pattern consistent with MDM2 amplification. This is consistent with a diagnosis of well differentiated/dedifferentiated liposarcoma.  Please correlate with other findings.
+
+
+Comment (Dr R Coplin):
+The FISH results confirm a diagnosis of well differentiated liposarcoma.  No dedifferentiated component is seen.

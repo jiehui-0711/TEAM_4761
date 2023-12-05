@@ -1,0 +1,64 @@
+Episode No:  99E795170B
+991795.EUA
+
+VLJERIC, PHIL 
+Lab No:  99E79517
+Friendly
+WYNDHAM  New South Wales  3662
+Specimen: Tissue
+D.O.B:  18/1/1978
+Sex:  M
+Collected: 17/12/2012 at 09:40
+Location:  KINGAROY HOSPITAL & COMMUNITY HEALTH CENTRE
+DR RICHIE BLINSTON
+Distribution:  DR Dasalia,  FILE-COPY, DR MODESTO,   NSW-CANCER-REGISTRY, DR Ybarra
+CLINICAL:
+Lap right hemicolectomy.  Proximal transverse colon cancer + polyp. 
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy", consists of a right hemicolectomy measuring up to 260mm in length, including 70mm of terminal ileum.  There is an appendix attached measuring up to 80mm in length and 6mm in diameter. The open circumference of the ascending colon and caecum measures up to 60mm and 110mm respectively. Located 85mm from the distal margin there is a large exophytic tumour measuring up to 55mm (~80% lumen circumference) and occupying45mm length of the bowel.  There is a second ? large polyp/tumour located approximately 140mm from the distal margin occupying 20mm of bowel length and up to ~30% of the open circumference.  There are several polyps identified between the ileocaecal valve and 60mm from the distal margin. The mucosa is otherwise unremarkable.  On sectioning the tumour extends a distance of up to 21mm and may extend into the mesentericfat.  A caecal area apical node, along with several lymph nodes are identified. 
+Block 1- distal margin; 2 - proximal margin; 3 - polyp closest to distal margin; 4-6 - one polyp each; 7 - LS tip appendix; 8 - 2TS appendix; 9 - representative mucosa at distal end; 10 - representative mucosa terminal ileum; 11-13 - full face tumour including ? deepest extension; 14 - second tumour with deepest invasion; 15 - distal tumour with normal mucosa; 16 - proximal tumour with normal mucosa; 17 & 18 - two sections through large polyp; 19 - reserve block; 20- caecal area apical node; 21 -bisected lymph node; 22 & 23 - ? ascending colon apical node/?vessels; 24 - four lymph nodes; 25 - one possible lymph node; 26-28 - one possible lymph node each;29 - two lymph nodes; 30 - fat containing possible lymph nodes. 
+(QR/ec  19.2.62) 
+MICROSCOPIC (reported by Dr Z Bierwagen):
+Both tumours described macroscopically show invasive adenocarcinoma with similar morphology.  Both tumours invade beyond muscularis propria.  The features of both tumours are as follows:
+
+Macroscopic Description
+
+Site of tumour:  Ascending colon. 	
+Maximum tumour diameter:   20 and 45mm
+Distance of tumour to nearer cut end:  85mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Mucinous carcinoma
+Differentiation by predominant area
+Moderate to poor
+Local invasion
+pT3	Beyond muscularis propria (both tumours)
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymph nodes
+Number of lymph nodes present: 18.	
+Number of lymph nodes involved:  1.	
+pN1a	Metastases in 1 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas:  Tubular adenoma with high grade dysplasia, serrated adenoma. 
+Other:  Hyperplastic polyps x 4.  Prominent lymphoid aggregates are present along the outer edge of muscularis propria. 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear stainingS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining 
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatelliteinstability phenotype.
+Summary - TNM 7th Edition
+pT3     pN1a     pMX    R0
+

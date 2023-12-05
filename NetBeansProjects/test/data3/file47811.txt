@@ -1,0 +1,43 @@
+SPR no: 86J532132Q
+MRN no: 8635321
+Site_name: THE TWEED HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+ADDITIONAL REPORT (29.7.2066)
+CLINICAL:
+Pelvic mass Ca 125 53.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of an ovary with attached fallopian tube.  The ovary measures 105 x 60 x 60mm with an intact serosa.  The fallopian tube measures 35mm in length.  The ovary has a solid cut surface with small cystic areas.  There is no calcifications or necrosis identified.  Blocks: 1 - frozen section cystic area; 2 - frozen section, solid area; 3 to 8 - further sections, through mass; 9 - RS fallopian tube.
+
+FROZEN SECTION REPORT:
+Consistent with fibroma.
+Result to Dr Tjingali by Dr X Sear at 3:15pm on 10/09/70.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a fallopian tube, measuring 38 x 8mm with ovary measuring 22 x 17 x 14mm.  No lesions are seen on sectioning.  RS.  Blocks: 1 - tube; 2 - ovary.
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of omental fat, 140 x 60 x 10mm.  No nodes or masses are identified.  RS 3 blocks.
+
+D.  Specimen labelled &amp;quot;Right pelvic side wall peritoneum&amp;quot;, consists of a piece of tan and fatty tissue, measuring 23 x 20 x 3mm.  Serially sliced and AE 1 block.   (TO:AP/ta 7/10/70)
+
+
+MICROSCOPIC (Reported by Dr X Musigdilok):
+A.  Sections show an ovarian mass composed of short spindle cells arranged in a whorled and interlacing pattern with variable collagen deposition.  There are hypercellular and hypocellular areas.  Mitotic rate is 1 per 10 high power field.  No evidence of necrosis.  Focal calcification present.  Oedematous areas are seen with small cystic spaces without any epithelial lining.  These probably represent cystic degeneration.  The tumour is fairly well demarcated.  No other sex cord stromal elements noted.  Tubal tissue shows  epithelial dysplastic changes in multiple foci amounting to high grade serous dysplasia/ in situ change.These patchy areas show epithelial stratification ,nuclear atypia,mitoses and loss of cilia.  Immunohistochemistry shows positive staining with P53 and scattered Ki 67 positivity.  No evidence of invasive carcinoma.
+The tubal changes were discussed with Dr QUINN KRAVITZ
+
+B.  Ovarian tissue is unremarkable containing hyalinised corpora albicantia.  Tubal tissue shows multiple foci of intraepithelial dysplasia with nuclear atypia mitosis and stratification of the epithelium amounting to high grade dysplastic change.  No evidence of invasive carcinoma.
+
+C.  Omental tissue shows lobules of fatty tissue.  No evidence of tumour.
+
+D.  Sections show fibrofatty tissue.  No evidence of tumour.
+
+
+DIAGNOSIS:
+A.  Right tube and ovary:  Benign ovarian fibroma and patchy tubal high grade intraepithelial dysplasia.  No evidence of invasive carcinoma.
+B.  Left tube and ovary :Ovary is unremarkable, fallopian tube shows multiple foci of high grade intraepithelial dysplasia.  No invasive carcinoma.
+C.  Omental biopsy:  No abnormality.
+D.  Right pelvic side wall peritoneum:  No abnormality.
+ADDITIONAL REPORT (Reported by Dr X Snith 25.10.2067):
+The case was reviewed for the Gynaecological Oncology Tumour Board Meeting.  The sections of both fallopian tubes show patchy areas of tubal epithelium where the nuclei show some atypical features of nuclear crowding and mild enlargement and hyperchromasia.  Although increased p53 staining is seen very focally in both fallopian tubes, this staining pattern appears non-specific and there is no accompanying increase in the Ki-67 proliferation index.  The remainder of the fallopian tubes have been embedded and these slides show no significant abnormality.
+Overall, the degree of atypia present falls well short of (serous) tubal intraepithelial carcinoma and the fallopian tubes are best regarded as showing no clinically significant abnormality.
+Representative slides of the fallopian tubes have also been reviewed by Dr X Degeston, who agrees with this interpretation.

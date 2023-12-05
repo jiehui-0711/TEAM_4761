@@ -1,0 +1,90 @@
+Episode No:  45F774595D
+451774.PYP
+
+Blasius, Rich 
+Lab No:  45F77459
+High Low
+BARMERA  Western Australia  2291
+Specimen: Tissue
+D.O.B:  27/6/1988
+Sex:  F
+Collected: 23/01/2013 at 16:39:  Pathology North-KILCOY HOSPITAL
+DR Dalton REFUGIO YONEOKA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+(L) breast cancer with +ve axillary LN - wire guided excision + axillary dissection.
+[45F77459 - IDC].  
+MACROSCOPIC:
+A.  Specimen labelled "Left breast; short stitch superior, long stitch lateral, medial stitch medial" consists of a piece of breast tissue withthree stitches as described on the label measuring 77mm (lateral to medial) x 60mm (superior to inferior) x 40mm (superficial to deep).  A guide wire is seen going through the specimen with both of its tips outside the specimen.  Margins are inked in three colours:  Superior red, superficial green and deep black.  Specimen is serially sliced from lateral to medial into ten slices.  There is a pale indurated tumour present in slices 6 to 8 measuring 14 x 23 x 22mm.  The tumour is 25mm from lateral, 12mm from medial, 7mm from superior, 2mm from inferior, 5mm from superficial margins.  It appears to abut the deep margin.  
+Blocks:  1 - slice 1 (lateral margin); 2 & 3 - slice 2; 4 to 6 - slice 3; 7 to 10 - slice 4; 11 to 14 - slice 6; 15 to 18 - slice 7 (block 17 - ER, PR, HER-2, KI67 requested); 19 to 22 - slice 8; 23 to 26 - slice 9;  27 & 28 - slice 10 en face (medial margin).  Please see the diagram and the x-rays.  
+B.Specimen labelled "New inferior margin stitch at margin" consists of a piece of fibrofatty tissue, 45 x 40 x 15mm.  There is a stitch on one surface marking the new inferior margin (inked green).  The other surface is left uninked.  Specimen is serially sliced.  No indurated nodules are seen.  AE 8 blocks.  
+C.  Specimen labelled "Axillary clearance left breast" consists of an unorientated piece of fibrofatty tissue, 80 x 70 x 60mm.  Specimen issliced.  There are several lymph nodes within the specimen.  Some of which are indurated.  The largest lymph node is 33mm in maximum dimension and is indurated. 
+Blocks:  1- representative from the indurated lymph node; 2 - one bisected lymph node; 3 - one lymph node; 4 - one bisected lymph node; 5 - one bisected lymph node; 6 - one bisected lymph node; 7 - one lymph node; 8 - one trisected lymph node; 9 - one lymph node.  (TO: SG  MR/mm 27.3.63) 
+MICROSCOPIC:  (Reported by Dr M Martiniz):
+A.  Sections show a grade 3 infiltrating ductal carcinoma (IDC), Bloom and Richardson score 9 (t = 3, n = 3, m = 3).  The IDC is poorly circumscribed and is present in slices 6 to 10 (5 slices).  The estimated tumour size is 35mm (medial-lateral) x 30mm (superior-inferior) x 25mm (superficial-deep).  The superficial margin is positive in two (2) of the slices and the deep margin is close (clearance 0.6mm).  IDC also infiltrates close to the medial margin with tumour present in the most medial slice (slice 10).  However, the IDC 'cuts out' on levelling through this slice and the estimated clearance is 1mm.  The superior and inferior margins are both 4mm clear and the lateral margin is well clear (no tumour in slices 1 to 5).
+There is a modest amount of high grade DCIS (solid, cribriform, comedo) confined to the IDC but not outside of it.  There is no DCIS close tothe excision margins.
+B.  The new inferior margin has been totally blocked and there is no DCIS or IDC.
+C.  One (1) of the nine (9) left axillary nodes identified is almost totally replaced by IDC.  There is a minor degree of perinodal spread.
+DIAGNOSIS:
+A, B, C.  Left breast wide local excision and new inferior margin plus left axillary dissection:
+Invasive carcinoma:
+Site:  Left breast, WLE
+Type:  Infiltrating ductal carcinoma 
+Invasive tumour size:  35 x 30 x 25mm
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3    Nuclei:  3    Mitoses:  3    Mitotic rate:  15/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  Confined to the IDC
+Nuclear grade:  High
+Architecture:  Solid, cribriform, comedo
+Degree of DCIS in tumour:  <25%
+DCIS in adjacent tissue:  None/minimal
+Excision Margins:  
+Invasivecomponent:
+Superficial:  POSITIVE
+Deep:  0.6mm
+Inferior:  4mm (plus specimen B)
+Superior:  4mm:  1 mm (estimate)
+Lateral:  Well clear
+In-situ component:
+DCIS confined to the IDC.  The DCIS is clear of all margins including superficial and deep.
+Receptors (Block A17): 
+ER:  Positive
+	>95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	80% of nuclei stained
+	predominant intensity of staining:  Moderate  
+HER2 (Novocastra 10A7):  Equivocal (2+)
+Slides sent to TIMBOON & DISTRICT HEALTHCARE SERVICE Hospital pathology for CISH.
+Ki-67 index:  30%
+Nipple:  N/A
+LCIS / ALH:  Absent   
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  9
+Number of axillary lymph nodes involved by tumour:  1    
+Number of axillary nodes with metastases >2.0mm:  1
+Extranodal spread:  Present 0.5mm in extent
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  9
+Total number of involved lymph nodes (including sentinel node(s)):  1
+ADDITIONAL REPORT, HER 2 IN SITU HYBRIDISATION: 13/5/63.
+Source of material:  Baker Hughes Incorporated WYNDHAM HOSPITAL.\
+Material recie4ved:  4 slides labelled "45F77459 - A17 Lindsay.
+CLINICAL NOTES:  IDC grade 3.  
+HER-2 IHC result:  Equivocal (2+).
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 DualISH result:  NEGATIVE (non amplified, diploid),
+Mean HER2 copy number per cell:  2.6
+Mean CEP17 copy number per cell:  2.4
+HER2/CEP17 Ratio:  1.08
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 < 1.8
+Equivocal:  HER2/CEP17 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2    
+

@@ -1,0 +1,54 @@
+SPR no: 78M8087395
+MRN no: 7848087
+Site_name: NAMBOUR GENERAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (28.12.2066)
+
+CLINICAL:
+HG serous ovarian ca.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, bilateral tubes and ovaries&amp;#8221; consists of a uterus with attached cervix, bilateral tubes ( left tube and ovary are detached) and right ovary weighing 40g without the left adnexa, 51g including the left adnexa.  The uterus measures 60 x 40 x 20mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 30mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium measures up to 9mm.  The myometrium shows a single fibroid measuring 3mm in maximum diameter.  The right fallopian tube measures 30mm in length with an outer diameter 7mm.  The ovary measures 18 x 15 x 6mm.  Cut surface of the right ovary is pale tan.  The left tube measures 40mm with an outer diameter of 7mm.  The ovary measures 30 x 15 x 14mm.  Cut surface of the ovary is pale tan.
+Blocks:  1 to 4 - full longitudinal sections of anterior body to cervix; 5 - RS of fibroid; 6 to 8 - full longitudinal sections of posterior; 9 to 16 - all of the right adnexa+ para soft tissue (9 to 11 - fallopian tube, 12 to 16 - ovary + paraovarian tissue); 17 to 25 - all of left adnexa + para soft tissue tissue (17 to 20 - fallopian tube, 21 to 25 - left ovary + paraovarian soft tissue).
+
+B.  Specimen labelled &amp;#8220;Omentum&amp;#8221; consists of a fatty tissue measuring 150 x 110 x 40mm.  Cut surface shows uniform fibrofatty tissue with a focal area of fibrous pale white area.  Representative sections embedded in 4 blocks (3&amp;amp;4 - representative sections fibrous area).
+
+C.  Specimen labelled &amp;#8220;Appendix&amp;#8221; consists of an appendix measuring 45mm in length with an outer diameter of 7mm.  Mesoappendix measures up to 15mm.  The serosal surface appears smooth and shiny with congested vessels.  Cut surface shows a patent lumina.  AE.
+Blocks:  1 - two longitudinal sections of base; 2 - transverse sections; 3 - two longitudinal sections of tip.
+
+D.  Specimen labelled &amp;#8220;Cul-de-sac &amp;#8221; consists of a single piece of tan brown tissue measuring 10 x 9 x 5mm.  AE 1 block.  (LM/ua 12.7.66)
+
+
+MICROSCOPIC (Reported by Dr T Ricardez):
+A.  Sections show high grade serous adenocarcinoma involving uterine serosa and bilateral adnexal tissue including bilateral fallopian tubes, bilateral ovaries and surrounding soft tissue.  The tumour shows prominent papillary architecture with extensive psammoma type calcification.  Majority of tumour is in the left ovary and soft tissue surrounding the left fallopian tube.  In block A10, the tumour is present in the lumen of right fallopian tube but no definite invasion of muscle wall is seen.  Psammoma calcification is also seen in the fimbriae of right fallopian tube (block A9).  There is no evidence of lymphovascular or perineural invasion.  The endometrium of uterus is atrophic.  A small leiomyoma is seen in block A5.  The cervix is unremarkable.
+
+B.  Sections show omental tissue with focal areas of fibrosis.  Extensive psammoma type calcification is seen throughout the fibrous tissue.  No definite tumour cells are seen.
+
+C.  Sections of appendix show no significant abnormality.  No inflammation is seen.  There is no evidence of malignancy.
+
+D.  Sections show fibrofatty tissue with foci of high grade serous adenocarcinoma.  There is extensive psammoma type calcification.
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, bilateral fallopian tubes and ovaries - High grade serous adenocarcinoma.
+
+B.  Omentum - Fibrosis and psammoma type calcification.
+
+C.  Appendix - No significant abnormality.
+
+D.  Cul-de-sac - High grade serous adenocarcinoma.
+
+
+SUPPLEMENTARY REPORT (Reported by Dr T Derwin 28.12.2066):
+MSI immunohistochemistry was performed as requested.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

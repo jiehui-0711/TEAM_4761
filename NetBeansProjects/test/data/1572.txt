@@ -1,0 +1,27 @@
+
+ 7736381.TCK
+MEUNIER, Chauncey Merrilee
+77I63817
+
+Last edited : 22/7/2064		Page: 2
+CLINICAL:
+GBM, Dx 8/61.  For repeat crani and further resection of brain tumour.  Left frontal recurrent GBM.
+MACROSCOPIC:
+Specimen labelled "Left frontal tumour"consists of multiple fragments of cream coloured and red solid tissue 50 x 25 x 6mm in aggregate.  AE 2 blocks.
+(TO: GU; CX/rt 17.7.64)
+MICROSCOPIC (Reported by Dr U Hoehne):
+The entire specimen has been blocked.  Sections show pieces of cerebral cortex and white matter.  The pieces are variably involved by a cellular tumour.  The tumour cells have oval, moderately pleomorphic nuclei and indistinct cytoplasm.  Mitoses are identified and there is microvascular proliferation.  No necrosis is seen.  The appearances are of recurrent glioblastoma.
+Immunohistochemical stains:
+GFAP:   Patchy positive staining of tumour cells.  Also highlights a moderate number of reactive astrocytes.
+IDH1:   Positive.:   Moderate number of positive cells.
+Ki-67:   Variable proliferation index, up to 20% in some areas.
+Molecular tests: 
+Tissue will be forwarded to the LOCKHART & DISTRICT HOSPITAL Cancer Centre for MGMT testing and a supplementary report issued.
+Block for potential treatment trial (if required):
+Viable tumour, with less procedural artefact, is best seen in block 7.
+
+DIAGNOSIS:
+Left frontal tumour:  Recurrent Glioblastoma (WHO grade 4).
+
+
+

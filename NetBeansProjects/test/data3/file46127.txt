@@ -1,0 +1,42 @@
+SPR no: 19E362960W
+MRN no: 3735420
+Site_name: SPRINGSURE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+History of presenting complaint.  Abdominal bloating since 0 11.2068.  Heavy vaginal bleeding in 0 12.2068 on background of irregular periods over the last few months.  Weight gain, 24kg over last three months prior to presentation.  15/6/69:  US pelvis :  Large complex multiseptated cystic and likely solid mass 20 x 17 x 21cm within the pelvis superior to the fundus of the uterus.  Moderate to markedly enlarged uterus with moderate amounts of simple fluid within the endometrial cavity.  MRI.  PET 26/6/69: There is moderate to intense abnormal metabolic activity centered on the uterine cervix, highly suspicious for a primary.  Please note:  Two request forms.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a dilated fallopian tube measuring 95 x 16mm and an ovary measuring 210 x 160 x 70mm with several serosal ruptures measuring 10 to 15mm in maximum dimension.  The cut surface shows a multiloculated cyst with clear fluid and multiple haemorrhagic areas.  No solid areas are identified.  Three RS for frozen section.
+Blocks: 1 to 3 - frozen section; 4 to 6 - fallopian tube; 7 to 20 - further RS through ovary.
+
+FROZEN SECTION REPORT:
+Mucinous tumour - has a borderline appearance, however await paraffins for definitive diagnosis.  Requested removal of appendix (nil gross palpable pancreas abnormality).
+Result to Dr Chong/Dr Horace by Dr D Kurter/Dr D Ecoffey at 16:50 on 11/05/67.
+
+B.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a dilated fallopian tube measuring 100 x 15mm with attached ovary measuring 150 x 130 x 50mm.  The serosal surface has multiple ruptures measuring 40 to 60mm in maximum dimension.  On opening the cut surface has a multilocular cystic appearance with cyst containing serous to mucinous fluid.  No discrete solid areas are identified.  Blocks: 1 to 3 - fallopian tube; 4 to 17 - RS through ovary.
+
+C.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a vermiform appendix measuring 35 x 10mm with mesoappendix to a depth of 17mm.  The serosal surface is smooth and shiny.  There is no evidence of fibrinopurulent exudate, attached mucinous material or perforation.  The wall measures up to 4mm thick and the lumen appears patent.  No lesions are identified.  Blocks: 1 - tip; 2 - mid TS; 3 - base.  All of appendix embedded.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of an omental cake measuring 290 x 140 x 40mm.  The serosa is diffusely dull with haemorrhage.  The cut surface has a heterogenous appearance with yellow fat interspersed with areas of fat necrosis and pale tumour deposits measuring up to 18mm in maximum dimension.  RS 3 blocks.  (TO:WB/ta 13/5/70)
+
+
+MICROSCOPIC (Reported by Dr D Forch)
+A and B. Sections of both ovaries show well differentiated mucinous adenocarcinoma. The majority of the tumour are composed of rounded cysts lined by tumour cells have bland ovoid nuclei, and abundant intracytoplasmic mucin, morphologically resembling borderline mucinous tumour. In addition, there are irregularly shaped glands lined by tumour cells with pleomorphic, hyperchromatic nuclei and prominent nucleoli, consistent with severe nuclear atypia. No lymphovascular invasion is seen.
+Deposits of mucinous adenocarcinoma are also present in the left and right fallopian tubes.
+Immunohistochemistry:
+CDX2: -ve
+CK7:  +ve
+CK20:  -ve
+PAX8: +ve
+p16: -ve
+C. The entire appendix has been embedded. Sections show appendix of a small focus of endometriosis at the tip. A small diverticulum is also present. There is no evidence of malignancy.
+D. Sections show omentum with extensive metastatic well differentiated mucinous adenocarcinoma.
+COMMENT
+Positive PAX8 staining would favour an ovarian primary. However, in view of the PET finding of intense metabolic activity in the cervix, an endocervical primary cannot be excluded.
+Shown to Dr Saul Laughman.
+DIAGNOSIS
+A and B. Left and right ovaries and fallopian tubes: well differentiated mucinous adenocarcinoma in both ovaries and fallopian tubes (see comment)
+C. Appendix: focal endometriosis, no evidence of malignancy
+D. Omentum: metastatic mucinous adenocarcinoma

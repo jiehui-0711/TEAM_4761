@@ -1,0 +1,40 @@
+ 9524432.BLS
+LUECHT, JARRETT
+95F44320
+
+Lastedited : 30/1/2063		Page: 2
+
+CLINICAL:
+Radical prostatectomy.  Gleason 4 + 5 + 9 on biopsy.
+MACROSCOPIC:
+A. Specimen labelled "Prostate gland"consists of a prostate gland with attached vas deferens and seminal vesicles weighing 35.1g in total and measuring 40mm (medial to lateral) x 30mm (apex to base) x 30mm (anterior to posterior margin).  The right seminal vesicles measures 25mm in length, 15mm in maximum diameter.  The left seminal vesicles measures 20mm in length, 15mm in maximum diameter.  The right vas deferens is 20mm in length, 5mm in diameter.  The anterior margin of the prostate is inked blue.  Theposterior margin is inked black.  The right lateral margin is inked yellow.  Left lateral margin is nick.  The specimen is serially sectioned from the apex to the base into five slices.  Slice number one is the apex.  Slice number fiveis the base.  On sectioning the cut surface has a lobulated appearance with small cystic areas from 1 to 3mm.  AE according to the attached diagram.
+Blocks:  1 to 9 - slice number one (apex); 10 - slice two; 11 - slice three; 12 - slice four; 13to 26 - slice number five (base); 27 - resection margin right vas deferens; 28 to 29 - rest of vas deferens; 30 - resection margin left vas deferens; 31 to 32 - rest of the left vas deferens; 33 to 35 - right seminal vesicle; 36 & 37 - left seminal vesicle.  (TO: OD; UM/rt 28.1.63)
+B. Specimen labeled "Left seminal vesicle" consists of seminal vesicle measuring 10 mm. AE 1 block. 
+MICROSCOPIC (Reported by Dr X Devault):
+A and B.
+RADICAL PROSTATE PROFORMA
+Histological type:  AdenocarcinomaNOS
+Tumour location:  Bilateral apex to base
+Dominant nodule:  Right apex to base 
+	Non-dominant (>10mm): Not seen
+	Smaller nodules: Present, left mid
+Volume/Size (dominant nodule): 6.5ml (30mm x 30mm x 16mm x 0.0004) 
+Gleason score:  4+5=9
+Extraprostatic extension: Present
+	Right lateral base, Gleason 5, 5mm into fat over a10mm front, with perineural and lymphovascular invasion (A13)
+
+Surgical margins: Positive
+	Right posterolateral base, Gleason 5, with and without extracapsular spread over a 14mm front (5 slices, A13 to 17)
+	Midapex, Gleason 5 over a 2mm front, without extracapsular spread (A4)
+	Right mid lateral, Gleason 4 over a 0.2mm front, without extracapsular spread (A3)
+
+Perineural invasion: Present,multifocal (intra and extraprostatic)
+Seminal vesicles: Right seminal vesicle, right and left vasa deferentia involved
+Lymphovascular invasion: Present, multifocal
+DIAGNOSIS:
+A and B. Radical prostatectomy: Adenocarcinoma, Gleason score 4+5=9
+Stage (AJCC/UICC TNM system, 7th edition)
+pT3b Seminal vesicle invasion 
+pNX Regional lymph nodes not sampled. 
+MX Cannot be assessed histologically
+

@@ -1,0 +1,44 @@
+
+Episode No:  88Z898932E
+889898.YIG
+
+Wymer, MORGAN 
+Lab No:  88Z89893
+SURFSIDE
+SILVERDALE    1203
+Specimen: Tissue
+D.O.B:  17/5/2033
+Sex:  F
+Collected: 22/5/2063 at :
+Location:  Tissue Pathology and Diagnostic Oncology-FRANKSTON PUBLIC SURGICAL CENTRE
+DR Adalberto Luigi BURMAN
+Distribution:   FILE-COPY
+CLINICAL:
+Radical distal pancreatectomy + LN dissection.
+[Additional history provided by Dr V Plana:  A young patient seen on 22 April 2063 with a pancreatic mass in tail of pancreas which extends to mesocolon.  Probably solid papillary pseudotumour ?neuroendocrine carcinoma, ?sarcoma.  Less likely to be a carcinoma.  Patient from countryside.  No previous biopsy of any previous pathology].
+MACROSCOPIC:
+Specimen labelled "Radical distal pancreatectomy" consists of a tail of pancreas attached to spleen and a piece of omentum.  The omentum measures 170 x 30 x 5mm and appears macroscopically unremarkable.  The spleen measures 130 x 100 x 30mm.The external appearance and cut surfaces of the spleen are unremarkable.  The tail of the pancreas is markedly expanded by a tumour mass and measures 120 x 70 x 60mm.  It has a multinodular external surface and is partly covered by adipose tissue.  Multiple enlarged lymph nodes are identified.  Macroscopically the tumour is 25mm from the pancreatic resection margin.  The superior margin is inked red, the inferior margin is inked green, the anterior margin is inked blue and the posterior margin is inked black.  The pancreas is serially sectioned from the pancreatic margin (slice 1) to the splenic hilum (slice 15).  On sectioning there is a large irregular poorly defined solid tumour with areas of haemorrhage and necrosis.  The tumour abuts the anterior and inferior margins.  Representative sections are taken according to the attached diagram.
+Blocks:  1 - resection margin of pancreas; 2 to 9 - slice 6; 10 to 17 - slice 7; 18 to27 - slice 9; 28 to 33 - slice 12; 34 & 35 - slice 15 (distal pancreas); 36 - one bisected inferior pancreatic lymph node; 37 - one bisected superior pancreatic lymph node; 38 & 39 - four possible splenic hilum lymph nodes; 40 & 41 - representative spleen; 42 to 44 - representative omentum.  Please see attached diagram.  (NZ/cc 23/5/63) 
+ 
+MICROSCOPIC (Reported by Dr V Hirsh): 
+Sections show a cellular tumour.  The tumour cells are in sheets and trabeculae and have medium sized and large, vesicular nuclei and generally scanty basophilic cytoplasm.  Many of the nuclei have one or more small nucleoli.  There are occasional ribbons of cells but no gland formation or other definite differentiating features are seen.  There is prominent, patchy tumour necrosis and mitoses are frequent.  Tumour is seen extensively infiltrating residual normal pancreas and also invades intoextra-pancreatic fat and other soft tissue.  Lymphovascular invasion by tumour is identified at least focally.  Tumour surrounds nerves within and adjacent to the tail of pancreas but no definite perineural invasion is identified.  Residual tail of pancreas distal to the tumour is atrophic.  
+IMMUNOSTAINS:
+Pan Cytokeratin - Strongly positive. 
+MIC-2 (CD99) - Some patchy positive staining.
+CD56 -  Negative.
+CD20 -  Negative.
+CD3 -  Negative.
+Ki67-  High proliferation index, around 30%.
+Chromogranin -  Negative.  
+Synaptophysin -  Negative.
+Alpha 1 antitrypsin -  Negative.  
+Alpha 1 antichymotrypsin -  Negative.  
+Alpha fetoprotein - Negative.  
+The appearance with routine staining and the immunophenotype are most consistent with an acinar cell carcinoma of pancreas.  These are rare pancreatic tumours and are highly aggressive.  
+Tumour extends to superior, anterior and inferior excision margins around the pancreatic tail.  It also focally extends to the posterior excision margin.  The pancreatic resection margin is free of tumour.  
+A total of 15 peripancreatic and splenic hilar lymph nodes were identified in the specimen and there is metastatic carcinoma involving three of these nodes.  One involved node was present inferior to the pancreatic tail, another was just superior to the pancreatic tail and a third just posterior to the tail.  
+Representative sections of the spleen are unremarkable.  Sections of the omentum show a few small foci of infiltration bylymphocytes and some mild patchy surface mesothelial reactive change but the omentum is otherwise unremarkable.  One unremarkable lymph node is also noted in the omentum.  A small amount ofnormal adrenal tissue was also identified at the splenic hilum.  
+DIAGNOSIS:
+Radical distal pancreatectomy:  Acinar cell carcinoma of pancreas with lymph node metastases (3/16). 
+ 
+

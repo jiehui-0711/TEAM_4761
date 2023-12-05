@@ -1,0 +1,42 @@
+SPR no: 56H544492K
+MRN no: 5625444
+Site_name: CALVARY HEALTH CARE SYDNEY LTD
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (5.4.2067):
+
+SUPPLEMENTARY REPORT (24.4.67):
+
+CLINICAL:
+Left thigh sarcoma for tissue histopath stitch marked short superior, medium medial, long lateral.
+
+
+MACROSCOPIC:
+Received fresh and tissue banked from deep margin.
+Specimen labelled &amp;quot;Short superior long lateral medium medial left thigh sarcoma &amp;quot;, consists of an orientated piece of fibrofatty tissue with an overlying skin ellipse.
+The skin ellipse runs superior to inferior and measures 120 x 24mm.  The specimen measures 125mm superior to inferior x 115mm medial to lateral x 40mm superficial to deep.  The deep margin is inked black, lateral red and medial blue.  Specimen serially sliced from superior to inferior into twelve slices.  On sectioning a well circumscribed rounded tumour is identified.  The tumour measures 45mm superior to inferior x 60mm medial to lateral x 30mm superficial to deep.  The tumour appears completely excised and is 3mm from  the deep margin, 35mm from the superficial skin margin, 12mm from the lateral margin and 30mm from the medial margin. There is a nodular extension of tumour from the main mass; this is contiguous with the main tumor and measures 17 x 15 x 12mm.
+Blocks: 1 and 2 - LS superior margin; 3 to 15 - full face slice six; 16 to 19 - RS nodular extension of tumour adjacent to tumour in slice eight; 20 to 23 - RS nodular extension of tumour in slice nine; 24 and 25 - LS inferior margin.  Please refer to attached block key diagram.  (TO: MS;MS/vo 19.4.67)
+
+
+MICROSCOPIC (Reported by Dr N Dildine):
+Sections show a circumscribed tumour with surrounding fibrofat.  The tumour is cellular.  It consists of a plump oval and spindle shaped cells with rather bland nuclei, pale or eosinophilic cytoplasm and poorly defined cell borders.  The cells have a haphazard arrangement.  There is patchy myxoid change with some associated microcyst formation, and elsewhere a more fibrous appearance with some hyalinisation.  Some ectatic vessels and other small staghorn-like vessels are noted.  There is patchy tumour necrosis and numerous mitoses are identified, numbering up to around 6 per 10 high power fields.  No lymphovascular or perineural invasion is identified.  A few thrombosed small vessels are noted in the tumour.
+With immunostains, tumour cells show strong and diffuse positive staining for CD34.  There is patchy positive staining for bcl-2 and epithelial membrane antigen, and there is also some patchy positive staining for pancytokeratin.
+Stains for mic-2 (CD99), desmin, smooth muscle actin, S100, and p63 are negative.
+The proliferation index with a Ki-67 stain is around 7%.
+
+The appearances are favoured to be those of a malignant solitary fibrous tumour.  Slides will be sent to MILTON ULLADULLA HOSPITAL Hospital for a STAT 6 immunostain and a supplementary report issued.  If the STAT 6 stain is negative then the tumour is best regarded as an undifferentiated pleomorphic sarcoma (malignant fibrous histiocytoma).
+Most of the tumour is surrounded by a fibrous capsule.  Excision of the tumour is complete.  The tumour is 1mm from the lateral margin of the closest point (block 17) and 4mm from the deep margin.  It is greater than 10mm from medial, superior, inferior and superficial margins.
+Representative slides have also been viewed by Dr N Laughlin.
+
+
+DIAGNOSIS:
+Left thigh:  Spindle cell sarcoma, favour malignant solitary fibrous tumour, see text.
+
+
+SUPPLEMENTARY REPORT (24.4.67):
+With further immunostains, the tumour cells do not stain for ALK-1 or HMB-45.
+The diagnosis is unchanged.
+
+
+SUPPLEMENTARY REPORT (5.4.2067): Dr N Peabody
+STAT6 immunohistochemistry (WALGETT HEALTH SERVICE) shows focal nuclear positivity, in keeping with the morphologic impression of a solitary fibrous tumour.

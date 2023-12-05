@@ -1,0 +1,101 @@
+SPR no: 93K025993H
+MRN no: 0692303
+Site_name: FORBES DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pancreatic carcinoma.
+
+Additional history obtained from EMR:  prior neo-adjuvant chemotherapy in ROYAL PRINCE ALFRED HOSPITAL.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Whipple and omentum&amp;quot;, consists of an omentum with a pancreaticoduodenectomy (partial pancreatectomy) and attached gallbladder.  The omentum measures 225 x 110 x 23mm.  The duodenum measures 240 x circumference 70mm.  The gallbladder measures 100 x 36 x 38mm.  The pancreas measures 57 x 50 x 32mm.  A stent is located within the ampulla.  One stitch marks the portal vein groove (inked blue, two stitches mark the superior mesenteric artery groove (inked green), three stitches mark the uncinate process (inked black).  The pancreatic neck margin is inked green.  The posterior surface is inked yellow.
+
+On sectioning the tumour is located within the pancreatic head. The tumour has a yellow lobulated appearance.  It measures approximately 48 x 48 x 29mm and appears to abut the posterior surface as well as the portal vein and SMA grooves and uncinate process.
+
+The gallbladder appears unremarkable. The serosa is intact.  The mucosa appears green and velvety.  There are no gallstones found.  No obvious lesions are identified on the omentum.  On the duodenum the proximal margin is inked black and the distal margin is inked blue.  Blocks 1-3 - RS omentum; 4 - proximal and distal duodenal margins; 5 &amp;amp; 6 - gallbladder (5 - cystic duct and body; 6 - fundus); 7 &amp;amp; 8 - serial sections cystic duct margin; 9 &amp;amp; 10 - serial sections pancreatic neck margin; 11 &amp;amp; 12 - lymph nodes from mesentery; 13-20 - sections of pancreas (13- slice 1; 14 - slice 2; 15 - slice 3; 16 - slice 4; 17 - slice 5; 18 - slice 6; 19 - slice 7; 20 - slice 8).  (OJ/ec/eh 17.5.70)
+
+B.  Specimen labelled &amp;quot;Caeliac node&amp;quot;, consists of fibrofatty tissue, 30 x 13 x 10mm.  One lymph node is found.  Blocks: 1 - lymph node quadrisected.
+
+C.  Specimen labelled &amp;quot;SMA lymph node&amp;quot;, consists of a fibrofatty piece of tissue, 30 x 25 x 4mm.  One lymph node is found.  Blocks: 1 - lymph node in five pieces.
+
+
+MICROSCOPIC (Reported by Dr Z Haessly):
+A. Sections show moderately differentiated pancreatic adenocarcinoma measuring 24 mm, based in the head of pancreas.  Large areas of fibrosis and acellular mucin pools of present in approximately 50% the lesion, consistent with treatment effect.
+The lesion extends into the duodenal wall. Tumour with perineural invasion is present in the soft tissue adjacent to the extrapancreatic portion of the common bile duct. Fibrosis with a single nest of residual tumour is present in the wall of the intrapancreatic portion of the stented common bile duct.
+High-grade dysplasia is present in the main pancreatic duct and its branches, and is 6mm clear of the pancreatic neck margin. Ulceration of the main pancreatic duct and chronic pancreatitis are also present at the pancreatic neck.
+Focal low-grade dysplasia is present in the common bile duct, clear of the margins.
+The gallbladder shows chronic pancreatitis. There is no evidence of dysplasia or malignancy.
+The omentum shows no evidence of malignancy.
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 2: Moderately differentiated (post treatment)
+
+Tumour sites
+Head of pancreas
+
+Extent of tumour invasion
+Duodenal wall
+Intrapancreatic common bile duct
+Soft tissue adjacent to extrapancreatic common bile duct (with perineural invasion)
+
+Maximum tumour diameter
+24mm (4 slices)
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Present, multifocal
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Present, high grade dysplasia is seen in the main pancreatic duct and its branches, and is 6mm clear of the pancreatic neck margin (A10).
+
+Margins, invasive tumour:
+Pancreatic neck:  7mm
+Common bile duct:  &amp;gt; 10mm
+Portal vein (superior mesenteric vein): 0.6mm (A14)
+Superior mesenteric artery: 2mm (A16)
+Periuncinate soft tissue:  &amp;gt; 10mm
+
+Surfaces:
+Anterior: &amp;gt; 10mm
+Posterior:  &amp;gt; 10mm
+
+Lymph nodes:
+Number found:   16
+Number involved: 0 (with no treatment response identified)
+
+Response to neoadjuvent therapy (modified Ryan)
+Grade 2 (partial response) - Residual cancer with evident regression, but more than single cells or rare small groups of cancer cells
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (ypT)
+T2		Tumour &amp;gt;2 cm and &amp;#8804;4 cm in greatest dimension
+
+Regional lymph node category (ypN)
+N0		No regional lymph node metastasis
+
+Distant metastasis category (ypM)
+MX 		Not assessable by histology
+
+B. Sections show a lymph node with no evidence of malignancy.
+
+C.  The specimen has been all embedded. Sections show a 10 mm ganglion with attached nerves and fat. No lymph node tissue is identified.
+
+DIAGNOSIS
+A. Pancreatico-duodenectomy (post treatment):
+- 24mm moderately differentiated pancreatic adenocarcinoma with partial treatment response
+- 16 lymph nodes with no evidence of malignancy
+- ypT2 N0 MX (AJCC 8th Ed.)
+B. Coeliac lymph node: no evidence of malignancy
+C. ? SMA lymph node: ganglion with no evidence of malignancy

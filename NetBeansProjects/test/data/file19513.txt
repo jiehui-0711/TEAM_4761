@@ -1,0 +1,44 @@
+SPR no: 93K642079E
+MRN no: 933642
+Site_name: THE ALFRED
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report93K64207 (93K642079E) SKILL, KARON
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Post radiotherapy.  Right groin node, posterior vulva suture at 12 o&amp;apos;clock.
+
+MACROSCOPIC:
+A.  &amp;quot;POSTERIOR VULVA MARKING 12 O&amp;apos;CLOCK&amp;quot;.  An irregular-shaped piece of skin with subcutaneous fat with a marking suture denoted 12 o&amp;apos;clock measuring 50mm 12 to 6 o&amp;apos;clock, 45mm 3 to 9 o&amp;apos;clock and up to 15mm in thickness.  On the surface is an irregular crusted plaque, 45x17mm.  The plaque is macroscopically 2mm to the 12 o&amp;apos;clock margin.  Specimen is inked 12 to 3 o&amp;apos;clock blue, 3 to 12 o&amp;apos;clock black and sliced according to diagram attached.  Entirely embedded.
+
+(1-3  LS of 3 o&amp;apos;clock margin; 5-8  transverse slices through ulcerated lesion 12 to 6 o&amp;apos;clock; 9&amp;amp;10  LS 1 o&amp;apos;clock; 11&amp;amp;12  sections to 6 o&amp;apos;clock margin; 13-16  12 and 6 o&amp;apos;clock margins; 17-20  9 o&amp;apos;clock LS).  AE (M-20).
+
+B.  &amp;quot;RIGHT GROIN NODE&amp;quot;.  A piece of fatty tissue, measuring 40x25x15mm containing one lymph node 33mm.  Lymph node shows two metastatic deposits, 14mm and 23mm.
+
+(1  larger deposit; 2  smaller deposit, one and two is a composite block; 3-6 rest of lymph node).  AE (M-6/JC/km).
+
+MICROSCOPIC:   (Dr. X. Millea)
+
+A.  Sections through vulval skin show residual ulcerated moderately differentiated keratinising squamous cell carcinoma with a maximum 3 to 9 o&amp;apos;clock dimension of 35mm.  The carcinoma has a depth of invasion of 4mm.  Adjacent changes of VIN III are present.  Perineural invasion by the carcinoma is seen.  Superimposed areas of regression with radiotherapy changes are seen.  Overall, the tumour appears viable with mitotic activity.  No lymphovascular invasion is seen.  Adjacent skin shows changes of lichen sclerosus et atrophicus.
+Local excision of the squamous cell carcinoma appears complete with a clearance of 3mm from the closest lateral and 3mm from the closest deep surgical margin of resection.
+
+Changes of VIN III extend focally to the 1 o&amp;apos;clock surgical margin of resection.
+
+B.  Sections show lymph node extensively replaced by extracellular keratin associated with ghosts of keratinised cells some of which retain atypical nuclei.  No extranodal spread is seen.
+
+COMMENT:  The appearances are in keeping with metastatic squamous carcinoma with prominent radiotherapy effect.
+
+TNM stage: pT1b, pN1b
+FIGO stage: IIIA
+
+DIAGNOSIS:
+A.  POSTERIOR VULVA:
+- MODERATELY DIFFERENTIATED KERATITINIZING SQUAMOUS CELL CARCINOMA.
+- SUPERIMPOSED RADIOTHERAPY CHANGES
+-VIN III.
+
+B.  RIGHT GROIN NODE:  METASTATIC KERATINIZING SQUAMOUS CELL CARCINOMA WITH RADIOTHERAPY EFFECT.
+
+6/12/2067 km

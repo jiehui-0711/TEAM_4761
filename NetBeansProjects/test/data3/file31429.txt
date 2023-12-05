@@ -1,0 +1,29 @@
+SPR no: 70B6763937
+MRN no: 7006763
+Site_name: MOYNE HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Recurrent ovarian cancer with small bowel obstruction.  High BMI, hypertension, hypercholesterolaemia.
+1.  Proximal ileum.
+2.  Distal jejunum.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Proximal ileum&amp;quot;, consists of an unoriented segment of small bowel measuring, 260mm in length to an open circumference of 45mm.  There is attached mesenteric fat to a depth of 30mm.  The serosal surface is diffusely dull with adhesions and pale nodules extending over the anti-mesenteric surface and onto the peritoneal surface of the mesenteric fat.  Macroscopic nodules are seen to within 15mm of the resection margin. The adhesions are causing kinks within the bowel wall with adherent segments measuring up to 70mm long.  The mucosa has regular tan folds and no mucosal lesions are identified.
+Blocks: 1 - resection margin; 2 - representative mesenteric peritoneal nodules; 3 &amp;amp; 4 - regions of nodular adhesions; 5 &amp;amp; 6 - sections through bowel with roughened serosal surface; 7 - resection margin with nearest nodule; 8 - mesenteric margin with adjacent nodule; 9 to 18 - peritoneal and mesenteric nodules, multiple per block.
+
+B.  Specimen labelled &amp;quot;Distal jejunum&amp;quot;, consists of an unoriented segment of small bowel measuring, 500mm in length to an open circumference of 40mm.  There is mesenteric fat attached to a depth of 35mm.  The serosal surface has patchy areas of adhesions and firm nodules which are also seen to extend over the peritoneum of the mesenteric fat.  Nodules are seen to within 7mm of the resection margin.  Located 190mm from one resection margin there is evidence of an anastomosis with scar formation.  There are multiple small areas of adhesion with consequent kinking of the loops of bowel wall.  The mucosa has regular tan folds and no mucosal lesions are identified.
+Blocks: 1 - resection margins; 2 - representative peritoneal nodules; 3 - anastomosis site; 4 - region of bowel loop adhesions; 5 &amp;amp; 6 - areas of roughened overlying serosa; 7 - nodule with adjacent margin; 8 - nodule with adjacent mesenteric margin; 9 to 19 - peritoneal and mesenteric nodules, multiple per block.  (TO:AP/rs 28/10/68)
+
+
+MICROSCOPIC (Reported by Dr S Hearin):
+A.  Sections of small bowel show multiple deposits of low grade serous adenocarcinoma within mesentery, peritoneum and muscularis propria.  Deposits of carcinoma are present less than 0.1mm from  an inked resection margin (the cut end was sampled after removing the staples).  The closest nodule from the mesenteric resection margin is 2mm away.Extensive lymphovascular invasion is present. There are eight lymph nodes with no evidence of malignancy (0/8).  A neutrophilic inflammatory infiltrate is seen at the peritoneal surface.
+
+B.  Sections of small bowel show multiple deposits of low grade serous adenocarcinoma within peritoneum, mesentery and muscularis propria.   The closest small bowel cut end is 7mm from a deposits of carcinoma.  Possible diathermied deposits of carcinoma are present 0.1mm from an inked mesenteric resection margin.  There is extensive lymphovascular invasion.  one lymph node is identified with no evidence of malignancy (0/1).
+
+
+
+DIAGNOSIS:
+A.  Proximal ileum:  Multiple deposits of low grade serous adenocarcinoma.
+B.  Distal duodenum:  Multiple deposits of low grade serous adenocarcinoma.

@@ -1,0 +1,27 @@
+SPR no: 90M801676W
+MRN no: 9048016
+Site_name: EMMAVILLE - VEGETABLE CREEK RESIDENTIAL AGED CARE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+PMB - polypectomy.  Endometrioid carcinoma.  TLH BSO sentinel lymph node removed.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 277g in total.  The uterus measures 125 x 95 x 60mm and has a smooth shiny serosal surface, with a few scattered subserosal fibroids measuring up to 15mm in maximum dimension.  The ectocervix measures 32 x 18mm and shows no significant abnormality.  On sectioning, no convincing endometrial tumour is seen.  The myometrium measures up to 45mm in maximum thickness secondary to numerous fibroids, with the largest fibroid measuring 65mm in maximum dimension.  The fibroids have a pale grey whorled appearance; no necrosis is seen.  The myometrium also shows extensive adenomyosis.  The left fallopian tube, 60 x 5 x 4mm, and left ovary, 27 x 14 x 8mm, show no significant abnormality apart from an 8mm calcified nodule within the ovary.  The right fallopian tube, 63 x 5 x 5mm, and right ovary, 29 x 13 x 7mm, show no significant abnormality.
+Blocks: 1 to 5 - midline LS posterior uterus and cervix; 6 to 8 - further midline LS posterior uterus; 9 - LS posterior uterus; 10 to 15 - midline LS anterior uterus and cervix (13 to 15 - partial thickness only); 16 &amp;amp; 17 - representative largest fibroid; 18 - LS complete fimbrial end left fallopian tube, and mid TS; 19 - left ovary; 20 - complete LS fimbrial end right fallopian tube, and mid TS; 21 - right ovary; 22 to 26 - further representative posterior uterus, ?tumour.  (TO:JB/rs 6/6/69)
+B.  Specimen labelled &amp;quot;Right internal iliac lymph node&amp;quot;, consists of two lymph nodes with surrounding fibroadipose tissue, 9 and 12mm.  AE 1 block.
+(TO:JB/rs 6/4/68)
+MICROSCOPIC (Reported by Dr X Lundstrom):
+A.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  No myometrial or lymphvascular invasion is seen.  The ectocervix and endocervix are uninvolved and unremarkable.
+The endometrium also shows several benign polyps.  The myometrium shows extensive adenomyosis and numerous leiomyomas.  Both ovaries and tubes are unremarkable.
+B.  The sentinel node protocol was performed.  Two lymph nodes show no evidence of malignancy.
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium.  No myometrial or lymphvascular invasion.  Cervix uninvolved.  Two sentinel nodes are negative.
+ADDITIONAL REPORT 6/10/68:
+As requested, immunoperoxidase stains for MSI proteins were performed:
+MLH1:  Preserved nuclear staining
+PMS2:  Preserved nuclear staining
+MSH2:  Loss of nuclear staining
+MSH6:  Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2, and MSH6 indicates a low likelihood of microsatellite instability phenotype.

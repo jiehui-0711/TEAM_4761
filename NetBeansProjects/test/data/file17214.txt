@@ -1,0 +1,36 @@
+SPR no: 72D748989S
+MRN no: 7217489
+Site_name: CAPRICORN COAST HOSPITAL AND HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+
+CLINICAL:
+Pancreatic cancer - found to be unresectable at whipples.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Omentum plus gallbladder&amp;quot;, consists of a gallbladder with a detached omentum.  The gallbladder measures 65mm in length with an open circumference of 40mm and wall thickness of 2mm.  Outer surface appears glistening with congested vessels.  Inner surface is light green/brownish with a granular piece.  There are a few gallstones measuring up to 3mm in maximum extent.  The omentum measures 120 x 100 x 40mm.  Cut surface shows uniform fatty tissue.  No focal lesion seen.
+Blocks: 1 to 3 - gallbladder (block 1 - cystic duct; 2 - RS of body; 3 - RS of fundus); 4 to 6 - RS of omentum.
+
+B.  Specimen labelled &amp;quot;Hilar&amp;quot;, consists of two fragments of fatty tissue measuring 30 x 15 x 10mm.  One lymph node identified.
+Blocks: 1 - one lymph node; 2 - remaining tissue.  AE.
+(TO: LM; LM/rs 30/1/66)
+
+
+MICROSCOPIC (Reported by A/Prof S Mosson and registrar Dr S Provenzano):
+A.  Sections show thickening of the gallbladder wall due to muscle hypertrophy, fibrosis and chronic inflammation with mild focal activity.  Focal Rokitansky Aschoff sinus formation is present. The appearances are consistent with chronic cholecystitis.
+There is no evidence of dysplasia or malignancy.
+
+Multiple deeper levels of the omental blocks have been examined. Sections of omentum show occasional clusters of histiocytes and mesothelial cells.  No diagnostic evidence of malignancy is seen.
+
+B.   Sections of fibroadipose tissue contain one lymph node with small lipogranulomas, consistent with the site.
+There is no evidence of malignancy in the H&amp;amp;E or keratin CAM5.2 stained sections.
+
+
+DIAGNOSIS:
+
+A. Gallbladder:  Chronic cholecystitis, cholelithiasis.
+Omentum:   No diagnostic evidence of malignancy.
+
+B.  Hilar: One lymph node, no evidence of malignancy.

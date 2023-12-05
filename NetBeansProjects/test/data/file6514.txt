@@ -1,0 +1,66 @@
+SPR no: 72A175978V
+MRN no: 7201759
+Site_name: THE QUEEN ELIZABETH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report72A17597 (72A175978V) MILLESON, THADDEUS HAL
+
+MSI IMMUNOHISTOCHEMISTRY STAIN
+
+SUPPLEMENTARY REPORT 1 September 2066
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Mucinous tumour. Debulking.
+Small bowel. Colon. Retroperitoneal mass.
+
+MACROSCOPIC:
+&amp;quot;SMALL BOWEL, TUMOUR COLON&amp;quot;. Consists of a segment of small bowel with an end to site of anastomosis to large bowel, and two short segment of bowel (one - small bowel; two - ?large bowel) and a section of skin with underlying subcutaneous tissue.
+
+Small bowel, anastomosis and large bowel. The small bowel is 140mm in length with a maximum diameter of 30mm. The anastomosis to large bowel is 85mm in length with 40mm in maximum diameter. The serosal surface of both large and small bowel is roughened with ?multiple areas of adhesions. On opening the lumen, no discreet mass lesion is identified. The small bowel margin is inked blue. Large bowel margins are inked green and black.
+
+(1 small bowel margin; 2 large bowel margins; 3,4&amp;amp;5 area of ?serosal adhesions; 6 seven possible lymph nodes; 7 one lymph node bisected; 8 seven possible lymph nodes; 9 one lymph node bisected).
+
+Short segment of small bowel measures 45mm in length with a maximum diameter of 35mm. The serosa is mildly roughened. On opening the lumen, it is unremarkable.
+
+(10 segment of short segment of small bowel showing ?serosal adhesion).
+
+?short segment of bowel. It measures 35mm in length with a maximum diameter of 30mm. The serosa is roughened with ?area of adhesion. Mucosa is unremarkable.
+
+(11 ?short segment of small bowel).
+
+An ellipse of skin with underlying subcutaneous tissue, measuring 25x15mm and up to 8mm in depth. The skin is unremarkable. On sectioning, no lesions are identified.
+
+(12 representative section of skin). RS (M-12/ MC/cy)
+
+MICROSCOPIC:   (Dr. T Eppley)
+Sections from the small and large bowel anastomosis show serosal fibrosis, chronic inflammation and deposition of poorly differentiated adenocarcinoma.  Occasional signet ring cells are also present.  The mucosal surface appears unremarkable.  There is tumour deposition within the peritoneal fat. Focal lymphatic permeation is identified.  Occasional strands of tumour appear close to nerve fibres, although definite perineural involvement is not seen.
+
+The shorter small bowel segment also show large deposit of poorly differentiated adenocarcinoma within the muscularis propria and serosal surface. The tumour is surrounded by fibrous scarring.
+
+The piece of skin shows increased basal pigmentation.  No evidence of metastatic tumour is seen within the dermis.  No evidence of malignancy is seen in three lymph nodes identified.
+
+DIAGNOSIS:
+SMALL BOWEL TUMOUR COLON -
+-METASTATIC POORLY DIFFERENTIATED ADENOCARCINOMA INVOLVING ANASTOMOSIS, SMALL BOWEL AND  PERITONEAL FAT.
+-MSI IMMUNOHISTOCHEMISTRY IN PROGRESS.
+
+28/9/2066 ank
+
+SUPPLEMENTARY REPORT 1 September 2066
+Immunohistochemistry stains show positive staining of the tumour for cytokeratin 20, CDX2, cytokeratin 7 (focal).  There is also positive staining for synaptophysin suggestive of neuroendocrine differentiation.
+
+A history of metastatic poorly differentiated adenocarcinoma from appendiceal primary is noted in 2064.
+
+MSI IMMUNOHISTOCHEMISTRY STAINS
+Supplementary report:
+Immunostains for MSI proteins (Fifth Third Bancorp PARKES8; block:5  )
+MLH1:  Positive
+PMS2:  Positive
+MSH2:  Positive
+MSH6:  Positive
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

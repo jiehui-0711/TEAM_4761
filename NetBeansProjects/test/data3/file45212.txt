@@ -1,0 +1,32 @@
+SPR no: 85V378163S
+MRN no: 10489127
+Site_name: MODBURY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right gluteal haematoma and ?sarcoma.  Hx of DVT.  Previous imaging suspicious for sarcoma or neoplasm in theatre mostly consistent with haematoma cavity in right gluteal muscles.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right buttock cavity&amp;quot;, consists of multiple pieces of tan and haemorrhagic tissue measuring 45 x 35 x 15mm in aggregate.  No orientation is provided.  One fragment consists of possible soft mucoid tissue.   No circumscribed mass is identified.  RS 3 blocks including all of mucoid tissue (30 percent).
+
+B.  Specimen labelled &amp;quot;Right buttock mass&amp;quot;, consists of multiple pieces of haemorrhagic and mucoid tissue measuring 70 x 60 x 50mm in aggregate.  The tissue has a heterogenous fatty to myxoid appearance.  No solid areas are identified.  RS 8 blocks.  (TO:SB/vo 6/11/66)
+
+
+MICROSCOPIC (Reported by Dr V Ruhoff):
+A &amp;amp; B.  The specimens show similar features and will be described together.  Sections show fragments of a myxoid liposarcoma.  The tumour is composed of moderately cellular, relatively bland spindle cells within myxoid stroma.  Lipoblasts are easily identified. There is conspicuous  mucin pooling imparting a sieve-like pattern.  Characteristic plexiform vasculature is present.  Focally cellularity is moderate, however, no definite round cell areas are seen.  There is associated acute and organising haemorrhage and adjacent to this there is an area of fat necrosis.  Diagnostic tumour necrosis is not seen, however, this is difficult to exclude given the presence of fat necrosis.  Almost all of the sample is myxoid liposarcoma.
+
+FNCLCC Grade
+Tumour differentiation:  score 2
+Mitoses: 		 score 1
+Necrosis: 		 score 0
+Total score:	           3
+
+Grade:		           1 of 3.
+COMMENT:
+Tumour necrosis is a poor prognostic factor in myxoid liposarcoma.  In this case there is some focal necrosis, however, this is appears to be within non tumoural fat and is probably related to haemorrhage.  No round cell features, another poor prognostic factor, is identified in this sample.  Tissue will be forwarded to GOULBURN VALLEY HEALTH - TATURA CAMPUS&amp;apos;s Hospital for FISH analysis and an additional report will be issued.
+
+
+DIAGNOSIS:
+A. &amp;amp; B.  Right buttock cavity and right buttock mass:
+-  Myxoid liposarcoma, FNLCC grade 1 in this sample (see comment).

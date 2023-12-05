@@ -1,0 +1,52 @@
+SPR no: 20T689553C
+MRN no: 2076895
+Site_name: SPRINGSURE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+? Main duct IPMN.  Whipple&amp;apos;s procedure, 1 x suture PV, 2 x sutures SMA, 3 x sutures uncinate margin
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Whipple&amp;quot;, consists of proximal pancreas (80 x 60 x 65mm), gallbladder (80mm length x 45mm diameter), cystic duct (27mm x 5mm diameter), distal common hepatic duct (silk suture; 5mm length x 5mm diameter), extrapancreatic common bile duct (25mm length x 5mm diameter), distal stomach and small bowel (250mm length x 55mm circumference), peripancreatic fibroadipose tissue (up to 55mm in width), and a separate omental tissue (260 x 220 x 80mm).  Orientating sutures are in situ.  The portal vein margin is inked blue, SMA margin is inked black, uncinate margin is inked green, and new pancreatic neck margin is inked yellow.  The posterior pancreatic surface is inked red.  The proximal and distal gastrointestinal tract margins are inked blue.  The main pancreatic duct is probable to a depth of 44mm.  Both the main duodenal papilla and accessory duodenal papilla appear unremarkable (neither express mucin).  The pancreas is sectioned from superior to inferior into ten approximately equal slices.  The pancreatic duct is tortuous and appears slightly dilated with a diameter of approximately 8mm.  No other pancreatic abnormality is identified.  The gastrointestinal tract mucosa and gallbladder show no significant abnormality.
+Blocks:  1 - LS stomach margin; 2 - LS small bowel margin; 3 - TS shave (4mm) pancreatic neck margin; 4 - TS neck/cystic duct and body gallbladder; 5 - LS fundus gallbladder; 6 - TS shave (3mm) common hepatic duct margin; 7 - TS (3mm) extrapancreatic common bile duct margin; 8 and 9 - TS remaining extrapancreatic bile duct; 10 - peripancreatic lymph nodes as seen; 11 to 13 - representative omental tissue; 14 - slice one pancreas (superior); 15 - slice two (accessory duodenal papillae); 16 - slice three pancreas (main duodenal papillae); 17 - slice four pancreas (pancreatic duct cuts in); 18 - slice five pancreas; 19 and 20 - composite slice six pancreas; 21 - slice seven pancreas; 22 - slice eight pancreas; 23 - slice nine pancreas; 24 - slice ten pancreas (inferior).    (TO: JB;JB/vo 8.4.67)
+
+
+MICROSCOPIC (Reported by Dr H Whirlow):
+The entire pancreas is embedded and examined.  Sections of pancreas show an 8mm cystic lesion involving the main pancreatic duct with extension into the adjacent branch ducts.  The features favour an early mixed main and branch intraduct papillary mucinous neoplasm (IPMN) with low grade dysplasia and no evidence of invasion.  The tumour has the following features:
+
+Histological tumour type
+Intraduct papillary mucinous neoplasm with low grade dysplasia, favour gastric type.
+
+Histological grade:  Low grade
+
+Microscopic tumour sites
+Head of pancreas
+
+Maximum tumour diameter: 8mm (gross assessment).
+
+Margins:
+Pancreatic neck: Well clear
+Common bile duct: Well clear
+Portal vein (superior mesenteric vein): 5mm (block 17)
+Superior mesenteric artery/Periuncinate: 3.5mm (block 17)
+
+Surfaces:
+Anterior: Clear
+Posterior: Clear
+
+Lymph nodes:
+Number found: 16
+Number involved: 0
+
+Other pathologies:
+The gallbladder shows changes of mild chronic cholecystitis.
+Pancreatic heterotopia in duodenum.
+The uninvolved pancreatic parenchya show some mild duct dilatation, patchy squamous metaplasia and a mild patchy mural chronic inflammatory cell infiltrate.
+There is patchy autolysis of pancreatic parenchyma
+There is patchy very mild acute inflammation in the duodenal mucosa.  No intraepithelial lymphocytosis is seen.
+
+
+DIAGNOSIS:
+Whipple pancreaticoduodenectomy
+-  Favour early intraduct papillary mucinous neoplasm with low grade dysplasia, involving main duct extending into branch ducts,  8mm, no invasion seen, margins clear.  16 negative lymph nodes.

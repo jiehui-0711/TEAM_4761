@@ -1,0 +1,38 @@
+SPR no: 15G422070M
+MRN no: 1524220
+Site_name: SOUTHERN YORKE PENINSULA HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Omental cake, peritoneal disease.  FNA adenocarcinoma gynaecological/peritoneal origin.
+CA 125 670.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, tubes and ovaries&amp;#8220;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 97g in total. The uterus measures 95 x 49 x 20mm with the majority of the serosal surface studded with variably sized tumour nodules, 1 to 15mm in maximum dimension.  The ectocervix measures 38 x 27mm and has an unremarkable surface. The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  On sectioning, the endometrium measures 1mm in maximum thickness and the myometrium measures 19mm in maximum thickness.  There is focal extension of the serosal tumour deposits into the myometrium; the endometrium itself appears uninvolved. The left fallopian tube, 37 x 6 x 5mm, and left ovary, 28 x 12 x 10mm, as well theassociated paraovarian/paratubal tissue, are studded by variably sized tumour deposits, up to approximately 5mm in maximum dimension. The cut surface of the ovary is fibrous but otherwise unremarkable.  The right ovary, 45 x 8 x 7mm, and right ovary, 23 x 20 x 9mm, as well as the associated paraovarian/paratubal tissue are studded by variably sized tumour deposits, up to 15mm in maximum dimension.  The cut surface of the right ovary may be involved by tumour.  Complete endometrium embedded.
+Block 1-3 - midline LS posterior uterus and cervix; 4-6 - midline LS posterior uterus and cervix; 7- deepest posterior myometrial invasion by serosal tumour deposit; 8-11 - composite midline LS anterior uterus and cervix (10 - myometrial invasion by tumour); 12-14 - remaining anterior endometrium; 16 - LS complete fimbrial end left fallopian tube and mid TS; 17 - TS remaining left fallopian tube; 18 &amp;amp; 19 - complete left ovary; 20 - left adnexal tissue tumour deposits; 21 - LS fimbrial end right fallopian tube; 22 - TS remaining right fallopian tube; 23 &amp;amp; 24- complete right ovary; 25 - right adnexal tissue tumour deposits.
+
+B.  Specimen labelled &amp;#8220;Pelvic peritoneum&amp;#8220;, consists of cauterised fibroadipose tissue, 36 x 19 x 13mm.  On sectioning, there is firm, pale grey tissue, 10 x 8 x 15mm, ?tumour.  AE 3 blocks.
+
+C.  Specimen labelled &amp;#8220;Omentum&amp;#8220;, consists of fibroadipose omental tissue, extensively infiltrated by pale grey tumour deposits, 250 x 140 x 35mm. The tumour deposits range from 2 to 140mm in maximum dimension.  RS 3 blocks.  (TO:  JB/ec  2.1.66)
+
+
+MICROSCOPIC (Reported by Dr C Other):
+A. Sections show multiple deposits of high-grade serous carcinoma on the peritoneal surface of the anterior and posterior uterine body, left ovary and fallopian tube. A 12mm deposit is also present in the right fallopian tube fimbria and an 8mm deposit is seen in the right ovary. Lymphovascular invasion is seen.
+
+The lesion is composed of diffuse sheets of tumour cells with markedly pleomorphic, vesicular nuclei and prominent nucleoli. Intracytoplasmic vacuoles, giant tumour cells, slit like spaces and necrosis are seen.
+
+The endometrium is atrophic. There is no evidence of hyperplasia or malignancy. The cervix shows atrophic changes. There is no evidence of HPV effect or CIN.
+
+Representative sections shown to Dr REYES SIVIC.
+
+B. Sections show high-grade serous carcinoma involving the peritoneum. Metastatic carcinoma is present in a lymph node.
+
+C. Sections show extensive high-grade serous carcinoma throughout the omentum.
+
+
+DIAGNOSIS
+A to C. Uterus and cervix, fallopian tubes and ovaries, pelvic peritoneum and omentum:
+- High-grade serous carcinoma of probable peritoneal origin
+- Tumour present in the omentum, right ovary, right fallopian tube fimbria, plus peritoneal deposits on the left ovary and fallopian tube, uterine body and pelvic peritoneum
+- Metastatic carcinoma present in a lymph node from the pelvic peritoneum

@@ -1,0 +1,44 @@
+
+Episode No:  50Y965975W
+5099659.TNW
+
+STASSINOS, Joetta Wilton 
+Lab No:  50Y96597,50Y96597
+West River Grove
+LAKES ENTRANCE  VIC  3672
+Specimen: Fluid,Tissue
+D.O.B:  12/2/2005
+Sex:  F
+Collected: 23/04/2014 at 19:52
+Location:  PRINCE OF WALES PRIVATE - MARYBOROUGH HOSPITAL
+DR LLOYD GAISFORD
+Distribution:  
+CLINICAL:
+Endometrial cancer 64 years.
+
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, tubes, ovaries, cervix", consists of a uterus, bilateral ovaries and tubes with attached cervix, altogether weighing 250g.  The uterus measures 100 x 80 x 60mm and has a smooth shiny serosal surface.  The ectocervix measures 15 x 10mm and has an unremarkable surface.  On section, there is an extensive pale friable tumour extending from the uterine cavity to the subserosal area.  The tumour measures 20mm in thickness with the myometrium measuring 25mm in thickness at the mid portion of the uterus.  At the fundus region, the tumour extends to the serosa at the right aspect of the uterus.  Inferiorly the tumour extends to the lower segment of the uterus.  The endocervical canal is possibly involved.  The right fallopian tube measures 50mm in length and 8mm in maximum diameter.  The right ovary measures 25 x 20 x 12mm and has an unremarkable cut surface.  The left fallopian tube measures 55mm in length and 8mm in maximum diameter.  The left ovary measures 30 x 18 x 10mm and has an unremarkable cut surface.
+Blocks:  1 to 8 - full LS of anterior body and cervix; 7 - left cornu; 8 - right cornu; 9 to 14 - full LS of posterior body and cervix; 15 tumour to the nearest serosa at right cornu region; 16 - right ovary; 17 - left ovary; 18 - right fallopian tube; 19 - right fallopian tube fimbrial; 20 - left fallopian tube; 21 - left fallopian tube fimbrial.
+B.  Specimen labelled "Left external iliac", consists of fibrofatty tissue 45 x 40 x 10mm containing a possible lymph node 30mm across.  The lymphoid tissue embedded in 3 blocks 1 to 3.
+C.  Specimen labelled "Left round ligament", consists of fibrofatty tissue 30 x 15 x 10mm.  AE 2 blocks.  (TO: LN; XI/rt 26.6.64)
+MICROSCOPIC (Reported by Dr K Tetzlaff):
+A. The sections show endometrioid adenocarcinoma FIGO grade 1 (architectural grade and nuclear grade 1) invading 19mm in a myometrium 24mm thick (block A9). The tumour shows areas of squamous differentiation.  Areas of endometrioisis and occasional intramural leiomyomata are noted.  Tumour invasion is measured in areas not definitely involved by endometriosis.  No lymphovascular invasion is found.  The tumour involves the right and left cornua and extends to the lower uterine segment (slide A5).  The tumour is 1.5mm from the serosal surface in the region of the right cornu (block A15). The tumour does not involve the cervix, right and left ovaries and fallopian tubes. Small (1-2mm) nodules of Leydig cells are seen mainly in the left ovary.  No tubal dysplasia is seen.
+
+Immunoperoxidase stains for mismatch repair proteins have been requested and another report will be issued when these are available.
+
+B. The sections show replacement of most of the lymph node by fatty tissue.  There is no evidence of malignancy.
+C. The sections show fibrofatty tissue with no evidence of malignancy. Patchy, very mild chronic inflammation is seen.
+CONCLUSION
+A. Uterus, ovaries and fallopian tubes:  Endometrioid adenocarcinoma, FIGO grade 1, invading 19mm in 24mm thick myometrium, not involving cervix, ovaries or fallopian tubes (mismatch repair protein immunoperoxidase stains pending).
+B. Left external iliac lymph node: Fatty replacement.
+C. Left round ligament:  Fibrofatty tissue, no evidence of malignancy.
+SUPPLEMENTARY REPORT (1.6.64)
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

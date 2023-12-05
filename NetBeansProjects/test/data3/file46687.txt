@@ -1,0 +1,41 @@
+SPR no: 20S482117M
+MRN no: 2645703
+Site_name: BEAUDESERT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Adenocarcinoma of the cervix.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 143g in total. The uterus measures 90 x 55 x 30mm and has a smooth, shiny serosal surface. The ectocervix measures 40 x 35mm and has a predominantly smooth and shiny surface with blue dye, with one aspect appearing disrupted/ roughened measuring 13 x 5mm located on the anterior aspect.  The endometrium appears dark brown in approximately 50% of the endometrial cavity. There is a pale area in the isthmus/cervix region, invading to a depth of 13mm in the posterior cervix, which measures approximately 13 x 18mm in cross section. The endometrium is 1mm in maximum thickness and the myometrium is 21mm in maximum thickness. The right fallopian tube measures 67mm in length with a maximum diameter of 5mm.  It contains multiple pale papules on the serosal aspect ranging in size from 2 to 4mm.  The right ovary is predominantly cystic, and measures 33 x 25 x 20mm. The cyst has a smooth external and internal lining. The left fallopian tube measures 64mm in length with a maximum diameter of 5mm.  The left ovary is predominantly cystic, and measures 28 x 19 x 24mm. The cyst has a smooth external and internal lining.
+Blocks 1-4 - full LS of anterior body and cervix; 5-9 - left anterior cervix; 10 &amp;amp; 11 - left anterior endomyometrium; 12-18 - right anterior cervix; 19 - right anterior endomyometrium; 20-23 - full LS of posterior body and cervix; 24-29 - right posterior cervix; 30-33 - left posterior cervix; 34 &amp;amp; 35 - right posterior endomyometrium; 36 &amp;amp; 37 - left posterior endomyometrium; 38 - LS right fimbriae; 39 - 3 TS right fallopian tube; 40 &amp;amp; 41 - RS TS right ovary/cyst; 42 - LS left fimbriae; 43 - 3 TS left fallopian tube; 44 &amp;amp; 45 - RS TS left ovary/cyst.  Please refer to blocking diagram.
+
+B.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of a piece of fat 58 x 40 x 15mm.  There are multiple lymph nodes ranging in size from 5 to 17mm identified.
+Blocks 1 &amp;amp; 2 - lymph nodes as seen; 3 - one lymph node bisected; 4 - one lymph node in three pieces; 5-8 - remaining fatty tissue. AE.
+
+C.  Specimen labelled &amp;quot;Left external iliac sentinel lymph node&amp;quot;, consists of a piece of fat 24 x 15 x 10mm.  The specimen contains one blue dyed 24mm lymph node.
+Block 1- one lymph node, trisected; 2 - residual fat, AE.
+
+D.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of two irregular pieces of fat.  The first 45 x 39 x 8mm, the second 30 by up to 13 x 7mm.  Multiple lymph nodes ranging in size from 3mm to 19mm are identified.  Blocks 1 &amp;amp;  2- lymph nodes as seen; 3 - one lymph node bisected; 4 &amp;amp; 5- remaining fatty tissue. AE.   (TO:EC/ec 8/5/67)
+
+
+MICROSCOPIC (Reported by Dr Q Mack):
+A.  Sections of cervix show show an adenosquamous carcinoma.  The tumour is moderately differentiated.  The carcinoma shows a mixture of adenocarcinoma (60%) and squamous cell carcinoma (40%).  The squamous cell carcinoma component shows focal keratinisation.  There is no evidence of lymphovascular invasion.  The carcinoma measures at least 30mm in width (involving 9 slices posteriorly, block A20 to A32).  The carcinoma measures 14mm in length (block A25).  The maximal depth of invasion is 10mm (block A10) and the cervical wall measures 14mm in thickness.  CIN 3 is seen at the transformation zone (block A14).  The tumour is within the uterine cervix and is completely excised.  The carcinoma is well clear of the ectocervical margin (more than 10mm) and is 4mm to the deep cervical margin (block A13).  The rest of uterus shows no significant abnormality.  The endometrium shows proliferative change and there is no significant abnormality.  The myometrium is unremarkable.  The uterine serosa is unremarkable.  Both fallopian tubes are unremarkable.  Both ovaries are unremarkable.
+
+B.  Twelve (12) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+C.  One (1) lymph node is identified.  The lymph node is unremarkable.  There is no evidence of malignancy.
+
+D.  Eleven (11) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+
+The block best for molecular genetic testing is:  A14
+
+DIAGNOSIS:
+A.  Uterus, cervix, tubes and ovaries - Cervical adenosquamous carcinoma.
+
+B.  Right pelvic lymph node - No evidence of malignancy (0/12).
+
+C.  Left external iliac sentinel lymph node - No evidence of malignancy (0/1).
+
+D.  Left pelvic lymph node - No evidence of malignancy (0/11).

@@ -1,0 +1,61 @@
+Episode No:  06D750650A
+061750.SOA
+
+CARTAYA, Dominick 
+Lab No:  06D75065
+Wren
+COWRA  Queensland  2163
+Specimen: Tissue
+D.O.B:  25/5/1984
+Sex:  M
+Collected: 3/5/2063 at :
+Location:  Southern IML Pathology-SWAN DISTRICTS HOSPITAL
+DR Caden Baladji Thalmann
+Distribution:   FILE-COPY
+ADDITIONAL REPORT (11/7/63)
+
+CLINICAL:
+Left parietal tumour initially ? meningioma.  Now ? GBM.  Also ? met (gastric ca 8 years ago).  
+MACROSCOPIC:
+A.  Specimen unlabelled as to site or nature, consists of three fragments of cream and haemorrhagic material 4-8mm.  1x smear, 3/4 embedded for FS.  
+Block 1- FS; 2 - rest of FS. 
+FROZEN SECTION REPORT:  
+High grade glial tumour.
+Result to anaesthetist by Dr A Hauswald at 15:25 on 03/05/63. 
+B.  Specimen labelled "Brain tumour", consists of multiple fragments of brain tissue and blood measuring in aggregate 50 x 20 x 10 mm. AE 6 blocks.
+C.  Specimen labelled "Dura", consists of a circumferential fragment of dura30 x 30 x 2mm.  One surface is shiny and smooth, the opposite is covered by blood clot. 
+AE 2 blocks.   (PL/ec 6.5.63) 
+MICROSCOPIC: (Reported by Dr A Benzi) 
+A and B. Sections show cortical tissue with a glioblastoma (WHO grade 4). The lesion is composed of sheets of ovoid tumour cells with pleomorphic nuclei and prominent nucleoli.  Spindle shaped tumour cells forming fascicles (with positive GFAP staining) are also present. Intranuclear inclusions are seen.
+There are scattered mitoses, extensive non-palisading and focal palisading necrosis. Glomeruloid and large vessel endothelial proliferation are seen.
+There is no evidence of meningioma present.
+Immunohistochemical stains: 
+GFAP: +ve
+Ki67: 30%
+IDH1: -ve
+p53: variable staining 80% of tumour cells
+EMA: -ve
+Vimentin: +ve
+
+Molecular tests: 
+Tissue will be sent to Dr Maryanne WIPPERT, PINGELLY HEALTH CENTRE Cancer Centre for MGMT methylation testing.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block B2. 
+
+C. Sections show fibrous dura with underlying leptomeninges. Within the leptomeninges there are microscopic nests of meningothelial cells and areas of meningothelial hyperplasia, with positive staining for EMA. 
+In the context of a glioblastoma in the underlying cortex, the findings would favour meningothelial hyperplasia in the leptomeninges. There is no convincing meningioma present.
+
+
+DIAGNOSIS:
+A AND B. LEFT PARIETAL TUMOUR: 
+- GLIOBLASTOMA (WHO GRADE 4)
+- MGMT METHYLATION TESTING TO FOLLOW
+C. DURA: FAVOUR MENINGOTHELIAL HYPERPLASIA, NO CONVINCING MENINGIOMA PRESENT.  
+ADDITIONAL REPORT (11/7/63)
+
+Dr Vinia CHETELAT, MODBURY HOSPITAL Cancer Research Centre reports:
+The DNA was bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation. 
+We found this sample to be methylated at the MGMT promoter region.
+This is a research only test in a laboratory that is not NATA approved and as such can only be used as a guide.
+

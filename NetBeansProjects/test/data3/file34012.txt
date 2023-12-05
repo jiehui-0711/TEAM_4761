@@ -1,0 +1,24 @@
+SPR no: 81K518407M
+MRN no: 10448333
+Site_name: SOUTH GIPPSLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+79 year old male segment 7/8 lesion - hypervascular on CT.  Previous renal cell carcinoma.  Non-cirrhotic with raised AFP ? RCC metastasis ? HCC.  Fresh tumour taken for biobanking.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Resected liver&amp;quot; consists of an unoriented portion of liver, 510g, 145 x 120 x 60mm.  The capsule has a 27 x 25mm area of pallor.  This area is inked black.  The parenchymal resection margin is inked blue.  The cut surface shows a lobulated pale yellow tumour, 85 x 70 x 62mm.  The tumour abuts the capsule and the parenchymal resection margin.  The background hepatic parenchyma is unremarkable.  Blocks: 1 to 3 - tumour to capsule; 4 to 6 - tumour to parenchymal resection margin; 7 &amp;amp; 8 - additional RS tumour; 9 - background liver.
+(TO:GV/eh 1/8/67)
+
+
+MICROSCOPIC (Reported by Dr V Anichini):
+Sections show liver tissue within associated tumour.  The tumour consists of trabeculae of cells with large, moderately pleomorphic nuclei, often a single prominent nucleolus, and rather abundant eosinophilic cytoplasm.  The cells have a hepatoid appearance and there is a network of sinusoids between the trabeculae of tumour cells.
+With immunostains the tumour cell stain strongly positive for arginase and also show patchy positive staining from Hep Par 1.  A CD10 stain highlights the sinusoids but the tumour cells are negative.  A pax 8 stain is also negative.  The appearances are of a well differentiated hepatocellular carcinoma.
+The tumour extends to just beneath the liver capsule but no tumour is present on the capsular surface.  There are foci of lymphovascular invasion.
+Tumour extends very close to the parenchyma excision margin and this margin is probably involved at least focally (block 5).
+A section of liver away from the tumour shows preserved architecture.  There is a mild infiltrate of lymphocytes in portal tracts.  There is focal, very mild fibrous expansion of portal tracts.  Bile ducts appear normal.  In the lobules there is mild, patchy macrovesicular steatosis and there is a patchy increase in lipofuscin pigment in hepatocytes.  Central veins are normal.
+With special stains there is no increase stainable iron, no alpha 1 antitrypsin globules are seen, an orcein stain for hepatitis B surface antigen is negative and a rojdanine stain for copper is negative.
+The changes of liver away from the tumour are mild and are non specific.
+
+
+DIAGNOSIS:
+Resection segment 7/8 liver:  Well differentiated hepatocellular carcinoma.

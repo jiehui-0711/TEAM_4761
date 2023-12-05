@@ -1,0 +1,72 @@
+
+Episode No:  31Z040884L
+3190408.VLL
+
+BORLING, NIXIE 
+Lab No:  31Z04088
+Franzen
+SHOALHAVEN HEADS  Tasmania  5280
+Specimen: Tissue
+D.O.B:  12/10/1987
+Sex:  F
+Collected: 12/12/2013 at 08:36
+Location:  Hunter Area Pathology-INGLEWOOD AND DISTRICT HEALTH SERVICE
+DR JONAH BERRY BLESSING
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+1.  Left breast cancer 12 o'clock 5cm from nipple.  Left breast cancer wide local excision - short stitch superior, long stitch lateral and medium stitch medial.  2.  SN biopsy left axilla level I.
+MACROSCOPIC:
+A.  Specimen labelled "L axillary sentinel node" consists of a piece of fibrofatty tissue measuring 30 x 18 x 5mm encasing one lymph node 10mm in maximum dimension.  Specimen serially sectioned and AE 1 block.
+B.  Specimen labelled "Left breast cancer short stitch superior, long stitch lateral, medium stitch medial" consists of a piece of fibrofatty tissue with three sutures as designated and a hook wire measuring 45mm medial to lateral, 55mm superior to inferior and 25mm superficial to deep.  The specimen is inked as follows; superficial blue, deep black, medial red and lateral green.  The specimen is serially sectioned into nine slices from superior to inferior.  On sectioning there is a sclerotic pale cream nodule within slices four and five measuring 15 x 12 x 10mm.  The lesion margins are as follows; 2mm medial. 10mm lateral, 7mm anterior, 1mm deep, 30mm inferior and 10mm superior.  The rest of the breasttissue is unremarkable.  Specimen AE.
+Blocks:  1 to 3 - superior margin slice one; 4 & 5 - slice two; 6 & 7 - slice three; 8 & 9 - slice four; 10 & 11 - slice five; 12 & 13 - slice six; 14 & 15 - slice seven; 16 & 17 - slice eight;18 to 21 - slice nine inferior margin.   (TO:  VJ; DX/bl 14/2/63)
+MICROSCOPIC (Reported by Dr S Huebner):
+A.  The lymph node is negative for tumour.  The CAM 5.2 is negative.
+B.  Sections show a Grade 2 infiltrating ductal carcinoma, Bloom & Richardson score 6 (t = 2, n = 3, m = 1, 3/10 HPF).  The tumour is present in slices 1 to 5 (total of 9 slices) and has an estimated size of 15 x 20 x 10mm.  The tumour is present in slice 1 and is present at the diathermied margin.  The medial margin is alsopositive (close to superior).  The deep margin is 1mm clear and the superficial margin is 2.5mm clear.  The lateral margin is clear by 8mm and the inferior margin is well clear.  
+There is a possible focus of LVI (lymphovascular invasion) at the periphery of the tumour.
+There is no DCIS.
+DIAGNOSIS: A and B.
+
+Invasive carcinoma:
+Site:  Left breast
+[WLE]
+Type:  Infiltrating ductal carcinoma
+Invasive tumour size:  15 x 20 x 10mm
+Grade (Modified Bloom & Richardson):  2
+Tubules:  2  Nuclei:  3  Mitoses:  1  Mitotic rate:  3/10hpf.
+Lymphovascular invasion:  Possible single focus at the periphery of the tumour.
+
+DCIS component:
+DCIS:  Absent
+
+Excision Margins:
+Invasive component:
+Superior - Positive
+Medial - Positive (close to superior)
+Superficial - 2.5mm
+Deep - 1mm
+Lateral - 8mm
+Inferior - Well clear
+In-situ component:  N/A
+Receptors (Block):
+ER:  Positive
+	>95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	20% of nuclei stained
+	predominant intensity of staining:  Weak
+HER2 (Novocastra 10A7):  Negative 
+HER2 SISH:  Slides sent to St George for CISH.
+Ki-67 index:  8%
+Nipple:  N/A
+LCIS / ALH:  Absent
+Miscellaneous:
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

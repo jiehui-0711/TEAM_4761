@@ -1,0 +1,112 @@
+
+Episode No:  15A304407R
+1503044.BTR
+
+KLAASSEN, GUSTAVO 
+Lab No:  15A30440
+Marple Old
+COOKTOWN  Victoria  3762
+Specimen: Tissue
+D.O.B:  9/5/1999
+Sex:  F
+Collected: 28/6/2062 at :
+Location:  Pathology North-THE CANBERRA HOSPITAL
+DR SHENNA MIRA ALDI
+Distribution:   FILE-COPY
+
+CLINICAL:
+1.  Right mastectomy and level I axillary clearance.  Axilla marked.  Tumour upper outer quadrant.  2.  Level II and level III axillary clearance.  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast tissue + axillary clearance level 1 lymph nodes stitch at axilla", consists of a mastectomy with the suture designated axilla attached, weighing 965g in total. The specimen measures 260 (medial to lateral) x 195 (superior to inferior) x 60mm (superficial todeep).  The attached skin ellipse measures 190 x 67mm and bears an unremarkable nipple.  A mildly pigmented 4mm nodule is present in the periareolar region at approximately 5 o'clock. Superficial inked blue, deep black. 
+On sectioning, a lobulated cream coloured tumour is present within the upper outer quadrant, approximately 75mmfrom nipple. The tumour measures 28 x 35 x 22mm and is situated 7mm from the superficial margin, 11mm from the deep margin, 35mm from the inferior margin and appears macroscopically well clear of the superior, lateral and medial margins.  The remaining breast tissue is unremarkable. 
+Block 1 - tumour and superficial margin; 2 - tumourand deep margin; 3-5 - further representative tumour; 6 - representative upper outer quadrant; 7 - lower outer quadrant; 8 - lower inner quadrant; 9 - upper inner quadrant; 10 - representative 12 o'clock; 11 - representative 6 o'clock; 12 - representative nipple; 13 - tissue deep to nipple; 14 - periareolar skin nodule 5 o'clock; 15 -one involved axillary lymph node bisected; 16 - one involved axillary lymph node bisected; 17-22 - axillary lymph nodes as seen.
+B.  Specimen labelled "Level II axillary lymph node (right)", consists of unoriented fibroadipose tissue 55 x 27 x 16mm.  
+Block 1 - one lymph node; 2 - one lymph node bisected.
+C.  Specimen labelled "Right axillary lymph node level III", consists of unoriented fibroadipose tissue 37 x 15 x 6mm.  
+Block 1 - onelymph node; 2 - ? lymph nodes.  (VS/ec  28.6.62) 
+MICROSCOPIC:(Reported by Dr N Denger) 
+A.  Sections of the breast show an infiltrating grade 3 ductal carcinoma. The carcinoma has a predominantly solid nestedand trabecular growth pattern with minimal tubule formation. There is an associated densely fibrotic and focally keloid-like stroma.  There is prominent retraction artefact around the tumour nests but there is no peripheral EMA immunostaining of tumour nests.   The tumour nuclei show moderate to marked nuclear pleomorphism with vesicular chromatin and prominent nucleoli.  There is lymphovascular and focal perineural invasion.   Focal tumour necrosis and calcification are also present.  No definite ductal carcinoma in situ is seen within the tumour, however, there is adjacent high grade solid comedo ductal carcinoma in situ  (DCIS) measuring at least 15mm in maximum dimensionwhich contains coarse calcifications.
+Twelve(12) of the sixteen (16) lymph nodes identified in the axillary tail show metastatic carcinoma (12/16).  Extranodal extension is present in six (6) lymph nodes including one focus showing perineural involvement. The extranodal deposits range from 0.5mm to 4mm beyond the nodes. There is also perinodal lymphatic involvement and focal extralymphatic extension.  
+A synoptic report follows below.
+B.  One (1) lymph node identified is involved by carcinoma (1/1).  There are several foci of extranodal extension distributed over an area up to 1.3mm from the lymph node.
+C.  One (1) lymph node identified shows no evidence of malignancy (0/1).
+
+BREAST CARCINOMA REPORTING SYNOPTIC REPORT
+
+
+Invasive carcinoma:
+Site:  Right breast UOQ, 75mm FN.   
+Type:   Infiltrating ductal carcinoma (no special type)   
+Invasive tumour size: 35mm (macroscopic)
+Grade:	 3 (Modified Bloom & Richardson)       
+Tubules:  3   Nuclei:  3   Mitoses:  3     Mitotic rate:  35/10hpf.
+Lymphovascular invasion:  Present, probably extensive but retraction artefact makes assessment difficult.
+	    
+
+DCIS component:  
+DCIS:  Present - adjacentto invasive carcinoma
+Maximum extent of DCIS:  At least 15mm (microscopic)
+Nuclear grade:  high
+Architecture:  solid
+Necrosis:  present      
+Calcification:  present    
+Degree of DCIS in tumour:  not seen      
+DCIS in adjacent tissue:  present
+Excision Margins:  
+
+Invasive component:
+Superficial:  11mm (block A1)
+Deep:  10.5mm (block A2)
+Other margins:   >10mm.
+In-situ component:
+All >10mm
+Receptors: 
+The receptor immunoperoxidase stains were performed on both the tumour and an axillary lymph node metastasis due to significant retraction artifact and possible poor fixation of the tumour.
+
+ER:   positive (tumour and lymph node)   
+	>95 % of nuclei stained
+	predominant intensity of staining:  strong 
+PR:    positive (tumour), negative (lymph node)
+	 
+	 approximately 2 % of nuclei stained (tumour): the staining is heterogeneous
+	 predominant intensity of staining:    moderate (tumour)  
+HER2  (Novocastra 10A7):  negative (1+) - tumour (0) - lymph node
+Ki-67   The Ki 67 proliferation index of the tumour is heterogeneous but is approximately 30% in the most proliferative areas.
+Nipple:  Unremarkable.
+LCIS / ALH:   Absent
+Miscellaneous:
+The skin papule described macroscopically is a pigmented periareolar seborrhoeic keratosis.  The breastparenchyma away from the tumour shows focal clear cell metaplasia of benign acini (block A9) but is otherwise unremarkable.
+Sentinel lymph node(s):
+
+No. of sentinel lymph nodesexamined:  0
+Axillary/other nodes:
+
+No. of axillary lymph nodes examined:  18
+				
+No. of axillary nodes NOT involved:  5
+	
+No.  of axillary nodes involved by tumour:  13
+No. of axillary nodes with metastases >2.0mm:  13
+Extranodal spread:   Present in six (6) lymph nodes (x5 level 1 - specimen A and x1 level 2 - specimen B) ranging from 0.5 to4mm in linear extent beyond the lymph node and including perineural invasion by one focus (block A16).  There is also perinodal lymphatic involvement with focal extralymphatic extension (block A21). 
+Lymphnode total:
+
+Total number of lymph nodes examined (including sentinel node(s)):  18
+Total number of involved lymph nodes (including sentinel node(s)):  13
+
+DIAGNOSIS:
+A-C.  Right mastectomy, level 1 axillary dissection, level 2 & 3 lymph nodes.
+-  35mm grade 3 invasive ductal carcinoma
+-  Closest margin (deep) 10.5mm clear
+-  Thirteen (13) of eighteen (18) lymph nodes with metastatic carcinoma (12/16 -  level 1, 1/1 - level 2, 0/1 level 3)
+-   Extranodal extension in six (6) lymph nodes (5 - level 1, 1 - level 2)
+-   Perineural invasion by one extranodal focus.
+Her 2 CISH will be performed on the axillary lymph node metastasis at SOUTH GIPPSLAND HOSPITAL Hospital and a supplementary report issued.
+
+
+
+
+
+
+
+
+

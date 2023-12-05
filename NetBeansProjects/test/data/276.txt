@@ -1,0 +1,80 @@
+
+Episode No:  39Z428388R
+3994283.VVR
+
+HARB, TREASA 
+Lab No:  39Z42838
+Haigh Park
+KORUMBURRA  VIC  3530
+Specimen: Tissue
+D.O.B:4/7/1986
+Sex:  F
+Collected: Unknown at :
+Location:  Laverty Pathology-EASTERN EYRE HEALTH AND AGED CARE - CLEVE CAMPUS
+DR MARIA WILSON TOMORY
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast sentinel lymph node.  Left mastectomy.  Tumour 2-3 o'clock 1cm FN.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node left breast" consists of two lymph nodes measuring 15 x 7 x 5mm and 12 x 5 x 5mm.  Both lymph nodes are serially sectioned and imprints taken.  
+Blocks:  1- sentinel node 1; 2- sentinel node 2.  
+IMPRINT CYTOLOGY REPORT:
+No evidence of malignancy in 2 lymph nodes.  
+Phone result to Dr H Bodwell by Dr H Singhania/H Benanti at 16.00 on 19.12.63.
+B.  Specimen labelled "Left breast stitch axilla" consists of a mastectomy specimen measuring 180 x 125 x 50mm.  There is an overlying ellipse of skin which measures 180 x 95mm.  The nipple areola complex measures 30 x30mm.  There is a tan skin nodule located in the upper inner aspect of the skin ellipse which measures 10 x 5mm.  On sectioning a solid cream mass is identified at the 3 o'clock position approximately 15mm from the nipple which measures 25 x 25 x 20mm. The mass is located 20mm from the deep margin, 25mm fromthe superficial margin, 50mm from the inferior margin and 55mm from the superior margin.  The lower inner quadrant contains an ill defined area of ?calcification over an extent of approximately 30 x 20mm. The remaining breast parenchyma is unremarkable.
+Blocks:  1- nipple adjacent to tumour; 2 to 4 - representative tumour (block 4 -reserve block); 5 & 6 - deep margin closest to tumour; 7 - superficial margin closest to tumour; 8 - inferior margin; 9 - superior margin; 10 - tissue lateral to tumour; 11 - tissue medial to tumour; 12 & 13 - representative upper outer quadrant; 14 & 15 - representative lower outer quadrant; 16 & 17 - representative upper inner quadrant; 18- representative lower inner quadrant with calcifications; 19 - deep margin adjacent to block 18;20 - representative lower inner quadrant; 21- skin lesion.
+(TO: NX: MV/mm 20.12.63) 
+MICROSCOPIC:  (Reported by A/Prof D Faler):
+A. and B. 
+Invasive carcinoma:
+Site: Left breast, 3 o'clock
+Type: Infiltrating duct carcinoma, E-Cadherin positive. The tumour has a focally lobular-like growth pattern.
+Invasive tumour size: 27mm (B4)
+Grade (Modified Bloom & Richardson): 2
+Tubules:   3   Nuclei:    2   Mitoses:   1   Mitotic rate:      6/10hpf.
+Lymphovascular invasion:  No definite LVI seen but retraction artefact present focally.
+	    
+DCIS component:  
+DCIS:  Not seen
+Excision Margins:  
+Invasive component: All well clear by >10mm.
+In-situ component: n/a
+Receptors (Block B4): 
+ER:  POSITIVE
+	95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  POSITIVE
+	5% of nuclei stained
+	predominant intensity of staining:  Strong.
+(Positive staining is seen in adjacent benign ducts)
+HER2 (Novocastra 10A7): 1+ . Referred to WUDINNA HOSPITAL Hospital for SISH testing.
+Ki-67 index: Low, approximately 10%
+Nipple:  
+Carcinoma extends between the deep subareolar ducts in the section of nipple. Paget's disease is seen.
+LCIS / ALH:    
+Foci of ALH noted in adjacent breast tissue and elsewhere in breast.
+Miscellaneous:
+Sections of breast tissue in other quadrants, including the lower inner quadrant,  show ALH, columnar cell lesions, sclerosing adenosis and benign calcifications.
+The skin nodule is a dermal naevus.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 2
+Number of sentinel lymph nodes involved by tumour:  1        
+Number ofsentinel nodes with metastases >2.0mm:    
+Number of sentinel nodes with metastases <2.0mm:      
+	Detected by:
+Number of sentinel nodes with isolated tumour cells <0.2mm: 1       
+	Detected by: H&E and Keratin staining. Microscopic aggregates of tumour cells in capsular sinus.
+Extranodal spread: Not seen.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)): 1
+DIAGNOSIS:
+LEFT MASTECTOMY AND SENTINEL NODE BIOPSY:
+	27MM GRADE 2 INFILTRATING DUCT CARCINOMA
+	ER AND PR POSITIVE
+	HER 2 NEGATIVE ON IMMUNOHISTOCHEMISTRY
+	ONE OF TWO SENTINEL NODES CONTAINS ISOLATED TUMOUR CELLS
+	EXCISION MARGINS CLEAR
+
+  
+

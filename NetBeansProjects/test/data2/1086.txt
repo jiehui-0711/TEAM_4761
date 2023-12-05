@@ -1,0 +1,47 @@
+Episode No:  80J9896735
+8039896.SIN
+
+SICKINGER, ERLINE Addie 
+Lab No:  74W15132
+White Pine Knoll
+DUBBO  Australian Capital Territory  5630
+Specimen: Tissue
+D.O.B:  4/11/1982
+Sex:  F
+Collected: 24/7/2063 at :
+Location:  PARKES 4 EAST - MONTO HOSPITAL
+DR Emerson Bennett LEWALLEN
+Distribution:   FILE-COPY,NSW-CANCER-REGISTRY
+CLINICAL:
+Pelvic mass, elevated Ca-125.  Large retroperitoneal mass obliterating pelvis and right sidewall, infiltrating small bowel mesentery and terminal ileum, surrounding sigmoid colon.  Normal CEA.
+MACROSCOPIC:
+A.  Specimen labelled "Omentum" consists of omental fat 190 x 80 x 10mm, containing indistinct firm areas.  Two representative sections taken for frozen section and a portion taken for flow cytometry.
+Blocks 1 - frozen section 1; 2 - frozen section 2; 3 to 6 - representative omentum.
+FROZEN SECTION REPORT
+Poorly differentiated tumour not typical carcinoma ? lymphoma ? other.
+Phone results to Professor Portland by Dr S Olivero at 15:25 on the 22/05/13.
+B.  Specimen labelled "Omentum" consists of an omentum measuring 140 x 150 x 10mm.  There are multiple firm cream areas, which constitute approximately 80% of the specimen.
+Blocks:  1 to 5 representative sections (block 5 reserve block).
+(LZ/vo 25.7.63)
+MICROSCOPIC (Reported by Dr S Haros & Dr S Debbins):
+A & B.  Sections show omentum infiltrated by a diffuse proliferation of atypical lymphoid cells.  No follicle formation is seen.  The atypical cells are small to medium sized with often clearcytoplasm.  The nuclei are cleaved with vesicular chromatin and occasional small nucleoli.  Frequent mitoses are identified.
+The atypical lymphoid cells show strong positive staining with LCA, CD20, Bcl2 and CD10.  There is moderate staining with cyclin-D1 and CD43.  The cells are negative for CD23.  The CD21 highlights dendritic cells and the CD3 and CD5 stains highlight admixed T-lymphocytes.  The Ki67 proliferation index is approximately 70%.
+COMMENT:  The morphological features are consistent with a small B-cell non- Hodgkin lymphoma with the cyclin-D1 positivity suggestive of mantle cell lymphoma.  Due the negative CD5 and positive CD10 stains, tissue will be sent for FISH studies.
+DIAGNOSIS:
+A & B.  Omentum:
+- Small B-cell non-Hodgkin lymphoma
+- Favour mantle cell lymphoma (see comment)
+ADDITIONAL REPORT (16.8.63):
+
+FISH REPORT. 
+Reported by S Fearon & Dr S Lahaye, Peter Mac Department, THOMAS EMBLING HOSPITAL's Hospital.
+"FISH PROBE:
+IGH@CCND1 (t(11;14)(q13;q32) dual colour fusion translocation probe (Abbott Molecular). 
+FISH RESULTS: 
+nuc ish(CCND1,IGH)x2. 
+Comment:
+Interphase FISH detected no evidence of juxtaposition of IGH@ and CCND1 loci, and therefore no evidenceof t(11;14)(q13;q32) in this tissue.  Two copies of both IGH@ and CCND1 were seen in the majority of nuclei, although some very large nuclei were seen with multiple copies of each locus. 
+Summary: 
+No evidence of IGH@CCND1 rearrangement". 
+Note:  In light of the FISH result, the lymphoma would be best regarded as diffuse large B-cell lymphoma.
+

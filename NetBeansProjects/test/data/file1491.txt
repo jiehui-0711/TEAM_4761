@@ -1,0 +1,71 @@
+SPR no: 51Z029750E
+MRN no: 5190297
+Site_name: CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 5190297.NBE
+SMIGLEWSKI, LUIGI GARRET
+51Z02975
+
+Last edited : 4/4/2065		Page: 3
+CLINICAL:
+Total gastrectomy for gastric Ca.  ?Gastric malignancy and ACS.
+MACROSCOPIC:
+Specimen labelled&amp;quot;Stomach (fresh)&amp;quot; consists of a total gastrectomy including distal portion of oesophagus measuring in total 200 x 100 x 30mm.  The lesser curve measures approximately 150mm in length and the greater curve 240mm.  The omentum is attached to the greater curvature and measures 250 x 240 x 30mm.  The oesophageal margin is inked black and the antrum blue.  On the anterior serosal surface there is a white area with puckering of the serosal surface over 30 x 20mm.  The lesser omentum measures 170 x 70 x 20mm.  On opening there is a large fungating tumour close to the oesophageal gastric junction over 70 x 70mm predominantly on the anterior surface of the stomach and lesser curve.  The epicentre of the tumour is 30mm from cardioesophageal junction.  The portion of oesophagus received measures 20mm in length x 40mm in open diameter.  The tumour is 20mm to the oesophageal resection margin.  The tumour abuts the serosal surface.  The tumour is 115mm from the antral surgical margin.  The rest of the stomach appears unremarkable.  The tumour appears to invade into the lesser omentum with a deposit of tumour found at the external surface measuring 10mm in maximum dimension.  Lymph nodes are found within the lesser and greater omentum.
+Blocks:  1 &amp;amp; 2 - oesophageal margin and closest tumour; 3 to 8 - tumour with blocks 7&amp;amp;8 showing depth of invasioninto the lesser omentum; 9 - antrum away from tumour; 10 - distal antral margin; 11- infiltrating tumour in the lesser curvature; 12 to 19 - lymph nodes from lesser curve (12&amp;amp;13 - one lymph node each; 14 to 19 - lymph nodes as seen); 20 to 25 - lymph nodes from greater curvature, lymph nodes as seen; 26 - tumour for bio-banking.  (JL/mm 3.1.65)
+MICROSCOPIC (Reported by Dr N Strimback):
+Synoptic Report for Gastric Carcinoma
+Macroscopic description
+
+Tumour site:  Lesser curve of stomach
+Maximum tumour diameter:  70mm
+Distance to nearest margin:  20mm
+
+Microscopic Description
+
+Tumour site (location):
+Cardia/fundus
+Lesser curve
+WHO histological tumour type:
+Tubular adenocarcinoma
+Lauren histological tumour type:
+Intestinal
+Growth pattern:
+Infiltrating
+Maximal dimension of tumour:  70mm
+Local invasion (pT):
+T3	Tumour penetrates subserosal connective tissue without invasion of visceral peritoneum or adjacent structures.
+Serosal surface involvement:
+Absent
+Vascular space invasion:
+Small vessels (lymphatic and capillary): Present
+
+Large vessels (vein and artery): Present
+Perineural growth:
+Absent
+Degree of regression after preoperative Chemoradiation:
+Not applicable
+Her2 status:  Not performed
+
+Distance of tumour from margins:
+From proximal:  20mm
+From distal:  115mm
+From radial/circumferential (proximal/cardia tumours):  Not applicable
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodespresent:  32
+Number of lymph nodes involved:  1
+N1	Metastasis in 1-2 regional lymph nodes
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+Other pathologies:
+Gastritis: Absent
+Helicobacter infection: Absent
+Intestinal metaplasia: Absent
+Dysplasia: Absent
+
+Gastric polyps: Absent
+Barrett&amp;#8217;s mucosa: Absent
+Other pathologies (specify):  About 15% of tumour shows mucinous differentiation.
+The tissue block is best suitable for future genetic/molecular testing:  26
+DIAGNOSIS:
+Stomach &amp;#8211; Adenocarcinoma (T3, N1, MX).

@@ -1,0 +1,52 @@
+
+Episode No:  40V342001I
+408342.BBD
+
+DUNPHY, GUDARA 
+Lab No:  40V34200
+Rannal
+GAWLER  Western Australia  2729
+Specimen: Tissue
+D.O.B:  14/4/1987
+Sex:M
+Collected: 18/10/2013 at 15:23
+Location:  SXR-JULIA CREEK MULTI-PURPOSE HEATH SERVICE
+DR ETHAN FRED-MCGRAFF
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Radical prostatectomy + bilateral pelvic lymph node dissection.  TRUS bx showed G4+5 12/14 cores.  
+MACROSCOPIC:
+A.  Specimen labelled "Prostate" consists of a prostate.  Seminal vesicles or vas deferens and node present.  The specimen measures 40mm from the base to the apex, 40mm (medial to lateral) and 30mm (anterior to posterior).  It weighs 35.9g.  The right lateral margin is inked red; the left lateral margin is inked green.  Specimen is serially sectioned from the apex to the base into 7 slices.  Slice 1 - apex, slice 7 - base.  On sectioning the cut surface is yellow/white with multiple small cysts up to 3mm.  The specimen is AE according to the attached diagram.
+Blocks:  1 to 8 - apex; 9 - slice 2; 10 - slice 3; 11 - slice 4; 12 - slice 5; 13 - slice 6; 14 to 21 - slice 7 (base).  
+B.  Specimen labelled "Right pelvic lymph node" consists of an irregular piece of fatty tissue 50 x 25 x 25mm containing six possible lymph nodes ranging from 5 to 10mm.  
+Blocks:  1- three lymph nodes; 2, 3 & 4 - one bisected lymph node each.  
+C.  Specimen labelled " Left pelvic lymph node " consists of an irregular piece of fatty tissue 35 x 30 x 15mm containing three possible lymph nodes, 7 to 15mm in maximum diameter.  
+Blocks:  1- two lymph nodes; 2- one bisected lymph node.  
+(TO:  ON: TV/mm 23.0.13) 
+MICROSCOPIC (reported by Dr U Vivas): 
+
+Histological type:  Acinar adenocarcinoma. 
+Tumour location:
+Dominant nodule: Left anterior / left posterior / right posterior. 
+	Non-dominant (>10mm):
+	Smaller nodules: Right anterior, left apex / right apex, left base. 
+Volume/Size:	9.7ml (31mm x 28mm x 4mm x 7slices x 0.0004) 
+Gleason score: 5 + 4=9. 
+Extraprostatic extension:  No
+Surgical margins:
+Left apex:		0.1mm (U7, U7).
+Left base: 		0.1mm (U70).
+Right posterior:	Positive over a 2mm length (U70).
+Left posterior:		Positive over an8mm length (U70, U70). 
+Other margins clear.
+Perineural invasion:  Present. 
+Seminal vesicles: Right involved (U70). 
+Lymph nodes:  6 right pelvic lymph nodes (specimen U) and 3 left pelvic lymph nodes (specimen U) all free of tumour. 
+Lymphovascular invasion:  No. 
+DIAGNOSIS:
+A-C.  Prostate, right and left pelvic lymph nodes: 
+Adenocarcinoma, Gleason score 5 + 4=9.
+Nine pelvic lymph nodes free of tumour (0/9).
+pT3b  pN0  Mx.
+ 
+

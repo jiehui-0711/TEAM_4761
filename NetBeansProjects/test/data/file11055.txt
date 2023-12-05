@@ -1,0 +1,56 @@
+SPR no: 52O004651A
+MRN no: 52500465
+Site_name: GLENSIDE CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  52O004651A
+52500465.DAG
+
+DENAULT, JANELL HEIDI
+Lab No:  52O00465,52O00465
+W Nyack
+FORSTER  Tasmania  6037
+Specimen: Fluid,Tissue
+D.O.B:  26/9/2031
+Sex:  F
+Collected: 25/5/2066 at :
+Location:  CORONARYCARE UNIT - MORNINGTON ISLAND HOSPITAL
+DR FABIAN JOSHUA AMADO
+Distribution:
+CLINICAL:
+Abdominal mass, Ca 125 86.  Right tube and ovary.  Frozen section wedge ( L ) Ovary resection.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a multiloculated cystic tumour measuring 230 x 200x 80mm with a smooth external surface and a possible stretched segment of fallopian tube measuring 110mm log and 6mm in diameter (no fimbrial end identified).  The internal surface is smooth with no papillary excrescences and the cyst fluid is think clear and serous.  Three sections submitted for frozen section.
+Blocks: 1 &amp;#8211; frozen section one; 2 &amp;#8211; frozen section two; 3 &amp;#8211; frozen section three; 4 to 20 &amp;#8211; representative sections of the cyst; 21 to 23 &amp;#8211; all of the probable fallopian tube.
+B.  Specimen labelled &amp;quot;Wedge resection of left ovary&amp;quot;, consists of two pieces of ovarian tissue measuring 28 x 17 x 6mm and 15 x 10 x 5mm.  The larger piece has a think walled serosal cyst 8mm.  RS of cyst for frozen section in 2 block.
+Blocks; 1 &amp;#8211; frozen section one; 2 &amp;#8211; frozen section two; 3 to 4 &amp;#8211; remaining tissue.
+FROZEN SECTION REPORT:
+A.  Benign mucinous cystadenoma.
+B.  No evidence of malignancy.
+Phone results to The anaesthetist by Dr N Vimont and Dr N Vulgamott
+At 5:00pm on 23.3.16
+C.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of an appendix measuring 65mm in length with an outer diameter of 6mm.  The serosal surface appears smooth and shiny with congested vessels.  The mesoappendix measures up to 20mm.  The cut surface shows a patent lumina.
+Blocks: 1 &amp;#8211; two longitudinal section of base; 2 &amp;#8211; representative sections of mid appendix; 3 &amp;#8211; two longitudinal section of tip.  (TO: LM;LM/vo 26.5.66); 4 to 6 &amp;#8211; all of the remaining appendiceal tissue.  (TO: LM; LM/rt 5.3.66)
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a fatty tissue measuring 90 x 60 x 10mm.  The cut surface show uniform fatty tissue.  No focal lesion is seen.
+Representative sections embedded in blocks 1 to 3.  (TO: LM;LM/vo 26.5.66)
+MICROSCOPIC (Reported by Dr N Venture):
+A.  The 230mm multiloculated cystic tumour within the ovary is a benign mucinous cystadenoma.  The cyst is lined by a simple layer of columnar mucinous epithelium with basally placed, bland nuclei.  There is some focal undulation and tufting but no stratification or significant nuclear atypia is seen.  In addition, there are numerous well formed, non-caseating granulomas, mostly closely subjacent to the epithelial lining also occasionally seen away from the epithelium.  The granulomas are composed of epithelioid histiocytes and occasional giant cells with a sprinkling of lymphocytes.  No polarisable foreign material is seen.  Special stains for bacteria, microbacteria, and fungi (gram, Fite, Truant&amp;#8217;s, dPAS and MethAg) are negative.  No evidence of vasculitis is seen.  The fallopian tube is unremarkable. There is no evidence of malignancy.
+B.  Sections show unremarkable ovarian tissue including follicles at varying stages of development and corpora lutea and albicans.  No granulomatous inflammation is seen.  There is no evidence of malignancy.
+C.  Sections of appendix show a granulomatous appendicitis.  The mucosa of the appendix show normal crypt architecture and contain numerous well formed, non- caseating and focally confluent granulomas composed of epithelioid histiocytes and occasional admixed giant cells.  No polarisable foreign material is seen.  The granulomas are predominantly localised within the mucosa with occasional granulomas within the muscularis and the mesoappendix.  The latter is associated with mild infiltrate of lymphocytes.  No polarisable foreign material is seen.  No bacteria, mycobacteria or fungi are seen with special stains (gram, Fite, Truants, dPAS and MethAg).  There is no evidence of vasculitis.  There is no evidence of malignancy.
+D.  Representative sections show mature adipose tissue.  No granulomatous inflammation is seen.  There is no evidence of malignancy.
+COMMENT:
+A &amp;amp; C.  There is florid non-caseating granulomatous inflammation within the wall of the mucinous cystadenoma as well as  the appendix.  No pathogenic organisms are seen with special stains, however, this does not entirely exclude infection, which requires correlation with the clinical features and result of culture studies, if clinically indicated.  Nevertheless, the granulomas lack neutrophils or caseating necrosis that would be more typical of infection.  The differential diagnoses considered include Crohn&amp;#8217;s disease, chronic granulomatous disease (less likely given the patient is female and without a history of recurrent infection) and sarcoidosis1,2.  Idiopathic granulomatous inflammation is also possible, if other causes of granulomatous inflammation are excluded.  Further clinicopathological correlation is required.
+DIAGNOSIS:
+A.  Right tube and ovary:
+-  Benign mucinous cystadenoma with prominent non-caseating granulomatous inflammation (see comment).
+-  Unremarkable fallopian tube.
+B.  Wedge resection of left ovary:
+-  No significant abnormality
+C.  Appendix:
+-  Florid non-caseating granulomatous inflammation (see comment).
+D.  Omental biopsy:
+- No significant abnormality.
+The findings were discussed with Dr N Ramirez on 5.3.66
+
+1.W G McCluggage et al. Ovarian granulomas: a report of 32 cases. J Clin Pathol. 1997 Apr; 50(4): 324&amp;#8211;327.
+2. White A et al. Am J Obstet Gynecol. Coexistence of mucinous cystadenoma of the ovary and ovarian sarcoidosis. 1990 May;162(5):1284-5.

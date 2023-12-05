@@ -1,0 +1,38 @@
+SPR no: 56D916898X
+MRN no: 5619168
+Site_name: COHUNA DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (8.9.2066)
+
+CLINICAL:
+Endometrial cancer.  HTN, smoker, ETOH.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 115g in total.  The uterus measures 90 x 60 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 20mm.  There is an endometrial tumour on both the anterior and posterior body with a surface areas measuring 35 x 30mm and 40 x 35mm respectively.  The tumour invades approximately 15mm through a maximum myometrial wall of 20mm thickness.  There are also a few fibroids measuring from 5 to 15mm.  The right adnexal tissue measures 44mm x 30 x 10mm.  The right fallopian tube is difficult to definitively identify.  The right ovary measures 33 x 15 x 10mm.   The left fallopian tube measures 40mm in length with an outer diameter of 6mm.  The left ovary measures 25 x 15 x 11mm.  The cut surfaces of both ovaries are unremarkable.
+Blocks: 1 to 5 - full longitudinal sections of anterior body and cervix; 6 and 7 - representative  deepest invasion on anterior body; 8 to 11 - full longitudinal sections of posterior body and cervix; 12 and 13 - representative deepest invasion on posterior body; 14 and 15 - fibroids; 16 to 19 - all of the right paraovarian tissue with probable fallopian tube; 20 - right ovary; 21 - left fallopian tube; 22 - left ovary.   (TO: LM;LM/vo 8.4.66)
+
+
+MICROSCOPIC (Reported by Dr P Spangenberg):
+The sections show a Grade 1 endometrioid adenocarcinoma of the endometrium.  The tumour is composed of crowded and complex cribriform glands with prominent islands of squamoid differentiation.  No significant solid architecture or marked cytologic atypia is seen.  The tumour invades into the outer half of the myometrium, with a maximum depth of 18mm through a wall thickness of 20mm.  Rare foci suspicious for lymphovascular invasion are seen.  No cervical stromal involvement is identified.  Both fallopian tubes and ovaries are uninvolved by tumour.
+
+The sampled leiomyomas show no atypical features.  The right fallopian tube shows mucosal atrophy and scarring.  One negative left paratubal lymph node is identified (0/1).
+
+Immunohistochemistry for mismatch repair deficiency (MMRD) status was performed on the uterine curettings at LIVERPOOL HOSPITAL Hospital (review report 56D91689), which showed preserved nuclear staining for MLH1, PMS2, MSH2 and MSH6, indicating a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS:
+Uterus and cervix, bilateral fallopian tubes and ovaries:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  Tumour invades into outer half of myometrium.
+
+
+SUPPLEMENTARY REPORT (8.9.2066)
+ER and PR immunohistochemistry was performed as requested.
+
+Hormone Receptors (Block 7):
+ER:  Positive
+85% of nuclei stained
+Predominant intensity of staining:  Strong
+PR:  Positive
+Over 95% of nuclei stained
+Predominant intensity of staining:  Strong

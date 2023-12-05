@@ -1,0 +1,126 @@
+
+Episode No:  05B721920T
+0507219.HBT
+
+PALLET, DELOIS JACQUE 
+Lab No:  05B72192
+Falling Creek
+NARRABRI  Australian Capital Territory  5522
+Specimen: Tissue
+D.O.B:  17/3/1988
+Sex:  F
+Collected: 02/05/2013 at 15:04
+Location:  Hunter Area - BYRON CENTRAL HOSPITAL
+DR NORBERT STEFAN ROBERTO-MATTES
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Rt breast lump @ 10 o'clock 22cm FN - malignant on core bx.  WLE + sentinel node biopsy.  HTN, thyroid oblation.  Rt breast lump (10 o'c, 2cm FN) -short stitch superior, long lateral, medium medial.  Rt axillary sentinel nodes x 3 (2 x blue, 1x hot and blue).  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel lymph node" consists of fibroadipose tissue measuring 30 x 40 x 10mm in aggregate diameter.  Five lymph nodes are identified.  
+Blocks:  1 - three lymph nodes; 2- two lymph nodes.  All lymph node material embedded.  
+B.  Specimen labelled "Right breast mass long lateral, medium medial, shortsuperior" consists of a wide local excision which measures 100mm (medial to lateral) x 40mm (superior to inferior) x 55mm (superficial to deep).  Three marking stitches are in situ as described.  Superficial inked black, superior inked blue and inferior inked green.  On sectioning there is a palpable firm area located in slices 3, 4 and 5 which measures approximately 10 x 10mm.  Specimen is serially sectioned and AE 81 blocks.  Please refer to the attached diagram.  
+MICROSCOPIC:  (Reported by A/Prof A Welander):  
+A. and B. 
+Invasive carcinoma:
+Site: Right breast 10 o'clock
+Tumour 1 - slices 3, 4 and 5 towards superficial/inferior aspectof excision.
+Tumour 2 - slice 5 towards deep/superior aspect of tumour.
+The tumours have a similar appearance. 
+Type: Infiltrating duct carcinoma. In some areas the tumours have a lobular-like growth pattern with single cells and infiltrating cords, but overall the carcinomas are best classified as infiltrating duct carcinoma, NST.
+Tumour 1: 
+Invasive tumour size: 13mm (composite of slides B25 and B27)
+Grade (Modified Bloom & Richardson): 1
+Tubules:   2   Nuclei:  2    Mitoses:   1  Mitotic rate:      2/10hpf.
+Lymphovascular invasion:  Not seen.
+	    
+DCIS component:  
+DCIS:  Present within tumour
+Maximum extent of DCIS:
+Nuclear grade:  Intermediate
+Architecture: Cribriform
+Necrosis:   Punctate and comedo
+Calcification: Present
+Degree of DCIS in tumour: <25% 
+DCIS in adjacent tissue:  Focally at edge of carcinoma.
+Excision Margins:  
+Invasive component: The excision margins are clear of the tumour by 8 - 10 mm. There is a 3mm margin inferiorly in one section, but this may be due to tracking of ink, as the margin appears well clear in other sections.
+In-situ component: Clear of margins by >10mm
+Tumour 2: 
+Invasive tumour size: 10mm (slide B44)
+Grade (Modified Bloom & Richardson): 2
+Tubules:   3   Nuclei:  2    Mitoses:   1  Mitotic rate:     1/10hpf.
+Lymphovascular invasion:  Not seen.
+	    
+DCIS component:  
+DCIS:  Present within tumour
+Maximum extent of DCIS:
+Nuclear grade:  Intermediate
+Architecture: Cribriform
+Necrosis:   Punctate and comedo
+Calcification: Present
+Degree of DCIS in tumour: 25 - 30% 
+DCIS in adjacent tissue:  Focally at edge of carcinoma and in immediately adjacent breast tissue.
+Excision Margins: 
+Invasive component: The excision margins are clear of the tumour by 10 mm at the closest margin superiorly. 
+In-situ component: Clear of closest margin superiorly by 3mm
+
+
+Receptors (Tumour 2 Block B44 ): receptor profile on tumour 1 in progress.
+ER:  Strong positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Moderate positive
+	75% of nuclei stained
+	predominant intensity of staining:  Moderate
+HER2 (Novocastra 10A7): 2+ SISH in prgress
+Ki-67 index: Generally low Ki67 expression but on localized "hot spot" with up to 20% staining.
+Nipple:  Not present
+
+LCIS / ALH:    
+Not seen. 
+Miscellaneous:
+A possible biopsy tract is identified in B7.
+Benign lobular calcifications are noted in the adjacent breast tissue as well as scattered cysts, calcified fibroadenomatoid change and focal columnar cell lesions.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 5
+Number of sentinel lymphnodes involved by tumour:  3       
+Number of sentinel nodes with metastases >2.0mm:    2
+Number of sentinel nodes with metastases <2.0mm:   1   
+	Detected by: H&E and Keratin stains
+Extranodal spread: Focal
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   5
+Total number of involved lymph nodes (including sentinel node(s)): 3
+DIAGNOSIS:
+RIGHT BREAST WIDE LOCAL EXCISION:
+	INFILTRATING DUCT CARCINOMA, TWO SEPARATE FOCI
+	ASSOCIATED INTERMEDIATE GRADE DCIS PRESENT
+	EXCISION MARGINS CLEAR
+	POSITIVE SENTINEL NODES IDENTIFIED (3/5)
+	ESTROGEN AND PROGESTERONE RECEPTOR POSITIVE (TUMOUR 2; TUMOUR 1 MARKERS IN PROGRESS0
+
+SUPPLEMENTARY REPORT 15/7/63: A/Prof A Renna.
+This case was discussed with Dr A HERB-Baldasaro in view of the clinical history and pathological finding of two apparently separate tumours. The radiological features reportedly described a single, 13mm tumour. 
+I have reviewed the macroscopic images and marking inks and it is possible that these tumour foci represent a cord-like or dumb-bell shaped extension of the one tumour, as they are present in slightly different regions of adjacent slices. If this is the case, the maximum tumour measurement remains unchanged at 13mm and the differences in grade (due to tubule score) may be a reflection of different tumour growth patterns in the one carcinoma.
+tumour cells are strongly E Cadherin positive in 3 separate sections, consistent with the diagnosis of infiltrating duct carcinoma.
+The hormone receptors performed on block B33 show strong estrogen receptor expression andmoderate progesterone receptor staining, the same as the profile on block B44. Ki67 expression is also low in this area (<10%). HER 2 IHC staining shows 1+ staining.
+SUPPLEMENTARY REPORT (3/7/63):
+HER-2 IN-SITU HYBRIDISATION reported by Dr A Padley, BARWON HEALTH NORTH Hospital GOOLWA.
+"HER2 IHC Result: 2+ 
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Tumour 2 (B33) 
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid)
+Mean HER2 copy number per cell: 1.8 
+Mean CEP17 copy number per cell: 1.5 
+HER2/CEP17 Ratio: 1.2 
+Tumour 2 (B44) 
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid) 
+Mean HER2 copy number per cell: 2.89 
+Mean CEP17 copy number per cell: 2.25
+HER2/CEP17 Ratio: 1.29 
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8 
+Equivocal: HER2/CEP17 = 1.8-2.2
+Positive: HER2/CEP17 >2.2"
+NB:  Correlation with radiology confirmed that these sections submitted for HER 2 testing were part of one tumour, not two separate tumours.  
+

@@ -1,0 +1,17 @@
+SPR no: 81F295533H
+MRN no: 10432636
+Site_name: BEAUFORT & SKIPTON HEALTH SERVICES - BEAUFORT CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 1 endometrioid adenocarcinoma of the endometrium.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Cervix, uterus, bilateral ovaries, fallopian tube and mirena&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 209g in total.  The uterus measures 105 x 70 x 60mm and has a smooth and shiny serosal surface.  The cervix measures 30 x 20mm and has an unremarkable surface, discoloured by blue surgical dye.  The uterus is received with an incision on the posterior aspect exposing the endometrial cavity.  A mirena is in situ.  On sectioning, the endometrium on the anterior aspect has a diffusely polypoid thickened appearance over an area measuring up to 40mm in maximum dimension.  The endometrium over this area measures up to 8mm thick.  The myometrium measures 34mm thick.  No macroscopic evidence of myometrial invasion is identified.  These changes are located 55mm from the cervical resection margin.  No other lesions are identified within the myometrium.  The bilateral fallopian tubes have been previously clipped.  The right fallopian tube measures 30 x 6mm and the right ovary measures 25 x 23 x 23mm.  The left fallopian tube measures 30 x 7mm and the left ovary measures 20 x 12 x 5mm.  The cut surface of the right ovary shows a unicystic lesion with a wall measuring less than 1mm thick lined by a smooth inner surface.  The cyst contains soft papillary cheese-like material.  No other lesions are identified.  Blocks: 1 to 6 - full LS through anterior body and cervix including endometrial tumour; 7 &amp;amp; 8 - further sections through endometrial tumour; 9 to 14 - full LS through posterior body and cervix; 15 &amp;amp; 16 - right adnexa; 17 &amp;amp; 18 - left adnexa.  (TO:FA/rs 3/4/69)
+MICROSCOPIC (Reported by Dr X Lundquist):
+Sections show a grade 2 endometrioid adenocarcinoma of the endometrium.  No myometrial or lymphvascular invasion is seen.
+The ectocervix and endocervix are uninvolved and unremarkable.  The myometrium is unremarkable.  The right ovary shows a simple serous cyst.  The left ovary and both tubes are unremarkable.
+MSI stains are pending.
+DIAGNOSIS:
+Grade 2 endometrioid adenocarcinoma of the endometrium, no myometrial or lymphvascular invasion.  Cervix uninvolved.
+ADDITIONAL REPORT 1/7/70:
+As requested, immunoperoxidase stains for MSI proteins were performed. MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.

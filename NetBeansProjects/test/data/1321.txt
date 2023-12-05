@@ -1,0 +1,72 @@
+Episode No:  51V620851W
+5186208.ODW
+
+Lantier, Benjamin 
+Lab No:  51V62085
+Llagas Creek
+SILVERDALE  Australian Capital Territory  2447
+Specimen: Tissue
+D.O.B:22/11/1994
+Sex:  M
+Collected: 08/02/2013 at 16:03
+Location:  ANATOMICAL PATHOLOGY-REDLAND HOSPITAL
+DR Birrunga Linwood Cuellar
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Asc colon cancer.  Right hemicolectomy.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a segment of colon and terminal ileum with attached mesentery.  The segment of colon measures 160mm in length x 70mm in maximum diameter.  The attached caecum is 25mm in length x 40mm in diameter.  The attached terminal ileum is 55mm in length x 25mm in maximum diameter.  The serosa appears smooth and shiny.  The mucosa shows an ulcerated protruding tan tumour measuring 45 x 35mm with a central area of ulceration.  The tumour is 33mm from the distal surgical margin and 45mm from the ileocaecal valve and 105mm from the proximal surgical margin (terminal ileum).  The rest of the mucosa appears unremarkable.  There are no polyps or diverticulae identified.  Theproximal surgical margin is inked blue and the distal surgical margin is inked black.  The tumour appears to invade the muscularis propria.  Representative sections.
+Blocks:  1 & 2 - margins; 3 to 5 - paired blocks tumour (with block 4 showing deepest invasion); 6 - tumour and distal colon; 7 - tumour and proximal colon; 8 - reserve block tumour; 9 - apical lymph node; 10 - one lymph node bisected; 11 - three lymph nodes; 12 - five lymph nodes; 13 - two lymph nodes;14 - three ?lymph nodes.   (MU/cc  13/4/63) 
+ 
+MICROSCOPIC (Reported by Dr O Plageman): 
+Sections show moderately differentiated adenocarcinoma with features as follow:
+Macroscopic Description
+
+Site of tumour:	
+Maximum tumour diameter:     45 mm
+Distance of tumour to nearer cut end:     33 mm (distal margin)
+Tumour perforation:     No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: well clear
+Lymph nodes
+Number of lymph nodes present: 15	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+No significant abnormality seen
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary- TNM 7th Edition
+(y)pT3     pN0     pMX     R0	
+
+
+DIAGNOSIS:
+Right hemicolectomy: Moderately differentiated adenocarcinoma, pT3 N0 MX R0
+
+
+

@@ -1,0 +1,57 @@
+ 5072726.DSU
+DAUB, LINETTE
+50U27261
+
+Last edited : 10/7/2063	: 2
+***SUPPLEMENTARY REPORT: IMMUNOHISTOCHEMISTRY FOR MSI MARKERS Dr O Espert (10.7.2063)
+
+CLINICAL:
+Cervical cancer adenocarcinoma and CIN 3 on cone.  
+1.  Right external iliac lymph nodes.  2.  Right obturator lymph nodes.  3.  Cervix, upper vagina and parametrium (radical trachelectomy).  4.  Upper cervical canal (extra piece taken to check margin clear).  5.  Left external iliac lymph node.  6.  Left obturator.  
+MACROSCOPIC:
+A.  Specimen labelled"Radical trachelectomy" consists of a relatively rounded piece of mucosa measuring 57 x 55mm with a central 13mm os and attached soft tissue at two opposite sides measuring 50 x 15 x 7mm and 45 x 12 x 6mm.  There is a small amount of remaining cervical tissue around the os but the majority of the mucosal tissue is composed of vaginal cuff.  12mm grey polypoid tissue protrudes from the os (?polyp?granulation tissue).  Macroscopically no distinct tumour is identified.  There are no marking sutures.  The specimen sequentially sectioned and AE 25 blocks.  
+Blocks:  1 to 4 - soft tissue attached to one side; 5 to 22 - mucosaltissue (9/10, 11/12, 13/14, 15/16 - paired blocks); 23 to 25 - attached soft tissue.
+B.  Specimen labelled "Upper cervical canal" consists of a cone shape piece of mucosa, 20 x 10 x 10mm showing a 2mm central os.  At the deep aspect of the specimen there appears to be some mucous material protruding from the os.  The specimen is sequentially sectioned perpendicular to the long axis and AE 3 blocks. 
+Blocks:  1 to 3 - two ends.  
+C.  Specimen labelled "Right external iliac lymph node" consists of two pieces of fibrofatty tissue, 25mm and 35mm in greatest dimension containing several lymph nodes measuring from 5mm to 20mm across.  
+Blocks:  1- three nodes; 2- one node bisected.
+D.  Specimen labelled "Right obturator lymph node" consists of a piece of fibrofatty tissue, 55 x 35 x 12mm containing several lymph nodes measuring from 4 to 32mm.
+Blocks:  1- three nodes; 2 - three nodes; 3 - one node trisected.
+E.  Specimen labelled "Left external iliac lymph node" consists of a piece of fibrofatty tissue, 50 x 30 x 10mm containing several nodes measuring from 2mm to 35mm across. 
+Blocks:  1 - two nodes; 2 - one trisected; 3 - fibrofattytissue with possible nodes.
+F.  Specimen labelled "Left obturator node" consists of a piece of fibrofatty tissue50 x 35 x 10mm containing several nodes measuring from 3mm to 30mm in greatest dimension. 
+Blocks:  1 - two nodes; 2 - one node bisected; 3 - ?three nodes.  
+(JKc/mm 1.10.62) 
+MICROSCOPIC:  (Reported by Dr O Demauro)
+A.  Sections of the radical trachelectomy, include cervical squamous mucosa, transformation zone, endocervical canal, as well as, a peripheral cuff of vaginal mucosa. There is a well differentiated cervical adenocarcinoma associated with extensive cervical adenocarcinoma in situ (AIS). Adenocarcinoma infiltrates into the cervical stroma to a maximum depth of 10mm. Adenocarcinoma and adenocarcinoma in situ extend along the length of the endocervical canal (10mm) and are present at the deep tissue (endocervical) margin. Adenocarcinoma appears clear of the peripheral (vaginal cuff) margins (>10mm). There isno convincing lymphovascular or perineural invasion. There is no evidence of Human Papillomavirus infection or CIN. 
+B.  Sections of the unoriented upper cervical canal biopsy show endocervical mucosa with underlying connective tissue. The biopsy shows a well differentiated cervical adenocarcinoma associated with adenocarcinoma in situ (AIS). Adenocarcinoma infiltrates 4mm through a cervical wall 9mm thick. Adenocarcinoma and carcinoma in situ are present at the inked peripheral margin and are clear of the deep margin (>5mm). There is no convincing lymphovascular space or perineural invasion. There is no evidence of Human Papillomavirus infection or CIN. 
+C.  There is no evidence of malignancy in five right external iliac lymphnodes (0/5). 
+
+D.  There is no evidence of malignancy in seven right obturator lymph nodes (0/7).
+E.  There is no evidence of malignancy in three left external iliac lymph nodes (0/3).
+F.  There is no evidence of malignancy in five left obturator iliac lymph nodes (0/5).
+DIAGNOSIS:
+A.  Radical trachelectomy: Well differentiated cervical adenocarcinoma and adenocarcinoma in situ (AIS), both present at deep (endocervical) margin. The vaginal cuff margins appear clear of in situ and invasive carcinoma (>10mm). 
+
+B.  Upper cervical canal: Well differentiated cervical adenocarcinoma and adenocarcinoma in situ (AIS), present at peripheral margin. Deep margin appears clear of in situ and invasive carcinoma (>5mm).
+
+C.  Right external iliac lymph node: No evidence of malignancy in five lymph nodes (0/5). 
+
+D.  Right obturator lymph node: No evidence of malignancy in seven lymph nodes (0/7). 
+
+E.  Left external iliac lymph node: No evidence of malignancy in three lymph nodes (0/3). 
+
+F.  Left obturator lymph node: No evidence of malignancy in five lymph nodes (0/5). 
+Representative slides seen with Dr O Kernagis.
+***SUPPLEMENTARY REPORT: IMMUNOHISTOCHEMISTRY FOR MSI MARKERS 
+Dr O Catto (10.7.2063)
+Immunohistochemical stains for MSI markers were performed as requested by Dr ANTONE ARVAY (see 50U272617U).
+Immunoperoxidase stains for MSI proteins 
+MLH1	Preserved nuclear staining
+PMS2  Preservednuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

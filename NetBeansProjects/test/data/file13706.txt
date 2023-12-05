@@ -1,0 +1,32 @@
+SPR no: 27R320704Y
+MRN no: 2763207
+Site_name: CONDOBOLIN RETIREMENT VILLAGE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Bilateral salpingo oophorectomy + washings.  2060 right breast cancer.   2066 metastasis left hip.
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Endometrial curettings&amp;quot;, consists of haemorrhagic tissue fragments measuring 5 x 5 x 2mm.  AE 1 block.
+
+B.  Specimen labelled &amp;quot;Right ovary + tube&amp;quot;, consists of a fallopian tube measuring 50mm in length and 8mm in diameter, with attached ovary measuring 30 x 25 x 10mm.  No discrete lesions are seen.  Blocks: 1 - fallopian tube including fimbria; 2 &amp;amp; 3 - ovary; 4 &amp;amp; 5 - remainder of tissue.  AE.
+
+C.  Specimen labelled &amp;quot;Left ovary + tube&amp;quot;, consists of a fallopian tube measuring 60mm in length and 8mm in diameter, with attached ovary measuring 35 x 25 x 8mm.  Multiple paratubal cysts are noted varying from 2 to 7mm.  The fallopian tube and ovary are otherwise unremarkable.
+Blocks: 1 - fallopian tube including fimbria; 2 &amp;amp; 3 - ovary; 4 to 8 - remainder of tissue.  AE.
+(TO:LN; LN/ta 12/10/66)
+
+
+MICROSCOPIC (Reported by Dr G Alvernaz):
+A.  The uterine curettings contain a small amount of inactive endometrium.  There is no evidence of endometritis, hyperplasia or malignancy.
+
+B.  The right ovary and fallopian tube shows no significant abnormality.  The entire specimen has been embedded and there is no evidence of dysplasia or malignancy.
+
+C.  The left ovary and fallopian tube shows no significant abnormality.  The entire specimen has been embedded and there is no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+A.  Endometrial curettings:  Inactive endometrium.
+
+B.  Right ovary and tube:  No significant abnormality.
+
+C.  Left ovary and tube:  No significant abnormality.

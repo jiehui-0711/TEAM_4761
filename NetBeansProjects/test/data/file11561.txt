@@ -1,0 +1,36 @@
+SPR no: 85T825856B
+MRN no: 85782585
+Site_name: EASTERN EYRE HEALTH AND AGED CARE - CLEVE CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+GI endometrial adenocarcinoma uterus.
+
+
+MACROSCOPIC:
+Specimen unlabelled as to site or nature, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 62g in total.  The uterus measures 70 x 50 x 27mm and has a smooth serosal surface.  The ectocervix measures 30 x 25mm and has an unremarkable surface.  On sectioning the myometrium is 30mm in maximum thickness.   Both the anterior and posterior body  shows tumour measuring 25 x 15mm and 20 x 10mm respectively at the fundus.  On sectioning the  tumour is 24mm on the anterior myometrium and 6mm on the  posterior body.  There is  a single fibroid measuring 6mm across.  The right fallopian tube measures 50mm in length with a outer diameter of 8mm.  The right ovary measures 22 x 10 x 7mm.  The left fallopian tube measures 50mm in length with an outer diameter of 7mm.  The left ovary measures 25 x 8 x 6mm.  The cut surface of the ovaries are unremarkable.
+Blocks: 1 to 4 - full LS anterior body and cervix; 5 &amp;amp; 6 - one slice RS with deepest invasion; 7 &amp;amp; 8 - one slice RS with deepest invasion; 9 to 11 - full LS posterior body and cervix; 12 &amp;amp; 13 - RS with the deepest invasion in the posterior body (block 12 - RS deepest invasion + small fibroid); 14 to 17 - all right adnexa (14 &amp;amp; 15 - fallopian tube; 16 &amp;amp; 17 -sliced ovary); 18 to 21 - all of left adnexa (18 &amp;amp; 19 - fallopian tube; 20 &amp;amp; 21 - ovary).  (LM/ta 30.6.66)
+
+
+MICROSCOPIC (Reported by Dr W Suppa):
+Sections show grade 1 endometrioid adenocarcinoma of the endometrium.  Adenocarcinoma extensively involves multiple foci of adenomyosis however, additional foci of invasion into the myometrium are identified.  No lymphovascular or perineural invasion is identified.  Invasive carcinoma penetrates the myometrium to a maximum depth of 6mm through a wall thickness of 14mm.
+The ectocervix and endocervix show no significant abnormality.  A focus of endosalpingiosis is seen on the uterine surface.  The fallopian tubes and ovaries show no significant abnormality.
+
+
+DIAGNOSIS:
+Uterus, cervix, bilateral fallopian tubes and ovaries:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  Extensive involvement of adenomyosis by carcinoma
+-  Tumour penetration to a depth of 6mm through a wall thickness of 14mm.
+-  No lymphovascular invasion identified.
+-  Cervix uninvolved.
+ADDENDUM (7/6/66):
+Immunoperoxidase stains for MSI proteins (Block 4)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

@@ -1,0 +1,90 @@
+SPR no: 86Q176520Z
+MRN no: 8661765
+Site_name: BARWON HEALTH - ASHLEY MANOR CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportFURTHER SUPPLEMENTARY REPORT  BELOW:
+SUPPLEMENTARY REPORT BELOW:
+86Q17652 (86Q176520Z) Rollins, DEANGELO Shaynes
+HISTOPATHOLOGY REPORT
+ANGASTON HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Peritoneal nodule frozen.  PCI 3, history of colorectal ca, exudate in abdomen.
+
+1.  Small bowel/large bowel/gallbladder.
+2.  Deep operative swab &amp;quot;abdominal collection&amp;quot; for MCS.
+
+MACROSCOPIC:
+A.  &amp;quot;PERITONEAL NODULE&amp;quot;.  Two pieces of red tissue, 6 and 5mm.  All embedded for frozen.
+
+F/S:  &amp;quot;Fibrous tissue.  No malignancy&amp;quot;.  Result was given by phone to Dr. Arron at 10:50am on 19.07.2067 by Dr. V. Brisbon.
+
+B.  &amp;quot;SMALL BOWEL, LARGE BOWEL, GALLBLADDER&amp;quot;.  Specimen received in multiple pieces.
+
+The first specimen consists of an irregular mass of tissue consisting of one area with a central necrotic nodule measuring  80x100x70mm with ragged surface to which are attached two firmly adherent looped segments small bowel measuring 350mm and 140mm in length. There are serosal adhesions between the loops of bowel. An adherent second component of the mass is formed by an irregular fatty mass (?omentum) within which there is a segment of large bowel 80mm in length and a second necrotic nodule measuring 30x30x15mm. nodular tumour across and a loop of large bowel 80mm in length with open circumference of 40mm.  The ragged surface is inked green. Further sectioning reveals the mass appears to have infiltrated thethe muscularis propria of the adherent small bowel.
+The mucosa of each segment of small and large bowel appears unremarkable.
+
+(1  small bowel and nodule 2  further nodule ; 3  adherent surface between the first and second segements of bowel and lesion; 4  the second bowel and lesion; 5  the ragged area near the margin of the second bowel; 6  section from the large bowel; 7  section from the  nodule in the ?omentum; 8  another section of the mass).
+
+Section of right hemicolectomy 280mm, consists of 80mm ileum and 200mm of colon. Located 60 from ileocaecal valve, the serosa of the colon has ragged area 25mm.  The mucosa is not ulcerated. Located 40mm from ileocaecal valve there is a sessile polyp 10mm in diameter.
+
+(9  the polyp; 10  the ragged area; 11  RS the bowel wall and ileum).
+
+A further specimen consists of segment of bowel 180mm in length.  There is a ?anastomosis 60mm from one of the margins. The anastomosis is a transition zone between the normal mucosa and the dusky mucosa.  The bowel wall near the transition zone has some nodules in the antimesenteric border 3mm across.
+
+(12&amp;amp;13  transition zone [anastomosis]; 14  rigid and nodular area).
+
+There is an opened and disrupted gallbladder 65x40mm.  The serosa has some area of haemorrhage and mucosa has strawberry pattern.
+
+(15  body and fundus; 16 presumptive cystic duct and the neck).
+
+Firm fatty tissue 70x45x20mm.  Cut surface reveals metastatic lesion with white cut surface.
+
+(17&amp;amp;18  full face of the lesion).  RS (M-18/LMA 19/11/2070 km).
+
+MICROSCOPIC:  (Dr V Somodi)
+A.  The paraffin section confirms fibrosis.
+B.  Sections of the first described piece of tissue consists of adherent loops of small bowel and segment of adherent large bowel.  A tumour mass consisting of sheets of pleomorphic undifferentiated large cell carcinoma with broad areas of necrosis forms the core of the adhered mass and with infiltration of the small bowel muscularis propria and submucosa in some areas. The remainder of the mucosa appears unremarkable apart from the presence of submucosal oedema.
+Sections of the right hemicolectomy specimens demonstrate unremarkable appearing small and large bowel apart from the presence of sessile tubular adenoma with low grade dysplasia.
+Sections of the next described segment of bowel demonstrate large bowel including probable anastomosis site. There are serosal adhesions present.
+Sections of the gallbladder show cholesterolosis and surface adhesions.
+Sections of the next described mass within fat demonstrate sheets of necrotic tumour with features of large cell undifferentiated malignant neoplasm.  Adjacent areas of extracellular mucus are identified.
+Immunohistochemistry (Block B4): There is positive staining for CAM5.2, AE1/AE3 and EMA. The stains for CDX-2, CK7, CK20 and CEA are negative .
+Comment : There are features of undifferentiated large cell carcinoma.  Clinical correlation is recommended.
+DIAGNOSIS:
+PERITONECTOMY SPECIMEN -
+-UNDIFFERENTIATED LARGE CELL CARCINOMA.
+
+26/7/2067 ank
+
+SUPPLEMENTARY REPORT: Request by clinical team for TTF-1 immunohistochemistry.
+Further immunohistochemistry: TTF-1 is negative. Clinical/imaging correlation is required.
+11.1.2071.
+FURTHER SUPPLEMENTARY REPORT:
+At the request of Prof V Vanveldhuize (Cancer Care) the current case was compared to the previous pathology from QUILPIE HOSPITAL Hospital (PINNAROO SOLDIERS' MEMORIAL HOSPITAL Laboratory Number 86Q1765).
+
+In addition further immunohistochemistry and mucin stains were performed on the current WEST WIMMERA HEALTH SERVICE - JEPARIT case (Block B18). There is positive staining for BER-EP4 (strong diffuse) and focal staining for HERA. CD15 is negative. These are consistent with epithelial differentiation. The mucin stains (PAS-D and mucicarmine) are negative for intracytoplasmic mucin however the previously described extracellular mucin pool adjacent to carcinoma is positive.
+
+The appearances of the tumour from MOUNT GAMBIER AND DISTRICTS HEALTH SERVICE hospital are as in the original report. That is, there is a high grade adenocarcinoma with mucinous differentiation, in which tumour cells show appreciable amounts of pale to vacuolated cytoplasm and tendency to eccentrically located nuclei and with extracellular mucin pools. The current QUILPIE HOSPITAL case shows higher grade nuclei that are centrally located with increased nucleus to cytoplasm ratio and no features of cytoplasmic or architectural differentiation however an area of extracellular mucus is seen adjacent to tumour (Block B18).
+Although it would be prudent to correlate with clinical and imaging features to exclude another primary site, the appearances of the current case are consistent with de-differenitation of the previous mucinous adenocarcinoma.
+
+16.08.2019
+
+FURTHER SUPPLEMENTARY REPORT:
+At the request of Dr Rocky Curcio MSI Immunohostochemistry was performed.
+
+Immunostains for MSI proteins (ACUTE STROKE UNIT STAWELL REGIONAL HEALTH; block: B18 )
+MLH1: Absent nuclear staining.
+PMS2: Absent nuclear staining.
+MSH2: Retained (positive) nuclear staining.
+MSH6: Retained (positive) nuclear staining.
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Clinical correlation is recommended.
+
+11.5.2067

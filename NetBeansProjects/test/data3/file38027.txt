@@ -1,0 +1,52 @@
+SPR no: 83V391764P
+MRN no: 10568483
+Site_name: MALENY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT ATTACHED
+
+83V39176 (83V391764P) Bordes, SHERLENE KAREEN
+
+HISTOPATHOLOGY REPORT
+WILCANNIA HEALTH SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Appendix tumour, PMP ?low grade DPAM, spleen, omentum, colon/rectum, peritoneal disease, uterus, wound.
+
+MACROSCOPIC:
+&amp;quot;OMENTUM, GALLBLADDER, RECTUM, RIGHT COLON, SPLEEN, UTERUS, PERITONEAL DISEASE&amp;quot;.  [Please note that no right hemicolectomy identified in the container after draining the whole container.  Surgical team contacted (Registrar Saul Rainie) who indicated that sometimes specimen submitted to Dr. Matt Research Centre and advised to document not finding the right hemicolectomy.]
+
+Multiple components in the same jar including,
+
+En-block of anterior resection with attached uterus. Anterior resection including rectum and portion of colon measuring 260mm in length, 30mm in diameter.  At the proximal, there is a lobulated white mucinous tumour with overlying mucosa ulceration measuring 55x50x45mm.  It is 10mm from proximal margin.  Possibly invading from outside to the bowel mucosa.  Uterus measures 90x70x70mm.  There is a mucinous mass attached superoposteriorly and invading to the uterine wall measuring approximately 50x40x40mm.  Peritoneum covered with disseminated mucinous nodules. Fallopian tubes and ovaries are unidentifiable.
+
+Spleen measures 115x90x60mm.  Serosa covered with mucin and sectioning shows mucinous tumour infiltrating to the splenic parenchyma.
+
+There is a gallbladder, it measures 60x40x20mm.  It is distorted and covered by mucinous tumour.  No obvious invasion into the mucosa present.
+Multiple fibrofatty tissue/peritoneal tissue fragments with the disseminated mucinous nodules measuring 270x300x80mm in aggregate.
+
+(1  proximal margin of anterior resection; 2  distal margin of rectum; 3&amp;amp;4  nodule at the proximal anterior resection with the mucosal involvement; 5  sections of cervix; 6  sections of uterus; 7&amp;amp;8  sections of superoposterior tumour infiltrating into the uterus; 9&amp;amp;10  spleen and tumour; 11&amp;amp;12  gallbladder and tumour; 13-15  representative sections from mucinous nodule; 16  tissue banking).  RS (M-16/SM 23/8/2070 km).
+
+Further blocks:
+(17&amp;amp;18 further section of tumour and colon; 19-21 one TS composite section of colon and tumour; 22-25 composite section of TS of colon and tumour; 26-29 section of tumour and endometrium/myometrium).  RS (M-29/SM 26/10/2069 ank)
+
+MICROSCOPIC:  (Dr V Acee)
+Sections of the segment of colon show a transmural mucinous tumour associated with large extracellular mucin pools with fibroblastic organisation and with groups and sheets and strips of epithelial cells columnar mucinous morphology, multilayering mitotic activity, and in some areas with moderate to high grade nuclear atypia.  The tumour shows a prominent villous morphology on the luminal surface of the colon and with small infiltrative nests of tumour with desmoplastic reaction in the submucosa.  The proximal and distal colonic resection margins are unremarkable. A single (incidentally identified) pericolic lymph node is negative for tumour.
+Sections of the cervix are unremarkable. The uterine serosal mass consists of large extracellular mucin pools associated with columnar mucinous epithelium with areas of significant multilayering/cribriforming and intermediate to high grade cytology and mitotic activity and with infiltration into the myometrium.  The endometrium is inactive.
+Similar tumour is seen on the serosal surface of the spleen, the gallbladder and the separate fragments of fibrofatty peritoneal tissue.
+Comment : The appearances are those of mucin producing tumor with moderate to high grade cytologic atypia, and areas with desmoplastic stromal reaction to infiltrative nests of tumour. These features are consistent with mucinous adenocarcinoma.  There is villous morphology of the tumour involving the colonic segment and raises this as a possible primary site.  Clinical correlation is recommended. MSI immunohistochemistry (Block 21 pending - supplementary report to follow)
+DIAGNOSIS:
+PERITONECTOMY SPECIMEN -
+-MUCINOUS ADENOCARCINOMA INVOLVING COLON, UTERUS, AND PERITONEUM - SEE TEXT AND COMMENTS FOR DETAILS.
+29/8/2070 ank
+Supplementary report (10/6/70)
+Immunostains for MSI proteins (St Vincent's Pathology ST JOSEPH'S HOSPITAL; block: 21)
+MLH1:  Positive staining present
+PMS2:  Positive staining present
+MSH2:  Positive staining present
+MSH6:  Positive staining present
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+10/7/2069 nh

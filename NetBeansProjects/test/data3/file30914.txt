@@ -1,0 +1,21 @@
+SPR no: 53J684440E
+MRN no: 533684
+Site_name: TEMORA HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+76yo female thickened endometrium.  Sterile pyuria.  Uterus, tubes + ovaries.  Peritoneal washings.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 51.4g in total.  The uterus measures 75 x 45 x 25mm with a smooth shiny serosal surface.  The ectocervix measures 28 x 25mm and has an unremarkable surface.  The endometrium is up to 1mm in thickness and the myometrium is up to 11mm in thickness.  The myometrium is unremarkable. The fallopian tubes are in two discontinuous segments (previous tubal ligation operation). The right fallopian tube measures 58mm in length x 5mm in diameter.  The right ovary measures 25 x 12 x 6mm and has an unremarkable cut surface.  The left fallopian tube is measures approximately 44mm in length x 5mm in diameter.  The fallopian tube measures 18 x 11 x 6mm and has an unremarkable cut surface.  Representative sections.
+Blocks: 1 to 3 - full longitudinal sections through anterior body and cervix; 4 to 6 - full longitudinal section through posterior body and cervix; 7 - right fallopian tube; 8 - right ovary; 9 - left fallopian tube; 10 - left ovary.  (TO:JL/eh 11/4/69)
+
+
+MICROSCOPIC (Reported by Dr O Carls):
+Sections show a benign endometrial polyp.  The non-polypoid endometrium is essentially inactive/basal.  The ectocervix and endocervix are unremarkable.  The myometrium is unremarkable.  The right and left fallopian tubes are unremarkable.  The right and left ovaries show senescent changes.  There is no evidence of endometrial hyperplasia or malignancy.
+
+
+DIAGNOSIS:
+Uterus, tubes and ovaries:
+-   Benign endometrial polyp.

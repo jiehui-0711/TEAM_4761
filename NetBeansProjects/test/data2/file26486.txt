@@ -1,0 +1,49 @@
+SPR no: 72D613209I
+MRN no: 721613
+Site_name: MORUYA DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Previous distal pancreatectomy for pNET.  Recurrent disease.  Excision and recurrent around coeliac axis.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left peritoneal tumour&amp;quot;, consists of a rounded piece of fat, received unoriented in formalin measuring 20 x 15 x 10mm.  The external surface is inked black.  On sectioning the specimen contains staples which disrupts the margin extensively.
+Blocks: 1 - shave edges of specimen; 2 - mid section TS.  AE 1 block.
+
+B.  Specimen labelled &amp;quot;Coeliac lymph node&amp;quot;, consists of three fragments of fibrofatty tissue, containing possible lymph nodes, measuring between 20 and 30mm.
+Blocks: 1 - single piece of tissue serially sliced TS; 2 - single piece of tissue serially sliced TS; 3 - single slice of  tissue serially sliced TS.  AE.
+
+C.  Specimen labelled &amp;quot;Transverse colon lymph&amp;quot;, consists of a single piece of fibrofatty tissue, containing a possible lymph node, measuring 15 x 12 x 5mm.  Serially sliced TS.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of omentum 190 x 120 x 20mm.  No macroscopic visible tumour deposits are seen.  RS in 4 blocks.  (TO: MS; MS/vo 28.6.65)
+
+
+MICROSCOPIC (Reported by Dr U Weisholz):
+Sections show fibroadipose tissue containing a large artery as well as medium sized nerves.  Within the fibrous tissue there is proliferation of disorganised nerve bundles associated with fibrosis.  The appearance is compatible with a traumatic neuroma.  In the adjacent tissue there is a granulomatous reaction to foreign material consistent with suture granulomata.  There is focal chronic inflammation.  No evidence of malignancy is seen.  No evidence of tumour is seen.
+
+B.  Two lymph nodes show no evidence of malignancy (0/2).
+
+C.  One lymph is almost completely replaced by  metastatic neuroendocrine tumour.  The tumour shows is composed of epithelioid cells with round relatively uniform nuclei with granular to vesicular chromatin, variably present small nucleoli and a moderate amount of amphophilic cytoplasm arranged in nests/trabeculae with focal tubule formation.  Mitoses number up to
+9/10hpf and the Ki67 proliferation index is 8%.  Extranodal extension is not seen.
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the tumour cells stain as follows:
+Positive: Synaptophysin, Chromogranin (patchy), Glucagon  (sparse patchy), Somatostatin (sparse patchy) and CD56.
+
+COMMENT:
+The deposit shows similar morphology to the primary pancreatic tumour and initial locoregional metastases and is consistent with metastatic pancreatic neuroendocrine tumour, grade 2.
+
+D.  Sections show mature adipose tissue.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Left peritoneal tumour:
+-  Scar tissue including suture granulomas, changes consistent with traumatic neuroma.
+-  No evidence of malignancy.
+
+B. Coeliac lymph node;
+-  Two negative lymph nodes (0/2)
+
+C. Transverse colon lymph node:
+-  One lymph node containing metastatic pancreatic neuroendocrine tumour (see comment).

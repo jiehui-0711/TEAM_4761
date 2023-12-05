@@ -1,0 +1,33 @@
+SPR no: 76M276233V
+MRN no: 7642762
+Site_name: WEST WIMMERA HEALTH SERVICE - RAINBOW
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report76M27623 (76M276233V) MCADAM, LEON LOWELL
+HISTOPATHOLOGY REPORT:
+HISTORY:
+Peritonectomy.  Left femoral artery lymph node.  Peritoneal stripping. Bowel specimen.
+Previous:
+SEALS report 76M276233 from 26/1/2065, peritoneal disease resection and appendiceal tumour.
+
+MACROSCOPIC:
+A.  &amp;quot;COLON PERITONEAL STRIPPING WOUND&amp;quot;. Consists of two segments of bowel and multiple pices of fibrofatty tissue.  The first segment of bowel measures 160mm in length with a maximum diameter of 30mm. The attached mesocolic fat is up to 45mm wide.  One margin is inked blue, the other black. The surface is roughened with areas of adhesion.  On opening the mucosa shows flattened mucosa.  No discrete mass lesion is identified.
+(1 margins; 2 section through roughened serosa; 3 one possible node from mesocolic fat)
+The second segment of bowel measures 110mm in length with a maximum diameter of 30mm.  The serosa is roughened with areas of adhesion. The mucosa is flattened with some mild nodularity.  One margin is inked blue, the other black.  Within the attached mesocolic fat is mucinous tumour deposit. (4 margins; 5 two section, one showing serosal mucinous deposit and area of nodularity within mucosa; 6 mucinous deposit within mesentery; 7-9 one lymph node each bisected) The separate pieces of fibrofatty tissue in aggregate measures 260x190x30mm within which are mucinous tumour deposit.  (10-13 RS showing mucinous tumour deposit [11 tumour block]).  RS (M-13)
+
+B.  &amp;quot;LEFT FEMORAL ARTERY LYMPH NODE&amp;quot;. Consists of a nodule of fatty tissue. It measures 20x10x8mm.  Bisected. AE (2-1/MC 30/10/2067 ank)
+
+MICROSCOPIC:   S Knick
+
+A. The previous reports are noted. The sections show disseminated peritoneal involvement by low grade appendiceal mucinous neoplasm (LAMN), AJCC grade 1, consensus classification: low grade mucinous carcinoma peritonei (DPAM disseminated peritoneal adenomucinosis).
+
+The mucinous neoplasm deposits involve the surface of bowel and fatty ?omental tissue and other tissues. The deposits are of low cellularity with many areas consisting of organising acellular mucin and in other areas there is associated neoplastic epithelium, small quantities, arranged in thin monolayers, with low grade nuclear features. There is no invasion identified.  Sampled lymph nodes are negative for tumour.  There is no signet ring carcinoma or high grade component identified.
+
+B.  The lymph node shows reactive changes.
+
+DIAGNOSIS:
+A. PERITONECTOMY SPECIMEN - peritoneal deposits of low grade appendiceal mucinous neoplasm (LAMN), AJCC grade 1, consensus classification: low grade mucinous carcinoma peritonei (DPAM disseminated peritoneal adenomucinosis).
+
+B.  LEFT FEMORAL ARTERY LYMPH - lymph node, negative for tumour.
+
+10/1/2067 ank

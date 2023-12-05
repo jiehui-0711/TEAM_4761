@@ -1,0 +1,56 @@
+Episode No:  36K144109G
+364144.DCZ
+
+Swackhamer, BRIAN 
+Lab No:  36K14410
+Adolph
+WARRNAMBOOL  Northern Territory  4070
+Specimen: Tissue
+D.O.B:  11/3/2041
+Sex:  F
+Collected: 17/6/2065 at :
+Location:  MILLICENT AND DISTRICT HOSPITAL AND HEALTH SERVICES
+DR Rupert FELECIA Blyden
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Synovial cell sarcoma.  R upper lobe.  Paratracheal node.  Hilar node.  Tracheobronchialnode.  
+Additional information:  Previous right thigh mass diagnosed as biphasic synovial sarcoma on the 20/3/2063 confirmed with FISH SS18 rearrangement detected.  Also biopsy of left upper lobe of lung suspicious for metastatic synovial sarcoma on 25/5/2065.  
+MACROSCOPIC:
+A.  Specimen labelled "Right upperlobe", consists of a right upper lobectomy weighing 120g pre-inflation.  Post inflation the lung measures 130 x 100 x 40mm.  The surgical margin measures 70 x 30mm and is inkedblack.  Possible lymph nodes are found within the surgical margin area.  These range from 5 to 10mm in diameter.  The pleural surface is smooth and dark grey.  On sectioning there is a tan firm tumour abutting the surgical margin measuring 20 x 15 x 10mm.  The lung away from the tumour is dark brown and unremarkable.  No other lesions are found within the lung parenchyma.  
+Blocks: 1 - bronchial margin; 2 - vascular margin; 3 - ?lymph nodes; 4 to 7 - tumour (4 & 5 - paired blocks); 8 - ?small satellite tumour within pale areas posteriorly; 9 - representatives; 10 - normal lung away from tumour; 11 - tumour for Bio Bank.
+B.  Specimen labelled "Tracheal bronchial lymph node", consists of a lymph node measuring 12mm in maximum dimension.  Specimen BAE 1 block. 
+C.  Specimen labelled "Paratracheal lymph node", consists of a piece of fibrofatty tissue measuring 45 x 25 x18mm containing lymph nodes ranging from 5 to 20mm in maximum dimension.  
+Blocks: 1 - lymph nodes as seen; 2 and 3 - largest lymph nodes serially sectioned.  
+
+D. Specimen labelled " Hilar lymph node", consists of a lymph node measuring 5mm in maximum dimension.  Specimen BAE 1 block.   (DT/vo 18.6.64) 
+MICROSCOPIC (Reported by Dr J Armiger & registrar Dr J Mangram):
+A.  Sections show a poorly differentiated malignancy consisting of sheets, trabeculae and cords of cells within a desmoplastic stroma.  Occasional gland formation and rosette structures are seen.  The cells arepredominately epithelioid, with granular eosinophilic cytoplasm, large oval nuclei with coarse chromatin and small nucleoli.  Abundant mitoses and focal areas of necrosis are present.
+The tumour cells show strong diffuse positive staining with AE1/3 and patchy staining with CD56, CK5/6, Bcl2, synaptophysin and MIC-2.  The CK7, CK20, TTF-1, Napsin, Chromongranin, S100, P63, Desmin and SMA stains are negative.  
+Extensive lymphovascular invasion is present and three (3) of the ten (10) hilar lymph nodes show metastatic tumour.  The bronchial margin is free of tumour and the pleural surface is intact.   The remaining lung parenchyma shows no significant abnormality.  
+B.  The single(1) lymph node identified contains metastatic tumour.  
+C.  Two (2) of the four (4) lymph nodes identified contains metastatic tumour.
+D.  Sections show fibrofatty tissue with no significant abnormality.  There isno evidence of malignancy. 
+COMMENT:
+The present tumour has a more epithelioid and high grade appearance compared to the previously diagnosed synovial sarcoma (36K14410).   No definite spindle cell component is seen within the present tumour.  Strong staining with AE1/3 suggests a carcinoma however, the remaining immunohistochemical profile is difficult to interpret, possibly be due to the poorly differentiated nature of the tumour.  The most likely scenario is that the current specimen represents metastasis of the carcinomatous component from the thigh biphasic synovial sarcoma.  Tissue will be submitted for FISH studies to confirm this.  
+DIAGNOSIS:  
+A - D.  Right upper lobe and lymph nodes:
+-  Probable metastatic synovial sarcoma, carcinomatous component (see comment).
+-  Extensive lymphovascular invasion.
+-  Margins appear clear.
+-  Six (6) positive lymph nodes.
+
+ADDENDUM (13/7/65):
+Report from PINNAROO SOLDIERS' MEMORIAL HOSPITAL's Pathology
+Reported by: J. Maysonet	/Dr J. Trodden
+
+
+FLUORESCENCE IN SITU HYBRIDISATION - FISH
+
+FISH Probe:
+SS18 (18q11.2) (SYT) dual colour break apart rearrangement probe (Vysis)
+FISH Results:
+nuc ish(SS18x2) (3'SS18 sep 5'SS18x1)/(3'SS18x3,5'SS18x2) (3'SS18 sep 5'SS18x1)
+Comment:
+Interphase FISH detected signal patterns consistent with SS18 rearrangementin this tissue. The majority of nuclei showed one copy of non-rearranged SS18 and one copy of rearranged SS18. A minority of nuclei showed an additional 3' (centromeric) SS18 signal.
+Summary:  SS18 rearrangement detected.
+

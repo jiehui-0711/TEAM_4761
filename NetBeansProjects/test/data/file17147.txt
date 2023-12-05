@@ -1,0 +1,28 @@
+SPR no: 57L696873B
+MRN no: 57469687
+Site_name: BROADMEADOWS HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+HCC seg 7.  Previous TACE.  Seg 6/7 liver resection.  Gallbladder.
+Specimen received fresh.  Small portion sampled for biobanking.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Liver segment 6 and 7&amp;quot;, consists of a liver segment and separate gallbladder.  The liver segment measures 160 x 85 x 65mm and weighs 437g.  The resection margin is inked blue.  The liver capsule appears to have an area of puckering measuring 30 x 25mm.  The underlying liver contains a circumscribed lesion measuring 38 x 25 x 20mm.  This lesion lies less than 1mm from the capsule and is 60mm clear of the resection margin.  The uninvolved liver parenchyma appears mildly fatty.  The gallbladder is 90mm in length and 65mm in circumference.  The serosa appears smooth and shiny.  The wall is 2mm thick.  The mucosa is green and granular with changes of cholesterolosis.  No gallstones are present.
+Blocks: 1 to 4 - RS tumour (2 to 4 - includes hepatic capsule); 5 - hepatic margin; 6 &amp;amp; 7 - uninvolved liver; 8 to 10 - gallbladder (8 - cystic duct; 9 - body; 10 fundus).   (TO: LM;LM/vo 23.1.66).  Re-select blocks:  11-20 - remainder of liver tumour.
+
+
+MICROSCOPIC (Reported by Dr P Nkomo):
+The liver contains a 38mm infarcted and necrotic tumour.  The entire tumour has been embedded and no viable tumour is present for assessment.  The liver immediately surrounding the tumour shows reactive changes including bile ductular proliferation, as well as multiple vessels containing fibrin thrombi or organising thrombus.  No polarisable foreign material or embolic material is identified.  No lymphovascular invasion or perineural invasion is seen.  The infarcted tumour is well clear of the hepatic resection margin.
+
+The uninvolved liver shows fibrous expansion of the portal tracts as well as areas of bridging fibrosis associated with an element of bile ductular proliferation.  There is portal-to-portal bridging and incomplete portal-to-central vein bridging, however no hepatocyte nodularity is appreciated.  These features are consistent with evolving cirrhosis.  There are features of chronic hepatitis, including a mild periportal chronic inflammatory infiltrate composed mostly of lymphocytes, as well as an associated interface hepatitis.  The hepatocyte plates appear within normal limits and no significant lobular inflammation is identified.  Minimal macrovesicular steatosis is seen.  Perl&amp;apos;s staining shows focal hepatocytes with mild iron deposition in no particular zonal distribution.  No significant deposits of copper or alpha1-antitrypsin are identified.  No specific aetiology for the chronic hepatitis with fibrosis is identified histologically.  Please correlate with the clinical and serological findings.
+
+The gallbladder shows features of chronic cholecystitis.  There is mild hypertrophy of the muscularis propria and a patchy chronic inflammatory infiltrate.  Changes of cholesterolosis are noted.  The gallbladder shows no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+Liver segment 6 and 7 resection:
+-  38mm infarcted tumour.
+-  Changes consistent with evolving cirrhosis and chronic hepatitis (see text).
+
+Gallbladder:
+-  Chronic cholecystitis.

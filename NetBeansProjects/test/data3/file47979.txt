@@ -1,0 +1,19 @@
+SPR no: 70P295165B
+MRN no: 70529516
+Site_name: QUORN HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Laparotomy for recurrent abdominal liposarcoma.  Previous had areas of dedifferentiation.  R/O retroperitoneal sarcoma.  R nephrectomy, cholecystectomy.  Abdominal wall tumour for histopathology and tumour banking.  Further OPD.
+Further clinical history:  Patient had laparotomy for resection of large peritoneal sarcoma nephrectomy and cholecystectomy with Dr WILFREDO Cessna in 2066.  Please refer to 70P29516 for previous histology result of a diagnosis of dedifferentiated liposarcoma.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Abdominal tumour&amp;quot; received fresh, consists of an unoriented irregular shaped tan tissue with attached fat,  the specimen weighs 1.33kg.  The specimen contains firm, pale tan soft tissue measuring 190 x 120 x 85mm with attached fat, 260 x 100 x up to 60mm.  Margin inked blue.  Specimen sampled for biobank.  The firm soft tissue is serially sliced.  The cut surface shows mostly a homogenous pale tan myxoid surface with multiple focal haemorrhagic areas ranging from 20 to 45mm in maximum dimension.  The pale tan lesion appear to be well circumscribed and likely encapsulated.  No other nodules or lesions are identified within the fatty tissue.  Blocks: 1 &amp;amp; 2 - RS haemorrhagic myxoid area; 3 to 5 - RS myxoid area; 6 to 10 - further RS different haemorrhagic myxoid area; 11 &amp;amp; 12 - further RS myxoid area; 13 to 15 - RS fatty tissue.  RS 15 blocks.   (TO:JT/ta 6/10/66)   Photo taken.
+
+
+MICROSCOPIC (Reported by Dr T Mellom):
+Sections show a spindle cell sarcoma characterised by cells arranged into fascicles and storiform pattern and exhibiting both low grade and high grade areas.  There are scanty mature adipocytes scattered within the tumour.  Focal areas of necrosis and inflammatory cell collections are present. There is variable collagen deposition and focal myxoid change.Nuclei show mild to moderate atypia, multinucleation and scattered mitoses.  Most areas are viable and necrotic areas are scanty.
+Tumour extends to the surgical resection margin.  Attached fatty tissue is unremarkable.
+The tumour morphology is identical to the previously reported retroperitoneal dedifferentiated liposarcoma (case number 70P29516).
+
+DIAGNOSIS:
+Abdominal tumour:  Recurrent dedifferentiated liposarcoma with low grade and high grade features  Morphological features are identical to the previously reported sarcoma

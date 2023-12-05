@@ -1,0 +1,42 @@
+SPR no: 33Z796283C
+MRN no: 3397962
+Site_name: SOUTHERN YORKE PENINSULA HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+
+CLINICAL:
+Distal pancreatectomy and retroperitoneal lymph nodes for ? IPMN.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Subtotal pancreatectomy&amp;quot;, consists of a distal pancreatectomy and piece of omentum.  The pancreas measures 147 x 50 x 50mm.  Near the resection margin is a cystic structure measuring 30 x 30 x 25mm with an intact and smooth outer surface.  The pancreas weighs 94g.  The cystic structure appears intact.  Stapled line is removed with the residual margin inked black.  The inferior splenic vessel impression is identified.  Anterior surface inked blue, posterior red, and superior green.  On sectioning the lesion at the head of the pancreas is filled with thin, mucoid and clear fluid and is unilocular.  The proximal 45mm of the pancreas is sectioned longitudinally with the remaining pancreatic tissue sectioned transversely.  The cystic structure has a capsule less than 1mm in thickness throughout with a smooth internal surface.  The proximal longitudinally sliced section is sliced into 7 slices, with the remaining distal pancreas serially sliced TS into slices 8 to 23.  Please refer to attached photograph for specimen.  Additionally within the specimen container is a piece of omentum measuring 440 x 230 x 60mm.  On sectioning no definitive lymph nodes are seen.
+Blocks: 1 to 7 - LS proximal pancreas including cystic lesion; 8 - 22 - distal pancreas serially sliced TS; 24 to 27 - RS omentum.
+(TO: MS; MS/rs 18/3/67)
+
+
+MICROSCOPIC (Reported by Dr H Rigney):
+The pancreas is entirely embedded and examined.  The 30mm cystic tumour within the pancreas is an intrAduct papillary mucinous neoplasm  (IPMN) with low grade dysplasia.  The tumour is composed of cystically dilated spaces lined by flat or shallow papillary mucinous epithelium of gastric type.  The underlying wall is variably fibrous and no ovarian type stroma is identified. The epithelium is lined by cells with rounded elongated bland nuclei which is predominantly simple with focal pseudostratification and occasional small nucleoli.  Mitoses are not identified.  The tumour appears to expand the main pancreatic duct with extension into some smaller branch ducts (favour combined main duct with involvement of branch ducts).  There are some associated patchy acinar atrophy.  No invasive carcinoma is seen.
+
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type:  Intraduct papillary mucinous neoplasm ( gastric type) with low grade dysplasia
+
+Microscopic tumour sites:  Distal pancreas favour main duct with involvement of branch ducts (please correlate with preoperative imaging)
+
+Maximum tumour diameter:  30mm (gross measurement)
+
+Margins:  Stapled resection margin 3mm (block 5)
+
+Surfaces:
+In some areas disruption of the specimen makes assessment difficult.  Where intact the tumour is located as follows.
+Anterior:  0.9mm(block 15)
+Posterior: 0.6mm (block 6)
+
+Lymph nodes:  Two negative lymph node
+
+
+DIAGNOSIS:
+Subtotal pancreatectomy:
+- Intraduct papillary mucinous neoplasm (gastric type) with low grade dysplasia, at least 30mm, , margins clear.
+The findings were discussed with Dr H Lowis on 26.3.66

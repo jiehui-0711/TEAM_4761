@@ -1,0 +1,40 @@
+SPR no: 41Y386207X
+MRN no: 4193862
+Site_name: ROYAL PRINCE ALFRED HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Large uterine mass. Very likely malignancy on imaging.  Suspicious bulky lymph nodes during surgery.  Nil prior histopathology as hysterectomy required in any case.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 161g in total.  The uterus measures 90 x 65 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 15 x 15mm and has an unremarkable surface.  The entire endometrial cavity is occupied by a pale friable tumour measuring 56 x 65mm in cross section.  It appears to lie at least 26mm to the ectocervix.  The tumour appears predominantly adherent to the anterior aspect of the uterus.  On sectioning the endometrium is 26mm in maximum thickness and the myometrium is 8mm in maximum thickness. The endometrium invades the myometrium by up to 90 percent in the anterior left aspect.  The endometrium lies 2mm to the nearest serosal surface.  The right fallopian tube measures 40mm in length with a maximum diameter of 5mm.  The right ovary measures 21 x 13 x 6mm and has an unremarkable cut surface.  The left fallopian tube measures 35mm with a maximum diameter of 5mm.  The left ovary measures 13 x 9 x 12mm and has an unremarkable cut surface.
+Blocks: 1 to 6 - full LS of anterior body and cervix; 7 to 10 - RS left anterior endomyometrium with deepest invasion; 11 to 14 - full LS posterior body and cervix; 15 - RS left posterior endomyometrium with tumour; 16 - LS right fimbriae; 17 - two TS right fallopian tube; 18 - two TS right ovary; 19 - LS left fimbriae; 20 - two TS left fallopian tube; 21 - two TS left ovary.
+Please refer to blocking diagram.
+
+B.  Specimen labelled &amp;quot;Right pelvic lymph nodes&amp;quot;, consists of multiple pieces of fat measuring in aggregate 60 x 40 x 15mm.  Blocks: 1 and 2 - lymph nodes as seen; 3 - one lymph node in two pieces; 4 - one lymph node in six pieces; 5 and 6 - one lymph node in seven pieces; 7 to 9 - remaining fatty tissue.  AE.
+
+C.  Specimen labelled &amp;quot;Left pelvic lymph nodes&amp;quot;, consists of multiple pieces of fat measuring in aggregate 40 x 30 x 10mm.  Blocks: 1 - lymph nodes as seen; 2 and 3 - remaining fatty tissue.  AE.  (TO:NM/rs 14/9/69)
+
+
+MICROSCOPIC: (Reported by Dr M Parkers)
+A.  Sections of the uterine tumour show a malignant mixed mullerian tumour (MMMT) consisting predominantly of a Grade 3 endometrioid adenocarcinoma (95%) with focal sarcomatous component (less than 5%). The carcinoma consists of malignant cells arranged in cellular sheets, infiltrative glands and papilliform areas, with moderate to highly pleomorphic nuclei and focal squamoid differentiation. There are broad areas of tumour associated necrosis. Carcinoma infiltrates up to 17mm in a uterine wall 21mm thick. There is focal lymphovascular space invasion. No cervical, serosal or adnexal involvement by carcinoma is seen. The cervix shows no significant abnormality. The bilateral ovaries and fallopian tubes show no significant abnormality. Markers of microsatellite instability are pending.
+Representative slide shown to Dr Donte.
+
+B.  Sections of the right pelvic lymph nodes show no evidence of malignancy (0/17).
+
+C.  Sections of the left pelvic lymph nodes show no evidence of malignancy (0/6).
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, ovaries and tubes: Malignant mixed mullerian tumour (MMMT).
+B.  Right pelvic lymph nodes: No evidence of malignancy (0/17).
+C.  Left pelvic lymph nodes: No evidence of malignancy (0/6).
+***SUPPLEMENTARY REPORT: MICROSATELLITE INSTABILITY MARKERS
+Dr M Petruzzelli 23.9.2070
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

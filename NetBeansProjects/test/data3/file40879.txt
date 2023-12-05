@@ -1,0 +1,69 @@
+SPR no: 08Z609909A
+MRN no: 369315
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report08Z60990,08Z60990 (08Z609909A) Jarema, Tony REID
+HISTOPATHOLOGY REPORT
+KURRI KURRI DISTRICT HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ovarian Ca.  Rx with chemotherapy.
+1.  Peritoneal washings for cytology.
+2.  Left ovary and tube.
+3.  Right ovary and tube.
+4.  Uterus + cervix.
+5.  Pouch of Douglas.
+6.  Appendicae epiploica.
+7.  Omentum.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT OVARY AND TUBE&amp;quot;.  An ovary with attached fallopian tube, 429g.  The tube is
+well defined with fimbrial end measuring 75x8 mm. It has an unremarkable cut surface.
+The ovary is  cystically enlarged, measuring 145x90x70mm.  It has a smooth outer surface with focal areas of haemorrhage.  There is a firm solid serosal area measuring 20x20mm.  The cut surface reveals a cystic area 90mm in maximum diameter with smooth inner lining, focal areas of haemorrhage and solid mass 55x50x50mm which has white to yellow solid areas, cystic areas filled with mucinous material and minute areas of papillary excrescences.  The solid component is involving the overlying serosal surface.
+
+(1  fimbrial end of tube serially sliced; 2  three TS mid; 3-5  surface involvement; 6-9  further representative solid areas; 10  adjacent smooth cyst wall.  RS (M-10).
+
+B.  &amp;quot;RIGHT OVARIAN TUBE&amp;quot;.  A fallopian tube with attached ovary, 150g.  The fallopian tube measures 80x10mm.  It has well defined fimbrial end with unremarkable outer and cut surface.  The underlying ovary measures 100x50x45mm.  It has a cystic component 60mm in maximum diameter and solid component in the remainder of the specimen.  Focal areas of surface involvement is identified.  The cut surface of the cyst reveals unilocular cyst with smooth inner lining filled with clear to mucinous material.  The solid areas have a lobulated firm yellow to white cut surface.
+
+(1  fimbrial end serially sliced; 2&amp;amp;3  tube with adjacent ovarian mass; 4&amp;amp;5  serosal involvement; 6&amp;amp;7  solid areas; 8  smooth cyst wall).  RS (M-8).
+
+C.  &amp;quot;UTERUS AND CERVIX&amp;quot;.  A hysterectomy specimen 177g, measuring 100x70x60mm.  The attached cervix measures 35x30x20mm.  There are multiple adherent pieces of peritoneum anteriorly and posteriorly with extensively ragged, haemorrhagic cut surface and has focal minute yellow deposits.  The external os is oval 7x5mm.  The endometrium is up to 3mm thick.  The myometrium is disrupted by multiple (up to 10) intramural white whorled nodules ?fibroids measuring 5mm to 17mm in maximum diameter.  The posterior body of the myometrium is firm and diffusely white. The serosa over the left adnexa anatomical site has solid yellow tumor nodule 27x25x15 mm . Focal minute nodules are identified on the right anterior serosa.
+
+(1  anterior cervix; 2  anterior isthmus; 3&amp;amp;4  anterior body; 5  posterior cervix; 6  posterior isthmus with pouch of Douglas; 7  posterior body; 8  fundus; 9&amp;amp;10  mass left adnexa; 11  right parametrial involvement).  RS (M-11).
+
+D.  &amp;quot;POUCH OF DOUGLAS&amp;quot;.  A fibrofatty piece of tissue consists of a mass measuring 60x30x25mm with peritonealized overlying surface that has haemorrhagic areas and minute white deposits.  The possible margin is inked blue.  The cut surface reveals a well demarcated mass with firm white to yellow cut surface that has serosal measuring 35x20x20mm and has adjacent minute yellow to firm white deposits in the adjacent peritoneum.
+
+(1&amp;amp;2  TS of the mass with resection margin; 3  peritoneal involvement).  RS (M-3).
+
+E.  &amp;quot;APPENDICEAL EPIPLOICA&amp;quot;.  A fibrofatty piece of tissue 10x9x5mm with attached overlying hard white tumour deposit, 8x6x5mm.  The tumour deposit invades into the adjacent fat, trisected.  AE (3-1).
+
+F.  &amp;quot;OMENTUM&amp;quot;.  A fibrofatty piece of tissue consistent with omentum 165x110x35mm.  There is peritoneal involvement with multiple firm white tumour deposits at least eight is well identified, measuring 10 to 35mm in maximum diameter.  They all have firm white cut surface with focal areas of necrosis.
+
+(1&amp;amp;2  one TS of the largest deposit; 3&amp;amp;4  representative of smaller deposits).  RS (M-4/ZH 8/2/2071 km).
+
+MICROSCOPIC:  (Dr A Verdusco)
+A,B.  Both ovaries show widespread infiltration by carcinoma with variable morphology. There is a predominant tubulo-papillary architecture with other areas showing solid and acinar differentiation and other sheet-like areas where there is prominent cytoplasmic foamy cell change. The nuclei are high grade with prominent nucleoli and scattered mitoses. Moderate numbers of calcified psammoma bodies are present throughout the tumour.  Deposits of carcinoma are also seen on the serosa of the right fallopian tube. The left fallopian tube is not involved.  Immunostains (block A4) show positivity for CK7, WT1, PAX8, ER (80% 2+), p16. P53 is completely negative consistent with a mutated phenotype. CK20  is also negative. This is consistent with high-grade serous carcinoma with post-chemotherapy changes.
+
+C.  Histology shows deposits of metastatic serous carcinoma identical to that described above the serosa of the uterus and on the left side of uterus adjacent to the left adnexa where there is infiltration of adjacent fatty tissue.  Focal involvement is also seen in the right parametrium.  Elsewhere the cervix shows no atypia within the squamous or endocervical epithelium. The endometrium is atrophic and there is evidence of adenomyosis with several hyalinised and focally calcified leiomyomata.
+
+D.  Histology shows a further large highly cellular deposit of metastatic serous carcinoma similar to that described above.  In places the degree of nuclear atypia appears much more marked than seen within the primary ovarian tumours.
+
+E.  Histology shows fatty tissue infiltrated by metastatic serous carcinoma.
+
+F.  Histology shows fatty omental tissue with widespread involvement by metastatic adenocarcinoma. Chemotherapy response score 2 (CRS 2).
+
+DIAGNOSIS:
+A.  LEFT OVARY AND TUBE -
+-HIGH-GRADE SEROUS CARCINOMA.
+B.  RIGHT OVARY AND TUBE -
+-HIGH-GRADE SEROUS CARCINOMA.
+C.  UTERUS AND CERVIX -
+-SEROSAL INVOLVEMENT BY METASTATIC HIGH-GRADE SEROUS CARCINOMA.
+D.  POUCH OF DOUGLAS -
+-METASTATIC HIGH-GRADE SEROUS CARCINOMA.
+E.  APPENDICEAL EPIPLOICA -
+-METASTATIC HIGH-GRADE SEROUS CARCINOMA.
+F.  OMENTUM -
+-METASTATIC HIGH-GRADE SEROUS CARCINOMA.
+9/3/2071 ank

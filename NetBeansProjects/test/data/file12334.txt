@@ -1,0 +1,35 @@
+SPR no: 14B122707E
+MRN no: 140122
+Site_name: WIMMERA HEALTH CARE GROUP - DIMBOOLA
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL :
+Extended left hemihepatectomy + segment I resection.  Hilar LN dissection.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left hepatectectomy&amp;#8220;, consists of a liver wedge, 115 x 110 x 55mm.  There is a ragged surgical surface 100 x 50mm in area which is inked blue.  The serosal surface is smooth and the capsule is pale and sclerotic over 60 x 50mm in area.  On sectioning the sclerotic area on the capsular surface corresponds to a diffuse pale, firm tumour measuring 75 x 70 x 30mm involving the edge of the liver and pushing into the liver parenchyma. The liver away from the tumour appears pale yellow but otherwise unremarkable. There is an involved node within the fat at the hilum, as well as enlarged lymph nodes at the hilum.  The tumour is 35mm away from the closest surgical margin and abuts the hepatic capsule.  Abutting the hepatic capsule is a unilocular cyst 13 x 12 x 12mm.  The cyst is at least 10mm away from the tumour.  Rep sections.  Block 1, 2 &amp;amp; 3, 4 - tumour and interface with liver; 5 - hepatic cyst; 6 - surgical margin; 7 - involved lymph node serially sectioned; 8 - normal liver away from tumour; 9 - tumour for biobank; 10 - lymph nodes within the hilar fat; 11 - possible vascular margin.
+
+B.  Specimen labelled &amp;#8220;Gallbladder&amp;#8220;, consists of a gallbladder 100 x 25 x 20mm.  The serosal surface is smooth and shiny. The wall thickness is up to 3mm and the mucosa is dark green and trabeculated.  No polyps or lesions are found within the mucosa.  No gallstones are received within the specimen container or within the lumen of the gallbladder. Rep sections.  Block 1- TS proximal surgical margin and neck; 2- body; 3 - fundus.
+
+C.  Specimen labelled &amp;#8220;Left hilar node&amp;#8220;, consists of two pieces of fibrofatty tissue measuring 30 x 15 x 10mm and 35 x 25 x 10mm.  One lymph node is found measuring 25mm in maximum dimension. The lymph node is serially sectioned.  Specimen AE.  Blocks 1 &amp;amp; 2- lymph node serially sectioned; 3 - rest of specimen, AE.     (TO:  JL/ec  2.7.66)
+
+
+MICROSCOPIC (Reported by Dr E Savannah):
+A. Sections show a 75mm moderately to poorly differentiated cholangiocarcinoma. The lesion is composed of tubules lined by columnar tumour cells with enlarged, irregular nuclei, surrounded by sclerosed stroma. Intracytoplasmic vacuoles are seen. Poorly differentiated tumour composed of sheets and cords of tumour cells are also present. There is no evidence of hepatocellular differentiation.
+The tumour cells are positive for CK19, CK7, CAM5.2 and AE1/3. Focal mCEA staining is present in the lumen. No bile canaliculi are seen on CD10 staining. HepPar1 and CK20 are negative.
+There is extensive multifocal perineural and intraneural invasion. No convincing lymphovascular invasion is seen. No surface serosal involvement is present.
+The lesion is &amp;gt; 10mm from the surgical margin.
+Four hilar lymph nodes show no evidence of malignancy
+The uninvolved liver shows mild focal periportal fibrosis. No interface activity or bridging fibrosis is seen.  Minimal focal macrovesicular steatosis and mild focal iron deposition on Perls stain are present. No additional pathology is identified on orcein, rhodanine and diPAS stains.
+B. Sections show gallbladder wall with mild chronic inflammation and occasional Rokitansky-Aschoff sinuses, in keeping with mild chronic cholecystitis. A cystic duct lymph node appears unremarkable. There is no evidence of dysplasia or malignancy.
+C. Sections show a lymph node with no evidence of malignancy.
+DIAGNOSIS
+A. Left hemihepatectomy:
+- 75mm moderately to poorly differentiated cholangiocarcinoma, margins clear
+- Multifocal perineural and intraneural invasion present
+- 4 hilar lymph nodes with no evidence of malignancy
+B. Gallbladder:
+- Mild chronic cholecystitis
+- Cystic duct lymph node with no evidence of malignancy
+C. Left hilar lymph node: no evidence of malignancy

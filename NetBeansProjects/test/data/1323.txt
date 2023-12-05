@@ -1,0 +1,66 @@
+
+Episode No:  30J242867Q
+303242.WSU
+
+HYLES, TRISTA Gladis 
+Lab No:  30J24286
+Lakefair
+MOOROOPNA  Australian Capital Territory  3793
+Specimen: Tissue
+D.O.B:  19/9/2006
+Sex:  F
+Collected: 11/02/2013 at 09:42
+Location:  Douglas Hanly Moir-CRYSTAL BROOK CAMPUS
+DR Franklin PABLO GALLUZZI
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Gastric outlet obstruction w adenocarcinoma on endoscopic biopsy.  Polycystic kidney disease, HT, GORD, depression, pending ESRF.
+MACROSCOPIC:
+A.  Specimen labelled "Total gastrectomy" consists ofa total gastrectomy specimen with attached omentum.  The greater curvature measures 200mm in length, and the lesser curvature 100mm.  The proximal diameter measures 100mm and the distal diameter measures 25mm.  The serosal surface is smooth and shiny.  The mucosal surface reveals a tumour in the distal stomach.  The tumour is ulcerated and endocytic and measuring 25 x 30mm. The tumour is located in the lesser curvature and is macroscopically 30mm from the distal margin and 110mm from the proximal margin.  The remaining mucosa is unremarkable.  The proximal margin is inked blue and the distal margin is inked black.
+Blocks:  1 - LS of the proximal margin; 2 - LS of the distal margin; 3 to 6 - representative section of tumour; 7 - LS of tumour with distal portion of stomach; 8 - LS of tumour with proximal portion of stomach; 9 - representative sections of the body; 10 - representative sections of the antrum; 11 - four small lymph nodes from greater curvature 2 to 3mm; 12 - six possible lymph nodes from greater curvature 5 to 10mm; 13 - six possible lymph nodes from greater curvature 5 to 15mm; 14 - six possible lymphnodes from greater curvature 5 to 10mm; 15 - possible lymph node from greater curvature bisected 20mm; 16 - six possible lymph nodes from greater curvature 5 to 15mm; 17 to 19 - representative sections of omentum; 20 - seven possible lymph nodes from the lesser curvature 5 to 15mm; 21 - piece of tissue with multiple small lymph nodes from the lesser curvature 20mm; 22 to 28 - lymph nodes; (22 - three lymphnodes 15 to 6mm; 23 - one lymph node 30 x 10mm; 24 - three lymph nodes 10 to 15mm; 25 - three lymph nodes 5 to 20mm; 26 - five lymph nodes 5 to 8mm; 27 - four lymph nodes 5 to 10mm; 28 - two lymphnodes and possible lymph node material 10 to 12mm)  (ta 13/4/63) 
+ 
+B.  Specimen labelled "Root of mesenteric node" consists of one piece of tissue 5mm.  AE 1 block.   (TO: CA; CA/bl 13/4/63)
+MICROSCOPIC (Reported by Dr I Voegele):
+A.
+Tumour site (location): Pylorus/antrum, lesser curve
+
+WHO histological tumour type: Poorly cohesive carcinoma (signet-ring carcinoma)
+Lauren histological tumour type: Diffuse
+
+Growth pattern: Infiltrating
+
+Maximal dimension of tumour:  45mm	
+Local invasion (pT):
+T4a	Tumour invades serosa (visceral peritoneum)
+Serosal surface involvement: Present (microscopic, block A4, tumour cells admixed with mesothelial cells on serosal surface seen on calretinin/CAM5.2 staining, shown to Dr DAMIAN Bolten and Dr ERIK TANNEY)
+Vascular space invasion:
+Smallvessels (lymphatic and capillary): Absent
+	
+Large vessels (vein and artery): Absent
+Perineural growth:
+Present (Perineural and intraneural)
+Her2 status: 2+
+Distance of tumour from margins:	
+From proximal:  110mm
+From distal:  7mm (microscopic)
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  38
+Number of lymph nodes involved:  1 (via direct invasion by tumour)
+N1	Metastasis in 1 regional lymph node (via direct invasion by tumour)
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+Other pathologies:
+Gastritis: Present
+Helicobacter infection: Absent
+Intestinal metaplasia: Absent
+Dysplasia: Absent		
+Gastric polyps: Absent
+Barrett's mucosa: N/A (squamous mucosa not identified in specimen)
+B. Sections show fibrous tissue with infiltration by single malignant cells, in keeping with carcinoma.  No lymph node tissue is present.
+DIAGNOSIS:
+A.  Total gastrectomy:
+- 45mm poorly cohesive (signet ring) carcinoma, margins clear
+- Microscopic surface peritoneal involvement (pT4a)
+- Direct invasion of 1 lymph node by carcinoma (pN1), other 37 lymph nodes show no evidence of malignancy
+B. Root of mesenteric node: fibrous tissue with involvement by carcinoma
+

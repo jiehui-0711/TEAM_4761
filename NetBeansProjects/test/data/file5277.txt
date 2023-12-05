@@ -1,0 +1,103 @@
+SPR no: 01R0848369
+MRN no: 016084
+Site_name: YORK HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report01R08483,01R08483 (01R0848369) STEACH, DONG
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+GII endometrial ca. peritoneal washings, uterus, both ovaries and tubes, right pelvic lymph node, omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL OVARIES AND TUBES&amp;quot;. A previously opened uterus with attached bilateral fallopian tubes, ovaries and cervix. The specimen weighs in total 110g. The uterus measures up to 50mm from medial to lateral, 80mm from fundus to cervix and 40mm from anterior to posterior. The serosal surface has a granular appearance. There is a nodule (fibroid) present on the posterior right side. The right fallopian tube measures 65mm in length and 6mm in external diameter and includes fimbrial end. The right ovary measures 25x15x10mm. The left fallopian tube measures  up to 45mm in length and 8mm in external diameter and includes fimbrial end. The left ovary measures up to 20x15x10mm. The cervix measures 30mm in diameter and appears unremarkable. Protruding from the fundus is a polypoid partially necrotic mass of tissue measuring  up to 25x15x35mm. There is a firm area noted at the lower uterine segment posteriorly ---- significance. Posterior surgical margin inked black, anterior inked blue. On sectioning the polypoid mass of tissue is attached to the anterior fundus over a base distance of 5mm. The tumour does not appear to extend into the myometrium. The endometrium elsewhere measures  2mm. On sectioning the fibroid is calcified (in decal for further processing). The ovaries are unremarkable and on sectioning the myometrium no further mass lesions are identified.
+
+(1-6 anterior cervix to fundus including tumour [notches inferior]; 4-6 full face tumour with myometrium notched; 7&amp;amp;8 paired tumour with myometrium; 9-12 posterior cervix to fundus; 13&amp;amp;14 further endometrium posterior;  15 right parametrial tissue; 16 left parametrial tissue; 17 RS LS and TS right tube with fimbrial end; 18 RS TS right ovary; 19 RS TS and LS left tube with fimbrial end; 20 RS TS left ovary [fibroid remains in decal for further processing]). RS (M-20).
+
+B. &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;. Two possible nodes measuring  5mm and 7mm.
+
+(1 two possible nodes; 2 remaining fat with possible nodes). AE (M-2).
+
+C. &amp;quot;OMENTAL BIOPSY&amp;quot;. An unorientated piece of fatty tissue measuring  50x40x10mm. No suspicious areas are identified on inspection or sectioning. RS (M-2/EE/ht).
+
+MICROSCOPIC:     (Dr. A Wuolle)
+A.  Sections of uterus show a large necrotic polypoid lesion within the endometrial cavity.  Part of the lesion shows changes of endometrial polyp with cystically dilated glands.  Focal viable areas showing changes of endometrioid adenocarcinoma, grade 3.  The adjacent endometrium also show features of endometrioid adenocarcinoma, grade 3.  Tumour involves inner half of the myometrium.  Tumour thickness is 5mm.  Myometrial thickness is 25mm.  At the edges of the lesion, there are changes of atypical complex hyperplasia.  Uninvolved endometrium shows cystic dilatation and tubal metaplasia.  Myometrium shows focal adenomyosis.  No convincing lymphovascular invasion.  Both parametrial tissue shows no involvement of tumour.  Both right and left fallopian tubes and ovaries appear unremarkable.
+
+B.  No evidence of malignancy is seen in 2 lymph nodes identified.
+
+C.  Sections show fibrofatty tissue and a small lymph node.  No evidence of malignancy.
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  3
+
+(architecture grade:  2, nuclear grade:  3)
+
+Myometrial invasion:  Present
+
+Depth of myometrial invasion:   5mm
+
+Myometrial thickness:   25mm
+
+% of myometrium invaded:   20%
+
+Focality:  Unifocal
+
+Tumour involves: Superficial part of myometrium and endometrial polyp which is necrotic
+
+Vascular/lymphatic invasion:  Not seen
+
+Involvement of cervix:  Not seen
+
+Involvement of uterine serosa:  Not seen
+
+Excision margins:  Appear clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Atypical complex hyperplasia
+Polyps:  Present, necrotic with involvement of tumour
+Adenomyosis:  Focally present
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+
+Lymph nodes:
+Nodes involved: Not involved
+Total number:  3
+
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1A, pN0, pM0
+
+FIGO stage: 1A
+
+DIAGNOSIS:
+A.  UTERUS, BILATERAL OVARIES AND TUBES -
+-ENDOMETRIOID ADENOCARCINOMA GRADE 3.
+-MSI IMMUNOHISTOCHEMISTRY STAIN IN PROGRESS
+B.  RIGHT PELVIC LYMPH NODE -
+-NO EVIDENCE OF MALIGNANCY IN 2 NODES.
+C.  OMENTAL BIOPSY -
+-NO EVIDENCE OF MALIGNANCY.
+10/8/2066 ank
+SUPPLEMENTARY REPORT
+Sections of the myometrium following decalcification confirm an intramural leiomyoma which is fibrotic and heavily calcified.
+
+MSI IMMUNOHISTOCHEMISTRY STAINS
+Supplementary report:
+Immunostains for MSI proteins (Rohm and Haas BRIGHAM & WOMEN'S HOSPITAL; block: A5 )
+MLH1:   Positive
+PMS2:   Positive
+MSH2:   Positive
+MSH6:   Positive
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

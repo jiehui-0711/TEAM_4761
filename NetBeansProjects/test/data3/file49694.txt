@@ -1,0 +1,76 @@
+SPR no: 05Q585495F
+MRN no: 05658549
+Site_name: SOUTH EAST REGIONAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report05Q58549 (05Q585495F) Promise, KRAIG
+HISTOPATHOLOGY REPORT
+BALMAIN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ovarian ca or primary peritoneal cancer, peritonectomy.  Uterus + both ovaries, rectum, omentum, spleen, gallbladder, appendix, colon, wound.
+
+MACROSCOPIC:
+&amp;quot;APPENDIX, BILATERAL DIAPHRAGM, UTERUS, BILATERAL TUBES + OVARIES, SPLEEN, GALLBLADDER, SIGMOID&amp;quot;.  Consists of gallbladder, spleen, omentum, appendix, uterus with obvious right ovary and fallopian tube.  The left ovary and fallopian tube  are not  present. At the left adnexal region is attached segment of large bowel.  Also received are multiple pieces of fibrofatty tissue, ?diaphragm, ?peritoneum.
+
+Gallbladder measures 75mm in length x 30mm maximum diameter.  Serosa is unremarkable.  The wall is up to 3mm thick.  Mucosa is granular green in appearance.  No stones are found within the lumen.
+
+(1  cystic duct and neck of gallbladder; 2  body and fundus).
+
+Spleen weighs 175g and it measures 100x55x40mm.  There is attached fat at the hilum up to 80mm wide.  There are two pale areas noted on the capsule, 2 to 3mm.  The parenchyma is fleshy and unremarkable.  No lesion is noted within the splenic parenchyma.  On sectioning through the fat at the hilum, there is pale white area ?tumour deposit involving fat and splenic capsule.
+
+(3  spleen with attached fat at hilum; 4  pale areas noted on capsule).
+
+Omentum measures 250x110x25mm.  The omentum is firm on palpation of an area measuring up to 140mm.  On sectioning through this area, it is involved by tumour with a pale to tan appearance.
+
+(5  omentum).
+
+Appendix measures 45mm in length with a maximum diameter of 6mm.  Serosa is partially roughened.  Base is inked blue.  The wall is up to 2mm thick.
+
+(6  appendix includes longitudinal of the base and the tip and two transverse sections).
+
+Uterus, cervix, right ovary, fallopian tube and adherent segment of large bowel, the uterus measures 90mm superior to inferior, 70mm intercornual distance.  Ectocervix is 20x15 with a slit-like os 5mm.  Anterior endomyometrium is 30mm, posterior endomyometrium is 22mm, endometrium is less than 1mm thick.  Anterior is inked blue, posterior black.  The serosa at the pouch of Douglas shows some deposit of friable tissue ?tumour.  On sectioning through the myometrium, there is a nodule with a pale white whorled cut surface.  This nodule is 16mm maximum dimension.  The right ovary weighs 2.8g and measures 25x11x5mm.  The serosa shows mild roughening ?tumour deposit.  On sectioning, the cut surface is otherwise unremarkable.  The right fallopian tube measures 55mm in length with a maximum diameter of 6mm.  The serosa is smooth and unremarkable.  On sectioning through the fallopian tube, the lumen shows a pale white appearance ?involvement by tumour.  The attached segment of large bowel measures 220mm in length with a maximum diameter of 20mm.  At the site of adherence to the uterus, there is a deposit of tumour with a pale white appearance.  This is located within the pericolic fat and wall of bowel.  The mucosa is otherwise unremarkable.  Proximal margin is inked blue, distal margin black.  There is also tumour on the surface towards the distal end of the bowel.  This deposit of tumour is 5mm from the distal resection margin.  There is a tubular structure just adjacent to the site of attachment of the uterus to the bowel ?round ligament.  Also attached to the segment of bowel is peritoneum to which there is an ellipse of skin ?umbilicus measuring 30x15mm.  The skin surface appears unremarkable.  Underlying fatty tissue also appears unremarkable.
+
+(7  anterior cervix; 8  posterior cervix; 9  anterior endomyometrium; 10  posterior endomyometrium; 11&amp;amp;12  sections of uterus with possible tumour at the pouch of Douglas; 13  right ovary and right fallopian tube; 14  margins of bowel; 15  distal margin of bowel in relation to tumour deposit; 16  site of attachment of large bowel to uterus with tumour deposit between the two organs; 17  round ligament in relation to segment of large bowel; 18  ?umbilicus).
+
+Separate pieces of fibrofatty tissue ?peritoneum ?diaphragm in aggregate 210x180x30mm.  Some of the pieces show possible tumour deposit.
+
+(19&amp;amp;20  sections of separate pieces of fibrofatty tissue ?diaphragm ?peritoneum; 21  tumour block [omentum]).  RS (M-21/MC 14/5/2068 km).
+
+MICROSCOPIC:  (Dr. B. Stachura)
+Sections show disseminated high grade primary serous carcinoma of right fallopian tube. Evidence of neoadjuvant chemotherapeutic effects also present.
+
+The right fallopian tube shows extensive involvement by high grade serous carcinoma including serous tubal intraepithelial carcinoma.  The carcinoma involves the fimbrial end and lumen of the fallopian tube with extension to the serosal surface.  Adjacent right ovary also shows deposits of high grade serous carcinoma.
+
+The left fallopian tube and left ovary are not identified.
+
+In the region of the left adnexa, there is adherent sigmoid colon to the uterus through deposits of high grade serous carcinoma.
+
+Uterus:
+Cervix:  The cervix shows no intrinsic abnormality.  Deposits of high grade serous carcinoma are noted in the pouch of Douglas with involvement of posterior cervical stroma including lymphovascular invasion.
+
+Endometrium:  Inactive.
+
+Myometrium:  Scattered leiomyomas.
+
+Uterine serosa:  Anterior and posterior deposits of high grade serous carcinoma with extension into underlying myometrium including lymphovascular invasion.
+
+Large bowel:  Involvement of serosa with adherence of colon to left adnexa of uterus by high grade serous carcinoma.  No intrinsic abnormality is seen in colonic mucosa.  The surgical margins resection are clear of any lesions.
+
+Gallbladder:  Serosal deposits of high grade serous carcinoma.  No mucosal abnormality detected.
+
+Spleen:  Capsular deposits of high grade serous carcinoma.  No abnormality in splenic parenchyma detected.
+
+Appendix:  Peritoneal deposits on appendiceal mesentery by high grade serous carcinoma.  Fibrous obliteration of appendiceal lumen with neuronal hyperplasia.  No primary appendiceal abnormality identified.
+
+Omentum:  Involved by high grade serous carcinoma with evidence of adjuvant chemotherapeutic effect with Chemotherapeutic Response Score 1 - minimal tumour response with mainly viable tumour and minimal regression-associated fibroinflammatory changes.
+
+Umbilicus:  Evidence of previous surgery.  No tumour seen.
+
+Separately submitted abdominal wall / diaphragmatic and peritoneal fragments:  Involved by high grade serous carcinoma with chemotherapeutic effect.
+
+DIAGNOSIS:
+APPENDIX, BILATERAL DIAPHRAGM, UTERUS, BILATERAL TUBES AND OVARIES, SPLEEN, GALLBLADDER AND SIGMOID COLON:
+-  DISSEMINATED HIGH GRADE SEROUS CARCINOMA OF RIGHT FALLOPIAN TUBE.
+- OMENTAL CHEMOTHERAPY RESPONSE SCORE 1 (MINIMAL TUMOUR RESPONSE).
+16/5/2068 km

@@ -1,0 +1,75 @@
+DateOfBirth
+202306150000
+
+
+SiteName
+PORT KEMBLA HOSPITAL
+
+
+FirstName
+Connor
+
+
+SPRID
+07T232451W
+
+
+MRN
+07723245
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+07T23245 (07T232451W) BORCHERT, SHAWN
+
+HISTOPATHOLOGY REPORT
+CAIRNS BASE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Abdominal abscess from perforated bowel
+Small bowel
+
+MACROSCOPIC:
+&amp;quot;SMALL BOWEL&amp;quot;. A length of small bowel 300x35mm. The small bowel is joined by another segment of small bowel 40x35mm with a blind end. The stapled margin of the segment of bowel is inked blue and the other opened unstapled margin inked green. The stapled margin on the anastomosed bowel is inked black. The serosal surface near the blue inked margin is roughened and brown over area of 60x40mm. There is a pinpoint perforation site identified 38mm from the blue inked margin. The serosal surface of the perforation site is inked red. Towards the other end of the small bowel inked green,on the serosal surface, there is also a 20x30mm of brown disruption on the serosal surface. The small bowel is thickened to 15mm towards the green inked end. The anastomosed bowel  has a blind end and the serosal surface is brown and disrupted. The mucosal surface along the small bowel and anastomosed small bowel is unremarkable. There is a separate segment of bowel mucosa 20x10x8mm. The mucosal surface appears unremarkable.
+
+(1 small bowel margin [blue and green inked margins]; 2 anastomosed bowel margin [black]; 3 perforation site and brown disrupted serosal surface near blue inked margin; 4 thickened bowel wall near green inked margin; 5 anastomosed small bowel; 6 one lymph node bisected; 7 five lymph nodes; 8 separate piece of bowel mucosa). Representative sections. (M-8/SL 15/7/2071 nh)
+
+MICROSCOPIC: (Dr A Ascolese)
+Histology shows small bowel with dense serosal fibrous adhesions with moderate active chronic inflammation and some organising fibrous exudate over the serosal surface consistent with perforation.  No malignancy is seen in five small local lymph nodes. No malignancy is identified.
+
+DIAGNOSIS:
+SMALL BOWEL -
+- FIBROUS SEROSAL ADHESIONS &amp;amp; SEROSAL INFLAMMATORY INFILTRATE.
+
+15/7/2071 km
+
+
+
+
+
+SpecimenReceivedDate
+2300-02-10 00:00:00
+
+
+LastName
+Gard

@@ -1,0 +1,54 @@
+SPR no: 65G851402D
+MRN no: 652851
+Site_name: NAREMBEEN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (16.4.67):
+
+CLINICAL:
+Grade 1 endometrial cancer.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot; Uterus tubes ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tube, and ovaries, weighing 92g in total.  The uterus measures 85 x 65 x 55mm and has a smooth serosal surface.  The ectocervix measures 40 x 26mm and has an unremarkable surface. On sectioning, the endometrium is mainly 1mm in thickness apart from a patchy area in the left cornu, 22 x 10mm, where the endometrial thickness is 2 to 3mm.  Towards the posterior right cornu there is an endometrial polyp, 17 x 12 x 5mm.  The myometrium measures up to 30mm in thickness.  The myometrium has a few scattered fibroids measuring up to 5mm in maximum dimension.  The left fallopian tube, 65 x 7 x 7mm, is unremarkable, and the left ovary, 27 x 17 x 11mm, has an unremarkable cut surface.  The right fallopian tube, 70 x 8 x 9mm, is unremarkable and the right ovary, 34 x 16 x 8mm, has an unremarkable cut surface.
+Blocks: 1 to 5 - midline LS post uterus and cervix, including thickened endometrium; 6 &amp;amp; 8 - remaining thickened endometrium (all embedded); 9 - complete endometrial polyp; 10 - polyp attachment site (detached during sectioning); 11 to 15 - midline LS anterior uterus and cervix; 16 - representative anterior fibroid; 17 - LS complete fimbrial end left fallopian tube, and mid TS; 18 - representative left ovary; 19 - LS complete fimbrial end right fallopian tube, and mid TS; 20 - representative right ovary.
+
+B.  Specimen labelled &amp;quot;Right pelvic nodes&amp;quot;, consists of fibroadipose tissue, 24 x 18 x 4mm, containing possible lymph nodes.  AE 1 block.
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of omental tissue, 42 x 25 x 10mm.  No nodules or lymph nodes are identified.  RS 1 block.
+(TO: JB; JB/rs 3/11/67)
+
+
+MICROSCOPIC (Reported by Dr P Bethard):
+A.  Sections of the described area of thickened endometrium towards the left cornu, and of the anterior fundus, show complex hyperplasia and grade 1 endometrioid adenocarcinoma of the endometrium.  There is no definite myometrial invasion.  There is no lymphovascular invasion and there is no cervical involvement.
+Sections of the described endometrial polyp in the right cornu show that this is benign.
+The endometrium elsewhere is thin and inactive.
+Sections of the cervix are unremarkable.
+A leiomyoma and adenomyosis are confirmed in the myometrium.
+Sections of the ovaries and fallopian tubes are unremarkable.
+
+B.  Sections show two lymph nodes.  No tumour is seen.
+
+C.  Sections show unremarkable fat.  No tumour is seen.
+
+
+DIAGNOSIS:
+A.  Uterus, ovaries and fallopian tubes:
+1.  Grade 1 endometrioid adenocarcinoma of endometrium, no definite myometrial invasion.
+2.  Endometrial polyp.
+3.  Leiomyoma and adenomyosis.
+
+B.  Right pelvic nodes:  No tumour (0/2).
+
+C.  Omental biopsy:  No tumour.
+
+
+SUPPLEMENTARY REPORT (16.4.67):
+Stains for mismatch repair enzymes have been performed as requested.
+
+MLH1:   Loss of nuclear staining.
+PMS2:   Loss of nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+
+Absence (loss) of nuclear staining of a carcinoma for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect a germline mutation or somatic inactivation of that mismatch repair gene.

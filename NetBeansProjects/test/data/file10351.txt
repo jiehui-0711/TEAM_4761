@@ -1,0 +1,40 @@
+SPR no: 50S534525Y
+MRN no: 5075345
+Site_name: BELLINGER RIVER DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 5075345.HPY
+LAMONTAGNA, USHNA EARLEAN
+50S53452,50S53452
+
+Last edited : 25/4/2066		Page: 2
+
+CLINICAL:
+High grade serous ovarian cancer, 2 cycles neoadjuvant chemo, interval debulk.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, bilateral tubes, ovary&amp;#8221; consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 60g in total.  The uterus measures 70 x 40 x 20mm and has a smooth, shiny serosal surface.  The ectocervix measures 25 x 15mm and has unremarkable surface.  The posterior uterus and cervix are inked blue.  On sectioning, the endometrium is &amp;lt;1mm in maximum thickness and the myometrium is 13mm in maximum thickness.  There is a polyp at the fundal aspect measuring 10 x 6 x 2mm.  A tumour is not identified.  The myometrium is unremarkable.  The left fallopian tube measures 60mm in length with a diameter of 7mm.  The left ovary measures 23 x 13 x 8mm, with an unremarkable cut surface.  The right fallopian tube measures 55mm in length with a diameter of 6mm.  The right ovary measures 25 x 12 x 9mm, with an unremarkable cut surface.
+Blocks:  1 to 3 &amp;#8211; composite mid LS posterior uterus and cervix; 4 to 6 &amp;#8211; composite mid LS posterior uterus and cervix; 7 to 11 &amp;#8211; remainder of posterior endometrium; 12 to 13 - composite mid LS anterior uterus and cervix; 14 to 17 &amp;#8211; remainder of anterior endometrium, and polyp; 18 &amp;#8211; LS complete left fimbrial end fallopian tube, and mid TS; 19 &amp;#8211; left ovary; 20 &amp;#8211; LS complete fimbrial end right fallopian tube, and mid TS; 21 &amp;#8211; right ovary.  Please note that all identifiable endometrium is embedded.
+B.  Specimen labelled &amp;#8220;Omentum&amp;#8221; consists of omental tissue measuring 230 x 110 x 25mm.  On thin sectioning, there is a poorly defined firm pale grey area measuring 13mm in maximum dimension.  The surrounding adipose tissue is somewhat firm, ?fat necrosis.  No lymph nodes are identified.  RS 3 blocks.
+C.  Specimen labelled &amp;#8220;Omentum hepatic flexure&amp;#8221; consists of omental tissue measuring 44 x 42 x 20mm.  On thin sectioning, there is a pale grey area measuring 6mm in maximum dimension with surrounding fatty tissue.
+Blocks:  1 &amp;amp; 2 &amp;#8211; pale grey area; 3 &amp;#8211; surrounding fatty tissue.  RS.
+D.  Specimen labelled &amp;#8220;Posterior vaginal margin&amp;#8221; consists of an irregularly shaped fragments of pale grey tissue, ?mucosa, measuring 14 x 7 x 3mm.  The presumed surgical margin is inked blue.  Specimen sectioned transversely.  AE 1 block.
+E.  Specimen labelled &amp;#8220;Bladder peritoneum&amp;#8221; consists of an irregularly shaped fragment of tissue measuring 85 x 40 x 3mm.  One side is pale grey/tan and smooth, with scattered rubbery nodule of tissue on the surface, ?tumour.  RS 4 blocks.
+(TO: JB; JB/rt 24.4.66)
+
+MICROSCOPIC (Reported by Dr O Cristales):
+A. Sections show scattered residual microscopic deposits of high-grade serous carcinoma, &amp;lt; 2mm in size, on the surface of both ovaries, fallopian tube fimbria, serosal surface of the uterine body and also on the surface of the anterior endometrium. Multiple areas of fibrosis with aggregates of psammoma bodies are present on the serosal surface, consistent with moderate treatment effect.
+The ovaries have been entirely embedded. There is no evidence of intraparenchymal tumour.
+The fimbria of the both fallopian tubes shows patchy severe nuclear atypia, suggestive of serous tubal intraepithelial carcinoma.
+The uninvolved endometrium appears atrophic. The cervix shows no evidence of HPV effect or CIN.
+B and C. Sections show extensive, macroscopic deposits of residual high-grade serous carcinoma in omental fat. The lesion has a papillary/micropapillary architecture, and is composed of tumour cells with markedly enlarged, pleomorphic nuclei and prominent nucleoli. Psammoma bodies are seen. Focal fibrosis is present, suggestive of focal treatment effect.
+D. Sections show fibrous tissue and fat with no evidence of malignancy.
+E. Sections show scattered microscopic deposits of residual high-grade serous carcinoma on the peritoneal surface. Areas of fibrosis and aggregates of psammoma bodies are seen, consistent with moderate treatment effect.
+COMMENT
+The presence of STIC (serous tubal intraepithelial carcinoma) in the fimbriae of both fallopian tubes, and the absence of intraparenchymal tumour in the ovaries, suggest the carcinoma may be arising from the fallopian tube fimbriae. Shown to Dr  LEIF BERTHER.
+DIAGNOSIS
+A. Uterus, cervix, fallopian tubes and ovaries:
+- Microscopic residual high-grade serous carcinoma with moderate treatment effect, on the surface of both ovaries, fallopian tube fimbria, uterine body and endometrium
+- Fallopian tube fimbriae with features suggestive of STIC (serous tubal intraepithelial carcinoma)
+B and C. Omentum and omentum hepatic flexure: extensive residual high-grade serous carcinoma
+D. Posterior vaginal margin: no evidence of malignancy
+E. Bladder peritoneum: microscopic residual high-grade serous carcinoma with moderate treatment effect

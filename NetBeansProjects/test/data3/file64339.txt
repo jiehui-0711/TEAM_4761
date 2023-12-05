@@ -1,0 +1,20 @@
+SPR no: 72Y111802L
+MRN no: 7291118
+Site_name: DYSART HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Biopsy SCC right lower limb lesion stitch at 12 o&amp;apos;clock.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right leg lesion stitch at 12 o&amp;apos;clock&amp;quot;, consists of an oriented ellipse of skin 33 x 24mm to a depth of 10mm. An ulcerated crusted lesion 15mm in diameter is identified. A suture at one tip marks 12 o&amp;apos;clock. The 3 o&amp;apos;clock margin is inked blue, 9 o&amp;apos;clock black. Blocks: 1 - LS 12 o&amp;apos;clock margin; 2 and 3- TS through middle; 4 - LS 6 o&amp;apos;clock margin. RS. All of lesion embedded.
+(TO:AP/vo 2/4/72)
+
+
+MICROSCOPIC (Reported by Dr S Huskins):
+The sections of sun damaged skin show a completely excised moderately differentiated invasive squamous cell carcinoma. It measures 3.5mm in depth and extends into the dermis. There is no lymphovascular and no perineural invasion. All margins are clear by at least 2mm.
+
+
+DIAGNOSIS:
+Right leg, oriented skin excision: Moderately differentiated squamous cell carcinoma, completely excised.

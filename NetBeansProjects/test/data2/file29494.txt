@@ -1,0 +1,19 @@
+SPR no: 14U600522C
+MRN no: 1476005
+Site_name: MOURA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+81yo female subtotal gastrectomy.  Known high grade dysplasia at incisura.  Background of gastritis with metaplasia and previous low grade dysplasia sparing the fundus.  ?Malignancy, ?margins.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Subtotal gastrectomy&amp;quot;, consists of a segment of stomach measuring 100mm at the lesser curvature and 180mm at the greater curvature and measuring 55mm in diameter at the proximal end and 30mm at the distal end.  The proximal margin is inked black and the distal margin inked blue.  There is greater omental fat attached measuring 200 x 190 x 20mm and lesser omental fat measuring 95 x 50 x 10mm.  The serosal surface is smooth and shiny and no areas of puckering or distortion are identified.  The mucosa has preserved rugae in the proximal segment and becomes flattened with a cobblestone appearance within the distal segment over an area measuring 80 x 75mm.  These roughened changes extend to the pyloris and 10mm from the distal resection margin.  Within this area of irregularity there is a firm polyp measuring 8 x 5 x 2mm.  A further polyp is identified within the proximal stomach measuring 3mm in maximum dimension located 10mm from the proximal resection margin.  No mass or invasive lesion is seen on sectioning. Four lymph nodes are identified within the attached fat.
+Blocks: 1 - proximal margin including polyp; 2 - further sections through proximal margin; 3 to 6 - LS through proximal margin and lesser curvature; 7 to 14 - proximal stomach TS embedded anterior followed by posterior; 15 to 44 - proximal to distal stomach, each slice trisected and embedded over three blocks (34 &amp;amp; 37 - include nodule); 45 to 48 - distal stomach, composite section over two blocks; 49 &amp;amp; 50 - further distal stomach; 51 &amp;amp; 52 - composite TS distal stomach; 53 to 59 - LS through distal stomach and pyloris including distal resection margin (TS seen in blocks 15 to 52 may have blue ink which represents carry over and not a true surgical margin); 60 - lesser curvature vascular shave; 61 - one node; 62 to 64 - one node per block bisected.  Please see diagram for further blocking description.  (TO:AP/ta 27/7/69)
+
+
+MICROSCOPIC: (Reported by Dr E Weafer)
+The gastrectomy has been extensively sampled. There are scattered foci of high grade dysplasia on a background of patchy low grade dysplasia, intestinal metaplasia and moderate active chronic gastritis. No convincing Helicobacter organisms are seen. Focally, in block 43, there is a 1.1mm focus of high grade dysplasia with markedly atypical architecture and cytologic atypia (including atypical mitoses) consistent with a focus of intramucosal carcinoma (carcinoma in situ). There is no evidence of submucosal involvement or invasive carcinoma. Three lymph nodes show reactive changes (0/3). Dysplasia appears well clear of the margins.
+Representative slides seen with Associate Professor E Labate.
+
+
+DIAGNOSIS:
+Subtotal gastrectomy: 1.1mm focus of intramucosal carcinoma (carcinoma in situ) on a background of multifocal high grade dysplasia, intestinal metaplasia and moderate active chronic gastritis. Margins appear free of dysplasia. No evidence of invasive carcinoma.

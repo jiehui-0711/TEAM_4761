@@ -1,0 +1,20 @@
+SPR no: 14K629265H
+MRN no: 1446292
+Site_name: EAST WIMMERA HEALTH SERVICE - WYCHEPROOF
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Hx of borderline serous ovarian tumour.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, left tube and ovary&amp;quot;, consists of a uterus with attached cervix, left fallopian tube and ovary weighing 110g in total.  The uterus measures 85 x 50 x 35mm and has a smooth shiny serosal surface.  The ectocervix measures 34 x 30mm and has an unremarkable surface.  On sectioning, the endometrium is 1mm in thickness with a maximal myometrial thickness of 21mm.  The myometrium is unremarkable.  The left fallopian tube measures 60 x 5mm and the left ovary measures 45 x 28 x 17mm.  Transverse sectioning of the ovary (eight slices) shows multiple cystic spaces, 4 to 13mm in extent.  The cystic spaces have smooth tan walls with no solid or papillary excrescences.
+Blocks: 1 to 3 - full LS of anterior body and cervix; 4 to 7 - full LS of posterior body and cervix; 8 to 13 - ovary, AE; 14 to 16 - fallopian tube, AE.
+
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of 35 x 25 x 8mm fat.  No discrete lesions are identified.  AE 2 blocks.  (KM/rs 9/4/65)
+
+
+MICROSCOPIC (Reported by Dr D Plumer):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is proliferative to early secretory.  Focal adenomyosis is present.  The myometrium shows no significant abnormality.  The ovary contains numerous follicular cysts.  The fallopian tube shows no significant abnormality.  There is no evidence of malignancy.
+
+B.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A &amp;amp; B.  Uterus and cervix, left tube and ovary, omentum:  No significant abnormality.

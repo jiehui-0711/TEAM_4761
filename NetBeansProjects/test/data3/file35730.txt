@@ -1,0 +1,118 @@
+SPR no: 37Y187711W
+MRN no: 360197
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report37Y18771,37Y18771 (37Y187711W) ACHILLES, Kelvin
+HISTOPATHOLOGY REPORT
+EASTERN EYRE HEALTH AND AGED CARE - COWELL CAMPUS AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GIII endometrioid adeno Ca with giant cell.
+Uterus tubes and ovaries, left pelvic nodes, right pelvic nodes, omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX, BILATERAL TUBES AND OVARIES&amp;quot;.  A total hysterectomy specimen, 161g, which is already opened coronally by the surgeon, measuring 85x60x40mm. Attached is a right fallopian tube 65x3mm, right ovary 25x20x10mm, left fallopian tube 60x6mm and left ovary 30x10x16mm.  The attached cervix measures 36x25x20mm.  The external os is unassessable due to previous opening.  There is tumour occupying the body and fundus anteriorly and posteriorly which is partly exophytic and partly endophytic, measuring 40x30mm.  The tumour invades into the myometrium to a thickness of 21mm out of 24mm.  The tumour appears to be approaching the right cornu.  No involvement of the left cornu is identified.  The tumour is confined to the uterus with no extension into the cervix.  It is located 35mm from the nearest longitudinal cervical margin and more than 15mm from the both parametrial margins.  Three white whorled nodules (fibroids) are identified.  Two are submucosal and one is a pedunculated serosal fibroid.  No areas of haemorrhage or necrosis are identified.  The outer and cut surfaces of both ovaries and tubes are unremarkable.
+
+(1 right fallopian tube two LS fimbrial end and one TS mid; 2 LS RS right ovary; 3 left tube two LS fimbrial end and one TS mid; 4 RS left ovary; 5 right parametrium; 6 left parametrium; 7-10 LS anterior uterus cervix to fundus; 11&amp;amp;12 tumour maximum invasion anterior body; 13-16 LS posterior uterus from cervix to fundus; 17 tumour into right cornu; 18 left cornu; 19 submucosal and serosal fibroids; 20 tumour maximum invasion posterior uterus [tumour block for tissue banking]).  RS (M-20)
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;    A fibrofatty piece of tissue 10mm in maximum diameter containing two possible lymph nodes 4mm and 6mm.  AE (M-1).
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  A lymph node 12x6x5mm.  Serially sliced  AE (4-1)
+
+D.   &amp;quot;RIGHT PELVIC NODES&amp;quot;.  Multiple fibrofatty pieces of tissue 40x30x10mm in aggregate. Five possible lymph nodes are identified.  The largest measures 9mm in maximum diameter with an unremarkable cut surface.
+
+(1 largest lymph node trisected; 2 ?lymph node ?fat 6mm bisected; 3 ? three lymph nodes; 4 remainder of tissue).  AE (M-4).
+
+E.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  A fibrofatty piece of tissue 25x25x13mm with unremarkable outer and cut surface.  AE (M-3/ZH 26/5/2066 nh)
+
+MICROSCOPIC: (Dr K Rutter)
+
+ENDOMETRIAL TUMOUR SYNOPTIC REPORT
+
+TUMOUR TYPE:   Endometrioid adenocarcinoma
+
+TUMOUR GRADE (FIGO): G2 (Architecture -  grade 2; Nuclei -  grade 2)
+-  see comment below
+
+MYOMETRIAL INVASION: Present
+
+MAXIMUM DEPTH OF MYOMETRIAL INVASION: 11mm (into outer half of myometrium)
+
+MYOMETRIAL THICKNESS: 17mm
+
+LYMPHOVASCULAR INVASION: Present
+
+TUMOUR FOCALITY:  Unifocal
+
+LOWER UTERINE SEGMENT INVOLVEMENT:  Absent
+
+INVOLVEMENT OF CERVIX:  Absent
+
+INVOLVEMENT OF UTERINE SEROSA:  Absent
+
+NON TUMOUR UTERUS:
+Endometrium: Weakly proliferative
+Polyps(s):    Absent
+Adenomyosis:  Present
+
+PARAMETRIAL INVOLVEMENT:  Absent
+
+OMENTAL INVOLVEMENT: Absent
+
+PERITONEAL INVOLVEMENT: Absent
+
+OVARIAN INVOLVEMENT: Absent
+
+FALLOPIAN TUBE INVOLVEMENT: Absent
+
+REGIONAL LYMPH NODES
+SENTINEL LYMPH NODES: Negative
+Number of sentinel nodes examined: 2  (Left and right)
+
+PELVIC LYMPH NODES: Negative
+Number of lymph nodes examined: 8
+
+ANCILLARY TESTS:
+IMMUNOSTAINS, block A9
+Mismatch repair proteins
+MLH-1:  Intact (Positive)
+PMS-2:  Intact (Positive)
+MSH-2:  Intact (Positive)
+MSH-6:  Intact (Positive)
+Comment:
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+Tumour block suitable for further testing: A9
+OTHER MICROSCOPIC COMMENT:
+
+The tumour cells have nuclear atypia that is predominantly grade 2. There are small areas  where nuclear atypia approaches grade 3 but is insufficient to qualify as &amp;apos;notable atypia&amp;apos;. The tumour shows squamous morular metaplasia as well as patchy secretory change.
+
+No giant cell component is identified as described in GRETA AM, et al in: Endometrial giant cell carcinoma: a case series and review of the spectrum of endometrial neoplasms containing giant cells. Am J Surg Pathol. 2010 Aug; 34(8): 1132-8.
+
+Benign leiomyoma with no atypical features are present.
+
+RESIDUAL TUMOUR STATUS:
+R0: No residual tumour
+PERITONEAL WASHINGS STATUS:
+Negative for malignancy, see Cytology report 37Y18771.
+
+TUMOUR STAGE
+AJCC (2017, 8th edition): pT1b N0  Mx, Stage IB (presumed cM0)
+
+FIGO (2015): IB
+
+SUMMARY:
+A. UTERUS, CERVIX, BILATERAL TUBES AND OVARIES:
+- ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 2
+- LYMPHOVASCULAR INVASION
+- TUMOUR INVADES INTO OUTER HALF OF MYOMETRIUM
+- BENIGN LEIOMYOMATA
+B. RIGHT PELVIC SENTINEL NODE:
+- ONE LYMPH NODE NEGATIVE FOR MALIGNANCY (0/1).
+C. LEFT PELVIC SENTINEL NODE:
+- ONE LYMPH NODE NEGATIVE FOR MALIGNANCY (0/1).
+D. RIGHT PELVIC NODES:
+- EIGHT LYMPH NODES NEGATIVE FOR MALIGNANCY (0/8).
+E. OMENTAL BIOPSY:
+- NEGATIVE FOR MALIGNANCY.

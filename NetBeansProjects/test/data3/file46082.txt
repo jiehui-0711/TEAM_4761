@@ -1,0 +1,22 @@
+SPR no: 30R640954C
+MRN no: 9156937
+Site_name: CENTRAL HIGHLANDS RURAL HEALTH - CRESWICK
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Extended hemihepatectomy left.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Extended left hemihepatectomy&amp;quot;, consists of a segment of liver, measuring 175 x 150 x 60mm, and weighing 677g.  The liver capsule is intact, smooth and shiny.  The margin inked blue.  The specimen is serially sliced from left lateral to right lateral.  The cut surface shows an irregular shaped, circumscribed pale tan lesion measuring 80 x 55 x 75mm abutting the margin and less than 1mm from the capsule.  There is a separate pale tan fibrotic area around the blood vessels measuring 23 x 11 x approximately 30mm, adjacent to the pale tan circumscribed lesion.  Blocks: 1 &amp;amp; 2 - lesion abutting margin; 3 &amp;amp; 4 - lesion to the closest capsule; 5 - fibrotic area around vessels; 6 - normal liver tissue away from lesion; 7- lesional tissue allocated for biobanking.  RS 7 blocks.  (TO:FH/eh 11/7/68)
+
+
+MICROSCOPIC: (Reported by Dr K Rocle)
+Sections of the 80mm hepatic lesion show a moderately differentiated adenocarcinoma. The carcinoma consists of infiltrative, complex malignant glands. The carcinoma is CAM5.2, CK7, CK19 and focally EMA positive and is negative for CEA, CK20, hepar-1 and TTF-1.
+
+
+COMMENT:
+The liver tumour is a moderately differentiated carcinoma with overall morphologic and immunohistochemical features suggestive of cholangiocarcinoma. The possibility of primary upper GIT origin (including pancreatic) cannot be entirely excluded.
+Please correlate with clinical and imaging findings.
+
+
+DIAGNOSIS:
+Liver lesion: Carcinoma (please see comment).

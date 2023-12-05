@@ -1,0 +1,35 @@
+SPR no: 08K817943X
+MRN no: 084817
+Site_name: RYLSTONE DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report08K81794 (08K817943X) GATTA, JED
+HISTOPATHOLOGY REPORT
+MONASH HEALTH COMMUNITY HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Bartholin&amp;apos;s gland CA slides reviewed by Dr. Marjoniemi.
+
+1. Right sentinel groin node.
+2. Right Bartholin&amp;apos;s gland suture 12 o&amp;apos;clock.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT BARTHOLIN&amp;apos;S GLAND SUTURE AT 12 O&amp;apos;CLOCK&amp;quot;. An excision of mucosal tissue 41x20mm with a suture at one aspect indicating 12 o&amp;apos;clock. There is underlying tissue 24mm deep. Three o&amp;apos;clock inked blue, nine o&amp;apos;clock inked black. Tissue is serially sectioned from 6 o&amp;apos;clock into five slices. On the cut surface, the underlying tissue is pale and fibrous over an area of 25x17x29mm. This is area is poorly defined and abuts the 3 o&amp;apos;clock margin.
+
+(1&amp;amp;2  longitudinal section slice 1 [12 o&amp;apos;clock]; 3&amp;amp;4  slice 2; 5&amp;amp;6  slice 3; 7&amp;amp;8  slice 4; 9&amp;amp;10  longitudinal section slice 5 [6 o&amp;apos;clock]). Representative sections. (M-10) (Image available and diagram drawn).
+
+B. &amp;quot;RIGHT SENTINEL GROIN NODE&amp;quot;. A piece of fatty tissue 35x20x14mm. Multiple lymph nodes are identified. One lymph node 10mm across is present with a green tinge in part of the cut surface.
+
+(1  green tinged lymph node; 2  one lymph node; 3  one lymph node bisected; 4  one lymph node). All embedded. (M-4/AO 18/6/2071 km).
+
+MICROSCOPIC:  (Dr B Strelow)
+A. The sections show squamous mucosa with underlying connective tissues including Bartholin&amp;apos;s gland. Fibroblastic reaction and suture material foreign body giant cell reaction is present and is consistent with previous surgery effect. Involving the Bartholin&amp;apos;s gland there is a moderately to poorly differentiated squamous cell carcinoma with basaloid areas and with areas showing cytoplasmic keratinisation. There is a high mitotic rate in many areas (up to 50 mitoses per 10 high power fields). Negative for lymphovascular invasion and negative for perineural invasion.
+Tumour is present in three adjacent slices and therefore measures approximately 12mm in greatest dimension. The carcinoma invades to a depth of 7mm below the squamous mucosal surface. Carcinoma is 10mm from the 3 o&amp;apos;clock margin, is 5mm from the 9 o&amp;apos;clock margin, is  greater than 10mm from the 12 o&amp;apos;clock margin, is greater than 8mm from the 6 o&amp;apos;clock margin and is 12mm from the deep margin.
+Immunohistochemistry (Block A6): There is positive staining for CAM5.2, AE1/AE3, CK5/6,  p-63 and p16. Synaptophysin and Chromogranin are negative.
+B. Four lymph nodes are identified and show reactive changes only. AE1/AE3 shows focal non-specific staining only.
+DIAGNOSIS:
+A. RIGHT BARTHOLIN&amp;apos;S GLAND:
+-  SQUAMOUS CELL CARCINOMA
+B. RIGHT SENTINEL GROIN NODE:
+-  NEGATIVE FOR MALIGNANCY
+23/6/2071 nh

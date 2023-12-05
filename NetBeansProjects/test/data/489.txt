@@ -1,0 +1,55 @@
+
+Episode No:  12I026915I
+1230269.EOI
+
+PARZYCH, JULI 
+Lab No:  12I02691,12I02691
+N Woodland
+LAUNCHING PLACE  QLD  1871
+Specimen: Washings,Tissue
+D.O.B:  28/9/1986
+Sex:  F
+Collected: 29/07/2013 at 13:08
+Location:  POST OPERATIVE RECOVERY - COOKTOWN HOSPITAL
+DR JACQUILINE MAI WIGINTON
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Endometrial cancer grade 2.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus tubes and ovaries", consists of a uterus received partially opened with attached cervix bilateral fallopian tubes and ovaries weighing 101g in total.  The uterus measures 50 x 55 x 32mm and has a smooth shiny serosal surface.  The ectocervix measures 25 x 25mm and has an unremarkable surface. On sectioning there is a polypoid lesion arising from the uterine fundus adjacent to the right adnexal region.  This projection appears to arise from the endometrium and measures 25 x 25 to a depth of 11mm over a maximum wall thickness of 14mm.  Multiple leiomyomas are identified in the myometrium from ranging from 5 to 15mm in maximum diameter. The right fallopian tube measures 70mm in length with a maximum dimension of 5mm.  The right ovary measures 45 x 18 x 10mm and has an unremarkable cut surface.  There are multiple paratubal cysts adjacent to the right fallopian tube ranging from 2 to 30mm.  All cysts are thin walled and uniloculated.  The left fallopian tube measures 70mm in length with a maximum diameter of 5mm.  The left ovary measures 50 x 20 x 10mm and has an unremarkable cut surface.  There is a paratubal cyst located towards the fimbrial end of the fallopian tube which measures 20 x 20 x 20mm and is thin walled and uniloculated.  
+Blocks: 1 to 3 - full longitudinal section of anterior body and cervix; 4 to 6 - full longitudinal section of posterior body and cervix; 7 and 8 - sections of nodular area and endometrium in anterior body; 9 and 11 - nodular endometrium in posterior body; 12 - LS of the fimbrial end of the right fallopian tube with attached paratubal cyst; 13 - representative TS right fallopian tube; 14 - representative right ovary; 15 - LS of the fimbrial end of the left fallopian tube with attached paratubal cyst; 16 - representativeTS left fallopian tube; 17 - representative left ovary.
+
+B.  Specimen labelled "Omentalbiopsy", consists of a piece of omental fat which measures 70 x 25 x 10mm.  No deposits are identified.  Specimen is AE 3 blocks. 
+C.  Specimen labelled "Right pelvic nodes", consists of fibroadipose tissue which measures 65 x50 x 10mm.  Multiple lymph nodes are identified.  All lymph node material embedded in 5 blocks.
+Blocks: 1 - lymph nodes; 2 - one lymph node bisected; 3 to 5 - lymph nodes.
+D.  Specimen labelled "Rightcommon iliac nodes", consists of fibroadipose tissue which measures 25 x 30 x 10mm.  
+Blocks: 1 - one lymph node bisected; 2 - remaining tissue.
+E.  Specimen labelled "Left pelvic lymph nodes", consists offibroadipose tissue which measures 60 x 55 x 10mm.  Multiple lymph nodes are identified.  
+Blocks: 1 - lymph nodes; 2 - one lymph node bisected; 3 and 4 - one lymph node bisected; 5 & 6 - lymph nodes. 
+F.  Specimen labelled "Left common iliac lymph nodes", consists of fibroadipose tissue with measures 35 x 35 x 10mm.  Multiple lymph nodes are identified.  All lymph node material embedded in 2 blocks.
+(ED/vo 2.9.63)
+MICROSCOPIC (Reported by Dr E Mulkins):
+A.  Sections show endometrioid adenocarcinoma of the endometrium involving both the anterior and posterior endometrial surfaces.  The tumour has grade 1 architecture with grade 3 nuclear features, giving overall grade of 2.  Carcinoma invades toa depth of 8mm through a wall thickness of 13mm within the posterior fundus.  No lymphovascular invasion is identified.  The ectocervix and endocervix show no significant abnormality.  The myometrium shows leiomyomas.  Both ovaries and fallopian tubes show no significant abnormality.  
+B.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.  
+C.  The fifteen (15) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.  
+D.  The two(2) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.  
+E.  The eight (8) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.  
+F.  The four (4) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.  
+DIAGNOSIS:
+A - F.  Uterus and cervix, fallopian tubes and ovaries, pelvic lymph nodes and omentum:  
+-  Grade 2 endometrioid adenocarcinoma of the endometrium.
+-  Invasion to a depth of 8mm through a wall thickness of 13mm.  
+-  Twenty-nine negative lymph nodes.
+-  Omentum negative.
+ADDITIONAL REPORT (8/10/63):
+
+Immunoperoxidase stains for MSI proteins (Block: A11)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI),and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

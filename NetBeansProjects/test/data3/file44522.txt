@@ -1,0 +1,22 @@
+SPR no: 88B484894R
+MRN no: 2517899
+Site_name: YARRA RANGES HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Stage 1A endometrial cancer in 2066.  Subsequent bilateral salpingo-oophorectomy today.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a fused ovary and fallopian tube measuring 35 x 38 x 20mm.  The fimbrial end of the fallopian tube is not identified.  The outer surface is inked blue.  No obvious tumour is identified.  AE 5 blocks.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a fused ovary and fallopian tube measuring 37 x 23 x 18mm.  The outer surface is inked blue.  No obvious tumour is identified.  AE 4 blocks.   (TO:MH/ta 6/7/67)
+
+
+MICROSCOPIC (Reported by Dr V Hayashida):
+A.  The sections show ovary and fallopian tube with no significant abnormality.  The fimbrial end of the tube is not identified.  The entire specimen has been embedded and there is no evidence of malignancy.
+
+B.  The sections show ovary and fallopian tube with no significant abnormality.  The fimbrial end of the tube is not definitively identified.  The entire specimen has been embedded and there is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A &amp;amp; B.  Bilateral fallopian tubes and ovaries:  No evidence of malignancy.

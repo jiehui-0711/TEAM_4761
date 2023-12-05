@@ -1,0 +1,67 @@
+Episode No:  48R205192J
+486205.CYH
+
+Malaspina, VAUGHN 
+Lab No:  48R20519,48R20519
+Toller
+BENDIGO  VIC  3682
+Specimen: Washings,Tissue
+D.O.B:  12/3/2007
+Sex:  F
+Collected: 07/01/2066 at 19:15
+Location:  WERRIS CREEK COMMUNITY HOSPITAL
+DR Titus Radakovich
+Distribution:  DR Kory, DR Harold CHINWEZE,    FILE-COPY,   NSW-CANCER-REGISTRY
+HISTORY:  
+Peritoneal washings.  Uterus, tubes + ovaries.  Omental biopsy.G1 endometrial adenoca.
+MACROSCOPIC:  
+A.  "UTERUS, CERVIX, OVARIES + TUBES".  Uterus with cervix, bilateral tubes and ovaries.  The uterus with cervix measures 70x40x25mm. The whole specimen weighs 70g.  The right fallopian tube measures 45mm in length with diameter up to 3mm. There is a clip on the proximalpart of the fallopian tube. The right ovary measures 25x10x5mm. The left fallopian tube measures 40mm in length with diameter up to 5mm. The left ovary measures 20x10x5mm. Anterior surgical margin is inked blue, posterior black.  The specimen of uterus with cervix sectioned longitudinally.  The endometrium measures about 12mm in thickness. There is slightly thickened area of the endometrium identified within the fundus measuring about 12x about10mm in length.  
+(1-6 full face RS of the uterus LS [1 anterior cervix, 2 posterior cervix, 3 anterior body, 4 posterior body, 5 anterior fundus, 6 posterior fundus]; 7 another RS of fundus; 8&9 more RS of the body of the uterus; 10&11 RS of the fundus;12 right fimbrial end bisected; 13 representative TS of the right fallopian tube; 14 right ovary; 15 right parametrial tissue; 16 left fimbrial end bisected; 17 left fallopian tube; 18 left ovary; 19 left parametrial tissue).  RS (M-19)
+B.  "OMENTUM BIOPSY".  Piece of fatty tissue measuring 25x25x10mm.  No obvious lesion seen within the specimen.  Specimen is sectioned and all embedded in two blocks.  AE (M-2/PQ/ank)
+MICROSCOPIC:  (Dr L Dinunzio)
+ENDOMETRIAL CARCINOMA: 
+Tumourtype:  Endometrioid carcinoma 
+FIGO grade:  1
+(architecture grade:  1, nuclear grade:  1)
+Myometrial invasion:  Invasion limited to inner half of myometrium 
+Depth of myometrial invasion:   1mm
+Myometrial thickness:   10mm
+% of myometrium invaded:   10%
+Focality:  Unifocal
+Tumour involves:  Fundus  
+Vascular/lymphatic invasion:  Not seen
+Involvement of cervix:  Not involved 
+Involvement of uterine serosa:  No 
+Excision margins:  Margins are clear of tumour
+Non-tumour uterus:  
+Adjacent endometrium:  Atrophic
+Adenomyosis:  Not present
+Adnexae:  
+Left fallopian tube:  No significant abnormality
+Right fallopian tube:  No significant abnormality
+Left ovary:  No significant abnormality
+Right ovary:  No significant abnormality
+Lymph nodes:  Nil examined
+Other tissues:  
+B.  Omentum with no significant abnormality.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage:  pT1a, pNx, pMx
+FIGO stage:   IA
+DIAGNOSIS:  
+UTERUS:  WELL DIFFERENTIATED ENDOMETRIOID CARCINOMA. 
+OMENTUM:  NO SIGNIFICANT ABNORMALITY.
+12/1/2066 ht
+SUPPLEMENTARY REPORT: 
+Immunostains for MSI proteins (Fluor Corporation EASTERN EYRE HEALTH AND AGED CARE - COWELL CAMPUS Lab; block:  A5)
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	NEGATIVE
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+

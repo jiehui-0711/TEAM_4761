@@ -1,0 +1,122 @@
+SPR no: 23X453249Q
+MRN no: 0610980
+Site_name: CASTLEMAINE HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Total gastrectomy for gastric adenoCa.  Total gastrectomy + disc of diaphragm.  Neoadjuvant chemotherapy.  Positive cytology.  Fresh specimen for biobank.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Distal oesophagus&amp;quot;, consists of an unoriented strip of mucosa, 20 x 4 x 3mm.  AE for frozen section in 1 block.
+
+FROZEN SECTION REPORT:
+No evidence of malignancy.
+Phone result to Dr Terence IACOVISSI by Dr F. Rumer at 4:17pm on 30/07/67.
+
+B.  Specimen labelled &amp;quot;Gastrectomy&amp;quot;, consists of a total gastrectomy with distal oesophagus, proximal small bowel and adherent disc of diaphragm.  The stomach is 140mm along the lesser curvature and 210mm along the greater curvature.  The oesophagus is 13mm in length, and there is proximal small bowel 8mm in length.  There is attached greater omentum 250 x 150 x 35mm and lesser omentum 130 x 50 x 15mm.  There is an indurated haemorrhagic and ulcerated lesion, 75 x 75mm, involving the mucosa along the greater curvature.  This area is 40mm clear of the distal margin and well clear of the proximal margin.  The cut surfaces in this area show thickening of the gastric wall by soft gelatinous grey material.  No definite viable tumour is seen macroscopically.  The adherent disc of diaphragm measures 50 x 40 x 20mm, and appears adherent to the greater curvature by ill-defined grey tissue.  There is also an area of greater omentum, approximately 80 x 70mm, which is adherent to the stomach by soft grey tissue.  The mucosa in the gastric fundal region shows flattening of the ruggae and a thickened texture.  In the pyloric region, the mucosa has a flattened and thickened appearance, spanning an area 90 x 70mm.  The posterior wall of the stomach shows mostly unremarkable mucosa with intact ruggal folds.  The proximal margin is inked blue and distal black.  The circumferential margin of the diaphragm disc inked black and the deep diaphragm margin green.  There is insufficient tumour for fresh sampling for biobanking.
+Blocks: 1 &amp;amp; 2 - LS proximal margin; 3 &amp;amp; 4 - distal margin; 5 - LS circumferential diaphragm margin; 6 - flattened fundus mucosa; 7 to 9 - posterior wall mucosa; 10 to 12 - pyloric region with flattened mucosa; 13 to 55 - majority of haemorrhagic ulcerated lesion along greater curvature (16/18, 17/19, 21/24, 22/25; 23/26, 30/31 - includes diaphragm); 56 &amp;amp; 57 - lymph nodes from lesser omentum; 58 to 59 - lymph nodes from greater omentum; 60 to 64 - greater omentum
+
+Lymph nodes were difficult to palpate in the adipose tissue, which was re-examined for lymph nodes after additional fixation.  No additional nodes were identified.  Further adipose tissue embedded in blocks 65 to 79.
+
+C.  Specimen labelled &amp;quot;Donuts&amp;quot;, consists of two donuts of tissue measuring 17 x 14 x 10mm and 19 x 17 x 12mm.  No discrete lesion is seen.  Blocks: 1 to 3 - smaller donut; 4 to 7 - larger donut.  AE.
+
+D.  Specimen labelled &amp;quot;Ciliac (sic) lymph node&amp;quot;, consists of a piece of fibroadipose tissue, 18 x 13 x 6mm, containing an 18mm lymph node.  Blocks: 1 - lymph node bisected; 2 - remainder.  AE.
+(TO:QQ/rs/rs 30/6/68)
+
+
+MICROSCOPIC (Reported by Dr F Fifer):
+A.  Paraffin sections confirm no evidence of malignancy.
+
+B to D.  SYNOPTIC REPORT FOR GASTRIC CARCINOMA
+Macroscopic description
+
+Tumour site:  Greater curve
+Maximum tumour diameter:  75mm
+Distance to nearest margin:  40mm
+
+Microscopic Description
+
+Tumour site (location):
+Greater curve
+
+WHO histological tumour type:
+Tubular adenocarcinoma
+
+Lauren histological tumour type:
+Intestinal
+
+Growth pattern:
+Infiltrating
+
+Maximal dimension of tumour:  75mm
+
+Local invasion (pT):
+T4b	Tumour invades adjacent structures (diaphragm, greater omentum)
+
+Serosal surface involvement:
+Present
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary):  Not identified.
+Large vessels (vein and artery):  Not identified.
+
+Perineural growth:
+Not identified
+
+Degree of regression after preoperative chemoradiation:
+Grade 2 (partial response) - Residual cancer with evident regression, but more than single cells or rare small groups of cancer cells
+Her2 status:  1+
+
+Distance of tumour from margins:
+From proximal:  50mm
+From distal:  40mm
+Diaphragm soft tissue margin:  Although pools of extracellular mucin extend to the diaphragm peripheral and soft tissue margins, viable tumour cells are well clear of all diaphragm margins.
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:
+Five (5) lymph nodes are identified in the perigastric fat.
+One (1) coeliac artery lymph node (specimen C) is present.
+
+Number of lymph nodes involved:
+One (1) lymph node located along the greater curvature contains metastatic carcinoma.
+This lymph node contains rare clusters of tumour cells associated with pools of 				extracellular mucin.  Cam 5.2 immunohistochemistry highlights the malignant cells.
+
+N1	Metastasis in 1-2 regional lymph nodes
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis:  Present - moderate active chronic gastritis
+
+Helicobacter infection:  Present.
+
+Intestinal metaplasia:  Present throughout the stomach, but particularly prominent throughout the pyloric region.
+
+Dysplasia:  Not identified.
+
+Gastric polyps:  Absent
+
+Barrett&amp;#8217;s mucosa:  Absent
+
+Other comments:  The donuts show oesophageal and duodenal mucosa with no significant abnormality.
+
+
+Immunoperoxidase stains for MSI proteins (Block B34)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS:
+A.  Distal oesophagus:  No evidence of malignancy.
+B.  Gastrectomy:
+-  Moderately differentiated adenocarcinoma with partial treatment response.
+-  Tumour invades diaphragm and greater omentum.
+-  One of five lymph nodes positive for metastatic carcinoma (1/5).
+C.  Donuts:  No evidence of malignancy.
+D.  Coeliac artery lymph node:  One negative lymph node (0/1).

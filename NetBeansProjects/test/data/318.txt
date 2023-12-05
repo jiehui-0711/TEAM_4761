@@ -1,0 +1,82 @@
+ 345381.HOF
+GNIEWEK, ANAYA
+34N38125
+
+Last edited : 14/5/2063		Page: 2
+
+***ADDITIONAL REPORT, 14/5/63: HER-2 CISH RESULTS
+Dr K Luscombe
+
+CLINICAL:
+Right total mastectomy with level 3 axillary clearance.  Separate apical nodes.  Right breast cancer +ve core and +ve FNA axillary node.  
+MACROSCOPIC:
+
+A.  Specimen labelled "Apical tissue right breast"consists of adipose tissue measuring 30 x 20 x 5mm.  No definite lymph nodes are identified.  AE 2 blocks.  
+B. Specimen labelled "Right breast and axillary clearance" consists of a total mastectomy measuring 280mm (medial to lateral), 160mm (superior to inferior) and 40mm (superficial to deep).  The ellipse of skin measures 240 x 125mm.  The nipple and areola complex measures 40 x 30mm.  Deep margin is inked green and superficial margin is inked black.  The cut surface reveals a tumour measuring 35 x 30 x 30mm.  It is located at 9 o'clock and 70mm from the nipple.  The tumour is relatively well circumscribed and soft, and areas of mucin are identified.  It is 40mm from the deep margin, 20mm from the superficial margin and is well away from other margins.  A separate tumour deposit 30 x 25 x 20mm is identified in the axillary tail.  There is muscle measuring 60 x 50 x 20mm attached to the axillary tail tissue; on sectioning themuscle is unremarkable.  Several lymph nodes are identified in the axillary tail.
+Blocks:  1 - tumour to superficial margin; 2- section of deep margin adjacent to tumour; 3 to 6 - representative tumour; 7 & 8 - representative upperinner quadrant; 9 & 10 - representative lower inner quadrant; 11&12 - representative upper outer quadrant; 13 & 14 - representative lower outer quadrant; 15 - representative nipple; 16 - representative section of a tumour deposit in theaxillary tail; 17 - three lymph nodes from the axillary tail; 18 - one lymph node from axillary tail; 19 - one lymph node from axillary tail bisected; 20 - reserved block; 21 to 23 - further axillary nodes.   (TO:  LG:  NQ/mm 28.4.63)
+MICROSCOPIC (reported by Dr K Pusateri): 
+A.  Sections show fibrofat and some skeletal muscle.  No lymph node is seen.  No tumour is seen.  
+B.  Sections show breast tissue with a 35mm diameter grade 3 invasive mucinous carcinoma. There is one axillary lymph node metastasis.  A synoptic report follows:
+Invasive carcinoma:
+Site:  Right breast, mastectomy. 
+Type:  Invasive mucinous carcinoma. 
+Invasive tumour size: 35mm. 
+Grade (Modified Bloom & Richardson): 3
+Tubules: 3     Nuclei:   2   Mitoses:   3   Mitotic rate: 21/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS: 5mm. 
+Nuclear grade:  Intermediate. 
+Architecture: Solid. 
+Necrosis:   Absent. 
+Calcification: Absent. 
+Degree of DCISin tumour:  None/minimal. 
+DCIS in adjacent tissue:  None/minimal. 
+Excision Margins:  
+Invasive component: All >10mm.
+In-situ component:  All >10mm.
+Receptors (Block B5): 
+ER:  Positive. 
+	100% of nuclei stained
+	predominant intensity of staining:  Strong. 
+PR:  Positive.
+	5% of nuclei stained
+	predominant intensity of staining:  Strong. 
+HER2 (Novocastra 10A7):Negative (0/1+). 
+Ki-67 index: 30%. 
+Other immunohistochemistry (Block B5):
+Synaptophysin:  Negative
+Chromogranin:  Negative
+Nipple:  Normal.   
+
+LCIS / ALH:  Present. 
+Miscellaneous:  Breast tissue away from the tumour shows some columnar cell change and benign microcalcification. 
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 21.
+Number of axillary lymph nodes NOT involved:  20.
+Number of axillary lymph nodes involved by tumour: 1.         
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  21. 
+Total number of involved lymph nodes (including sentinel node(s)):  1. 
+ 
+DIAGNOSIS:  
+A.  Apical tissue right breast:  No abnormality seen.   
+B.  Right breast and axillary tail:  35mm grade 3 invasive mucinous carcinoma with one lymph node metastasis (1/21).  pT2 N1.
+***ADDITIONAL REPORT, 14/5/63: HER-2 CISH RESULTS
+Dr K Malson
+Material was sent to Dr K Merschman, Cytogenetics Pathology, CAULFIELD HOSPITAL Hospital, for HER-2 In-Situ Hybridisation analysis, the results of which are as follows:
+HER-2 IHC result:  Negative (0)
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using theVentana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:  NEGATIVE (non amplified, diploid)
+
+Mean HER2 copy number per cell:  1.45
+Mean CEP17 copy number per cell:  1.40
+HER2/CEP17 Ratio:  1.04
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 < 1.8
+Equivocal:  HER2/CEP17 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

@@ -1,0 +1,85 @@
+
+ 489863.CDY
+Klingelhoefer, JESS
+48X86301
+
+Last edited : 28/1/2063		Page: 2
+
+CLINICAL:
+Rt breast cancer.  7mm at 3 o'clock, at areola.  Prophylactic mastectomy on left.  Short stitch superior, long lateral.  Bilateral sentinel nodes.
+MACROSCOPIC:
+A.  Specimen labelled "Right breast" consists of a total mastectomy with two sutures for orientation marking short 1 superior margin and long 1 lateral margin measuring 200mm (medial to lateral) x 190mm (superior to inferior) x 40mm (superficial to deep) margin.  There is an ellipse of skin with nipple and areola complex 180 x 100mm.  The surface of the skin is unremarkable.  The superficial margin is inked blue, the deep margin inked black.   At 3 o'clock and retro-areolar  there is stellate and gritty lesion 10 x 10 x 10mm it is located 40mm from the deep margin, morethan 100mm from superior margin and more than 70mm from the inferior margin.  The rest of the parenchyma has a fibrofatty appearance.  
+Blocks: 1 & 2 - composite of nipple with lesion; 3 nipple,  4 & 5- composite of tumour with nipple and areola; 6 & 7 - nipple and areola composite; 8 - deep margin closest to tumour; 9 & 10 - upper outer quadrant; 11 & 12 - upper inner quadrant;  13 & 14 - upper inner quadrant; 15 - lower inner quadrant.
+  
+B.  Specimen labelled "Left breast" consists of a total mastectomy with two sutures for orientation marking short  superior margin and long  lateral margin measuring 200mm(medial to lateral) x 190mm (superior to inferior) x 30mm (superficial to deep) margin.  There is an ellipse of skin with nipple and areola complex 180 x 80mm.   The surface of theskin is unremarkable.  The superficial margin is inked blue, the deep margin inked black.  On sectioning the parenchyma has a fibrofatty appearance.  
+Blocks: 1 - nipple and areola;2 to 4 - upper inner quadrant; 5 to 7 - upper outer quadrant; 8 & 9 - lower inner quadrant; 10 to 13 - lower outer quadrant.  
+C.  Specimen labelled "Right axillary sentinel node"consists of a lymph node measuring 15mm in maximum diameter.   AE 1 block.  
+   
+D.  Specimen labelled "Right axillary sentinel node" consists ofa lymph node measuring 5mm in maximum diameter.   AE 1 block.  
+ 
+E.  Specimen labelled "Right axillary sentinel node" consists of a lymph node measuring 5mm.   AE 1 block.
+ 
+F.  Specimen labelled "Left axillary sentinel node" consists of three lymph nodes measuring 5, 5 and 10mm.
+Blocks: 1 to 3 - one lymph node each.   (ZB/ta 23/1/63) 
+    
+MICROSCOPIC:  (Reported by Dr K Rakers)
+A.  The right breast tumour is an invasive ductal carcinoma, NOS, arising on a background of DCIS. A synoptic report for breast carcinoma follows:
+
+SYNOPTIC REPORT FOR INVASIVE CARCINOMA OF THE BREAST
+Invasive carcinoma:
+Site: Right breast.
+Type: Invasive ductal carcinoma, NOS.
+The carcinoma is retroareolar and consists of infiltrative tubules, nests and trabeculae. Some of the tumour cells have an apocrine type appearance. There is patchy Pagetoid spread into adjacent ducts. 
+Invasive tumour size: 15mm (microscopic). 
+Grade (Modified Bloom & Richardson): 1
+Tubules: 2    Nuclei: 2     Mitoses: 1     Mitotic rate:   Less than 1/10hpf.
+Lymphovascular invasion: Inconspicuous. 
+	    
+DCIS component:  
+DCIS: Present. 
+Maximum extent of DCIS: DCIS is present within the tumour and in adjacent benign breast tissue over an approximate maximum extent of 17mm.
+Nuclear grade: Low to intermediate. 
+Architecture: Solid to cribriform. 
+Necrosis: Not identified. 
+Calcification: Not identified. 
+Degree of DCIS in tumour: Mild.  
+DCIS in adjacent tissue: Present. 
+Excision Margins:  
+Invasive component:Clear of margins.
+In-situ component: Clear of margins. 
+Receptors (Block A1): 
+ER:  	POSITIVE
+	90% of nuclei stained
+	Predominant intensity of staining:moderate to strong.   
+PR:  	NEGATIVE
+	Less than 1% of nuclei stained.
+HER2 (Novocastra 10A7): Negative (0)
+HER SISH:  Performed at Alcoa Inc, MAREEBA HOSPITAL Hospital, see separate report.
+Ki-67 index: Approximately 2% of tumour cell nuclei positive. 
+Nipple: No evidence of Paget's disease. 
+LCIS /ALH: Focal atypical lobular hyperplasia is present. 
+Miscellaneous: The adjacent non-neoplastic breast tissue shows patchy fibrocystic change, fibroadenomatoid change and mild non-specific inflammation. 
+Lymph node total:
+See specimens C - F. 
+B.  Sections of the left breast show benign ducts and acini. The nipple shows no significant histologic abnormality. There is no evidence of atypical ductal hyperplasia, DCIS or malignancy.
+C.  Sections of the right axillary sentinel lymph node show a 0.30mm deposit of metastatic carcinoma (1/1) (H&E and IHC). There is no extranodal extension. 
+D.  Sections of the right axillary sentinel lymph node show no evidence of malignancy by H&E and IHC (0/1).
+E.  Sections of the right axillary sentinellymph node show no evidence of malignancy by H&E and IHC (0/1).
+F.  Sections of the three left axillary sentinel lymph nodes show no evidence of malignancy (H&E and IHC) (0/3).
+DIAGNOSIS:
+A.  Right breast: 15mm, Grade 1, invasive ductal carcinoma arising on a background of DCIS. Margins are clear of DCIS/carcinoma. ER positive; PR and Her-2 negative. 
+
+B.  Left breast: No evidence of atypical ductal hyperplasia, DCIS or malignancy. 
+
+C.  Right axillary sentinellymph node: Metastatic carcinoma in one lymph node (1/1). 
+
+D.  Right axillary sentinel lymph node: No evidence of malignancy (0/1). 
+
+E.  Right axillary sentinel lymph node: No evidence of malignancy (0/1).
+
+F.  Left axillary sentinel lymph node: No evidence of malignancy (0/3).
+
+HER SISH is being performed at Micron Technology, TOWNSVILLE UNIVERSITY HOSPITAL Hospital and please see separate report for result.
+
+ 
+

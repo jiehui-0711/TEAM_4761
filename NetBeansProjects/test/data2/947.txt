@@ -1,0 +1,69 @@
+Episode No:  22R596019S
+2265960.EZS
+
+Morrish, Nathaniel 
+Lab No:  22R59601
+S Bruner
+YEPPOON  VIC  3260
+Specimen: Tissue
+D.O.B:  4/2/1974
+Sex:  M
+Collected: 24/3/2063 at :
+Location:  POW L7 CONSULTING ROOMS-PORTLAND DISTRICT HEALTH
+DR Hugh Ken DICKEL
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right hemicolectomy, obstructing tumour.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a right hemicolectomy 220mm in length with a 55mm length of terminal ileum.  There is a circumferential ulcerated tumour taking up a 25mm length of bowel, 110mm from the distal resection margin.  There is puckering of the serosa overlying the tumour.  The tumour appears to invade to a maximum depth of 15mm, abuts the anterior serosal surface and invades through the muscularis propria and into the mesenteric fat.  The remainder of the mucosa appears unremarkable apart from melanosis coli.  
+Blocks:  1 - resection margin; 2 to 6 - representative tumour; 7 - representative uninvolved colonic mucosa; 8 - ?appendix; 9 - apical node; 10 - one lymph node serially sectioned; 11 - lymph nodes; 12 - one lymph node bisected;13 - lymph nodes; 14 - lymph nodes; 15 - reserve block.  (WS/cc  25/3/63) 
+ 
+MICROSCOPIC (Reported by Dr H Langsdale): 
+Sections show a moderately differentiated adenocarcinoma of the right colon.  The tumour has infiltrated through the full thickness of the bowel wall and invades the mesenteric fat.  The carcinoma infiltrates close to the anterior peritoneum which is inflamed but the mesothelial layer has not been breached by carcinoma.  
+The colonic mucosa shows moderate melanosis and there are no polyps.
+The resection margins are well clear of tumour and the terminal ileum shows a mild chronic ileitis with chronic architectural changes (?cause).
+Two (2) of the twelve (12) mesenteric nodes identified contain metastatic carcinoma and one of these shows perinodal spread for a distance of 1mm.  The apical node is not involved.  
+DIAGNOSIS:
+Right hemicolectomy:  
+BOWEL CANCER PROFORMA
+
+Macroscopic Description
+
+Site of tumour:  Ascending colon.
+Maximum tumour diameter:  25mm
+Distance of tumour to nearer cut end:  110mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation bypredominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Not involved
+Non-peritonealised circumferential margin:  Not involved
+Lymph nodes
+Number of lymph nodes present:  12
+Number of lymph nodes involved:   2
+pN1b	Metastasesin 2-3 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas  Nil
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3 pNIb pMX R0
+

@@ -1,0 +1,74 @@
+
+Episode No:  32Z256864K
+329256.WRK
+
+CULLIFER, IRA 
+Lab No:  32Z25686
+Espie
+WHYALLA  TAS   4879
+Specimen: Tissue
+D.O.B:  3/11/1990
+Sex:  F
+Collected: 04/12/2012 at 09:15
+Location:  Laverty Pathology-GOODOOGA HOSPITAL
+DR ABDUL Marcus Levi-Holen
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+H/O L WLE + XRT 2009.  ILC.  Now L 9 o'clock 8cm FNsmall lesion - 3mm size. FNAB - code 5.  L completion mastectomy. 
+MACROSCOPIC:
+Specimen labelled "Left breast long lateral, short superior", consists of a mastectomy 200mm (medial to lateral) x 135mm (inferior to superior) x 70mm (superficial to deep). There is an overlying ellipse of skin 200 x 130mm.  There is a scar in the 
+2 o'clock position running for a length of 80mm which starts 35mm from the nipple.  There is an overlying nipple areolar complex which appears unremarkable. The superficial margin is inked blue and the deep margin is inked black. In the 9 o'clock position approximately 70mm from the nipple there is a firm poorly circumscribed cream round lesion (Lesion 1) measuring 4mm (medialto lateral) x 3mm (inferior to superior) x 3mm (superficial to deep). The nearest margin is the superior superficial margin at 15mm.  The deep margin is 30mm, the inferior margin is50mm, the medial margin is 30mm and is well clear of the lateral margin.  There is a further firm stellate poorly circumscribed lesion in the 3 o'clock position just next to the retroareolar space approximately 60mm from the nipple (Lesion 2) which measures 8mm (medial to lateral) x 10mm (inferior to superior) x 7mm (superficial to deep). The nearest margin is the deep margin at 35mm.  The inferior margin is 40mm while the superficial margin is 60mm and is well clear of both the medial and lateral margins.  There scar tissue running in the outer upper quadrant in the area deep to the scar on the skin.  The fibrous scar tissue appears to continue to the deep margin. 
+Blocks: 1 & 2 - Lesion 1; 3 - medial of lesion 1; 4 - lateral of lesion 1; 5 - tissue deep to lesion 1; 6 & 7 - lesion 2; 8 - tissue deep to lesion 2; 9 - tissue medial to lesion 2; 10 - scar in tissue lateral to lesion 2; 11 - medial scar; 12 & 13 - deep and lateral scar; 14 - superficial scar; 15 - representative inner upper quadrant; 16- representative inner lower quadrant; 17 - representative inner upper quadrant; 18 & 19 - representative lower outer quadrant; 20 -representative outer upper quadrant; 21 - nipple and tissue deep to nipple. (TO: RR;RR/ec 6.2.62) 
+  
+MICROSCOPIC: (Reported by Dr J Soni & Dr J Templer) 
+Sections show 7 deposits of invasive lobular carcinoma, pleomorphic variant over a total area of 110mm and ranging from 2 to 15mm in maximal dimension. The deposits are present at 8 to 9 o'clock, 5 o'clock and the medial aspect of the fibrous scar in the 3 o'clock region. All of the deposits of carcinoma have a similar morphological appearance. The carcinoma is grade 3 (T-3, N-3, M-3). Focal lymphovascular invasion is present. The tumour is > 10mm from all margins. The nipple and overlying skin shows no evidence of Paget's disease.
+
+Invasive carcinoma:
+Site: Left breast, mastectomy
+Type: Invasive lobular carcinoma, pleomorphic variant.
+Invasive tumour size: 7 deposits, between 2 and 15mm in size, over a 110mm area
+Grade (Modified Bloom & Richardson):
+Tubules: 3     Nuclei: 3      Mitoses: 3     Mitotic rate:    (19/10hpf)
+Lymphovascular invasion:  present (block 6)
+	    
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component: 	> 10mm all margins 
+Receptors (Blocks 2, 6 and 7): 
+ER:   positive
+	80% of nucleistained
+	predominant intensity of staining: moderate 
+PR:   positive
+	5% of nuclei stained 
+	predominant intensity of staining: moderate
+HER2 (Novocastra 10A7):+
+Ki-67 index: 50%
+Nipple:  no evidence of Paget's disease
+
+LCIS / ALH:  present (classical variant)
+DIAGNOSIS:
+Left mastectomy:
+	7 deposits of pleomorphic lobular carcinoma, grade 3, ranging from 2 to 15mm in size over a 110mm area, ER positive, PR positive, HER2 2+, CISH HER2 to follow, Ki67 index 50%, >10mm all margins, focal lymphovascular invasion present.
+
+
+ADDITIONAL REPORT, 23/2/62:
+
+Material was sent to Dr J Cuffy/Dr J Sherfield, RIVERTON HOSPITAL Hospital, for HER-2 Dual ISH testing, the results of which are as follows:
+"Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid) 
+
+Mean HER2 copy number per cell: 1.9 
+Mean CEP17 copy number per cell: 1.7 
+HER2/CEP17 Ratio: 1.11 (block 6) 
+
+Mean HER2 copy number per cell: 1.8 
+Mean CEP17 copy number per cell: 1.4 
+HER2/CEP17 Ratio: 1.3 (block 2) 
+
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8 
+Equivocal: HER2/CEP17 = 1.8-2.2 
+Positive: HER2/CEP17 >2.2"
+

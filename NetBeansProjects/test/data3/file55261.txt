@@ -1,0 +1,93 @@
+SPR no: 12A818594B
+MRN no: 120818
+Site_name: FAR NORTH HEALTH SERVICES
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report12A81859,12A81859 (12A818594B) Moret, Karin
+HISTOPATHOLOGY REPORT
+THEODORE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ovarian ca on axillary node biopsy.
+
+1.  Peritoneal washings for Cyto.
+2.  Uterus, tubes, ovaries, rectosigmoid colon.
+3.  Left pelvic node.
+4.  Right pelvic node.
+5.  Right para-aortic node.
+6.  Omentum.
+7.  Appendix.
+8.  Donuts.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS + TUBES + OVARIES AND RECTOSIGMOID COLON&amp;quot;.  Consists of uterus, cervix attached sigmoid and colon.  Specimen totally weighs 705mm.
+Two lobulated nodular mass attached to the both adnexal areas.
+Lobulated  mass in the left side measures 80x80x60mm.  It is adherent to the left side of the uterus.  No definite ovary and fallopian tube present.  Small focus of fimbriae identified.
+Lobulated firm creamy nodular mass attached to the right side of the uterus, 90x60x70mm.  It is adherent to the uterus and colon.
+Uterus measures 70x40x40mm with ectocervix 30x30mm.  Endometrium measures 1mm.  Anterior wall 18, posterior wall 15mm.
+Rectosigmoid attached supraposteriorly measuring 240mm in length and 25mm maximum diameter.
+On sectioning, lobulated white creamy partially necrotic mass adherent to the sides of uterus. Both tubes and ovaries are completely distorted. The tumour infiltrates into the colonic wall.  No definite invasion to the colonic mucosa present. This area is clear by 80mm distally and 70mm proximally.
+
+There is a separate area of  to the mucosa without any colonic mucosa bulging, 30mm from the distal surgical margin, measuring 20mm .  Sectioning shows lobulated, solid cystic white creamy necrotic surfaces, infiltrating the wall.
+
+(1  proximal colonic surgical margin; 2  distal colonic surgical margin; 3-5  one full face of tumour, colon and uterus including [3  colon and tumour, 4  tumour in the middle, 5  tumour and uterus]; 6&amp;amp;7  more sections of tumour and colon; 8  tumour and uterine wall; 9-12  tumour at the right side; 13&amp;amp;14  tumour at the left side; 15&amp;amp;16 left fimbriae; 17  section of colonic bulging; 18  anterior cervix; 19  posterior cervix; 20&amp;amp;21  uterine wall and endometrium; 22  section of uterus, possible involvement by tumour; 23  section of endometrium; 24  ?three lymph nodes; 25  ?three lymph nodes; 26  section of tumour for tumour banking; 27  ?three lymph nodes; 28  ?three lymph nodes).  RS (M-28).
+
+B.  &amp;quot;LEFT PELVIC NODE&amp;quot;  Enlarged lymph node 40mm with white lobulated firm surface.  Two representative sections embedded.  RS (2-1).
+
+C.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.  Consists of a node 20mm with white lobulated surface.  Two sections embedded.  RS (2-1).
+
+D.  &amp;quot;RIGHT AORTIC NODE&amp;quot;.  Enlarged lobulated lymph node 60mm with a firm creamy hard surface.  One section from middle embedded.  RS (1-1).
+
+E.  &amp;quot;OMENTUM&amp;quot;.  Multiple fibrofatty tissue consistent with omentum measuring 270x180x40mm with multiple firm white nodule deposit (disseminated disease).  Representative section embedded block 1 to 4.  RS (M-4).
+
+F.  &amp;quot;APPENDIX&amp;quot;.  Consists of appendix measuring 50mm in length, 7mm maximum dimension.  Mesoappendix attached 25mm.  Surgical margin inked blue.  Appendiceal wall measures up to 5mm.  No definite tumour or lesion or mucinous area identified.
+
+(1  two LS from base, two TS; 2  three TS; 3  two LS from the tip).  RS (M-3).  (Appendix embedded entirely).
+
+G.  &amp;quot;DONUT&amp;quot;.  Two cylindral bowel, 15mm diameter each.  Representative section embedded block 1.  RS (M-1/SM 29/8/2071 km).
+
+MICROSCOPIC:  (Dr. D. Cassmeyer)
+A.
+OVARIAN CARCINOMA WORKSHEET
+
+1. RIGHT OVARY:	Involved
+Histological type:	High grade serous carcinoma
+Histological grade:	G3
+Nuclear grade:	G3
+Lymphatic invasion:	Present
+Blood vessel invasion: Absent
+Capsular extension:	Present
+LEFT OVARY:		Involved
+Histological type:	High grade serous carcinoma
+Histological grade:	G3
+Nuclear grade:	G3
+Lymphatic invasion:	Present
+Blood vessel invasion: Absent
+Capsular extension:	Present
+RIGHT FALLOPIAN TUBE:  Not identified
+LEFT FALLOPIAN TUBE:  Involved by high grade serous carcinoma with lymphovascular invasion.
+Immunoperoxidase staining of the tumour cells shows positive staining with CK7, p53, WT-1 and Pax-8(weak) with no staining for CK20, Ck5/6 or p63.
+The tumour cells are positive for oestrogen receptor (50% of cells ++) and negative for progesterone receptor.
+UTERUS:
+Endometrium:  Inactive
+Myometrium:  Involved by lymphatic permeation by carcinoma
+Cervix:  Not involved
+Uterine serosal deposits of high grade serous carcinoma
+LARGE BOWEL:  Deposits of high grade serous carcinoma extending into submucosa.  No primary mucosal abnormality is seen.  Largest deposit is in direct continuity with right adnexal mass.    Lymphovascular invasion is seen.  7 out of 14 mesenteric lymph nodes show metastatic serous carcinoma. Proximal and distal margins are clear of tumour.
+LYMPH NODES:
+B.  LEFT PELVIC:  1 of 1 contain metastatic serous carcinoma
+C.  RIGHT PELVIC:  1 of 1 contains metastatic serous carcinoma
+D.  RIGHT AORTIC:  1 of 1 contains metastatic serous carcinoma
+E.  OMENTUM: Multiple deposits of high grade serous carcinoma.
+F.  APPENDIX:  Serosal deposit of high grade serous carcinoma
+G.  DONUT:  No tumour seen
+DIAGNOSIS:
+UTERUS, TUBES, OVARIES AND RECTOSIGMOID COLON
+-  HIGH GRADE SEROUS CARCINOMA INVOLVING BOTH OVARIES AND LEFT FALLOPIAN TUBE WITH DIRECT AND METASTATIC INVOLVEMENT OF RECTOSIGMOID COLON.
+LEFT PELVIC NODE:   METASTATIC CARCINOMA IN 1 OUT OF 1 LYMPH NODE
+RIGHT PELVIC NODE:  METASTATIC CARCINOMA IN 1 OUT OF 1 LYMPH NODE
+RIGHT AORTIC NODE:  METASTATIC CARCINOMA IN 1 OUT OF 1 LYMPH NODE
+OMENTUM:  DEPOSITS OF HIGH GRADE SEROUS CARCINOMA
+APPENDIX:  SEROSAL DEPOSITS OF HIGH GRADE SEROUS CARCINOMA
+DONUT:  NO TUMOUR SEEN
+3/9/2071 nh

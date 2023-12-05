@@ -1,0 +1,88 @@
+Episode No:  42Q106635G
+426106.SJO
+
+YAX, GEORGETTE 
+Lab No:  42Q10663
+Kemmis
+TAMWORTH  ACT  3164
+Specimen:Tissue
+D.O.B:  17/5/2014
+Sex:  F
+Collected: 16/04/2013 at 15:45
+Location:  ENVOI Pathology-BOONAH HOSPITAL
+DR COLEMAN PATRICK DIRK-SHUTTS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right 9 o'clock IDC post chemo.  WLE and axillary clearance.  Short stitch superior, long lateral, medium medial.  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast lesion long lateral, short superior, medium medial" consists of anirregular piece of fibrofatty tissue with overlying skin and three sutures for orientation as above, measuring 110mm (medial to lateral) x 60mm (superior to inferior) x 30mm (superficial to deep) margins.  Theoverlying skin measures 65 x 15mm and has a nodular pigmented lesion 6 x 5mm.  The superior margin of the specimen is inked red, inferior margin green, superficial margin blue anddeep margin black.  There is a hook wire exiting from the superficial margin.  The specimen is serially sectioned from medial margin to lateral margin into sixteen slices.  Medialmargin slice one, lateral margin slice sixteen.  On sectioning the cut surface has a fibrofatty appearance with a small area of haemorrhage seen in slices five and six.   Specimen is AE according to the attached diagram.  
+Blocks: 1 to 4 - slice one; 5 to 7 - slice two; 8 to 11 - slice three; 12 to 15 - slice four; 16 to 19 - slice five; 20 to 23 - slice six; 24 to 27 - slice seven; 28 to 31 - slice eight; 32 to34 - slice nine; 35 to 37 - slice ten; 38 to 39 - slice eleven; 40 & 41 - slice twelve; 42 & 43 - slice thirteen; 44 & 45 - slice fourteen; 46 & 47 - slice fifteen; 48 to 50 - slice sixteen.  
+B.  Specimen labelled "Right axilla level 1" consists of a piece of fatty tissue 90 x 60 x 20mm containing ten lymph nodes ranging from 5 to 15mm.  
+Blocks: 1 - two lymph nodes; 2 &3 - one bisected lymph node each; 4 - two lymph nodes; 5 - two lymph nodes; 6 - one bisected lymph node; 7 - onelymph node.  
+  
+C.  Specimen labelled "Right axilla level 2" consists of a piece of fatty tissue 30 x 25 x 5mm containing four lymph nodes rangingfrom 3 to 5mm.
+Blocks: 1 & 2 -  two bisected lymph nodes each; 3 - three lymph nodes.  
+(OD/ta 19/6/63) 
+  
+MICROSCOPIC (reported by Dr M Marlin):
+A.   Sections show an area of scarringfrom slices 4 to 7 (25mm in maximal dimension) consistent with the size of the infiltrating ductal carcinoma prior to chemotherapy.  At the medial end of the scar (slice 4) is a 5mm focus of viable grade 2 infiltrating ductal carcinoma (IDC). This IDC is 8mm from the deep and inferior margins and 15mm from the superficial margin. 
+High grade DCIS (15mm in maximal dimension) is presentin slices 5, 6 and 7.  The DCIS is 6mm from the deep margin and 12mm from the superficial margin.  The other margins are well clear.  The skin contains a seborrhoeic keratosis.  
+B.  Two (2) of the ten (10) lymph nodes identified contain metastatic IDC up to 5mm in size. There is no extranodal spread. 
+C.  The seven (7) lymph nodes identified are negative for tumour.  (ec) 
+DIAGNOSIS:  
+A, B, C.  Right breast WLE plus rightaxillary nodes level 1 and 2:
+ 
+Invasive carcinoma:
+Site: Right breast, WLE. 
+Type:  Infiltrating ductal carcinoma. 
+Invasivetumour size:  5mm (estimated size 25mm - pre chemotherapy). 
+Grade (Modified Bloom & Richardson): 2
+Tubules:  3    Nuclei:   2   Mitoses: 1     Mitotic rate:   N/A  /10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS:  15mm. 
+Nuclear grade:  High. 
+Architecture:  Solid and cribriform. 
+Excision Margins:  
+Invasive component:  Deep 8mm, inferior 8mm, superficial 15mm, other margins well clear. 
+In-situ component: Deep 6mm, superficial 12mm, other margins well clear. 
+Receptors (Block A15): 
+ER:   Positive. 
+	80% of nuclei stained
+	predominant intensity of staining:  Moderate.
+PR:   Positive.
+	10% of nuclei stained
+	predominant intensity of staining:  Moderate.
+HER2 (Novocastra 10A7): Equivocal 2+. 
+Slides sent to GOULBURN BASE HOSPITAL Hospital for CISH. 
+Ki-67 index:  1%.
+Nipple:  N/A.
+LCIS / ALH:    Absent. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 0. 
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 17. 
+Number of axillary lymph nodes involved by tumour:   2.       
+Number of axillary nodes with metastases >2.0mm:    2.       
+Extranodal spread:    Absent. 
+Lymph node total:
+Totalnumber of lymph nodes examined (including sentinel node(s)):   17. 
+Total number of involved lymph nodes (including sentinel node(s)):  2.  
+ADDITIONAL REPORT:  (2.6.63)
+
+HER2 IN-SITU HYBRIDISATION
+Blocks were sent to MUNGINDI HOSPITAL Hospital for Her2 ISH analysis, Dr M Butayreports:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non-amplified). 
+Mean Her2 copy number per cell: 1.8..
+Mean CEP17 copy number per cell:  1.7.
+HER2/CEP17 ratio:  1.06.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+   
+

@@ -1,0 +1,101 @@
+SPR no: 37P161838Q
+MRN no: 375161
+Site_name: ALPINE HEALTH (MOUNT BEAUTY)
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report37P16183 (37P161838Q) Mannello, Deon
+HISTOPATHOLOGY REPORT
+BARADINE MULTI PURPOSE SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Frozen section R sentinel node.
+Screen detected R breast cancer.
+Right breast wide local excision long-lateral, medium-medial, short-superior.
+R breast ca 7 o&amp;apos;clock.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT SENTINEL LYMPH NODE&amp;quot;. One blue lymph node 6mm across. One tan lymph node 5mm across.
+F/S : &amp;quot;Negative&amp;quot;. Reported to Dr. Jarod by Dr. I. Keifer at 3:52 on 09.07.70.
+(1 one TS of each for frozen section; 2 rest of blue lymph node; 3 rest of tan lymph node; 4&amp;amp;5 remaining tissue all embedded). All embedded. (M-5)
+
+B. Specimen labelled &amp;quot;WIDE LOCAL EXCISION RIGHT BREAST&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision orientated
+SPECIMEN X-RAY:  Yes. Hookwire tip present in grid G4
+HOOKWIRE:  Yes entering from the anterior and slightly medial aspect
+SPECIMEN DIMENSIONS:
+Medial to lateral:  55mm
+Superior to inferior:  48mm
+Anterior to posterior:  30mm
+WEIGHT:  28.3g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green, hookwire location is inked yellow
+DISSECTION: Cut from medial to lateral
+Number of slices: 11
+FINDINGS / LESION:  A firm pale/yellow tumour 16x10x7mm is present in the centre of the tissue correlating with the hookwire. The remaining cut surface is fibrofatty in appearance.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+Anterior 5mm, posterior 7mm, superior 20mm, inferior 4mm, medial 12mm, lateral 25mm
+(1&amp;amp;2 TS slice 1 [medial margin]; 3&amp;amp;4 slice 3; 5&amp;amp;6 slice 5; 7 inferior half slice 6; 8&amp;amp;9 slice 7; 10&amp;amp;11 TS slice 11 [lateral margin]). Representative sections. (M-11/AO 13/6/2070 ank)
+Image available and diagram drawn.
+MICROSCOPIC:  (Dr. I. Fauset)
+
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: 16 mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules: 3, Nuclei: 2, Mitoses: 1;  MITOTIC RATE: 3&amp;#160;mitoses per 10 hpfs
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 16mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identified
+&amp;#160;
+PERINEURAL INVASION: Not identified
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs):  5%
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Not identified
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: All margins clear
+Anterior: 4mm (B7)
+Posterior: 8mm
+Medial: 10mm
+Lateral: 25mm
+Superior: 20mm
+Inferior: 2.5mm (B4)
+&amp;#160;
+DCIS MARGINS: N/A
+&amp;#160;
+ANCILLARY TESTS: IMMUNOSTAINS to follow.
+&amp;#160;
+LYMPH NODES: Specimen A:
+SENTINEL LYMPH NODES:  Two lymph nodes with no malignancy. Cytokeratin immunohistochemistry is negative.
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c pN0
+
+DIAGNOSIS:
+A. RIGHT SENTINEL LYMPH NODE  -  Two lymph nodes with no malignancy.
+
+B. WIDE LOCAL EXCISION RIGHT BREAST  -  Invasive carcinoma of no special type.
+---------------------------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT
+
+Immunohistochemistry on block B4:
+
+ER: Positive (3+, 100%)
+PR: Positive (3+, 100%)
+Her2: 0
+Ki67: 6%

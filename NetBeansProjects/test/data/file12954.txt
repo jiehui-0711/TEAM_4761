@@ -1,0 +1,23 @@
+SPR no: 19B524702H
+MRN no: 1905247
+Site_name: WOMENS AND CHILDRENS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+SB tumour, wedge resection - histopath.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Small bowel tumour&amp;quot;, consists of a resection of small bowel measuring 71 x 65 x 45mm, with a single stapled margin (inked blue and trimmed).  There is adherent omental fat measuring 100 x 75 x 10mm.  Within the small bowel is an essentially circumferential multinodular tumour measuring 70 x 55 x 30mm.  The surface of the tumour appears necrotic and on sectioning, the tumour contains areas of calcification.  The tumour infiltrates through the muscularis propria to abut the serosa widely, although the overlying serosa appears smooth and intact (inked black).  The tumour does not appear to infiltrate into the adherent omentum.  The tumour is 1mm clear of the trimmed stapled margin.  Also received is a separate segment of small bowel measuring 40mm in length and 45mm circumference with a stapled margin at each end (one end inked blue and the opposite black).  No mucosal lesions are seen in this segment.  There is a minimal amount of attached mesentery, with a few small lymph nodes identified.
+Blocks:  1 to 15 - separate segment of small bowel AE (8 to 10 - multiple mesenteric lymph nodes); 16 to 18 - tumour with attached omentum; 19 to 21 - LS closest margin to tumour; 22 - calcified area of tumour; 23 and 24 - RS tumour; 25 - haemorrhagic area of tumour; 26 - tumour reserve block; 27 to 30 - possible lymph nodes from omentum.   (TO: MS;MS/vo 19.8.66)
+
+
+MICROSCOPIC (Reported by Dr D Maycumber):
+The small bowel tumour is a 70mm gastrointestinal stromal tumour (GIST).  The tumour appears centred in the muscularis propria, and is composed of moderately pleomorphic spindle cells arranged in short fascicles with areas of palisaded nuclei.  There are focal perinuclear vacuoles.  Minor areas of haemorrhagic degeneration and calcification are seen within the tumour.  Mitoses up to 7 per 20 HPF (area of 5mm2) are identified.  The tumour is 2mm clear of the closest trimmed stapled margin.  The tumour abuts but does not infiltrate the adherent omentum.  The tumour broadly extends to the inked small bowel serosa.
+
+The tumour shows diffuse strong positive staining with ckit (CD117) and focal positive staining with CD34 and SMA.  The tumour is negative for desmin, panCK, S100 and SOX10.  The Ki-67 proliferation index is 10%.
+
+Both the mucosa overlying the tumour and the separate segment of small bowel show no significant abnormality.  Four negative mesenteric lymph nodes are identified (0/4).
+
+COMMENT:
+This 7cm small intestinal GIST shows a mitotic rate of 7 per 5mm2, placing it in the high risk category for progressive disease.
+COMMENT:
+Small bowel tumour:  Gastrointestinal stromal tumour (GIST), high risk for progressive disease.

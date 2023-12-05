@@ -1,0 +1,33 @@
+SPR no: 59W479130E
+MRN no: 59847913
+Site_name: BARWON HEALTH - ASHLEY MANOR CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report59W47913 (59W479130E) SANTHUFF, EMMANUEL TERRANCE HISTOPATHOLOGY REPORT:
+HISTORY: CRC, perit dis.  Mass on pancreas.
+Previous (from Prof Koci rooms): Rectal biopsies 10/11/2066 Seals Path 5984T913015
+
+MACROSCOPIC:
+A.  &amp;quot;PANCREATIC MASS&amp;quot;. Consists of two pieces of fibrous tissue 5 and 7mm maximum dimension.  AE (2-1)
+B.  &amp;quot;OMENTUM&amp;quot;.  Multiple pieces of fatty tissue consistent with omentum in aggregate 90x80x20mm.  On palpation there are firm areas identified.  On sectioning there are areas of haemorrhagic noted as well. (1-3 sections through firm area; 4 sections through haemorrhagic area). RS (M-4/MC 7/2/2067 ank)
+
+MICROSCOPIC:    P Lacki nh
+
+A,B.  The tumour present in the pancreatic mass biposies and omentum biopsies are similar and show metastatic carcinoma with signet ring features .  The tumour is poorly differentiated, high grade, and has variable appearances with greater than 50% signet ring cells and a smaller component of nonmucinous carcinoma arranged in rounded small clusters and some possible micropapillary carcinoma areas.  There is moderate nuclear atypia, and there are apoptoses and moderate numbers of mitoses are present.
+IMMUNOSTAINS
+CEA, CDX2, CK20 positive, CK7 variable positive. EMA shows cell surface staining
+
+Mismatch repair proteins (MMRP), block A
+MLH1: Normal/preserved mismatch repair protein expression
+PMS2: Normal/preserved mismatch repair protein expression
+MSH2: Normal/preserved mismatch repair protein expression
+MSH6: Normal/preserved mismatch repair protein expression
+Comment on MMRP:
+Mismatch repair proficient tumour. Lynch syndrome very unlikely.
+
+Comment on tumour:
+The organ of origin is uncertain but would be acceptable as colon origin in the proper clinical setting. Origin from other GIT origins is not excluded on this biopsy material.
+
+DIAGNOSIS:
+A, B.  PANCREAS MASS, PERITONEAL BIOPSIES -
+- Metastatic signet ring carcinoma, poorly differentiated, high grade

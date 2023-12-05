@@ -1,0 +1,27 @@
+SPR no: 97H930543S
+MRN no: 97293054
+Site_name: COOTAMUNDRA DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (16.7.69):
+
+CLINICAL:
+Post op.  Perineum.  Biopsy of right vulva HG VIN with invasion &amp;lt;1mm left vulva HG VIN.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Distal perineum stitch at 12 o&amp;apos;clock&amp;quot;, consists of an irregularly shaped piece of skin with orienting suture at 12 o&amp;apos;clock.  The specimen measures 48mm from 3 o&amp;apos;clock to 9 o&amp;apos;clock, 32mm from 12 o&amp;apos;clock to 6 o&amp;apos;clock, and 9mm from superficial to deep.  The 12 o&amp;apos;clock margin is inked blue and the 9 o&amp;apos;clock margin inked black.  The skin surface has a tan and pale grey, nodular appearance.  Specimen is sectioned transversely from 9 to 6 o&amp;apos;clock into seven slices.
+Blocks: 1 to 4 - LS slice one (9 o&amp;apos;clock); 5 to 8 - LS slice seven (3 o&amp;apos;clock); 9 - slice two; 10 - slice three; 11 - slice four; 12 - slice five; 13 - slice six.  Please refer to block diagram.
+(TO:JB/vo 9.6.67)
+
+
+MICROSCOPIC (Reported by Dr Z Escobedo):
+Sections show skin and subcutis with some underlying skeletal muscle.  Most of the epidermis shows features of high grade squamous intraepithelial lesion (HSIL).  There is also an invasive, moderately differentiated squamous cell carcinoma present.  This is multifocal and superficial.  The largest area measures around 14mm wide by 12mm anteroposteriorly by up to 3.3mm deep.  No lymphovascular or perineural invasion is identified.
+The squamous cell carcinoma and HSIL appear to be completely excised.
+Squamous cell carcinoma is 6mm from the 12 o&amp;apos;clock, 6 o&amp;apos;clock and 9 o&amp;apos;clock margins, and 5mm from the 3 o&amp;apos;clock margin.  The deep margin is well clear.
+HSIL is 2.2mm from the 12 o&amp;apos;clock margin, 1.5mm from the 3 o&amp;apos;clock margin, 0.5mm from the 6 o&amp;apos;clock margin and 2mm from the 9 o&amp;apos;clock margin.
+
+
+DIAGNOSIS:
+Distal perineum:  HSIL and squamous cell carcinoma.
+SUPPLEMENTARY REPORT (15.10.66):
+This case was discussed at the Gtnae Tumour Board Meeting on 15.10.66.
+Invasive carcinoma is 2.4mm from the deep margin at the closest point.

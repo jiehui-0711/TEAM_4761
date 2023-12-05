@@ -1,0 +1,110 @@
+SPR no: 52T111515H
+MRN no: 527111
+Site_name: KING EDWARD MEMORIAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportAccession Number: 52T111515H
+Laboratory Number: 52T11151,52T11151
+*SUPPLEMENTARY REPORT ATTACHED*
+
+SEALS HISTOPATHOLOGY REPORT
+HISTORY:
+GIII ?Clear cell carcinoma, Uterus, right pelvic lymph nodes, left pelvic lymph nodes, omental biopsy, uterus, bilateral tubes and ovaries.
+
+Biopsy from Capital Pathology noted.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. A total hysterectomy specimen with a total weight of 91g including a uterus, measuring  80x55x35mm, that is partially opened anteriorly. The attached cervix measures 37x30x20mm. Attached is right fallopian tube, 60x7mm and a right ovary 25x16x10mm and a left fallopian tube, 70x7mm and a left ovary 25x20x17mm. The serosal surface is smooth and tan in colour. The external os is oval measuring  16x10mm, the identified endometrium is up to 4mm thick. Anteriorly at the body and fundus there is an exophytic white polypoid mass measuring  25x22mm. It appears to be confined to the uterine body with no extension to the cornu, parametrium or the cervix, is located 55mm of the external os resection margin macroscopically. The anterior cervix inked blue, posterior black. The tumour appears 13mm thick and appears to be invading 8mm out of 20mm of the endometrium. The cut surface of both ovaries is unremarkable. The cut surface of the right tube is unremarkable. The cut surface of the left tube reveals areas of congestion and haemorrhage towards the fimbrial end.
+
+(1 right fimbrial tube, two LS and one TS; 2&amp;amp;3 right ovary and one TS tube; 4 right parametrium; 5 left fimbrial end two LS and one TS; 6&amp;amp;7 each two TS left ovary and one TS left tube; 8 left parametrial tissue; 9 LS anterior cervix; 10 anterior isthmus and body; 11 anterior body and fundus with tumour; 12 posterior fundus; 13 posterior body and isthmus; 14 posterior cervix; 15&amp;amp;16 continuous piece tumour anterior isthmus and relation to fundus; 17&amp;amp;18 continuous piece tumour with anterior isthmus and fundus; 19 anterior body serosa). RS (M-19/ZH/ht).
+
+B. &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;. A fibrofatty piece of tissue measuring  60x55x20mm. Five lymph nodes identified, largest measuring  35x25x13mm with mainly fatty cut surface and a rim of tan firm area. The remainder lymph nodes measuring  7-24mm in maximum diameter.
+
+(1 one lymph node four TS; 2 two lymph nodes; 3 one lymph node five TS; 4-6 largest lymph node in three blocks). RS (M-6).
+
+C. &amp;quot;OMENTAL BIOPSY&amp;quot;. Multiple unorientated fibrofatty pieces of tissue 35x25x6mm in aggregate. No discrete nodules are identified. AE (M-2).
+
+D. &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;. Multiple fibrofatty pieces of tissue measuring  40x26x15mm. Five possible lymph nodes are identified, largest measuring  25mm in maximum diameter. The remainder are 5-15mm.
+
+(1 two Lymph node; 2 one lymph node trisected; 4&amp;amp;5 largest lymph node each three TS). RS (M-5/ZH/ht)
+
+
+MICROSCOPIC:
+A.
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma with clear cell change.
+Immunohistochemistry stains show positive staining for cytokeratin 7, CEA (focal), Oestrogen and Progesterone receptors, Pax 8 (focal).
+
+Negative:   p53, WT1, cytokeratin 20
+
+FIGO grade:  2
+(architecture grade: 2 , nuclear grade: 2 )
+
+Myometrial invasion:
+
+Depth of myometrial invasion:   10mm
+
+Myometrial thickness:  27mm
+
+Focality:  Unifocal
+
+Tumour involves: Myometrium
+
+Vascular/lymphatic invasion:  Focally present
+
+Involvement of cervix:  Not seen
+
+Involvement of uterine serosa:  Not seen
+
+Excision margins:  appear clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Simple hyperplasia without atypia.
+Polyps:  Not seen
+Adenomyosis:  Present. Myometrium shows a small leiomyoma.
+
+Adnexae:
+Left fallopian tube:  Unremarkable
+Right fallopian tube:  Unremarkable
+Left ovary:  Unremarkable
+Right ovary:  Unremarkable
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+TNM stage: T1A, N0, M0
+
+FIGO stage: IA
+
+MSI immunohistochemistry stains:
+MLH1:  Negative
+PMS2:  negative
+MSH2:  positive
+MSH6:  positive
+
+
+B. No evidence of malignancy is seen in five lymph nodes examined.
+
+C. Sections show fragments of fibroadipose tissue. No evidence of malignancy.
+
+D. No evidence of malignancy is seen in seven lymph nodes identified.
+
+DIAGNOSIS:
+A. UTERUS, BILATERAL TUBES AND OVARIES
+- ENDOMETRIOID ADENOCARCINOMA WITH CLEAR CELL CHANGE.
+B. LEFT PELVIC LYMPH NODE
+- NO EVIDENCE OF MALIGNANCY IN FIVE NODES.
+C. OMENTAL BIOPSY
+- NO EVIDENCE OF MALIGNANCY.
+D. RIGHT PELVIC LYMPH NODE
+- NO EVIDENCE OF MALIGNANCY IN SEVEN NODES.
+16/6/2066 cy
+SUPPLEMENTARY REPORT
+
+Slides sent to St Vincent's Pathology. Report received, it reads:
+
+&amp;quot;Conclusion:
+Methylation of the MLH1 promoter region that is consistent with reduced MLH1 gene expression was DETECTED in tumour tissue form this patient.&amp;quot;
+
+Full report scanned and filed with Anatomical Pathology, EIDSVOLD MULTIPURPOSE HEALTH SERVICE and available upon request.
+
+11/7/2066 ht

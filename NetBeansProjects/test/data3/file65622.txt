@@ -1,0 +1,180 @@
+SPR no: 10C4818492
+MRN no: 100481
+Site_name: FLINDERS ISLAND MULTI PURPOSE CENTRE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report
+10C48184 (10C4818492) ZARLINGO, MINDA ISSAC
+
+HISTOPATHOLOGY REPORT
+CULCAIRN MULTI PURPOSE SERVICE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+R breast ca upper outer quadrant, right sentinel lymph node for frozen section. R breast ca upper outer quadrant.
+
+1. Right breast wide local excision.
+2. Re-excision of superior margin R breast.
+Sutures short-superior, medium-medial, long-lateral.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT SENTINEL LYMPH NODE&amp;quot;. Two lymph nodes.
+1. 13mm.
+2. 6mm.
+
+F/S: &amp;quot;Negative&amp;quot;. Results were given by phone to Dr. Brice at 3:45pm on 07/05/2071 by Dr. D. Gragson.
+
+(1  frozen section one TS of each; 2  rest of 1; 3  rest of 2).  Representative sections. (M-3).
+
+B. &amp;quot;WIDE LOCAL EXCISION RIGHT BREAST&amp;quot;.
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision, oriented.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  40mm
+Superior to inferior:  30mm
+Anterior to posterior:  10mm
+WEIGHT:  7g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable.
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices:  8
+FINDINGS / LESION:  There is a circumscribed somewhat well demarcated tumour with a pale tan appearance noted in slices 5 and 6. The tumour measures 5mm superior to inferior x 5mm anterior to posterior x approximately 8mm medial to lateral. It abuts the posterior margin but does not appear to involve it. It is 4mm from anterior, abuts superior margin, 20mm from inferior, 9mm from lateral and 16mm from medial margin. Entire specimen is embedded.
+
+(1  longitudinal through medial margin slice 1; 2  slice 2; 3  slice 3; 4  slice 4; 5  slice 5; 6  slice 6; 7  slice 7; 8  longitudinal through lateral margin slice 8). All embedded. (M-8).
+
+C. &amp;quot;RE-EXCISION OF SUPERIOR MARGIN RIGHT BREAST&amp;quot;.
+SPECIMEN SIDE: Right
+SPECIMEN TYPE: Re-excision, oriented.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  40mm
+Superior to inferior:  5mm
+Anterior to posterior:  6mm
+WEIGHT: 1g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices:  8
+FINDINGS / LESION:  The cut surface is predominantly fatty. No discrete lesion is identified. All embedded.
+
+(1  longitudinal through medial margin slice 1; 2  slices 2, 3 and 4; 3  slices 5, 6 and 7; 4  longitudinal through lateral margin slice 8). All embedded. (M-4/MC 7/6/2069 km).
+
+MICROSCOPIC:  (Dr. D. Hemmer)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: 10mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Infiltrating duct carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules:    3, Nuclei:    2, Mitoses:    1; Total score: 6&amp;#160;(of 9)
+
+MITOTIC RATE: 5&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 15mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+PERINEURAL INVASION: Not seen
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): 10%
+&amp;#160;
+SKIN INVOLVEMENT: N/A
+
+DERMAL LYMPHOVASCULAR INVASION: N/A
+&amp;#160;
+NIPPLE INVOLVEMENT: N/A
+&amp;#160;
+MUSCLE INVOLVEMENT: N/A
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: 5mm beyond invasive tumour
+Nuclear grade: Low and intermediate grade
+Architecture / type: Cribriform
+Necrosis: Absent
+Microcalcification of DCIS: Present
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not seen
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma appears completely excised with a clearance of 0.5mm from closest posterior margin and 1mm from superior margin.
+&amp;#160;
+DCIS MARGINS:
+DCIS extends within 0.3mm of the superior and 1mm of posterior margin without intervening  normal ducts.
+Completeness of excision will depend on spatial relationship between specimens B and C.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block - B5
+
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+OESTROGEN RECEPTOR:         positive(90% of cells +++)
+PROGESTERONE RECEPTOR:  positive(90% of cells +++)
+
+HER-2 IMMUNOPEROXIDASE
+EQUIVOCAL (score 1-2+) HER-2 SISH to follow
+
+Ki-67 proliferative index: 20%&amp;#160;
+
+SEPARATE FINDINGS: Fibrocystic changes
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved(including negative staining with Cam5.2)
+
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 2
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1b, pN0
+
+
+C. Sections show unremarkable breast tissue. There is no evidence of malignancy.
+
+DIAGNOSIS:
+RIGHT SENTINEL NODE :
+-NO TUMOUR SEEN IN 2 LYMPH NODES.
+
+WIDE LOCAL EXCISION RIGHT BREAST :
+-INFILTRATING DUCT CARCINOMA.
+
+RE-EXCISION OF SUPERIOR MARGIN :
+UNREMARKABLE BREAST TISSUE.
+
+6/5/2071 ank
+
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+Mean HER2 copy number per cell:   3.2
+Mean CEP17 copy number per cell: 2.5
+HER2/CEP17 Ratio: 1.28
+
+
+HER2 status:          NEGATIVE
+
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122):
+
+Reported by: Dr D Asplin
+Date: 11.02.22

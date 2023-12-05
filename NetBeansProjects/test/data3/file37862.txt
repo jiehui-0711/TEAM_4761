@@ -1,0 +1,116 @@
+SPR no: 83Q068890K
+MRN no: 053331
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report*SUPPLEMENTARY REPORT ATTACHED*
+83Q06889,83Q06889 (83Q068890K) WEDNER, ROY
+HISTOPATHOLOGY REPORT
+THE ROYAL VICTORIAN EYE AND EAR HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+G1 endometrioid adeno Ca.
+
+1.  Peritoneal washings for cyto.
+2.  Uterus, tubes and ovaries.
+3.  Right sentinel node pelvic.
+4.  Left sentinel node pelvic.
+5.  Omental biopsy.
+6.  Appendacia epiploica.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX, TUBES AND OVARIES&amp;quot;.  A total hysterectomy specimen, 99g consists of an already coronally opened uterus 65x55x40mm with attached right fallopian tube 65x6mm, right ovary 26x10x7mm, left fallopian tube 45x6mm and left ovary 16x12x7mm.  The cervix measures 25x25x17mm.  Anterior cervical margin is inked blue, posterior is inked black.
+
+At the posterior body, there is a tumour 35x25mm confined to the uterus with focal extension into left cornu. No extension into the right cornu or the endocervical canal is seen.  It is located 25mm of the cervical margin.  No serosal involvement is identified. The tumour is 16mm thick out of 27mm total myometrium thickness.  The endometrium is thickened anterior uterus up to 5mm. There is one submucosal white whorled nodule at the anterior body 12x10x10 mm. The outer and cut surface of both ovaries and tubes are unremarkable.
+
+(1  right tube; 2  right ovary bisected; 3  right parametrium; 4  left tube; 5  left ovary bisected; 6  left parametrium; 7-9  LS anterior uterus from cervix to fundus; 10-12  LS posterior uterus from cervix to fundus; 13&amp;amp;14  continuous tumour posterior body area of maximum invasion [13  also tumour block for tissue banking]; 15&amp;amp;16  tumour posterior body; 17  tumour into left left cornu posteriorly; 18  thickened endometrium anteriorly; 19  submucosal fibroid anterior body).  RS (M-19).
+
+B.  &amp;quot;RIGHT SENTINEL NODE PELVIC&amp;quot;.  A lymph node 20x11x4mm with unremarkable cut surface.  Serially sliced.  AE (M-1).
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Received in eight separate fragments, possible fragments of one lymph node.  The largest measures 9mm in maximum diameter.  The remainder fragments are 4 to 7mm.
+
+(1  four fragments; 2  four fragments; 3  largest fragment trisected).  AE (M-3).
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;.   A fibrofatty pieces of tissue, measuring 40x25x10mm with adherent blood clot.  The cut surface is unremarkable.  Serially sliced.  AE (M-3).
+
+E.  &amp;quot;APPENDACIA EPIPLOICA&amp;quot;.  A calcified nodular piece of tissue, measuring 24x10x5mm with smooth outer surface.  The possible base is inked blue.  The cut surface is gritty, calcified with areas of possible fat necrosis.  Serially sliced.  AE (8-2/ZH 15/7/2067 km).
+
+MICROSCOPIC:  (Dr W Tortu)
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  1
+
+(architecture grade:  1, nuclear grade:  2)
+
+Myometrial invasion:  None, confined to endometrium
+
+Depth of myometrial invasion:   0mm
+
+Myometrial thickness:   17mm
+
+Focality:  	Unifocal
+
+Tumour involves:  Fundus, body
+
+Vascular/lymphatic invasion:  Not seen
+
+Involvement of cervix:  Not involved
+
+Involvement of uterine serosa:  No
+
+Excision margins:  Carcinoma appears clear of cervical surgical marginssurgicla
+
+Non-tumour uterus:
+Adenomyosis:  Extensive
+
+Adnexae:
+Left fallopian tube:  Unremarkable
+Right fallopian tube:  Unremarkable
+Left ovary:  Unremarkable
+Right ovary:  Unremarkable
+
+Lymph nodes:  Specimen B and C
+Nodes involved:  1 (AE1/AE3 immunostains negative)
+Total number:  2 (one node each specimen B &amp;amp; C)
+
+Other tissues:
+Specimen D: Omentum - unremarkable.
+
+Specimen E: Appendix epiploicae -  shows features of infarction including fat necrosis.
+
+Comment:
+1. There is extensive adenomyosis that is involved by adenocarcinoma, however no diagnostic features of true myometrial invasion are seen.
+
+2. MSI immunohistochemistry pending (Block A14)
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1a, pNo
+
+FIGO stage: 1A
+
+DIAGNOSIS:
+A.  UTERUS - ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA.
+B.  RIGHT PELVIC SENTINEL NODE - NEGATIVE FOR MALIGNANCY.
+C.  LEFT PELVIC SENTINEL NODE - NEGATIVE FOR MALIGNANCY.
+D.  OMENTAL BIOPSY - NEGATIVE FOR MALIGNANCY.
+E.  APPENDIX EPIPLOICUS - INFARCTION (FAT NECROSIS).
+16/7/2067 ank
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (PARKES 7 EAST ST JOSEPH'S HOSPITAL; block: A14)
+
+MLH1:  Positive staining present
+PMS2:  Positive staining present
+MSH2:  Positive staining present
+MSH6:  Positive staining present
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+20/11/2069 ank

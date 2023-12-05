@@ -1,0 +1,76 @@
+Episode No:  20N336018M
+2053360.CXM
+
+Kwek, Marvin 
+Lab No:  20N33601,20N33601
+Bartram
+CABOOLTURE  Tasmania  4365
+Specimen: Tissue,Fluid
+D.O.B:  27/2/2032
+Sex:  M
+Collected: 29/3/2064 at :
+Location:  ST VINCENT'S PATHOLOGY-THE MORNINGTON CENTRE
+DR VIRGILIO Blake FRANSISCO
+Distribution:   FILE-COPY, DR Masin
+CLINICAL:
+Intraoperative laparotomy for bowel obstruction.  Sigmoid tumour.  ?omental mets.  Proximal obstructing sigmoid cancer requiring laparotomy.
+MACROSCOPIC:
+A.  Specimen labelled "Omental nodules for frozen section" consists of omental fat measuring 200 x 130 x 10mm containing a few small firm cream stellate nodules up to 10mm across.
+Blocks:  1 & 2 - frozen section de-blocked; 3 & 4 - nodules; 5 - representative fat.
+FROZEN SECTION REPORT:
+Adenocarcinoma.
+Phoned result to Dr Adnyamathanha (surgical registrar) by Dr H Tumey art 11:10 on 27/1/14.
+B.  Specimen labelled "Sigmoid cancer" consists of a segment of large bowel measuring 140mm in length x 30 x 25mm in maximum dimension.  The entire specimen is above the peritoneal reflection.  The serosal surface is haemorrhagic but unremarkable.  The wall thickness is 4mm.  There are two stapled margins, one is inked blue and the other is inked black.  On opening there is a circumferential tumour which obstructs the lumen of the bowel measuring approximately 30 x 20 x 10mm.  Around this area the bowel appears strictured with adhesive mesocolon to the serosal surface.  The tumour is 10mm from the black surgical margin and is 100mm from the blue surgical margin.  The rest of the bowel appears unremarkable.
+Blocks:  1 - black surgical margin; 2 - blue surgical margin; 3 to 8 - tumour including deepest invasion through adherent mesocolon; 9 to 12 - ?lymph nodes.
+(RE/bl 30/3/64)
+MICROSCOPIC (Reported by Dr H Forguson):
+A.  Sections show omental tissue with foci of metastatic adenocarcinoma.  The tumour is moderately differentiated.
+B.  Synoptic Report for Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour:  Sigmoid colon
+Maximum tumour diameter:  30mm
+Distance of tumour to nearer cut end:  10mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not applicable
+Histological measurement from tumour to non-peritonealised margin:  Not applicable
+Lymph nodes
+Number of lymph nodes present:  12
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present (extramural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pM1	Distant metastasis confirmed	                 Site:  Omentum (specimen A)
+Background abnormalities/other comments
+Metastatic tumour deposits are present in the specimen A.  This is classified as M1.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Not applicable
+Mismatch Repair Deficiency (MMRD) Status (block B8)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is:B8
+
+Summary - TNM 7th Edition
+pT4     pN0     pM1     R0
+DIAGNOSIS:
+A &B.  Sigmoid colon - Adenocarcinoma.
+

@@ -1,0 +1,50 @@
+SPR no: 30B741452J
+MRN no: 300741
+Site_name: SMITHTON DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report30B74145,30B74145 (30B741452J) MODINE, Jordon
+HISTOPATHOLOGY REPORT
+BRIDGETOWN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Recurrent Ca ovary
+1. Peritoneal washings for cytol
+2. Small bowel mesentery
+3. Left pelvic sidewall mass small bowel
+4. Rectosigmoid colon
+5. Proximal and distal donuts
+(2-5 for histol)
+
+MACROSCOPIC:
+A.  &amp;quot;SMALL BOWEL MESENTERY&amp;quot;. Tan brown tissue 15x15x10mm and a smaller yellow tan tissue 10x6x4mm.
+
+(1 smaller tissue; 2 bisected larger tissue). All embedded. (M-2)
+
+B. &amp;quot;LEFT PELVIC SIDEWALL MASS&amp;quot;. A 220mm unoriented small bowel with adherent 60mm boggy mass forming a loop. Mass located 25mm from black inked margin and 43mm from blue inked margin. Two-thirds of mass, inked blue, has a smooth exterior with a 15mm disruption and the remaining third is ragged with some attached fatty tissue, inked black. It protrudes into the lumen with a 2mm mucosal ulceration. Surface is solid, shiny, gelatinous, and cream-coloured with a middle area of necrosis and haemorrhage located in the muscularis propria layer macroscopically. Surface abuts the blue inked serosa and the mucosa.
+
+(1 inked margins; 2 black margin with tumour; 3 mass with mucosa and possible ulceration; 4 mass with mucosa; 5&amp;amp;6 blue inked mass; 7&amp;amp;8 black inked mass; 9 two possible lymph nodes). Representative sections. (M-9)
+
+C.  &amp;quot;RECTOSIGMOID COLON&amp;quot;. An unoriented 60mm length of large bowel. A 30mm boggy nodular mass identified on the serosa protrudes into the lumen without mucosa disruption macroscopically. Located 20mm from the blue margin and 10mm from black margin. Area below peritoneal reflection inked green. Surface shows a solid, shiny, gelatinous cream-coloured filled mass with central necrosis located in the muscularis layer macroscopically.
+
+(1 blue margin; 2 black margin; 3 mass at disruption; 4 green inked margin). Representative sections. (4-4)
+
+D. &amp;quot;PROXIMAL AND DISTAL DONUTS&amp;quot;. Two donuts, one 20mm with a suture and the other 17mm without a suture. Serially sectioned.
+
+(1 donut with suture; 2 donut without suture).  Representative sections. (2-2/BM 30/8/2069 nh)
+
+MICROSCOPIC: (Dr. K. Wantz)
+A. Two lymph nodes with no malignancy.
+
+B. The small bowel wall shows a large deposit of high grade serous carcinoma occupying the submucosa, muscularis propria and mesenteric fat. It is composed of cellular sheets and tightly packed papillae with slit like spaces and the tumour cells show high grade pleomorphic nuclei with coarse chromatin, smudged nuclei and frequent mitoses. The tumour is present extensively along the ragged surface of the mesentery, possibly representing an involved radial surgical margin (B5). The tumour mass is greater than 10mm from the two small bowel resection margins. There are two benign lymph nodes present in the mesentery.
+
+C. The large bowel shows a deposit of high grade serous carcinoma in the wall with similar morphology to Specimen B. The tumour is 5mm from the radial diathermied mesenteric surface and greater than 10mm from the large bowel resection margins.
+
+D. The large bowel donuts show no evidence of malignancy.
+
+DIAGNOSIS:
+A. SMALL BOWEL MESENTERY  -  Two lymph nodes with no malignancy.
+B. LEFT PELVIC SIDEWALL MASS  -  Metastatic high grade serous carcinoma.
+C.  RECTOSIGMOID COLON  -  Metastatic high grade serous carcinoma.
+D. PROXIMAL AND DISTAL DONUTS  -  No evidence of malignancy.
+7/10/2070 ank

@@ -1,0 +1,20 @@
+SPR no: 95Q783283V
+MRN no: 9567832
+Site_name: GOSFORD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Angiosarcoma of the right breast and chest wall.  Neoadjuvant chemo and radiation.  Right mastectomy.  Stitch at 12 o&amp;apos;clock.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right mastectomy stitch at 12 o&amp;apos;clock&amp;quot;, consists of a right mastectomy weighing 1064g and measuring 270mm (medial to lateral) x 180mm (superior to inferior) x 30mm (superficial to deep).  There is an oriented skin ellipse measuring 220 x 180mm.  The superior aspect is inked blue, inferior red and deep black.  On the skin surface located in the 3 to 4 o&amp;apos;clock position, 90mm from the nipple, there is a palpable firm thickening of the skin measuring 10 x 3mm.  The lesion appears to extend up to 6mm below the skin surface and is located 17mm from the deep resection margin, 35mm from the inferior margin and is greater than 100mm from the superior resection margin.  Within the upper outer quadrant there is an ill defined area of scarring extending from the nipple into the 10 to 12 o&amp;apos;clock position over an area of 70 x 55 x 40mm.  No suspicious foci or mass forming lesions are identified within this area.  The remaining breast tissue is fibrofatty in appearance and no other lesions are identified on the skin surface or within the fat.
+Blocks: 1 to 6 - all of skin lesion embedded from medial to lateral (block 5 &amp;amp; 6 composite sections); 7 to 9 - full face of nipple and subareolar tissue to deep margin; 10 to 15 - representative sections fibrous area from 10 to 12 o&amp;apos;clock (block 10 to 12 composite section from skin to deep margin); 16 to 23 - representative sections of lower inner quadrant with attached skin taken from lateral to medial at approximately 5 to 10mm interval (blocks 18 &amp;amp; 19 and 22 &amp;amp; 23 are composite sections); 24 to 27 - representative normal breast tissue (blocks 24 upper inner quadrant, 25 - lower inner quadrant, 26 - upper outer quadrant, 27 - lower outer quadrant).  Blocking diagram is available.  (TO:AP/eh 6/5/66)
+
+
+MICROSCOPIC (Reported by Dr Y Perigo):
+Sections of lesional area show fibrosis and granulomatous reaction.  No residual tumour is seen.  The appearances are in keeping with those of previous neoadjuvant therapy with complete response.  The lesional area is well clear of the resection margins and is 17mm to the deep margin.  The resection margins are unremarkable.  The overlying skin is unremarkable.  The nipple is unremarkable.  The breast tissue away from the lesional area is unremarkable.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+Right breast - No residual tumour.

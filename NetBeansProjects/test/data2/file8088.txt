@@ -1,0 +1,107 @@
+SPR no: 76F543827I
+MRN no: 762543
+Site_name: GOULBURN VALLEY HEALTH - CENTRE FOR OLDER PERSONS
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report76F54382,76F54382 (76F543827I) PACHLA, CODY
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+SCC endometrium, Uterus, tubes and ovaries, right pelvic sentinel node, left pelvic sentinel node, omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, CERVIX, BILATERAL TUBES AND OVARIES&amp;quot;. A total hysterectomy specimen weighing in total 78g that is opened coronally through its right side, consisting of a uterus measuring  70x40x30mm with attached cervix measuring  27x15x12mm. Also attached is a right fallopian tube measuring  75x10mm, right ovary measures 22x15x7mm, left fallopian tube 65x7mm and left ovary measuring  25x14x10mm. The anterior cervical margin is inked blue, posterior inked black. There is a polypoid tumour with raised edges and central ulceration involving the left anterior and posterior body, measuring 37x30mm, located 27mm of the cervical margin. The tumour of a tan white cut surface measures  12 out of 13mm
+(thickness/myometrial thickness). The tumour is located 3mm of the nearest left parametrial and posterior cervical resection margin. No serosal  involvement identified.
+
+The cut surface of both fallopian tubes reveals evidence of previous ligation procedure with discontinuation of the tubes and dilatation of the proximal segment. No discrete lesions identified. The cut surface of the right ovary is unremarkable. The cut surface of the left ovary reveals a serosal  firm white mass measuring  15x7x5mm with adjacent unremarkable cut surfaces.
+
+(1&amp;amp;2 right tube [1 distal end, fimbrial bisected; 2 three TS remainder]; 3 three TS right ovary; 4 right parametrial margin; 5&amp;amp;6 left tube [5 fimbrial end, distal bisected; 6 three TS proximal segment]; 7 three TS ovary with RS overlying nodule; 8 shaved left parametrial margin; 9-11 continuous LS anterior body with deepest tumour involvement, [9 cervix; 10 body; 11 fundus]; 12-14 LS posterior uterus [12 cervix; 13 body; 14 fundus]; 15??? each one LS tumour in relation to the nearest posterior left parametrial resection margin). RS (M-17/NX/ht).
+
+B. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. Multiple fibrofatty pieces of tissue measuring  20x17x6mm. Three lymph nodes identified 4mm, 5mm, 6mm. RS (3-1).
+
+C. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Multiple fibrofatty pieces of tissue measuring 30x20x7mm. Five lymph nodes identified largest measuring  15mm with firm tan cut surface.
+
+(1 largest lymph node serially sliced; 2 one lymph node four TS [12mm]; 3 one lymph node bisected; 4 two lymph nodes). RS (M-4).
+
+D. &amp;quot;OMENTAL BIOPSY&amp;quot;. A fibrofatty piece of tissue measuring 20x15x6mm with unremarkable outer and cut surface serially sliced. AE (M-1).
+
+MICROSCOPIC:     (Dr U Pults)
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma with squamous differentiation
+
+FIGO grade:  3
+
+(architecture grade: 3 , nuclear grade: 2 )
+
+Myometrial invasion:  Present
+
+Depth of myometrial invasion:   12mm
+
+Myometrial thickness:   13mm
+
+% of myometrium invaded:   90%
+
+Focality:
+
+Tumour involves:  Left anterior and posterior body
+
+Vascular/lymphatic invasion:  Present
+
+Involvement of cervix:  Not present
+
+Involvement of uterine serosa:  Not present
+
+Excision margins:  Clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic with chronic endometritis
+Polyps:  Not present
+Adenomyosis:
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+
+Lymph nodes:
+Nodes involved:  0
+Total number:  8 (3 right pelvic sentinel nodes and 5 left pelvic sentinel nodes).
+
+Other tissues:  Both fallopian tubes shows mild hydrosalpinx with mild acute salpingitis. The omental biopsies (Specimen D) show unremarkable fatty omental tissue with no evidence of malignancy.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1b  pN0  pMx
+
+FIGO stage: 1B
+
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL TUBES AND OVARIES
+- GRADE 3 ENDOMETRIOID ADENOCARCINOMA WITH SQUAMOUS DIFFERENTIATION. FIGO STAGE 1B.
+B. RIGHT PELVIC SENTINEL NODE
+- NO EVIDENCE OF MALIGNANCY IN 3 NODES.
+C. LEFT PELVIC SENTINEL NODE
+- NO EVIDENCE OF MALIGNANCY IN 5 NODES.
+D. OMENTAL BIOPSY
+- NO EVIDENCE OF MALIGNANCY.
+14/1/2067 cy
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (SA Pathology CAMDEN HOSPITAL; block: A13)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+15.2.67

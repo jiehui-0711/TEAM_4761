@@ -1,0 +1,85 @@
+Episode No:  00F603537S
+0026035.JTS
+
+BRUNKHORST, WEI AARON 
+Lab No:  00F60353
+Prince of Wales
+CENTRAL COAST  Tasmania  2842
+Specimen: Tissue
+D.O.B:  22/4/1993
+Sex:  F
+Collected: 4/7/2063 at :
+Location:  BRIGHAM & WOMEN'S HOSPITAL - WONDAI HOSPITAL
+DR DAN GILBERT RUSSEL-PAIGE
+Distribution:   FILE-COPY
+***** SUPPLEMENTARY REPORT - SEEBELOW *****
+
+CLINICAL:
+Malignant mass in Rt lower axilla ?tail of breast ?metastasis.  Wide excision of mass + sentinel node biopsy.  4-5 nodes, 2 were hot.  Smoker.  Wide excision of right axillary mass - stitch at 12 o'clock.  Sentinel nodes.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel nodes" consists of multiple pieces of fibroadipose tissue measuring 45 x 40 x 10mm in aggregate.  Five lymph nodes are identified 7 to 15mm.  
+Blocks:  1 - three lymph nodes; 2- two lymph nodes.  All lymph node material embedded.  
+B.  Specimen labelled "right axillary mass stich 12 o'clock" consists of an orientated ellipse of skin measuring 70 x 20mm to a depth of 30mm.  There is a stitch along one margin which has been designated as 12 o'clock.  The 12 o'clock margin is inked blue and the 6 o'clockmargin is inked black.  The epidermal surface is unremarkable.  There is a palpable subcutaneous mass towards the 12 o'clock side of the ellipse which measures 25 x 30 x 15mm.  The cut surface reveals a firm cream nodule that appears to have four lobes.  There is an area of haemorrhage in slice 3.  The nodule abuts the 12 o'clock margin.  
+Blocks:  1 to 7 - LS of the 3 o'clock margin; 8 - slice 3; 9 & 10 - composite blocks slice 4; 11 - slice 5; 12 & 13 - composite blocks slice 6; 14 & 15 - composite blocks slice 7; 16 to 20 - LS of the 7 o'clock margin.  (TO: EA: PW/mm 5.7.63) \
+MICROSCOPIC:  (Reported by A/Prof B Henneberry):  
+A- Sections show three lymph nodes which show no evidence of malignancy.
+B- Sections show multiple, circumscribed nodules of a spindlecell tumour arising in the subcutis composed of pleomorphic, plump spindle cells with brisk mitotic activity. In some areas the edge of the tumour appears to be encapsulated by a thin rim of lymphoid tissue, consistent with replaced lymph nodes. 
+No glandular or squamous differentiation is seen and no pigment is identified.
+The tumour shows positive staining for S100 and is negative for HMB45, MelanA, pancytokeratin, CK5/6, AE1/AE3, CK7, ER, PR and SMA.
+Further markers were assessed, following the initial results above. 
+A repeat S100 stain is strongly positive 
+CD10 is focally positive. 
+Repeat HMB45 remains negative.
+Desmin is negative. Smooth muscleactin shows focal positive staining of tumour cells as well as staining of stroma and blood vessels.
+A repeat keratin stain is negative.
+The spindle cell morphology and S100 staining would support a diagnosis of metastatic melanoma. A malignant peripheral nerve sheath tumour would also display similar S100 positivity and should also be considered, particularly if there is a history of neurofibromatosis. 
+DIAGNOSIS:
+A. RIGHT AXILLA SENTINEL NODES: NO EVIDENCE OF MALIGNANCY.
+B. RIGHT AXILLARY MASS: MALIGNANT SPINDLE CELL TUMOUR - FAVOUR METASTATIC MELANOMA. SEE ABOVE.
+SUPPLEMENTARY REPORT: 
+Dr B Fugate has also reviewed this case and agrees with the differential diagnosis of metastatic melanoma or malignant peripheral nerve sheath tumour.
+The sections were re-examined to assess excision margins, following discussion with Dr B JEREMIAH-Fratto.
+Although the replaced nodes and tumour nodules have rounded, circumscribed edges, tumour abuts the excision margins at a number of points along the 12 o'clock side of the specimen. Tumour also abuts the deep aspect of the specimen, where the layer of adipose tissue is focally incomplete. (B11)
+The specimen will be referred to WERRIBEE MERCY HOSPITAL Hospital for molecular profiling, including BRAF.
+
+
+SUPPLEMENTARY REPORT:  (2.7.63)
+
+MOLECULAR GENETICS REPORT
+A/Prof DOMINICK B'Brannick, FAR NORTH HEALTH SERVICES reports:
+
+"BRAF V600E (VE1) Mutation specific immunohistochemistry: negative
+
+Results: NO TARGETED EXON 15 BRAF MUTATION (please also see research report)
+
+Test description: This test profiles a broad range of somatic mutations from 19 common oncogenes (ABLI, AKTI, AKT2, BRAF CDK4, EGFR, ERBB2, FGFRI, FGFR3, FLT3, JAK2, KIT, MET, HRAS, KRAS, NRAS. PDGFA, PIK3CA and RET) using the OncoCarta TM panel v1.0. This panel is intended to assist the selection of targeted therapies for cancer patients. Mutation analysis is performed on DNA isolated from FFPE tissue. The relevant target regions are amplified in 24 multiplex PCR reactions and the presence of mutation(s)is determined by a single nucleotide primer extension assay and analysed using mass spectrometry. Any reported mutation is called with high confidence (i.e. the proportion of a mutant allele is 10% or more). This oncogene panel can detect 238 mutations including the following clinically relevant mutations in the EGFR (NM_005228), KRAS (NM-004985) and BRAF(NM-004333) genes. For a full list of the 238 mutations tested, please see http:/www.sequenom.com/home/products--- services/genetic-analysis/ applications/ oncocarta/
+Gene	Target Mutation
+EGFR Exon 18	E709K, E709A, E709G, E709V, G719S, G719C, G719A
+EGFR Exon 19	E746_A750del, E746_A750del V ins, L747_E749del A750P, L747_S752de1, L747_A750del, L747_T751del P ins
+EGFR Exon 20	T790M
+EGFRExon2I		L858R,L861Q
+KRASExon 2		G12A, G12C, GI2D, G12F, G12R, G12S, G12V, G13D, G13V
+KRASExon 3		A59T, Q61E, Q61K, Q61H, Q61L, Q61P, Q61R
+BRAFExon 15	D594V, D594G, F595L, G596R, L597S, L597R, L597Q, L597V, T599I, V600E, V600K, V600R, V600L, K601N, K601E
+Comment:
+* Samples can contain a variable proportion of tumour cells to normal cells and there may also be tumour cell heterogeneity. If tumour cells represent less than 20% of the cells analysed the sensitivity of the assay may be reduced.
+* All PCR based molecular diagnostic tests aresubject to a low risk of non-amplification of one allele due to primer binding site DNA variants. This can also lead to a false negative result.
+* The laboratory assumes anappropriate form of consent has been obtained.
+* This report should not be copied or reproduced, except in its entirety.
+Summary: NO TARGETED EXON 15 BRAF MUTATION"
+
+
+ADDITIONAL MUTATION ANALYSIS IN DNA EXTRACTED FROM TUMOUR
+
+Cure For Life Foundation Neuro-oncology Laboratory Adult Cancer (DEPARTMENTS OF DICKINSON 2 NORTH)
+Reported by A/Prof MARIO B'Segall
+
+"This report highlights any (non-NATA accredited) mutations/variants detected using the OncoCarta V1.0 panel in addition to the NATA accredited diagnostic report for BRAF (Please see MD-13-950).
+Results: BRAF EXON 11 G469E AND PIK3CA E542K MUTATIONS DETECTED.
+
+Clinical implications: The clinical significance of these rare mutations in melanoma is unknown.
+Test description:
+This test profiles a broad range of somatic mutations from 19 common oncogenes (ABL1, AKT1 AKT2, BRAF, CDK4, EGFR, ERBB2, FGFR1, FGFR3, FLT3, JAK2, KIT, MET, HRAS, KRAS, NRAS, PDGFA, PIK3CA and RET) using the OncoCartaTM panel v1.O. Mutation analysis is performed on DNA isolated from FFPE tissue. The relevant target regions are amplified in 24 multiplex PCR reactions and the presence of mutation(s) is determined by a single nucleotide primer extension assay and analysed using mass spectrometry. Any reported mutation is called with high confidence (i.e. the proportion of a mutant allele is 10% or more). This oncogene panel can detect 238 mutations. For a full list of the 238 mutations tested, please see http://www.sequenom.com/home/products--services/genetic-analysis/applications/" http://www.sequenom.com/home/products--services/genetic-analysis/applications/ oncOcarta/
+Summary: BRAF EXON 11 G469E AND PIK3CA E542K MUTATIONS DETECTED".
+
+

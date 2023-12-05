@@ -1,0 +1,38 @@
+Episode No:  93R299267S
+9362992.QTS
+
+Lisle, Pearlene Jed 
+Lab No:  93R29926
+Chinquapin Round
+LEGANA  Australian Capital Territory  6436
+Specimen:Tissue
+D.O.B:  23/5/2013
+Sex:  M
+Collected: 19/09/2065 at 09:23
+Location:  POSTOPERATIVE RECOVERY-BURRA HOSPITAL
+DR Shawn YARRANJI BERBEREIA
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Central liver dissection for liver metastasis.  
+Additional information obtained.  Resection includes segments 4B and 5, anterior portion of segment 8, and part of segment 4A and 7.  
+MACROSCOPIC:
+Specimen labelled "Centralliver", consists of an en bloc resection of liver with gallbladder.  The liver is 130 x 115 x 65mm.  The gallbladder is 75 x 30 x 30mm.  The specimen weighs 490g in total.  Within the liver is a large tumour mass, 95 x 85 x 65mm.  The majority of the mass (approximately 95%) appears yellow and necrotic.  Possible viable areas are seen at the periphery of the tumour.  The tumour abuts the hepatic capsule over a large area, 85mm across.  There is adherent greater omentum over the capsule, 75 x 60 x 25mm.  The tumour is 1mm clear of the posterior (?segment 8) margin, 11mm clear of the medial hepatic margin, and 14mm clear of the lateral margin.  The tumour abuts but does not appear to invade the gallbladder wall.  The gallbladder wall is uniformly 1mm thick, with no gallstones present.  The uninvolved liver appears unremarkable. 
+Blocks: 1 - gallbladder cystic duct margin; 2 - medial margin of liver; 3 - lateral margin of liver; 4 and 5- tumour with gallbladder; 6 to 8 - tumour with closest posterior margin (?viable tumour in block 7); 9 to 11 - tumour with hepatic capsule(?viable tumour in blocks 10 and 11, block 11 reserved block); 12 and 13 - tumour with adherent omentum; 14 - tumour with adjacent liver; 15 - uninvolved liver (lateral margin).  (TO: BL;UX/vo 22.9.65) 
+MICROSCOPIC (Reported by Dr X Simerly):
+The 95mm tumour within the liver is a largely necrotic deposit of metastatic adenocarcinoma.  The tumour abuts, but does not invade, the wall of the gallbladder with intervening fibrous tissue.  The tumour invades into but does not penetrate the thickened fibrotic capsule of the liver.  The adherent adipose tissue on the surface of the liver  is also uninvolved.  The tumour is composed of tubular and complex glandular structures sometimes garlanding necrosis.  There is extensive tumour necrosis (approximately 90% of tumour mass).  There are patchy foci of dystrophic calcification.  One focus of possible lymphovascular space invasion is seen at the edge of one of the sections.  No perineural invasion is seen.
+Away from the tumour the liver shows preserved lobular architecture.
+The gallbladder shows very mild patchy chronic inflammation within the wall but is otherwise unremarkable.  
+No lymph nodes are identified.
+Margins
+Posterior:  0.6mm (no bare area in resection).
+Medial margin:  9.5mm clear
+Lateral:  10.2mm clear
+Immunohistochemistry:  
+The tumour cell stains as follows:
+Positive: CK20, CDX2 and B catenin (nuclear and membranous pattern)
+Negative:  CK7 and PSA
+The morphology and immunoprofile are consistent with metastatic colorectal adenocarcinoma which is moderately differentiated and largely necrotic, the latter consistent with treatment effect.
+DIAGNOSIS:
+Central liver:
+-  Metastatic adenocarcinoma, consistent with origin from a colorectal primary.  
+

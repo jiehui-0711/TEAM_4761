@@ -1,0 +1,72 @@
+SPR no: 67F899233K
+MRN no: 6728992
+Site_name: MACLEAN DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Recurrent left breast cancer 1 o&amp;apos;clock 8cm from nipple.  Core biopsy shows IDC no special subtype, G3, triple negative.  Left breast cancer in 2066 - 20mm IDC G3 ER, PR positive Ki67 of 50 per cent.  Treated with WLE, SLNB (ITM in 1/2 SLN), and adjuvant radiotherapy, endocrine TMT.  Smoking.  Left mastectomy and level 1 and 2 ALND.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left mastectomy plus axilla lymph node clearing marking stitch axilla tail&amp;quot;, consists of a mastectomy measuring 210 (medial to lateral) x 155 (superior to inferior) x 45mm (deep to superficial) and weighing 650g.  The nipple appears retracted and measuring 13 x 10mm.  The measurement of skin is 160 (medial to lateral) x 125mm (superior to inferior) with nipple measuring 13 x 10mm (areolar measuring 30 x 46mm). There is a suture denoting axilla tail.  Superficial superior margin inked blue, superficial inferior margin inked green and deep margin inked black. The specimen has been serially sliced from medial to lateral.  On the cut surface there is a focal area of haemorrhage measuring 10 x 7 x 30mm, at the previous biopsy site.  There are multiple calcifications measuring 3 to 7mm around the haemorrhagic site.  There is a linear scar measuring 25mm at 1 o&amp;apos;clock on the skin surface.  Towards the lateral (axilla) of the mastectomy there is an area of attached fibrofatty tissue measuring 95 x 50 x 35mm.  Possible lymph nodes are identified.  Block 1-8 - slice 5; 9-16 - slice 6; 17-24 - slice 7; 25-28 - slice 8 (1-28 - all haemorrhagic area plus calcification area embedded); 29 - nipple section; 30 - RS of inner upper quadrant; 31 - RS of inner lower quadrant; 32 - RS of outer lower quadrant; 33 - RS of outer upper quadrant; 34 - possible lymph nodes (most superior in the fibrofatty tissue); 35 -36 - possible lymph nodes; 37-40 - RS of the axilla fibrofatty tissue. AE 40 blocks.
+(TO:JT/ec 25/8/69)
+
+
+MICROSCOPIC (Reported by Dr Q Zappile):
+Sections show an invasive ductal type breast carcinoma associated with a haemorrhagic area.  Tumour cells are highly pleomorphic and exhibit numerous mitosis and arranged into solid clusters without any tubular formation.  These features place the tumour in grade three (3).  Few dilated ductal structures with similar pleomorphic cells and centre necrosis and calcification present most likely representing DCIS.  This component is about 2%.  The tumour area is approximately 10mm estimating from three slices affected mainly 5,6,7 slices.  The distant to the deep margin is 6mm.  There is  vascular invasion with involvement of a medium size vein( Block 16). This focus is however within the tumour.  No perineural invasion.  There is no significant lymphocytic reaction around the tumour.  Fibrous areas are also seen possibly due to previous radiotherapy.  No other significant proliferative epithelial lesions elsewhere in the breast.  Four (4) lymph nodes identified from the axillary fat with no evidence of metastasis. IHC with Cam 5.2 is Negative
+Invasive carcinoma:Synoptic report
+Site: Left breast 1 o&amp;apos;clock position.
+Type: Invasive ductal carcinoma not otherwise specified.
+Invasive tumour size: Estimated 10mm.
+Grade (Modified Bloom &amp;amp; Richardson): 3
+Tubules: 3     Nuclei:  3    Mitoses:  3    Mitotic rate:   30   /10hpf.
+Lymphovascular invasion:  Present
+
+DCIS component:
+DCIS: Present.
+Maximum extent of DCIS:2mm.
+Nuclear grade: 3
+Architecture: Solid.
+Necrosis: Present.
+Calcification: Present.
+Degree of DCIS in tumour: 2 %.
+DCIS in adjacent tissue:  Absent.
+
+Excision Margins:
+Invasive component: 6mm to the deep
+.
+Receptors (Block 15  ):
+ER:     Focal weak positive
+10% of nuclei stained
+predominant intensity of staining: 1+
+PR:      Negative
+HER2 (Novocastra 10A7): Negative  1 + Focal &amp;lt;10%
+HER2 SISH:  Performed at Cytogenetics, BOOROWA MULTI PURPOSE SERVICE HOSPITAL Hospital, see separate report.
+Ki-67 index: 80%
+
+Nipple:
+No evidence of Paget&amp;apos;s disease.  lactiferous sinuses show focal  atypia.
+
+LCIS/ALH:
+Absent
+
+Miscellaneous:
+No significant proliferative breast lesions in surrounding breast.
+
+Sentinel lymph node(s):
+Not received. ( previous dissection in 2066)
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined: Four (4)
+Number of axillary lymph nodes involved by tumour: 0
+
+Lymph node total:
+Total number of lymph nodes examined : 4
+Total number of involved lymph nodes :   0
+
+DIAGNOSIS:
+Invasive duct Carcinoma NOS, Grade 3
+Approximate size; 10 mm
+Margins Clear , Deep margin- 6 mm
+No nodal metastases  0/4
+
+Comment: Previous biopsy slides of 67F8992 on 5/8/2068 were reviewed and compared.
+Morphology appears similar with grade 3 features . ER staining is stronger in the previous tumour and Her 2, 2+ areas present focally.Therefore altered receptor staining pattern is present in the recurrent tumour .

@@ -1,0 +1,40 @@
+SPR no: 07Z5224008
+MRN no: 07952240
+Site_name: ST MARYS COMMUNITY HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 2 endometrioid endometrial cancer.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovary&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 136g in total.  The uterus measures 100 x 62 x 34mm and has a smooth shiny serosal surface.  The ectocervix measures 22 x 22 mm and has an unremarkable surface.  Note:  The cervix appears blue (?intraoperative dye).  The endometrium where not involved by tumour is up to 1mm in maximum thickness.  The myometrium is 10mm in maximum thickness.  There is a tumour centred in the endometrial cavity, 54mm (medial to lateral) x 55mm (superior to inferior) and 28mm (anterior to posterior).  A separate pale nodule is present in the cervical region, 8 x 8 x 4mm posteriorly (?tumour nodule, ?fibroid).  It appears to be discontinuous of the main tumour mass, 24mm away from it.  The right fallopian tube measures 64mm in length and 5 to 25mm in diameter.  It is adherent to the posterior uterine serosal surface. In addition there is a  parafimbrial cyst, 14 x 8 x 8mm.  The right ovary measures 25 x 12 x 12mm and has an unremarkable cut surface.  The left fallopian tube measures 54 x 5 x 20mm.  There is a parafimbrial cyst present, 8 x 4 x 4mm.  The left ovary measures 20 x 12 x 7mm, andthere are surface nodules, 2 to 6mm in five which are pale on cut section.  Blocks: 1 to 5 - full LS anterior body and cervix; 6 - parasagittal sections of left of mid line anteriorly showing ?deeper invasion; 7 - parasagittal sections left mid line showing ?deeper invasion; 8 - left cornua showing ?deeper invasion; 9 &amp;amp; 10 - composite sections to the right of midline, anteriorly showing ?deeper invasion; 11 to 15 - full LS posterior body and cervix (14 &amp;amp; 15 - one bisected slice showing nodule in cervix); 16 &amp;amp; 17 - one parasagittal section to the left of midline posteriorly showing ?deeper invasion; 18 &amp;amp; 19 - one composite parasagittal section to the right of mid line showing ?deeper invasion; 20 - right parasagittal section + serially ?deeper invasion; 21 &amp;amp; 22 - composite sections to the right of midline posteriorly lesion ?deeper invasion (NB: 18 to 22 - show area where right tube was adherent to the posterior serosa); 23 - remaining right ovary; 24 - fimbrial end of right fallopian tube, longitudinally bisected; 25 - TS right fallopian tube; 26 - left ovary serially sectioned showing nodule; 27 - LS bisected fimbrial end of the left tube; 28 - representative TS the left fallopian tube. Photographs taken.   (TO: LK/ta 22/12/69)
+
+
+MICROSCOPIC (Reported by Dr A Grissom):
+Sections show endometrioid adenocarcinoma, grade 2, of the endometrium. The lesion has a complex glandular architecture, is composed of back-to-back glands lined by stratified columnar tumour cells with moderate nuclear atypia. Just over 5% of the lesion has a solid architecture (e.g. 11,12), consistent with a grade 2 lesion.
+
+The maximum depth of invasion is 11mm into myometrium 13mm thick (7).
+
+No lymphovascular invasion is seen.
+
+The cervix shows no evidence of HPV effect, CIN or malignancy.
+
+Benign leiomyomas and adenomyosis are present in the myometrium.
+
+The ovaries and fallopian tubes show no evidence of malignancy. Polarisable suture material surrounded by granulation tissue is present adjacent to the right ovary.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS
+Uterus and cervix, bilateral ovaries and fallopian tubes:
+- Endometrioid adenocarcinoma, grade 2
+- Maximum depth of invasion 11mm into myometrium 13mm thick

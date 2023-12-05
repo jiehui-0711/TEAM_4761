@@ -1,0 +1,53 @@
+SPR no: 49B828767O
+MRN no: 4908287
+Site_name: BROADMEADOWS HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  49B828767O
+4908287.RSO
+
+SAMLAL, BRIELLE
+Lab No:  49B82876
+Perry Hill
+DRUMMOND COVE  TAS  3200
+Specimen: Tissue
+D.O.B:  29/11/1984
+Sex:  F
+Collected: 20/1/2065 at :
+Location:  DHM - MONASH MEDICAL CENTRE - MOORABBIN CAMPUS
+DR ELLSWORTH ERROL TINNELL
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left hemi vulvectomy + partial right posterior vulvectomy stitch left anterior.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left medial inguinal lymph node frozen&amp;#8221; consists of a piece of fibrofatty tissue 40 x 35 x 30mm containing two nodes 20 and 6mm each.  The lymph nodes are AE.
+Blocks:  1 &amp;amp; 2 - frozen section large node; 3 &amp;#8211; frozen section smaller node bisected; 4 &amp;#8211; remainder of larger node; 5 &amp;amp; 6 &amp;#8211; other possible lymph nodes.
+B.  Specimen labelled &amp;#8220;Left inguinal lymph node frozen&amp;#8221; consists of a piece of fibrofatty tissue 30 x 20 x 10mm containing a lymph node 15mm in maximum dimension.  The lymph node is AE for frozen section.
+Blocks:  1 &amp;#8211; frozen section; 2 &amp;#8211; other possible lymph node as seen.
+C.  Specimen labelled &amp;#8220;Right medial inguinal lymph node&amp;#8221; consists of a piece of fibrofatty tissue 30 x 25 x 20mm containing a lymph node 15mm in maximum dimension.  The lymph node is AE for frozen section.
+Blocks:  1 &amp;#8211; frozen section; 2 &amp;#8211; other possible lymph node as seen.
+FROZEN SECTION REPORT A TO C:
+Negative for tumour.
+Result by Dr M Watland at 10:34am on 18.11.2015
+D.  Specimen labelled &amp;#8220;Left hemi vulvectomy partial right posterior vulvectomy stitch left anterior&amp;#8221; consists of a left hemi vulvectomy and partial posterior right vulvectomy measuring in total 70 x 60 x 30mm.  There is a stitch marking anterior left.  The left is inked blue, right black and introitus red.  There is an exophytic tumour at the left introitus over 40 x 22mm to a depth of approximately 4mm.  This tumour lies well away from the surgical margin on the left (15mm 6 o&amp;#8217;clock, 20mm 3 o&amp;#8217;clock, 30mm 12 o&amp;#8217;clock).  The tumour is approximately 5mm from the introital margin, and 8mm from the deep margin.  See diagram.
+Blocks:  1 &amp;amp; 2, 3 &amp;amp; 4, 5 &amp;amp; 6 &amp;#8211; TS through tumour and left surgical margin; 7 &amp;amp; 8 &amp;#8211; TS through right introitus to right margin; 9 to 12 &amp;#8211; adjacent LS of 6 o&amp;#8217;clock margin; 13 &amp;amp; 14 &amp;#8211; representative LS of 12 o&amp;#8217;clock margin; 15 &amp;#8211; one LS 12 o&amp;#8217;clock margin right introitus.
+E.  Specimen labelled &amp;#8220;Left lateral inguinal lymph node&amp;#8221; consists of a piece of fibrofatty tissue 110 x 40 x 10mm containing lymph nodes from 5 to 8mm in maximum dimension.
+Blocks:  1 &amp;#8211; one lymph node bisected; 2 - one lymph node bisected; 3 &amp;#8211; lymph node as seen.
+F.  Specimen labelled &amp;#8220;Left medial inguinal lymph node&amp;#8221; consists of a piece of fibrofatty tissue 70 x 60 x 30mm containing lymph nodes measuring from 5 to 30mm in maximum dimension.
+Blocks:  1 &amp;#8211; lymph node as seen; 2 &amp;#8211; largest lymph node serially sectioned; 3 &amp;#8211; possible lymph node.
+G.  Specimen labelled &amp;#8220;Left femoral lymph node&amp;#8221; consists of multiple pieces of fibrofatty tissue measuring in aggregate 30 x 30 x 10mm containing lymph node ranging from 3mm in maximum dimension.  The specimen is AE in 2 blocks.
+(JL/rt 21.1.65)
+MICROSCOPIC (Reported by Dr M Steinger):
+A.  The three (3) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+B.  The two (2) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+C.  The two (2) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+D.  Sections show moderate to well differentiated squamous cell carcinoma arising on a background of vulval intraepithelial neoplasia grade 3 (VIN 3).  No perineural or lymphovascular invasion is seen.  The carcinoma invades to a depth of approximately 10mm coming to within 8mm of the deep resection margin.  Invasive carcinoma comes to within 5mm of the introitus margin on the left side.  All other margins are well clear of invasive tumour.  VIN 3 comes to within 1mm of the introitus margin on the left side.  All other margins are well clear of VIN.
+E.  The two (2) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+F.  The two (2) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+G.  The entire specimen is examined and no lymph nodes were identified.  There is no evidence of malignancy.
+DIAGNOSIS:
+A &amp;#8211; G.  Left hemi vulvectomy and partial right posterior vulvectomy plus lymph nodes:
+- Squamous cell carcinoma arising on a background of VIN 3.
+- Maximum depth of invasion of tumour approximately 10mm.
+- Margins appear clear.
+- Eleven negative lymph nodes.

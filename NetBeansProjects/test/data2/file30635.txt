@@ -1,0 +1,41 @@
+SPR no: 32K4166257
+MRN no: 32441662
+Site_name: ROYAL PERTH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pelvic mass.  Ca 125 = 270.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a previously opened unilocular cyst, 70 x 60 x 20mm.  There is a possible overlying fallopian tube, 40mm in length.  The external surface of the cyst is smooth and the internal lining is haemorrhagic.  There is a pale grey, nodular area within the cyst wall, 40 x 30 x 15mm.  The remaining cyst wall is 1mm in thickness.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 to 7 - representative tissue.
+
+FROZEN SECTION REPORT:
+Benign cyst favour endometriotic cyst.
+Phone results to scrub nurse by Dr I Bowser at 10:19am on 22/7/15.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a previously opened, ragged, grey piece of haemorrhagic solid and cystic tissue, 140 x 80 x 38mm.  Focally there is a papilliform area, 42 x 30 x 22mm, which possibly represents the distended fimbrial end of the fallopian tube; definitive fallopian tube is not otherwise identified.  On sectioning, the solid areas have a pale grey, flesh-like appearance, and the cystic regions contain mucinous material.  The cyst lining is smooth
+Blocks: 1 to 6 - complete papilliform area, ?fimbrial end fallopian tube; 7 to 14 -  solid and cystic tissue.
+
+C.  Specimen labelled &amp;quot;Right ovarian biopsy&amp;quot;, consists of two pale grey and tan biopsies, 10 and 12mm.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of an appendix, 38 x 14 x 15mm.  The serosal surface is grey and tan.  On sectioning, the wall thickness is 2mm.  The proximal aspect of the appendix is mildly convoluted.  No significant abnormality is identified.
+Blocks: 1 - LS complete distal tip; 2 &amp;amp; 3 - TS remaining specimen.  (TO:JB/rs 25/9/69)
+
+
+MICROSCOPIC (Reported by Dr I Haaker):
+A. Sections show an endometriotic cyst of the ovary, associated with organising haemorrhage. Mucinous epithelium is focally present in the cyst lining. The attached fallopian tube shows smooth muscle hypertrophy. There is no evidence of malignancy. Shown to Dr ALECIA Pershall.
+
+B. Sections show ovary with a borderline seromucinous tumour. The lesion has a mixed cystic and complex papillary architecture. There are papillae and cysts lined by epithelium with serous and mucinous differentiation. Low-grade dysplasia is seen. No high-grade dysplasia or invasive malignancy is present. Where the surface of the ovary is visualised, there is no convincing surface involvement by tumour. Focal endometriosis is also present. The attached fallopian tube shows no evidence of malignancy. Shown to Dr VIVIANA Stockwin.
+
+C. Sections show ovarian tissue with a small 2 mm simple cyst. There is no evidence of malignancy.
+
+D. Sections of the appendix show foci of endometriosis, associated with smooth muscle hypertrophy and fibrosis of the peri-appendiceal soft tissue. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A. Frozen section left fallopian tube and ovary: endometriosis
+B. Left fallopian tube and ovary: borderline seromucinous tumour, focal endometriosis
+C. Right ovarian biopsy: no significant abnormality detected
+D. Appendix: endometriosis

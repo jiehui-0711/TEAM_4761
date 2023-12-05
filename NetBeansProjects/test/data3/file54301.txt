@@ -1,0 +1,175 @@
+SPR no: 64C956273J
+MRN no: 641956
+Site_name: PINGELLY HEALTH CENTRE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report64C95627 (64C956273J) Mangel, John Jordon
+HISTOPATHOLOGY REPORT
+KATANNING HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Frozen section. Right sentinel lymph node biopsy.
+R breast Ca retroareolar.
+1. Wide local excision right breast, sutures: short-superior, long-lateral, medium-medial.
+2. Right axillary clearance.
+3. Right Level III lymph node.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT SENTINEL NODE BIOPSY&amp;quot;. Four small blue lymph nodes, 3-5mm. All embedded in A1 for frozen section. Multiple tiny lymph nodes in fat. All embedded in A2.
+(1 frozen; 2 tiny lymph nodes in fat). AE (M-2)
+
+Frozen section report: &amp;quot;Three lymph nodes, two contain macrometastases, 6mm and 4.5mm&amp;quot; Result to Dr Gerardo 3:50 PM by Dr. S. Ka.
+
+B. &amp;quot;WIDE CENTRAL EXCISION RIGHT BREAST, LONG-LATERAL, MEDIUM-MEDIAL, SHORT-SUPERIOR&amp;quot;.
+SPECIMEN TYPE:  Wide local excision, oriented
+SPECIMEN X-RAY, HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral 95mm, Superior to inferior 65mm, Anterior to posterior 60mm
+WEIGHT 124g
+SKIN: An anterior ellipse of skin 70x35mm.
+NIPPLE:  Yes - inverted, 10mm.
+MUSCLE:  Not seen macroscopically
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial, 13 slices
+FINDINGS / LESION:  There is a retroareolar tumour in slices 6-11 with hard pale cut surface and stellate borders. It is difficult to assess the edges of the lesion but it measures at least 28mm superior to inferior x at least 24mm medial to lateral x at least 20mm anterior to posterior.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+Anterior - not applicable (covered by skin)
+posterior - 10mm
+superior - 8mm
+inferior - 11mm
+medial - 14mm
+lateral - 26mm
+OTHER MACROSCOPIC COMMENTS: There is a haemorrhagic cavity lateral to the lesion in slices 3-5.
+(1 LS, Slice 1 [lateral]; 2-4 Slice 2; 5 inferior, Slice 3; 6 anterior, Slice 4; 7 and 8 inferior, Slice 5; 9 start of lesion with posterior margin, Slice 6; 10-15 full face, Slice 7; 16 and 17 nipple in relation to lesion of posterior margin, mid-Slice 8; 18 end of lesion, Slice 11; 19 superior, Slice 12; 20 two LS, Slice 13 [medial]). RS (M-20) Further: 21,22 slice 6, deep, superior and inferior; 23-25, 26-28 slice 9 posterior, anterior, superior to inferior; 29-31 slice 10 posterior, superior to inferior; Most of tumour embedded LV
+
+C. &amp;quot; AXILLARY CLEARANCE RIGHT BREAST&amp;quot;.  A fibrofatty piece of tissue, 80x50x25mm. Multiple lymph nodes are identified.
+
+(1 one node, serially sliced [16mm]; 2 ?five nodes; 3 one node, four TS [14mm]; 4 representative of two enlarged involved nodes, measuring 20mm each; 5 one lymph node, four TS; 6 ?two lymph nodes). RS (M-6)
+
+D. &amp;quot;LEVEL 3 LYMPH NODE RIGHT AXILLA&amp;quot;. Multiple fibrofatty pieces of tissue, 25x20x10mm. Four possible lymph nodes are identified, measuring 4mm,6mm,7mm and 9mm.
+
+(1 two nodes; 2 one node, bisected ?involved; 3 one node, trisected [?involved]). RS (M-3/ZH cy)
+
+MICROSCOPIC: S Glanville
+
+B. WIDE CENTRAL EXCISION RIGHT BREAST:
+
+BREAST INVASIVE CARCINOMA SYNOPTIC REPORT (based on CAP guidelines 2017):
+
+INVASIVE CARCINOMA:
+
+NUMBER OF INVASIVE FOCI: Multiple invasive foci, one main tumour mass with several small separate foci of invasive carcinoma associated with lymphovascular invasion
+
+MAXIMUM INVASIVE TUMOUR SIZE:  45 mm (6 x approx 7 mm slices) x 30 mm, with several small separate adjacent foci of invasive carcinoma 2 mm to 4 mm diameter, up to 6 mm from main tumour
+
+HISTOLOGIC TYPE:  Invasive carcinoma of no special type (ductal)
+
+HISTOLOGIC GRADE:  Grade 2
+
+SCORES: Tubules 3, Nuclei 2,  Mitoses 1;  Total Score: 6 of 9
+
+MITOTIC RATE: 1 mitoses per 10 high power fields
+
+WHOLE TUMOUR SIZE (Invasive + DCIS): Similar size to invasive carcinoma (45 mm)
+
+PERITUMOURAL LYMPHOVASCULAR INVASION:
+Lymphovascular invasion is present, extensive
+
+PERINEURAL INVASION: Not identified
+
+SKIN INVOLVEMENT:  Not identified
+
+DERMAL LYMPHOVASCULAR INVASION:  Not identified
+
+NIPPLE INVOLVEMENT: Not identified, No Paget disease. Invasive carcinoma and DCIS are present deep to ?inverted nipple
+
+SKELETAL MUSCLE INVOLVEMENT: Present, a satellite foci of invasive carcinoma invades focally into some skeletal muscle attached to the deep plane
+
+DUCTAL CARCINOMA IN SITU (DCIS):
+Ductal carcinoma in situ (DCIS) is present, associated with invasive carcinoma.
+Size (extent) of DCIS:   similar size to invasive carcinoma
+Nuclear grade:  Intermediate grade
+Architecture/type: Solid
+Necrosis:  Central (&amp;apos;comedo&amp;apos;) necrosis present
+Calcification of DCIS: Present
+Extensive intraductal component (EIC): Negative
+
+Note: Several foci of lymphovascular invasion have large rounded tumour groups of tumour cells mimicking DCIS
+
+Lobular carcinoma in situ (LCIS):  Lobular carcinoma in situ (LCIS) is present, several foci
+
+MARGINS:
+Invasive carcinoma margins:
+
+Margin status, invasive carcinoma: Involved, positive margin(s)
+Extent of margin involvement by invasive carcinoma: Unifocal, 1 mm front of margin involvement
+
+Distance of invasive carcinoma to margins:
+Anterior: 	not applicable (skin over tumour)
+Posterior: 	0 mm, involved/positive margin by focus of multifocal invasive carcinoma section B9, in small amount of attached muscle at deep plane
+Superior:	4 mm (B18)
+Inferior:	&amp;gt;10mm
+Medial:		&amp;gt;8mm
+Lateral:	&amp;gt;8mm
+
+DCIS margins:
+Margin status, DCIS: Negative (not involved)
+
+Distance of DCIS to margins:
+Anterior:	not applicable (skin over tumour)
+Posterior:	&amp;gt;5mm
+Superior:	5mm
+Inferior:	&amp;gt;10mm
+Medial:		&amp;gt;8mm
+Lateral:	&amp;gt;8mm
+
+ANCILLARY TESTS/IMMUNOHISTOCHEMISTRY (IHC):
+Block 13
+Other suitable tumour block for testing: B11
+
+ER:      Positive, 90%, 3+
+PR:      Positive, 40%, 3+
+Her-2:  Negative (score 1 by Immunohistochemisty)
+Ki-67:   5-10% labelling index
+
+Separate findings:
+Fibrocystic change, epithelial hyperplasia, Biopsy track.
+
+LYMPH NODES:
+A. RIGHT SENTINEL NODE BIOPSY
+C. AXILLARY CLEARANCE RIGHT BREAST
+D. LEVEL 3 LYMPH NODE RIGHT AXILLA
+
+Sentinel and axillary lymph nodes are involved (13/18 nodes positive)
+
+Nodes with macrometastases: 13 (4/5 sentinel nodes, 5/9 axillary nodes, 4/5 level 3 nodes positive)
+Total number of nodes examined:  18
+Largest nodal tumour deposit: 16 mm diameter (macroscopic measurement; up to 9 mm diameter in cross sections)
+Extranodal extension: Present, extent: 2 mm, one node
+
+Pathologic Stage Classification (pTNM, AJCC 8th ed, 2017):  pT2 (m) N3a
+
+DIAGNOSIS:
+
+B. WIDE CENTRAL EXCISION RIGHT BREAST:
+- multiple invasive foci, one main tumour mass with several small separate foci of invasive carcinoma associated with lymphovascular invasion
+- maximum invasive tumour size 45 mm x 30 mm, with several small separate adjacent foci of invasive carcinoma 2 mm to 4 mm diameter, up to 6 mm from main invasive tumour
+- invasive carcinoma of no special type (ductal)
+- grade 2
+- lymphovascular invasion present, extensive
+- focal involvement by focus of multifocal invasive carcinoma of attached skeletal muscle at deep plane
+- Ductal carcinoma in situ (DCIS) component
+- Lobular carcinoma in situ (LCIS) present
+- margin focally involved by invasive carcinoma positive margin (distance to margin 0 mm)
+- distance of DCIS to margins closest 5 mm
+
+A. RIGHT SENTINEL NODE BIOPSY
+- sentinel lymph nodes involved by metastasis (4/5 nodes positive).
+
+C. AXILLARY CLEARANCE RIGHT BREAST
+- axillary lymph nodes involved by metastasis (5/9 nodes positive).
+
+D. LEVEL 3 LYMPH NODE RIGHT AXILLA
+- level 3 axillary lymph nodes involved by metastasis (4/4 nodes positive).
+
+(Total involved sentinel and axillary lymph nodes 13 of 18 lymph nodes)

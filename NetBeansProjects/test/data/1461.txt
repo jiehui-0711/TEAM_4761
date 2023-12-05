@@ -1,0 +1,83 @@
+
+Episode No:  34R780011T
+3467800.DCT
+
+Siemek, Robbyn 
+Lab No:  34R78001
+Lemur
+SAWTELL  Tasmania  6460
+Specimen: Tissue
+D.O.B:  14/8/1988
+Sex:  F
+Collected: 07/06/2013at 10:16
+Location:  BILLINGTON CENTRE-GOLD COAST UNIVERSITY HOSPITAL
+DR Micheal JONAH SCHEFERS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast cancer.  Palpable breast lump at 1o'clock + excision of lateral margin.  Short-superior, long-lateral, double deep.  Sentinel node.  Palpable node or nodule left axilla.  Axillary tissue.  Drain for pneumothorax.
+MACROSCOPIC:
+A.  Specimen labelled "Short superior, long lateral, double deep" consists of a fibrofatty piece of tissue with three sutures for orientation as above.  It measures 60mm (medial to lateral) 70mm (superior to inferior) and 30mm (superficial to deep) margins.  The lateral margin is inked red,medial margin yellow, superficial margin blue and deep margin black.  Specimen is serially sectioned into 8 slices from superior to inferior. Slice number 1 superior margin, slice 8 inferior margin, on sectioning and in slices 3 to 6 there is ill-defined white and gritty tumour measuring 10mm from medial to lateral, up to 15mm from superficial to deep margin and 20mm from superior to inferior.  The specimen is all embedded according to the attached diagram.  
+Blocks:  1 to 3- Superior margin (slice number 1); 4 to 6 -  slice 2; 7 to 9 - slice 3; 10 to 12 - slice 4; 13 to 15 - slice 5; 16 to 18 - slice 6; 19 to 21 - slice 7; 22 to 25 slice 8.   
+B.  Specimen labelled "Sentinel node number 1" consists of a piece of fatty tissue containing two fatty lymph nodes 15 and 17mm.
+Blocks: 1- one serially sectioned lymph node; 2- one lymph node.
+C.  Specimen labelled "Palpable node" consists of two lymph nodes measuring 10mm each. 
+Blocks: 1 - one bisected lymph node; 2 - one bisected lymph node.
+D.  Specimen labelled "Axillary tissue left" consists of several pieces of fatty tissue.  No lymph nodes are identified.  AE 4 blocks. 
+E.  Specimen labelled "Left lateral nodule, left lateral margin" consists of an irregular piece of fatty tissue 20 x 10 x 10mm.  AE 3 blocks.   
+(TO: SD;NG/vo 9.8.63)
+MICROSCOPIC (Reported by A/Prof I Seahorn)
+Invasive carcinoma:
+Site: 1 o'clock left breast
+Type: Multifocal infiltrating duct carcinoma, NST
+Invasive tumour size: The largest tumour deposit is 20mm but there are numerous other deposits measuring 4mm, 3mm, 1mm plus microscopic foci.
+Grade (Modified Bloom & Richardson): 1
+Tubules:   1  Nuclei:  2    Mitoses:  1    Mitotic rate:      5/10hpf.
+Lymphovascular invasion:  Present
+	    
+DCIS component:  
+DCIS:  DCIS is present within the carcinomas and also widely within the surrounding breast tissue.
+Maximum extent of DCIS: DCIS extends from slice 1 superiorly to slice 8 inferiorly over an area of 70mm.grade:  Intermediate and focally low
+Architecture: Admixture of solid, comedo, cribriform, micropapillary
+Necrosis:  Comedo and punctate 
+Calcification: Present 
+Degree of DCIS in tumour:  >25%
+DCIS inadjacent tissue:  Present extensively through specimen
+Excision Margins:  
+Invasive component: Closest margins are 0.5mm from deep margin, 1.5mm from inferior/superficial margin. 
+In-situ component: Closest margins are 0.2mm lateral, 0.5mm deep and 1mm superficial.
+Specimen E, labelled "left lateral nodule, left lateral margin" shows multiple foci of invasive and in situ carcinoma in a patchydistribution throughout the sections. There is positive margin involvement by DCIS in a number of areas and invasive carcinoma also extends very close to the margins.
+Receptors (Block A14): 
+ER:  Strong positive
+	 90% of nuclei stained
+	predominant intensity of staining:  Strong and moderate
+PR:  Strong positive
+	90% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7): Negative (1+) SISH in progress.
+Ki-67 index: 10%
+Nipple:  
+Not present
+LCIS / ALH:    
+Not seen 
+Miscellaneous:
+The surrounding breast tissue shows florid proliferative changes with columnar cell lesions, fibrocystic change and fibroadenomatoid change.
+Architectural atypia is noted within columnar cell hyperplasia focally.
+Sentinel lymph node(s): Specimen B
+Number of sentinel lymph nodes examined: 2
+Number of sentinel lymph nodes involved by tumour:   0       
+Axillary/other nodes: Specimens C and D
+Number of axillary lymph nodes examined: 4
+Number of axillary lymph nodes involved by tumour:   0 (including keratin stains performed on nodes in specimen C)    
+ 
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  6 
+Total number of involved lymph nodes (including sentinel node(s)): 0
+DIAGNOSIS: 
+A- E. LEFT BREAST WLE, SENTINEL NODES AND AXILLARY NODES:
+- MULTIFOCAL GRADE 1 INFILTRATING DUCT CARCINOMA WITH WIDESPREAD DCIS
+- FURTHER FOCI OF CARCINOMA IDENTIFIED IN TISSUE FROM LATERAL MARGIN IN SPECIMEN E
+- LYMPHOVASCULAR INVASION PRESENT
+- ER/PR POSITIVE; HER 2 NEGATIVE (IHC)
+- CLOSE EXCISION MARGINS (SEE ABOVE)
+- BENIGN LYMPH NODES (0/6)
+

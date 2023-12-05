@@ -1,0 +1,24 @@
+ 7221625.NQV
+CAPSHAW, Jerald
+72G16255
+
+Last edited : 26/9/2064		Page: 2
+HER-2 IN-SITU HYBRIDISATION
+
+Source of material:  Avaya, KONDININ HOSPITAL, Dr T Fellenz.
+Material received:  4 slides 72G16255, block 2.
+Clinical notes:ILC grade 2, 75mm
+HER2 IHC Result: 0
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:          NEGATIVE 
+Mean HER2 copy number per cell: 1.88
+Mean CEP17 copynumber per cell: 1.44
+HER2/CEP17 Ratio: 			1.3
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013): 
+Negative: HER2/CEP17 < 2.0, Average HER2 < 4.0
+Equivocal: HER2/CEP17 < 2.0, Average HER2 > 4.0 and < 6.0
+Positive: HER2/CEP17 <2.0, AverageHER2 > 6.0
+Positive: HER2/CEP17 > 2.0
+Reported by: Dr T Russi
+Date: 26.9.2064
+

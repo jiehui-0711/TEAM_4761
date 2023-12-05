@@ -1,0 +1,87 @@
+SPR no: 29H0135806
+MRN no: 292013
+Site_name: BATLOW/ADELONG MULTI PURPOSE SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report29H01358,29H01358 (29H0135806) BIEGEL, GUADALUPE
+HISTOPATHOLOGY REPORT
+CALVARY HEALTH CARE BETHLEHEM HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GI endometrioid adenoCa.
+1. Peritoneal washings for cytol
+2. Uterus tubes and ovaries
+3. R pelvic sentinel ndoe
+4. Omental bx.
+5. L pelvic sentinel node.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS WITH BILATERAL TUBES AND OVARIES&amp;quot;. Specimen was received partially opened through the cervix. A uterus with attached cervix, tubes and ovaries measuring overall 120x80x50mm. The uterus is 80mm longitudinally, 50mm between the cornua and 33mm anteroposteriorly. The cervix is approximately 35x35mm in transverse section and 30mm in length. The anterior side is inked blue, the posterior side is inked black. There is a Mirena in-situ. The endometrium is approximately 2mm in thickness. There are no cysts or polyps in the cervix; There are two posterior cysts in the lower segment 1mm across. The anterior myometrium is up to 14mm in thickness and the posterior myometrium is up to 15mm in thickness. The right tube is 55mm in length, 5mm in diameter, and 20mm across the fimbria. There is one paratubal cyst 3mm in maximum dimension. The right ovary is 30x10x70mm. The left tube is 70mm in length, 5mm in diameter, and 20mm across the fimbria. There are two paratubal cysts measuring 6-7mm in maximum dimension each. The left ovary is 35x30x20mm including a cyst measuring 30x20x20mm, and containing haemorrhagic fluid. In the body of the uterus the endometrium appears slightly thickened up to 3mm in thickness which is less than 50% of the myometrium. There is one subserosal myoma anteriorly 7mm across.
+(1 and 2 right tube and ovary [1 ovary, mid-tube and paratubal cyst; 2 distal tube, fimbria]; 3-7 left tube and ovary [3 mid-tube and paratubal cyst; 4 distal tube, fimbria; 5 and 6 representative ovary and cyst; 7 para-ovarian margin, soft tissue]; 8 right parametrial tissue; 9 left parametrial tissue; 10 and 11 right cornua, one section; 12 left cornua and myoma; 13-19 composite section [13 anterior cervix; 14 posterior cervix; 15 anterior lower segment; 16 posterior lower segment; 17 anterior myometrium; 18 posterior myometrium; 19 fundus]; 20 anterior cervix; 21 anterior lower segment; 22 posterior cervix; 23 posterior lower segment). Representative sections (M-23)
+Further blocks: 24-31 remainder of the endometrium all embedded (M-31)
+B. &amp;quot;PELVIC RIGHT SENTINEL NODE&amp;quot;. Fatty tissue 27x14x14mm, containing four grey nodules, ranging in maximal size from 5-10mm. One of the 5mm nodule is tinged blue. Nodules all embedded in one block. Representative sections (M-1)
+C. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Fatty tissue 19x11x8mm, containing a grey nodule 10x8x4mm, in Block 1, a blue tinged grey nodule 5mm across, in Block 2. Remainder fatty tissue all embedded in Block 3. All embedded. (M-3)
+D. &amp;quot;OMENTAL BIOPSY&amp;quot;. Fatty tissue 27x14x7mm. All embedded. (1-1 FR 7/7/2070 cy)
+MICROSCOPIC: (Dr. H. Wennersten)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE: Anterior body
+
+TUMOR SIZE:  12mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid endometrial carcinoma
+
+HISTOLOGIC GRADE:  FIGO grade 1
+
+MYOMETRIAL INVASION: (A17)
+Depth of invasion: 2mm
+Myometrial thickness: 16mm
+Percentage depth of myometrial invasion:  12%
+
+UTERINE SEROSA INVOLVEMENT:  Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Present (A21)
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+MARGINS:  Clear
+
+LYMPHOVASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES:
+Specimen B. PELVIC RIGHT SENTINEL NODE  -  Five lymph nodes with no malignancy
+Specimen C. LEFT PELVIC SENTINEL NODE  -  Three lymph nodes with no malignancy
+Cytokeratin immunohistochemistry is negative.
+
+DISTANT METASTASES (histologically confirmed): Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Left ovarian corpus luteal cyst
+Left fallopian tube benign paratubal cyst
+ANCILLARY STUDIES/IMMUNOSTAINS:  to follow.
+OTHER SPECIMENS:
+D. OMENTAL BIOPSY - Fatty tissue with no malignancy
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IA
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a pN0
+
+DIAGNOSIS:
+A. UTERUS WITH BILATERAL TUBES AND OVARIES:
+- Grade 1 endometrioid endometrial adenocarcinoma, FIGO stage IA
+B. PELVIC RIGHT SENTINEL NODE:
+- Five lymph nodes with no malignancy
+C. LEFT PELVIC SENTINEL NODE:
+- Three lymph nodes with no malignancy
+D. OMENTAL BIOPSY:
+- Fatty tissue with no malignancy
+---------------------------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT  (15/7/2068)
+
+Immunostains for MMR proteins:
+MLH1:  Positive
+PMS2:  Positive
+MSH2:  Positive
+MSH6:  Positive
+
+Comment:
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.

@@ -1,0 +1,40 @@
+SPR no: 01Y546245A
+MRN no: 0195462
+Site_name: SOUTH GIPPSLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Complex hyperplasia with atypia of the endometrium.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a partially opened uterus with attached cervix, bilateral tubes and ovaries, weighing 60g in total.  The uterus measures 70 x 43 x 27mm and has a smooth and shiny serosal surface.  The cervix measures 23 x 18mm and has an unremarkable surface.  On opening the endometrium has a vague nodular appearance over an area of 17 x 10mm located predominately on the anterior surface.  These changes located 35mm from the cervix.  No definite invasive area is identified.  The myometrium measures up to 13mm thick.  No myometrium lesions are identified.  The right fallopian tube measures 50 x 6mm and the right ovary measures 22 x 18 x 8mm.  The serosal surface is smooth and shiny.  The left fallopian tube measures 45 x 6mm and the left ovary measures 18 x 13 x 11mm.  The serosal surface appears smooth and shiny.  Both fallopian tubes show evidence of tubal ligation.  No lesions are seen on sectioning.  Blocks: 1 to 9 - all of anterior endometrium embedded (5 to 7 - full LS through anterior body and cervix); 10 to 15 - all of posterior endometrium embedded (11 to 13 - full LS though posterior body and cervix); 17 &amp;amp; 18 - right adnexa; 19 &amp;amp; 20 - left adnexa.  RS.
+
+B.  Specimen labelled &amp;quot;Left labial biopsy&amp;quot;, consists of a 4mm biopsy.   AE 1 block.
+(TO:AP/ta 29/9/67)
+
+
+MICROSCOPIC (Reported by Dr C Gamelin):
+A. Sections show endometrioid adenocarcinoma, grade 1, confined to the endometrium. The lesion is composed of complex, back-to-back glands lined by stratified columnar tumour cells with mild to moderate nuclear atypia. No significant solid tumour is seen. The lesion merges with complex hyperplasia with atypia. No lymphovascular invasion is seen.
+The uninvolved endometrium shows atrophic changes. Superficial adenomyosis is seen. The cervix shows atrophic changes with no convincing evidence of HPV effect or CIN.
+The ovaries and fallopian tubes are unremarkable.
+Mismatch Repair Deficiency (MMRD) Status (block A6)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B. Sections show a punch biopsy of keratinising squamous epithelium and underlying connective tissue. The squamous epithelium shows mild hyperkeratosis and spongiosis. Basal vacuolation, pigment incontinence and lymphocytic exocytosis are seen, in keeping with lichenoid inflammation. A dense, touching lymphocytic infiltrate is present in the underlying connective tissue. In the deeper ribbons, there is a re-epithelialising ulcer lined by fibrin and acutely inflamed granulation tissue. There is no evidence of viral cytopathic effect, dysplasia or malignancy. No fungi are seen on diPAS staining.
+
+
+COMMENT
+The biopsy shows lichenoid inflammation and ulceration. While the findings are favoured to be non-specific, the possibility of early lichen sclerosus and lichen planus cannot be excluded. Please correlate with clinical findings.
+
+
+DIAGNOSIS
+A. Uterus and cervix, bilateral fallopian tubes and ovaries: endometrioid adenocarcinoma, grade 1, confined to the endometrium
+
+B. Left labial biopsy: lichenoid inflammation and ulceration (see comment)

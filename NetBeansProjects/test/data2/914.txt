@@ -1,0 +1,77 @@
+Episode No:  83P551296X
+836551.GYR
+
+Arms, TANGELA 
+Lab No:  83P55129
+Russet
+NEWMAN    6262
+Specimen: Tissue
+D.O.B:  8/12/2023
+Sex:  M
+Collected: 07/01/2013 at 08:58
+Location:  ONCOLOGY (GYNAE)-WIMMERA HEALTH CARE GROUP - DIMBOOLA
+DR KENTON Sol STROBRIDGE
+Distribution:   FILE-COPY, DR Facey, DR Von
+CLINICAL:
+Rectosigmoid cancer.   Low anterior resection + donut.  Histopath.
+MACROSCOPIC:
+A.  Specimen labelled "Sigmoid colon" consists of a segment of colon measuring up to 60mm in length and 52mm in open circumference.  Located 26mm from the distal surgical margin there is a sessile tumour occupying 90% of the luminal circumference and occupying a length of 36mm of the colon. It arises from the mesenteric side of the colon and is ulcerated.  Located 15mm proximal from this tumour there is a secondary wide based pedunculated polyp, 10mm in width and occupying 8mm length of the colon.  The mucosa is otherwise unremarkable.  The external serosal surface is unremarkable.  On sectioning the tumour extendsto a depth of 15mm and ?extends to the mesenteric fat.  The tumour is located at least 50mm from the perirectal fat margin.  The entire specimen is above the peritoneal reflection.
+Blocks: 1 - proximal margin; 2 - tumour with distal surgical margin (staples removed); 3 & 4 - deep part of tumour to mesenteric fat; 5 - tumour with serosal surface; 6 - deep part of tumour with ?extension to mesenteric fat; 7 - tumour with serosal surface; 8 - proximal tumour with normal mucosa; 9 & 10 - polyp; 11 - tumour reserve block; 12 - apical lymph node; 13 - ?tumour deposit; 14 - one  bisected node; 15 - three lymph nodes; 16 - one bisected node; 17 - four nodes; 18 - six possible lymph nodes; 19 to 22 - peri-tumour fat lymph nodes (19 - three nodes; 20 - three nodes; 21 - three possible lymph nodes; 22 - five possible nodes).
+B.  Specimen labelled "Distal donut" consists of a donut measuring 26mm in maximum diameter and up to 16mm in length.  The mucosa is unremarkable.  Donut edge inked black, stapled margin inked blue, staples removed.  AE 2 blocks.  (KV/Ta 3/9/63) 
+ 
+MICROSCOPIC: (Reported by Dr S Guildford - 3.10.2063)
+A.  The sigmoid colon tumour is a moderately differentiated adenocarcinoma. A synoptic report for colonic carcinoma follows:
+
+SYNOPTIC REPORT FOR COLONIC CARCINOMA
+Macroscopic Description
+Site of tumour: Sigmoid colon. 	
+Maximum tumour diameter: 45mm (macroscopic).
+Distance oftumour to nearer cut end: 26mm (distal margin). 
+Tumour perforation: No.
+Relation of tumour to anterior peritoneal reflection:	 Above. 
+Microscopic Description
+Type: Adenocarcinoma, NOS.
+
+Differentiation by predominant area: Moderately differentiated.
+
+Local invasion
+The carcinoma shows very focal early extension beyond the muscularis propria into superficial pericolic fibroadipose connective tissue.
+pT3  Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: >50mm
+Lymph nodes
+Number of lymph nodes present: Twenty-five
+Number of lymph nodes involved: None(0/25)	
+pN0  No regional LN metastasis
+Lymphovascular invasion: Not identified.
+ 
+Perineural invasion: Not identified.
+Histologically confirmed distant metastases
+pMX   Cannot be assessed histologically
+Background abnormalities/other comments
+The separately identified mucosal polyp is a tubulovillous adenoma showing moderate to high grade epithelial dysplasia. The polyp is partially obscured by autolytic change, but no convincing submucosal invasion is seen. 
+Residual tumour status
+R0  No residual tumour
+Response to neoadjuvant therapy
+Not applicable. 
+Mismatch Repair Deficiency (MMRD) Status	
+Immunoperoxidase stains for MSI proteins were performed and the results are as follows:
+MLH1	 Preserved nuclear staining
+PMS2   Preserved nuclear staining
+MSH2	 Preserved nuclear staining
+MSH6	 Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+pTNM STAGE (TNM 7th Edition 2010): IIA   pT3N0M0	
+B.  Sections of the distal colon donuts show no evidence of malignancy.
+DIAGNOSIS:
+A.  Sigmoid colon: 
+45mm moderately differentiated, pTNM Stage IIA, sigmoidcolon adenocarcinoma, clear of margins. 
+Twenty five lymph nodes show no evidence of malignancy (0/25). 
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates alow likelihood of microsatellite instability phenotype.
+
+B.  Distal donut: No evidence of malignancy.
+
+
+

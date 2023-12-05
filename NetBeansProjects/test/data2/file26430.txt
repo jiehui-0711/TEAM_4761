@@ -1,0 +1,29 @@
+SPR no: 24H592241Z
+MRN no: 2425922
+Site_name: WHYALLA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrial cancer.  Left ovarian mass.  Ascites.  Uterus and right tube and ovary.  Left ovarian mass.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, right ovary&amp;quot;, consists of a uterus with attached cervix, right ovary and right fallopian tube weighing 88 grams in total.  The uterus measures 90 x 55 x 40mm and has a smooth shiny serosal surface.  It has been previously opened along the posterior surface sagittally.  The ectocervix measures 25 x 25mm and has an unremarkable surface.   On sectioning, the endometrium is 1mm in thickness with a 20 x 15 x 10mm polypoid cream tumour at the fundus, extending to the right cornu.  The tumour extends 10mm into a wall thickness of 20mm.  The myometrium is 50mm in maximum thickness and contains a single 42 x 42 x 45mm fibroid in the left side.  Two additional well circumscribed cream lesions are present within the anterior myometrium, 4 and 6mm in extent.  The right fallopian tube measures 30 x 5mm and appears unremarkable.  The right ovary is 17 x 9 x 13mm with a smooth serosal surface.  The ovary is bisected longitudinally and the cut surface is unremarkable.
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to 7 - full LS of posterior body and cervix; 8 and 9 - two RS of right cornu involvement; 10 and 11 - two RS of fibroid; 12 - isthmus and fimbria right fallopian tube; 13 - ampulla right fallopian tube and half of right ovary.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a 65 x 50 x 48mm cystic ovary with a ragged 25 x 11 x 10mm possible fallopian tube.  The serosal surface of the ovary is smooth and shiny.  Specimen weighs 84 grams in total.  The cyst contains thick tan fluid.  Sectioning of the ovary shows two solid nodules; 40 x 20 x 15mm and 25 x 23 x 18mm. The nodules have a gelatinous cut surface and fine fibrous septae.  The remainder of the cyst lining is smooth with no papillary excrescences.  The possible fallopian tube shows no macroscopically identifiable lumen or fimbria.
+Blocks: 1 to 4 - RS of largest solid area (blocks 1 and 2 - paired blocks); 5 and 6 - two RS of smaller solid region; 7 - three RS of remainder of cyst wall; 8 - four TS of possible fallopian tube; 9 - possible fimbrial end bisected longitudinally.  (KM/vo 25.7.66)
+
+
+MICROSCOPIC (Reported by Dr F Quant):
+A.  Sections show grade 2 endometrioid adenocarcinoma of the endometrium.  The tumour has a solid component of approximately 10%.  Carcinoma invades to a depth of 5mm through a wall thickness of 14mm.  No lymphovascular invasion is identified.  The cervix is uninvolved.  The myometrium contains leiomyomas.  The ectocervix, endocervix, right ovary and right fallopian tube show no significant abnormality.
+
+B.  Sections of the ovary show a high grade borderline serous tumour.  Scattered foci of stromal microinvasion of usual type are seen, each less than 5mm in size.  The left fallopian tube is not identified.
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, right ovary and fallopian tube:
+-  Grade 2 endometrioid adenocarcinoma of the endometrium
+-  Invasion to a depth of 5mm through a wall thickness of 14mm
+-  No lymphovascular invasion identified
+-  Cervix uninvolved
+
+B.  Left ovary:  High grade borderline serous tumour.

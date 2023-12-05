@@ -1,0 +1,54 @@
+
+Episode No:  14C649421R
+1406494.GCR
+
+KERKEL, DIANNE TAWNY 
+Lab No:  14C64942,14C64942
+Wood Home
+WARRNAMBOOL  Australian Capital Territory  2701
+Specimen: Washings,Tissue
+D.O.B:  26/1/1990
+Sex:  F
+Collected: 21/10/2013 at 14:00
+Location:  ONCOLOGY (GYNAE) - BEVERLEY HOSPITAL
+DR MARLENE PIEDAD EILERMAN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+77yr old woman, grade 1 endometroid adenocarcinoma on curettings.  Lap hyst, BSO and nodes done.  Intra-op sectioning of uterus showed 50% myometrial invasion at fundal area.  Laparoscopic hysterectomy.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus cx tubes and ovaries" consists of a partially opened uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 100g in total.  The uterus measures 70 x 50 x 42mm and has a smooth shiny serosalsurface.  The ectocervix measures 40 x 35mm and has an unremarkable surface.  On sectioning there is a solid tumour filling the endometrial cavity measuring approximately 50 x 40x 10mm.  On sectioning the endometrium is 10mm in maximum thickness and the myometrium is 24mm in maximum thickness.  The myometrium contains five fibroids ranging from 7 to 22mm in maximum dimension.  All fibroids have whorled grey cut surfaces.  The right ovary measures 25 x 15 x 10mm and contains one unilocular cyst 12mm in maximum dimension and filled with clear fluid.  The right fallopian tube measures 30mm in length and 6mm in maximum diameter.  The left ovary measures 30 x 15 x 7mm and has an unremarkable cut surface.  The left fallopian tube measures 33mm in length and up to 7mm in maximum diameter.  
+Blocks: 1 to 3 - full LS of anterior body and cervix; 4 to 6 - full LS of posterior body and cervix; 7 - section of tumour, reserve block; 8 - representative, the largest fibroid; 9 - right fallopian tube and ovary; 10 -left fallopian tube and ovary; 11 - section of tumour.
+  
+B.  Specimen labelled "Right external iliac lymph nodes"consists of a piece of fatty tissue 50 x 35 x 15mm.  On slicing there are several lymph nodes ranging from 5 to 20mm in maximum dimension.  
+Blocks: 1 & 2 - comprise one lymph node; 3 & 4 - ?lymph nodes as seen; 5 - ?lymph node.  
+C.  Specimen labelled "Left external iliac lymph node" consists of several lymph nodes, the largest 15mm in maximum dimension.
+Blocks: 1 - lymph nodes as seen; 2 to 4 - each one bisected lymph node.  
+   
+D.  Specimen labelled "Right obturator" consists of fatty tissue 50 x 30 x 18mm.  Several lymph nodes are identified, the largest 20mm in maximum dimension. 
+Blocks: 1 - one bisected lymph node; 2 - lymph nodes as seen; 3 - one bisected lymph node. 
+E.  Specimen labelled "Left obturator lymph node" consists of a piece of fatty tissue 40 x 30 x 15mm.  The largest lymph node is 30mm in maximum dimension.  
+Blocks: 1 &2 - one lymph node; 3 - ?lymph nodes as seen; 4 to 6 - remainder of the tissue.  AE.    (YE/ta 24/12/63) 
+ 
+MICROSCOPIC (Reported by Dr D Konderla): 
+A.  Sections of the endometrial tumour show a grade 1 endometrioid adenocarcinoma.  There is mucinous differentiation.  There is deep myometrial invasion; maximum depth of myometrial invasion is 15mm out of a total myometrial thickness of 22mm.  There is focal lymphovascular invasion in the myometrium.  There is also adenomyosis in the myometrium, some of which is involved by tumour.  There is no cervical involvement by tumour.  Leiomyomas areconfirmed in the myometrium.  Sections of the ovaries and fallopian tubes show no significant abnormality. 
+B.   Sections show eight lymph nodes.  No tumour is seen.  
+C.   Sections show six lymph nodes.  No tumouris seen.
+D.   Sections show six lymph nodes.  No metastatic tumour is seen.  One node is partially involved by a benign leiomyoma.
+E.   Sections show ten lymph nodes.  No tumour is seen.    
+DIAGNOSIS:
+A.   Uterus, ovaries and fallopian tubes:  Grade 1 endometrioid adenocarcinoma of endometrium showing deep myometrial invasion, stage 1B. 
+B.   Right external iliac lymph nodes:  No tumour (0/8). 
+C.   Left external iliac lymph nodes:  No tumour (0/6).
+D.   Right obturator lymph nodes:  No tumour (0/6). 
+E.   Left obturator lymph nodes:  No tumour (0/10). 
+SUPPLEMENTARY REPORT (Reported by Dr D Cocopoti, 1.12.63)
+This case was presented at the Gynaecology tumour board meeting on 30.12.63 and immunoperoxidase stains to asses Mismatch Repair deficiency status were requested.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining (weak patchy staining present)
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repairenzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2,MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

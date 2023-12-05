@@ -1,0 +1,31 @@
+SPR no: 72U652612Y
+MRN no: 7276526
+Site_name: YARRAM & DISTRICT HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report0 rdrst1 7276526.DGY
+ASCOLESE, ELLIS
+72U65261
+drbdrw10 rt8027980
+Last edited : 10/9/2065		Page: 980 2
+n0
+7472HISTORY:
+Hx of pseudomyxoma peritonei (DPAM). Peritonectomy.
+Gallbladder, omentum, peritoneum.
+
+MACROSCOPIC:
+&amp;quot;GALLBLADDER, OMENTUM, PERITONEAL DISEASE&amp;quot;. Received multiple fragments of tissue, including a gallblad der, measuring 80x30x25mm. The outer surface is smooth and grey green in colour. A staple is noted at the cystic duct. The wall is up to 3mm thick. The mucosal surface is green and granular. Three calculi are seen, measuring 10mm in ave rage diameter. One pericystic lymph node, 7mm, is identified with unremarkable cut surface. Received also multiple fragments of peritoneum, measuring in total 180x150x30mm in aggregate. The largest measures 135mm with haemorrhagic cut s urface. Multiple fragments (5-10) show firm, papillary area with firm, tan cut surface largest measures 25 mm in maximum diameter. Received a piece of omentum, 160x110x20mm, with no definite nodules or lesions.
+(1-3 gallblad der [1 cystic duct and pericystic lymph node; 2 TS neck and LS fundus; 3 TS body; 4-9 peritoneum [4 haemorrhagic peritoneum; 5 peritoneum with underlying fat; 6-9 representative so lid, papillary area]; 10-13 representative omentum). RS (M-13/ZH/cy) (Further blocks 14-19 representative firm areas peritoneum and omentum). RS (M-19/ZH)
+MICROSCOPIC:   (Dr T Zuchowski)
+Sections through the gallbladder show changes of chronic cholecystitis. A reac tive cystic duct lymph node is also identified.
+Sections through the omentum show areas of fibrosis and otherwise no significant abnormalities. Two reactive lymph nodes in omental fat are al so identified.
+Sections through the separately submitted peritoneal fragments show evidence of previous surgery with foreign body granulomatous reaction to suture material.
+In addition there are 2 microscopic foci of extracellular acellular mucin.
+No mucinous epithelium is seen. No  destructive invasive tumour is present.
+DIAGNOSIS:
+GALLBLADDER, OMENTUM, PERITONEAL DISEASE:par - MICROSCOPIC FOCI OF ACELLULAR MUCIN IN PERITONEAL FRAGMENTS.
+- EVIDENCE OF PREVIOUS SURGERY WITH FOREIGN BODY GRANULOMAT OUS REACTION TO SUTURE MATERIAL.
+- OMENTUM WITH AREAS OF FIBROSIS.
+- GALLBLADDER WITH CHRONIC CHOLECYSTITIS.
+par10/8/65 cy
+widctlpar

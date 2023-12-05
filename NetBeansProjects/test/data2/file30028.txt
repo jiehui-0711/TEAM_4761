@@ -1,0 +1,37 @@
+SPR no: 47G939353G
+MRN no: 472939
+Site_name: WINGHAM COMMUNITY HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+PMB.  Complex mass R ovary.  Frozen section right ovary + tube.  Uterus, tubes and ovaries.  Peritoneal washings.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Right ovary + tube&amp;#8221;, consists of a multicystic ovarian mass 74 x 59 x 60mm with a probable stretched tube 105mm long.  The cut surface shows a small broad oedematous papillae involving less than 10% of the inner surface of the ovarian mass.  The outer surface is smooth.
+Blocks: 1 &amp;amp; 2 - Frozen section of the blocks; 3 to 12 - Ovarian mass representative sections; 13 - Fallopian tube; 14 &amp;amp; 15 - Possible fimbrial end.
+
+B.  Specimen labelled &amp;#8220;Uterus&amp;#8221;, consists of an uterus with attached cervix, weighing 46.3g in total. The uterus measures 65 x 42 x 32mm and has a haemorrhagic serosal surface posteriorly and on the right lateral aspect.  The ectocervix measures 30 x 20mm and is haemorrhagic over the anterior and posterior surfaces.  The endometrium is up to 1mm and the myometrium is up to 15mm in thickness.  The myometrium is unremarkable.
+Blocks: 1 &amp;amp; 2 - Full longitudinal section through anterior body and cervix; 3 &amp;amp; 4 - Full longitudinal section through posterior body and cervix.
+
+C.  Specimen labelled &amp;#8220;Left ovary and tube&amp;#8221;, consists of a ovary measuring 13 x 8 x 8mm.  The cut surface is unremarkable.  The fallopian tube measures 37mm in length x 8mm in diameter.  The fallopian tube is unremarkable.
+Blocks: 1 &amp;amp; 2 - Ovary all embedded; 3 - Fallopian tube.  (TO:JL/eh 7/10/65)
+
+
+FROZEN SECTION REPORT:
+A.  Serous cystadenoma.
+Result to Dr M Rainge by Dr M Dobbin at 18:14 on 6/07/2019.
+
+
+MICROSCOPIC: (Reported by Dr M Burtell)
+A.  Sections of the right ovarian cyst show a benign serous cystadenofibroma. There is focal epithelial stratification, however, this involves less than 5% of the epithelium and is insufficient for characterisation as borderline. The fallopian tube shows no significant abnormality. There is no evidence of malignancy.
+
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive/weakly proliferative.  The myometrium shows no significant abnormality.  The serosa appears focally congested. There is no evidence of complex atypical hyperplasia or malignancy.
+
+C.  Sections of the left ovary show a benign serous cyst. There are scattered aggregates of psammomatous calcifications. The left fallopian tube shows no significant abnormality. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right ovary and fallopian tube: Serous cystadenofibroma.
+
+B.  Uterus: Inactive/weakly proliferative endometrium. No evidence of atypical complex hyperplasia or malignancy.
+
+C.  Left ovary and fallopian tube:

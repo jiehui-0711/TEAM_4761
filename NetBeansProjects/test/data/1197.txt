@@ -1,0 +1,76 @@
+
+Episode No:  40O974608B
+405974.QBV
+
+GIROLAMO, Robyn Patrice
+Lab No:  40O97460
+Haan
+ROXBY DOWNS  SA  7268
+Specimen: Tissue
+D.O.B:  29/5/2000
+Sex:  F
+Collected: 27/08/2012 at 09:21
+Location:  SYDPATH-TINGHA MULTIPURPOSE SERVICE
+DR Raul ERROL PAULHUS
+Distribution:  DR Mcinturff, DR NGARRINDJERI,  FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (1.10.62):
+
+
+CLINICAL:
+Ascending colon cancer.  Right hemicolectomy. 
+MACROSCOPIC:
+Patient details checked by GE
+Specimen labelled "Right colon", consists of a right hemicolectomy comprising a segment of terminal ileum measuring 70mm in length with an open circumference of 30mm at the proximal resection margin, in continuity with caecum and ascending colon measuring 170m in length with an external diameter of up to 60mm at the distal resection margin. Arising immediately inferior to the ileocaecal valve on the caecal mucosa there is a fungating tumour measuring 30 x 25mm. The tumour is 80mm from the proximal resection margin and 120mm from the distalresection margin. The cut surface of the tumour shows full thickness bowel wall involvement but there is no macroscopic evidence of invasion into the pericaecal fat.  The remainder of the bowel mucosa appears macroscopically normal. The appendix is not identified.  Lymph nodes are identified measuring from 2-20mm across.  
+Representative sections in 14 blocks.  
+Block 1 - proximal margin; 2 - distal margin; 3 & 4 - tumour to serosa; 5 & 6 - tumour to pericaecal fat; 7 - tumour research block; 8 - apical lymph node; 9 - next apical lymph node; 10 - one lymph node bisected; 11-14 - four lymph nodes in each.  (FR/ec  29.10.62) 
+MICROSCOPIC: (Reported by Dr M Wolff)  
+Sections show a moderately differentiated mucinous (colloid) carcinoma of caecum, arising in a villous adenoma. A synopticreport follows:
+Macroscopic Description
+
+Site of tumour:	
+Maximum tumour diameter: 30mm
+Distance of tumour to nearer cut end:   80mm
+Tumour perforation:     No
+Microscopic Description
+
+Type
+Mucinous carcinoma
+Differentiation by predominant area
+Moderate.
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurementfrom tumour to non-peritonealised margin: >10mm
+Lymph nodes
+Number of lymph nodes present: 15	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+No
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status:  To follow. 	
+
+Summary - TNM 7th Edition
+(y)pT3     pN0     pMx     R0	
+
+ 
+DIAGNOSIS:
+Right hemicolectomy:  Mucinousadenocarcinoma of caecum.  pT3 pN0 pMx R0. 
+SUPPLEMENTARY REPORT(1.10.62):
+Immunostains for mismatch repair enzymes have now been performed.
+MLH1:   Preserved nuclear staining.
+MSH2:  Preserved nuclear staining.
+MSH6:  Preserved nuclear staining.
+PMS2:  Preserved nuclear staining.
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

@@ -1,0 +1,61 @@
+SPR no: 05J569184T
+MRN no: 05356918
+Site_name: CASTERTON MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (15.2.66):
+
+CLINICAL:
+G1 EAC uterus.
+NB: received fresh and opened - small pieces of tumour and normal endometrium taken for study by Dr A Detering on 9/2/66.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, tubes, ovaries and cervix&amp;#8220;, consists of a uterus with attached cervix, bilateral tubes and ovaries, weighing 133g.  The uterus measures 100 x 60 x 40mm and has a smooth, shiny serosal surface.  The ectocervix measures 25 x 20mm and has an unremarkable surface.  On sectioning there is a tumour involving the endometrium of the anterior and posterior body.  On the anterior body it measures 50x45mm and on the portserior body 56 x 50mm.  The myometrium measures up to 15mm thick.  The tumour has a thickness of 12mm on  anterior body and 13mm on posterior body.  The myometrium shows three fibroids measuring from 5-10mm in maximum extent.  The right fallopian tube measures 50mm in length with an outer diameter of 6mm.  The right ovary measures 30 x 10 x 8mm and is unremarkable.  The left fallopian tube measures 55mm in length with an outer diameter of 5mm.  The left ovary measures 30 x 12 x 10mm and is unremarkable.  Block 1-5 - full LS of anterior body and cervix; 6 &amp;amp; 7 - RS of deepest invasion on the anterior body; 8-13 - full LS of posterior body and cervix; 14-16 - RS of deepest invasion (block 14 &amp;amp; 15 - one slice); 17 &amp;amp; 18 - RS of fibroids (17 - two fibroids); 19-21 - right adnexa (19 &amp;amp; 20 - RS of fallopian tube; 21 - RS of ovary); 22-24 - RS of left adnexa (22 &amp;amp; 23 - RS of fallopian tube; 24 - RS of ovary).
+
+B.  Specimen labelled &amp;#8220;Right pelvic nodes&amp;#8220;, consists of fatty tissue measuring 45 x 50 x 20mm. Several lymph nodes are identified.  Block 1 - lymp nodes as seen; 2 - one lymph node; 3-5 - one lymph node.
+
+C.  Specimen labelled &amp;#8220;Left round ligament&amp;#8220;, consists of a piece of pale tan tissue measuring 20 x 15 x 8mm.  Sectioned and embedded in 1 block.
+
+D.  Specimen labelled &amp;#8220;Left pelvic nodes&amp;#8220;, consists of a piece of fatty tissue measuring 50 x 40 x 20mm.  Several lymph nodes are identified.  Block 1- lymph nodes as seen; 2- lymph nodes as seen; 3 - one lymph node; 4-6 - one lymph node.  (TO: LM/ec 10.2.66).
+
+
+MICROSCOPIC (Reported by  Dr A Alvacado):
+A.  Sections of the endometrial tumour show a grade 1 endometrioid adenocarcinoma.  There is some squamous differentiation.  There is deep myometrial invasion.  Maximum depth of myometrial invasion is 17mm out of a total myometrial thickness of 18mm.  There is multifocal lymphovascular invasion in the myometrium, including involvement of small muscular veins.  There is partial involvement of the surface of the endocervix with extension into pre-existing endocervical glands, and there is also considered to be some cervical stromal invasion.  Maximum depth of cervical stromal invasion is 3.5mm out of a total cervical stromal thickness of 13mm.  The endocervical involvement is well away from the vaginal vault excision margin.  The cervix is otherwise unremarkable.
+Leiomyomas and adenomyosis are also noted in the myometrium. The myometrium is otherwise unremarkable.
+Sections of the right fallopian tube show small foci of involvement of the epithelial lining at the fimbrial end by endometrioid adenocarcinoma.  The fallopian tubes are otherwise unremarkable.  Sections of the ovaries show no significant abnormality.
+
+Stains for mismatch repair enzymes will be performed on the endometrial tumour and a supplementary report issued.
+
+B.  Sections show four lymph nodes.  No tumour is seen.
+
+C.  Sections show mesothelium with underlying smooth muscle and fat.  Within the tissue there are a few small muscular vessels with calcified walls.  The appearances are otherwise unremarkable.
+
+D.  Sections show eight (8) lymph nodes.  No tumour is seen.
+
+Representative slides have also been viewed by Dr A Dresser.
+
+
+DIAGNOSIS:
+A.  Uterus, ovaries and fallopian tubes:
+1.   Grade 1 endometrioid adenocarcinoma of endometrium showing deep myometrial invasion,  cervical stromal invasion and focal involvement of fimbrial epithelium of right fallopian tube, Stage 3A.
+2.  Leiomyomas and adenomyosis.
+
+B.   Right pelvic nodes:  No tumour (0/4).
+
+C.   Left round ligament:  No significant abnormality.
+
+D.   Left pelvic nodes:  No tumour (0/8).
+
+
+SUPPLEMENTARY REPORT (15.2.66):
+Stains for mismatch repair enzymes have been performed on the endometrial tumour.
+
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).
+
+This case was discussed at the Gynae Tumour Board on 14.2.66.  The right fallopian tube epithelium is regarded as focally involved by endometrioid adenocarcinoma so the tumour is stage 3A, not stage 2 as previously reported.  This has now been amended above.

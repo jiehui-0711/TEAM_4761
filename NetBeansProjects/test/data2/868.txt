@@ -1,0 +1,100 @@
+
+Episode No:  31A305126M
+310305.DHR
+
+Geibel, LAURI-DARLINE
+Lab No:  31A30512
+Crisanto
+BAY VIEW  TAS  5044
+Specimen: Tissue
+D.O.B:  23/10/2008
+Sex:  F
+Collected: 3/12/2062 at :
+Location:  INTENSIVE CARE UNIT-NAMBOUR GENERAL HOSPITAL
+DR Lyman JAMISON Martinov
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+SUPPLEMENTARY REPORT:  (16.1.62)
+
+CLINICAL:
+(L) breast cancer.  Wide excision and axillary dissection.  
+MACROSCOPIC:
+A. Specimen labelled "Left breast; short stitch superior, wire lateral, double stitch deep" consists of a hookwire guided lumpectomy with two marking sutures as indicated previously. There is a hookwire entering the specimen from the lateral aspect measuring 55mm (medial-lateral) x 60mm (superior-inferior) x 35mm (superficial-deep) weighing 49g. The lateral margin is inked red, the superficial blue and the deep black. Superficially the specimen shows disruption superiorly to a length of 20mm and a depth of 15mm and inferior to a length of 25mm and depth of 10mm. The specimen is sequentially sectioned from superior to inferior into twelve slices to reveal a poorly circumscribed/firm cream tumour present in slices 7 and 8. The tumour measures 23mm (medial-lateral) x 17mm (superior-inferior) x 20mm (superficial-deep). The closest margins are the medial (5mm), superficial (7mm) and deep (5mm). Other margins are well clear of tumour. The remaining breast shows mixed fibrofatty tissue and no other lesions are identified. The hookwire is present in
+slice 7.
+Blocks: I - slice 1 superior end; 2/3 - slice2;	4 to 6 - slice 4; 7 to 10 - slice 6; 11 to
+14- slice 7; 15- reserved block (shave of tumour in block 7); 16-20 - slice 8; 21-25 - slice 9; 26 & 27 - slice 10; 28 - slice 11; 29 slice 12. Please refer to attached diagram.
+B. Specimen labelled "Left axilla, stitch apex"/consists ofa piece of fibrofatty tissue 185 x 95 x 30mm containing several lymph nodes measuring from 3 to 40mm in greatest dimension. The largest lymph node is totally replaced by tumour. Thelargest node has a rounded outline and macroscopically no significant extranodal extension is identified. Lymph nodes are submitted and embedded from apex to base.
+Blocks: I - representative of involved node; 2 to 4 - each two nodes;5 - three nodes; 6 - three nodes; 7 - one node bisected; 8 - two nodes; 9 - one node bisected; 10 - three nodes {blocks 9 & 10- nodes at apex). (KJ/cc 3/1/62)
+
+C.  Specimen labelled "Left breast new superficial margin, stitch at margin" consists of a piece of fibrofatty tissue measuring 40 x 30 x 17mm and weighing 7.7g.  A stitch at the centre of one surface marks the new margin, this margin inked blue and the opposite red.  Sectioning shows no distinct abnormality.  AE 5 blocks.  
+D.  Specimen labelled "Left breast new medial margin, stitch at margin" consists of a piece of fibrofatty tissue measuring 37 x 25 x 12mm and weighing 5.7g.  A stitch at one surface marks the new margin inked blue and the opposite margin which appears ragged inked red.  Sectioning shows no significant abnormality.  AE 5 blocks.  (KJ/mm 3.1.62) 
+MICROSCOPIC:  (Reported by DrI Hendricksen):
+A.  Sections show a grade 3 infiltrating ductal carcinoma, Bloom and Richardson score 8 (t=3, n=3, m=2). The tumour measures 23mm (medial to lateral) x 17mm (superior to inferior) x 20mm (superficial to deep) and is located in slices 7 and 8 (total of 12 slices) in the middle third of the excision. A focus of LVI (lymphovascular invasion) is seen at the periphery of the tumour.
+The excision marginsare clear of the tumour (superficial 6mm, deep 8mm, medial 6mm, other margins well clear).  
+There is a minor component of high grade DCIS (comedo, cribriform) within and at the periphery of the tumour but not in other areas.  The closest margin for DCIS is superficial which is 7mm clear.  Other areas of the breast show CCC (columnar cell change) without atypia. 
+B.  Four (4) of the twenty (20) lymph nodes contain metastatic ductal carcinoma and two (2) of these show perinodal spread of 2mm and 1mm. 
+C.  The new superficial margin is negative for tumour.
+D.  The new medial margin is negative for tumour.  Focal columnar cell change is present.  (ec) 
+DIAGNOSIS:  
+A-D.  Left breast WLE, left axilla, new superficial and medial margins:
+
+Invasive carcinoma:
+Site: Left breast, WLE.
+Type: Infiltrating ductal. 
+Invasive tumour size:  23 x 17 x 20mm. 
+Grade (Modified Bloom & Richardson): 3.  
+Tubules:  3    Nuclei:  3    Mitoses:  2    Mitotic rate:  8/10hpf.
+Lymphovascular invasion:  Present - focal. 
+	    
+DCIS component:  
+DCIS:   Present. 
+Maximum extent of DCIS: Similar to IDC.
+Nuclear grade:   High. 
+Architecture: Comedo and cribriform. 
+Degree of DCIS in tumour:  <25%.
+DCIS in adjacent tissue:  None/minimal. 
+Excision Margins:  
+Invasive component:
+Superficial 6mm + new superficial margin.
+Deep 8mm.
+Medial 6mm + new medial margin.
+Other margins well clear. 
+In-situ component:
+Superficial 7mm, other margins well clear. 
+Receptors (Block  A18): 
+ER:  Positive.
+	>95% of nuclei stained
+	predominant intensity ofstaining:  Strong.
+PR:  Positive.
+	50% of nuclei stained
+	predominant intensity of staining:  Moderate.
+HER2 (Novocastra 10A7):  Equivocal (2+).
+Slides sent to COOLAH MULTI PURPOSE SERVICE for CISH.
+Ki-67 index: 15% in the worst areas.
+Nipple:  N/A. 
+LCIS / ALH:   Absent.  
+Miscellaneous: Focal columnar cell change. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 0.
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 20.
+Number of axillary lymph nodes involved by tumour:  4.        
+Number of axillary nodes with metastases >2.0mm: 4.   
+Extranodal spread:    Present 2mm in extent. 
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   20.
+Total number of involved lymph nodes (including sentinel node(s)):   4.
+SUPPLEMENTARY REPORT:  (16.1.62)
+Material sent to WARWICK HOSPITAL Hospital, for HER-2 CISH testing, the results of which are as follows:
+Reported by:  Dr I Honour
+HER-2 CISH result (HER-2 CISH Invitrogen SPOT-Light assay, block A18): 
+HER-2 CISH result:  NEGATIVE (nonamplified, polysomy)
+
+Mean HER-2 copy number per cell:  3.2
+SCORING CRITERIA (ASCO/CAP recommendations): 
+1 -2.5 copies		Non amplified (diploid)
+2.5 < 4 copies		Non amplified (polysomic)
+4 to 6 copies		Equivocal 
+>6 but <10 copies	Low level amplification
+10 or more copies	High levelamplified
+

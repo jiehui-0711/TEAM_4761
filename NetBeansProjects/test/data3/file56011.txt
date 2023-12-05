@@ -1,0 +1,110 @@
+SPR no: 72R577425C
+MRN no: 7265774
+Site_name: FAIRFIELD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report72R57742 (72R577425C) Plaugher, Titus
+HISTOPATHOLOGY REPORT
+COOKTOWN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+H/O DCIS
+Left lymph node (axillary) biopsy for frozen section
+Left WLE - hookwire localised lesion at 1 o&amp;apos;clock position - 9cm away from nipple/areola complex.
+Short-superior, medium-medial, long-lateral
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT LYMPH NODE BIOPSY&amp;quot;.  A piece of fatty tissue 20mm in diameter.  One pale node, fatty.
+Frozen section result:  &amp;quot;Negative&amp;quot;.  JOSEFINE Daghita to Fellow at 4pm on 20/10/67.
+(1 frozen section; 2 remainder).  RS (M-2)
+
+B.  &amp;quot;LESION LEFT BREAST&amp;quot;
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  Yes, calcification around F, G and H 6 and 7.
+HOOKWIRE:  Yes, hookwire split in G5, area inked yellow
+SPECIMEN DIMENSIONS:
+Medial to lateral:  75mm
+Superior to inferior:  90mm
+Anterior to posterior:  25mm
+WEIGHT:  60g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Non-Standard: Anterior blue, Posterior black, Medial red, Lateral green.
+DISSECTION: Cut from superior to inferior
+Number of slices: 8
+FINDINGS / LESION:  Area of calcification located in slices 4-6, mostly in slice 5.  There are patchy fibrotic haemorrhagic foci with area of calcifications within slices 4-6 approximately 15x15x15mm.
+MACROSCOPIC DISTANCE MARGINS: Anterior 5mm, posterior 5mm, and more than 15mm from all other margins.
+(1 one LS, 2 one LS, 3 one LS, 4 two LS of slice 1; 5 medial slice 3; 6-8 slice 4; 9-12 slice 5; 13-16 slice 6; 17&amp;amp;18 medial slice 7; 19 one LS, 20 one LS, 21 one LS, 22 one LS, 23 one LS of slice 8).  RS (M-23/SM 23/10/2067 nh)
+MICROSCOPIC: (Dr. U. Axsom)
+
+A-B. INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+
+NUMBER OF INVASIVE FOCI:  One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;8mm (measured in blocks B5, B7, B10)
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type
+&amp;#160;
+HISTOLOGIC GRADE:  Grade 2
+
+SCORES Tubules: 3, Nuclei: 2, Mitoses: 1; MITOTIC RATE: &amp;#160;1 mitosis per 10 hpfs
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 75mm (includes large field of DCIS)
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION:  Absent
+&amp;#160;
+PERINEURAL INVASION: Absent
+&amp;#160;
+SKIN INVOLVEMENT:   No skin submitted for assessment
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent:  75mm field of DCIS extends from superior slice towards inferior
+Nuclear grade: Low to Intermediate
+Architecture / type: Cribriforming
+Necrosis: Present
+Microcalcification of DCIS: Present
+Extensive intraduct component:  Present
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Absent
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+6mm from the anterior margin (B5), 8mm from the medial margin (B5), &amp;gt;10mm from all other margins.
+&amp;#160;
+DCIS MARGINS:
+1.6mm from the superior margin (B2)
+4mm from the anterior margin (B5)
+7mm from the posterior margin (B5)
+8mm from the medial margin (B13)
+&amp;gt;10mm from all other margins
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B5, B7
+ER: &amp;#160;Positive (strong staining in 100% of cells)
+PgR: &amp;#160;Negative
+HER2: &amp;#160;1+
+Ki67: 10%
+&amp;#160;
+LYMPH NODES - SENTINEL LYMPH NODE:
+Nodes with macrometastases:   0
+Nodes with micrometastases:  1  -  Cytokeratin stain AE1/AE3 is positive.
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 1
+
+Largest nodal tumour deposit: 0.9mm
+Extranodal extension: &amp;#160;Absent
+
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1b, pN1mi
+
+
+DIAGNOSIS:
+A-B.  LEFT SENTINEL LYMPH NODE BIOPSY and LEFT BREAST WIDE LOCAL EXCISION:
+- Grade 2 invasive carcinoma of no special type, pT1b pN1mi
+- Micrometastasis present in 1 sentinel lymph node

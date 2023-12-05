@@ -1,0 +1,82 @@
+
+Episode No:  25E132148A
+2511321.MVA
+
+BRUMER, JAKE 
+Lab No:  25E13214
+S Edison
+KINGSCLIFF  WA  4701
+Specimen: Tissue
+D.O.B:  2/1/1986
+Sex:  M
+Collected: Unknown at :
+Location:  INTENSIVE CARE-KERANG DISTRICT HEALTH
+DR BRENT LASHUNDA GETTO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Subtotal colectomy for malignant polyp ?Descending colon.  
+Note: Specimen reviewed by surgical registrar for Dr Angstadt with lesion and polyps of interest identified.
+
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a subtotal colectomy, received opened, measuring 630mm in length including 30mm of terminal ileum. The specimen lies entirely above the anterior peritoneal reflection. There is an appendix measuring 60mm in length with a diameter of 7mm which appears unremarkable.  Attached pericolic fat is received to a width of 70mm. There is a 12 x 8mm polypoid lesion, 180mm from the distal margin, showing no definite invasion on sectioning. Three polyps are also identified, the first located is located 80mm from the distal margin measuring 8mm, the second polyp is located 90mm from the proximal margin measuring 8mm and the third polyp is located 200mm from the distal margin and measures 3mm. A ?nodule is located on the serosal surface of the bowel measuring 6mm located 110mm from the proximal margin. Proximal margin inked blue, distal margin black.  
+Blocks: 1 - proximal margin; 2 - distal margin; 3 - polyp one; 4 & 5  - nodular lesion AE; 6 to 8 - polyp two AE; 9 - serosal nodule; 10 - polyp three; 11 - caecum; 12 - mid bowel; 13 - distal bowel; 14 - LS proximal one third of appendix; 15 - representative TS mid one third ofappendix; 16 - LS distal one third of appendix; 17 - apical lymph node; 18 to 20 - lymph nodes; 21 - one lymph node bisected; 22 - 27 - lymph nodes.  (TL/ta 3/12/63) 
+ 
+MICROSCOPIC:  (Reported by Dr F Furgison)
+Sections of the 12mm polypoid lesion identified macroscopically show an invasive adenocarcinoma with areas of mucinous differentiation. The morphology of the adenocarcinoma is similar to the previously reported adenocarcinoma arising in a sessile polyp at 60 - 80cm (Healthscope 2013/39875). There are also three tubular adenomas. A synoptic report for colonic adenocarcinoma follows: 
+
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Colon.	
+Maximum tumour diameter: 12mm.
+Distance of tumour to nearer cut end: 180mm (distal margin).
+Tumour perforation: No.
+Microscopic Description
+Type
+Adenocarcinoma with focal mucinous differentiation. 
+Differentiation by predominant area
+Moderate to well.
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Lymph nodes
+Number of lymph nodes present: Forty.	
+Number of lymph nodes involved: One (1/40).	
+pN1a	Metastases in 1 regional LN
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The three polyps identified macroscopically are tubular and tubulovillous adenomas. 
+The appendix shows acute appendicitis.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvant therapy
+Not applicable. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+pTNM Stage (TNM 7th Edition) = IIIA pT2N1aMx	
+
+
+DIAGNOSIS:
+Right hemicolectomy:
+12mm pTNM Stage IIIA moderately to well differentiated colonic adenocarcinoma with focal mucinous differentiation.
+The morphology is similar to the previously reported adenocarcinoma arising in a sessile colonic polyp (Healthscope 2013/39875). 
+There is metastatic adenocarcinoma in one of forty lymph nodes (1/40).
+Low risk of microsatellite instability on immunohistochemical staining.
+Three tubular/tubulovillous adenomas and acute appendicitis.
+
+
+
+ 
+
+
+

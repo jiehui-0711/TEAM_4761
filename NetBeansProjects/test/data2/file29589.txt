@@ -1,0 +1,68 @@
+SPR no: 30M751748T
+MRN no: 304751
+Site_name: KANGAROO ISLAND HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Whipples&amp;quot;, consists of a pancreaticoduodenectomy with pancreas measuring 90 x 65 x 45mm with neck margin 35 x 15mm, distal stomach 30mm long and 70mm in diameter and duodenum 210mm in length to a diameter of 30mm.  The ampulla is located 90mm from the proximal resection margin.  The specimen is inked anterior and posterior black, postal vein blue, SMA red, and uncinate green.  The pancreas is sliced from superior to inferior into sixteen slices.  Located predominately in the uncinate process there is a multilocular cystic lesion 22 x 14 x 24mm and abuts the uncinate surface.  Superior to the uncinate process there are several further multicystic lesions spread throughout the pancreas up to the level just superior to the ampulla.  These cysts measure 3 to 8mm in maximum dimension.  The remaining pancreas is predominately fatty in appearance and no solid lesions are identified.  A single 18mm lymph node is identified within the superior pancreatic fat.  A separate piece of omentum measures 300 x 80 x 10mm and is uniform and lobular.
+Blocks: 1 - proximal and distal resection margin; 2 - pancreatic neck shave; 3 - bile duct shave; 4 - superior pancreatic fat lymph node; 5 to 26 - all of pancreas embedded from inferior/uncinate to superior (5 - slice sixteen; 6 - slice fifteen; 7 - slice fourteen bisected; 8 - slice thirteen; 9 &amp;amp; 10 - slice twelve; 11 &amp;amp; 12 - slice eleven; 13 &amp;amp; 14 - slice ten; 15 &amp;amp; 16 - slice nine; 17 &amp;amp; 18 - slice eight; 19 &amp;amp; 20 - slice seven; 21 &amp;amp; 22 - slice six; 23 &amp;amp; 24 - slice five; 25 - slice four; 26 - slice three); 27 &amp;amp; 28 - slice two and one; 29 &amp;amp; 30 - representative omentum.   (TO:AP/ta 1/11/65)
+
+
+MICROSCOPIC (Reported by Dr H Horak):
+Sections of the pancreas show an intraductal papillary mucinous neoplasm (IPMN) of both large and branched duct types (mixed).  The lesion shows mostly low grade dysplasia with only small areas of intermediate grade dysplasia.  The epithelium is predominantly of gastric type.  The tumour involves the main pancreatic duct within the ampulla and extends into pancreatic parenchyma.  The main group of dilated ducts lies within the uncinate process and measures approximately 20mm across however, small foci are also present within the head of pancreas.  The twenty-one (21) lymph nodes identified show no significant abnormality.  An incidental 1.3mm neuroendocrine microadenoma is identified.  The entire pancreas is examined and no invasive malignancy is seen.  The features are as follows:
+
+Histological tumour type
+Intraductal papillary mucinous neoplasm (IPMN).
+
+Histological grade
+Low to focally intermediate.
+
+Microscopic tumour sites
+Head of pancreas
+Uncinate process
+
+Extent of tumour invasion
+Pancreas
+
+Maximum tumour diameter
+Main 20mm focus within uncinate process
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Not identified
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Present
+
+Margins:
+Pancreatic neck:  PanIN1A only.
+Common bile duct:  Well clear.
+Portal vein (superior mesenteric vein):  Well clear.
+Superior mesenteric artery:  2mm clear
+Periuncinate soft tissue:  Abutting but clear.
+
+Surfaces:
+Anterior:  Well clear.
+Posterior:  4mm clear
+
+Lymph nodes:
+Number found:  21
+Number involved:  0
+
+Other pathologies:
+Incidental 1.3mm neuroendocrine microadenoma
+
+
+DIAGNOSIS:
+Whipple&amp;apos;s:
+- IPMN, low to focally intermediate grade dysplasia.
+- No invasive malignancy seen.
+- Excision margins just clear.
+- Twenty-one (21) negative lymph nodes.

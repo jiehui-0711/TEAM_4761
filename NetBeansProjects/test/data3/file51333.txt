@@ -1,0 +1,140 @@
+SPR no: 92U914404Q
+MRN no: 927914
+Site_name: GREAT OCEAN ROAD HEALTH - OTWAY HEALTH
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report92U91440 (92U914404Q) TUY, NANCIE
+HISTOPATHOLOGY REPORT
+WONGAN HILLS HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:  Left breast cancer.  Left breast WLE + SLNBX.  Frozen section left axillary sentinel node biopsy. long-lateral, medium-medial, short-superior.
+1. Left breast cancer wide excision. 2. Posterior margin. 3. Biopsy inferior flap tissue.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT AXILLARY SENTINEL NODE BIOPSY&amp;quot;. Consists of a piece of tissue 15mm maximum dimension.  One pale node 10mm maximum dimension. (1 FS; 2 remainder of node). RS (M-2)
+Frozen section report: &amp;apos;Negative&amp;apos;.  To Dr Sherwood by Dr Wodarski 2.35 pm
+
+B. &amp;quot;LEFT BREAST LESION, Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN TYPE:  Wide local excision oriented
+SPECIMEN X-RAY, HOOKWIRE:  No
+SPECIMEN DIMENSIONS: Medial to lateral 60mm, Superior to inferior 35mm, Anterior to posterior 40mm. WEIGHT:  47g
+SKIN:  skin ellipse present over surface measuring 60x7mm
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral, 15 slices
+FINDINGS/LESION:  There is a well demarcated tumour in slices 7-12, measuring 20 mm medial to lateral x 16mm anterior posterior x 11mm superior inferior. The tumour is 25mm from medial margin; 16mm from lateral margin, &amp;lt;1mm from posterior margin, 17mm from anterior, 5mm from superior, 2mm from inferior. The remainder of the breast tissue is predominantly fatty.   (1&amp;amp;2 LS medial margin slice 1; 3&amp;amp;4 slice 4; 5-7 slice 8; 8&amp;amp;9 slice 9; 10 posterior half slice 11; 11&amp;amp;12 slice 13; 13&amp;amp;14 LS through lateral margin slice 15 [tumour is in blocks 6, 7, 9 and 10]).  RS (M-14)
+Further blocks:
+15, 16 mid, posterior slice 7;
+17,18 mid, posterior slice 10;
+all tumour embedded; LV
+
+C.  &amp;quot;DEEP MARGIN LEFT BREAST&amp;quot;. a piece of fatty tissue weighing 3g measuring 30x20x8mm, unoriented.  Resection margins inked blue.  Transversely sectioned into 7 slices and embedded in blocks 1 and 2.  AE (M-2)
+
+D.  &amp;quot;BIOPSY INFERIOR FLAP&amp;quot;.  a piece of fatty tissue weighing 0.1g and measures 8x6x3mm.  Resection margin inked blue, bisected.  AE (2-1/MC 6/10/2068 ank)
+
+MICROSCOPIC:  X Yonkers
+
+B. LEFT BREAST LESION
+
+BREAST INVASIVE CARCINOMA SYNOPTIC REPORT
+(based on CAP guidelines 2017):
+
+
+INVASIVE CARCINOMA:
+
+MAXIMUM INVASIVE TUMOUR SIZE: 20 mm diameter (5 x 4 mm slices) x 16 mm in cross section
+
+HISTOLOGIC TYPE:  Mixed, Invasive carcinoma with cribriform features (98%) with minor component of invasive lobular carcinoma (2%)
+
+HISTOLOGIC GRADE:  Grade 1 (small lobular carcinoma component does not change overall grade)
+
+SCORES: Tubules 2, Nuclei 2,  Mitoses 1;  Total Score: 5 of 9
+
+MITOTIC RATE:  1 mitoses per 10 high power fields
+
+WHOLE TUMOUR SIZE (Invasive + DCIS): 22 mm
+
+PERITUMOURAL LYMPHOVASCULAR INVASION: None
+
+PERINEURAL INVASION: None
+
+SKIN INVOLVEMENT: None
+
+DERMAL LYMPHOVASCULAR INVASION: None
+
+DUCTAL CARCINOMA IN SITU (DCIS):
+Ductal carcinoma in situ (DCIS) is present, associated with invasive carcinoma.
+Size (extent) of DCIS:  2 mm beyond invasive tumour
+Nuclear grade: Low grade
+Architecture/type: cribriform
+Necrosis:  Not identified
+Calcification of DCIS: Not identified
+Extensive intraductal component (EIC): Negative
+
+Lobular carcinoma in situ (LCIS): Not identified
+
+MARGINS:
+Invasive carcinoma margins:
+
+Margin status, invasive carcinoma: Negative
+
+Distance of invasive carcinoma to margins:
+Anterior: 	&amp;gt; 10 mm
+Posterior: 	5 mm
+Superior:	6 mm
+Inferior:	3 mm (section B17), closest margin
+Medial:	&amp;gt; 10mm
+Lateral:	&amp;gt; 10mm
+
+DCIS margins:
+Margin status, DCIS: Negative (not involved)
+Distance of DCIS to closest margins: 8 mm (superior is closest)
+
+ANCILLARY TESTS/IMMUNOHISTOCHEMISTRY (IHC):
+ANCILLARY TESTS / IMMUNOHISTOCHEMISTRY (IHC):
+Block B6
+Other suitable tumour block for testing: B17
+
+ER:      POSITIVE 90% 3+
+PR:      POSITIVE 90% 3+
+HER2 by Immunohistochemisty:  IHC 1+ negative  (ISH not being performed)
+Ki-67:  10-20%
+e-cadherin: positive in ductal carcinoma; aberrent cytoplasmic/golgi staining in small component of lobular carcinoma
+
+SEPARATE FINDINGS:
+Fatty breast tissue. Biopsy track
+
+LYMPH NODES:
+A.  LEFT AXILLARY SENTINEL NODE
+
+Sentinel lymph nodes: not involved
+
+Nodes with macrometastases: 0
+Nodes with micrometastases:  0
+Nodes with isolated tumour cells: 0
+Total number of nodes examined:  1
+
+OTHER SPECIMENS:
+C.  DEEP MARGIN LEFT BREAST:
+Fatty tissue, no tumour
+
+D.  BIOPSY INFERIOR FLAP:
+Fatty tissue, no tumour, focal fibrosis ?part of biopsy track.
+
+Pathologic Stage Classification (pTNM, AJCC 8th ed, 2017):  pT1c N0 (sn)
+
+DIAGNOSIS:
+A.  LEFT AXILLARY SENTINEL NODE BIOPSY
+- sentinel lymph nodes: not involved (0/1)
+B. LEFT BREAST LESION
+- 20 mm diameter
+- invasive carcinoma, mixed, invasive carcinoma with cribriform features (98%) with minor component of invasive lobular carcinoma (2%)
+- grade 1 (small lobular carcinoma component does not change overall grade)
+- minor component of low grade DCIS
+- distance of invasive carcinoma to closest margins: 3 mm
+- distance of DCIS to closest margins: 8 mm
+C. DEEP MARGIN LEFT BREAST
+- fatty tissue, no tumour
+D. BIOPSY INFERIOR FLAP:
+- fatty tissue, no tumour

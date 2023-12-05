@@ -1,0 +1,120 @@
+SPR no: 70X328912E
+MRN no: 708328
+Site_name: LOXTON HOSPITAL COMPLEX
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report70X32891,70X32891 (70X328912C) Selgrade, AGUSTINA
+HISTOPATHOLOGY REPORT
+LOGAN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:   Peritoneal washings for cytol. Uterus, tubes, ovaries. Right pelvic sentinel node.Left pelvic sentinel node. Omental biopsy. G1 endometrioid adenoca.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;. Consists of a uterus with attached cervix, bilateral fallopian tubes and bilateral ovaries received partially opened on the coronal plane through the cervix and lower uterus. Total weight 214g. Uterus and cervix measures 95mm superior to inferior, anterior to posterior cervix 32mm, right to left cervix 40mm. Uterus measures anterior to posterior 75mm and intercornual distance of 68mm. Presumed anterior cervix inked blue and posterior inked black. Multiple 10 to 30mm diameter nodular protrusions on the uterus serosal apex and posterior surfaces. Three smaller nodules are attached loosely by serosa. Sectioning reveals anterior uterus is 50mm, posterior uterus 20mm, endometrial cavity is 1mm. A 12x10x7mm papillary lesion protrudes into the endometrial cavity from the far left apex. It is 7mm from the left cornu and macroscopically invades into the myometrium for abour 5mm with a distance of 7mm to the serosal surface.
+Lesion is slices from superior to inferior into 5 slices. Multiple 4 to 35mm diameter well circumscribed creamy whorled lesions seen in the anterior and posterior uterus, corresponding to nodular protrusions on the serosa.
+
+The right fallopian tube is 58x7mm has a 17mm diameter clear fluid filled cyst attached at the distal end. It has an unremarkable cut surface. The right ovary is 40x15x12mm and an unremarkable superficial and cut surface. Left fallopian tube is 55x6mm. Serosa is tan brown with a 15mm diameter cyst filled with dark brown ?haemorrhagic material. Cut surface unremarkable. Left ovary is 20x14x10mm. The serosa and cut surfaces are unremarkable.
+
+(1,2 right, left parametrium; 3 right fallopian tube; 4 right ovary; 5 left fallopian tube; 6 left ovary; 7 left parametrium near the papillary lesion; 8-15 full face of midline uterus and cervix [8 anterior cervix, 9 posterior cervix]; 16,17 lesion slice 1; 18,19 lesion slice 2; 20 lesion slice 3; 21,22 lesion slice 4; 23 lesion slice 5). Representative sections. (M-23)
+
+B. &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. A 25x15x10mm piece of fatty tissue with a 20x5x4mm lymph node contained. Cut surface unremarkable. All embedded. (M-2)
+
+C. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. Consists of a piece of fatty tissue 25x7x8mm. It contains two possible lymph nodes 15x6x4mm, and 9x4x3mm. Cut surface is unremarkable.
+(1 larger lymph node; 2 smaller lymph node). All embedded. (M-2)
+
+D. &amp;quot;OMENTAL BIOPSY&amp;quot;. A 18x18x6mm piece of fatty tissue with firm area 9x2x2mm.
+Trisected. All embedded. (M-1/ 20/2/2071 ank)
+
+MICROSCOPIC:  Dr U. Vignovich
+
+A. Uterus, Bilateral Tubes And Ovaries:
+ENDOMETRIAL CARCINOMA, SYNOPTIC:
+(based on CAP 2020 Endometrium 4.1.0.2; RCPA V2 2019, FIGO 2018)
+Procedure:   Total hysterectomy and bilateral salpingo-oophorectomy
+Tumor Site:   Left cornual region
+Tumor Size:   11mm greatest dimension
+Histologic Type:   Endometrioid carcinoma
+Histologic Grade:   FIGO grade 1
+Myometrial invasion:   Present.
+Depth of myometrial invasion: 5mm  (section A20)
+Myometrial thickness: 13mm
+Percentage of myometrial invasion: 40%
+MELF pattern of invasion:   Present
+Uterine Serosa Involvement:   Not identified
+Distance of myoinvasive tumour to serosa:   8mm
+Lymphovascular Invasion:   Present
+Extent of lymphovascular invasion: focal (&amp;lt;5)
+Cervical surface or crypt involvement:   Not identified
+Cervical Stromal Invasion:   Not identified
+MARGINS:
+Paracervical margins:  Well clear of tumour (left cornual region)
+REGIONAL LYMPH NODES:
+B. Right Pelvic Sentinel Node
+Number of  nodes with macrometastasis: 0
+Number of nodes with micrometastasis: 0
+Number of nodes with isolated tumor cells:   0
+Number of  sentinel lymph nodes examined: 1
+C. Left Pelvic Sentinel Node:
+Number of  nodes with macrometastasis: 0
+Number of nodes with micrometastasis: 0
+Number of nodes with isolated tumor cells:   0
+Number of  sentinel lymph nodes examined:  2
+One node includes a focus of keratin positive endosalpingiosis.
+DISTANT METASTASES (histologically confirmed):   Not identified
+ADDITIONAL PATHOLOGIC FINDINGS:
+Endometrium:   Atrophic
+Myometrium:
+Leiomyomas.
+Moderate inactive adenomyosis; the adenomyosis is not involved by carcinoma.
+Uterine serosal surface:  No lesions seen
+Ectocervix:  Normal squamous mucosa
+Endocervix:  Normal endocervical mucosa.
+Right ovary:   No histologic abnormality
+Left ovary:   No histologic abnormality
+Right fallopian tube:  No histologic abnormality
+Left fallopian tube:   No histologic abnormality
+IMMUNOHISTOCHEMISTY (IHC):
+Block: A20.  Other suitable representative block: A22
+MMR IHC, ER, PR:  PENDING
+OTHER SPECIMENS:
+D. Omentum biopsy:   Not involved. There is focal peritoneal fibrosis.
+PROVISIONAL PATHOLOGICAL FIGO STAGE pre-MDT:  IB (1B)
+(2018 FIGO Cancer Report)
+DIAGNOSIS:
+A. Uterus, Bilateral Tubes And Ovaries:
+- endometrioid carcinoma;
+- FIGO grade 1;
+- myometrial invasion PRESENT;
+- depth of myometrial invasion 5mm of myometrial thickness 13mm (40%);
+- lymphovascular Invasion PRESENT, focal;
+- uterine leiomyomas;
+- inactive adenomyosis;
+- normal right and left ovaries;
+- normal right and left fallopian tubes.
+
+B. Right Pelvic Sentinel Node
+- negative for tumour involvement (0/1)
+
+C. Left Pelvic Sentinel Node:
+- negative for tumour involvement (0/2)
+- one node includes a focus endosalpingiosis.
+
+D. Omental Biopsy:
+- negative for tumour involvement.
+
+MMR IHC, ER, PR:  PENDING
+-------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT: 27/2/2070
+IMMUNOHISTOCHEMISTRY (IHC), BIOMARKERS:
+Block A20. MSH6 also A18,22,23
+ER:      POSITIVE, 20% of nuclei, 2+
+PR:      POSITIVE, 60% of nuclei, 2+
+MISMATCH REPAIR PROTEINS (MMRP) IHC:
+MLH1: NORMAL staining.
+PMS2: NORMAL staining.
+MSH2: NORMAL staining.
+MSH6: NORMAL staining, patchy
+Conclusion:
+This is the normal pattern of MMRP immunohistochemistry.
+There is no immunohistochemical evidence of a mismatch repair deficiency.
+-------------------------------------------------------------------------------------------------------

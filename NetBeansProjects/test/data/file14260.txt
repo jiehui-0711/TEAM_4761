@@ -1,0 +1,32 @@
+SPR no: 18T162057I
+MRN no: 187162
+Site_name: INGLEWOOD AND DISTRICT HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian lesions.
+
+
+MACROSCOPIC:
+A. &amp;#160;Specimen labelled &amp;#8220;Fundal biopsy&amp;#8221; consists of a 2mm biopsy.  AE 1 block.
+&amp;#160;
+B. &amp;#160;Specimen labelled &amp;#8220;Antral biopsy&amp;#8221; consists of a 2mm biopsy.  AE 1 block.
+&amp;#160;
+C. &amp;#160;Specimen labelled &amp;#8220;Ascending biopsy&amp;#8221; consists of three biopsies measuring 1 to 2mm.  AE 1 block.
+&amp;#160;
+D. &amp;#160;Specimen labelled &amp;#8220;Hepatic flexure polyp&amp;#8221; consists of three biopsies measuring 1 to 3mm.  AE 1 block.  (TO: JB; JB/ua 7.11.66)
+
+
+MICROSCOPIC: (Reported by Dr D Carty)
+A.  Sections show gastric acid secreting mucosa with a patchy mild chronic inflammatory cell infiltrate within the lamina propria. No Helicobacter organisms are seen. There is no evidence of intestinal metaplasia, dysplasia or malignancy.
+B.  Sections show gastric junctional mucosa with a patchy mild chronic inflammatory cell infiltrate within the lamina propria. No Helicobacter organisms are seen. There is no evidence of intestinal metaplasia, dysplasia or malignancy.
+C.  Levels of the ascending colon biopsy show superficial fragments of villous adenoma. There is minimal lamina propria for assessment. There is no evidence of high grade dysplasia or malignancy.
+D.  The hepatic flexure polyp is a tubulovillous adenoma. There is no evidence of high grade dysplasia or malignancy.
+DIAGNOSIS:
+A.  Gastric fundal biopsy: Patchy mild non-specific chronic gastritis.
+
+B.  Gastric antral (junctional) biopsy: Mild non-specific chronic inflammation.
+
+C.  Ascending colon biopsy: Superficial fragments of villous adenoma.
+
+D.  Hepatic flexure polyp: Tubulovillous adenoma.

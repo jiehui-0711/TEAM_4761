@@ -1,0 +1,82 @@
+Episode No:  72D510312Q
+7215103.EGQ
+
+Valerius, Tom 
+Lab No:  72D51031
+New Pond
+VICTOR HARBOR  Tasmania  2089
+Specimen: Tissue
+D.O.B:  9/5/2006
+Sex:  F
+Collected: 19/2/2066 at :
+Location:  Southern IML Pathology-GOVE DISTRICT HOSPITAL
+DR JABANI TRUDIE Gladding
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right mastectomy and sentinel node biopsy.  Frozen section ? metastatic breast ca to axilla.  Right breast - suture at axillary tail.  Large mass 8-10 o'clock. 
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel lymph node 1, 2, 3", consists of three lymph nodes, each 20mm.  The first lymph node has a vague firm area.  Imprints made.  
+Blocks 1 & 2 - first lymph node; 3 - second lymph node; 4 & 5 - third lymph node.
+IMPRINT CYTOLOGY:
+Three negative nodes.
+Result to Dr T Lerner by Dr T Alatorre at 13:30 on 19.02.66. 
+B.  Specimen labelled "Right breast stitch at axillary tail", consists of a mastectomy, 220 x 165 x 60mm.  The overlying ellipse of skin is 200 x 100mm.  There is a suture at one tip of the skin ellipse indicating the axillary tail.  The nipple/areolar complex appears unremarkable.  The superficial margin is inked blue and the deep margin black.  At 8-10 o'clock, 10cm from the nipple is a tan tumour, 36 x 21 x 40mm.  The tumour is located below the skin ellipse, and is 5mm clear of the deep margin and 30mm clear of the closest superficial margin and 35mm from the lateral margin.  No other lesions are identified.  
+Block 1 - tumour with deep margin; 2 & 3 - cross section tumour (deep margin in block 2); 4 - tumour; 5 - closest superficial margin; 6 - lateral to tumour; 7 - upper outer quadrant; 8 - upper inner quadrant; 9 - lower inner quadrant; 10 - lower outer quadrant; 11 - nipple.  Tumour sampled freshfor tumour banking. 
+(TO:  VQ/ ec  20.2.66)
+MICROSCOPIC (Reported by Dr T Schnelzer):
+
+A & B.  SYNOPTIC REPORT FOR BREAST CARCINOMA
+Invasive carcinoma:
+Site:  Right breast, 8 to 10 o'clock.
+Type:  Invasive ductal carcinoma, NOS.
+There are prominent areas of the tumour which consist of dilated malignant glands with comedonecrosis forming a confluent mass.  CK5/6 and p63 immunostains are negative in the carcinoma, and confirm the absence of myoepithelial cells.  There is a minor area within the tumour associated with extravasated mucin.  
+Invasive tumour size:  40mm.
+Grade (Modified Bloom & Richardson):
+Tubules:  3    Nuclei:  3    Mitoses:  3    Mitotic rate:  30/10HPF.
+Lymphovascular invasion:  Foci suspicious for lymphovascular invasion are seen, however interpretation is difficult due to retraction artefact.
+
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  Small foci only.
+Nuclear grade:  High.
+Architecture:  Solid and comedonecrosis.
+Necrosis:  Present.
+Calcification:  Absent.
+Degree of DCIS in tumour:  Minimal.
+DCIS in adjacent tissue:  Present only at periphery of carcinoma.
+Excision Margins:  
+Invasive component:
+Deep margin:  2mm clear.
+All other margins are well clear.
+In-situ component:  As above.
+Receptors (Block B4): 
+ER:  Positive.
+	95% of nuclei stained
+	Predominantintensity of staining:  Strong.
+PR:  Positive.
+	30% of nuclei stained
+	Predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7):  3+ (however the tumour shows variable 1+ to 3+ staining)
+HER2 SISH:  Performed at Toys 'R' Us, MORANBAH HOSPITAL Hospital, see separate report.
+Ki-67 index:  40-50%.
+Nipple:  No significant abnormality.
+LCIS / ALH:  Not identified.
+Miscellaneous:  Patchy calcification is seen within benign breast ducts.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  Three (3).
+Number of sentinel lymph nodes involved by tumour:  One (1).
+Number of sentinel nodes with isolated tumour cells <0.2mm:  One (1) lymph node contains a single tumour cell in the subcapsular sinus.  
+	Detected by:  Cam5.2 immunohistochemistry only.
+Extranodal spread:  Absent.
+Axillary/othernodes:
+Nil
+Lymph node total:
+Total number of lymph nodes examined (including sentinel nodes):  Three (3). 
+Total number of involved lymph nodes (including sentinel nodes):  One (1) - isolated tumour cells only.
+Representative sections seen with A/Prof T Skilling.
+
+
+DIAGNOSIS: 
+A.  Sentinel lymph nodes 1, 2, 3:  One of three lymph nodes positive for isolated tumour cells only (1/3).
+B.  Right breast, mastectomy:  Grade 3 invasive ductal carcinoma, 40mm.
+

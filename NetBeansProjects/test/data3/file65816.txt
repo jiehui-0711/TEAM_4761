@@ -1,0 +1,120 @@
+SPR no: 46M1338143
+MRN no: 464133
+Site_name: MITCHELL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report46M13381 (46M1338143) COLBAUGH, Hoyt
+HISTOPATHOLOGY REPORT
+NEPEAN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Recurrent left breast ca. Left sentinel lymph node for frozen section. Recurrent L breast Ca 3 o&amp;apos;clock with inflammatory component post neoadjuvant chemotherapy, left mastectomy suture = 12 o&amp;apos;clock.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL LYMPH NODE&amp;quot;. A 45mm piece of fatty tissue. Four lymph nodes identified. All unstained. Lymph node 1, 5mm bisected and half embedded for frozen section. Lymph node 2 is 7mm across. Bisected and half embedded for frozen section. Lymph node 3 is 10mm, is serially sectioned and one transverse section for frozen section. Lymph node 4 is 13mm across, serially sectioned and one transverse section embedded for frozen section.
+
+F/S: &amp;quot;Negative (three lymph nodes seen)&amp;quot;. Results were given by phone to Dr. Augustus at 5:50pm on 11/05/2069 by Dr. L. Favuzza.
+
+The remaining lymph node tissue is embedded.
+(1  frozen section; 2  lymph node 1; 3  lymph node 2; 4  lymph node 3; 5  lymph node 4). Representative Sections (M-5).
+
+B. &amp;quot;LEFT MASTECTOMY SUTURE 12 O&amp;apos;CLOCK&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Mastectomy, orientated.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  230mm
+Superior to inferior:  170mm
+Anterior to posterior:  80mm
+WEIGHT:  1892g
+SKIN:  Yes, 230x190mm. The skin surface is unremarkable.
+NIPPLE:  Yes, 10mm across.
+MUSCLE:  No
+OTHER TISSUES / PIECES:  None present
+MARGIN INKED:  Non-Standard: Anterior Superior blue, Anterior Inferior green, Posterior black.
+DISSECTION:  Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION:  In the 3 o&amp;apos;clock position, 15mm from the nipple is a 30x20x18mm firm tumour. The tumour has a lobular appearance with some focal haemorrhagic change. The tumour is deep to skin and is 65mm from the deep margin. In the lateral deep tissue is a soft yellow lesion (?lymph node) that is 20x9x12mm. This lesion is 1mm from the deep margin.The remaining cut surface is fibrofatty in appearance.
+(1  nipple; 2  lateral tumour; 3-5  full face of tumour maximum dimension; 6  medial tumour; 7  deep margin adjacent to tumour; 8&amp;amp;9  ?lymph node in lateral breast tissue; 10  upper outer quadrant; 11  lower outer quadrant; 12  lower inner quadrant; 13  upper inner quadrant). Representative sections (M-13/AO 13/6/2069 km) (Image is available in diagram drawn).
+MICROSCOPIC: (Dr. L. Gesualdo)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: 30mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Infiltrating duct carcinoma with minor lobular and mucinous components
+&amp;#160;
+HISTOLOGIC GRADE: 3
+
+SCORES Tubules:    3, Nuclei:    3, Mitoses:    3; Total score: 9&amp;#160;&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;18&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 33mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+PERINEURAL INVASION: Not seen
+
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): 10%
+&amp;#160;
+SKIN INVOLVEMENT: Not seen
+
+DERMAL LYMPHOVASCULAR INVASION:Not seen
+&amp;#160;
+NIPPLE INVOLVEMENT: Not seen
+&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS / extent: 3mm beyond invasive tumour
+Nuclear grade: High grade
+Architecture / type: Cribriform
+Necrosis: Present
+Microcalcification of DCIS: Not seen
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not seen
+
+EXCISION MARGINS
+INVASIVE TUMOUR AND DCIS MARGINS:
+Invasive tumour and DCIS well clear (&amp;gt;10mm) of all surgical margins
+&amp;#160;
+&amp;#160;ANCILLARY TESTS:
+IMMUNOSTAINS, block B4
+
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+OESTROGEN RECEPTOR:         negative
+PROGESTERONE RECEPTOR: negative
+
+HER-2 IMMUNOPEROXIDASE
+NEGATIVE (score 0)
+
+Ki-67 proliferative index:&amp;#160;50%
+
+SEPARATE FINDINGS:
+A ruptured cyst is seen lateral to the tumour
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved (including negative staining with Cam5.2)
+
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 4
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN0
+
+DIAGNOSIS:
+LEFT SENTINEL LYMPH NODE : NO TUMOUR SEEN IN 4 LYMPH NODES.
+LEFT BREAST : INFILTRATING DUCT CARCINOMA.
+15/5/2069 ank

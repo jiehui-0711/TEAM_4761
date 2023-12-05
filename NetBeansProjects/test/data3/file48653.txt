@@ -1,0 +1,23 @@
+SPR no: 19R370251Z
+MRN no: 1963702
+Site_name: KYABRAM & DISTRICT HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left testicular cord sarcoma.  Neoadjuvant radiotherapy.  Left radical orchidectomy.  IHD. Anaemia.  T2DM.  Suture on proximal spermatic cord.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Suture and proximal spermatic cord&amp;quot;, consists of a mass with testis and spermatic cord attached. The mass measures 100 x 65 x 55mm and is lateral to the spermatic cord and superior to the testis. The testis measures 30 x 20 x 20mm. The length of the spermatic cord measures 140mm with attached proximal fat measuring 25 x 40 x 15mm and weighs 214g in total.  Sample taken fresh for biobank.  Mass received with fascia intact and retracted on opening. The serosa appears intact. There is a hydrocoele surrounding the testis. The entire specimen is inked blue. The testis is bisected. The epididymis is 30 x 5mm. The tumour has a uniform whorled appearance with irregular outlines.
+Block 1- proximal spermatic cord margin; 2 &amp;amp; 3 - 2RS of superior margin of mass; 4 &amp;amp; 5 - 2RS of inferior margin of mass (4 - RS of tumour with vessels and margin); 6 &amp;amp; 7 - RS of medial margin of mass (7 - with spermatic cord); 8 &amp;amp; 9 - RS of lateral margin of mass; 10 &amp;amp; 11- RS of anterior margin of mass ; 12 &amp;amp; 13 - RS of posterior margin of mass; 14 - TS of spermatic cord; 15-17 - one full face of testis (17 - epididymis); 18 to 20 - one full face of testis; 21 to 24 - RS of tumour; 25 - RS of epididymis.  (TO:FY/ec 1/11/66)
+
+
+MICROSCOPIC (Reported by Dr D Siebeneck and registrar Dr D Mcnutty):
+Sections show a 100mm well circumscribed high grade spindle cell tumour situated within the spermatic cord.  The tumour consists of intersecting fascicles of spindle cells with ovoid nuclei.  The nuclei show varying pleomorphism with focally bizarre nuclear atypia.  Mitosis up to 20 per 50 high power fields are identified however, no definite necrosis is seen.  Focal areas of oedema are present.  The tumour cells show strong positive diffuse staining with SMA and Desmin.  The PanCK, S100, SOX-10 and c-kit stains are negative.  The Ki-67 index is approximately 20%.  The tumour is covered in a thin layer of fibroadipose connective tissue and appears completely excised.  There is no extension into the testis and the spermatic cord margin is negative.  There is focal mild atypia within the surround adipose tissue with occasional spindle cells seen however, no lipoblasts or hyperchromatic stromal cells are identified.  The testis otherwise shows absent spermatogenesis with a sertoli cell only appearance and focal leydig cell hyperplasia.  Inspissated sperm is seen within the epididymis.
+
+COMMENT:
+The tumour is a malignant spindle cell tumour with smooth muscle differentiation.  The differential diagnosis includes leiomyomasarcoma or de-differentiated liposarcoma with extensive smooth muscle differentiation.  FISH studies for MDM2 will be performed to establish the diagnosis.
+
+
+DIAGNOSIS:
+Left testicle and spermatic cord:
+- High grade spindle cell tumour with prominent smooth muscle differentiation (see comment).
+- Excision appears complete.

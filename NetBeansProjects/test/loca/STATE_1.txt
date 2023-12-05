@@ -1,0 +1,875 @@
+10 8行 TAS-> RENMARK  TAS  5084
+102 8行 Victoria-> KURRAJONG HEIGHTS  Victoria  0886
+103 8行 QLD-> BALLARAT  QLD  2165
+104 7行 WA-> MOURA  WA  2671
+105 8行 Western Australia-> KATOOMBA  Western Australia2827
+106 8行 Western Australia-> WORRAGEE  Western Australia  6711
+107 7行 NT-> LONGFORD  NT  3127
+108 8行 Tasmania-> RASMUSSEN  Tasmania  5118
+109 7行 South Australia-> CULBURRA  South Australia  6284
+11 8行 Queensland-> COOLGARDIE  Queensland  5417
+110 7行 NT-> WARWICK  NT  2891
+113 8行 QLD-> GLENELLA  QLD  6405
+114 8行 Tasmania-> CABOOLTURE  Tasmania  3995
+117 8行 NT-> GLADSTONE  NT  2252
+118 7行 Tasmania-> KIAMA DOWNS  Tasmania  2852
+121 7行 Western Australia-> ROXBY DOWNS  Western Australia  1119
+122 7行 WA-> PAKENHAM  WA  7176
+124 8行 SA-> MURRAY BRIDGE  SA  6479
+125 8行 Northern Territory-> COFFS HARBOUR  Northern Territory  3223
+126 8行 NT-> HERVEY BAY  NT  2530
+127 8行 Tasmania-> RUTHERFORD  Tasmania  2100
+128 8行 VIC-> TERRANORA  VIC  3249
+13 7行 Tasmania-> BROADFORD  Tasmania  5277
+133 8行 WA-> LAKES ENTRANCE  WA  6514
+134 8行 ACT-> COORANBONG  ACT  5166
+136 8行 Victoria-> KORUMBURRA  Victoria  2581
+137 8行 TAS-> POINT VERNON  TAS  2873
+138 8行 South Australia-> CULBURRASouth Australia  6847
+139 7行 South Australia-> THE ENTRANCE  South Australia  7018
+14 8行 WA-> MOUNT ISA  WA  3712
+141 7行 Victoria-> WAUCHOPE  Victoria  2805
+145 8行 Northern Territory-> SHEPPARTON  Northern Territory  1125
+146 8行 WA-> RASMUSSEN  WA  3061
+148 8行 South Australia-> BEACONSFIELD UPPER  South Australia3793
+149 8行 Tasmania-> BUCASIA  Tasmania  6434
+151 8行 ACT-> LAUNCHING PLACE  ACT  3237
+153 8行 Tasmania-> SHOALHAVEN HEADS  Tasmania  5280
+154 8行 TAS-> MOOROOPNA  TAS  5277
+157 8行 Queensland-> DERBY  Queensland  6395
+158 8行 South Australia-> KAPUNDA  South Australia  2333
+16 8行 Northern Territory-> ALDGATE  Northern Territory  2263
+161 7行 VIC-> ECHUCA  VIC  3926
+163 7行 QLD-> ALBURY  QLD  3570
+165 7行 VIC-> BLAYNEY  VIC  3808
+166 8行 WA-> CANOWINDRA  WA  2500
+167 8行 Western Australia-> WYONG  Western Australia  6330
+169 8行 Australian Capital Territory-> GREENWELL POINT  Australian Capital Territory  4133
+17 7行 NT-> WESTBURY  NT  4169
+170 8行 TAS-> GRETA  TAS  4107
+171 8行 Australian Capital Territory-> GUNNEDAH  Australian Capital Territory  3315
+172 8行 Tasmania-> STAWELL  Tasmania  3967
+173 7行 South Australia-> WATERFORD  South Australia  5412
+174 8行 TAS-> HORSHAM  TAS  7304
+175 7行 Western Australia-> SOUTHPORT  Western Australia  4314
+177 8行 TAS-> BALLARAT  TAS  3691
+178 8行 Queensland-> ULVERSTONE  Queensland  4519
+18 8行 Northern Territory-> MOLLYMOOK  Northern Territory  2516
+181 8行 Queensland-> ANNA BAY  Queensland  5650
+183 8行 Victoria-> BUNBURY  Victoria  6728
+184 8行 ACT-> CESSNOCK  ACT  2316
+189 8行 NT-> BAIRNSDALE  NT1151
+19 7行 Australian Capital Territory-> CAMPBELLTOWN  Australian Capital Territory  5491
+190 8行 New South Wales-> MULWALA  New South Wales  3695
+191 8行 Tasmania-> WHITTLESEA  Tasmania  3022
+192 8行 ACT-> BENALLA  ACT  5652
+194 8行 Queensland-> WOORI YALLOCK  Queensland  2760
+195 8行 New South Wales-> MOAMA  New South Wales  2070
+196 7行 New South Wales-> QUEENSTOWN  New South Wales  3392
+197 8行 Queensland-> CAMDEN HAVEN  Queensland  6050
+200 8行 New South Wales-> OODNADATTA  New South Wales  1031
+201 8行 South Australia-> PEREGIAN BEACH  South Australia  4567
+203 8行 Victoria-> COBDEN  Victoria  3045
+204 8行 TAS-> MURWILLUMBAH  TAS  2619
+207 8行 ACT-> QUAKERS HILL  ACT  3004
+209 8行 VIC-> LAKES ENTRANCE  VIC  6725
+211 8行 Northern Territory-> BUCASIA  Northern Territory  9726
+212 8行 VIC-> BOULDER  VIC  2082
+213 8行 New South Wales-> WILTON  New South Wales  1476
+215 7行 WA-> EMU PLAINS  WA  4108
+216 8行 Tasmania-> BERRI  Tasmania  4560
+217 8行 NSW-> MEEKATHARRA  NSW  4474
+218 7行 Northern Territory-> GUNNEDAH  Northern Territory  5214
+219 8行 Australian Capital Territory-> ROXBY DOWNS  Australian Capital Territory  5502
+220 8行 TAS-> WAHGUNYAH  TAS  3222
+221 7行 SA-> WALLAN  SA  6966
+223 8行 QLD-> DAYLESFORD  QLD  5234
+226 7行 SA-> WILTON  SA  3273
+227 8行 Tasmania-> DENILIQUIN  Tasmania  3565
+230 8行 VIC-> HAY  VIC  4425
+231 8行 Victoria-> NAIRNE  Victoria  3304
+231 13行 WA-> Location:  ACUTECARE WARD-WA
+233 8行 SA-> MILDURA  SA  2773
+234 7行 South Australia-> BATEHAVEN  South Australia  2615
+237 8行 Victoria-> YASS  Victoria  3960
+239 8行 QLD-> BRUNSWICK HEADS  QLD  2250
+240 8行 Australian Capital Territory-> SEVEN MILE BEACH  Australian Capital Territory  5303
+243 8行 TAS-> BAY VIEW  TAS  2143
+245 8行 South Australia-> CESSNOCK  South Australia  7302
+246 7行 SA-> ROSEBERY  SA  3502
+247 8行 QLD-> YARRA GLEN  QLD  6165
+249 8行 Tasmania-> GERRINGONG  Tasmania  2129
+251 7行 SA-> KAMBALDA  SA  6712
+253 7行 TAS-> PARRAMATTA  TAS  3391
+258 8行 Tasmania-> CENTRAL COAST  Tasmania  6517
+259 7行 SA-> ABERDARESA  1213
+260 8行 Victoria-> SOMERSET  Victoria  2840
+262 7行 New South Wales-> ROMA  New South Wales  4072
+264 8行 NT-> COONABARABRAN  NT  4342
+265 7行 NT-> ROBINVALE  NT  3561
+267 8行 South Australia-> ANDERGROVE  South Australia  0862
+268 7行 Western Australia-> SANDY BEACH  Western Australia  6467
+269 8行 SA-> CANNONVALE  SA  2168
+270 8行 Western Australia-> CESSNOCK  Western Australia  2471
+273 8行 South Australia-> GUNDAGAI  South Australia  1475
+275 8行 TAS-> RAYMOND TERRACE  TAS  3860
+276 8行 VIC-> KORUMBURRA  VIC  3530
+278 8行 TAS-> MADDINGLEY  TAS  6057
+279 8行 Western Australia-> GAWLER  Western Australia  2729
+28 7行 QLD-> ARMIDALE  QLD  3373
+281 8行 SA-> HOWLONG  SA  6714
+282 7行 Australian Capital Territory-> STAWELL  Australian Capital Territory  4345
+284 8行 ACT-> CANBERRA  ACT  3033
+285 7行 TAS-> DECEPTION BAY  TAS  6906
+286 8行 New South Wales-> NAMBOUR  New South Wales  3156
+287 8行 New South Wales-> YALLOURN NORTH  New South Wales  6031
+288 7行 Western Australia-> WELLINGTON  Western Australia  7021
+289 8行 WA-> KINGSCLIFF  WA  4701
+29 8行 WA-> MURRAY BRIDGE  WA  3494
+290 7行 Victoria-> SANCTUARY POINT  Victoria6605
+291 8行 Queensland-> MILLICENT  Queensland  3150
+292 8行 VIC-> MORWELL  VIC  5162
+295 8行 SA-> STAWELL  SA  3214
+296 7行 ACT-> LITHGOW  ACT  1223
+299 7行 TAS-> WAUCHOPE  TAS  5608
+30 8行 WA-> WILLIAMSTOWN  WA  3555
+300 8行 QLD-> BACCHUS MARSH  QLD  3927
+302 8行 VIC-> SILVERDALE  VIC  2487
+304 7行 New South Wales-> LAKES ENTRANCE  New South Wales  3431
+305 8行 WA-> SPRINGWOOD  WA  3579
+306 8行 TAS-> PARKES  TAS  6505
+308 8行 Northern Territory-> TOWNSVILLE  Northern Territory  1199
+31 7行 New South Wales-> IRON KNOB  New South Wales  6980
+310 8行 Australian Capital Territory-> COOKTOWN  Australian Capital Territory  2706
+311 8行 SA-> DAMPIER  SA  3463
+312 7行 Northern Territory-> PORT FAIRY  Northern Territory  2528
+313 8行 New South Wales-> STAWELL  New South Wales  6164
+314 8行 Australian Capital Territory-> GLENELLA  Australian Capital Territory  6941
+316 8行 ACT-> MEEKATHARRA  ACT  3923
+317 8行 Western Australia-> MOUNT EVELYN  Western Australia  3025
+32 8行 Western Australia-> PENRITH  Western Australia  3920
+321 8行 NSW-> CENTRAL COAST  NSW  2114
+326 7行 Victoria-> MOUNT GAMBIERVictoria  4580
+328 7行 New South Wales-> KURRI KURRI  New South Wales  4422
+329 7行 SA-> BAIRNSDALE  SA  6488
+331 7行 QLD-> WERRIBEE  QLD  6954
+333 7行 Western Australia-> LOBETHAL  Western Australia  6383
+334 7行 Queensland-> KYABRAM  Queensland  3361
+335 8行 QLD-> LEIGH CREEK  QLD  9002
+336 7行 NT-> DERBY  NT  2537
+337 7行 Australian Capital Territory-> BUSSELTON  Australian Capital Territory  3927
+339 8行 ACT-> WATTLEGLEN  ACT  3187
+34 8行 Western Australia-> WHYALLA  Western Australia  2606
+341 8行 Tasmania-> FORBES  Tasmania  3000
+342 7行 QLD-> TOM PRICE  QLD  4565
+344 8行 SA-> LEIGH CREEK  SA  2725
+345 7行 NT-> HURSTBRIDGE  NT  4385
+346 7行 Queensland-> LOXTON  Queensland  5014
+348 7行 VIC-> WARRNAMBOOL  VIC  8009
+349 7行 VIC-> MOUNT BARKER  VIC2441
+35 8行 VIC-> SURFSIDE  VIC  4601
+350 7行 WA-> CAMPERDOWN  WA2570
+351 7行 Western Australia-> COBAR  Western Australia  7215
+352 8行 WA-> ROMA  WA  3632
+354 7行 Queensland-> BUCASIA  Queensland  6341
+355 8行 Queensland-> SOUTHPORT  Queensland  6398
+359 7行 SA-> URUNGA  SA  2550
+361 7行 New South Wales-> WOORI YALLOCK  New South Wales2587
+362 7行 ACT-> BROKEN HILL  ACT  3444
+363 8行 Northern Territory-> MERIMBULA  Northern Territory  6907
+364 7行 South Australia-> WAIKERIE  South Australia  4829
+365 7行 Queensland-> BURNIE  Queensland  3289
+366 8行 Australian Capital Territory-> PERTH  Australian Capital Territory 6015  5582
+367 7行 NT-> IPSWICH  NT  6171
+370 7行 TAS-> LEIGH CREEK  TAS  2360
+373 7行 Tasmania-> BOWRAL  Tasmania  4726
+374 8行 Queensland-> WATTLEGLEN  Queensland  1030
+375 7行 ACT-> BALRANALD  ACT  2308
+377 8行 NT-> WILLIAMSTOWN  NT  5350
+378 7行 Tasmania-> SCARNESS  Tasmania  2195
+379 7行 South Australia-> DRUMMOND COVE  South Australia  1122
+38 8行 SA-> AYR  SA  6465
+380 7行 ACT-> TAMWORTH  ACT  3164
+381 7行 New South Wales-> MOONIE  New South Wales  3235
+382 8行 VIC-> LAWSON  VIC  6429
+383 7行 New South Wales-> LAKES ENTRANCE  New South Wales  3675
+384 7行 NT-> ALBURY-WODONGA  NT  6182
+385 8行 NT-> WERRIBEE  NT  4655
+386 7行 Victoria-> WALGETT  Victoria  3048
+387 7行 NT-> BERRI  NT  3142
+388 8行 Australian Capital Territory-> YAROOMBA  Australian Capital Territory  3618
+389 7行 Australian Capital Territory-> PARKES  Australian Capital Territory  2817
+39 7行 South Australia-> GAWLER  South Australia  3066
+390 8行 SA-> ECHUCA  SA  2325
+391 7行 Tasmania-> GLENELLA  Tasmania  2448
+392 7行 ACT-> LEIGH CREEK  ACT  3163
+393 8行 Australian Capital Territory-> MADDINGLEY  Australian Capital Territory  2730
+394 7行 QLD-> GOONELLABAH  QLD  4213
+40 8行 Victoria-> MELBOURNE  Victoria  3067
+400 7行 Western Australia-> NORTH WONTHAGGI  Western Australia  4627
+405 7行 Australian Capital Territory-> TAHMOOR  Australian Capital Territory  5452
+406 7行 NT-> GRETA  NT  4709
+407 8行 South Australia-> WELLINGTON  South Australia  3956
+410 7行 South Australia-> CAMDEN HAVEN  South Australia  4574
+411 7行 SA-> ANTHONY LAGOON  SA  2106
+416 7行 Australian Capital Territory-> LAUNCHING PLACE  Australian Capital Territory  3618
+417 7行 TAS-> ABERDARE  TAS  5413
+422 7行 Queensland-> MARYBOROUGH  Queensland  0836
+423 8行 TAS-> CAIRNS  TAS5333
+424 7行 ACT-> OAKDALE  ACT  3707
+425 7行 TAS-> BACCHUS MARSH  TAS  1811
+426 8行 Queensland-> LEETON  Queensland  1237
+428 7行 TAS-> OAKDALE  TAS  2571
+429 8行 QLD-> PEREGIAN BEACH  QLD  1195
+43 8行 ACT-> KURRI KURRI  ACT  9010
+431 8行 Tasmania-> DODGES FERRY  Tasmania  6985
+434 8行 Australian Capital Territory-> NARRABRI  Australian Capital Territory  5522
+435 7行 Tasmania-> CENTRAL COAST  Tasmania  2842
+437 8行 Western Australia-> BATHURST  Western Australia  4370
+438 7行 NT-> CANBERRA  NT6050
+44 8行 NSW-> BRUNSWICK HEADS  NSW  2342
+440 7行 Queensland-> JINDABYNE  Queensland  6917
+442 8行 Western Australia-> KINGSCLIFF  Western Australia  2011
+443 7行 Australian Capital Territory-> CHURCHILL  Australian Capital Territory  5164
+444 7行 NT-> CHARTERS TOWERS  NT  4109
+445 8行 NT-> CHARTERS TOWERS  NT  6725
+446 7行 Victoria-> GUNNEDAH  Victoria  5211
+447 7行 New South Wales-> BURPENGARY  New South Wales  3856
+448 8行 Tasmania-> NAMBUCCA HEADS  Tasmania  6281
+449 7行 New South Wales-> BLI BLI  New South Wales  6375
+45 7行 Victoria-> WAIKERIE  Victoria  6312
+450 8行 QLD-> RUTHERFORD  QLD  2447
+452 7行 Queensland-> COOBER PEDY  Queensland  3852
+454 7行 South Australia-> COLAC  South Australia  3364
+455 7行 Australian Capital Territory-> MACKAY  Australian Capital Territory  3735
+458 7行 SA-> BEGA  SA  2089
+459 8行 Australian Capital Territory-> GRETA  Australian Capital Territory  3698
+460 7行 ACT-> MOUNT BARKER  ACT  3450
+461 8行 SA-> WHITTLESEA  SA  3049
+462 7行 NT-> TWEED HEADS  NT  2827
+463 7行 VIC-> CENTRAL COAST  VIC  4803
+465 7行 ACT-> BAY VIEW  ACT  3822
+466 7行 WA-> ARARAT  WA  6228
+467 8行 ACT-> DRYSDALE  ACT  4412
+468 7行 NT-> WYNYARD  NT  4107
+474 7行 ACT-> RUTHERGLEN  ACT  6616
+477 7行 Western Australia-> KALGOORLIE  Western Australia  2448
+478 8行 Western Australia-> SAWTELL  Western Australia  3540
+480 8行 South Australia-> GRIFFITH  South Australia  3865
+489 8行 QLD-> LAUNCHING PLACE  QLD  1871
+491 8行 New South Wales-> WAGGA WAGGA  New South Wales  5719
+492 7行 Australian Capital Territory-> WOORI YALLOCK  Australian Capital Territory  6505
+495 7行 Queensland-> SHOALHAVEN HEADS  Queensland  1141
+496 7行 Queensland-> NOWRA-BOMADERRY  Queensland  5373
+498 7行 Queensland-> FRESHWATER  Queensland  4354
+499 7行 VIC-> BERRI  VIC  2212
+500 7行 VIC-> BATEMANS BAY  VIC  1122
+501 7行 Tasmania-> QUEENSTOWN  Tasmania  4343
+502 8行 Tasmania-> GOONELLABAH  Tasmania  2210
+504 7行 WA-> IRON KNOB  WA  6170
+505 8行 Western Australia-> TRARALGON  Western Australia  3732
+506 8行 South Australia-> SANCTUARY POINT  South Australia  4011
+507 7行 Queensland-> COBAR  Queensland  6157
+509 7行 Queensland-> LARA  Queensland  7177
+51 7行 ACT-> BARWON HEADS  ACT  2260
+514 8行 Australian Capital Territory-> BONGAREE  Australian Capital Territory  3594
+516 8行 Victoria-> CAMDEN HAVEN  Victoria  5114
+517 7行 New South Wales-> WALGETT  New South Wales  6160
+518 7行 Australian Capital Territory-> MORWELL  Australian Capital Territory  2706
+519 8行 WA-> FREELING  WA  6317
+521 8行 Western Australia-> BENDIGO  Western Australia  2127
+523 8行 New South Wales-> AUSTRALIND  New South Wales  5418
+525 7行 WA-> SMITHTON  WA  3392
+526 7行 NT-> MAREEBA  NT3920
+529 7行 Northern Territory-> ABERDARE  Northern Territory  4103
+53 8行 NT-> TUNCURRY  NT  2326
+530 7行 Tasmania-> SALE  Tasmania  1465
+534 7行 NT-> CASINO  NT  3750
+537 7行 Victoria-> FORBES  Victoria  6260
+538 8行 NT-> SURFSIDE  NT  6084
+54 8行 ACT-> ROBINVALE  ACT  3435
+541 8行 South Australia-> POINT VERNON  South Australia  5240
+544 8行 SA-> RASMUSSEN  SA  6059
+546 7行 ACT-> NEW NORFOLK  ACT  1335
+549 7行 TAS-> SAWTELL  TAS5083
+55 8行 Northern Territory-> BAIRNSDALE  Northern Territory  6035
+550 7行 Northern Territory-> BUNBURY  Northern Territory  2199
+551 7行 South Australia-> ALICE SPRINGS  South Australia  3004
+553 7行 New South Wales-> TEMORA  New South Wales  2526
+559 7行 New South Wales-> WHYALLA  New South Wales  4161
+56 7行 New South Wales-> WYNDHAM  New South Wales  3662
+560 8行 ACT-> MORWELL  ACT  3712
+564 7行 SA-> PERTH  SA  6436
+566 8行 Queensland-> CABOOLTURE  Queensland  6004
+569 7行 QLD-> HAHNDORF  QLD  0810
+570 7行 Tasmania-> IRON KNOB  Tasmania  6028
+571 7行 Western Australia-> JUNEE  Western Australia  3148
+574 7行 ACT-> ARARAT  ACT  3630
+575 8行 Victoria-> WARRAGUL  Victoria  0909
+576 7行 Australian Capital Territory-> DAYLESFORD  Australian Capital Territory  4482
+577 7行 VIC-> COWRA  VIC  1860
+581 7行 Tasmania-> MURWILLUMBAH  Tasmania  3718
+582 7行 Australian Capital Territory-> SAN REMO  Australian Capital Territory  7268
+590 7行 VIC-> DRYSDALE  VIC  6945
+592 7行 TAS-> COBDEN  TAS  3698
+594 8行 Queensland-> NEW NORFOLK  Queensland  3095
+595 7行 ACT-> GAWLER  ACT  2462
+60 8行 ACT-> CORINDA  ACT  4854
+600 7行 Western Australia-> ABERDARE  Western Australia  3140
+602 8行 VIC-> NARRANDERA  VIC  2716
+602 15行 NT-> Distribution:   FILE-COPY,   NT-CANCER-REGISTRY
+603 7行 New South Wales-> RIVERVIEW  New South Wales  0836
+604 7行 QLD-> CESSNOCK  QLD  3283
+605 8行 Victoria-> MOONIE  Victoria  4113
+607 7行 Australian Capital Territory-> HEDDON GRETA  Australian Capital Territory  2900
+608 8行 Tasmania-> MARGATE  Tasmania  5098
+609 7行 Tasmania-> QUEANBEYAN  Tasmania  3462
+611 8行 Australian Capital Territory-> MURRAY BRIDGE  Australian Capital Territory  3353
+613 7行 New South Wales-> PENGUIN New South Wales  ACT  4002
+613 7行 ACT-> PENGUIN New South Wales  ACT  4002
+615 7行 New South Wales-> REDCLIFFE  New South Wales  6537
+616 7行 Victoria-> TANUNDA  Victoria  7025
+619 7行 South Australia-> RUTHERFORD  South Australia  2204
+62 8行 Queensland-> SEA LAKE  Queensland  1235
+622 8行 TAS-> BEACONSFIELD  TAS  6513
+623 7行 Queensland-> WOOLGOOLGA  Queensland  3902
+628 8行 Queensland-> CHURCHILL  Queensland  4551
+629 7行 QLD-> GAWLER  QLD  3427
+63 7行 Tasmania-> CLARE  Tasmania  6983
+630 8行 Australian Capital Territory-> GOULBURN  Australian Capital Territory  6446
+631 7行 South Australia-> GOULBURN  South Australia  5116
+633 7行 QLD-> SINGLETON  QLD  2103
+64 8行 VIC-> BONNY HILLS  VIC  1037
+67 7行 TAS-> PEARCEDALE  TAS  6963
+70 8行 Victoria-> BONGAREE  Victoria  6244
+700 7行 Western Australia-> HORSHAM  Western Australia  6992
+701 7行 South Australia-> MARGATE  South Australia  3227
+702 8行 Tasmania-> SAWTELL  Tasmania  4030
+75 8行 NT-> PENRITH  NT  4030
+76 8行 South Australia-> ANTHONY LAGOON  South Australia  5540
+77 8行 Australian Capital Territory-> WARRNAMBOOL  Australian Capital Territory  2701
+79 8行 TAS-> COONAMBLE  TAS  7054
+81 7行 Australian Capital Territory-> WHITTLESEA  Australian Capital Territory  5163
+82 8行 Western Australia-> OAKDALE  Western Australia  4816
+84 7行 Australian Capital Territory-> EUROA  Australian Capital Territory  2660
+85 8行 NT-> COOLGARDIE  NT  6415
+86 8行 New South Wales-> MAFFRA  New South Wales  4870
+87 7行 VIC-> SAWTELL  VIC  1008
+88 8行 QLD-> SEA LAKE  QLD  4695
+89 8行 WA-> BAY VIEW  WA  7215
+90 8行 QLD-> YARRAGON  QLD  3522
+91 7行 Australian Capital Territory-> DODGES FERRY  Australian Capital Territory  2470
+92 8行 ACT-> CAMDEN  ACT  5341
+93 8行 Victoria-> COOKTOWN  Victoria  3762
+94 8行 Western Australia-> BOGANGAR  Western Australia  6312
+95 7行 SA-> MITTAGONG  SA  4674
+96 8行 ACT-> HEDDON GRETA  ACT  3629
+97 7行 Western Australia-> MUSWELLBROOK  Western Australia  2232
+98 8行 WA-> MURWILLUMBAH  WA  3463
+file100 12行 ACT-> NORTH MACKAY  ACT  3618
+file1010 12行 WA-> BURNIE  WA  3384
+file10161 12行 WA-> BUDERIM  WA  2081
+file10280 13行 SA-> SYDNEY  SA  srsid14378016 5485
+file10484 12行 Queensland-> MACKAY  Queensland  6954
+file10528 12行 ACT-> YARRA GLEN  ACT  2866
+file1055 13行 TAS-> GOULBURN  TAS  6967
+file10579 12行 South Australia-> LATROBE  South Australia  6463
+file10646 12行 WA-> COROWA  WA  3618
+file10725 13行 TAS-> EUROA  TAS  4558
+file10763 12行 QLD-> BANORA POINT  QLD  1218
+file10806 12行 SA-> SWAN HILL  SA  3066
+file10861 12行 Northern Territory-> SEYMOUR  Northern Territory  0872
+file10928 12行 ACT-> ADELAIDE  ACT  6705
+file11055 12行 Tasmania-> FORSTER  Tasmania  6037
+file11140 12行 New South Wales-> KINGSCLIFF  New South Wales  3001
+file11203 12行 VIC-> BLAYNEY  VIC  3133
+file1163 13行 WA-> SMITHTON  WAs0   3000
+file1208 14行 TAS-> WONTHAGGI  TAS  3063
+file1264 12行 VIC-> HURSTBRIDGE  VIC  3161
+file1310 14行 ACT-> DALBY  ACT  6368
+file1417 12行 ACT-> BUSSELTON  ACT  5141
+file1535 12行 QLD-> BROADFORD  QLD  1113
+file1576 12行 Tasmania-> WYNDHAM  Tasmania  2146
+file161 12行 NT-> JUNEE  NT  1002
+file1671 12行 Queensland-> MOONIE  Queensland  4406
+file1709 12行 SA-> NURIOOTPA  SA  3107
+file174 12行 Victoria-> MORUYA  Victoria  1144
+file1809 12行 SA-> MOREE  SA  7469
+file1861 12行 SA-> HEDDON GRETA  SA  2357
+file1950 12行 TAS-> INGHAM  TAS  2776
+file2085 12行 New South Wales-> DANDENONG  New South Wales  5052
+file2204 12行 QLD-> RENMARK  QLD  7024
+file2344 12行 ACT-> DANDENONG  ACT  4160
+file2403 12行 New South Wales-> FRESHWATER  New South Wales  4895
+file2465 13行 TAS-> BAIRNSDALE  3328 TAS  6170
+file262 12行 Western Australia-> NAMBOUR  Western Australia  0814
+file2636 12行 QLD-> CASTLEMAINE  QLD  1476
+file275 12行 WA-> MEEKATHARRA  WA  5415
+file288 13行 New South Wales-> WOLLONGONG  New South Wales  1765
+file2918 12行 NT-> WATTLEGLEN  NT  6440
+file3014 12行 Tasmania-> NORTH MACKAY  Tasmania  3354
+file31 12行 NT-> YOUNG  NT  2008
+file3130 12行 TAS-> NARACOORTE  TAS  6955
+file3186 12行 TAS-> DRUMMOND COVE  TAS  3200
+file3238 12行 WA-> WYNDHAM  WA  2474
+file3312 12行 Australian Capital Territory-> BAY VIEW  Australian Capital Territory  3300
+file3382 12行 ACT-> BANORA POINT  ACT  2795
+file3458 12行 WA-> KYNETON  WA  4011
+file347 12行 NT-> KURRI KURRI  NT  4170
+file3516 13行 SA-> EPPING  ltrchSA  3765
+file3570 13行 QLD-> INGHAMIinsrsid7740448   QLD   4823
+file3941 12行 Tasmania-> MILDURA  Tasmania  4804
+file513 12行 Queensland-> AUBURN  Queensland  1230
+file550 12行 South Australia-> BUSSELTON  South Australia  6065
+file599 12行 WA-> PORT AUGUSTA  WA  6982
+file694 12行 Victoria-> WOLLONGONG  Victoria  3885
+file761 12行 Queensland-> BATHURST  Queensland  4468
+file830 13行 New South Wales-> BUNDABERG  New South Wales   1225
+file913 12行 Queensland-> KIAMA  Queensland  6401
+1093 8行 Tasmania-> NORTHAM  Tasmania  2207
+1094 7行 ACT-> BONNY HILLS  ACT  1169
+1095 7行 Western Australia-> BARWON HEADS  Western Australia  6906
+1096 8行 SA-> CAMDEN HAVEN  SA  4492
+1098 7行 VIC-> BACCHUS MARSH  VIC  2258
+1099 8行 Australian Capital Territory-> TAREE  Australian Capital Territory  3792
+1100 8行 Australian Capital Territory-> TEA GARDENS  Australian Capital Territory  6957
+1101 7行 New South Wales-> SANCTUARY POINT  New South Wales  3387
+1102 7行 South Australia-> KIAMA  South Australia  5134
+1103 8行 WA-> GOLD COAST  WA  2842
+1108 7行 VIC-> ORBOST  VIC  2388
+1117 8行 TAS-> WAUCHOPE  TAS  3179
+1121 8行 NT-> TERRANORA  NT  2660
+1122 7行 SA-> SMITHTON  SA  7307
+1124 7行 NT-> CAMDEN HAVEN  NT  5067
+1126 8行 TAS-> ORBOST  TAS  6221
+1128 7行 Victoria-> KURRI KURRI  Victoria  3166
+1129 8行 New South Wales-> LARA  New South Wales  6564
+1131 8行 QLD-> LAUNCESTON  QLD  1314
+1132 7行 TAS-> THIRLMERE  TAS  5273
+1133 7行 WA-> KYABRAM  WA  6970
+1134 8行 Victoria-> DEVONPORT  Victoria  8003
+1136 7行 WA-> SAN REMO  WA  2069
+1137 8行 VIC-> BEGA  VIC  
+1138 7行 Australian Capital Territory-> RICHMOND  Australian Capital Territory  6609
+1139 7行 NT-> WILLIAMSTOWN  NT  1234
+1140 7行 Australian Capital Territory-> ENCOUNTER BAY  Australian Capital Territory  3783
+1141 7行 WA-> CURLEWIS  WA  7321
+1142 8行 WA-> GOOLWA  WA  1138
+1143 7行 New South Wales-> URRAWEEN  New South Wales  2559
+1144 7行 Western Australia-> BOWEN  Western Australia  7022
+1145 8行 TAS-> ALDGATE  TAS  3576
+1146 7行 Queensland-> MILDURA  Queensland  6038
+1147 7行 VIC-> SILVERDALE  VIC  7248
+1148 8行 SA-> TENTERFIELD  SA  4493
+1149 7行 Northern Territory-> BEGA  Northern Territory  2559
+1150 8行 WA-> NEWCASTLE  WA  2316
+1151 7行 Australian Capital Territory-> WATERFORD  Australian Capital Territory  3758
+1158 7行 South Australia-> BANORA POINT  South Australia  6220
+1159 8行 NT-> BUNINYONG  NT  4034
+1160 7行 Victoria-> ARMIDALE  Victoria  3797
+1161 8行 Western Australia-> HOWLONG  Western Australia  5724
+1162 7行 Western Australia-> MORANBAH  Western Australia  6181
+1164 8行 Tasmania-> WAUCHOPE  Tasmania  7305
+1165 7行 Victoria-> HOWLONG  Victoria  4012
+1166 7行 QLD-> MOAMA  QLD  1156
+1167 8行 Northern Territory-> NEWCASTLE  Northern Territory  4372
+1168 7行 South Australia-> COBAR  South Australia  2070
+1170 7行 Queensland-> WINDSOR  Queensland  5014
+1171 7行 QLD-> BLAYNEY  QLD  2126
+1173 7行 Australian Capital Territory-> MOURA  Australian Capital Territory  6910
+1174 7行 Tasmania-> DENMAN  Tasmania  4383
+1175 8行 Northern Territory-> COONABARABRAN  Northern Territory  4505
+1176 7行 Western Australia-> GOONDIWINDI  Western Australia  6997
+1178 8行 Northern Territory-> DEVONPORT  Northern Territory  2879
+1180 8行 South Australia-> IPSWICH  South Australia  3111
+1181 7行 South Australia-> GOSFORD  South Australia  2828
+1184 7行 South Australia-> MOUNT ELIZA  South Australia  4213
+1185 7行 New South Wales-> LISMORE  New South Wales  2559
+1186 8行 Western Australia-> BACCHUS MARSH  Western Australia  5661
+1186 72行 Northern Territory-> Report from CHERBOURG HOSPITAL Cancer Centre, Northern Territory:  Reported by:  WADJARRI STJAMES.
+1186 96行 QLD-> Sections were sent to Lowy Pathology,QLD for BRAF Mutation Analysis, the results of which are as follows:
+1187 7行 TAS-> PORT ADELAIDE ENFIELD  TAS  4486
+1188 7行 ACT-> LEONGATHA  ACT  5607
+1190 7行 Victoria-> KYABRAM  Victoria  7000
+1191 8行 QLD-> BATEMANS BAY  QLD  2623
+1193 7行 South Australia-> ROCKHAMPTON  South Australia  6338
+1194 8行 Northern Territory-> BEACONSFIELD UPPER  Northern Territory  3933
+1195 7行 Northern Territory-> KINGAROY  Northern Territory  3137
+1196 7行 VIC-> CABOOLTURE  VIC  4821
+1197 8行 SA-> ROXBY DOWNS  SA  7268
+1201 7行 TAS-> MORANBAH  TAS  3636
+1203 8行 New South Wales-> NEWCASTLE  New South Wales  0871
+1204 7行 Northern Territory-> REDCLIFFE  Northern Territory  5118
+1207 7行 New South Wales-> VINCENTIA  New South Wales  4076
+1208 8行 NT-> NAMBUCCA HEADS  NT  5222
+1211 7行 New South Wales-> STIRLING  New South Wales  2500
+1214 8行 QLD-> LEETON  QLD  2490
+1215 7行 New South Wales-> CASINO  New South Wales  2224
+1216 7行 TAS-> MILLICENT  TAS  2902
+1217 8行 QLD-> PENGUIN  QLD  4155
+1219 7行 Western Australia-> NAMBUCCA HEADS  Western Australia  6987
+1221 7行 Tasmania-> WINDSOR  Tasmania  3199
+1224 8行 WA-> NERANG    WA
+1225 7行 New South Wales-> SINGLETON  New South Wales  3304
+1226 7行 QLD-> PEREGIAN BEACH  QLD  3419
+1228 7行 South Australia-> HOWLONG  South Australia  2311
+1229 7行 Australian Capital Territory-> TUNCURRY  Australian Capital Territory  3521
+1230 7行 South Australia-> FREMANTLE  South Australia  4128
+1231 7行 TAS-> LISMORE  TAS  3583
+1234 8行 South Australia-> YARRA GLEN  South Australia  3285
+1235 7行 ACT-> SHEPPARTON  ACT  7027
+1242 7行 WA-> KINGSCLIFF  WA  3722
+1243 7行 WA-> SUFFOLK PARK  WA  3401
+1251 8行 Tasmania-> BALLINA  Tasmania  2411
+1252 7行 New South Wales-> KURRAJONG HEIGHTS  New South Wales  1422
+1254 8行 NT-> MORANBAH  NT  6964
+1255 7行 South Australia-> CESSNOCK  South Australia  9000
+1256 7行 Victoria-> STAWELL  Victoria  3400
+1267 8行 ACT-> INVERLOCH  ACT  5169
+1268 7行 VIC-> KATOOMBA  VIC  3930
+1269 7行 Queensland-> YOUNG  Queensland  1430
+1270 7行 New South Wales-> COBAR  New South Wales  5558
+1273 7行 South Australia-> SEVEN MILE BEACHSouth Australia  5942
+1274 8行 Australian Capital Territory-> STANLEY  Australian Capital Territory  1169
+1275 7行 New South Wales-> CENTRAL COAST  New South Wales  3953
+1279 8行 SA-> NARRABRI  SA  3640
+1283 7行 Northern Territory-> SEYMOUR  Northern Territory  3034
+1286 8行 Queensland-> MOURA  Queensland  4852
+1291 8行 VIC-> BENALLA  VIC  3889
+1293 7行 NT-> THIRLMERE  NT  6762
+1294 7行 Queensland-> BEGA  Queensland  1116
+1295 8行 VIC-> LAKES ENTRANCE  VIC  3672
+1296 7行 Australian Capital Territory-> TOOWOOMBA  Australian Capital Territory  3554
+1297 7行 ACT-> YOUNG  ACT  2001
+1298 8行 Queensland-> MAITLAND  Queensland  2716
+1299 7行 Tasmania-> SEA LAKE  Tasmania  2191
+1300 7行 VIC-> YARRAM  VIC  3225
+1302 7行 WA-> KAPUNDA  WA  5073
+1303 8行 Western Australia-> OLD BAR  Western Australia  2729
+1304 7行 QLD-> KOO-WEE-RUP  QLD  1129
+1306 8行 ACT-> COROWA  ACT  7183
+1307 7行 Western Australia-> BARMERA  Western Australia  2291
+1308 7行 VIC-> BALLARAT  VIC  6612
+1309 8行 SA-> QUEANBEYAN  SA  2060
+1315 7行 VIC-> EUROA  VIC  7315
+1316 8行 Queensland-> CASINO  Queensland  1165
+1321 7行 Australian Capital Territory-> SILVERDALE  Australian Capital Territory  2447
+1322 7行 New South Wales-> URRAWEEN  New South Wales  7139
+1323 8行 Australian Capital Territory-> MOOROOPNA  Australian Capital Territory  3793
+1325 7行 New South Wales-> MOUNT BARKER  New South Wales  3337
+1326 8行 Queensland-> WALLERAWANG  Queensland  6214
+1327 7行 VIC-> KALGOORLIE  VIC  5573
+1330 7行 New South Wales-> HURSTBRIDGE  New South Wales  2427
+1331 8行 ACT-> HILL TOP  ACT  2846
+1337 8行 SA-> KAMBALDA  SA6181
+1339 7行 VIC-> QUAKERS HILL  VIC  2621
+1340 8行 QLD-> THE OAKS  QLD  4158
+1340 100行 Victoria-> Received lx paraffin block (84F66482 - 1) from Dept of 4 JABIRU PLACE, Ashland. THOMAS EMBLING HOSPITAL Hosp, Level 4 Campus Centre, John William, INVERELL, Victoria. 5304.
+1343 8行 WA-> BEECHWORTH  WA  1639
+1345 8行 New South Wales-> POINT VERNON  New South Wales  2047
+1346 8行 Victoria-> BLI BLI  Victoria  4702
+1347 7行 Victoria-> CABOOLTURE  Victoria  3240
+1348 8行 SA-> BENALLA  SA  5070
+1349 8行 VIC-> WAUCHOPE  VIC  2296
+1351 8行 SA-> KYABRAM  SA8002
+1358 8行 SA-> MACKAY  SA  3434
+1361 7行 Victoria-> FREMANTLE  Victoria  2799
+1362 8行 WA-> MADDINGLEY  WA  5044
+1377 8行 Tasmania-> MOUNT ISA  Tasmania  3281
+1378 7行 SA-> YARRA GLEN  SA  2153
+1379 8行 SA-> YAMBA  SA  2783
+1380 7行 Tasmania-> ANNA BAY  Tasmania  4158
+1386 8行 Northern Territory-> MARYBOROUGH  Northern Territory  3300
+1387 7行 ACT-> CASINO  ACT  1441
+1388 8行 QLD-> QUEANBEYAN  QLD  5520
+1390 8行 TAS-> MOREE  TAS  4502
+1391 8行 Victoria-> BALRANALD  Victoria  1022
+1392 7行 ACT-> MOE  ACT  2035
+1394 8行 Victoria-> SINGLETONVictoria  6912
+1395 7行 New South Wales-> MILDURA  New South Wales  5111
+1396 8行 QLD-> RED CLIFFS  QLD  2705
+1397 8行 Western Australia-> URRAWEEN  Western Australia  2010
+1400 8行 Western Australia-> GOOLWA  Western Australia  2447
+1401 8行 NT-> BAIRNSDALE  NT  6575
+1402 7行 WA-> WILLIAMSTOWN  WA  3637
+1403 8行 Western Australia-> CASINO  Western Australia  0871
+1404 8行 ACT-> CAMDEN HAVEN  ACT  5127
+1410 8行 South Australia-> BLACKWATER  South Australia  5000
+1412 8行 QLD-> BONDI NORTH  QLD  3903
+1414 8行 Victoria-> CONDOBOLIN  Victoria  1130
+1414 13行 ACT-> Location:  Anatomical Pathology-ACT
+1415 8行 VIC-> SANDY BEACH  VIC  4002
+1416 7行 Northern Territory-> ALDGATE  Northern Territory  6149
+1417 8行 South Australia-> YARRA GLEN  South Australia  4627
+1418 8行 QLD-> PICTON  QLD  2620
+1419 7行 Queensland-> RENMARK  Queensland  3666
+1422 8行 SA-> EUROA  SA  5022
+1423 8行 Western Australia-> GREENWELL POINT  Western Australia  1164
+1424 7行 South Australia-> COBAR  South Australia  6415
+1425 8行 Western Australia-> THE ENTRANCE  Western Australia  6357
+1427 7行 QLD-> BACCHUS MARSH  QLD6009
+1428 8行 Western Australia-> ROXBY DOWNS  Western Australia  3358
+1430 8行 Western Australia-> MOONIE  Western Australia  4226
+1431 8行 Northern Territory-> ROSEBERY  Northern Territory  2604
+1433 7行 South Australia-> WEST WYALONG  South Australia  3941
+1434 8行 WA-> BERRI  WA  2730
+1436 8行 Victoria-> WATERFORD  Victoria  3019
+1437 7行 South Australia-> BONGAREE  South Australia  6290
+1438 8行 Tasmania-> VINCENTIA  Tasmania  6172
+1439 8行 QLD-> BYRON BAY  QLD  2650
+1440 8行 Victoria-> TOOWOOMBA  Victoria  3225
+1441 8行 Northern Territory-> MOAMA  Northern Territory  1715
+1445 7行 Tasmania-> NOWRA-BOMADERRY  Tasmania  2608
+1446 8行 Western Australia-> MOREE  Western Australia  6413
+1447 8行 Victoria-> SMITHTON  Victoria  1153
+1448 7行 VIC-> BEACONSFIELD UPPER  VIC  3691
+1449 8行 New South Wales-> WYNYARD  New South Wales  2581
+1450 7行 Western Australia-> WESTBURY  Western Australia  2761
+1451 8行 SA-> BROOME  SA  2671
+1452 8行 Australian Capital Territory-> TAREE  Australian Capital Territory  2208
+1454 7行 Northern Territory-> WATERFORD  Northern Territory4382
+1459 8行 Western Australia-> LAKE CATHIE  Western Australia  5022
+1461 8行 Tasmania-> SAWTELL  Tasmania  6460
+1463 7行 WA-> STANLEY  WA  4209
+1466 8行 Northern Territory-> ADELAIDE  Northern Territory  2828
+1470 7行 South Australia-> SILVERDALESouth Australia  2230
+1471 8行 VIC-> TAREE  VIC  3342
+1472 8行 TAS-> KIAMA  TAS  0860
+1473 7行 SA-> BATEMANS BAY  SA  3338
+1474 8行 QLD-> COORANBONG  QLD  3630
+1475 8行 VIC-> GREENWELL POINT  VIC  3043
+1477 8行 Queensland-> TRAFALGAR  Queensland  2874
+1478 8行 Northern Territory-> MCLAREN VALE  Northern Territory  4891
+1479 7行 Queensland-> COONAMBLE  Queensland  7011
+1480 8行 New South Wales-> PENRITH  New South Wales  1423
+1481 7行 Australian Capital Territory-> PORT HEDLAND  Australian Capital Territory  3134
+1483 8行 South Australia-> MULLUMBIMBY  South Australia  5558
+1489 7行 QLD-> THIRLMEREQLD  6069
+1494 7行 NT-> WOODSIDE  NT  2831
+1495 8行 SA-> MOURA  SA  4895
+1497 7行 TAS-> MANSFIELD  TAS  5010
+1498 8行 Western Australia-> SAINT GEORGES BASIN  Western Australia  6181
+1499 8行 NT-> TAREE  NT  2490
+1500 8行 Northern Territory-> FRANKSTON  Northern Territory  5451
+1501 7行 Tasmania-> MULWALA  Tasmania  5640
+1502 8行 Victoria-> THE OAKS  Victoria  2581
+1503 8行 Queensland-> WALLAN  Queensland  3105
+1508 7行 TAS-> HAMILTON  TAS  2826
+1511 8行 New South Wales-> NAIRNE  New South Wales  1101
+1514 7行 Tasmania-> OAKDALE  Tasmania  2540
+1520 8行 Tasmania-> DRYSDALE  Tasmania  1119
+1526 8行 New South Wales-> BEACONSFIELD UPPER  New South Wales  6437
+1529 8行 Australian Capital Territory-> MOUNT MORGAN  Australian Capital Territory  7012
+1530 7行 Queensland-> PORT LINCOLN  Queensland  6254
+1532 8行 WA-> PORT MACQUARIE  WA  0815
+1534 8行 Western Australia-> SAN REMO  Western Australia  3331
+1536 7行 ACT-> MUSWELLBROOK  ACT  3273
+1538 8行 VIC-> KORUMBURRA  VIC  3424
+1539 7行 Western Australia-> ROMA  Western Australia  5138
+1541 7行 NT-> LAUNCESTON  NT0846
+1544 7行 VIC-> BURPENGARY  VIC  1114
+1548 8行 TAS-> TEMORA  TAS  3043
+1549 8行 Northern Territory-> NEWMAN  Northern Territory  
+1550 8行 Tasmania-> WILLIAMSTOWN  Tasmania  4512
+1551 8行 TAS-> TOWNSVILLE  TAS  6414
+1552 8行 Victoria-> TENTERFIELD  Victoria  3732
+1553 8行 Queensland-> WELLINGTON  Queensland  2231
+1555 8行 Queensland-> CEDUNA  Queensland  2007
+1555 13行 TAS-> Location:  Laverty Pathology-TAS
+1556 8行 Northern Territory-> WARWICK  Northern Territory  3277
+1557 8行 NT-> HEALESVILLE  NT  6564
+1560 8行 Queensland-> WALLAN  Queensland  6256
+1561 8行 VIC-> SOMERSET  VIC  2581
+1563 8行 WA-> VINCENTIA  WA  7248
+1566 8行 Queensland-> SPRINGWOOD  Queensland  6271
+1567 8行 NT-> MAFFRA  NT  4372
+1568 8行 WA-> INVERELL  WA  3412
+1570 8行 NT-> GOONDIWINDI  NT  4806
+1576 8行 WA-> HORSHAM  WA  2356
+1578 8行 Northern Territory-> YARRA GLEN  Northern Territory  1159
+1580 8行 Tasmania-> WHYALLA  Tasmania  3272
+1582 8行 Queensland-> KINGSCLIFF  Queensland  2232
+1584 8行 New South Wales-> LEIGH CREEK  New South Wales  3542
+1586 8行 Victoria-> JINDABYNE  Victoria  2620
+1606 8行 TAS-> MERRIMAC  TAS  3212
+1608 8行 Tasmania-> NARACOORTE  Tasmania  6901
+1612 8行 Tasmania-> MAROOCHYDORE  Tasmania  3551
+1616 8行 TAS-> WOOLGOOLGA  TAS  6991
+1625 8行 WA-> FREELING  WA  3224
+1626 8行 ACT-> NUMURKAH  ACT  2401
+1627 8行 ACT-> YAMBA  ACT  6078
+1628 8行 NT-> MOOROOPNA  NT  4417
+1629 8行 New South Wales-> MOOROOPNA  New South Wales  6024
+1630 8行 New South Wales-> WATTLEGLEN  New South Wales  3573
+1634 8行 NT-> WINGHAM  NT  3765
+1636 8行 Australian Capital Territory-> WESTON  Australian Capital Territory  6320
+1692 8行 QLD-> COROWAQLD  3892
+1694 8行 SA-> COROWA  SA  6484
+1696 8行 New South Wales-> DECEPTION BAY  New South Wales  2725
+1696 21行 WA-> Additionalinfo from Gynaecology Fellow Dr Wadsworth (WA): Pancreatitis.  Apparently serous Ca.  Macroscopically fluid appears mucinous intraoperatively.  
+1697 8行 New South Wales-> ARMIDALE  New South Wales  3412
+1698 8行 WA-> KORUMBURRA  WA  3984
+1700 8行 New South Wales-> WYONG  New South Wales  1470
+1702 8行 TAS-> AYR  TAS  5117
+1705 8行 Tasmania-> STRATHALBYN  Tasmania  7176
+1714 8行 TAS-> WARWICK  TAS  1888
+1715 8行 Australian Capital Territory-> BANGALOW  Australian Capital Territory  2575
+1716 8行 Queensland-> HEALESVILLE  Queensland  2624
+1718 8行 TAS-> MULWALATAS  2431
+1719 8行 SA-> COORANBONG  SA  4169
+1720 8行 Victoria-> LAUNCESTON  Victoria  3322
+1728 8行 Western Australia-> CENTRAL COAST  Western Australia  1226
+1729 8行 Queensland-> MOE  Queensland  3964
+1730 8行 Australian Capital Territory-> WYNYARD  Australian Capital Territory  6803
+1731 8行 SA-> MOREE  SA  6911
+1732 8行 New South Wales-> GRIFFITH  New South Wales  2228
+1734 8行 Australian Capital Territory-> MAROOCHYDORE  Australian Capital Territory  3267
+1735 8行 VIC-> NEWMAN  VIC  3658
+1738 8行 New South Wales-> BUNINYONG  New South Wales  6174
+1739 8行 TAS-> WILLUNGA  TAS  5041
+1742 8行 VIC-> PORT LINCOLN  VIC  6149
+1743 8行 QLD-> WOORI YALLOCK  QLD  2548
+1746 8行 QLD-> MACKAY  QLD  4130
+1747 8行 ACT-> STAWELL  ACT  6125
+1749 8行 Queensland-> GLADSTONE  Queensland  2015
+1751 8行 TAS-> SUFFOLK PARK  TAS  6770
+1753 8行 Western Australia-> SAN REMO  Western Australia  6967
+1755 8行 Australian Capital Territory-> WILLIAMSTOWN  Australian Capital Territory  2143
+1756 8行 Victoria-> INVERLOCH  Victoria3164
+1758 8行 QLD-> COOLGARDIE  QLD  7009
+1761 8行 Northern Territory-> SAINT ARNAUD  Northern Territory  2702
+1762 8行 South Australia-> BAY VIEW  South Australia  2733
+1763 8行 Victoria-> THE ENTRANCE  Victoria  5235
+1765 8行 NT-> LEETON  NT  6466
+1766 8行 NT-> BAXTER  NT  2408
+1767 8行 NT-> CANBERRA  NT  1630
+1768 8行 QLD-> DAYLESFORD  QLD  6957
+1769 8行 South Australia-> BUNBURY  South Australia  5725
+1770 8行 Northern Territory-> OLD BAR  Northern Territory  6317
+1786 8行 Northern Territory-> BAY VIEW  Northern Territory  4551
+1788 8行 NT-> ADELAIDE  NT  3607
+1797 8行 South Australia-> TUMUT  South Australia  5417
+1801 8行 VIC-> ALDGATEVIC  9464
+1803 8行 Western Australia-> ULVERSTONE  Western Australia  1151
+1809 8行 WA-> ULVERSTONE  WA  6350
+1811 47行 NT-> Request for opinion by Dr TOM Davie, Department of EMERGENCY, NIKE, NIMBIN MULTI PURPOSE SERVICE Hospital, MAITLAND, NT.
+1814 8行 Northern Territory-> CORINDA  Northern Territory  3075
+1815 8行 SA-> RUTHERGLEN  SA  6372
+1820 8行 QLD-> COOMA  QLD  3029
+1821 8行 TAS-> DERBY  TAS  0851
+1822 8行 South Australia-> ROBINVALE  South Australia  1006
+1824 8行 ACT-> KINGSCLIFF  ACT  4849
+1826 8行 NT-> GRENFELL  NT  4218
+1827 8行 Queensland-> STRATHALBYN  Queensland  2582
+1828 8行 WA-> SUFFOLK PARK  WA  4873
+1829 8行 Western Australia-> COONABARABRAN  Western Australia  5007
+1831 8行 WA-> NORTHAM  WA  7051
+1833 8行 NT-> MOE  NT  6014
+1834 8行 QLD-> WHITTLESEA  QLD  7010
+1835 8行 Tasmania-> SMITHTON  Tasmania  4852
+1836 8行 ACT-> THE ENTRANCEACT  6809
+1837 8行 Victoria-> MORWELL  Victoria  5308
+1852 8行 Australian Capital Territory-> DRUMMOND COVE  Australian Capital Territory  5352
+1853 8行 NT-> WHYALLA  NT  2388
+1855 8行 Victoria-> MERIMBULA  Victoria  3105
+1856 8行 VIC-> WINTON  VIC  3084
+1858 8行 SA-> INVERELL  SA  3990
+1859 8行 TAS-> STRATHALBYN  TAS  3918
+1860 8行 New South Wales-> BURPENGARY  New South Wales  3893
+1861 8行 New South Wales-> CANBERRA  New South Wales  1209
+1862 7行 QLD-> EDEN  QLD  6840
+1863 8行 South Australia-> REDCLIFFE  South Australia  2066
+1864 8行 Queensland-> NOWRA-BOMADERRY  Queensland  6229
+1865 7行 Victoria-> ALBURY-WODONGA  Victoria  2134
+1866 8行 South Australia-> MOUNT ISA  South Australia  2866
+1867 8行 New South Wales-> MOUNT ELIZA  New South Wales  4342
+1868 7行 QLD-> WINTON  QLD  6612
+1872 8行 SA-> MADDINGLEY  SA  4109
+1876 8行 Northern Territory-> BAY VIEW  Northern Territory  1851
+1878 8行 Queensland-> KURRI KURRI  Queensland  2409
+1881 8行 SA-> YARRAGON  SA  0813
+1884 8行 Victoria-> WAUCHOPE  Victoria  6516
+1887 8行 ACT-> MOONIE  ACT  3037
+1895 8行 TAS-> QUAKERS HILL  TAS  1108
+1897 7行 South Australia-> LONGFORD  South Australia  2044
+1900 7行 Northern Territory-> BONNY HILLS  Northern Territory  4817
+1901 8行 Tasmania-> CASTLEMAINE  Tasmania  6924
+1904 8行 Tasmania-> MERIMBULA  Tasmania  3260
+1906 8行 Victoria-> BONGAREEVictoria  5632
+1907 8行 Northern Territory-> RUTHERGLEN  Northern Territory  4376
+1908 7行 TAS-> LAUNCHING PLACE  TAS  3556
+1909 8行 Tasmania-> LAKE CATHIE  Tasmania  4345
+1912 7行 WA-> MAFFRA  WA  4425
+1913 8行 Northern Territory-> NATHALIA  Northern Territory  1295
+1920 7行 Queensland-> BENALLA  Queensland  2733
+1922 8行 Victoria-> PAYNESVILLE  Victoria  2104
+1923 7行 WA-> WILLIAMSTOWN  WA  1176
+1925 8行 WA-> GRIFFITH  WA  2007
+1926 7行 QLD-> TERRANORA  QLD  3913
+1929 7行 VIC-> LITHGOW  VIC3329
+1930 8行 VIC-> GRENFELL  VIC  4730
+1931 7行 QLD-> PEARCEDALE  QLD  6443
+1933 8行 Queensland-> HOWLONG  Queensland  3211
+1934 7行 New South Wales-> KYABRAM  New South Wales  6330
+1935 8行 NSW-> VINCENTIA  NSW  6535
+1936 8行 ACT-> BALRANALD  ACT  4507
+1937 7行 Queensland-> HADSPEN  Queensland  5023
+1939 8行 Queensland-> NATHALIA  Queensland  2590
+1941 8行 TAS-> MARYBOROUGH  TAS  6725
+1942 7行 Queensland-> MANDURAH  Queensland  3428
+1943 8行 Queensland-> MERIMBULA  Queensland  2101
+1944 8行 ACT-> KINGSCLIFF  ACT  6964
+1946 8行 WA-> NATHALIA  WA  2646
+1947 8行 TAS-> INVERLOCH  TAS  2141
+1950 7行 Australian Capital Territory-> PENGUIN  Australian Capital Territory  6012
+1951 8行 Queensland-> GOSFORD  Queensland  2159
+1952 8行 Western Australia-> WORRAGEE  Western Australia  5252
+1953 7行 WA-> MACKAY  WA  7172
+1954 8行 Tasmania-> NEW NORFOLK  Tasmania  3663
+1955 8行 NT-> WARWICK  NT  3174
+1956 7行 WA-> LAUNCESTON  WA  3354
+1958 8行 WA-> TANUNDA  WA  6968
+1968 8行 Western Australia-> MOE  Western Australia  6311
+1969 8行 Western Australia-> POINT VERNON  Western Australia  3166
+1971 8行 TAS-> EUROA  TAS  6368
+1980 7行 ACT-> SOMERSET  ACT  2147
+1984 8行 Australian Capital Territory-> ALDGATE  Australian Capital Territory  6385
+1986 7行 New South Wales-> COLAC  New South Wales  5341
+1987 8行 South Australia-> WALLAN  South Australia  6931
+1988 8行 Queensland-> NEWMAN  Queensland  4154
+1990 8行 Australian Capital Territory-> BEACONSFIELD UPPER  Australian Capital Territory  5088
+1991 7行 Western Australia-> WAUCHOPE  Western Australia  3663
+1992 8行 TAS-> WYNDHAM  TAS  6154
+1994 7行 SA-> MARYBOROUGHSA  2167
+1995 8行 QLD-> RUTHERGLEN  QLD  1455
+1997 7行 Northern Territory-> FORBES  Northern Territory  7053
+2001 8行 Western Australia-> THURSDAY ISLAND  Western Australia  5571
+2002 7行 QLD-> BELL BAY  QLD  2123
+2005 7行 Western Australia-> RIVERVIEW  Western Australia  3903
+2006 8行 NT-> BLACKWATER  NT  6522
+2008 7行 Victoria-> WYONG  Victoria  2076
+2010 7行 New South Wales-> WOODSIDE  New South Wales  3960
+2011 8行 Queensland-> DARWIN  Queensland  1715
+2016 7行 Tasmania-> DEVONPORT  Tasmania  2783
+2017 8行 Queensland-> ALDGATE  Queensland  5021
+2018 8行 Victoria-> BOWEN  Victoria  1294
+2019 7行 Tasmania-> PORTLAND  Tasmania  2146
+2025 8行 New South Wales-> BALLINA  New South Wales  7052
+2026 7行 VIC-> THE OAKS  VIC  3620
+2028 8行 Queensland-> GRENFELL  Queensland5132
+2046 8行 Northern Territory-> REDCLIFFE  Northern Territory  2650
+2047 8行 SA-> MANSFIELD  SA  1209
+2050 8行 Victoria-> ARMIDALE  Victoria  7307
+2052 8行 SA-> PARKES  SA  5095
+2053 7行 NT-> MORANBAH  NT  2178
+2054 8行 QLD-> ALICE SPRINGS  QLD  2291
+2057 8行 Victoria-> COCKATOO  Victoria  4482
+2058 7行 Northern Territory-> LAUNCHING PLACE  Northern Territory  6332
+2059 8行 QLD-> LOBETHAL  QLD  4738
+2061 8行 WA-> LYNDOCHWA  2152
+2062 8行 South Australia-> COLAC  South Australia  2069
+2064 7行 ACT-> MEEKATHARRA  ACT  2615
+2066 8行 VIC-> LONGFORD  VIC5343
+2067 8行 WA-> STAWELL  WA  3814
+2068 7行 QLD-> KINGSCLIFF  QLD  5121
+753 8行 NT-> GOSFORD  NT  1224

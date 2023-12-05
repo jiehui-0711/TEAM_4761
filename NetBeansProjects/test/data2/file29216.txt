@@ -1,0 +1,83 @@
+SPR no: 88K967557A
+MRN no: 8849675
+Site_name: ST VINCENT'S HOSPITAL (LISMORE)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+1.  Right breast 22mm lesion 10 o&amp;apos;clock 3cm FN.  Specimen marked short suture superior, long suture lateral and medium suture medial margin.
+2.  Sentinel node.  Both biobank please.  Parkinson&amp;apos;s, OA.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right axilla sentinel node 1&amp;quot;, consists of a 58 x 30 x 9mm unorientated fibrofatty tissue.  Five possible lymph nodes identified, 3 to 28mm.
+Blocks: 1 - three ?lymph nodes; 2 &amp;amp;  3 - one lymph node quadrisected; 4 &amp;amp; 5 - one lymph node in six sections.
+
+B.  Specimen labelled &amp;quot;Right breast wire local excision, short stitch superior, long lateral, medium medial&amp;quot;, consists of a 29g oriented wide local excision with three sutures denoting superior, medial and lateral, 45mm (medial to lateral) x 39mm (superior to inferior) x 27mm (superficial to deep).  The deep margin is inked black, the superior superficial margin inked blue and the inferior superficial margin inked red.  Eleven sagittal slices from medial to lateral show a 18 x 16 x 14mm firm pale lesion in slices five to eight.  The lesion is 3mm from the superficial margin, 4mm from the superior and inferior margins and 6mm from the deep margin and well clear of the medial and lateral ends.
+Blocks: 1 - slice one (medial end) en face; 2 &amp;amp; 3 - slice two (bisected); 4 to 17 - slices four to ten (each bisected in sequence); 18 - two LS of slice eleven (lateral end).   (TO:SW/ta 21/7/68)
+
+
+MICROSCOPIC: (Reported by Dr X Scrape)
+A.  Sections show an 11mm deposit of metastatic adenocarcinoma in one of four lymph nodes (1/4). There is focal extranodal extension up to 1.1mm. Carcinoma is transected by diathermied margin over an 8mm front.
+
+B.  Sections of the right breast tumour show an 18mm invasive carcinoma, NST, on a background of extensive intermediate grade DCIS. A synoptic report for invasive carcinoma follows:
+
+
+SYNOPTIC REPORT FOR BREAST CARCINOMA
+Invasive carcinoma:
+Site: Right breast 10 o&amp;apos;clock.
+Type: Invasive carcinoma, NST.
+Invasive tumour size: 18mm.
+Grade (Modified Bloom &amp;amp; Richardson): 2
+Tubules: 2     Nuclei: 2    Mitoses: 2    Mitotic rate:      11/10hpf.
+Lymphovascular invasion:
+
+DCIS component:
+DCIS: Present.
+Maximum extent of DCIS: Present over an approximate maximum extent of 35mm.
+Nuclear grade: Low to intermediate.
+Architecture: Solid, cribriform, micropapillary.
+Necrosis: Inconspicuous.
+Calcification: Present - focal.
+Degree of DCIS in tumour: Mild to moderate.
+DCIS in adjacent tissue: Present.
+
+Excision Margins:
+Invasive component:
+Deep margin: 1.1mm (B9).
+Superficial margin: 2.2mm (B5) (lymph-vascular space invasion).
+Superior margin: 2.2mm (B8).
+Inferior margin: 2.2mm (B11)
+Medial and lateral margin: Well clear.
+
+In-situ component:
+Deep margin: 2.0mm (B8).
+Superficial margin: 0.25mm (B4).
+Superior margin: 0.25mm (B6).
+Inferior margin: 0.25mm (B13).
+Lateral margin: 2.2mm (B18).
+Medial margin: Well clear.
+
+Receptors: (Block B11)
+ER:  	POSITIVE
+95% of nuclei stained
+Predominant intensity of staining: strong.
+PR:  	POSITIVE
+80% of nuclei stained
+Predominant intensity of staining: Moderate.
+HER2 (Novocastra 10A7): Negative (0)
+HER2 SISH:  Performed at SA Pathology, TWEDDLE CHILD AND FAMILY HEALTH SERVICE Hospital, see separate report.
+Ki-67 index: Variable, up to 8%.
+
+Nipple: Not included.
+
+LCIS / ALH: Not identified.
+
+Miscellaneous: The adjacent breast tissue shows fibrocystic change, apocrine metaplasia and columnar cell change. There is fat necrosis. There are numerous benign microcalcifications.
+
+Lymph node(s): See specimen A.
+
+
+DIAGNOSIS:
+A.  Right axilla sentinel lymph node: 11mm deposit of metastatic adenocarcinoma in one of four lymph nodes (1/4) with extranodal extension up to 0.56mm.
+
+B.  Right breast (wire local excision): 18mm grade 2 invasive carcinoma, NST, on a background of multifocal DCIS; ER, PR positive; Her-2 negative.
+
+Her-2 ISH is being performed and a separate report will be issued.

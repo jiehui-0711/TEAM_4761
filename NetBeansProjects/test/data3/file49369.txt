@@ -1,0 +1,36 @@
+SPR no: 11K812362U
+MRN no: 1148123
+Site_name: FAIRFIELD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Cholangiocarcinoma.  Klatskin tumour.  Right extended hemihepatectomy.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right extended hemihepatectomy&amp;quot;, consists of a right hepatectomy with gallbladder, common hepatic and common bile ducts with stitches denoting one stitch left medial bile duct, double stitch left lateral bile duct measuring 235 x 140 x 70mm, and weighing 1277g in total.  The gallbladder measures 130 x 40 x 40mm.  There is an area of disruption in the liver capsule measuring 40 x 40mm with surrounding tumour.  The liver margin is inked blue, the disrupted surface is inked black.  The left medial bile duct measures 3mm in diameter.  The left lateral bile duct measures 5mm in diameter.  There is an unmarked possible septal bile duct and a common bile duct measuring 7mm (oriented by surgical fellow).  The possible septal bile duct measures 5mm in diameter.  There is a suture around a possible vessel (presumed right hepatic artery).  Inked surfaces: left medial bile duct - red, left lateral bile duct - green, possible septal bile duct - violet, right hepatic artery - yellow, and distal common bile duct - black.  In the common hepatic duct there is a tumour measuring 10 x 10 x 15mm surrounding. In the liver there is a separate tumour measuring 70 x 40 x 30mm.  There is no obvious extension of the tumour in the right hepatic duct.  The bile ducts are serially sliced from proximal to distal in eleven slices. There are lymph nodes around the bile ducts measuring up to 20mm in length.  The separate liver tumour is well clear of the hepatic margin and there are no areas of necrosis or haemorrhage.  The liver is serially sectioned into twenty seven slices.  Blocks: 1 - slice one (proximal bile duct margin); 2 - slice two; 3 - sliced three; 4 - slice four; 5 &amp;amp; 6 - composite sections, slice five; 7 &amp;amp; 8 - composite sections, slice six; 9 &amp;amp; 10 - composite sections, slice seven; 11 &amp;amp; 12 - composite sections, slice eight; 13 &amp;amp; 14 - composite sections, slice nine; 15 - slice ten; 16 &amp;amp; 17 - composite sections, slice eleven (distal common bile duct margin) (entire biliary tree embedded); 18 &amp;amp; 19 - RS cystic duct; 20 - RS fundus and body of gallbladder; 21 to 23 - one lymph node; 24 &amp;amp; 25 - lymph nodes; 26 &amp;amp; 27 - RS slice two; 28 to 30 - RS slice three; 31 &amp;amp; 32 - RS slice four (liver lesions); 33 - one full face, liver lesion; 34 to 39 - right hepatic duct; 40 - RS normal liver; 41 - liver tumour to margin.  Photos taken, diagram attached.  (TO:FY/hh 6/2/71)
+
+
+MICROSCOPIC (Reported by Dr RUBEN VILLANEDA and registrar Dr E Dulac):
+Sections show moderately differentiated cholangiocarcinoma of the common hepatic and common bile ducts, spanning the origin of the cystic duct.  The tumour measures approximately 20mm along the bile ducts (spanning 7 slices) and extends into surrounding adipose tissue (T2a).  Tumour is associated with high grade dysplasia in the left and septal hepatic ducts transitioning into the confluence of the right and left hepatic ducts.  Extensive perineural invasion is present however, no definite lymphovascular invasion is seen.  The proximal bile duct resection margin shows no evidence of invasive carcinoma or dysplasia however, a small focus of invasive carcinoma is present less than 0.1mm from the distal common bile duct resection margin.  Invasive carcinoma is clear of the circumfernetial resection margins surround the bile ducts.  The gallbladder is not involved and no cholangiocarcinoma is seen to extend into the liver parenchyma.  Two (2) of the seven (7) lymph nodes identified contain metastatic cholangiocarcinoma.
+
+Immunoperoxidase stains for MSI proteins (Block 12)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The separate tumour within the liver is a 70mm neuroendocrine tumour which abuts the liver capsule and is well clear of the liver resection margin.  The tumour shows positive staining with the CD56 and chromogranin.  There is weak staining the synaptophsin.  The arginase and Hepar-1 stains are negative.  No mitoses per 10 high power fields are seen and the Ki-67 index is less than 1%.  No necrosis is seen.  The tumour is thus classified as grade 1.  Primary neuroendocrine tumours of the liver are rare and a metastasis should be excluded.  The background liver shows mild to moderate steatosis with no evidence of cirrhosis.
+
+
+DIAGNOSIS:
+Right extended hemihepatectomy:
+- Moderately differentiated cholangiocarcinoma of common hepatic and common bile ducts
+- Invades surrounding adipose tissue (T2a)
+- Extensive perineural invasion present
+- Proximal bile duct margins clear with no extension into liver
+- Very close distal common bile duct margin
+- Two lymph nodes positive for metastatic adenocarcinoma (N1)
+- Separate grade 1 neuroendocrine tumour within liver, margins clear

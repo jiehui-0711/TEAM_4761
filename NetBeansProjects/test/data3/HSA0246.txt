@@ -1,0 +1,72 @@
+
+118824.XPC 
+MENDEL, ASHLEY 
+11V82496 
+
+CLINICAL:
+IDC left breast 2 o'cl - wide local excision + sentinel node biopsy.  Suture - short superior, long lateral, medium medial.
+MACROSCOPIC:
+A. Specimen labelled "Left sentinel lymph node" consists of multiple pieces of fatty tissue measuring in aggregate 40 x 20 x 10mm with six lymph nodes ranging from 5 to 20mm. 
+Blocks:  1 - three lymph nodes; 2 - one bisected lymph node; 3 - one bisected lymph node; 4 - one lymph node.
+B. Specimen labelled "Left breast lesion; stitch long lateral, short superior, medium medial" consists of an irregular piece of fibrofatty tissue with overlying skin and three sutures for orientation - short superior, medium medial and long lateral.  The specimen measures 60mm (medial-lateral) x 50mm (superior-inferior) x 17mm (superficial-deep).  The ellipse of skin measures 35 x 5mm.  The skin surface is unremarkable.  The specimen is inked blue superficial margin, black deep margin, red superior margin.  The specimen is serially sectioned into eleven slices from lateral to medial [slice 1 - lateral margin; slice 11 - medial margin].  On sectioning, and in slices 7 to 9, there is an ill-defined white gritty lesion 13mm (superior-inferior) x 10mm (superficial-deep) x up to 10mm (medial-lateral).  The specimen is AE according to the attached diagram.  The tumour abuts the deep margin (inked black) in slices 7 and 8.
+Blocks:  1 & 2 - slice 1 (lateral margin); 3 & 4 - slice 2; 5 & 6 - slice 3; 7 & 8 - slice 4; 9 & 10 - slice 5; 11 & 12 - slice 6; 13 & 14 - slice 7 (deep margin has been shaved in block 14); 15 & 16 - slice 8; 17 & 18 - slice 9; 19 & 20 - slice 10; 21 & 22 - slice 11 (medial margin).  [Block 15 - reserved block].   (YL/cc 18/12/62) 
+ 
+MICROSCOPIC (Reported by Dr E Mccamey): 
+A. The six (6) lymph nodes are negative for carcinoma.  The CAM5.2 is negative.
+B. Sections show grade 3 infiltrating ductal carcinoma, Bloom & Richardson score 
+9 (t = 3, n = 3, m = 3).  The tumour measures 10mm (medial-lateral) x 13mm (superior-inferior) x 10mm (superficial-deep).  At the periphery of the mass tumour aggregates are seen focally in clear spaces and this appearance is suspicious of LVI ( lymphovascular invasion ).
+The closest surgical margin is deep which is 1mm clear and the superficial margin (adjacent to skin) is 5mm clear.  The superior margin is 10mm clear and the inferior, medial and lateral margins are well clear.
+There is a 4mm focus of high grade DCIS (ductal carcinoma in situ) within the tumour mass but not outside of it.  This DCIS focus is 3mm from the deep margin and the other margins are well clear.
+DIAGNOSIS:
+A & B.  Left breast WLE and sentinel nodes: Invasive carcinoma:
+Site:  Left breast, WLE
+Type:  Infiltrating ductal carcinoma
+Invasive tumour size:  10 x 13 x 10mm
+Grade (Modified Bloom & Richardson):  3
+       Tubules:  3    Nuclei:  3    Mitoses:  3    Mitotic rate:  20/10hpf Lymphovascular invasion:  Suspicious for LVI
+    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  4mm Nuclear grade:  High
+Architecture:  Solid and comedo
+Degree of DCIS in tumour:  <25% DCIS in adjacent tissue:  None/minimal
+Excision Margins:  
+Invasive component:
+Deep - 1mm
+Superficial (adjacent to skin) - 5mm
+Superior - 10mm
+Inferior, medial and lateral - well clear In-situ component:
+Deep - 3mm
+Other margins well clear
+Receptors (Block B13): 
+ER:  Positive 
+>95 % of nuclei stained
+     predominant intensity of staining:  Strong PR:  Positive 
+>95 % of nuclei stained
+predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  Negative (0/1+)
+Ki-67 index:  10% in the worst areas Slides sent to MODBURY HOSPITAL Hospital for CISH.
+Nipple:  N/A LCIS / ALH:  Absent
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  6 Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  6 Total number of involved lymph nodes (including sentinel node(s)):  0
+ADDITIONAL REPORT, 3/13/62:
+Material was sent to Dr WANDJOO Keith, Seals Pathology, COOKTOWN HOSPITAL Hospital, for Her-2 CISH analysis, the results of which are as follows:
+Her-2 in-situ hybridisation: (Her-2 CISH Invitrogen SPOT-Light assay, block B13) Her-2 CISH result:  NEGATIVE (non-amplified, diploid)
+Mean Her2 copy number per cell: 1.95
+Scoring criteria (ASCO/CAP recommendations):
+1 to <2.5 copies:  
+Non amplified (diploid)
+2.5 to <4 copies:  
+Non amplified (polysomy) 
+4 to 6 copies:
+Equivocal 
+>6 but < 10 copies:
+Low level amplification
+10 or more copies: 
+High level amplified
+
+

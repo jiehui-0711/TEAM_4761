@@ -1,0 +1,51 @@
+SPR no: 70N338545I
+MRN no: 7053385
+Site_name: TUMBY BAY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: DR S Radway (25.9.2070)
+
+CLINICAL:
+79M with deep soft tissue mass right upper arm.  General clinical history:  #11th and 12th ribs, AF, NIDDM, HTN.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Scar tissue right arm&amp;quot;, consists of an ellipse of skin with underlying subcutaneous tissue.  The specimen measures 67 x 40 x 20mm.  The ellipse of skin measures 65 x 10mm.  The ellipse of skin bears a scar along its length measuring 60mm.  The subcutaneous tissue also bears some skeletal muscle.  Specimen inked blue.  Cut surfaces appear unremarkable.  Blocks:  1 - skin TS one end; 2 - skin TS opposite end; 3 and 4, 5 and 6 - one TS each bisected; 7 to 10 - alternate TS&amp;apos;s.
+
+B.  Specimen labelled &amp;quot;Subcutaneous lipoma right shoulder&amp;quot;, consists of a nodulated piece of fatty tissue partially covered in a thin capsule.  In areas, the capsule appears disrupted.  Specimen inked blue.  The specimen measures 160 x 115 x 40mm.  The cut surfaces appear homogeneously fatty yellow.  Blocks:  1 to 16 - representative sections; 17 - reserved block for bio-bank.
+
+C.  Specimen labelled &amp;quot;Deep soft tissue mass right arm&amp;quot;, consists of a fatty piece of tissue with an intact capsule overlying the lesion measuring 180 x 135 x 65mm.  Specimen is inked blue and sampled fresh for biobanking.  Cut surfaces appear homogeneously fatty yellow.  Some areas appear haemorrhagic and other areas show myxoid degenerative changes.  Blocks:  1 to 18 - representative sections.  (TO:BL/hh 9/7/68)
+
+
+MICROSCOPIC: (Reported by Dr S Otanicar)
+A.  Sections are of skin extending to deep subcutaneous tissue, including skeletal muscle at the deep aspect. There are patchy changes consistent with previous surgery. There are no atypical features. There is no evidence of malignancy.
+
+B.  Sections are of a lipomatous lesion consisting of sheets of adipocytes showing marked variation in adipocyte size, as well as, scattered foci of nuclear atypia including hyperchromasia and enlargement. No lipoblasts or significant fibrous septae are seen. The overall features favour an atypical lipomatous tumour (known as a well differentiated liposarcoma at other sites). The lesion extends broadly to surgical margins. There is no evidence of dedifferentiation.
+
+C.  Sections are of a lipomatous lesion consisting of sheets of adipocytes showing minimal variation in adipocyte size, as well as, very occasional foci of nuclear atypia and a possible lipoblast. There is extensive fat necrosis, including multiple foci of membranous fat necrosis, possibly secondary to previous trauma. The overall features are those of a lipomatous tumour with focal mild atypical features. The lesion extends broadly to surgical margins. There is no evidence of dedifferentiated liposarcoma.
+
+
+COMMENT:
+The right shoulder lesion and right arm tumours are lipomatous lesions. Whilst the right shoulder lesion shows features favouring an atypical lipomatous tumour (well differentiated liposarcoma) the atypical features within the right arm lesion are less well defined. Moreover, the right arm lesion shows extensive fat necrosis. In this setting, MDM2 FISH testing will be performed on both lesions to clarify the nature of the atypia within these lipomatous tumours - separate reports will be issued.
+
+
+DIAGNOSIS:
+A.  Scar tissue right arm: Changes consistent with scar.
+
+B.  Subcutaneous lesion right shoulder: Favour atypical lipomatous tumour, present at margins.
+
+C.  Right arm (deep soft tissue mass): Lipomatous lesion with focal atypical features and extensive fat necrosis ?lipoma (with reactive atypia) versus ?atypical lipomatous tumour.
+Please see comment.
+
+MDM2 FISH testing will be performed on specimens B and C and separate reports will be issued.
+
+
+***SUPPLEMENTARY REPORT: DR S Schenkel (25.9.2070)
+MDM2 FISH testing was performed and the results are as follows:
+
+- Block B7 - MDM2 amplification not detected.
+- Block C15 - MDM2 amplification not detected.
+
+These results show a normal signal pattern for MDM2 in both specimens B and C.
+
+As these tissue blocks were considered representative of the lesions examined, the FISH findings would suggest that both specimens B and C (right shoulder and right arm lesions, respectively) are benign lipomas.  The atypia identified histologically may represent reactive fat necrosis or trauma related change.
+
+Correlation with clinical findings is recommended.

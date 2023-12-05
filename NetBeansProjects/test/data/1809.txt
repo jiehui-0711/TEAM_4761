@@ -1,0 +1,66 @@
+
+Episode No:  12V195528H
+1281955.GXH
+
+TARNER, Edith OREN 
+Lab No:  12V19552,12V19552
+New Front
+ULVERSTONE  WA  6350
+Specimen: Fluid,Tissue
+D.O.B:  14/7/1993
+Sex:  F
+Collected: 19/6/2064 at :
+Location:  3HR STAY SURGICAL UNIT - MUNGINDI HOSPITAL
+DR CARMEN MANOOKIAN
+Distribution:    NSW-CANCER-REGISTRY
+KRAS &NRAS MUTATION ANALYSIS 
+ST GEORGE PRIVATE Pathology  25/9/64
+
+CLINICAL:
+Pelvis mass.  Dukes adenocarcinoma of colon in 2052.  Renal cell carcinoma 2056.  ?new primary ovary cancer.  Pelvic mass ?new primary, frozen section
+MACROSCOPIC:
+A.  Specimen labelled "Left tube and ovary", consists of a predominately solid mass 150 x 130 x 110mm.  There is overlying fallopian tube 90mm in length.  The outer surface is smooth and lobulated.  The cut surfaces show mainly solid tan tissue with extensive necrosis.  There is a cystic cavity 40mm across.  Extending from one surface of the mass is a 55mm solid nodule, with lies adjacent to the fallopian tube.  
+Blocks: 1 and 2 - RS of solid nodule adjacent to fallopian tube for frozen section; 3 and 4 - solid nodule with fallopian tube; 5 to 7 - solid nodule near tube; 8 - interface with solid nodule and main necrotic mass; 9 to 15 - RS of necrotic appearing main mass.
+FROZEN SECTION REPORT:
+Adenocarcinoma. ?metastatic colon ?primary ovary
+Phone results to Dr Matelski by Dr F Perz at 15:00pm on 17.4.14
+B.  Specimen labelled "Uterus cervix R tube + ovary", consists of a uterus with cervix and right fallopian tube and ovary weighing 90g total.  The uterus with cervix is 85 x 60 x 25mm.  The ectocervix is 40 x 35mm.  The serosa is smooth and shiny.  The endometrium is less than 1mm thick.  The myometrium is up to 21mm thick.  Within the anterior fundus is an ill-defined tan nodule 12mm across.  The right fallopian tube is 40mm in length and the right ovary is 25 x 15 x 10mm.  The tube and ovary are unremarkable.
+Blocks: 1 to 3 - full longitudinal section of anterior body and cervix; 4 to 6 - full longitudinal section of posterior body and cervix; 7 - anterior nodule; 8 - right fallopian tube; 9 - right ovary.
+C.  Specimen labelled "Peritoneum from left paracolic gutter.", consists of a piece of peritoneum 20 x 12 x 1mm.  No obvious nodules are identified.  AE 1 block. 
+D.  Specimen labelled "Omentum", consists of a piece of omentum 320 x 90 x 10mm.  No obvious nodules are identified.  RS in three blocks. 
+(CS/vo 24.6.64) 
+MICROSCOPIC (Reported by Dr F Cabal):
+A.  The left ovary is almost completely replaced by an adenocarcinoma.  The adenocarcinoma is moderately differentiated with usual glandular/cribriform architecture.  Focal areas of necrosis are present.  The adjacent left fallopian tube is unremarkable.  The tumour cells are positive for CDX-2 and CK20.  The stains for CK7, CA125, ER, PR and TTF-1 are negative.  Theappearances and staining patterns are consistent with those of metastatic adenocarcinoma of colon.
+B.  Sections of uterus show a focal area of adenomyosis.  The rest of myometrium is unremarkable.  The endometrium shows no significant abnormality.  The serosa is unremarkable.  The cervix is unremarkable.  The right fallopian tube is unremarkable.  The right ovary is unremarkable.  There is no evidence of malignancy.
+C.  Sections show normal appearing fibrofatty tissue with no significant abnormality.  There is no evidence of malignancy.
+D.  Sections show normal appearing adipose tissue with no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Left ovary and tube - Metastatic adenocarcinoma.
+B.  Uterus,cervix, right tube and ovary - Focal adenomyosis.
+C.  Peritoneum from left paracolic gutter - No significant abnormality.
+D.  Omentum - No significant abnormality.
+KRAS & NRAS MUTATION ANALYSIS 
+POW L7 CONSULTING ROOMSPathology  25/9/64
+Histological typing:  Adenocarcinoma
+The sample was reviewed by a pathologist and was considered to have 30% tumour cells within the area selected for analysis.
+Please note: This is not a formal pathology review and is based solely on an H&E of the tissue provided and not on ancillary clinical or pathology information that may be available elsewhere.
+
+RESULTS			MUTATION DETECTED
+KRAS exon 2: c35C'T: p.GIyl2Vnl (G12V)
+KRAS				NRI4S
+Exon 2 Mutation detected	Exon 2 Test not requested
+Exon 3 No mutation detected	Exon 3 Test not requested
+Exon 4 No result		Exon 4 Test not requested
+
+INTERPRETATION
+The p.Glyl 12Val (G12V) mutation was detected in exon 2 ofthe KRAS gene indicating that this patient will be insensitive to anti-EGFR therapies.
+TEST DESCRIPTION/COMMENTS
+Samples arc screened for mutations inexons 2, 3 and 4 of the KRAS gene and exons 2, 3 and 4 of the NRAS gene. These exons contain the codona 12, 13, 59, 61. 117 and 146 that are frequently mutated in colorectal cancers. Mutations at these codons lead to constitutive activation of EGFR downstream pathways. Patients whose tumours have mutation in KRAS or NRAS are unlikely to benefit from treatment with anti-EGFR therapies.
+Approximately 35-45% of metastatic colorectal tumours harbour a KR.4Smutation whilst up to 6% will have a mutation in the NRAS gene. The vast majority (~90%) of all RAS mutations occur at codon 12 and 13 in exon 2 of the KRAS gene.
+Depending on sample quality, analysis is by Next Generation sequencing (massively parallel sequencing), Sanger sequencing, high resolution melt (HRM) analysis or pyrosequencing. Please note that synonymous changes and intronic variants outside of lice-sites will not be reported. References: Catalogue of Somatic Mutations in Cancer: http://www.sanger.ac.uk/geneticWCGP/cosmic/. Luo H.Y et al. (2014) World Journal of
+Gastroenterology 20 (14);3858-3874. Vaughn C et al. (2011) Genes, Chromosome t Cancer 50:307-312 Douillard J*Y et al. (2013) New England Journal Medicine 369 (11):1023-1034. Yokota T (2012) Anti-cancer Agents in Medicinal Chemistry 12:163-171.
+Reference Sequence GenBank Accession Number: KRAS NM_033360.2 NR.4S NM_0025 24.3.
+Reported by:  Barberr, PARIS
+		ALDEN BRENES
+Authorised by:  Dr Casandra Pradhan at 1:44 pm on 21/7/14   ta
+

@@ -1,0 +1,60 @@
+SPR no: 10M210560H
+MRN no: 104210
+Site_name: PETER MACCALLUM CANCER CENTRE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  10M210560H
+104210.ORA
+
+ORRISON, FLETCHER
+Lab No:  10M21056
+Shaded Leaf
+ADELAIDE  ACT  6705
+Specimen: Tissue
+D.O.B:  15/7/2008
+Sex:  M
+Collected: 22/03/2016 at 15:57
+Location:  Southern IML Pathology-SPRINGSURE HOSPITAL
+DR OTHA DEON LEINER
+Distribution:     FILE-COPY,   H. J. Heinz
+SUPPLEMENTARY REPORT:  (28.7.66)
+
+CLINICAL:
+Large tumour in sigmoid mesentery.  Core biopsy: solitary fibrous tumour at NATHALIA DISTRICT HOSPITAL&amp;#8217;s.  Appendicectomy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Large tumour in sigmoid mesentery retroperitoneal tumour stitch deep vascular margin&amp;#8221;, consists of a roughly ovoid tumour with a largely peritonealised grey/red smooth surface.  It measures 250 x 240 x 130mm and weighs 3.5kg.  There is an overlying length of attached bowel which is freely movable over one aspect of tumour and measures 270mm in length with a circumference of 70mm.
+The cut surface of the tumour has a pale grey/tan flesh-like appearance, with scattered pale grey and pale yellow areas.  The large bowel mucosa is unremarkable. The bowel margins are inked blue and the peritonealised tumour surface is inked black.  The mesenteric surgical margin (marked with a suture) is also inked black.  No lymph nodes are identified within the small amount of attached pericolic adipose tissue.
+Block 1- LS one colonic margin; 2- LS other colonic margin; 3 &amp;#8211; TS colon directly above tumour (the tumour is non-adherent to the bowel wall); 4-10 &amp;#8211; tumour and peritonealised surface; 11-25 &amp;#8211; representative tumour, including fibrous areas, presumed areas of necrosis, and possible fatty areas; 26-31 &amp;#8211; representative sections of fatty and vascular tissue adjacent to marking suture; 32-40 &amp;#8211; representative pericolic and mesenteric adipose tissue.
+B.  Specimen labelled &amp;#8220;Appendix&amp;#8221;, consists of a vermiform appendix measuring 70 x 10 x 9mm, with attached mesoappendix measuring up to 35mm in width. The serosal surface is pale grey and shiny. There are no lymph nodes.
+Blocks 1 &amp;#8211; LS complete distal tip; 2 &amp;#8211; LS complete proximal end; 3-5 &amp;#8211; TS remaining appendix. Entire appendix embedded.     (TO: JB/ec 25.5.66)
+
+MICROSCOPIC:  (REPORTED BY DR D Luskin)
+A.  The 250mm tumour is a circumscribed unencapsulated spindle cell tumour, composed of mild to moderately pleomorphic spindle cells arranged in a storiform and pattern-less architecture, with scattered admixed haemangiopericytomatous (stag-horn like) vessels. In areas, the cellularity is moderate to high. There are scattered mitoses, up to 15 per 10 hpf, and occasional foci of tumour associated necrosis. No marked cytologic atypia is seen. No convincing lymphovascular space invasion is seen. Tumour focally abuts the peritonealised surface. There is patchy admixed mild chronic inflammation. The surrounding fibroadipose tissue shows mild variation in adipocyte size, however, no lipoblasts or cytologic atypia are seen.
+COMMENT:
+Immunohistochemical stains were performed on the previously reported tumour core biopsy (INTENSIVE CARE UNIT S-16-02914) (CD99 and STAT 6+) and were not repeated.
+Overall, the morphology and pattern of immunohistochemical staining identified at RECOVERY is consistent with the diagnosis of solitary fibrous tumour. The clinical behaviour of solitary fibrous tumours may be unpredictable, however, the large size, increased cellularity, high mitotic rate (&amp;gt; 4/10 hpf) and presence of necrosis, portends more aggressive (malignant) behaviour in this case.
+Given the retroperitoneal location of this tumour, the possibility of a STAT6 positive dedifferentiated liposarcoma with a solitary fibrous tumour-like morphology, cannot be entirely excluded1. Although no background features of liposarcoma are seen within the adjacent adipose tissue, if clinically indicated, supplementary FISH testing for MDM2 amplification can be arranged.
+B.  The appendix has been examined in its entirety. The appendiceal lumen is expanded by a faecolith. There is no evidence of acute appendicitis. No pathogenic organisms or granulomas are identified. There is patchy acute serositis most likely related to intra-abdominal pathology. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Mesenteric tumour: Solitary fibrous tumour (malignant) (see comment).
+
+B.  Appendix: Fibrous obliteration of the tip.
+
+
+REFERENCES:
+1.  Creytens, Libbrecht and Ferdinande. Nuclear expression of STAT6 in dedifferentiated liposarcomas with a solitary fibrous tumour-like morphology: a diagnostic pitfall. Appl Immunohistochem Mol Morphol. Volume 23 (6) November 6 July 2015, pages 462 &amp;#8211; 463.
+SUPPLEMENTARY REPORT:  (28.7.66)
+
+MOLECULAR CYTOGENETICS REPORT:
+Reported by ADOLPH DELUCO, validated by Dr MYLES ROBERTO HAGEY, MONASH MEDICAL CENTRE - CLAYTON CAMPUS&amp;#8217;s Hospital.
+&amp;#8220;SUMMARY
+MDM2 amplification NOT detected.
+
+FISH Probe/s
+MDM2(12q15), D12Z3(12 centromere) loci-specific probe set (ZytoVision)
+ISCN Results
+nuc ish(MDM2,D12Z3)x3[14/48]
+Interpretation
+Interphase FISH showed no evidence of MDM2 amplification.  Copy number gain was observed for both MDM2 and D12Z3 in a proportion of cells.  Please correlate with other findings&amp;#8221;.

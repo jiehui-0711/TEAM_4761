@@ -1,0 +1,176 @@
+SPR no: 51C539688O
+MRN no: 8697781
+Site_name: ROYAL PRINCE ALFRED HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report51C53968 (51C539688O) Whipkey, Booker
+HISTOPATHOLOGY REPORT
+KYABRAM & DISTRICT HEALTH SERVICES AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right breast cancer.
+1.  Wide local excision -  right breast cancer
+2.  Axillary lymph nod dissection
+
+MACROSCOPIC:
+A.  &amp;quot;WIDE LOCAL EXCISION RIGHT BREAST CANCER&amp;quot;
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  50mm
+Superior to inferior:  36mm
+Anterior to posterior:  70mm
+WEIGHT:  81g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Non-standard:  Superior red, inferior green, medial blue, and lateral black
+DISSECTION: Cut from anterior to posterior
+Number of slices: 15
+FINDINGS / LESION:  Three separate lesions are identified
+Lesion 1.  Extending from slice 4-6, measuring 12mm anterior to posterior, 12mm superior to inferior and 10mm medial to lateral.  The lesion is within 1mm of the superior margin, 6mm of medial, 12mm of inferior, 16mm of anterior, 30mm of lateral and well clear of the posterior margin by 40mm.
+Lesion 2:  Extending from slice 8-14 (largest lesion) measuring 32mm medial to lateral, 28mm anterior to posterior, 23mm superior to inferior.  This lesion abuts the inferior and medial margins macroscopically and is located 7mm from the superior, 2mm of lateral, 8mm of posterior and 32mm of anterior margin.  It is separate from lesion 1 by slice 7 (4mm).
+Lesion 3:  Extending from slice 9-10 measuring 10mm medial to lateral by 8x6mm. It abuts the superior margin, and well clear of the other margins by 15mm.  It is located 5mm of lesion 2.
+(1 three LS slice 1 [anterior}; 2&amp;amp;3 slice 2; 4 medial slice 3; 5 medial slice 4 [start of lesion 1]; 6-8 slice 5; 9 medial slice 6 [end of lesion 1]; 10-13 full face of slice 7; 14&amp;amp;15 mid slice 8 [start of lesion 2]; 16-19 full face slice 9 [start of lesion 3 and lesion 2]; 20 superior slice 10 [lesion 1 and lesion 2]; 21-23 lesion 2 with inferomedial margin in slices 10-12 respectively; 24&amp;amp;25 slice 15; 26&amp;amp;27 each three LS slice 15 [posterior]).  RS (M-27 [Please see block diagram])
+B.  &amp;quot;AXILLARY LYMPH NODE DISSECTION RIGHT&amp;quot;.  Multiple fibrofatty pieces of tissue measuring 110x70x40mm.  Multiple lymph nodes identified.  The largest lymph node measures 32x28x15mm and is totally effaced by firm white deposit.
+(1 one lymph node serially sliced; 2 five lymph nodes; 3 one lymph node five TS; 4 one lymph node six TS;  5 one lymph node five TS; 6 one lymph node trisected; 7 RS largest involved lymph node; 8 one lymph node four TS; 9 one lymph node bisected; 10 one lymph node serially sliced; 11 ?four lymph nodes).  RS (M-11/ZH 3/1/2071 nh)
+MICROSCOPIC: (Dr N Strosnider)
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA: Right breast
+&amp;#160;
+NUMBER OF INVASIVE FOCI: 3
+&amp;#160;
+Tumour 1:
+MAXIMUM INVASIVE TUMOUR SIZE: 32mm with a 8mm satellite focus on inferior aspect
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive ductal carcinoma of no special-type
+&amp;#160;
+HISTOLOGIC GRADE: 3
+
+SCORES Tubules: 3   , Nuclei: 3   , Mitoses: 2   ; Total score: &amp;#160;8&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;13&amp;#160;mitoses per 10 high power fields
+
+Tumour 2
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;12mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive ductal carcinoma of no special-type
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules:  3  , Nuclei: 3   , Mitoses:  1  ; Total score: &amp;#160;7&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;&amp;#160;5 mitoses per 10 high power fields
+
+Tumour 3:
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;10 mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive ductal carcinoma of no special-type
+&amp;#160;
+HISTOLOGIC GRADE: 3
+
+SCORES Tubules: 3   , Nuclei:  3  , Mitoses:  3  ; Total score: 9&amp;#160;(of 9)
+
+MITOTIC RATE: 22&amp;#160;mitoses per 10 high power fields
+
+WHOLE TUMOUR SIZE (ALL INVASIVE + DCIS): 48mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Present, one or two foci
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: Not assessed
+
+DERMAL LYMPHOVASCULAR INVASION: Not assessed
+&amp;#160;
+NIPPLE INVOLVEMENT: Not assessed
+&amp;#160;
+MUSCLE INVOLVEMENT: Not assessed
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: Cover an area of 44mm within and surrounding the area of invasive carcinoma.
+Nuclear grade: High-grade
+Architecture / type: Present
+Necrosis: Present
+Microcalcification of DCIS: Focally present
+Extensive intraduct component: Present
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma focally involves the superior margin (&amp;lt;1mm wide, block 18), 0.2mm from the supero-medial margin (6), 1mm from the inferior, 3mm from the lateral and &amp;gt;8mm from the anterior and posterior margins.
+&amp;#160;
+DCIS MARGINS:
+DCIS focally involves the superior margin (9) and the inferior margin (1mm wide block 15) and lies 0.2mm from the supero-medial margin (6, 7), with 3mm to the lateral and at least 8mm to the anterior and posterior margins.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, blocks A9, A20
+
+Tumour 1
+ER:  WEAK POSITIVE   1%   1-2+
+PR:  WEAK POSITIVE  1%    2+
+HER2: POSITIVE 3+
+Ki67:    60%&amp;#160;
+
+Tumour 2:
+ER:  NEGATIVE (0)
+PR:  NEGATIVE (0)
+HER2: POSITIVE 3+
+Ki67:    50%
+
+
+Tumour 3:
+ER:  WEAK POSITIVE   1%   1-2+
+PR:  NEGATIVE (0)
+HER2: POSITIVE 3+
+Ki67:    80%
+
+Other tumour block suitable for further testing:
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS: Moderate peri-tumoral TILs are present.
+&amp;#160;
+LYMPH NODES
+AXILLARY LYMPH NODES:
+
+Nodes with macrometastases: 	3
+Nodes with micrometastases: 	0
+Nodes with isolated tumor cells: 	0
+Total number of nodes examined: 	16
+
+Size of largest tumour deposit: 32mm
+Extra-nodal spread: focally present 1.5mm beyond the lymph node capsule
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): mpT2 pN1a
+
+DIAGNOSIS:
+A. WIDE LOCAL EXCISION RIGHT BREAST CANCER
+- 3 FOCI OF INVASIVE DUCTAL CARCINOMA, 32mm GRADE 3, 12mm GRADE 2 &amp;amp; 10mm GRADE 3, WITH WIDESPREAD EXTENSIVE DCIS OVER AN AREA OF 44mm.
+- FOCALLY INVOLVED SUPERIOR /SUPERO-MEDIAL &amp;amp; INFERIOR MARGINS.
+- ALL TUMOURS HER2 POSITIVE IHC 3+ (SISH TO FOLLOW)
+B. AXILLARY LYMPH NODE DISSECTION RIGHT
+- METASTATIC CARCINOMA IN 3 OF 16 NODES.
+30/3/2067 cy
+SUPPLEMENTARY REPORT:
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:          POSITIVE (main tumour)
+Mean HER2 copy number per cell: 12.7
+Mean CEP17 copy number per cell: 2.2
+HER2/CEP17 Ratio: 5.8
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt;2.0, Average HER2 &amp;gt; 6.0
+Positive: HER2/CEP17 &amp;gt; 2.0
+Reported by: Dr N Wisenor
+Date: 05.12.18

@@ -1,0 +1,42 @@
+SPR no: 79D969590I
+MRN no: 7919695
+Site_name: BALAKLAVA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 2 endometrial cancer.  Hysteroscopy 4.3.66.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Uterus, cervix, tubes and ovaries&amp;#8221; consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 69g in total.
+The uterus was received opened and small fragments of endometrial tumour and normal endometrium were taken for a research study on receipt.
+The uterus measures 65 x 35 x 20mm and has a smooth shiny serosal surface.
+The ectocervix measures 20 x 20 mm and has an unremarkable surface. On sectioning the endometrium is 2mm in maximum thickness and the myometrium is 12mm in maximum thickness.
+Arising from the anterior endometrium at the fundus, 50mm from the cervical os, is a pale polypoid tumor measuring 20 x 15 x 3mm. The tumor appears to invade into the inner half of the myometrium only.  A smaller deposit of tumor is on the posterior surface, measuring 6 x 5 x 3mm.
+The myometrium contains multiple fibroids ranging from 3 to 30 mm in maximum diameter.
+The right fallopian tube measures 60mm in length and 7mm in maximum diameter.
+The right ovary measures 23 x 15 x 8mm and has an unremarkable cut surface.
+The left fallopian tube measures 60mm in length and 6mm in maximum diameter.
+The left ovary measures 24 x 20 x 10mm and has an unremarkable cut surface.
+Blocks:  1 to 3 - full longitudinal section of posterior body and cervix; 4 to 6 - posterior wall tumour; 7 to 9 - full longitudinal section of anterior body and cervix; 10 - anterior wall tumor; 11 to 16 - anterior wall tumour ; 17 &amp;amp; 18- RS anterior wall fibroid; 19 - right fallopian tube fimbrial end, RS fallopian tube, RS right ovary; 20 - left fallopian tube fimbrial end, RS fallopian tube, RS left ovary. Comment - All of the tumor is embedded.
+
+B.  Specimen labelled &amp;#8220;Right labial biopsy&amp;#8221; consists of a single piece of tan tissue measuring 5 x 4 x 3mm.  AE 1 block.  (TO: MS; MS/rt 6.7.66)
+
+
+MICROSCOPIC (Reported by Dr U Cheu and registrar Dr U Baughn):
+A.  Sections of the cervix are unremarkable.
+Sections of the endometrial tumour show a FIGO Grade 2 endometrioid adenocarcinoma arising from the anterior and posterior endometrium at the fundus.  There is no definite myometrial invasion.  There is no lymphovascular invasion and no cervical involvement.
+There are multiple benign leiomyomas present within the anterior and posterior myometrium.  There is also adenomyosis in the myometrium.
+The endometrium away from the tumour is inactive and shows chronic endometritis.
+Sections of the ovaries and fallopian tubes are unremarkable.
+
+B. Sections show stratified squamous epithelium with underlying tissue.  The epithelium shows orthokeratosis.  There is a very mild infiltrate of scattered lymphocytes in the underlying tissue, with focal extension into the epithelium.  The appearances are non-specific but possibly represent early/mild lichen sclerosus.  There is no dysplasia.
+
+
+DIAGNOSIS:
+A.  Uterus, ovaries and fallopian tubes:
+1.  FIGO Grade 2 endometrioid adenocarcinoma of the endometrium, Stage 1A.
+2.  Chronic endometritis.
+3.  Leiomyomas and adenomyosis.
+
+B.  Right labial biopsy:  See text.

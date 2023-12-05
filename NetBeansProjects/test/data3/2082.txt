@@ -1,0 +1,77 @@
+Episode No:  42Y678842W
+429678.WMG
+
+EKAS, Dominick GROVER 
+Lab No:  42Y67884
+Triphammer
+BAXTER  Northern Territory3076
+Specimen: Tissue
+D.O.B:  29/9/1980
+Sex:  F
+Collected: 25/12/2064 at :
+Location:  PERI-OPERATIVE UNIT-BURRA HOSPITAL
+DR LOWELL Eila SYNDERGAARD
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Sentinel node biopsy.  Invasive lobular cancer.  Multifocal (10 o'clock 5cm and 7cm FN).  Right mastectomy.  Marking suture long lateral/short superior.
+MACROSCOPIC:
+A.  Specimen labelled "Right sentinel node imprint", consists of a piece of fatty tissue 30mm.  Three lymph nodes are identified.  Lymph node 1 is 6mm, lymph node 2 is 8mm and lymph node 3 is 4mm.  Each lymph node was serially sectioned and imprinted.  Block 1- lymph node 1; 2 - lymph node 2; 3 - lymph node 3.  
+INTRAOPERATIVE IMPRINT CYTOLOGY:  
+Three lymph nodes, no evidence of malignancy.
+Reported to anaesthetist by Dr L Gabossi at 3:05pm on 25/12/64. 
+B.  Specimen labelled "Tissue right breast, long lateral, short superior", consists of a mastectomy measuring 140mm (medial to lateral) x 135mm (inferior to superior) x 42mm (superficial to deep). There is an overlying ellipse of skin measuring 150mm (medial to lateral) x 80mm (inferior to superior). The skin includes a nipple areolar complex measuring 30 x 30mm which appears unremarkable. The superficial margin is inked blue and the deep margin is inked black.  In the 9-10 o'clock position 45-70mm from the nipple there is a firm cream partly stellate area measuring 28mm (medialto lateral) x 25mm ( inferior to superior) x 15mm (superficial to deep). The lesion is 6mm from the deep margin, 22mm from the supero-superficial margin and 30mm from the supero-inferior margin and well clear of both the medial and lateral margins. The area appears to be one discrete mass.  Two different areas of core biopsy tract are identified within this mass.  Blocks 1-8 - entire area of tumour embedded; 9 - tissue lateral to tumour; 10 - tissue medial to tumour; 11 - tissue inferior to tumour; 12 - tissue superior to tumour; 13-14 - inner upper quadrant; 15-16 - inner lower quadrant; 17-18 - outer lower quadrant; 19-20 - outer upper quadrant; 21- nipple and tissue deep to nipple.  Please refer to attached diagram. 
+(TO: FC/ec  26.12.64); 22 - superficial margin in mid portion of tumour; 23 - skin overlying tumour; 24 - further representative superficial margin at medial aspect of tumour; 25 & 26- tissue lateral to tumour.  (TO: OJ  DZ/mm 30.12.64) 
+MICROSCOPIC: (Reported by Dr L Eddens) 
+A.  Three (3) lymph nodes show no evidence of malignancy (0/3).  The CAM 5.2 keratin immunostains are negative.  
+B.  Sections show a single 33mm grade 2 infiltrating lobular carcinoma.  Two apparently separate core biopsy tracts are identified within the contiguous tumour.  The tumour has the following features.
+Invasive carcinoma:
+Site:  Right breast.  
+Type:  Infiltrating lobular carcinoma.  
+Invasive tumour size:  Approximately 33mm (combined gross and microscopic estimate)
+Grade(Modified Bloom & Richardson): 2
+Tubules:  3  Nuclei:  2  Mitoses:  1  Mitotic rate:  3/10hpf.
+Lymphovascular invasion:  Not seen.
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS: Approximately 20mm.
+Nuclear grade:  Intermediate.
+Architecture:  Solid and cribriform.  
+Necrosis:  Present (focal).
+Calcification:  Present (focal)
+Degree of DCIS in tumour:  Nil. 
+DCIS in adjacent tissue:  Moderate.
+Excision Margins:  
+Invasive component:  
+Deep  Less than 0.1mm(B3 - keratin stain).  The tumour abuts but does not appear to infiltrate striated muscle in this area. 
+Other margins well clear.  
+In-situ component:  Deep 5mm clear (B8).  Other margins wellclear.  
+Receptors (Block B2): 
+ER:  Positive. 
+	100% of nuclei stained
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	10 % of nuclei stained
+	predominant intensity of staining:  Moderate.
+HER2 (Novocastra 10A7):  Negative (1+).
+HER2 SISH:  Performed at Lennar Corporation, CALVARY MATER NEWCASTLE Hospital, see separate report.
+Ki-67 index: Approximately 5%
+Nipple:  Not involved. 
+LCIS / ALH:  Foci of atypical lobular hyperplasia present.  
+Miscellaneous:  Two apparently separate core biopsy tracts are identified.  A 9mm sclerosed fibroadenoma with dystrophic stromal calcification is also seen.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3
+Number of sentinel lymph nodes involved by tumour:  0
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0
+
+Axillary/other nodes:
+Number of axillarylymph nodes examined:  Nil.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  3
+Total number of involved lymph nodes (including sentinel node(s)):  0
+DIAGNOSIS:
+A&B.  Right axillary sentinel lymph nodes and right mastectomy.  
+-  33mm grade 2 infiltrating lobular carcinoma,  ER positive, PR positive, HER2 SISH see separate report, no lymphovascular invasion seen, deep margin less than 0.1mm, other margins well clear (>10mm); 20mmintermediate grade DCIS, deep margin 5mm clear, other margins well clear
+-  3 negative sentinel lymph nodes(0/3).
+

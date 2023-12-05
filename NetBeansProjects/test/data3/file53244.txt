@@ -1,0 +1,37 @@
+SPR no: 63D005546M
+MRN no: 631005
+Site_name: BOYUP BROOK SOLDIERS MEMORIAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report63D00554 (63D005546B) MARTINDELCAMP, KELVIN Monte
+HISTOPATHOLOGY REPORT
+KOOWEERUP REGIONAL HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+SCC vulva.  Bilateral sentinel nodes
+1.  Left groin node - sentinel
+2.  Right groin node - sentinel
+3.  Anterior vulva, clitoris 12 o&amp;apos;clock sutured
+
+MACROSCOPIC:
+A.  &amp;quot;CLITORIS ANTERIOR VULVA SUTURE 12 O&amp;apos;CLOCK&amp;quot;.  Received pinned on a piece of paper, a piece of mucosa, skin, measuring 65x45mm with underlying tissue to a depth of 16mm.  A suture is noted at the 12 o&amp;apos;clock margin.  There is a lesion central in the specimen towards 9 o&amp;apos;clock measuring 23x21mm with a polypoid and focally ulcerated surface.  The 12 o&amp;apos;clock margin is inked blue, the 6 o&amp;apos;clock is inked black.  The specimen is serially sliced from 3 o&amp;apos;clock to 9 o&amp;apos;clock into 12 slices.
+
+(1 LS slice 1 [3 o&amp;apos;clock margin]; 2 slice 2; 3&amp;amp;4 slice 5; 5&amp;amp;6 lesion slice 6; 7&amp;amp;8 lesion slice 9; 9 lesion slice 11; 10 LS slice 12 [9 o&amp;apos;clock margin].  RS (M-10 [Please see block diagram])
+
+B.  &amp;quot;RIGHT GROIN NODE&amp;quot;  A fibrofatty piece of tissue 30x15x15mm bearing one lymph node with a focal blue tinge measuring 17x10x5mm, serially sliced.  AE (M-1)
+
+C.  &amp;quot;LEFT GROIN NODE&amp;quot;.  A fibrofatty piece of tissue 20x15x10mm.  The cut surface reveals one lymph node with blue discolouration 14x6x5mm, serially sliced.  AE (M-1/ZH 5/8/2068 nh)
+
+MICROSCOPIC: (Dr Q Carbajal)
+A.  The sections show skin that is partly denuded.  There is a broad area of lichen sclerosis including hyalinised superficial dermal connective tissue with dense lichenoid lymphoid infiltrate.
+There is moderately differentiated squamous cell carcinoma that invades into underlying connective tissue with a depth of invasion of 3mm and with an accompanying dense lymphoid infiltrate.  No vascular space or perineural invasion is identified.  No definite changes of adjacent VIN are seen .
+Squamous carcinoma is 5mm from the deep margin; is 4mm from the 6 o&amp;apos;clock margin; is 11mm from the 12 o&amp;apos;clock margin; is 7mm from the 9 o&amp;apos;clock margin, and is greater than 13mm from the 3 o&amp;apos;clock margin.
+Immunohistochemistry: P16 shows predominant mosaic pattern staining with focal stronger staining.
+B.  The sections show lymph node with reactive changes.  AE1/AE3 is negative.  Negative for malignancy.
+C.  The section shows lymph node with reactive changes.  AE1/AE3 is negative.  Negative for malignancy.
+DIAGNOSIS:
+A.  CLITORIS ANTERIOR VULVA:
+-  MODERATELY DIFFERENTIATED SQUAMOUS CELL CARCINOMA, LICHEN SCLEROSIS.
+B.  RIGHT GROIN NODE:  NEGATIVE FOR MALIGNANCY
+C.  LEFT GROIN NODE:  NEGATIVE FOR MALIGNANCY
+9/10/2071 nh

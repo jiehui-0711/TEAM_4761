@@ -1,0 +1,40 @@
+
+Episode No:  99S034828M
+9960348.HVM
+
+BONUS, FELICA-META 
+Lab No:  99S03482
+Bellatrix
+BEACONSFIELD UPPER  South Australia3793
+Specimen: Tissue
+D.O.B:  1/9/2031
+Sex:  F
+Collected: 18/12/2013 at 11:27
+Location:  Anatomical-BRAIDWOOD MULTI PURPOSE SERVICE
+DR GIOVANNI CLIFTON ALDEN-HILDRED
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast Ca.  Had neo-adjuvant chemotherapy.  For WLE + SLNBx.  2 separate foci at 4 o'clock 3cm and 6cm FN.  Post neo-adjuvant chemo.  Short superior, long lateral, medium medial.  Sentinel nodes sent separately.  Negative on imprint cytology.  Noted by (CA) 
+MACROSCOPIC:
+A.  Specimen labelled "Left sentinel node", consists of two lymph nodes 7 x 7 x 4mm and 5 x 4 x 3mm imprints taken for each. 
+Blocks: 1 - one lymph node; 2 - one lymph node.
+
+IMPRINT CYTOLOGY REPORT:
+No tumour seen.
+Phone results to Dr. JOSH-ANDRE by Dr. Z Broerman at 12:50 on 18.12.13
+B.  Specimen labelled "Left breast lump long lateral short superior medium medial", consists of a piece of breast tissue with three marking stitches and a guide wire measuring 75 (lateral to medial) x 40 (superior to inferior) x 55 (superficial to deep)mm.  The margins are inked in three colours: Superior red, superficial/inferior blue and deep black.  There are poorly demarcated grey fibrous looking areas in all slices.  There is punctate haemorrhage in slice three.A discreet solid nodule is not identified.  A metal clip is not identified within the specimen.
+Blocks: 1 to 6 - slice one (lateral); 7 to 11 - slice two; 12 to 15 - slice three (inferior margin undercut on block15); 16 to 20 - slice four; 21 to 25 - slice five; 26 to 30 - slice six; 31 to 34 - slice seven; 35 to 38 - slice eight; 39 to 42 - slice nine (39 superficial margin only) 43 to 45 - slice10 please note the nick in blocks 8, 17, 22 and 32 are opposite inferior margin and the nick in slice 21 is opposite the superior margin.  AE.  Please see diagram.  Please note the specimen has been x-rayed. 
+(TO: MP;AX/vo 21.2.63)
+MICROSCOPIC (Reported by Dr Z Vallelonga):
+A.  Two lymph nodes show reactive changes only (0/2).  The CAM 5.2 keratin immunostains are negative. 
+B.  The specimen has been entirely blocked. Two clips are present within the post-operative specimen radiographs. These were not identified at the time of gross dissection,however, a single clip is present within a radiograph of the specimen blocks (block 18).  The second clip has presumably been displaced during processing.  In the vicinity of the clip there is an area of mild fibrosis, chronic inflammation and numerous histiocytes consistent with astromal response to neoadjuvant chemotherapy (eg blocks 18 & 23).  Within the areas of altered stroma the histiocytes are highlighted with a CD68 immunostain while keratin AE1/AE3 immunostains are negative.  No residual invasive carcinoma is seen in multiple levels examined in this area and through multiple slices extending to a  separate area in which there is a similar stromal response (? site of unidentified clip - block 34). There are dispersed scattered foci of ductal carcinoma in situ (DCIS) with clinging and cribriform architecture distributed across 12mm (three consecutive slices).  No necrosis is seen and there are sparse associated microcalcifications which are also seen within benign glands.  The DCIS is 3mm clear of the superior margin (block 23L1), 9mm clear of the inferior margin (block 27L3) and well clear (>10mm) clear of the remainingmargins.  Elsewhere the breast tissue shows focal fibroadenomatoid change, ductal hyperplasia of usual type, cystically dilated ducts, patchy mild lobular and ductal chronic inflammation and focal pregnancy-like change. There are also several foci of acute inflammation presumably relating to the hookwires.  (ec) 
+The previous biopsies (99S03482) were reviewed when reporting this case.
+COMMENT:
+With a caveat that grading may not be reliable post therapy the DCIS appears intermediate to high grade.  
+DIAGNOSIS:
+A, B.  Left sentinel lymph nodes and left breast (wide local excision):
+-  High grade DCIS distributed over 12mm, margins clear (see comment).
+-  No residual invasive carcinoma seen.
+-Stromal changes consistent with neoadjuvant chemotherapy.
+-  Two negative sentinel lymph nodes (0/2). 
+

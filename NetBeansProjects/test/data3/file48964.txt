@@ -1,0 +1,60 @@
+SPR no: 93C3651495
+MRN no: 93136514
+Site_name: EAST GRAMPIANS HEALTH SERVICE - ARARAT
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportADDITIONAL REPORT (27/9/69)
+
+CLINICAL:
+Excision of large subcutaneous soft tissue tumour from the lateral aspect of the left thigh - highly vascular, appears to be composed of predominantly fat - dissection included fascia over fascia lata.  Specimens:  1.  Lesion left thigh - suture marks 12 o&amp;apos;clock.  2.  New deep margin 12 o&amp;apos;clock. For Biobank - consented.  A 5cm incision is made into the skin and a 5 x 3 x 3mm tumour was taken for Biobanking by FY 27.11.2066 at 11am.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Lesion left thigh with suture markings&amp;quot;, consists of an ellipse of skin, 190 x 60mm with underlying soft tissue until fascia measuring 190 x 110 x 65mm weighing 518g with a suture denoting 12 o&amp;apos;clock.  The 3 o&amp;apos;clock margin is inked blue, 9 o&amp;apos;clock margin inked green and the deep margin is inked black. Specimen is serially sliced from 12 o&amp;apos;clock to 6 o&amp;apos;clock.  There is a pale salmon pink tumour measuring 90mm from 3 o&amp;apos;clock to 9 o&amp;apos;clock, 45mm superficial to deep and 50mm 12 o&amp;apos;clock to 6 o&amp;apos;clock. There are no areas of haemorrhage or necrosis. There is a 3mm cystic area in slice 11 and there is a slightly paler area in slice 8 measuring 30 x 30mm.  The tumour is 1mm away from the deep margin, 3mm away from 3 o&amp;apos;clock margin, 3mm away from 9 o&amp;apos;clock margin, 7mm away from superficial margin, and is well clear of the 12 o&amp;apos;clock and 6 o&amp;apos;clock margins.
+Block 1 &amp;amp; 2 - LS of 12 o&amp;apos;clock margin; 3 &amp;amp; 4- LS of 6 o&amp;apos;clock margin; 5 &amp;amp;  6- RS of slice 6; 7 - RS of slice 7; 8 &amp;amp; 9 - RS of slice 8; 10 - RS of slice 9; 11 &amp;amp; 12 - RS of slice 10; 13-15 - RS of slice 11; 16 &amp;amp; 17 - RS  of slice 12.
+
+B.  Specimen labelled &amp;quot;New deep 12 o&amp;apos;clock margin&amp;quot;, consists of a piece of tissue measuring 20 x 18 x 5mm.  The specimen is not oriented.  The specimen is inked blue and serially sliced.  AE 2 blocks.  (TO:FY/ec 27/8/69)
+
+
+MICROSCOPIC (Reported by Dr X Coache):
+A. Sections show skin with underlying fat and fibrous fascia. Within the subcutaneous fat, there is a cellular, well circumscribed lesion composed of elongated to spindle shaped tumour cells, arranged in a patternless pattern. The cells have mildly enlarged, ovoid to elongated nuclei with fine chromatin, and are surrounded by collagenous stroma. In some areas, there are up to 6 mitoses per 10 hpf. Minimal focal necrosis is seen in &amp;lt; 5% of the lesion.
+
+Immunohistochemistry:
+bcl-2: +ve
+CD34: +ve
+Ki67 index: approx. 10%
+TLE-1: -ve
+panCK: focal +ve
+c-kit: -ve
+CD99: -ve
+Myogenin: -ve
+EMA: focal +ve
+Desmin: -ve
+SMA: -ve
+SOX10: -ve
+
+Margins:
+Deep: 0.7mm (A8)
+3 o&amp;apos;clock: 2.5mm (A12)
+9 o&amp;apos;clock: 7mm (A13)
+Other margins: &amp;gt; 10mm
+
+B. Sections show fat and skeletal muscle with no evidence of tumour.
+
+
+COMMENT
+The features would strongly favour a solitary fibrous tumour.  Confirmatory  stat-6 staining will be performed at WEST WIMMERA HEALTH SERVICE - JEPARIT&amp;apos;s Hospital, MURWILLUMBAH.
+
+Note there is increased mitotic activity (6 per 10 hpf) and focal necrosis. These features, although not definitively diagnostic, have been previously described in association with malignant solitary fibrous tumours.
+
+
+DIAGNOSIS:
+A. Lesion left thigh:
+- 90mm spindle cell lesion, strongly favour solitary fibrous tumour (see comment)
+- Confirmatory stat-6 staining to follow
+B. New deep margin 12 o&amp;apos;clock: no evidence of tumour
+
+ADDITIONAL REPORT (23/10/69)
+Stat-6 immunohistochemistry, performed at CARITAS CHRISTI HOSPICE&amp;apos;s Hospital, WAIKERIE, is negative. This would be against the diagnosis of solitary fibrous tumour.
+
+Other differential diagnoses considered include: 1) dermatofibrosarcoma protuberans, but the absence of invasion would be unusual for this, 2) cellular fibrous histiocytoma, but the presence of CD34 staining would be against this and 3) synovial sarcoma, but negative TLE1 staining would be against this.
+
+In view of the unusual morphology and immunohistochmistry findings, the case will be sent to Dr Charlie GIMM, TULLY HOSPITAL Hospital, for external review.

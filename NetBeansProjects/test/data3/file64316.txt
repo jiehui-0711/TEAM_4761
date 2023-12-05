@@ -1,0 +1,43 @@
+SPR no: 77X660644F
+MRN no: 7786606
+Site_name: ORANGE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+High grade undifferentiated sarcoma. Received neoadj chemo Rtx.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Sarcoma right back stitch at 12 o&amp;apos;clock&amp;quot;, consists of an oriented excision of soft tissue, 170mm (12 to 6 o&amp;apos;clock) by 150mm (medial to lateral) and up to 60mm (deep). There is a superficial ellipse of skin, 190 x 45mm. The tissue is received fresh and sampled for biobank, (superficial medial aspect of tumour, 6 o&amp;apos;clock area of skin). The specimen is inked: superficial medial blue, superficial lateral orange and deep black. Excision is sliced from 12 to 6 o&amp;apos;clock at 10 to 15mm intervals and demonstrates a poorly circumscribed myxoid and pale lesion infiltrating into fat and skeletal muscle. The indistinct changes commence in slice two and end in slice nine. The lesion measures 120 x 95 x 38mm. Strands of myxoid appearing tumour extend to the superficial medial margin and are present at the deep margin where tumour appears more solid. No definite tumour necrosis is macroscopically appreciated. The bulk of preserved skeletal muscle is towards the lateral aspect. The overlying skin is unremarkable. Blocks: 1 to 4 - LS superior/12 o&amp;apos;clock margin with possible close tumour margin; 5 to 7 - superficial medial margin (from slice two, three and four, respectively); 8 - medial margin, slice four; 9 to 11 - deep margin (from slice four, five and seven respectively); 12 to 14 - superficial lateral margin (from slice two, four and five respectively); 15 - lateral margin, slice seven; 16 - TS through 6 o&amp;apos;clock/inferior margin. Please see diagram.    (TO:AP/ta 27/1/73)
+MICROSCOPIC (Reported by Dr U Colborn):
+Sections show skin to subcutis with underlying deep soft tissue including adipose tissue and striated muscle. Predominantly centred within the deep soft tissue, but focally infiltrating deep subcutaneous tissue,  is a poorly circumscribed cellular tumour with varying morphology. There is a fascicular cellular spindle cell component featuring hyperchromatic pleomorphic spindle cells arranged in interstecting fascicles (eg. block 6, 7). The spindle cells display granular chromatin, rounded ends, ill defined cell border and eosinophilic cytoplasm. Interspersed pleomorphic multinucleate giant cells are also seen. Elsewhere less cellular but highly infiltrative spindle and round cells show patternless infiltration of striated muscle and fat with associated fibrous or fibromyxoid stroma. In some areas the fat shows variation in cell size and contains  occasional hyperchromatic atypical nuclei, which together with the cellular pleomorphic component, raises consideration of dedifferentied liposarcoma (eg block 5). Focal lipoblast-like cells are also seen (eg. block 5). Occasional nodules of epitheliloid cells amongst myxoid or fibromyxoid stroma are also seen (eg. block 6, 1). These cells have moderate to highly pleomorphic often highly irregular nuclei with , vesicular chromatin, occasional macronucleoli, intranuclear inclusions and a moderate amount vacuolated or eosinophilic cytoplasm. Mitoses number up to 3/10hpf. There is patchy hyalinisation and areas of reduced tumour cell cellularity, however, definite tumour necrosis is not identified. There is a patchy perivascular chronic inflammatory cell infiltrate of lymphocytes and plasma cells.  An associated infiltrate of neutrophils is seen in one of these nodules. The dermis and epidermis are uninvolved and unremarkable.
+
+Margins:
+Deep:       Positive (striated muscle - block 9 &amp;amp;10, fibroadipose connective tissue block 11)
+Superior:  Multifocal positive (blocks 1,2, 3 &amp;amp; 4)
+Medial:     Positive (block 8)
+Medial superficial (deep to fascia): Positive (block 5, 7
+Lateral superficial : Probably positive (focal in superior half of specimen)(block 13)
+LateraL:   Well clear
+Inferior:    Well clear
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the tumour cells stain as follows:
+Positive: MNF116  &amp;amp; AE1/ AE3, (patchy in epithelioid areas), EMA. SMA and Desmin. INI1 (retained normal pattern), H3meK3 (retained normal)
+Negative: S100, SOX10, Melan A, HMB45, MUC4, Myogenin, CD34 and CD31
+
+FNLCC Grade):
+Tumour differentiation:  3
+Necrosis: 		   0 (not seen)
+Mitoses:	               1 (3/10hpf)
+Total score:                   4
+Grade:			   2
+
+COMMENT:
+The features are those of a malignant cellular pleomorphic tumour composed of spindled. round, epithelioid and giant cells. There is patchy smooth muscle differentiation. The differentials considered include dedifferentiate liposarcoma with smooth muscle differentiation and pleomorphic leiomyosarcoma. Pleomorphic leiomyosarcomas may express keratin and EMA. The presence of smooth muscle differentiation argues against undifferentiated pleomorphic sarcoma.  Tissue will be sent to Concord Hospital for mdm2 FISH analysis with mdm2 amplification expected if this is a dedifferentiated liposarcoma. An additional report will be issued. While the tumour is FNLCC grade 2, comparison with the predicted grade in the pretreatment biopsy is suggested as grading may not be reliable post therapy. There is patchy hyalinisation and areas of reduced tumour cellularity which is interpreted as a response to prior therapy, however, no definite treatment related necrosis is seen.
+
+
+DIAGNOSIS:
+Sarcoma right back stitch at 12 o&amp;apos;clock:
+-  Pleomorphic sarcoma ? dedifferetiated liposarcoma ? pleomorphic leiomyosarcoma, positive margins (see text)(see comment).
+-  Additional report to follow.

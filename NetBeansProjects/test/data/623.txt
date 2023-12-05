@@ -1,0 +1,57 @@
+Episode No:  21I365156M
+213365.ENR
+
+VULLO, WINSTON 
+Lab No:  21I36515
+Ivy Bank
+WOOLGOOLGA  Queensland  3902
+Specimen: Tissue
+D.O.B:  5/5/2030
+Sex:  M
+Collected: 05/01/2013 at 16:35
+Location:  3HR STAY SURGICALUNIT-MOYNE HEALTH SERVICES
+DR MARK PRINCE DOUVIA
+Distribution:   FILE-COPY
+CLINICAL:
+Neurofibromatosis type 1.  Chronic gastritis.  Bleeding peptic ulcer and pyloric stenosis, incidental lesion appendix andalso proximal jejunum and liver mets. Patient has NF type 1:  Distal gastrectomy. 2.  Proximal jejunum.  3.  Appendix.  4.  Segment 5 liver biopsy.  5.  Right gastroepiploic lymph.  
+MACROSCOPIC:
+A.  Specimen labelled "Stomach as some parts of duodenum" consists of a distal gastrectomy measuring 70 x 50 x 30mm with omentum attached, 155 x 60 x 15mm.  Proximal margin inked blue, distal margin inked green.  An area of stenosis is present in the distal aspect of the specimen. The specimen has been partially opened in the distal aspect.  
+Blocks:  1 to 3- distal margin with duodenum; 4 to 6 - proximal margin with pylorus; 7 & 8 - proximal margin anterior stomach; 9 - representative mucosa anterior stomach; 10 - proximal margin posterior stomach; 11 to 15 - omental lymph nodes (11 - six possible lymph nodes; 12 - four possible lymph nodes; 13 - four possible lymph nodes; 14 - five possible lymph nodes; 15 - one trisected lymph node).  
+B.  Specimen labelled "Duodenal tumour" (Note discrepancy with clinical notes "proximal jejunum") consists of a segment of duodenum measuring 37mm in length and 42mm in open circumference.  The mucosa is unremarkable.  On sectioning there is a well circumscribed firm pale yellow mass in the bowelwall measuring up to 15mm width, 12mm depth and occupying a length of 20mm of the specimen.  
+Blocks:  1- full face TS lesion; 2 - LS end; 3 - LS other end.
+C.  Specimen labelled "Posterior pylorus" consists of a piece of tissue measuring 17 x 10 x 6mm.  Specimen serially sectioned.  AE 1 block.
+D.  Specimen labelled "Appendix" consists of an appendix measuring up to 70mm in length and up to 23mm in maximal diameter at the fundus that is distended.  The serosal surface appears congested.  In the fundus, the wall is markedly thickened up to 9mm and the lumen is narrowed/?occluded.  
+Blocks:  1 - TS surgical margin, LS proximal; 2 -two TS mid; 3 - LS fundus.
+E.  Specimen labelled "Liver biopsy" consists of a piece of tissue measuring 6 x 6 x 5mm.  BAE 1 block.  (TO: PD: NB/mm 3.9.63) 
+
+MICROSCOPIC (reported by Dr O Boris):
+A. Sections of the area of pyloric stenosis show an ulcer lined by acutely inflamed granulation tissue, associated with transmural organisation and fibrosis.
+The adjacent antral type gastric mucosa shows moderate chronic gastritis.  There is no evidence of metaplasia, dysplasia or malignancy.  No Helicobacter pylori are seen.  The duodenal mucosa is unremarkable.
+Six lymph nodes show no evidence of malignancy. Circumscribed, non-necrotising granulomas are present in some of the lymph nodes. No organisms are seen on Truant, Fite, silver and PAS stains.
+B. Sections show smallbowel with a circumscribed area of pancreatic heterotopia. There are multiple lobules of pancreatic tissue associated with pancreatic ducts, within the muscularis propria.  Occasional endocrine islets are seen. There is no evidence of malignancy.
+C. Sections show a lymph node with no evidence of malignancy.
+D. Sections show an 8mm neuroendocrine tumour, grade 1 (WHO 2010) (carcinoid tumour), associated with neural hyperplasia in the tip of the appendix. The lesion is confined to the submucosa.  The lesion has a nested and trabecular architecture is composed of tumour cells with bland ovoid nuclei. No mitoses are seen. No mucin is present on diPAS staining. The lesion is well clearof the margins of excision.  There is no evidence of lymphovascular invasion.
+Immunoperoxidase stains:
+Chromogranin: focal +ve
+Synpatophysin: focal +ve
+CD56: +ve
+Serotonin: focal weak +ve
+Ki67 index: 2%
+Staging (AJCC 7th Ed.)
+pT1	Tumour 2cm or less in greatest dimension
+E. Sections show a well circumscribed area of granulomatous inflammation.  There are multiple non-necrotising granulomas, associated with a lymphocytic infiltrate.  There is no evidence of caseation.  There is no evidence of malignancy.
+No organisms are seen on Truant, Fite, silver and PAS stains.
+COMMENT
+Non-necrotising granulomas are present in the liver and gastric lymph nodes. No organisms are seen on special stains. While this may be a non-specific finding, other causes of granulomas (e.g. infection, drug reactions andsarcoidosis) may also need to be considered depending on the clinical context.
+DIAGNOSIS:
+A. Distal stomach and duodenum:
+- Organising ulcer with pylorus stenosis
+- Moderate chronic gastritis, no Helicobacter pylori identified
+- Granulomatous inflammation in lymph nodes (see comment)
+B. Proximal jejunum: pancreatic heterotopia
+C. Posterior pylorus: lymph node with no evidence of malignancy
+D. Appendix:
+- 8mm neuroendocrine tumour, grade 1 (WHO 2010) (carcinoid tumour), confined to submucosa, margins clear.
+- pT1 (AJCC 7th ed.)
+E. Liver biopsy: granulomatous inflammation (see comment)
+

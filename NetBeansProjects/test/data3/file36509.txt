@@ -1,0 +1,111 @@
+SPR no: 91U599764I
+MRN no: 136105
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT BELOW.
+
+91U59976,91U59976 (91U599764I) CALIN, Lianne
+HISTOPATHOLOGY REPORT
+KURRI KURRI DISTRICT HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GII endometrial adenoCa.  Metastatic Merkel Ca mandible and kidney in past.
+Left pelvic sentinel node.  Omental biopsy.  Uterus, cervix + bilateral tubes and ovaries
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Fatty tissue 20x6x5mm containing one cream lymph node 8mm. AE (6-1).
+
+B.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  An unremarkable piece of fatty tissue 30x20x7mm.  AE (2-2).
+
+C.  &amp;quot;CERVIX, UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;.  A uterus with attached cervix and bilateral tubes and ovaries weighing 86.7g.  The uterus measures 70mm superior to inferior, 40mm cornu to cornu, 30mm anterior to posterior.  The cervix measures 28x25x8mm with centrally placed os 8mm.  The ectocervix is unremarkable in appearance.  The serosa of the uterus is pink and shiny with a discrete dome-shaped nodule 6x3x2mm over the anterior wall.  The specimen was received opened along the lateral plane.  The endometrial cavity measures 50mm in length.  The endometrial lining is polypoid over the body and fundus of the anterior and posterior wall over an area 50x30mm with possible involvement of cornua.  The tumour appears thickest over the fundus, 15mm thick over a total thickness of 25mm. The right fallopian tube with fimbrial end measures 50mm in length, 6mm in diameter.  The right ovary measures 25x12x10mm.  The left fallopian tube with fimbrial end measures 45mm in length and 6mm in diameter.  The left ovary is 20x12x10mm.  The serosa of both tubes and ovaries is smooth and shiny.  The cut surface shows no discrete lesions.
+
+(1-4 anterior body and fundus coronal section [right in blocks 1 and 2, left in blocks 3 and 4]; 5-8 one full face posterior coronal section [5 and 6 right, 7 and 8 left]; 9-11 anterior wall to cervix  midline from superior to inferior composite block; 12-14 posterior wall to cervix midline; 15 anterior wall left nodule on serosa; 16&amp;amp;17 right parametrium; 18 right fallopian tube fimbrial end and one TS; 19 right ovary; 20&amp;amp;21 left parametrium; 22 left fallopian tube fimbrial end and one TS; 23 left ovary; 24 further section of right cornu; 25 further section of left cornu).  RS (M-25 [Please see block diagram] /JC 8/7/2067 nh)
+
+MICROSCOPIC: (Dr X Boeshore)
+
+ENDOMETRIAL TUMOUR SYNOPTIC REPORT
+
+Specimen C:
+
+TUMOUR TYPE: Endometrioid adenocarcinoma
+
+TUMOUR GRADE (FIGO):
+G2 (6-50% or less of a nonsquamous / nonmorular solid growth pattern)
+
+MYOMETRIAL INVASION: Absent
+
+MAXIMUM DEPTH OF MYOMETRIAL INVASION: 0
+
+MYOMETRIAL THICKNESS: 9mm
+
+LYMPHOVASCULAR INVASION: Absent
+
+TUMOUR FOCALITY: Unifocal
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Absent
+
+INVOLVEMENT OF CERVIX: Absent. (There is cystic mesonephric hyperplasia block C14)
+
+INVOLVEMENT OF UTERINE SEROSA: Absent - Serosal endometriosis is present
+
+MARGINS: Carcinoma is clear of cervical surgical margins.
+
+NON TUMOUR UTERUS:
+Endometrium: Hyperplasia
+
+Polyps(s): Absent
+
+Adenomyosis: Present
+
+OTHER TISSUES / ORGANS
+PARAMETRIUM: Not involved
+
+OMENTUM: (Specimen B): Not involved
+
+PERITONEUM: Not involved
+
+OVARIES: Not involved - There are bilateral benign serous adenofibromas.
+
+FALLOPIAN TUBES: Not involved
+
+REGIONAL LYMPH NODES
+PELVIC LYMPH NODES (Specimen A): Negative
+
+Sentinel nodes with macrometastases (&amp;gt;2mm): 0
+Sentinel nodes with micrometastases (&amp;gt;0.2 to 2mm): 0
+Sentinel nodes with isolated tumour cells (&amp;#8804;0.2mm): 0
+Sentinel lymph nodes examined: 1
+
+Largest nodal tumour deposit:  N/A
+Extranodal tumour extension: N/A
+
+ANCILLARY TESTS:
+IMMUNOSTAINS, Block C12
+Mismatch repair proteins: Pending
+Block suitable for further testing: C12
+OTHER MICROSCOPIC COMMENT:
+1.The endometrial carcinoma is exophytic into the endometrial cavity.There is adenomyosis with partial involvement by carcinoma however no definite myometrial invasion is seen. There is a small amount of solid growth that is just sufficient for grade 2.
+2. There is cervical cystic mesopnephric hyperplasia (block C14) with positive staining for CD10, EMA, and PAX-8. Negative for calretinin.
+TUMOUR STAGE
+AJCC (2017, 8th edition): pT1a, pN0
+FIGO (2015): 1A
+
+DIAGNOSIS:
+A. LEFT PELVIC SENTINEL NODE:
+- NEGATIVE FOR MALIGNANCY.
+B. OMENTUM:
+- NEGATIVE FOR MALIGNANCY.
+C. UTERUS:
+- GRADE 2 ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA.
+6/9/2066 cy
+SUPPLEMENTARY REPORT:
+IMMUNOHISTOCHEMISTRY: (Block C12)
+MLH-1: Positive nuclear staining.
+PMS-2: Positive nuclear staining.
+MSH-2: Absent nuclear staining.
+MSH-6: Absent nuclear staining.
+
+Absent staining for MSH-2 and MSH-6 is an abnormal finding suggestive of microsatellite instability and raises the possibility of Lynch syndrome. Clinical genetics correlation is recommended.
+
+11.05.2018

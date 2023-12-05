@@ -1,0 +1,91 @@
+SPR no: 90P604131H
+MRN no: 1224050
+Site_name: EAST GRAMPIANS HEALTH SERVICE - ARARAT
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+High grade dysplasia.  Fundus with intramural carcinoma.
+The surgical registrar, Dr MK &amp;gt;&amp;gt;, identified the site of EMR biopsy, and advised that the small bowel was removed due to adhesions and unsuitable for anastomosis.
+For HSA biobank, please allocate reserve block (Specimens A and C).
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Stomach&amp;quot;, consists of a stomach measuring 290mm along the greater curvature, and 180mm along the lesser curvature, by up to 25mm, with the fatty tissue measuring up to 33mm.  The proximal margin is inked blue and the distal margin is inked black. There is a grey membrane on the serosal surface of the stomach, approximately 50mm by 25mm, which overlies the area of the EMR biopsy site. Blocks: 1 to 6 - LS entire proximal margins; 7 to 74 - entire proximal end of stomach; 75 to 78 - four RS LS distal margin; 79 &amp;amp; 80 - RS towards proximal end (block 80 with two small polyps); 81 &amp;amp; 82 - RS stomach towards proximal end; 83 - two 1mm polyps mid stomach; 84 - one polyp mid stomach; 85 - mid stomach; 86 &amp;amp; 87 - RS stomach mid region (block 86 with one polyp); 88 &amp;amp; 89 - RS stomach towards distal end; 90 &amp;amp; 91 - RS stomach towards distal end; 92 &amp;amp; 93 - RS stomach most distal end; 94 &amp;amp; 95 - lymph nodes as seen. Photos taken. Please refer to block diagram.
+
+B.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of an unopened gallbladder, 93 x up to 55 x 40mm.  The serosal surface is smooth, grey and shiny.  The cystic duct margin is inked blue.  The gallbladder wall thickness measures 1mm and the mucosa is green and velvety.  The gallbladder contents contain bile fluid only, with no gallstones present.  Blocks: 1 - cystic duct lymph node, TS shave cystic duct margin, RS body; 2 - RS fundus, neck sequential shave at cystic duct margin.
+
+C.  Specimen labelled &amp;quot;Small bowel&amp;quot;, consists of a segment of bowel measuring 317mm in length with a variable maximum circumference between 15 to 76mm.  The larger dilated region is in the mid region of the specimen, with the closest end to the dilated region being 140mm.  There is an adhesion between the bowel serosa in the mid region where the dilated portion is. The narrowest circumference area lies 60mm from one margin, which has a strictured mucosal appearance. The bowel serosa is variably pale and roughened, in one region extending for 56mm and in another region extending for 32mm in length.  The mesocolon measures up to 23mm in width. One margin is inked blue, and the opposite margin inked black.   Blocks: 1 - LS black inked margin; 2 - LS blue inked margin; 3 - RS LS strictured end close to blue inked margin; 4 - RS pale area on serosa close to blue inked margin; 5 - RS adhesion between bowel loops; 6 - RS dilated bowel; 7 - RS pale area serosal surface close to black inked end. (TO:NN/ta/eh 7/7/66)
+
+
+MICROSCOPIC: (Reported by Dr Z Shadley)
+A.  The stomach has been extensively sampled. Sections show focal fundal high grade dysplasia/carcinoma in situ. In addition, there is a single 0.1mm malignant gland which has traversed the muscularis mucosae, consistent with focal, very early invasive adenocarcinoma (A15 L1). No convincing lymphovascular space or perineural invasion is identified. Immediately adjacent to this focus of high grade dysplasia is a transmural defect lined by abundant fibrin with underlying diathermied artefact and granulation type tissue. The serosa in this area shows florid acute fibrinous serositis. The mucosa away from this area shows mild to moderate non-specific chronic gastritis. No Helicobacter organisms are seen. No intestinal metaplasia is identified.
+
+A synoptic report for gastric carcinoma follows:
+
+Macroscopic description
+Tumour site: Fundus.
+Maximum tumour diameter: 0.1mm (single malignant gland immediately deep to muscularis mucosae).
+Distance to nearest margin: At least 15mm.
+
+Microscopic Description
+Tumour site (location): Fundus
+
+WHO histological tumour type: Tubular adenocarcinoma (single malignant gland).
+
+Lauren histological tumour type: Intestinal.
+
+Growth pattern: Infiltrating single gland.
+
+Maximal dimension of tumour: 0.1mm.
+
+Local invasion (pT): T1 Tumour invades lamina propria, muscularis mucosae, or submucosa.
+
+Serosal surface involvement: Absent
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary): Absent
+
+Large vessels (vein and artery): Absent
+
+Perineural growth: Absent
+
+Degree of regression after preoperative Chemoradiation: Not applicable
+
+Her2 status: Not performed (gland cuts out in level 2).
+
+Distance of tumour from margins:
+From proximal: 15mm (approximate).
+From distal: Well clear.
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present: Seven.
+Number of lymph nodes involved: None of seven (0/7).
+
+N0	No regional lymph node metastasis
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis: Present
+
+Helicobacter infection: Absent
+
+Intestinal metaplasia: Absent
+
+Dysplasia: Present
+Does it involve a margin? No
+
+Gastric polyps: Absent
+
+Barrett&amp;#8217;s mucosa: Absent
+
+B.  Sections of gallbladder show chronic cholecystitis. The gallbladder wall shows fibromuscular hyperplasia, Rokitansky Aschoff sinus formation and patchy mild chronic inflammation. There are no unusual features. There is no evidence of dysplasia or malignancy.
+
+C.  Sections show small bowel. There is normal villus to crypt ratio. There is no increase in inflammatory cells within the lamina propria or surface epithelium. No granulomas or organisms are identified. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Stomach: Focal (early) invasive adenocarcinoma (one malignant gland) arising on a background of focal high grade dysplasia/intramucosal carcinoma. No evidence of malignancy in seven lymph nodes (0/7). Margins appear clear.
+
+B.  Gallbladder: Mild non-specific chronic cholecystitis.
+
+C.  Small bowel: No significant histologic abnormality.

@@ -1,0 +1,41 @@
+SPR no: 55A280063S
+MRN no: 550280
+Site_name: BATHURST BASE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Metastatic leiomyosarcoma left submandibular gland.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left submandibular gland plus tumour&amp;quot;, received fresh and consists of an unoriented red piece of tissue 52 x 26 x 23mm and weighing 17g with a rounded firm nodule at one aspect, 25 x 25 x 27mm.  The specimen is inked blue.  One partial TS into the nodule is made and one approximately 6 x 4 x 2mm piece of tumour into Hams for cytogenetics and one 3 x 2 x 1mm piece of tumour for biobanking.   One partial TS into unremarkable soft tan tissue away from nodule, and one 3 x 2 x 1mm piece of presumed normal submandibular gland for biobanking.  Remainder into formalin for histology.  On sectioning, the firm nodule appears homogeneously creamy/tan coloured with a central pink area.  It abuts all surfaces other than the opposite pole of the gland.  The tumour measures 29 x 25 x 28mm.  Blocks: 1 - three LS at pole of the gland with tumour; 2 and 3 - RS tumour; 4 - RS normal salivary gland and opposite pole (smaller piece).  (TO:BL/rs 22/7/66)
+
+
+MICROSCOPIC (Reported by Dr O Sumerall):
+Sections of seromucinous salivary gland consistent with submandibular gland.  The submandibular gland is  expanded by a cellular spindle cell tumour.  Although at low power magnification the tumour appears circumscribed and unencapsulated, there is focal infiltration of adipose tissue and extensive infiltration of salivary gland parenchyma with scattered residual acini amongst the tumour cells.  The tumour abuts but does not infiltrate a small amount of striated muscle. The neoplastic spindle cells are arranged in intersecting fascicles and display  moderately pleomorphic elongated nuclei with rounded ends, vesicular chromatin, generally inconspicuous nucleoli and a moderate amount of eosinophilic cytoplasm.  Perinucleolar halos are not seen. Mitoses number 40/10hpf.  No necrosis is seen.  The tumour abuts the inked resection margin across a broad front.  Away from the tumour the submandibular gland shows patchy mild chronic inflammation but is otherwise unremarkable. Lymph nodes are not seen. Lymphovascular or perineural invasion are not identified.
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the tumour cells stain as follows:
+Positive: Desmin (strong diffuse), EMA (diffuse) and INI1 (normal retained pattern of expression)
+Negative: Myogenin, AE1/AE3 &amp;amp; CK 7 (highlights background salivary gland epithelium), CK20, TTF1, Napsin A, GATA 3 (weak expression in background salivary gland epithelium), Androgen receptor, SOX10, MelanA, HMB45, Chromogranin, Synaptophysin, ER,  PR and PAX8.
+
+The Ki67 proliferation index is approximately 30%
+
+The morphology and immunoprofile is consistent with leiomyosarcoma and in the context of the previous diagnosis of leiomyosarcoma elsewhere consistent with a metastasis.  EMA expression has been reported in leiomyosarcoma, including rare cases with diffuse expression such as is seen in this case 1.
+
+FNlCC Grade:
+Tumour differentiation:    2 (conventional leiomyosarcoma)
+Mitoses:		     3 (&amp;gt;20/10hpf)
+Necrosis:		     0 (nil seen).
+
+Total score:		     5
+
+Grade:			     2
+
+
+
+DIAGNOSIS:
+Left submandibular gland plus tumour:
+- Leiomyosarcoma (see comment), consistent with metastasis, FNLCC grade 2
+1. Iwata J &amp;amp; Fletcher CD. Immunohistochemical detection of cytokeratin and epithelial membrane antigen in leiomyosarcoma: a systematic study of 100 cases.
+Pathol Int.&amp;#160;2000 Jan;50(1):7-14.

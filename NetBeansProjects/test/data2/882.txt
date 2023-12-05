@@ -1,0 +1,97 @@
+Episode No:  90V276922S
+908276.YGF
+
+Virzi, VELVA Troy 
+Lab No:  90V27692
+Vivienne
+OLD BAR  ACT  4347
+Specimen: Tissue
+D.O.B:  24/6/2022
+Sex:  F
+Collected: 06/12/2012 at 09:26
+Location:  PARKES 4 EAST-LAKE CARGELLIGO MULTI PURPOSE SERVICE
+DR Manual NATHANAEL KUPARR-BRAUMAN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+ILC left breast -> L axilla sentinel node biopsy.  ILC left breast 11-2 o'clock -> mastectomy and left axilla sampling. 
+MACROSCOPIC:
+A.  Specimen labelled "Left axilla sentinel node 1", consists of a piece of fatty tissue with node measuring 15mm. Serially sectioned, AE 1 block.
+IMPRINT CYTOLOGY:  No tumour seen. 
+Reported to theatre nurse by Dr X Felicano at 10:00am on 6.12.12.
+B.  Specimen labelled "Left axilla sentinel node biopsy", consists of one irregular node measuring up to 20 x 7 x 4mm.  Serially TS.  Tissue AE 1 block. 
+IMPRINT CYTOLOGY:  NO MALIGNANT CELLS IDENTIFIED. 
+Reported to theatre nurse by Dr X Rachell at 10:00am on 6.12.12.
+C.  Specimen labelled "Left axilla lymph node", consists of three pieces of tan fatty tissue measuring in aggregate 20 x 20 x 10mm.  There are multiple lymph nodes identified measuring 5mm to 11mm in diameter.  Block 1 largest node; 2 - remainder of lymph nodes.  AE.
+D.  Specimen labelled "Left breast stitch short superior, long lateral", consists of a breast measuring 205 x 165 x 55mm with overlying skin measuring 110 x 65mm.  The unremarkable nipple is centrally located.  Two marking sutures are present: long stitch lateral, short stitch superior.  The deep margin is inked black and the superficial margin is inked blue.  On sectioning there is an extensive ill defined firm tumour/fibrosis located in the upper inner and outer quadrants extending centrally measuring up to 70mm (medial to lateral) x 80mm (superior to inferior) x40mm (superficial to deep).  It appears macroscopically clear of the deep surgical margin (5mm).  The tumour is well clear of the superficial margin (more than 12mm).  The remainder of the sections show fibrous fatty breast tissue.  
+Block 1 - nipple; 2-6 - tumour upper outer quadrant (4 - Reserve block); 7 - tumour lower outer quadrant; 8 - fibrotic area near nipple; 9 - margin lower outer quadrant; 10 - margin upper inner quadrant; 11 - margin upper outer quadrant; 12 to 15 - representative normal breast tissue (12 - upper inner quadrant; 13 - lower inner quadrant; 14 - lower outer quadrant; 15 - upper outer quadrant). (VR/ec  2.9.62) 
+MICROSCOPIC: (Reported by Dr X Vautier)
+A.  One (1) lymph node is identified.  The lymph node is involved by metastatic lobular carcinoma measuring 5mm in diameter.  No extranodal spread is seen.
+B.  One (1) lymph node is identified.  The lymph node is involved by several deposits of metastatic lobular carcinoma measuring up to 1.8mm in diameter.  No extranodal spread is seen.
+C.  Four (4) lymph nodes are identified.  The lymph nodes are unremarkable.  There isno evidence of tumour metastasis.
+D.  Sections of breast show invasive lobular carcinoma, measuring 80mm in diameter.  The carcinoma scores grade 2 (T-3, N-2, M-1).  Lymphovascular invasion is focally present.  No DCIS or LCIS component is seen.  The carcinoma is completely excised.  The invasive carcinoma is 3.5mm to the deep margin (block D10) and is well clear of the other margins.The tumour cells are positive for ER and PR.  The stain for HER-2 is negative (1+ staining).  The nipple is unremarkable.  The rest of breast shows benign fibrocystic change.
+Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive lobular carcinoma
+Invasive tumour size:  80mm
+Grade (Modified Bloom & Richardson):  2
+Tubules: 3     Nuclei: 2     Mitoses: 1     Mitotic rate: 4/10hpf.
+Lymphovascular invasion:  Present
+	    
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component:  The invasive carcinoma is 3.5mm to the deep margin (block D10) and is well clear of the other margins.
+In-situ component:  Not applicable
+Receptors (Block D11): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  strong
+PR:  Positive
+	60% of nuclei stained
+	predominant intensity of staining:  strong
+HER-2 (Novocastra 10A7):  Negative (1+ staining)
+Ki-67 index:  20%
+Nipple:  Unremarkable
+
+LCIS / ALH:  Absent
+Miscellaneous:
+- The rest of breast shows benign fibrocystic change.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel lymph nodes involved by tumour:  2
+Number of sentinel nodes with metastases >2.0mm:  1
+Number of sentinel nodes with metastases <2.0mm:  1
+	Detected by:  H&E
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0
+Extranodal spread:  Absent
+Axillary/other nodes:
+Number of axillarylymph nodes examined:  4
+Number of axillary lymph nodes involved by tumour:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  6
+Total number of involved lymph nodes (including sentinel node(s)):  2
+DIAGNOSIS:
+A & B.  Left sentinel lymph nodes - Metastatic lobular carcinoma involving 2 sentinel lymph nodes (2/2).
+C.  Left axilla lymph node - No evidence of malignancy (0/4).
+D.  Left breast
+	Invasive lobular carcinoma;
+	80mm; grade 2; completely excised;
+	ER positive/PR negative/HER-2 negative.
+
+The HER-2 ISH test will be performed at MOREE DISTRICT HOSPITAL Hospital and an additional report will be issued.
+
+SUPPLEMENTARY REPORT (26/2/2062):
+Block D11 was sent to DORRIGO MULTI PURPOSE SERVICE Hospital for Her-2 in-situ Hybridisation analysis:
+Signal Detection has been performed for the HER-2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER-2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER-2 ISH result:  Negative (non-amplified, diploid)
+Her-2 copy number per cell: 1.5
+Mean CEP17 copy number per cell: 1.25
+HER-2/CEP ratio: 1.2
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  	HER-2/CEP17 < 1.8
+Equivocal:  	HER-2/CEP17 = 1.8-2.2
+Positive:  	HER-2/CEP17 > 2.2 
+Reported by
+Dr X Seyal
+

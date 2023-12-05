@@ -1,0 +1,25 @@
+SPR no: 47J385655U
+MRN no: 4733856
+Site_name: KINGAROY HOSPITAL & COMMUNITY HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reportrdrw10 th1818drw10 33 4733856.OPU
+PIEHLER, SAMUEL
+47J38565
+pard trbrdrhlshdrawnil lbrdrb
+Last edited : lt 11/9/2065		Page: 2
+cgrid
+CLINICAL:
+Right lower lobe lesion on PET CT; history of colorectal Ca.  Post hemicolectomy.
+MACROSCOPIC:
+charrsid13789544 Specimen labelled &amp;#8220;Right lower lobe wedge&amp;#8221; consists of a wedge of lung, 70 x 60 x 25mm.  Within the lung is an irregular grey tumour, 103081 x 10 x 5mm.  The tumour is 5mm clear of the trimmed stapled margin (inked blue).  There is pleural puckering overlying the tumour (inked black).
+Blocks:  1 to 4 &amp;#8211; tumour with margins seria lly embedded; 5 &amp;#8211; uninvolved lung.
+(TO: KT; KT/rt 9.9.65)ar
+MICROSC OPIC (Reported by Dr K Mould):
+Sections show a 10 mm deposit of metastatic adenocarcinoma, in keeping colorectal origin.  The lesion  appears moderately differentiated, and is composed of irregular glands lined by columnar tumour cells with moderate to marked atypia, surrounded by desmoplastic stroma.  Approximately 50% of the lesion shows sclerosis and elastosis. No n ecrosis is seen.
+The tumour cells are positive for CDX2 and CK7. CK20 and TTF-1 are negative.
+There is visceral pleural invasion, beyond the elastic layer, on orcein staining. No surface serosal tumour is seen.ar
+The lesion is 2 mm clear of the margin.
+The adjacent lung is unremarkable.
+253271 DIAGNOSIS
+Right lower lobe lung wedge excision: 10 mm metastatic adenocarcinoma, in keeping colorectal origin, margins clearrrsid14253271

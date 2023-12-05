@@ -1,0 +1,35 @@
+SPR no: 83C983235M
+MRN no: 8309832
+Site_name: BENDIGO HEALTH - THE BENDIGO HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report83C98323 (83C983235M) STEAGELL, GRAIG
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Rec Des small round cell T
+bit of diaphragm/liver separate umb. nodule.
+
+MACROSCOPIC:
+A.  &amp;quot;LIVER SEGMENT 7&amp;quot;.  Consists of an unoriented disc of tissue measuring 70x58mm and up to 20mm in thickness.  One surface is ragged and brown, the other is smooth and shiny.  On the smooth and shiny surface there is a lobulated  nodular lesion measuring 35x25mm that is 7mm from the closest resection margin. The underlying ragged/liver resection margin is inked black, the overlying smooth tissue circumferential margin is inked blue.  Specimen is cut into 7 transverse sections from one end towards the other.  The cut surface reveals a solid tan lesion that measures up to 30x20mm on cut surface that infiltrates into the underlying liver tissue. The edge of the lesion lies 2mm from the deep liver resection margin and at least 5mm to the closest circumferential blue inked margin.
+
+(1 TS of one end slice; 2 slice 2; 3&amp;amp;4 slice 5; portion of lesion showing closest deep margin from slice 6; 6 TS of other end slice, slice 7). RS (6-6)
+
+B.  &amp;quot;UMBILICUS&amp;quot;. Consists of a ragged fibrofatty piece of tissue measuring 22x16x8mm. Specimen was cut into five transverse sections from one end towards the other revealing fibrofatty tissue.  The specimen is serially all embedded from one end towards the other in blocks B1 and B2.  AE (5-2/MY 19/1/2067 ank)
+
+MICROSCOPIC:   (Dr V Portier)
+A.  Sections show a tumour involving the excised portions of diaphragm and liver with morphology in keeping with desmoplastic small round cell tumor.  The tumour involves the full thickness of the excised segment of diaphragm including both the pleural and peritoneal surfaces.  There is focal malignant adhesion with liver and involvement of the liver parenchyma.  Tumour is clear of the peripheral diaphragmatic margin by 1.5mm.
+
+The appearance of the current tumour have been compared with appearances in the original specimen (83C98323, 4/3/2064) and are identical.
+
+B.  Sections show fibroadipose tissue and skeletal muscles.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+A.  LIVER SEGMENT 7 AND PORTION OF DIAPHRAGM -
+- RECURRENT DESMOPLASTIC SMALL ROUND CELL TUMOUR.
+
+B.  UMBILICAL NODULE -
+- BENIGN FIBROADIPOSE TISSUE AND SKELETAL MUSCLES.
+
+25/1/2067 km

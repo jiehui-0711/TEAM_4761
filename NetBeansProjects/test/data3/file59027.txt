@@ -1,0 +1,40 @@
+SPR no: 54T001678T
+MRN no: 547001
+Site_name: BOYUP BROOK SOLDIERS MEMORIAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Consent for biobank done.  Re-excision of epithelioid sarcoma (DHM lab 1D 299157217) L groin and incontinuity L groin dissection (reported by Dr P Maccheyne).
+Additional history: extensive margin involvement according to report
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left groin dissection long stitch distal margin, short stitch superior, medium medial&amp;quot;, consists of an irregular shaped piece of fibrofatty tissue, 150mm (proximal to distal) x 140mm (medial to lateral) x 50mm (superficial to deep), superficially, partially covered by an ellipse of skin, 110mm (medial to lateral) x 22mm (superior to inferior).  On the ellipse of skin is a linear scar, 95 x 3mm.  Specimen is oriented with a long suture marking distal, medium marking medial and short stitch marking superior. Specimen is serially sectioned from medial to lateral into twelve slices.
+On sectioning an irregular poorly defined fibrotic area with focal cavity is present within slices two to eight which is approximately 55mm (medial to lateral) x 40mm (superficial to deep) x 25mm (superior to inferior). The area abuts the deep margin, is  3mm clear from superior and more than 4mm clear of all other margins.
+Several lymph nodes identified. The largest ones are a 20mm lymph node within slices six to eight, and another one 22mm lymph node within slices eight to ten. No other mass or lesion is seen. Specimen inked as: superior part of superficial blue, inferior part of superficial green, and deep surface black. Cut surface photographed and reviewed by Dr P Greto. Block diagram provided. RS 52 blocks.
+Lymph nodes and corresponding blocks are listed below:
+1- Slide 17.
+2- Slide 21.
+3- Slide 20, 24, 29, 30 and 40.
+4. &amp;amp; 5-  Slide 25.
+6 - slide 26.
+7- (Largest lymph node) Slide  35, 36,39, 41, 42, 45- 47.
+8- Slide 28.
+9- Slide 32,33 and 34.
+10 and 11- Slide 31
+12- Slide 38
+Tissue banking sample was taken from largest lymph node in slice 9 (possibly close to block 39).
+Blocks: 1 to 4 - LS slice one (medial margin); 5 to 8 - composite of slice two (start of the lesion);
+9 to 12 - lesion and closest margin in slice three; 13 &amp;amp; 14 - composite of lesion with closest margin in slice four; 15 &amp;amp; 16 - composite of lesion and closest margins in slice five;
+17 - a lymph node close to inferior margin in slice five; 18 &amp;amp; 19 - lesional cavity and closest margins in slice six; 20 - a lymph node in slice six; 21 - anther lymph node in slice six, bisected; 22 &amp;amp; 23 - lesion and closest distance of margins in slice seven; 24 to 26 - lymph nodes from slice seven. (24 &amp;amp; 26 - each include one lymph node, and 25 - includes two lymph nodes); 27 - end of lesion and closest margins in slice eight; 28 - another lymph node and closest distance of any lymph nodes to deep margin; 29,30 largest lymph node from slice eight; 31 - two lymph nodes;
+32 to 34 - another lymph node from slice eight with closest distance of any lymph nodes to inferior margin; 35 &amp;amp; 36 - the largest lymph node; 37 - most lateral extension of lesion, slice nine; 38 - another lymph node in slice nine; 39 - remainder of the largest lymph node (submitted in Blocks 35 &amp;amp; 36), in slice ten; 40 - another lymph node from slice ten bisected; 41, 42 - more section from largest lymph node; 43 to 52 - LS from slice twelve (lateral margin).   (TO:KN/ta 26/10/70)
+
+
+MICROSCOPIC (Reported by Dr P Poux):
+Sections of skin from epidermis to subcutis show an immature scar consistent with the known previous surgery. It comprises a florid foreign body giant cell reaction, reactive myofibroblasts, fat necrosis, hemosiderin and suture material. There is no evidence of residual malignancy within the extensive representative sections examined of the scar/cavity  (the outside report of the original excision with multiple margin involvement has been noted).
+The adjacent groin dissection shows Epitheloid sarcoma in five out of eleven lymph nodes. It comprises subtotal nodal replacement by sheets of neoplastic cells. They are plump spindled/fibrohistiocytic to epithelioid/sarcomatoid. Scattered mitoses are noted. Multiple small foci of necrosis are noted.The largest deposit is 20mm and up to 2.2mm of extranodal extension is present. The margins appear clear. The morphology has been compared with the detailed description of the outside original excision report and appears similar.
+
+INI-1 shows preserved staining in representative section of the cavity site and a reactive appearing lymph node supporting a fibrohistiocytic appearance. Immunohistochemistry of the tumour deposits have been not repeated.
+
+DIAGNOSIS:
+Oriented left groin dissection and re-excision of cavity:
+- Five out of eleven lymph nodes are involved by Epithelioid sarcoma (0/5).
+- No residual tumour at the cavity site.

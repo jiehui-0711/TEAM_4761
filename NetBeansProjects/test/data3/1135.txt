@@ -1,0 +1,99 @@
+Episode No:  23F340166Q
+2323401.RRQ
+
+Jourdan, WILLIEMAE 
+Lab No:  23F34016
+Redacre
+COWRA  WA  6021
+Specimen: Tissue
+D.O.B:  3/6/1989
+Sex:  F
+Collected: 07/08/2062 at 12:20
+Location:  ENVOI Pathology-TEMORA HOSPITAL
+DR ANTHONY ROCKHOLD
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Large bowel obstruction.  Extended right hemicolectomy.  Transverse colon polyp.  Diarrhoea for  8/9.  RX with metronidazole.  
+MACROSCOPIC:
+A.  Specimen labelled "Right hemicolectomy" consists of a hemicolectomy with a length of colon measuring 350mm in length with an attached section of terminal ileum 40mm.  60mm from the distal end there is an obstructing tumour over a length of bowel 15mmwhich takes up approximately 50% of the circumference of the bowel.  The cut surface reveals a cream tumour appearing to invade into the muscularis propria but not through it.  Near the ileocaecal valve in thecaecum there is a sessile polyp 15 x 15mm.  200mm from the distal end there is a further sessile polyp 30 x 20mm.  A further small polyp 5mm is identified.  All polyps appear confined to the mucosa.  The remainder of the right colon appears dilated and oedematis.  A small piece of mesentery 60 x 35 x 8mm in included.  Multiple lymph nodes are identified within the mesenteric fat.  
+Blocks: 1 - margins; 2 - tumour to uninvolved mucosa; 3 to 8 - tumour AE; 9 & 10 -polyp near the ileocaecal valve; 11 - other sessile polyp; 12 - small polyp;  13 - apical lymph node; 14 to 16 - remainder of nodes; 17 - tumour for tumour banking.
+B.  Specimen labelled "Bowel polyp" consists of a polyp 7mm.  BAE 1 block.
+(FA/ta 8/8/62) 
+MICROSCOPIC (reported by Dr F Serpe):
+A & B.  Sections show two foci of adenocarcinoma.  The first designated tumour 1 is situated within the ascending colon and the other tumour designated tumour 2 is within the caecum. The features are as follows:
+Tumour 1
+
+Macroscopic Description
+
+Site of tumour:  Ascending colon. 	
+Maximum tumour diameter:  15mm
+Distance of tumour to nearer cut end:  60mm (distal)
+Tumour perforation:   No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Tumour 2
+
+Macroscopic Description
+
+Site of tumour:  Caecum. 	
+Maximum tumour diameter:  15mm
+Distance of tumour to nearer cut end:  40mm (proximal)
+Tumour perforation:   No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+
+
+Lymph nodes
+Number of lymph nodes present:  11	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Sessile serrated adenoma
+Serrated adenoma with low grade epithelial dysplasia (Specimen B)
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status
+
+Tumour 1	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Tumour 2
+MLH1		Equivocal
+PMS2		Loss of nuclear staining
+MSH2		Equivocal
+MSH6		Loss of nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatchrepair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a (tumour 1)  pT2 (tumour 2)  pN0   pMX    R0
+

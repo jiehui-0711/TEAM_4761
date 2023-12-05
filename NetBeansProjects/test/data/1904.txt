@@ -1,0 +1,67 @@
+
+Episode No:  42D295470Q
+4212954.SAQ
+
+Boid, MINGA L 
+Lab No:  42D29547
+N Forestview
+MERIMBULA  Tasmania  3260
+Specimen: Tissue
+D.O.B:  6/4/2023
+Sex:  F
+Collected: 27/1/2064 at :
+Location:  IMVS-GRIFFITH BASE HOSPITAL
+DR Britt Winfred CREA
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Metastatic Ca.  Appendectomy.  Met colonic Ca.  
+MACROSCOPIC:
+Specimen labelled "High anterior resection sigmoid colon" and consists of a segment of large bowel measuring 170mm in length with attached mesenteric fatty tissue measuring up to 60mm across.  Roughly in the middle of the segment there is a roughened adhesion like area on the antimesenteric serosal surface measuring 40 x 30mm (inked blue).  Slicing through this area reveals a circumferential solid tumour measuring 55 x 35 x 35mm.  The tumour has pale and yellow cut surfaces.  The tumour extends to the roughened antimesenteric serosalarea and into the mesenteric fatty tissue.  The tumour is 35mm from mesenteric resection margin and 65 and 55mm from colonic resection margin.   The lumen within the tumour is narrowed down to 4mm in diameter.  There is a sessile polyp5mm in maximum dimension, 15mm from one of the colonic resection margins.  The mesenteric resection margin is inked black.  There are two solid adjacent nodules measuring 16 and 10mm in maximum dimension abutting the mesenteric resectionmargin.  There are several nodules/lymph nodes within the mesenteric fatty tissue, some of which are indurated.  The indurated nodules are sampled and the remaining lymph nodes are totally blocked.  
+Blocks: 1 - colonic resection margin closest to tumour, shave; 2 - LS, other resection margin with polyp (inked blue); 3 - TS tumour; 4 - tumour and roughened serosal area, TS; 5 - tumour and adjacent mucosa LS; 6 - section of tumour, reserve block; 7 - representative two nodules at mesenteric resection margin; 8 - representative indurated nodules within mesentery; 9 - one bisected lymph node; 10 - lymph nodes as seen; 11 to 13 - sections of fat looking for lymph node; 14 - one bisected lymph node.   (SB/ta 28/1/64) 
+ 
+ 
+MICROSCOPIC (Reported by Dr L Fandino & registrar Dr L Heide):
+Sections show moderately differentiated adenocarcinoma of the sigmoid colon. The features are as follows:
+
+Macroscopic Description
+
+Site of tumour:  Sigmoid colon	
+Maximum tumour diameter:  55mm
+Distance of tumour to nearer cut end:  55mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate 
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymph nodes
+Number of lymph nodes present:  6	
+Number of lymph nodes involved:  6
+Numerous extramural discontinuous tumour deposits arealso present. 	
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (mural and extramural) 
+Perineural invasion
+Present 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas:  Tubular adenoma. 
+Residual tumour status
+An extramural discontinuous tumour deposit is present at the inked mesenteric resection margin (block 7)
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining 
+PMS2		Preserved nuclear staining 
+MSH2		Preserved nuclear staining 
+MSH6		Preserved nuclear staining 
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a     pN2pMX
+

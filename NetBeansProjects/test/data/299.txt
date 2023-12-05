@@ -1,0 +1,100 @@
+Episode No:  16B651536F
+160651.NJQ
+
+LAVERY, GAIA 
+Lab No:  16B65153
+Annoreno
+WAUCHOPE  TAS  5608
+Specimen: Tissue
+D.O.B:  19/1/1980
+Sex:  F
+Collected: 29/01/2013 at 13:38
+Location:  Douglass Hanly Moir - PRINCESS ALEXANDRA HOSPITAL
+DR MOSES DINO YANN
+Distribution:   FILE-COPY
+ADDITIONAL REPORT:  (24.4.63)
+ADDITIONAL REPORT: (7.5.63) 
+
+
+CLINICAL:
+Hookwire excision of lesion left breast 3cm from nipple at 11 o'clock. X-ray not required. CABG 2057. CKD. CCF.
+MACROSCOPIC:
+Specimen labelled "Left breast lesion short superior, long lateral, medium medial" consists of an orientated wide local excision with three sutures in situ at designated measuring 55mm (medial to lateral) x 34mm (inferior to superior) x 25mm (superficial to deep). There is a hook wire enters the inferior medial aspect. The superior margin is inked blue, the superficial margin green, and the deep margin black. The specimen is serially sectioned in the parasagittal plane into eight slices. Slice one lateral to slice eight medial.  The hook wire tip ends in slice four. A cream poorly circumscribed firm tumour is identified in slice four measuring4mm (medial to lateral) x 6mm (inferior to superior) x 4mm (superficial to deep). Distance from margins as follows: Superficial 7mm, deep margin 3mm, inferior 12mm, superior 15mm and well clear of both the lateral and medial margins.
+Blocks: I & 2 - slice one; 3 - slice two; 4-- slice three; 5-- slice four; 6-- slice five; 7 - slice six; 8 - slice seven; 9 & 10-- slice eight. AE tumour markers on block 5. (TO: ZN; WD/ta 2/163)
+MICROSCOPIC (Reported by Dr D Ferrio):
+Sections show a 10mm grade 1 infiltratingductal carcinoma.  The carcinoma is arranged in tubular and cribriform structures within a hyalinised mildly cellular stroma. There is minimal low grade ductal carcinoma in situ, within the confines of the tumour.  A synoptic report follows:
+
+Synoptic Report For Breast Carcinoma
+
+Invasive carcinoma:
+Site: Left breast 11 o'clock 3cm FN
+Type: Infiltrating ductal carcinoma, NOS.
+Invasive tumour size:  Approximately 10mm in maximal dimension (estimate based on presence in 3 consecutive slices).
+Grade (Modified Bloom & Richardson): 1
+Tubules:  1    Nuclei: 1     Mitoses:  1    Mitotic rate:  2/10hpf.
+Lymphovascular invasion:  Not identified 
+	    
+DCIS component:  
+DCIS:  Present (within one space but in this context regarded as DCIS rather than atypical ductal hyperplasia).  (block 6 P63 stain)
+Maximum extent:  0.2mm
+Architecture:  Cribriform
+Necrosis:  Absent
+Calcification:  Absent
+Degree of DCIS in tumour:  Minimal
+Degree of DCIS in adjacenttissue:  Absent.
+Excision Margins:  
+Invasive component: 
+-  Deep margin 3.5mm ,
+-  Inferior margin 5.5mm
+-  Superficial 8mm, 
+-  Superior, medial and lateral margins well clear (>10mm).
+DCIS: 
+-  clear (within confines of tumour).
+Receptors (Block 5): 
+ER:  Positive
+	100 % of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	2 % of nuclei stained
+	predominant intensity of staining:  weak
+HER2 (Novocastra 10A7): Negative (1+)
+Ki-67 index: Approximately 5%
+Nipple:  not included
+
+LCIS / ALH:  There is patchy lobularneoplasia (variably atypical lobular hyperplasia and focal classic type lobular carcinoma in situ (LCIS).  Focal associated microcalcification is seen.
+Miscellaneous: The surrounding breast shows mild cystic change, columnar cell change, columnar cell hyperplasia; focally the latter shows superimposed architectural atypia (approaching but falling just short of definite atypical ductal hyperplasia block 5).  This focus is 2.4mm clear of the closest (superior) margin.  There are foci of benign glandular microcalcifications.  Coarse intimal calcification is noted in several arteries. 
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  N/A
+Axillary/other nodes:
+Number of axillary lymph nodes examined: N/A
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  0 
+DIAGNOSIS
+A.  Left Breast (wide local excision):	
+-  10mm grade 1 invasive ductal carcinoma, NOS.
+-  Margins clear (closest deep 3.5mm).
+-  ER positive, PR positive, HER 2 negative (SISH to follow).
+-  Focal low grade DCIS within confines of tumour.
+ADDITIONAL REPORT:  (24.4.63)
+HER2 IN SITU HYBRIDISATION reported by Dr D Sortino, CORRIGIN HOSPITAL Hospital:
+HER-2-IN-SITU HYBRIDISATION
+
+HER2 IHC Result:  1+ (BEVERLEY HOSPITAL)
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 DL ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE (nonamplifled, diploid)
+
+Mean HER2copy number per cell:  1.75
+Mean CEP 17 copy number per cell:  1.45 
+HER2/CEP17 Ratio: 1.21
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+ADDITIONAL REPORT 2 (7.5.63) (Reported by Dr D Ikemire)
+Inpreparation for presentation at the breast MDT meeting an additional separate 0.7mm focus of carcinoma was detected.  The carcinoma is about 3.5mm deep to the main tumour and displays similar tubular morphology and low grade nuclear features to the main carcinoma.  It is 0.7mm clear of the deep margin.
+
+
+
+

@@ -1,0 +1,55 @@
+Episode No:  64A381209O
+6403812.AXO
+
+ERHOLM, Neville IVAN 
+Lab No:  64A38120
+Shortway
+WANGARATTA  Queensland  2234
+Specimen: Tissue
+D.O.B:  25/10/2006
+Sex:  M
+Collected: 08/06/2065 at 09:57
+Location:  SWAPS-BEAUDESERT HOSPITAL
+PRO Gaia IRVIN Selbig
+Distribution:  FILE-COPY,   NSW-CANCER-REGISTRY
+HISTORY:  
+Metastatic rectal cancer.  Frozen section peritoneal nodule.  Recurrent rectal cancer.  Anterior extenuation (bladder/prostate/gallbladder).  Left,Right distal ureter, omentum.
+MACROSCOPIC:  
+A.  "PERITONEAL NODULE". A piece offatty tissue 6x5x3mm. 
+F/S : "No evidence of malignancy".  Results to Dr. Bud (anaesthetic registrar) at 9.54am on 08.06.65 by Dr. Z. Eyer.
+(1 remainder of FS).  AE (1-1)
+B.  "BLADDER, RECTUM, PERITONEAL DISEASE, OMENTUM".  Prostate, bladder and rectum. The prostate measures 45mm superoinferiorly, 40mm mediolaterally and 40mm from anteroposteriorly. The bladder measures 90mm superoinferiorly, 70mm mediolaterally and 40mm anteroposteriorly. The colon measures 150mm in length and up to 40mm in diameter. The mucosal surface of the colon contains a 25mm ulcerated lesion with tumour invading through into pericolic fat and into the outermost aspect of detrusor muscleof the bladder with tumour dimension of 35mm. The proximal colon has a purple dusky appearance over an area 60mm long and this change is present at the proximal resection margin.  The remainder of the colon is unremarkable. The prostate was sectioned and is unremarkable . The bladder was bivalved and the mucosal surface appears slightly oedematous but with no tumour seen. Both ureters and vasa were identified.  Four local lymph nodes identified ranging from 3 up to 7mm.Also received separately in the specimen jar were multiple pieces of omentum, in aggregate 300x220x60mm.  In the omentum there was a firm white tissue up to 5mm. Remainder of the omentum is unremarkable .
+(1 left ureter margin; 2 right ureter margin; 3 distal margin of colon; 4 proximal margin of colon; 5 section through the ischaemic appearing area; 6-12 sections through the tumour in the colon extending towards the bladder with vas deferens; 13 representative piece of prostate with prostatic resection margin; 14 representative section of bladder; 15-17 each contains one lymph node; 18 three lymph nodes; 19 one possible lymph node; 20-23 omentum [22 contains the firm white nodule]); 24&25full face of sagittal section of prostate; 26-29 TS through the prostate, 30 shave of left vas deferens resection margin, 31 shave of left vas deferens resection margin, 32 left vas deferens, 33 right vas deferens, 34 left seminal vesicle, 35 right seminal vesicle).  RS (M-35).
+C.  "GALLBLADDER". An intact gallbladder 80mm in length and up to 35mm in diameter. The external surface is green and smooth. The gallbladder was filled with bile.  No stones identified. The wall measures up to 2mm. The mucosal surface is green and velvety.  No lesions are identified.
+(1 TS from the cystic duct and body; 2 LS from the fundus). RS (M-2)
+D.  "RIGHT DISTAL URETER".  A grey tubular piece of tissue up to 20mm in length and up to 6mm in diameter.  No tumour identified.
+(1 ends, the blue inked dye piece is from the sutured ends).  RS (2-1)
+E."LEFT DISTAL URETER". A grey tubular piece of soft tissue 11mm in length and up to 6mm in diameter.  One end is sutured and inked in blue.
+(1 both ends from the specimen, the blue inked dye contains the sutured ends)).  RS (2-1/WX/ank)
+MICROSCOPIC:  (Dr Z. Haning)
+A.  Histology shows fibrofatty tissue with no evidence of malignancy present.  
+B.  Histology shows a focus of moderately differentiated colorectal adenocarcinoma which shows extensive surface mucosal ulceration and destructive infiltration involving the wall of the rectum and into adjacent perirectal fat where carcinoma just infiltrates the outermost bundles of detrusor muscle of the bladder.  At this site, there is perineural invasion with a focus of extramural venous invasion.  Carcinoma also infiltrates into the outermost aspect of both seminal vesicles and vasa deferentia with focally fibrous peritumoral reaction which compresses one ureter.  No evidence of malignancy is seen within four local lymph nodes.  The bladder urothelium is unremarkable.  The prostate shows benign nodular hyperplasia with mild to moderate acute prostatitis but is not infiltrated by malignancy.  All of the local soft tissue margins and ureteric marginsare free of malignancy.  No evidence of malignancy is identified within the fatty omental tissue which contains occasional foci of fibrous scarring.  The synoptic report for colorectal carcinoma has not been competed given the clinicalimpression that this is a recurrent lesion rather than a primary, although this cannot be excluded. The proximal colon also shows evidence of a mild acute colitis with features suggestive of radiation effect.
+
+C.  Histology shows an unremarkable gallbladder with no evidence of malignancy.  
+D.  Histology shows unremarkable ureter with no evidence of malignancy. 
+E.  Histology shows unremarkable ureter with no evidence of malignancy.  
+DIAGNOSIS:  
+A.  PERITONEAL NODULE - NO EVIDENCE OF MALIGNANCY
+B.  BLADDER, RECTUM, PERITONEAL DISEASE, OMENTUM -
+- MODERATELY DIFFERENTIATED ADENOCARCINOMA INVOLVING RECTUM, PERIRECTAL FAT AND OUTERMOST ASPECT OF DETRUSOR MUSCLE, SEMINAL VESICLES & VAS DEFERENS; MARGINS CLEAR.
+C.  GALLBLADDER - NO EVIDENCE OF MALIGNANCY
+D.  RIGHT DISTAL URETER - NO EVIDENCE OF MALIGNANCY
+E.  LEFT DISTAL URETER - NO EVIDENCE OF MALIGNANCY
+8/12/2065 nh
+Supplementary report: 
+Immunostains for MSI proteins (Starbucks Corporation PORT MACQUARIE BASE HOSPITAL Lab; block: B8)
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence ofa germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihoodof microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+14.8.2065
+

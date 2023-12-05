@@ -1,0 +1,44 @@
+SPR no: 73O232401C
+MRN no: 73523240
+Site_name: BALRANALD MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Abdominal wall tumour, biopsy showing atypical spindle cell tumour - being sent to MARGATE for further analysis.  Stich 12 o&amp;apos;clock, double stitch close margin site of re-excision.  Re-excision close margin.  Please refer to previous pathology (73O23240).
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Abdominal wall tumour, stitch 12 o&amp;apos;clock, double stitch close margin site of re-excision&amp;quot;, specimen received fresh. Lesional tissue collected for tissue banking and possible genetics [kept frozen but not sent (frozen)] (Registrar BL 13/4/2070). Specimen consists of an oriented oval piece of skin with underlying fascia. A single long suture on one skin margin denotes 12 o&amp;apos;clock, and a double suture located at the 9 o&amp;apos;clock aspect, denotes close margin/site of re-excision.  The specimen measures 140 mm (12 to 6 o&amp;apos;clock) x 190 mm from (3 to 9 o&amp;apos;clock) to a depth of 95 mm.  Centrally, the skin has an area of erosion/ulceration measuring 11 x 13 mm.  The 12 o&amp;apos;clock margin is inked blue, the 6 o&amp;apos;clock margin is inked green, and the deep margin is inked black.  The specimen is serially sectioned from 3 to 9 o&amp;apos;clock into eleven slices (slice one 3 o&amp;apos;clock aspect).  The cut surface reveals somewhat lobulated, firm gray-white tumour measuring approximately 190 mm (3 to 9 o&amp;apos;clock) x 120 mm (12 to 6 o&amp;apos;clock) x 90 mm (deep to superficial).  The tumour is lined by a thin membrane of tissue, with intermittently macroscopically normal adipose tissue appearing between the tumour and margins.  The tumour appears to abut all margins.  Approximately twenty-five percent of the tumour appears necrotic.  The tumour is also focally haemorrhagic. Representative sections in 18 blocks.
+Blocks: 1 to 4 - LS 3 o&amp;apos;clock margin; 5 and 6 - tumour to skin surface (block 5 with skin ulcer); 7 and 8 - tumour to deep margin; 9 and 10 - tumour to 12 o&amp;apos;clock margin; 11 and 12 - tumour to 6 o&amp;apos;clock margin; 13 to 16 - tumour to 9 o&amp;apos;clock margin; 17 and 18 - centre of tumour.
+Please refer to photos and blocking diagram.
+
+B.  Specimen labelled &amp;quot;Close margin re-excision&amp;quot;, consists of an orientated ellipse of skin, with a suture on one longitudinal margin designated the 12 o&amp;apos;clock margin arbitrarily, measuring 23 mm (3 to 9 o&amp;apos;clock) x 9mm (12 to 6 o&amp;apos;clock) to a depth of 4 mm.  The surface of the skin appears unremarkable.  12 o&amp;apos;clock margin inked blue, 6 o&amp;apos;clock margin inked black.  Specimen is serially transversally sectioned from 3 to 9 o&amp;apos;clock across blocks 1 to 4 - (block 1 - 2mm TS 3 o&amp;apos;clock pole; 4 - 3mm TS 9 o&amp;apos;clock pole).  AE.   (TO:NM/vo 14/4/71)
+
+
+MICROSCOPIC (Reported by Dr U Verhulst):
+A. Sections show skin excised to include underlying fascia. The deep reticular dermis and subcutaneous fat is expanded and largely replaced by a uniformly cellular spindle cell tumour with storiform, fascicular and &amp;quot;herring-bone&amp;quot; patterns. The tumour cells are moderately pleomorphic and show enlarged, elongated nuclei with coarse chromatin. Proliferative activity is brisk and mitotic figures of up to 25 per 10HPF (Block A8) are identified. Necrosis is present and is seen in eight out of eighteen submitted tumour blocks. A thin walled anastomosing vascular netowrk is noted within the tumour but haemangiopericytomatous type vessels are rarely encountered. A core biopsy tract is also noted.
+
+The tumour cells show the following immunoprofile:
+- Positive: CD34 and bcl-2 (albeit weak and patchy).
+- Negative:PanCK, cam5.2, CK5/6, SOX10, S100, SMA, desmin, myogenin, CD31, MIC2, c-KIT, TLE1 and STA6.
+The ki-67 proliferation index is around 30%.
+
+The margins of excision are as follow:
+- 12 o&amp;apos;clock: Involved by tumour (Block A9).
+- 3 o&amp;apos;clock: Involved by tumour (Block A3).
+- 6 o&amp;apos;clock: 0.1 mm (Block A4).
+- 9 o&amp;apos;clock: Involved by tumour (Block A13).
+- Deep: 0.1 mm (Block A7).
+
+The features are those of an atypical spindle cell tumour (see also core biopsy report 73O23240).
+B. Sections show skin plus a small amount of subcutaneous fat. No atypical spindle cells are seen. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A. Abdominal wall tumour
+- Atypical spindle cell tumour (see report re: margins)
+
+B. Close margin re-excision
+- No evidence of spindle cell tumour or malignancy
+
+Comment:
+1. Overseas expert opinion (see core biopsy report 73O23240) from Prof U Kallen is pending.
+2. Tissue sections forwarded to Southern IML Pathology for COL1A-PDGFRB FISH analysis.

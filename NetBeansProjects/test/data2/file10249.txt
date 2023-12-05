@@ -1,0 +1,166 @@
+DateOfBirth
+200208300000
+
+
+SiteName
+GOULBURN BASE HOSPITAL
+
+
+FirstName
+Cagnon
+
+
+SPRID
+57S887349V
+
+
+MRN
+577887
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+SUPPLEMENTARY REPORT (7.10.68):
+
+SUPPLEMENTARY REPORT (5.8.66):
+
+CLINICAL:
+Right hemicolectomy.  &amp;gt;5cm margins.  Also liver resection.   Segment 2 &amp;amp; 3.   Extended hemi-hepatectomy.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left liver resection and gallbladder&amp;quot;, consists of a hemi-hepatectomy, 160 x 130 x 35mm, weighing 437g, and a separate gallbladder, 90 x 38 x 37mm.  The serosal surface of the liver is tan and smooth.  The main stapled liver resection margin is inked black.  On thin sectioning of the liver there is a well-circumscribed, roughly ovoid, pale grey tumour, 25 x 30 x 24mm.  The tumour is centrally necrotic and appears to focally extend to the margin.  The tumour is at least 4mm clear of the serosal surface of the liver.
+The gallbladder has a blue/green, smooth serosal surface.  The wall thickness is 1mm and the mucosa is dark green and velvety.  There are no gallstones.
+Blocks: 1 to 3 - liver tumour and margin; 4 &amp;amp; 5 - composite full face liver tumour; 6 - liver distal to tumour; 7 - TS neck/cystic duct gallbladder, and LS fundus; 8 - mid TS gallbladder.
+
+B.  Specimen labelled &amp;quot;Segment 2 &amp;amp; 3&amp;quot;, consists of a wedge of liver, 74 x 32 x 9mm.  The serosal surface is tan and smooth.  The stapled surgical margin is inked blue.  On sectioning, there is a pale grey, firm tumour, 12 x 10 x 8mm.  The tumour is 9mm from the resection margin, and focally abuts the serosal surface.  The remaining hepatic parenchyma is tan and unremarkable.
+Blocks: 1 &amp;amp; 2 - complete tumour; 3 - representative liver distal to tumour.
+
+C.  Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;, consists of a right hemicolectomy including a  segment of large bowel (140mm length by 68mm circumference), terminal ileum (40mm length by 38mm circumference), appendix (52mm length by 8mm diameter) and mesentery (up to 70mm wide).  Adjacent to the ileocaecal valve (9mm distal) there is a firm, centrally ulcerated, circumferential tumour with raised edges, measuring 37mm in length.  The tumour is at least 50mm from both the proximal and distal resection margins.  On sectioning, the tumour extends through the bowel wall into the sub-serosa, with a separate 15mm diameter tumour deposit abutting the serosal surface.  The appendix has a pale grey and smooth serosal surface.  The wall thickness is 1mm.  Lymph nodes are identified.
+Blocks: 1 - LS proximal surgical margin; 2 - LS distal surgical margin; 3 to 5 - tumour extension into adventicia; 6 - tumour (MSI); 7 &amp;amp; 8 - tumour deposit abutting serosa; 9 - LS complete distal tip of appendix, and mid TS; 10 - apical vascular margin, apical lymph nodes as seen; 11 to 13 - lymph nodes as seen; 14 - single lymph node, bisected; 15 - single lymph node.
+(TO: JB; JB/ta 8/7/69)
+
+
+MICROSCOPIC (Reported by Dr P Ranney):
+A.  Sections of liver show a deposit of metastatic well differentiated adenocarcinoma.  The tumour consists of glands lined by atypical columnar epithelial cells.  There is prominent associated necrosis.  The features are consistent with a metastasis from colon.  No definite lymphovascular invasion is identified.
+Tumour appears to extend to part of the hepatic resection margin, in an area where the margin is disrupted (blocks A1, A2).
+Tumour does not extend to the serosal surface.
+A section of liver away from the tumour mass shows mild centrilobular congestion but is otherwise unremarkable; special stains will be performed and a supplementary report issued.
+Sections of the gallbladder are unremarkable.
+
+B.  Sections of liver show a deposit of well differentiated adenocarcinoma, consistent with a metastasis from colon.  There is associated prominent necrosis.  No definite lymphovascular invasion is identified.  The resection margin is free of tumour and tumour does not extend to the serosal surface of the liver.
+Liver away from the tumour does not show any significant abnormality.
+
+C.  BOWEL CANCER PROFORMA
+
+Macroscopic Description
+
+Site of tumour:   Ascending colon.
+Maximum tumour diameter:   68mm
+Distance of tumour to nearer cut end:     50mm
+Tumour perforation:    No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin:   &amp;gt; 10mm
+
+Lymph nodes
+Number of lymph nodes present: 11
+Number of lymph nodes involved: 2
+
+pN1b	Metastases in 2-3 regional LN
+
+Lymphovascular invasion
+Present (Extramural)
+
+Perineural invasion
+Present
+
+Histologically confirmed distant metastases
+pM1	Distant metastasis confirmed. 	Site: Liver
+
+Background abnormalities/other comments
+Nil
+
+
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status	To follow
+
+Summary  TNM 7th Edition
+pT3    pN1b     pM1     R0
+
+
+DIAGNOSIS:
+A.  Left liver resection and gallbladder:  Metastatic adenocarcinoma.
+
+B.  Liver segments 2 and 3:  Metastatic adenocarcinoma.
+
+C.  Right hemicolectomy:  Moderately differentiated adenocarcinoma with lymph node metastases (2/11).
+pT3  pN1b  pM1  R0.
+
+
+SUPPLEMENTARY REPORT (4.8.68):
+
+C.  Mismatch repair deficiency status:
+
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).
+
+
+SUPPLEMENTARY REPORT (4.11.69):
+A.  Special stains have been performed on liver tissue away from the metastatic tumour deposit.
+There is no increase in stainable iron, no alpha one anti-trypsin globules are seen, no Hepatitis B surface antigen is identified with an orcein stain and a rhodanine stain for copper is negative.
+
+
+
+
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2018-02-02 00:00:00
+
+
+LastName
+Benintendi

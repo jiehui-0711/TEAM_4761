@@ -1,0 +1,78 @@
+SPR no: 64S516544Y
+MRN no: 6475165
+Site_name: BARWON HEALTH - NEWCOMB RENAL UNIT CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (22.1.69):
+
+CLINICAL:
+66 yo, PMB and right adnexa mass of ?tubal origin.  Ca 125 = 11.  Endometrial ablation in 40s.  Nulliarpous.  Nil HRT.  Pap smear normal.  Normal BMI - 25.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of a piece of fibroadipose tissue, 23 x 15 x 15mm containing a lymph node, 17 x 12 x 4mm, fat trimmed.  Longitudinally bisected.  Both halves of node for frozen section.  Blocks: 1 - frozen section; 2 - remaining fibroadipose tissue.  AE.
+
+FROZEN SECTION REPORT:
+There is no evidence of malignancy in one lymph node.
+Result to anaesthetic registrar by Dr R Spoelstra at 16:00 on 16/01/67.
+
+B.  Specimen labelled &amp;quot;Uterus, tubes, ovaries and cervix&amp;quot;, consists of a uterus with attached ovaries and fallopian tubes.  The uterus is 60 x 28 x 28mm and has a smooth, shiny serosal surface.  There is a subserosal nodule at the fundus, 22mm in main diameter.  The ectocervix measures 20 x 22mm and is normal.  The endometrium is 1mm thick and the myometrium 15mm thick.  The described subserosal nodule at the fundus is a fibroid; the myometriium is otherwise unremarkable.
+There is a complex right adnexal mass with attached fallopian tube.  The adnexal mass measures 50 x 40 x 30mm and bears a single defect, 5 x 5mm, from which mucoid fluid is exuding.  The mass is adherent to a dilated fallopian tube, 110mm long and up to 20mm in diameter.  On sectioning, the adnexal mass has a solid/cystic cut surface and is homogenous grey in colour.  The right fallopian tube contains clear fluid consistent with a hydrosalpinx.  The left fallopian tube is 75mm long and 15mm diameter.  A possible left ovary, 19 x 15 x 6mm, is present inferior to the main right adnexal mass.
+Blocks: 1 &amp;amp; 2 - frozen sections; 3 to 5 - composite full LS of posterior body and cervix; 6 - further section of cervix, anteriorly; 7 - fibroid at fundus; 8 &amp;amp; 9 - proximal right fallopian tube; 10 &amp;amp; 11 - right fallopian tube closer to tumour (11 - includes tumour); 12 - distorted tube and mass; 13 to 16 - tumour; 17 &amp;amp; 18 - left fallopian tube; 19 - possible left ovary.  Annotated photographs taken.
+Re-select - 20 to 27 - rest of endometrium (NL 19.1.66).
+
+FROZEN SECTION REPORT:
+Adenocarcinoma, favour ovarian primary.
+Result to Dr Marion (Obs/gyn fellow) by Dr R Phildor and Dr R Marin at 16:25 on 17/01/69.
+
+C.  Specimen labelled &amp;quot;Right pelvic wall&amp;quot;, consists of a piece of grey tissue, 38 x 30 x 5mm.  One surface is smooth and shiny.  The roughened surface is inked blue.  The specimen is serially sectioned.  Sectioning reveals no abnormality.  Blocks: 1 - en face end (in two pieces); 2 to 6 - sequentially embedded central TS; 7 - other en face end.  AE.
+
+D.  Specimen labelled &amp;quot;Left pelvic peritoneum&amp;quot;, consists of a tan irregularly shaped biopsy, 10 x 4 x 3mm.  Sectioned.  AE 1 block.
+
+E.  Specimen labelled &amp;quot;Sigmoid fat&amp;quot;, consists of a piece of fatty tissue, 12 x 7 x 3mm.  TAE 1 block.
+
+F.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a vermiform appendix, 55mm in length and 5 x 4mm in diameter.  The distal end is narrowed to a diameter of 3mm.  There is 11mm of attached mesoappendix.
+Blocks: 1 - longitudinally bisected appendix tip; 2 - central TS; 3 - longitudinally bisected appendix base.  AE.
+
+G.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of lobulated fatty tissue, 120 x 70 x 10mm.  Sectioning reveals no focal abnormalities.  Blocks: 1 to 3 - RS.  (TO: LK/ta 18/12/66)
+
+
+MICROSCOPIC (Reported by Dr R Schweizer):
+A.  Sections show one lymph node.  No tumour is seen.
+
+B.  Sections of the right adnexal mass show a grade 2 endometrioid adenocarcinoma with prominent squamous and also some mucinous differentiation.  This is architectural grade 1 but cytologic grade 3 so is overall grade 2.  It involves the ovary and the fimbrial end of the right fallopian tube.  No tumour is seen on the serosal surface of the adnexal mass.  The fallopian tube elsewhere shows features of chronic salpingitis and a hydrosalpinx.  There is prominent necrosis and acute inflammatory exudate associated with the tumour.
+There is focal endometriosis in paraovarian soft tissue adjacent to the tumour.
+Sections of the left fallopian tube also show features of chronic salpingitis and a hydrosalpinx; no tumour is seen.  There is focal endometriosis in subserosal tissue of the left tube.  Atrophic left ovary is identified adherent to the fimbrial end of the left tube.
+The whole endometrium has been blocked.  There is focal grade 1 endometrioid adenocarcinoma confined to the endometrium.  This has a different appearance to the right adnexal tumour and is interpreted as a separate primary.  There is no myometrial invasion and no lymphovascular invasion is seen.
+Sections of the cervix show a small focus of atypical surface epithelium with associated inflammation, favoured to be reactive.  The cervix is otherwise unremarkable.
+There is adenomyosis in the myometrium and a subserosal leiomyoma is confirmed.  The myometrium is otherwise unremarkable.
+Immunostains for mismatch repair enzymes will be performed on both the right adnexal and the endometrial tumours; a supplementary report will be issued.
+
+C.  Sections show mesothelium with underlying fibrofat.  No tumour is seen.
+
+D.  Sections show mesothelium with underlying fibrofat.  No tumour is seen.
+
+E.  Sections show unremarkable fat.  No tumour is seen.
+
+F.  Sections of appendix show no significant abnormality.
+
+G.  Sections of omentum show a single small focus of stromal endometriosis.  No tumour is seen.
+
+
+DIAGNOSIS:
+A.  Left external iliac lymph node:  No tumour (0/1).
+
+B. Uterus, ovaries and fallopian tubes:
+1.  Grade 2 endometrioid adenocarcinoma involving right ovary and fimbrial end of right tube
+2.  Grade 1 endometrioid adenocarcinoma of endometrium, confined to endometrium.  Stage 1A.
+3.  Bilateral chronic salpingitis and hydrosalpinx
+4.  Foci of endometriosis in right paraovarian soft tissue and subserosa of left tube.
+5.  Adenomyosis and leiomyoma.
+
+C.  Right pelvic wall:  No tumour.
+D.  Left pelvic peritoneum:  No tumour.
+E.  Sigmoid fat:  No tumour.
+F.  Appendix:  No significant abnormality.
+G.  Omental biopsy:  Focal stromal endometriosis.
+SUPPLEMENTARY REPORT (21.12.66):
+B.  Immunostains for mismatch repair enzymes have been performed on both the right adnexal tumour and the endometrial tumour.
+Both tumours show preserved nuclear staining for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).

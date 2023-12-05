@@ -1,0 +1,87 @@
+Episode No:  67B649057S
+6706490.PUS
+
+Lobaton, Foster 
+Lab No:  67B64905
+South Reeve
+BALLARAT  TAS  3131
+Specimen: Tissue
+D.O.B:  6/3/2006
+Sex:  F
+Collected: 20/04/2066 at 16:35
+Location:  EAST SURGICAL-PEMBERTON HOSPITAL
+DR CARY Louvenia Charsky
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Impalpable left breast cancer.  Lesion at 3 o'clock and 2 o'clock.  Hook wire localised excision + SLNBx.  Medial wire to 3 o'clock lesion 5cm FN.  Lateral wire to 2 o'clock lesion 7cm FN (traversing DCIS).  Marking sutures - long lateral, short superior, double deep.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel lymph node left breast", consists of apiece of fibroadipose tissue measuring 25 x 20 x 9mm containing a single lymph node, 20mm. Blocks 1 & 2 - sentinel lymph node; 3 - remainder of specimen.  AE.   
+B.  Specimen labelled "Left breast hookwire excision, short superior, long lateral, double deep", consists of a piece of fibroadipose tissue with orienting sutures and two hookwires.  The specimen is 75mm (medial to lateral) x 65mm (superficial to deep) x 30mm (superior to inferior).  The superior margin is inked blue, inferior black and deep red.  The specimen is serially sectioned frommedial to lateral into twelve slices.  The tip of the medial hookwire (3 o'clock lesion) lies in slice three and the tip of the lateral hookwire (2 o'clock lesion) lies in slice eight.  In the region of the medial hookwire (slices three to five) is a grey tumour, 14 x 13 x 12mm.  The tumour is 4mm from the superior margin, 12mm from the medial margin, 27mm from the superficial margin and 30mm from the deep margin.  In slice eight, near the lateral hookwire, is another solid tumour, 6 x 6 x 5mm.  This lesion is 4mm from the superior margin and at least 20mm clear of all other margins.  Contiguous throughout the slices from the medial to lateral hookwires is irregular grey nodular tissue, spanning 25mm medial to lateral.
+Blocks: 1 & 2 - slice one (medial margin); 3 & 4 - slice two; 5 to 8 - slice three; 9 to 12 - slice four; 13 to 16 - slice five; 17 to 22 - slice six; 23 to 27- slice seven; 28 to 32 - slice eight; 33 to 38 - slice nine; 39 to 43 - slice ten; 44 to 46 - slice eleven; 47 to 49 - slice twelve (lateral margin).  Please see block diagram.  Specimen AE.  
+C.  Specimen labelled "Left breast new inferior margin stitch on margin", consists of a piece of fibroadipose tissue measuring 35 x 35 x 12mm.  There is a suture on one surface (inked blue), and the opposite surface is inked black.  No discrete lesions are seen.  AE 4 blocks.   (TO: OO; QM/ta 21/4/66)
+
+MICROSCOPIC (Reported by Dr R Collar):
+A to C.  The left breast contains multifocal grade 3 invasive ductal carcinoma arising within a region of high grade DCIS.  The features are as follows:
+SYNOPTIC REPORT FOR BREAST CARCINOMA
+Invasive carcinoma:
+Site:  Left breast.
+Type:  Multifocal invasive ductal carcinoma, NST.
+Invasive tumour size:  The largest tumour is 18mm and corresponds to the 3 o'clock hookwired lesion.  The second largest tumour is 5mm, and is located near the 2 o'clock hookwire.  There are at least an additional 10 foci of invasive carcinoma ranging from 0.5 to 5mm.  Carcinoma is spread over an estimated 50mm area (across 8 slices).
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3    Nuclei:  2    Mitoses:  3    Mitotic rate:  23/10HPF.
+Lymphovascularinvasion:  Not identified.
+	  
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  Approximately 62mm (based on aggregate of 10 slices).
+Nuclear grade:  High.
+Architecture:  Solid and comedonecrosis.
+Necrosis:  Present.
+Calcification:  Present.
+Degree of DCIS in tumour:  Moderate.
+DCIS in adjacent tissue:  Extensive.
+Excision Margins:  
+Invasive component:
+Inferior:  2mm clear (B5).
+Superior:  7mm clear.
+All other margins are at least 10mm clear.
+In-situ component:
+Inferior:  Less than 0.1mm clear (B3, B6).  See below regarding specimen C (new inferior margin).
+Medial:  1mm clear, with no intervening normal ducts (B1).
+Superficial:  2mm clear, with no intervening normal ducts (B4)
+Superior:  3mm clear (B10).
+Deep:  8mm clear.
+Lateral:  At least 10mm clear.
+Receptors (Block B10): 
+ER:Positive.
+	100% of nuclei stained
+	Predominant intensity of staining:  Strong.
+PR:  Positive
+	75%% of nuclei stained
+	Predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7):  2+.
+HER2 SISH:  Performed at Barnes & Noble, SPRINGSURE HOSPITAL Hospital, see separate report.
+Ki-67 index:%.
+Nipple:  Not applicable.
+
+LCIS / ALH:  Not identified.
+Miscellaneous:  The uninvolved breast shows a spectrum of proliferative change, including multifocal areas of atypical ductal hyperplasia (ADH), usual ductal hyperplasia and an intraductal papilloma.  A focus of ADH is 0.2mm from the deep margin (B23).
+The new inferior margin (specimen C) contains a duct distended by diathermied atypical cells on the "cavity" surface, which is 6mm clear of the new inferior margin.  Usual ductal hyperplasia is also seen in the new inferior margin tissue.  There is no evidence of DCIS or invasive carcinoma.
+Sentinellymph node(s):
+Number of sentinel lymph nodes examined:  One (1).
+Number of sentinel lymph nodes involved by tumour:  Nil (0).
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  Nil (0).
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node):  One (1).
+Total number of involved lymph nodes (including sentinel node):  Nil (0).
+
+Representative sections seen with A/Prof R Vaughen.
+DIAGNOSIS:
+A.  Left sentinel lymph node:  One negative lymph node (0/1).
+B.  Left breast, hookwire wide local excision:
+-  Multifocal invasive ductal carcinoma, NST, grade 3.
+-  Extensive high grade DCIS.
+C.  Left breast, new inferior margin:  
+-  No evidence of high grade DCIS or invasive carcinoma.
+

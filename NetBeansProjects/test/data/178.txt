@@ -1,0 +1,79 @@
+
+Episode No:  50J475849U
+5034758.MXU
+
+BLOEDEL, DHIRRI 
+Lab No:  50J47584
+Rhys
+ULVERSTONE  Queensland  4519
+Specimen: Tissue
+D.O.B:  5/2/2004
+Sex:  M
+Collected: 05/11/2013at 17:30
+Location:  3HR STAY SURGICAL UNIT-GRAYLANDS SELBY-LEMNOS & SPECIAL CARE HOSPITAL
+DR JARRAH MAIDA DAMA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Upper rectal cancer attached to lateral pelvic wall.  Distal doughnut.  Left vas (attached to tumour).
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection" consists of sigmoid colon and rectum measuring 170mm in length x 45 x 40mm. The peritoneal reflection is not identified in the specimen. The serosal surface is smooth and shiny.  In the upper rectum, there is a circumferential tan tumour measuring 40 x 40mm which has invaded into the perirectal fat.  The tumour is 25mm from the distal surgical margin (inked blue) and is 135mm from the proximal surgical margin (inked black).  On sectioning the tumour does not involve the serosa, and is 0mm from the nearest posterior radial margin. 
+Blocks:  1 - black surgical margin; 2 - blue surgical margin; 3 to 7 - tumour (block 3 - tumour normal colon; 4 & 5 - paired blocks tumour and closest radial margin and involved lymph node; 6 & 7 - tumour and ?closest radial margin); 8 & 9 - paired blocks ?closest tumour/involved lymph node to radial margin; 10 - apical lymph node; 11 & 12 - rectal lymph nodes; 13 & 14 - sigmoid lymph nodes.
+B.  Specimen labelled "Colon" consists of a doughnut of colon measuring 50mm in length x 33 x 15mm in diameter.  There is a stapled margin at one end.Representative sections in 3 blocks.
+C.  Specimen labelled "Distal doughnut" consists of two sutured bowel length measuring 22 x 21 x 10mm and 22 x 15 x 8mm.  Representative in 2 blocks.
+Blocks:  1 - largerfragment; 2 - smaller fragment.
+D.  Specimen labelled "Vas" consists of a grey tan tubular structure measuring 12 x 4 x 4mm.  There is attached fibroadipose tissue.  Specimen serially sectioned and AE 1 block.  (TO: KZ; US/rt 1.8.63)
+MICROSCOPIC (Reported by Dr O Altes):
+
+A. 
+COLORECTAL PROFORMA
+
+Site of tumour:  Upper rectum	
+Maximum tumour diameter:  40mm
+Distance of tumour to nearer cut end:   25mm (distal)
+Tumour perforation:     No
+Forrectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above 
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin:  9mm (posterior, A8)
+Lymph nodes
+Number of lymph nodes present:  20	
+Number of lymph nodes involved:  3 (up to 4mm in size, apical node not involved) 	
+pN1b	Metastases in 2-3 regional LN
+Lymphovascular invasion
+Present (Extramural, A11) 
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Suppurative inflammation and fibrosis are seen in the perirectal fat.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN1b     pMX     R0
+B. Sections show large bowel with no evidence of dysplasia or malignancy. Acute serositis is focally present.
+C. Sections show large bowel with no evidence of dysplasia or malignancy.
+D. Sections show vas deferens with no evidence of malignancy. 
+DIAGNOSIS	
+A. Anterior resection: 
+- Moderately differentiated adenocarcinoma invading perirectal fat, margins clear
+- Metastatic carcinoma in 3 out of 20 lymph nodes
+B and C. Colon and distal doughnut: no evidence of malignancy
+D. Left vas: no evidence of malignancy
+

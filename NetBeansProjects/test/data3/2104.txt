@@ -1,0 +1,86 @@
+Episode No:  56K554075M
+5635540.TOM
+
+HADSELL, ISIAH Clint 
+Lab No:  56K55407
+Gorsewood
+GOLD COAST  Western Australia  5050
+Specimen: Tissue
+D.O.B:  28/12/1991
+Sex:  F
+Collected: 28/05/2065 at 14:42
+Location:  Molecular Oncology Unit-SINGLETON DISTRICT HOSPITAL
+DR Andy JOSETTE Brancanto
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast sentinel lymph node frozen section.  Right mastectomy and sentinel lymph node biopsy.
+MACROSCOPIC:
+A.  Specimen labelled "OQKO 5 4075" consists of a piece of adipose tissue containing two lymph nodes, 5mm and 10mm across.  Imprints made.
+Blocks:  1 - smaller lymph node; 2 - larger lymph node.
+B.  Specimen labelled "SLNB 2 803" consists of a piece of adipose tissue containing 15mm lymph node.  Imprints made.
+Blocks:  1 - sentinel lymph node.
+C.  Specimen labelled "Right mastectomy stitch at axillary end" consists of a mastectomy 200 x 195 x 35mm.  There is overlying ellipse of skin 185 x 65mm.  There isa suture at one end indicating the axillary end.  There is slight retraction of the nipple along the medial side.  The superficial margin is inked blue and the deep margin is inked black.  There is a firm, pale tumour, 12 x 10 x 8mm located at 9 o'clock 4cm from the nipple.  The tumour lies entirely below the skin ellipse and is 25mm clear of the deep margin.  The remainder of the breast shows lobulated adipose tissue.
+Blocks:  1 to 3 - tumour AE (2 - reserved block); 4 - deep margin overlying tumour; 5 - upper outer quadrant; 6 - upper inner quadrant; 7 - lower inner quadrant; 8 -lower outer quadrant; 9 - retroareolar; 10 & 11 .  Please see block diagram.
+(TO: ST; UT/rt 29.5.65)
+INTRAOPERATIVE IMPRINT CYTOLOGY:
+A & B.  Three lymph nodes with no evidence of malignancy.
+Phone result to Dr Brownlee by Dr O Nipps/Dr O Schor at 3:55pm on 28.05.65
+
+MICROSCOPIC:  (Reported by Dr O Leys)
+A.  Sections of the two sentinel lymph nodes show no evidence of malignancy by H&E and IHC (0/1).
+B.  Sections of the sentinel lymph node show no evidence of malignancy by H&E and IHC (0/1).
+C.  Sections of the 12mm right breast tumour show an invasive ductal carcinoma with apocrine features associated with multifocal intermediate grade DCIS. A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR BREAST CARCINOMA
+Invasive carcinoma:
+Site: Right breast.  
+Type: Invasive ductal carcinomawith apocrine features. 
+The carcinoma consists of mild to moderate pleomorphic carcinoma cells with ovoid vesicular nuclei, prominent nucleoli and abundant cytoplasm containing conspicuous PASd positive eosinophilic globules. The carcinoma cells are arranged predominantly in sheets with minimal tubule formation. 
+Invasive tumour size: 12mm (macroscopic). 
+Grade (Modified Bloom & Richardson): 2
+Tubules: 3     Nuclei: 2     Mitoses: 2     Mitotic rate:      13/10hpf.
+Lymphovascular invasion: Not identified. 
+	    
+DCIS component:  
+DCIS: Present. 
+Maximum extent of DCIS: Present in association with tumour and in adjacent fibroadipose breast tissue (including lower outer quadrant and some larger ducts deep to nipple) over an approximate maximum extent of 30mm. 
+Nuclear grade: Low to intermediate (apocrine type).  
+Architecture: Cribriform and solid. 
+Necrosis: Focal.  
+Calcification: Not identified. 
+Degree of DCIS in tumour: Minor.  
+DCIS in adjacent tissue: Present. 
+Excision Margins:  
+Invasive component:
+Deep margin: 8.0mm.
+In-situ component:
+Deep margin: 5.0mm. 
+Remaining margins appear clear of tumour. 
+Receptors (Block C1): 
+ER:   NEGATIVE
+PR:	NEGATIVE	
+HER2 (Novocastra 10A7): 1 (+)
+HER SISH:  Performed at General Dynamics, CAMDEN HOSPITAL Hospital, see separate report.
+Ki-67 index: Variable, up to 8 - 10% in areas. 
+Nipple: No evidence of Paget's disease. 
+
+LCIS / ALH: Not identified. 
+Miscellaneous: The surrounding non-neoplastic breast tissue shows patchy mild inflammation and mild fibrocystic change. There is prominent cancerisation of lobules adjacent to the tumour.
+Lymph nodes: See specimens A and B. 
+DIAGNOSIS:
+A.  Sentinel lymph node biopsy 1: No evidence of malignancy in two lymph nodes (0/2). 
+
+B.  Sentinellymph node biopsy 2: No evidence of malignancy in one lymph node (0/1). 
+
+C.  Right mastectomy: 
+12mm grade 2 invasive ductal carcinoma with apocrine features. 
+Multifocal intermediate grade apocrine DCIS and cancerisation of lobules. 
+Invasive and in situ carcinoma appears clear of margins (at least 5.0mm). 
+ER and PR negative; HER-2 (1+). 
+HER SISH is being performed at SunTrust, MONASH HEALTH WOMEN'S SANDRINGHAM Hospital, please see separate report.
+
+
+
+
+
+
+

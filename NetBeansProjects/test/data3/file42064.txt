@@ -1,0 +1,29 @@
+SPR no: 42G566692W
+MRN no: 254137
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report42G56669 (42G566692W) ROBSON, JUDITH CAROLE
+HISTOPATHOLOGY REPORT
+IVANHOE HEALTH SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:  L breast IDC/DCIS.  Re-excision of anteromedial margin L breast. Sutures long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+&quot;RE-EXCISION OF ANTEROMEDIAL MARGIN, Short - superior, Medium - medial, Long - lateral&quot;
+SPECIMEN TYPE:  Re-excision, oriented
+SPECIMEN X-RAY HOOKWIRE:  No
+SPECIMEN DIMENSIONS: Medial to lateral 15mm, Superior to inferior 65mm, Anterior to posterior 35mm, WEIGHT 18g
+MARGIN INKED: Non-standard:  Anterior blue, posterior black, medial red, lateral green
+DISSECTION: Cut from superior to inferior, 16 slices
+FINDINGS / LESION:  There is a concavity involved the lateral aspect of the specimen, immediately adjacent to this there are areas of fat necrosis.  No discrete lesion is identified.
+(1 LS through superior margin slice 1; 2 slice 3 bisected; 3 slice 5; 4 slice 7; 5 slice 9; 6 slice 11; 7 slice 13; 8 slice 15; 9 LS through inferior margin slice 16).  RS (M-9/LAllan)
+MICROSCOPIC:  L Verdin
+
+Sections show fatty breast tissue with a previous biopsy cavity surface and a surrounding layer of predominantly fatty breast tissue with areas of fat necrosis. Residual tumour is not detected in representative sections examined.
+
+DIAGNOSIS:
+
+RE-EXCISION ANTEROMEDIAL MARGIN L BREAST:
+-  Negative for residual tumour
+nh

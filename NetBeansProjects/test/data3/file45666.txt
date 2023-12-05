@@ -1,0 +1,24 @@
+SPR no: 70A991023B
+MRN no: 6185000
+Site_name: CESSNOCK DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+<spr><sections><section><name>Pathology Report</name><text>CLINICAL:
+High grade serous ovarian cancer diagnosed November 2068.  10 cycles of carbo taxol, last cycles with avastin.  Debulking of disease.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cervix uterus bilateral fallopian tubes + ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 180 grams in total.  The uterus measures 75 x 65 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 22mm and has an unmremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 20mm in maximum thickness.  The myometrium contains two fibroids measuring 15 and 7mm in maximum diameter.  The right fallopian tube measures 37mm in length and 6mm in diameter.  The right ovary measures 58 x 35 x 30mm and appears grossly nodulated with a dark tan dull surface and minimal appreciable serosa.  On the cut surface the ovary appears variegated with dark tan pale yellow and minor haemorrhagic areas.  A cyst 15mm is identified.  The left fallopian tube measures 30 x 8mm in diameter.  The left ovary measures 75 x 50 x 33mm and has a nodulated contour with cystic areas and a dull yellow surface,  no normal serosa is identified.  The ovarian cyst measures  45mm and is uniloculated with no papillary excrescences.  The cut surface of the ovary is lobulated with pale yellow and tan appearance.  Blocks: 1 to 3 - full LS anterior body and cervix; 4 to 6 - full LS posterior body and cervix; 7 - both fibroids; 8 - right fimbria and one TS tube; 9 to 14 - one TS each right ovary; 15 - left fimbria and one TS tube; 16 to 23 - one TS each left ovary.
+
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of fibrofatty tissue 270 x 50 x 20mm.  The cut surface shows a cream tan nodule 20mm size embedded within the fat.  Blocks: 1 to 6 - containing all of nodule.  (TO:NR/vo 30/7/70)
+
+
+MICROSCOPIC (Reported by Dr T Kincade):
+A.  Sections show high grade serous carcinoma involving both ovaries.  A tiny focus of carcinoma also involves the fimbrial end of the right tube (no convincing carcinoma in situ is seen).
+The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows small leiomyomas.  The left tube is unremarkable.
+
+The Chemotherapy Response Score = 1 (minimal tumour response).
+
+B.   Sections show several foci of high grade serous carcinoma.
+
+
+DIAGNOSIS:
+High grade serous carcinoma of both ovaries, also involving the omentum and the fimbrial end of the right tube.

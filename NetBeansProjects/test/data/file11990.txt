@@ -1,0 +1,22 @@
+SPR no: 81U116851F
+MRN no: 8171168
+Site_name: MILLMERRAN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Re-excision of right anterior thigh sarcoma.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Re-excision sarcoma right thigh, stitch 12 o&amp;apos;clock&amp;#8220;, consists of a specimen received in formalin. The specimen is a strip of skin measuring 125 x 17mm with deep tissue to a depth of 95mm.  Total specimen size is 150 x 85 x 35mm.  Underlying the skin is a layer of fat measuring 30mm and underlying this is a fibrous brown mass measuring 185 x 60 x 20mm.  There is a suture at one end of the ellipse demarcating 12 o&amp;apos;clock. The specimen is L-shaped with the suture at the top of the L.  The 3 o&amp;apos;clock margin is inked blue, the deep margin is inked black and the 9 o&amp;apos;clock margin is inked red.  Along the length of the skin is a scar measuring 140 x 1mm.  Within the centre of the specimen is a ? remnant of tumour of a pale pink, fleshy appearance.  Serially sliced into eleven slices with 1 = superior.  Please refer to attached block key diagram. The ? tumour remnant is present in slices 3, 4 and 5.  Blocks 1-12 - slice 1; 13-18 - slice 3; 19-30 - slice 4; 33-44 - slice 5; 45-48 rep sections slice 6;
+70-73 - slice 8 rep sections.  (TO:  MS/ec  22.7.66); 74 to 80 - remainder of slice six; 81 to 92 - slice seven; 93 to 100 - slice eight; 101 - 110 - slice nine; 111 to 119 - slice ten.
+(TO: MS;MS/vo 26.7.66)
+
+
+MICROSCOPIC (Reported by Dr V Roan):
+The specimen is extensively sampled and is almost entirely embedded and examined.  All of the tissue adjacent to the residual surgical cavity is examined.  Sections show skin, subcutis, fascia with muscle forming part of the deeper margin.  Centrally within the specimen there is a surgical cavity with  adjacent granulation tissue, organising and established fibrosis, a granulomatous reaction to myonecrosis  and numerous sutures granulomas.  Within the reparative stroma there are a few foci of reactive myofibroblast-type cells some of which show mild to focally moderate nuclear atypia.   The stromal reaction extends to the margins in some areas. An overlying dermal-subcutaneous scar is also present.   No residual dedifferentiated liposarcoma is seen.  No diagnostic well differentiated liposarcoma is identified.   Four lymph nodes show no evidence of malignancy.
+
+
+DIAGNOSIS:
+Re-excision sarcoma right thigh stich 12 o&amp;apos;clock (wide local excision):
+-   No evidence of residual liposarcoma seen.

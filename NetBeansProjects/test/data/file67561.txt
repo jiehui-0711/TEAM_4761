@@ -1,0 +1,93 @@
+SPR no: 25C819796M
+MRN no: 2508197
+Site_name: WIMMERA HEALTH CARE GROUP - DIMBOOLA
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Invasive ca on biopsy.
+1. (R) breast cancer.  Marked: wire = medial, short = superior, long = lateral.
+2.  Sentinel node 1.
+3.  Sentinel node 2.
+4.  Sentinel node 3.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Sentinel node 1 level 1&amp;quot;, consists of a piece of fibrofatty tissue 14 x 11 x 8mm with a 13mm lymph node.  Sectioned into five slices and AE 1 block.
+
+B.  Specimen labelled &amp;quot;Sentinel node 2&amp;quot;, consists of a piece of fibrofatty tissue 15 x 11 x 10mm with a 12mm lymph node.  Sectioned into four slices and AE 1 block.
+
+C.  Specimen labelled &amp;quot;Sentinel node 3&amp;quot;, consists of a piece of fibrofatty tissue 19 x 10 x 10mm with a 15mm lymph node.  Sectioned into five slices and AE 1 block.
+
+D.  Specimen labelled &amp;quot;Right breast lesion, wire medial, short stitch superior, long lateral&amp;quot;, consists of a hookwire guided localised excision 35mm (medial to lateral) x 25mm (superior to inferior) x 21mm (superficial to deep) and weighing 12.2g.  Two sutures and a wire are present as described.  Superficial inked blue, deep inked black, superior inked yellow and inferior inked red.  The hookwire enters the specimen from the medial aspect.  The specimen is sectioned from medial to lateral into six parasagittal slices.  The tip of the hookwire is found in slice 6.  In slices 4 and 5, there is an irregular tan tumour 13 x 12 x 10mm.  The tumour abuts the deep surface and is 5mm from the superior margin, 10mm from the inferior margin and 6mm from the superficial margin.  Blocks 1 to 3 - LS slice 1 (medial); 4 &amp;amp; 5 - slice 2; 6 &amp;amp; 7 - slice 3; 8 &amp;amp; 9 - slice 4; 10 - slice 5; 11 to 12 - LS slice 6 (lateral).  AE.  See diagram.  (TO:YL/ec 7/4/71)
+
+
+MICROSCOPIC (Reported by Dr F Koneval and registrar Dr F Gaynor):
+A. One lymph node identified shows a few isolated tumour cell clusters numbering no more than 200 cells in total. No extranodal spread is seen.
+
+B.  One lymph node identified shows no evidence of metastatic carcinoma.
+
+C.  One lymph node identified shows no evidence of metastatic carcinoma.
+
+D.  The specimen has been totally blocked and shows mixed invasive ductal carcinoma, NOS and invasive micropapillary carcinoma. A synoptic report follows:
+
+Invasive carcinoma:
+Site:  Right breast.
+Type:  Mixed invasive ductal carcinoma, NOS (50%) and invasive micropapillary carcinoma (50%).
+Invasive tumour size:  15 mm (seen in slices 3 to 6; Blocks D6, D7, D8, D10 &amp;amp; D11).
+Grade (Modified Bloom &amp;amp; Richardson):  2.
+Tubules:  2    Nuclei: 3     Mitoses: 1     Mitotic rate:  8/10hpf.
+Lymphovascular invasion:  Present (Block D7).
+Tumour infiltrating lymphocytes (TILs):  2%.
+
+DCIS component:
+DCIS:  Present.
+Maximum extent of DCIS:  8 mm (across 2 slices - Blocks D8 &amp;amp; D10).
+Nuclear grade:  Intermediate to high.
+Architecture: Cribriform and solid.
+Necrosis:  Present.
+Calcification:  Present.
+
+Excision Margins:
+Invasive component
+Deep:  2.5 mm (D8).
+Superficial:  5.5 mm (D10).
+Superior:  5 mm (D6).
+Inferior:  9 mm (D7).
+Medial:  &amp;gt; 10 mm.
+Lateral:  4 mm (D11).
+
+In-situ component
+Deep:  6 mm (D10).
+Superior:  4 mm (D8).
+Lateral:  7 mm.
+All other margins:  &amp;gt; 10 mm.
+
+Receptors (Block D8):
+ER:  Positive.
+- % of nuclei stained:  99%.
+- Predominant intensity of staining:  Strong.
+PR:  Positive.
+- % of nuclei stained:  99%.
+- Predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7): Negative (0).
+HER2 SISH: Not performed (ASCO CAP 2018 HER2 Testing Guidelines).
+Ki-67 index: Variable, focally up to around 25%.
+
+Nipple:  Not applicable.
+
+LCIS/ALH:  Not identified.
+
+Miscellaneous:  A core biopsy tract (Block D10) is seen immediately adjacent to the tumour.
+
+
+DIAGNOSIS:
+A. Sentinel node 1
+- Isolated tumour cell clusters seen in one lymph node [0(i+)/1]
+
+B. Sentinel node 2
+- No evidence of metastatic carcinoma in one lymph node (0/1)
+
+C. Sentinel node 3
+- No evidence of metastatic carcinoma in one lymph node (0/1)
+
+D. Hookwire localised wide excision of lesion, right breast
+- Mixed invasive ductal carcinoma, NOS and invasive micropapillary carcinoma (Grade 2, Size 15 mm, LVI identified)
+- Ductal carcinoma in situ (intermediate to high grade, Size 8 mm)

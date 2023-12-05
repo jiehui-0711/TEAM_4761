@@ -1,0 +1,47 @@
+SPR no: 85V010607Z
+MRN no: 85801060
+Site_name: ESK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrial adenocarcinoma grade 3.  Tissue frozen section.  Left external iliac lymph node.  Right external iliac lymph node.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left external iliac node&amp;quot;, consists of two pieces of fat, 25 x 15 x 10mm and 20 x 10 x 5mm.  Inside are two nodes 7 and 8mm present in the smaller piece.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 - remainder of tissue.
+B.  Specimen labelled &amp;quot;Right external iliac lymph node&amp;quot;, consists of fatty tissue 30 x 15 x 10mm.  The cut surface shows a very fatty node.
+Blocks: 1 - frozen section one; 2 and 3 - remainder of specimen AE.
+FROZEN SECTION REPORT:
+A.  No tumour seen.
+B.  Fatty tissue.  No definite node, no tumour.
+Phone results to Anaesthetic Fellow at 3:25pm on 6.4.2016
+C.  Specimen labelled &amp;quot;Uterus cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 158g in total.  The uterus measures 95 x 50 x 45mm and has a smooth and shiny serosal surface.  The ectocervix measures 30 x 30mm and has an unremarkable, smooth surface.  The uterus was received fresh and had been opened laterally.  On sectioning the endometrium is 2mm thick and the myometrium is 17mm thick.   No convincing tumour is seen.  Within the anterior lower segment and cervix is a fibroid measuring 42 x 36 x 52mm which is 6mm from the cervical os.  The cut surface of the fibroid has an unusual appearance with numerous tiny soft yellow foci ?tumour.  The right fallopian tube measures 60mm in length and 7mm in maximum diameter.  The right ovary measures 27 x 15 x 10mm and has an unremarkable cut surface.  The left fallopian tube measures 57mm in  length and has a diameter of 7mm.  The left ovary measures 27 x 20 x 12mm and has an unremarkable cut surface. Blocks: 1 to 4 - full longitudinal posterior body and cervix; 5 to 8 - full longitudinal section of posterior body and cervix; 9 to 16 - full longitudinal section of anterior body and cervix (9 and 10 paired blocks, 11 and 12 - paired blocks; 13 and 14 - paired blocks) including largest fibroid;17 - left fallopian tube fimbrial end and ovary RS; 18 - right fimbrial end, RS tube and RS ovary; 19 -and 20 - posterior fundus, 75mm from cervical os; 21 to 24 - left side fundus, endometrium anterior wall of uterus; 25 to 27 - right side fundus anterior wall of uterus.
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of fibrofatty tissue measuring 90 x 40 x 10mm.  No macroscopically identified lymph node seen.  RS in 3 blocks.
+E.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of fibrofatty tissue measuring 50 x 30 x 10mm in aggregate.  No macroscopic node is seen.  AE in 3 blocks.
+F.  Specimen labelled &amp;quot;Left obturator lymph node&amp;quot;, consists of fibrofatty tissue measuring 50 x 35 x 25mm in aggregate.  Multiple possible lymph nodes identified between 2 and 15mm.
+Blocks: 1 - ?lymph nodes; 2 - single lymph node bisected; 3 and 4 - single lymph node bisected.  AE.
+G.  Specimen labelled &amp;quot;Left common iliac lymph node&amp;quot;, consists of fibrofatty tissue measuring 15 x 10 x 5mm.  Tissue contains a single ?lymph node measuring up to 12mm in length.
+Blocks: 1 - single lymph node bisected; 2 - remainder of tissue.  AE.
+H.  Specimen labelled &amp;quot;Right external iliac lymph node&amp;quot;, consists of fibrofatty tissue measuring 15 x 20 x 5mm in aggregate.  Within the specimen are two ?lymph nodes measuring 5 and 7mm in size.
+Blocks: 1 - 5mm node bisected; 2 - 7mm node bisected.
+I.  Specimen labelled &amp;quot;Right obturator lymph node&amp;quot;, consists of fibrofatty tissue 38 x 30 x 10mm in aggregate.  Contained within the specimen are multiple ?lymph nodes measuring between 3 and 15mm in size.
+Blocks: 1 - 3mm lymph node; 2 and 3 - single lymph node bisected.
+J.  Specimen labelled &amp;quot;Right common iliac lymph node&amp;quot;, consists of fibrofatty tissue 40 x 30 x 10mm in aggregate.  Contained within the specimen are multiple ?lymph nodes measuring between 6 and 25mm.
+Blocks: 1 - 6mm lymph node; 2 and 3 - single lymph node bisected.
+(TO: MS;MS/vo 6.9.66)
+MICROSCOPIC (Report by Dr W Rafalko):
+A.  Five lymph nodes show no evidence of malignancy.
+B.  Six lymph nodes show no evidence of malignancy.
+C.  Sections show a high grade Mullerian adenocarcinoma of the endometrium, which is favoured as serous carcinoma.  Posteriorly the tumour invades 9mm through a wall 13mm thick, and involves the lower segment and the endocervical stroma.  Anteriorly the tumour has extensively involved the large leiomyoma, to invade 39mm through a wall 42mm thick.  The leiomyoma with tumour involves the lower segment and endocervical and ectocervical stroma, and is clear of the vaginal margin by 10mm.  Focal lymphvascular invasion is seen.
+Both ovaries and tubes are unremarkable.
+MSI stains are pending.
+D.  There is no evidence of malignancy.
+E.  Two lymph nodes show no evidence of malignancy.
+F.  Six lymph nodes show no evidence of malignancy.
+G.  Three lymph nodes show no evidence of malignancy.
+H.  Two lymph nodes show no evidence of malignancy.
+I.  Two lymph nodes show no evidence of malignancy.
+J.  Two lymph nodes show no evidence of malignancy.
+DIAGNOSIS:
+Serous carcinoma of the lower segment with cervical stromal involvement and deep invasion (see above).  Focal lymphvascular invasion is present.  The omentum and twenty eight (28) lymph nodes are negative.
+ADDITIONAL REPORT 16/6/66:
+Immunoperoxidase stains for MSI proteins were performed.  MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.

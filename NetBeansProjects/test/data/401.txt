@@ -1,0 +1,94 @@
+
+ 8688775.TTE
+MCALEVY, WAI MIRNA
+86V87757
+
+Last edited : 7/3/2063		Page: 2
+SUPPLEMENTARY REPORTADDED: HER-2 CISH (7.3.2063)
+
+CLINICAL:
+Right breast Ca at 3 o'clock 6cm from nipple.  Sentinel node biopsy x 2.  Radical elliptical excision.  Hookwire medial and loop lateral (nipple side).  Needs specimen x ray.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node biopsy of right breast" consists of an unorientated piece of fatty tissue 40mm.  One lymph node is identified 28mm.  ?One small lymph node 2mm is identified.  
+Blocks:  1- large lymph node bisected; 2- ?small lymph node.  
+B.  Specimen labelled "Hookwire incision right breast" consists of an orientated wide local excision measuring 52mm (medial to lateral) x 25mm (inferior to superior) x 55m (superficial to deep).  There is an overlying unremarkable ellipse of skin 42 x 20mm.  There is a loop suture marking lateral and a hookwire is seen to insert from the medial aspect.  A further suture is seen at the deep aspect.  The deep margin is inked black, the superior margin is inked blue and the inferior margin is inked green.  Specimen is serially sectioned in the parasagittal plane into 8 slices from slice 1 lateral to slice 8 medial.  In slices 4 to 7 there is a firm cream poorly circumscribed tumour measuring 17mm (medialto lateral) x 11mm (inferior to superior) x 12mm (superficial to deep).  Distance from margins is as follows:  inferior 6mm, superior 7mm, deep 20mm, superficial 17mm, medial 12mm and well clear of the lateral margin.  
+Blocks:  1&2 - representative slice 1; 3 to 5 - slice 2; 6 to 8 - slice 3; 9 to 11 - slice 4; 12 to 14 - slice 5; 15 to 17 - slice 6; 18 & 19 - slice 7; 20 & 21 - slice 8.  Please refer to attached diagram.  (OK/mm 18.6.63) 
+MICROSCOPIC: (Reported by Dr W Schwarze - 19.6.2063)
+A.  Sections of the sentinel lymph nodes show a single IHC positive isolated tumour cell (ITC) in one of two lymph nodes (1/2) (ITC on IHC only).  
+Representative slides seen with Dr W Kopko.
+B.  Theright breast tumour is an invasive ductal carcinoma associated with DCIS. A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Right breast, hookwire localised.
+Type: Invasive ductal carcinoma (consisting of bland infiltrative tubules and cribriform structures with a tubular carcinoma like pattern in areas).
+Invasive tumour size: 17mm (macroscopic).
+Grade: 1 (Modified Bloom & Richardson)       
+Tubules: 1 Nuclei: 2 Mitoses: 1 Mitotic rate: 1/10hpf.
+Lymphovascular invasion: Foci suspicious of LVI are present.
+
+DCIS component:  
+DCIS: Present.
+Maximum extent of DCIS: Present in two consecutive slices over an approximate maximum extent of 6mm.
+Nuclear grade: Low
+Architecture: Cribriform, flat and solid.
+Necrosis: Absent
+Calcification: Absent
+Degree of DCIS in tumour: Minimal 
+DCIS in adjacent tissue: Not present
+Excision Margins:  
+Invasive component:
+Inferior margin: 3.3mm (B18)
+Superior margin: 5.5mm (B13)
+Medial margin: 5.5mm (B20)
+Deep margin: 10mm (B9)
+Lateral and superficial margin: Clear of tumour.
+In-situ component:
+Superior margin: 5.5mm.
+Remaining margins: >10mm (clear of DCIS).
+Receptors: 
+ER:   POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: Moderate to strong.
+PR:   POSITIVE
+	80% of nuclei stained
+	Predominant intensity of staining: Moderate.
+HER2 (Novocastra 10A7): Negative (0).
+Ki-67 immunoproliferative index: Variable, highlights up to 3% of tumour cell nuclei.
+
+Nipple: Not included. 
+LCIS / ALH: Present (B2). 
+Miscellaneous: The adjacent non-neoplastic breast tissue shows an intraduct papilloma, fibrosclerosis, adenosis, fibroadenomatoid change, papillary apocrine hyperplasia and fibrocystic change. The overlying skin shows no significant histologic abnormality. 
+Sentinel lymph node(s) - (specimen A)
+No. of sentinel lymph nodes examined: Two 
+No. of sentinel nodes involved by tumour: One (1/2).
+No. of sentinel nodes with metastases >2.0mm: None
+No. of sentinel nodes with metastases <2.0mm: None.
+No. of sentinel nodes with isolated tumour cells <0.2mm: One.
+Extranodal spread: Not identified.
+Axillary/other nodes: Not included.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): Two.
+Total number of involved lymph nodes (including sentinel node(s)): One (ITC on IHC) (1/2).
+DIAGNOSIS:
+A.  Sentinel lymph nodes: A single isolated tumour cell is present on IHC in one of two sentinel lymph nodes (1/2). 
+
+B.  Right breast, hookwire localised excision: 17mm, grade 1, invasive ductal carcinoma with scattered foci of low grade DCIS. DCIS and invasive carcinoma appear clear of margins. ER, PR positive; HER 2 negative.
+
+Slides have been submitted for HER-2 CISH and a supplementary report will be issued.
+
+
+***SUPPLEMENTARY REPORT: HER-2 CISH (7.3.2063)
+HER2 IN SITU HYBRIDISATION reported by Dr W Kissel, THE SUTHERLAND HOSPITAL Hospital:
+HER-2-IN-SITU HYBRIDISATION
+
+HER2 IHC Result:  0
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 DL ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE (nonamplifled, diploid)
+Mean HER2 copy number percell:  1.7 
+Mean CEP 17 copy number per cell:  1.8
+HER2/CEP17 Ratio: 0.94
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

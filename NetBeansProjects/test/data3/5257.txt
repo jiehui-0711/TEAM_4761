@@ -1,0 +1,123 @@
+
+Episode No:  85N123285E
+8551232.WOE
+
+Umholtz, Tania 
+Lab No:  85N12328
+Water Oak Point
+EUROA  NT  6029
+Specimen: Tissue
+D.O.B:  28/11/1998
+Sex:  M
+Collected: 04/07/2066 at 15:48
+Location:  MACQUARIEWARD-EAST WIMMERA HEALTH SERVICE - WYCHEPROOF
+DR Ross Jed Weisgerber
+Distribution:    NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (5.10.66)
+
+CLINICAL:
+Whipple + omentum specimen for ?PDAC.  1x long prolene PV bed.  2x long prolene SMA.  1x long silk common bile duct.
+MACROSCOPIC:
+A.  Specimen labelled "Whipples" consists of a length of bowel measuring 260mm witha diameter of 50mm from distal stomach to duodenum.  The proximal margin has been stapled to a thickness of 7mm and inked blue.  The distal margin has been stapled to a thicknessof 5mm and inked black.  The pancreas is attached to the specimen measuring 50 x 30 x 70mm, with orientating sutures attached.  The gallbladder is attached measuring 110 x 35 x 25mm.  The portal vein bed is marked with one long prolenesuture and is inked blue.  The SMA bed marked with two prolene sutures and is inked red, the uncinate process is inked green, and the anterior surface is inked yellow.  Posterior pancreatic surface is inked black.  The serosal surfaceof the gallbladder appears smooth and shiny.  Gallbladder wall thickness is <1mm.  The mucosal surface of the gallbladder is green and velvety with no macroscopically visible polyps or gallstones within the lumen.  The extra hepatic common bile duct measures 17 x 5mm.  On sectioning within the pancreas is a tumour measuring 20 x 15 x 10mm macroscopically.  The tumour is adjacent to the portal vein margin and the peri pancreatic fat appears to be contain an involved lymph node in slices three and four.  There is omentum separate inside the specimen container measuring 460 x 120 x 12mm.  Please refer to the attached block diagram.
+
+Blocks:  1 - LS distal duodenal margin; 2 - LS proximal pyloric margin; 3 - TS shaved cystic duct; 4 - two TS body gallbladder; 5 - LS gallbladder fundus; 6 - pancreatic neck shaved margin; 7 - hepatic duct shaved margin; 8 - lymph node; 9 - lymph nodes; 10 - bisected lymph node; 11 to 18 - slice one to eight superior to inferior; 19 - omental lymph node; 20 & 21 - omental lymph nodes.
+B.  Specimen labelled "Station 9 lymph node" consists of fibrofatty tissue measuring 10 x 5 x 3mm.  AE 1 block.  (TO: LC; UE/rt 4.10.66)
+MICROSCOPIC (Reported by A/Prof W Tyus):
+SUMMARY PANCREATIC TUMOUR 
+Histological tumour type
+Poorly differentiated adenocarcinoma. The carcinoma has an unusual growth pattern characterised by rounded nodules of tumour displaying poorly formed glandular openings. Focal intracytoplasmic and luminal staining is seen in the diastase stain.
+The tumour cells show the following immunohistochemical profile: 
+Keratin 19 - positive
+Keratin 7 - weak/moderate staining
+Keratin 20 and CDX2 - Negative
+CD56, Chromogranin A, Synaptophysin - Negative
+Insulin, glucagon - Negative
+KI67 - Variable, up to 20%
+PSA and PSMA - Negative
+Although the nested growth pattern raises the possibility of neuroendocrine differentiation, there is no evidence of this in the immunohistochemical profile.
+Similarly a diagnosis of acinar cell carcinoma was also considered, given the growth pattern, however the presence of staining with keratin 7 and 19 would argue against this diagnosis.
+The overall features would favour a diagnosis of poorly differentiated adenocarcinoma. 
+Histological grade
+Grade 3: Poorly differentiated (49% or less of tumour composed of glands)
+
+Microscopic tumour sites 
+Head of pancreas 
+Neck of pancreas (see margin description)
+
+Extent of tumour invasion 
+Pancreas
+Peripancreatic soft tissues - extensive microscopicdeposits in peripancreatic adipose tissue.
+
+Maximum tumour diameter 
+20 x 15 x 10mm macroscopically 
+Greatest microscopic measurement = approximately 23mm.
+Lymphovascular invasion 
+Present - extensive within pancreas and also extending into peripancreatic tissues. 
+Type of vessel
+Small and medium sized vessels within and adjacent to pancreas 
+
+Perineural invasion 
+Present and extensive - including a focus within the section of the pancreatic neck margin.
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Suspicious: A focus of perineural invasion is seen close to the junction between the blue portal veinbed and red SMA bed margins. (A6)
+Pre-invasive lesion 
+Not identified
+Margins:
+Pancreatic neck: The shave of the pancreatic neck margin contains a focus of perineural invasion as well as an involved lymph node containing metastatic carcinoma. Foci of intraparenchymal carcinoma are also seen in this section.
+The involved lymph node is present on the diathermied surface of this section and red marking ink and diathermy artefact are present directly on carcinoma. (A6). The positive margin is marked red, indicating the SMA bed (in the region of the neck),
+Common bile duct: Clear of tumour
+Portal vein (superior mesenteric vein): Tumour is present at the blue inked portal vein bed margin. (A12)
+Superior mesenteric artery: Carcinoma within adipose tissue is present at the red inked, superior mesenteric artery bed (A6) in the section taken from the pancreatic neck (see above)soft tissue: Positive - carcinoma within adipose tissue extends to the green inked, uncinate margin (A13 and A14)
+Surfaces: 
+Anterior: Appears free of tumour
+Posterior: Carcinoma within peripancreatic adipose tissue extends to the black inked posterior surface.
+Lymph nodes:
+Number found: 20
+Number involved: 9
+Several of the involved nodes show extranodal extension.
+The station 9 lymph node in specimen B is free of tumour (0/1)
+Total nodal count (specimens A and B) = 9/21
+Other pathologies:
+The sections of gallbladder show no significant change.
+The omental fat showsno evidence of malignancy in the submitted sections.
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+PANCREAS
+Primary tumour category (pT)
+T3 Tumour extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery
+Lymph node status (pN)
+N1 Regional lymph node metastasis
+Distant metastasis category (pM) 
+MX Not assessable by histology
+DIAGNOSIS: 
+PANCREAS: ADENOCARCINOMA WITH VASCULAR AND NEURAL INVASION
+LYMPH NODE METASTASES PRESENT
+MARGINS - SEE ABOVE
+SUPPLEMENTARY REPORT (5.10.66)
+
+HISTOPATHOLOGY FOR REVIEW
+
+
+Outside Reference Number: 85N12328
+Biopsy No:  WNN12J2851
+
+BARWON HEALTH - NEWCOMB RENAL UNIT CAMPUS Hospital 
+Pathology DICKINSON 3 NORTH
+Reported by Prof W Stores
+
+MACROSCOPIC:
+The slides from the pancreatic resection (REF: 85N12328) were reviewed at the request of Associate Professor EUGENIO ISIMINGER (Pathologist, Bank of New York Company Pathology, PINNAROO SOLDIERS' MEMORIAL HOSPITAL Hospital) and the treating oncologist.
+Received are one paraffin block, two H&E stained slides (including one giant slide), 12 immunohistochemically stained slides and one diPAS slide.
+MICROSCOPIC: 5/6/66 
+Dear Maxwell,
+Thank you for the opportunity to see the slides from this case and to perform immunohistochemistry. I am very confident that this tumour is a PANCREATIC ACINAR CELL carcinoma.
+lmmunohistochemistry confirms the diagnosis of pancreatic acinar cell carcinoma and isfollows:
+BCL10 - positive
+Trypsin - positive
+COMMENT:
+We have found BCL10 to more sensitive and specific for pancreatic acinar cell carcinoma and it is reassuring that both markers are positive in this case. In our hands chromogranin shows focal weak staining (which is acceptable in pancreatic acinar cell carcinoma). Similarly, thereare a few small foci in which beta-catenin membrane staining is lost, but without classic nuclear positivity. In our experience this is also a common finding in pancreatic acinar cell carcinomas and is of no clinical significance (it merely illustratesthe close relationship between acinar cell carcinoma and pancreatoblastoma).
+SUMMARY:
+Pancreas - Pancreatic Acinar Cell Carcinoma. 
+Sw/AG
+NOTE: A copy of this supplementary report has been faxed to Dr W Kibler on 5/10/2066.
+

@@ -1,0 +1,48 @@
+Episode No:  07D293049G
+0712930.KXG
+
+HACKE, Keenan Angus 
+Lab No:  07D29304
+Moons
+MOONIE  QLD  3414
+Specimen: Tissue
+D.O.B:  9/8/1987
+Sex:  M
+Collected: 20/02/2014 at 14:18
+Location:  DICKINSON 2 NORTH-BARRABA MULTI PURPOSE SERVICE
+DR DEWEY HANK Nunziato
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Ca prostate high risk.  A period of ADT pre op.
+MACROSCOPIC:
+A.  Specimen labelled "Prostate"consists of a prostate 55 x 45 x 35mm and weighing 48g.  The right vas deferens measures 20mm and the left 18mm in length.  The right seminal vesicle measures 20 x 9 x 7mm and the left measures 20 x 12 x 7mm.  Posterior margin is inked black, anterior inked blue and right is inked red.  The prostate is transversely sliced into seven slices.  Sliced 1 and 7 and are further parasagittally sectioned.  Specimen AE.  Please see the diagram.  
+Blocks: 1 - left seminal vesicle; 2 - right seminal vesicle; 3 - left vas deferens; 4 - right vas deferens; 5 to 10 - slice 1 from right to left (apex); 11 to 15 - slices 2 to 6; 16 - 29 - slice 7 (base) from right to left.  AE.
+B.  Specimen labelled "Right pelvic lymph node" consists of fragments of fatty tissue 55 x 45x 15mm in aggregate.  Specimen is serially sliced.  Two lymph nodes are identified 16 and 8mm in maximum dimension.
+Blocks: 1 - one bisected lymph node; 2 - one lymph node
+C.  Specimen labelled "Left pelviclymph node", consists of fatty tissue 65 x 50 x 15mm in aggregate.  Few lymph nodes are identified.  The largest is 22mm in maximum dimension.
+Blocks: 1 - lymph nodes as seen; 2 - one bisected lymph node; 3 and 4 -  one lymphnode.
+D.  Specimen labelled "Left iliac lymph node" consists of a piece of fatty tissue 35 x 27 x 15mm.  
+Blocks: 1 to 5 - lymph nodes. AE.  (XX/vo 23.4.64) 
+MICROSCOPIC (Reported by Dr A Sudbury & registrar Dr A Manusyants):
+A - D.  Sections show acinar adenocarcinoma, thefeatures are as follows:   
+Histological type:  Acinar adenocarcinoma.  
+Tumour location:
+Dominant nodule:  Left anterior and posterior quadrants within apex and midprostate.  
+	Non-dominant (>10mm):  Absent.
+	Smaller nodules:  Present (right apex)
+Volume/Size:	2.58ml (23mm x 14mm x 4mm x 5 slices x 0.0004) 
+Gleason score:  4 + 4 = 8
+Extraprostatic extension:  Present (left posterior)
+Surgical margins:  Not involved.
+Perineural invasion:  Present.
+Seminal vesicles:  Not involved.
+Lymph nodes: Two negative right pelvic, five negative left pelvic, four negative left iliac.
+Lymphovascular invasion:  Absent.
+DIAGNOSIS:
+A .  Prostate and lymph nodes:
+- Adenocarcinoma, Gleason score 4 + 4 = 8, margins clear.
+- Stage (AJCC/UICC TNM system, 7th edition)
+	pT2c Bilateral disease 
+	pN0 No positive regional nodes. 
+	MX Cannot be assessed histologically.
+

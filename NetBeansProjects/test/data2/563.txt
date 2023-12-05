@@ -1,0 +1,43 @@
+
+Episode No:  86I185717T
+863185.TDS
+
+BOCHE, CONCEPCION 
+LabNo:  86I18571
+Elmendorf
+DERBY  Northern Territory  5321
+Specimen: Tissue
+D.O.B:  28/10/1985
+Sex:  F
+Collected: 22/01/2013 at 14:28
+Location:  ACT Genetic
+DR Ethan Florentino Hevrin
+Distribution:   FILE-COPY
+CLINICAL:
+(L) palm tumour (nerve tumour).  (L) IF tumour (GCT).  
+MACROSCOPIC:
+A.  Specimen labelled "Neuron (illegible) left palm" consists of a cream piece of tissue, 14mm.  The external surface appears predominantly smooth.  BAE 1 block.
+B.  Specimen labelled "Tumour left index finger" consists of two pieces of cream tissue, 12 and 17mm.  Each piece bisected and AE 1 block.  
+(EF/mm 25.3.63) 
+MICROSCOPIC (reported by Dr U Vigueras):
+A.  Sections show a variably cellular circumscribed spindle cell tumour containing focal areas of myxoid change.  A very small number of thick walled blood vessels are present within the tumour with the cells arranged in vague interdigitating fascicles.  The cells have indistinct eosinophilic cytoplasm with bland oval nuclei, fine chromatin andoccasional small nucleoli.  No areas of necrosis are seen.  Occasional mitosis are seen (approximately 5 per 10 high power field) and the Ki-67 index is focally up to 5%.  
+The tumour cells show moderate positive staining with neurofilament and there is possible weak patchy staining with S100.  The PanCK, desmin, SMA, EMA and Glut1 stains are negative.  
+COMMENT:
+The morphology and immunohistochemical profile are consistent with a neural tumour.  Thepossibilities include a solitary circumscribed neuroma (palisaded encapsulated neuroma) and schwannoma, although the very weak staining with S100 and increased mitotic activity are unusual.  A second opinion will be sort and an addendum issued. 
+B.  Sections show a giant cell tumour of tendon sheath.  There is no evidence of malignancy. 
+DIAGNOSIS:  
+A.  Left palm:  Neural tumour (see comment).
+B.  Left index finger:  Giant cell tumour of tendon sheath.
+ADDITIONAL REPORT (13/4/63):
+
+CONSULTATION/REVIEW REPORT (JACARANDA PLACE �V QUEENSLAND ADOLESCENT EXTENDED TREATMENT CENTRE Hospital)
+
+Bone and soft tissue meeting 4/3/2063
+The slides were reviewed by Dr PEARL Beskom, Dr U Stauss, Dr U Sandhaus and myself without a definite consensus diagnosis being reached. The positive neurofilament stain (NF6S), however, would support a cellular neurofibroma with atypia. The mitoses, up to 3mm/2. would support low grade malignancy for this tumour which is composed of poorly defined bundles of small spindle cells. The proliferation index - up to 10% nuclei positive with Ki67 could also fit a low grade malignancy.
+Further stains - CD34, Factor 13a, Calponin and repeat S100 were suggested. 
+COMMENT
+On later review Dr CHIARA Gennaria favoured a cellular neurofibroma with atypia. but no diffuse atypia and not diagnostic of malignancy,
+SUMMARY
+Left hand (palm) - Favour cellular neurofibroma with atypia (See report). 
+REPORTED BY: Prof. U. Humberto Bernson
+

@@ -1,0 +1,70 @@
+SPR no: 84E204848P
+MRN no: 841204
+Site_name: TERANG & MORTLAKE HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportAccession Number: 84E204848P
+Laboratory Number: 84E20484
+SEALS HISTOPATHOLOGY REPORT
+
+SUPPLEMENTARY REPORT 29 July 2066
+
+HISTORY:
+Stage 4 Ca ovary.
+1. Omentum.
+2. Right pelvic node.
+3. Rectal sigmoid colon, uterus with cervix, both ovaries and tubes.
+
+MACROSCOPIC:
+A.  &amp;quot;RECTAL SIGMOID COLON, UTERUS WITH CERVIX, BOTH OVARIES AND TUBES&amp;quot;.  Received enbloc a segment of large bowel measuring 200mm in length and up to 40mm in diameter with mesocolon to a width of 30mm.  Attached to a uterus measuring 60x40x30mm , the cervix measures measuring 30x25x20mm.  Multiple adhesions are identified at the posterior uterus where the bowel segment is adherent. These adhesions are obscuring the normal anatomy of the right and left adnexal structures.  The possible right fallopian tube measures 25x10mm attached to a cystic right ovary measuring 45x40x35mm.  The left fallopian tube is not clearly identified but the left ovary is forming a mass measuring 95x60x45mm occuping the posterior aspect of the uterus, the mesenteric adipose tissue and extends to approach the right ovary.   Multiple serosal nodularities are identified on the left ovary outer surface.The cut surface confirms a solid , papillary and partially cystic tumor likely arising from the left ovary invading the posterior uterine wall, the mesocolon and crossing the midline to reach the right adnexal structures. The cut surface of the right ovary is solid and cystic with soft papillary excrescences.  The majority of the tumour has central areas of necrosis and haemorrhage.  The tumor abutting the free serosal surfaces of right and left ovaries. The tumor and possibly abutting the mucosal surface of the bowel with no definite ulceration into the mucosa. The cut surface of the right fallopian tube is unremarkable. Even after serial slicing of the tumor are, the left fallopian is not identified and is possibly embedded within the solid tumour areas.  The mucosa of the bowel  is showing multiple diverticula with no evidence of perforation.  No other tumours or polyps are identified.
+
+(1&amp;amp;2 representative areas of solid tumour; 3-11 continous LS of uterus with adjacent tumor [3  anterior cervix; 4 anterior isthmus; 5&amp;amp;6 continuous piece fundus [5 anterior, 6 posterior including the tumour]; 7 tumour at fundus and adjacent mesentery; 8 posterior body with tumour; 9 continuous with 8 tumour with adjacent mesentery; 10 posterior isthmus with tumour at the posterior end; 11 posterior cervix] ; 12 right fallopian tube two LS and one TS; 13 right fallopian tube with adjacent cystic ovary; 14-18 sections from right ovary and central tumour [14 right ovary with rete ovary, 15&amp;amp;16 solid areas of the right ovary, 17 right uterine body with adjacent right ovary, 18 tumour abutting the serosal surface], 19-25 left ovary and mass [19&amp;amp;20 left ovary with adjacent mesentery and bowel, 21&amp;amp;22 solid areas of left ovary, 23-25 solid area of the left with adjacent bowel]; 26 bowel proximal and distal resection margins).  RS (M-26)
+
+B.  &amp;quot;OMENTUM&amp;quot;.  A fibrofatty piece of tissue consistent with omentum measuring 150x65x20mm.  The outer surface is glistening with focal areas of haemorrhage but becomes nodular and solid at one area measuring 30x20x15mm (a large metastatic deposit). The outer surface of this mass is inked blue.  The cut surface reveals firm white tumour with haemorrhagic edge infiltrating into the omental fat.  The remainder cut surface is fatty and unremarkable.
+
+(1&amp;amp;2 each one TS nodule [deposit]; 3 representative adjacent omentum). RS (M-3)
+
+C.  &amp;quot;RIGHT PELVIC NODES&amp;quot;.  A fibrofatty piece of tissue measuring 30x10x10mm bearing three lymph nodes measuring 5mm, 10mm and 12mm.
+
+(1 smaller node bisected; 2 medium node four TS; 3 larger node five TS).  AE (M-3/ZH/ank)
+
+MICROSCOPIC:  (Dr. V Lelonek)
+A. Representative sections of the tumour show changes of high-grade papillary serous carcinoma. The tumour involves the pouch of Douglas and uterine serosa from the body to fundus regions. Solid areas of tumour are also identified. Carcinoma also extensively involves the colonic serosa with extension into the muscularis propria focally.  Within the carcinoma, there is extensive necrosis. Vacuolated cells and inflammation with xanthomatous histiocytes consistent with chemotherapy effect are noted.
+
+The uterus shows inactive glands. Myometrium shows focal adenomyosis. The cervix shows Nabothian&amp;apos;s cyst. No evidence of tumour. There is carcinoma involving the right ovary. No tumour is seen in the wall of the right fallopian tube.
+
+There is focal lymphovascular involvement.
+
+The left ovary also shows involvement by carcinoma associated with necrosis and fibrosis. The uninvolved colon shows changes of diverticular disease. Colonic mucosa appears unremarkable. The left fallopian tube is adherent to the ovary. However, the mucosal surface of the tube and the wall of the tube show no evidence of tumour.
+
+No evidence of tumour is seen in the colonic mucosal resection margins.
+
+B. Sections show fibrofatty tissue from omentum in which there is involvement by high-grade serous carcinoma. The tumour is associated with inflammatory changes and vacuolation of the tumour cells in keeping with chemotherapy effect.
+
+C. No evidence of malignancy is seen in three lymph nodes identified.
+
+DIAGNOSIS:
+A. RECTOSIGMOID COLON, UTERUS WITH CERVIX, BOTH OVARIES AND TUBES
+- HIGH-GRADE SEROUS CARCINOMA INVOLVING BOTH OVARIES, POUCH OF DOUGLAS, UTERINE AND COLONIC SEROSA RESULTING IN ADHESION BETWEEN THE UTERUS, OVARIES AND COLONIC SEROSA.
+
+-MSI IMMUNOHISTOCHEMISTRY STAINS IN PROGRESS
+
+B. OMENTUM
+- HIGH-GRADE SEROUS CARCINOMA.
+
+C. RIGHT PELVIC NODE
+- NO EVIDENCE OF MALIGNANCY IN THREE NODES.
+
+15/7/2066 cy
+
+SUPPLEMENTARY REPORT 28 July 2066
+Supplementary report:
+Immunostains for MSI proteins (Federal-Mogul IMVS; block:A20  )
+MLH1:  Positive
+PMS2:  Positive
+MSH2:  Positive
+MSH6:  Positive
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

@@ -1,0 +1,58 @@
+
+CLINICAL:
+Right breast wide local excision.  Long suture lateral, double suture deep, loop suture superior.  Right axilla sentinel lymph node biopsy. 
+
+
+MACROSCOPIC:
+A.  Specimen labelled "Right sentinel node", consists of a specimen of lymph node and fatty tissue 38 x 25 x 5mm.  One lymph node is identified 5 x 5 x 4mm. Block 1 - one lymph node; 2 & 3 - remainder of the tissue.  Sentinel lymph node protocol is only requested on block 1. AE. 
+
+B.  Specimen labelled "Right breast cancer, long lateral, double deep, loop superior", consists of a piece of breast tissue with three marking sutures 60mm (medial to lateral) x 35mm (superior to inferior) x 45mm (superficial to deep).  At the superficial aspect there is a skin ellipse 55 x 15mm. No lesions are seen on the epidermal surface. The margins are inked in three colours: superior blue, inferior red and deep black.  Specimen sectioned into eleven slices from medial to lateral.  In slices 4-7 there is a well defined solid pale tumour 15 x 10 x 14mm.  The tumour is 3mm from the overlying skin. The tumour is 17mm from medial, 28mm from lateral, 10mm from superior, 10mm from inferior and 28mm from deep margins. The remainder of the cut surfaces are yellow and glistening.  Blocks 1 - slice 1 shave (medial margin); 2 & 3 - slice 3; 4-8 - slice 4; 9-13 - slice 5; 14-17 - slice 6; 18-20 - slice 7; 21 & 22 - slice 8; 23 - slice 10; 24 - slice 11 (shave lateral margin).  Please see diagram.  
+
+C.  Specimen labelled "right axilla, additional tissue ", consists of fatty tissue 55 x 25 x 15mm.  Three lymph nodes are identified. The largest is 15mm in maximum dimension.  Blocks 1-3 - each one lymph node. (ID/ec 8/6/66)
+
+
+MICROSCOPIC (Reported by Dr L Panzer):
+A - C.  Sections show invasive ductal carcinoma of the breast. The features are as follows:
+Invasive carcinoma:
+Site:  Right breast.
+Type:  Invasive ductal carcinoma. 
+Invasive tumour size:  18mm. 
+Grade (Modified Bloom & Richardson):  2
+Tubules:  3    Nuclei:  2    Mitoses:   2   Mitotic rate:  11/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Absent. 
+
+Excision Margins:  
+Invasive component: 4mm from inferior, 2mm from skin, 5mm from superior, well clear of other margins. 
+In-situ component: Not applicable. 
+
+Receptors (Block B13): 
+ER:  	Positive.
+	100% of nuclei stained
+	predominant intensity of staining:  Strong. 
+PR:  	Negative (repeated)
+HER2 (Novocastra 10A7):  Negative (score 1+).
+HER2 SISH:  Performed at Lyondell Chemical, QUILPIE HOSPITAL Hospital, see separate report.
+Ki-67 index:  Focally up to 20%. 
+
+Nipple:  Not applicable.
+
+LCIS / ALH:   Absent.  
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1. 
+Number of sentinel lymph nodes involved by tumour:   0.       
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  3.
+Number of axillary lymph nodes involved by tumour:  0.        
+  
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  4 
+Total number of involved lymph nodes (including sentinel node(s)):  0
+
+
+
+

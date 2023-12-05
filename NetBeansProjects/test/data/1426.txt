@@ -1,0 +1,42 @@
+
+ 101619.BIT
+Euser, CHANG
+10E61903
+
+Last edited : 7/11/2063		Page: 2
+ADDITIONAL REPORT (11/7/63)
+
+CLINICAL:
+(R) temporal tumour ?GBM.  
+MACROSCOPIC:
+Specimen labelled "Tumour" consists of multiple fragments of pale and haemorrhagic tissue up to 10mm in maximum dimension.  Two smears and one frozen section completed.  
+Blocks: 1 - frozen section; 2 - rest of specimen AE. 
+FROZEN SECTION REPORT:
+Fibrillary background, cellular atypia and mitosis and endothelial proliferation present. Consistent with high grade glioma.  
+Result to Anaesthetist by Dr D Kniceley at 8.15pm on 9/4/13.   (MU/ta 12/6/63) 
+B.  Specimen labelled "Brain tumour" consists of multiple fragments of pale tan and haemorrhagic tissue measuring in aggregate 20 x 12 x 5mm.  The specimen is AE in two blocks.   (GS/cc  12/6/63) 
+ 
+MICROSCOPIC (Reported by Dr D Blethen):
+A and B. Sections show a glioblastoma (WHO grade 4). The lesion is composed of cellular sheets of small and large tumour cells with markedly hyperchromatic, pleomorphic nuclei. Scattered mitoses are seen. Small blood vessels showing endothelial proliferation are seen. Palisading and non-palisading necrosis areidentified. Also present in the specimen is a small amount of cortical tissue and thin-walled vessels with fibrin thrombi.
+Immunohistochemical stains: 
+GFAP: variable weak to moderate staining
+Ki67: Up to30%
+IDH1: -ve
+p53: +ve
+
+Molecular tests: 
+Tissue will besent to Dr LEVI Franz, BLACKTOWN HOSPITAL Cancer Centre for MGMT methylation testing.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block B2. 
+
+
+DIAGNOSIS: 
+A and B. Right temporal lesion: Glioblastoma (WHO grade 4)
+ADDITIONAL REPORT (11/7/63)
+
+Dr Lionel Gaulzetti, KANGAROO ISLAND HEALTH SERVICE Cancer ResearchCentre reports:
+The DNA was bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation. 
+We found this sample to be highly methylated at the MGMT promoter region.
+This is a research only test in a laboratory that is not NATA approved and as such can only be used as a guide.
+

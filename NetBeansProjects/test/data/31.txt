@@ -1,0 +1,76 @@
+Episode No:  02B052431I
+0200524.IDI
+
+DURRETT, BRITTA 
+Lab No:  02B05243
+Nonsuch Court
+IRON KNOB  New South Wales  6980
+Specimen: Tissue
+D.O.B:  18/3/1991
+Sex:  F
+Collected: 19/11/2013 at 15:59
+Location:  POST OPERATIVE RECOVERY-GAWLER HEALTH SERVICE
+DR FRANKIE DAISEY TREOLA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast sentinel nodebiopsy - in print cytology.  TB, finishing Rx.
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node number 1, left breast" consists of a fatty piece of tissue 60 x 15 x 10mm containing two lymph nodes, 5 and 7mm in maximum diameter.
+Blocks:  1 - one lymph node; 2 - one lymph node.
+B.  Specimen labelled "Sentinel node number 2 & 3, left breast" consists of a fatty piece of tissue 60 x 25 x 10mm containing threelymph nodes, 5, 10 and 10mm.
+Blocks:  1 - one lymph node; 2 - one lymph node; 3 - one lymph node.
+The imprint is reported.No malignant cells identified by Dr BLAKE SHOAFF/VD.
+C.  Specimen labelled "Left breast tissue suture at axillary clearance" consists of a total mastectomy with a suture for orientation marking the axillary tail.  It measures 180mm (from medial to lateral) x 180mm (from superior to inferior) x 30mm (from superficial to deep).  There is a ellipse of skin with nipple and areola complex measuring 150 x 65mm.  The surface of the skin is unremarkable.  Superficial margin inked blue.  Deep margin inked black.  On sectioning at the junction of the lower inner quadrant and lower outer quadrantthere is an ill defined cystic and solid mass measuring 30mm (from superior to inferior) x 30mm (from superficial to deep margin) x 30mm (from medial to lateral).  It is located 2cm from the nipple and 70mm from superior margin x 70mm from inferior margin, 20mm from deep margin and more than 100mm from medial and lateral margin.  The rest of the parenchyma is unremarkable.  No lymph nodes are identified.  Representative sections:
+Blocks:  1 - nipple and areola complex; 2 - tumour with closest deep margin; 3 to 5 - representative section of the tumour (some ink tracking - no margins) (block 3 - reserved block and receptors); 6 - next lateral section to the tumour; 7 - next medial section to the tumour; 8 - closest superior margin to tumour; 9 - closest inferior margin to tumour; 10 & 11 - upper inner quadrant; 12 & 13 - lower inner quadrant; 14 & 15 - upper outer quadrant; 16 & 17 - lower outer quadrant.  (TO: KL; NR/rt 22.1.63)
+
+
+MICROSCOPIC (Reported by Dr C Ahlberg):
+A.  Two (2) lymph node shows reactive changes only (0/2). The CAM5.2 keratin immunostains are negative.  There is no evidence of malignancy.
+B.  Three (3) lymph node shows no evidence of malignancy (0/3).  The CAM5.2 keratin immunostains are negative.  There is no evidence of malignancy.
+C.  Sections show a 30mm grade 2 infiltrating duct carcinoma, NST with the following features.
+Invasive carcinoma:
+Site:  Left breast. 
+Type:  Infiltrating duct, NST. 
+Invasive tumour size:  30mm. 
+Grade (Modified Bloom & Richardson): 2
+Tubules:  2     Nuclei: 3     Mitoses: 2     Mitotic rate:   11/10hpf.
+Lymphovascular invasion:  Not seen. 
+The tumour is composed of cribriform glands, solid nest and strand within afibrous stroma. The tumour contains prominent calcification including psammomatous calcification.  There is some cellular heterogeneity with the tumour cells displaying predominantly grade 2 nuclei with minimal cytoplasm; however there are also some peripheral areas in which the tumour cells are larger with vesicular chromatin and occasional nuclei consistent with nuclear grade 3.  There is some adjacent pseudocystic change, stroma fibrosis, organising haemorrhage and chronic inflammation consistent with prior core biopsy sampling.  Within this altered stroma a few tumour cell nests are surrounded by retraction spaces and in proximity to neovascularisation but no convincing lymphovascular invasion is seen including in a CD31 immunostained section.  The tumour is immunonegative for WT1.
+	    
+DCIS component:  
+DCIS:  Not seen. 
+Excision Margins:  
+Invasive component: All margins well clear >10mm. 
+In-situ component:  Not seen.
+Receptors (Block C3 ): 
+ER:  Positive.
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive.
+	20 % of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7): Negative (1+)
+HER2 SISH:  Performed at R.R. Donnelley, FINLEY HOSPITAL & COMMUNITY HEALTH CARE Hospital, see separate report.
+Ki-67 index:  There is heterogeneous expression with up to 25%of tumour cells staining.
+Nipple:  Not involved:  No evidence of Paget's disease. 
+LCIS / ALH: Not seen. 
+Miscellaneous: There are also foci of columnar cell change, columnar cell hyperplasia and ductal hyperplasia of usual type. 
+Sentinel lymph node(s) (specimens A & B):
+Number of sentinel lymph nodes examined: 5.
+Number of sentinel lymph nodes involved by tumour:   0.       
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0.      
+Axillary/other nodes:
+Number of axillary lymph nodes examined:.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   5
+Total number of involved lymph nodes (including sentinel node(s)):   0
+DIAGNOSIS:
+A & B.  Left breast (mastectomy) and sentinel lymph nodes:
+-  30mm grade 2 infiltrating duct carcinoma, NST; ER positive, PR positive; margins
+   clear. 
+-  Five (5) negative sentinel lymph nodes.  
+ 
+
+ 
+
+

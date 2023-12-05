@@ -1,0 +1,109 @@
+SPR no: 49G943195D
+MRN no: 49294319
+Site_name: GNOWANGERUP HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+68yo male Whipples for IPMN in head of pancreas.  Pancreaticoduodenectomy.  Hilar lymph node.  Common hepatic lymph node.  One long suture - portal vein.  Two med sutures - SMA.  Three short sutures - uncinate process.
+Request information sheet received: No
+Radiology reports received: No
+
+
+MACROSCOPIC:
+Specimen labelled: Pancreaticoduodenectomy and omentum.
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&amp;apos;s resection), partial pancreatectomy
+
+Specimen dimensions:
+Length of duodenum: 260mm.
+Length of lesser curve of stomach: 10mm
+Length of greater curve of stomach: 35mm
+Size of gallbladder: 100mm in length and a diameter up to 35mm.
+Wall thickness of gallbladder: 2mm thick.
+Calculi in gallbladder: No.
+Length of bile duct: 45mm
+Maximum diameter of bile duct: 2mm
+Size of pancreas: 55 x 60 x 14mm
+Location of stent: Non applicable
+
+Orientation:
+Portal vein: One long suture.
+Superior mesenteric artery: Two mid suture.
+Uncinate process: Three short sutures.
+Common bile/hepatic duct: Silk tie.
+
+
+Tumour location:
+Pancreatic head.
+
+
+Tumour:
+Description: Ill defined multicystic lesion at the pancreatic head which abuts the portal vein (red margin) and 5mm away from the closest SMA margin (green).
+Tumour Size: Approximately 15 x 15 x 24mm.
+Greatest dimension:24 mm
+Additional dimensions: 15 x 15 mm
+
+Distance of tumour to margins:
+Pancreatic neck: More than 10mm.
+Common bile duct: Greater than 10mm.
+Portal vein bed: Abutting.
+Superior mesenteric artery: 5mm.
+Uncinate process: Greater than 10mm.
+Proximal intestinal/gastric: Greater than 10mm.
+Distal intestinal margin: Greater than 10mm.
+
+Distance of tumour to surfaces:
+Anterior: Greater than 10mm.
+Posterior: Greater than 10mm.
+
+Additional gross pathologic findings:
+Additional growth pathological finding: There is a separate omental fat measuring 350 x 140 x 10mm.  No nodules or lesions are identified.
+The pancreas has been serially sectioned from superior to inferior into eleven sections.  Slice two, three, four and six, includes the neck of the pancreas.  Slice five is the congenitally cut section. Slice seven includes ampulla.
+
+Specimen inked:
+Anterior: Blue.
+Posterior: Black.
+Portal vein: Red.
+Superior mesenteric artery: Green.
+Uncinate process: Yellow.
+Other: Duct from the pancreatic neck internally:  Purple.
+
+Blocks: 1 - proximal margin (stomach); 2 - distal margin (small bowel); 3 - RS gallbladder (body and fundus); 4 to 7 - TS cystic duct, embedded from distal (close to gallbladder to proximal); 8 to 10 - multiple possible lymph nodes identified from fat attached to stomach (9 - one lymph node bisected); 11 to 13 - RS omentum; 14 - TS cystic duct (most proximal); 15 - pancreatic neck margin; 16 - slice one; 17 - slice two; 18 - slice three; 19 - slice four (non embedded surface contains inked duct); 20 - slice five; 21 - slice six; 22 - slice seven; 23 - slice eight; 24 - slice nine; 25 - slice ten; 26 - slice eleven (most inferior pancreas).  RS 26 blocks.
+
+B.  Specimen labelled &amp;quot;Hilar lymph node&amp;quot;, consists of a piece of unorientated, irregular shaped fibrofatty tissue, measuring 25 x 12 x 7mm.  Specimen is serially sliced.  No nodules or lesions are identified macroscopically.   AE 2 blocks.
+
+C.  Specimen labelled &amp;quot;Common hepatic lymph node&amp;quot;, consists of a piece of unorientated, irregular shaped fibrofatty tissue, measuring 32 x 24 x 8mm.  Two possible lymph nodes are identified.  Specimen is serially sliced.  Blocks: 1 - first lymph node, trisected; 2 - second lymph node, quadrisected; 3 - remaining fatty tissue.   (TO:JT/ta 28/10/70)
+
+
+MICROSCOPIC (Reported by Dr K Gammon):
+The pancreas is entirely embedded and examined. Sections of pancreas show an intraduct papillary mucinous neoplasm (IPMN) within the pancreatic head.  The IPMN is composed of multilocular cysts lined by flat columnar mucinous epithelium with low grade nulcear atypia. In many areas the cyst lining is denuded.  Many of the cysts show fibrous alteration of their walls and there are occasional intraductal concretions/stones. The main pancreatic duct (which is injected with ink at the time of gross dissection) travels through the conglomeration of cysts compatible but appears non-dilated.   The subtype is consistent with a gastric IPMN. There is associated mild patchy pancreatitis with necrosis of acinar parenchyma and focal subacute haemorrhage in the form of haemosiderin deposition.  Twenty lymph nodes show no evidence of malignancy (0/20).
+
+COMMENT:
+The main pancreatic duct is present within  the cystic area but appears non-dilated.  Subclassification as a main or branch duct IPMN is difficult and correlation with the imaging findings is suggested.
+
+
+The margins of clearance as as follows:
+Pancreatic neck:  8mm (A18 - branched duct).
+Portal vein:  The fibrous wall of the cyst abuts this margin (A19, A21).
+Superior mesenteric artery:  0.4mm (A24).
+Uncinate:  5mm (A23).
+
+Surfaces:
+Anterior:  Well clear (greater than 10mm).
+Posterior:  5mm (A19).
+
+Away from the tumour the pancreas is unremarkable. The mucosa of the distal stomach shows a moderate active chronic gastritis with patchy intestinal metaplasia.  Numerous Helicobacter organisms are seen which are highlighted with a Helicobacter immunostain.
+
+The gallbladder appears mostly autolysed.
+
+B.  Sections show mature adipose tissue.  Lymph nodes are not identified.
+
+C.  Two (2) lymph nodes show no evidence of malignancy (0/2).
+
+
+DIAGNOSIS:
+A-C.  Whipple&amp;apos;s pancreaticoduodenectomy, hilar lymph node and common hepatic lymph nodes:
+-   Intraduct papillary mucinous neoplasm, gastric type epithelium, approximately 24mm in maximum dimension, no evidence of invasive carcinoma seen.  Twenty two negative lymph nodes (0/22).
+-   Moderate active chronic Helicobacter associated gastritis with patchy intestinal metaplasia.
+The findings were discussed with Dr K Marn.

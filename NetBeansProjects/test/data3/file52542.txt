@@ -1,0 +1,116 @@
+SPR no: 87Z527264Y
+MRN no: 8795272
+Site_name: CAMDEN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report87Z52726 (87Z527264Y) Chumley, Fermin DEWITT
+HISTOPATHOLOGY REPORT
+CHERBOURG HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Left breast.  3 o&amp;apos;clock 5cm from nipple invasive lobular Ca. cancer.  Short-superior,medium-medial, long-lateral.
+Left axillary sentinel node.  Frozen section
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT AXILLARY SENTINEL NODE&amp;quot;.  Three pieces of fatty tissue within which are three lymph nodes 2, 3 and 6mm.  The two largest nodes bisected and half submitted for frozen section (A1)  Other halves of frozen section nodes (A2) and remaining node (A3). AE (M-3)
+
+Frozen section result:  &amp;quot;Negative for malignancy (0/2)&amp;quot;. Reported by V. Boldt 8/5/71.
+
+B.  &amp;quot;LEFT BREAST WIDE LOCAL EXCISION, SHORT-SUPERIOR, MEDIUM-MEDIAL, LONG-LATERAL&amp;quot;.
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  80mm
+Superior to inferior:  65mm
+Anterior to posterior:  25mm
+WEIGHT:  71g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 10
+FINDINGS / LESION: Specimen is very friable and irregular, difficult to handle.
+Within slices 1-7 there is a lobulated firm circumscribed rubbery creamy lesion measuring approximately 40mm medial to lateral, 25mm superior to inferior and 15mm anterior to posterior.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+It abuts the superior margin, posterosuperior margin, and medial margin.
+Anterior 12mm, posterior 3mm, , inferior 20m, and more than 20mm from lateral margin.
+(1 two LS; 2 one LS; 3 one LS; 4 two LS; 5 two LS [slice 1]; 6&amp;amp;7 slice 2; 8-10 slice 3; 11-13 slice 4; 14-17 slice 5; 18-20 slice 6; 21 portion of slice 7; 22 portion of slice 8; 23 portion of slice 9; 24&amp;amp;25 two LS slice 10).  RS(M-25/SM 8/8/2067 nh)
+MICROSCOPIC: (Dr V Gilliand)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single invasive focus
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 20mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE:  Invasive lobular carcinoma
+&amp;#160;
+HISTOLOGIC GRADE:  2
+&amp;#160;
+SCORES: Tubules: 3, Nuclei: 2, Mitoses: 1; Total score: 6&amp;#160;&amp;#160;(of 9)
+&amp;#160;
+MITOTIC RATE: &amp;#160;1&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 20mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identifed
+PERINEURAL INVASION: Not identified&amp;#160;
+
+SKIN INVOLVEMENT: Not applicable
+DERMAL LYMPHOVASCULAR INVASION: Not applicable
+NIPPLE INVOLVEMENT: Not applicable&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Not identified
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Present&amp;#160;
+Atypical lobular hyperplasia present but no LCIS
+
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Negative
+Distance of invasive tumour to margins:
+Anterior: 8mm
+Posterior: 1 (B12)
+Superior: Well clear (&amp;gt;10mm)
+Inferior: Well clear (&amp;gt;10mm)
+Medial: Well clear (&amp;gt;10mm)
+Lateral: Well clear (&amp;gt;10mm)
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B15
+ER: Positive &amp;#160;98%, &amp;#160;3+
+PgR: Positive &amp;#160;90%, &amp;#160;2+
+HER2: Negative 1+ (IHC)&amp;#160;
+Ki67: 10 to 20%
+&amp;#160;
+Other tumour block suitable for further testing: B19
+&amp;#160;
+SEPARATE FINDINGS: Fibrosis&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 3
+&amp;#160;
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c, pN0
+
+DIAGNOSIS:
+A. LEFT AXILLARY SENTINEL LYMPH NODES
+- THREE BENIGN LYMPH NODES
+B. ORIENTED WIDE LOCAL EXCISION LEFT BREAST
+- 20mm GRADE 2 INVASIVE LOBULAR CARCINOMA
+- COMPLETELY EXCISED
+8/9/70 ld

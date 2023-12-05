@@ -1,0 +1,92 @@
+SPR no: 48R175631X
+MRN no: 4861756
+Site_name: BARWON HEALTH - ASHLEY MANOR CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  48R175631X
+4861756.IDX
+
+MATTHEY, CHARMAINE
+Lab No:  48R17563
+S Nottingham
+WOLLONGONG  Victoria  3885
+Specimen: Tissue
+D.O.B:  6/3/2013
+Sex:  F
+Collected: 27/10/2014 at 12:27
+Location:  Med Onc-THE ALFRED
+DR JAIME CEDRIC KELTON
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right invasive breast cancer.  Sentinel node.  Bilateral mastectomy.  Left DCIS.
+Further information from Dr Newbold (surgical oncology registrar):  Biopsy report from left breast showed DCIS with possible stromal invasion, 8mm lesion 2 o&amp;apos;clock 25mm from nipple.
+MACROSCOPIC:
+A.Specimen labelled &amp;quot;Sentinel node R&amp;quot; consists of a piece of fatty tissue 25 x 15 x 10mm containing two lymph nodes measuring 7 x 5 x 5mm and 5 x 5 x 5xmm.  Imprints from each lymph node done.
+Blocks: 1 &amp;#8211; one lymph node (marked as 7mm); 2 &amp;#8211; one lymph node (marked as 5mm).  AE.
+IMPRINT CYTOLOGY REPORT:
+Single cluster and two isolated highly atypical cells, suspicious for malignancy in one of two nodes.
+Result to Dr Cackett by Dr L Bultman, Dr L Kehl and Dr L Bour on 27/10/14 at 14:15.
+
+B.  Specimen labelled &amp;quot;Right breast stitch lateral&amp;quot; consists of a mastectomy specimen with a stitch marking lateral measuring 165mm (medial to lateral) x 135mm (superior to inferior) x 35mm (superficial to deep).  The overlying skin measures 145 x 50mm bearing a prominent nipple measuring 15mm in maximum dimension.  No lesions are identified on the skin.  The superficial aspect is inked blue and the deep margin inked black.  At 3 o&amp;apos;clock 20mm from the nipple to 16mm from the nipple at 10 o&amp;apos;clock there is an indurated pale solid tumour measuring 41 x 23 x 9mm.  The tumour is 40mm from lateral, 35mm from medial, 50mm from inferior, 52mm from superior and 22mm from deep margin.  The tumour is 10mm from the overlying skin.
+Blocks: 1 to 3 &amp;#8211; one continuous section from nipple towards the deep margin (block 1 &amp;#8211; nipple and tissue behind nipple; 2 &amp;#8211; tumour; 3 &amp;#8211; deep margin, the notch on block 2 is towards block 3; 4 &amp;amp; 5 &amp;#8211; (paired sections) nippleand tumour (block 5 &amp;#8211; reserve block); 6 &amp;amp; 7 &amp;#8211; (paired sections of tumour) superior to inferior extent; 8 &amp;#8211; tumour and deep margin; 9 &amp;amp; 10 &amp;#8211; random sections upper outer quadrant; 11 &amp;amp; 12 &amp;#8211; random sections lower outer quadrant; 13 &amp;amp; 14 &amp;#8211; random sections lower inner quadrant; 15 &amp;amp; 16 &amp;#8211; random sections upper inner quadrant.  (Please refer to attached diagram).
+C.  Specimen labelled &amp;quot;Additional nodes right axilla&amp;quot; consists of two pieces of fatty tissue including lymph nodes 35 x 25 x 4mm and 12 x 6 x 5mm.  Two lymph nodes are identified measuring 12 and 11mm in maximum dimension.
+Blocks: 1 &amp;#8211; one bisected lymph node; 2 &amp;#8211; one bisected lymph node.
+D.  Specimen labelled &amp;#8220;Left breast tissue, stitch lateral&amp;#8221; consists of a breast with a stitch marking lateral measuring 150mm (lateral to medial) x 120mm (superior to inferior) x 40mm (superficialto deep).  Superficial margin is inked blue and deep margin is inked black.  The overlying skin ellipse is 130 x 40mm bearing a prominent nipple 15mm in maximum dimension.  No lesions are identified on the skin.
+The overlying skin ellipse measures 130 x 45mm bearing a prominent nipple 15mm in maximum dimension.  No lesions are seen on the skin.  There are patchy pale areas with rubbery consistency throughout the breast.  No discrete indurated lesions are identified.
+Blocks:  1 to 3:  2 o&amp;apos;clock 20mm from nipple (deep margin in block 1); 4 to 6 - 25mm 2 o&amp;apos;clock from nipple (deep margin in block 4); 7 to 9 - 25mm 3 o&amp;apos;clock FN (deep margin block 7); 10 to 12 - 12 o&amp;apos;clock 15mm FN (deep margin block 10); 13 - section of nipple and tissue behind nipple; 14 &amp;amp; 15 - upper inner quadrant; 16 &amp;amp; 17 - lower inner quadrant; 18 &amp;amp; 19 - lower outer quadrant; 20 &amp;amp; 21 - upper outer quadrant.  Please see diagram.  (HM/mm 30.12.64)
+MICROSCOPIC (reported by Dr L Gady):
+A - C.  Sections show invasive ductal carcinoma of the right breast.  The features are as follows:
+Invasive carcinoma:
+Site:  Right breast.
+Type:  Invasive ductal carcinoma.
+Invasive tumour size:  15mm
+Grade (Modified Bloom &amp;amp; Richardson):  3.
+Tubules:  3    Nuclei:  3     Mitoses:   2   Mitotic rate: 10/10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Present.
+Maximum extent of DCIS:  25mm.
+Nuclear grade:  High grade.
+Architecture:  Solid.
+Necrosis:  Present.
+Calcification:  Present.
+Degree of DCIS in tumour:  Moderate.
+DCIS in adjacent tissue:  Extensive.
+Excision Margins:
+Invasive component:  Well clear of all margins.
+In-situ component:  7mm from deep, well clear of all other margins.
+Receptors (Block B2):
+ER:   Less than 1% of nuclei stained
+predominant intensity of staining:  Weak.
+PR:   Negative.
+HER2 (Novocastra 10A7):  Equivocal (score 2+).
+HER2 SISH:  Performed at Anatomical, DUBBO BASE HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 30%.
+Nipple:  No significant abnormality.
+LCIS / ALH:  Absent.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2.
+Number of sentinel lymph nodes involved by tumour:  2.
+Number of sentinel nodes with metastases &amp;gt;2.0mm:  0.
+Number of sentinel nodes with metastases &amp;lt;2.0mm:  0.
+Number of sentinel nodes with isolated tumour cells &amp;lt;0.2mm:  2.
+Detected by: One node by routine stains, one node by immunohistochemistry.
+Extranodal spread:  Absent.
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  2.
+Number of axillary lymph nodes involved by tumour: 1.
+Number of axillary nodes with metastases &amp;gt;2.0mm:  0.
+Number of axillary nodes with metastases &amp;lt;2.0mm:  1
+Number of axillary nodes with isolated tumour cells &amp;lt;0.2mm:  0
+Extranodal spread:  Absent.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  4.
+Total number of involved lymph nodes (including sentinel node(s)):  3.
+D.  Sections show a 4mm focus of high grade ductal carcinoma in situ (DCIS) with solid architecture and luminal necrosis.  No calcification is noted.  This focus lies at the 3 o&amp;#8217;clock position and is well clear of all resection margins.  The remaining breast tissue shows extensive sclerosing adenosis and columnar cell change with associated luminal calcification.  Fibroadenomatoid change is also present.  No invasive malignancy is seen.
+DIAGNOSIS:
+A - C.  Right breast and right sentinel and axillary lymph nodes:
+- Invasive ductal carcinoma, margins clear (see above).
+- Three positive lymph nodes.
+D.  Left breast:   DCIS, margins clear.

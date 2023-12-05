@@ -1,0 +1,131 @@
+SPR no: 34X983346H
+MRN no: 349983
+Site_name: BANKSTOWN-LIDCOMBE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report34X98334 (34X983346H) Salone, WALDO
+HISTOPATHOLOGY REPORT
+PAKENHAM HEALTH CENTRE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Breast cancer WLE + SLNBX, long-lateral, medium-medial, short-superior.
+Left axillary sentinel node frozen section.
+Loop to nipple margin.
+1. Left breast cancer WLE.
+2. Left axillary sentinel node already sent as frozen section.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT AXILLARY SENTINEL NODE BIOPSY&amp;quot;.  Consists of 2x fatty piece of tissue 35mm and 20mm.  3 x LN.  LN1 20mm blue and LN2 17mm blue and LN3 5mm rubbery surface.  1 x TS from 2 x larger LN.
+
+F/S : &amp;quot;Negative&amp;quot;.  Reported to Dr. Stuart by Dr. J. Crandal at 1:15pm on 07.06.67.
+
+(1 FS; 2 LN1; 3 LN1; 4 LN2; 5 LN3)  RS (M-5)
+
+B.  Specimen labelled &amp;quot;LEFT BREAST REGION EXTRA SUTURE LOOP NIPPLE&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision oriented
+SPECIMEN X-RAY:  Yes.  Hookwire split at H6.
+HOOKWIRE:  Yes entering the specimen laterally
+SPECIMEN DIMENSIONS:
+Medial to lateral:  35mm
+Superior to inferior:  25mm
+Anterior to posterior:  20mm
+WEIGHT:  12g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 12
+FINDINGS / LESION:  There is a pale white lesion identified in slices 3-7.  It measures 20mm medial to lateral x 15mm superior to inferior x 10mm anterior to posterior. The lesion is &amp;lt;1mm from anterior margin, &amp;lt;1mm from inferior margin, 5mm from posterior and 10mm from superior.  It is 10mm from medial and 20mm from lateral margins.  It underlies the loop/nipple margin which was inked yellow.  Entire specimen embedded.
+(1 LS through medial margin; 2 slice; 3 slice 3; 4 slice 4; 5 slice 5; 6 slice 6; 7 slice 7; 8 slice 8; 9 slice 9; 10 slice 10; 11 slice 11; 12 LS through lateral margin slice 12). AE (M-12/MC 11/6/2068 ank)
+MICROSCOPIC:  (Dr J Jaminet)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA: Right breast
+&amp;#160;
+NUMBER OF INVASIVE FOCI: 1
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160;21mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive ductal carcinoma, NOS
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules:  3  , Nuclei: 2   , Mitoses:  1  ; Total score: 6&amp;#160;&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;&amp;#160;1 mitosis per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 31mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identified
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: Not assessed
+
+DERMAL LYMPHOVASCULAR INVASION: Not assessed
+&amp;#160;
+NIPPLE INVOLVEMENT: Not assessed
+&amp;#160;
+MUSCLE INVOLVEMENT: Not assessed
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: Found within the area of invasive carcinoma and extending up to 10mm beyond the edge of the tumour.
+Nuclear grade: Intermediate
+Architecture / type: Solid
+Necrosis: Absent
+Microcalcification of DCIS: Not present
+Extensive intraduct component: Not present
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Invasive carcinoma extends to focally involve the antero-inferior margin over an area approximately 0.5mm wide (Block 7). Invasive carcinoma lies less than 0.5mm from the nipple margin on the antero-inferior surface marked with the looped suture (block 4) but is well clear of all other margins (greater than 10mm).
+&amp;#160;
+DCIS MARGINS:
+DCIS focally extends to within less than 0.5mm of the antero-inferior margin with an adjacent diathermied atypical duct on this margin - best considered focally involved (single duct block  6, DLS). This focus lies adjacent to the nipple marking suture. There is less than 0.5mm to the superior margin focally (single duct, Block 6), with 0.5mm to the posterior margin (Block 7) and greater than 8mm to all other margins.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, Block B4
+
+ER:  POSITIVE   100%   3+
+PR:  NEGATIVE   0
+HER2: 2+, SISH to follow
+Ki67:   5-10%
+
+Other tumour block suitable for further testing: B6
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS:
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: 		Not involved
+Nodes with macrometastases: 	0
+Nodes with micrometastases: 	0
+Nodes with isolated tumor cells: 	1
+Total number of nodes examined: 	3
+&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN0 (i+)(sn)
+
+OTHER COMMENTS: A core biopsy site is present within the lesion.
+
+DIAGNOSIS:
+LEFT AXILLARY SENTINEL NODE BIOPSY
+- NO EVIDENCE OF MALIGNANCY IN 3 NODES (ISOLATED TUMOUR CELLS IN 1 NODE)
+LEFT BREAST REGION
+- 21mm GRADE 2 INVASIVE DUCTAL CARCINOMA WITH A FOCALLY INVOLVED ANTERO-INFERIOR MARGIN
+9/7/2067 cy
+SUPPLEMENTARY REPORT:
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+Mean HER2 copy number per cell: 2.6
+Mean CEP17 copy number per cell: 3.1
+HER2/CEP17 Ratio: 0.84
+HER2 status:          NEGATIVE
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122.
+Reported by: Dr J Wiberg
+Date: 14.6.70

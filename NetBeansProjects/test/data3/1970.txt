@@ -1,0 +1,40 @@
+
+Episode No:  72K364945V
+7243649.KPV
+
+SCARR, Patricia 
+Lab No:  72K36494
+New Castle
+TENNANT CREEK  New South Wales  1174
+Specimen: Tissue
+D.O.B:  6/10/1999
+Sex:  F
+Collected: 26/09/2064 at 11:16
+Location:  SEALSCentral-FINLEY HOSPITAL & COMMUNITY HEALTH CARE
+DR REYES Janis ROME
+Distribution:  
+CLINICAL:
+?Liposarcoma within quadriceps compartment left thigh.  Excision with capsule intact.  Marking suture at 12 o'clock.  Muscle anterior.  IBS/eczema/asthma.  
+MACROSCOPIC:
+Specimen labelled "Lipoma left thigh stitch at 12 o'clock" consists of a lipomatous mass with attached skeletal muscle fibres over the anterior surface and a stitch marking 12o'clock measuring 170 x 115 x 50mm.  The external surface is smooth.  Medial surface is inked blue and lateral surface is inked black.  Specimen appears to be thinly encapsulated.  Specimen is serially sectioned into 23 slices (superiortowards inferior).  The cut surfaces are homogenously yellow and glistening.  No necrosis is seen.  
+Blocks:  1- representative slice 1 (12 o'clock, superior); 2 to 6 - entire slice 5; 7 - posterior slice 8; 8 - centre slice 8; 9 - lateral slice 9; 10 - central slice 9; 11 - anterior slice 13; 12 - anterior slice 14; 13 - centre slice 14; 14 - anterior slice 15; 15 - centre slice 16; 16- lateral slice 17; 17 & 18 - representative slice 23 (inferior, 6 o'clock).  Please see the picture and the diagram.  (TO: PV   OR/mm 24.9.64) 
+MICROSCOPIC (Reported by Dr T Heman):
+Sections show a well-differentiated lipomatous neoplasm, which appears to be surrounded by a thin capsule. The neoplasm comprises lobules of adipocytes, separated by occasional fibrous septae of variable thickness. The majority of adipocytes are mature, however some variation is adipocyte size is seen within the lobules. No definite lipoblasts are seen. Within the fibrous septae, there are spindled cells with plump mildly atypical ovoid nuclei. There is no overtnuclear hyperchromasia. Mast cells are numerous within the septae. There are no areas of dedifferentiation or sclerosis.
+There is no infiltration into the skeletal muscle anteriorly. The tumour abuts the inked capsule on both the medial and lateral surfaces.
+DIAGNOSIS:
+Left thigh: Lipomatous tumour showing mildly atypical nuclear features.
+Comment: A tumour block has been submitted for MDM2/12cen FISH. The results will be issued in a supplementary report.
+SUPPLEMENTARY REPORT:  (20.10.64)
+FISH Report, reported by T Chubbs, validated by Dr T Bruh, HEALESVILLE & DISTRICT HOSPITAL's Hospital
+"FISH Probe:
+MDM2 (12q15),D12Z3 (12 centromere) loci-specific probe set (ZytoVision)
+FISH Results:
+nuc ish(D12Z3x1-2)/(MDM2 amp)
+Comment:
+Interphase FISH detected signal patterns consistent with high-level amplification of MDM2.  One or two copies of 12 centromere were seen. 
+Summary:
+MDM2 amplificationdetected". 
+ 
+Dr. OCTAVIO BURBRIDGE, 20/10/2064
+Comment: Given the detection of MDM2 amplification, this tumour is best regarded as a well-differentiated liposarcoma.
+

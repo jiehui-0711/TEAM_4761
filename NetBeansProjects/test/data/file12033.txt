@@ -1,0 +1,38 @@
+SPR no: 97M268967W
+MRN no: 97426896
+Site_name: HERVEY BAY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+IB1 adenocarcinoma cervix.
+Additional information:  Previous cone biopsy (97M26896) - well differentiated adenocarcinoma, AIS and CIN3, margins clear.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus cervix right tube and ovary&amp;quot;, consists of a uterus with attached cervix vaginal cuff right fallopian tube and right ovary weighing 110g in total.  The uterus measures 80 x 75 x 40mm and has a smooth shiny serosal surface.  The soft tissue margin of the uterus is inked blue anteriorly and black posteriorly.  The ectocervix/vaginal cuff measures 50 x 38mm.  At the junction of in the cervical canal and ectocervix posteriorly there are polypoid projections into the canal 25 x 12 x 8mm in aggregate.  The endometrium is 1mm in maximum thickness.  The myometrium is 20mm in maximum thickness.  There are no focal lesions within the myometrium.  The right fallopian tube is 75mm long and up to 9mm in diameter.  The right ovary measures 25 x 20 x 10mm and contains a single unilocular cyst 7mm in maximum dimension.  The cyst is filled with clear fluid.
+Blocks: 1 to 14 - anterior cervix, blocked clockwise from 9 to 2 o&amp;apos;clock; 15 to 32 - posterior cervix, blocked clockwise from 3 to 8 o&amp;apos;clock (from block 20 to 29 each of the two successive blocks are paired); 33 and 34 - longitudinal section of anterior body; 35 nd 36 - longitudinal section of posterior body; 37 - representatives right ovary; 38 - representatives right fallopian tube.  Please see the diagram.
+
+B.  Specimen labelled &amp;quot;Left ovarian tube&amp;quot;, consists of a fallopian tube 16mm long and up 8mm in diameter with attached ovary 25 x 15 x 10mm and parametrial tissue 50 x 42 x 8mm.  The cut surfaces of the ovary are unremarkable.  No lymph nodes or nodules are identified within the parametrial tissue.
+Blocks: 1 - representatives the fallopian tube; 2 - representatives the ovary.
+
+C.  Specimen labelled &amp;quot;Right pelvic lymph nodes&amp;quot;, consists of a piece of fatty tissue 100 x 30 x 15mm.  Several lymph nodes are identified, the largest is 25mm in maximum dimension.
+Blocks: 1 to 4 - each one lymph node; 5 to 7 - lymph nodes as seen.
+
+D.  Specimen labelled &amp;quot;Left pelvic lymph nodes&amp;quot;, consists of a piece of fatty tissue 50 x 35 x 15mm.  Several lymph nodes are identified the largest is 20mm in maximum dimension.
+Blocks; 1 - one lymph node; 2 - one lymph node; 3 - ?lymph node as seen; 4 - one lymph node. (HM/vo 26.7.66)
+
+
+MICROSCOPIC (Reported by Dr X Boser):
+A.  Sections of the cervix show a foreign body reaction and scar consistent with a previous cone biopsy.  The entire cervix is examined and there is no evidence of residual adenocarcinoma, AIS or CIN.  The endometrium is proliferative.  The right ovary contains a benign serous cyst.  The fallopian tube shows no significant abnormality.  There is no evidence of malignancy.
+
+B.  Left ovary and fallopian tube show no significant abnormality.  There is no evidence of malignancy.
+
+C.  The sixteen (16) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+D.  The nine (9) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A - D.  Uterus, cervix, right and left ovaries and fallopian tubes, pelvic lymph nodes:
+- No residual cervical adenocarcinoma, AIS or CIN identified.
+- Twenty five (25) negative lymph nodes.

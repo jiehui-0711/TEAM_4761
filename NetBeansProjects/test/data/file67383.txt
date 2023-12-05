@@ -1,0 +1,16 @@
+SPR no: 52N747622M
+MRN no: 525747
+Site_name: WOLLONGONG HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Abdominal wall mass excised. Hx of pancreatic Ca.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Abdominal wall mass&amp;quot;, consists of an unorientated excision of fatty tissue and skeletal muscle, 37 x 30 x 25mm, weighing 11.5g. One half of the margin is arbitrarily inked blue and the other half arbitrarily inked black. Specimen is cut into seven slices. The cut surface shows a firm, white tumour in slices two to seven measuring 30 x 16 x 13mm. The tumour is less than 1mm from the blue inked portion of the margin and less than 1mm from the black inked portion of the margin and appears to involve both the fatty tissue and skeletal muscle. Blocks: 1 - first slice; 2 - slice four with tumour close to blue inked margin; 3 - slice five with tumour close to blue inked and black inked margin; 4 - four cruciate sections, slice seven. Photograph and diagram available.
+B.  Specimen labelled &amp;quot;Edge of mass&amp;quot;, consists of a piece of brown and white soft tissue, 12 x 8 x 5mm.  AE 1 block.  (TO:LW/ta 23/3/71)
+MICROSCOPIC (Reported by Dr O Brevil):
+A.  Sections show moderately differentiated adenocarcinoma consistent with metastatic pancreatic adenocarcinoma.  Carcinoma involves fibroadipose tissue and fascia, with no extension into the included skeletal muscle.  Carcinoma comes to within 0.8mm of the resection margin.
+B.  Sections show fibrous tissue with no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Abdominal wall:  Metastatic adenocarcinoma, margins clear
+B.  Edge of mass:  No significant abnormality

@@ -1,0 +1,69 @@
+SPR no: 23D891571E
+MRN no: 362838
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report23D89157,23D89157 (23D891571E) STAGNITTO, DANILO MIKE
+HISTOPATHOLOGY REPORT
+KOOWEERUP REGIONAL HEALTH SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Cervical adenocarcinoma well differentiated.
+1.  Peritoneal washing for cyto.
+2.  Uterus, tubes, and ovaries.
+3.  Right sentinel node.
+4.  Left sentinel node.
+5.  Omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  One fatty piece of tissue 45x20x10mm, containing one fatty lymph node 35mm.  RS (M-4).  Lymph node all embedded.
+
+B.  &amp;quot;LEFT PELVIC LYMPH NODE SENTINEL&amp;quot;.  Two pieces of fatty tissue 20x10x6mm, 30x20x6mm containing two lymph nodes 10mm and 8mm.
+
+(1  larger node; 2  smaller node).  RS (M-2).
+
+C.  &amp;quot;OMENTUM BIOPSY&amp;quot;.  One piece of fatty tissue, 45x15x5mm with no obvious lesion or lymph node.  AE (2-2).
+
+D.  &amp;quot;CERVIX, UTERUS, TUBES AND OVARIES&amp;quot;.  Uterus with cervix and bilateral attached adnexa weighing 69.5g.  Uterus measures 80mm superior to inferior, 45mm cornu to cornu, 35mm anterior to posterior.  The cervix measures 30x30x10mm with a centrally placed os 10mm in length.  The ectocervix is focally ulcerated in the anterior half, 9 to 12 o&amp;apos;clock of an area 15x4mm.  The serosa of the uterus is smooth, shiny with no obvious lesion.  Specimen was received open along the coronal plane and show an endometrial cavity 50mm in length.  The endometrial lining is flat 1mm thick.  Multiple fibroids with a solid cream whorled circumscribed cut surface seen within the myometrium up to 20mm in size.  No endometrial polyps seen.  A strip of peritoneum is attached to the anterior serosa 35x20x2mm and appears unremarkable.  There is no parametrium attached.  The right fallopian tube with fimbrial end measures 35mm in length, 5mm in diameter.  The right ovary 25x13x6mm.  The left fallopian tube with fimbrial end 45mm in length, 5mm in diameter.  The left ovary 25x10x5mm.  The serosa of both tubes and ovaries are smooth and shiny.  Cut surface unremarkable.
+
+(1-8  anterior half of cervix, blocked serially from left to right; 9-16  posterior half of cervix, serially blocked from left to right; 17&amp;amp;18  central slice anterior wall, body and fundus; 19&amp;amp;20  central slice posterior wall, body and fundus; 21  fibroid posterior wall; 22  right tube fimbrial end one TS; 23  right ovary; 24  left tube fimbrial end one TS; 25  left ovary).  RS (M-25/JC 11/6/2069 km).  Please see block diagram.
+
+MICROSCOPIC:  (Dr H Beightol)
+A.  The sections show one fatty lymph node.  Negative for malignancy. (AE1/AE3 is negative).
+
+B.  Two lymph nodes are identified and are negative for malignancy. (AE1/AE3 is negative).
+
+C.  Sections show fatty tissue.  Negative for malignancy.
+
+D.  Sections of the cervix demonstrate a well to moderately differentiated adenocarcinoma involving predominantly the anterior half of the cervix with carcinoma also extending on to posterior lip of the cervix.  (The carcinoma seen in each section D3 to D8 from the anterior lip and also in sections D10 to D14 from the posterior lip).
+
+Carcinoma measures 20mm infero-superiorly along the endocervical canal and is present in 6 adjacent blocks (left to right) and hence measures approximately 18-24mm in lateral dimension.
+
+There is a maximal depth of invasion of 10mm in a cervical thickness of 13mm.
+
+Carcinoma is present in the sections from the right lateral aspect of the cervix (block D8), however in sections cut through the block, the carcinoma appears approximately 3mm clear of the right lateral margin.
+
+No diagnostic features of lymphatic space invasion are identified.
+
+There is only focal desmoplastic stromal reaction to the carcinoma and patchy mild inflammation. PAS-Diastase and mucicarmine are negative in apical cytoplasm although some lumenal mucin positivity is seen.
+
+Sections of the endometrium show inactive-atrophic features.  There is adenomyosis.  Several benign leiomyomas are identified.  The uterine serosa is unremarkable. The fallopian tubes are unremarkable and the ovaries are unremarkable.
+
+Immunohistochemistry: (block D5): ER shows patchy positive staining. PR is negative. CEA shows moderate positive staining. P16 diffuse strong staining. PAX-8 is positive. Ki67 shows increased staining compared to adjacent benign glands. HPV-ISH focal positive staining.
+
+COMMENT: There is a well to moderately differentiated adenocarcinoma with features favouring usual type cervical adenocarcinoma that is P-16 positive and without apical cytoplasmic mucin staining. Maximal depth of invasion is 10mm of 13mm; maximal tumour diameter 20-24mm (see text above). FIGO stage 1B.
+
+DIAGNOSIS:
+A.  RIGHT PELVIC SENTINEL NODE -
+-NEGATIVE FOR MALIGNANCY.
+
+B.  LEFT PELVIC LYMPH NODE SENTINEL -
+-NEGATIVE FOR MALIGNANCY.
+
+C.  OMENTUM BIOPSY -
+-NEGATIVE FOR MALIGNANCY.
+
+D.  CERVIX -
+-WELL TO MODERATELY DIFFERENTIATED ADENOCARCINOMA - SEE TEXT AND COMMENTS FOR DETAILS.
+
+15/6/2066 ank

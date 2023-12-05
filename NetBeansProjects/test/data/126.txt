@@ -1,0 +1,100 @@
+
+Episode No:60M912738H
+604912.UIW
+
+BOSSIE, DEANN GIL 
+Lab No:  60M91273
+Sophie
+HERVEY BAY  NT  2530
+Specimen: Tissue
+D.O.B:  27/12/2018
+Sex:  F
+Collected: 11/12/2012 at 20:04
+Location:  Peter Mac-HEDLAND HEALTH CAMPUS
+DR CYRUS PALMER RAYMON-EGLAND
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT: HER-2 CISH (3.4.63)
+
+CLINICAL:
+Left 2 o'clock breast IDC.  Wide local excision.  Sentinel node biopsy.  Sutures short superior, long lateral, medium medial. 
+MACROSCOPIC:
+A.  Specimen labelled "Left breastsentinel node", consists of three pieces of unoriented fatty tissue 10-25mm in maximum dimension.  Multiple lymph nodes are identified from 5-18mm.  
+Block 1- lymph nodes; 2 - one lymph node serially sectioned.
+B.  Specimen labelled "Left breast cancer. Sutures short superior, medium medial, long lateral", consists of an orientated wide local excision with three sutures in situ as designated, measuring 55mm (medial to lateral) x 55mm (inferior to superior) x 20mm (superficial to deep).  There is an ellipse of skin 50 x 9mm which runs from the mid medial aspect to the superior lateral aspect. The superficial margin is inked blue, the deep margin is inked black while the superior margin is inked green.  The specimen is serially sectioned in the parasagittal plane into twelve slices from slice 1 medial to slice 12 lateral.  A firm cream relatively well circumscribed tumour is identified in slices 3-5.  The lesion measures 10mm (medial to lateral) x 8mm (inferior to superior) x 8mm (superficial to deep). The distance from margins is as follows: medial 17mm, inferior 15mm, superior 14mm, superficial 5mm, and appears to come close to the deep margin and is well clear of the lateral margin.  No other suspicious areas are identified.  
+Block1 - slice 1; 2 & 3 - slice 2; 4 & 5 - slice 3; 6 & 7 - slice 4; 8 & 9 - slice 5; 10& 11 - slice 6; 12 & 13 - slice 7; 14 - slice 8; 15 - slice 9, 10, 11; 16 - slice 12. AE. 
+Tumour markers on block 6.  Please refer to attached diagram.  
+(FSc/ec 13.2.62) 
+MICROSCOPIC: (Reported by Dr S Hachting - 16.2.2062)
+A.  There is a 2.2mm focus of metastatic adenocarcinoma within one of five sentinel lymph nodes (1/5). A synoptic report for sentinel lymph node follows:
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: Five (5). 
+Number of sentinel lymph nodes involved by tumour: One (1/5).           
+Number of sentinel nodes with metastases >2.0mm: One (1/5).
+Number of sentinel nodes with metastases <2.0mm: None.
+Number of sentinel nodes with isolated tumour cells <0.2mm: None.
+Extranodal spread: Very focal early extranodal extension (<0.1mm).
+There are scattered foci of carcinoma within lymph node sinusoids.
+B.  The left breast tumour is a 10mm grade 2 invasive ductal carcinoma. A synoptic report for invasive breast carcinoma follows:
+
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Left breast.
+Type: Invasive ductal carcinoma, NOS.
+Invasive tumour size: 10mm.
+Grade (Modified Bloom & Richardson): Grade 2.
+Tubules:  2    Nuclei: 3     Mitoses:  2    Mitotic rate:      14/10hpf.
+Lymphovascular invasion: Present (focal). 
+	    
+DCIS component:  
+DCIS: Present. 
+Maximum extent of DCIS: Present in block B6 only over an approximate maximum extent of 5mm.
+Nuclear grade: Intermediate. 
+Architecture: Cribriform
+Necrosis: Not present. 
+Calcification: Not present.
+Degree of DCIS intumour: Focal.
+DCIS in adjacent tissue: Not present.
+Excision Margins:  
+Invasive component:
+Deep: 1.1mm (B6)
+Superficial: 3.3mm (B6)
+Superior: 10mm (B5).
+Inferior: 10mm (B6).
+Medial: Clear of margin (>10mm).
+Lateral: Clear of margin (>10mm).
+In-situ component:
+Deep: 2.2mm (B6)
+Superficial: 4.2mm (B6). 
+Inferior: 10mm (B6)
+Superior, medial and lateral: Clear of margin (>10mm). 
+Receptors (Block B6): 
+ER:  	POSITIVE.
+	90% of nuclei stained
+	Predominant intensity of staining: Strong.  
+PR:  	POSITIVE
+	80% of nuclei stained
+	Predominant intensity of staining: Moderate to strong.
+HER2 (Novocastra 10A7): Negative.
+Ki-67 index: Variable, up to 25% in areas.
+Nipple: Not included.
+
+LCIS / ALH: Not identified.
+Miscellaneous: The adjacent breast shows fibrocystic change, apocrine metaplasia and columnar cell change. Focal changes consistent with previous biopsy are seen. The overlying skin shows no significant abnormality.
+Axillary/other nodes:
+Number of axillarylymph nodes examined: Not included. 
+
+
+DIAGNOSIS:
+A.  Sentinel lymph node(s): 2.2mm focus of metastatic adenocarcinoma in one of five sentinel lymph nodes (1/5).
+
+B.  Left breast: 
+10mm grade 2 invasive ductal carcinoma with associated intermediate grade cribriform DCIS.
+Margins appear clear ofin situ and invasive carcinoma. 
+There is focal lymphovascularspace invasion.
+ER, PR positive, HER-2 negative.
+Tissue submitted for Her-2 CISH and a supplementary report will be issued. 
+
+
+***SUPPLEMENTARY REPORT: HER-2 CISH (3.4.63)
+HER2 IN SITU HYBRIDISATION reported by Dr S Fego, WERRIBEE MERCY MENTAL HEALTH PROGRAM Hospital:
+

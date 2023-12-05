@@ -1,0 +1,111 @@
+SPR no: 18K044663G
+MRN no: 9008185
+Site_name: THE TWEED HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT ATTACHED:
+
+18H01807 (18K044663G) Chegwidden, LATASHA Elwood
+HISTOPATHOLOGY REPORT
+SOUTHERN CROSS HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+CRC bowel obstruction.
+Total colon.
+Omentum.
+Ovaries.
+
+MACROSCOPIC:
+&amp;quot;TOTAL COLON AND BILATERAL OVARIES&amp;quot;.
+
+MACROSCOPIC FINDINGS SUMMARY
+Operation type:  Total colecotomy
+Specimen length:  Terminal ileum - 90x50mm; Caecum, ascending, transverse, descending and part of bowel of upper rectum - 1540mm in length and is grossly dilated. Proximal colon up to 120mm and is 50mm towards the distal margin. Attached to transverse colon is omentum over a length of 300mm and is 80mm thick. Mesentery and mesocolon are attached along the specimen to a maximum depth of 90mm. Appendix is identified at the caecum, 50x10mm. There is a peritoneal strip at the right side of rectum, containing a fallopian tube, 40x5mm, and ovary, 15x10x7mm. No other definite ovarian tissue is identified.
+Tumour site:  Rectosigmoid junction.
+Tumour size:  40x30mm.
+Distance from margins:
+Proximal:  More than 1000mm
+Distal:  50mm
+Radial:  A tumour deposit is identified within 5mm of the nearest radial margin.
+Perforation:  Absent
+Peritoneal reflection:  Tumour entirely above
+Mesorectal integrity:  Complete
+Extramuscular spread:  Present and extensive
+Tumour description:  An ulcerated tumour with a raised edge and central ulceration invading through the wall to involve the overlying serosa which is white and nodular in relation to the tumour.
+Overlying serosa: Macroscopically involved
+Lymph nodes: Multiple macroscopically involved lymph nodes within the mesorectum are identified within the mesorectum as per block legend.
+Metastases: Multiple tumour deposits are identified on the attached omentum (up to 5 discrete nodules are identified, measuring 27-35mm in maximum diameter).
+
+OTHER MACROSCOPIC COMMENTS:
+The outer and cut surface of the appendix is unremarkable. No polyps or other tumours are identified. The outer and cut surface of the identified ovary and tube is unremarkable. No other ovary is seen. the radial margin is inked black.
+
+(1 fallopian tube, two LS fimbrial end and two TS mid; 2 ovary and meso-ovary; 3 peritoneal strip adjacent to caecum; 4&amp;amp;5 appendix [4 TS base, LS tip; 5 two TS mid]; 6 proximal margin; 7 distal margin; 8 ileocaecal valve and LS of caecal valve; 9 tumour into fat with edge of normal tissue; 10&amp;amp;11 tumour in the serosa; 12&amp;amp;13 nodular overlying serosa; 14&amp;amp;15 largest involved cystic lymph node with radial margin; 16 apical lymph node, distal bowel; 17-22 lymph nodes distal specimen adjacent to tumour; 17 five lymph nodes; 18 one lymph node, bisected; 19 two involved lymph nodes; 20-22 each ?five lymph nodes; 23&amp;amp;24 right colon lymph node each five lymph nodes; 25&amp;amp;26 transverse colon lymph node, each five lymph nodes; 27&amp;amp;28 left colon lymph nodes, each five lymph nodes; 29-31 omental nodules with Blocks 31 tumour block for tissue banking). RS (M-31/ZH 21/6/2070 cy)
+
+MICROSCOPIC   (Dr. C Allenson)
+
+Tumour type:  Adenocarcinoma
+
+Histologic grade:  Grade 3 (poorly differentiated)
+
+Depth of invasion:  pT4a, tumour invades to the surface of the visceral peritoneum (Blocks 10&amp;amp;12).
+
+Peritoneal surface involvement:  Present
+
+Tumour infiltrating lymphocytes: Low density
+
+Excision Margins:
+Proximal:  Clear (more than 1000mm macroscopically)
+Distal:  Clear (50mm macroscopic measurement)
+Radial:  Perineural tumour is seen 0.3mm from the radial excision margin (Block 15)
+
+Lymph nodes:
+Number positive:  9
+Total number:  42
+Apical node:  Involved (Block 16)
+
+Intramural vein invasion:  Not identified
+
+Extramural vein invasion:  Present and extensive
+
+Small vessel (lymphatic) invasion:  Present
+
+Perineural invasion:  Present and extensive
+
+Distant metastases:  Omental tumour nodules are present, including involvement of the peritoneal surface of the omentum. Tumour is also identified on the peritoneal surface of a strip of peritoneum adjacent to the caecum.
+
+Other findings:
+Polyps:  An area of tubular adenoma with high-grade dysplasia is identified focally adjacent to the invasive tumour. No other polyps are identified.
+Remote colon:  Dilated.
+Other:  The single ovary and fallopian tube identified macroscopically shows no abnormality. The appendix shows fibrous obliteration of the tip, but no tumour involvement.
+
+Ancillary studies:
+
+Mismatch repair enzymes, Immunostains:  to follow
+
+Microsatellite instability (MSI):  not tested
+
+Synthesis/stage (AJCC/UICC TNM 8):
+
+TNM stage:  pT4a, pN2b, pM1 (Omental tumour nodules and tumour deposits in the peritoneal strip adjacent to the caecum). At least one omental tumour nodule shows involvement of the peritoneal surface.
+
+SUMMARY:
+TOTAL COLON:
+- POORLY-DIFFERENTIATED ADENOCARCINOMA, pT4a, pN2b, M1. FOR DETAILS, PLEASE SEE TEXT.
+23/6/2067 cy
+SUPPLEMENTARY REPORT:
+
+Immunostains for MSI proteins (EAST SURGICAL MILLICENT AND DISTRICT HOSPITAL AND HEALTH SERVICES; block: 10)
+
+MLH1:  Positive (normal) staining of tumour nuclei.
+PMS2:  Positive (normal) staining of tumour nuclei.
+MSH2:  Positive (normal) staining of tumour nuclei.
+MSH6:  Positive (normal) staining of tumour nuclei.
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+29/4/2068 km

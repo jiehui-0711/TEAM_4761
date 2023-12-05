@@ -1,0 +1,99 @@
+Episode No:  62Q258823P
+626258.VGJ
+
+CONGRESS, BERNARDO 
+Lab No:  62Q25882
+North Tuxedo
+WALLERAWANG    4722
+Specimen: Tissue
+D.O.B:  20/10/1975
+Sex:  F
+Collected: 22/4/2063 at :
+Location:  SEALS Central-ROYAL TALBOT REHABILITATION CENTRE
+DR HAMISH DAMION Landsberg
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+ADDITIONAL REPORT:  (5.9.63)
+
+CLINICAL:
+L breast ca mastectomy, SLN Bx.  Low axillary dis.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node left" consists of a lymph node 23 x 18 x 6mm with a small amount of attached fatty tissue serially sliced and AE 2 blocks. 
+B.  Specimen labelled "Mastectomy + lower axillary dissection left" consists of a mastectomy specimen measuring 230 x 140x 50mm with an axillary extension 70 x 50 x 18mm.  The overlying skin ellipse is 190 x 70mm and appears unremarkable.  The nipple is prominent and is 13 x 14mm in maximum dimension.  The superficial margin is inked blue and deep margin black.  At 12 o'clock 20mm from the nipple there is an indurated pale tumour 35 x 23 x 13mm.  The tumour is 23mm from the deep margin, 66mm from superior margin, 100mm from inferior margin, 50mm from medial margin, 85mm from lateral margin, 20mm from the overlying skin and 15mm from the superficial margin.  Away from the tumour there parenchyma is fatty with no macroscopic abnormality.  Only one firm lymph node, 12mm in dimension is identified in the axillary extension.
+ Blocks: 1 - representative section of tumour (no margins), ER, PR, HER2, Ki-67 requested; 2 & 3 - tumour in relation to deep margin; 4 & 5 - representative tumour (5 - reserve block); 6 - representative section of tumour; 7 - representative nipple; 8 - tissue behind nipple; 9 & 10 - random sections upper inner quadrant; 10??? & 11 - random sections lower inner quadrant; 12 & 13 - random sections upper outer quadrant; 14 & 15 - random sections lowerouter quadrant; 16 & 17 - one axillary nodule.  18-21 Further blocks of nipple to underlying tumour with dermal and superficial margins.  No further lymph nodes 
+(TO: OR; VV/ta 23/4/63) 
+  
+MICROSCOPIC (Reported by Dr R Al-mansour): 
+A.  The sentinel lymph node show several depositsof metastatic pleomorphic lobular carcinoma (E Cadherin negative) measuring up to 5.5mm in maximum dimension.  There are two foci of extranodal extension extending up to 0.4mm beyond the lymph node capsule over a front of 4mm. The deposit is CAM5.2 positive.
+B. Sections show a 35mm grade 3 infiltrating mixed ductal and lobular carcinoma. The tumour is centred at 12 o'clock 20mm FN but invades around the large subareolar ducts of the nipple and reaches the dermis of the nipple. The latter comprises a 5.5mm contiguous expansion of tumour rather than a satellite nodule.  No skin ulceration, dermal lymphovascular invasion or Pagetoid epidermal involvement is seen.   
+Approximately 70%of the tumour shows classic lobular carcinoma morphology composed of moderately pleomorphic tumour cells arranged in solid nests and infiltrating cords.  About 20% of the lobular carcinoma component shows pleomorphic lobular carcinoma features. The latter cells display abundant eosinophilic cytoplasm with occasional intracytoplasmic mucin vacuoles, enlarged pleomorphic nuclei, vesicular chromatin and conspicuous nucleoli.   Approximately 30% of the carcinoma shows definite morphological ductal differentiation and these areas are both separate and intermingle with the lobular component (Block B1).  Interestingly the E Cadherin stain is negative in both the lobular and ductal components. 
+Only one (1) lymph node is identified  in the left lower axillary adipose tissue and (Block B16) it contains metastatic pleomorphic  lobular carcinoma 0.7mm on the H& E stained section but >2mm in a deeper level examined with AE/AE3 keratin immunostain.  There is a focus of extranodal extension 0.25mm beyond the lymph node capsule. The lymph node has a rather monotonous appearance with indistinct follicles and mostly a diffuse arrangement of small lymphocytes.  The sinuses appearpatent and there is possible focal extranodal extension of lymphocytes.  Immunohistochemical stains indicate that most cells are CD3 and CD5 positive T cells, including the possible extranodal component. The T cells infiltrate atreticfollicles which are seen through the node, the latter marked by CD21, CD23, CD10 and CD20.  The bcl2 immunostain corresponds to the T cell component with no definite coexpression by CD20 positive B cells.  Cyclin D1 is negative.  The appearances are interpreted as reactive. 
+The lymph node is shown to Dr R Tines who concurs.
+
+Invasive carcinoma:
+Site:  Left breast:  12 o'clock 20mmFN
+Type:  Mixed ductal and lobular (30%ductal, 70% lobular) with areas of classical and pleomorphic lobular carcinoma.
+Invasive tumour size:  35mm (macroscopic). 
+Grade (Modified Bloom & Richardson): 3
+Tubules: 3     Nuclei: 3     Mitoses:  2    Mitotic rate:   13/10hpf.
+Lymphovascular invasion:   Present several foci (eg Block B1). 
+	    
+DCIS component:  
+DCIS:   Not seen.
+Within the invasive tumour there are cribriform structures composed of moderately pleomorphic cells and resembling DCIS, but the myopepithelial marker p63 is negative around these foci consistent with invasive carcinoma (Block B1).
+
+Excision Margins:  
+Invasive component:
+Closest margin superficial 4mm (block B2), deep 13mm clear.
+Dermal margins well clear >10mm. 
+Receptors (Block ): 
+ER:  Positive
+100 % of nuclei stained
+	predominant intensity of staining:  Strong in both ductal and lobular components.
+PR:  Positive
+ 90 % of nuclei stained
+	predominant intensity of staining:  Strong in both ductal and lobular components; some heterogeneous staining withsome of the lobular carcinoma negative.
+HER2 (Novocastra 10A7): 1+ negative
+Ki-67 index: Approximately 25%.
+Nipple:  The dermis of the nippleis involved by invasive lobular carcinoma.  The epidermis is non-ulcerated and no Pagetoid epidermal involvement is seen.  No dermal lymphatic involvement seen. 
+LCIS / ALH:  Present.   
+Miscellaneous:Apocrine metaplasia, columnar cell change, columnar cell hyperplasia, usual ductal hyperplasia and benign intraduct papilloma
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1. 
+Number of sentinel lymph nodes involved by tumour:  1 (pleomorphic lobular carcinoma).         
+Number of sentinel nodes with metastases >2.0mm:  1
+Extranodal spread:  Present.  
+Two foci extending 0.4mm beyond the lymph node capsule over a front of 4mm.  
+Axillary/other nodes: 
+Number of axillary lymph nodes examined: 1
+Number of axillary lymph nodes involved by tumour:  1(pleomorphic lobular carcinoma).        
+Number of axillary lymph nodes with metastases >2.0mm: 1  
+Extranodal spread: Present
+One focus extending 0.25mm beyond lymph node capsule (Block B16 -AE1/AE3)
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   2
+Total number of involved lymph nodes (including sentinel node(s)):   2
+
+Selected slides shown to A/Prof R Kovalsky.
+
+
+DIAGNOSIS:  
+A & B.  Left sentinel lymph node, left mastectomy and left lower axillary dissection:  - - 35mm grade 3 mixed ductal, classic and pleomorphic lobular carcinoma, ER positive, PR positive, Her 2 negative (SISH to follow), margins clear (closest superficial 4mm).
+-  One (1) positive sentinel lymph node with extranodal extension.
+-  One (1) positive (1/1) left lower axillary lymph node with extranodal extension.   
+
+ADDITIONAL REPORT:  (5.9.63)
+HER2 IN SITU HYBRIDISATION reported by Dr R Lindeman, TUMBARUMBA MULTI PURPOSE SERVICE Hospital:
+HER-2-IN-SITU HYBRIDISATION
+
+HER2 IHC Result:  1+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNAProbe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE (nonamplifled, polysomy)
+Mean HER2 copy number per cell:  2.36
+Mean CEP 17 copy number per cell:  2.8
+HER2/CEP17 Ratio: 0.84
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

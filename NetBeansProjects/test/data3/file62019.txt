@@ -1,0 +1,83 @@
+SPR no: 37V6358214
+MRN no: 378635
+Site_name: REDCLIFFE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report37V63582,37V63582 (37V6358214) Jedik, REID
+HISTOPATHOLOGY REPORT
+SMITHTON DISTRICT HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+1. Left groin nodes.
+2. Left vaginal carcinoma suture 12 o&amp;apos;clock.
+3. Uterus, tubes and ovaries.
+4. Peritoneal washings.
+5. Left pelvic lymph node.
+Vaginal SCC with nodal spread.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT GROIN NODE&amp;quot;. A mass of fatty tissue 62x39x25mm, inked blue, containing one lymph node 52x27x23mm. The cut surface of the node is solid creamy white with cystic areas containing mucinous material. One section in blocks 1 and 2. Representative sections.  (M-2)
+
+B. &amp;quot;LEFT VAGINAL CARCINOMA SUTURE 12 O&amp;apos;CLOCK&amp;quot;. One piece of tissue measuring 48x30x28mm, with skin on one side measuring 40x30mm with a suture at one edge indicating 12 o&amp;apos;clock. There are sutures on the deep surface of the specimen. At 9 o&amp;apos;clock 3mm from the margin, there is a cavity opening 4x2mm across on the skin surface. Centrally there is a bulge distorting the skin over an area approximately 15x15mm. The 3 o&amp;apos;clock side is inked blue, the 9 o&amp;apos;clock side is inked black. The specimen is cut into 8 slices from 12 o&amp;apos;clock to 6 o&amp;apos;clock. The cut surface shows an ill defined cream coloured lesion measuring 28x23x17mm. There is a cavity area measuring 9x5mm which connects with the opening seen on the skin surface. The lesion is 1mm from the deep margin, close to the 3 o&amp;apos;clock margin, 1mm from the 9 o&amp;apos;clock margin, 15mm from the 12 o&amp;apos;clock margin and 10mm from the 6 o&amp;apos;clock margin. The specimen is all embedded.
+
+(1&amp;amp;2 slice 1; 3 slice 2; 4 slice 3; 5 slice 4; 6 slice 5; 7 slice 6; 8 slice 7; 9-11 slice 8). All embedded. (M-11)
+
+C. &amp;quot;UTERUS AND BILATERAL TUBES AND OVARIES&amp;quot;. The specimen consists of a uterus with attached cervix, tubes and ovaries measuring overall 110x90x45mm.
+The uterus is 90mm longitudinally, 75mm across the cornua, and 44mm anteroposteriorly. The cervix is 33x28mm in transverse section and 30mm in length. The external cervical os is oval and 13x7mm. The anterior side is inked blue, the posterior side is inked black. The endometrium is up to 3mm in thickness, there are no polyps or cysts. The anterior myometrium is up to 17mm in thickness and the posterior myometrium is up to 18mm in thickness. No focal lesions identified. The serosa is smooth with no distortions or adhesions.
+The right tube is 80mm in length, 5mm in diameter, and 23mm across the fimbria. There are two paratubal cysts 3mm across. The right ovary is 33x25x20mm and contains a bulging cyst 12mm across. The left tube is 80mm in length, 4mm in diameter, and 20mm across the fimbria. There are no focal lesions. The left ovary is 49x29x22mm including three bulging cysts 17-19mm in maximal dimension.
+
+(1 anterior cervix; 2 anterior myometrium; 3 fundus; 4 posterior myometrium; 5 posterior cervix; 6&amp;amp;7 right tube [6 proximal and mid and cyst; 7 distal fimbria all embedded]; 8 right ovary with cyst; 9&amp;amp;10 left tube [9 proximal and mid tube; 10 fimbria all embedded]; 11 left ovary with representative cyst). Representative sections. (M-11)
+
+D. &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;. Fatty tissue 48x35x25mm. The largest lymph node is 26x20x20mm.
+
+(1 one section of largest lymph node; 2 four lymph nodes). Representative sections. (M-2/FR 16/10/2068 ank)
+
+MICROSCOPIC:  (Dr. J. Kitch)
+A. One lymph node completely replaced by metastatic carcinoma. Tumour is 1.3mm from the closest resection margin. Most of the tumour shows glandular differentiation (similar to the primary tumour in specimen B), however a minor component shows cells with abundant dense eosinophilic cytoplasm and large bizarre nuclei. Squamous markers p40 and p63 are negative.
+
+B. The tumour is an enteric type adenocarcinoma arising in the wall of an invaginated squamous cyst (B6, B5). It effaces the wall of the cyst and invades into the surrounding stroma. It shows elongated glandular, cystic and papillary architecture, as well as sheets of signet ring cells with extracellular mucin. The tumour cells show variable appearance including many columnar cells with apical mucin and atypical rounded stratified nuclei. Some areas show polygonal cells with clear cytoplasm. A heavy neutrophil infiltrate accompanies the tumour. The entire tumour has been examined and there is no squamous differentiation and no sarcomatoid component. PASD highlights extensive cytoplasmic and extracellular mucin.
+
+Immunohistochemistry:
+Positive: CK7, p16. Patchy staining for PAX8, CDX2, CEA. Isolated cells positive for CK5/6.
+Negative: CK20, ER, PR, Androgen receptor, GATA3, TTF1, p63, p40, HPV16+ ISH.
+
+Primary enteric-type adenocarcinomas of the vagina are rare, but are described. Careful clinical and radiological correlation is required to ensure this is not metastatic disease. The features are summarised below:
+
+SYNOPTIC REPORT FOR CARCINOMA OF THE VAGINA (CAP 2020)
+
+TUMOUR SITE: Left vaginal wall
+
+TUMOUR SIZE: 28mm
+
+HISTOLOGICAL TYPE: Adenocarcinoma, intestinal type
+
+HISTOLOGIC GRADE: G2: Moderately differentiated
+
+SITE INVOLVED BY DIRECT TUMOUR EXTENSION: Confined to vaginal wall
+
+MARGINS:
+2.5mm from the 3 o&amp;apos;clock margin (B4)
+3mm from the 9 o&amp;apos;clock margin (B6)
+1.5mm from the deep margin (B4)
+&amp;gt;10mm from the 12 o&amp;apos;clock and 6 o&amp;apos;clock margins.
+
+LYMPHOVASCULAR INVASION: Present (B6)
+
+REGIONAL LYMPH NODES:
+Number of Nodes with Metastasis (excludes isolated tumor cells): 2 (specimen A and D)
+Number of Lymph Nodes Examined: 6
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th Edition): pT1a pN1
+
+FIGO Stage (2018 FIGO Cancer Report): III
+
+C. The ectocervix and endocervix are unremarkable. The endometrium is in secretory phase. Both fallopian tubes are unremarkable. The left ovary shows a corpus luteal cyst, the right ovary also shows a corpus luteal cyst and a simple cyst. There is  no malignancy.
+D. There is metastatic adenocarcinoma in 1 of 5 lymph nodes. The deposit is 18mm.
+DIAGNOSIS:
+A. LEFT GROIN NODE:
+- Metastatic carcinoma in 1 lymph node
+B. LEFT VAGINAL CARCINOMA:
+- Moderately differentiated adenocarcinoma, pT1a pN1
+C. UTERUS AND BILATERAL TUBES AND OVARIES:
+- Ovarian corpus luteal cysts
+D. LEFT PELVIC LYMPH NODE:
+- Metastatic carcinoma in 1 of 5 lymph nodes (1/5)

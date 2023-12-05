@@ -1,0 +1,179 @@
+SPR no: 66F102748V
+MRN no: 6611027
+Site_name: SHOALHAVEN DISTRICT MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: MOLECULAR ONCOLOGY REPORT (14.9.2066)
+
+CLINICAL:
+( L ) extended hemicolectomy transverse and sigmoid synchronous tumours.  Type 2 resp failure. ?infective exacerbation of undiagnosed COPD.
+
+Note: The orientation of the transverse and sigmoid colon is confirmed with the registrar Dr JUSTIN HEIDLER by phone of the 30th of the 5th 2016 at 11:15am.
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Extended left hemicolectomy and transverse sigmoid synchronous tumours histopath&amp;quot;, consists of a segment of large bowel. The transverse colon measures approximately 280mm in length x 30mm in diameter. The descending to sigmoid colon measures approximately 245mm in length x 30mm in diameter.  There is a portion of omentum (approximately 30 x 120 x 30mm) adherent to the transverse colon serosa.  The mesocolon attached to the transverse colon measures 200 x 60 x 20mm.  The mesocolon attached to the descending/sigmoid colon measures approximately 230 x 50 x 20mm.  The wall thickness of the bowel is up to 6mm.
+On sectioning two tumours are identified. Tumour one (40 x 30) is in the transverse colon and is partially circumferential.  The tumour appears to involve the serosa and there is adherent omentum to the serosal surface. Tumour one margins: 100mm proximal, approximately 180mm from tumour two, and approximately 400 from the distal margin.
+Tumour two (35 x 30mm) is in the sigmoid colon and is circumferential.  The tumour appears to involve the attached mesocolon. Tumour two margins: 320mm proximal, and 150mm from the distal surgical margin.
+The proximal surgical margin is inked blue and the distal black.  No other lesions or polyps are present on the bowel mucosa.  Representative sections.
+Blocks: 1 - proximal and distal margins; 2 to 5 - tumour one (transverse colon); 6 - normal bowel between tumour one and two approximately at splenic flexure; 7 and 8, 9 - tumour two (sigmoid colon); 10 - Tumour one apical lymph nodes as seen; 11 to 15 - Transverse mesocolon lymph nodes; 16 - Tumour two apical lymph nodes as seen; 17 to 22 - Sigmoid mesocolon lymph nodes. (TO: JL;JL/vo 7.2.66)
+
+
+MICROSCOPIC (Reported by A/Prof P Frerich):
+BOWEL CANCER PROFORMA
+
+Macroscopic Description - Tumour 1
+
+Site of tumour: Transverse colon
+Maximum tumour diameter:     40mm
+Distance of tumour to nearer cut end:    100 mm (proximal end)
+Tumour perforation:     No
+
+Microscopic Description - Tumour 1
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Poor (there is an admixed component of moderately differentiated adenocarcinoma accounting for approximately 30% of the tumour volume)
+
+Local invasion
+pT3	Beyond muscularis propria
+The depth of tumour invasion is difficult to assess as there is a florid fibroinflammatory reaction around the advancing edge of the tumour which merges with the muscularis propria. However, definite extension beyond the muscularis propria is identified in block 5. Chronic inflammation and fibrosis are present extending to the serosa, but no definite tumour invasion of serosal fat is identified.
+
+Macroscopic description - Tumour 2
+
+Site of tumour: Sigmoid colon
+Maximum tumour diameter:   35 mm
+Distance of tumour to nearer cut end:  150 mm (distal end)
+Tumour perforation:     No
+
+Microscopic Description - Tumour 2
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+There is an invagination of peritoneum in block 9 which is close to the edge of the carcinoma (approximately 0.5mm), but no definite evidence of peritoneal invasion is seen.
+
+Tumour involvement of margins (both tumours)
+Cut ends:  Not involved
+
+Non-peritonealised circumferential margin: Not involved
+
+Lymph nodes
+Tumour 1: No evidence of malignancy is seen in 15 lymph nodes adjacent to tumour 1. (0/15)
+Tumour 2: Metastatic carcinoma is identified in 3 out of 24 lymph nodes adjacent to tumour 2. (3/24)
+
+The apical lymph nodes of both tumours show no evidence of malignancy. (0/1 and 0/1 respectively)
+
+A single benign node was identified between the two tumours. (0/1)
+
+Number of lymph nodes present: 42 (total)
+Number of lymph nodes involved: 3
+
+pN1b	Metastases in 2-3 regional LN
+
+
+Lymphovascular invasion
+Tumour 1 - No evidence of vascular invasion identified.
+Tumour 2 - A focus suspicious for venous invasion is identified at the interface of tumour and serosal fat (block 8).
+
+Perineural invasion
+Not seen (both tumours)
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+
+
+Background abnormalities/other comments
+Numerous non-caseating epithelioid granulomas are present within the bowel wall adjacent to the transverse colon carcinoma. The section of bowel taken between the tumours shows no significant abnormality nor evidence of granulomatous inflammation, raising the possibility that these changes are locally related to the presence of tumour. Similar granulomas are also identified within benign regional lymph nodes.
+
+Residual tumour status - Both tumours
+R0	No residual tumour
+
+Response to neoadjuvent therapy: N/A
+
+Mismatch Repair Deficiency (MMRD) Status	- Tumour 1 (block 2)
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Mismatch Repair Deficiency (MMRD) Status	- Tumour 2 (block 9)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Diagnostic Summary &amp;#8211; TNM 7th Edition
+Tumour 1: pT3     pN0    pMx     R0
+Tumour 2: pT3     pN1b  pMx     R0
+
+Loss of MLH1/PMS2 expression seen in tumour 1.
+
+
+
+***SUPPLEMENTARY REPORT: MOLECULAR ONCOLOGY REPORT (14.9.2066)
+
+MUTATION ANALYSIS IN DNA EXTRACTED FROM TUMOUR
+
+RESULTS: BRAFV600E MUTATION IDENTIFIED
+NO TARGETED KRAS OR NRAS MUTATION DETECTED
+
+Gene	                                                                         BRAF
+Location in Gene	                                                  exon 15
+Nucleotide change in coding DNA	                           c.1799T&amp;gt;A
+Predicted amino acid change in protein	               p.Val600Glu
+COSMIC Database ID	                                      476
+Alternative nomenclature	                                      V600E
+
+THERAPEUTIC IMPLICATION: Tumours lacking mutations in KRAS or NRAS exons 2,3 or 4 are nipre likely to respond to anti-EGFR antibody therapy (Douillard et al NEJM 2013; 369:1023-34). The significance of BRAFV600E mutation as a predictive marker for anti-EGFR therapy in colorectal carcinoma is controversial.
+
+Although genetic testing is ultimately required to discriminate between Lynch syndrome and MSI-high sporadic  colorectal cancer (mostly associated with hypermethylation of the MLH1 gene promoter), the presence of a BRAF V600E gene mutation strongly supports a sporadic tumour (College of American Pathologists, Ed 1.1. Oct 2013).
+
+TEST DESCRIPTION:
+This test profiles a broad range of somatic mutations from 4 common oncogenes (BRAF, EGFR, KRAS and NRAS) using OncoFOCUS&amp;#8482; with additional custom panel. This multi-gene parallel profiling is intended to assist the selection of targeted therapies for cancer patients. Mutation analysis is performed on DNA isolated from tumour tissue. The relevant target regions are amplified in 2 multiplex PCR reactions followed by 12 multiplex extensions. Any mutant allele is accurately identified by mass spectrometry. Any reported mutation is called with high confidence (i.e. the proportion of a mutant allele is 10% or more). This oncogene panel can detect over 300 mutations including the following clinically relevant mutations in the EGFR (NM&amp;#173;_005228), KRAS (NM_004985), BRAF (NM_004333) and NRAS (NM_002524) genes. For a full list of the mutations tested, please see http://agenabio.com/oncofocus-panel.
+
+Gene	Target Mutation
+EGFR        E709A, E709fs* 1, E709G, E709K, E709Q/H, E709V, G719A, G719C, G719D,
+G719S, D761N, D761Y, T790M, L858M/K/R,, L858R, L861R, L861Q
+Clinically relevant deletions in Exon 19 and clinical relevant insertions in Exon 20
+
+KRAS        G12A, G12C, GI2D, GI2D/V, G12E, G12F, G12I, G12L, G12N, G12R, G12S,
+G12V, G12W, G12Y, G13A, G13C, G13D/N, G13R, G13S, G13V/1, A59T,
+Q61E, Q61H,Q61K, Q61L, Q61P, Q61R, A146G, A146P, A146T, A146V,
+A1465,K1I7E, K1I7N, K1I7R
+
+BRAF        G469A, G469E, G469R, G469R/S, G469S, G469V, D594G, D594V, L597Q,
+L597R, L597S, L597V, V600D, V600E, V600K, V600L, V600M, V600R,
+K601E,K601N,K601del
+
+NRAS        G12A, G12C/Y, G12D/E, G12R/P, G12S/N, GI2V, G13A G13C/Y, G13D, G13R,
+GI3S/N, G13V, Q61E, Q61H, Q61K, Q61L, Q61P, Q61R, NRAS A146T, A146P,
+A146V, A146S, A146G,K1I7E, K1I7N,K1I7R
+
+KIT             W557R, W557G, V559D, V559A, V559G, L576P, K642E, K642Q, D816H, D816Y
+
+COMMENT:
+&amp;#8226;Samples can contain a variable proportion of tumour cells to normal cells and there may also be
+tumour cell heterogeneity. If tumour cells represent less than 20% of the cells analysed the sensitivity of the assay may be reduced.
+&amp;#8226;All PCR based molecular diagnostic tests are subject to a low risk of non-amplification of one
+allele due to primer binding site DNA variants. This can also lead to a false negative result.
+&amp;#8226;The laboratory assumes an appropriate form of consent has been obtained.
+&amp;#8226;This report should not be copied or reproduced, except in its entirety.
+
+SUMMARY
+BRAFV600E MUTATION IDENTIFIED
+NO TARGETED KRAS OR NRAS MUTATION DETECTED
+
+(Please also see MO-16-1672 for results of molecular testing on the other tumour (6P11027 9) - showing no targeted RAS or BRAF mutation detected)
+
+REPORTED BY: Prof. Sandra O&amp;apos;Colfer (9/10/66)

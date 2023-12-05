@@ -1,0 +1,49 @@
+SPR no: 54F600374N
+MRN no: 5426003
+Site_name: HESSE RURAL HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  54F600374N
+5426003.TKN
+
+POLHAMUS, MICHIKO KAZUKO
+Lab No:  54F60037
+Bay View Point
+WYNDHAM  WA  2474
+Specimen: Tissue
+D.O.B:  1/1/2018
+Sex:  F
+Collected: 20/1/2065 at :
+Location:  DAY SURGERYUNIT - NAMBOUR GENERAL HOSPITAL
+DR LAVERN CLIFTON TESSMAN
+Distribution:    NSW-CANCER-REGISTRY
+AMENDED REPORT (27.1.65):
+
+CLINICAL:
+Adenocarcinoma in situ on bx.  AIS, CIN.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Wedge biopsy cervix frozen&amp;quot; consists of a wedge of cervix with a red polypoid nodule on the ectocervix, 25 x 15 x 8mm in total.  The nodule is 6mm in diameter.  Bisected for frozen section.
+Blocks:  1 &amp;amp; 2- frozen section deblocked.
+FROZEN SECTION REPORT:
+Adenocarcinoma in situ.  Cannot entirely exclude a well differentiated adenocarcinoma.
+Phone result to Dr Odell by Dr N Kalkwarf/N Mccue at 1pm on 18.11.15
+B.  Specimen labelled &amp;quot;Cone biopsy cervix&amp;quot; consists of a cone biopsy measuring 30 x 30 x 30mm.  There is an area which is sutured (area of previous wedge biopsy, specimen A).  The cone is opened at the site of previous wedge biopsy. The external surface inked blue.  There is an exophytic lesion at the ectocervix/endocervix junction measuring 30 x 20 x 10mm.  The specimen is serially sectioned AE 18 blocks (block 1 and 18 - straddle the previous wedge biopsy).
+C.  Specimen labelled &amp;quot;Endocervical curette (ECC)&amp;quot; consists of fragments of mucoid and haemorrhagic material, 10 x 5 x 3mm.  AE 1 block.
+D.  Specimen labelled &amp;quot;Endometrial curette&amp;quot; consists of fragments of haemorrhagic and tan curettings, 30 x 20 x 3mm.  AE 1 block.
+E.  Specimen labelled &amp;quot;Cervical biopsy 5 o&amp;apos;clock&amp;quot; consists of a biopsy 10 x 5 x 3mm.  Serially sectioned AE 3 blocks.  (JL/mm 21.1.65)
+MICROSCOPIC (Reported by Dr N Pafford):
+A.  Sections include the transformation zone.  There is an invasive adenocarcinoma.  The carcinoma has a depth of invasion of 3mm.  A small component of adenocarcinoma in-situ is also present.  The carcinoma is well clear of the ectocervical margin.  There is no evidence of CIN.
+B.  Sections include the transformation zone.  There is a large exophytic invasive adenocarcinoma, endocervical type with surface ulceration.  The carcinoma is moderately differentiated (grade 2).  The carcinoma has a maximal depth of invasion of 6mm (block B5).  A small component of adenocarcinoma in-situ is also present.  There is no evidence of lymphatic ,vascular or perineural invasion.  The carcinoma is completely excised.  The ectocervical margin is 3mm clear (block B5).  The invasive carcinoma is well clear of the endocervical margin (more than 7mm) and the adenocarcinoma in-situ is 6mm to the endocervical margin (block B14).  The invasive carcinoma is 4mm to the deep/circumferential margin (block B5).  There is no evidence of CIN.  Please see comment below regarding the ectocervical margin.
+C.  Sections show proliferative endometrium.  Minimal amount of endocervical tissue is present, which is unremarkable.  There is no evidence of endometritis, hyperplasia or malignancy.
+D.  Sections show proliferative endometrium.  Possible adenomyosis is seen in one piece of tissue.  There is no evidence of endometritis, hyperplasia or malignancy.
+E.  Sections include the transformation zone.  There is an invasive adenocarcinoma.  No adenocarcinoma in-situ is seen.  The tumour is incompletely excised.  The carcinoma extends to the endocervical resection margin.  There is no evidence of CIN.
+Comment:
+In specimen B (block B3 and B4), the invasive carcinoma is present at the inked margin towards the ectocervical end.  However, no normal squamous mucosa is present.  This is adjacent to the wedge biopsy frozen section site (specimen A).  In specimen A, the carcinoma is well clear of the ectocervical margin.  Therefore, the ectocervical margin is reported as clear.
+DIAGNOSIS:
+A.  Wedge biopsy cervix frozen &amp;#8211; Reported as adenocarcinoma in-situ.  Subsequent paraffin sections show adenocarcinoma.
+B.  Cone biopsy cervix &amp;#8211; Adenocarcinoma, completely excised.
+C.  Endocervical curettings &amp;#8211; Proliferative endometrium.
+D.  Endometrial curettings &amp;#8211; Proliferative endometrium.
+E.  Cervical biopsy 5 o&amp;#8217;clock &amp;#8211; Adenocarcinoma.
+AMENDED REPORT (27.1.65, Dr N Rall):
+A.  The diagnosis line above has been amended to clarify the fact that the wedge biopsy was reported as adenocarcinoma in-situ at the time of the frozen section but that the subsequent permanent paraffin sections show an invasive adenocarcinoma.

@@ -1,0 +1,48 @@
+SPR no: 67M079797E
+MRN no: 2488704
+Site_name: MONASH HEALTH COMMUNITY
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Stage 1B1 SCC cervix.  Previous LSCS x 1.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left external iliac sentinel lymph node&amp;quot;, consists of a piece of fibrous tissue measuring 20 x 12 x 3mm.  No definitive lymph node is identified.  AE 1 block.
+
+B.  Specimen labelled &amp;quot;Right parametrial sentinel lymph node&amp;quot;, consists of a piece of fibrous tissue measuring 10 x 8 x 3mm.  No definitive lymph node is identified.  AE 1 block.
+
+C.  Specimen labelled &amp;quot;Uterus cervix bilateral fallopian tubes&amp;quot;, consists of a uterus with attached cervix and bilateral fallopian tubes weighing 95g in total.  The uterus measures 85 x 50 x 38mm and has a smooth and shiny serosal surface.  The ectocervix measures 30 x 33mm and has a slight area of ulceration on the anterior aspect measuring 10 x 7mm.  This area of ulceration measures 6mm from the cervical resection margin.  The endometrium is less than 1mm thick and the myometrium measures up to 16mm thick.  No endometrial or myometrial lesions are identified.  The right fallopian tube measures 60 x 8 x 8mm and the left fallopian tube measures 60 x 8 x 8mm.  Both tubes appear unremarkable.  Blocks: 1 to 12 - anterior cervix (block 1 to 3 right side, 4 to 7 midline LS including body and cervix, 8 to 12 left side); 13 to 23 - posterior cervix (blocks 13 to 15 left side, blocks 16 to 19 central LS including uterine body, blocks 20 to 23 right side); 24 &amp;amp; 25 - right fallopian tube; 26 - left fallopian tube.
+
+D.  Specimen labelled &amp;quot;Right common iliac lymph node&amp;quot;, consists of a lymph node with attached fat measuring 20 x 7 x 5mm.  BAE 1 block.
+
+E.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of multiple pieces of adipose tissue measuring 45 x 40 x 18mm in aggregate.  Multiple lymph nodes are identified measuring 7 to 33mm.  Blocks: 1 &amp;amp; 2 - multiple lymph nodes; 3 &amp;amp; 4 - one lymph node; 5 &amp;amp; 6 - largest lymph node.
+F.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of a piece of adipose tissue measuring 45 x 28 x 15mm.  Three lymph nodes are identified measuring 7 to 34mm.  Blocks: 1 - multiple lymph nodes; 2 &amp;amp; 3 - largest node.
+
+G.  Specimen labelled &amp;quot;Left ovarian cyst&amp;quot;, consists of an intact multiloculated cyst measuring 50 x 35 x 32mm.  The cyst is partially coated in a smooth and shiny serosal lining.  The cyst wall measures 1 to 3mm thick and the cyst lining is uniform and shiny.  No nodules are identified.  The cyst contains soft white material and shafts of hair.  No solid components are identified.  RS 3 blocks.   (TO:AP/eh 6/4/66)
+
+
+MICROSCOPIC (Reported by Dr R Cirrincione):
+A.  The sections of the left external iliac sentinel lymph node show a tiny cluster of diathermied atypical cells in the lymph node sinus measuring approximately 0.1mm.  In this area there are isolated cells which show positive staining on cam 5.2 immunohistochemistry.  Interpretation of morphology is difficult due to artefact, but is best regarded as suspicious for isolated tumour cells in one lymph node.
+
+B.  The sections show fibrous stroma containing an aggregate of chronic inflammatory cells.  No lymph node is identified on multiple levels.  There is no evidence of malignancy.
+
+C.  The sections of the cervix show an area of scar and granulation tissue, consistent with the previous LLETZ site.  Adjacent to this, there is a moderate amount of residual CIN 3 and changes of Human Papilloma Virus infection.  CIN 3 is clear of all margins.  There is no significant glandular dysplasia.  All of the cervix has been embedded and there is no evidence of residual invasive carcinoma.  Both fallopian tubes show no significant abnormality.
+
+D.  The sections of the right common iliac lymph node show one negative lymph node (0/1).  There is no evidence of malignancy.
+
+E.  The sections from the right pelvic lymph node show six negative lymph nodes (0/6).  There is no evidence of malignancy.
+
+F.  The sections from the left pelvic lymph node show five negative lymph nodes (0/5).  There is no evidence of malignancy.
+
+G.  The sections show ovary containing a mature cystic teratoma (dermoid cyst).  The cyst is lined by keratinising stratified squamous epithelium with adipose tissue and skin adnexal structures.  No immature elements are seen.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Left external iliac sentinel lymph node:  One lymph node with atypical cells suspicious for isolated tumour cells.
+B.  Right parametrial sentinel lymph node:  No lymph node identified.  No evidence of malignancy.
+C.  Uterus with cervix and bilateral fallopian tubes:
+-  CIN 3 and HPV.  No residual carcinoma identified.
+-  Normal fallopian tubes.
+D.  Right common iliac lymph node:  One negative lymph node.
+E.  Right pelvic lymph node:  Six negative lymph nodes.
+F.  Left pelvic lymph node:  Five negative lymph nodes.
+G.  Left ovarian cyst:  Mature cystic teratoma (dermoid cyst).

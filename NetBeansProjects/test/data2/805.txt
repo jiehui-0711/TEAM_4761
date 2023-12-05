@@ -1,0 +1,71 @@
+
+Episode No:  10V696897Y
+108696.WXT
+
+Hourihan, Numbers 
+Lab No:  10V69689
+Comptons
+THE OAKS    1004
+Specimen:Tissue
+D.O.B:  11/7/2001
+Sex:  F
+Collected: 12/3/2064 at :
+Location:  IMVS-BRIDGETOWN HOSPITAL
+DR COLBY Irving ARMIJOS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY, DR RANDALL
+
+CLINICAL:
+R breast cancer - axillary SLN's (subcut mastectomy).
+MACROSCOPIC:
+A.  Specimen labelled "Right breast axillary sentinel lymph node" consists of fatty tissue 30 x 15 x 5mm containing lymph nodes 4 to 6mm.  Imprint from each for cytology.  Note by CQ.
+Blocks:  1 to 4 - each one lymph node.
+IMPRINT CYTOLOGY REPORT:
+Four negative nodes.
+Result to anaesthetist by Dr D Lengacher at 10:40 on the 10th of January 2014.
+B.  Specimen labelled "Right breast stitch at axillary tail" consists of a mastectomy specimen with a stitch marking lateral end measuring 150 (lateral to medial) x 140 (superior to inferior) x 45mm (superficial to deep).  The overlying skin measures 60 x 30mm and shows no abnormality.  The nipple is prominent and 12mm in maximum dimension.  The superficial margin is inked blue and deep margin is inked black.  At 1 o'clock 60mm from the nipple there is a 14 x 7 x 7mm indurated pale solid tumour.  The tumour is 5mm fromdeep, 22mm from superficial, 35mm from superior, 95mm from inferior, 38mm from medial and 95mm from lateral margins.  No other distinct nodules are identified.
+Blocks:  1 - tumour and deep margin; 2 - tumour, reserved block; 3 & 4 - paired sections, tumour and superficial margin (superficial margin in block 4); 5 - section of nipple; 6 - tissue behind nipple; 7 & 8 - random sections upper outer quadrant; 9 & 10 - random sections lower outer quadrant; 11 & 12 - random sections lower inner quadrant; 13 & 14 - random sections upper inner quadrant.  (WA/rt 15.3.64)
+MICROSCOPIC (Reported by Dr D Ruebush):
+A & B.  Sectionsshow invasive ductal carcinoma of the breast.  The features are as follows:
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive ductal carcinoma 
+Invasive tumour size:  11mm
+Grade (Modified Bloom & Richardson):  1
+Tubules: 1    Nuclei:  2    Mitoses:  1     Mitotic rate: 1/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS: 12mm
+Nuclear grade:  Intermediate 
+Architecture: Cribriform
+Necrosis:  Absent 
+Calcification:  Present
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Minimal
+Excision Margins:  
+Invasive component:  9mm deep margin, all other margins well clear
+In-situ component:  7mm deep margin, all other margins well clear
+Receptors (Block B1): 
+ER:  Positive 
+	100% of nuclei stained
+	predominant intensity of staining: Strong 
+PR:  Negative
+HER2 (Novocastra 10A7):  Negative (score 0)
+HER2 SISH:  Performed at Target Corporation, DERBY HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 1%
+Nipple:  No significant abnormality
+
+LCIS / ALH:   Present in upper outer quadrant 
+Miscellaneous:  Widespread benign luminal microcalcification
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 4
+Number of sentinel lymph nodes involved by tumour:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0
+Lymph node total:
+Total number of lymph nodes examined (includingsentinel nodes:  4  
+Total number of involved lymph nodes (including sentinel node):  0
+

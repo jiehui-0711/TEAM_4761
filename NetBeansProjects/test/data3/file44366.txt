@@ -1,0 +1,29 @@
+SPR no: 51M520054K
+MRN no: 10482279
+Site_name: PEMBERTON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+<spr><sections><section><name>Pathology Report</name><text>SUPPLEMENTARY REPORT (6.8.70):
+
+CLINICAL:
+Grade 2 endometrioid adenocarcinoma of the endometrium.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 140g in total.  The uterus is received open in the parasagittal plane.  The uterus measures 95 x 60 x 45mm and has a smooth and shiny serosal surface.  The cervix measures 35 x 28mm and has an unremarkable surface.  Within the endometrial cavity there is a partially exophytic tumour distending the cavity which measures 55 x 45 x 35mm.  The tumour is located 37mm from the cervical resection margin.  On sectioning the tumour macroscopically extends into regions of adenomyosis with possible involvement of myometrium.  The myometrium measures up to 14mm thick.  The right fallopian tube measures 65 x 7mm with a metal clip dividing it into two segments and the right ovary measures 22 x 10 x 7mm.  The left fallopian tube measures 45 x 7mm and the left ovary measures 20 x 12 x 10mm.  There is a parafimbrial cyst measuring 15mm in maximal diameter.  No other lesions are seen on sectioning through the adnexa.
+Blocks: 1 - right LS cervix; 2 - right lower uterine segment TS; 3 - left LS cervix; 4 - left TS lower uterine segment; 5 &amp;amp; 6 and 7 &amp;amp; 8 - composite sections of tumour with greatest depth of invasion from right uterine wall; 9 &amp;amp; 10 and 11 &amp;amp; 12 - sections of tumour with greatest depth of invasion from left uterine wall; 13 &amp;amp; 14 - right adnexa; 15 &amp;amp; 16 - left adnexa. (TO:TS/eh 5/6/67)
+
+
+MICROSCOPIC (Reported by Dr P Stoy):
+Sections of the cervix are unremarkable.
+Sections of the uterus show a grade 2 endometrioid adenocarcinoma of the endometrium.  The  carcinoma invades myometrium.  Maximum depth of myometrium invasion is 9.5mm out of a total myometrial thickness of 17mm.  There is also adenomyosis in the myometrium, some of which is involved by tumour.  There are foci of lymphovascular invasion.  There is no cervical involvement.  Sections of the ovaries and fallopian tubes are unremarkable.
+
+Stains for mismatch repair enzymes will be performed on th tumour and a supplementary report issued.
+
+
+DIAGNOSIS:
+Uterus, ovaries and fallopian tubes:  Grade 2 endometrioid adenocarcinoma of endometrium showing deep myometrial invasion.  Stage IB.
+
+
+SUPPLEMENTARY REPORT (5.11.66):
+Stains for mismatch repair enzymes have been performed on the endometrial tumour.
+There is preserved nuclear staining for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6.
+This indicates a low likelihood of microsatellite instability phenotype (MSI).

@@ -1,0 +1,100 @@
+SPR no: 61D333777Q
+MRN no: 6113337
+Site_name: CAMPBELL TOWN HEALTH AND COMMUNITY SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ascending colon Ca. Right hemicolectomy.
+
+
+MACROSCOPIC:
+Specimen labelled: &amp;quot;Right hemicolectomy&amp;quot;
+
+Specimen
+Specimen length: 140mm
+Length of terminal ileum: 65mm
+Length of caecum/ascending colon: 90mm
+Thickness of mesocolon: 60mm
+Appendix: 75 x 4mm
+
+Tumour
+Location: Ascending colon
+Description: Ulcerated coin like lesion comprising approximately 30 percent of circumference
+Maximum tumour diameter: 33mm
+Perforation:  Absent (surgical defect repaired with suture, site inked red)
+Appearance of serosa overlying tumour: (see above)
+Distance of tumour to proximal cut end: 95mm
+Distance of tumour to distal cut end: 30mm
+Distance of tumour to circumferential margin: Greater than 70mm
+
+Other
+Polyps: None identified
+Adherent structures: Not applicable
+Other: Not applicable
+Inked margins: Proximal and distal blue.
+
+Blocks
+1 - proximal and distal margin; 2 - appendix; 3 to 9 - all of tumour embedded (block 5 MSI); 10 to 17 - lymph nodes (block 10 nodes as seen; 11 to 14 - one node per block bisected; 15 - nodes as seen; 16 - one node bisected; 17 - nodes as seen).   (TO:AP/vo 25/2/70)
+
+
+MICROSCOPIC (Reported by Dr R Ingwerson):
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+T2    Invasion into muscularis propria (6)
+
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:   Not involved
+Histological measurement from tumour to non-peritonealised margin:  5mm (4)
+
+Lymph nodes
+Number of lymph nodes present:  19
+Number of lymph nodes involved:  1
+
+N1a   Metastases in 1 regional LN
+
+Lymphovascular invasion
+Present (mural)
+
+Perineural invasion
+Absent
+
+Tumour budding
+Bd3 (high):  &amp;gt;= 10 buds per 0.785 sq mm
+
+Histologically confirmed distant metastases
+MX    Cannot be assessed histologically
+
+Background abnormalities/other comments
+- The lesion is arising from a tubulovillous adenoma.
+- The appendix shows fibrous obliteration of the lumen.
+
+Residual tumour status
+R0    No residual tumour
+
+Response to neoadjuvant therapy
+Not applicable
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1    Preserved nuclear staining
+PMS2    Preserved nuclear staining
+MSH2    Preserved nuclear staining
+MSH6    Preserved nuclear staining
+
+Comment:  Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+BRAF V600E immunohistochemistry
+Not performed
+
+Reserve block for molecular studies:  7
+Reserve block for tumour banking:  7
+
+Summary - AJCC 8th Edition
+Adenocarcinoma NOS
+T2   N1a    MX    R0

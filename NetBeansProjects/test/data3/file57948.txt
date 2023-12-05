@@ -1,0 +1,76 @@
+SPR no: 68U995434N
+MRN no: 687995
+Site_name: HENTY MULTI PURPOSE SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Sb resection bleeding NET.
+
+
+Additional information from Pathology Database:
+Past history of multiple liver lesions 2068
+Liver core biopsy (68U99543): Suspicious for metastatic well differentiated neuroendocrine (carcinoid) tumour (see comment).
+Liver fine needle aspiration biopsy (68U99543): Favour well differentiated neuroendocrine tumour/carcinoid.
+Additional information from Dr Tommie
+The current tumour is based in the jejenum
+MACROSCOPIC:
+Specimen labelled &amp;quot;Small bowel&amp;quot;, consists of a segment of unoriented small bowel measuring 260mm in length and a diameter of up to 38mm.  There is attached mesentery measuring up to 70mm in maximum width.  One margin is arbitrarily inked blue, and the opposite margin is arbitrarily inked black. The specimen is opened to revealed two separate focally ulcerated tumours measuring approximately 10mm and 7mm.  Each tumour is associated with puckering and indrawing of the serosal surface.   The tumours are separated by 60mm of apparently uninvolved mucosa.    One tumour is  25mm  from the closest (blue inked) longitudinal margin, while the  second tumour is  90mm away from the closest ( blue inked) longitudinal margin.  Within the mesentery  is an  irregularly tan focally haemorrhagic nodule, 40 x 24 x 20mm.  Apart from these foci the serosal surface is smooth and shiny. Away from the lesions the mucosal surface is unremarkable.  Several possible small lymph nodes identified.  RS.  Blocks:  1 - LS blue inked margin; 2 - LS opposite black inked margin; 3 to 4 - LS of one tumour (lesion all embedded); 5 &amp;amp; 6 longitudinal sections between two main tumours.  7 to 9 -  LS of second  tumour (lesion all embedded); 10 to 16 - Subserosal mesenteric  nodule (lesion all embedded); 17 - three possible lymph nodes; 18 to 20 - RS of fat; 21 - one possible lymph node; 22 to 30 - Further representative sections of mesenteric fat.  (TO:JT/hh 30/6/70)
+
+
+MICROSCOPIC (Reported by Dr Q Degrand ):
+Each ulcerated tumour  described grossly is a well differentiated grade 1 neuroendocrine tumour which grossly measure 7mm and 10mm respectively.  The tumours show similar morphology and are  composed of uniform epithelioid cells arranged is nests and cords which extend through the full thickness of the small bowel wall abutting, but not penetrating, the serosal surface in the sections examined.   Additionally, there are at least five separate mural tumour nodules present in randomly selected blocks located between the two main tumours (blocks 5 &amp;amp; 6) and close to one longitudinal end (block 1).  These nodules which range in size from 2.5mm to 7mm are confined to the small bowel wall and do not appear to breach the serosa.  Although definite lymphovascular invasion is not identified associated with the main tumours, there are foci of lymphovascular invasion (block 6) associated with at least one of these separate smaller nodules. Perineural invasion is not seen.  Mitoses are scant and number less than 1 per 2mm2.  No necrosis is seen. A representative tumour shows immunohistochemical neuroendocrine differentiation with strong positive expression for Chromogranin, NSE, patchy staining for Synaptophysin while  CD56 is essentially negative.  The Ki67 proliferation index is less than 1%.  The main tumours are well clear of the resection margins, however, one of the smaller nodules is 3.5mm from one longitudinal end (block 1).  Away from the tumours the small bowel is unremarkable.   The nodule described grossly in the mesentery, which grossly measured 40mm in maximum dimension, is a largely replaced lymph node containing metastatic neuroendocrine tumour. The  tumour within the lymph node here focally extends to a disrupted diathermied surface (eg. block 10 ) and completeness of excision here cannot be guaranteed.  Three additional negative mesenteric lymph nodes are also present.
+
+SYNOPTIC REPORT FOR JEJUNUM NEUROENDOCRINE TUMOR
+
+Procedure
+Segmental resection, small intestine
+Tumor Site
+Jejunum
+
+Tumor Size
+Greatest dimension:  10mm
+Tumor Focality
+Multifocal :   At least six other separate tumour nodules ranging in size from 2.5mm to 7mm.
+
+Histologic Type and Grade
+Grade 1: Well-differentiated neuroendocrine tumor
+Mitotic Rate
+&amp;lt;2 mitoses/2mm2
+
+Ki-67 Labeling Index
+&amp;lt;3%
+Tumor Extension
+Tumor invades through the muscularis propria into subserosal tissue without penetration of overlying serosa
+
+Margins
+Longitudinal ends: Uninvolved by tumor, closest margin 2.5mm clear in sections examined.
+Radial or Mesenteric Margin:
+Cannot be assessed
+Tumour is present at a diathermied surface within a large mesenteric lymph node and completeness of excision here cannot be guaranteed.
+Lymphovascular Invasion
+Present
+Perineural Invasion
+Not identified
+
+Large Mesenteric Masses (&amp;gt;2 cm)
+A &amp;gt;2cm largely replace lymph node is present but an irregular mesenteric mass close to a neurovascular bundle (ie mesenteric mass) is not present.
+
+Regional Lymph Nodes
+Number of involved lymph nodes: 1
+Total number of lymph nodes: 4
+
+Pathologic Stage Classification (pTNM, AJCC 8th Edition)
+Primary Tumor (pT)
+pT3(m):	Invades through the muscularis propria into subserosal tissue without penetration of overlying serosa, multiple tumours
+Regional Lymph Nodes (pN)
+pN1:  Regional lymph node metastasis less than 12 nodes
+Distant Metastasis (pM) (required only if confirmed pathologically in this case)
+pM1a    Previously liver metastases (68U99543 and 68U99543).  The appearance of the current tumour is similar to the scant tumour seen in the previous specimens.
+
+Additional Pathologic Findings
+Mesenteric vascular elastosis:  Not seen
+
+
+DIAGNOSIS
+Small bowel resection:
+-  Multiple well differentiated grade 1 neuroendocrine tumours, at least seven, some ulcerated, deepest invasion to subserosa, 2.5mm from closest longitudinal end, lymphovascular invasion present, one of four lymph nodes containing metastatic neuroendocrine tumour (1/4) (see above regarding margin), stage pT3 (m) N1 M1a.

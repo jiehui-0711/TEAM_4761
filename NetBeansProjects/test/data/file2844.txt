@@ -1,0 +1,25 @@
+SPR no: 64X350495B
+MRN no: 6493504
+Site_name: BATEMANS BAY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 6493504.YNB
+O&amp;apos;HEBERLEIN, BRODIE CHANCE
+64X35049
+
+Last edited : 30/12/2065		Page: 2
+CLINICAL:
+Cholangiocarcinoma.  Gallbladder and hilar tissue sample.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of a gallbladder with attached fatty tissue near the cystic duct margin.  The gallbladder measures 60mm in length with a maximum external diameter of 25mm.  The serosa has some small amounts of fibrous material attached but otherwise appears unremarkable.  There is an area of fat attached to the gallbladder resection margin around the cystic duct resection measuring 40 x 25 x 15mm.  A 15mm lymph node is identified around the cystic duct.  The maximum thickness of the wall is 3mm.  The mucosa appears unremarkable.  No gallstones are identified in the specimen.
+Blocks: 1 &amp;#8211; cystic duct margin; 2 to 5 &amp;#8211; serial sections from cystic duct into gallbladder; 6 &amp;#8211; body gallbladder; 7 &amp;#8211; fundus; 8 &amp;#8211; cystic duct node; 9 to 16 &amp;#8211; remainder of specimen embedded.  AE.
+B.  Specimen labelled &amp;quot;Hilar tissue&amp;quot;, consists of a piece of tan tissue 12 x 8 x 3mm.  Serially sectioned AE 1 block.   (TO: RR;RR/vo 28.12.65)
+MICROSCOPIC:  (Reported by Dr R Lozzi)
+A.  The gallbladder and pericholecystic tissue have been examined in their entirety. Sections of gallbladder show mild non-specific chronic cholecystitis. The gallbladder wall shows mild fibromuscular hyperplasia, focal Rokitansky Aschoff sinus formation and patchy mild chronic inflammation. Two pericholecystic lymph nodes showing lipogranulomatous change are present (0/2). The pericholecystic tissue shows no atypical features. There is no evidence of intestinal metaplasia, dysplasia or malignancy.
+B.  Sections show fragments of congested and diathermied adipose tissue. There are no atypical features. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Gallbladder: Mild non-specific chronic cholecystitis. No evidence of malignancy (0/2).
+
+B.  Hilar tissue: No evidence of malignancy.

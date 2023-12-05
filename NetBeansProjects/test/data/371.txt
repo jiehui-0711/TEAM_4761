@@ -1,0 +1,82 @@
+
+Episode No:  29G062765A
+292062.SRO
+
+SILIS, SHANDA 
+Lab No:  29G06276
+Frame
+URRAWEEN    4606
+Specimen: Tissue
+D.O.B:  7/1/1995
+Sex:  F
+Collected: 09/04/2013 at 09:16
+Location:  Anat Path-NARACOORTE HEALTH SERVICE
+DR ELISHA WOODROW SLIGHT
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+(L) breast IDC - wide excision +SLN bx.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node 1" consists of a piece of fibrofatty tissue encasing a lymph node measuring 9 x 7 x 3mm.  BAE 1 block.
+B.  Specimen labelled "Sentinel node 2" consists of a piece of fibrofatty tissue measuring 22 x 17 x 8mm containing one lymph node measuring 15 x 12 x 5mm.  BAE 2 blocks.
+C.  Specimen labelled "Sentinel node 3" consists of a piece of fibrofatty tissue measuring in total 17 x 10 x 8mm.  Encasing one lymph node measuring 10 x 10 x 5mm.  TAE 1 block.  
+D.  Specimen labelled "Left breast tissue short stitch superior, medium stitch medial, long stitch lateral" consists of apiece of fibrofatty tissue with marking suture as described and a hook wire measuring 60mm (medial to lateral) x 40mm (superior to inferior) x 35mm (superficial to deep).  The specimen is inked as follows:  superficial green, deep red, superior blue and inferior black, serially sectioned from medial to lateral.  The cut surface shows fibrofatty tissue with intervening fibrous bands but no discreet lesion is identified.  The tip of the hook wire entered in slices two andthree.  AE 15 blocks.  
+Blocks: 1 - medial margin; 2 - slice two; 3 - slice three; 4 & 5 - slice four; 6 & 7 - slice five; 8 & 9 - slice six; 10 & 11 - slice seven; 12 - slice eight; 13 to 15 - lateral margin embedded superior to inferior.   (HZ/ta 12/6/63) 
+E.  Specimen labelled "Left axillary tissue" consists of two pieces of fibrofatty tissue measuring 15 x 12 x 5mm and 20 x 12 x 5mm.  AE 2 blocks.  
+Blocks:  1 - smaller fragment; 2- larger fragment.  (PR/mm 12.6.63) 
+MICROSCOPIC (reported by Dr G Divens):
+A - E.  Sections show invasive ductal carcinoma.  The features are as follows:
+Invasive carcinoma:
+Site:  Left breast.
+Type:  Invasive ductal carcinoma with some tubular features. 
+Invasive tumour size: 6mm.
+Grade (Modified Bloom & Richardson): 1. 
+Tubules:  1    Nuclei:   1   Mitoses:   1   Mitotic rate:   1/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS:  7mm. 
+Nuclear grade:  Intermediate. 
+Architecture:  Solid and cribriform. 
+Necrosis:  Absent. 
+Calcification:  Absent.
+Degree of DCIS in tumour:  Minimal.  
+DCIS in adjacent tissue:  Minimal. 
+Excision Margins:  
+Invasive component:  4mm from superficial, 6mm from superior, 9mm from deep, all other margins well clear. 
+In-situ component:  5mm from superficial and superior, 7mm from deep, 9mm from inferior, other margins well clear. 
+Receptors (Block D3): 
+ER:   Positive.
+	100% of nuclei stained
+	predominant intensity of staining: Strong. 
+PR:   Negative.
+	Less than 1% of nuclei stained
+	predominant intensity of staining:  Moderate.
+HER2 (Novocastra 10A7):Negative (score 1+).
+Ki-67 index:  Approximately 1-2%. 
+Nipple:  Not applicable. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3.
+Number of sentinel lymph nodes involved by tumour:  1.      
+Number of sentinel nodes with metastases >2.0mm:   1 (9mm deposit) 
+Number of sentinel nodes with metastases <2.0mm:   0.   
+Extranodal spread:  Absent.
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  1.
+Number of axillarylymph nodes involved by tumour:  0.         
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  4.  
+Total number of involved lymph nodes (including sentinel node(s)):  1. 
+ 
+ADDITIONAL REPORT (2/6/63):
+Blocks were sent to PORT AUGUSTA HOSPITAL Hospital for Her2 ISH analysis, Dr G Collelo reports:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roache). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 1.85.
+Mean CEP17 copy number per cell:  1.1.
+HER2/CEP17 ratio:  1.68.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+

@@ -1,0 +1,85 @@
+
+Episode No:  09A480157L
+0904801.OUL
+
+PASKELL, Edith 
+Lab No:  09A48015
+Commodore
+MCLAREN VALE  Northern Territory  4891
+Specimen: Tissue
+D.O.B:  1/10/1998
+Sex:  F
+Collected: 08/08/2013 at 18:16
+Location:  Douglas Hanly Moir - YARRAM & DISTRICT HEALTH SERVICE
+DR LEMUEL HUBERT MERLE-WADLEY
+Distribution:  DR Adolph,  FILE-COPY,   NSW-CANCER-REGISTRY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Rt breast cancer.  10 to 11 o'clock, 1 to 2cm FN.  Involved axillary node.
+Wide excision of Rt breast lump- short stitch superior, long lateral, medium medial.  Level 1 axillary dissection.
+MACROSCOPIC:
+A.  Specimen labelled "Right breast lesion stitch long lateral medium medial short superior", consists of a piece of breast tissue with three marking stitches as described measuring 160mm (lateral to medial) x 140mm (superior to inferior) x 40mm (superficial to deep).  The overlying skin ellipse is 110 x 20mm and appears unremarkable.  Margins are inked in three colours: superficial inked blue, deep black and superior red.  Specimen is seriallysectioned from medial to lateral into 16 slices.  There is an indurated pale tumour in slices 4 and 5 measuring 10 x 15 x 16mm.  The tumour is less than 1mm from the junction of superior and superficial margins and is 55mm from inferior,30mm from deep, 30mm from medial, and 120mm from lateral margins.
+Blocks; 1 and 2 - representative slice 1 (medial); 3 to 8 - sections from slice 4 (ERPR HER2, Ki67 on blocks 6) ; 9 to 16  - slice 5; 16 to 20 - slice 6; 21 - slice 8; 22 - slice 10; 23 - slice 16 (lateral margin)  Please see diagram.  
+B.  Specimen labelled "Right axilla contents", consists of fragments of fatty tissue 115 x 70 x 40mm in aggregate.  Several lymph nodes are identified.  
+Blocks: 1 and 2 - comprise one lymph node; 3 - lymph nodes as seen; 4 - one lymph node sliced; 5 - one bisected lymph node; 6 - 1 lymph node sliced; 7 - lymph nodes as seen.  (TO: CI;QI/vo 10.11.63) 
+MICROSCOPIC (Reported by Dr Y Keslar):
+A.  Sections show a grade 3 infiltrating ductal carcinoma which is present in slices four and five and has an estimated size of 10 x 15 x 25mm.  The carcinoma has a Bloom and Richardson score of 8(t=3, n=2, m=3).  The closest margin is superficial which is 1mm clear(close to superior).   There is adjacent extensive LVI (lymphovascular invasion) deep to the tumour and LVI is seen 10mm from the deep margin.  The medial, lateral, superior and inferior margins are well clear.  
+High grade DCIS is seen within and adjacent to the infiltrating carcinoma and measures 35mm in maximum dimension (superficial to deep).  A focus of intermediate DCIS is seen 0.5mm from the deep marginand 5mm from the superficial.  The other margins are clear.  
+The breast also shows extensive columnar cell change plus a radial scar and papillomatosis. 
+B.  Two (2)of the ten (10) lymph nodes identified contain metastatic carcinoma and the largest is largely replaced by tumour and shows perinodal infiltration for a distance of 1.5mm.
+
+
+DIAGNOSIS:  
+A & B.  Right breast WLE and right axillary nodes:
+
+Invasive carcinoma:
+Site: right breast [WLE]
+Type: infiltrating ductal carcinoma
+Invasive tumour size: 10 x 15 x 25mm
+Grade 3 (Modified Bloom & Richardson):
+Tubules: 3     Nuclei: 2     Mitoses: 3     Mitotic rate:16/10hpf.
+Lymphovascular invasion: extensive - deep to tumour mass 
+	    
+DCIS component:  
+DCIS: present
+Maximum extent of DCIS: 35mm (superficial to deep)
+Nuclear grade: intermediate
+Architecture: Cribriform, papillary 
+Necrosis: present  
+Calcification: absent
+Degree of DCIS in tumour: <25%
+DCIS in adjacent tissue: present
+Excision Margins:  
+Invasive component: superficial 1mm, deep 10mm (LVI), other margins well clear.
+In-situ component: superficial 5mm, deep 0.5mm, other margins well clear
+Receptors (Block 93N65180 A6): 
+ER:  
+	80% of nuclei stained
+	predominant intensity of staining:  moderate
+PR:  
+	0% of nuclei stained
+	 
+HER2 (Novocastra 10A7):  positive (3+)
+HER2 SISH:  Sides sent toTAILEM BEND HOSPITAL Hospital for CISH. See separate report.
+Ki-67 index: 10%
+Nipple:  N/A
+
+LCIS / ALH:   absent
+Miscellaneous:
+Radial scar, papillomatosis, columnar cell change.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 0
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 10
+Number ofaxillary lymph nodes involved by tumour: 2
+Number of axillary nodes with metastases >2.0mm:  1  
+Extranodal spread:  1.5mm   
+Lymph node total:
+Total number of lymph nodes examined (including sentinel nodes):10 
+Total number of involved lymph nodes (including sentinel nodes): 2 
+ 
+ 
+
+
+
+
+

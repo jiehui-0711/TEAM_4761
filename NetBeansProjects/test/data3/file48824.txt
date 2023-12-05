@@ -1,0 +1,32 @@
+SPR no: 09W602116E
+MRN no: 09860211
+Site_name: WALCHA MULTIPURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Radical hysterectomy for squamous cell carcinoma of the cervix.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes&amp;quot;, consists of a uterus with attached cervix and bilateral fallopian tubes.  The left tube is received detached.  The specimen weighs 207g. The uterus measures 95 x 80 x 70mm and has a smooth shiny serosal surface. The ectocervix measures 30 x 28mm and appears grey/tan with a mildly nodulated contour.  No convincing tumour is seen.  On sectioning the endometrium is only faintly visible with an approximate thickness of 1mm and the myometrium is 40mm in maximum thickness. The uterus has probable adenomyosis.  The right fallopian tube measures 35 x 8mm and the left fallopian tube measures 26 x 7mm.  Block 1-6 - full LS of posterior body and cervix; 7-20 - all of posterior cervix; 21-28 - full LS of anterior body and cervix; 29-30 - all anterior cervix; 39 - fibroids; 40 - right adnexa; 41 - left adnexa.
+
+B.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of fatty tissue 50 x 35 x 10mm. Several lymph nodes are found varying in size from 3 to 17mm.  Block 1- one lymph node quadrisected;
+2 - one lymph node in 6 pieces; 3 - two lymph nodes; 4 - three lymph nodes.
+
+C.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of fatty tissue 40 x 30 x 10mm. Several lymph nodes are found varying in size from 2 to 12mm.  Block 1- two lymph nodes;
+2 - one lymph node quadrisected; 3 - ? 20mm lymph node in six pieces.  (TO:BL/ec 6/7/67)
+
+
+MICROSCOPIC (Reported by Dr B Salabarria):
+A.  Sections show residual moderately differentiated squamous cell carcinoma.  The largest focus is anteriorly and has a depth of 4mm, a length of 8mm, and a width of 6mm (blocks 33 &amp;amp; 34).
+Posteriorly there is another focus, depth 3mm, length 6mm, width 3mm (block 14).
+No lymphvascular invasion is seen.  Carcinoma is clear of the vaginal margin by 9mm.
+A small amount of residual CIN 3 is also noted.
+There is no adenocarcinoma in situ.
+The cervical serosa shows endometriosis.  The endometrium is late secretory.  The myometrium shows extensive adenomyosis.  Both tubes are unremarkable.
+
+B.  Seven lymph nodes show no evidence of malignancy.
+
+C.  Four lymph nodes show no evidence of malignancy.
+
+
+DIAGNOSIS:
+Residual moderately differentiated squamous cell carcinoma, depth 4mm, length 8mm, width 6mm.  No lymphvascular invasion.  Vaginal margin clear.  Eleven (11) negative lymph nodes.

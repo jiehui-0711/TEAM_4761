@@ -1,0 +1,80 @@
+
+Episode No:  83I509281P
+833509.GVE
+
+WILCOX, Long Denese 
+Lab No:  83I50928,83I50928
+Gracewood
+BACCHUS MARSH  New South Wales  1790
+Specimen: Washings,Tissue
+D.O.B:  9/5/1983
+Sex:  F
+Collected: 17/06/2065 at 09:28
+Location:  MERREDIN HOSPITAL
+DR Ngarrindjeri Mumm
+Distribution:  DR Demetrius, DR RADU,    FILE-COPY,   NSW-CANCER-REGISTRY
+HISTORY:  
+G1 endometrioid adenocarcinoma.  
+1. Peritoneal washings for cyto.
+2. Uterus, tubes and ovaries.
+3. Omental biopsy.
+4. Left pelvic node.
+5. Right pelvic node.
+MACROSCOPIC:  
+A.  "UTERUS, OVARIES AND TUBES".  A uterus opened prior to receipt with attached fallopian tubes and ovaries. The uterus measures 80mm superoinferiorly, 50mm mediolaterally and 35mm anteroposteriorly. There is a slit like os at the cervix measuring 5x1mm. The left fallopian tube measures 50mm in length and up to 5mm indiameter. The left ovary measures 15x10x5mm, both appear unremarkable. The right fallopian tube measures 50mm in length and up to 5mm in diameter. The right ovary measures 17x10x7mm, both appear unremarkable. The external surface of the serosal surface of the uterus is unremarkable. The anterior surface is inked in blue, posterior black.  Within the endometrial cavity there is an exophytic tan lesion 35x30mm.  The uterus weighs 87g.  Please note the uterus had been partly opened prior to receipt. The fundus had not been opened prior to receipt and is unfixed and partly liquidified.  On cut section the tumour extends into both cornu but otherwise appears confined to the endometrium.  
+(1&2 left fallopian tube [1 all of fimbrial end]; 3 left ovary; 4 left parametrial tissue; 5&6 right fallopian tube [5 all of fimbrial end]; 7 right ovary; 8 right parametrial tissue; 9&10 cervix; 11&12 lower uterine segment; 13&14 body of endometrium; 15 fundus of uterus; 16 right cornu).  RS (M-16)
+B.  "OMENTAL BIOPSY".  A piece of fatty omentum up to 40mm.  No tumour is identified.  RS (M-3)
+C.  "RIGHT PELVIC LYMPH NODE".  Two pieces of fatty tissue ranging from 20 up to 30mm.  Four lymph nodes identified ranging from 3 up to 20mm.
+(1&2 largest lymph node; 3 one lymph node bisected; 4 two lymph nodes).  RS (M-4 [all nodal tissue submitted]).
+D.  "LEFT PELVICLYMPH NODES".  A piece of fatty tissue up to 50mm.  Four lymph nodes identified ranging from 3 up to 15mm.
+(1&2 largest lymph node; 3 one lymph nod bisected; 4 two lymph nodes).  RS (M-4 [all nodal tissue submitted])/VY/ank)
+MICROSCOPIC:  (Dr X. Billo)
+
+ENDOMETRIAL CARCINOMA: 
+
+Tumour type:  Endometrioid adenocarcinoma
+FIGO grade:  2
+(architectural grade:  2, nuclear grade:  2)
+Myometrial invasion:  Invasion limited to the inner half of the myometrium.
+Depth of myometrial invasion:   3mm
+Myometrial thickness:   16mm
+% of myometrium invaded:   18%
+Focality:  Unifocal
+Tumourinvolves: Fundus, body and lower uterine segment and cervical glands  
+Vascular/lymphatic invasion:  Single focus suspicious.  
+Involvement of cervix:  Not involved (glands only involved with no stromal invasion)
+Involvement of uterine serosa:   Not present
+Excision margins:  Clear of tumour
+Non-tumour uterus:  
+Adjacent endometrium:  All of the endometrium is replaced by carcinoma
+Polyps:  not present
+Adenomyosis:  not present
+Adnexae:  
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+Lymph nodes:  
+Nodes involved:  0
+Total number:  8 (4 left pelvic, 4 right pelvic)
+Other tissues:  No evidence of malignancy is seen within the omentum which contains a few scattered non necrotising sarcoidal granulomas.  Additionally all of the lymph nodes contain numerous non necrotising sarcoidal granulomas- this may represent a local immune reaction to tumour but the possibility of infection and sarcoidosis should also be considered.  Special stains for micro-organisms will follow.
+Adjacent to the left fallopian tube there is a vessel with moderate transmural inflammation with granulomatous features.  The appearances are consistent with those of localized vasculitis, most likely representing an organ isolated, non-clinically significant process.  However, the possibility of a systemic vasculitic disease should be clinically considered.
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT1a, pN0, pMx
+FIGO stage: 1A
+Comment: 
+DIAGNOSIS:  
+A.  UTERUS, OVARIES AND TUBES -
+-GRADE 2 ENDOMETRIOID ADENOCARCINOMA, FIGO STAGE 1A.
+B.  OMENTAL BIOPSY -
+-NO EVIDENCE OF MALIGNANCY, OCCASIONAL SARCOIDAL GRANULOMAS.
+C.  RIGHT PELVIC LYMPH NODES -
+-NO EVIDENCE OF MALIGNANCY IN FOUR NODES (MULTIPLE SARCOIDAL GRANULOMAS PRESENT).
+D.  LEFT PELVIC LYMPH NODES -
+-NO EVIDENCE OF MALIGNANCY IN FOUR NODES (MULTIPLE SARCOIDAL GRANULOMAS PRESENT).
+18/6/65 ank
+SUPPLEMENTARY REPORT:
+C. No microorganisms are seen with specialstains (ZN, auramine, Gram, DPAS, Grocott).
+23.6.65
+

@@ -1,0 +1,17 @@
+SPR no: 69U059699W
+MRN no: 6970596
+Site_name: MAROONDAH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Peritoneal washings - high grade serous cancer - primary peritoneal cancer.  Neoadjuvant carbo taxol - 2 cycles.  Ca 125 post chemo = 10.  Previous breast cancer.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and bilateral ovaries, weighing 85g in total.  The uterus measures 80 x 50 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 32 x 22mm and shows no significant abnormality.  On sectioning, the endometrium is less than 1mm in maximum thickness and the myometrium is 22mm in maximum thickness.  The anterior cervical margin is inked blue, and the posterior cervical margin is inked black.  The myometrium contains a few fibroids measuring up to 8mm in maximum dimension.  The left fallopian tube, 45 x 7 x 7mm and left ovary, 32 x 18 x 15mm, show no significant abnormality.  The right fallopian tube, 47 x 9 x 8mm and right ovary, 25 x 15 x 12mm, show no significant abnormality.
+Blocks: 1 to 4 - midline LS anterior uterus and cervix (4 - fibroid); 5 &amp;amp; 6 - LS additional anterior uterus; 7 to 9 - midline LS posterior uterus and cervix; 10 - additional LS posterior uterus; 11 - LS complete fimbrial end left fallopian tube; 12 &amp;amp; 13 - TS remaining left fallopian tube; 14 to 16 - complete left ovary; 17 &amp;amp; 18 - LS complete fimbrial end right fallopian tube; 19 &amp;amp; 20 - TS remaining right fallopian tube; 21 &amp;amp; 22 - complete right ovary.
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omental tissue, 150 x 80 x 30mm.  On sectioning, no tumour or lymph nodes are identified.  RS 3 blocks.   (TO:JB/rs 25/10/68)
+MICROSCOPIC (Reported by Dr Q Gekas):
+A.  Residual high grade serous carcinoma is present within numerous lymphatics of the myometrium, and one lymphatic within the wall of the left tube. Other lymphatics have foci of calcification unassociated with viable carcinoma.
+The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  Both ovaries and tubes have been examined in their entirety.  Both ovaries show surface changes suggestive of previous surgery for endometriosis.
+B.  Sections show no evidence of malignancy.  Three negative lymph nodes are present.
+DIAGNOSIS:
+Residual high grade serous carcinoma within lymphatics of the myometrium and left tube.

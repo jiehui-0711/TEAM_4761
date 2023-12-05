@@ -1,0 +1,37 @@
+SPR no: 19D710634A
+MRN no: 1917106
+Site_name: EXMOUTH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pelvic abscess post antibiotic treatment.
+1 pelvic washings.
+2 tube ovary.
+3 tube and ovary.
+Endometrial curettings.
+Severe gastro + weight loss recently lost kg.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;1 fallopian tube + ovary&amp;quot;, consists of a piece of ragged tan tissue, 40 x 25 x 25mm.  There is a possible ovary, 22 x 20 x 11mm.  The fallopian tube is difficult to definitively identify.  The cut surfaces show scattered yellow areas ranging from 10 to 17mm.
+Blocks: 1 to 3 - possible ovary; 4 - possible fallopian tube.
+
+B.  Specimen labelled &amp;quot;Fallopian tube + ovary 2&amp;quot;, consists of a piece of tan soft tissue, 35 x 30 x 20mm, including an ovary 20 x 12 x 12mm.  There is a fallopian tube adjacent to the ovary, 4mm in diameter.  The fimbria cannot be identified.  There is a thin-walled cyst, 20 x 12 x 10mm, containing serous fluid.  RS 4 blocks.
+
+C.  Specimen labelled &amp;quot;Endometrial curettings&amp;quot;, consists of fragments of haemorrhagic tissue, 9 x 6 x 3mm in aggregate.  AE 1 block.   (TO: KM; KM/vo 22.7.65)
+
+
+MICROSCOPIC (Reported by Dr E Buddy):
+A.  The sections show chronic xanthogranulomatous salpingo-oophoritis.  There are prominent aggregates of foamy histiocytes within both the ovary and the fallopian tube, accompanied by lymphocytes and plasma cells.  The fallopian tube shows broadening and fusion of the plicae with moderate chronic inflammation, consistent with chronic salpingitis.  The ovary and tubal serosa shows haemorrhage and adhesions.  There is no evidence of malignancy.
+
+B.  The sections of the fallopian tube show features of chronic xanthogranulomatous salpingitis.  The fallopian tube shows broadening and fusion of the plicae with a mild inflammatory infiltrate composed of aggregates of foamy histiocytes, lymphocytes and plasma cells.  The degree of inflammation is milder compared to specimen A.  Both the ovary and tubal serosa show patchy haemorrhage.  A benign paratubal cyst is present.  The ovarian parenchyma shows no specific abnormality.  There is no evidence of malignancy.
+
+C.  The endometrial curettings show detached strips of benign glandular epithelium and fragments of ectocervical squamous epithelium.  There is insufficient intact endometrium for assessment.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Fallopian tube and ovary 1:  Chronic xanthogranulomatous salpingo-oophoritis.
+
+B.  Fallopian tube and ovary 2:  Chronic xanthogranulomatous salpingitis.
+
+C.  Endometrial curettings:  Insufficient intact endometrium for assessment.

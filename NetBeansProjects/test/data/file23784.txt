@@ -1,0 +1,118 @@
+SPR no: 06M0262957
+MRN no: 0640262
+Site_name: BEACONSFIELD DISTRICT HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report06M02629 (06M0262957) MCKEAG, COOPER
+
+HISTOPATHOLOGY REPORT:
+AMENDED REPORT TO COMPLETE FINDINGS UNDER OTHER PATHOLIGIES AND
+ANCILLARY STUDIES 22/2/67
+
+HISTORY:
+Distal stomach.
+Omentum.
+Rt &amp;amp; Left ovaries (Krukenberg tumours).
+
+MACROSCOPIC:
+&amp;quot;KRUKENBERG, DISTAL STOMACH, OMENTUM&amp;quot;. A distal gastrectomy specimen consists of lesser curve, 60mm; greater curve, 130mm; and is up to 105mm in circumference with attached soft tissue at the lesser curve, up to 20mm; and greater curve, up to 15mm. Also received within the same specimen jar, is a fibrofatty piece of tissue consistent with omentum, 220x115x15mm; two grossly enlarged ovaries, 75x50x45mm, and 70x65x45mm; and a fibrofatty piece of tissue with covering peritoneum, 60x25x15mm.
+
+The stomach has been opened across its greater curve. The cut surface reveals diffuse thickening of the stomach centrally over an area measuring 60x40mm which has cental  ulceration 15x10 mm. This lesional area is located within 5 mm of proximal and 55mm of distal margin. The corresponding serosa is hard, white and firm. The proximal margin is inked blue, distal is inked black. The lesional area is serially sliced. The cut surface reveals diffuse thickening and white strands approaching the serosal surface. Towards the distal edge at the greater curve, there is a well-demarcated serosal tumour, 10x10x5mm, with homogenous white cut surface which appears to be confined to the serosa. Multiple lymph nodes are identified ( as per block legend) with possible enlarged lymph nodes within 5 mm of the radial resection margin (inked green).
+
+The cut surface of both ovaries is solid with oedematous mucinous tumor totally replacing the ovarian parenchyma.
+
+No definite macroscopic involvement of the attached omentum is seen, but there are firm areas with overlying adhesions . No mucinous deposits are identified.
+
+The attached piece of peritoneum has fibrotic white tubular structure with no obvious tumour nodules.
+
+(1 distal margin; 2&amp;amp;3 continuous slice, proximal margin with lesional area; 4&amp;amp;5 one LS proximal margin with lesion  6&amp;amp;7 continuous lesional area with adjacent normal tissue towards the proximal edge; 8-10 continuous lesion with adjacent normal tissue towards the distal edge; 11 serosal well-demarcated nodule; 12&amp;amp;13 each containing nearest radial margin at the lesser curve and two lymph nodes; 14 five lesser curve lymph nodes; 15 five greater curve lymph nodes; 16 largest ovary, one TS, also tumour block for tissue banking; 17 smaller ovary; 18 attached peritoneum; 19&amp;amp;20 omentum). RS (M-20/ZH [please see block diagram] 17/2/2067 cy)
+
+(Dr C Starrick)
+GASTRIC TUMOUR SYNOPTIC REPORT (Dr C Hulcy)
+
+
+MACROSCOPIC
+
+TYPE OF RESECTION:
+Subtotal distal gastrectomy
+Length of stomach greater curve: 130mm
+Length of stomach lesser curve: 60mm
+TUMOUR:
+Site: Distal stomach
+Diameter: 60mm
+Distance from nearest proximal or distal margin: 5mm (proximal)
+Serosal appearance: Hard, white, firm
+
+ADDITIONAL ORGANS RECEIVED: Bilateral ovaries, omentum, peritoneum
+
+MICROSCOPIC:
+
+TUMOUR
+
+SITE: Distal stomach
+
+TUMOUR WHO HISTOLOGICAL TYPE:  Poorly cohesive / signet-ring cell carcinoma with mucinous differentitation
+TUMOUR LAUREN HISTOLOGICAL TYPE: Diffuse
+HISTOLOGICAL GRADE: 3 (Poorly differentiated)
+GROWTH PATTERN: Infiltrating
+MAXIMAL DIMENSION OF TUMOUR: At least 100mm
+LEVEL OF INVASION: Full thickness involvement of the gastric wall including the serosal surface
+SEROSAL SURFACE INVOLVEMENT: Present
+VASCULAR SPACE INVASION:
+Small vessels (lymphatic and capillary): Present, extensive
+Large vessels (vein and artery): Present, extensive
+PERINEURAL GROWTH: Present, extensive
+DEGREE OF REGRESSION AFTER PRE-OPERATIVE CHEMORADIOTHERAPY: N/A
+DISTANCE OF TUMOUR FROM MARGINS:
+Proximal: Present at the margin
+Distal: 15mm
+
+LYMPH NODES
+
+REGIONAL LYMPH NODES (pN): Involved
+Number of involved regional lymph nodes: 13
+Number of regional lymph nodes examined: 16
+
+NON-REGIONAL LYMPH NODES (pM): Not received
+
+METASTATIC SITES:
+Bilateral ovaries (Krukenburg tumours)
+Omentum
+Peritoneum
+
+OTHER PATHOLOGIES:
+Mild chronic gastritis. Helicobacter not seen. No intestinal metaplasia. No dysplasia.
+
+GASTROINTESTINAL STROMAL TUMOUR
+Size: 10mm
+Histologic Type: Gastrointestinal stromal tumour, spindle cell type
+Mitotic rate: 0/5mm square
+Necrosis: not identified
+Histologic grade: G1, Low grade
+Immunostains: KIT (CD117) positive, CD34 positive, SMA weakly positive, desmin negative, S100 negative
+Distance from margins: 40mm from the closest margin (distal)
+
+ANCILLARY FINDINGS:
+Block No: 11
+Immunostain results for adenocarcinoma
+CAM5.2, CK7: positive
+CDX2 weakly positive
+CK20, ER, PR, PAX8 and GATA3: negative.
+
+Tumour block suitable for further testing: 8
+
+TUMOUR STAGE AND STAGE GROUPING (AJCC 2018, 8th EDITION)
+Tumour stage: pT4a, pN3, pM1
+Tumour stage grouping: IV
+
+DIAGNOSIS:
+DISTAL GASTRECTOMY, BILATERAL OOPHORECTOMY, OMENTECTOMY
+- DIFFUSELY INFILTRATING POORLY COHESIVE SIGNET RING CELL ADENOCARCINOMA OF THE STOMACH WITH MUCINOUS DIFFERENTIATION
+- EXTENSIVE LYMPHOVASCULAR SPACE INVASION, EXTENSIVE PERINEURAL INVASIVON, INVOLVED SEROSAL SURFACE AND PROXIMAL MARGIN
+- REGIONAL LYMPH NODE INVOVEMENT (13/16)
+- BILATERAL OVARIAN INVOLVEMENT
+- INVOLVEMENT OF OMENTUM AND PERITONEUM
+- pT4a, pN3, mM1
+- 10mm GRADE 1 GASTROINTESTINAL STROMAL TUMOUR
+
+20/2/67 ld

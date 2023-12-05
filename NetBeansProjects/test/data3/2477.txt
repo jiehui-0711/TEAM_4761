@@ -1,0 +1,67 @@
+Episode No:  24E157610S
+241157.PCB
+
+PROSSER, RODNEY SCOTT 
+Lab No:  24E15761
+Dursley
+PORT AUGUSTA  QLD  3570
+Specimen: Tissue
+D.O.B:  7/9/1996
+Sex:  M
+Collected: 23/11/2065 at 09:42
+Location:  PERI-OPERATIVEUNIT-BARWON HEALTH - ASHLEY MANOR CAMPUS
+DR Devin DEE MACARAEG
+Distribution:  DR Kamilaroi, DR ELLIS,    FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Caecal cancer.  Right hemicolectomy.  
+MACROSCOPIC:
+Specimen labelled "Right colon" consists of a right hemicolectomy.  The terminal ileum measures 80mm in length x 50mm in diameter.  The caecum and ascending colon togethermeasure 80mm in length x 50mm in diameter.  No appendix is identified.  There is a circumferential caecal tumour surrounding the ileocaecal valve and measuring 70 x 30mm in area.  Cut surfaces show pale tumour invading through the caecal wall into subserosal fat.  The tumour is 65mm from the proximal (terminal ileum) margin and 110mm from the distal (ascending colon) margin.  No polyps or other lesions are identified on themucosa.  The tumour has fat wrapping over the antimesenteric surface.  No perforation is identified.  Lymph nodes are found within the mesocolon.  
+Blocks:  1 - proximal and distal surgical margins; 2 & 3 - area of deepest invasionof tumour; 4 - tumour straddling ileocaecal valve; 5 & 6 - further area of tumour; 7 - tumour for biobank; 8- apical node; 9 & 10 - ten to twelve lymph nodes are seen; thirteen involved node immediately within the mesocolon adjacent to area of deepest invasion.  (TO: UX:  FA/mm 23.11.65) 
+MICROSCOPIC (reported by Dr G Lamoreau and registrar Dr G Freund): 
+
+Macroscopic Description
+
+Site of tumour: Caecum	
+Maximum tumour diameter:    70 mm
+Distance of tumour to nearer cut end:   65mm
+Tumour perforation:     No 
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 20	
+Number of lymph nodes involved: 6 (in addition, there is one 1mm extranodal mesenteric tumour deposit present.)	
+pN2	Metastases in 4 or more regionalLN
+Lymphovascular invasion
+Present (Mural and Extramural) 
+Perineural invasion
+Present 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The adenocarcinoma arises from high grade dysplasia within the caecum and extends across to the terminal ilium. 
+There is extensive lymphovascular invasion present. 
+There are also tumour nodules present within the mesocolonic fat, and some of the lymph node deposits of tumour show extranodal extension. (Block 10).  The largest involved lymph node deposit is 13mm in maximum dimension. (Block 13)
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+DIAGNOSIS:
+Right colon:  Moderately differentiated adenocarcinoma of caecum with lymph node metastases (6/20).
+pT4a    pN2     pMx  
+  
+
+
+
+

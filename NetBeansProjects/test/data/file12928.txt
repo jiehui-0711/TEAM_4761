@@ -1,0 +1,94 @@
+SPR no: 52F5936439
+MRN no: 5225936
+Site_name: SANDRINGHAM HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple&amp;apos;s - intra op.  Liver lesion ?Metastatic disease.  Obstructive jaundice.  On EUS mass around distal CBD - ?Cholangiocarcinoma.  No neoadjuvant therapy.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Liver biopsy&amp;quot;, consists of pink tan tissue measuring 5 x 3 x 2mm.  AE for frozen section.  AE 1 block.
+
+FROZEN SECTION REPORT:
+Diathermied subcapsular liver lesion consists of obscured mildly atypical ?ducts with non-desmoplastic stroma.  Difficult to accurately assess due to diathermy favour benign.  However await paraffin for formal diagnosis and cannot completely exclude well differentiated adenocarcinoma.
+Results to Dr O Thenhaus by Dr O Ogara, Dr O Ivey, Dr O Hooper, Dr O Denard at 3pm on 20/6/16.
+
+B.  Specimen labelled &amp;quot;Whipple&amp;apos;s&amp;quot;, consists of a whipple&amp;apos;s specimen with a detached gallbladder.  The whipple&amp;apos;s specimen consists of a small bowel, portion of stomach and adherent pancreatic tissue.  The segment of bowel and stomach measures 320mm in length, consisting of 280mm of small bowel and 30mm of stomach.  The pancreatic tissue measures 65 x 50 x 35mm.  There are identifing sutures attached (one suture PV margin, two prolene sutures SMA margin, three prolene sutures uncinate margin).  The inks are as follows: anterior surface is  inked red, SMA margin is  inked black, PV (portal vein) margin is  inked green, posterior surface is inked black, uncinate process is  inked blue.  The pancreatic resection margin is inked blue.  On probing the pancreatic duct  the probe  goes in up to a length of 30mm.   The bile duct through to the ampulla is patent.  Bile duct is dilated with a diameter of 12mm.  The specimen has been serially sectioned into ten slices .  The sections show pale ill defined lesion adjacent to the ampulla but does not appear to be arising from the ampulla measuring 30 x 25 x 25mm.  Tumour lie approximately 5mm from posterior margin, 10mm from portal vein, 15mm from SMA, 11mm from uncinate, 18mm from the anterior margin.  Tumour is clear of the pancreatic resection margin macroscopically.  Slice one is  superior of the pancreatic resection margin.  Uninvolved pancreatic parenchyma is unremarkable.  The mucosa on both the small bowel and stomach is unremarkable.  The gallbladder measures 120mm in length with an opened circumference  of 95mm and a wall thickness of 2mm.  Outer surface appears glistening with congested vessels.  Inner surface is greenish and granular filled with sludge.  No gallstones are seen.
+Blocks: 1 - proximal resection margin; 2 - distal resection margin; 3 - RS of normal stomach and small bowel; 4 - bile duct resection margin; 5 &amp;amp; 6 - pancreatic resection margin; 7 &amp;amp; 8 - sections of the bile duct; 9 to 22 - all of the pancreatic tissue plus  tumour (9 &amp;amp; 10 - one slice; 11 to 13 - one slice; 14 &amp;amp; 15 - one slice; 16 &amp;amp; 17 - one slice (pancreatic duct in block seventeen); 18 - one slice; 19 - one slice; 20 - one slice; 21 - one slice; 22 - one slice; 23 - lymph node in  the anterior fat; 24  to 26 - gallbladder (24 - cystic duct; 25 - RS body; 26 - RS fundus).
+
+C.  Specimen labelled &amp;quot;Hepatic&amp;quot;, consists of a pale tan brown tissue measuring 30 x 22 x 12mm.  Two lymph nodes are identified.
+Blocks: 1 - one lymph node; 2 &amp;amp; 3 - one lymph node.  (TO: LM; LM/ta 23/8/66)
+
+
+MICROSCOPIC (Reported by Dr O Floe)
+A.  Paraffin sections of the specimen examined at the time of intraoperative frozen section consultation show a subcapsular scar with adjacent lobulated hepatic parenchyma showing canalicular cholestasis.  There is no evidence of malignancy.
+
+B &amp;amp; C.  The pancreas is entirely embedded and examined.  Sections show a cholangiocarcinoma arising from the intrapancreatic portion of the distal common bile duct,  just proximal to the ampulla of Vater.   The moderately differentiated adenocarcinoma  shows near circumferential replacement of duct epithelium (B19) and invades pancreatic parenchyma,  extrapancreatic fat posteriorly (B19), periuncinate fat (B20) and the duodenum, focally reaching the duodenal submucosa (B20). The tumour extends close to, but does not invade the ampulla, and is approximately 10mm from the mucosal surface of the major duodenal papillae.  The carcinoma is composed of tubular and complex glands lined by columnar mucinous epithelium with moderately pleomorphic nuclei, small but conspicuous nucleoli, and a moderate amount of pale eosinophilic cytoplasm.  Patchy foamy gland differentiation and foci of extracellular mucin are present.  A minor component of the tumour is composed of poorly formed glands, solid nests or single malignant cells.  There is focal perineural invasion (B19) close to the advancing edge of tumour and tumour extends into to the wall of a vessel, apparently undermining its thin muscular coat (B19).  No definite intraluminal lymphovascular invasion is seen.   Three of eighteen lymph nodes contain metastatic adenocarcinoma (3/18).  Two hepatic lymph nodes (specimen C) show no evidence of malignancy.  The deposits measure 2.5mm (posterior pancreatic) ,0.8mm  (posterior pancreatic) and 0.5mm (inferior pancreatic) (B20L2, B18 and B22 respectively).  The extra pancreatic portion of the common bile duct is uninvolved but shows secondary dilatation with patchy denudation of mucosal epithelium. No dysplasia or in situ carcinoma is seen here or at the common bile duct margin.
+The distal stomach is lined by antral type mucosa and shows a moderate active chronic Helicobacter gastritis.  No intestinal metaplasia is seen. The gallbladder and duodenum away from the tumour are unremarkable.
+A synoptic report including summary of margins follows:
+Synoptic Report for Cholangiocarcinoma
+
+Histological tumour type:  Distal cholangiocarcinoma (arising from intrapancreatic portion of distal common bile duct).
+
+Histological grade:
+Grade 2: Moderately differentiated (50% to 95% of tumour cells composed of glands)
+
+Extent of tumour invasion:
+Intrapancreatic portion of distal common bile duct (B19).
+Pancreas (B19, B20).
+Extra pancreatic fat posteriorly (B19, B20), periuncinate fat (B20)
+Duodenum reaching the submucosa (B20).
+
+Maximum tumour diameter: 30mm (gross estimate).
+
+Lymphovascular invasion
+Not identified, however tumour undermines the thin muscular wall of a vessel (B19)
+
+Perineural invasion
+Present at advancing edge of tumour within pancreas.
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Not identified within the Billiary tree (ie no BilIN), however patchy PanIN including PanIN 1A, 1B and focally PanIN 2 is seen.
+
+Margins:
+Pancreatic neck: well clear (greater than 10mm and free of PanIN3).
+Common bile duct: well clear (greater than 10mm and free of BilN3)
+Portal vein (superior mesenteric vein): 15mm (block B19)
+Superior mesenteric artery: 9.5mm (block B20L2)
+Periuncinate soft tissue: 1.7mm (block B20L2)
+
+Surfaces:
+Anterior: well clear (greater than 20mm)
+Posterior: 3.5mm (block B20)
+
+Lymph nodes:
+Number found: 18 (including two hepatic node (specimen C))
+Number involved: 3 (posterior pancreatic 2.4mm, posterior pancreatic 0.8mm deposit, inferior pancreatic 0.6mm deposit).
+No extra nodal extension seen.
+
+Other pathologies:
+There is secondary dilatation of the common bile duct and canalicular cholestasis within the liver.
+There is also patchy peripancreatic fat necrosis and acinar atrophy.
+The gallbladder is unremarkable
+The distal stomach is unremarkable.
+The duodenum away from the tumour is unremarkable.
+
+PATHOLOGICAL STAGING (AJCC 7th Ed. 2010)
+
+Primary tumour category (pT3) Tumour invades the pancreas and duodenum without involvement of the coeliac axis or superior mesenteric artery.
+
+Locoregional lymph node metastases present (pN1)
+
+No distant metastasis (pM0)
+
+
+DIAGNOSIS:
+A-C.  Liver biopsy, Whipples pancreaticoduodenectomy and hepatic lymph nodes:
+-  30mm &amp;#173;moderately differentiated distal cholangiocarcinoma,  arising from intrapancreatic portion of the distal common bile duct,  invades pancreas, duodenum, posterior pancreatic fat and periuncinate fat, no definite lymphovascular invasion seen, focal perineural invasion, margins clear, 3 of 18 pancreatic lymph nodes containing metastatic adenocarcinoma (3/18),  pathological stage pT3, N1, M0 (AJCC 7th Ed 2010).
+-  Subcapsular fibrous scar with canalicular cholestasis in liver.
+
+The findings were discussed with Dr O Piland on 30.8.66

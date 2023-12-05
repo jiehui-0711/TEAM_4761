@@ -1,0 +1,75 @@
+ 312589.HRD
+WOOLFORD, OLA
+31G58936
+
+Last edited : 28/8/2063		Page: 2
+ADDITIONAL REPORT (28/8/63)
+
+CLINICAL:
+Left 1 o'clock carcinoma IDC. Left axilla node +.  Wide local excision and axilla clearance.  Short superior, long lateral and medium medial sutures.
+Note: attached X-Ray shows hookwire going through lesion.
+MACROSCOPIC:
+A.  Specimen labelled "Left breast lesion 1 o'clock long lateral, short superior, medium medial" consists of a wide local excision of breast which measures 45mm (medial to lateral) x 60mm (superior to inferior) x 35mm (superficial to deep).  The superficial surface contains an ellipse of skin which measures 45 x 6mm which has an unremarkable epidermal surface. Deep margin inked black, superficial margin inked green, inferior margin inked red. The specimen is serially sectioned from medial to lateral to reveal firm breast tissue with a hookwire NOS, , no discrete lesions are identified.
+Blocks:  1 to 10 LS of the medial margin; 11 to 16 - slice 2; 17 to 19 slice 3; 20 to 23 -  slice 4; 24 to 26 - slice 5; 27 and 28 - slice 6; 29 to 33 LS of the lateral margin
+B.  Specimen labelled "Left axilla level two" consists of fibrofatty tissue measuring 30 x 25 x 5mm multiple lymph nodes are identified. AE 3 blocks. 
+C.  Specimen labelled "Left axilla contents" consists of fibrofatty tissue measuring 80 x 50 x 10mm.  Multiple lymph nodes are identified.  
+Blocks: 1 - lymph nodes;  2 and 3 - one lymph node bisected; 4 and 5 - one lymph node bisected;  6 nodes; 7 - one lymph node bisected; 8 to 10 lymph nodes All lymph node material embedded.    (TO: QA;AG/vo 14.8.63)
+MICROSCOPIC (Reported by Dr K Kasparek):
+A to C. Invasive carcinoma:
+Site:  Left breast, 1 o'clock     
+Type: Invasive ductal carcinoma NOS
+Invasive tumour size: 4mm
+Grade:   2   (Modified Bloom & Richardson)
+Tubules:  3   Nuclei:  3   Mitoses:  1   Mitotic rate: 4/10hpf.
+Lymphovascular invasion: not seen
+	    
+DCIS component:  
+DCIS:    present
+Maximum extent of DCIS:  10mm (slices 1 and 2)
+Nuclear grade:  intermediate
+Architecture: solid, cribriform
+Necrosis:   absent
+Calcification:   absent
+Degree of DCIS in tumour:    minimal
+DCIS in adjacent tissue:    present
+Excision Margins:  
+Invasive component:
+ Medial: 2.5mm (with intervening normal ducts, A8)
+ Other margins: > 10mm
+In-situ component:
+ Medial and deep: 5mm (with intervening normal ducts)
+ Superficial: 8mm
+ Other margins: >10mm
+Receptors: 
+ER:   positive
+	90% of nuclei stained
+	predominant intensity of staining:   moderate 
+PR:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:    strong  
+HER2 (Novocastra 10A7):  2+
+Ki67 index:  30%
+LCIS / ALH:   Absent
+Miscellaneous: A biopsy tract is seen adjacent to the lesion. The adjacent breast tissue shows fibrocystic change and a small radial scar.
+B. Sections show metastatic carcinoma measuring 3 mm in 1 out of 7 lymph nodes. There is no extranodal spread.
+C. Sections show 3 deposits of metastatic carcinoma, up to 9 mm in size in 1 out of 18 lymph nodes. There is no extranodal spread.
+
+DIAGNOSIS:
+A. Left breast hookwire guided wide local excision:
+- 4mm invasive ductal carcinoma NOS, grade 2, ER positive, PR positive, HER2 2+, SISH HER2 pending, Ki67 index 30%, 2.5mm medial margin, > 10mm other margins, no lymphovascular invasion
+- 10mm intermediategrade DCIS, 5mm medial and deep margins, 8mm superficial margin, other margins >10mm
+B. Left axillary lymph nodes level 2:  metastatic carcinoma in 1 out of 7 lymph nodes, no extranodal spread
+C. Left axilla contents: metastatic carcinoma in 1 out of 18 lymph nodes, no extranodal spread
+ADDITIONAL REPORT:  (28.8.63)
+Blocks were sent to BARMERA HEALTH SERVICES Hospital for Her2 ISH analysis, Dr K Arpin reports:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 2.2.
+Mean CEP17 copy number per cell:  2.0.
+HER2/CEP17 ratio:  1.1. 
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

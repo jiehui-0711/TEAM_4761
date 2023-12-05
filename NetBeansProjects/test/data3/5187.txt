@@ -1,0 +1,91 @@
+
+Episode No:  77J309802L
+7733098.CFL
+
+BRITTINGHAM, NELLY Garret 
+Lab No:  77J30980
+Behr
+BROKEN HILL  SA  5432
+Specimen: Tissue
+D.O.B:  26/7/2015
+Sex:  F
+Collected: 24/12/2065 at :
+Location:  QUEENSLAND CHILDREN'S HOSPITAL-PINNAROO SOLDIERS' MEMORIAL HOSPITAL
+DR Courtney Olethea Pigg
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast Ca.  Left breast lesion and sentinel node.  Left breast Ca - 3 o'clock 3cm from nipple.  Long suture - lateral, short - superior, medium - medial.
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary central lymph node" consists of a lymph node measuring 60mm in maximum dimension.  Serially sectioned and AE 2 blocks.
+B.  Specimen labelled "Left breast lesion" consistsof a piece of fibrofatty tissue measuring 65mm (medial to lateral) x 60mm (superficial to deep) x 30mm (superior to inferior).  There is a hookwire entering from the lateral aspect and protruding through the medial aspect of the breast.The specimen has been x-rayed.  The specimen is inked as follows:  Superior red, inferior green, superficial blue, deep black and serially sectioned from medial to lateral.  There is a soft tan tumour within slices six to eight measuring12 x 10 x 6mm.  The margins are as follows:  9mm superior, 11mm inferior, 3mm superficial, 22mm deep, approximately 30mm lateral and 60mm medial.
+Blocks:  1 - representative medial margin; 2 & 3 - slice two; 4 to 6 - slice five; 8 to 11 - slice six; 12 to 15 - slice seven; 16 to 18 - slice eight; 19 to 21 - slice nine; 22 to 25 - slice ten lateral margin.  (TO: NO; YP/rt 25.12.65); 26 to 28 -  slice three; 29 to 32 - slice four; 33 & 34 - remainder of slice one.  AE.  (TO: PB: JN/ta 28/12/65) 
+MICROSCOPIC (Reported by Dr T Yorck):
+Sections show a 16mm grade 1 infiltrating ductal carcinoma rising in association with encysted papillary carcinoma, as well as low to intermediate grade ductal carcinoma in situ (DCIS).  The infiltrating carcinoma is predominantly composed  of well formed tubules lined by cells with grade 2 nuclei and inconspicuous mitoses.  The invasive tumour is present adjacent to a 16mm circumscribed and partially encapsulated focus of encysted papillary carcinoma.  The latter is composed of complex arrangement of tubules and papillae lined by cells with monomorphic low to intermediate grade nuclei expanding a duct space.  There is either complete loss, or a significant reduction of myoepithelial cells around the perimeter of the proliferation as demonstrated with CK5/6 and P63 immunostains.  The encysted papillary carcinoma  involves adjacent branch ducts and merges with ducts showing low to intermediate grade DCIS.  Within the vicinity of the tumour there is admixed flat epithelial atypia and columnar cell hyperplasiawith superimposed architectural atypia equivalent to atypical ductal hyperplasia.  There are several outlying small intraduct papillomas, including one cut in several profiles, some of which are partially expanded by a monomorphic proliferation of epithelial cells equivalent to atypical ductal hyperplasia.  This papilloma extends to the superficial margin.
+Invasive carcinoma:
+Site: Left breast 3 o'clock, 3cm FN.
+Type:  Infiltrating ductal, NST
+Invasive tumour size:  Approximately 16mm (four consecutive slices)
+Grade (Modified Bloom & Richardson):  1
+Tubules: 2  Nuclei:  2  Mitoses:  1  Mitotic rate:  2 /10hpf.
+Lymphovascular invasion:  Not seen
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  Approximately 20mm (five consecutive slices)
+Nuclear grade:  Low to intermediate
+Architecture:  Cribriform and papillary
+Necrosis:  Not seen
+Calcification:  Not seen
+Excision Margins:
+Invasive component:
+Superficial:  0.8mm (block B18)
+Superior:  0.8mm (block B15 FF)
+Inferior:  7.5mm (block B11)
+Other margins:  Well clear (>10mm)
+Encysted papillary carcinoma
+Superficial:  5.5mm (B11)
+Inferior:  9mm (B11)
+Superior:  7mm (B13)
+Other margins:  Well clear >10mm
+Ductal carcinoma in situ
+Superior:  2mm (B11)
+Superficial:  2mm to inked margin, 1mm to diathermied stroma where margin clefted (B11)
+Other margins:Well clear.
+Atypical ductal hyperplasia.
+Superficial:  Positive (within a portion of an intraduct papilloma that extends to this margin)(B32).
+
+Receptors (Block B11):
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  Negative (0)
+HER2 SISH:  Performed at Southern IML Pathology, GLOUCESTER SOLDIERS MEMORIAL HOSPITAL Hospital, see separate report.
+Ki-67 index:  The Ki67 proliferation index is variable but focally measures up to 15% (Block B11)
+Nipple:  N/A
+LCIS / ALH:  Not seen
+Miscellaneous:  A spectrum of columnar cell lesions include columnar cell change, columnar cell hyperplasia, columnarcell hyperplasia with superimposed architectural atypia equivalent to ductal carcinoma in situ.  There are also several benign intraduct papillomas including one that extend to the superior margin and another that extends to the superficial margin.  Another small intraduct papilloma with atypical ductal hyperplasia extends to the  superficial margin.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Number of sentinel nodes with metastases >2.0mm:  0
+Number of sentinel nodes with metastases <2.0mm:  0
+	Detected by:
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0
+	Detected by:
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+
+
+DIAGNOSIS:
+Left breast (wide local excision) and sentinel lymph node.
+-  16mm grade 1 infiltrating duct carcinoma, NST, ER positive, PR positive, HER2 SISH (see separate report), no lymphovascular invasion, margins clear (superficial and superior 0.8mm)
+- Encysted papillary carcinoma, 16mm, margins clear
+- Low to intermediate grade DCIS, 20mm, margins clea
+-  Intraduct papilloma with atypical ductal hyperplasia at superficial margin.
+

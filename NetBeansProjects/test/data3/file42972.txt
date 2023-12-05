@@ -1,0 +1,110 @@
+SPR no: 12Q717096U
+MRN no: 0334666
+Site_name: CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple&amp;apos;s procedure for pancreatic uncinate process tumour.  PAF, back pain.  Common hepatic artery node.
+
+
+MACROSCOPIC:
+A. Specimen labelled:  Whipples
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&amp;apos;s resection), partial pancreatectomy
+
+Specimen dimensions:
+Length of duodenum: 175mm
+Length of lesser curve of stomach: 28mm
+Length of greater curve of stomach: 35mm
+Size of gallbladder: Not applicable
+Length of bile duct: 25mm (common bile duct)
+Maximum diameter of bile duct: 12mm
+Size of pancreas: 75 x 55 x 32mm
+
+Orientation: (provided on request form)
+Portal vein: One suture.
+Superior mesenteric artery: Two sutures.
+Uncinate process: Three sutures.
+Common bile/hepatic duct: No suture.
+
+Tumour location:
+Pancreatic head/uncinate process.
+
+Tumour:
+Description: Multilocular cystic lesion within the pancreatic head/uncinate process with cysts containing clear to haemorrhagic material.
+Tumour Size: 24 x 24 x 20mm.
+
+Distance of tumour to margins:
+Pancreatic neck: greater than 30mm.
+Common bile duct: greater than 40mm.
+Portal vein bed: 7mm.
+Superior mesenteric artery: 35mm.
+Uncinate process: 20mm.
+Proximal intestinal:  well clear.
+Distal intestinal margin: well clear.
+
+Distance of tumour to surfaces:
+Anterior: 5mm.
+Posterior: 10mm.
+
+Additional gross pathologic findings: The remaining pancreas appears to have a lobulated tan  and fatty appearance.  No other lesions are identified.  The gastric and small bowel mucosa appear unremarkable.  Multiple lymph nodes are identified in the attached fat.
+
+Specimen inked:
+Anterior: Red.
+Posterior: Yellow.
+Portal vein: Blue.
+Superior mesenteric artery: Black.
+Uncinate process: Green.
+Pancreatic neck margin:  Green.
+
+Blocks: 1 - gastric margin; 2 - distal small bowel margin; 3 - common bile duct margin; 4 &amp;amp; 5 - LS through pancreatic neck margin; 6 - lymph nodes identified in attached fat; 6 to 17 - all of pancreas embedded in big blocks from superior to inferior (7 - slice one; 8 &amp;amp; 9 - slice two; 10 - slice three including ampulla (not a full face section); 11 &amp;amp; 12 - slice four; 13 &amp;amp; 14 - slice five; 15 - slice six; 16 - slice seven; 17 - slice eight).
+
+B.  Specimen labelled &amp;quot;SMA lymph node&amp;quot;, consists of a lymph node measuring 12 x 9 x 7mm.  BAE 1 block.
+
+C.  Specimen labelled &amp;quot;Common hepatic artery lymph node&amp;quot;, consists of a lymph node measuring 15 x 8 x 6mm.  BAE 1 block.  (TO:AP/ta 6/5/70)
+
+MICROSCOPIC (Reported by Dr D Paravano):
+A. Sections of pancreas show a benign serous cystadenoma. The lesion is thinly encapsulated, and is composed of multiple cysts of varying sizes. The cysts are lined by a single-layer of cuboidal epithelium with bland ovoid nuclei and clear cytoplasm. There is no evidence of malignancy.
+Away from the lesion, the pancreas shows focal chronic pancreatitis. There are mildly dilated ducts lined by mucinous epithelium with hyperplastic changes (PanIN 1a). Focal squamous metaplasia is seen in a duct adjacent to the lesion.
+The stomach shows mild chronic gastritis. No Helicobacter pylori are seen on immunohistochemistry.
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Benign serous cystadenoma
+
+Microscopic tumour sites
+Uncinate process pancreas
+
+Maximum tumour diameter
+24mm
+
+Pre-invasive lesion
+Not identified
+
+Margins:
+Pancreatic neck:  &amp;gt; 30mm
+Common bile duct:  &amp;gt; 40mm
+Portal vein (superior mesenteric vein): 8mm (A15)
+Superior mesenteric artery: 5mm (A15)
+Periuncinate soft tissue: 6mm (A15)
+
+Surfaces:
+Anterior: 6mm (A11)
+Posterior: 5mm (A13)
+
+Lymph nodes:
+Number found: 27
+Number involved: 0
+
+B. Sections show a lymph node with no evidence of malignancy.
+
+C. Sections show a lymph node with no evidence of malignancy.
+
+
+DIAGNOSIS
+A. Whipple resection: 24mm benign serous cystadenoma, margins clear
+
+B. SMA lymph node: no evidence of malignancy
+
+C. Comment hepatic artery lymph node: no evidence of malignancy

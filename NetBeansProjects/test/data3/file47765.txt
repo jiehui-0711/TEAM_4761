@@ -1,0 +1,96 @@
+SPR no: 38N501074I
+MRN no: 3855010
+Site_name: KURRI KURRI DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 2 endometrioid adenocarcinoma of the endometrium.  Bilateral adnexal masses.  CA 125 1800, CEA 7.1.  On PET CT avid para aortic nodes.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of an ovary and fallopian tube with ovary measuring 60 x 45 x 30mm with serosa intact.  Fallopian tube measures 60mm.  Ovary is serially sliced and shows solid haemorrhagic cut surface.  Blocks: 1 and 2 - frozen section; 3 - fallopian tube; 4 to 8 - further sections through ovarian mass.
+
+B.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a ovary and fallopian tube with ovary measuring 50 x 32 x 32mm.  Serosa intact.  Fallopian tube measures 55mm.  The ovary is serially sliced and shows a haemorrhagic solid grey cut surface.  Blocks: 1 and 2 - frozen section; 3 - fallopian tube; 4 to 7 - further sections through ovary.
+
+FROZEN SECTION REPORT:
+A &amp;amp; B.  Adenocarcinoma, favour endometrioid.
+Phone results to Dr I Gregor by Dr I Richmann and Dr I Efird at 10:15am on 09/07/70
+
+C.  Specimen labelled &amp;quot;Right external iliac lymph node&amp;quot;, consists of a piece of oval shaped tan red tissue measuring 10 x 6 x 5mm.  Bisected AE 1 block for frozen section.
+
+FROZEN SECTION REPORT:
+C.  No evidence of malignancy.
+Phone results to Dr I Kimberley by Dr I Molgard and Dr I Floris at 10:15am on 07/10/67
+
+D.  Specimen labelled &amp;quot;Left common iliac lymph node&amp;quot;, consists of a piece of oval tan tissue 20 x 15 x 5mm with attached staple.  AE 1 block for frozen section.
+
+FROZEN SECTION REPORT:
+D.  No evidence of malignancy.
+Phone results to Dr I Dorcy by Dr I Berhalter at 11:08am on 07/10/69
+
+E.  Specimen labelled &amp;quot;Aortocaval lymph node&amp;quot;, consists of two pieces of tan tissue 25 x 11 x 6mm and 14 x 8 x 4mm.  AE 2 blocks for frozen section.
+
+FROZEN SECTION REPORT:
+E.  No evidence of malignancy.
+Phone results to Dr I Votaw by Dr I Tresvant at 11:40am on 10/10/70
+
+F.  Specimen labelled &amp;quot;Left para aortic lymph node&amp;quot;, consists of an oval piece of tissue 25 x 10 x 7mm with a separate fragment 7 x 5 x 3mm.  AE 1 block for frozen section
+
+FROZEN SECTION REPORT:
+F.  No evidence of malignancy.
+Phone results to Anaesthetist by Dr I Lair at 12:28pm on 07/09/66
+
+G.  Specimen labelled &amp;quot;Uterus and cervix&amp;quot;, consists of a uterus with attached cervix weighing 82 grams and measuring 69 x 55 x 35mm.  The cervix measures 38 x 30mm and has an unremarkable surface.  On opening the endometrial cavity is filled by an exophytic mass measuring 25 x 17mm located predominately on the posterior wall.  Tumour is seen 37mm from the cervix.  The tumour measures up to 6mm deep with possible invasion and lies on myometrium measuring up to 14mm thick.  The remaining endometrium measures 1mm thick.  Separate to the main tumour there is a polypoid lesion within the cervix measuring 8mm in maximal dimension.  No other lesions are identified.  Blocks: 1 to 3 - full LS through anterior body and cervix; 4 - anterior cervix with polyp; 5 to 7 - full LS through posterior body and cervix including tumour; 8 - further posterior wall with tumour and greatest ?invasion.
+
+H.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of omental fat measuring 400 x 260 x 15mm.  No nodes or masses are identified.  RS 3 blocks.
+
+I.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a vermiform appendix measuring 60 x 8mm with mesoappendix to a width of 25mm.  The serosal surface is smooth and shiny.  The wall measures 2 to 3mm thick and the lumen contains faecal material.  No lesions are identified.  Blocks: 1 - tip; 2 - mid TS; 3 - base.  All of appendix embedded.
+
+J.  Specimen labelled &amp;quot;Transverse mesocolon nodule&amp;quot;, consists of three pieces of irregular tan tissue measuring 2 to 4mm in maximal dimension.  AE 1 block. (TO:AP/vo 11/9/66)
+
+
+MICROSCOPIC (Reported by Dr I Rychlicki and registrar Dr I Scharmer):
+A &amp;amp; B.  Sections show grade 2 endometrioid adenocarcinoma of the ovary.  No endometriosis is seen.  The fallopian tubes show no significant abnormality.
+
+C.  The single (1) lymph node identified shows no significant abnormality. There is no evidence of malignancy.
+
+D.  The single (1) lymph node identified shows no significant abnormality. There is no evidence of malignancy.
+
+E.  The two (2) lymph nodes identified show no significant abnormality. There is no evidence of malignancy.
+
+F.  One (1) of the four (4) lymph nodes identified contains a single gland measuring 0.2mm across.  The epithelial is bland and has a different appearance to the tumour.  Some cells show possible cilia.  The gland is favoured to represent a focus of endosalpingiosis.  There is no evidence of malignancy.
+
+G.  Sections show grade 3 endometrioid adenocarcinoma of the endometrium.  Carcinoma invades to a depth of 6mm through a wall thickness of 18mm.  No lymphovascular invasion is seen.  The tumour lies within the fundus, well clear of the cervix.  The ectocervix and endocervix show no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block G7)
+
+MLH1          Loss of nuclear staining
+PMS2          Loss of nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+H.  Sections of the omentum show no significant abnormality.  There is no evidence of malignancy.
+
+I.  Sections of the appendix show no significant abnormality.  There is no evidence of malignancy.
+
+J.  Sections show benign mesothelial hyperplasia.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A - J.  Left and right ovaries, uterus and cervix, iliac and para-aortic lymph nodes, omentum and appendix:
+-   Grade 2 endometrioid adenocarcinoma of the left and right ovaries.
+-   Grade 3 endometrioid adenocarcinoma of the endometrium.
+-   Myometrial invasion to a depth of 6mm through a wall thickness of 18mm.
+-   No lymphovascular invasion identified.
+-   Cervix uninvolved.
+-   Eight negative lymph nodes
+-   Omentum and appendix negative.
+
+
+ADDENDUM (22/10/70):
+Additional immunohistochemistry for MSI proteins has been performed on the ovarian tumour (block B7) as requested with the following results:
+MLH1          Loss of nuclear staining
+PMS2          Loss of nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining

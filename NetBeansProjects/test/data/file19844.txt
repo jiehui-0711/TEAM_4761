@@ -1,0 +1,80 @@
+DateOfBirth
+199405140000
+
+
+SiteName
+WESTERN HEALTH - MELTON HEALTH
+
+
+FirstName
+Lahman
+
+
+SPRID
+57X529493G
+
+
+MRN
+5785294
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Essery
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+CLINICAL:
+High grade serous carcinoma probable ovarian. General clinical history: Advanced ovarian cancer awaiting neoadjunvant chemo, re-admitted with reaccumulation of ascites.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left ovary&amp;quot;, consists of two pieces of tissue, the larger 45 x 50 x 30mm, and the smaller 50 x 20 x 20mm. The larger has scanty attached fat and areas showing a smooth and shiny surface, focal cystic areas filled with serous fluid and one roughened surface with a papilliform appearance. Possible fallopian tube is identified, 25mm in length and 6mm in diameter. The smaller has an entirely papilliform appearance. Serially sectioned perpendicular to the long axis. The cut surface has a predominately solid appearance with focal cystic areas. The fallopian tube cannot be definitively identified. Serially AE. Blocks: 1 &amp;amp; 2 - LS of possible fimbria; 3 - to 17 - remaining sections of larger piece; 18 to 22 - sections of smaller piece. AE.
+
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of fatty tissue, 260 x 140 x up to 40mm, with a largely nodular and focally papilliform appearance. Serially sectioned perpendicular to the long axis. The cut surface has a diffuse, pale lesional appearance with focal areas of haemorrhage and possible necrosis. RS 3 blocks.
+(TO:LR/ta 9/1/71)
+
+
+MICROSCOPIC (Reported by Dr N Longbrake):
+A. Section show ovary and attached soft tissue with extensive residual high grade serous carcinoma, compatible with Mullerian origin. Focal treatment effect is seen in approx. 10% of the lesion. The lesion has a mixed solid, cystic papillary and glandular architecture, and is composed of epithelioid tumour cells with large pleomoprhic nuclei and prominent nucleoli. Psammoma bodies, giant tumour cells and slit-like spaces are seen. Fibrosis with inflammatory cells, necrosis and psammoma body aggregates are focally present, in keeping with treatment effect.
+
+Focal fallopian tube fimbria shows no evidence of serous tubal intraepithelial carcinoma.
+
+B. Sections show omental fat with extensive high grade serous carcinoma. Minimal focal treatment effect is seen in &amp;lt; 5% of the lesion.
+
+Chemotherapy Response Score (CRS)
+Score 1:  No or minimal tumour response (mainly viable tumour with minimal regression associated fibro-inflammatory changes)
+
+
+DIAGNOSIS:
+A. Left ovary: high grade serous carcinoma with focal treatment effect
+
+B. Omentum: high grade serous carcinoma with minimal treatment effect (CRS 1)
+
+
+
+
+
+
+SpecimenReceivedDate
+2792-10-15 00:00:00
+
+
+LastName
+Limon

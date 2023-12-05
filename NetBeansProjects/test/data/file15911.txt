@@ -1,0 +1,53 @@
+SPR no: 75F682008P
+MRN no: 752682
+Site_name: WESTERN HEALTH - BACCHUS MARSH
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Histopathology of uterus/ovaries/tubes.
+Only N endometrium sampled for study (posterior lower segment) KT.  Grade 2 endometrial cancer on curettings.  Pelvic lymph nodes HP.  Peritoneal washings cytology.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries, weighing 68g in total.
+
+The uterus with attached cervix measures 65 x 45 x 35mm and has a smooth and shiny serosal surface.
+
+The endometrium shows multiple nodules varying from 2 to 4mm in maximum dimension within anterior and posterior uterine cavity but no definite gross tumour is seen.  The myometrium is 15mm in maximum thickness.  The myometrium contains a fibroid nodule measuring 7mm across (block 13). The ectocervix measures 40 x 30mm and appears slightly tan around os but is otherwise unremarkable. On sectioning the endometrium is 2mm in maximum thickness.
+
+The right fallopian tube/fimbria is 60mm in length and 6mm in maximum diameter and appears unremarkable.  The right ovary measures 30 x 15 x 8mm and has unremarkable cut surface.  The left fallopian tube/fimbria measures 55mm in length and 6mm in diameter and appears unremarkable.  The left ovary measures 25 x 18 x 12mm and has an unremarkable cut surface.
+
+The anterior resection margin is inked blue and posterior inked black.
+
+Blocks: 1 to 3 - full LS anterior body and cervix towards right; 4 to 6 - full LS anterior body and  cervix towards left; 7 to 9 - rest of right anterior endometrium as per diagram; 10 to 16 - rest of left anterior endometrium as per diagram; 17 to 19 - full LS of posterior body and cervix towards left; 20 to 22 - full LS of posterior body and cervix towards right; 23 to 26 - rest of left posterior endometrium as per diagram; 27 to 30 - rest of right posterior endometrium as per diagram; 31 - RS right fallopian tube including fimbria and three TS; 32 &amp;amp; 33 - RS right ovary; 34 - RS left fallopian tube including fimbria and three TS; 35 &amp;amp; 36 - RS left ovary.  RS in 36 blocks.
+
+B.  Specimen labelled &amp;quot;Left obturator&amp;quot;, consists of an irregular piece of fibrofatty tissue measuring 15 x 12 x 5mm containing a lymph node, 10 x 8 x 5mm.  TAE 1 block.
+
+C.  Specimen labelled &amp;quot;Left external iliac&amp;quot;, consists of a lymph node, 14 x 10 x 4mm with small amount of attached fat, sectioned into four pieces.   AE 1 block.
+
+D.  Specimen labelled &amp;quot;Right obtruotor (sic)&amp;quot;, consists of an irregular piece of fibrofatty tissue measuring 30 x 20 x 10mm, containing a lymph node 15 x 10 x 5mm.
+Blocks: 1 - lymph node sectioned into four pieces; 2 - rest of fibrofatty tissue.  AE 2 blocks.
+
+E.  Specimen labelled &amp;quot;Right external iliac&amp;quot;, consists of a lymph node with a slight tinge of blue measuring 14 x 7 x 4mm.  Sectioned into four.  AE 1 block.
+
+F.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a segment of omental fat measuring 65 x 35 x 10mm.  Fat partially appears slightly firm and is partially congested.  No lymph node or gross lesion is seen.
+Blocks: 1 to 3 -  RS of the firm areas.  RS 3 blocks.  (TO:LN; LN/ta 19/12/66)
+
+
+MICROSCOPIC: (Reported by Dr S Ceranski)
+A.  Sections of cervix show no significant abnormality. The endometrium appears inactive with focal atypical tubal metaplasia (A26). There is a leiomyoma. The right and left ovaries and fallopian tubes show no significant abnormality. There are no atypical features. There is no evidence of residual in situ or invasive malignancy.
+B.  Sections of the left obturator lymph node show no evidence of malignancy (0/1).
+C.  Sections of the left external iliac lymph node show no evidence of malignancy (0/1).
+D.  Sections of the right obturator lymph node show a focus of endosalpingiosis and dystrophic calcification. There is no evidence of malignancy (0/1).
+E.  Sections of the right external iliac lymph node show no evidence of malignancy (0/1).
+F.  Sections show fragments of mature fibroadipose tissue consistent with omentum. There is focal mesothelial cell proliferation. There are no atypical features. There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Uterus, ovaries and fallopian tubes: Inactive endometrium with focus of atypical tubal metaplasia. No diagnostic evidence of residual in situ or invasive carcinoma.
+
+B.  Left obturator lymph node: No evidence of malignancy (0/1).
+
+C.  Left external iliac lymph node: No evidence of malignancy (0/1).
+
+D.  Right obturator lymph node: Focal endosalpingiosis and dystrophic calcification. No evidence of malignancy (0/1).
+
+E.  Right external iliac lymph node: No evidence of malignancy (0/1).
+
+F.  Omental biopsy: No evidence of malignancy.

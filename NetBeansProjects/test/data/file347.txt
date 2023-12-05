@@ -1,0 +1,56 @@
+SPR no: 65V015471B
+MRN no: 658015
+Site_name: CASTERTON MEMORIAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  65V015471B
+658015.KTE
+
+BURRELLI, BOYD
+Lab No:  65V01547
+Dugard
+KURRI KURRI  NT  4170
+Specimen: Tissue
+D.O.B:  29/5/1985
+Sex:  M
+Collected: 23/9/2064 at :
+Location:  Laverty Pathology-CENTRAL HIGHLANDS RURAL HEALTH - DAYLESFORD
+DR JAMEL LEROY BURGOA
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Lung cancer.  Left lower lobe.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Lower lobe&amp;#8221;, consists of a lung lobectomy specimen 150 x 120 x 50mm. The pleural surfaces are smooth.  The bronchial margin is inked blue after shaving the true margin. On sectioning there isa well defined pale solid tumour within the upper half of the lung lobe measuring 23 x 21 x 21mm.  The tumour is very close to the anteromedial pleural surface.  The tumour is 30mm from the bronchial resection margin. The remainder of the lung parenchyma appears unremarkable.
+Blocks 1 &amp;amp; 2 &amp;#8211; shaved bronchial margin; 3 &amp;#8211; shaved hilar vessels (? arterial margin);
+4 - ? peribronchial lymph node; 4 - ? peribronchial lymph node; 5-7 &amp;#8211; consecutive sections tumour in relation to the bronchial margin after removing the true margin; 8 &amp;amp; 9 &amp;#8211; paired sections of tumour (VVG, DiPAS requested on block 8); 10 &amp;#8211; section of tumour (reserved block); 11 &amp;#8211; section of tumour; 12 &amp;#8211; lung parenchyma away from tumour.
+B.  Specimen labelled &amp;#8220;Inferior pulmonary ligament lymph nodes&amp;#8221;, consists of a specimen of lymph node and attached fatty tissue 30 x 15 x 6mm.  The lymph node is 18mm in maximum dimension.  Block 1- one bisected lymph node.
+C.  Specimen labelled &amp;#8220;Posterior medial stenial (sic) lymph node&amp;#8221;, consists of a 14 x 10 x 10mm lymph node. BAE 1 block.
+D.  Specimen labelled &amp;#8220;AP window lymph node&amp;#8221;, consists of a piece of yellow/red solid tissue 15 x 9 x 3mm. AE 1 block.  (TO: HM;HM/ec 24.8.64)
+
+MICROSCOPIC: (Reported by A/Prof R Pitfield)
+SYNOPTIC REPORT FOR INVASIVE LUNG CARCINOMA
+
+Specimen type:  Left lower lobectomy
+Topography:  Leftlower lobe
+Tumour location:  Peripheral
+Tumour size:  23mm (macroscopic measurement)
+Tumour type (IASLC/ATS/ERS classification 2011):  Squamous cell carcinoma
+Histological grade:  Moderately (and focally poorly) differentiated
+Vessel invasion:  No definite vascular invasion is identified, although tumour infiltrates close to the wall of several large vessels.
+Perineural invasion:  A small focus which is suspicious for perineural invasion is seen adjacent to the wall of a large vessel in a section taken near the bronchial margin.
+Pleural involvement:  Carcinoma extends extremely close to the pleural surface but the elastic lamina appears intact in the Verhoff stained section on block A8. There is an area of pleural fibrosis and inflammation in a further section and elastic stains are in progress on this separate block.
+Resection margin:  Thebronchial and vascular resection margins are free of tumour.
+Non-neoplastic lung:  No significant abnormality.
+Lymph nodes:
+Peribronchial lymph node (specimen A); no evidence of malignancy in one node (0/1)
+Inferior pulmonary ligament lymph node (specimen B): no evidence of malignancy (0/2)
+Posterior mediastinal lymph node (specimen C): no evidence of malignancy (0/1)
+AP window lymph node (specimen D): no lymph node identified.
+
+DIAGNOSIS:
+LEFT LOWER LOBE: SQUAMOUS CELL CARCINOMA.
+TUMOUR VERY CLOSE TO PLEURAL SURFACE. FURTHER STAINS IN PROGRESS
+NO EVIDENCE OF LYMPH NODE MESTASTASIS.
+(1)  Travis et al.  International Association for the Study of Lung Cancer/American Thoracic Society/European Respiratory Society International Multidisciplinary Classification of Lung Adenocarcinoma.  Journal of Thoracic Oncology 2011, 6(2), p.244
+***** SUPPLEMENTARY REPORT &amp;#8211; SEE BELOW *****
+7/10/67: The Cancer Institute NSW requested a supplementary report for the additional elastic stains whichwere performed at the time of original reporting. As reported above, the tumour extends very close to the pleural surface but there is an apparent  thin rim of elastic tissue around the periphery of the tumour.

@@ -1,0 +1,96 @@
+DateOfBirth
+202303030000
+
+
+SiteName
+LAIDLEY HOSPITAL
+
+
+FirstName
+Denbow
+
+
+SPRID
+26P463184F
+
+
+MRN
+2654631
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+Balbas
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+26P46318 (26P463184F) CABAL, JUAN HARLAN
+
+HISTOPATHOLOGY REPORT:
+SUPPLEMENTARY REPORT 24/3/68
+
+HISTORY:
+Liposarcoma.
+
+MACROSCOPIC:
+&amp;quot;RETROPERITONEAL LIPOSARCOMA&amp;quot;.   Received fresh.
+Post fixation assessment: A soft tissue mass 570x500x180 mm weighing 9152 grams. The anterior surface is lobulated and smooth with an adherent segment of large bowel 120 x 40mm. The posterior surface is ragged and includes a kidney 120x65x35 mm with attached ureter 140x4mm and adrenal gland 40x20x15 mm. The mass comprise lobules of firm yellow tumor with variable cut surface including white and firm areas, myxoid areas and bright yellow areas. There are also focal pearl like hard areas (? cartilaginous).  Tumor necrosis is present and comprises 25% of the cut surface. The tumour invades into renal sinus fat which has a pale cut surface and pushes the renal pelvis. It also invades into the adipose tissue adjacent to the adrenal gland. The fat lobules show pushing invasion of the the large bowel wall with no definite intraluminal involvement. The anterior surface is inked blue the posterior resection margin is inked black.
+
+Received separately a right hemicolectomy specimen consisting of terminal ileum 60mm, caecum and ascending colon 80mm with attached mesentry and mesocolon up to 50mm. The appendix is unremarkable 75x8 mm. The serosal surface is unremarkable. No polyps or tumors are identified. Focal bulky mesenteric fat lobule is seen with unremarkable cut surface.
+
+There is a separate length of small bowel 170mm in length and up to 25mm in width with  stapled margins.  The serosal surface is unremarkable.  There is mesentery up to 15mm in thickness attached.  The opened mucosal surface is unremarkable.
+
+(1-6  initial blocks representative tumour; 7 tumour for tissue banking)(ZH 24/2/2067 km). Post fixations blocks ( 8 kidney resection margins; 9 kidney at hilum; 10 tumor pushing renal pelvis; 11 tumor into kidney parenchyma; 12 tumor with adrenal gland; 13-17 posterior resection margin; 18&amp;amp;19 ? cartilage area within tumor- no margins; 20 anterior adherent large bowel resection margins (prox and distal); 21-25 tumor with anterior resection margin; 26 thick white tumor area- no margin; 27 right hemicolectomy resection margin; 28 bulky mesentery with caecal wall) RS (M-28/ZH/1.2.67).
+
+Further blocks:
+(29&amp;amp;30 appendix [29 tip and one TS, 30 base and one TS]; 31-33 RS left small bowel [31 one resection margin, 32 other resection margin, 33 RS). RS (M-33/MY 2/2/2067 nh)
+
+MICROSCOPIC:   (Dr F Sundby)
+Sections confirm the clinical diagnosis of liposarcoma.  The tumour has been extensively sampled, and the morphology varies from areas of well differentiated (lipoma-like) liposarcoma to areas of high grade sarcoma. These well differentiated and high grade areas are often intimately admixed. The morphology of the high grade areas varies from myxoid areas with admixed highly atypical often multinucleated stromal cells resembling high grade myxofibrosarcoma. Other areas are characterised by more fibrous to frankly sclerotic stoma containing numerous markedly atypical multinucleated cells with scattered mitotic acitviity (1 per 10hpf) and multi-vacoulated cytoplasm. Some of these multinucleated cells resemble floret cells (pleomorphic liposarcoma-like). Others have appearances suggestive of rhabdoid/myogenic differentiation (possible heterologous differentiation). There are areas of tumour necrosis.  A panel of immunostains show that the lipoblasts are positive for S100, and the pleomorphic cells in the de-differentiated components are positive for desmin.  Smooth muscle actin and CD34 highlight the vascular component of the tumour and cytokeratin Cam 5.2 is negative.
+
+In most of the sections, the tumour is characterised by a circumscribed un-encapsulated edge.  Anteriorly, tumour abuts the peritoneal (mesothelial) surface as well forms the anterior non-peritonealized surgical margin with no intervening normal tissue.  Tumour also forms the posterior surgical margin in a number of sections with no intervening normal tissue.  The tumour focally infiltrates the outer muscularis propria of the encased segment of large bowel, but does not infiltrate mucosa or submucosa, and the mucosal resection margins of this segment are not involved.  The liposarcoma also partially encases the kidney without renal parenchymal involvement.
+
+Sections of the kidney show very occasional sclerotic glomeruli and small hyalinised renal tubular foci suggestive of chronic pyelonephritis.  Sections of the renal pelvis and ureter are unremarkable. Sections of the ureteric and vascular kidney resection margins are unremarkable.
+
+Sections of the appendix show fibrosis of the lumen at its tip. Sections of the small and large bowel resection margins from the right hemicolectomy component are unremarkable. Sections of the separately received length of small bowel show foci of serosal inflammation, but no evidence of malignancy.
+
+Comment: In this site, an adipocytic tumour with well and poorly differentiated areas almost certainly represents a de-differentiated liposarcoma. Sections will be referred for MDM2 and CDK4 ISH and a further report will follow.
+
+DIAGNOSIS:
+RETROPERITONEAL TUMOUR -
+-  LIPOSARCOMA WITH BOTH WELL DEDIFFERENTIATED AND POORLY DIFFERENTIATED COMPONENTS, FAVOUR DE-DIFFERENTIATED LIPOSARCOMA.
+- TUMOUR FOCALLY ENCASES A SEGMENT OF LARGE BOWEL AND THE ANTERIOR ASPECT OF THE KIDNEY.
+-  CIRCUMSCRIBED UNENCAPSULATED TUMOUR MARGIN FORMING ANTERIOR AND POSTERIOR SURGICAL MARGINS
+- ISH AND FURTHER REPORT TO FOLLOW.
+
+5/3/2068 nh
+
+SUPPLEMENTARY REPORT 24/3/68
+Please see separate report for MDM2 and CDK4 FISH both reported as &amp;quot;amplification DETECTED&amp;quot;. This finding supports the favoured diagnosis of DE-DIFFERENTIATED LIPOSARCOMA.
+
+
+
+
+
+SpecimenReceivedDate
+2569-06-06 00:00:00
+
+
+LastName
+Van

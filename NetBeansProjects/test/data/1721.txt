@@ -1,0 +1,27 @@
+
+ 8183555.PRK
+Emigh, Winston LORENZA
+81U35555,81U35555
+
+Last edited : 22/8/2064		Page: 2
+CLINICAL:
+Endometrial cancer.  Normal BMI.  Laparoscopic cholecystectomy.
+MACROSCOPIC:
+Specimen labelled "Uterus, cervix, bilateral tubes and ovaries" consists of a uterus with cervix and bilateral fallopian tubes and ovaries weighing 76g.  The uterus with cervix is 75 x 45 x 30mm.  The ectocervix is 25 x 20mm.  The uterine serosa is smooth, grey and shiny.  The entire endometrial cavity is distorted by an exophytic tan tumour 40 x 35 x 20mm.  The tumour is clear of the lower uterine segment.  The tumour is predominantly centred on the posterior uterine body wall.  The tumour appears to infiltrate into the outer half of the myometrium with a maximum depth of invasion of 15mm, with a maximum myometrial thickness of 16mm.  The right ovary is 25 x 10 x 5mm and the right fallopian tube is40mm in length.  The left ovary is 25 x 10 x 10mm and the left fallopian tube is 45mm in length.  Both ovaries and fallopian tubes are unremarkable.
+Blocks:  1 to 3 - full LS of anterior body and cervix; 4 to 7 - full LS of posterior body and cervix; 8 - posterior body tumour; 9 - right fallopian tube and ovary; 10 - left fallopian tube and ovary.  (AL/rt 20.8.64)
+MICROSCOPIC (Reported by Dr V Titmus):
+Sections of uterus show a moderately differentiated endometrioid adenocarcinoma (grade 2).  The carcinoma shows architectural grade 2 with solid areas (less than 10%).  The tumour cells show nuclear grade 2.  There is myometrium invasion.  The maximum depth of myometrium invasion is 15mm outof a total myometrial thickness of 16mm (slide 8).  The tumour is within the uterine corpus and is completely excised.  The endocervix and cervix are unremarkable.  There is no evidence of lymphovascular invasion.  The rest of endometrium is atrophic and shows no significant abnormality.  The myometrium is unremarkable.  The uterine serosa is unremarkable.  Both fallopian tubes are unremarkable.  Bothovaries are unremarkable.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is: 6
+
+The case is shown to Dr V Haare.
+DIAGNOSIS:
+Uterus, cervix, tubes and ovaries - Endometrioid adenocarcinoma (grade 2).
+

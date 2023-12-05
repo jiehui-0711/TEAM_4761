@@ -1,0 +1,47 @@
+SPR no: 16A427599Y
+MRN no: 16042759
+Site_name: FAIRFIELD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report16A42759 (16A427599Y) FRANCESCONE, FERNANDO
+HISTOPATHOLOGY REPORT
+BALMAIN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Previous appendix cancer.  Frozen section.  Liver segment 2/3. Omentum.
+Metastatic low-grade appendix adenocarcinoma.
+
+MACROSCOPIC:
+A. &amp;quot;ILEOCOLIC LYMPH NODE&amp;quot;. A piece of firm, fatty tissue ?small lymph node tissue is identified. Representative sections show firm, fatty tissue, taken for frozen section.
+(1 frozen section; 2-5 remainder tissue). AE (M-5)
+
+Frozen section report: &amp;quot;Small reactive lymph node&amp;quot; result to Andrea Chancellor 11:15AM by Dr E Boulch.
+
+B. &amp;quot;OMENTUM + LIVER SEGMENT 2 AND 3&amp;quot;. A segmental liver resection, 269g, measuring 150x65x5mm. The surgical resection margin is inked blue. The specimen is serially sliced. Two discrete lesions are identified. The largest measures 17x17x13mm. It is pushing the overlying capsule and located 13mm of the nearest surgical resection margin. The second yellow lesion is identified, 25mm from the larger lesion, measuring 10x8x8mm, located 6mm from the capsule and 7mm of the nearest surgical resection margin. The remainder liver cut surface is unremarkable.
+(1 normal liver; 2 and 3 continuous, full face, larger lesion; 4 full face, larger lesion; 5 and 6 each one TS, smaller lesion)
+
+Received a separate fibrofatty piece of tissue consistent with omentum, measuring 200x70x30mm. Multiple adhesions are identified on the outer surface. No tumour nodules are seen. (7-10 omentum). RS (M-10/ZHcy)
+
+MICROSCOPIC: E Hoeflich
+
+A. Sections show fat with several small benign lymph nodes.
+
+B.  The liver shows two localised lesions (17 mm and 10 mm diameter) with features of focal nodular hyperplasia. These lesions stain appropriately with glutamine synthetases and CD34 by Immunostains and have typical histology.
+
+The adjacent liver shows moderate fatty change and minor nonspecific reactive changes. There is no chronic hepatitis and no liver fibrosis. Stainable iron is not increased. No DPAS positive inclusions. No stainable copper.
+
+The omentum has some small surface fibrous adhesions.
+
+Negative for malignancy.
+
+DIAGNOSIS:
+
+A. ILEOCOLIC LYMPH NODE:
+- fat with small benign lymph nodes.
+B. LIVER SEGMENT 2 and 3, OMENTUM:
+Liver:
+- focal nodular hyperplasia, two lesions 17 mm and 10 mm diameter,
+- background liver shows moderate fatty change,
+Omentum:
+- small surface fibrous adhesions.
+Reported by Dr SAMMIE Wendolski (16 04275999)  28/10/2067

@@ -1,0 +1,88 @@
+DateOfBirth
+202412140000
+
+
+SiteName
+PROSERPINE HOSPITAL
+
+
+FirstName
+Cissell
+
+
+SPRID
+50U1350161
+
+
+MRN
+5071350
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+Arroliga
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+50U13501 (50U1350161) TRUMBLEY, LOYD LANCE
+
+HISTOPATHOLOGY REPORT
+LONGREACH HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Metastatic signet cell adeno ca pat R hemicolectomy.
+
+1.   Re-do right hemicolectomy.
+2.   Spleen.
+3.   Omentum.
+4.   Right diaphragm stripping.
+5.   Pelvic peritonectomy bladder strip.
+
+MACROSCOPIC:
+&amp;quot;RIGHT HEMICOLECTOMY, SPLEEN, OMENTUM, PERITONECTOMY&amp;quot;.   A 403g spleen dimension 150mm superior to inferior, 120mm anterior to posterior, 65mm medial to lateral.   Multiple 2-4mm diameter irregularly-shaped raised white lesions on the capsule surface on the lateral, medial and posterior surfaces.   Sectioning reveals lesions remain in the capsule and the remainder of the parenchyma is unremarkable.
+
+(1-3  spleen capsule with lesions; 4  normal spleen parenchyma).
+
+A 400mm long right hemicolectomy with terminal ileum making up 350mm of its length.   The attached mesentery, pericolic fat and possible portion of omentum is distorted in anatomy due to adhesion, maximum width 100mm.   Proximal margin inked blue, distal margin inked black.   Serosa tan and unremarkable.   Mucosa has normal folds, no diverticula or polyps identified.   Previous anastomosis stapled line identified at the junction of the terminal ileum with the large bowel.   No appendix identified.   A 30x25x22mm round firm nodule 45mm from the serosa of the terminal ileum identified in the attached mesenteric fat.   Cut surface is golden yellow with fibrous bands creating lobules ?tumour ?fat necrosis.   Sectioning of pericolic fat reveals areas of yellow fat lobules mixed with clear gelatinous lobules.   Possible apical lymph node and multiple other lymph nodes identified.
+
+Multiple pieces of fibrofatty tissue 350x300x20mm in aggregate.   Surface has multiple 1-12mm diameter firm nodules with several coalescing together.   Sectioning reveals fibrous tissue with areas of thickening and dark brown glistening gelatinous mucoid surface.   One possible lymph node identified.   Remainder multiple fatty tissue consistent with omentum,  330x275x30mm in aggregate.   Cut surface reveals patchy areas of dark brown discolouration.
+
+(5  proximal and distal right hemicolectomy; 6  normal small bowel; 7&amp;amp;8  composite of ?tumour ?fat necrosis of hemicolectomy; 9  glistening fat from hemicolectomy; 10  possible apical lymph node; 11  three possible lymph nodes; 12-14  fibrous tissue; 15  lymph node from fibrous tissue; 16-20   omental fatty tissue).   Representative sections. (M-20/BM 10/3/2070 km).
+
+
+
+MICROSCOPIC:  (Dr P Sollenberger)
+Histology shows multiple deposits of extracellular mucin which are partially organised which are found in serosal and omental fat with adjacent some foci of fat necrosis. Within these mucinous deposits are ghost-like outlines of small clusters of necrotic tumour cells, (presumed chemotherapeutic effect), the morphology of which cannot be discerned due to the advanced necrosis present. Otherwise, the mucosa of the small intestine and colon appears unremarkable. Mucinous deposits are also seen overlying fibrous fascial tissue with an adjacent skeletal muscle (? diaphragm) and other pieces of peritonealised tissue. No evidence of malignancy is seen in four nodes. The spleen is relatively unremarkable with mild capsular fibrosis but no serosal deposits of mucinous tumour. No viable tumour cells are seen.
+
+DIAGNOSIS:
+RIGHT HEMICOLECTOMY, SPLEEN, OMENTUM, PERITONECTOMY
+- MULTIPLE SEROSAL &amp;amp; PERITONEAL DEPOSITS OF EXTRACELLULAR MUCIN CONTAINING NECROTIC TUMOUR CELLS; NO VIABLE MALIGNANCY PRESENT.
+
+11/4/2070 cy
+
+
+
+
+
+SpecimenReceivedDate
+2792-10-20 00:00:00
+
+
+LastName
+Denegre

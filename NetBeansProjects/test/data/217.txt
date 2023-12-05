@@ -1,0 +1,43 @@
+
+Episode No:  80M352825Z
+8043528.HNZ
+
+RAMLAKHAN, GENE 
+Lab No:  80M35282
+Eureka
+MEEKATHARRA  NSW  4474
+Specimen: Tissue
+D.O.B:  23/10/2027
+Sex:  F
+Collected: 27/11/2063 at :
+Location:  Anatomical Pathology - CALVARY MATER NEWCASTLE
+DR KALLIE YUETTE SILOS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Cervical cancer.  Radical hysterectomy and PLND.
+MACROSCOPIC:
+A.  Specimen labelled "Uterus and cervix" consists of a uterus with attached cervix weighing 58g in total.  The uterus measures 70 x 50 x 28mm and has a smooth shiny serosal surface.  The ectocervix measures 37 x 32mm and has a puckered surface.  On the anterior cervix there is haemorrhagic discoloration at the cervical os.  This is over an area of 15 x 10mm.  On sectioning the endometrium is 2mm in maximum thickness and the myometrium is 14mm in maximum thickness.  The myometrium is unremarkable.
+Blocks:  1 to 3 - full LS of anterior body and cervix; 4 to 7 - anterior left cervix; 8 to 12 right cervix; 13 to 15 - full LS section of posterior body and cervix; 16 to 18 - posterior right cervix; 19 to 21 - posterior left cervix.  CervixAE.  Please see diagram.
+B.  Specimen labelled "Right external iliac lymph node" consists of a piece of fibrofatty tissue measuring 52 x 25 x 10mm.  There are lymph nodes identified from 2 to 20mm in maximum dimension.
+Blocks:  1 & 2 - lymph nodes; 3 - one lymph node trisected.
+C.  Specimen labelled "Left external iliac node" consists of a piece of fibrofatty tissue measuring 55 x 15 x 10mm.  There are lymph nodes identified from 2 to 12mm in maximum dimension.
+Blocks:  1 - lymph nodes; 2 - one lymph node bisected; 3 - one lymph node trisected.
+D.  Specimen labelled "Right common iliac lymph node" consists of a piece of fibrofatty tissue measuring 15 x 12 x 6mm.  There is one lymph node identified measuring 5mm in maximum dimension.  AE 1 block.
+E.  Specimen labelled "Left common iliac lymph node" consists of a piece of fibrofatty tissue measuring 18 x 12 x 8mm.  There is a lymph node identified measuring 5mm in maximum dimension.  AE 1 block.
+F.  Specimen labelled "Right obturator lymph node" consists of two pieces of fibrofatty tissue measuring 25 x 10 x 8mm and 25 x 10 x 4mm. Lymph nodes are identified from 3 to 8mm in maximum dimension. AE.
+Blocks:  1 & 2 - lymph nodes; 3 - one lymph node bisected.
+G.  Specimen labelled "Left obturator lymph node" consists of a piece of fibrofatty tissue measuring 40 x 18 x 10mm.  There are lymph nodes identified from 5 to 10mm in maximum dimension.
+Blocks:  1 - lymph nodes; 2 - one lymph node bisected; 3 - one lymph node trisected.
+(TO: BB; FF/rt 28.11.63)
+MICROSCOPIC (Reported by Dr W Notis):
+A.  Sections show residual moderately differentiated adenocarcinoma of the endocervix (blocks 10 & 11) with a depth of 6.8mm through a wall 10.5mm thick, a length of 5mm and an approximate width of 6mm.  No lymphvascular invasion is seen.  There is no CIN or AIS.  Adenocarcinoma extends to within 5mm of the vaginal margin.
+The endometrium is proliferative.  The myometrium is unremarkable.
+B.  Five lymph nodes show no evidence of malignancy.
+C.  Four lymph nodes show no evidence of malignancy.
+D.  One lymph node shows no evidence of malignancy.
+E.  One lymph node shows no evidence of malignancy.
+F.  Three lymph nodes show no evidence of malignancy.
+G.  Four lymph nodes show no evidence of malignancy.
+DIAGNOSIS:
+Residual endocervical adenocarcinoma, depth 6.8mm through a wall 10.5mm thick, length 5mm, estimated width 6mm.  No lymphvascular invasion.  Eighteen (18) lymph nodes are negative.
+

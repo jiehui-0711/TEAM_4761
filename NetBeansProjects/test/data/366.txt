@@ -1,0 +1,63 @@
+
+Episode No:  08Q657668M
+086657.QRV
+
+ROWLING, JAMAL 
+Lab No:  08Q65766,08Q65766
+Valley Cresent Valley
+PERTH  Australian Capital Territory 6015  5582
+Specimen: Washings,Tissue
+D.O.B:  17/1/1995
+Sex:  F
+Collected: 10/5/2063 at :
+Location:  DICKINSON 3 SOUTH-WELLINGTON HEALTH SERVICE
+DR MAGAN SHANAYA GARALA
+Distribution:   FILE-COPY, DR Moskovitz,   NSW-CANCER-REGISTRY, DR Dowdall
+SUPPLEMENTARY REPORT (1.5.63):
+
+
+CLINICAL:
+Left ovarian mass (complex).  Ca 125 = 24.  
+MACROSCOPIC:
+A.  Specimen labelled "Ovarian mass" consists of a partially collapsed haemorrhagic unilocular cyst 150 x 120 x 18mm with fallopian tube measuring 55 x 50 x 15mm.  The inner lining of the cyst shows papillae over approximately 25% of the cyst wall.  The papillaeappear haemorrhagic and ?necrotic.  The outer surface is smooth.  
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 to 17 - representative sections of the ovarian cyst wall; 18 & 19 - composite blocks TS through presumed fallopian tube; 20 & 21 - composite blocks TS through tube; 22 & 23 - composite blocks TS through tube; 24 & 25 - transverse section through tube; 26 & 27 - LS's tube and fimbria; 28 to 31 - sections of peritubular tissue.   
+FROZEN SECTION REPORT:
+Suspicious of clear cell carcinoma (Torsion making diagnosis difficult).
+Result toDr Stadelman by Dr B Letko on 8/3/13 at 14.30pm.
+B.  Specimen labelled "Right ovary, tube, uterus and cervix" consists of a uterus with attached cervix, right fallopian tube and right ovary weighing 85.7g in total.  The uterus measures 65 x 45 x 25mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 20mm and has an unremarkable surface.  On sectioning the endometrium is 2mm in maximum thickness and the myometrium is 20mm in maximum thickness.  The myometrium is unremarkable.  The right fallopian tube measures 45mm in length and 10mm in maximum diameter.  The right ovary measures 45 x 45 x 35mm and consists of a uniloculated cystic structure.  On sectioning there is thickened area of the cyst ?ovarian tissue which measures 20 x 10mm.  The remainder of the cyst is smooth.
+Blocks: 1 to 4 - full TS through centre of uterus; 5 - LS of the posterior half of the uterus in three sections; 6 & 7 - TS with presumed tubular tissue; 8 & 9 - LS through fimbrial end of tube; 10 to 14 - representative sections of ovary.
+C.  Specimen labelled "Right ovarian pedicle" consists of a piece of grey membranous tissue measuring 25 x 30 x 1mm with attached fatmeasuring 65 x 30 x 10mm.  
+Blocks: 1 & 2 - membranous tissue; 3 to 5 - remaining fibroadipose tissue.  
+D.  Specimen labelled "Upper left para-aortic node" consists of adipose tissue measuring 35 x 20 x 10mm.
+Blocks: 1 - onelymph node bisected; 2 - one lymph node bisected; 3 - remaining tissue.  
+E.  Specimen labelled "Left pelvic node" consists of adipose tissue measuring 30 x 15 x 15mm
+Blocks: 1 - one lymph node; 2 - two lymph nodes.  
+F.  Specimen labelled "Para caval node" consists of adipose tissue measuring 35 x 20x 10mm.
+Blocks: 1 - one lymph node bisected; 2 - two lymph nodes. 
+G.  Specimen labelled "Para-aortic node" consists of fibroadipose tissue measuring 40 x 30 x 15mm.
+Blocks: 1 - two lymph nodes; 2 - four lymph nodes; 3 - three lymph nodes.  
+H.  Specimen labelled "Omentum" consists of adipose tissue measuring 300 x 75 x 40mm.
+Blocks: 1 - four possible lymph nodes; 2 & 3 - representative fat.   (DN/ta 13/5/63) 
+MICROSCOPIC (reported by Dr B Postlewaite):
+A.  Sections show a cystic ovary with clear cell carcinoma on the inner aspect of the cyst.  The attached fallopian tube shows no significant abnormality.  
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive and shows a benign endometrial polyp.  The myometrium shows focal adenomyosis.The right ovary contains a mixed mucinous and serous cystadenoma.  The fallopian tube shows no significant abnormality.  There is no evidence of malignancy.  
+C.  Sections of fibroadipose tissue show no significant abnormality.  There is no evidence of malignancy. 
+D.  The five (5) lymph nodes identified show evidence of malignancy.  
+E.  The three (3) lymph nodes identified show no evidence of malignancy.  
+F.  The three (3) lymph nodes identified show no evidence of malignancy.  
+G.  The nine (9) lymph nodes show no evidence of malignancy.  
+H.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.  
+DIAGNOSIS:
+A - H.  Left ovarian mass, right ovary, uterus and cervix, bilateral fallopian tubes, lymph nodes and omentum:
+-  Clear cell carcinoma of left ovary.
+-  Benign cyst of right ovary.
+-  Twenty (20) negative lymph nodes.
+-  Omentum negative.
+SUPPLEMENTARY REPORT (1.5.63, Dr B Ellison):
+Stains for mismatch repair have been performed as requested.
+MLH1:   Preserved nuclear staining
+MSH2:  Preserved nuclear staining
+MSH6:   Preserved nuclear staining
+PMS2:   Preserved nuclear staining
+Comment:  Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2, and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

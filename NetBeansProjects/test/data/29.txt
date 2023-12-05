@@ -1,0 +1,106 @@
+
+Episode No:  73A163106J
+730163.FBQ
+
+VITKUS, CLAUDE JOANIE 
+Lab No:  73A16310
+Coppertree
+MURRAY BRIDGE  WA  3494
+Specimen: Tissue
+D.O.B:  30/4/2009
+Sex:  F
+Collected: 07/11/2013 at 14:22
+Location:  L7 CONSULTING ROOMS-MACKAY BASE HOSPITAL
+DR LONNY FERDINAND VISOUNNARAJ
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast carcinoma.  Hypertension, dyslipidaemia, glucose intolerance.  Wide local excision right breast.  Lesion in upper outer quadrant.  Sutures: long =lateral, short =superior, medium = medial. Sentinel lymph nodes, non-sentinel axillary node and axillary tissue.  
+MACROSCOPIC:
+A.   Specimen labelled "Right breast tissue long lateral, medium medial, short superior", consists of a piece of fibrofatty tissue measuring 50mm medial to lateral, 52mm superior to inferior and 40mm superficial to deep.  There are three marking sutures (medium medial, short superior, long lateral).  The specimen is inked as follows: deep blue, superficial black, lateral green, medial red and serially sectioned into nine slices.  On sectioning there is a stellate, tan tumour with areasof haemorrhage measuring approximately 25 x 15 x 20mm. The lesion margins are as follows: 7mm deep, 3mm superficial, 10mm lateral, 15mm medial, 20mm inferior and 20mm superior.  The rest of the tissue looks unremarkable.  Specimen AE.  
+Blocks 1-5 - superior margin, slice 1; 6-9 - slice 2; 10-13 - slice 3; 14-17 - slice 4; 18-21 - slice 5; 22-25 - slice 6; 26-28 - slice 7; 29-31 - slice 8; 32-35 - inferior margin slice 9. 
+B.   Specimen labelled "Lateral margin stitched at margin", consists of a piece of fibrofatty tissue measuring 50 x 30 x 10mm.  There is a stitch at one surface (lateral). The lateral margin is inked blue and the opposite black. Specimen serially sectioned, AE 3 blocks. 
+C.   Specimen labelled "Central node", consists of a piece of fibrofatty tissue measuring 35 x 18 x 8mm.  There are two lymph nodes identified from 5-15mm in maximum dimension.  AE 2 blocks; 1 - largest lymph node serially sectioned; 2 - lymph node and fibrofatty tissue. 
+D.   Specimen labelled "Axillary lymph node", consists of a piece of fibrofatty tissue measuring 15 x 12 x 5mm.  There is a lymph node identified measuring 6mm in maximum dimension.  BAE 1 block. 
+E.   Specimen labelled "Axillary tissue", consists of a piece of fibrofatty tissue measuring 20 x 20 x 8mm.  AE 2 blocks; 1 - lymph node; 2 - fibrofatty tissue. 
+(TO: PJ;QB/ec  1.10.63) 
+MICROSCOPIC: (Reported by Dr T Desso) 
+A.  Sections of the right breast tissue (WLE) show a Grade 2 invasive ductal carcinoma with associated multifocal intermediate to high grade DCIS. A synoptic report for invasive carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Right breast. 
+Type: Invasive ductal carcinoma. 
+Invasive tumour size: 25mm (macroscopic).
+Grade (Modified Bloom & Richardson): 2
+Tubules: 3  Nuclei: 2   Mitoses: 2   Mitotic rate:    11/10hpf.
+Lymphovascular invasion: Foci suspicious for LVSI are present.
+	    
+DCIS component:  
+DCIS: Present. 
+Maximum extent of DCIS: DCIS is present in slices 2 to 7 over an approximate maximum extent of 25mm.
+Nuclear grade: Intermediate to (focal) high grade.
+Architecture: Solid and comedotype.
+Necrosis: Present. 
+Calcification: Present.
+Degree of DCIS in tumour: Multifocal.
+DCIS in adjacent tissue: Present.
+Excision Margins:  
+Invasive component:
+Lateral margin: Less than 0.05mm (A1/A6).
+Superior margin: 1.1mm (A1).
+Inferior margin: 2.2mm.
+Deep margin: 3.3mm (A19).
+Medial margin: 3.3mm (A25).
+Superficial margin: 5.5mm (A14).
+In-situ component:
+Lateral margin: 2.2mm (A10).
+Medial margin: 2.2mm (A17).
+Deep margin: 3.3mm (A15).
+Inferior margin: 5.5mm (A33).
+Superficial margin: 5.5mm (A14).
+Superior margin: 7mm.
+Receptors: (Block A11) 
+ER:  POSITIVE
+	90% of nuclei stained
+	Predominant intensity of staining: Moderate to strong.  
+PR:  	POSITIVE
+	50% of nuclei stained
+	Predominant intensityof staining: Moderate to strong
+HER2 (Novocastra 10A7): Negative.
+HER SISH:  Performed at ALLTEL Corporation, BOMBALA MULTI PURPOSE SERVICE Hospital, see separate report.
+Ki-67 index: Variable, up to 20% of tumour cell nuclei positive.
+Nipple: Not included.
+LCIS / ALH: Not identified.
+Miscellaneous: The adjacent non-neoplastic breast tissue shows columnar cell change/hyperplasia, fibrocystic change and scattered dystrophic calcifications. Two separate foci of atypical ductal hyperplasia, 0.25mm from the superficial margin and 1.1mm from the inferior margin, are also present. Changes consistent with a recent biopsy tract are present (A11).
+Lymph node total:
+See specimens C - E.
+ 
+B.  Sections of the additional lateral margin show scattered foci of invasive carcinoma. Carcinoma is present at the blue inked "sutured" margin and is lessthan 0.05mm from the opposite black inked margin.  
+C.  Sections show metastatic carcinoma in two of two sentinel lymph nodes (2/2). 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: Two. 
+Number of sentinel lymph nodes involved by tumour: Two.           
+Number of sentinel nodes with metastases >2.0mm: One (up to 8.0mm).
+Number of sentinel nodes with metastases <2.0mm: One (up to 1.1mm). 
+	Detected by: H&E and IHC.
+Extranodal spread: Focal (up to 0.56mm). 
+D.  Sections of the axillary lymph node show no evidence of malignancy (0/1). 
+E.  No evidence of malignancy in one lymph node (0/1). 
+DIAGNOSIS:
+A.  Right breast tissue:
+25mm Grade 2 Invasive ductal carcinoma associated with multifocal intermediate to high grade DCIS.
+Carcinoma is very close to the lateral margin (less than 0.05mm).
+DCISis clear of margins.
+ER and PR positive; Her-2 negative.
+HER SISH is being performed at Lucent Technologies, BROOME HOSPITAL Hospital; please see separate report.
+
+B.  Lateral margin: Carcinoma present at sutured margin; 0.05mm from opposite margin.
+
+C.  Sentinel lymph node: Metastatic carcinoma in two lymph nodes (2/2).
+
+D.  Axillary lymph node: No evidence of malignancy (0/1). 
+
+E.  Axillary tissue: No evidence of malignancy (0/1). 
+
+
+
+

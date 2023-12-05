@@ -1,0 +1,57 @@
+SPR no: 17S490298M
+MRN no: 1774902
+Site_name: HEALESVILLE & DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 1774902.YWM
+GEARING, TAMEKA
+17S49029
+
+Last edited : 3/5/2065		Page: 3
+CLINICAL:
+Rectal Ca ?ovarian metastases ?ovarian primary.  Ultra low anterior resection and bilateral salpingo-oophorectomy for mid rectal cancer and bilateral ovarian masses.  Omentectomy also performed.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right ovary with tube&amp;quot; consists of an ovary 90 x 60 x 40mm.  The serosa is smooth.  Fallopian tube is not identified.  Sectioning reveals solid and microcystic areas with foci of necrosis.  Fallopian tube is not identifiable.
+Blocks:  1 &amp;amp; 2 - frozen sections; 3 - representative, reserve block; 4 - ?fallopian tube; 5 &amp;amp;6 - representatives.
+FROZEN SECTION REPORT:
+Adenocarcinoma with endometrioid appearance - cannot separate metastatic colorectal Ca from primary ovarian.  Tumour on frozen section discussed with Dr D Shankin by Dr D Saggione at 3pm 24.3.15.
+B.  Specimen labelled &amp;quot;Left ovary with tube&amp;quot; consists of the ovary 72 x 55 x 55mm with attached fatty tissue 140 x 60 x 10mm.The serosal surface of the ovary is smooth.  Definite fallopian tube is not identified.  Slicing reveals a solid and cystic cut surface with the solid part being predominant.  The solid component is pale to yellow with foci of possible necrosis.  The attached fatty tissue is sliced and examined for nodules or lymph nodes.  No nodules are identified within the fatty tissue.
+Blocks:  1- ?paraovarian vessels, ?fallopian tube; 2 to 4 - representative; 5 - interface ofovary and the adjacent fatty tissue; 6 to 8 - random sections of the attached fatty tissue.
+C.  Specimen labelled &amp;quot;Ultra low resection plus omentum&amp;quot; consists of a segment of rectum 310mm in length with attached mesentericfatty tissue up to 75mm across.  The anterior peritoneal reflection is 30mm from the distal margin.  The circumferential soft tissue margin is inked blue anteriorly and black posteriorly.  Separate from the segment of colon there is a piece of omental fatty tissue 450 x 90 x 8mm.  Within the rectum there is a circumferential solid tumour 45 x 40 x 16mm.  The tumour has raised edges and a depressed centre.  The tumour is just above the anterior peritoneal reflection.The tumour is 45mm from distal and well clear of the proximal margin.  Anteriorly the serosal surface overlying the tumour is focally roughened over an area 12 x 8mm (inked green), 80mm proximal to the tumour and roughly in the middle of the specimen there is a sessile polyp 12 x 8 x 5mm.  On sectioning the tumour appears to have infiltrated the muscularis propria.  Several lymph nodes are identified the largest is 5mm in maximum dimension.  Blocks: 1 - shave distal margin; 2- shave proximal margin; 3 &amp;amp; 4 - TS tumour and roughened serosal surface; 5 - LS tumour and adjacent normal looking mucosa; 6 &amp;amp; 7 - paired sections TS of tumour; 8 - sessile polyp bisected; 9 - apical lymph node; 10 &amp;amp; 11 - lymph nodes as seen; 12 to 14 - sections of mesenteric fat looking for lymph nodes, no nodules are identified within the separate omental tissue; 15 to 17 - random sections of omentum.
+D.  Specimen labelled &amp;quot;Distal donut&amp;quot; consists of a donut shaped piece of tissue bearing colorectal mucosa 15 x 15 x 8mm.  The staples are removed and the remainder is blocked in 1 block.  (HM/mm 27.5.65)
+MICROSCOPIC (Reported by Dr D Bolig):
+A &amp;amp; B.  Both ovaries and fallopian tubes are involved by metastatic adenocarcinoma.  The tumour is moderatelydifferentiated.  The tumour appearances are identical to those seen in the rectum (specimen C).  The tumour cells (specimen A, B and C) are positive for CK20 and CDX-2.  The stain for CK7 is negative.  The appearances are consistent with those of metastatic colorectal adenocarcinoma.
+C &amp;amp; D.  Synoptic Report for Large Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour: Rectum
+Maximum tumour diameter: 45mm
+Distance of tumour to nearer cut end: 45mm
+Tumour perforation: No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not applicable
+Lymph nodes
+Number of lymph nodes present: 9
+Number of lymph nodes involved: 0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present (Mural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pM1	Distant metastasis confirmed
+Site: both ovaries (specimen A &amp;amp; B)
+Background abnormalities/other comments
+One (1) small tubular adenoma (block C8).
+The distal donut (specimen D) is unremarkable.

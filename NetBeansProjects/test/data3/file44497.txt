@@ -1,0 +1,27 @@
+SPR no: 46S283077V
+MRN no: 10486288
+Site_name: KINGSTON CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+TLH BSO + cytology for Grade 1 endometrioid endometrial carcinoma on D &amp;amp; C.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 100g in total.  The uterus measures 90 x 55 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 25mm and has an unremarkable surface.  The anterior cervix is inked blue and the posterior surface is inked black.  On sectioning the endometrium is expanded by tumour measuring 34 x 21mm.  The tumour extends to a depth of 10mm through a total wall thickness of 20mm.  The myometrium contains at least two fibroids with the largest measuring approximately 15mm extending into the upper cervix with an unremarkable appearance.  No necrosis.  The left fallopian tube measures 65 x 10mm in diameter.  The left ovary measures 30 x 17 x 9mm and has an unremarkable cut surface. The right fallopian tube measures 54 x 6mm in diameter.  It has a blind end without fimbria.  The right ovary measures 30 x 20 x 11mm.  Blocks: 1 to 3 - midline section anterior uterus and cervix; 4 &amp;amp; 5 - LS uterus ? deepest invasion; 6 to 8 - midline LS posterior uterus and cervix; 9 &amp;amp; 10 - from left side (block 9 fimbria and one TS tube, block 10 three TS ovary); 11 &amp;amp; 12 - from right side (block 11 one LS blind end and one TS tube, block 12 three TS ovary). 12 blocks.
+
+B.  Specimen labelled &amp;quot;Serosal fibroid&amp;#8221; consists of two fibroids both with a smooth shiny capsular surface, one measures 22 x 21 x 16mm and the other measures 15 x 14 12mm.  The cut surfaces appear creamy yellow with a whorled pattern. Blocks: 1 - two TS first fibroid; 2 - three TS second fibroid. 2 blocks.  (TO:BL/eh 8/5/66)
+
+
+MICROSCOPIC (Reported by Dr L Jundt):
+A.  Sections of uterus show a well differentiated endometrioid adenocarcinoma (grade 1).  The carcinoma shows architectural grade 1 and no solid component is seen.  The tumour cells show nuclear grade 1.  The carcinoma invades the inner half of myometrium with a maximal depth of invasion of 5mm (block A2).  The myometrial thickness is 13mm.  The tumour is within the uterine corpus and is completely excised.  The endocervix and cervix are unremarkable.  There is no evidence of lymphovascular invasion.  The rest of endometrium is atrophic and shows no significant abnormality.  There is extensive adenomyosis.  Two intramural leiomyomas are also present.  The uterine serosa is unremarkable.  Both fallopian tubes are unremarkable.  Both ovaries are unremarkable.
+
+B.  Sections show a uterine leiomyoma with marked haylinisation.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Uterus, cervix, bilateral tubes and ovaries
+- Endometrioid adenocarcinoma (grade 1);
+- Adenomyosis;
+- Leiomyoma.
+B.  Serosal fibroid - Leiomyoma.

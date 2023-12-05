@@ -1,0 +1,96 @@
+
+ 715794.PTX
+HOLLINSHED, TARYN CYRA
+71P79457
+
+Last edited : 24/7/2063	: 2
+***SUPPLEMENTARY REPORT: HER-2 CISH (24.7.2063) Dr U Bogenschneide
+
+CLINICAL:
+Wide local excision of left breast lesion + sentinel node biopsy.  Imaging normal.  FNAB malignant.  Short superior, long lateral, medium medial + superior + inferior margins - suture on cavity.  
+MACROSCOPIC:
+A.  Specimenlabelled "Lesion lateral short superior medium medial" consists of a piece of breast tissue with three stitches as described on the label measuring 80mm (lateralto medial) x 40mm (superior to inferior) x 80mm (superficial to deep).  The margins are inked in three colours - superior red, inferior blue and deep black.  On slicing there is a poorly firm pale area extending from slice 3 to slice 9 measuring 32 x 35 x 25mm, 12mm from lateral and 20mm from medial margins.  
+Blocks:  1 to 8 - all of slice 1 (lateral margin); 9 to 13 - slice 2; 14 to 16 - upper half of slice 3; 17 to 21 - slice 4; 22 to 27 - slice 5; 28 to 30 - upper half of slice 6; 31 to 37 - slice 7; 45 to 59- slice 10 (medial margin).  ER PR HER2 Ki67 requested on block 34.  
+Please see diagram.  
+B.  Specimen labelled "Superior margin left breast stitch on cavity" consists of a piece of breast tissue 65 x 25 x 14mm.  There is a stitch on one surface marking the cavity side.  The cavity side is leftuninked and the margin is inked blue.  Specimen serially sliced.  AE 8 blocks.  
+C.  Specimen labelled "Inferior margin left breast stitch on cavity" consists of a piece of breast tissue 75 x 50 x 15mm.  There is a stitch marking the cavity side.  The cavity side is left uninked and the margin is inked blue.  Specimen is serially sliced.  No indurated nodules are identified.  AE 22 blocks.  
+D.  Specimen labelled "Left axilla sentinel lymph node" consists of two pieces of fatty tissue 35 x 30 x 10mm in aggregate.  One of the two pieces contains a lymph node 15mm in maximum dimension.
+Blocks:  1 - one bisected lymph node.  (IDc/mm 17.7.63) 
+MICROSCOPIC:  (Reported by Dr U Mcmillion)
+A.  The left breast wide local excision shows extensive invasive lobular carcinoma, lymphovascular space invasion, DCIS and ALH/LCIS. There is extensive involvement of surgical margins by invasive carcinoma. A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Left breast, wide local excision.
+Type: Invasive lobular carcinoma. 
+Invasive tumour size: Carcinoma extends throughout the wide local excision over an approximate maximum extent of 80mm.
+Grade: 2 (Modified Bloom & Richardson)       
+Tubules: 3 Nuclei: 2 Mitoses: 1 Mitotic rate: 3/10hpf.
+Lymphovascular invasion: Present - extensive.
+
+DCIS component:  
+DCIS: Present.
+Maximum extent of DCIS: DCIS is present throughout the wide local excision over an approximate maximum extent of 75mm.
+Nuclear grade: Intermediate.
+Architecture: Comedotype, solid and cribriform.
+Necrosis: Present. 
+Calcification: Not identified. 
+Degree of DCIS in tumour: >25%.
+DCIS in adjacent tissue: Present
+Excision Margins:  
+Invasive component:
+Superior margin: Carcinoma present at margin. 
+Inferior margin: Carcinoma present at margin.
+Lateral margin: Carcinoma present at margin.
+Medial margin: Carcinoma present at margin.
+Deep margin:Carcinoma present at margin.
+Superficial margin: 1.1mm at middle of specimen (block 43); carcinoma extends to the medial-superficial margin.
+In-situ component:
+Deep margin: DCIS present at margin (block 17)
+Medial margin: DCIS present at margin (block 54)
+Inferior margin: 0.1mm (block 35)
+Lateral margin: 0.1mm.
+Superior margin: 0.56mm (block 4/9)
+Superficial margin: 5.0mm (block 44)
+Receptors: 
+ER:   POSITIVE
+	100% of nuclei stained
+	Predominant intensity of staining: Strong
+PR:   POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: Moderate to strong.
+HER2 (Novocastra 10A7): Equivocal (2+)
+Ki-67 immunoproliferative index: Variable, up to 15 - 18% of nuclei positive.
+
+Nipple: Not included. 
+LCIS / ALH: Present.
+Miscellaneous: Changes consistent with a biopsy site are seen. 
+Sentinel lymph node(s) - (specimen D)
+No. of sentinel lymph nodes examined: One.
+No. of sentinel nodes involved by tumour: One (1/1).
+No. of sentinel nodes with metastases >2.0mm: One (6mm focus).
+No. of sentinel nodes with metastases <2.0mm: None.
+No. of sentinel nodes with isolated tumour cells <0.2mm: None.
+Extranodal spread: Present - up to 1.1mm.
+Axillary/other nodes: Not included.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): One.
+Total number of involved lymph nodes (including sentinel node(s)): One (1/1).
+B.  Sections of the additional superior margin show extensive involvement by invasive lobular carcinoma and intermediate grade DCIS (comedotype, cribriform and solid). There is widespread multifocal lymphovascular space invasion. The "new margin" shows extensive involvement by invasive carcinoma and foci of DCIS.  
+C.  Sections of the additional inferior margin show extensive involvement by invasive lobular carcinoma and intermediate grade DCIS (comedotype, cribriform and solid). There is widespread multifocal lymphovascular space invasion. Scattered foci of ALH/LCIS are also present. The adjacent breast shows columnar cell change, cancerisation of lobules and apocrine metaplasia. The "newmargin" shows extensive involvement by invasive carcinoma and foci of DCIS.  
+D.  Sections of the sentinel lymph node show a 6.0mm deposit of metastatic carcinoma (1/1). There is extranodal extension up to 1.1mm. 
+DIAGNOSIS:
+A.  Left breast lesion: 
+Extensive grade 2 invasive lobular carcinoma with widespread lymphovascular space invasion andassociated DCIS and ALH/LCIS. 
+Invasive carcinoma shows widespread involvement of all surgical margins. 
+DCIS is present at the deep and medial margins and extends close toremaining margins.
+ER, PR - positive; HER-2 - equivocal.
+
+B.  Superior margin, left breast: Extensive invasive carcinoma and DCIS, present at "new margin". 
+
+C.  Inferior margin, left breast: Extensive invasive carcinoma and DCIS, present at "new margin". 
+
+D.  Sentinel lymph node: Metastatic carcinoma is present (1/1). 
+
+Her-2 CISH is being performed and a supplementary report will be issued. 
+
+

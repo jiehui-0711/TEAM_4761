@@ -1,0 +1,122 @@
+SPR no: 98J666714I
+MRN no: 983666
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report98J66671,98J66671 (98J666714I) DOBINE, LEIA CARMON
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Clear cell ca uterus.
+1. Peritoneal washings for cytology.
+2. Peritoneal cyst.
+3. Right sentinel node biopsy.
+4. Uterus, tubes and ovaries.
+5. Omentum.
+6. Left sentinel node biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. Consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 107g.  The uterus measures 50mm from medial to lateral, 90mm from fundus to cervix, and 35mm from anterior to posterior. The uterus has been previously opened along its lateral borders exposing the uterine cavity which is involved and filled with polypoid tumour mass arising from the anterior and posterior wall.  The tumour measures 50mm in maximal extent. It does not appear to extend into the lower uterine cavity. The cervix measures 27mm diameter and is otherwise unremarkable. Anterior margin inked blue and posterior black. The right fallopian tube measures 50mm in length and 5mm in diameter with a 15mm paratubal cyst present. The right ovary measures 25x12x8mm.  The left fallopian tube measures 40mm in length and 5mm in diameter. The left ovary measures 20x12x8mm.  The serosal  surface is smooth with no suspicious areas.  On sectioning the tumour is partially necrotic and polypoid.  It extends the full thickness of the myometrium but not breach the serosal  surface.  The myometrium measures 21mm in maximal thickness.  On sectioning the ovaries appear atrophic. The tubes are transected from the uterus. The tumour approaches both cornu.
+
+(1-4 anterior cervix to fundus [notches inferior]; 5-7 posterior cervix to fundus [notches inferior]; 8 right parametrial tissues; 9 left parametrial; 10 TS/LS with fimbrial and right tube with paratubal cyst; 11 LS right ovary; 12 TS/LS left fallopian tube with fimbrial end; 13 LS ovary; 14 right cornu area with tumour; 15&amp;amp;16 tumour reserve block). RS (M-16)
+
+B.  &amp;quot;RIGHT SENTINEL NODE&amp;quot;.  Consists of multiple pieces of fatty tissue, measuring in aggregate 20x20x20mm.  Multiple fragments of nodes are identified.  The largest measuring 15mm in maximal extent.
+
+(1 five fragments of node; 2 five fragments of nodes). RS (M-2)
+
+C.  &amp;quot;LEFT SENTINEL NODE BIOPSY&amp;quot;.  Consists of unorientated piece of fatty tissue measuring 40mm in maximal extent. Two possible nodes are identified, one measuring 4mm, the other 20mm.  The largest node appears macroscopically involved by tumour.
+
+(1 smaller node; 2 larger node sectioned). RS (M-2)
+
+D.  &amp;quot;PERITONEAL CYST&amp;quot;.  Consists of a translucent collapsed cyst lining measuring in aggregate 7x8x8mm.  AE (1-1)
+E.  &amp;quot;OMENTUM&amp;quot;.  Multiple pieces of fatty tissue, measuring in aggregate 10x10x10mm.  A firm area is noted however, no tumour deposits are identified.  AE (M-2/EE/ank)
+
+MICROSCOPIC:   (Dr. Y. Migliori)
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Predominantly high grade serous carcinoma with small foci of solid undifferentiated carcinoma.
+
+FIGO grade:  3
+
+(architecture grade:  2, nuclear grade:  3)
+
+Myometrial invasion:  Invasion through myometrium to serosa
+
+Depth of myometrial invasion:   15mm
+
+Myometrial thickness:   15mm
+
+% of myometrium invaded:   100%
+
+Focality:  Unifocal
+
+Tumour involves: Fundus, body, lower uterine segment
+
+Vascular/lymphatic invasion:  Present extensive in myometrium and focally in cervix
+
+Involvement of cervix:  Not involved
+
+Involvement of uterine serosa:  serosal  invasion present
+
+Excision margins:  Clear of tumour
+
+Non-tumour uterus:
+Adjacent endometrium:  No significant abnormality
+Polyps:  Nil seen
+Adenomyosis:  Nil seen
+
+Adnexae:
+Left fallopian tube:  No significant abnormality
+Right fallopian tube:  No significant abnormality
+Left ovary:  Lymphatic permeation of hilum by carcinoma
+Right ovary:  No significant abnormality
+
+COMMENT:
+Immunoperoxidase staining of the tumour cells shows positive staining with p53 (strong and widespread), Cam5.2, AE1/AE3 and Pax-8 with no staining for WT-1 or Napsin A.
+
+Lymph nodes:
+B.  None of multiple fragments of lymph node involved by tumour.
+C.  Metastatic carcinoma in 1 out of 2 lymph nodes (5mm metastasis)
+
+Other tissues:
+D.  Peritoneal cyst - Multiloculated mesothelial  cyst.
+
+E.  Omentum - No tumour seen.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT3a , pN1 , pMx
+
+FIGO stage:  III C1
+
+DIAGNOSIS:
+UTERUS, TUBES AND OVARIES :
+-HIGH GRADE SEROUS CARCINOMA WITH EXTENSIVE LYMPHATIC PERMEATION INCLUDING LYMPHATIC VESSELS OF LEFT OVARIAN HILUM.
+RIGHT SENTINEL LYMPH NODE :
+-NO TUMOUR SEEN IN LYMPH NODE FRAGMENTS.
+LEFT SENTINEL LYMPH NODE :
+-METASTATIC CARCINOMA IN 1 OUT OF 2 LYMPH NODES.
+PERITONEAL CYST :
+-MULTILOCULATED MESOTHELIAL  CYSTS.
+OMENTUM :
+NO TUMOUR SEEN.
+20/12/2066 ank
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (HCA Inc 105 HAMRUN CIRCUIT; block:A3)
+
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+OESTROGEN RECEPTOR:        negative
+PROGESTERONE RECEPTOR: negative

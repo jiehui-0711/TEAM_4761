@@ -1,0 +1,109 @@
+SPR no: 70A961802P
+MRN no: 10250093
+Site_name: PORTLAND TABULAM HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report70A96180 (70A961802P) ORLOW, Romona
+HISTOPATHOLOGY REPORT
+BEECHWORTH HEALTH SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right hemicolectomy.
+
+MACROSCOPIC:
+&amp;quot;RIGHT HEMICOLECTOMY&amp;quot;.  A right hemicolectomy specimen with the following components - terminal ileum 40mm in length 25mm in diameter, caecum with ascending colon 160mm in length with a variable diameter from 30-70mm, appendix 60mm in length 6mm in diameter with mesoappendix 10mm wide and mesocolic fat 80x40x25mm. The serosal surface of caecum and ascending is puckered over an area measuring 25x5mm.  When opened the caecum and proximal ascending colon contains a ulcerated circumferential tumour with an infiltrative border 65x55x25mm. The tumour is 60mm from the proximal margin, 80mm from the distal margin and 1mm from the radial margin posteriorly where it is seen infiltrating into mesocolic fat and tumour is macroscopically 35mm from vascular margin.  Multiple enlarged lymph nodes are also noted.  Please see block for numbers. Also present is a polyp which is 10mm distal to tumour measuring 5mm.
+
+(1 proximal and distal margin; 2 appendix proximal end TS and tip; 3 polyp; 4 iIeocaecal valve with one possible lymph node; 5 tumour to normal at caecum; 6 lymph node trisected; 7&amp;amp;8 tumour close to serosal surface puckered area; 9&amp;amp;10 thickest portion of tumour close to deep composite block; 11&amp;amp;12 CS tumour into mesocolic fat; 13 vascular pedicle with one apical node; 14 two lymph nodes; 15 three lymph nodes; 16 three lymph nodes; 17 one lymph node in three pieces; 18 one bisected lymph node; 19&amp;amp;20 one lymph node; 21 two nodes; 22 four lymph nodes; 23 one bisected lymph node; 24 two lymph nodes; 25 one bisected lymph node close to deep; 26&amp;amp;27 one bisected lymph node each). RS (M-27/JC 30/6/2069 ank) [Please see block diagram]
+
+MACROSCOPIC FINDINGS SUMMARY
+Operation type:  Right hemicolectomy
+Specimen length:  200mm
+Tumour site:  Caecum
+Tumour size:  60x55x25mm
+Maximum tumour diameter: 60mm
+Distance from margins:
+Proximal:  60mm
+Distal:  80mm
+Radial:  1mm
+Distance of tumour to the nearest proximal or distal cut end: 60mm
+Distance of tumour to the circumferential margin: 1mm
+Perforation:  Absent
+Peritoneal reflection:  ? not applicable
+Mesorectal integrity:  ? not applicable
+Extramuscular spread:  Approximately 18mm
+Tumour description:  Circumferential, ulcerated, infiltrates posterior into mesocolic fat
+Overlying serosa: Puckered
+Lymph nodes:
+Regional: Abnormal
+Non-regional: Not received
+Comments on macro: Polyp 5mm
+
+MICROSCOPIC: (Dr. U Taula)
+Sections of appendix show reactive lymphoid hyperplasia. The macroscopically identified polyp show changes favouring inflammatory polyp.
+
+Sections of colon show an infiltrating moderately differentiated adenocarcinoma with focal mucinous differentiation.  The carcinoma extends into the muscularis propria and subserosal fat.  An abscess is identified in the adjacent colonic wall.  No involvement of the free serosal surface.  No evidence of lymphovascular invasion.
+
+No evidence of malignancy is seen in 25 lymph nodes identified.  Both distal and proximal resection margins appear clear of tumour.
+
+Tumour type:  Adenocarcinoma with focal mucinous differentiation
+
+Histologic grade:  Moderately differentiated
+
+Depth of invasion:  Tumour involves muscularis propria extending into subserosal fat
+
+Peritoneal surface involvement:  Not seen
+
+Tumour infiltrating lymphocytes: Scan
+
+Excision Margins:
+Proximal:  not involved
+Distal:   not involved
+Radial:  Not applicable
+Donuts:  Not received
+
+Lymph nodes:
+Number positive:  0
+Total number:  25
+Apical node:  Negative
+
+Intramural vein invasion:  Not seen
+
+Extramural vein invasion:  Not seen
+
+Small vessel (lymphatic) invasion:  Not seen
+
+Perineural invasion:  Not seen
+
+Distant metastases:  Not known
+
+Other findings:
+Polyps:  Not identified
+Other:  Appendix - reactive lymphoid hyperplasia
+
+Mismatch repair enzymes, Immunostains:
+
+Immunostains for MSI proteins (ENVOI Pathology BURRA HOSPITAL; block: 5 )
+
+MLH1: 		positive
+PMS2: 	positive
+MSH2: 	positive
+MSH6: 	positive
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+to follow
+
+Microsatellite instability (MSI):  not tested
+
+Synthesis/stage (AJCC/UICC TNM 7):
+
+TNM stage:  pT3, Pn0, pMx
+
+
+DIAGNOSIS:
+RIGHT HEMICOLECTOMY - ADENOCARCINOMA.
+28/7/2070 ank

@@ -1,0 +1,35 @@
+SPR no: 09V140708N
+MRN no: 0981407
+Site_name: ROYAL HOBART HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 2 endometrioid AC uterus with some clear cell changes.
+MACROSCOPIC:
+A. &amp;#160;Specimen labelled &amp;#8220;Uterus, cervix, bilateral ovaries and tubes&amp;#8221; consists of a uterus with attached cervix, bilateral ovaries and tubes and weighs 99g.  The uterus with attached cervix measures 90 x 60 x 40mm.  The uterus is received opened and fresh.  The ectocervix measures 30 x 25mm and appears unremarkable.  The uterine serosa appears smooth and shiny. Anterior resection margin is inked blue and posterior is inked black.
+Within endometrial cavity at anterior surface an exophytic lesion noted extending bilaterally and measuring 22 x 20 x 3mm.  On sectioning the lesion appears superficial.  The lesion appears extending to the lateral aspect of the posterior uterine cavity.  The myometrium measures 19mm in maximum thickness and includes a fibroid nodule, 7mm across.
+The left fallopian tube measures approximately 80mm in length and 8mm in diameter.  The right fallopian tube measures 20mm in length and 6mm in diameter. They both include multiple tan nodules on serosal surface measuring 2 to 5mm in maximum dimension.
+The ovaries each measure approximately 40 x 25 x 20mm.  The left ovary has a few serosal nodules measuring up to 10mm.  The left ovary has a thin walled cyst measuring 10mm across.  Representative tissue is taken from left and right ovary for frozen section.  Small piece of normal endometrium as well as endometrial tumour is sampled for research studies by Dr C Witterstauter.
+Blocks:  1 - frozen section one left ovary; 2&amp;amp;3 - frozen section 2 and 3 right ovary; 4 to 7 - full longitudinal section of anterior body and cervix; 8 to 15 - left anterior uterus endometrium with lesion as per diagram; 16 to 20 - right anterior uterus endometrium with lesion as per diagram; 21 to 23 - full longitudinal section of posterior body and cervix; 24 to 29 - left posterior uterus endometrium with lesion  as per diagram; 30 to 36 - right posterior uterus endometrium with lesion  as per diagram; 37&amp;amp;38 - more representative sections left ovary; 39 - representative section left fallopian tube including two LS fimbria and two TS; 40&amp;amp;41 - more representative sections of right ovary; 42 - entire right fallopian tube including two LS fimbria and three TS.
+FROZEN SECTION REPORT:
+Ovaries benign.
+Result to anaesthetist by Dr C Jinwright at 05:30pm am on 21/9/16.
+&amp;#160;
+B. &amp;#160;Specimen labelled &amp;#8220;Right pelvic lymph node&amp;#8221; consists of multiple fragments of irregular tan tissue measuring 80 x 40 x 10mm in aggregate.  Two lymph nodes are identified measuring 50 x 18 x 10mm and 22 x 20 x 6mm.
+Blocks:  1 - one lymph node in four pieces; 2 to 5 - the larger lymph node; 6 - the rest of fibrofatty tissue.  AE 6 blocks.
+&amp;#160;
+C. &amp;#160;Specimen labelled &amp;#8220;Left pelvic lymph node&amp;#8221; consists of multiple fragments of irregular fibrofatty tissue measuring 60 x 30 x 20mm in aggregate.  The specimen is fragmented.  There appears to be three lymph nodes.  The two big ones are fragmented and not clear if they are the separate lymph nodes or parts of one lymph node and each measures 30mm in maximum dimension.  The third lymph node measures 10mm in maximum dimension.
+Blocks:  1&amp;amp;2 - one 30mm lymph node; 3&amp;amp;4 - second 30mm lymph node; 5 - third lymph node; 6&amp;amp;7 - rest of fibrofatty tissue.  AE 7 blocks.
+&amp;#160;
+D. &amp;#160;Specimen labelled &amp;#8220;Omental biopsy&amp;#8221; consists of an irregular piece of omental fibrofatty tissue measuring 60 x 40 x 5mm which appears unremarkable.  No gross lymph node or lesion is identified.  Representative tissue embedded in three blocks.  (TO: LN; LN/ua 24.11.66)
+MICROSCOPIC (Reported by Dr C Tefertiller):
+A.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  There is some patchy mucinous differentiation, but no clear cell carcinoma.  The tumour extends down into adenomyosis but no convincing myometrial invasion is seen and there is no lymphvascular invasion.  The ectocervix and endocervix are uninvolved and unremarkable.  Both ovaries and tubes are unremarkable.
+Immunoperoxidase stains for MSI proteins are proceeding.
+B.  Three lymph nodes show no evidence of malignancy.
+C.  Three lymph nodes show no evidence of malignancy.
+D. The omentum is unremarkable.  There is no evidence of malignancy.
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium.  No myometrial or lymphvascular invasion.  Cervix uninvolved.  Six (6) lymph nodes and the omentum are negative.
+
+ADDITIONAL REPORT 2/11/66:
+As requested, Immunoperoxidase stains for MSI proteins were performed. MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.

@@ -1,0 +1,23 @@
+SPR no: 29J283556Z
+MRN no: 2932835
+Site_name: WERRIS CREEK COMMUNITY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reportendnhere1lbrdrlftsWidth3 2932835.NQZ
+BOUTTE, SLYVIA TYLER
+29J28355
+rightaddl108 dth3
+autoLast edited : 16/5/2066nsrsid7100523 		Page: 2
+004CLINICAL:
+Left posterior vulva radical local excision + posterior vagina introital biopsy.  Vulval squamous cell carcinoma.  Lichen sclerosis.  Hypertension.
+MACROSCOPIC:
+ri0A.  Specimen labelled &amp;#8220;Left posterior vulva, stitch anterior&amp;#8221; consists of an ellipse  of skin 55 x 25 to a depth of 10mm.  There is a stitch at one tip designated anterior, 12 o&amp;apos;clock.  On the surface of the skin there is an ulcerated nodular lesion appr oximately 30mm in maximum dimension.  The 3 o&amp;#8217;clock edge is inked blue and the 9 o&amp;#8217;clock black.  Specimen serially sectioned and AE 13 blocks (blocks from cf112 o&amp;apos;clock to 6 o&amp;#8217;clock;ngnp3081 13 - is extra fat at the 6 o&amp;#8217;clock margin).
+tlpar
+htB.  Specimen labelled &amp;#8220;Left vulval skin tag&amp;#8221; consists of a polypoid fleshy piece of tissue 25 x 10 to a height of 10mm.  The specim en is unoriented.  There is a flattened area towards one end which is orientated arbitrarily as 12 o&amp;apos;clock.  The deep aspect is inked black and specimen gfe3081serially sectioned from 12 to 6 o&amp;#8217;clock and AE.  Please see diagram004.  (TO: JL; JL/rt 12.5.66)
+MICROSCOPIC (Reported by Dr F FLETCHER Mikolajczyk):
+A.  The entire vulva has been examined.  Sections  show a moderately differentiated squamous cell carcinoma, with a depth of 3mm, width of 8.5mm and an estimated length of 9mm.  Carcinoma is 6mm from the 3 o&amp;#8217;clock margin, 7mm from the
+9 o&amp;#8217;clock margi n and is well clear of the 12 and 6 o&amp;#8217;clock margins.  No lymphvascular or perineural invasion is seen.  There is a background of lichen sclerosis.  No convincing VIN is seen.
+B.  Sections show a benign proliferation of smooth muscle and nerves in the deep dermis and subcutis.  5677 There is no evidence of VIN or malignancy.
+DIAGNO SIS:
+Moderately differentiated squamous cell carcinoma of the left posterior vulva, depth 3mm, width 8.5mm, length 9mm.  Clear of all margins.  No lymphvascular invasion.
+spnum

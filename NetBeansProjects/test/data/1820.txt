@@ -1,0 +1,73 @@
+
+Episode No:  69W438451U
+6984384.NFU
+
+COLGIN, Francis 
+Lab No:  69W43845
+Chauvety
+COOMA  QLD  3029
+Specimen: Tissue
+D.O.B:  17/7/1997
+Sex:  F
+Collected: 12/12/2063 at :
+Location:  POST OPERATIVE RECOVERY-ALPINE HEALTH (MYRTLEFORD)
+DR FREDRIC Russ Jex
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Rt breast Ca (central) - mastectomy + SLNBx.  Sutures: short stitch superior, long lateral.  Extra inferolateral flap (stitch lateral).  Extra superlateral flap (stitch lateral)
+MACROSCOPIC:
+A.  Specimen labelled "Right axillary sentinel node", consists of a lymph node 15 x 10 x 5mm imprints made.  AE 1 block.
+IMPRINT CYTOLOGY REPORT:
+No tumour seen
+Reported by Dr S Gayheart at 16:05pm on 10.10.13.
+B.  Specimen labelled "Right breast stitch long lateral, short superior", consists of a mastectomy measuring 190mm (medial to lateral) x 170mm (inferior to superior) x 40mm (superficial to deep).  There is an overlying ellipse of skin measuring 170mm (medial to lateral) x 70mm (inferior to superior).  This includes a nipple areolar complex 30 x 30mm which appears unremarkable.  The superficial margin is inked blue and the deep margin is inked black.  In the 9 to 10 o'clock position 15mmfrom the nipple there is a firm cream relatively well circumscribed lesion measuring 22mm (medial to lateral) x 20mm (inferior to superior) x 17mm (superficial to deep).  Distance from margins is as follows: deep margin 20mm, inferior superficial margin 16mm, superior superficial margin 45mm and well clear of both the medial and lateral margins.  No other suspicious areas are identified.  
+Blocks: 1 to 5 - full face of tumour including skin deep margin and superficial inferior margin; 6 - nipple; 7 - full face of tumour to deep margin; 8 and 9 - representative upper outer quadrant; 10 and 11 - representative inner lower quadrant; 12 and 13 - representativeouter upper quadrant; 14 and 15 - representative outer lower quadrant; 16 - reserved block.
+C.Specimen labelled "Inferior lateral flap stitch lateral", consists of an orientated ellipse of skin measuring 100 x 18 to a depth of 22mm.  On one point of the ellipse there is a suture marking lateral designated 9 o'clock.  The 12o'clock margin is inked blue and the 6 o'clock margin is inked black.  The skin appears unremarkable.  No suspicious areas are identified.  
+Blocks: 1 - TS of 3 o'clock margin; 2 to 6 - representative transverse sections from 12 to 6 o'clock; 7 - TS of 9 o'clock margin.
+D.  Specimenlabelled "Superior lateral flap stitch lateral", consists of an orientated ellipse of skin 100 x 15 to a depth of 30mm with a suture attached to one pole marking lateral designated 9 o'clock.  The 12 o'clock (superior) margin is inked blue and the 6 o'clock (inferior) margin is inked black.  No suspicious areas are identified.  Blocks: 1 - TS of 3 o'clock margin; 2 to 6 - representative TS from 12 to 6 o'clock; 7 9 o'clock margin.  (SB/vo 13.12.63)  
+MICROSCOPIC (Reported by Dr S Buchwald):
+A - D.  Sections show invasive ductal carcinoma of the breast.   The features are as follows:
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive ductal carcinoma
+Invasive tumour size:  20mm
+Grade  (Modified Bloom & Richardson):  2
+Tubules:  2    Nuclei:  3    Mitoses:  2    Mitotic rate:  12/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  Confined within invasive tumour
+Nuclear grade:  Intermediate
+Architecture:  Cribriform
+Necrosis:  Absent
+Calcification:  Absent
+Degree of DCIS in tumour:  Small amount
+DCIS in adjacent tissue:  Absent
+Excision Margins:
+Invasive component:  5mm from superficial, well clear of all other margins
+In-situ component:  Well clear of all margins
+Receptors (Block B2):
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Moderate to strong
+PR:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Moderate to strong
+HER2 (Novocastra 10A7):  Negative (score 1+)
+HER2 SISH:  Performed at IKON Office Solutions, MERCY HEALTH SERVICE Hospital, see separate report.
+Ki-67 index:  Approximately 10%
+Nipple:  No significant abnormality.
+
+LCIS / ALH:  Absent
+Miscellaneous:  Part of the tumour shows infarctive necrosis.  Representative sections of the two skin flaps (specimens C & D) shows no significant abnormality.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

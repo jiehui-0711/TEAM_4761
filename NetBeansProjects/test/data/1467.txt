@@ -1,0 +1,85 @@
+ 023624.WZG
+COHEN, DANIA
+02K62489
+
+Last edited : 7/10/2063		Page: 2
+CLINICAL:
+R 4 o'clock IDC breast.  R ax node malignant.  L lower inn quadrant calcification.  Right mastectomy + axilla clearance.  Left mastectomy and sentinel node biopsy.
+Short superior - long lateral sutures.  
+MACROSCOPIC:
+A.  Specimen labelled "R breast" consists of a right mastectomy with two sutures for orientation - shortsuperior, long lateral measuring 250mm (medial to lateral) x 180mm (superior to inferior) x 30mm (superficial to deep) margin.  There is a ellipse of skin with nipple and areola complex 80 x 35mm.  The surface of the skin is unremarkable.The specimen is inked blue superficial margin, black deep margin.  On sectioning and in the lower inner quadrant 5cm from the nipple there is a gritty stellate  tumour measuring 20mm (medial to lateral) x 30mm (superior to inferior) x 20mm (superior to deep).  The tumour is located 10mm from the deep margin and 20mm from the superficial margin.  The rest of the parenchyma is unremarkable.  Representative sections.
+Blocks: 1 - nipple and areola; 2 & 3 - representative tumour; 4 - tumour and deep margin (block 2 - reserve block); 5 - tumour and superficial margin; 6 & 7 - representative upper inner quadrant; 8 & 9 - representative upper outer quadrant; 10 & 11 - lower outer quadrant.
+B.  Specimen labelled "Right axillary contents" consists of a large piece of fatty tissue 50 x 40 x 20mm containing eight lymph nodes measuring from 5 to 15mm.  Two of the largest lymph nodes appear infiltrated by tumour.  
+Blocks: 1 to 3 - lymph nodes.
+C.  Specimen labelled "Level 1" consists of a piece of fatty tissue containing one lymph node measuring 10mm in maximum diameter.
+Blocks: 1 - lymph node; 2 - rest of fatty tissue.
+D.  Specimen labelled "Mid right axilla level 2" consists of an irregular piece of fatty tissue containing four lymph nodes 3 to 5mm in maximum diameter.  
+Blocks: 1 - lymph nodes; 2 - rest of fatty tissue. 
+E.  Specimen labelled "Interpectoral space" consists of a lymph node measuring 5mm.   AE 1 block.
+F.  Specimen labelled "Left breast" consists of a total mastectomy with two sutures for orientation - short superior, long lateral measuring 210mm (medial to lateral) x 190mm (superior to inferior) x 30mm (superficial to deep).  There is an ellipse of skin with nipple and areola complex measuring 70 x 35mm.  The surface of the skin has a tiny linear scar 10mm in diameter.  Specimen is inked blue, superficial margin and black deep margin.  On sectioning the parenchyma has a fibrofatty appearance.  No calcifications or lesions are identified in the lower inner quadrant.  Representative sections.
+Blocks: 1 - nipple and areola complex; 2 - representative section of the linear scar; 3 to 9 - representative sections lower inner quadrant; 10 & 11 - representative sections upper inner quadrant; 12 & 13 - upper outer quadrant; 14 & 15 - lower outer quadrant.
+G.  Specimen labelled "Left axilla sentinel lymph node" consists of a lymph node 10 x 10mm.  Serially sectioned and AE 2blocks.    (UU/ta 2/9/63) 
+MICROSCOPIC (Reported by Dr A Bors):
+A to E.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site: Right breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  30mm
+Grade (Modified Bloom & Richardson):  3
+Tubules: 3     Nuclei: 2     Mitoses: 3     Mitotic rate: 16/10hpf.
+Lymphovascular invasion:  Present
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  Scattered within the invasive carcinoma
+Nuclear grade:  High
+Architecture:  Cribriform and comedo
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  Less than 5%
+DCIS in adjacent tissue:  Absent
+Excision Margins:  
+Invasive component:  The invasive carcinoma is 10mm to the deep margin (block A4) and is 17mm to the superficial margin (block A5).  The other margins are well clear.
+In-situ component:  The DCIS is 17mm to the superficial margin (block A5) and is well clear of the other margins.
+Receptors (Block A3): 
+ER:Positive
+	95% of nuclei stained
+	predominant intensity of staining:  strong
+PR:  Weakly positive
+	1% of nuclei stained
+	predominant intensity of staining:  strong
+HER2 (Novocastra 10A7):Negative (1+ staining)
+HER SISH:  Performed at YUM! Brands, BALLARAT HEALTH SERVICES (BASE HOSPITAL) Hospital, see separate report.
+Ki-67 index:  30%
+Nipple:  Unremarkable
+
+LCIS / ALH:  Present
+Miscellaneous:
+- The rest of breast tissue shows no significant abnormality.
+- Six (6) lymph nodes are identified in the specimen 2 (right axillary content).  2 of 6 lymph nodes are involved by tumour metastasis.
+- Two (2) lymph nodes are identified in the specimen 3 (level 1).  The lymph nodes are unremarkable.  There is no evidence of tumour metastasis.
+- Three (3) lymph nodes are identified in the specimen 4 (mid right axillary level 2).  1 of 3 lymph nodes is involved by tumour metastasis.
+-One (1) lymph node is identified in the specimen 5 (interpectoral space).  The lymph node is involved by tumour metastasis.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  12
+Number of axillary lymph nodes involved by tumour:  4
+Number of axillary nodes with metastases >2.0mm:  1
+Number of axillary nodes with metastases <2.0mm:  3
+Number of axillary nodes with isolated tumour cells <0.2mm:  0
+Extranodal spread:  Present (0.2mm)
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  12
+Total number of involved lymph nodes (including sentinel node(s)):  4
+F.  Sections of breast show widespread ductal carcinoma in-situ (DCIS) involving inner lower and inner upper quadrants.  The DCIS involves 7 of 9 blocks of tissue sampled from these two quadrants measuring more than 40mm in diameter but the exact size is difficult to estimate.  The DCIS shows intermediate grade nuclei with cribriform architecture.  The DCIS shows necrosis and calcification.  The DCIS is completely excised.  The DCIS is 10mm to the superficial margin and is 20mm to the deep margin.  The rest of breast tissue is unremarkable.  The nipple is unremarkable.  There is no evidence of invasive carcinoma.
+G.  One (1) lymph node is identified.  The lymph node is unremarkable.  Both histological and immunohistochemical examinations show no evidence of tumour metastasis.
+DIAGNOSIS:
+A to E.  Right breast and axillary lymph nodes
+- Invasive ductal carcinoma, NOS;
+- 30mm; grade 3; completely excised;
+- ER positive/PR weakly positive/Her-2 negative.
+- 4 of 12 axillary lymph nodes involved by tumour metastasis.
+F.  Left breast - DCIS, completely excised.
+G.  Left axilla sentinel lymph node - No evidence of malignancy.
+

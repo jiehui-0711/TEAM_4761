@@ -1,0 +1,80 @@
+SPR no: 05C969411P
+MRN no: 05096941
+Site_name: SPRINGWOOD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (23.10.2071): MSI MARKERS
+
+SUPPLEMENTARY REPORT (19.9.69):
+
+CLINICAL:
+Pelvic mass ? Ovarian Ca, Ca 125 = 422.  Right tube and ovary.  Pelvic mass.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a fallopian tube, 43 x 8mm with adjacent ovarian mass measuring 130 x 90 x 55mm.  There are multiple polypoid mucoid structures projecting from the surface of the ovarian mass.  On cut surface there is a white solid area, 60 x 45 x 35mm, with attached multiple polypoid mucoid structures.  No haemorrhage or necrosis is seen.
+Blocks: 1 to 3 - frozen sections; 4 to 8 - solid yellow to cream area; 9 - interface between solid mass and normal ovary; 10 - interface between solid mass and mucoid structures; 11 to 16 - representative mucoid superficial structures; 17 - fallopian tube; 18 - further section of mucoid structures.
+
+FROZEN SECTION RESULT:
+Oedematous tissue ? Oedematous / torted fibroma.  Looks benign.
+Results to anaesthetist by Dr B Kuehnle on 12:30pm at 06/07/2016.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, left tube plus left ovary&amp;quot;, consists of a uterus with attached cervix and left fallopian tube and ovary weighing 129g in total.  The uterus measures 90 x 60 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 32mm and is unremarkable.  The endometrium has circumscribed nodular areas anteriorly but is otherwise unremarkable.  The endometrium is up to 3mm in thickness and the myometrium is up to 22mm in thickness.  There are fibroids present within the myometrium measuring from 3 to 33mm in maximum dimension.  The myometrium also appears trabeculated.  The left fallopian tube measures 48mm in length x 7mm in diameter.  The left ovary measures 35 x 25 x 18mm and has a large, haemorrhage filled unilocular cyst 20mm in maximum dimension.  The ovary is otherwise unremarkable.
+Blocks: 1 to 4 - full longitudinal section of anterior body and cervix; 5 - polypoid endometrium anteriorly; 6 to 9 - full longitudinal section of posterior body and cervix; 10 - left ovary with cyst; 11 - fallopian tube.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;#8221;, consists of a piece of fibroadipose tissue, 180 x 65 x 8mm.  No masses are seen.  Representative sections in 3 blocks.
+
+D.  Specimen labelled &amp;#8220;Right common iliac lymph node&amp;#8221; consists of a lymph node, 10mm in maximum dimension.  Serially sectioned and all embedded in 1 block.
+
+E.  Specimen labelled &amp;#8220;Pre sacral peritoneum&amp;#8221;, consists of a haemorrhagic ragged piece of tissue, 25 x 25 x 3mm and a separate fragment, 8mm.  Specimen all embedded in 1 block.
+
+F.  Specimen labelled &amp;quot;Rectal nodule&amp;#8221;, consists of a nodular piece of tissue, 7 x 5 x 3mm.  Bisected and all embedded in 1 block.  (TO:JL/eh 8/9/69)
+
+
+MICROSCOPIC (Reported by Dr B Humphry):
+A.  Sections of the ovary show a low grade Mullerian adenosarcoma.  The tumour consists of papillary structures projecting from the surface of the ovary, and also some glands, with an associated cellular spindle cell stroma.  The stroma consists of spindle cells with a morphologic appearance resembling endometrial stroma.  There are mitoses present, numbering up to 12 per 10 high power fields.  The stromal component shows no significant cytologic atypia and is interpreted as low grade.  The epithelial component is benign.  There is prominent stromal condensation deep to the surface epithelium of the papillae and around the glands.  Elsewhere much of the tumour is very oedematous and there is also a solid component consisting of bland spindle cells, resembling a fibroma of ovary.  There is focal tumour necrosis which appears infarct-like.
+Sections of the fallopian tube are unremarkable.
+Representative slides have also been viewed by Dr B Lonero.
+
+B.  Sections of the cervix are unremarkable.  Sections of the endometrium show that this is in proliferative phase.  Leiomyomas are present in the myometrium.  The myometrium is otherwise unremarkable.
+A section of the left ovary shows a few small epithelial inclusion cysts and a benign haemorrhagic cyst of uncertain nature; no endometriosis is seen.  Sections of the fallopian tube are unremarkable.
+
+C.  Sections show fat with some mild, patchy surface reactive mesothelial proliferation.  No tumour is seen.
+
+D.  Sections show one (1) lymph node.  No abnormality is seen.
+
+E.  Sections show pieces of fibrofat.  The tissue shows features of endometriosis and is also partly involved by adenosarcoma similar to the tumour in the right ovary (specimen A).
+
+F.  Sections show fibrofat.  There is fat necrosis and also some surface organising fibrin.  No tumour is seen.
+
+
+DIAGNOSIS:
+A.   Right tube and ovary:  Low grade Mullerian adenosarcoma of ovary.
+B.   Uterus, left ovary and fallopian tube:  Uterine leiomyomas.
+C.   Omentum:  No tumour.
+D.   Right common iliac lymph node:  No tumour (0/1).
+E.   Pre-sacral peritoneum:
+1.   Adenosarcoma.
+2.   Endometriosis.
+F.   Rectal nodule:  Fat necrosis, no tumour.
+SUPPLEMENTARY REPORT (16.9.65):
+A.  Immunostains for hormone receptors have been performed as requested.
+
+Oestrogen receptors:   Positive.
+100% of tumour cells stain.
+Predominant intensity of staining:  Strong.
+Progesterone receptors:   Positive.
+50% of tumour cells show positive staining.
+Predominant intensity of staining:  Strong.
+
+
+***SUPPLEMENTARY REPORT (24.9.2071): MSI MARKERS (block A13)
+
+MSI markers were requested by ALPHA Hallerman (Associate Genetic Counsellor) on 23.10.68 and the results are as follows:
+
+Mismatch Repair Deficiency (MMRD) Status (MSI MARKERS)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

@@ -1,0 +1,142 @@
+DateOfBirth
+199711050000
+
+
+SiteName
+JERILDERIE MULTI PURPOSE SERVICE
+
+
+FirstName
+Forslin
+
+
+SPRID
+34W330038Q
+
+
+MRN
+3483300
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+Zarrineh
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+CLINICAL:
+Malignant large bowel obstruction.  CABG, HTN, T2DM.  Descending and sigmoid colon.  Small bowel peritoneal nodule.
+
+
+MACROSCOPIC:
+A.  Specimen labelled:  Sigmoid colon.
+Specimen length:  250mm
+Site of anterior peritoneal reflection:  Not included
+Thickness of mesocolon:  90mm
+Thickness of mesorectum:  Not applicable
+
+Tumour
+Location:  Proximal sigmoid colon
+Relation to anterior peritoneal reflection:  Above
+Description:  Circumferential ulcerated tumour comprising 30mm of bowel wall length
+Maximum tumour diameter:  35mm
+Perforation:  Absent
+Appearance of serosa overlying tumour:  Pale and puckered
+Distance of tumour to proximal cut end:  95mm
+Distance of tumour to distal cut end:  150mm
+Distance of tumour to circumferential margin:  25mm
+
+Blocks
+1 - proximal margin; 2 - distal margin; 3 to 5 - tumour with closest serosal surface; 6 - tumour with closest radial margin; 7 and 8 - further sections through tumour (MSI on block 7); 9 - apical lymph node; 10 and 11 - one lymph node per block bisected; 12 to 19 - lymph nodes as seen.  (TO:AP/rs 11/9/68)
+
+B.  Specimen labelled:  Small peritoneal bowel lesion and consists of a rounded piece of pale tissue measuring 5mm in maximum dimension.  AE 1 block.
+
+
+MICROSCOPIC (reported by Dr J Sing):
+A.
+
+BOWEL CANCER PROFORMA
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+T3	Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends: Not involved
+
+Lymph nodes
+Number of lymph nodes present:	15
+Number of lymph nodes involved:	0
+
+Note: There is a separate 2mm deposit of tumour in the pericolic fat, without associated lymph node tissue (A8).
+
+N1c	Tumour deposit(s) in the subserosa, mesentery, or nonperitonealised pericolic or perirectal tissues without regional nodal metastasis
+
+Lymphovascular invasion
+Not seen
+
+Perineural invasion
+Not seen
+
+Histologically confirmed distant metastases
+MX	Cannot be assessed histologically
+
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status (block A7)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Summary  TNM 8th Edition
+pT3	   N1c	   MX        R0
+
+B. Sections show a nodular area of fibrosis with dystrophic calcification. There is no evidence of malignancy.
+
+
+DIAGNOSIS
+A. Sigmoid colon:
+- Moderately differentiated adenocarcinoma invading pericolic fat, margins clear
+- 2mm nodule of tumour in pericolic fat
+- 15 lymph nodes with no evidence of malignancy
+- pT3 N1c MX
+
+B. Small bowel peritoneal lesion: fibrosis and dystrophic calcification, no evidence of malignancy
+
+
+
+
+
+
+SpecimenReceivedDate
+2267-07-10 00:00:00
+
+
+LastName
+Figart

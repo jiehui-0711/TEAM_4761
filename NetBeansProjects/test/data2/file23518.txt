@@ -1,0 +1,75 @@
+SPR no: 86D211304E
+MRN no: 861211
+Site_name: SCOTT MEMORIAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report86D21130,86D21130 (86D211304E) REHART, Flossie
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Large right ovarian cyst.
+1. Peritoneal washings.
+2. Right ovary.
+3. Right fallopian tube.
+4. Omentum.
+5. Right pelvic nodes.
+6. Right para-aortic node.s
+7. Appendix epiploicae.
+8. Left ovary and tube.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT OVARY&amp;quot;.  A collapsed cystic structure of a total weight of 1883g measuring 245x220x150mm.  At one edge there is a tubular structure (vessel) measures 90x15mm.  The outer surface of the collapsed cyst is smooth and firm white in colour. There is a defect (iatrogenic) measuring 30x30mm at one edge.  The cut surface reveals multicystic lobulated solid area occupies more than 40% of the cyst with a mixture of solid white and cystic spaces filled with mucinous material.  The remainder cystic space has smooth inner lining and filled with mucoid material and multiple necrotic soft tissue. There is no serosal involvement of th nodules.  The serosal surface of the lesion is inked blue.
+
+(1 two TS tubular structure [? vessel]; 2-8 RS solid areas with overlying serosa; 9-15 solid areas [no serosa]; 16-20 RS remainder cyst wall).  RS (M-20)
+
+B.  &amp;quot;RIGHT TUBE&amp;quot;.  A tubular structure 50x15mm with attached soft tissue up to 30mm. The outer surface is ragged, haemorrhagic and covered  by thick exudate.  The cut surface of the tube is unremarkable.  Towards the isthmus of the tube there is collapsed haemorrhagic cyst with haemorrhagic inner lining.
+
+(1 fimbrial end two LS; 2&amp;amp;3 each two TS tube [all embedded]; 4&amp;amp;5 adjacent cyst).  RS (M-5)
+
+C.  &amp;quot;OMENTUM&amp;quot;. A fibrofatty piece of tissue consistent with omentum measuring 210x115x30mm. The outer surface is ragged and extensively haemorrhagic with areas of overlying exudate.  No definite tumour nodules are identified. The cut surface is haemorrhagic across the specimen.  RS (M-4)
+
+D.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.  A fatty piece of tissue 20x20x15mm bearing one lymph node 16x10x4mm with unremarkable cut surface.
+
+(1 lymph node four TS; 2 remainder fat).  AE (M-2)
+
+E.  &amp;quot;RIGHT PARA-AORTIC LYMPH NODE&amp;quot;. A  lymph node 12x10x5mm with tan cut surface fragmented upon sectioning.  AE (M-1)
+
+F.  &amp;quot;APPENDICAE EPIPLOICAE&amp;quot;.  A smooth piece of fat measures 33x12x4mm with glistening outer surface bearing multiple adhesions.  No definite tumour nodules are identified. Serially sliced.  AE (M-2)
+
+G.  &amp;quot;LEFT OVARY AND TUBE&amp;quot;.  A fallopian tube measuring 35x30x25mm that is cystic and adherent inseprable from an adjacent solid possible ovarian tissue 25x20x15mm.  The fallopian tube appears to be cystic with smooth outer surface. The cut surface reveals multilocular cystic structure filled with a clear serous fluid and adjacent firm hard white calcified nodule which are separate to the previously mentioned cyst.
+
+(1&amp;amp;2 fimbrial end each two LS; 3 fallopian tube one TS with adjacent cyst; 4-6 cyst in relation to calcified nodule; 7 two TS calcified nodule; 8&amp;amp;9 cyst wall).  RS (M-9/ZH 17/2/2069 ank)
+
+MICROSCOPIC:   (Dr V Riggan)
+A. The sections show a tumour with variable appearances including cystic spaces lined by columnar mucinous epithelium with a fibrous and oedematous stroma. In several areas, there is multi-layering with highly atypical epithelium and numerous mitotic figures indicative of intraepithelial carcinoma. In other areas, confluent, glandular and papillary architecture with high-grade cytology is identified and associated with necrosis within gland lumina and also with broad areas of tumour necrosis. A desmoplastic stromal reaction is not seen. The appearances are those of mucinous adenocarcinoma with expansile pattern invasion. No mucin is seen on the surface of the ovary.
+B. Sections of the fallopian tube show normal appearing epithelium. On the serosal surface, there is prominent macrophage and chronic inflammatory reaction. Negative for malignancy.
+C. The sections show omentum with prominent macrophage and chronic inflammatory reaction on the serosal surface and subserosal connective tissue. Possible focal surface acellular mucin is seen in the PAS-D stain. Negative for malignancy.
+D. One lymph node is identified and shows reactive changes. Negative for malignancy.
+E. The sections show lymph node with reactive changes. Negative for malignancy.
+F. Sections show fatty tissue with prominent macrophage reaction of the serosal surface with reactive mesothelial hyperplasia and with underlying chronic subserosal chronic inflammation. Negative for malignancy.
+G. The sections of the fallopian tube are unremarkable. The ovary shows a hyalinised and partly calcified nodule which is consistent with ovarian fibroma. There is also a cyst lined by a cuboidal to attenuated simple epithelial layer including occasional ciliated cells and the appearances are those of benign serous cystadenoma. Benign serous inclusions are also seen within the ovarian cortex. On the serosal surface of the ovary and fallopian tubes, there are macrophage reaction and mesothelial reaction with patchy subserosal chronic inflammation. Negative for malignancy.
+Immunohistochemistry (Block A14): There is strong staining for both CK7 and CK20 but with greater staining for CK7. CDX-2 shows very focal staining. PAX-8 shows non-specific staining only. ER and PR are negative CEA is positive.
+Comment: The appearances of the right ovary are those of a moderately differentiated mucinous adenocarcinoma with expansile pattern invasion. No ovarian surface involvement is identified in the sections examined. There is prominent macrophage reaction on the serosal surfaces of the omentum, the appendicae epiploicae and the left ovary and fallopian tube and with possible focal acellular mucus on the omental surface that suggests possible previous rupture/leakage of the cystic tumour. Clinical correlation is recommended.
+DIAGNOSIS:
+A. RIGHT OVARY - MUCINOUS ADENOCARCINOMA (WITH PATTERN EXPANSILE INVASION).
+
+B. RIGHT TUBE
+- MESOTHELIAL AND MACROPHAGE REACTION.
+
+C. OMENTUM
+- MESOTHELIAL AND MACROPHAGE REACTION.
+
+D. RIGHT PELVIC NODE
+- NEGATIVE FOR MALIGNANCY.
+
+E. RIGHT PARA-AORTIC LYMPH NODE
+- NEGATIVE FOR MALIGNANCY.
+
+F. APPENDICAE EPIPLOICAE
+- MESOTHELIAL AND MACROPHAGE REACTION.
+
+G. LEFT OVARY AND TUBE
+- BENIGN FIBROMA AND BENIGN SEROUS CYSTADENOMA.
+
+14/1/2069 cy

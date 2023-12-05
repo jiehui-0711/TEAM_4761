@@ -1,0 +1,86 @@
+Episode No:  69I398347H
+6933983.MUH
+
+NAGATA, Bruno 
+Lab No:  69I39834
+Radleys
+MAITLAND  WA  0812
+Specimen: Tissue
+D.O.B:  8/3/1999
+Sex:  M
+Collected: 04/06/2013 at 13:36
+Location:  PaLMS-KAPUNDA HOSPITAL
+DR Lynwood BART HOUCHINS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+			ADDITIONAL REPORT (17.9.63)
+
+CLINICAL:
+Extended right hemicolectomy for hepatic flexure bowel Ca
+MACROSCOPIC:
+Specimen labelled "R colon" consists of a right hemicolectomy which includes 220mm of large bowel and 70mm of ileum.  There is an attached appendix which measures 75mm in length by 10 x 10mm.  Onopening the bowel there is a polypoid tumour near the distal margin which measures 60 x 50mm and is macroscopically located 16mm from the distal margin.  There is attached fat which measures 70 x 110mm.  There appears to be a radial margin involving the fat which measures 220 x 110mm.  Radial margin inked black, bowel margins inked blue.  On sectioning the tumour appears to invade into themuscularis propria and abut the serosa. No other mucosal lesions or polyps are identified.
+Blocks: 1- ileal margin; 2 to 4- shave of the distal margin; 5- LS of tumour with normal mucosa; 6 and 7- composite blocks tumour at level of deepest invasion;8 and 9 composite blocks tumour to closest mesenteric margin;10- ileal caecal valve; 11- one lymph node bisected; 12- lymph node adjacent to radial margin bisected; 13- lymph node adjacent to radial margin;  14 and 15- lymph nodes; 16 one lymph node bisected; 17- lymph nodes adjacent to radial margin; 18- one lymph node trisected adjacent to radial margin; 19-  serial LS of the distal tip of appendix; 20- representative TS appendix.   (TO: AU;UW/vo 8.7.63) 21- 23 -each one node (LV8.8.63)
+MICROSCOPIC (Reported by Dr Q Rubinstein):
+Sections show a moderately differentiated adenocarcinoma with mucinous features. The tumour has the following features: 
+
+Macroscopic Description
+
+Site of tumour:  Hepatic flexure. 	
+Maximum tumour diameter:     60mm
+Distance of tumour to nearer cut end:    16mm
+Tumour perforation: No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS with mucinous features; mucinous component <50% of tumour.
+Differentiation by predominant area
+Moderate 
+Local invasion
+pT2	Invasion into muscularis propria (block 7)
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: N/A. 
+Histological measurement from tumour to non-peritonealised margin:  Well clear (>10mm from mesenteric margin). 
+Lymph nodes
+Number of lymph nodes present: 12	
+Number of lymph nodes involved: 0.	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Other:  
+The tumour is associated with a villous adenoma with high grade dysplasia.  
+Away from the tumour the small and large bowel mucosa is unremarkable.
+Tattoo dye is present within histiocytes within the submucosa and subserosa close to the tumour. 
+The appendix is unremarkable. 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status:
+To follow.	
+
+Summary - TNM 7th Edition
+pT2 N0 MX     	
+
+ 
+DIAGNOSIS:  
+Right colon: 
+-   Moderately differentiated adenocarcinoma with mucinous features; no perineural or lymphovascularinvasion seen. 
+-   Twelve (12) negative lymph nodes (0/12).
+-   Stage pT2 N0 MX.
+-   Mismatch repair protein status tofollow.
+			
+	ADDITIONAL REPORT (17.9.63)(Reported by Dr Q Gocek)
+
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		loss of nuclear staining (abnormal)
+PMS2		loss of nuclear staining (abnormal)
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated withmicrosatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

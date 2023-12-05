@@ -1,0 +1,130 @@
+SPR no: 66E517488D
+MRN no: 6615174
+Site_name: DONGARA MULTI-PURPOSE HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+? Cholangiocarcinoma.  Bile duct margin.  Distal CBD stricture.  Previous radiotherapy (abdominal) for lymphoma as a 19 year old.  Whipples procedure, sutures 1 x prolene suture PV margin, 2 x prolene suture SMA margin, 3 x prolene suture uncinate margin   Common hepatic artery LNS.
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Bile duct margins&amp;quot;, consists of a piece of a ring shaped tissue measuring 6 x 5 x 3mm.  AE for frozen section.
+
+FROZEN SECTION RESULT:
+Atypical cells in stroma, exact nature uncertain.
+Result to Surgeon
+by Dr Q Heyman
+at 12:35pm on 30/01/2017.  AE 1 block.
+
+B.  Specimen labelled &amp;quot;Whipples&amp;quot;, consists of a Whipple resection with attached gallbladder.  The stomach plus small bowel measures 260mm in length, consisting of 60mm of stomach, in continuum with 200mm of small bowel.  Both the mucosa and serosal surface of both segments are unremarkable.  The ampulla has a stent in situ however, there is no macroscopic abnormality seen.
+
+The pancreas measures 50 x 45 x 20mm.  There are three orientation markings.  Margins are inked as follows: portal vein is inked blue, SMA is inked red, uncinate process is inked green, posterior surface is inked black, anterior surface is inked yellow.  The specimen has been sliced into 14 slices from superior to inferior.  The cut surface shows a pale ill defined tumour in slices 8 to 10, appearing to be pushing into ampulla (? possibly arising from ampulla) measuring 25 x 24 x 15mm.  The tumour lies 7mm from SMA margin, 10mm from portal vein margin, 15mm from uncinate process, 5mm from anterior, 15mm from posterior surface.  The rest of the pancreatic tissue is unremarkable.  The pancreatic duct appears slightly dilated, however unremarkable.
+
+The gallbladder measures 110mm in length with an open circumference of 60mm and wall thickness of 2mm.  The outer surface appear erythematous and shiny.  Inner surface is greenish green, brown and granular.  There is a thick sludge and no gallstones seen.  The hepatic duct measures 20mm in length.  A single lymph node identified around the cystic duct.
+
+Blocks:  1 - Hepatic duct shave margin, 2 - pancreatic resection margin (embedded on cut surface), 3 - lymph node at the cystic ducts, 4 - small bowel + stomach margin, 5 - RS of normal stomach and small bowel, 6 to 8 - gallbladder (6 - cystic ducts, 7 - RS of body, 8 - RS of fundus), 9 to 11 - fat around pancreatic tissue, 12 to 16 - slices 1 to 4 CBD, (15 - slice 4 and 16 - shave of slice 4), 17 - slice 14 (inferior most), 18 to 26 - slice 5 to 13 (block 24 -  with ampulla)
+
+C.  Specimen labelled &amp;quot;Common hepatic node&amp;quot;, consists of three pieces of pale tan tissue measuring 25mm x 20 x 8mm.  Two lymph nodes identified.
+Blocks:  1 - One lymph node, 2 - one lymph node, 3 - remaining tissue  (TO: LM; LM/eh 3/3/2067)
+
+
+
+MICROSCOPIC (Reported by Dr Q Makua and Dr Q Q Gallaspy):
+A-C
+
+A. Sections of the bile duct margin show no evidence of dysplasia or malignancy. The lining epithelium is partially denuded and there is surrounding inflammation and fibrosis, consistent with previous stenting. Focal mucinous metaplasia and reactive epithelial hyperplasia with focal atypia are seen, but in the presence of inflammation, these changes are interpreted as reactive rather than dysplastic.
+The atypical stromal cells noted on frozen section are negative for keratin staining with CAM5.2 and probably represent reactive fibroblasts.
+
+B.
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+
+Adeno-squamous carcinoma.
+The tumour has a biphasic pattern composed of an admixture of squamoid areas and poorly differentiated adenocarcinoma. This in confirmed in p63 and ketratin 5/6 immunohistochemistry.
+The tumour also shows positive staining with keratin 14, keratin 19, keratin 7. Keratin
+Gland formation is identified within the DiPas stain in a small number of tumour cells. The tumour is associated with a marked fibroblastic desmoplasia and necrosis.
+The commom bile duct,  pancreatic duct and small part of the ampullary duct show ulceration with prominent reactive fibroblasts.
+The carcinoma is clear of the margins and surfaces.
+Histological grade
+
+Grade 3: Poorly differentiated (49% or less of tumour composed of glands)
+Grading is difficult and the tumour borders on undifferentiated, given the paucity of gland formation.
+Microscopic tumour sites
+
+Head of pancreas
+
+Extent of tumour invasion
+Pancreas
+Duodenum: Carcinoma has invaded through the overlying muscularis propria of the duodenum and pushes focally into the submucosa. (Block B22)
+
+Maximum tumour diameter
+25mm
+
+Lymphovascular invasion
+Not identified
+
+Type of vessel
+Not applicable
+
+Perineural invasion
+Present  (B22, 23)
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Not identified
+
+Margins:
+Pancreatic neck: clear
+Common bile duct:  Not present (attached gallbladder)
+Portal vein (superior mesenteric vein): clear by at least 5mm
+Periuncinate soft tissue (superior mesenteric artery): clear by at least 5mm
+Hepatic duct margin shave: clear (Vessels and nerves identified in section; no ductal epithelium seen)
+Small bowel and stomach margins: well clear
+
+Surfaces:
+Anterior: Clear
+Posterior: clear
+
+Lymph nodes:
+Number found: 23 (Including a single negative node adjacent to cystic duct and 2 negative nodes in specimen C - below).
+Number involved: 1 (Near upper aspect of pancreas - block B20)
+
+Other pathologies:
+The gallbladder and cystic duct show mild acute mucosal inflammation and reactive changes.
+No definite dysplasia is seen in the cystic duct.
+The common bile duct also shows active mucosal inflammation and reactive changes, including reactive epithelial atypia.
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+PANCREAS
+Primary tumour category (pT)
+
+T3 Tumour extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery
+AMPULLA OF VATER
+
+T0 No evidence of primary tumour
+COMMON BILE DUCT
+
+T0 No evidence of primary tumour
+
+
+Regional lymph node category (pN)
+
+N1 Regional lymph node metastasis
+Distant metastasis category (pM)
+
+MX Not assessable by histology
+
+C. Sections of two lymph nodes show no evidence of malignancy.
+
+DIAGNOSIS:
+A. Bile duct margin : No diagnostic evidence of malignancy
+
+B. Whipples resection: 25mm adeno-squamous Carcinoma.
+- Clear of the margins.
+- pT3 N1 MX
+- 24 lymph node, one of which contains metastatic carcinoma (1/24 - including common hepatic nodes)
+
+C. Common hepatic node: No evidence of malignancy (0/2).

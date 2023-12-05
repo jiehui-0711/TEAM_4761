@@ -1,0 +1,19 @@
+ 4216096.IQT
+CHEEK, Warlpiri CATHERINE NEVA
+42F60963,42F60963
+
+Last edited :6/5/2064		Page: 2
+CLINICAL:
+Grade 1 - 2 endometrial cancer. Uterus, cervix, adnexal remnants.  
+MACROSCOPIC:
+Specimen labelled "Uterus cervix and tubal remains", consists of a uterus with cervix 70 x 65 x 40mm, weighing 83g.  The ectocervix is 25 x 20mm.  The anterior margin is inked blue and the posterior margin is inked black.  The endometrium is less than 1mm thick.  In the endometrial cavity arising from the anterior wall is a 6mm polyp.  In the left cornu region there is a vague area of abnormality in the endometrrium 10mm across.  There is an intramural fibroid in the posterior uterine wall, 27mm across.  There is a 12mm intramural fibroid in anterior wall.  No residual fallopian tubes are seen.
+Blocks: 1 to 3 - full longitudinal midline section of anterior uterine body and cervix; 4 to 9 - left anterior endometrial cavity with polyp in block 6; 10 to 12 - area of irregularity in left cornu; 13 and 14 - right anterior endometrial cavity; 15 to 19 - full longitudinal section of posterior body and cervix; 20 and 21 - left posterior endometrial cavity; 22 - remainder of right posterior endometrial cavity.  Endometrial cavity AE.  (TO: TO;HO/vo 29.5.64)  
+MICROSCOPIC (Reported by Dr. M Rady):
+Sections show a small amount of residual endometrioid adenocarcinoma of the endometrium.  Considering the tumour in the previous curette (42F60963) the tumour is best graded as grade 2.  No myometrial or lymphvascular invasion is seen.
+The ectocervix and endocervix are uninvolved.  The myometrium shows adenomyosis and leiomyomas.
+DIAGNOSIS:
+Grade 2 endometrioid adenocarcinoma of the endometrium.  No myometrial or lymphvascular invasion.  Cervix uninvolved.
+  
+ADDITIONAL REPORT 5/6/64:
+As requested, immunoperoxidase stains for MSI proteins were performed.  MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.
+

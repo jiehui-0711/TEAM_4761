@@ -1,0 +1,20 @@
+SPR no: 55Y192658L
+MRN no: 5591926
+Site_name: MURRUMBAH-HARDEN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 5591926.NVL
+VOWELS, KISHA VERLIE
+55Y19265
+
+Last edited : 28/1/2065		Page: 2
+CLINICAL:
+Endometrial cancer recurrence vaginal vault.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Vaginal vault biopsy&amp;quot; consists of a flat tan piece of tissue, 6 x 6 x 3mm. The presumed deep surface is inked and specimen serially sectioned. There are also multiple fragments 1 to 3 mm. AE.
+Blocks:  1 to 3 - fragments; 4 to 6 - larger piece serially sectioned.
+(TO: JL:  JL/mm 27.1.65)
+MICROSCOPIC (reported by Dr N Bridgeforth):
+Sections show pieces of tumour tissue.  The tumour is an endometrioid adenocarcinoma, grade I. There is some tumour necrosis.
+DIAGNOSIS:
+Vaginal vault biopsy:  Endometrioid adenocarcinoma.

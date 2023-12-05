@@ -1,0 +1,109 @@
+SPR no: 93T864241N
+MRN no: 937864
+Site_name: WESTERN HEALTH - BACCHUS MARSH
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report93T86424 (93T864241N) Krumsiek, Macey
+HISTOPATHOLOGY REPORT
+ST MARYS COMMUNITY HEALTH CENTRE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+See omental bx public 0.367808.STG, adeno ca.  PAX 8, PR positive, Negative WT1 p53 favors endometrioid adeno ca.
+1.  Uterus with cervix, bilateral tubes and ovaries.
+2.  Omentum.
+3.  Appendicea epiploica.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS WITH CERVIX, BILATERAL TUBES AND OVARIES&amp;quot;.  Consists of uterus, cervix, attached tubes and ovaries weighing 136g.  There is a portion of pouch of Douglas attached to the posterior surface 40x40mm.
+
+Right tube measures 60mm in length, 5mm in diameter.  Serosa is grey smooth.  Sectioning is unremarkable.  Right ovary appears lobulated, cystic measuring 60x50x35mm.  Sectioning shows multilocular cystic ovary with partially solid foci filled with gelatinous material.
+
+Left tube measures 50mm in length, 7mm in diameter.  Serosa is smooth.  Parafimbrial cyst present.  Sectioning is unremarkable and left ovary measures 40x20x15mm.  Outer surface is lobulated and grey.  Sectioning is unremarkable.  There is a separate 15mm nodule with a yellow calcified surface.
+
+Uterus measures 80x60x30mm, bearing ectocervix 25x35mm, with a slit-like os 10mm across.  Uterus opened sagittally and the endometrium measures up to 2mm.  Anterior wall 10, posterior wall 13mm.  Serially sliced sagittally.  There is a pale endometrial polyp measuring 35x11mm which fills the endometrial cavity.  No obvious invasion to the myometrium present. No extension to the cervix identified.  No other lesion identified macroscopically.
+
+(1  right parametrium; 2  left parametrium; 3  pouch of Douglas; 4, 5&amp;amp;6  right tube [tube embedded entirely]; 7-12  section of ovarian cyst; 13&amp;amp;14  left tube [tube embedded entirely]; 15  ovary; 16  left nodule; 17-20  one full face sagittal view of the uterus with the polyp; 21-26  sections of endometrium and polyp [polyp embedded entirely]).  RS (M-26).
+
+B.  &amp;quot;OMENTUM&amp;quot;.  Consists of fibrofatty tissue consistent with omentum 190x160x50mm.  Multiple areas of induration and nodularity identified.  Representative section embedded block 1 to 8.  RS (M-8).
+
+C.  &amp;quot;APPENDICEAL EPIPLOICAE&amp;quot;.  Fibrofatty tissue 20mm and sectioning shows lobulated  fatty surface.  All embedded block 1.  AE (M-1/SM 29/6/2071 km).
+
+
+
+
+
+MICROSCOPIC:  (Dr Z Ulich)
+A, B, C. Histology shows virtual complete replacement of the right ovary by clear cell carcinoma with acinar architecture and cells with vacuolated and relatively clear cytoplasm and high-grade cytological atypia with deposits found over the serosa of the left ovary, pouch of douglas and bulky deposits seen within the omentum (Specimen B) where there is evidence of partial therapeutic response with foamy macrophages (CRS 2). The endometrium, however, contains a large endometrial polyp which is involved by clear cell carcinoma and this is favoured to be the primary site. Both fallopian tubes are not involved with no evidence of tubal intraepithelial carcinoma. Small focal superficial deposits of metastatic carcinoma are also seen in the appendiceal epiploicae (Specimen C). For staging purposes, the tumour is classified as a primary endometrial carcinoma although a synchonous primary within the right ovary cannot be excluded. Immunostains of the endometrial tumour and the omental deposits are identical with positivity for PAX8, AMACR, Napsin A. There is  wild type staining for p53. WT1, ER, PR are negative.
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Total abdominal hysterectomy, omentectomy
+
+TUMOR SITE: Endometrial polyp
+
+TUMOR SIZE:  35mm greatest dimension
+
+HISTOLOGIC TYPE: Clear cell carcinoma
+
+HISTOLOGIC GRADE: 3
+
+MYOMETRIAL INVASION: Not present
+
+UTERINE SEROSA INVOLVEMENT: Metastatic deposits on pouch of douglas serosa
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not present
+
+CERVICAL STROMAL INVOLVEMENT: Not present
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Metastatic deposits are found in both ovaries, omentum and appendix epiploicae
+
+MARGINS: Clear
+
+LYMPHOVASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES: Not submitted
+
+DISTANT METASTASES (histologically confirmed): Omentum
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Non tumour endometrium: Atrophic
+Adenomyosis: Not present
+Left fallopian tube: Unremarkable
+Right fallopian tube: Unremarkable
+Left ovary: Focally involved by metastatic carcinoma
+Right ovary: Replaced by metastatic carcinoma
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+
+Immunostains for MMR proteins (block:A20)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+
+OTHER SPECIMENS: See above. Within the omentum (Specimen B) there is evidence of a partial therapeutic response with foamy macrophages (CRS 2).
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IV B
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a pNx pM1
+
+DIAGNOSIS:
+A. UTERUS WITH CERVIX, BILATERAL TUBES AND OVARIES
+- CLEAR CELL CARCINOMA OF ENDOMETRIUM WITH METASTATIC DEPOSITS IN BOTH OVARIES AND SEROSA OF POUCH OF DOUGLAS.
+
+B. OMENTUM
+- METASTATIC CLEAR CELL CARCINOMA, (WITH PARTIAL THERAPEUTIC REPSONSE).
+
+C. APPENDICEAL EPIPLOICAE
+- FOCALLY INVOLVED BY METASTATIC CARCINOMA.
+
+26/6/2068 cy

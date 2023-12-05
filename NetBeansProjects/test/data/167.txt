@@ -1,0 +1,57 @@
+
+Episode No:  70W903195D
+708903.DZO
+
+NOTWICK, EDUARDO 
+Lab No:  70W90319
+Higher Turf
+WYONG  Western Australia  6330
+Specimen: Tissue
+D.O.B:  7/7/1990
+Sex:  M
+Collected: 1/1/2063 at :
+Location:  INTENSIVECARE UNIT-THE PARK - CENTRE FOR MENTAL HEALTH
+DR IGNACIO RICH TUPIN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Adenocarcinoma left upper lobe. 
+MACROSCOPIC:
+A.  Specimen labelled "Left upper lung", consists of a lobe of lung weighing 197g and measures 160 x 130 x 50mm.  30mm away from the peribronchial resection margin a pale firm tumour measuring 10 x 8 x 12mm, is noted.  It is present 1mm to the pleural surface.  The cut surface of the remainder of lung tissue is unremarkable.  A peribronchial lymph node measuring 6mm in maximum extent identified.
+Blocks: 1 - shave bronchial margin; 2 - shave of vascular margin; 3 to 5 - section of tumour with pleural surface (all tumour embedded) 6 and 7 - paired section of lung between tumour and bronchial margin; 8 - single hilar lymph node bisected; 9 - RS of peripheral lung tissue; 10 - RS of central lung tissue; 12 - pale are measuring20 x 8 x 3mm; 13 and 14 - another pale area measuring 10 x 6 x 6mm; 15 - more pale area measuring 12 x 6 x 3mm.  
+B.  Specimen labelled "Hilar lymph node", consists of a lymph node measuring 4mm.  AE 1 block. 
+C.  Specimen labelled "AP window lymph node", consists of a lymph node measuring 10 x 8 x 5mm.  Specimen TAE 1 block. 
+(TO: OW;NX/vo 1.1.63) 
+MICROSCOPIC (Reported by Dr T Kennady):
+A.  Sections show a 7.5mm minimally invasive adenocarcinoma, mucinous subtype.  Peripherally the carcinoma shows a lepidic growth pattern with large columnar cells lining alveoli.  The tumour cells have basally oriented, mildly pleomorphic nuclei with variably conspicuous nucleoli and abundant pale to eosinophilic cytoplasm containing apical mucin. Centrally there is a 4.2mm zone of acinar growth with associated stromal fibrosis and chronicinflammation consistent with invasion.  No necrosis, lymphovascular invasion or perineural invasion are seen. The pleura is uninvolved. The tumour is 30mm clear of the bronchovascular resection margin and there is no evidence of carcinoma in situ at this margin. There are peritumoural intraalveolar foamy histiocytes (obstructive pneumonia) which, with the tumour, spans 12mm, collections of pigmented intra-alveolar macrophages and minor foci of organising pneumonia.  Away from the tumour the lung parenchyma, including the pale areas detected grossly, are unremarkable.  One peribronchial lymph node shows anthracotic changeonly. 
+Immunohistochemistry:
+The tumour cells stain as follows:
+Positive:  CK7
+Negative: CK20, TTF1.
+COMMENT:
+In the appropriate clinical and radiological context the morphological features and immunoprofile are consistent with a lung primary.  The absence of TTF 1 expression is not against a lung primary as primary mucinous adenocarcinomas of the lung are frequently TTF1 negative.  The appearances, however, are not specific as a metastatic adenocarcinoma from the upper gastrointestinal tract, including the pancreas or biliary tract could also display similar morphology.  Clinical and radiological correlation is required.
+B.  One lymph node shows anthracotic change only. There is no evidence of malignancy. 
+C.  One lymph node shows anthracotic change only. There is no evidence of malignancy. 
+SYNOPTIC REPORT FOR INVASIVE LUNG CARCINOMA:  
+Specimen type:Left upper lobectomy.  
+Topography: Peripheral
+Tumour location:  Left upper lobe
+Tumour size:  (total size 7.5mm with invasive component measuring 4.2mm).
+Tumour type (IASLC/ATS/ERS classification 2011).  Minimally invasive adenocarcinoma, mucinous
+Histological grade: Moderately differentiated
+Vessel invasion:  Not seen. 
+Perineural invasion:  Not seen.  
+Visceral pleural involvement:  Not involved.
+Bronchial resection margin:
+-  Carcinoma in-situ:  Absent.
+-  Invasive carcinoma:  Absent.
+-  Minimum distance between tumour and resection margin:  30mm.
+Vascular resection margin:  Clear. 
+Lymph nodes:  Not involved;three negative lymph nodes (one peribronchial node, (specimen A), one hilar lymph node (specimen B) and on AP window lymph node (specimen C).
+Non-neoplastic lung:  Unremarkable.  
+Pathological staging (AJCC 7th Ed. 2010): pT1a, N0, MX
+
+DIAGNOSIS:
+Left upper lobe lobectomy, hilar lymph node and AP window lymph node:
+-  7.5mm minimally invasive mucinous adenocarcinoma (IASLCA/ATS/ERS classification 2011)
+-  Stage 1A (pT1aN0MX) AJCC (7TH edition 2010).
+

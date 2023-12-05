@@ -1,0 +1,64 @@
+
+ 8601339.NQE
+BENDALL, BENITO
+86B13395
+
+Last edited : 11/8/2063		Page: 2
+***SUPPLEMENTARY REPORT: MSI MARKERS 
+
+CLINICAL:
+Locally advanced caecal tumour.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a specimen of terminal ileum (100mm in length), caecum and ascending colon (175mm in length), vermiform appendix (70mm in length and up to 9mm in diameter) and mesenteric and pericolic fat (180 x 70 x 20mm).  There is a circumferential tumour within the caecum just below the ileocaecal valve causing near obstruction of the caecum, and measuring 52 x 35 x 22mm.  The tumour extends into the pericolic fat.  The tumour is 110mm from proximal and 145mm from distal resection margins.  There are several indurated lymph nodes within the fatty tissue.  The serosal surface of the vermiform appendix is smooth and glistening.  The cut surface is unremarkable.  
+Blocks: 1 - distal shave margin; 2 - proximal shave margin; 3 & 4 - (paired sections) tumour; 5 - LS through the ileocaecal valve; 6 - LS tumour; 7 & 8 - (paired sections) tumour; 9 & 10 - (paired sections) tumour; 11 - sectionof the tumour (reserve block); 12 - representative appendix; 13 - apical lymph node bisected; 14 - representative section from one indurated lymph node; 15 - lymph nodes as seen; 16 - representative sections two lymph nodes adjacent with the tumour; 17 - lymph nodes as seen; 18 - one bisected lymph node; 19 - one bisected lymph node; 20 - lymph nodes as seen; 21 - representative indurated lymph node.(HM/ta 11/6/63) 
+MICROSCOPIC:  (Reported by Dr V Blosser)
+The caecal tumour is a moderately differentiated adenocarcinoma. A synoptic report for colonic carcinoma follows:
+SYNOPTIC REPORT FOR COLONIC CARCINOMA
+Macroscopic Description
+Site of tumour: Caecum.	
+Maximum tumour diameter: 52mm (macroscopic).
+Distance of tumour to nearer cutend: 110mm (proximal margin - macroscopic).   
+Tumour perforation: Yes (pT4).
+Microscopic Description
+Type
+Adenocarcinoma NOS.
+Differentiation by predominant area
+Moderate.
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+
+Tumour involvement of margins
+Cut ends: Not involved.
+Lymphovascular invasion
+Present.
+Perineural invasion
+Present.
+Lymph nodes
+Number of lymph nodes present: Twenty (20).
+Number of lymph nodes involved: Fifteen (15/20).
+pN2b	Metastases in 7 or more regional LN
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically.
+Background abnormalities/other comments
+The appendix show fibrous obliteration of the appendiceal tip and there is extensive infiltration of the proximal appendix by carcinoma. 
+Residual tumour status
+R0	No residual tumour.
+Response to neoadjuvant therapy
+Not applicable.
+Microsatellite Instability	
+Pending.
+
+pTNM Stage = IIIC pT4aN2bMx)   pTNM 7th Edition	
+
+
+DIAGNOSIS:
+Right hemicolectomy:
+52mm, pTNM Grade IIIC, moderately differentiated caecal adenocarcinoma, clear of surgical margins.
+Carcinoma penetrates the visceral serosa and there is perineural and lymphovascular space invasion.
+Metastatic carcinoma is present in 15 of 20 lymph nodes (15/20).
+
+
+***SUPPLEMENTARY REPORT: MSI MARKERS 
+Dr V Meekins (11.8.2063)
+MLH1	Preserved nuclear staining
+

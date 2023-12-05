@@ -1,0 +1,155 @@
+SPR no: 10P0452379
+MRN no: 10604523
+Site_name: LEIGH CREEK HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pancreatic ductal adenocarcinoma, no previous therapy.  Whipple procedure performed.  Whipple specimen (pancreaticoduodenectomy) opened anteriorly: small portion of tumour/duct removed for research, and specimen closed anteriorly with blue sutures.  Marking sutures (black silk) posteriorly x1 portal vein, x2 SMA, x3, uncinate process.  Omentum included as separate specimen.
+
+Specimen received fresh, 8mm of tissue taken for biobank by BL.  Remainder in formalin.
+
+Request information sheet received: No
+Radiology reports received: No (obtained from rooms subsequently.)
+
+MACROSCOPIC:
+
+Specimen labelled:  Whipple&amp;apos;s.
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&amp;apos;s resection), partial pancreatectomy
+
+Specimen dimensions:
+Length of duodenum: 240mm.
+Length of lesser curve of stomach: 70mm.
+Length of greater curve of stomach: 80mm.
+Size of gallbladder: 120 x 50 x 10mm.
+Wall thickness of gallbladder: 1mm
+Calculi in gallbladder: No
+Size of and weight of spleen: Not applicable.
+Peri pancreatic gastric fatty tissue: 60 x 45 x 30mm
+Size of pancreas: 77 x 40 x 60mm.
+Pancreatic duct at margin:  Diameter of up to 7mm.
+Common hepatic duct:  Diameter up to 8mm.
+Location of stent: Not applicable.
+Length of segment of vessels present in resection specimen: Not applicable.
+Omentum:  Measures 480 x 100 x 20.
+
+Orientation:
+Portal vein: one silk suture
+Superior mesenteric artery: two silk sutures.
+Uncinate process:  three silk sutures.
+Common bile/hepatic duct: Ligated
+Other: There are to nylon sutures on the posterior aspect, with an incision measuring 33mm in length linearly extending from superior to inferior at the posterior aspect.  The end of the gallbladder appears disrupted and tied off with a silk suture.
+
+Tumour location:
+Pancreatic head
+
+Tumour:
+Description: Pale, poorly defined tumour, with suspected necrosis, within pancreatic parenchyma, identified in slices five to seven.
+Tumour Size: approximately 17 x 15 x 15mm.
+Greatest dimension: 17mm
+Additional dimensions:15 x15mm
+
+Distance of tumour to margins:
+Pancreatic neck: Well clear
+Common bile duct: Appears in close proximity to intrapancreatic common bile duct.
+Portal vein bed: 5mm
+Superior mesenteric artery: 4mm
+Uncinate process: 17mm
+Proximal intestinal/gastric: Well clear
+Distal intestinal margin: Well clear
+
+Distance of tumour to surfaces:
+Anterior: Approximately 40mm
+Posterior: Approximately 15mm.
+
+Additional gross pathologic findings: None.
+
+Specimen inked:
+Anterior: Red
+Posterior: Yellow
+Portal vein: Blue
+Superior mesenteric artery: Black
+Uncinate process: Green
+Gastric margin:  Blue
+Duodenal margin: Black
+Pancreatic neck margin: Green
+
+Blocks: 1 - LS gastric margin; 2 - LS duodenal margin; 3 - bisected LS hepatic duct margin; 4 to 7 - sequentially embedded LS pancreatic neck margin; 8 - slice one, pancreas; 9 - slice two, pancreas; 10 - slice three, pancreas; 11 - slice four, pancreas; 12 - slice five, pancreas; 13 - slice six, pancreas; 14 - slice seven, pancreas; 15 - slice eight, pancreas; 16 - slice nine, pancreas; 17 - slice ten, pancreas; 18 - slice eleven, pancreas.  (Entire pancreas embedded); 19 - RS gallbladder fundus, body, neck region; 20 - one lymph node in three TS; 21 - one lymph node bisected; 22 to 27 - lymph nodes as seen; 28 to 30 - RS omentum.  Please refer to photos.   (TO:NM/ta 18/2/71)
+
+
+MICROSCOPIC (Reported by Dr D Buddle):
+Sections show an 18mm moderately to poorly differentiated adenocarcinoma, with features favouring a cholangiocarcinoma of the distal intrapancreatic common bile duct. The epicentre of the lesion is in the distal intrapancreatic common bile duct. There is symmetrical, circumferential involvement of the duct with invasion into the adjacent pancreas up to a depth of 6mm (13). At the periphery of the lesion, transmural, circumferential involvement of the main pancreatic duct is also present (13). The lesion is confined to the pancreas. The lesion abuts but does not invade into the ampulla of Vater. No duodenal involvement is seen. No convincing lymphovascular invasion is identified.
+
+Focal perineural invasion is present in the pancreas.
+
+Severe dysplasia is present in the main pancreatic duct, branched ducts and intrapancreatic common bile duct, clear of margins.
+
+The pancreas adjacent to the lesion shows chronic pancreatitis with acinar atrophy. Multiple cystically dilated ducts lined by benign ductal epithelium are present.  The extrapancreatic common bile duct shows mild chronic inflammation and fibrosis, and has a diameter of 10mm. The gallbladder shows chronic cholecystitis.
+
+
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Ductal adenocarcinoma, favour cholangiocarcinoma
+
+Histological grade
+Moderately to poorly differentiated
+
+Tumour site
+Favour intrapancreatic common bile duct
+
+Extent of tumour invasion
+Pancreas
+
+Maximum tumour diameter
+18mm (microscopic)
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Present, within pancreas (13)
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not seen
+
+Pre-invasive lesion
+Severe dysplasia, intrapancreatic common bile duct and main pancreatic duct (13)
+
+Margins invasive lesion:
+Pancreatic neck: &amp;gt; 10mm
+Common bile duct: &amp;gt; 10mm
+Portal vein (superior mesenteric vein): 10mm (12)
+Superior mesenteric artery: 8mm (13)
+Periuncinate soft tissue: 10mm (13)
+
+Surfaces:
+Anterior: &amp;gt; 10mm
+Posterior: 5mm (14)
+
+Margins severe dysplasia:
+Pancreatic neck: &amp;gt; 10mm
+Common bile duct: &amp;gt; 10mm
+
+Lymph nodes:
+Number found: 24
+Number involved: 0
+
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (pT)
+T2	Tumour invades the bile duct wall with a depth of 5-12 mm.
+
+Regional lymph node category (pN)
+N0	No regional lymph node metastasis
+
+Distant metastasis category (pM)
+MX	Not assessable by histology
+
+
+DIAGNOSIS
+Whipple resection:
+- 18mm moderately to poorly differentiated adenocarcinoma, favour cholangiocarcinoma of the intrapancreatic common bile duct
+- 24 lymph nodes with no evidence of malignancy

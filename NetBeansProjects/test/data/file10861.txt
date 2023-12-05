@@ -1,0 +1,49 @@
+SPR no: 04U279454P
+MRN no: 04727945
+Site_name: CALVARY PUBLIC HOSPITAL ACT
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  04U279454P
+04727945.KPQ
+
+BRUUN, JULIUS TRUMAN
+Lab No:  04U27945
+Moores Hill
+SEYMOUR  Northern Territory  0872
+Specimen: Tissue
+D.O.B:  25/5/1992
+Sex:  M
+Collected: 18/03/2016 at 19:34
+Location:  OPERATING THEATRES-CESSNOCK DISTRICT HOSPITAL
+DR AURELIO CYRUS HANKEY
+Distribution:
+CLINICAL:
+Extended right hemicolectomy an non anatomical liver resection for recurrent gallbladder carcinoma.  CABG, OSA, HTN, adenocarcinoma of gallbladder, cholecystectomy, gout, obesity.  Extended right hemicolectomy and liver.
+Additional history: Known gallbladder carcinoma, previous cholecystectomy. Residual gallbladder carcinoma invading into colon.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Extended right hemicolectomy and non anatomical liver resection for recurrent gallbladder carcinoma&amp;quot;, consists of a right hemicolectomy and a separate segment of small bowel.
+The small bowel is 405mm in length x 30mm in diameter.  Along the length of the bowel there is an epithelialised rim surrounding a stoma.  The bowel on either side of the stoma is haemorrhagic and the mesentery is covered with haemorrhage and fat necrosis.  The ends appear unremarkable with normal mucosal folds.  No tumour is identified within the mucosa or within the mesentery.  One end is inked blue and the other black.
+The right hemicolectomy is composed of a terminal ileum (40mm in length x 40mm in diameter) and caecum to ascending colon (360mm in length), as well as, appendix.  There is a wedge of liver adherent to the serosal surface of the large bowel mesentery, 130 x 80 x 45mm, approximately 130mm from the caecal tip and 130mm from the distal margin (ascending colon). There is an adjacent  roughened surface which is inked black (surgical margin). At the point of liver adhesion, the colonic mucosa contains an ulcerating tumour with a stricture, 40 x 30mm.  The tumour is approximately 140mm from the proximal surgical margin (terminal ileum), 150mm from the distal surgical margin (ascending colon), and 45mm from the hepatic surgical margin.  The tumour appears to invade into the surrounding mesocolon stopping short of the adherent liver.  Distal to the tumour the bowel diameter is 40mm and proximal to the tumour the bowel is dilated up to 70mm in diameter.  The bowel away from the tumour appears unremarkable with no polyps identified.  The appendix is present and measures 90 x 5 x 5mm.  On sectioning the liver is unremarkable with no lesions identified.
+Blocks: 1 &amp;amp; 2 - margins from separate small bowel length; 3 &amp;amp; 4 - (paired blocks) through stoma; 5 - representative fat necrosis along mesentery and possible LN; 6 &amp;#8211;tumour within ascending colon; 7 &amp;amp; 8 (paired blocks) - tumour and closest hepatic margin; 9 - tumour and normal bowel; 10 - tumour and interface with liver; 11 - (big block) tumour and infiltration within mesocolon and adherent liver; 12 &amp;amp; 13 - further blocks of tumour; 14 &amp;amp; 15 &amp;#8211; appendix; 16 &amp;#8211; liver away from tumour; 17 &amp;#8211; proximal terminal ileal margin; 18 &amp;#8211; distal ascending colon margin; 19 to 27 - lymph nodes as seen; 28 to 30 &amp;#8211; fat necrosis and firm areas within mesocolon.  (TO: JL; JL/ta 23/5/66)
+
+MICROSCOPIC:  (REPORTED BY DR A Diehm)
+Sections of the ascending colon tumour show a moderately to well differentiated adenocarcinoma. It carcinoma appears to extend from the gallbladder bed into overlying colon wall and superficial liver parenchyma. The carcinoma shows full thickness invasion throughout all layers of the bowel wall. The adjacent gallbladder bed shows foreign body reaction in keeping with previous surgery. The tumour consists of infiltrative tubules and cribriform structures. There is perineural invasion and foci suspicious for lympohvascular space invasion. Carcinoma is less than 0.56mm from the colonic serosal surface. Carcinoma is 7mm from the hepatic surgical margin and appears clear of the terminal ileal and colonic margins. There is direct involvement of one of fifteen sampled colonic lymph nodes (1/15).
+The adjacent uninvolved liver shows patchy mild to moderate macrovesicular steatosis, portal inflammation, spotty necrosis and some perivenular fibrosis. The possibility of underlying steatohepatitis cannot be excluded. The appendix shows fibrous obliteration of the tip and mild acute appendicitis and serositis. The appendiceal inflammation is most likely secondary to adjacent intra-abdominal pathology.
+Sections through the separate length of small bowel confirm the presence of an inflamed stoma. The mucosa adjacent to the stoma appears ulcerated with acute inflammation and surface erosion in keeping with prolapse. Adjacent fat necrosis is also present.
+IMMUNOHISTOCHEMISTRY:
+Immunohistochemical stains were performed and the results are as follows:
+Tumour cells positive for: ck7, ck19.
+Tumour cells negative for: ck20, Hepar-1, TTF-1, PSA.
+
+COMMENT:
+The tumour involving colon, gallbladder bed and superficial liver is a moderately to well differentiated adenocarcinoma. The overall morphology and pattern of immunohistochemistry would be consistent with origin from the known primary adenocarcinoma. The margins appear clear of carcinoma.
+DIAGNOSIS:
+Right hemicolectomy and hepatectomy:
+Moderately to well differentiated adenocarcinoma - consistent with primary gallbladder origin.
+Focal perineural invasion
+Foci suspicious for lympohvascular space invasion.
+Carcinoma clear of margins.
+One of fifteen lymph nodes shows direct infiltration by carcinoma (1/15).
+Liver shows changes suggestive of steatohepatitis.
+Separate small bowel includes inflamed stoma with prolapsed type changes.
+Please correlate with clinical findings.

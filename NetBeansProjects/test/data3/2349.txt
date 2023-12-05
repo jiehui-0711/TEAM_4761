@@ -1,0 +1,97 @@
+Episode No:  26C584355O
+2605843.POO
+
+REGES, DANUTA HOWARD 
+Lab No:  26C58435
+Sawhorse
+TOM PRICE  VIC  5720
+Specimen: Tissue
+D.O.B:  17/10/1987
+Sex:  F
+Collected: 13/8/2065 at :
+Location:  DAY SURGERY UNIT-PETER MACCALLUM CANCER CENTRE
+DR DANE MARINE ELZEY
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+L mastectomy and sentinel node biopsy.  Lobular carcinoma.  
+Extra history: 26C58435; core bx 6 o'clock 6cm FN showed lobular carcinoma US features include the distortion of the inferior left breast.  Large area of architectural distortion on ultra sound.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary sentinel node", consists of a piece of tissue 60 x 25 x 10mm.  Three possible lymph nodes are identified measuring 10, 8 and 8mm in maximum dimension.  Imprints performed.  
+Blocks: 1 - lymph node one; 2 - lymph node two; 3 - lymph node three; 4 - possible lymph nodes in fibrofatty tissue. 
+B.  Specimen labelled "Left axillary sentinel node", consists of a piece of fibrofatty tissue 20 x 15 x 8mm.  A lymph node is identifiedmeasuring 12mm in maximum dimension.  Imprints performed. 
+Blocks: 1 - one lymph node; 2 - rest of tissue AE.
+C.  Specimen labelled "Left mastectomy breast tissue suture long lateral", consists of a mastectomy measuring 250 x 190 x 50mm. There is an ellipse of skin containing a nipple areola complex on the superficial surfacemeasuring 250 x 150mm in area.  There is a suture at one end designated lateral.  The superficial surface is inked blue and the deep black.  On sectioning there is a firm area over approximately 60 x 50 x 35mm at 6 to 8 o'clock, 55mm from the nipple.  This area appears to abut the inferior aspect.  There is a second firm area superiorly, 12 o'clock spaced 55mm from the nipple.  This area measures approximately 40 x 40 x 35mm.  
+Blocks: 1 - nipple areolar complex; 2 - tissue deep to nipple; 3 to 5 - composite blocks tumour one; 6 - full face oftumour; 7 - medial to tumour; 8 - lateral to tumour; 9 - further section of tumour one; 10 and 11 - inferior margins of tumour; 12 - medial aspect of tumour mass two; 13 and 14 - representative mass two; 15 - lateral to mass two; 16 -closest deep margin to mass two; 17 - upper outer quadrant; 18 - upper inner quadrant; 19 - lower inner quadrant; 20 - lower outer quadrant; 21 and 22 lymph nodes at axillary tail.  (TO: IH;KK/vo 13.8.65) 
+IMPRINT CYTOLOGY REPORT:
+A.  Three negative lymph nodes.
+Phone results to Dr H Kittelson by Dr H Zisk and Dr H Tablada at 1:20pm on 13.08.2065.
+B.  One negative lymph node.
+Phone result to Dr H Wild by Dr H Kolasinski and Dr H Zachery at 13:31pm on 13.08.2065.
+MICROSCOPIC:  (Reported by Dr H Kopiak)
+A.  Sections of the four sentinel lymph nodes show no evidence of malignancy by H&E and IHC (0/4).
+B.  Sections of the sentinel lymph node show scattered individual isolated tumour cells within the subcapsular sinuses on IHC (1/1). No extranodal extension is identified. 
+C.  Sections of the left mastectomy show a 60mm focus of invasive lobular carcinomain the lower inner quadrant arising on a background of multifocal ALH/LCIS. The firm area identified at 12 o'clock is a focus of dense fibrosclerosis that contains a 0.56mm focus of invasive lobular carcinoma arising adjacent to ALH/LCIS.
+An incidental additional focus of microscopic invasive lobular carcinoma is also seen at the lower outer quadrant. A synoptic report for invasive breast carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma (1) - Lower inner quadrant (block C6)
+Site: Left breast 
+Type: Invasive lobular carcinoma. 
+In block C4, a diathermied cleft extends through the superficial aspect of the specimen and is continuous with the centre of the tumour mass. 
+Invasive tumour size: 60mm (macroscopic). 
+Grade (Modified Bloom & Richardson): 1
+Tubules: 3     Nuclei: 1     Mitoses: 1      Mitotic rate:   Less than 1/10hpf.
+Lymphovascular invasion: Not identified. 
+Invasive carcinoma (2) - At 12 o'clock, 55mm from nipple (block C15)
+Site: Left breast 
+Type: Invasive lobular carcinoma.
+This small focus of invasive lobular carcinoma is present within a broad area of dense fibrosclerosis and has arisen within a field of extensive ALH/LCIS. 
+Invasive tumour size: 0.56mm (microscopic). 
+Grade (Modified Bloom & Richardson): 1
+Tubules: 3     Nuclei: 1     Mitoses: 1      Mitotic rate:   Less than 1/10hpf.
+Lymphovascular invasion: Not identified. 
+Invasive carcinoma (3) - Lower outer quadrant (block C20)
+Site: Left breast 
+Type: Invasive lobular carcinoma. 
+This small focus of invasive lobular carcinoma is present in the random outer lower quadrant tissue block and has arisen adjacent to a focus of of extensive ALH/LCIS. 
+Invasive tumour size: 0.56mm (microscopic). 
+Grade (Modified Bloom & Richardson): 1
+Tubules: 3     Nuclei: 1     Mitoses: 1      Mitotic rate:   Less than 1/10hpf.
+Lymphovascular invasion: Not identified. 
+	    
+DCIS component:  
+DCIS: Not identified. 
+Excision Margins:  
+Invasive component:
+Superficial margin: Tumour is present within diathermy artefact at the superficial margin (C3). (Note: there is a separate diathermy lined cleft which enters the tumour from the superficial aspect and is continuous with the centre of the tumour). 
+Deep margin: Less than 0.05mm (no intervening ducts/acini) (C4/7). 
+Inferior margin: 5.5mm (C11). 
+Receptors (Block C6): 
+ER:  	POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: strong.   
+PR:  	NEGATIVE
+	Less than 1% of nuclei stained
+	Predominant intensity of staining: Weak to moderate.   
+HER2 (Novocastra 10A7): POSITIVE 3+
+HER SISH:  Performed at Coventry Health Care, TEMORA HOSPITAL Hospital, see separate report.
+Ki-67 index: Approximately 5% of tumour cell nuclei positive. 
+Nipple: There is pagetoid involvement of a large retroareolar duct by LCIS. 
+LCIS / ALH: Extensive multifocal ALH/LCIS (including pagetoid involvement of large retro-areolar ducts) is present. 
+ 
+Miscellaneous: The adjacent non-neoplastic breast tissue shows columnar cell change and fibrosclerosis. 
+Sentinel lymph node(s): See specimens A and B. 
+
+DIAGNOSIS:
+A.  Left axillary sentinel lymph node: No evidence of malignancy in four lymphnodes (0/4). 
+
+B.  Left axillary sentinel lymph node: Scattered individual isolated tumour cells identifiedon IHC (1/1). 
+
+C.  Left mastectomy: 
+60mm invasive lobular carcinoma (lower inner quadrant) arising on a background of extensive ALH/LCIS.
+Two additional microscopic foci of invasive lobular carcinoma (0.56mm each) arising adjacent to ALH/LCIS (at 12 o'clock and lower outer quadrants). 
+ER and Her-2 positive; PR negative. 
+Invasive lobular carcinoma ispresent at the superficial margin and is very close to deep margin (less than 0.05mm). 
+
+HER-2 SISH is being performed and a separate report will be issued. 
+
+

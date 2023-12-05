@@ -1,0 +1,31 @@
+SPR no: 16E629233R
+MRN no: 6512926
+Site_name: BASS COAST REGIONAL HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Mediastinal collection fluid.  Depression.  Ex IVDU.  Smoker.
+Small bowel resection during repair of hiatus hernia. Full thickness tear.
+Colonic resection during hiatus hernia repair. Full thickness.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Small bowel resection&amp;quot;, consists of a segment of unorientated bowel measuring 260mm in length with a maximum circumference of 47mm.  The mesocolon measures up to 33mm in width.  There are two staple lines on each margin of the bowel.  There are three areas of disruption / opening into the bowel mucosa, the first is 13mm from the nearest staple line and measures 12 x 16mm, the second is 103mm from the nearest staple line and measures 66 x 25mm, and the third is 26mm from the nearest staple line and measures 33 x 22mm. The small bowel appears adherent to each other over a length of approximately 26mm.  On the serosal surface there are two tan nodules, first 10 x 7 x 3mm, located 95mm to the nearest staple line, the second 9 x 7 x 2mm, 6mm to the nearest, same stapled line. The serosal surface appears smooth and grey otherwise.  There are three irregular grey pieces of tissue, consistent with fibrin, measuring in greatest dimension 27mm, 55mm, and 63mm and in aggregate 63 x 47 x 10mm.  One stapled margin is inked blue, and the opposite stapled margin is inked black.  Blocks: 1 - LS both margins (blue inked end to closest disrupted bowel, black inked end with closest serosal nodule); 2 - RS second disrupted area; 3 - RS third disrupted area; 4 - RS serosal nodule surface furthest from margin; 5 - RS TS adhesions between bowel loops; 6 and 7 - lymph nodes as seen; 8 - RS grey fibrinous material.
+
+B.  Specimen labelled &amp;quot;Sigmoid colon&amp;quot;, consists of a segment of bowel measuring 46mm in length with a maximum of 51mm.  The specimen contains two stapled lines, measuring 47mm and 50mm.  There is a full thickness disruption on the mesenteric side of the colon measuring 10 x 7mm.  Scant mesocolon up to 5mm is present.  The remainder of the bowel mucosa appears unremarkable.  The perforation side is located 21mm to the blue inked margin and 22mm to the black inked margin.  Blocks: 1 - LS blue inked margin to perforation; 2 - LS black inked margin to perforation.
+
+C.  Specimen labelled &amp;quot;hiatus hernia sac&amp;quot;, consists of two unorientated tan and brown friable irregular pieces of tissue, 33 x 22 x 17mm, and 42 x 35 x up to 30mm.  Blocks: 1 - RS smaller piece; 2 &amp;amp; 3 - RS larger piece.  (TO:ZR/eh 27/4/68)
+
+
+MICROSCOPIC (Reported by Dr E Ingersol):
+A.  Sections of small bowel show extensive acute peritonitis and areas of serosal fibrosis. A section from the separate piece of tissue shows dense suppurative inflammation.  The features are in keeping with the clinical history of full thickness tear.  There are 9 lymph nodes with no evidence of malignancy.  There is no evidence of dysplasia or malignancy.
+
+B.  Sections of colon show acute peritonitis and focal serosal fibrosis. The features are  in keeping with clinical history of full thickness tear.  There is no evidence of dysplasia or malignancy.
+
+C.  Sections show dense suppurative inflammation.
+DIAGNOSIS:
+A.  Small bowel resection:  Acute peritonitis and serosal fibrosis.
+
+B.  Sigmoid colon:  Acute peritonitis and serosal fibrosis.
+
+C.  Hiatus hernia sac:  Acute suppurative inflammation.

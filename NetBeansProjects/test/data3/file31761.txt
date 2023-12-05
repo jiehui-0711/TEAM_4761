@@ -1,0 +1,62 @@
+SPR no: 54M662291J
+MRN no: 5446622
+Site_name: BROADMEADOWS HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+69 year old female increasing size pancreatic cyst.  No biliary obstruction.  Silk suture to CBD, 1 PDS suture to portal vein margin and 2 PDS sutures to SMA/uncinate margin.
+Additional information:  MRI (19/2/67) - 40mm cyst within uncinate process.  Main duct of normal calibre.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Whipples&amp;quot;, consists of a partial pancreaticoduodenectomy.  There is a segment of partial gastrectomy with a lesser curve of 30mm and greater curve of 40mm.  The duodenum is 240mm in length.  There is an attached gallbladder, 55mm x 35mm x 12mm.  The wall thickness of gallbladder ranges from 2 to 4mm.  The lumen is brown finely granular, no gallstones identified.  The partial pancreactomy is 80mm x 45mm x 43mm.  There are three sets of sutures as described.  There is a slightly disrupted area on the portal vein/uncinate.  The uncinate SMA margin inked red, portal vein bed inked blue, posterior inked green, anterior inked black.  Serially sectioned from superior to inferior into eight slices. Within the pancreas adjacent to the SMA/uncinate is an irregular cystic structure.  The cyst is 30 x 20 x 30mm.  The wall thickness is less than 1mm and cyst wall lining is irregular but no papillary projections identified.  No adjacent duct is seen next to the cystic structure.  The remainder of pancreas appears lobulated.  Present in slice 6 is a slightly polypoid area in the duodenum, 5 x 5 x 5mm.  The cyst structure abuts the uncinate SMA resection margin is 10mm from portal vein bed, 10mm from posterior, 20mm from anterior, 20mm from neck margin 170mm from distal intestinal resection margin and 30mm from proximal gastric resection margin.  There is also a separate fragment of fatty omentum, 130 x 100 x 50mm which appears unremarkable.  No focal lesions identified.  The entire lesion is embedded.
+Blocks: 1 - proximal gastric resection margin; 2 - distal intestinal resection margin; 3 - shave pancreatic neck resection margin; 4 - shave bile duct margin; 5 - gallbladder neck and fundus; 6 - sections of cystic duct; 7 - slice two pancreas; 8 - slice four pancreas with cyst; 9 - slice five pancreas with cyst; 10 - slice six with cyst and polypoid area of duodenum; 11 - slice seven pancreas with very end of cyst; 12 - slice eight pancreas; 13 &amp;amp; 14 - representative sections of unremarkable omentum.  (TO:JR/eh 1/7/69)
+
+
+MICROSCOPIC (Reported by Dr N Mccaie):
+Sections show an intraductal papillary mucinous neoplasm of the uncinate process of the pancreas with moderate to focally high grade dysplaia.  The tumour is most likely of branched duct type, consistent with the radiological features.  The epithelial subtype is manly gastric-type.  Low grade dysplasia extends into some other branched ducts and is present at the neck resection margin.  The cystic neoplasm is disrupted in the region of the portal vein bed however, is probably excised.  The seven (7) lymph nodes identified show no significant abnormality.  The entire lesion is examined and no invasive malignancy is seen.  The features are as follows:
+
+Histological tumour type
+Intraductal papillary mucinous neoplasm (IPMN).
+
+Histological grade
+Moderate to focally high grade.
+
+Microscopic tumour sites
+Uncinate process.
+
+Maximum tumour diameter
+27mm.
+
+Lymphovascular invasion
+Not identified.
+
+Perineural invasion
+Not identified.
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified.
+
+Pre-invasive lesion
+Present (IPMN).
+
+Margins:
+Pancreatic neck:  Low grade dysplasia present.
+Common hepatic duct:  Well clear.
+Portal vein (superior mesenteric vein):  0.1mm
+Superior mesenteric artery/Periuncinate soft tissue:  2mm.
+
+Surfaces:
+Anterior:  Well clear.
+Posterior:  1mm.
+
+Lymph nodes:
+Number found:  7
+Number involved:  0
+
+Other pathologies:
+Gallbladder shows no significant abnormality.
+
+
+DIAGNOSIS:
+Whipples:
+-  Intraductal papillary mucinous neoplasm with focal high grade dysplasia.
+-  No invasive malignancy is seen.

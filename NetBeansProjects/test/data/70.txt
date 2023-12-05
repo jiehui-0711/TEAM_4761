@@ -1,0 +1,87 @@
+
+Episode No:  96P969432H
+965969.LKG
+
+WYDRYCK, ROSELIA ASHTON WIRADJURI 
+Lab No:  96P96943
+Old Pickard
+BONGAREE  Victoria  6244
+Specimen: Tissue
+D.O.B:  24/8/1984
+Sex:  F
+Collected: 27/12/2063 at :
+Location:  Molecular Oncology-CLARE HOSPITAL
+DR SAUL TRACEY SCHUESSLER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Breast cancer.  Sentinel nodes.  Ca right breast.  SLN +ve (1/3)level 2 axillary dissection + mastectomy.  ER PR HER 2.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinelnode 1" consists of a mass of fatty tissue measuring 30mm in maximum dimension containing one unstained lymph nodes measuring 12mm.  The cut surfaces are unremarkable.
+Blocks:1 - one lymph node.
+Sentinel protocol not requested on Block A1.  
+  
+B.  Specimen labelled "Sentinel node 2" consists of a mass of fatty tissue measuring 30mm in maximum dimension containing two unstained lymph nodes measuring 10 and 6mm.  The cut surfaces are unremarkable.
+Blocks: 1 - lymph node one (bigger); 2 - lymph node two (smaller).
+Note by JA on 27/12/63.
+FROZEN SECTION REPORT:
+Metastatic carcinoma (Specimen A malignant cells, specimen B no malignant cells).  
+Result to Dr Hismith by Dr Reshid at 4:10pm on 25/10/13.  
+C.  Specimen labelled "Right breast" consists of a mastectomy specimen 210mm(lateral to medial) x 145mm (superior to inferior) x 115mm (superficial to deep).  The overlying skin measures 197 x 120mm bearing a prominent nipple 15mm in maximum dimension.  The skin surface is unremarkable.  The superficial margin is inked blue and the deep margin is inked black.  The deep margin is concave. There is a pale indurated tumour at 9 o'clock 10mm from the nipple measuring 28 x 22x 25mm.  The tumour is 18mm from inferior, 35mm from superior, 92mm from deep, 60mm fromlateral and 120mm from the medial margins.  The tumour is 18mm from the overlying skin.  There is an 8mm lymph node 10mm from the lateral margin.  There is a second pale indurated nodule 9 x 8 x 7mm at 9 o'clock 70mm from the nipple.  This nodule is 30mm lateral, 30mm from superior, 30mm from inferior and 50mm from deep margin.  The second nodule is 32mm from the larger tumour.  
+Blocks: 1 - lymph node bisected; 2 to 4 - continuous sections of tumour to superior margin (superior margin in block 4) (ER, PR, HER2 Ki-67 requested on block 2); 5 - section of tumour, reserve block; 6 & 7 - sections of the tumour; 8 - section of nipple; 9 - tissue behind nipple; 10 & 11 - random sections upper outer quadrant; 12 & 13 - random sections lower outer quadrant; 14 & 15 - random sections upper inner quadrant; 16 & 17 - random sections lower inner quadrant; 18 - second nodule bisected.  (Please see the diagram and photos).  
+D.  Specimen labelled "Axillary dissection" consists of a piece of fatty tissue 105 x 95 x 22mm.  The specimen is sliced and examined for lymph nodes.  Several lymph nodes are identified the largest is 28mm in maximum dimension.
+Blocks: 1 & 2 - comprise one lymph node; 3 - lymph nodes as seen; 4 - one bisected lymph node; 5 - lymph nodes as seen; 6 - one trisected lymph node.
+(KW/ta 30/12/63) 
+MICROSCOPIC (Reported by A/Prof Y Parrinello): 
+A. - D.  Right breast, sentinel node biopsies and axillary dissection.
+Invasive carcinoma:
+Site: 9 o'clock, 10 and 70mm from nipple.
+Type: Infiltrating duct carcinoma with a lobular like growth pattern. Fixation artefact makes interpretation difficult but there appears to be retained e-cadherin positivity.
+Invasive tumour size: Tumour 1, 10mm from nipple is 28mm (macroscopic measurement)
+Tumour 2, 70mm from nipple is 11mm(microscopic measurement)
+There are also two small tumour nodules measuring 3 and 4mm adjacent to tumour 2. 
+Grade (Modified Bloom & Richardson): 
+Tumour 1 = 2
+Tubules:   3  Nuclei:  2  Mitoses:  1    Mitotic rate:      1/10hpf.
+Tumour 2 = 2
+Tubules:  3    Nuclei:   2   Mitoses:   1   Mitotic rate:      1/10hpf.
+Lymphovascular invasion:  Not seen, although retraction artefact is present.
+	    
+DCIS component:  
+DCIS:  Not seen
+Excision Margins:  
+Invasive component: Wellclear. 
+In-situ component: n/a
+Receptors (Block C2 and C18): 
+ER:  Both tumours arestrongly ER positive
+	>90% of nuclei stained
+	predominant intensity of staining: Strong 
+PR:  Both tumours are strongly PR positive
+	>80% of nuclei stained
+	predominant intensity ofstaining: Strong 
+	 
+HER2 (Novocastra 10A7): Both tumours show 1+ staining, Case sent to ORROROO CAMPUS for SISH
+Ki-67 index: 5%
+Nipple:  
+No significant abnormality.
+LCIS / ALH:    
+Not seen.
+Miscellaneous:
+Columnar cell lesions are present.
+Sentinel lymph node(s): Specimens A and B.
+Number of sentinel lymph nodes examined: 3
+Number of sentinel lymph nodes involved by tumour: 1      
+Number of sentinel nodes with metastases >2.0mm: 1 (6mm deposit)   
+	Detected by: H&E and keratin staining.
+Extranodal spread: Not seen.
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 8
+Number of axillary lymph nodes involved by tumour:  0      
+ 
+A separate, benign intramammary node is alsopresent. (0/1)
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  12
+Total number of involved lymph nodes(including sentinel node(s)): 1 (sentinel node)
+DIAGNOSIS:
+RIGHT BREAST: MULTIFOCAL INFILTRATING DUCTCARCINOMA
+METASTATIC CARCINOMA IN ONE SENTINEL NODE
+

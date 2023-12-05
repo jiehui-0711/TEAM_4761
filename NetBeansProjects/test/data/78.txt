@@ -1,0 +1,63 @@
+Episode No:  71Y660589A
+719660.OVY
+
+ILALIO, CONNOR 
+Lab No:  71Y66058
+Cedarcrest
+NAIRNE    7275
+Specimen: Tissue
+D.O.B:  5/11/1995
+Sex:  F
+Collected: 26/10/2013 at 14:56
+Location:  DICKINSON 2 SOUTH-PETER JAMES CENTRE
+DR EMILE LUISA PASQUARIELLO
+Distribution:   FILE-COPY, DR ANTOINE, DR Corsey,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Hepatic flexure cancer.
+MACROSCOPIC:
+Specimen labelled "Right colon" consists of a specimen of distal terminal ileum (40mm in length above the ileocecal valve), proximal colon (405mm in length) and pericolonic fatty tissue (up to 45mm across).  The vermiform appendix is 65mm in length and up to 5mm in diameter.  There is an indurated tumour 42x 25 x 5mm.  The tumour has a depressed centre and raised edges 60mm from distal and 330mm from the proximal resection margins.  The tumour is based on the antimesenteric surface.40mm proximal to the tumour there is a sessile polyp 15 x 5 x 5mm.  There is a second sessile polyp at the junction of the caecum and ascending colon 5mm in maximum dimension.  The tumour is infiltrating the muscularis propria.  The tumour is 45mm from the mesenteric fat resection margin.  The appendix has a smooth shiny serosal surface.  Its cut surface appears unremarkable.  Several lymph nodes are identified.
+Blocks:  1 - proximal resection margin, shave; 2 - distal margin, shave; 3 to 7 - TS sections of the tumour; 8 - the 15mm polyp; 9 - the 5mm polyp; 11 - the apical lymph node; 12 - lymph nodes as seen; 13 - one bisected lymph node; 14 - lymph nodes as seen; 15 - one bisected lymph node.  (TO: RM; TG/rt 30.12.63)
+
+
+MICROSCOPIC (Reported by Dr S Atherholt):
+
+Site of tumour:  Hepatic flexure	
+Maximum tumour diameter:  42mm
+Distance of tumour to nearer cut end:60mm (distal)
+Tumour perforation:   No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria (tumour cells with afibro-inflammatory response within 1mm of the serosal surface, blocks 4, 5 and 7, see comment)
+Lymph nodes
+Number of lymph nodes present:  14	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities
+There are two tubular adenomas with low grade, clear of margins.
+The appendix shows fibrous obliteration of the lumen.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary- TNM 7th Edition
+pT3 (see comment)     pN0     pMX     R0
+COMMENT
+Tumour cells with a fibro-inflammatory response are seen within 1mm of the serosal surface. Although this would be classified as pT3 under AJCC 7th Ed., recent studies suggest these cases have a prognosis similar to pT4a lesions (1)
+	
+(1) Panarelli et al. Histologic Features and Cytologic Techniques That Aid Pathologic Stage Assessment of Colonic Adenocarcinoma, Am J Surg Pathol, 2013;37:1252-1258
+

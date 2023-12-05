@@ -1,0 +1,18 @@
+SPR no: 88M160521F
+MRN no: 88416052
+Site_name: WARREN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post neoadjuvant chemo for high grade serous cancer, interval debulking.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, received unopened in formalin, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 63g in total.  The uterus measures 70 x 45 x 35mm, with scattered possible tumour deposits on the serosal surface, up to 7mm in maximum dimension.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  The endocervical canal is stenosed, but patent enough for insertion of a probe.  On sectioning, the endometrium measures less than 1mm in thickness and the myometrium up to 13mm in thickness.  The myometrium contains a single, partly calcified fibroid, partly encroaching on the fundal aspect of the endometrial cavity.  The fibroid measures 14mm in maximum dimension, and has a pale grey, whorled appearance.  The left fallopian tube is intimately attached to the left ovary, 40 x 30 x 20mm.  The right fallopian tube is intimately associated with the right ovary, 38 x 25 x 17mm.  The right ovary contains a 5mm haemorrhagic cyst.
+Blocks: 1 to 3 - midline LS anterior uterus and cervix; 4 to 5 - midline LS posterior uterus and cervix; 7 &amp;amp; 8 - serosal nodules; 9 - LS complete fimbrial end left fallopian tube; 10 to 12 - TS left ovary, including TS of adherent fallopian tube; 13 - LS complete fimbrial end right fallopian tube; 14 to 16 - TS right ovary, including TS attached fallopian tube.
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omental tissue, 230 x 130 x 40mm.  The serosal surface is smooth and shiny, apart from an area of haemorrhage, and possible necrosis, 70 x 50mm.  On sectioning, no viable tumour is identified.
+Blocks: 1 to 3 - representative haemorrhagic/necrotic area; 4 &amp;amp; 5 - representative omentum.
+(TO:JB/rs 16/2/67)
+MICROSCOPIC (Reported by Dr X Lowthorp):
+A &amp;amp; B.  Tiny deposits of chemotherapy effected carcinoma cells are scattered over the uterine serosa, the surface of both ovaries and the omentum.  The carcinoma cells are consistent with high grade serous carcinoma.  These are associated with other chemotherapy changes including fibrosis, calcification and foamy macrophages. The CRS = 3 (near complete response).
+The ectocervix and endocervix are unremarkable.  The endometrium shows cystic atrophy.  The tubes are unremarkable.
+DIAGNOSIS:
+Tiny scattered deposits of chemotherapy effected high grade serous carcinoma present involving the uterine serosa, surface of both ovaries and the omentum.

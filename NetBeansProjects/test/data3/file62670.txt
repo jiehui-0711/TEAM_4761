@@ -1,0 +1,48 @@
+SPR no: 79C6417873
+MRN no: 7906417
+Site_name: CARITAS CHRISTI HOSPICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report79C64178,79C64178 (79C6417873) Honse, DEREK
+HISTOPATHOLOGY REPORT
+JUNEE MULTI PURPOSE SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Pelvic mass. CA125=25
+Uterus tubes ovaries cervix
+
+MACROSCOPIC:
+&amp;quot;UTERUS, TUBES, OVARIES&amp;quot; A uterus with attached cervix, bilateral tubes and ovaries, and a large mass, weighing 2107g and measuring 245x180x175mm overall.
+
+The uterus measures 125mm longitudinally, 65mm between the cornua, and approximately 100mm anteroposteriorly. The anterior side is inked blue and the posterior side is inked black. The cervix is 22x20mm in transverse section and 25mm in length. The external cervical os is 15x4mm. The endometrium is up to 5mm in thickness. There are no polyps. There are cysts in the anterior cervix up to 2mm across and cysts in the posterior cervix up to 9mm across. There are no polyps. The anterior myometrium is approximately 65mm in thickness and the posterior myometrium is approximately 33mm in thickness. There are multiple large fibroids ranging in maximal size from 8mm across to 210x120x110mm. The serosa is smooth but distorted by the fibroids. The fibroids all show a uniform cream whorled cut surface, with no areas of increased vascularity or haemorrhage.
+
+The right fallopian tube is 70mm in length, 6mm in diameter, and up to 19mm across the fimbriae, with a stricture at the proximal end of the tube. The right ovary is 60x18x5mm. The left fallopian tube is 35mm in length, 8mm in diameter, and up to 18mm across the fimbriae, with a stricture at the proximal end of the tube and with one parafimbrial cyst up to 8mm across. The left ovary is 30x25x15mm.
+
+(1 anterior cervix; 2 posterior cervix; 3&amp;amp;4 right tube [3 proximal end, either side of stricture, and mid, 4 distal fimbriae all embedded]; 5 right ovary; 6&amp;amp;7 left tube [6 proximal end, either side of stricture, including cyst, 7 fimbriae all embedded]; 8 left ovary; 9 anterior myometrium; 10 posterior myometrium; 11 posterior myometrium, thickened endometrium; 12-14 RS smaller fibroids; 15-20 RS largest fibroid).  Representative sections.(M-20/FR 23/1/2070 nh)
+
+Further blocks:
+(21  anterior cervix; 22  posterior cervix). (FR 3/1/2071 km).
+
+MICROSCOPIC: (Dr. T. Vanhoutte)
+The endocervix shows no significant abnormality. No ectocervical epithelium is present for assessment.
+
+The endometrium is in late proliferative phase. There is no evidence of endometritis or hyperplasia.
+
+The myometrium shows benign leiomyomas.
+
+The right fallopian tube shows serosal endometriotic deposits and otherwise no significant abnormality.
+
+The left fallopian tube is unremarkable.
+
+The right and left ovaries show no significant abnormality.
+
+There is no evidence of malignancy.
+
+DIAGNOSIS:
+CERVIX: NO SIGNIFICANT ABNORMALITY
+ENDOMETRIUM: PROLIFERATIVE
+MYOMETRIUM: BENIGN LEIOMYOMAS
+RIGHT FALLOPIAN TUBE: SEROSAL ENDOMETRIOTIC DEPOSITS
+LEFT FALLOPIAN TUBE: NO SIGNIFICANT ABNORMALITY
+RIGHT AND LEFT OVARIES: NO SIGNIFICANT ABNORMALITY
+3/1/2070 nh

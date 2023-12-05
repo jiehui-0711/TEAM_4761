@@ -1,0 +1,135 @@
+SPR no: 32U754466N
+MRN no: 327754
+Site_name: PARABURDOO HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report32U75446 (32U754466N) Thygerson, Terence Benito
+HISTOPATHOLOGY REPORT
+SUNSHINE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+R breast sentinel node frozen section.  Lumpectomy R breast, axillary clearance and further nodes, long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT SENTINEL NODE BIOPSY&amp;quot;.  Fat containing two nodes - 1. Pale 15x10x8mm with 4mm pale nodule at one end.  2. Lymph node 2 is 4mm (not frozen).  One TS of the larger pale node is taken as one chunk for frozen section.
+
+F/S : &amp;quot;Metastatic carcinoma 8mm in diameter&amp;quot;.  Reported to Dr. H Loukota by Dr. H. Vacarro 13.7.71.
+
+(1 FS; 2&amp;amp;3 remainder of lymph node 1; 4 lymph node 2).  RS (M-4)
+
+B.  Specimen labelled &amp;quot;RIGHT BREAST LESION&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  75mm
+Superior to inferior:  35mm
+Anterior to posterior:  35mm
+WEIGHT:  42g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial
+Number of slices: 16
+FINDINGS / LESION:  From slice 5 to slice 14 there is a white lesion with multinodular pushing borders measuring 33mm medial to lateral x 22mm.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+Anterior 10mm, posterior close, in slices 11-16, superior 10mm, inferior possible involved slices 8-13, lateral 20mm
+(1 slice 1 serially sliced [lateral]; 2 slice 2; 3 inferior slice 3; 4 inferior slice 4 [start of lesion]; 5&amp;amp;6 slice 7; 7-9 full face slice 9; 10 posterior slice 10; 11 posterior slice 11; 12-14 slice 13; 15&amp;amp;16 posterior slice 14; 17 slice 15; 18 three LS slice 16 [medial]).  RS (M-18)  [Please see block diagram]
+C.  &amp;quot;RIGHT AXILLARY CLEARANCE&amp;quot;. A fibrofatty piece of tissue 105x80x35mm.  Multiple lymph nodes are identified as per block legend.
+(1 ? five lymph nodes; 2 one lymph node trisected; 3 one lymph node bisected; 4 ? three lymph nodes; 5 one lymph node trisected; 6-8 largest lymph node in three blocks [22mm]; 9 one lymph node trisected). RS (M-9)
+D.  &amp;quot;FURTHER AXILLARY NODES&amp;quot;. A fibrofatty piece of tissue 35x25x20mm  in aggregate. Three possible lymph nodes are identified 5-12mm.
+(1 largest lymph node four TS; 2 one lymph node bisected; 3 ? two lymph nodes).  RS (M-3/ZH 17/10/2068 ank)
+MICROSCOPIC:  (Dr. H Carlock)
+
+Specimen A:
+Metastatic carcinoma is seen in one out of two lymph nodes identified. The metastatic focus measures 9mm in diameter and shows 2mm extranodal spread.
+
+Specimen B and C:
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160;33mm (macroscopic)
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Infiltrating duct carcinom.
+Carcinoma shows basaloid features.
+&amp;#160;
+HISTOLOGIC GRADE: 3
+
+SCORES Tubules: 3   , Nuclei:  3  , Mitoses: 3   ; Total score: 9&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;24&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 33mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Present
+&amp;#160;
+PERINEURAL INVASION: Not seen
+&amp;#160;
+SKIN INVOLVEMENT: Not seen
+
+DERMAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+NIPPLE INVOLVEMENT: Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT: Not seen
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent: &amp;lt;20% within tumour
+Nuclear grade: High-grade
+Architecture / type: Cribriform
+Necrosis: Present
+Microcalcification of DCIS: Not seen
+Extensive intraduct component: Not seen
+
+LOBULAR CARCINOMA IN SITU (LCIS): Not seen &amp;#160;
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma abuts inferior margin (B11), 2mm from posterior margin, 8mm from anterior margin, 8mm from superior margin, 13mm from lateral margin and 10mm from the medial margin.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, Block B10
+&amp;#160;
+ER: &amp;#160;		negative
+PgR: &amp;#160;		negative
+HER2: &amp;#160;	negative (score 0)
+Ki67:		70%
+&amp;#160;
+Other tumour block suitable for further testing: B5
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS:  Granulation tissue with haemorrhage consistent with previous biopsy site is noted.
+
+Tumour is associated with florid lymphocytic infiltrate and shows basaloid features.
+&amp;#160;
+Specimen C and D:
+
+LYMPH NODES
+AXILLARY LYMPH NODES:
+
+Nodes with macrometastases:  0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 13
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN1a
+
+DIAGNOSIS:
+A. RIGHT SENTINEL NODE BIOPSY
+- METASTATIC CARCINOMA IN ONE OUT OF TWO LYMPH NODES.
+B. RIGHT BREAST LESION
+- INFILTRATING DUCT CARCINOMA, SIZE 33mm, GRADE 3.
+C-D. RIGHT AXILLARY CLEARANCE
+- NO EVIDENCE OF MALIGNANCY IN 13 LYMPH NODES.
+22/6/2067 cy

@@ -1,0 +1,49 @@
+SPR no: 53D268620Y
+MRN no: 5312686
+Site_name: KATHERINE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportAccession No:  53D268620Y
+Laboratory No:  53D26862
+
+HISTOPATHOLOGY REPORT
+CLINICAL NOTES:
+
+Complex atypical endometrial hyperplasia.  Uterus, tubes and ovaries.
+
+Please note discrepancy:
+The request form states tubes and ovaries.
+The specimen container&amp;apos;s label states left fallopian tube only.
+The specimen examination shows one fallopian tube (which has been divided into two segments) and no other fallopian tube and ovaries.
+
+MACROSCOPIC:
+
+UTERUS AND LF FALLOPIAN TUBE - two separate pieces of distorted uterus, two segments of a fallopian tube including fimbria in one segment and an irregular piece of tan tissue probably a fibroid.  The reconstructed uterus with attached cervix measures 90mm from superior to inferior, 50mm medial to lateral and 40mm anterior to posterior with ectocervix measuring 30x30mm, weighing 120g.  The uterus cannot be orientated as to left or right, anterior or posterior due to the distortion.
+One piece of uterus appears distorted around upper body towards fundus and an area measuring approximately 50x50x40mm is missing.  This piece has endometrium which appears as being clefted into two ragged fragments - one part within the fundus and the other is in continuity with endocervical channel.  The endocervix appears unremarkable.  The endometrium measures 4mm in thickness.  The myometrium measures 18mm in thickness.  The myometrium shows multiple pale nodules with whorled-like cut surface varying from 5-18mm in maximum dimension.  The separate fibroid nodule measures 55x55x45mm.  It has homogenous, whorled-like cut appearance with some haemorrhagic areas.
+The separate piece of fallopian tube measures 27mm in length by 5mm in diameter, with attached fatty tissue measuring 20x15x10mm.  The piece of fimbria appears haemorrhagic and measures 20x20x5mm.  It also includes a simple cyst filled with clear fluid measuring 8x8x6mm with less than 1mm in thickness.
+
+Block legend:  (1) cervix (2-3) 1TS - above cervix each from one piece of uterus (4-17) endometrium in one piece of uterus (with black ink) serially embedded from above block 2 (18-30) endometrium from 2nd piece of uterus (with blue ink), serially embedded from above block 3.  Sections including 30 and 16 also include rep. sections of the fibroid nodules (31) fimbria with adjacent cyst, bisected (32) rep. sections of fallopian tube (33) 1 rep. section of the separate nodule.  -/33 NAE.  Please see diagram.  9/12/65
+
+MICROSCOPIC:
+
+The uterine corpus has been embedded to its entirety.  Sections shows a complex atypical hyperplasia of the endometrium and the complexity of these atypical glands is focally increased, forming back to back arrangement and cribriform-like architecture, consistent with a FIGO Grade I endometrioid adenocarcinoma.  No myometrial invasion is present in all profiled sections.
+The endometrium away from the hyperplastic area show atrophic changes.  No evidence of atypical hyperplasia or adenocarcinoma is seen in bilateral cornu and lower uterine segment.
+The serosa and parametria are unremarkable, showing no adhesion, endometriosis or evidence of malignancy.
+A focus of benign adenomyosis is present and is not involved by atypical endometrial hyperplasia or carcinoma.
+Benign intramural leiomyomas are present showing no atypical features.
+
+Sections taken from the cervix including the transformation zone show no significant histologic abnormality.  There are no features of human papilloma virus associated cytopathic changes, epithelial dysplasia or evidence of malignancy in both cervical squamous and glandular epithelia.  Sections taken from the fallopian tube including entire fimbriae show no epithelial dysplasia or evidence of malignancy.  There is no evidence of involvement by adenocarcinoma.  A benign paratubal cyst is present.  No ovarian tissue is identified.
+
+SUMMARY:
+
+Total hysterectomy and left fallopian tube:
+Cervix - NO SIGNIFICANT HISTOLOGIC ABNORMALITY.
+Uterus - COMPLEX ATYPICAL HYPERPLASIA AND FOCAL GRADE 1 ENDOMETRIOID ADENOCARCINOMA. NO MYOMETRIAL INVASION PRESENT.
+Left fallopian tube - BENIGN PARATUBAL CYST, NO EVIDENCE OF MALIGNANCY.
+JL/ch
+
+Dr ANDREA JARED CONELLY
+Pathologist
+CUMMINS HOSPITAL Hospital
+Phone: 4253 4575
+16/9/65

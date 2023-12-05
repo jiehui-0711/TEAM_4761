@@ -1,0 +1,52 @@
+SPR no: 96C400821G
+MRN no: 9604008
+Site_name: WARREN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report96C40082 (96C400821G) SANKEY, BEAU
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Segment 8 capsular disease (peritonectomy). PRC redo peritonectomy, liver resection. Segment 2 liver. Left portahpeatic lymph node, common hepatic ART lymph node, hilar lymph node.
+
+MACROSCOPIC:
+A. &amp;quot;SEGMENT 8 CAPSULAR DISEASE&amp;quot;. A flat disc of tissue with diathermy effect 25x30x6-8mm thickness.
+
+F/S: &amp;quot;Dense fibrous&amp;quot;. Reported by Dr Z Cattell to Prof Berdin via phone on 8.12.16 at 12.12hrs.
+
+(1 frozen section; 2 remainder). AE (M-2).
+
+B. &amp;quot;LIVER SEGMENT 2&amp;quot;. A segment of liver weighing 19g measuring 42x32x30mm. Capsular surface is roughened and disrupted. Resection margin inked black, It is sectioned from one end to the other into eleven slices. On sectioning the cut surface reveals a lesion with a tan to mucinous appearance. It infiltrates into the liver parenchyma in a diffuse manner, the maximum extent of which is 25x25x24mm. The lesion underlies the capsule and appears to come up to the resection margin ?within a vessel. The liver uninvolved by tumour is brown.
+
+(1 slice 1 uninvolved liver; 2&amp;amp;3 slice 5 showing relation to capsule; 4&amp;amp;5 slice 6 showing tumour within liver parenchyma/?within vessel; 6&amp;amp;7 further sections for tumour slice 8). RS (M-7).
+
+C. &amp;quot;LEFT PORTA LYMPH NODE&amp;quot;. A lymph node measuring 18x10x5mm. Bisected. AE (2-1).
+
+D. &amp;quot;COMMON HEPATIC ARTERY LYMPH NODE&amp;quot;. One piece of brown tissue with attached fat measuring  15x15x10mm. Trisected. AE (M-1).
+
+E. &amp;quot;HILAR LYMPH NODE&amp;quot;. One piece of tan tissue with attached fat. Altogether 45x35x10mm. Consists of one node 40mm in maximum dimension. AE (M-4/MC/ht).
+
+MICROSCOPIC:     (Dr Z Zorens)
+A. The paraffin sections show dense fibrous tissue with reactive bile duct and a small amount of adjacent liver tissue. There is also foreign body giant cell reaction.
+B. The sections show liver with prominent macrovesicular steatosis (greater than 66% of the hepatocytes affected by steatosis). Within the liver parenchyma, there are numerous deposits of moderately differentiated cribriform pattern adenocarcinoma with morphology consistent with colorectal carcinoma. The carcinoma is seen within the parenchyma, within cystically dilated bile ducts, within vascular spaces, and within lymphatics in each of the sections examined. Carcinoma is within 0.5mm of the inked and diathermied edges of the specimen.
+C. The sections show lymph node with reactive changes. Negative for malignancy.
+D. The sections show lymph node with reactive changes. Negative for malignancy.
+E. The sections show lymph node with reactive changes. Negative for malignancy.
+DIAGNOSIS:
+A. &amp;quot;SEGMENT 8 CAPSULAR DISEASE&amp;quot;
+- FIBROSIS.
+
+B. LIVER SEGMENT 2
+- ADENOCARCINOMA - SEE TEXT FOR DETAILS.
+
+C. LEFT PORTAL LYMPH NODE
+- NEGATIVE FOR MALIGNANCY.
+
+D. COMMON HEPATIC ARTERY LYMPH NODE
+- NEGATIVE FOR MALIGNANCY.
+
+E. HILAR LYMPH NODE
+- NEGATIVE FOR MALIGNANCY.
+
+15/2/2066 cy

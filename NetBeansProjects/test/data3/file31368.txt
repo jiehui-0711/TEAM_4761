@@ -1,0 +1,44 @@
+SPR no: 70W354428O
+MRN no: 70835442
+Site_name: AUGATHELLA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Known sarcoma left chest wall.  ? Satellite lesion subcutaneous left anterior chest wall.  If positive need to excise further tissue and skin intraoperative.
+High grade sarcoma left pectoralis major.  Neoadjuvant chemoradiotherapy.  Excision of tumour and pect major.  Marking sutures:  Short superior / long lateral / double deep. Note specimen placed in formalin prior to call for tumour banking.  Phone call to Dr Outler.  No biobank sample taken.  By U Lynott 19/11/2069 at 16:30hr.  Please note 2 request forms.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left lesion anterior chest wall&amp;quot;, consists of fatty tissue, 40 x 27 x 15mm.  There is a slightly firmer area approximately 8mm across.  AE.
+Blocks: 1 - frozen section; 2 to 4 - remaining tissue.
+
+FROZEN SECTION REPORT:
+Difficult.  Not obvious sarcoma.  Some inflammation but also atypical cells.  Overall favour reactive but not certain.
+Results phoned to Fellow by Dr U Remsen and Dr U Raghunandan at 2:50pm on 21/11/69.
+
+B.  Specimen labelled &amp;quot;Left chest wall sarcoma short stitch superior long lateral double deep&amp;quot;, consists of an oriented piece of mostly muscular tissue weighing 484g and measuring 195mm superior to inferior, 98mm medial to lateral and 58mm superficial to deep.  There are orientation sutures as described.  The specimen is oriented by Dr Holdbrook with respect to two lymph nodes identified on the medial margin designated as the deltopectoral groove  / superior lymph node and medial side level III lymph node.  The specimen is inked superficial blue, lateral green and deep black.  The medial is represented by the junction of blue and black ink.  Tissue is sliced from superior to inferior into 17 slices.  The cut surface demonstrates a multilobulated partially encapsulated tumour within the superior portion of the specimen measuring 55mm medial to lateral, 48mm superficial to deep and 45mm superior to inferior.  The cut surface has a partially gelatinous, haemorrhagic and pale heterogenous appearance.  Adjacent to the main lesion there is a separate pale nodule measuring 23 x 20 x 20mm located lateral to the main tumour by 12mm separated by fibrous tissue.  This may represent tumour extension or a separate tumour deposit.  The tumour measures 3mm from the superficial margin, 2mm from the deep margin, 7mm from medial and 19mm from lateral.  The tumour is greater than 30mm from the superior and inferior margin.  The separate nodule appears to abut the lateral margin. The remaining tissue appears fatty and muscular in appearance.  No other lesions are identified.  The two lymph nodes on the medial aspect measure up to 20mm in maximal dimension.  Macroscopic photographs are available.
+Blocks: 1 &amp;amp; 2 - superior lymph node in deltopectoral groove; 3 to 5 - medial lymph node level III; 6 &amp;amp; 7 - LS superior margins; 8 to 14 - composite sections full face of tumour showing closest resection margins (block 8 medial margin, blocks 9 &amp;amp; 10 superficial margin, blocks 11 &amp;amp; 12 lateral margin, block 13 &amp;amp; 14 deep margin, block 15 further medial margin, block 16 further lateral margin, 17 &amp;amp; 18 LS inferior margin).  (TO:AP/eh 20/10/68)
+
+
+MICROSCOPIC (Reported by Dr U Masell):
+A. Sections show fat necrosis with fibrosis and acutely inflamed granulation tissue. There is no evidence of malignancy.
+
+B. Sections show a 55mm partially encapsulated lesion in fibroadipose tissue, with invasion into skeletal muscle (B12). There is extensive necrosis, involving approximately 80% of the lesion, consistent treatment effect. The majority of the viable tumour is composed of scattered tumour cells with pleomorphic, hyperchromatic nuclei, located within myxoid stroma. Cytoplasmic vacuolation is present. Prominent thin walled vessels are seen.
+
+Focally in block 16, there is high-grade sarcoma with markedly increased cellularity. There are sheets of atypical spindle shaped tumour cells with pleomorphic, hyperchromatic nuclei forming short fascicles. Up to 15 mitoses (including atypical forms) are present per 10 hpf.
+
+In view of a DDIT3 re-arrangement being demonstrated in the previous biopsy (review 70W3544), the overall features would be consistent with high grade myxoid liposarcoma.
+
+Intermediate grade tumour is 0.2mm from the deep margin (B12,13), 0.5 mm from the lateral margin (B16), 5mm from the medial and superficial margins (B8, 9) and are &amp;gt; 15mm from the other margins.
+
+High-grade tumour is 1.3mm from the lateral margin (B16). Other margins are &amp;gt; 15mm clear.
+
+Two lymph nodes in the deltopectoral groove and level 3 show chronic lymphocytic leukemia/small cell lymphocytic lymphoma. There is loss of normal lymph nodes sinus architecture. The lymph node is replaced by an atypical infiltrate of small lymphoid cells. These lymphoid cells are positive for CD20, CD5, CD23 and bcl-2. CD10, bcl-6 and cyclin D1 are negative. There is no evidence of sarcoma.
+
+
+DIAGNOSIS
+A. Frozen section lesion left anterior chest wall: fat necrosis, no evidence of malignancy
+
+B. Left chest excision post treatment:
+- 55mm high grade myxoid liposarcoma with treatment effect
+- 2 lymph nodes (deltopectoral groove and level 3) with chronic lymphocytic leukemia/small cell lymphocytic lymphoma, no evidence of sarcoma present

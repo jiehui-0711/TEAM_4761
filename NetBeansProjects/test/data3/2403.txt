@@ -1,0 +1,63 @@
+
+Episode No:  78V767439G
+7887674.JYG
+
+Sayasane, Marshall 
+Lab No:  78V76743,78V76743
+Dumoulin
+MOLLYMOOK  NT  6473
+Specimen: Washings,Tissue
+D.O.B:  21/1/1998
+Sex:  F
+Collected: 17/02/2065 at 20:48
+Location:  Seals - TRESILLIAN FAMILY CARE CENTRE - WOLLSTONECRAFT
+DR MURRAY DULAC
+Distribution:    NSW-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT: MSI MARKERS (25.2.2065)
+Dr S Fesler
+
+CLINICAL:
+Endometrial cancer with serous components.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, tubes, ovaries" consists of a uterus with cervix and bilateral fallopian tubes and ovaries weighing 80g in total.  The uterus with cervix is 65 x 50 x 30mm.  The ectocervix is 25 x 20mm.  The endometrium appears atrophic.  Over the posterior uterine body is an exophytic endometrial lesion, 22 x 15 x 15mm.  The tumour appears to infiltrate into the myometrium by a depth of 19mm, through a maximal myometrial thickness of 22mm.  There is an intramural fibroid 7mm across.  The uterine serosa is smooth and shiny.  The right fallopian tube is 65mm in length, and the right ovary is 25 x 10 x 10mm.  The left fallopian tube is 60mm in length and the left ovary is 25 x 15 x 6mm.  
+Blocks:  1 to 3 - full longitudinal section anterior body and cervix; 4 to 7 - full longitudinal section posterior body and cervix; 8 - posterior body tumour; 9 - intramural fibroid; 10 - right fallopian tube and ovary; 11 - left fallopian tube and ovary. 
+B.  Specimen labelled "Right pelvic nodes" consists of multiple pieces of adipose tissue 75 x 50 x 15mm in aggregate.  Multiple lymph nodes are identified, largest being 25mm across.  
+Blocks:  1 & 2 - largest lymph node; 3 & 4 -multiple lymph nodes.  
+C.  Specimen labelled "Left pelvic nodes" consists of multiple pieces of adipose tissue, 60 x 35 x 10mm in aggregate.  Multiple lymph nodes are identified, the largest being 20mm across.  
+Blocks:1 & 2 - one lymph node in each block; 3 - two lymph nodes.
+D.  Specimen labelled "Right round ligament" consists of a piece of peritonealised soft tissue, 30 x 23 x 7mm.  No focal lesion is identified.  AE 3 blocks.   
+E.  Specimen labelled "Left round ligament" consists of a piece of peritonealised soft tissue, 25 x 12 x 12mm.  There is a pale grey nodule at one end 8mm across.  AE 2 blocks (nodule in block 2).  
+F.  Specimen labelled"Omental biopsy" consists of a piece of omental fat, 35 x 25 x 8mm.  No focal lesions seen.  AE 2 blocks.  (TO: IH:  II/mm 19.2.65) 
+MICROSCOPIC:  (Reported by Dr S Mitcham)
+A.  Sections of the endometrial tumour show a serous adenocarcinoma. The adenocarcinoma has a mixed exophytic and infiltrative myo-invasive pattern of growth. The adenocarcinoma infiltrates 8mm into the uterine wall 17mm thick. No definite lymphovascular space, serosal or cervical involvement is seen. 
+The cervix shows no significant abnormality. The endometrium appears inactive. There are multiple foci of adenomyosis, as well as, cervical endometriosis. The bilateral ovaries and fallopian tubes show no significant abnormality.  
+B.  Sections show no evidence of malignancy in thirteen pelvic lymph nodes (0/13). 
+C.  Sections show no evidence of malignancy in four pelvic lymph nodes (0/4).
+D.  Sections show fragments of dense fibrocollagenous tissue. The tissue shows marked diathermy change. There are noatypical features. There is no evidence of malignancy. 
+E.  Sections show fragments of dense fibrocollagenous tissue. The tissue shows marked diathermy change. At the edge of one of the fragments, there isa small focus of highly crushed and diathermy affected cells, the nature and significance of which are indeterminate due to the poor cytopreservation. There is no diagnostic evidence of malignancy.
+F.  Sections show fragments of mature fibroadipose tissue with patchy mild mesothelial cell hyperplasia. There are no atypical features. There is no evidence of malignancy. 
+Representative slides seen with Dr S Sadlon.
+DIAGNOSIS:
+A.  Uterus, tubes and ovaries: Endometrial serous adenocarcinoma. 
+
+B.  Right pelvic lymph nodes: No evidence of malignancy in thirteen lymph nodes (0/13). 
+
+C.  Left pelvic lymph nodes: No evidence of malignancy in four lymph nodes (0/4). 
+
+D.  Right round ligament: Severe diathermy change. No evidence of malignancy. 
+
+E.  Left round ligament: Severe diathermy change with small cluster of crushed and diathermied cells of indeterminate nature. No evidence of malignancy. 
+
+F.  Omental biopsy: No evidence of malignancy. 
+
+
+***SUPPLEMENTARY REPORT: MSI MARKERS (25.2.2065)
+Dr S Aydin
+Immunoperoxidase stains for MSI proteins (The Kroger BEAUDESERT; block A6)
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining (only focal nuclear positivity)
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1,PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

@@ -1,0 +1,102 @@
+DateOfBirth
+200506270000
+
+
+SiteName
+MITCHELL HOSPITAL
+
+
+FirstName
+Danilo
+
+
+SPRID
+15J048444N
+
+
+MRN
+15304844
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+15J04844 (15J048444N) MIHALKO, ELISHA
+
+HISTOPATHOLOGY REPORT
+AUBURN HOSPITAL & COMMUNITY HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Re-do peritonectomy
+Small bowel + peritoneal disease
+
+MACROSCOPIC:
+&amp;quot;SMALL BOWEL + PERITONEAL DISEASE&amp;quot;. Four resected pieces of small bowel and multiple irregular pieces of peritoneal tissue and nodules. The first piece of small bowel measures 170mm across, the second measures 50mm across, the third measures 40mm across, the fourth measures 20mm across. The large peritoneal tissue measures 170x50x15mm. The rest of the peritoneal tissue and nodules measure 100mm in aggregate. The peritoneal tissue/nodules are gelatinous.
+
+The largest piece of small bowel has multiple outpouchings with thinned out bowel wall. No other obvious lesion is identified.
+
+The second piece of intestine shows anastomosis. No obvious lesion is identified.
+
+The third piece of small bowel shows area of haemorrhage and infarction with ?gelatinous material.
+
+The fourth piece of small bowel is intact and shows no definite lesion.
+
+(1&amp;amp;2 circumferential slice, one each; 3 serial TS through the outpouching; 4&amp;amp;5 RS from second piece of small bowel; 6 representative circumferential sections from third piece of small bowel; 7 fouth small bowel;
+
+The peritoneal tissue/nodules:  The largest piece of peritoneal tissue shows multiple nodules with fatty tissue. The peritoneal tissue shows multiple gelatinous areas. Cut sections show multiple cysts filled with gelatinous material. The rest of the small peritoneal tissues show gelatinous areas and fatty tissue.
+
+8&amp;amp;9 RS from large peritoneal nodules; 10-12 RS of rest of peritoneal tissue and nodules).  Representative sections.(M-12/AA 4/2/2070 nh)
+
+MICROSCOPIC: (Dr. D. Hollenbeck)
+Sections of the small bowel resections show multiple deposits of acellular mucin on the peritoneal surface. In addition, there is mucin containing well to moderately differentiated mucinous adenocarcinoma on the peritoneal surface and invading into the muscularis propria (slide 4). The small bowel mucosa shows no significant abnormality.
+
+Sections of the peritoneal nodules show multiple deposits of mucin, both acellular and cellular. Cellular mucin shows well to moderately differentiated mucinous adenocarcinoma which lines cystic spaces, forms glands, nests and occasional single cells floating within the mucin pools. Acellular mucin dissects into the surrounding fibrosis. There is underlying skeletal muscle and adipose tissue. One lymph node shows no evidence of malignancy.
+
+Immunohistochemistry:
+Positive : CK20 and CDX2
+Negative: CK7
+
+The appearances and immunohistochemistry are consistent with metastatic mucinous adenocarcinoma of the GIT.
+
+DIAGNOSIS:
+PERITONECTOMY:
+
+SMALL BOWEL
+- MULTIPLE PERITONEAL DEPOSITS OF MUCINOUS ADENOCARCINOMA AND ACELLULAR MUCIN
+- MUCINOUS ADENOACARCINOMA EXTENDING INTO MUSCULARIS PROPRIA
+
+PERITONEAL NODULES
+- PERITONEAL DEPOSITS OF MUCINOUS ADENOCARCINOMA AND ACELLULAR MUCIN
+
+5/2/2070 nh
+
+
+
+
+
+
+SpecimenReceivedDate
+2076-03-27 00:00:00
+
+
+LastName
+George

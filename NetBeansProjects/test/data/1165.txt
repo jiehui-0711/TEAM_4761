@@ -1,0 +1,40 @@
+Episode No:  42Z363366H
+429363.KQQ
+
+Bottin, CLAUDE 
+Lab No:  42Z36336
+Fawkham
+HOWLONG  Victoria  4012
+Specimen: Tissue
+D.O.B:  30/9/2005
+Sex:  M
+Collected: 14/9/2062 at :
+Location:  SEALS Central
+DR TED Bernie ESPOSTO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+(L) lower lobe adenocarcinoma.  Brain met.  (L) lower lobectomy.
+MACROSCOPIC:
+A.  Specimen labelled "Left lower lung lobe" consists of a lobe of lung 140 x 135 x 70mm weighing 208g when fresh.  There is an area of pale puckering of the pleural surface over an area of 35 x 30mm.  There is a stapled resection margin 55mm which is inked black.  The remainder of the hilar resection margin is inked blue.  Several anthracotic lymph nodes are identified in the hilum.  The cut surface of the area of puckering shows a cream firm poorly circumscribed tumour 50 x 45 x 35mm.  The tumour appears to extend to the pleural surface and abuts the main bronchus.  The tumour appears to come to within 5mm of the bronchial resection margin.  The remainder of the lung appears unremarkable. 
+Blocks:  1 - lymph nodes; 2 - bronchial resection margins; 3 - ?vascular margins; 4 - tumour to bronchial resection margin; 5 & 6 - tumour to pleural surface; 7 - tumour along bronchus; 8 - tumour to black inked resection margin; 9 - uninvolved lung; 10 - tumour for tumour banking.
+B.  Specimen labelled "Hilar lymph node" consists of one 13mm piece of tan/black tissue.  BAE one block. 
+C.  Specimen labelled "AP lymph node" consists of an 18mm piece of fattytissue.
+Blocks:  1 - ?small lymph nodes; 2 - larger lymph node.
+D.  Specimen labelled "Posterior mediastinal lymph node" consists of one 12mm anthracotic lymph node.  BAE one block. 
+E.  Specimen labelled "Inferior pulmonary ligament" consists of a 12mm piece of fatty tan tissue and one 22mm piece of fatty black tissue.  The larger piece of tissue includes two lymph nodes, 5 and 12mm.  
+Blocks:  1 - smaller piece of tissue; 2 - larger piece of tissue, BAE.
+(XW/cc  15/9/62) 
+ 
+MICROSCOPIC (Reported by Dr K Grassle): 
+A.  Sections show a moderately differentiated adenocarcinoma of the left lower lobe.  The tumour hasa macroscopic size of 50mm and abuts the pleural surface.  Small deposits of tumour are seen within lymphatics at the pleural surface however no tumour cells are seen on the visceral pleura (PL1).  Tumour does not invade the nearby bronchus and comes to within approximately 5mm of the bronchial resection margin.  Four (4) hilar lymph nodes identified show no evidence of malignancy and the remaining lung parenchyma shows no significant abnormality. 
+B.  Thesingle (1) lymph node identified shows no evidence of malignancy. 
+C.  The single (1) lymph node identified shows no evidence of malignancy. 
+D.  The single (1) lymph node identified shows no evidence of malignancy. 
+E.   The three (3) lymph nodes identified show no evidence of malignancy.
+DIAGNOSIS:  
+A.   Left lowerlobe lung plus thoracic lymph nodes:
+- Moderately differentiated adenocarcinoma, size 50mm
+- Pleural lymphatics involved by tumour
+- Ten negative lymph nodes
+- Stage T2aPL1N0
+

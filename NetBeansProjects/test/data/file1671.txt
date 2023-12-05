@@ -1,0 +1,87 @@
+SPR no: 61L305878X
+MRN no: 6143058
+Site_name: NOARLUNGA HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  61L305878X
+614305.WTV
+
+ENGROFF, CARSON
+Lab No:  61L30587
+E Grissom
+MOONIE  Queensland  4406
+Specimen: Tissue
+D.O.B:  3/4/1999
+Sex:  M
+Collected: 25/02/2015 at 09:14
+Location:  Envoi Pathology-WINGHAM COMMUNITY HOSPITAL
+DR CHADWICK ROMELIA MOEUY
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Low anterior resection and donut.  ?Right vas &amp;#8211; injury during rectal dissection.  Short course neoadjuvant radiation.  Pre op stage cT3N0, MRI evidence of LVI.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Anterior resection&amp;#8221; consists of a segment of large bowel and rectum 255mm in length and 70mm in circumference, with mesocolic fat 110mm in width.  The peritoneal reflection is 55mm fromthe distal margin.  Within the rectum, immediately below the peritoneal reflection is a polypoid tan tumour, 40 x 38 x 5mm.  The tumour is 8mm clear of the distal margin.  The tumour appears to infiltrate into but not through the muscularis propria.  The tumour is at least 15mm clear of the radial margin.  Within the mid section of the bowel is a 4mm polyp.  A second mucosal polyp, 3mm across, is located 40mm from the proximal margin.
+Blocks:  1 &amp;#8211; proximalmargin; 2 &amp;#8211; distal margin; 3 &amp;#8211; tumour with uninvolved bowel; 4 - two small mucosal polyps; 5 to 13 &amp;#8211; tumour with radial margin (13 &amp;#8211; reserved block); 14 &amp;#8211; apical lymph node; 15 - ? lymph node adjacent toapex; 16 to 18 &amp;#8211; multiple lymph nodes below peritoneal reflection; 19 to 24 &amp;#8211; multiple possible lymph nodes above peritoneal reflection.
+B.  Specimen labelled &amp;#8220;Distal donut&amp;#8221; consists of a donut of bowel 25 x 20 x 10mm.  No focal lesion is seen.  RS in 1 block.
+C.  Specimen labelled &amp;#8220;?Rt vas&amp;#8221; consists of a piece of tan tissue 10mm across.  There is a tubular structure 10mm in length and3mm in diameter.  Trisected.  AE 1 block.  (TO: KT; KT/rt 27.4.65)
+MICROSCOPIC:  (Reported by Dr Q Kelzer)
+A.  The 40mm tumour is a moderately to poorly differentiated adenocarcinoma. A synoptic report for colorectal carcinoma follows:
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Rectum.
+Maximum tumour diameter: 40mm.
+Distance of tumour to nearer cut end: 2.2mm (distal margin &amp;#8211; microscopic).
+Tumour perforation: No.
+Relation of tumour to anterior peritoneal reflection:	 Below.
+Microscopic Description
+Type
+Adenocarcinoma NOS
+Differentiation by predominantarea
+Moderate to poorly differentiated.
+Local invasion
+pT3	Beyond muscularis propria
+(Although most of the carcinoma appears confined within the muscularis propria, there is a focus of invasion beyond muscularis propria, adjacent to a large vessel.
+Tumour involvement of margins
+Cut ends: Not involved.
+Non-peritonealised circumferential margin: Not involved.
+Histological measurement from tumour to non-peritonealised margin: &amp;gt;10mm.
+Lymph nodes
+Number of lymph nodes present: Six.
+Number of lymph nodes involved: None (0/6).
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present (mural).
+Perineural invasion
+Focal suspicious for perineural invasion present.
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The two polyps identified macroscopically are a tubular adenoma and an inflamed serrated/hyperplastic type polyp.
+There are changes consistent with the history of neoadjuvant radiotherapy. Many of themedium sized vessels show fibromyxoid intimal thickening with variable lumen obliteration and patchy dystrophic calcification. There is also patchy eosinophilic arteritis, without associated fibrinoid change or thrombus, which most likely represents a radiotherapy related change.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Grade 3 (poor response) - Minimal or no tumour kill; extensive residual cancer with only minimal (focal) necrosis.
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Stage TNM 7th Edition &amp;#8211; ypTNM Stage 2A (y)pT3N0MxR0
+
+B.  Sections of the distal donut show portions of bowel wall showing prominent oedema. There is no evidence of dysplasia or malignancy.
+C.  Sections show fibroadipose tissue containing a prominent medium sized vessel. The vessel is a muscular artery showing severe fibromyxoid intimal hyperplasia with luminalobliteration, moderately severe dystrophic calcification and perivascular fibrosis. These changes may represent neoadjuvant radiotherapy related change. The vas deferens is not identified. There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Anterior resection:
+40mm ypTNM Stage 2A moderately to poorly differentiated rectal adenocarcinoma (below the peritoneal reflection).
+Focal lymphovascular space and suggestive of perineural invasion.
+Distal margin close (2.2mm); radial margin clear of tumour (&amp;gt;10mm).
+Poor response to neoadjuvant treatment.
+No evidence of malignancy in six lymph nodes (0/6).
+MSI markers show low risk of microsatellite instability.
+
+B.  Distal donut: No evidenceof malignancy.
+
+C.  ?Right vas deferens: Medium sized artery showing subtotal luminal occlusion by severe fibromyxoid intimal hyperplasia ? neoadjuvant radiotherapy related change.

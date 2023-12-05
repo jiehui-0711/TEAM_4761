@@ -1,0 +1,82 @@
+SPR no: 50O179708S
+MRN no: 5051797
+Site_name: MOUNT MORGAN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report50O17970,50O17970 (50O179708S) Merchen, GIUSEPPE RON
+HISTOPATHOLOGY REPORT
+KYABRAM & DISTRICT HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Adenocarcinoma cervix - radical hysterectomy, bilateral salpingectomy and pelvic lymph node dissection for same.Adenocarcinoma cervix, Endometriosis.  Uterus, parametria, tubes, cervix, pelvic lymph nodes.
+
+Previous reports:  50O17970 cone bx cervix and other biopsies, 20-Jan-2070, MED/SURGERY WARD Pathology, also reviewed at WAGIN HOSPITAL
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES, CERVIX AND UPPER VAGINA&amp;quot;. Consists of a hysterectomy specimen with bilateral fallopian tubes. The uterus and cervix measures 72x32x30mm. The right fallopian tube measures 80x5mm with a 9mm parafimbrial cyst. The left fallopian tube measures 75x5mm. The cervix has a cuff of vagina and measures 40mm from right to left with a 5mm slit-like os. The vaginal surface is unremarkable. The endomyometrium is up to 20mm in thickness and the endometrium is up to 1mm in thickness. Serial sections through the body of uterus show a 7mm area of glands with fibrosis ?endometriosis in subserosal tissue and subjacent myometrium, anterior body . The cervix is amputated and serially all embedded from right to left.
+(1 right fimbrial end; 2 sampled right fallopian tube; 3 left fimbrial end; 4 left sampled fallopian tube; 5-15 cervix serially embedded from right to left; 16-23 paired transverse sections of the lower uterine segment; 24 anterior endomyometrium; 25 posterior endomyometrium). Representative sections (M-25) Further: A26,27,28 anterior myometrium with subserosal noddule (?endometriosis nodule); RS LV
+B. &amp;quot;RIGHT PARAMETRIAL NODE&amp;quot;. A lymph node 10x6x4mm, bisected, both halves embedded in Block B1. All embedded. (2-1)
+C. &amp;quot;LEFT PELVIC SIDE WALL PERITONEUM&amp;quot;. Irregular heat affected tissue measuring 10x8x3mm and embedded whole Block C1. All embedded. (1-1)
+D. &amp;quot;LEFT EXTERNAL ILIAC LYMPH NODE&amp;quot;. Consists of a piece of fatty tissue measuring 50x12x8mm containing four lymph nodes. The largest measuring 30x10x5mm.
+(1 largest lymph node, bisected; 2 three nodes). Representative sections (M-2)
+E. &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;. Consists of fatty tissue 45x15x12mm containing seven possible lymph nodes. The largest measuring 20x10x5mm. (1 one lymph node, bisected; 2 one lymph node, bisected; 3 two lymph nodes; 4 three nodes). Representative sections (9-4)
+F. &amp;quot;LEFT OBTURATER LYMPH NODE&amp;quot;. Consists of fibrofatty tissue 25x20x5mm in aggregate containing three possible nodes, the largest measuring 10x10x4mm.
+(1 one largest node; 2 two nodes). All embedded. (M-2/ MY cy)
+MICROSCOPIC: Dr P Livasy  ank cy
+
+A. Uterus, Tubes, Cervix And Upper Vagina:
+Upper endocervical canal:
+In sections 10,16,17,18 (adjacent sections), in upper endocervical canal there is a residual atypical glandular lesion consisting of several glandular structures lined by hyperchromatic atypical predominantly columnar epithelium. Some of the glands have an adjacent acute inflammatory infiltrate and fibrosis. The glands are highlighted by p16 immunostains (strong positive) and show high labelling index with Ki67 immunostains. In the clinical context, these glands are consistent with residual invasive adenocarcinoma. The residual tumour is similar to the previously excised tumour in the cone biopsy specimen: 50O17970, Pathology-RAVENSTHORPE HOSPITAL,  procedure 19-Nov-2069.
+
+Stromal invasion:
+The residual stromal invasion is approximately 8mm lateral dimension, and residual depth of invasion is 6mm.
+
+- The residual carcinoma is in upper endocervix does not involve uterine body or endometrium.
+- There is no lymphovascular invasion.
+- One parametrial lymph node is negative for tumour (0/1)
+
+Excision margins:
+Invasive carcinoma is 7mm to the deep cervical margin, anterior lip, and 7mm from the deep cervical margin, posterior lip, and IS greater than 10mm from the distal mucosal/ectocervical margins.
+
+Remainder of cervix:
+Ectocervical mucosa is normal. The transformation zone mucosa shows focal tubo-endometrial metaplasia and chronic inflammation.  There are focal areas of fibrosis in cervical stroma consistent with the previous excisional biopsy site.  There is no residual SIL/CIN lesion.
+
+Remainder of uterus and adnexae:
+- The endometrium is weakly proliferative and shows no atypical features.
+- There is a localised nodular focus of subserosal endometriosis in anterior uterine body with overlying fibrosis.
+- Both right and left fallopian tube show no significant abnormality.
+
+B.  Right Parametrial Node:
+One lymph node present, negative for tumour (0/1).
+
+C.  Left Pelvic Side Wall Peritoneum:
+Sections show dense fibrous tissue with some fatty tissue.  There are some foci of increased cellularity in fibrous tissue but endometriosis tissue or other lesions are not seen. Multiple levels examined.
+
+D. Left External Iliac Lymph Node:
+Four lymph nodes present, negative for tumour (0/3).
+
+E. Right Pelvic Lymph Node:
+Eight lymph nodes present, negative for tumour (0/8).
+
+F.  Left Obturater Lymph Node:
+Three lymph nodes present, negative for tumour (0/3).
+
+DIAGNOSIS:
+A. Uterus, Tubes, Cervix and Upper Vagina:
+- residual area of invasive moderately differentiated adenocarcinoma, upper endocervical canal,
+- approximately residual lateral dimension 8mm and residual depth of invasion 6mm,
+- excision margins negative, distance of invasive carcinoma to closest margin 7mm,
+- one parametrial lymph node negative for tumour (0/1),
+- focus of subserosal endometriosis uterine body,
+- normal fallopian tubes x2,
+- no residual SIL/CIN or AIS lesion.
+B. Right Parametrial Node:
+- lymph node negative for tumour (0/1).
+C. Left Pelvic Side Wall Peritoneum:
+- fibrous and fatty tissue, no specific lesions seen.
+D. Left External Iliac Lymph Node:
+- lymph nodes negative for tumour (0/3).
+E. Right Pelvic Lymph Node:
+- lymph nodes negative for tumour (0/8).
+F. Left Obturater Lymph Node:
+- lymph nodes negative for tumour (0/3).

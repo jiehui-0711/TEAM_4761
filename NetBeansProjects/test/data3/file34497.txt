@@ -1,0 +1,18 @@
+SPR no: 93D950419H
+MRN no: 10344512
+Site_name: AUGATHELLA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post 1B SCC vulva, with close margin.  Now re-excision of the previous excision.  Residual SCC?
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left lateral vulva stitch 12 o&amp;apos;clock&amp;quot;, consists of an oriented excision of skin and subcutaneous tissue, measuring 42 x 35mm and there is a suture at one end designated as 12 o&amp;apos;clock.  At the 4 o&amp;apos;clock aspect the skin curls under itself for a distance of 11mm.  In the 8 to 10 o&amp;apos;clock area there is a pale raised area, 18 x 16mm in size.  In addition there is attached fibroadipose tissue, attached from 6 to 11 o&amp;apos;clock side of specimen.  The overall dimension including the adipose tissue are 70 x 55 x 13mm.  The deep aspect of the skin and fibroadipose tissue inked as follows; 3 o&amp;apos;clock - blue, 9 o&amp;apos;clock - black.  The superficial aspect of the fibroadipose tissue (9 o&amp;apos;clock) inked green.  Sectioning reveals the nodular area on the skin surface has a depth of 4mm (?scar/tumour).  Serially sectioned from 12 o&amp;apos;clock end to 6 o&amp;apos;clock end.  Where sections have been trisected a nick marks the line between the central and 9 o&amp;apos;clock third.  Where sections have been embedded whole a nick marks the 9 o&amp;apos;clock side.  All composite sections have been embedded in the 3 to 9  o&amp;apos;clock direction.   Blocks: 1 &amp;amp; 2 - composite 12 o&amp;apos;clock end (slice one); 3 &amp;amp; 4 - slice two; 5 to 7 - slice three; 8 to 10 - slice four; 11 to 13 - slice five; 14 to 16 - slice six; 17 to 19 - slice seven; 20 to 22 - slice eight; 23 &amp;amp; 24 - slice nine; 25 &amp;amp; 26 - slice ten; 27 &amp;amp; 28 - slice eleven; 29 &amp;amp; 30 - slice twelve; 31 - slice thirteen; 32 - slice fourteen.  Annotated photographs produced.  Shown to Dr X Pall.  AE.   (TO: FE/ta 28/1/69)
+
+
+MICROSCOPIC: (Reported by Dr X Ng)
+Sections are of squamous mucosa including distorted underlying fibrovascular and neural tissue. Focally, in consecutive tissue blocks 11 and 14, there is a 1.5mm focus of HGSIL (VIN 2) with associated Human Papillomavirus effect. The HGSIL is present overlying distorted fibrocollagenous tissue, however, no definite scar is seen. There is no evidence of invasive carcinoma.
+Representative slides seen with Dr X Gillispie.
+
+
+DIAGNOSIS:
+Left lateral vulva: Focal HGSIL (VIN 2) and HPV effect. No evidence of invasive carcinoma.

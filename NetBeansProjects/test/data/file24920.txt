@@ -1,0 +1,21 @@
+SPR no: 50M475262L
+MRN no: 504475
+Site_name: GLADSTONE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left sided retroperitoneal mass.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Retroperitoneal mass&amp;quot;, consists of a fluid filled cystically dilated encapsulated mass that is fluctuant on palpation.  The surface is roughened and fibrous and appears to have clot material on the surface.  The specimen was received in formalin and unorientated and measures 100 x 87 x 62mm and weighs 245g.  The smooth surface is inked blue and the roughened surface is inked black.  On sectioning the cystic mass is unilocular, uniformly thin walled and filled with mucoid yellow material.  The capsule wall appears smooth throughout and has no papillary projections on the internal surface.  The wall thickness is uniformly 1 to 2 mm.  Blocks: 1 to 15 - RS cyst wall.  (MS/vo 29.3.67)
+
+
+MICROSCOPIC (Reported by Dr N Popke):
+Sections show a simple cyst surrounded by dense fibrous tissue.  No definite cyst lining is seen.  Numerous macrophages are seen within the cyst.  There is no evidence of malignancy.  Further immunohistochemical stains are to follow and a supplementary report will be issued.
+
+
+DIAGNOSIS:
+Retroperitoneal mass - Simple cyst.
+
+
+SUPPLEMENTARY REPORT (16/4/2067):
+The immunohistochemical stains are not contributory.  The diagnosis is unchanged.

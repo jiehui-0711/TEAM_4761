@@ -1,0 +1,51 @@
+SPR no: 46N4526191
+MRN no: 46545261
+Site_name: BILOELA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+SUPPLEMENTARY REPORT (7.8.2066)
+CLINICAL:
+Pelvic mass.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right ovarian mass&amp;quot;, consists of an 80 x 35 x 15mm presumed collapsed cyst with a 40 x 35 x 15mm solid nodular area.  Sectioning of the solid area shows haemorrhagic tissue.  No papillary excrescences are seen.  Two representative sections of solid area for frozen sections 1 and 2.
+Blocks: 1 and 2 - frozen section one and two; 3 to 15 - RS remaining tissue (approximately 50% embedded).
+
+FROZEN SECTION REPORT:
+Adenocarcinoma - cannot exclude a metastasis.
+Phone results to Anaethestic Fellow by Dr M Clippinger at 11:58am on 24.5.2019
+
+B.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a 65 x 7mm fallopian tube with 60 x 35 x 15mm adherent ragged soft tissue without macroscopically identifiable ovary.  Additional irregular pieces of tan soft tissue are present separately within the container, 50 x 35 x 15mm in aggregate.  On sectioning of the fallopian tube, the adjacent soft tissue shows a cystic lesion with a tan mass, 10mm in thickness.  No cyst contents are identified.  Possible residual ovary is noted in a separate piece of soft tissue.
+Blocks: 1 to 3 - fallopian tube with cystic lesion; 4 - additional section of cystic lesion; 5 - fimbrial end; 6 and 7 - lesional tissue with residual ovary.
+
+C.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a 50 x 7mm fallopian tube, which is adherent to 35 x 30 x 20mm soft tissue and a partly solid, partly cystic 60 x 65 x 35mm lesion.  The lesion has a predominantly smooth serosal surface with a 65 x 10mm opening.  Transverse sectioning through the fallopian tube and adjacent soft tissue shows a 17 x 22 x 24mm cystic tumour.
+Blocks: 1 and 2 - fallopian tube with firm cream lesion; 3 - fimbrial end; 4 to 8 - RS of solid/cystic mass.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of 265 x 135 x 30mm of omental fat.  Sectioning shows homogenous yellow fat with no discrete lesions.
+Blocks: 1 to 3 - RS.
+
+E.  Specimen labelled &amp;quot;Omental fat&amp;quot;, consists of two fatty tissues, 40 x 40 x 5mm in aggregate.  Sectioning shows homogenous pale yellow fat with no discrete lesions.  AE 3 blocks.
+(TO: KM; KM/vo 24.7.66)
+
+
+MICROSCOPIC (Reported by Dr M Anagnos):
+A, B &amp;amp; C.  Sections show a moderately differentiated adenocarcinoma involving both ovaries.  Focally the adenocarcinoma has a garland architecture with &amp;apos;dirty&amp;apos; necrosis and some mucin.  The majority of the architecture is endometrioid.  The tubes show no significant abnormality.
+The bilateral tumours show patchy positivity for CK7, diffuse positivity for PAX8, and are negative for CK20 and CDX2, consistent with an ovarian primary.
+
+D &amp;amp; E.  The omentum shows show no evidence of malignancy.
+
+
+DIAGNOSIS:
+Moderately differentiated endometrioid adenocarcinoma of both ovaries.  The tubes and the omentum are negative.
+
+SUPPLEMENTARY REPORT (Reported by Dr M Stoeke 7.5.2066):
+MSI immunohistochemistry was performed as requested.
+
+Mismatch Repair Deficiency (MMRD) Status (block C2)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

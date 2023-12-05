@@ -1,0 +1,112 @@
+SPR no: 35A9785331
+MRN no: 350978
+Site_name: PARABURDOO HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report35A97853,35A97853 (35A9785331) FRANKIN, MADISON
+HISTOPATHOLOGY REPORT
+LAUNCESTON GENERAL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+G1 endometrial adeno Ca.
+
+1. Peritoneal washings for Cyto.
+2. Uterus, tubes + ovaries.
+3. Right pelvic lymph node.
+4. Left pelvic lymph node.
+5. Omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS + TUBES + BILATERAL OVARIES&amp;quot;. Consists of uterus with attached cervix, bilateral tubes and ovaries. Specimen is received opened partially coronally. Anterior is inked blue, posterior black. (10/6/2071 km)
+
+Adnexal tissue is separated from the main specimen. The uterus with attached cervix together weighs 190g and measures 85mm superior to inferior, 45mm intercornual distance. Ectocervix is 34x25mm with a possible slit os 12mm. It is cream coloured and unremarkable. Anterior myometrium is 35mm in thickness. Posterior myometrium is 26mm thick. On opening, there is adnexal cystic lesion predominantly located in the right side of the uterus and the lesion measures 35mm anterior to posterior x 35mm superior to inferior x 34mm left to right. The tumour has a friable tan cut surface. It occupies 20mm of anterior endomyometrial thickness and 30mm of posterior endomyometrial thickness. At the fundal aspect, the tumour is less than 1mm from the serosa. Also noted within the myometrium are multiple scattered nodules with a pale white whorl appearance consistent with fibroid. They ranged from less than 1-15mm. Representative sections are taken.
+(1 shave right parametrial tissue; 2 shave left parametrial tissue; 3 right cornua; 4 left cornua; 5-13 one full face sagittal slice [5 anterior cervix; 6 anterior lower uterine segment; 7 and 8 composite slice, anterior endomyometrium; 9 fundus; 10 and 11 composite slice, posterior endomyometrium; 12 posterior lower uterine segment; 13 posterior cervix; 14-18 further sections of anterior endomyometrium towards the fundal aspect, deepest extent of tumour [14 and 15 composite slice; 16 and 17 composite slice]; 19 and 20 composite slice of tumour, posterior endomyometrium, deepest extent posteriorly).
+The right fallopian tube and ovary together weighs 8g. Fallopian tube measures 40mm in length with a maximum diameter of 12mm. The serosa is dusky but is otherwise unremarkable. The ovary is 30x15x10mm. Serosa is unremarkable. On sectioning through the ovary, the cut surface is firm. There is a 7mm cyst filled with haemorrhagic serous fluid. It has a smooth inner lining. The left ovary and fallopian tube together weighs 5g. Fallopian tube measures 40mm in length with a maximum diameter of 6mm. The serosa is dusky but is otherwise unremarkable. Ovary is 25x15x10mm. The serosal surface shows possible area of roughening ?adhesion. On sectioning through the ovary, the cut surface is firm but normal appearing. Representative sections are taken.
+(21 right fallopian tube; 22 right ovary; 23 left fallopian tube; 24 left ovary). Representative sections (M-24/MC 11/6/2071 cy)
+B. &amp;quot;OMENTAL BIOPSY&amp;quot;. Consists of a piece of fatty tissue, it measures 30x10x5mm. No suspicious areas are identified on palpation. Entire specimen is embedded. All embedded.  (1-1).
+C. &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;. Consists of a piece of fatty tissue measuring 30x25x10mm. Three possible nodes identified.
+(1  one possible node bisected; 2  possible lymph nodes). Representative sections. (M-2).
+D. &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;. Consists of multiple fragmented fatty tissue pieces, in aggregate 35x25x10mm. Two possible lymph nodes identified. Entire tissue embedded.
+(1  two possible nodes; 2  remainder fatty tissue). All embedded. (M-2 MC 10/6/2071 km).
+MICROSCOPIC:  (Dr. I. Colone)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE: Fundus Body
+
+TUMOR SIZE:  35mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 2. Predominately forming glands, villoglandular and papillary structures, with foci of more solid growth. Nuclei show foci of marked pleomorphism.
+
+MYOMETRIAL INVASION: Percentage depth of myometrial invasion:  100%
+The carcinoma invades the full thickness of the uterine wall and focally penetrates the serosal surface where there is a serosal fibroblastic reaction. (A14).
+
+UTERINE SEROSA INVOLVEMENT: Present focal (A14)
+
+LOWER UTERINE SEGMENT INVOLVEMENT:  There is lymphovascular invasion only, in the lower uterine segment. (A6)
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not identified
+
+MARGINS:
+- Parametrial margin: Uninvolved by carcinoma
+
+LYMPHOVASCULAR INVASION:  Present, substantial (&amp;gt; 5 vascular spaces) (eg. A6, A7)
+
+REGIONAL LYMPH NODES: Not involved
+Site: Right and Left pelvic lymph nodes (Specimen C and D)
+
+Number of lymph nodes involved: 0
+Number of lymph nodes examined: 8 (3 right pelvic lymph nodes, 5 left pelvic lymph nodes)
+
+DISTANT METASTASES (histologically confirmed): Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Leiomyomas
+Inactive endometrium, tubal metaplasia
+Other organs:
+Right ovary- cystic follicle
+Left ovary - no significant abnormality
+Right fallopian tube - no significant abnormality
+Left fallopian tube - small focus of intralumenal carcinoma only. (A23)
+Omentum (Specimen B) - negative for malignancy
+
+ANCILLARY STUDIES/IMMUNOSTAINS: Block A14
+Mismatch repair protein (MMRP) immunohistochemistry:
+MLH1 - No loss of staining
+PMS2 - No loss of staining
+MSH2 - No loss of staining
+MSH6 - No loss of staining
+This is the normal pattern of MMRP staining and high level microsatellite instability is very unlikely.
+
+Other:
+ER: Positive, 70%, 1+
+PGR: Positive, 80%, 2+
+P16: negative
+P53: Focal positive (A14). P53 is negative on two other slides (A15, A19). The p53 shows only focal positivity and the carcinoma is favoured to be endometrioid type.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report):  IIIA
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):  pT3a, pN0.
+
+COMMENT(S): The endometrioid adenocarcinoma forms back to back glands, cribriform structures, villoglandular pattern,  papillae and a squamoid nest (A14). More solid growth is seen in several areas. There is extensive lymphovascular invasion (A6).
+
+DIAGNOSIS:
+A. UTERUS, BILATERAL FALLOPIAN TUBES AND BILATERAL OVARIES:
+GRADE 2 ENDOMETRIOID ADENOCARCINOMA OF THE ENDOMETRIUM, PT3A, PN0.
+LYMPHOVASCULAR INVASION
+
+B. OMENTAL BIOPSY:
+NEGATIVE FOR MALIGNANCY
+
+C. RIGHT PELVIC LYMPH NODE:
+THREE LYMPH NODES NEGATIVE FOR MALIGNANCY
+
+D. LEFT PELVIC LYMPH NODE:
+FIVE LYMPH NODES NEGATIVE FOR MALIGNANCY
+
+10/6/2071  jb

@@ -1,0 +1,50 @@
+
+ 0315245.MAV
+Klepchick, SOLOMON
+03C52454
+
+Last edited : 8/9/2062		Page: 2
+CLINICAL:
+Right hemicolectomy for moderately differentiated adenocarcinoma.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a specimen of terminal ileum stump (55mm long), caecumand ascending colon (105mm long) and pericolonic fatty tissue (115 x 70 x 18mm).  There is an indurated tumour in the ascending colon immediately adjacent to the ileocaecal valve, 68 x 50 x 14mm.  The tumour has raised edges, an ulcerated centre and occupies up to 70% of the large bowel circumference.  It is 55mm from proximal and 64mm from the distal resection margin.  The tumour appears to have infiltrated through the muscularis propria.  The vermiform appendix is not identified.  There are several lymph nodes.  
+Blocks: 1 - shave proximal margin; 2 - shave distal margin; 3 & 4 - comprise one LS of tumour adjacent to the ileo caecal valve; 5 & 6 - paired transversesections of the tumour (the notches demonstrate the relationship of two sections); 7 - TS, tumour; 8 - TS tumour, reserve block fortumour bank; 9 - one lymph node in multiple slices; 10 - interface of tumour and adjacent colonic mucosa; 11 - bisected apical lymph node; 12 - one bisected lymph node; 13 - one bisected lymph node; 14 - lymph nodes; 15 - one bisected lymph node; 16 - one bisected lymph node; 17 & 18 - sections of pericolonic fat looking for lymph nodes.   (HM/ta 6/9/62) 
+MICROSCOPIC (reported by Dr C Alexzander):
+
+Site of tumour: Ascending colon with direct involvement of ileocaecal valve	
+Maximum tumour diameter:    68mm
+Distance of tumour to nearer cut end:    55mm (proximal)
+Tumour perforation:     No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 14	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumourstatus
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary 
+Right hemicolectomy: Adenocarcinoma NOS
+Stage  pT3     pN0     pMX   (AJCC 7th Edition)
+
+
+

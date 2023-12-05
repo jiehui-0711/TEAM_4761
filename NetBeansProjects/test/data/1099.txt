@@ -1,0 +1,51 @@
+
+Episode No:  17T850261Z
+1778502.SDZ
+
+WANKE, ORIELLA 
+Lab No:  17T85026,17T85026
+Forest Knoll
+TAREE  Australian Capital Territory  3792
+Specimen: Washings,Tissue
+D.O.B:  24/1/2002
+Sex:  F
+Collected: 17/9/2063 at :
+Location:  SA Pathology -GYMPIE HOSPITAL
+DR BRITNEY Shonda Morenz
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (11.3.64):
+
+
+CLINICAL:
+Large pelvic mass of ? origin.  RA.  Previous stroke.  En block resection of uterus, upper vagina and adnexae and rectum.
+Further information obtained:  The two separate segments of bowel in specimen B are in continuity, the smaller being distal.  Residual tumour present in the pelvis extensively surrounding specimen.  
+MACROSCOPIC:
+A.  Specimen labelled "Pelvic mass", consists of two tan solid fragments 25 x 20 x 10mm in aggregate.  AE 2 blocks for frozen section.
+FROZEN SECTION REPORT:
+Carcinoma - differential diagnosismalignant Brenner or transitional cell carcinoma.
+Phone result to fellow (gynae/onc) by Dr E Thornburg/E Ziegler at 3:30 on 15.07.13
+B.  Specimen labelled "Uterus, cervix, tubes, ovaries, rectosigmoid", consists of a specimen of uterus (80 x 60 x 40mm) with attached cervix (ectocervix 45 x 25mm), upper vagina (60 x 30mm), a segment of rectum (210mm in length). There is a solid friable tumour extending from serosal surface of the uterus to the wall of the rectum measuring approximately 110 x 90 x 85mm.  The tumour is seen at the distal cut end of the rectal segment and adjacent to the resection margin of the vagina.  There is a separate segment of rectum 60mm in length with tumour attached to its serosal surface measuring 75 x 70 x 55mm.  The tumour has a pale and friable cut surface.  The ? left fallopian tube is 42mm in length and up to 12mm in diameter.  The left ovary measures 28 x 25 x 20mm and is 4mm from the tumour.  The left ovary has a solid cut surface.  Theright ovary measures 28 x 25 x 15mm and has a solid cut surface.  The right ovary is adjacent to the tumour. The right fallopian tube is not identified.  Within the larger segment the tumour appears to be abutting the rectal serosa butis not infiltrating through the muscularis propria. Within the smaller piece the tumour appears to have penetrated through the muscularis propria but is not involving the mucosa.   Block 1 - proximal rectal margin; 2 - LS,distal rectal cut end (the larger piece); 3 & 4- LS, vaginal margin; 5-7 - full LS of anterior body and cervix (part of the posterior myometrium is also included); 8-13 - full LS of posterior body and cervix showing serosaladherence of tumour; 14 - ? left fallopian tube; 15-17 - sections of left ovary and adjacent tumour; 18 & 19 - right ovary and tumour; 20 - section of rectum and adjacent tumour, larger piece; 21 - section of tumour, reserve block; 22 - one rectal mesenteric lymph node; 23 & 24 - LS, two cut ends of the rectum in the smaller piece; 25 & 26 - representative smaller piece; 27 - peripheral margin, smaller piece.     
+C.  Specimen labelled "Omentum", consists of a piece of omental fatty tissue 175 x 95 x 12mm.  On slicing no nodules are identified.
+Blocks: 1 to 3 - random sections; 
+D.  Specimen labelled "Left external iliac lymph node", consists of fatty tissue 45 x 45 x 10mm in aggregate containing one lymph nodes the largest 20mm in maximum dimensions.
+Blocks: 1 & 2 - lymph nodes.  (HM/ec 19.9.63)
+MICROSCOPIC (reported by Dr E Bourgeois & Dr E Heriford):
+A.  Sections show sections show transitional cell carcinoma.
+B.Sections show transitional cell carcinoma with malignant cells arranged in papillae and solid nests with widespread necrosis.  Carcinoma extensively surrounds the uterus, cervix, vagina cuff, adnexal structures and bowel, extending to peripheral margins over a broad front.  The carcinoma extends through the colorectal muscularis propria and submucosa into the lamina propria but does not breach the epithelium.  Tumour is present at all the colorectal cut ends except the proximal margin.  The carcinoma infiltrates the submucosal stroma of the vagina and is focally present at the disrupted vaginal cuff margin.  Sections of uterus show infiltration of carcinoma through the serosa and into the myometrium posteriorly.  Incidental foci of adenomyosis are present.  Both ovaries are identified and although extensively surrounded by tumour, otherwise appear normal.  No benign Brenner tumour is identified.  The fallopian tubes show no significant abnormality.  The endometrium is proliferative and the cervix shows no significant abnormality.  The mesenteric lymph node identified shows no evidence of malignancy.  The tumour shows positive staining with CK7 and is negative for CK20.
+COMMENT:  The primary site of tumour cannot be determined and the ovaries appear normal.  The immunohistochemical profile is consistent with agynaecological primary however, bladder transitional cell carcinoma should be excluded clinically.
+C.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+D.  The six (6) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A - D.  Pelvic mass, uterus, cervix, ovaries and fallopian tubes, bowel, omentum and iliac lymph nodes:
+- Transitional cell carcinoma, primary site undetermined (see comment)Positive bowel and vaginal cuff margins
+- Positive circumferential margins
+- Omentum negative
+- Seven negative lymph nodes
+SUPPLEMENTARY REPORT (11.3.64, Dr E Eriksen):
+B.  Immunostains for mismatch repair enzymes have been performed as requested.
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).
+

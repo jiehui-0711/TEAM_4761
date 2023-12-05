@@ -1,0 +1,49 @@
+
+Episode No:  63A360177D
+630360.CTU
+
+MACURA, Elwood 
+Lab No:  63A36017
+McCarters
+FRESHWATER  Tasmania  6562
+Specimen: Tissue
+D.O.B:  3/1/2022
+Sex:  M
+Collected: 19/06/2065 at 12:38
+Location:  ACUTE STROKE UNIT-LEIGH CREEK HEALTH SERVICES
+DR Young THUKERI-Tinneberg
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right nephrectomy for RCC.  
+MACROSCOPIC:
+Specimen labelled "Right kidney" consists of a kidney with adjacent perinephric fat weighing 686g in total.  The kidney is 145 x 85 x 65mm, with a stripped weight of 290g.  The perinephric fat is 200 x 120 x 70mm.  The overlying peritoneum is smooth and freely mobile.  The adrenal gland is not identified.  The ureter is 30mm in length and 5mm diameter.  Within the upper pole of the kidney is a circumscribed tumour, 74 x 70 x 70mm.  The tumour has a tan brown cut surface.  There appears to be an area of central scarring and haemorrhage.  The tumour abuts the renal capsule but does not extend into the adjacent adipose tissue.  The tumour abuts the renal sinus fat.  The tumour is at least 35mm clear of the renal hilar margins.  Within the upper pole of the kidney is a cortical tan nodule 6mm across.  This nodule appears immediately adjacent to the main tumour.  A 25mm unilocular cyst is also seen in the superior pole of the kidney.
+Blocks:  1- shave ureter margin; 2 - shave renal hilar vessels margins; 3- uninvolved inferior pole of kidney; 4 to 6 - tumour with haemorrhagic area and possible scar; 7 - possible central scar in tumour; 8- tumour with capsule and perinephric fat; 9 - tumour abutting renal sinus fat; 10 - tumourwith uninvolved kidney; 11 - tumour (reserved block); 12 - adjacent small cortical nodule; 13 - cyst in superior pole adjacent to tumour.  (TO: MS:  FB/mm 22.6.65)
+MICROSCOPIC (reported by Dr S Votraw):
+KIDNEY TUMOUR PROFORMA
+Position of tumour:  Upper pole right kidney
+Dimensions of tumour: 74 x 70 x 70mm
+Tumour type:  Chromophobe renal cell carcinoma
+Fuhrman/nucleolar grade: 
+	Grade 3 	nucleoli prominent at 100x magnification 
+Note: neither Fuhrman nor nucleolar grading has prognostic significance in chromophobe RCC
+Sarcomatoid differentiation: Absent
+Rhabdoid differentiation: Absent
+Necrosis: Absent
+Tumour spread beyond kidney:  Absent
+Tumour extends beyond Gerota's fascia: Absent
+Tumour in renal sinus fat: Absent
+Tumour in renal vein or its segmental (muscle containing branches): Absent
+Lymphovascular invasion:  Absent
+Involvement of surgical margins:  Absent, > 10mm all margins
+Other comments:  The tumour cells show focal positive staining for e-cadherin and CK7. Minimal focal staining is seen for CD10. c-kit, vimentin, melan A and HMB45 are negative. Ki67 index is < 5%. Weak focal staining is seen for Hales colloidal iron. 
+The uninvolved kidney is unremarkable.
+AJCC tumour stage (7th Ed.)
+pT2a Tumour more than 7cm but less than or equal to 10cm in greatest dimension, limited to kidney
+pNX Regional lymph nodes cannot be assessed.
+pMX Cannot be assessed histologically
+DIAGNOSIS
+Right kidney:
+	74mm chromophobe renal cell carcinoma, margins clear
+	Lesion confined to kidney (pT2a, AJCC 7th ed.)
+
+

@@ -1,0 +1,67 @@
+
+Episode No:  08S514288G
+0875142.XUG
+
+HANAUER, LORINE 
+Lab No:  08S51428
+Old Indian
+HAY  VIC  4425
+Specimen: Tissue
+D.O.B:  18/4/2004
+Sex:  F
+Collected: 19/09/2013 at 17:02
+Location:  2 BUNDEENA DR - QUIRINDI COMMUNITY HOSPITAL
+DR TYRELL JOHNNY BEEKMAN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast, lobular CA 10 o'clock, 6cm FN.  HWL wide local excision + SLN biopsy.  Graves disease.  Hypertension.  Previous bowel obstruction.    Wide excision - ellipse of skin with wire at inferolateral edge, - short stitch superior, long lateral, medium medial.  Sentinel node (hot).  Extra axillary node (not hot).
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node" consists of two lymph nodes covered with adipose tissue measuring 15 x 10 x 5mm and 20 x 14 x 10mm.  AE 2 blocks.
+Blocks:  1 - smooth lymphnode, bisected; 2 - lymph node serially sectioned.
+B.  Specimen labelled "Right breast lump with hook wire" consists of a piece of fibrofatty tissue with three stitches as indicated, measuring 107mm (medial to lateral), 68 mm (superior to inferior) and 47mm (superficial to deep), weighing137g.  There is an ellipse of skin measuring 75 x 20mm with a hook wire at one margin.  The skin appears unremarkable. The specimen is inked as follows:  Superficial - blue, deep - black, superior - red, inferior - green, and seriallysectioned from medial to lateral in two to sixteen slices.  There is a firm sclerotic area with areas of haemorrhage in the deep to inferior aspect of slices two to four, over an area of 22 x 17 x 20mm.  The margin are as follows:  abutsthe deep, 16mm superficial, 10mm inferior, 22mm superior, 5mm medial and >10mm lateral.  The hook wire tip ends in slice one.  The rest of the breast shows normal fibrofatty tissue.  AE from medial to lateral.
+Blocks:  1 to 5 - slice one (medial); 6 to 9 - slice two; 10 to 13 - slice three; 14 to 18 - slice four; 19 to 23 - slice five; 24 to 27 - slice six; 28 to 33 - slice seven; 34 to 37 - slice eight; 38 to 41 - slice nine; 42 to 45 - slice 10; 46 to 49 - slice eleven; 50 to 53 - slice 12; 54 to 57 - slice thirteen; 58 to 61 - slice fourteen; 62 to 65 - slice fifteen; 66 to 70 - slice sixteen (lateral).  (TO: RL; UQ/rt 22.11.2063)
+MICROSCOPIC (Reported by Dr C Pat):
+Sections show an infiltrating lobular carcinoma with the following features:
+Invasive carcinoma:
+Site:  Left breast (clinically- 10 o'clock 6cm FN)
+Type:  Infiltrating lobular carcinoma, classic type.
+Invasive tumour size: Approximately 20mm (five consecutive slices).  
+Grade (Modified Bloom & Richardson): 2
+Tubules:  3  Nuclei:  2  Mitoses:  1  Mitotic rate:  4/10hpf.
+Lymphovascular invasion:  Not seen.  
+DCIS component:  Not seen
+
+
+Excision Margins:  
+Invasive component:  Medial - 3.5mm (B4), deep - 4.7mm (B15), inferior -10mm, other margins well clear (>10mm).  
+Receptors (Block B11): 
+ER:Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	90% of nuclei stained
+	predominant intensity of staining: Moderate
+HER2 (Novocastra 10A7):  Equivocal 2+ 
+HER2 SISH:  Performed at SEALS Central, St George Hospital, see separate report.
+Ki-67 index:Approximately 5%
+Nipple:  N/A.  
+LCIS / ALH:  There is extensive LCIS/ALH predominantly in proximity to the invasive tumour with a few outlying foci.  The LCIS contains patchy necrosis and calcification.  No pleomorphic LCIS is seen.
+Miscellaneous:  The breast tissue also contains foci of columnar cell hyperplasia and sclerosing adenosis. Core biopsy tracts are identified in the vicinity of thetumour.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 2
+Number of sentinel lymph nodes involved by tumour:  0
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0.  
+Number of other lymph nodes examined = 5 (intramammary).
+Number of intramammary nodes with metastases >2.0mm:  0
+Number of intramammary nodes with isolated tumour cells <0.2mm:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  7
+Total number of involved lymph nodes (including sentinel node(s)):  0
+DIAGNOSIS:
+A + B.  Right axillary sentinel nodes and right breast hookwire localised wide local excision:
+-  20mm grade 2 infiltrating lobular carcinoma, classic type; ER positive, PR positive; margins clear (closest medial - 3.5mm); no lymphovascular invasion seen; five (5) negative intramammary lymph nodes and two (2) negative left axillary sentinel lymph nodes (0/7).
+-  Lobular carcinoma in situ, classic type. 
+ 
+

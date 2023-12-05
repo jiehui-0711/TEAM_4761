@@ -1,0 +1,61 @@
+SPR no: 45Q325457C
+MRN no: 456325
+Site_name: EAST WIMMERA HEALTH SERVICE - BIRCHIP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report45Q32545 (45Q325457C) AURAND, MIKEL
+HISTOPATHOLOGY REPORT
+THE ROYAL WOMEN'S HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Left breast central:
+1. Mastectomy.
+2. Further superior margin.
+Left breast cancer.
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;LEFT CENTRAL MASTECTOMY SUTURE SUPERIOR&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Central mastectomy
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  110mm
+Superior to inferior:  65mm
+Anterior to posterior:  60mm
+WEIGHT:  115.5g
+SKIN:  Ellipse of skin anteriorly 110x50mm
+NIPPLE:  13mm across
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior (skin) blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial
+Number of slices: 15
+FINDINGS / LESION:  Within slice 2-8 there is a cavity surrounding with granulation tissue, fat, fibrosis measuring 25mm medial to lateral, 35mm superior to inferior and 30mm anterior to posterior.  No definite tumour present.  The cavity abuts the skin and is about 5mm from superior, 5mm from inferior, 7mm from posterior and more than 10mm from medial and lateral margins.
+(1&amp;amp;2 LS from slice 1 bisected; 3-6 slice 3; 7-10 slice 5; 11-14 slice 7; 15 section of slice 8; 16 section of slice 9 including nipple; 17 section of slice 11; 18 section of slice 13 and 19 one LS from slice 15).  RS (M-19)
+B.  Specimen labelled &amp;quot;FURTHER SUPERIOR MARGIN&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE: Further margin excision
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS: 70x60x15mm
+WEIGHT:  29g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:
+Non-standard:  Flat surface inked black, convex surface blue.
+DISSECTION: Cut from one end to other end
+Number of slices: 11
+FINDINGS / LESION:  No tumour identified. Sectioning shows homogenous fatty tissue. Every other section embedded.
+(1 two LS from slice 1; 2&amp;amp;3 slice 2; 4&amp;amp;5 slice 4; 6&amp;amp;7 slice 6; 8&amp;amp;9 slice 8; 10&amp;amp;11 slice 10; 12 LS from slice 11).  RS (M-12/SM 5/4/2071 ank)
+MICROSCOPIC:  (Dr L Spade)
+A.  The sections show skin including nipple with underlying breast tissue, with breast ducts and lobules showing epithelial hyperplasia and columnar cell change.  There is also a biopsy cavity with fat necrosis and fibroblastic reaction.  Focally, there is residual intermediate nuclear grade ductal carcinoma in-situ in ducts adjacent to the biopsy cavity (block A5).  Ductal carcinoma in-situ measures 5mm in extent and is 11mm from the posterior margin and is 16mm from the inferior margin.
+Sections of the nipple appear unremarkable.
+B.  The sections show breast tissue with patchy duct dilatation and periductal chronic inflammation.  Negative for ductal carcinoma in-situ and negative for invasive malignancy.
+DIAGNOSIS:
+A.  LEFT CENTRAL MASTECTOMY:
+-   FOCAL RESIDUAL DUCTAL CARCINOMA IN-SITU -  SEE TEXT FOR DETAILS
+B.  FURTHER SUPERIOR MARGIN:
+-  BENIGN BREAST TISSUE
+7/8/2071 nh

@@ -1,0 +1,93 @@
+SPR no: 61F340560M
+MRN no: 612340
+Site_name: LIVERPOOL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report61F34056 (61F340560M) Moudy, MELLIE Terence
+HISTOPATHOLOGY REPORT
+SNOWTOWN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+R breast sentinel node frozen section, right breast Ca, long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A.  &amp;quot;SENTINEL NODE RIGHT BREAST&amp;quot;.  One pale blue lymph node 20x6x5mm.  Half embedded for frozen section.  One tan lymph node 4mm in maximum diameter.  The blue node was sampled for frozen section.
+
+F/S:  &amp;quot;No evidence of malignancy&amp;quot;.  Result was phoned on 14.6.2071 by Dr. Q. Parat.
+
+(1  frozen; 2  remainder of blue node; 3  smaller tan node [not frozen]).  RS (M-3).
+
+B.  &amp;quot;LESION RIGHT BREAST&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Wide local excision, oriented.
+SPECIMEN X-RAY:  Yes, hookwire split is identified in G7 adjacent to a possible density in F7.
+HOOKWIRE:  Yes, entering the specimen anteromedially.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  55mm
+Superior to inferior:  33mm
+Anterior to posterior:  20mm
+WEIGHT:  16g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard:  Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial
+Number of slices:  10
+FINDINGS / LESION:  The yellow inking is present in slices 3 and 4.  It is corresponding to a lesion with firm white cut surface and infiltrative borders measuring 11mm superior to inferior x8x8mm.  This lesion is located 12mm of anterior, 3mm of posterior, 10mm of superior, 10mm of inferior, 12mm of medial, and 25mm of lateral margin macroscopically.
+Another ill-defined firm area is present in slices 6 and 7 measuring 8x6x4mm.  It is abutting the posterior margin macroscopically, located 4mm of superior, 8mm of inferior, and more than 20mm of other margins.  The specimen becomes haemorrhagic towards the lateral aspect of the specimen.
+(1  slice 1 serially sliced [lateral]; 2  slice 2; 3  slice 3; 4&amp;amp;5  slice 4; 6  slice 5; 7  slice 6; 8  slice 7; 9  slice 8; 10  slice 9; 11&amp;amp;12  slice 11 serially sliced [medial]).  AE (M-12/ZH 18/7/2070 km).  Please refer to diagram.
+MICROSCOPIC:  (Dr. Q. Timperman)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160;11mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Classic invasive lobular carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules: 3, Nuclei: 2, Mitoses: 1; MITOTIC RATE: 2 mitoses per 10 hpfs
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 11mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Absent
+&amp;#160;
+PERINEURAL INVASION:  Absent
+&amp;#160;
+SKIN INVOLVEMENT: No skin is present for assessment.
+
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160; No DCIS is seen.
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Minimal low grade LCIS is present at the advancing edge of the tumour.
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:  Clear
+2.5mm from the posterior margin, 6mm from the anterior margin, 7mm from the inferior margin, 8mm from the superior margin and &amp;gt;10mm from all other margins.
+&amp;#160;
+DCIS MARGINS:  N/A
+&amp;#160;
+ANCILLARY TESTS:  IMMUNOSTAINS, block B3
+ER: &amp;#160;Positive (strong staining in 90% of cells)
+PgR: &amp;#160; Positive (strong staining in 90% of cells)
+HER2: &amp;#160;0 (negative)
+Ki67: 2%
+
+The tumour is negative for E-cadherin.
+&amp;#160;
+Other tumour block suitable for further testing:  B4
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS:  The ill-defined firm area shows benign changes including apocrine metaplasia, columnar cell change and cystic change.
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: 2 lymph nodes negative for malignancy.
+Immunohistochemistry for cytokeratin is negative in the lymph nodes.
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c, pN0
+
+DIAGNOSIS:
+A-B. RIGHT BREAST WIDE LOCAL EXCISION AND SENTINEL LYMPH NODE:
+- Grade 2 Classic invasive lobular carcinoma; pT1c, pN0
+- Two sentinel lymph nodes with no malignancy

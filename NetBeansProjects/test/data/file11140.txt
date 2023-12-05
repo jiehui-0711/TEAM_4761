@@ -1,0 +1,77 @@
+SPR no: 68H045867S
+MRN no: 6820458
+Site_name: TRESILLIAN FAMILY CARE CENTRE - WILLOUGHBY
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  68H045867S
+6820458.STS
+
+OZA, RONALD
+Lab No:  68H04586
+Allama Iqbal
+KINGSCLIFF  New South Wales  3001
+Specimen: Tissue
+D.O.B:  20/8/2000
+Sex:  M
+Collected: 2/5/2066 at :
+Location:  105 HAMRUN CIRCUIT-SARINA HOSPITAL
+DR OMAR MOIRA KUHR
+Distribution:    CMS Energy Corporation
+CLINICAL:
+Descending colon Ca &amp;#8211; left hemicolectomy + splenectomy (bleeding).  Bowel cancer,  HTN.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Anterior resection&amp;quot;, consists of a segment of colon 220mm long with attached mesenteric fatty tissue up to 85mm across.  There is a mucosal tumour 16 x 15 x 7mm.  The tumour is 70mm from the apparent distal and 135mm from the apparent proximal margin.  The tumour is 90mm from the mesenteric resection margin.  The tumour is closer to the anti-mesenteric side of the colon.  The distal margin is inked blue and the proximal margin is inked black.  On slicing the tumour has pale solid cut surfaces.  Definite extension into the muscularis propria is not seen.  Lymph nodes are small and few.  Sections of mesenteric fat are blocked looking for lymph nodes.
+Blocks: 1 &amp;#8211; LS distal margin; 2 &amp;#8211; LS proximal margin; 3 to 5 &amp;#8211; TS all of the tumour (block 4 MSI stains); 6 &amp;#8211; apical lymph node bisected; 7 &amp;#8211;lymph nodes as seen; 8 to 17 &amp;#8211; sections of fat looking for lymph nodes.
+B.  Specimen labelled &amp;quot;Spleen&amp;quot;, consists of a spleen 95 x 70 x 30mm weighing 101g.  Separate from the spleen there are three pieces of haemorrhagic tissue 65 x 50 x 20mm in aggregate.  The capsular surface of the spleen appears disrupted over an area of 65 x 50mm.  On sectioning the spleen, no focal lesions are identified.
+Blocks: 1 and 2 &amp;#8211; RS spleen; 3 &amp;#8211; RS separate haemorrhagic fragment.
+(TO: HM;HM/vo 2.5.66)
+MICROSCOPIC:  (REPORTED BY DR M Reimann)
+A.  Sections of the descending colon tumour show a moderately differentiated adenocarcinoma. A synoptic report for colorectal carcinoma follows:
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Descending colon.
+Maximum tumour diameter: 16mm.
+Distance of tumour to nearer cut end: 70mm (distal).
+Tumour perforation: No.
+
+Microscopic Description
+Type
+Adenocarcinoma NOS.
+Differentiation by predominant area
+Moderate.
+Local invasion
+pT2	Invasion into muscularis propria.
+Tumour involvement of margins
+Cut ends: Not involved.
+Lymph nodes
+Number of lymph nodes present: Nine.
+Number of lymph nodes involved: None (0/9).
+pN0	No regional LN metastasis.
+Lymphovascular invasion
+Not identified.
+Perineural invasion
+Present.
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically.
+Background abnormalities/other comments
+Nil significant.
+Residual tumour status
+R0	No residual tumour.
+Response to neoadjuvant therapy
+Not applicable.
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+pTNM Stage: pT2N0Mx
+B.  Sections of spleen show preservation of white and red pulp. There is patchy arteriolosclerosis and hyalinosis of splenic vessels. Some recent haemorrhage is noted on the splenic surface which also shows patchy acute inflammation, which may represent surgical related change and are of uncertain clinical significance. No diagnostic evidence of malignancy is seen in the sections examined.
+DIAGNOSIS:
+A.  Anterior resection:
+16mm pT2N0Mx moderately differentiated adenocarcinoma of the descending colon, clear of margins.
+Focal perineural invasion; no lymphovascular space invasion.
+No evidence of malignancy in nine lymph nodes (0/9).
+MSI markers show a low risk of microsatellite instability.
+
+B.  Spleen: No evidence of malignancy.

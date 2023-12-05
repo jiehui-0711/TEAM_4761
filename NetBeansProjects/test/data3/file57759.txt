@@ -1,0 +1,84 @@
+SPR no: 78P672669I
+MRN no: 786672
+Site_name: WONDAI HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Caecal cancer.
+MACROSCOPIC:
+Specimen labelled:  Right hemicolectomy
+
+Specimen
+Specimen length:  285mm
+Length of terminal ileum:  90mm
+Length of caecum/ascending colon:  195mm
+Thickness of mesocolon:  100mm
+Appendix:  70 x 5mm diameter.
+
+Tumour
+Location:  Within the proximal ascending colon/caecum on the posterolateral surface.
+Description:  Broad-based exophytic mass with a mushroom like appearance. On sectioning, the tumour invades through muscularis propria into pericolic fat and appears to abut the serosa in the area where the serosa appears indented.
+Maximum tumour diameter:  53mm
+Perforation:  Absent
+Appearance of serosa overlying tumour:  Indented
+Distance of tumour to proximal cut end:  110mm
+Distance of tumour to distal cut end:  150mm
+Distance of tumour to circumferential margin:  Greater than 10mm
+
+Other
+Polyps:  None
+Adherent structures:  None
+Inked margins:  Proximal margin blue, distal margin black.
+
+Blocks
+1 - proximal and distal margins; 2 - two LS tip of appendix and three TS; 3 to 5 - tumour abutting serosa and invading into pericolic fat; 6 - apical tissue; 7 - apical node; 8 - one lymph bisected; 9 - one lymph node trisected; 10 - one lymph node quadrisected; 11 - two lymph nodes; 12 - one lymph node bisected; 13 - one lymph node trisected; 14 - one lymph node bisected; 15 - one lymph node bisected; 16 and 17 - one lymph node bisected each; 18 - 5 lymph nodes; 19 to 21 - two lymph nodes each.  (TO:BL/hh 21/6/67)
+
+
+MICROSCOPIC (Reported by Dr S Leffew):
+Sections show mucinous adenocarcinoma of the caecum.  Tumour just penetrates through muscular propria into subserosal adipose tissue.  One (1) of the twenty-one (21) lymph nodes identified contains metastatic adenocarcinoma.  The features are as follows:
+
+Type
+Mucinous carcinoma
+
+Local invasion
+T3	Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+
+Lymph nodes
+Number of lymph nodes present:  21
+Number of lymph nodes involved:  1
+
+N1a	Metastases in 1 regional LN
+
+Lymphovascular invasion
+Absent
+
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+MX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+Appendix shows no significant abnormality.
+
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+BRAF V600E immunohistochemistry
+Not performed
+
+Summary &amp;#8211; AJCC 8th Edition
+pT3	   N1a	   MX        R0

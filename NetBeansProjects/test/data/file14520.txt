@@ -1,0 +1,31 @@
+SPR no: 61R779861S
+MRN no: 61677986
+Site_name: KALGOORLIE HEALTH CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Stage 1 endometrial cancer.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, tubes, ovaries and cervix&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 147g in total.  The uterus measures 85 x 65 x 45mm and has a smooth and shiny serosal surface.  The soft tissue margin of uterus is inked blue anteriorly and black posteriorly.  The ectocervix measures 27 x 22mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness.  An endometrial tumour is not seen.  The myometrium is 13mm in maximum thickness and contains five fibroids ranging from 7 to 15mm in maximum dimension.  All fibroids have pale solid cut surfaces with no necrosis. Adjacent to the right cornu and incontinuity with the serosal surface of the uterus there is a nodular mass 35 x 15 x 12mm.  The nodule has a smooth shiny external surface and a cystic and solid cut surface.  The cystic component is unilocular 18mm in maximum dimension and is filled with clear fluid.  The right ovary measures 20 x 14 x 7mm and has an unremarkable cut surface, the right fallopian tube measures 45mm in length and 7mm in diameter.  The left ovary measures 15 x 15 x 10mm and has an unremarkable cut surface.  The left fallopian tube measures 40mm in length and up to 6mm in diameter.
+Blocks: 1 to 6 - full LS anterior body and cervix (3 &amp;amp; 4 - paired; 5 &amp;amp; 6 - paired); 7 to 12 - full LS posterior body and cervix (9 &amp;amp; 10 - paired; 11 &amp;amp; 12 - paired); 13 to 17 - one full slice of body of uterus (14 &amp;amp; 15 - paired sections; 16 &amp;amp; 17 - paired sections); 18 to 22 - one full section of body of uterus (19 &amp;amp; 20 - paired; 21 &amp;amp; 22 - paired); 23 &amp;amp; 24 - body of uterus; 25 - body of uterus; 26 &amp;amp; 27 - paired sections, body of uterus; 28 to 32 - body of uterus; 33 &amp;amp; 34 - representative, the right adnexal mass; 35 - right fallopian tube and ovary; 36 - left fallopian tube and ovary; 37 &amp;amp; 38 - paired sections, body of uterus; 39 &amp;amp; 40 - paired sections, body of uterus.  All endometrium is blocked.    (HM/ta 14/11/66)
+
+
+MICROSCOPIC (Reported by Dr R Barket):
+Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  No lymphovascular or perineural invasion is seen.  Carcinoma invades to a depth of 7mm through a wall thickness of 16mm.  The cervix is uninvolved.
+The ectocervix and endocervix show no significant abnormality. The remaining endometrium is inactive.  The myometrium shows widespread adenomyosis and a number of leiomyomas. The fallopian tubes and ovaries show no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block11)
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS:
+Uterus, cervix, tubes and ovaries:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  No lymphovascular or perineural invasion identified.
+-  Invasion to a depth of 7mm through a wall thickness of 16mm.
+-  Cervix uninvolved.

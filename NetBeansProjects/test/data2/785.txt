@@ -1,0 +1,67 @@
+Episode No:  50B900853Q
+500900.WNI
+
+ULRICH, Irving 
+Lab No:  50B90085
+Aldrid
+WINGHAM  Victoria  3105
+Specimen: Tissue
+D.O.B:  22/3/2014
+Sex:  M
+Collected: 01/02/2014 at 16:33
+Location:  MEDIC/SURGERY WARD-COLLINSVILLE MULTI-PURPOSE HEALTH SERVICE
+DR Freddy Royal MARCOS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Pancreatic Ca - Whipple's.  PV excision and reconstruction.  Portal vein margins.
+MACROSCOPIC:
+Specimen labelled "Whipple's with portal vein" consists of a Whipple's resection with a bowel measuring 270mmin length including area of distal stomach 25mm in length.  The pancreatic head measures 65 x 55 x 50mm.  Upon opening, the proximal duodenum appears dilated with the mucosa flattened.  There is a roughened area near the ampulla projecting into the lumen which is possibly ulcerated, measuring 15 x 10mm.  The duodenal mucosa appears haemorrhagic distally but otherwise unremarkable.  The anterior pancreatic margin is inked blue.  The uncinate is inked black.  The posterior is inkedgreen with the portal vein area inked red.  The superior aspect is also inked black.  The pancreatic neck resection margin is shaved and the underlying area is inked yellow.  The cut surface reveals a friable tumour which appears to be centred in the duodenum in close proximity to the papilla.  The tumour extends into the lumen and appears to partially obstruct it.  The surrounding pancreatic tissue appears fibrotic and it is difficult to assess the extent of involvementof the tumour into the pancreas.  The cystic duct appears dilated throughout its length and was unable to be probed into the duodenum, and appears therefore obstructed.  Multiple lymph nodes were identified in the pericystic duct and along the gastric resection margin.  The attached gallbladder measures 100mm in length with a maximum external diameter of 45mm.Maximum thickness of the wall is 7mm.  The wall appears oedematous in places.  The mucosa has prominent yellow streaks around.  The lumen is full of large amounts of green biliary sludge but no gallstones are identified.  The cut surface reveals that the tumour appears clear of the portal vein.  Two separate fragments of fatty tissue ?omentum were identified measuring 130 and 150mm in maximum dimension.  A few small cream nodules are identified in the omental fat ?fat necrosis.  No other suspicious areas are identified.
+Blocks:  1 - resection margins; 2 - shave of pancreatic neck; 3 - common bile duct resection margin; 4 to 6 - serial TS through tumour (5 - including portal vein resection margin); 7 - LS through a new pancreatic neck resection margin; 8 & 9 - inferior pancreatic margin; 10 - superior pancreatic margin; 11 - lymph nodes from peri cystic duct area; 12 - lymph nodes from peri gastric area; 13 - gallbladder body; 14 - gallbladder fundus; 15 - omentum; 16 - further portal duct were attached.
+(TO: PM; AY/rt 4.5.64)
+MICROSCOPIC (Reported by A/Prof Y Chumbley & Dr Y Simmers):
+Sections show a 26mm moderately differentiated pancreatic ductal adenocarcinoma extending into the duodenal mucosa in close association with the Ampulla of Vater. 
+The large pancreatic and common bile ducts show areas of acute inflammation consistent with obstruction. The surrounding pancreatic tissue shows large areas of atrophy and loss of pancreatic acinar tissue with associated fibrosis consistent with obstructive chronic pancreatitis. Extensive desmoplasia is also associated with the carcinoma. 
+Sections from the gallbladder show mild thickening of the gall bladder wall due to muscle hypertrophy consistent with chronic cholecystitis. The omentum shows areas of fat necrosis and a foreign body reaction to suture material.
+The adenocarcinoma has the following features:
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Tumour extends beyond pancreas but without involvement of the celiac axis or superior mesenteric artery.
+Tumour involvement of margins
+Cut ends of stomach / duodenum: Not involved
+Pancreatic neck margin: well clear
+Portal vein margin: 5mm clear
+Uncinate process: 0.2mm clear
+Anterior pancreas: 3.5mm clear
+Posterior pancreas: 1.5mm clear
+Inferior pancreas: 4mm clear - fibrosis and distortion of atrophic ducts makes assessment of this margin difficult. 
+Superior pancreas: Well clear
+Lymph nodes
+Number of lymph nodes present:  (4 peripancreatic, 1 peri cystic duct, 2 peri gastric)
+Number of lymph nodes involved: 0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present - venous invasion is identified in a medium sized vein adjacent to edge of tumour.
+Perineural invasion
+Present - There is widespread perineural invasion, including foci involving nerves well away from the advancing edge of the carcinoma. Large nerve involvement is identified close to the uncinate margin. 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumour status
+R0	No residual tumour
+Summary - TNM 7th Edition
+pT3   pN0    pMX   R0
+
+
+DIAGNOSIS: 
+PANCREAS: ADENOCARCINOMA WITH PERINEURAL AND VENOUS INVASION (SEE ABOVE)
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+SPR no: 69S245770G
+MRN no: 2755061
+Site_name: ATHERTON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Complex pelvic mass.  Ca 125=73.  Smoker, complex pelvic mass.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left ovary + left tube&amp;quot;, consists of a ovary with attached fallopian tube, 5860g, 300 x 250 x 130mm.  The fallopian tube is 210 x 3mm.  The ovary is expanded by an encapsulated multiloculated cystic mass with abundant inspissated mucin.  Blocks: 1 - fimbria bisected longitudinally; 2 - representative TS fallopian tube; 3 to 32 - RS tumour.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, right tube and right ovary&amp;quot;, consists of a uterus with attached cervix, right fallopian tube and right ovary weighing 80.6g in total.  The uterus measures 70 x 58 x 37mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 32mm and has an unremarkable surface.  On sectioning the endometrium is 2mm in maximum thickness and the myometrium is 15mm in maximum thickness.  The myometrium contains foci of probable adenomyosis.  The right fallopian tube measures 60mm in length and 6mm in maximum diameter.  The right ovary measures 28 x 13 x 12mm and has an unremarkable cut surface.  Blocks: 1  to 3 - full LS anterior body and cervix; 4 to 6 - full LS posterior body and cervix; 7 &amp;amp; 8 - right fallopian tube; 9 &amp;amp; 10 - right ovary bisected.
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a sheet of omentum, 375 x 170 x 15mm.  No tumour deposits or other abnormalities are identified.  RS 3 blocks.
+
+D.  Specimen labelled &amp;quot;Para-aortic lymph nodes&amp;quot;, consists of an unorientated piece of fatty tissue, 20 x 11 x 8mm containing a 9 x 7 x 6mm lymph node.  BAE 1 block.
+
+E.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a vermiform appendix, 50 x 7mm with attached mesoappendix, 55 x 18 x 9mm.  The serosal surface is smooth and shiny.  The lumen contains soft pale tan material.  No obvious tumour deposits are identified.  Blocks: 1 - proximal appendix bisected longitudinally; 2 - mid appendix sectioned into three TS; 3 - distal appendix bisected longitudinally.   AE.   (TO: TF/ta 4/5/66)
+
+
+MICROSCOPIC (Reported by Dr Q Saunier):
+A.  Sections show a low grade borderline mucinous tumour of the ovary.  Much of the tumour is benign, however there are areas where the epithelium shows mitoses and cytological atypia and stratification consistent with borderline change.  The tumour shows evidence of partial torsion with patchy necrosis and haemorrhage.  The tube is unremarkable.  There is no evidence of invasion.
+
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium, right ovary and right tube are unremarkable.  There is no evidence of malignancy.
+
+C.  The omentum shows no significant abnormality.  There is no evidence of malignancy.
+
+D.  One lymph node shows no evidence of malignancy.
+
+E.  The entire appendix has been embedded and shows no significant abnormality.  There is no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+Low grade borderline mucinous tumour of the left ovary.  Appendix unremarkable.  No other significant abnormality.
+
+
+ADDITIONAL REPORT 15/5/69:
+The tumour is positive for CK7 and CK20, patchy positive for PAX8 and only very focally positive for CDX2, consistent with an ovarian primary.

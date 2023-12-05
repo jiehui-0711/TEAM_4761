@@ -1,0 +1,63 @@
+SPR no: 92S451097Z
+MRN no: 9274510
+Site_name: DALWALLINU HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (1.9.66):
+
+CLINICAL:
+Grade 1 EAC uterus.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left external iliac lymph node&amp;#8220;, consists of one lymph node, 25 x 9 x 8mm, with attached fibroadipose tissue, up to 5mm in width.  Sectioned longitudinally.  The cut surface appears uniform.  Half (divided) for FS in 1 block. Block 1- FS; 2 - remaining lymph node; 3 - fibroadipose tissue. AE.
+
+FROZEN SECTION:  One lymph node, no evidence of malignancy.
+Result to Dr Doyon by Dr Y Deroeck at 3:04pm on 26.10.16
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes &amp;amp; ovaries&amp;quot;, consists of a previously opened uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 78g in total.  The uterus measures 75 x 60 x 50mm and has a largely smooth shiny serosal surface.  The ectocervix measures 38 x 30mm and has an unremarkable surface.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  On sectioning, the endometrium measures 2mm in maximum thickness, including presumed tumour.  The myometrium measures 17mm in maximum thickness.  Within the myometrium are several fibroids measuring 5 to 10mm in maximum dimension.  The fibroids have pale grey whorled cut surfaces appearance apart from one fibroid (9mm) underlying the presumed area of tumour, which is pale yellow.  The right ovary measures 20 x 15 x 9mm and has an unremarkable cut surface. The right fallopian tube, 45 x 8 x 8mm, appears tortuous and may have been previously ligated; no clips are seen.  The fimbrial end is not identified.  The left ovary measures 17 x 12 x 6mm and has an unremarkable cut surface.  The left fallopian tube, 45 x 8 x 7mm, appears tortuous.  The fimbrial end is not identified.
+Blocks 1-3 - composite midline LS of posterior uterus and cervix; 4 - posterior uterus, including pale yellow fibroid; 5 - representative fibroid posterior uterus; 6-8 - midline composite LS of anterior uterus and cervix; 9 - TS complete right ovary; 10 - representative TS right fallopian tube;
+11 - complete left ovary; 12 - representative TS left fallopian tube; 13 to 16 -   LS remaining anterior endometrium; 17 to 21 - LS remaining posterior endometrium. All endometrium embedded.
+(TO: JB; JB/rs 30/12/66)
+
+C.  Specimen labelled &amp;#8220;Omental biopsy&amp;#8220;, consists of omental tissue, 100 x 40 x 25mm.  No lymph nodes or masses are identified.  RS 3 blocks.
+D.   Specimen labelled &amp;#8220;Umbilical hernia sac&amp;#8220;, consists of cauterised fragment of pale grey/ tan fibroadipose tissue 13 x 10 x 4mm.  AE 1 block.   (TO:  JB/ec  29.12.66)
+MICROSCOPIC (Reported by Dr Y Praylow):
+A.  Sections show one lymph node.  No tumour is seen.
+
+B.  Sections of the cervix are unremarkable.
+The whole endometrium has been blocked.  Sections show focal residual grade 1 endometrioid adenocarcinoma of the endometrium.  There is considered to be focal superficial myometrial invasion.  Maximum depth of myometrial invasion is 2mm out of a total myometrial thickness of 13mm.  There is no lymphovascular invasion.
+Leiomyomas are confirmed in the myometrium.  There is also some adenomyosis in the myometrium, and adenomyosis is focally involved by endometrioid adenocarcinoma.  The myometrium is otherwise unremarkable.
+Sections of the ovaries are unremarkable.  Sections of the fallopian tubes show features of salpingitis isthmica nodosa.  There is also some endosalpingiosis on the serosa of the left tube.  The tubes are otherwise unremarkable.
+
+Stains for mismatch repair enzymes are being performed; a supplementary report will be issued.
+
+C.  Sections show unremarkable fat.  No tumour is seen.
+
+D.  Sections show mesothelium with underlying fibrofat.  No abnormality is seen.
+
+
+DIAGNOSIS
+A.  Left external iliac lymph node:  No tumour (0/1).
+
+B.  Uterus, ovaries and fallopian tubes:
+1.  Focal residual grade 1 endometrioid adenocarcinoma showing superficial myometrial invasion, Stage 1A.
+2.  Leiomyomas and adenomyosis.
+3.  Salpingitis isthmica nodosa.
+
+C. Omental biopsy:  No tumour.
+
+D.  Umbilical hernia sac:  No significant abnormality.
+
+
+SUPPLEMENTARY REPORT (1.9.66):
+B.  Immunostains for mismatch repair enzymes have been performed.
+
+MLH1:   Loss of nuclear staining.
+PMS2:   Loss of nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Interpretation of the stains is difficult in the present case due to scant tumour, but they have been performed on  two different tumour blocks with the same result.

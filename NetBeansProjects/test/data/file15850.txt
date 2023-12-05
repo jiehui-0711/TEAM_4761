@@ -1,0 +1,95 @@
+SPR no: 17J661050G
+MRN no: 1736610
+Site_name: VICTORIAN HEART HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pancreatic head mass.  Neoadjuvant tx.  Whipple&amp;apos;s procedure.
+1 x Prolene PV margin.
+2 x Prolene SMA margin.
+3 x  Prolene uncinate.
+Silk suture bile duct.  Station 16 lymph node.
+
+Additional history from Dr Luangamath:
+No neoadjuvant therapy.
+Previous ERCPs and stenting.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Whipple&amp;apos;s&amp;quot;, consists of a length of stomach and small bowel with the stomach measuring 45mm in length and a diameter of 60mm, and small bowel measuring 220mm in length with a diameter of 30mm. Separate within the specimen container is a gallbladder measuring 77 x 35 x 10mm with a smooth serosal surface and a piece of omentum measuring 300 x 150 x 10mm. Adherent to the proximal region of the small bowel is a pancreatic head mass measuring 80 x 40 x 50mm.  Orientating sutures identified as described.  The proximal and distal bowel margins are received stapled and staples removed to a thickness of 5mm.  Wrapped around the pancreatic head mass and proximal to the duodenum running laterally is a segment of greater curvature fat measuring 160 x 30 x 10mm.  The ampulla is probe patent to a depth of 25mm.  The bile duct is probe patent to 35mm.  The bile duct is identified with one suture on it and is inked blue.  The pancreatic neck margin is inked blue, the bile duct margin inked blue, the portal vein margin inked green, the SMA margin inked black, the uncinate margin inked blue, the posterior surface of the pancreas is inked red, the anterior surface of the pancreas has no ink.  The pancreas is sliced serially from superior to inferior.  The pancreas displays a diffuse, ill-defined pale pink to yellow tumour macroscopically infiltrating the wall of the duodenum in slices four to six measuring 15mm anterior to posterior by 10mm superior to inferior and 10mm medial to lateral.  The ampulla is identified in slice six.  The gallbladder has a smooth shiny serosal surface.  The wall thickness is up to 2mm.  There is an outpouching of the gallbladder mucosa.  The mucosal surface of the gallbladder is tan and velvety.  No macroscopic tumour deposits are identified within the omentum.
+Blocks: 1 - bile duct margin embedded on cut surface; 2 - next slice of bile duct margin embedded on cut surface; 3 - pancreatic neck margin embedded on cut surface; 4 - lymph node at pancreatic neck margin serially sectioned TS; 5 - proximal bowel margin LS; 6 - distal bowel margin LS; 7  - slice one; 8 - slice two; 9 - slice three; 10 - slice four; 11 - slice five; 12 to 15 - slice six; 16 - slice seven; 17 - slice eight; 18 - slice nine; 19 - slice ten; 20 - multiple lymph nodes; 21 - multiple lymph nodes; 22 - multiple ?lymph nodes (blocks 20 to 22 - are fat from greater curvature); 23 to 25 - multiple lymph nodes from lesser curvature fat; 26 - shave cystic duct margin; 27 - TS gallbladder ; 28 - LS fundus of gallbladder; 29 &amp;amp; 30 - RS omentum
+
+B.  Specimen labelled &amp;quot;Station 16 lymph node&amp;quot;, consists of a lymph node measuring 30 x 10 x 5mm serially sliced TS.  On sectioning the lymph node has a pale white tumour within it.  AE 1 block.   (TO: MS; MS/ta 19/12/66)
+
+
+MICROSCOPIC (Reported by Dr E Philbin):
+The pancreas is entirely embedded and examined.  Sections show invasive adenocarcinoma with the following features:
+
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type: Ductal adenocarcinoma
+
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Head of pancreas
+Common bile duct (extra or intrapancreatic)
+Duodenum
+
+Extent of tumour invasion
+Pancreas
+Duodenal wall reaching submucosa.
+Peripancreatic soft tissues
+Intrapancreatic common bile duct.
+
+Maximum tumour diameter
+
+Lymphovascular invasion
+Present.
+
+Type of vessel:
+Presumed vein (Block A10, L1).
+
+Perineural invasion
+Present : Intrapancreatic and within the duodenal wall.
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+PanIN:  Present PanIN 1B
+Intrapancreatic portion of the distal common bile duct: Much of the epithelium is ulcerated with residual epithelium showing marked reactive atypia.  This may relate to previous ERCP or stenting.  Distinguishing this from true dysplasia is extremely difficult, however no diagnostic dysplasia is identified.
+
+Margins:
+Pancreatic neck: Well clear &amp;gt;10mm
+Common bile duct: Well clear.
+Portal vein (superior mesenteric vein): 10mm (A13).
+Superior mesenteric artery: 4.5mm (A10).
+Periuncinate soft tissue: 6mm (A10)
+
+Surfaces:
+Anterior: 10mm (A10)
+Posterior: 2.5mm (A10)
+
+Lymph nodes:
+Number found:  29  (including one negative station 16 lymph node, specimen B)
+Number involved: 1 (1 mm deposit in peripancreatic node)(A11)
+
+Other pathologies:
+There is associated patchy acinar atrophy.  The gallbladder shows an active chronic cholecystitis with intraepithelial neutrophils.  This pattern, although non specific, is associated with extrahepatic biliary obstruction.  There is a very mild chronic gastritis.  No Helicobacteer are seen
+
+PATHOLOGICAL STAGING (AJCC 7th Ed. 2010)
+
+PANCREAS
+T3 Tumour extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery.
+
+N1  Regional lymph node metastasis
+
+COMMENT:
+There is almost circumferential involvement of the distal common bile duct raising  the consideration that this is a distal cholangiocarcinoma rather than a pancreatic carcinoma, however, as there is also significant disease within the head of the pancreas and in the absence of diagnostic in situ disease within the common bile duct the tumour is classified as a pancreatic tumour. The tumour also invades the adjacent duodenal wall reaching the duodenal submucosa.   Correlation with the clinical presentation and pre-operative staging investigations would be of interest.
+
+
+DIAGNOSIS:
+Whipple&amp;apos;s pancreaticoduodenectomy and station 16 lymph node:
+- Invasive ductal adenocarcinoma (see comment) invades duodenal wall and peripancreatic soft tissue, vascular invasion present, perineural invasion present, one of twenty nine lymph node showing metastatic adenocarcinoma (1/29), margins clear, stage pT3 N1.

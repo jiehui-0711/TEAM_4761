@@ -1,0 +1,81 @@
+SPR no: 30D105927O
+MRN no: 30110592
+Site_name: BROOME HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY/AMENDED REPORT (4.1.66):
+
+CLINICAL:
+Grade 2 endometrioid adenocarcinoma uterus.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left external iliac lymph node&amp;#8220;, consists of one lymph node, 15 x 10 x 7mm, with very small amount of surrounding fibroadipose tissue.  AE for FS (TS).
+Block 1- FS1; 2 - FS2.  AE 2 blocks.
+
+B.  Specimen labelled &amp;#8220;Left obturator lymph node&amp;#8220;, consists of one lymph node, 16 x9 x 6mm with surrounding fibroadipose tissue 40 x 30 x 15mm.  Lymph node submitted for FS (TS).  Block 1- FS1; 2 - FS2; 3 - rest of fibrofatty tissue. AE 3 blocks.
+
+FROZEN SECTION:  A &amp;amp; B.  Reactive nodes.  No evidence of malignancy.
+Result to Dr IRVIN LUO by Dr K Nolet at 2:55pm on 19.9.16.
+
+C.  Specimen labelled &amp;#8220;Cervix, uterus, bilateral tubes + ovaries&amp;#8220;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries which weighs 130g.  The uterus with attached cervix measures 90 x 50 x 40mm and has a smooth and shiny serosal surface. The ectocervix measures 35 x 30mm and appears congested but is otherwise unremarkable. The anterior resection margin is inked blue and posterior is inked black.
+On sectioning, the endometrium is 8mm in maximum thickness.  There is an exophytic tumour involving the anterior and posterior walls of the body and fundus.  It measures 43 x 38 in surface dimensions.  It appears to invade the myometrium to a maximum depth of 8mm out of a total myometrial thickness of 22mm.  There is a fibroid in the myometrium, 25mm in diameter.
+The right fallopian tube measures 60mm in length and 6mm in diameter.  It includes multiple paratubal cysts but is otherwise unremarkable.  The right ovary measures 26 x 18 x 7mm and appears unremarkable.  The left fallopian tube measures 55mm in length and 6mm in diameter and includes multiple paratubal cysts but is otherwise unremarkable. The left ovary measures 28 x 20 x 7mm and appears unremarkable.  A small amount of fatty tissue 40 x 20 x 10mm is attached to the left ovary.
+Block 1-4 - full LS of anterior body and cervix; 5-6 - one paired section on left anterior embedded from superior to inferior with an ill defined area,? adenomyosis; 7-8 - paired section on left anterior embedded from superior to inferio; 9-10 - paired section on right anterior embedded from superior to inferior; 11 - left anterior with ill defined area; 12-15 - full LS of posterior body and cervix; 16-18 - rep sections ill defined area at right posterior fundus adjacent to tumour; 19-20 - rep sections ill defined area adjacent to tumour at left posterior fundus; 22 - fibroid; 23 - right fallopian tube; 24 - right ovary; 25 - left fallopian tube; 26 - left ovary.
+
+D.  Specimen labelled &amp;#8220;Left parauterine cyst&amp;#8220;, consists of a circumscribed structure measuring 6 x 5 x 4mm.  There is a thin capsule with central brown material.  BAE 1 block.
+
+E.  Specimen labelled &amp;#8220;Left external iliac&amp;#8220;, consists of an irregular piece of fibrofatty tissue measuring 20 x7 x 2mm.  AE 1 block.
+
+F.  Specimen labelled &amp;#8220;Right pelvic node&amp;#8220;, consists of multiple fragments of irregular fibrofatty tissue measuring 60 x 50 x 10mm in aggregate.  Multiple lymph nodes are identified measuring 10-60mm in maximum dimension. The largest measures 60 x 15 x 10mm.  Block 1-3 - the largest lymph node; 4 - one lymph node in four pieces; 5 - one lymph node in three pieces; 6-7 - rest of fibrofatty tissue.  AE 3 blocks.
+
+G.  Specimen labelled &amp;#8220;Left obturator nodes&amp;#8220;, consists of multiple fragments of irregular fibrofatty tissue measuring 50 x 40 x 15mm in aggregate.  Two lymph nodes are identified measuring 35 x 15 x 15mm and 8 x 6 x 6mm.  Block 1-2 - larger lymph node; 3- smaller lymph node bisected; 4 - the rest of fibrofatty tissue. AE 4 blocks. (TO:  LN/ec  22.11.66)
+
+
+MICROSCOPIC (Reported by Dr K Strakbein):
+A.  Sections show one lymph node.  No tumour is seen.
+
+B.  Sections show one lymph node.  No tumour is seen.
+
+C.  Sections show a grade 2 endometrioid adenocarcinoma of the endometrium.  It is architectural grade 2.  Some of the tumour has grade 3 nuclei but these comprise less than 50% of the tumour so overall it is regarded as grade 2.  Maximum depth of myometrial invasion is 6mm out of a total myometrial thickness of 12mm.  There are foci of lymphovascular invasion in the myometrium.  There is no cervical involvement.
+There is adenomyosis in the myometrium and this is at least focally involved by tumour.  A leiomyoma is also confirmed in the myometrium.
+Sections of the ovaries and fallopian tubes show no significant abnormality.
+
+Immunohistochemical Stains:
+MLH1:  Preserved nuclear staining.
+PMS2:  Preserved nuclear staining.
+MSH2:  Loss of nuclear staining.
+MSH6:  Loss of nuclear staining.
+
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 is associated with microsatellite instability phenotype (MSI) and may reflect  the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+D.  Sections show one lymph node.  No tumour is seen.
+
+E.  Sections show fat.  No lymph node is seen.  No tumour is seen.
+
+F.  Sections show three lymph nodes.  No tumour is seen.
+
+G.  Sections show three lymph nodes.  No tumour is seen.
+
+
+DIAGNOSIS:
+A.  Left external iliac lymph node:  No tumour (0/1).
+
+B.  Left obturator lymph node:  No tumour (0/1).
+
+C.  Uterus, ovaries and fallopian tubes:
+1.  Grade 2 endometrioid adenocarcinoma of endometrium.  Depth of invasion 6mm out of total myometrial thickness of 12mm.  Stage 1B.
+2.  Adenomyosis and leiomyoma.
+
+D.  Left parauterine tissue:  Lymph node with no tumour (0/1).
+
+E.  Left external iliac:  No lymph node, no tumour.
+
+F.  Right pelvic nodes:  No tumour (0/3).
+
+G.  Left obturator nodes:  No tumour (0/3).
+
+
+SUPPLEMENTARY/AMENDED REPORT 4.1.66):
+C.  An area of atypical epithelium was identified at the fimbrial end of the left fallopian tube (block C25) so a p53 stain was done.  This shows two small areas of band-like positive staining, and these correspond to areas with cytologic atypia on the H and E stained slide.  The appearances are consistent with a serous tubal intraepithelial carcinoma (STIC lesion).  No invasive carcinoma is seen.
+Slides of the right fallopian tube and ovaries have been reviewed and no other abnormality is seen.  A p53 stain performed on the section of the fimbrial end of the right fallopian tube is negative.

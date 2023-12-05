@@ -1,0 +1,70 @@
+
+Episode No:  22F711993S
+2217119.ZIS
+
+HUERTES, Ellsworth 
+Lab No:  22F71199
+Tredown
+KYABRAM  SA8002
+Specimen: Tissue
+D.O.B:  2/9/1993
+Sex:  M
+Collected: 04/12/2013 at 08:34
+Location:  STGEORGE PRIVATE-BALLARAT HEALTH SERVICES (BASE HOSPITAL)
+DR FREDERICK Homer Bowersox
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Ultra lowrectal tumour.  Rectal Ca and distal donut.  
+MACROSCOPIC:
+A.  Specimen labelled "Ultra low anterior resection" consists of a segment of large bowel measuring 210mm in length x 500mm in open diameter.  There is attached mesocolon and a segment of peritoneal reflection measuring 40mm from the distal surgical margin (inked black).  On opening there is a tumour on the right lateral wall measuring 30 x 30mm.  The tumour is tan and exophytic with a centre area of necrosis.  The tumour is 5mm from the distal surgical margin, 200mm from the proximal surgical margin and 15mm from the closest radial margin.   The tumour is immediately below the level of the peritoneal reflection.  The mucosa appears flattened up to 90mm from the distal surgical margin (Normal rectal mucosa).  No polyps are identified.  Above 90mm to the proximal surgical margin the bowel mucosa appears unremarkable.  On sectioning the tumour appears to be bounded by the muscularis propria.   
+Blocks: 1 - proximal surgical margin; 2 - distal surgicalmargin and closest margin to tumour; 3 to 7 - tumour; 8 - tumour and normal rectal mucosa proximally; 9 - normal bowel mucosa away from tumour; 10 to 14 - lymph nodes below peritoneal resection; 15 - ?apical lymph node; 16 & 17 - lymph nodes above peritoneal reflection.  (IU/ta 6/2/63)  18 to 20 - lymph nodes from above the peritoneal reflection; 21 to 27 - further lymph nodes from below peritoneal reflection. (HO/vo 12.2.63) 
+B.  Specimen labelled "Distal donut" consists of a stapled donut of bowel measuring 18 x 15 x 5mm.   Representative sections 2 blocks.   (US/ta 6/2/63) 
+ 
+MICROSCOPIC (Reported by Dr H Lois):
+A & B.  Sections show moderately differentiated adenocarcinoma of the rectum.  The features are as follows:  
+
+Macroscopic Description
+
+Site of tumour:  Rectum	
+Maximum tumour diameter:  30 mm
+Distance of tumour to nearer cut end:5mm (distal)
+Tumour perforation:  No
+Relation of tumour to anterior peritoneal reflection:	  Below
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT2into muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  10mm
+Lymph nodes
+Number of lymph nodes present:  18
+Number of lymph nodes involved:  1 (below peritoneal reflection)	
+pN1a	Metastases in 1 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The distal donut (specimen B) shows no significant abnormality.
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2	nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT2  pN1a  pMX  R0
+

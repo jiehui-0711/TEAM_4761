@@ -1,0 +1,78 @@
+SPR no: 24X500423E
+MRN no: 24950042
+Site_name: SHOALHAVEN DISTRICT MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Distal cholangiocarcinoma, previous pancreatitis/cholangitis.  Metal stent in situ.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Distal cholangiocarcinoma&amp;quot;, consists of a gastropancreaticoduodenectomy with attached gallbladder and a separate piece of omentum.  The distal stomach measures 30mm in lesser curvature length, 30mm in greater curvature length and 70mm in proximal stapled line circumference.  The proximal small bowel measures 170mm in length and 60mm in circumference.  The head of pancreas measures 80 x 46 x 32mm.  The gallbladder measures 120 x 50 x 40mm.  The attached fat between pancreas and greater curvature measures 70 x 60 x 10mm.  The segment of omentum measures 400 x 150 x 10mm.  The portal vein groove is inked blue, SMA margin is inked red and uncinate process margin is inked green and the anterior and posterior surfaces are inked black (nick anterior).  On sectioning of the pancreas, no gross lesion is identified.
+The gallbladder serosa appears diffusely congested.  A suture is noted overlying the fundus of gallbladder.  The gallbladder wall is 2 to 5mm in thickness.  The mucosa appears diffusely eroded and haemorrhagic with blood clot present within the lumen.  Around the cystic duct and the neck of gallbladder a cystic haemorrhagic area is seen 30 x 30 x 20mm.  No stone or other  gross lesion is identified.  The gastric mucosa appear unremarkable.  The small bowel mucosa shows two white mucosal plaques, each 5mm across which are located 5 and 30mm from the distal small bowel margin.  The omentum appears partially haemorrhagic with attached blood clot but no gross lesion is seen.
+Blocks:  1 - first level hepatic duct shave margin, 2 - second level hepatic duct shave margin, 3 to 4 -  pancreatic neck shave margin bisected, 5 - LS gastric proximal margin, 6 - LS small bowel distal margin including one white plaque, 7 - the second small bowel white plaque, 8 - 17 - TS entire pancreas serially embedded from inferior towards superior (15 and 16 share one lymph node present at anterior surface; 17 - includes part of a haemorrhagic area adjacent to cystic duct, 18 &amp;amp; 19 - the rest of haemorrhagic area adjacent to cystic duct, 20 - two sections of gallbladder neck (in continuity with block 19), 21 &amp;amp; 22 - RS TS body of gallbladder, 23 - RS LS neck including RS the area of suture, 24 - one lymph node adjacent to gallbladder trisected, 25 - RS fat around gallbladder ? lymph node, 26 - one lymph node adjacent to greater curvature, 27 - 28 multiple possible lymph nodes adjacent to greater curvature, block 29 - 33 fatty tissue around greater curvature ? lymph nodes, block 34 to 37 - RS omentum including RS haemorrhagic area.
+
+B.  Specime labelled &amp;quot;Common hepatic lymph nodes&amp;quot;, consists of a piece of fibrofatty tissue 30 x 18 x 3mm which contains one lymph node, 28 x 15 x 3mm. Blocks:    AE 2 blocks.
+(LN/eh 20/3/2067)
+
+
+MICROSCOPIC (Reported by Dr H Lajoie):
+A &amp;amp; B.  Sections show well differentiated adenocarcinoma arising from the extrapancreatic common bile duct, near the confluence of the cystic duct.  There is extensive perineural invasion of large nerve bundles within this region.  Carcinoma extends into soft tissue surrounding the common bile duct.  One lymph node within specimen A shows metastatic adenocarcinoma.  The features are as follows:
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 1: Well differentiated (greater than 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Common bile duct (extrapancreatic) - near confluence of cystic duct.
+
+Extent of tumour invasion
+Soft tissue surrounding common bile duct.
+
+Maximum tumour diameter
+16mm
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Present
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Not identified (possibly detached due to stent).
+
+Margins:
+Pancreatic neck:  Well clear.
+Common hepatic duct:  Clear by at least 10mm.
+Portal vein (superior mesenteric vein):  1mm clear.
+Superior mesenteric artery:  Well clear.
+Periuncinate soft tissue:  Well clear.
+
+Surfaces:
+Anterior:  8mm clear.
+Posterior:  3mm clear.
+
+Lymph nodes:
+Number found:  33 (32 specimen A, 1 specimen B).
+Number involved:  1 (specimen A).
+
+Other pathologies:
+- Reactive changes within the gallbladder.
+- Dilation of common pancreatic duct, with PanIN1 at pancreatic neck margin.
+- Haematoma in vicinity of cystic duct.
+- Benign lymphangioma in small bowel.
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+COMMON BILE DUCT
+T2 Tumour invades beyond the wall of the bile duct
+
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+
+Distant metastasis category (pM)
+MX Not assessable by histology

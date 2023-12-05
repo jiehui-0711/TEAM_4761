@@ -1,0 +1,21 @@
+ 3410874.RAX
+Chastang, JEANINE
+34D08746
+
+Last edited : 30/10/2064		Page: 2
+CLINICAL:
+Liver metastasis.  Right hemicolectomy.  Segment 7.
+MACROSCOPIC:
+Specimen labelled "Liver metastasis", consists of segment of liver 120 x 70 x 50mm, weighing 224g.  Within the liver isa circumscribed tan nodule 75 x 45 x 42mm.  The nodule extends to the liver capsule across an area 70mm across.  The tumour nodule is 17mm clear of the resection margin.  The uninvolved liver appears unremarkable.  
+Blocks: 1 - tumour with closest margin; 2 and 3 - tumour with liver capsule; 4 and 5 - tumour with uninvolved liver; 6 - uninvolved liver.  (TO: FF;KD/vo 27.10.64) 
+MICROSCOPIC (Reported by Dr S Harpel/Dr S Navaretta):
+The liver contains a single 75mm subcapsular deposit of moderately differentiated adenocarcinoma.  The tumour is composed of malignant tubular or complex glands containing abundant luminal necrosis with patchy associated dystrophic calcification.  The vast majority of the tumour is viable, with less than 10% necrosis.  The tumour extends close to a serosal lined surface but no serosal involvement is seen.  The carcinoma is 13mm clear of the resection margin.  
+Immunohistochemistry:
+The tumour cells stain as follows:
+Positive:  CDX2 (diffuse) and CK20 (patchy with weak control)
+Negative:  CK7 and TTF1
+The morphological appearance and immunoprofile are consistent with a metastasis from a colorectal primary
+The uninvolved liver shows preserved lobular architecture, and a mild to moderate degree of predominantly centrilobular macrovesicular steatosis.  No steatohepatitis is seen.  No iron or copper deposition is identified with special stains.
+DIAGNOSIS:
+Segment7 liver resection:  Metastatic colorectal adenocarcinoma, margins clear.
+

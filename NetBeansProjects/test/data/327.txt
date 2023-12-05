@@ -1,0 +1,19 @@
+
+ 6100513.KBW
+KRAIN, REBECCA
+61A05134,61A05134
+
+Last edited : 17/4/2063		Page: 2
+CLINICAL:
+Grade 1 endometrial cancer on endometrial sampling.  DM.  Obesity.  
+MACROSCOPIC:
+Specimen labelled "Uterus, cervix, bilateral tubes and ovaries" consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 147g in total.  The uterus measures 90 x 50 x 50mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 30mm and appears unremarkable.  There is slight roughening over the endometrial surface anteriorly and posteriorly measuring 25 x 15mm anteriorly and 30 x 15mm posteriorly.  On sectioning, the endometrium is 1mm in maximal thickness and the myometrium is 29mm in maximal thickness.  The myometrium contains multiple fibroids up to 10mm in maximal thickness.  The right fallopian tube measures 48mm in length with a maximum external diameter of 8mm.  The right ovary measures 30 x 18 x 12mm.  There is a paratubal cyst in the fimbrial end measuring 13mm in maximum dimension.  The cut surface of the ovary appears unremarkable.  The left fallopian tube measures 48mm in length with a maximum diameter of 8mm.  The left ovary measures 35 x 28 x20mm.  A cystic area measuring 20mm takes up the majority of the ovary.
+Blocks: 1 to 4 - full longitudinal section of anterior body and cervix; 5 to 8 - full longitudinal section of posterior body and cervix; 9 to 11 - further representative anterior uterus; 12 to 14 - representative posterior uterus; 15 - right tube; 16 - right ovary; 17 - left tube; 18 & 19 - left ovary.   (PO/cc  16/4/63) 
+ 
+MICROSCOPIC (Reported by Dr P Tenbusch):
+Sections show a grade 1 endometrioid adenocarcinoma ofthe endometrium.  The tumour appears confined to the endometrium.  No lymphvascular invasion is seen.
+The ectocervix and endocervix are uninvolved and unremarkable.  The myometrium contains numerous leiomyomas.  A right paratubal cyst is noted.  Both tubes are otherwise unremarkable.  The left ovary shows a follicular cyst.  The right ovary is unremarkable.
+As requested, immunoperoxidase stains for MSI proteins were performed.  MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.
+:
+Grade 1 endometrioid adenocarcinoma of the endometrium confined to the endometrium.  Cervix uninvolved.
+

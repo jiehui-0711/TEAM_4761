@@ -1,0 +1,96 @@
+SPR no: 97L804492R
+MRN no: 974804
+Site_name: CRAIGIEBURN HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report97L80449,97L80449 (97L804492R) Goody, Merle
+HISTOPATHOLOGY REPORT
+MARYBOROUGH HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Adenocarcinoma of cervix.
+Previous cone biopsy 97480-44YGR (DHM), 15/7/2067 reported adenocarcinoma of the cervix 18x14x8mm (Horizontal extent 18mm, depth of invasion 8mm).
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT FALLOPIAN TUBE&amp;quot;. 	 A fallopian tube measuring 60mm in length and 7mm in diameter.  A paratubal cyst is present.  The serosa is smooth and grey.
+
+(1 fimbria; 2 tube).  RS (M-2)
+
+B.  &amp;quot;UTERUS + LEFT TUBE AND OVARY&amp;quot;.  Uterus, cervix, attached left tube and weighing 125g.
+The uterus measures 95x60x50mm.  The serosa is smooth and grey.  Anterior surface inked blue, posterior inked black.  The ectocervix measures 40x40mm with a round os 2mm in diameter.  There is a haemorrhagic area in the mid cervix 10mm.  No definite lesion present.  The endometrium measures 2mm, anterior wall 19mm, posterior wall 22mm.  No lesion identified in the uterus.
+The left tube measures 55mm in length and 5mm in diameter.  The serosa is grey and smooth.  Sectioning is unremarkable.  The left ovary measures 30x25x15mm.  A simple cyst and corpus luteum are present on sectioning.
+
+(1 right parametrium; 2 left parametrium; 3 left tube; 4 left ovary; 5&amp;amp;6 one full face of lower segment, horizontally  ; 7-23 serial section of the cervix from right to left [7 one TS, 8 one TS, 9&amp;amp;10 one TS; 11&amp;amp;12 one TS, 13&amp;amp;14 one TS, 15&amp;amp;16 one TS - 15 anterior, 16 posterior, 17&amp;amp;18 one TS, 19&amp;amp;20 one TS, 21&amp;amp;22 one TS, 23 one TS]; 24 anterior wall; 25 posterior wall; 26 anterior wall to fundus; 27 posterior wall to fundus [24-27 one full face sagittal view from lower segment to fundus]). RS (M-27)
+
+C.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.  Multiple lymph nodes identified ranging from 5-10mm.
+
+(1 ?three lymph nodes; 2 ?four lymph nodes).  RS (M-2)
+
+D.  &amp;quot;LEFT PELVIC NODE&amp;quot;.  Multiple fibrofatty tissue fragments 40mm.  Two possible lymph nodes identified 10mm and 15mm.  RS (2-1/SM 10/11/2071 nh)
+
+MICROSCOPIC: (Dr Y Birkey)
+A. Representative sections of the fallopian tube include a simple paratubal cyst and are otherwise unremarkable. There is no evidence of malignancy.
+
+B. Sections show residual invasive adenocarcinoma of the cervix confined to the cervix and completely excised. The carcinoma is usual type and in the lower cervix below a 10mm focus of inflamed granulation tissue with numerous haemosiderin laden macrophages and multinucleated giant cells response to old blood. This focus is in the vicinity of the endocervical canal and likely represents the site of previous cone biopsy. There is no evidence residual AIS and no evidence of squamous dysplasia.
+See synoptic report.
+
+Sections of the endometrium show secretory phase. There are scattered foci of uterine surface endometriosis. Bilateral parametria show no evidence of malignancy.
+Sections of the ovary and fallopian tube are unremarkable.
+
+C. Sections show seven benign lymph nodes. There is no evidence of metastatic malignancy.
+
+
+D. Sections show two benign lymph nodes. One of the nodes includes a small focus of endosalpingiosis. This focus is negative for p16. There is no evidence of metastatic malignancy.
+
+UTERINE CERVIX TUMOUR, SYNOPTIC REPORT (CAP2018)
+
+RESIDUAL INVASIVE ADENOCARCINOMA post cone biopsy.
+
+PROCEDURE: Radical hysterectomy
+
+TUMOUR SIZE: No macroscopic tumour identified. All measurements microscopic
+Greatest dimension: 6.8mm
+Additional dimensions:1.2 x 6mm (2 adjacent slices)
+
+TUMOUR SITE:  Right superior (anterior) quadrant (9 to 12 o&amp;#8217;clock)
+
+HISTOLOGIC TYPE: Endocervical adenocarcinoma, usual type
+
+HISTOLOGIC GRADE : G2, Moderately differentiated
+
+STROMAL INVASION
+Depth of stromal invasion: 1.2mm
+Horizontal extent longitudinal/length: 6.8mm
+Horizontal extent circumferential/width: 6mm ( 2 adjacent slices)
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not identified
+
+MARGINS
+Ectocervical Margin: Uninvolved by invasive carcinoma
+Distance of invasive carcinoma from margin (millimeters): 20mm
+
+Radial (Circumferential) Margin: Uninvolved by invasive carcinoma
+Distance of invasive carcinoma from margin (millimeters): 10mm
+
+LYMPHOVASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES : All lymph nodes negative for tumor cells
+Total Number of Lymph Nodes Examined: 9
+
+ANCILLARY TESTS
+IMMUNOSTAIN
+The carcinoma is strongly p16 positive (expected result)
+
+PATHOLOGIC STAGE CLASSIFICATION and FIGO STAGE (2015 FIGO CANCER REPORT): Please see previous cone biopsy report.
+
+DIAGNOSIS:
+A. RIGHT FALLOPIAN TUBE - SIMPLE PARATUBAL CYST
+
+B. UTERUS, LEFT OVARY AND FALLOPIAN TUBE
+- RESIDUAL ENDOCERVICAL ADENOCARCINOMA, 1.2mm DEPTH STROMAL INVASION, COMPLETELY EXCISED
+
+C. RIGHT PELVIC LYMPH NODES - SEVEN BENIGN LYMPH NODES
+
+D. LEFT PELVIC LYMPH NODES - TWO BENIGN LYMPH NODES
+
+17/10/68 ld

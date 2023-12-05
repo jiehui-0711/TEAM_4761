@@ -1,0 +1,53 @@
+Episode No:  67O249835I
+6752498.KNI
+
+HETTENHAUSEN, SON 
+Lab No:  67O24983,67O24983
+Silversmith
+YARRAWONGA  Northern Territory  4371
+Specimen: Washings,Tissue
+D.O.B:  12/11/1985
+Sex:  F
+Collected: 26/11/2012 at 08:14
+Location:  INTENSIVE CARE UNIT SOUTH - ROMA HOSPITAL
+DR MADELINE Jindalee Kazmi
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Pelvic and omental mass, elevated Ca 125 and Ca 19.9.  Serous carcinoma on omental biopsy.  Ca 125 = 415, CEA =3.6, Ca 19.9 = 864.  
+MACROSCOPIC:
+A.  Specimen labelled "Omentum" consists of a piece of omentum measuring 270 x 260 x 25mm.  The cut surface shows several foci of slightly firm areas.  No distinct tumour is identified.   Two blocks for frozen section.  Representative sections in 10 blocks.
+Blocks: 1 & 2 - frozen section; 3 to 10 - representative sections.
+FROZEN SECTION REPORT:
+Serous tumour (microscopic) ?implants, ?invasive.  Await paraffin.  
+Phone result to Dr Q Dure by A/Prof  Q Jumalon, Dr Q Wadzinski and Dr Q Siptak at 10am on 26/11/12.
+B.Specimen labelled "Cervix, uterus, tubes, ovaries bilateral" consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 51g in total.  The uterus measures 62 x 37 x 20mm and has a smooth shiny serosal surface.  The ectocervix measures 20 x 18mm and has an unremarkable surface.  The endometrium has an irregular and granular appearance over an area of 25 x 18mm anteriorly and 30 x 20mm posteriorly.  On sectioning the myometrium has a soft pale appearance.  The right ovary measures 25 x 20 x 16mm and has uniformly smooth outer surface.  The cut surface shows a 22mm unilocular thin wall cyst containing clear serous material. The right fallopian tube measures 40mm in length, 5mm in external diameter.  The left ovary measures 35 x 20 x 15mm and has a smooth outer surface.  Sectioning reveals a 15mm unilocular thin wall cystcontaining clear serous material.  The left fallopian tube measures 38mm in length, 5mm in external diameter.
+Blocks: 1 to 3 - full LS anterior body and cervix; 4 & 5 - further representative sections anterior body; 6 to 8 - full LS posterior body and cervix; 9 & 10 - further representative section of posterior body; 11 to 15 - right ovary AE; 16 to 18 - right fallopian tube AE; 19 to 24 - left ovary AE; 25 to 27 - left fallopian tube AE.  
+(YT/ta 29/1/62) 
+  
+MICROSCOPIC (reported by Dr Q Edouard):
+A.  Sections of omentum show small deposits of carcinoma with a papilliform architecture with occasional psammoma bodies.The nuclei show mild pleomorphism with occasional intranuclear inclusions.  The appearances favour serous adenocarcinoma.
+B.  Sections of the uterus show endometrial adenocarcinoma comprising well formed glandular elements lined by columnar cells.  Focal mucinous differentiation is present.  The nuclei focally have high grade features with clear chromatin and prominent nucleoli.  The appearance of this carcinoma is that ofendometrioid adenocarcinoma with grade 1 architecture and grade 3 nuclei giving an overall grade of 2.  No definite lymphovascular invasion is seen.  Carcinoma invades to a depth of 9mm through a wall thickness of 11mm.  The ectocervix and endocervix show no significant abnormality.  Both ovaries show benign serous cystadenomas and both fallopian tubes show no significant abnormality.  
+COMMENT:
+The morphological appearance of the carcinomas within the omentum and endometriumare different and are thus favoured to be synchronous tumours of primary peritoneal serous adenocarcinoma and endometrioid adenocarcinoma of the endometrium.  
+This case has been reviewed by Dr Q Cauterucci.
+DIAGNOSIS:
+A & B.  Cervix, uterus, tubes and ovaries, omentum:
+-  Synchronous peritoneal and endometrial tumours
+-  Primary peritoneal serous adenocarcinoma of the omentum
+-  Grade 2 endometrioid adenocarcinoma of the endometrium 
+-  Invasion to a depth of 9mm through a wall thickness of 11mm
+-  No lymphovascular invasion seen
+-  Benign serous cystadenomas of the ovaries
+
+ADDITIONAL REPORT (2/6/62):
+
+Immunoperoxidase stains for MSI proteins (block B9, endometrial adenocarcinoma)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss)of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear stainingof a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

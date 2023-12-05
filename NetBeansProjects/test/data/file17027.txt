@@ -1,0 +1,87 @@
+DateOfBirth
+201112040000
+
+
+SiteName
+WILCANNIA HEALTH SERVICE
+
+
+FirstName
+Bernard
+
+
+SPRID
+77B151133R
+
+
+MRN
+7701511
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Giantonio
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+64F laparotomy + BSO +/- omentectomy/omental biopsy for complex pelvic mass with large ascites.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left fallopian tube and ovary&amp;quot;, consists of a solid adnexal mass, 190 x 160 x 110mm, with attached oedematous fallopian tube, 45 x 6mm. The solid mass appears separate to a nodule of presumed ovary, 45 x 25 x 15mm. The mass has a smooth and shiny serosal surface with underlying petechial haemorrhages and possible necrotic change. On section, the cut surface shows a diffuse fibrous appearance with intervening small areas of bright yellow discolouration. An area of haemorrhagic change is present, 40 x 30 x 25mm,  underlying the serosal fibrinous exudate. This region comprises less than ten percent of the whole tumour volume. Patchy cystic and mucoid change is seen throughout. Blocks: 1 and 2 - RS fallopian tube; 3 - haemorrhagic area; 4 and 5- cystic myxoid areas; 6 to 14 - RS through fibrous area; 15 - mass with adjacent ?ovarian parenchyma.
+
+B.  Specimen labelled &amp;quot;Right fallopian tube and ovary&amp;quot;, consists of a fallopian tube, ovary and attached adnexal fibroadipose tissue, 55 x 50 x 28mm in total. The length of the fallopian tube is difficult to appreciate within adnexal tissue. The ovary is 34 x 25 x 25mm. On section, the ovary has a uniform densely fibrotic appearance. Blocks: 1 and 2 - RS fallopian tube; 3 to 5 - RS through ovary (fifty percent embedded).
+
+C.  Specimen labelled &amp;quot;Pouch of Douglas&amp;quot;, consists of pale and haemorrhagic tissue fragments, 25 x 15 x 5mm in aggregate. AE 1 block.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of omental type fat, 140 x 35 x 10mm. No peritoneal nodules or infiltrative masses are identified. RS 3 blocks. (TO:AP/vo 2/5/07)
+
+
+MICROSCOPIC (Reported by Dr S Towlson):
+A. The sections show a large fibroma with areas of oedema, haemorrhage, necrosis and associated mixed inflammatory cells. The tumour is comprised of bundles of spindle cells in a fibrotic and variably oedematous background, with no significant nuclear atypia or hypercellularity and scant mitoses (up to 1 / 10hpf).  A few scattered chronic inflammatory cells are seen in the lesion.  There is fibrinoid change around some of the blood vessels, with atherosis also seen in a few vessels.  A thin layer of fibrinous exudate is present on the serosal surface.
+The ovary is separate from the mass lesion. The ovary shows corpora albicantes.
+Mild active chronic inflammation and oedema are noted in the fallopian tube.
+No evidence of malignancy or dysplasia is seen.
+Haemorrhage, necrosis, oedema and associated inflammatory cells are likely due to torsion injury of a large fibroma rather tumour necrosis.  Correlation with clinical features is recommended.
+
+B. The sections of the ovary show corpora albicantes, surface inclusion cysts and areas of stromal hyperplasia. There is no evidence of malignancy or atypia.
+
+C.  The sections show sheets of cells with areas of necrosis and some associated inflammatory cells with some fatty tissue.  The cells have monotonous, round nuclei without prominent nucleoli and moderate amounts of eosinophilic, slightly vacuolated cytoplasm.   Immunohistochemistry shows widespread expression of pan keratin (Cam 5.2) antigens. There are also many cells expressing CD68 antigen, a histiocytic marker. Calretinin antigen is expressed in a more patchy distribution compared to pan keratin antigens, probably because many of the cells are degenerate.  Inhibin antigen is not expressed. There is no convincing expression of oestrogen and progesterone receptor antigens. Ki67 is expressed in an estimated 3% of cells.
+These features are consistent with nodular mesothelial hyperplasia with no evidence of malignancy.
+
+D. The sections show lobulated mature adipose tissue consistent with omentum. Patchy mild to moderate chronic inflammation, fibrosis and mesothelial hyperplasia are seen.  There is no evidence of malignancy or atypia.
+
+DIAGNOSIS:
+A. Left ovary and fallopian tube: Fibroma with changes consistent with torsion injury.
+B. Right ovary and fallopian tube: Surface inclusion cysts, patchy stromal hyperplasia.
+C. Pouch of Douglas: Consistent with nodular mesothelial hyperplasia
+D. Omental biopsy: Mild to moderate chronic inflammation.
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2079-11-07 00:00:00
+
+
+LastName
+Wanzek

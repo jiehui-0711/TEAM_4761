@@ -1,0 +1,24 @@
+SPR no: 12F556235L
+MRN no: 1215562
+Site_name: KYOGLE MEMORIAL MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+52 year old with excision of ? sarcoma with small bowel involvement.  Previous excision of retroperitoneal sarcoma with recurrence.  Please biobank tissue - consent in noted.  Retroperitoneal sarcoma.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Retroperitoneal sarcoma plus small bowel&amp;quot;, consists of a segment of bowel
+with adherent mass.  The segment of bowel measures 140mm in length with both stapled ends.  The stapled ends are inked blue and black respectively.  Situated 50mm from the black inked margin, 55mm from the blue inked margin is an adherent mass on the serosal surface of the small bowel, measuring 85mm x 60mm x 30mm.  Focally the mass is disrupted over an area measuring 35mm x 20mm.  The mass appears to be protruding into the mucosa and within the area of protrusion is an area of ulceration measuring 30mm x 18mm.  The rest of the mucosa and serosal surface are unremarkable.  No other lesions seen.  The cut surface of the lesion shows circumscribed tan mucoid lesion.
+Blocks: 1 -  black inked margin; 2 - blue inked margin; 3 - RS of normal mucosa; 4 to 11 - full profile of lesion; 12 to 19 - further representative sections of lesion (12, 13, 16 sections with tumour relation to mucosa and ulcerated area).  (TO:LM/eh 25/11/66)
+
+
+MICROSCOPIC (Reported by Dr E Rota):
+Sections show a sarcomatoid lesion surrounded by a thin layer of fibrous pseudo-capsule.  There is a mixture of uniform round to oval shaped primitive non-lipogenic mesenchymal cells and small signet ring lipoblasts in a prominent myoid stroma, which is rich in a delicate, arborising, &amp;apos;chicken-wire&amp;apos; capillary vasculature.  The cellularity is variable and there is moderate cytological atypia.  There are up to 4 mitoses per 10 HPF.  The appearances are favouring those of myxoid liposarcoma.  The tumour involves the muscle wall of small bowel.  The small bowel mucosa away from the tumour is unremarkable.  The small bowel resection margins are well clear of the tumour.
+
+Comment:
+History of previous resection is noted.  In the previous cases (12F55623 and 12F55623), the diagnosis of well differentiated liposarcoma/dedifferentiated liposarcoma was made.  The genetics of myoid liposarcoma differ from those of well differentiated liposarcoma.  The specimen will be sent for FISH testing for a supplementary report will be issued.
+
+
+DIAGNOSIS:
+Retroperitoneal sarcoma plus small bowel - Sarcoma (see text).

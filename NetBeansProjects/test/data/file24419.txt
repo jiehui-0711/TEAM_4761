@@ -1,0 +1,47 @@
+SPR no: 70Z893518U
+MRN no: 70989351
+Site_name: ALPINE HEALTH (MOUNT BEAUTY)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Adenocarcinoma just above GOJ.  Neoadjuvant chemoradiotherapy (CROSS protocol).  Ivor Lewis oesophagectomy
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Oesophagectomy&amp;quot;, consists of a segment of distal oesophagus (65mm long) and attached proximal part of stomach .  The less curvature of stomach measures 33mm in length and the greater curvature measures 50mm in length.  The perioesophageal and perigastric fatty tissue measure up to 40mm across.  An area of ulceration is seen just above the cardio-oesophageal junction, situated on posterior and right lateral sides, measuring 25 x 21mm.  The ulcer is 45mm from the proximal margin and 30mm from distal margin.  The perioesophageal fatty tissue is irregular in shape and variable in thickness.  On slicing no definite residual tumour is seen at the site of ulceration.  The entire cardio-oesophageal junction is blocked.  A small round para-oesophageal nodule is identified attached to the oesophagus measuring 7mm.  The nodule is all embedded in block A3.
+Blocks:  1 - LS proximal margin, 2 - LS distal margin (Diff Qiuck requested), 3 - one para-oesophageal nodule, 4 - one para-oesophageal lymph node, 5 to 29 - entire cardio-oesophageal junction (5 to 9 - one slice, 10- one ? para-oesophageal lymph node, 11 to 16 - one slice, 17 to 19 - one slice, 20 to  22 - one slice, 23 and  24 - one slice, 25  and 26 one slice, 27 to 29 one slice), 30 &amp;amp; 31 - one perigastric lymph node each, 32 - ? perigastric lymph nodes as seen, 33 - one perigastric lymph node, 34 - perigastric lymph nodes as seen.  Please see the diagram.
+
+B.  Specimen labelled &amp;quot;Subcarinal&amp;quot;, consists of a specimen of adipose tissue and lymph nodes 50 x 40 x up to 10mm.  Several lymph nodes are identified, the largest lymph nodes is 42 x 15 x 7mm. Blocks:  1 to 3 - each one lymph node, 4 - lymph nodes as seen, 5 to 8 - one lymph node.
+
+C.  Specimen labelled &amp;quot;Common hepatic node&amp;quot;, consists of a specimen of lymph node and fatty tissue, 50 x 25 x 7mm.  There is one lymph node, 20 x 15 x 4mm.  Blocks:  1 and 2 - one lymph node.
+
+D.  Specimen labelled &amp;quot;Pericardial fat pad&amp;quot;, consists of a piece of fatty tissue, 35 x 25 x 6mm.  A few possible small lymph nodes are identified.  Blocks:  1 - ? lymph nodes as seen.
+
+E.  Specimen labelled &amp;quot;Paratracheal lymph node&amp;quot;, consists of two lymph nodes, 12 x 12 x 5mm and 13 x 12 x 6mm. Blocks:  1 &amp;amp; 2 - one lymph node each.
+
+F.  Specimen labelled &amp;quot;Donuts&amp;quot;, consist of two separate donuts, 16 x 15 x 10mm (lined by apparent squamous mucosa) and 20 x 16 x 6mm (lined by apparent gastric mucosa).  The sutures are removed from the donuts and the non-mucosal site are inked blue.  Blocks:  1 &amp;amp; 2 - oesophageal donuts, 3 &amp;amp; 4 - gastric donuts.  All embedded.  (HM/eh 3/12/2067)
+
+
+MICROSCOPIC (Reported by Dr S Bocci):
+A.  Sections show an ulcer at the cardio-oesophageal junction.  The underlying tissue shows extensive fibrosis, in keeping with previous neoadjuvant therapy.  The entire cardio-oesophageal junction is embedded and examined.  No residual tumour is seen.  No lymphovascular or perineural invasion is seen.  The squamous mucosa proximal to the ulcer shows no significant abnormality.  The gastric mucosa distal to the ulcer shows no significant abnormality.  No intestinal metaplasia or definite Barrett&amp;apos;s oesophagus is seen.  No Helicobacter like organisms are seen.  Both resection margins are unremarkable.  Fourteen (14) lymph nodes are identified.  1 of 14 lymph nodes is involved by metastatic adenocarcinoma (block A31).  The small para-oesophageal nodule identified in the block A3 is a benign leiomyoma.  The tumour cells are positive for SMA and Desmin.  The stains for CD117 and S100 are negative.
+
+Degree of regression (AJCC)
+Grade 0: Complete response &amp;#8211; No viable cancer cells
+
+B.  Seven (7) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+C.  One (1) lymph node is identified.  The lymph node is unremarkable.  There is no evidence of malignancy.
+D.  Two (2) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+E.  Two (2) lymph nodes are identified.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+F.  Sections show normal appearing squamous and gastric mucosa with no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Oesophagectomy - No residual tumour.  1 of 14 lymph nodes involved by metastatic adenocarcinoma.  Small leiomyoma.
+
+B.  Subcarinal lymph node - No evidence of malignancy (0/7).
+
+C.  Common hepatic node - No evidence of malignancy (0/1).
+
+D.  Pericardial fat pad - No evidence of malignancy (0/2).
+
+E.  Paratracheal lymph node - No evidence of malignancy (0/2).
+
+F.  Donuts - No evidence of malignancy.

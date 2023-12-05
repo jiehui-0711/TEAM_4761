@@ -1,0 +1,84 @@
+SPR no: 88A977280E
+MRN no: 88097728
+Site_name: MILLMERRAN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+79 year old female Ivor Lewis oesophagectomy post neoadjuvant chemoradiotherapy
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Oesophagectomy&amp;quot;, consists of an oesophagectomy specimen measuring 135mm in length, consisting of 60mm of oesophagus, incontinuum with 80mm of proximal stomach.  Situated at the gastroesophageal junction is a depressed plaque like lesion measuring 60mm x 30mm.  The lesion lies 40mm from the proximal resection margin (oesophageal resection margin), 38mm from stomach resection margin.  On sectioning the tumour appears to infiltrate into the muscularis.  The uninvolved mucosa of the oesophagus and stomach are unremarkable. Several lymph nodes identified around the oesophagus and stomach.
+Blocks:  1 - proximal resection margin (oesophageal resection margin); 2 - stomach resection margin (distal resection margin); 3 to 35 - all of the tumour from proximal to distal (see diagram); 36 - RS of normal oesophagus and gastric mucosa;  37 to 40 - lymph nodes around the oesophageal fat (37 - lymph nodes as seen, 38 - lymph nodes as seen, 39 - one lymph node, 40 - one lymph node); 41 to 51 - lymph nodes around  the stomach fat (41 - lymph nodes as seen, 42 - lymph nodes as seen, 43 - one lymph node, 44 - one lymph node, 45 - one lymph node, 46 - one lymph node, 47 - one lymph node, 48 - one lymph node, 49 to 51 - one lymph node).
+
+B.  Specimen labelled &amp;quot;Common hepatic lymph node&amp;quot;, consists of a single lymph node measuring 15mm x 10 x 8mm.  AE 1 block.
+
+C.  Specimen labelled &amp;quot;Pericardial nodes&amp;quot;, consists of a single fatty tissue measuring 30mm x 16 x 7mm.  No definitive lymph nodes identified.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Gastrostomy&amp;quot;, consists of a small portion of stomach measuring 40mm x 25mm x 25mm with one open end and opposite stapled end.  There is a stapled margin removed and inked blue and the open end is inked black.  The serosal surface of the stomach is unremarkable. Mucosal surface is unremarkable and no lesions or polyps seen.  Representative sections embedded in 3 blocks.
+
+E.  Specimen labelled &amp;quot;Donut&amp;quot;, consists of two donuts measuring 15 x 10 x 8mm, 15mm x 10 x 5mm.  Both donuts appear unremarkable.  AE 2 blocks.  (TO: LM; LM/eh 7/7/2066)
+
+
+MICROSCOPIC: (Reported by Dr V Morron)
+A.  The oesophageal tumour is a moderately to poorly differentiated adenocarcinoma. A synoptic report for oesophageal carcinoma follows:
+
+OESOPHAGUS CARCINOMA PROFORMA
+Tumour location: Gastro-oesophageal junction
+Histologic type: Adenocarcinoma
+Histologic grade: Grade  2- 3 (Moderately to poorly differentiated) (49% or less of the tumour composed of glands)
+
+Pattern of growth: Infiltrating
+
+Maximum tumour dimension: 30mm.
+
+Depth of invasion: (T2)  Muscularis propria
+Note: tumour focally is present between outer layers of muscularis propria, where the deeper muscle is focally deficient. However, no diagnostic extension beyond the outer muscle layer is seen (A30).
+
+Peritoneal involvement: Absent.
+
+Lymphatic and capillary space invasion: Not identified.
+
+Vein and artery space invasion: Not identified.
+
+Perineural invasion: Present (A29)
+
+Degree of regression (AJCC)
+Grade 3: Absent response &amp;#8211; Minimal or no tumour kill; extensive residual cancer.
+Background changes consistent with neoadjuvant therapy present.
+
+SURGICAL MARGIN STATUS
+Distance of carcinoma to proximal margin: 40mm
+Distance of carcinoma to distal margin: 38mm
+Distance of carcinoma to radial/circumferential margin: 3.3mm.
+
+Donut: Not involved (see specimen D and E).
+
+LYMPH NODE STATUS
+Main resection specimen
+Number of lymph nodes identified: Thirty two.
+Number of positive lymph nodes: One of thirty two (1/32).
+The lymph node involvement consists of a small cluster of tumour cells within a nodal sinus.
+
+N1    Metastasis in 1-2 regional lymph nodes
+
+Other pathologies:
+The squamous mucosa shows patchy active inflammation with associated atypia which is indefinite for dysplasia. The gastric mucosa shows extensive moderate active chronic gastritis with foci of intestinal metaplasia. No definite Helicobacter organisms are seen.
+
+B.  Sections of the common hepatic duct lymph node show no evidence of malignancy (0/1).
+
+C.  Sections of the pericardial lymph node show no evidence of malignancy (0/1).
+
+D.  Sections show portions of gastric wall, including gastric acid secreting mucosa. There is a moderate active chronic gastritis. Focally, some of the gastric epithelium shows cytologic atypia, however, in the presence of active inflammation, these changes are best considered indefinite for dysplasia. The atypical epithelium extends focally to the diathermied margin. No definite Helicobacter organisms are seen. No intestinal metaplasia is identified. There is no evidence of malignancy.
+
+E.  Sections show fragments of inflamed oesophageal and gastric mucosa. There is no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+A.  Oesophagectomy: Moderately to poorly differentiated 30mm adenocarcinoma at the gastro-oesophageal junction; ypT2N1Mx; clear of margins; metastatic carcinoma in one of thirty-two lymph nodes (1/32).
+
+B.  Common hepatic lymph nodes: No evidence of malignancy (0/1).
+
+C.  Pericardial lymph nodes: No evidence of malignancy (0/1).
+
+D.  Gastrostomy: Moderate active chronic gastritis with focal epithelial changes indefinite for dysplasia. Atypical epithelium focally at the diathermied margin.
+
+E.  Donut: No evidence of malignancy.

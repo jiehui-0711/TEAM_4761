@@ -1,0 +1,55 @@
+Episode No:  27O537406U
+2755374.ARU
+
+Jacome, Joaquin 
+Lab No:  27O53740,27O53740
+Sandering
+BARWON HEADS  Western Australia  6906
+Specimen: Washings,Tissue
+D.O.B:  12/8/1999
+Sex:  F
+Collected: 11/9/2063 at :
+Location:  SA Pathology - SHOALHAVEN DISTRICT MEMORIAL HOSPITAL
+DR VIVIANNE Eora Basta
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+69 yr old women with grade 3 endometrioid adeno-carcinoma of uterus.  TAH, BSO, washings, bilateral external and internal pelvic nodal dissection.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, bilateral tubes and ovaries", consists of total hysterectomy with attached tubes and ovaries the uterus measures 95 x 50 x 20mm andweighs 70g. and has a smooth and shiny serosal surface, the cervix measures 20 x 20mm and has an unremarkable surface.  The endometrial cavity it totally filled an exophytic friable tumour.  The endometrium has a maximum thickness of 10mm and the myometrium at the level of the tumour has a maximum thickness of 3mm.  The right fallopian tube and fimbrial measure 50mm in length and 5mm in maximum diameter and appears unremarkable.  The right ovary measures 30 x 15 x 15mmon sectioning there is a cyst filled with yellow creamy material, the cyst measures 20mm in maximum diameter.  The right fallopian tube and fimbrial measure 55mm in length and 5mm in maximum diameter.  The left ovary measures 30 x 15 x 15mm and appears unremarkable.  
+Blocks: 1 to 4 - one full longitudinal section of anterior body and cervix; 5and 6 - two representative sections of anterior endomyometrium; 7 to 11 - one full longitudinal section of posterior body and cervix; 11 and 12- two representative sections of posterior endomyometrium; 13 - right cornu; 14 - left cornu; 15 - right parametrial tissue; 16 - left parametrial tissue; 17 - 2LS right fimbria and 1TS right fallopian tube; 18 - 2LS left fimbria and 1TS left fallopian tube; 19 to 21 ovary with cystic lesion; 22 - left ovary; AE.
+B.  Specimen labelled "Right obturator lymph node", consists of a large fatty lymph node measuring 40 x 10 x 10mm AE 3 blocks. 
+C.  Specimen labelled "Left external iliac lymph node", consists of a piece of fatty tissue containing two lymph nodes 5 and 15mm in maximum diameter.
+Blocks: 1 - one lymph node; 2 - one bisected lymph node; 3 - rest of fatty tissue.
+D.  Specimen labelled "Left obturator lymph node", consists of four lymph nodes measuring from 10 to 35mm in maximum diameter.
+Blocks: 1 - two lymph nodes; 2 - one bisected lymph node; 3 - one bisected lymph node.
+E.  Specimen labelled "Right external lymph node", consists of a piece of fatty tissue 50 x 10 x 10mm containing five lymph nodes 5 to 10mm in maximum diameter.
+Blocks: 1 - three lymph nodes; 2 - two lymph nodes; 3 - rest of fatty tissue.
+(TO: TZ;GQ/vo 12.9.63)
+
+MICROSCOPIC (Reported by Dr F Loftin):
+A. Sections show a grade 2 endometrioid adenocarcinoma involving the anterior and posterior uterine walls. 80% of the lesion has a complex glandular architecture and 20% of the lesion has a solid architecture. There is no convincing severe nuclear atypia, in keeping with agrade of 2.
+At the deepest point of invasion in the anterior wall, the lesion has invaded 6 mm into a wall 10mm thick.
+There is no evidence of lymphovascular invasion or invasion into the cervix.
+Theovaries and fallopian tubes show no evidence of malignancy.
+A 20mm mature cystic teratoma composed of a cyst lined by squamous epithelium and adipose tissue is present in the right ovary.
+Adenomyosis is seen in themyometrium.
+There is no evidence of CIN or HPV effect in the cervix.
+Shown to Dr Dewey GEDE.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Loss of nuclear staining (repeated twice, satisfactory staining seen in 		internal and external positive controls)
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+B. Sections show 1 lymph node with no evidence of malignancy.
+C. Sections show 2 lymph nodes with no evidence of malignancy.
+D. Sections show 4 lymph nodes with no evidence of malignancy.
+E. Sections show 5 lymph nodes with no evidence of malignancy.
+DIAGNOSIS
+A. Uterus, cervix, bilateral fallopian tubes and ovaries:
+- Grade 2 endometrioid adenocarcinoma, invading the outer half of the uterine wall (6mm into a wall 10mm thick), no lymphovascular invasion identified
+- Cervix, ovaries and fallopian tubes with no evidence of malignancy
+- Mature cystic teratoma (dermoid cyst) right ovary
+B to E. Right obturator, left external iliac, left obturator and right external lymph nodes: 12lymph nodes with no evidence of malignancy
+

@@ -1,0 +1,31 @@
+SPR no: 36U095915Q
+MRN no: 3670959
+Site_name: STAWELL REGIONAL HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right ovarian cyst/?dermoid.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right ovarian cyst&amp;quot;, consists of two pieces of ovarian tissue 28 x 22 x 20mm and 17 x 15 x 6mm.  Slicing both pieces reveals unilocular cysts.  The larger cyst is filled with strands of hair and thick yellow material and the smaller cyst is filled with thick yellow material.  Within the larger cyst there is a solid nodule 10mm in maximum dimension (block 1).
+Blocks: 1 and 2 - representatives the larger piece; 3 - all of the smaller piece.
+
+B.  Specimen labelled &amp;quot;Endometrial biopsy&amp;quot;, consists of a piece of tan solid tissue 7 x 5 x 5mm.
+BAE 1 block.
+
+C.  Specimen labelled &amp;quot;Right para-fimbrial cyst&amp;quot;, consists of a cyst 8 x 7 x 6mm.  The cyst is unilocular and is filled with clear fluid.  BAE 1 block.   (TO: HM;HM/vo 19.1.66)
+
+
+MICROSCOPIC: (Reported by Dr K Redhage)
+A.  Sections right ovarian cyst is a mature cystic teratoma (dermoid cyst). The cyst is lined by keratinising squamous epithelium with underlying adnexal structures, adipose tissue, cartilage, as well as, respiratory type mucosa. No immature component is seen. There is no evidence of malignancy.
+
+B.  Sections show early secretory endometrium. There is no polyp, endometritis or hyperplasia. There is no evidence of malignancy.
+
+C.  Sections show a multiloculated benign (serous) paratubal (parafimbrial) cyst. There are no atypical features. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right ovarian cyst: Consistent with mature cystic teratoma (dermoid cyst).
+
+B.  Endometrial biopsy: Early secretory endometrium.
+
+C.  Right para-fimbrial lesion: Consistent with a paratubal (parafimbrial) cyst.

@@ -1,0 +1,161 @@
+DateOfBirth
+201010140000
+
+
+SiteName
+SOUTHERN YORKE PENINSULA HEALTH SERVICES
+
+
+FirstName
+Liedy
+
+
+SPRID
+71T965622Q
+
+
+MRN
+717965
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+71T96562 (71T965622Q) STUMPF, ADAN
+
+HISTOPATHOLOGY REPORT
+ROYAL DARWIN HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Uterus, tubes + ovaries.
+Right pelvic nodes.
+Left pelvic nodes.
+Left common iliac nodes.
+Stage IIA Ca cervix.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, CERVIX, BILATERAL TUBES AND OVARIES&amp;quot;. A uterus and cervix with attached bilateral adnexa. The uterus and cervix is 75x50x 19mm (uterus). The cervix is 60x55mm. The cervix has been largely replaced by a large polypoid tumour mass. The tumour is 60mm from medial to lateral, 55mm from anterior to posterior and extends 40mm from superior to inferior. The tumour extends almost the full thickness of the cervix and is 1mm from the cervical soft tissue margin anteriorly. The endometrium is up to 1mm thick. The anterior myometrium is up to 12mm thick. The posterior myometrium is up to 9mm thick. The tumour abuts the anterior cervical soft tissue margin. The total specimen weight is 110g.
+
+(1-7 full face of cervix and endometrial cavity [1 anterior cervix; 2 posterior cervix]; 8&amp;amp;9 composite blocks of 3 o&amp;apos;clock cervix from ectocervix to parametrium; 10&amp;amp;11 composite blocks of 9 o&amp;apos;clock cervix from ectocervix to parametrium)
+
+Right Adnexa:
+The right fallopian tube is 48mm in length and 5mm in diameter. The fimbrial end is identified. The serosal surface is smooth and shiny. The fallopian tube is serially sectioned with no focal lesions seen. The right ovary is 13x9x7mm and weighs 1.8g. The ovary is serially sectioned and has a variegated solid pale cut surface.
+
+(12 right fallopian tube [fimbrial end and representative TS; 13 right ovary all embedded)
+
+Left Adnexa:
+The left fallopian tube is 52mm in length and 5mm in diameter. The fimbrial end is identified. The serosal surface is focally haemorrhagic. The fallopian tube is serially sectioned with no focal lesions seen. The left ovary is 10x6mm and weighs 1.3g. The ovary is serially sectioned and has a variegated pale and solid cut surface.
+
+(14 left fallopian tube [fimbrial end all embedded]; 15 left ovary all embedded). Representative sections. (M-15) Image available and diagram drawn.
+
+B. &amp;quot;RIGHT PELVIC NODE&amp;quot;. A piece of fatty tissue 50x15x9mm. One lymph node 15mm across is identified.
+
+(1 lymph node all embedded). Representative sections. (M-1)
+
+C. &amp;quot;LEFT PELVIC NODE&amp;quot;. A section of fatty tissue 45mm across. Two lymph nodes are identified, each lymph node is 15mm across.
+
+(1 one lymph node; 2 the other lymph node). All embedded. (M-2)
+
+D. &amp;quot;LEFT COMMON ILIAC NODE&amp;quot;. A piece of fatty tissue 10mm across with one lymph node 6mm across identified.
+
+(1 tissue all embedded). All embedded. (1-1/AO 1/1/2071 ank)
+
+MICROSCOPIC:  (Dr S Koenitzer)
+
+SYNOPTIC REPORT CERVICAL CANCER RESECTION
+
+PRIMARY TUMOUR:
+
+Distribution of invasive component: Single tumour (unifocal)
+
+Tumour type: Adenocarcinoma 95% (Note: a component of squamous cell carcinoma forms approximately 5% of tumour volume)
+
+Differentiation/grade: Moderate to poor
+
+TUMOUR SIZE:
+Depth of invasion/Tumour thickness: 20mm (this is tumour thickness as normal structures are obliterated by large tumour.
+Cervical wall thickness in area of invasion: 21mm (Block A3)
+
+Lymphovascular invasion:Not identified
+
+Associated SIL: Absent (Note: much of the ectocervix is denuded and with active chronic inflammation.
+
+Associated AIS: Absent
+
+MARGINS:
+Invasive tumour:
+Inferior (vaginal or cervical) margin: Negative
+Distance of invasive tumour to inferior margin:at least 10mm
+
+Deep lateral/radial margin: Negative
+Distance of invasive tumour to deep margin: 1mm (A3)
+
+LYMPH NODES (Specimens B, C, D):
+Lymph nodes examined: 4 (one node specimen B, two nodes specimen C, one node specimen D)
+Lymph nodes positive: 0
+
+OTHER TISSUES/ ORGANS:
+Endometrium: Inactive endometrium with dense plasma cell infiltrate consistent with chronic endometritis.
+Myometrium: Unremarkable
+Right adnexae: Focal bland appearing mucinous epitheliom of right fallopian tube (Block A12) is seen but cuts out in deeper levels - see comment below.
+Left adnexae: Unremrkable.
+
+ANCILLARY TESTS:
+Immunohistochemistry (Block A3): There is positive staining for CAM5.2, CK5/6, CEA, and P-16. P-63 is positive in squamous areas. ER shows focal weak staining only. PgR is negative.
+
+COMMENTS:
+1. The adenocarcinoma shows features of stratified mucin producinf carcinoma and usual type endocervical adenocarcinoma.
+2. Approximately 5% of tumour shows squamous differentiation.
+3. P-16 positive staining is consistent with HPV-associated carcinoma.
+4. CAM5.2 stain of lymph nodes shows dendritic pattern staining only.
+5.  Focal bland appearing mucinous epithelium of right fallopian tube (Block A12) is seen but cuts out in deeper levels. It shows p-16 positive staining but with adjacent mosaic pattern p-16 staining of tubal epithelium. Although authors acknowledge that the distinction may be problematic, the overall morphologic appearances (in view of small size and bland cytology with no equivalent areas seen in the cervical tumour) are favoured to represent focal mucinous metaplasia rather than metastatic deposit of mucinous adenocarcinoma.
+
+Pathological Stage: AJCC stage pT1b2, pN0 (FIGO stage 1B2)
+
+DIAGNOSIS:
+A: UTERUS, CERVIX, BILATERAL TUBES AND OVARIES:
+CERVICAL ADENOCARCINOMA (WITH FOCAL SQUAMOUS CELL CARCINOMA COMPONENT).
+
+B: RIGHT PELVIC LYMPH NODE: NEGATIVE FOR MALIGNANCY.
+
+C: LEFT PELVIC NODE:NEGATIVE FOR MALIGNANCY.
+
+D: LEFT COMMON ILIAC NODE: NEGATIVE FOR MALIGNANCY.
+
+2.4.71
+
+Supplementary report:
+Further tissue: Block A16 - remainder of right fallopian tube; A17 remainder of left fallopian tube. Representativesections (M-17) SL 2/5/71
+
+Sections of the further blocks of fallopian tube are unremarkable. The report above is unchanged.
+
+2.9.71
+
+
+
+
+SpecimenReceivedDate
+2737-07-10 00:00:00
+
+
+LastName
+Lamar

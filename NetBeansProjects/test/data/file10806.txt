@@ -1,0 +1,40 @@
+SPR no: 41U376789I
+MRN no: 4173767
+Site_name: WAGIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  41U376789I
+4173767.WXI
+
+BARBE, ABRAHAM ANTONY
+Lab No:  41U37678,41U37678
+Waverleigh
+SWAN HILL  SA  3066
+Specimen: Fluid,Tissue
+D.O.B:  17/12/2007
+Sex:  F
+Collected: 16/5/2066 at :
+Location:  DOMAIN AGED CARE RM 2 - GLENSIDE CAMPUS
+DR TAWANA KARREN GLENNA
+Distribution:
+CLINICAL:
+Pelvic right mass,  normal Ca 125.  Adnexal mass.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right ovary + tube&amp;quot;, consists of a predominantly cystic ovarian mass, 130 x 120 x 40mm.  There is attached fallopian tube, 95mm in length and 6mm in diameter.  The mass has a smooth outer surface.  Part of the mass has a solid-cystic appearance measuring 55 x 30 x 30mm.  The cut surface shows multiloculated cysts containing haemorrhagic fluid.  Blocks: 1 and 2 &amp;#8211; RS solid area for frozen section; 3 &amp;#8211; RS fallopian tube; 4 to 14 &amp;#8211; RS ovarian mass (blocks 4 to 7 contain solid-cystic area).
+FROZEN SECTION REPORT:
+Benign mucinous cystadenoma.
+Phone result to Dr L Lunning by Dr L Kipps at 2:50pm on 14.03.16.
+B.  Specimen labelled &amp;quot;Uterus cervix left tube and ovary&amp;quot;, consists of a uterus with attached cervix, left fallopian tube and left ovary, weighing 38g in total.  The uterus measures 75 x 40 x 35mm and has a smooth shiny serosal surface.  The ectocervix measures 25 x 18mm.  The endometrium is less than 1mm in thickness and the myometrium is 14mm in thickness.  The myometrium contains two fibroids, 8 and 12mm.  The left fallopian tube measures 55mm in length and 7mm in diameter.  The left ovary measures 32 x 10 x 7mm and has an unremarkable cut surface.
+Blocks: 1 to 3 &amp;#8211; full longitudinal section of anterior body and cervix; 4 to 6 &amp;#8211; full longitudinal section of posterior body and cervix; 7 &amp;#8211; RS body of uterus; 8 &amp;#8211; RS left ovary; 9 &amp;#8211; RS left fallopian tube; 10 &amp;#8211; RS fibroid.
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of adipose tissue, 30 x 25 x 3mm.  No nodules are seen.  AE 1 block.   (TO: HM;HM/vo 17.5.66)
+MICROSCOPIC (Reported by Dr L Postle):
+A.  The sections of the right ovarian mass show a mucinous neoplasm.  Most of the mass shows features of a mucinous cystadenoma and is composed of multiple cysts lined by a single layer of gastrointestinal-type epithelium with scattered goblet cells.  Approximately 10% of the mass shows atypical borderline features, including complex cribriform architecture, moderate cytological atypia and several mitoses.  These atypical areas are absent in the paraffin sections of the tissue examined at the time of frozen section.  No high grade nuclear atypia is seen.  There is no evidence of invasive carcinoma.  The right fallopian tube shows no significant abnormality.
+The majority of the tumour cells show positive staining for CK20 and CDX-2 while only focal staining is seen with CK7.
+Overall, the right ovarian mass is best regarded as a low grade mucinous borderline tumour.  While the morphology favours an ovarian primary, the immunohistochemical profile raises the possibility of involvement by an appendiceal mucinous neoplasm.
+Representative sections seen with Dr L Kusak.
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  Leiomyomas are confirmed within the myometrium.  The left fallopian tube shows focal chronic inflammation and is otherwise normal.  The left ovary shows no significant abnormality.  There is no evidence of malignancy.
+C.  The sections of omentum show mature adipose tissue with no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Right ovary and fallopian tube:  Low grade mucinous borderline tumour (see text).
+B.  Uterus, cervix, left ovary and fallopian tube:  Leiomyomas.
+C.  Omental biopsy:  No significant abnormality.

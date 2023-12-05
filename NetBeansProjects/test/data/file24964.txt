@@ -1,0 +1,40 @@
+SPR no: 08I496320U
+MRN no: 0834963
+Site_name: SNOWTOWN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+
+CLINICAL:
+Liver metastasis.  R breast Ca, GORD, HTN, hypercholesterolaemia, anxiety disorder, cataracts.  Liver lesion.  Likely gastric or pancreatic primary.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Liver biopsy&amp;quot;, consists of a liver wedge, 10 x 9 x 6mm with a possible grey nodule, 3mm.  RS for FS.
+Blocks: 1 - the frozen section; 2 - the remainder.  AE.
+(TO: HM; HM/rs 2/3/67)
+
+
+FROZEN SECTION REPORT:
+Poorly differentiated carcinoma.
+Phone results to Dr B Mourino, by Dr B Gandolfo at 2:23pm on 27/1/17.
+
+
+MICROSCOPIC (Reported by Dr B Venible):
+Paraffin sections of the specimen examined at the time of intraoperative frozen section consultation show liver extensively infiltrated by a moderate to poorly differentiated adenocarcinoma.  The carcinoma is arranged in solid nests as well as occasional glandular structures, the latter highlighted on dPAS staining. The tumour cells display a predominantly monomorphic round to oval nuclei with inconspicuous nucleoli and eosinophilic cytoplasm with some areas of cytoplasmic vacuolation.  In some areas close to the liver capsule the tumour cells appear more squamoid with more abundant cytoplasm, more pleomorphic nuclei and possible occasional intercellular prickles.  No keratinisation is seen.  There is small and medium sized vessel vascular invasion which is highlighted on both CD31 and Orcein stain.
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the tumour cells stain as follows:
+Positive:  	GATA 3 (diffuse strong), CK7 (diffuse strong), TTF1 (patchy strong), p63 (strong almost diffuse) and CK5/6 (accentuated in squamoid areas).
+Negative:	CK20, PAX8, PR, Her2 (1+), Synaptophysin, Chromogranin, CD56, Napsin A
+Equivocal:       ER, some minimal patchy possible weak nuclear staining in the context of stronger 				 cytoplasmic staining.
+
+COMMENT:
+The features are those of a poorly differentiated carcinoma predominantly adenocarcinoma with some possible squamous differentiation.    In the context of a lesion obstructing the distal stomach this would appear to be the likely primary site, however, the immunoprofile (CK 7 positive, GATA 3 positive, ER essentially negative )  is not informative is separating the possibilities of either breast, gastric or pancreatic origin.The  TTF1 expression is likely aberrant given the clinical history, however, origin from a lung primary  also cannot entirely be excluded.
+
+The morphology is similar to the poorly differentiated adenocarcinoma seen in the previous gastric biopsy, although  that tumour did not show squamoid features.  Although  the tumour in the  gastric biopsy did not show definite associated glandular dysplasia or intestinal metaplasia althe morphology there is entirely compatible with a gastric primary.     In initial large series GATA 3 expression, commonly seen in breast carcinoma,  was rare  (&amp;lt;10%) in gastric adenocarcinoma. However, a recent study reported strong expression in up to 44% of cases of gastric adenocarcinoma. GATA 3 expression may also be seen in pancreatic carcinoma.  Immunostains are performed on the gastric biopsy and the tumour shows the the same expression pattern as the liver metastasis, namely diffuse strong GATA3 and CK7 expression, a similar pattern of ER staining (non-specific cytoplasmic with equivocal weak nuclear) while CK20 is negative. If it is clinically important to exclude the possibility of breast carcinoma comparison with the morphology and hormone receptor status of the previous breast carcinoma  may be useful.  Further correlation with the imaging findings would be of interest.
+
+
+DIAGNOSIS:
+Liver biopsy:
+- Metastatic poorly differentiated carcinoma with glandular and possible squamous differentiation.

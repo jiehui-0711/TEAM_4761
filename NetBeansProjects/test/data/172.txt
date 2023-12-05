@@ -1,0 +1,78 @@
+
+Episode No:  76Y599951E
+7695999.NDE
+
+BUSL, SUZIE 
+Lab No:  76Y59995
+Folin
+STAWELL  Tasmania  3967
+Specimen: Tissue
+D.O.B:  27/5/1980
+Sex:  F
+Collected: Unknown at :
+Location:  Southern IML-GLEN INNES DISTRICT HOSPITAL
+DR STERLING SHARYL LARRIER
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT (17.1.63):
+
+
+CLINICAL:
+R colon cancer - mesenteric spread.  Dementia, anaemia, high cholesterol, peptic ulcer disease, (R) sided blindness.  
+MACROSCOPIC:
+A.  Specimen labelled "Right hemicolectomy" consists of two specimens.  The larger specimenis a right hemicolectomy.  Terminal ileum measures 80mm in length with a diameter of 25mm.  Right colon measures 190mm with a circumference of 75mm.  Mesentery/mesocolon measures 110 x 90 x 80mm.  Appendix is not present.  70mm away from the proximal margin, 110mm away from the distal margin a large necrotic circumferential tumour is noted measuring 70 x 130 x 50mm.  It extends into the mesocolon and abuts the cut margin (base) of the ascending mesocolon, which is inked blue.  The cut surface of the tumour is pale and firm with necrosis and haemorrhage.  Two polyps measuring 2 and 5mm in maximum extent are noted, 5 and 8mm away from the tumour.  Remainder of the mucosal surface of the colon is pigmented.  Thirteen lymph nodes are identified, the largest measuring 30mm.  Cut surface of the largest node shows obvious tumour involvement.  
+The other specimen consists of a segment of small bowel with a side to side anastomosis witha segment of colon.  The small bowel segment measures 35mm in length with a maximum diameter of 20mm and has a mesentery measuring 35 x 20 x 20mm.  The segment of colon measures 30mm in length with a maximum diameter of 20mm.  A small amount of pericolic fatty tissue is noted measuring 30 x 25 x 15mm.  Mucosal surfaces of both the segments are unremarkable.    
+Blocks:  1- LS proximal margin; 2- LS distal margin; 3 - section of tumour along the antimesenteric border;4 & 5 - section of tumour with the base of mesentery margin; 6- section of tumour going into mesocolic fatty tissue; 7 - LS of tumour with normal mucosa; 8 - two polyps; 9 - representative sections LS of the colon with pigmentation; 10 -representative sections of largest node; 11 - three nodes; 12 - three nodes; 13 - three nodes; 14 - three nodes; 15 - LS of small bowel segment; 16 - LS of the other segment of colon; 17 - representative TS all anastomosis.  Representative sections in 17 blocks.
+B.  Specimen labelled "Intra-abdominal mucin" consists of a piece of soft necrotic tissue measuring 40 x 20 x 10mm.
+Blocks:  1 & 2 - all embedded.  (TO: QO  FH/mm 15.1.63) 
+MICROSCOPIC (reported by Dr T Nohel):
+  
+A.  Macroscopic Description
+
+Site of tumour:Right colon
+Maximum tumour diameter:  130mm
+Distance of tumour to nearer cut end:  70mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Poor
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  1.5mm (base of mesentery)
+Lymph nodes
+Number of lymph nodes present:  12
+Number of lymph nodes involved:  10
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (Mural and extramural)
+Perineural invasion
+Present
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas - Both described polyps are adenomas with low grade dysplasia.
+The colon also shows features of melanosis coli.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status:  To follow
+
+B.  Sections show old blood and some fibrin with admixed mesothelial cells.  No tumour is seen.
+DIAGNOSIS:
+A.  Right hemicolectomy:  
+1.  Poorly differentiated adenocarcinoma with lymph node metastases (10/12).  
+pT3  pN2  pMx  R0.
+2.Tubular adenomas.
+B.  Intra abdominal material:  Notumour.  
+SUPPLEMENTARY REPORT (17.1.63):
+A.  Mismatch repair deficiency status:
+MLH1:   Loss of nuclear staining.
+PMS2:   Loss of nuclear staining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+Loss of nuclear staining of a carcinoma for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), andmay reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+

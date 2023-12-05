@@ -1,0 +1,57 @@
+
+Episode No:  50U941240L
+5079412.LAL
+
+LOCHEN, COREY SANG 
+Lab No:  50U94124
+Dovenshire
+CORINDA  ACT  4854
+Specimen: Tissue
+D.O.B:  13/3/2006
+Sex:  F
+Collected: 6/7/2062 at :
+Location:  Envoi pathology-AUSTIN HEALTH - AUSTIN HOSPITAL
+DR FIDEL ERIC COYKENDALL
+Distribution:   FILE-COPY
+CLINICAL:
+Excision of abdominal wall soft tissue tumour.  Short suture superior, long suture inferior. 
+MACROSCOPIC:
+Specimen labelled "Lesion abdominal wall, long stitch inferior, short stitch superior", consists of an ellipse of skin with underling fatty tissue measuring 200 x105mm to a depth of 30mm.  On the skin surface there is a fleshy grey nodular mass measuring 105 x 100 x 60mm.  A small portion of the mass was sampled for tissue banking. Sutures orientate the specimen as follows: short superior, long inferior. The superior margin is inked blue while the inferior margin is inked black. The cut surface of the mass has a fleshy and lobulated cream appearance.  It is approximately 25mm from the superior margin, 15mm from the inferior margin, 55mm from the left lateral margin and 50mm from the right lateral margin and 15mm from the deep margin. Representative sections in 21 blocks.
+Blocks 1 & 2 - superior margin; 3 & 4 - inferior margin; 5 & 6 - left lateral margin; 7 & 8 - right lateral margin; 9 & 10 - deep margin; 11 to 20 - representative tumour sections; 21 - research block.  (AJ/ec  6.12.62) 
+MICROSCOPIC: (Reported by Dr N Drinnon)
+Sections show a spindle cell lesion with varying morphologies, involving the dermis and subcutaneous fat. 
+In some areas the lesion resembles dermatofibrosarcoma protuberans (DFSP) and is composed of spindle shaped tumour cells with a storiform architecture (e.g. block 18). Extensive myxoid change is seen resembling myxoid DFSP.
+In additional, the tumour focally shows increased cellularity, and is composed of intersecting fascicles of spindle shaped tumour cells, with increased nuclear atypia and raised mitotic activity (up to 11 per 10 hpf, e.g. blocks 4 and 12). There are also significant areas of tumour necrosis involving approximately 10% of the lesion (Blocks 4, 14, 21). These areas would be in keeping with intermediate grade myxofibrosarcoma (myxoid malignant fibrous histiocytoma) arising from DFSP.
+
+Margins
+Inferior: 7 mm
+Deep: 12 mm
+Other margins: > 20 mm
+
+Immunoperoxidase staining
+CD34: positive
+SMA: focal positive
+Ki67: up to 10%
+S100: negative
+Desmin: negative
+AE1/3: negative
+EMA: negative
+CD99: negative
+
+FNCLCC grading
+Tumour differentiation:  2 	(sarcoma for which histological typing is certain)
+Mitosis count:  	  2  	(10-19/10 hpf)
+Tumour necrosis: 	  1  	(< 50% tumour necrosis)
+Total score:  		  5
+Histologic grade: 	2 out of 3 (total score 4, 5)
+ 
+
+COMMENT
+The presence of focal tumour necrosis, high mitotic activity (11 per 10 hpf), nuclear atypia and increased cellularity is beyond that acceptable for dermatofibrosarcoma protuberans (DFSP) and would be in keeping with an intermediate grade myxofibrosarcoma (myxoid malignant fibrous histiocytoma) arising from DFSP. 
+Shown to Drs HENRY KEAT, FRANK FALES and LINDSAY KLEEB.
+
+
+DIAGNOSIS:
+Excision of abdominal wall soft tissue tumour:  Intermediate grade myxofibrosarcoma (myxoid malignant fibrous histiocytoma) arising from dermatofibrosarcoma protuberans, margins clear. 
+
+

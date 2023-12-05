@@ -1,0 +1,109 @@
+SPR no: 83D435643D
+MRN no: 831435
+Site_name: THE TWEED HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report83D43564,83D43564 (83D435643D) Cueto, Cecila
+HISTOPATHOLOGY REPORT
+FAIRFIELD HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+1. Peritoneal washings for cytol.
+2. Uterus, tubes and ovaries.
+3. Left sentinel node biopsy.
+4. Right sentinel node biopsy.
+5. Omentum biopsy.
+GIII endometrioid adenoca.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES, OVARIES&amp;quot;. A uterus with attached cervix, bilateral tubes and ovaries. The specimen is received opened through the cervix in the coronal plane with some resulting distortion of the specimen. The right tube is 50mm in length, 5mm in diameter, and 23mm across the fimbria, with one parafimbrial cyst up to 20mm in maximal diameter. The right ovary is 17x9x5mm. The left tube is 53mm in length, 5mm in diameter, and 12mm across the fimbria. The left ovary is 17x10x7mm. There are no focal lesions. The uterus and attached cervix measures approximately 85mm longitudinally, 55mm between the cornua and 40mm anteroposteriorly. The cervix is approximately 25mm in length and approximately 35x35mm in transverse section. There are no cysts or polyps in the cervix. The endometrium is up to 2mm in thickness. The anterior myometrium is up to 16mm in thickness. The posterior myometrium is up to 21mm in thickness. There is a possible polyp in the cavity of the body of the uterus 15x10x5mm. There is a creamy coloured lesion with an indistinct edge in the lower segment in the anterior wall measuring 18x8mm which appears to be &amp;lt;50% of the thickness of the wall. There is one myoma in the anterior wall of the body up to 9mm across. The serosa is smooth with no distortion or adhesions.
+
+(1&amp;amp;2 right tube and ovary [1 ovary, mid tube and cyst; 2 proximal and distal tube]; 3&amp;amp;4 left tube and ovary [3 proximal and distal tube; 4 ovary and mid tube; 5&amp;amp;6 right parametrial tissue; 7&amp;amp;8 left parametrial tissue; 9-15 one section [9 anterior cervix; 10 anterior lower segment with possible tumour; 11 anterior myometrium with fibroid; 12 fundus; 13 posterior myometrium with possible polyp; 14 posterior lower segment; 15 posterior cervix]; 16 section with ? lesion closest to serosa). Representative sections. (M-16)
+
+B. &amp;quot;RIGHT SENTINEL NODE BIOPSY&amp;quot;. Fatty tissue 30x20x8mm containing one lymph node measuring 15x11x5mm.
+
+(1 one lymph node; 2 remaining fatty tissue). All embedded. (M-2)
+
+C. &amp;quot;LEFT SENTINEL NODE BIOPSY&amp;quot;. Fatty tissue 42x20x8mm containing three lymph nodes 21x7x6mm, 8x7x5mm and 7x7x4mm.
+
+(1 largest lymph node in TS; 2 one lymph node; 3 one lymph node; 4 remaining fatty tissue). All embedded. (M-4)
+
+D. &amp;quot;OMENTUM BIOPSY&amp;quot;. Fatty tissue 40x21x5mm. All embedded. (2-2/FR 19/6/2068 ank)
+
+MICROSCOPIC:  (Dr U Mosconi)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE: Body and Isthmus/lower uterine segment
+
+TUMOR SIZE: 18mm greatest (macroscopic) dimension; greater than 35mm greatest histologic dimension (Blocks A13-15)
+
+HISTOLOGIC TYPE: Favour Endometrioid carcinoma (see comment below)
+
+HISTOLOGIC GRADE: FIGO grade 3 (greater than 50% solid growth), and grade 3 nuclei
+
+MYOMETRIAL INVASION: Present
+Depth of invasion: 15 mm
+Myometrial thickness: 20 mm  (block A14)
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Present
+
+CERVICAL STROMAL INVOLVEMENT: Present (cervical stromal invasion - 10mm invasion in 15mm thickness of endocervical stroma; 13mm invasion in 18mm thickness of lower uterine segment - Block A15).
+
+OTHER TISSUES:
+Right ovary: Unremarkable.
+Left ovary: Unremarkable.
+Right fallopian tube: Unremarkable.
+Left fallopian tube: Unremarkable
+Parametrium: Not involved.
+Omentum (Specimen D): Not involved.
+
+MARGINS:
+Ectocervical margin: Uninvolved by carcinoma (carcinoma is 6mm from ecto-cervical margin - block A15)
+
+LYMPHOVASCULAR INVASION:Present, substantial (&amp;gt; 5 vascular spaces). There is extensive LVI (seen in blocks A9-10; A13-15 within myometrium and cervical stroma.
+
+SENTINEL LYMPH NODES:
+Specimen B (Right Sentinel Node Biopsy) &amp;amp; Specimen C (Left Sentinel Node Biopsy)
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 2 (one node with micro-metastasis in each of Specimen B &amp;amp; C)
+Number of nodes with isolated tumor cells (0.2 mm or less): 2 (one node with ITC in each of Specimen B &amp;amp; C)
+Number of sentinel lymph nodes examined: 5 (two nodes in Specimen B and three nodes in Specimen C).
+
+Extra-nodal spread: Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS: Inactive endometrium, benign leiomyoma
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Block A15
+Supplementary report:
+MLH1: Positive (retained) nuclear staining.
+PMS2: Positive (retained) nuclear staining.
+MSH2: Positive (retained) nuclear staining.
+MSH6: Positive (retained) nuclear staining.
+Comment: Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 is the wild-type staining pattern and indicates a low likelihood of microsatellite instability phenotype.
+Other (Block A15): P-53 shows strong staining in greater than 70%. P-16 shows patchy weak to moderate staining. ER and PR are negative.
+
+COMMENT:
+1. The appearances are those of a high grade carcinoma and the differential diagnosis includes Endometrioid carcinoma Grade 3 and High grade Serous Carcinoma. The morphology in some areas somewhat favours Endometrioid carcinoma as does the patchy p-16 staining pattern.
+
+2. Lymph node metastatic deposits are individually less than 0.2mm in diameter although multiple such deposits are seen within a node.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IIIC: Metastases to pelvic and/or para-aortic lymph nodes.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):
+pT2: Tumor invading the stromal connective tissue of the cervix but not extending beyond the uterus.
+pN1mi: Regional lymph node metastasis (greater than 0.2 mm but not greater than 2 mm in diameter) to pelvic lymph nodes (see comment above)
+
+DIAGNOSIS:
+A: UTERUS, TUBES, AND OVARIES: HIGH GRADE ENDOMETRIAL CARCINOMA FAVOURING ENDOMETRIOID ADENOCARCINOMA (GRADE 3) - SEE TEXT AND COMMENT.
+
+B: RIGHT SENTINEL NODE BIOPSY: MICRO-METASTATIC CARCINOMA - SEE COMMENT.
+
+C: LEFT SENTINEL NODE BIOPSY: MICRO-METASTATIC CARCINOMA - SEE COMMENT.
+
+D: OMENTUM: NEGATIVE FOR MALIGNANCY.
+
+27.9.2068

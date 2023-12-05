@@ -1,0 +1,49 @@
+
+Episode No:  32M158265N
+3241582.RNN
+
+KIYUNA, JOSHUA 
+Lab No:  32M15826
+Bansom
+COBDEN  Victoria  3045
+Specimen: Tissue
+D.O.B:  18/11/1989
+Sex:  M
+Collected: 22/11/2013 at 14:17
+Location:  DICKINSON 2 NORTH-GOVE DISTRICT HOSPITAL
+DR WILLIAMS WILFRED DRAKULIC
+Distribution:   FILE-COPY
+CLINICAL:
+Adenocarcinoma of the prostate.  Prostate and bilateral pelvic nodes.
+MACROSCOPIC:
+A.  Specimen labelled "Prostate" consists of a prostate measuring 45 x55 x 45mm and weighing 38.4g.  The right vas deferens measures 15 x 8 x 8mm and the left vas deferens measures 7 x 7 x 7mm.  The right seminal vesicle measures 10 x 7 x7mm and the left seminal vesicle measures 30 x 10 x 10mm.  The left side is inked blue, the right side black and the anterior margin red. The prostate is transversely sectioned in five slices. Slice 1 (apex) and slice 5 (base) are further parasagittally sectioned. 
+Blocks:  1 to 6 - slice one, (apex) from right to left; 7 - slice two; 8 - slice three; 9 - slice four; 10 to 22 - slice five (base) from right to left, nick posterior; 23 to 25 - right seminal vesicle; 26 - left seminal vesicle; 28 - right vas deferens; 29 - left vas deferens.  AE.  Please refer to attached diagram.
+B.  Specimen labelled "Right pelvic lymph node" consists of fatty tissue measuring 55x 27 x 15mm.  Multiple lymph nodes are identified. 
+Blocks:  1 - lymph nodes; 2 - one lymph node; 3 & 4 - one lymph node serially sectioned.
+C.  Specimen labelled "Left pelvic lymph node" consists of fatty tissue measuring 45 x 30 x 10mm.
+Blocks:  1 - lymph nodes; 2 & 3 - one lymph node serially sectioned.
+(TO: KL; JL/rt 27.1.63)
+MICROSCOPIC (Reported by Dr I Falldorf):
+
+RADICAL PROSTATE PROFORMA
+Histological type:  Adenocarcinoma, acinar type
+Tumour location:
+Dominant nodule: Left posterior/left apex
+	Non-dominant (>10mm): N/A
+	Smaller nodules: N/A
+Volume/Size:	0.46 ml (18 mm x 8 mm x4 mm x 2 slices x 0.0004) 
+Gleason score:  4 + 3 = 7
+Extraprostatic extension:  Not seen
+Surgical margins:  Clear
+Perineural invasion:Present
+Seminal vesicles:  Not involved
+Lymph nodes (specimens I and I):  No malignancy seen (0/9)
+Lymphovascular invasion:  Not seen
+DIAGNOSIS:
+A-C.  Prostate and pelvic lymph nodes:  Adenocarcinoma, Gleason score 4 + 3 = 7.  No lymph node metastases (0/9).
+pT2a   Unilateral, one-half of one side or less. 
+pN0   No positive regional nodes. 
+MX   Cannot be assessed histologically
+
+
+

@@ -1,0 +1,114 @@
+SPR no: 56Q766554T
+MRN no: 56676655
+Site_name: KYABRAM & DISTRICT HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report56Q76655 (56Q766554T) MCFADDEN, BUD
+HISTOPATHOLOGY REPORT
+OBERON MULTI PURPOSE SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ca ovary, chemotherapy x4.
+
+1.  Uterus, tubes and ovaries.
+2.  Small bowel serosa.
+3.  Omentum.
+4.  Right pelvic lymph node.
+5.  Left paracolic --------.
+6.  Pouch of Douglas.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, FALLOPIAN TUBES AND OVARIES, CERVIX&amp;quot;.  Consists of uterus, cervix, attached tubes and ovaries 47g, all together.
+Right tube measures 40mm in length, 5mm diameter.  Sectioning unremarkable.  Right ovary measures 30x30x20mm.  There is a cyst with less than 1mm wall and smooth lining.  The cyst measures 30mm.  No definite solid lesion identified.
+Left tube measures 35mm in length and 5mm in diameter.  Paratubal cyst present.  Sectioning is unremarkable.  Left ovary measures 20x10x10mm.  No discrete lesion identified macroscopically.  Both ovary and tubes embedded entirely.
+Uterus measures 53x30x20mm.  Anterior surface inked blue, posterior inked black.  Endometrium measures within 1mm.  Anterior wall 10, posterior wall 90mm.  No discrete lesion identified.
+
+(1  right parametrium; 2  left parametrium; 3&amp;amp;4  right tube; 5-10  right ovary; 11&amp;amp;12  soft tissue attached to right side, right adnexal area; 13  left tube; 14-17  left ovary; 18  cervix; 19  uterine wall; 20  fundus [one full face sagittal view of uterus]; 21  uterine wall).  Representative sections.  (M-21).
+
+B.  &amp;quot;SMALL BOWEL SEROSA&amp;quot;.  Circumscribed grey glistening cyst 45x35x30mm.  Outer surface is smooth.  Sectioning shows brown gelatinous surface with wall thickness of 1mm.  No solid lesion for papillary fronds identified.  Two full face sections embedded.
+
+(1&amp;amp;2  one full face; 3&amp;amp;4  one full face).  Representative sections. (M-4).
+
+C.  &amp;quot;OMENTUM&amp;quot;.  Fibrofatty tissue consistent with omentum measuring 150x130x50mm.  There is a firm area measuring 80mm maximum dimension, composed of patchy solid possible necrotic yellow foci with patchy foci of white ill-defined.  At least two separate nodules also identified, 10 and 6mm.
+
+(1-4  sections of main area; 5  separate nodule; 6  separate nodule).  Representative sections.  (M-6).
+
+D.  &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;.  Two lymph nodes identified, 12mm and 10mm.
+
+(1  one lymph node; 2  second lymph node).  All embedded.  (M-2).
+
+E.  &amp;quot;LEFT PARACOLIC GUTTER&amp;quot;.  Fibrofatty tissue 40x40x10mm.  Sectioning shows the cystic changes.  All tissue embedded block 1 to 4.  All embedded.  (M-4).
+
+F.  &amp;quot;POUCH OF DOUGLAS&amp;quot;.  Multiple fibrofatty tissue 20x20mm.  All embedded block 1 and 2.   All embedded.  (M-2/SM 4/10/2069 km).
+
+
+MICROSCOPIC:  (Dr P. Sovak)
+
+SYNOPTIC REPORT FOR TUMOURS OF THE OVARY or FALLOPIAN TUBE (CAP 2018):
+
+TUMOUR SITE:  Right adnexa (A12) and right fallopian tube (STIC identified, A3)
+
+OVARIAN SURFACE INVOLVEMENT: Present on left ovarian surface (A17)
+
+FALLOPAN TUBE SURFACE INVOLVEMENT: Present on left fallopian tube (A13)
+
+TUMOUR SIZE:  At least 6mm focus (difficult to determine due to multifocality)
+
+HISTOLOGIC TYPE: Serous carcinoma
+
+HISTOLOGIC GRADE:  High grade
+
+OTHER TISSUE INVOLVEMENT:
+Left parametrium (A2)
+Right ovarian ligament (A6)
+Right paraovarian soft tissue (A9)
+Left paraovarian soft tissue (A15)
+Uterine serosa (A19)
+Small bowel serosa (B2)
+Omentum (Specimen C)
+Left paracolic gutter (Specimen E)
+Pouch of douglas (Specimen F)
+
+LARGEST EXTRAPELVIC FOCUS:  Macroscopic, omentum 80mm
+
+PERITONEAL/ASCITIC FLUID: Unknown
+
+PLEURAL FLUID: Unknown
+
+TREATMENT EFFECT (based on assessment of residual tumor in the omentum in specimen C):  Minimal response identified (chemotherapy response score CRS 1)
+
+REGIONAL LYMPH NODES:
+Specimen D. RIGHT PELVIC LYMPH NODE  -  2 lymph nodes with no malignancy.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th Edition):  pT3c  pN0
+
+FIGO STAGE (2015 FIGO Cancer Report): IIIC
+
+ADDITIONAL FINDINGS:
+The right ovary shows a benign serous cystadenoma.
+
+B. Sections shows a unilocular cyst lined by organising fibrosis surrounding a blood clot, probably representing an organising haematoma.  The surface shows multiple deposits of high grade serous carcinoma.
+E. Sections show peritoneal tissue with extensive deposits of metastatic serous carcinoma.
+F. Organising fibrosis with small deposits of serous carcinoma.
+
+
+DIAGNOSIS:
+A. UTERUS, FALLOPIAN TUBES AND OVARIES, CERVIX:
+- High grade serous carcinoma of the right ovary and fallopian tube
+- FIGO stage IIIC
+B. SMALL BOWEL SEROSA:
+- Metastatic high grade serous carcinoma
+C. OMENTUM:
+- Metastatic high grade serous carcinoma
+D. RIGHT PELVIC LYMPH NODE:
+- Two lymph nodes with no malignancy
+E. LEFT PARACOLIC GUTTER:
+- Metastatic high grade serous carcinoma
+F. POUCH OF DOUGLAS:
+- Metastatic high grade serous carcinoma
+---------------------------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT  (17/2/2070)
+
+Immunohistochemistry:
+ER: Positive (3+, &amp;gt;90%)
+PR: Positive (2 to 3+, 15%)

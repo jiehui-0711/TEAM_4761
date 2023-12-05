@@ -1,0 +1,19 @@
+SPR no: 79R175386S
+MRN no: 79617538
+Site_name: CULCAIRN MULTI PURPOSE SERVICE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Uterus + tubes.  Stromal sarcoma uterus.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Cervix uterus and bilateral tubes&amp;quot;, consists of a uterus with attached cervix and bilateral tubes weighing 70 grams in total.  The uterus measures 75 x 55 x 37mm and has a smooth and shiny serosal surface.  The cervix measures 33 x 28mm and has an unremarkable surface.  Within the anterior lower uterine segment there is a firm tumour measuring 32 x 32mm with a superficial area of ulceration measuring 15 x 10mm.  The endometrial lining on the anterior aspect measures 2mm thick with an endometrial polyp overlying the firm area measuring 15 x 10 x 5mm.  The tumour is located 19mm from the cervical margin and the base of the anterior polyp is located 45mm from the cervical resection margin.  On the posterior aspect, the endometrium measures up to 2mm thick with a polyp within the lower uterine segment measuring 25 x 15 x 5mm.  The base of this polyp is located 18mm from the cervical resection margin.  On sectioning, the tumour involves the full thickness of the uterine wall, up to 23mm thick, and is seen to extend towards the anterior parametrial soft tissues.  The myometrium posteriorly measures up to 13mm. The right fallopian tube measures 71 x 6mm and the left fallopian tube measures 60 x 6mm.  The serosal surface of both tubes is smooth and shiny and no focal lesions identified.
+Blocks: 1 - LS anterior cervix; 2 to 15 - anterior cervix and lower uterine segment TS embedded from cervix to body; 16 and 17 - right fallopian tube; 18 - LS posterior cervix; 19 to 26 - posterior cervix and lower uterine segment TS embedded from cervix to body; 27 and 28 - left fallopian tube.  Please see diagrams for further blocking description.  (TO:AP/vo 12/11/66)
+MICROSCOPIC (Reported by Dr T Ciervo):
+The entire tumour has been examined.  Sections show a low grade endometrial stromal sarcoma (ESS).  The tumour appears to have originated in the anterior lower segment, and also involves the anterior endocervix and uterine body, and the posterior lower segment.  The ESS involves the full thickness of the uterine wall anteriorly (20mm thick) to reach the serosa, and extends into the anterior parametrium.  The tumour forms two polyps, one lower segment polyp posteriorly and one endometrial polyp anteriorly. There is a moderate amount of lymphatic invasion and focal venous invasion within the myometrium.  Mitoses number up to 5/10hpf.  No high grade component is seen.  The ESS is well clear of the vaginal margin.
+The ectocervix is unremarkable.  The uninvolved endometrium is proliferative.  Both fallopian tubes show no abnormality.
+Please see previous report 79R17538 for immunoperoxidase stains and FISH results.
+Repeat ER and PR are pending.
+DIAGNOSIS:
+Low grade endometrial stromal sarcoma (please see above for details).
+ADDITIONAL REPORT 26/12/66:
+The tumour is strongly positive for ER &amp;amp; PR.

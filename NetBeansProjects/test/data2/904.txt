@@ -1,0 +1,179 @@
+Episode No:  55H004072S
+552004.BUH
+
+GRIVAS, Penni Hal 
+Lab No:  55H00407
+Noon
+KYABRAM  TAS  2621
+Specimen: Tissue
+D.O.B:  3/1/2013
+Sex:  F
+Collected: 20/2/2062 at :
+Location:  HAPS-PORTLAND DISTRICT HEALTH
+DR KOORI Lou Leisher
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+		SUPPLEMENTARY REPORTS 1 & 2 (25/3/63)
+
+CLINICAL:
+Left axilla sentinel node for breast Ca.  Hx of biopsy proven L breast Ca for mastectomy and SNBx.
+MACROSCOPIC:
+A.  Specimen labelled "Left breast specimen lymph node 1" consists of a piece of fatty tissue 35 x 25 x 12mm.  One lymph node 25mm is identified.  Imprints made for cytology.  
+Blocks: 1 - imprint one; 2 - imprint two.
+FROZEN SECTION REPORT:
+There is no evidence of malignancy - Negative. 
+Result to Dr AUGUST YONTS via theatre RN by Dr P Pargo and Dr P Manocchia at 15.40pm on 19/12/12. 
+B.  Specimen labelled "Left breast marking stitch at superior" consists of a mastectomy 160mm (medial to lateral) x 155mm (inferior to superior) x 28mm (superficial to deep).There is an overlying ellipse of skin 145 x 45mm which includes a nipple areola complex 30 x 30mm which appears unremarkable.  The superficial margin is inked blue and the deep margin inked black.  The cut surface reveal a firm cream/yellow stellate poorly circumscribed lesion 1-2 o'clock position 45mm from the nipple (lesion one).  Lesion one measures 20mm (medial to lateral) x 13mm (inferior to superior) x 9mm (superficial to deep).  Distance from margins is as follows:  deep margin 3mm, superior superficial 17mm, and well clear of medial, lateral and inferior margins.  There is an ill defined firm area at 5 o'clock position 50mm from the nipple which measures 8mm (medial to lateral) x 6mm (inferior to superior) x 6mm (superficial to deep).  Superficial margin is 4mm away, the deep margin is 10mm away and is well clear of the medial and lateral margin.  
+Blocks: 1 to 4 - tumour in two slices to skin, superficial, deep and superior margins; 5 - tissue medial to tumour; 6 - tissue lateral to tumour; 7 to 9 - representative area of firm and ?calcification; 10 & 11 - representative in inner upper quadrant; 12 & 13 - representative inner lower quadrant; 14 & 15 - representative outer lower quadrant; 16 & 17 - representative outer upper quadrant; 18 - nipple and tissue deep to nipple (additional block 18is approximately 30mm from block 3).; 19 - tumour reserve block.  Additional blocks 23/2/62: 20 nipple - opposite face 18; 21 & 22 parallel slices medial to nipple;23 &24 parallel slices lateral to nipple; 25 deep margin deep to nipple. Please refer to attached diagram.   
+  
+C.  Specimen labelled "Left axillary tail left breast" consists of an unorientated piece of fatty tissue 30 x 30 x 10mm. No suspicious areas or lymph nodes are identified.AE 2 blocks.  (TO: HG; TO/ta  21/2/62) 
+  
+MICROSCOPIC (Reported by Dr P Berta): 
+A-C.  Sections show three separate invasive carcinomas.  The main carcinoma at 1-2 o'clock 45mm FN is a grade 2 infiltrating lobular carcinoma (tumour 1).  A separate grade 2 infiltrating lobular carcinoma (tumour 2) is present around the large  subareolar ducts of the nipple and is approximately 30mm from the main carcinoma.  An incidental 2.3mm grade 1 infiltrating tubular carcinoma (tumour 3) is present about 2mm deep to tumour 2.  
+Paraffin sections of the single sentinel lymph node show a minute cluster of tumour cells with occasional intracytoplasmic lumina within the subcapsular sinus measuring <0.1mm in maximum dimension (detected on an H&E stained section, block A1L2). This particular area has cut out on deeper levels examined with H&E and keratin immunostains, however, in adjacent tissue in the same cross section keratin immunostained sections reveal further dispersed single tumour cells within the subcapsular sinus distributed over an area of 4mm.  The total number of tumour cellsin this cross section, both H&E and keratin immunostain detected number less than 200 cells and is consistent with node involvement by isolated tumour cells of lobular carcinoma.  However in a separate cross section of the sentinel lymph node, keratin immunostains reveal a further minute cluster of cohesive and single tumour cells 0.3mm in dimension as well as dispersed single cells in the subcapsular and medullary sinuses, distributed over an area of 5mm.  While an interpretation of this second separate focus of intranodal tumour cells as isolated tumour cells is possible (the 0.3mm cluster is not strictly a completely cohesive and expansile cluster and the total number of tumour cells in this crosssection number less than 200 cells), I have classified it as a micrometastasis (recognizing overlap in the definition).
+The left axillary tissue submitted (specimen C) is composed of fatty tissue only.
+A synoptic report for breast carcinoma follows.
+Invasive carcinoma:
+Multiple tumours:  Yes
+
+Tumour 1
+Site:  Left breast at 1-2 o'clock 45mm FN.
+Type:  Infiltrating lobular carcinoma (classic type).
+Invasive tumour size:  26mm (microscopic measurement)
+Grade 2 (Modified Bloom & Richardson):  2
+Tubules:  3    Nuclei:  2    Mitoses:  2    Mitotic rate:  9/10hpf
+Lymphovascular invasion:  Not seen
+
+Tumour 2
+Site:  Left breast at nipple
+Type:  Infiltrating lobular carcinoma (classic type).
+Invasive tumour size:  13mm (microscopic measurement)
+Grade 2 (Modified Bloom & Richardson):  2
+Tubules:  3    Nuclei:  2    Mitoses:  2    Mitotic rate:  11/10hpf
+Lymphovascular invasion:  Not seen
+
+Tumour 3
+Site:  Left breast subjacent tonipple
+Type:  Infiltrating tubular carcinoma
+Invasive tumour size:  2.3mm (microscopic measurement)
+Grade  (Modified Bloom & Richardson):  1
+Tubules:  1    Nuclei:  1    Mitoses:  1    Mitotic rate:  0/10hpf
+Lymphovascular invasion:  Not seen
+
+DCIS component:  
+DCIS:  Present within confines of tumour 1 (BlockB3)
+Maximum extent of DCIS:  1.5mm
+Nuclear grade:  Intermediate
+Architecture:  Cribriform
+Necrosis:  Absent
+Calcification:  Absent
+Degree of DCIS in tumour:  Minimal
+DCIS in adjacent tissue:  Not seen
+Excision Margins:  
+Tumour 1
+Invasive component:
+Deep: 0.6mm (block B19 FF)
+Superficial: 7mm (block B4)
+Superior, inferior, medial, lateral:  Well clear >10mm
+In-situ component (DCIS): N/A (within confines of invasive tumour).
+
+Tumour 2
+Invasive component:
+Superficial: 2.5mm (block B20)
+Other margins:  Well clear >10mm
+Tumour 3
+Invasive component:
+All margins well clear >10mm.
+Tumour 1
+Receptors (Block B1): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive 
+	95% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  Negative (1+)
+Ki-67 index:  Heterogenous pattern of staining but approximately 25% in the most proliferative areas.
+Tumour 2
+Receptors (Block B20): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  
+PR:  Positive 
+	90% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  Negative (1+)
+Ki-67 index:  Heterogenous pattern of staining but approximately 25% in the most proliferative areas.
+Tumour 3
+Receptors(Block B20): 
+ER:  Positive
+	90% of nuclei stained
+	predominant intensity of staining:  Moderate
+PR:  Positive 
+	90% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  Negative (1+)
+Ki-67 index:  Approximately 5%
+Nipple:  Tumour 2 (grade 2 infiltrating lobular carcinoma) is located in the subepithelial stromaof the nipple around the large subareolar ducts. No Pagetoid involvement of the ducts is seen.  A rare basal large intraepithelial cell is identified well clear of the margins. No lymphovascular invasion is seen. Additional immunostains for assessment of Paget's disease will be performed and a supplement report issued.
+
+LCIS / ALH:  Present both within the confines of tumours 1 and 2, and in adjacent lobules
+Miscellaneous:  Theremaining breast tissue shows foci of stromal fibrosclerosis, apocrine metaplasia, columnar cell change and columnar cell hyperplasia with cytological atypia (block 20), the latter in a lobules immediately adjacent to tumour 3 (tubular carcinoma).  The firm area described grossly corresponds to lobules showing some stromal fibrosclerosis. Rare foci of benign glandular calcification are present.
+Sentinel lymph node(s): (see text above)
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  1 (micrometastasis)      
+Number of sentinel nodes with metastases >2.0mm:  0
+Number of sentinel nodes with metastases <2.0mm:  1  
+	Detected by: 0.3mm cluster detected by immunohistochemistry 
+Number of sentinel nodes with isolated tumour cells <0.2mm:  1 (in separate cross section)
+	Detected by:  H & E and immunohistochemistry (i+ and i-)
+Extranodal spread:  Not seen
+Axillary/other nodes:
+Number ofaxillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  1 (micrometastasis).
+SUMMARY:
+A-C:  Left axillary sentinel lymph node, left mastectomy and left axillary tissue:
+-  Three separate infiltrating carcinomas.
+-  Tumour 1 -  26mm infiltrating lobular carcinoma; margins not involved (closest margin deep 0.6mm); ER positive, PR positive, HER2 negative (SISH to follow).
+-  Tumour 2 - 13mm infiltrating lobular carcinoma; margins not involved (closest margin superficial 2.5mm); ER positive, PRpositive, HER2 negative.
+-  Tumour 3 -  2.2mm infiltrating tubular carcinoma; margins not involved (well clear >10mm); ER positive, PR positive, HER2 negative.
+-  One sentinel lymph node involved by metastatic lobular carcinoma (0.3mm    micrometastasis and isolated tumour cells; see text).
+-   No lymph nodes identified in left axillary tissue (specimen C).
+-   Pathological stage pT2(m)N1(snmi), Stage 2B (AJCC 7TH Edition 2010).
+Supplementary report to follow with results of HER2 SISH and immunohistochemical assessment for Pagetdisease.
+
+
+	SUPPLEMENTARY REPORT 1 (25/3/63)(Reported by Dr P Armbrester)
+Within the epidermis of the nipple, overlying tumour 2, there are scattered medium to large  intraepithelial cells with round to oval regular nuclei and minimal cytoplasm (Blosk B21). No cell clusters or intracytoplasmic lumina are seen The dPAS stain for mucin is negative.  The cells show positive expression with CK7 and ER immunostains.  The cells are negative for Melan A, CD138 and HER2 (1+).  The appearances favour benign Toker cells over Paget's disease. The cells are 9mm clear of the closest cutaneous margin.
+				SUPPLEMENTARY REPORT 2 (25/3/63)
+Tissue was sent to QUIRINDI COMMUNITY HOSPITAL Hospital for HER2 SISH studies. Dr P Keeler reports as follows:
+				
+Source of material:   American Electric Power, NOARLUNGA HEALTH SERVICE, Dr P Kees
+Material received:   4 slides 55H00407 blocks B1, and B20
+Clinical notes: 3 separate invasive carcinomas x2 lobular x1 tubular.
+ 
+HER2 IHC Result: 1+.
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE (all tumours nonamplified, diploid)
+
+Block B1 (lobular ca)
+Mean HER2 copy number per cell: 1.85 
+Mean CEP17 copy number per cell: 1.7
+HER2/CEPI7 Ratio: 1.08
+Block B20 (lobular Ca)
+Mean HER2 copy number per cell: 1.77 
+Mean CEP17 copy number per cell: 1.82 
+HER2/CEPI7 Ratio: 0.97
+Tubular Ca
+Mean HER2 copy number per cell: 1.95 
+Mean CEP17 copy number per cell: 2.05
+HER2/CEP17 Ratio: 0.95
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP 17<1.8
+Equivocal:  HER2/CEP 17 +1.8-2.2
+Positive:  HER2/CEP17>2.2
+Reported by: Dr P Cran
+Date: 18/3/63                    
+ 
+
+

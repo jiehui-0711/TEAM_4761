@@ -1,0 +1,66 @@
+
+Episode No:  27K592640Y
+2745926.KAY
+
+DEMATOS, NORBERT 
+Lab No:  27K59264
+Lindenbrook
+SURFSIDE  VIC  4601
+Specimen: Tissue
+D.O.B:  17/1/1986
+Sex:  F
+Collected: 14/11/2013 at 13:09
+Location:  WEST-GUNNEDAH DISTRICT HOSPITAL
+DR RAMON MALIK DEWITT-CAMERENA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left sentinel node.  Left total mastectomy.  Cancer at 12 o'clock elliptical incision.  Specimen marked short suture superior, long suture lateral.
+(27K59264 - Invasive carcinoma, Her-2 negative, ER+, PR+.)
+MACROSCOPIC:
+A.  Specimen labelled "Left sentinel node", consists of two lymph nodes measuring 20 x 15 x 10mm and 6 x 3 x 3mm.  Imprints taken for H & E and pap.
+Blocks: 1 - lymph node one; 2 - lymph node two.  
+
+IMPRINT CYTOLOGY REPORT:
+Negative.
+Phone results to Registrar by Dr G Walthour at 14:30on 14.11.13.
+B.  Specimen labelled "Left breast", consists of a mastectomy specimen without axilla short stitch superior long stitch lateral.  It weight 601g and measures 290mm (medial to lateral) 170mm (superior to inferior) 40mm (superficial to deep).  Ellipse of skin measuring 175 x 65mm, is noted containing nipple areola complex.  Nipple measures 12mm in diameter.   Skin surface is unremarkable.  Superficial margin inked blue, deep margin inked black.  At the junction of upper outer and upper inner quadrant (12 o'clock) a well circumscribed pale firm tumour measuring 12 x 17 x 22mm, is noted.  It measures 8mm (deep margin) 22mm (supero/superficial margin) 85mm (infero/superficial).  The remainder of the breast tissue is fatty.  No lymph nodes identified within the lateral aspect of the specimen.  
+Blocks: 1 and 2 - paired section of tumour with deep and supero/superficial margin; 3 and 4 - paired section of tumour within deep margin; 5 - section of tumour within deep margin; 6 - breast tissue medial to tumour; 7 - breast tissue lateral to tumour; 8 - section of nipple; 9 - representative section upper inner quadrant within deep margin; 10 - representative section lower inner quadrant without margin; 11 - representative section upper outer quadrant within superficial margin; 12 - representative section lower outer quadrant within superficial margin.
+(TO: FV;CE/vo 17.1.63) 
+MICROSCOPIC (Reported by Dr G Manross):
+A.  Sections show metastatic carcinoma which partly involves one of the nodes and shows prominent perinodal infiltration.  There is dense fibrous stroma in the background.  The smaller node is uninvolved.
+B.  Sections show a grade 1 infiltrating carcinoma of the breast, Bloom and Richardson score 5 (t=2, n=2, m=1).  The mitotic count is estimated at about 3/10 HPF.  The tumour measures 12mm (medial to lateral) x 17mm (superior to inferior) x 22mm (superficial to deep) and is located at 12 o'clock.  The tumour is 3mm from the deep margin and other margins are well clear.  The carcinoma is of ductal type but in many areas has a lobular-like growth pattern.  However the E-Cadherin stains both patterns strongly.  
+There is a minimal amount of low grade DCIS within the tumour but not outside of it.  The nipple and areola appear normal, and random sections from the various quadrants show atrophic changes only.
+DIAGNOSIS:
+L mastectomy plus left sentinel node:
+Invasive carcinoma:
+Site: Left breast Mastectomy
+Type: Infiltrating ductal carcinoma
+Invasive tumour size: 12 x 17 x 22mm
+Grade 1 (Modified Bloom & Richardson):
+Tubules:  2  Nuclei:  2  Mitoses:  1  Mitotic rate:  3/10hpf.
+Lymphovascular invasion:  absent
+	    
+DCIS component:  
+DCIS:  present
+Maximum extent of DCIS:  less than infiltrating carcinoma (minimal low grade DCIS within the tumour).
+Nuclear grade:  low
+Architecture: cribriform
+Degree of DCIS in tumour:  <25%
+DCIS in adjacent tissue:  none
+Excision Margins:  
+Invasive component: deep 3mm, other margins well clear
+Receptors: see previous reports (27K59264, 27K59264)
+Nipple:  Normal
+LCIS / ALH:    Absent
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel nodes involved by tumour:  1
+Number of sentinel nodes with metastases >2.0mm:  1
+Extranodal spread: present - 8mm in extent
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)): 1
+

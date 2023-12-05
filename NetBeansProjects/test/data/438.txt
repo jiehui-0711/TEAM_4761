@@ -1,0 +1,53 @@
+Episode No:  74U775711S
+7477757.CES
+
+LEPS, ASHLEE SHAKITA 
+Lab No:  74U77571
+Blackinton
+CANBERRA  NT6050
+Specimen: Tissue
+D.O.B:  28/4/1991
+Sex:  F
+Collected: 21/05/2013 at 17:32
+Location:  DICKINSON 3 SOUTH - TEXAS HOSPITAL MULTIPURPOSE HEALTH SERVICE
+DR VADA ZYLAH BUBOLZ
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Interval debulking for metastatic ovarian cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, both tubes and ovaries" consists of a uterus with attached cervix bilateral fallopian tubes and ovaries weighing 67g in total.  The uterus measures 50 x 25 x 35mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 35mm and has an unremarkable surface.  On sectioning the endometrium is <1mm in maximal thickness and the myometrium is 12mm in maximal thickness.  The myometrium is unremarkable.  The right fallopian tube measures 55x 5 x 4mm proximally, the distal 30mm the tube appears to be dilated with a width of 13 x 10mm.  On sectioning the dilated portion of the tube is filled with cream material.  The right ovary measures 30 x 10 x 8mm and has a macroscopically normal appearance.  On sectioning the ovary is unremarkable.  The left fallopian tube measures 50 x 5 x 5mm and has an unremarkable appearance.  The left ovary measures 25 x 10 x 5mm and has a macroscopically normal appearance.  On sectioning the left ovary is unremarkable.  
+Blocks:  1 to 3 - full longitudinal section of anterior body and cervix; 4 & 5 - full longitudinal section of posterior body and cervix; 6 - fimbrial end of right fallopian tube; 7 & 8 - two TS with dilated portion of the right fallopian tube; 9 & 10 - right ovary AE; 11 - TS of the fimbrial end of the left fallopian tube; 12 & 13 - left ovary AE.
+B.  Specimen labelled "Omentum" consists of adipose tissue measuring 250 x 210 x 15mm.  The tissue contains several thickened cream/tan areas which constitute approximately 60% of the specimen.  Representative sections in 3 blocks.  
+C.  Specimen labelled "Caecal lesion" consists of adipose tissue measuring 25 x 20 x 5mm with an attached tan nodule measuring 8 x 8 x 3mm.  AE 1 block.
+D.  Specimen labelled "Right uterosacral ligament nodule" consists of fibroadipose tissue measuring 25 x 20 x 8mm.  AE 1 block.
+E.  Specimen labelled "Bladder peritoneal nodule" consists of cream membranous material measuring 25 x 15 x 3mm.  TAE 1 block.  
+F.  Specimen labelled "Terminal ileum mesenteric nodule" consists of four pieces of adipose tissue 3 to 12mm.  AE 1 block.  
+G.  Specimen labelled "Appendix" consists of an appendix measuring 50 x 13 x 10mm.  The serosal surface is unremarkable.  The lumen is filled with faecal material.  Block 1- 2LS proximal one third; block 2-2 representative TS middle one third; block 3- 2LS distal one third.  
+H.  Specimen labelled "Abdominal aortic peritoneum" consistsof fibroadipose tissue 25 x 10 x 3mm.  AE 1 block.  
+I.  Specimen labelled "Para-aortic lymph node" consists of fibroadipose tissue measuring 60 x 15 x 10mm.  Multiple lymph nodes are identified.  AE 2 blocks.  
+(TX/mm 24.7.63) 
+MICROSCOPIC (reported by Dr S Prescod):
+A.  Sections show poorly differentiated serous adenocarcinoma arising from the lumen of the right fallopian tube.  Serous adenocarcinoma is also seen on the surface of both the left and right ovaries and the uterine serosa.  The left fallopian tube as well as the ectocervix and endocervix show no significant abnormality.  The endometrium is atrophic.  
+- F.  Sections show deposits of serous adenocarcinoma. 
+G.  Sections show deposits of serous adenocarcinoma within the mesoappendix.  The appendix otherwise shows no significant abnormality. 
+H.  Sections show deposits of serous adenocarcinoma. 
+I.  Four (4) of the nine (9) lymph nodes identified show metastatic serous adenocarcinoma.  No extranodal spread is seen.  
+DIAGNOSIS:  
+A - I.  Uterus, cervix, bilateral fallopian tubes and ovaries, omentum, peritoneal biopsies, appendix and para-aortic lymph nodes: 
+-   Poorly differentiated serous adenocarcinoma arising from the right fallopian tube.
+-   Serous adenocarcinoma also involving surface of both ovaries, uterine serosa, 
+    omentum, caecum, right uterosacral ligament, bladder peritoneum, terminal ileum, 
+    mesentery, mesoappendix and abdominal aortic peritoneum. 
+-   Four lymph nodes show metastatic serous adenocarcinoma.   
+ADDITIONAL REPORT (27/1/63):
+
+Immunoperoxidase stains for MSI proteins (Block: B1)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

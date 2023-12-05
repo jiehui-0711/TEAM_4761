@@ -1,0 +1,113 @@
+SPR no: 34F1702778
+MRN no: 342170
+Site_name: FRANKSTON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report34F17027 (34F1702778) MCELVAIN, DELILA DIAMOND
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Ca ovary post chemotherapy.
+
+1.  Uterus, tubes and ovaries.
+2.  Omentum.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, OVARIES + TUBES&amp;quot;.  Uterus with attached cervix, bilateral tubes and ovaries.  It weighs 90.6g.  Anterior is inked blue, posterior black.  The uterus with attached cervix measures 74mm superior to inferior, 45mm intercornual distance.  Ectocervix is 20x20mm with a slit-like os 10mm.  It is cream coloured and unremarkable.  Anterior endomyometrium measures 15mm, posterior endomyometrium measures 20mm.  The serosal surface is smooth.  The endometrium is less than 1mm thick.  Within the uterine cavity is a possible polyp.  It measures 6mm maximum dimension and is attached to the posterior endomyometrium.  On sectioning through the myometrium, there are multiple nodules with pale white whorled cut surface consistent fibroids varying from 5 to 20mm.  They are located within the submucosal and intramural regions.
+
+(1  anterior and posterior cervix; 2  anterior endomyometrium; 3&amp;amp;4  posterior endomyometrium including possible endometrial polyp; 5&amp;amp;6  nodule consistent with fibroids [6  shows submucosal fibroid]).
+
+The right ovary and fallopian tube, together weigh 10g.  Fallopian tube measures 45mm in length with a maximum diameter of 8mm.  Ovary measures 30x20x15mm.  The serosal surfaces are smooth.  On sectioning through the ovary, there is a lesion with a mucinous cut surface.  It measures 20x20x12mm.  Entire lesion embedded.
+
+(7  RS right fallopian tube; 8-10  ovarian lesion; 11  sections of normal appearing ovarian tissue).
+
+The left ovary and fallopian tube together weigh 10g.  Fallopian tube measures 45mm in length with a maximum diameter of 8mm.  Ovary is 30x15x10mm.  The fallopian tube shows a paratubal cyst measuring 4mm.  On the ovarian serosa is a papillary-like lesion, measuring 8mm maximum dimension.  On sectioning through the left ovary, it has a firm normal-appearing cut surface.  Entire ovary is embedded.
+
+(12  left fallopian tube; 13-15  entire left ovary [13  showing papillary-like area on the serosa]).  RS (M-15).
+
+B.  &amp;quot;OMENTUM&amp;quot;.  A piece of fatty tissue.  It measures 220x60x10mm.  On palpation, it feels firm.  On sectioning, the cut surface reveals firm areas with a pale white to fatty appearance.
+
+(1-4  representative sections for firm area).  RS (M-4/MC 16/9/2067 km).
+
+
+MICROSCOPIC:   (Dr. J. Ezpeleta)
+A.
+RIGHT OVARY: Involved
+
+Histological type:
+- High-grade serous carcinoma with adenofibromatous component with chemotherapeutic effect.
+
+Histological Grade: G3
+
+Nuclear Grade: G3
+
+Lymphatic invasion: Absent
+
+Blood vessel invasion: Absent
+
+Capsular extension: Absent
+
+Direct extraovarian extension: Not seen
+
+LEFT OVARY: Involved
+
+Histological type and proportions:
+- Surface high-grade papillary serous carcinoma with chemotherapeutic effect.
+
+Histological Grade: G3
+
+Nuclear Grade: G3
+
+Lymphatic Invasion: Absent
+
+Blood vessel invasion: Absent
+
+Capsular extension: Present
+
+Direct extraovarian extension: Not seen
+
+RIGHT FALLOPIAN TUBE:
+Focal deposit of high-grade serous carcinoma with chemotherapeutic effect.
+
+LEFT FALLOPIAN TUBE:
+Fimbrial end involved by high-grade serous carcinoma with chemotherapeutic effect.
+
+UTERUS:
+Endometrium: Cystic atrophic changes.
+
+Myometrium: Not involved (benign leiomyoma)
+
+Cervix: Not involved
+
+B.
+OMENTUM:
+Involved by high-grade serous carcinoma with chemotherapeutic effect (chemotherapy response score (CRS) 2).
+
+DIAGNOSIS:
+RIGHT OVARY:
+- HIGH-GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT.
+
+RIGHT FALLOPIAN TUBE:
+- FOCAL INVOLVEMENT BY HIGH-GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT.
+
+LEFT OVARY:
+- SURFACE HIGH-GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT.
+
+LEFT FALLOPIAN TUBE:
+- INVOLVED BY HIGH-GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT.
+
+CERVIX:
+- NO SIGNIFICANT ABNORMALITY.
+
+ENDOMETRIUM:
+- CYSTIC ATROPHY.
+
+MYOMETRIUM:
+- BENIGN LEIOMYOMAS.
+
+OMENTUM:
+- DEPOSITS OF HIGH-GRADE SEROUS CARCINOMA WITH CHEMOTHERAPEUTIC EFFECT.
+- CHEMOTHERAPY RESPONSE SCORE 2.
+
+20/9/2067 cy

@@ -1,0 +1,135 @@
+SPR no: 32N110089E
+MRN no: 3251100
+Site_name: BARWON HEALTH - ASHLEY MANOR CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Bilateral mastectomies for bilateral breast cancer.  Bilateral breast cancer treated with neoadjuvant chemotherapy.  Triple negative.  Thoracotomy 2045.  Non Hodgkin&amp;apos;s lymphoma 2046 treated with chemo and radiotherapy.  Seven specimens received, due to ambiguity in stated suture positions versus diagrams supplied, Kamilaroi JESSEL, surgical fellow, was requested to clarify orientation.  For specimen C, the stitch designates the medial end.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Sentinel node right axilla&amp;quot;, consists of a fibrofatty piece of tissue, 15 x 10 x 8mm.  A lymph node measuring 15mm is found.  Blocks: 1 - lymph node in five pieces; 2 - fatty tissue.  AE.
+
+B.  Specimen labelled &amp;quot;Left axilla sentinel node&amp;quot;, consists of fibrofatty tissue, 30 x 23 x 10mm.  A 13mm lymph node is found.  Blocks: 1 - lymph node quadrisected; 2 - fatty tissue.  AE.
+
+C.  Specimen labelled &amp;quot;Right breast&amp;quot;, consists of a mastectomy weighing 580g and measuring 195 x 140 x 46mm.  The unremarkable ellipse of skin measures 170 x 68mm and the nipple which appears retracted measures 11 x 11mm.  Inking superior red, inferior blue, deep black.  Specimen is serially sliced from medial to lateral into ten slices.  A lesion is identified at 9 o&amp;apos;clock 3cm from nipple measuring 15 x 14 x 13mm.  It is well demarcated and grey and is more than 20mm from all margins except from the deep margin (6mm away).  Breast markers on C2.
+Blocks: 1 - nipple; 2 - tumour slice six; 3 - tumour slice seven; 4 - tissue medial to tumour; 5 - tissue lateral to tumour as well as lower outer quadrant; 6 - lower inner quadrant; 7 - upper inner quadrant; 8 - nodule; 9 - upper outer quadrant.
+
+D.  Specimen labelled &amp;quot;Left breast marking suture 12 o&amp;apos;clock superior&amp;quot;, consists of a mastectomy weighing 600g and measuring 185 x 165 x 40mm.  The ellipse of skin measures 180 x 73mm and the nipple which appears retracted measures 10 x 8mm.  A double stitch at one edge of the ellipse of skin is designated superior 12 o&amp;apos;clock.  Inking superior blue, inferior red, deep black and orange around a looped suture (marking the site of additional 12 o&amp;apos;clock margin).  The specimen is serially sliced into ten slices.  Cut surfaces appear mostly fatty yellow with diffuse fibrous tan areas.  A lumpy firm area is palpated from 11 to 12 o&amp;apos;clock 4cm from the nipple measuring approximately 20 x 20 x 15mm.  It is more than 10mm from all margins.  The lumpy area does not show any well defined lesion but appears variously grey, tan and dark yellow.  Blocks: 1 - nipple; 2 to 5 - full face lumpy area slice four; 6 to 8 - full face lumpy area slice five; 9 - lumpy area slice six; 10 - lower outer quadrant; 11 to 13 - tissue immediately lateral to lumpy area slice three; 14 - upper inner quadrant; 15 - lower inner quadrant. See block diagram.  No breast markers ordered.
+
+E.  Specimen labelled &amp;quot;New 12 o&amp;apos;clock margin left breast&amp;quot;, consists of fibrofatty tissue 53 x 35 x 13mm.  On one side there is a stitch designating the new superficial margin.  The new superficial margin is inked blue and the opposite surface is inked black.  Specimen is serially sliced.  No lesions are identified.  Blocks: 1 to 8 - including all of specimen.
+
+F.  Specimen labelled &amp;quot;New inferior margin left breast&amp;quot;, consists of fibrofatty tissue 105 x 35 x 18mm.  A stitch on one surface designates the new inferior margin.  Inking the new inferior margin blue and the opposite surface black.  Specimen is serially sliced.  Cut surfaces appear fatty yellow.  No lesion is identified.  Blocks: 1 to 10 - alternate sections (block 1 - one TS 3 o&amp;apos;clock end; 2 - one TS bisected; 3 and 4 - one TS bisected; 5 and 6 - one TS bisected each; 7 to 9 - one TS each; 10 - one TS 9 o&amp;apos;clock end.
+
+G.  Specimen labelled &amp;quot;Left axilla tissue&amp;quot;, consists of a fibrofatty piece of tissue 40 x 33 x 12mm.  A 12mm lymph node is identified.  Blocks: 1 - one lymph node trisected; 2 and 3 - remaining fatty tissue.  AE.  (TO:NH/rs 17/8/67)
+
+
+MICROSCOPIC (Reported by Dr J Tomaselli):
+A &amp;amp; C.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  15mm
+Grade (Modified Bloom &amp;amp; Richardson):  3
+Tubules: 3     Nuclei: 3     Mitoses: 3     Mitotic rate: 39/10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Absent
+
+Excision Margins:
+Invasive component:  The invasive carcinoma is 5mm to the deep margin (block C3).  The other margins are well clear.
+
+In-situ component:  Not applicable.
+
+Receptors (Block C2):
+ER:  Negative
+PR:  Nagative
+HER2 (Novocastra 10A7):  Negative (0 staining)
+HER SISH:  Not performed, please see prior report
+Ki-67 index:  40%
+
+Nipple:  Unremarkable
+
+LCIS / ALH:  Absent
+
+Miscellaneous:
+- The rest of right breast is unremarkable except focal fibrocystic change.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+
+Chemotherapy Reponse Score (CRS)
+Score 2: Partial tumour response (regression associated fibro-inflammatory changes with readily identifiable viable tumour).
+
+B, D to G.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  10mm (microscopic measurement)
+Grade (Modified Bloom &amp;amp; Richardson):  2
+Tubules: 3     Nuclei: 2     Mitoses: 1     Mitotic rate: 2/10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  3mm
+Nuclear grade:  Intermediate
+Architecture:  Crifbriform
+Necrosis:  Present
+Calcification:  Absent
+Degree of DCIS in tumour:  Less than 10%
+DCIS in adjacent tissue:  Absent
+
+Excision Margins:
+Invasive component:  The invasive carcinoma is 13mm to the deep margin (block D7).  The other margins are well clear.
+
+In-situ component:  The DCIS is 11mm to the deep margin (block D7).  The other margins are well clear.
+
+Receptors (Block D7)):
+ER:  Weakly positive
+2% of nuclei stained
+predominant intensity of staining:  weak
+PR:  Negative
+HER2 (Novocastra 10A7):  Negative (0 staining)
+HER SISH:  Not performed, please see prior report
+Ki-67 index:  Less than 5%
+
+Nipple:  Unremarkable
+
+LCIS / ALH:  Absent
+
+Miscellaneous:
+- Specimen E (new 12 o&amp;apos;clock margin left breast) show normal breast tissue with no significant abnormality.  There is no evidence of malignancy.
+- Specimen F (new inferior margin left breast) show normal breast tissue with no significant abnormality.  There is no evidence of malignancy.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  1
+Number of axillary lymph nodes involved by tumour:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2
+Total number of involved lymph nodes (including sentinel node(s)):  0
+
+Chemotherapy Reponse Score (CRS)
+Score 2: Partial tumour response (regression associated fibro-inflammatory changes with readily identifiable viable tumour).
+DIAGNOSIS:
+A.  Sentinel node right axilla - No evidence of malignancy (0/1).
+B.  Left axilla sentinel node - No evidence of malignancy (0/1).
+C.  Right breast - Invasive ductal carcinoma (15mm, grade 3)
+D.  Left breast - Invasive ductal carcinoma (10mm, grade 2).
+E.  New 12 o&amp;apos;clock margin left breast - No significant abnormality.
+F.  New inferior margin left breast - No significant abnormality.
+G.  Left axilla tissue - No evidence of malignancy (0/1).

@@ -1,0 +1,27 @@
+SPR no: 98W262029M
+MRN no: 5902640
+Site_name: ESPERANCE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left gluteal tumour.  ?Sarcoma.  Previous renal cancer and rectal cancer.  Excision of tumour.  Stitch marks 12 o&amp;apos;clock.  Further excision of muscle lateral margin.
+Additional information:  Previous pathology (GOLF LINKS ROAD REHABILITATION CENTRE&amp;apos;s Pathology SP14-11863 ) - Clear cell renal cell carcinoma, grade 2, left kidney.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Wide excision left buttock tumour stitch at 12 o&amp;apos;clock&amp;quot;, consists of an oriented piece of soft tissue weighing 195 grams and measuring 105mm 12 to 6 o&amp;apos;clock, 65mm 3 to 9 o&amp;apos;clock and 78mm deep.  On the superficial aspect there is an unremarkable ellipse of skin measuring 82 x 22mm.  The specimen is inked 3 o&amp;apos;clock half blue and 9 o&amp;apos;clock half red and deep black.  Tissue is sliced from 12 to 6 o&amp;apos;clock and demonstrates a lobulated well demarcated pale fleshy tumour abutting and infiltrating/arising from the deep skeletal muscle.  This tumour measures 60 x 55 x 45mm and is seen 2mm from the nearest deep margin, 4mm from the nearest 9 o&amp;apos;clock margin and 8mm from the nearest 3 o&amp;apos;clock margin.  The tumour shows central haemorrhagic areas and necrosis.  The 12 and 6 o&amp;apos;clock margins appear clear of tumour by at least 10mm.  Blocks: 1 and 2 - LS through 12 o&amp;apos;clock soft tissue margin; 3 to 5 - composite section of full face of tumour with close peripheral margins; 7 - further section with closest deep margin; 8 - closest section with 9 o&amp;apos;clock margin; 9 and 10 - 3 o&amp;apos;clock margin; 11 and 12 - LS 6 o&amp;apos;clock margin; 13 - reserved block for tumour banking.
+
+B.  Specimen labelled &amp;quot;Muscle from lateral margin&amp;quot;, consists of multiple unoriented piece of muscle measuring 45 x 30 x 10mm in aggregate.  Each piece serially sliced and AE 4 blocks.
+(TO:AP/vo 6/7/69)
+
+
+MICROSCOPIC (Reported by Dr X Tentler &amp;amp; registrar Dr X Oberly):
+A.  Sections show a circumscribed, unencapsulated tumour with a pushing border situated within deep soft tissue and skeletal muscle.  The tumour is comprised of short intersecting fascicles of pleomorphic spindled cells with eosinophilic cytoplasm, tapered to blunted nuclei with coarse chromatin and prominent nucleoli.  In areas the tumour cells are more epithelioid, with eccentrically located nuclei and densely eosinophilic cytoplasm.  Bizarre and multinucleated tumour cells are conspicuous throughout the tumour.  Mitoses are abundant, and seen at up to 54 mitoses per 10hpf.  There are scattered hypocellular areas with tumour cells separated by a loose myxoid matrix.  Focal regions of tumoural necrosis comprising less than 5% of tumour volume are present.
+The tumour cells show positive staining with vimentin.  There is patchy weak to moderate staining with SMA.  There is patchy weak staining with p63 and AE1/3.  The PanCK, cam5.2, CKHMW, CK5/6, CK7, CK20, EMA, PAX8, CD31, CD34, c-KIT, S100, SOX-10, HMB45, Melan A, CDX2, desmin and myogenin stains are negative.  The Ki67 index reaches 50%.  Markers of microsatellite instability (MLH1, PMS2, MSH2, MSH6) are retained, as is INI-1 expression.
+The features are that of a high grade sarcomatoid tumour favouring a pleomorphic undifferentiated sarcoma.
+Excision appears complete with the 9 o&amp;apos;clock margin 2mm clear, the 3 o&amp;apos;clock margin 5mm clear and the 6 and 12 o&amp;apos;clock margins well clear.  The deep margin is 2mm clear of tumour.
+
+B.  Sections of skeletal muscle and adipose tissue show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Left buttock:  Favour pleomorphic undifferentiated sarcoma, excision appears complete.
+B.  Lateral margin:  No significant abnormality.

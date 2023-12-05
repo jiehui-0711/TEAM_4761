@@ -1,0 +1,36 @@
+SPR no: 69T014985S
+MRN no: 697014
+Site_name: NERINGAH HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+66 year old female.  Grade 2 endometrial cancer.
+Additional:  No obvious tumour seen macroscopically - no research sample taken (NL).
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, tubes, ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries, 41g in total.  The uterus measures 80 x 45 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 28 x 28mm and has an unremarkable surface.  The anterior cervical margin is inked green and the posterior cervical margin is inked black.  On sectioning, the endometrium measures 3mm in maximum thickness.   The thickened area includes tumour measuring roughly 18 x 9mm in area.  The tumour appears to extend to maximum depth of 4mm.  The myometrium measures 16mm in maximum thickness.  The left ovary, 14 x 12 x 5mm, has an unremarkable cut surface.  The left fallopian tube, 42 x 3 x 3mm, is unremarkable.  The right ovary, 15 x 12 x 8mm has an unremarkable cut surface. The right fallopian tube, 40 x 4 x 3mm, is unremarkable.
+Blocks: 1 and 2 - composite mid line LS anterior uterus and cervix; 3 and 4- LS anterior uterus; 5 and 6 - composite midline LS posterior uterus and cervix; 7 to 9 - LS posterior uterus; 10 - complete left ovary; 11 - LS complete fimbrial end left fallopian tube, and mid TS; 12 - complete right ovary; 13 - LS complete fimbrial end right fallopian tube, and mid TS; Reselect blocks - 14-16 LS remaining anterior endometrium; 17 &amp;amp; 18 - LS remaining posterior endometrium. All endometrium embedded.
+
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omental tissue, 45 x 30 x 20mm.  On thin sectioning, no masses or lymph nodes are identified.  RS in 3 blocks.  (TO: JB;JB/vo 24.10.66)
+
+
+MICROSCOPIC (Reported by Dr R Ochsenbein):
+A. Sections show endometrioid adenocarcinoma, grade 2, confined to the endometrium. The lesion is composed of complex back-to-back glands. In some areas, there are tumour cells with enlarged, pleomorphic, vesicular nuclei and prominent nucleoli, consistent with severe (grade 3) nuclear atypia. Focal squamous morule formation is present. No significant solid component is seen, consistent with an overall grade of 2. No lymphovascular invasion is identified.
+
+The uninvolved endometrium is inactive.
+The cervix shows no evidence of HPV effect or CIN.
+The fallopian tubes and ovaries are unremarkable.
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B. Sections show omental fat with no evidence of malignancy.
+DIAGNOSIS
+A. Uterus and cervix, fallopian tubes and ovaries: endometrioid adenocarcinoma, grade 2, confined to the endometrium
+B. Omentum: no evidence of malignancy

@@ -1,0 +1,28 @@
+SPR no: 90U927905M
+MRN no: 1144453
+Site_name: BODDINGTON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Hight grade dysplasia of GB on cholecystectomy.  Cystic duct stump frozen section.  Right hemihepatectomy  performed following previous laparoscopic cholecystectomy which revealed high grade dysplasia + focal well differentiated adenocarcinoma.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cystic duct stump&amp;quot;, consists of a duct 5mm in length, 5mm in diameter with a suture at one end indicating the new margin.  Blocks: 1 - frozen section; 2 - remaining tissue.
+
+FROZEN SECTION REPORT:
+No dysplasia or malignancy.
+Phone result to Dr X Venezia by Dr X Elliff at 13:00hrs on 08/07/67
+
+B.  Specimen labelled &amp;quot;Right hemihepatectomy&amp;quot;, consists of a section of liver measuring 180 x 105 x 65mm and weighing 544grams.  Margin inked blue.  The specimen is serially sliced into fourteen slices.  On slice four there are two ducts opening identified.  There is a longer duct with a silk tie and also a shorter duct opening with a nylon suture.  The cut surface of the liver shows homogenous yellow colour, no focal lesion is identified macroscopically.  The capsule of the liver appears to be smooth and shiny.  No protrusion or lesion is identified macroscopically on the capsule.  Blocks: 1 to 2 - TS of long duct with silk tie; 3 to 5 - TS of short duct with nylon suture; 6 to 9 - RS of slice four with ducts; 10 and 11 - RS of slice five; 12 and 13 - RS of slice six; 14 - RS of slice seven; 15 - RS of slice eight; 16 - RS of slice nine; 17 - RS of slice ten; 18 - RS of slice eleven; 19 - RS of slice thirteen.  RS 19 blocks.  (TO:BT/vo 5/7/68)
+
+
+MICROSCOPIC: (Reported by Dr X Strohm)
+A.  Sections of cystic duct show no significant abnormality except mild inflammation and reactive change.  There is no evidence of dysplasia or malignancy.
+
+B.  The macroscopically identified shorter duct with nylon suture is the common bile duct.  The common bile duct shows chronic inflammation and reactive change.  There is no evidence of dysplasia or malignancy.  The longer duct with silk tie is an artery.  Sections of liver show no significant abnormality except mild steatosis.  No lobular inflammation is seen.  Some of the portal tracts show mild chronic inflammation.  The bile ducts within the portal tracts are unremarkable.  There is no evidence of fibrosis or cirrhosis.
+
+
+DIAGNOSIS:
+A.  Cyst duct stump - No significant abnormality.
+B.  Right hemihepatectomy - Mild steatosis.

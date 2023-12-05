@@ -1,0 +1,40 @@
+SPR no: 66P183015R
+MRN no: 66518301
+Site_name: HUON REGIONAL CARE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***ADDITIONAL REPORT: MSI MARKERS (14.11.2066)
+
+CLINICAL:
+Grade 1 endometrioid adenocarcinoma.  Sample taken for OREC study.   KT.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 72g in total.  The uterus measures 80 x 55 x 50mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 30mm and has an unremarkable surface.  On sectioning on the anterior body at the fundus is a lesion measuring 15 x 12mm. The lesion is 7mm in thickness.  The endometrium on the posterior body is  1mm in maximum thickness.The myometrium is 16mm in maximum thickness. The right fallopian tube measures 45mm with an outer diameter of 6mm.There is an attached clip on the fallopian tube. The right ovary measures 25 x 10 x 7mm.  The cut surface of the right ovary is unremarkable.  The left ovary measures 50mm in length with an outer diameter of 7mm.  There is an attached clip on the fallopian tube .  The left ovary measures 35 x 10 x 12mm.  The cut surface of the left ovary is unremarkable.
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to 7 - all of the lesion; 8 to 10 - full LS posterior body and cervix; 11 &amp;amp; 12 - RS of right adnexa (11 - fallopian tube; 12 - right ovary); 13 &amp;amp; 14 - RS of left adnexa (13 - fallopian tube; 14 - ovary).   (TO: LM; LM/ta 11/8/66)
+
+
+MICROSCOPIC: (Reported by Dr R Sillitti)
+Sections of the uterine tumour show a Grade 2 endometrioid endometrial adenocarcinoma (FIGO architecutre grade = 2; cytology grade = 1; overall = 2). The carcinoma shows very superficial uterine wall invasion, associated with a prominent inflammatory response, of 0.56mm into a uterine wall 8.0mm thick. There is no evidence of lymphovascular space invasion. No involvement of the uterine serosa, cervix or adnexal structures by carcinoma is seen. The endometrium shows background extensive complex atypical hyperplasia. There is patchy adenomyosis. The cervix, fallopian tubes and ovaries show no significant abnormality.
+Representative slides seen with Dr R Zupp.
+
+
+COMMENT:
+The previously reported endometrial currettings have been reviewed and are confirmed as showing a grade 1 endometrioid adenocarcinoma (66P18301).
+
+
+DIAGNOSIS:
+Uterus, cervix, tubes and ovaries:
+- Grade 2 endometrioid adenocarcinoma.
+- Superficial (early) myometrial invasion.
+- No evidence of cervical, uterine serosal or adnexal involvement by adenocarcinoma.
+
+Markers of microsatellite instability are being performed and a supplementary report will be issued.
+
+
+***ADDITIONAL REPORT: MSI MARKERS (14.11.2066)
+Immunoperoxidase stains for MSI proteins were performed and the results are as follows:
+MLH1		Preserved nuclear staining
+PMS2  		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Preservation of nuclear staining indicates a low risk of microsatellite instability.

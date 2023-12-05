@@ -1,0 +1,29 @@
+SPR no: 14A537447L
+MRN no: 140537
+Site_name: THE PRINCE CHARLES HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (18.4.67):
+
+CLINICAL:
+Recurrent GIST.  Greater curvature stomach.  6/12 pre-op Glivec.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Recurrent gastric GIST&amp;quot;, consists of a cystic mass with a thickened area at one edge, with a stapled margin at one edge of the thickened area.  The specimen measures 110mm x 80mm x 70mm.  The serosal surface of the mass is partly smooth but has a few fragments of adherent fatty tissue.  The cyst contains dark brown fluid and the inner lining is flat.  The cyst wall is generally around 4mm thick but in the thickened area is up to 14mm thick.  The area of thickening measures 50mm x 20mm.
+Blocks: 1 to 20 - all of the thickened area including resection margin; 21 - RS of cyst wall; 22 to 25 - cyst wall with serosal fat (TO: LM;LM/vo 5.4.67).  Re-select - 26 to 29 - further sections (NL 8.4.67).
+
+
+MICROSCOPIC (Reported by Dr E Munkberg):
+Sections of the described cyst-like structure show central necrotic debris and a lining of fibrous tissue and multi layered histiocytes, some of which are hemosiderin laden.  The cyst wall consists of fibrous and hyalinised tissue of rather low cellularity but with scattered patchy areas of moderate cellularity.  The cells in the cyst wall have spindle shaped nuclei and generally scant poorly defined cytoplasm and there is an associated mild, patchy infiltrate of histiocytes and other mixed chronic inflammatory cells.  The majority of the spindle cells stain c-kit (CD117) positive. Mitoses are very infrequent in this component.  The features are consistent with a gastrointestinal stromal tumour (GIST) showing moderate to marked treatment effect.
+Numerous sections have been examined and there is a single focus of markedly cellular tumour identified, 3mm diameter (block 20).  In this focus the cells have large atypical nuclei with one or more nucleoli and scant cytoplasm.  In this focus there are numerous mitoses, numbering up to ten per high power field.  This focus is away from excision margins and does not extend to the serosal surface, and stains c-kit positive.
+The outer surface of the mass is irregular with some patchy adherent fat.  In many of the sections there is a layer of dense, poorly cellular fibrous tissue between the treated tumour and the adherent fat.  No significant infiltrative growth of tumour into overlying fat is seen.
+Sections of the described thickened area show that this is stomach wall with overlying body type mucosa.  The mucosa is essentially unremarkable.  Dense hyalinised fibrous tissue consistent with treated tumour obliterates part of the muscularis propria and extends into submucosa, but the overlying mucosa is intact.
+A single small piece of adrenal cortex is noted within fat on the serosal surface of the mass focally (block 9); there is no tumour involvement of the adrenal cortex.
+The whole area of attached stomach mucosa and wall has been blocked.  The staples had to be removed prior to sectioning of the tumour so it is difficult to assess the adequacy of excision.  However no definite treated tumour is seen at the resection margins of the adherent stomach wall as far as these can be assessed.
+
+
+DIAGNOSIS:
+Recurrent gastric GIST:  GIST showing moderate to marked treatment effect.  Single small residual focus of cellular mitotically active tumour identified, see text.
+
+
+SUPPLEMENTARY REPORT (18.4.67):
+The proliferation index in the cellular tumour focus with a Ki-67 stain is around 20%.

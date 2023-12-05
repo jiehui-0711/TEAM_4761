@@ -1,0 +1,64 @@
+
+Episode No:  94G194927U
+9421949.FUU
+
+BOUTROS, Tad ISIDRO 
+Lab No:  94G19492
+Clarissa
+NAIRNE  New South Wales  1101
+Specimen: Tissue
+D.O.B:  7/7/2005
+Sex:  M
+Collected: 30/05/2013 at 16:00
+Location:  MOLECULAR DIAGNOSTIC ONCOLOGY-CALVARY PUBLIC HOSPITAL ACT
+DR Dhirri Errol Dettmann
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+(R) Renal tumour.  Prev percutaneous biopsy complicated by large haematoma.  CRF.  Haemodialysis (left forearm ACfistula).  H/T.  
+MACROSCOPIC:
+Specimen labelled "Right kidney" consists of a 430g nephrectomy specimen comprising the kidney (75 x 45 x 45mm), perinephric fatty tissue (up to 40mm in thickness), and a ureter (100mm long).  On sectioning there is a circumscribed tumour which appears to be based in the cortex of the kidney and is pushing into the perinephric fat.  The tumourmeasures 21 x 18 x 17mm.  It has a yellow and haemorrhagic cut surface.  The tumour is 21mm from the Gerota's fascia.  It is well clear of ureteric and renal vein margins.  There are approximately ten cysts throughout the renal parenchyma ranging from 7 to 12mm in maximum dimension.  Within perinephric fat there is a haemorrhagic area (?organising haematoma) measuring 60 x 50 x 25mm. The adrenal gland is not identified.  
+Blocks:  1- distal ureteric margin; 2 -renal vein and artery margins; 3 - section of tumour, reserved block; 4 - section of the tumour; 5 & 6 -paired sections showing tumour in relation to Gerota's fascia; 7 & 8 - sections of the cystic areas of the kidney away from tumour; 9 - representative renal sinus fat (free of tumour); 10 & 11 - representative haemorrhagic area within perinephric fat.  (QN/mm 7.3.63) 
+MICROSCOPIC (reported by Dr Z Windsheimer & Dr Z Dover):
+Sections show clear cell renal cell carcinoma of the right kidney.  The features are as follows:
+Position of tumour:  Mid zone of right kidney. 
+Dimensions of tumour:  21mm. 
+Tumour type:  Clear cell renal cell carcinoma. 
+Fuhrman grade:   Grade 2 (nucleoli visible at 400x magnification but not prominent at 100x magnification)
+	 
+Sarcomatoid differentiation:  Absent
+Rhabdoid differentiation:  Absent
+Necrosis:  Absent
+Tumour spread beyond kidney:  No (tumour stretches renal capsule with a thin rim of benign tubules). 
+Tumour extends beyond Gerota's fascia:  No.  
+Tumour in renal sinus fat:  No. 
+Tumour in renal vein or its segmental (muscle containingbranches):  No. 
+Lymphovascular invasion:  Nil. 
+Tumour in adrenal gland:  Not applicable 
+Lymph nodestatus
+	Number of lymph nodes:  0.
+Involvement of surgical margins:
+	Absent
+	Site of nearest margin: Gerota's fascia (22mm)
+Other comments:  The renal parenchyma shows changes of chronic renal disease with extensive glomerulosclerosis, thyroidisation of tubules andthickened blood vessels
+AJCC tumour stage (7th Ed.)
+pT1a Tumour 4cm or less in greatest dimension, limited to the kidney
+pNX Regional lymph nodes cannot be assessed.
+pMX Cannot be assessed histologically
+Scoring Algorithm to Predict Metastases after Radical Nephrectomy (Leibovich et al., Cancer, 2003)
+	
+Primary tumor status score (pathologic T stage)
+pT1a 	0
+Regional lymph node status (N stage) score
+pNX 	0
+Tumor size (cm)
+< 10 	0
+Nuclear grade score
+2	0
+Histologic tumour necrosis score
+No 	0
+Total score (out of 11):  0. 
+DIAGNOSIS:
+Right radical nephrectomy:
+- 21mm clear cell renal cell carcinoma, Fuhrman grade 2, margins clear
+- Tumour confined to kidney pT1a.
+

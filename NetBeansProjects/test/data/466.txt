@@ -1,0 +1,68 @@
+Episode No:  25L116632A
+2541166.IGA
+
+SHARMA, CARISSA 
+Lab No:  25L11663
+Broomgrove
+ARARAT  WA  6228
+Specimen: Tissue
+D.O.B:  19/9/1996
+Sex:  F
+Collected: Unknown at :
+Location:  DICKINSON 3 SOUTH-GREAT OCEAN ROAD HEALTH - OTWAY HEALTH
+DR NGANU EDYTH YNGSDAL
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Low anterior resection.  DVT, CRC, HTN.  
+MACROSCOPIC:
+A.  Specimen labelled "Low anterior resection" consists of a segment of bowel which measures 175mm in length and lies entirely above the peritoneal reflection.  There is attached pericolic fat which measures 170 x 110mm and contains multiple lymph nodes.  On opening the bowel there is a polypoid tumour which measures 45 x 30mm which is located 20mm from the distal margin.  Several small polyps are identified adjacent to the tumour which range from 1 to 3mm.  The closest of these is located 10mm from the distal margin.  On sectioning the tumour appears to invade into the muscularis propria.  No definite serosal invasion is seen.  Proximal margin inked red, distal margin inked green, mesenteric margin inked black.
+Blocks:  1- tumour with distal margin; 2- proximal margin; 3 - polyp closest to distal margin; 4 - remainingpolyps; 5 - tumour level of deepest invasion; 6 to 8 - representative tumour (Block 8 reserve block); 9 - further representative tumour; 10 - representative normal mucosa away from tumour; 11 - apical lymph node; 12 to 15 - lymph nodes.
+B.  Specimen labelled "Distal donut" consists of a donut of bowel which measures 20 x 15 x 10mm.  Staple marginis inked black.  BAE 1 block.  (WT/mm 14.8.63) 
+MICROSCOPIC (reported by Dr H Hedgepeth & Dr H TERRELL-Kerper):
+A & B.  Sections show adenocarcinoma.  The features are as follows:
+
+Macroscopic Description
+
+Site of tumour:  Rectum 	
+Maximum tumour diameter:  45mm
+Distance of tumour to nearer cut end:  20mm
+Tumour perforation:  No
+Relation oftumour to anterior peritoneal reflection:	  Above.
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS.
+Differentiation by predominant area
+Moderate.
+Local invasion
+pT3	Beyond muscularis propria.
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  Greater than 10mm
+Lymph nodes
+Number of lymph nodes present:  10.	
+Number of lymph nodes involved:  1.	
+pN1a	Metastases in 1 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Hyperplastic polyp x2 plus one possible tubular adenoma. 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining 
+PMS2		Preserved nuclear staining 
+MSH2		Preserved nuclear staining 
+MSH6		Preserved nuclear staining 
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN1a     pMX    R0
+

@@ -1,0 +1,72 @@
+
+Episode No:  26G099767T
+2620997.RUT
+
+HALLOWELL, LANDON MIREYA KURT 
+Lab No:  26G09976
+Kozy
+LAUNCHING PLACE  ACT  3237
+Specimen: Tissue
+D.O.B:  9/6/1997
+Sex:  F
+Collected: 12/12/2013 at 16:16
+Location:  Orana - BLACKTOWN HOSPITAL
+DR RORY KURT KENTON-WEIGLE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left wide local excision and sentinel node biopsy.  Palpable lesion at 9 o'clock.  Confirmed with Dr JOSUE ALKINS (surgical registrar) short suture marked superior, long marked lateral and medium marked medial.  Also the orientation of thespecimen was confirmed with her.
+MACROSCOPIC:
+A.  Specimen labelled "Sentinellymph node number 1" consists of three pieces of fatty tissue 37 x 22 x 17, 20 x 10 x 7 and 20 x 9 x 7mm.  There are three lymph nodes ranging from 14 to 32mm in maximum dimension.  
+Blocks: 1 - one bisected lymph node, 2 - one bisected lymph node; 3 to 5 - one lymph node.  (TO: EO;YR/vo15.2.63)
+B.  Specimen labelled "Left breast wide excision" consists of a piece of breast tissue with three marking stitches measuring 75 (lateral to medial) x 80 (superior to inferior) x 34mm (superficial to deep).  The margins are inked in three colours:  Red superior, blue superficial and deep black.  Specimen is serially sectioned into eleven slices from lateral to medial.  There is anindurated pale solid tumour in slices six and seven measuring 10 x 9 x 9mm.  The tumour is 30mm from superior, 50mm from inferior, 7mm from superficial, 10mm from deep, 35mm from lateral and 30mm from medial margin.
+Blocks:  1 & 2 - slice one en face (lateral); 3 & 4 - paired sections mid slice five; 5 to 13 - all of slice six from superior to inferior (block 10 tumour with no margins for ER, PR, Her-2, Ki 67); 14 to 18 - superior half of slice seven; 19 & 20 - mid slice eight; 21 & 22 - slice eleven en face (medial).  (TO: OZ; TI/rt 15.2.63); 23 to 25 - remainder of slice eight; 26 to 28 - all of the slice nine; 29 & 30 - slice ten.  Please see the diagram.  (TO: BI; RU/rt 19.2.63)
+A. Three lymph nodes identified show no evidence of metastatic carcinoma.
+B. Sections show a 10mm Grade 2 infiltrating ductal carcinoma, NOS. A synoptic report follows.
+Invasive carcinoma:
+Site: Left breast, 9 o'clock
+Type: Infiltrating ductal carcinoma, NOS
+Invasive tumour size: 10mm
+Grade (ModifiedBloom & Richardson): 2
+Tubules: 3      Nuclei: 2     Mitoses: 2      Mitotic rate:     9/10hpf.
+Lymphovascular invasion: Not identified.
+	    
+DCIS component:  
+DCIS: Present
+Maximum extent of DCIS: 35mm (across 7 consecutive slices: Slices 5 to 11)
+Nuclear grade: Intermediate  
+Architecture: Solid and cribriform
+Necrosis: Present
+Calcification: Not identified
+Degree of DCIS in tumour: 10%
+DCIS in adjacent tissue: Present
+Excision Margins:  
+Invasive component: All margins >10mm clear
+In-situ component:
+	Superior		0.7mm (normal intervening duct not identified) Block B21
+	Inferior		>10mm
+	Superficial	0.5mm (normal intervening ductpresent) Block B 29
+	Deep		1.5mm (normal intervening duct present) Block B 27
+	Medial		0.15mm (normal intervening duct not identified) Block B21
+	Lateral		>10mm
+
+Receptors (Block B10): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining: Strong
+PR:  Positive
+	70% of nucleistained
+	predominant intensity of staining: Moderate to strong
+HER2 (Novocastra 10A7): 0
+HER2 SISH:  Performed at Agilent Technologies Central, DYSART HOSPITAL Hospital, see separate report.
+Ki-67 index: 20%
+Nipple: Not applicable.
+LCIS / ALH: Not identified.
+
+DIAGNOSIS:
+A. Sentinel lymph node(s)
+- NO EVIDENCE OF METASTATIC CARCINOMA IN THREE LYMPH NODES (0/3)
+B.Left breast
+- 10 MM INFILTRATING DUCTAL CARCINOMA, GRADE 2, MARGINS CLEAR
+- ER POSITIVE, PR POSITIVE, HER2 NEGATIVE, KI-67 20%
+- DUCTAL CARCINOMA IN SITU, INTERMEDIATE GRADE, MARGINS VERY CLOSE (SEE SYNOPTIC REPORT)
+

@@ -1,0 +1,109 @@
+SPR no: 70I015770D
+MRN no: 7030157
+Site_name: BEVERLEY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Gastric body adenocarcinoma.  Neoadjuvant chemotherapy (FLOT).  Total gastrectomy.  New oesophageal resection margin (proximal anastomotic donut).  Total gastrectomy - marking suture on distal oesophagus.  (Specimen opened across distal oesophageal staple line and superior fundus).
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Stomach total gastrectomy&amp;quot;, consists of a gastrectomy measuring 190 (greater curvature) x 115mm (lesser curvature) with attached greater omentum 400 x 100 x 8mm.
+There is a blue suture at proximal/oesophageal margin.  Proximal and distal margins inked blue.  On opening, there is a 25 x 20mm pale tan endophytic lesion with irregular borders in the anterior upper body 25mm from the oesophageal margin and 84mm from the distal margin.  The corresponding serosal surface is indurated.  Blocks:  1 and 2 - composite LS from proximal margin to lesion; 3 - another LS from proximal margin to lesion; 4 - LS distal margin; 5 and 6; 7 and 8; 9 and 10; 11 and 12 - composite TS through lesion; 13 - LS distal aspect of lesion and adjacent normal stomach; 14 - two lymph nodes; 15 - one lymph node bisected; 16 - three lymph nodes; 17 - three lymph nodes; 18 - three lymph nodes; 19 - one lymph node bisected.
+
+B.  Specimen labelled &amp;quot;New oesophageal margin&amp;quot;, consists of a strip of pale tan tissue 35 x 10 x 6mm.  Approximately 3mm of tissue is sacrificed in removing the staples from the resection margin which is inked blue.  Serially sectioned.  AE 2 blocks.
+
+C.  Specimen labelled &amp;quot;New oesophageal margin #2&amp;quot;, consists of a donut 15 x 10 x 5mm.  Approximately 2mm of tissue is sacrificed in removing staples.  Resection margin inked blue.  Serially sectioned.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Splenic artery&amp;quot;, consists of three pieces of fatty tissue measuring 25 x 20 x 3mm in aggregate.   No vessels are identified.  AE 1 block.   (TO:BF/hh 8/1/67)
+
+
+MICROSCOPIC (Reported by Dr U Pizzino):
+A.  The sections of stomach show a poorly differentiated adenocarcinoma.  The tumour shows discohesive cells with plasmacytoid and signet ring cell morphology.  The cells have large vesicular nuclei, prominent nucleoli and moderate cytoplasm.  There are patchy areas of fibrosis suggestive of treatment effect.  The tumour infiltrates beyond muscularis propria and abuts the visceral peritoneum.  The resection margins are free of tumour.  A total of fourteen lymph nodes are identified, all of which are free of metastatic disease.  The features are summarised in the synoptic report below.
+B.  Sections show oesophageal squamous mucosa including muscularis propria.  There is no evidence of malignancy.
+C.  Sections show oesophageal squamous mucosa including muscularis propria.  There is no evidence of malignancy.
+D.  Sections show fibroadipose tissue with no significant abnormality.  No artery is identified. There is no evidence of malignancy.
+Macroscopic description
+
+Tumour site:
+Maximum tumour diameter:  25 mm
+Distance to nearest margin:  25 mm
+
+Microscopic Description
+
+Tumour site (location):
+Anterior upper body
+
+WHO histological tumour type:
+Poorly cohesive carcinomas, including signet-ring carcinoma
+
+Lauren histological tumour type:
+Diffuse
+
+Growth pattern:
+Infiltrating
+
+Maximal dimension of tumour:  25 mm
+
+Local invasion (pT):
+T3	Tumour penetrates subserosal connective tissue without invasion of visceral peritoneum or adjacent structures.
+
+Serosal surface involvement:
+Absent
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary):  Present
+
+Large vessels (vein and artery):  Absent
+
+Perineural growth:
+Present
+
+Degree of regression after preoperative chemoradiation:
+Grade 2 (partial response) - Residual cancer with evident regression, but more than single cells or rare small groups of cancer cells
+
+Her2 status:  Negative (0-staining)
+
+Distance of tumour from margins:
+From proximal:  18  mm
+From distal:  &amp;gt;20  mm
+From radial/circumferential (proximal/cardia tumours):  Not applicable
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  14
+Number of lymph nodes involved:  0
+
+N0	No regional lymph node metastasis
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis:  Present
+
+Helicobacter infection:  Absent
+
+Intestinal metaplasia:  Present
+
+Dysplasia:  Absent
+
+Gastric polyps:  Absent
+
+Barrett&amp;#8217;s mucosa:  Absent
+
+Immunoperoxidase stains for MSI proteins (Block A9)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+ADDENDUM (13/9/68):
+(Reported by Dr U Modine)
+This case was re-examined and further immunostains were performed to identify possible tumour cells on serosal surface of stomach.  On immunohistochemistry, tumour cells appears to be very close to serosal surface however, no definite tumour cells are identified on gastric serosa.  The histopathology report remains unchanged.  Slides seen with Dr U Hansbrough.

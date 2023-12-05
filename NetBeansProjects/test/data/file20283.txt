@@ -1,0 +1,34 @@
+SPR no: 43E338014M
+MRN no: 4313380
+Site_name: NORTHAM HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report43E33801 (43E338014M) DISPARTE, CHUNG
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Appendix T.
+
+MACROSCOPIC:
+A.  &amp;quot;SMALL BOWEL&amp;quot;. Consists of a piece of unoriented small bowel 60mm in length, 30mm in diameter with very scanty mesentery 5mm wide. The serosa of the small bowel is rough and covered in adhesions and haemorrhage.  A suture is seen at one end of length of bowel.  No macroscopically obvious area of perforation or leak. On sectioning no lesion seen within the mucosa.  The mesentery on sectioning appears slightly fibrotic.  No obvious discrete lesion or tumour.  Four separate smaller pieces of tan tissue are also present in the pot ranging from 10-15mm.
+
+(1 LS of margins; 2-8 TS of small bowel region of stitch in 2 and 3; 9&amp;amp;10 separate pieces of small bowel).  RS (M-10)
+
+B.  &amp;quot;PERITONEAL DISEASE&amp;quot;.  Consists of multiple pieces of cream to tan tissue with blood clot and gelatinous tissue 50x40x10mm in aggregate. RS (M-4 [tumour bank block in 4]).  (JC 1/7/2067 ank)
+
+MICROSCOPIC:   (Dr M Matsunaga)
+A.  Representative sections of the bowel segment show unremarkable small bowel mucosa. The serosal aspect shows patchy fibrosis of variable age.  Scattered suture granulomas are present, together with areas of focal neutrophilic inflammation.  Sections of the separate pieces of tissue also show portions of irregular scar tissue with variable congestion. Several of the fragments include somewhat atrophic skeletal muscle.
+
+The appearances are consistent with scar tissue post surgery including adhesions. There are no features to suggest malignancy.
+
+B.  Sections show fragments of fibrous scar tissue and associated adipose tissue.  Several of the fragments show involvement by moderately differentiated mucinous adenocarcinoma, and there is also moderate extracellular mucin. The appearances are consistent with origin in a primary appendiceal adenocarcinoma.
+
+DIAGNOSIS:
+A.  SMALL BOWEL, RESECTION -
+-SEROSAL SCAR TISSUE WITH SUTURE GRANULOMAS, NO EVIDENCE OF MALIGNANCY.
+
+B.  PERITONEAL DISEASE -
+-SCAR TISSUE WITH PATCHY INVOLVEMENT BY METASTATIC MODERATELY DIFFERENTIATED MUCINOUS ADENOCARCINOMA.
+
+3/7/2067 ank

@@ -1,0 +1,41 @@
+Episode No:  41B938197J
+410938.EYS
+
+PAETZ, REYNALDO 
+Lab No:  41B93819
+Mineral
+HAHNDORF    3049
+Specimen: Tissue
+D.O.B:  3/6/1990
+Sex:  M
+Collected: 14/3/2065 at :
+Location:Seals-DENILIQUIN HOSPITAL
+DR JOLANDA JULES TAKER
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (2.6.2066)
+
+
+CLINICAL:
+R upper lobe tumour.  FDG avid.  
+MACROSCOPIC:
+A.  Specimen labelled"R upper lobe", consists of a lobectomy measuring 175 x 130 x 50mm and weighing 199g (pre inflation).  There are two stapled margins around the hilum measuring 110mm in length and 65mm in length each.  The stapled margin is removed and inked blue.  The pleura is smooth aside from an area over 20 x 15mm which is puckered.  On sectioning through the puckered area there is a tan well circumscribed slightly lobulated tumour measuring 35 x 30 x 30mm.  The tumour is 2mm from the pleura margin and 10mm from the hilar margin.  The tumour has necrotic areas.  The rest of the lung parenchyma appears unremarkable.  
+Blocks: 1 - vascular hilar margin; 2 - bronchial hilar margin; 3 to 7 - tumour (3 tumour in closest pleural margin; 4 - tumour in closest hilar margin); 8 - representative lung away from tumour; 9 - tumour for tumour banking. 
+B.  Specimen labelled "Pulmonary inferior ligament lymph node", consists of a lymph node measuring 12mm in maximum dimension.  Specimen BAE 1 block. 
+C.  Specimen labelled "Hilar node", consists of a lymph node measuring 10mm in maximum dimension.  Specimen BAE 1 block. 
+D.  Specimen labelled "Superior hilar node", consists of a lymph node measuring 15mm in maximum dimension.  Specimen serially sectioned and AE 1 block. 
+E.  Specimen labelled "Paratracheal lymph node", consists of three lymph nodes measuring 8, 12 and 22mm in maximum dimension.  
+Blocks: 1 - one lymph node serially sectioned; 2 - one lymph node serially sectioned; 3 - one lymph node serially sectioned.    (TO: CF;LH/vo 15.3.65) 
+MICROSCOPIC (Reported by Dr M Bodle):
+A to E. The 37mm carcinoma (microscopic measurement) tumour is a  pleomorphic carcinoma with giant cells with areas of poorly differentiated adenocarcinoma as well as non keratinising squamous differentiation.  The tumour undermines the epithelium of a bronchusand is about 10mm clear of the bronchial resection margin.  
+The majority of the tumour is composed of large pleomorphic epithelioid cells either arranged in nests, poorly formed glands or discohesive sheets. Approximately 30% of the tumour is composed of admixed tumour giant cells, including multinucleated giant cells and spindled shaped cells and this component contains  a prominent admixed acute inflammatory infiltrate.  Foci of neutrophil emperipolesisby tumour giant cells (Block A7) are present in these areas.  In some of the poorly differentiated areas there is admixed squamous differentiation, with very infrequent intercellular bridges amongst polygonal cells with dense eosinophilic cytoplasm and associated P63 and CK5/6 immunoexpression.  No keratinisation is seen.  These nested/solid poorly differentiated areas also show mucinous differentiation highlighted on dPAS staining.  Peripherally there is also component of moderately differentiated adenocarcinoma with both acinar as well as lepidic patterned growth.  There is also a minor rhabdoid component, with eccentrically placed nuclei and abundant eosinophilic inclusion like cytoplasm but no myogenic differentiation is confirmed with negative desmin and myogenin immunostains.  There is patchy tumour necrosis and the tumour stroma is fibroblastic with an admixed chronic inflammatory cell infiltrate including peripheral lymphoidaggregates.  The tumour shows widespread CK7 immunoexpression and the moderately differentiated adenocarcinoma component shows TTF1 and Napsin A expression consistent with a lungprimary.  CK 20 staining is negative.
+There is lymphovascular invasion with involvement of small to medium sized vessels (Block A3). 
+The tumour abuts the inner elastic layer of the visceral pleural but does not appear to penetrate it (Block A3). 
+A synoptic report follows:
+ 
+
+SYNOPTIC REPORT FOR INVASIVE LUNG CARCINOMA
+Specimen type:  	Right upper lobectomy
+	Topography:  Peripheral
+	Tumour location:  Right upper lobe
+	Tumour size:  37mm (microscopic measurement)
+

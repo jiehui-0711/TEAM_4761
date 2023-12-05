@@ -1,0 +1,82 @@
+
+Episode No:  12N061871F
+1250618.UEF
+
+BAKOWSKI, Lane ISREAL 
+Lab No:  12N06187
+Hannigan
+MOUNT ISA  Tasmania  3281
+Specimen: Tissue
+D.O.B:  17/12/1997
+Sex:  F
+Collected: 17/09/2013 at 22:39
+Location:  ENVOI Pathology-MONASH MEDICAL CENTRE - MOORABBIN CAMPUS
+DR Trevor DUANE Hersman
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Ultra low anterior resection.  Haemolyticanaemia.  Mid to low rectal cancer.
+MACROSCOPIC:
+A.  Specimen labelled "Ultra low resection" consists of segments of large bowel 310mm in length with mesenteric fatty tissue present along the length of the specimen and up to 50mm across.  The anterior peritoneal reflection is 40mm from the distal resection margins.  There is an indurated solid tumour measuring 45 x 40 x 12mm.  The tumour hasa rolled raised edges and depressed centre.  Three quarters of the tumour is above the peritoneal reflection.  The tumour occupies approximately two-thirds of the large bowel circumference (posteriorly, laterally and medially) and the tumour does not involve the peritoneum.   The tumour is 20mm from the distal and 214mm from the proximal resection margin and the tumour does not involve the peritoneum.  The circumferential margin is inked blue on the left side and black on the right side.  The tumour does not appear to have infiltrated into the pararectal fatty tissue.  The tumour is 32mm from the posterior circumferential margin 15mm from the left circumferential margin and 22mm from the right circumferential margin.  
+Blocks:  1 - LS distal resection margin; 2 - shaved proximal margin; 3 - tumour and anterior margin; 4 & 5 - paired sections, tumour and left margin; 6 & 7 - paired sections, tumour and posterior margin; 8 & 9 - paired sections, tumour and right circumferential margin; 10 & 11 - paired sections, tumour and posterior margin; 12 & 13 - paired sections, tumour and left margin; 14 & 15 - paired sections, tumour and right margin; 16 - section of tumour (no margin); 17 - section of tumour (reserved block); 18- the apical lymph node bisected; 19 - one bisected lymph node close to the right circumferential margin; 20 - one ?lymph node adjacent to the right circumferential margin; 21 - lymph nodes are seen; 22 ?lymph node close to the right circumferential margin; 23 - lymph nodes are seen (distal to the peritoneal reflection); 24 - one bisected lymph node at the right circumferential margin; 25 - one bisected lymph node at the right circumferential margin; 26 - lymph nodes as seen; 27 - lymph nodes as seen.
+B.  Specimen labelled "Distal donut" consists of a round piece of colorectal mucosa 28 x 20 x 10mm.  Serially sliced.  AE2 blocks.  (TO: HG; FV/rt 20.11.63)
+MICROSCOPIC (Reported by Dr D Whitelow):
+A & B.  Sections show a moderately differentiated adenocarcinoma of the lower rectum.  The carcinoma infiltrates the muscularis propria to about the junction of the inner circular and outer longitudinal layers. There is no direct invasion of the pararectal fat.
+Three (3) of the thirteen (13) pararectal lymph nodes identified are largely replaced by metastatic adenocarcinoma.  There is perinodal fibrosis but no significant peri nodal infiltration.  These three involved lymph nodes are 2mm, 5mm and 7mm from the pararectal surgical margin.  
+The eleven (11) mesenteric nodes identified (including the apical node) are negative for tumour.  
+The carcinoma is 20cm clear of the distal margin in addition to the donut (which shows no abnormality).  
+DIAGNOSIS:  
+A & B.  Ultra low anterior resection plus distal donut:
+
+Macroscopic Description
+
+Site of tumour: Lower rectum	
+Maximum tumour diameter: 45mm
+Distance of tumour to nearest cut end: 20mm plus donut.
+Tumour perforation: No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection: 	Astride (75% above)
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant are:
+Moderate
+
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Involved lymph nodes 2mm, 5mm and 7mm clear of the circumferential margin.  
+Histological measurement from tumour (nodal metastasis) to non-peritonealised margin: 2mm
+Lymph nodes
+Number of lymph nodes present: 24	
+Number of lymph nodes involved: 3	
+pN1b	Metastases in 2-3 regional LN
+Lymphovascular invasion
+Absent
+
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas: nil
+Synchronous carcinomas (complete a separate form for each cancer) Nil
+Ulcerative colitis nil
+Crohn's disease nil
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2	nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+(y)pT2    pN1b   pMXRO
+	
+
+
+
+

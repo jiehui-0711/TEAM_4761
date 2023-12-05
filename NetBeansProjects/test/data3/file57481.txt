@@ -1,0 +1,131 @@
+SPR no: 83J909536X
+MRN no: 833909
+Site_name: CESSNOCK DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report83J90953,83J90953 (83J909536X) ASPEN, Kelvin
+HISTOPATHOLOGY REPORT
+ONSLOW HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GI endometrial ca.
+
+1.  Peritoneal washings for cyto.
+2.  Uterus, tubes +ovaries.
+3.  R pelvic sentinel node.
+4.  L pelvic sentinel node.
+5.  Omental bx.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS WITH CERVIX, BILATERAL TUBES AND OVARIES&amp;quot;.  Consists of uterus, cervix attached bilateral tubes and ovaries weighing 97g, altogether.
+The uterus measures 70mm superior to inferior, 30mm anterior to posterior, 40mm intercornal.  Specimen received partially opened coronally.  Serially sliced.  There is a thickening of endometrium from fundus to lower segment, mostly in posterior wall measuring approximately 8mm out of 22mm of posterior wall.  Anterior wall measures 20mm. No extension to the cervix or lower segment identified macroscopically, possibly superficial invasion to the myometrium present.
+Right tube measures 35mm in length, 7mm in diameter.  Serosa is smooth, sectioning unremarkable.  Right ovary measures 25x20x10mm.  Outer surface is yellow, lobulated and sectioning is unremarkable.  Left tube measures 45mm in length, 8mm in diameter.  Serosa is smooth and sectioning unremarkable.  Left ovary measures 25x10x7mm.  Sectioning is unremarkable.
+(1  right parametrium; 2  left parametrium; 3  right tube; 4  right ovary; 5  left tube; 6  left ovary; 7-12  one full face sagittal view of the uterus left side; 13-15  more tumour from left side; 16-18  tumour of the right side; 19  right cornu; 20  left cornu [7  posterior cervix, 12  anterior cervix]).  RS (M-20).
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  Fibrofatty tissue 15mm containing 10mm lymph node, embedded block 1.  AE (1-1).
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Fibrofatty tissue consistent with lymph node 30mm.  Serially sliced.  All embedded block 1.  AE (M-1).
+
+D.  &amp;quot;OMENTAL BX&amp;quot;.  20mm fatty tissue.  No nodule identified, embedded block 1.  AE (1-1/SM 19/12/2067 km).
+
+MICROSCOPIC:  (Dr. W Rampley)
+A.  ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE:
+Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE:
+Fundus
+Body
+
+TUMOR SIZE:  35mm greatest dimension
+
+HISTOLOGIC TYPE:
+Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE:
+FIGO grade 1
+
+MYOMETRIAL INVASION:
+
+Depth of invasion:  8mm
+Myometrial thickness: 20 mm
+Percentage depth of myometrial invasion:  40% (&amp;lt;50% myometrial invasion)
+
+UTERINE SEROSA INVOLVEMENT:
+Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT:
+Not identified
+
+CERVICAL STROMAL INVOLVEMENT:
+Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT:
+(list all that apply)
+Not identified
+Right ovary - not involved
+Left ovary - not involved
+Right fallopian tube - not involved
+Left fallopian tube - not involved
+Parametrium - not involved
+Omentum - not involved
+
+MARGINS:
+(required only if cervix and/or parametrium/paracervix is involved by carcinoma)
+-not involved
+
+LYMPHOVASCULAR INVASION:
+Present, focal (focal is &amp;#8804; 5 vacscular spaces)
+
+REGIONAL LYMPH NODES:
+- Sentinel nodes (Specimen B Right Pelvic Sentinel Node, Specimen C Left Pelvic Sentinel Node)
+
+(or if sentinel nodes included):
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): Possible isolated tumour cells in 2 nodes (but see note below)
+Total number of lymph nodes examined (sentinel and nonsentinel): 2
+Number of sentinel lymph nodes examined: 2
+
+Extra-nodal spread:
+Not identified
+
+Note : Very small numbers of scattered keratin-positive cells are present in the lymph node sinuses of both nodes. Some of these cells show weak positivity for Calretinin, and very occasional cells show positivity for WT1, while ER is negative. It is possible that at least some of the keratin-positive cells in the lymph nodes may represent mesothelial inclusions, although some of these cells also resemble some of the tumour cells in the uterus
+
+DISTANT METASTASES (histologically confirmed):
+(includes non-regional lymph nodes)
+Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+None identified
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. PMS2, MSH2, MSH6, and MLH1 all show positive (normal) nuclear staining of tumour cells, indicating a low likelihood of microsatellite instability phenotype.
+
+OTHER SPECIMENS:
+B&amp;amp;C.  Right and Left Sentinel lymph nodes, both of which contain possible scant isolated tumour cells, although some of these keratin-positive cells may represent mesothelial inclusions (please see above).
+
+D.  Omentum - not involved
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a, pN0 ?i+sn  -see above
+
+
+D. Omental Biopsy : Omental tissue, with no involvement identified.
+
+DIAGNOSIS:
+A.  UTERUS WITH CERVIX, BILATERAL TUBES AND OVARIES :
+-ENDOMETRIOID ADENOCARCINOMA, FIGO GRADE 1, pT1a, please see text.
+
+B.  RIGHT PELVIC SENTINEL NODE :
+-POSSIBLE SCANT ISOLATED TUMOUR CELLS (please see text).
+
+C.  LEFT PELVIC SENTINEL NODE :
+-POSSIBLE SCANT ISOLATED TUMOUR CELLS (PLEASE SEE TEXT).
+
+D.  OMENTAL BIOPSY :
+-NO INVOLVEMENT SEEN.
+
+22/1/2071 ankd

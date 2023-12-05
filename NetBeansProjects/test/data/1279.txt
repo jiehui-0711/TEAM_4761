@@ -1,0 +1,82 @@
+
+Episode No:  96E570935R
+9615709.IOR
+
+Vanegdom, GUILLERMO 
+Lab No:  96E57093
+N Otsego
+NARRABRI  SA  3640
+Specimen: Tissue
+D.O.B:  10/7/2031
+Sex:  M
+Collected: 13/12/2012 at 15:26
+Location:  ST GEORGE PRIVATE-CHILDERS MULTIPURPOSE HEALTH SERVICE
+DR Donn Alphonse CHESTER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+                  ADDITIONAL REPORT 17/4/63.
+SUPPLEMENTARY REPORT:   (23.12.63)
+
+
+CLINICAL:
+Hx of R parotid lump ?pleomorphic adenoma on FNA with atypical cells.  
+MACROSCOPIC:
+Specimen labelled "Right parotid mass" consists of an orientated excision of tan tissue with two sutures in situ as designated.  Thespecimen measures 45mm (medial to lateral) x 48mm (inferior to superior) x 26mm (superficial to deep).  The superior margin is inked green, the deep margin is inked black and the superficial margin is inked blue.  The cut surface reveals a firm tan/cream well circumscribed lesion, 25mm (medial to lateral) x 27mm (inferior to superior) x 22mm (superficial to deep).  The specimen is serially sectioned in the parasagittal plane into 6 slices from slice 1 (lateral) to slice 6 (medial).  The lesion appears to come close to the deep, superficial, inferior and medial margins.  
+Blocks:  1 & 2 - slice 1; 3 & 4 - slice 2; 5 & 6 - slice 3; 7 & 8 slice 4; 9 & 10 - slice 5; 11 to 13 - slice 6.  Please refer toattached diagram.  (TO: OQ; QS/mm 16.2.62) 
+ 
+MICROSCOPIC:  (Reported by A/Prof Y Grundon):  
+The sections of parotid gland show a tumour composed of acinar like structures, many of which contain vacuolated secretory material, in a background of hyalinised fibrous septae.
+The acinar like structures are lined by mild to moderately pleomorphic cells with variable amounts of eosinophilic and granular cytoplasm. The acini contain DiPAS positive secretory material with scalloping.
+Mitoses are scattered. An area of necrosis is present towards the centre of the tumour, possibly relating to previous FNA.
+The background stroma is hyalinised, imparting a trabecular and nodular growth pattern to the tumour at low power. Areas of more solid growth and more frequent mitoses are seen focally (block 9).
+Immunohistochemistry:
+Keratin 7 and CAM 5.2 - strongly positive
+S100 - moderate positive staining in variable distribution
+Keratin 5/6 - very focal weak staining
+Keratin 20 - negative
+P63 - negative
+TTF-1 - negative
+The tumour has an infiltrative edge and tongues of tumour are seen infiltrating surrounding parotid gland and extending into peri-parotid connective tissue.
+Occasional nerves are seen within the edge of the tumour but no definite perineural invasion is identified.
+Tumour abuts the deep andsuperficial margins where the clearance is approximately 0.1-0.2mm. The other margins appear clear.
+9 lymph nodes are identified and show no evidence of malignancy.
+Comment:
+The differential diagnosis lies between acinic cell carcinoma and mammary analogue secretory carcinoma of the salivary gland (MASC). This latter tumour is a recently described salivary gland carcinoma which bears histological resemblance to secretory carcinoma of the breast. 
+(ref. Mammary Analogue Secretory Carcinoma of Salivary Glands, Containing the ETV6-NTRK3 Fusion Gene: A Hitherto Undescribed Salivary Gland Tumor Entity. Alena Skalova et al, Am J Surg Pathol 2010;34:599-608).
+This result has been discussed with Prof Y Fondell and this case has been referred overseas for expert opinion.
+DIAGNOSIS:
+RIGHT PAROTID MASS: MAMMARY ANALOGUE SECRETORY CARCINOMA (SEE ABOVE)
+   
+ADDITIONAL REPORT 17/4/63.  NSW Health. A/Prof Y Adamczyk.
+MICROSCOPIC DESCRIPTION:
+Examination of multiple sections through the right parotid gland confirm the presence of the major serous gland in which there is prominent fatty infiltration. The glandular parenchyma shows multiple periductal aggregates of chronic inflammatory cells which are composed of lymphocytes, macrophages and plasma cells. Intervening fibrovascular connective tissue septae are present which contain dilated collecting ducts and neurovascular bundles. Surrounding fibro-fatty connective tissue and non-ganglionated nerve fibres are identified.
+Within the substance of the gland, an infiltrative tumour is identified which exhibits a varied histomorphologic pattern with lobular, microcystic, follicular and cystic spaces being noted. The individual tumour cells are large, polygonal and have finely granular eosinophilic cytoplasm with large oval nuclei showing prominent nucleoli. Mitotic figures are observed. Prominent cytoplasmic vacuolation is also identified. Special stains confirm the presence of very occasional diastase resistant granules within cell cytoplasm of occasional tumour cells and abundant mucicarmine positive secretion. The larger tumour follicles contain eosinophilic secretion with peripheral scalloping being identified. Tumour cells have entrapped nerve fibres of varying size with focal perineural infiltration being observed (block 5) Focally, a large cystic area is noted which is lined by large, hobnail appearing cells which have vacuolated cytoplasm. Interspersed areas of necrosis with associated inflammatory cells are identified and the intervening stroma shows variable hyalinisation.
+Associated parotid lymph nodes show non-specific reactive changes. There is no evidence of metastatic tumour.
+IMMUNOHISTOCHEMISTRY:
+In the presence of positive and adequate controls, the following results were obtained:
+1. AE1/AE3 - positive
+2. CK 7- positive
+3. CK 20 - negative
+4. S-100 - diffuse positive cells
+5. TTF 1 - negative
+6. MUC1 - positive staining of luminal surface
+7. GCDFP-15- negative
+8. GCDFP-+ Mammaglobin - positive
+COMMENT
+The differential diagnosis considered includes a mammary analogue secretory carcinoma of salivary gland origin (MASC) and acinic cell carcinoma. Prior to the categorisationof MASC as a separate diagnostic entity by Skalova et al in 2010, this tumour would most likely have been categorised as an acinic cell carcinoma. In view of the presence of positive staining for GCDFP-15 + mammaglobin, a mammary analogue secretory carcinoma is favoured. It appears thus far from limited evidence that the biologic behaviour of MASC is very similar to acinic cell adenocarcinoma, and if one is interpreted as the other, it probably has no implications for therapy or prognosis.
+DIAGNOSIS
+RIGHT PAROTID GLAND: FAVOUR MAMMARY ANALOGUE SECRETORY CARCINOMA CHRONIC OBSTRUCTIVE PAROTITIS.
+A/Prof MOHAMMAD RAKUSIN 19/3/63    (ta 17/4/63) 
+This supplementary report was discussed with Dr Y Clemence by A/Prof Y Tabler.
+SUPPLEMENTARY REPORT:   (23.12.63)
+FISH REPORT (ETV6 REARRANGEMENT)
+Reported by Y Menkin, validated by Dr Y Mitchener, FRANKSTON PUBLIC SURGICAL CENTRE's Hospital. 
+"FISH Probe:
+ETV6 (12p13) dual colour break apart rearrangement probe (Abbott Molecular). 
+FISH Results:
+nuc ish (5'ETV6x2-4,3'ETV6x2-3)(5'ETV6 con 3'ETV6x1-2).
+Comment:
+Interphase FISH detected signal patterns consistent with ETV6 rearrangement. Some nuclei showed one non-rearranged ETV6 locus, one 3" (centromeric) ETV6 signal and one to two 5' (telomeric) ETV6 signals.  Other nuclei showed tow non-rearranged ETV6 loci, one 3' ETV6 and two 5'ETV6 signals. 
+These findings are consistent with suspected ETV6-NTRK3 fusion.  Please note however that the partner gene involved in the ETV6 translocation is not identifiable with this probe set.  Please correlate with other findings. 
+Summary:
+ETV6 rearrangement detected; an additional5' (translocated) ETV6 signal seen in some cells". 
+

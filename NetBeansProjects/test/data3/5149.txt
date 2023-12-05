@@ -1,0 +1,73 @@
+Episode No:  10V594900G
+1085949.AAG
+
+BRUSCINO, Naoma 
+Lab No:  10V59490
+Seelye
+BALLARAT  NT  3682
+Specimen: Tissue
+D.O.B:  5/12/1986
+Sex:  F
+Collected: 10/2/2066 at :
+Location:  UROLOGY OPD-BARWON HEALTH - NEWCOMB RENAL UNIT CAMPUS
+DR Alexander Cecila Laffer
+Distribution:  DR Frederick
+SUPPLEMENTARY REPORT (24.2.66):
+
+CLINICAL:
+Right hemicolectomy for proximal transverse tumour.  Asthma.Diabetic.  Hypertension.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy", consists of a right hemicolectomy.  The terminal ileum is 60mm long and appears normal.  The appendix is present and measures 60 x 7 x 7mm.  The colon is 190mm long.  On opening there is a ulcerated exophytic tumour 40 x 30mm in area within theascending colon.  The tumour is 60mm from the distal margin and 140mm from the proximal margin.  The diameter of the caecum proximal to the tumour is 60mm and distal to the tumour the biwel is 50mm in maximum diameter.  There is one polyp 7mm in maximum dimension within the ascending colon approximately 60mm from the tumour.  Otherwise the bowel mucosa is unremarkable.  On sectioning the tumour appears to infiltrate through the muscularis propria into the surrounding mesocolon.  The overlying bowel serosa is smooth.  Lymph nodes are found within the mesocolon.     
+Blocks:1 - proximal and distal margins; 2 - polyp bisected; 3 and 4 - paired blocks tumour; 5 and 6 - tumour with area of deepest invasion; 7 - appendix; 8 - apical node bisected; 9 to 14 - possible lymph nodes as seen; 15 - tumour for biobank.  
+(TO: GB;BC/vo 11.2.66) 
+MICROSCOPIC (Reported by Dr D Zella):
+
+Site of tumour: 	
+Maximum tumour diameter: 40mm
+Distance of tumour to nearer cut end: 60mm
+Tumour perforation: No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: >10mm
+Lymph nodes
+Number of lymph nodes present: 16	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distantmetastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenoma:  The described polyp is a tubular adenoma with low grade dysplasia.  
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Partial loss of nuclear staining
+PMS2		Partial loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+In the present case the tumour shows partial loss of staining for MLH1and PMS2, in the same area of tumour.  This seems very unlikely to be due to a germline mutation of MLH1 and PMS2; it is most likely somatic inactivation due to a BRAF mutation.
+Slides with be sent to PETER MACCALLUM CANCER CENTRE's Hospital for BRAF immunostaining and a supplementary report issued.   
+
+DIAGNOSIS:  
+Right hemicolectomy:  
+1.  Moderately differentiated adenocarcinoma, no lymph node metastasis (0/16).  
+pT3  pN0.  Supplementary report to follow.
+2.  Tubular adenoma.   
+SUPPLEMENTARYREPORT (24.2.66):
+A BRAF V600E immunostain is negative.  This indicates no evidence for a BRAF V600E mutation and suggests that the loss of staining for MLH1 and PMS2 may be due to a germline mutation of MLH1.  However 30% of colorectal cancers with MLH1 silencing due to somatic hypermethylation have no BRAF mutation.
+

@@ -1,0 +1,35 @@
+SPR no: 88Y075957H
+MRN no: 8890759
+Site_name: MURRUMBAH-HARDEN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  88Y075957H
+8890759.PSH
+
+TILSON, GAVIN
+Lab No:  88Y07595
+BRAD NEUGEBAUER
+NURIOOTPA  SA  3107
+Specimen: Tissue
+D.O.B:  22/9/1989
+Sex:  M
+Collected: 27/02/2015 at 16:26
+Location:  WEST GYNAECOLOGY-SANDRINGHAM HOSPITAL
+DR FERMIN NOLAN SEIDNER
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+CRC.  CLM &amp;#8211; R liver.  LBO Jul 2010 &amp;#8594; temporarily managed with colonic stent then pt lost to follow up.  H/T,  COPD,  smoker, EtOH.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right lobe&amp;quot;, consists of a segment of liver measuring 140 x 100 x 45mm and weighing 258g.  The surgical margin is inked black.  The liver has a largely smooth grey appearance, apart from a small defect overlying the tumour.  The tumour measures 35 x 27 x 44mm and is 20mm from the surgical margin.  The tumour has a firm pale grey and speckled pale yellow appearance.  The remaining liver tissue is unremarkable.  RS in 8 blocks.
+Blocks: 1 to 4 &amp;#8211; representative tumour; 5 and 6 &amp;#8211; tumour, with closest surgical margin; 7 and 8 &amp;#8211; representative liver.
+B.  Specimen labelled &amp;quot;Falciform ligament&amp;quot;, consists of a piece of smooth fibrous tissue measuring 85 x 45 x 1mm, with underlying adipose tissue to a depth of 20mm.  The fibrous tissue has a smooth pale grey appearance.  The underlying adipose tissue is unremarkable.  RS in 4 blocks.    (TO: JB;JB/vo 5.4.65)
+MICROSCOPIC (Reported by Dr V Freiser/Dr V Marriot):
+A.  The 44mm subcapsular lesion within the liver is a deposit of moderately differentiated adenocarcinoma, with similar histological features to the previously resected sigmoid adenocarcinoma (88Y07595).  The tumour is composed of tubular and complex malignant glands lined by columnar cells with moderately pleomorphic nuclei within necrotic or desmoplastic stroma.  There is prominent intraluminal necrosis.  Approximately 30% of the tumour is necrotic, while the remaining 70% appears viable.  The tumour is about 20mm clear of the surgical margin and about 4.5mm clear of a diathermied soft tissue margin (? portion of falciform ligament).   No lymphovascular invasion is seen.
+The uninvolved liver has preserved lobular architecture.  Away from the tumour there is minimal non-specific portal chronic inflammation and very mild centrilobular macrovesicular steatosis. An incidental small bile duct adenoma is present.
+B.  Sections show fibroadipose tissue.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Right lobe of liver:
+-  44mm deposit of adenocarcinoma, consistent with metastatic colorectal adenocarcinoma.
+-  Margins clear.
+B.  Falciform ligament:
+-  Fibroadipose tissue; no evidence of malignancy.

@@ -1,0 +1,25 @@
+SPR no: 92W504567Q
+MRN no: 92850456
+Site_name: MORNINGTON ISLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 92850456.UQG
+STOFFLE, ALETHA ONYX
+92W50456
+
+Last edited : 21/4/2066		Page: 2
+
+CLINICAL:
+Anterior vulva &amp;#8211; stitch at 12 o&amp;#8217;clock.  VIN III with possible evidence of invasion (SCC).  DOI 1mm on biopsy.
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Anterior vulva stitch at 12 o&amp;#8217;clock&amp;#8221;, consists of an elliptical piece of mucosa measuring 60 x 35mm to a depth of 10mm.  There is a suture along one side indicating 12 o&amp;#8217;clock.  There is a central irregular area of tan mucosal discolouration, 30mm across.  The 3 o&amp;#8217;clock margin is inked blue and 9 o&amp;#8217;clock margin is inked black.  The 6 o&amp;#8217;clock margin is inked red.  The specimen is sectioned into sixteen slices from 3 to 9 o&amp;#8217;clock.  Serially embedded from 3 to 9 o&amp;#8217;clock in 16 blocks.  AE.  Specimen photograph taken.   (TO: LM/ec 19.4.66)
+MICROSCOPIC (Reported by Dr Z Vrias):
+The sections show vulval squamous epithelium with underlying subcutis and striated muscle.  There is differentiated VIN in the centre of the specimen, characterised by moderate cytologic atypia which appears confined to the basal epithelial layers.  Background changes consistent with lichen sclerosus are seen.  A p16 immunostain is negative in the dysplastic cells.
+VIN spans an estimated width of 15mm and length of 22mm.  VIN approaches the 6 o&amp;#8217;clock margin however at this margin some of the epithelium is denuded, and completeness of excision cannot be guaranteed.  VIN is 4mm clear of the 12 o&amp;#8217;clock margin and at least 10mm clear of the 3 and 9 o&amp;#8217;clock margins.
+The entire specimen has been embedded and there is no evidence of invasive carcinoma.
+Representative sections seen with Dr Z Joya.
+DIAGNOSIS:
+Anterior vulva, excision:
+-  Differentiated VIN.
+-  No evidence of invasive carcinoma.
+-  See text regarding margins.

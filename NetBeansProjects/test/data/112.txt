@@ -1,0 +1,55 @@
+ 264288.XBB
+LECRONE, CLEMMIE
+26L28880
+
+Last edited : 8/2/2063		Page: 2
+CLINICAL:
+Right breast 11 o'clock IDC.  Treatment- Letrozole.  Mastectomy.  Short superior long lateral.  Right axilla sentinel node biopsy.  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast sentinel lymph node", consists of two pieces of fatty tissue measuring 20 x 14 x 7mm and 20 x 17 x 8mm.  There are two lymph nodes 15mm and 12mm in maximum diameter.  Each lymph node smeared separately.
+Blocks: 1 - lymph node one; 2 - lymph node two.
+IMPRINT CYTOLOGY REPORT:
+No malignant cells seen. 
+Phone results to Dr JONATHON HOEVEL by Dr G Bininger/ Dr G Capper at 4:51pm on 2/12/13
+B.  Specimen labelled "Right breast suture long lateral short superior", consists of a breast measuring 185 (medial to lateral) x 170 (superior to inferior) x 45mm (superficial to deep).  There is an overlying ellipseof skin measuring 155 x 70mm including the nipple areola complex which measures 30 x 25mm.  A nodular skin lesion is located at the superior margin of the skin ellipse measuring 5mm in maximum diameter.  On sectioning a firm cream/pink nodule lesion is identified at approximately the 11 o'clock position 25mm from the nipple.  The nodule measures 15 x 7mm and is located 20mm from the deep margin, 18mm from superficial margin, 50mm the inferior margin and 80mm from the superior margin. The remaining breast shows fibrofatty tissue, no other discrete lesions are identified.
+Blocks: 1 and 2 - tumour (block 1- receptors, 2 - reserved block); 3 - deep margin closest to tumour; 4 - superficial margin closest to tumour; 5 - inferior margin; 6 - superior margin; 7 - tissue lateral to tumour; 8 - tissue medial to tumour; 9 and 10 - representative upper outer quadrant; 11 and 12 - representative lower outer quadrant; 13 an 14 - representative upper inner quadrant; 15 and 16 - representative lower inner quadrant; 17 - skin lesion;  18 - nipple.
+C.  Specimen labelled "Right axillary tissue", consists of two pieces of fatty tissue measuring 40 x 10 x 10mm and 18 x 18 x 13mm.  Multiple lymph nodes are identified.
+Blocks: 1 and 2 - lymph nodes; 3 - one lymph node bisected.
+(XA/vo 5.2.63) 
+MICROSCOPIC (Reported by Dr G Castronova):
+A to C.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  15mm
+Grade (Modified Bloom & Richardson):  3
+Tubules: 3     Nuclei: 3     Mitoses: 3     Mitotic rate: 20/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  15mm
+Nuclear grade:  High
+Architecture:  Solid and comedo
+Necrosis:  Present
+Calcification:   Present
+Degree of DCIS in tumour:  50%
+DCIS in adjacent tissue:  Absent
+Excision Margins:  
+Invasive component:  The invasive carcinoma is 16mm to the deep margin (block B3) and is well clear of the other margins (more than 20mm).
+In-situ component:  The DCIS is 10mm to the deep margin (block B3) and is well clear of the other margins(more than 20mm).
+Receptors (Block B1): 
+ER:  Positive
+	80% of nuclei stained
+	predominant intensity of staining:  moderate
+PR:  Negative
+HER2 (Novocastra 10A7):  Negative (1+ staining)
+HER SISH:  Performed at Hexion Specialty Chemicals, HERBERTON HOSPITAL Hospital, see separate report.
+Ki-67 index:  30%
+Nipple:  Unremarkable
+
+LCIS / ALH:  Absent
+Miscellaneous:
+The tumour and surrounding area shows marked fibrosis, in keeping with previous neo-adjuvant therapy.
+	The small skin lesion described in the macroscopic part is a small benign haemangioma.
+

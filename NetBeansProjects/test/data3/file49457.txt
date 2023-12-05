@@ -1,0 +1,84 @@
+SPR no: 79G843421C
+MRN no: 7928434
+Site_name: SHELLHARBOUR HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportAMENDED REPORT (Reported by Dr T Henby 16.2.68)
+The following report replaces the originally issued report in which the section relating to the non-tumour liver was incomplete with liver specials pending.  The other section of the report remain unchanged.
+
+SUPPLEMENTARY REPORT (16.9.71) (follows original report)
+
+
+CLINICAL:
+Central hepatectomy for liver lesion ? cholangio.  Lymphadenopathy.  Fatty liver. Specimen received fresh and 5x5x3mm pieces taken for biobanking.
+
+Discussion with Dr T Adjei:
+A hepatic duct margin is not separately indicated and may have retracted.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Central liver&amp;quot;, consists of a resection of liver that weighs 384g and measures 120 x 100 x 70mm.  The capsular surface is distended by a multinodular tumour that measures 75 x 70 x 60mm.  There is attached intact gallbladder 75mm in length by up to 25mm in diameter  containing multiple facetted gallstones 7mm in size each in aggregate measuring 35 x 25 x 7mm. The cut surface of the tumour has a solid tan lobulated appearance with several smaller nodules  2 to 3mm in size, which are within 5mm of the main tumour.  The tumour is 7mm from the closest resection margin (inked black) and abuts and distends the capsule without obviously penetrating through the capsule.  The tumour extends to abut  the outer wall of the gallbladder but does not extend to the gall bladder mucosa.  There is a pale tan solid nodule in the subserosa of the gall bladder (? involved lymph node), 18 x 18 x 15mm. The nodule abuts the mucosa but does not extend into the mucosa and appears to be surrounded by fat and distends the serosal surface but does not obviously penetrate through it.  This nodule is 40mm from the liver parenchyma and is separate to the main tumour by at least 45mm.  Photographs taken. RS.
+Block 1 &amp;amp;  2- tumour with surrounding nodules; 3 - tumour with capsule; 4 - central tumour; 5 - tumour with closest resection margin; 6 - tumour with capsule; 7-9 - tumour extending to undermine mucosa of gallbladder; 10 &amp;amp; 11 - separate nodule ; 12 - liver parenchyma away from tumour. Further blocks 13&amp;amp;14 - ?cystic duct; 15&amp;amp;16 - remainder of nodule from 10&amp;amp;11; 17- gall bladder and tumour (slice 9); 18 - tumour and small nodule (slice 6); 19- tumour and small nodule (slice 5); 20- tumour and nodule (slice 3);
+
+B.  Specimen labelled &amp;quot;Hilar lymph node&amp;quot;, consists of two fragmented pieces of tan tissue that measure 30 x 20 x 10mm and 50 x 30 x 30mm. The smaller one is inked blue and the larger one black.  The cut surface of both pieces has a solid pale tan surface. The larger one has a central area of possible necrosis.  RS.  Block 1- 2TS  of smaller piece; 2 &amp;amp; 3 - adjoining blocks, one full face of larger piece; 4 - possible necrotic area of larger piece.
+(TO:JB/ec 26/1/71)
+
+
+MICROSCOPIC (Reported by Dr T Jackiewicz):
+Sections show a multinodular grade 3, large cell neuroendocrine carcinoma within the liver and gall bladder.  The bulk of the tumour is present within the liver, including the largest expansile 75mm nodule.  However, the tumour also significantly infiltrates the wall of the gallbladder (A7,A8, A9,A17) with associated mucosal ulceration (A8).  There is a 15mm circumscribed nodule in the wall of the gallbladder (A10, A11, A15) with focal peripheral lymphoid aggregates, but no definite subcapsular sinuses. Lymphovascular invasion is seen adjacent to the deposit, and it is demarcated by an organised fibrous wall, however, features to indicate that is a  involved vein are also not identified.  Therefore, this nodule is classified as a tumour deposit, however, it may represent a completely replaced cystic duct lymph node.
+
+The tumour is composed of  epithelioid cells with moderately pleomorphic nuclei, granular chromatin, generally inconspicuous nucleoli and a moderate amount of granular eosinophilic cytoplasm.  Scattered larger nuclei and cells with vesicular chromatin and small nucleoli are seen. Nuclear moulding is not a feature.  The tumour cells are arranged in sheets, trabeculae, infiltrative nests and in papillary pattern, the latter supported by fibrovascular cores.   Some peripheral palisading is noted.  There is patchy apoptotic debris and patchy spotty necrosis. There is multifocal  lymphovascular (A3, A6, A7, A9, A11, A16, A20)  in the liver, wall and mucosa of the gallbladder and tissue intervening between the liver and gallbladder.  Several foci of perineural invasion (A4, A7, A8, A20) are also identified in the liver and gallbladder wall.  The mitotic count is 115 per 2mm2 .
+
+The intrahepatic bile ducts are generally inconspicuous,  however, centrally within the lobe of liver an ectatic bile duct is lined by cuboidal to columnar mucinous epithelium with high grade dysplasia and corresponding diffuse P53 nuclear expression (A4).  Cholangiocarcinoma or a gallbladder adenocarcinoma are not identified.
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the tumour cells stain as follows:
+Positive: Cam5.2, CK19, CK7, CDX2 (moderate diffuse), CD56 (diffuse), Chromogranin (patchy), Synaptophysin (patchy),  ATRX (normal retained pattern), TTF1, p53 (diffuse),
+Negative: Hep Par1,  Arginase, Gata 3, CK20,
+
+The tumour Ki67 proliferation index is 75%.
+
+WHO Grade (2017) for Gastrointestinal Neuroendocrine tumours:
+The differential is between a well diffferentiate grade 3 neuroendocrine neoplasm and a grade 3 neuroendocrine carcinoma (large cell neuroendocrine carcinoma.  Although nucleoli are inconspicuous, in my opinion, the relatively high Ki67 prolifieration index of 75% and diffuse P53 expression favour designation as a neuroendocrine carcinoma.
+
+Margins:
+Tumour is 5.5mm from the liver resection margin (A5) and invades, but does not penetrate, the  the liver capsule where it is less than 0.1mm from the surface (A1).
+The cystic duct resection margin is clear.
+The  hepatic duct margin was not  identified.
+
+The gall bladder shows chronic cholecystitis and focal cholesterolosis, but no evident glandular dysplasia. Away from the tumour the liver shows preserved lobular architecture. There is marked macrovesicular steatosis with patchy mild to moderate steatoheptatitis with accompanying Mallory Denk bodies and patchy ballooning degeneration.  Patchy foci of lobular inflammation and spotty necrosis are also present.  The portal tract show a normal complement of bile ducts and tributaries of the hepatic artery and portal veins. There is a patchy mild non-specific infiltrate of lymphocytes without interface activity.  There is focal mild portal tract fibrous expansion but no significant bridging.  There is mild patchy pericellular fibrosis.  No stainable iron, dPAS positive globules or copper associated protein seen.
+
+COMMENT 1:
+The overall features favour grade 3 neuroendocrine carcinoma. Primary neuroendocrine carcinomas of the liver are exceedingly rare.  Although the tumour is predominantly within the liver, as it significantly involves the gallbladder wall and focally ulcerates the gallbladder mucosa, a primary neuroendocrine carcinoma of the gallbladder is favoured, providing staging investigations exclude origin from elsewhere.  In particular an ileal primary should be excluded as these tumours may be clinically occult. Whilst immunohistochemisty has been reported as a useful tool to indicate site of origin of well differentiated neuroendocrine neoplasms , this panel cannot be used in the same manner for high grade neuroendocrine carcinomas.  As the grading is somewhat subjective, I will seek an expert opinion from Dr Ian Brown at Molecular Oncology Unit Brisbane and an additional report will be issue.
+
+COMMENT 2:
+The non tumour liver show marked steatosis with mild to moderate steatohepatitis (Brunt grade 2/4 and very mild patchy fibrosis (Brunt stage 1/4).  This may represent non-alcoholic or alcoholic fatty liver disease.  Although the portal inflammation is mild, as there is only mild patchy pericellular fibrosis, correlation with viral serology is suggested to exclude this as a cause of steatohepatitis.
+
+B. Two separate rather fragmented pieces were received and are interpreted as two lymph nodes. Representative sections of the 50mm node show almost entire replacement by metastatic neuroendocrine carcinoma.  The second lymph nodes contains two deposition measuring 0.6mm and 4.5mm.  No extranodal extension is seen.
+
+
+DIAGNOSIS:
+A. Central hepatectomy:
+-   Multinodular grade 3 neuroendocrine lesion within the  liver and gallbladder,  favour grade 3  neuroendocrine  (large cell) carcinoma , largest deposit 75mm with smaller satellite lesions, multifocal lymphovascular  and perineural invasion, hepatic resection margin clear (see comment 1.).
+-   Focal high grade dysplasia with intrahepatic bile duct.
+-   Marked steatosis with mild to moderate steatohepatitis and patchy mild fibrosis (see comment 2).
+B. Hilar lymph node:
+-   Metastatic neuroendocrine (large cell) carcinoma in two of two lymph nodes (2/2).
+The findings were discussed with Dr T Hulan.
+
+
+SUPPLEMENTARY REPORT  17.6.68 (Reported by Dr T Linders)
+At the request of Dr T Sood (DOMAIN AGED CARE RM 2 Wollongong Private Hospital)  tumour mismatch repair enzyme immunohistochemistry is performed. The tumour cells stain as follows:
+
+
+Immunohistochemistry:
+Mismatch Repair Deficiency Protein Expression (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

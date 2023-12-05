@@ -1,0 +1,38 @@
+
+Episode No:  24Y547923U
+249547.ZGJ
+
+MISIASZEK, WALLACE 
+Lab No:  24Y54792
+Old Whitins
+ANNA BAY  Queensland  5650
+Specimen: Tissue
+D.O.B:  19/10/2030
+Sex:  F
+Collected: 13/11/2013 at 12:22
+Location:  GOLD COAST UNIVERSITY HOSPITAL
+DR WILBUR TREVOR HYDZIK
+Distribution:   FILE-COPY
+CLINICAL:
+Lt hemihepatectomy. 
+MACROSCOPIC:
+Specimen labelled "Liver resection", consists of a liver weighing 267g and measuring 115 x 90 x 75mm.  Most of the outer surface of liver is covered by capsule with a rough resection maring measuring 80 x 30mm, inked blue.  Capsular surface is smooth and there is no defect.  On the cut surface most of the liver is occupied by well circumscribed pale soft and haemorrhagic tumour measuring 85 x 80 x 65mm.  It comes close to resection margin measuring 3mm.  Rim of unremarkable liver parenchyma is noted around the tumour.  
+Blocks: 1 and 2 - paired section within resection margin; 3 and 4 - paired section within resection; 5 - section of resection margin; 6 and 7 - section of tumour with capsular surface; 8 - uninvolved liver.  
+(TO: CT;CF/vo 16.1.63) 
+MICROSCOPIC (Reported by Dr F Keamo):
+The 85mm tumour is a spindle cell neoplasm with similar features to the previous excisions (24Y54792 and 24Y54792).  The tumour is relatively circumscribed with a thin fibrous pseudocapsule in areas, but also shows focal areas of infiltration into adjacent hepatocellular parenchyma as well as entrapment of portal structures.  The cellulartumour shows a haphazard, sheet-like and focally storiform arrangement of spindle cells with densely eosinophilic, somewhat granular cytoplasm, mild to moderate nuclear pleomorphism, finely granular chromatin and single to multiple small eosinophilic nucleoli.  The tumour contains red blood cell-filled pseudovascular spaces, as well as capillary size vessels.  Occasional fibrous septa containing dilated vessels are also present.  There is a focal tumour necrosis (approximately 5% of tumour) and acute haemorrhage. Focal lymphovascular invasion is seen (block 3).  Tumour cell mitoses number up to 28 per 10hpf.  The tumour is 1.1mm from the resection margin (block 2)
+Immunohistochemistry:  
+The tumour cells stain as follows:
+Positive - CD34 (multifocal), Vimentin.
+Equivocal - EMA (patchy peripheral staining with background staining of liver)
+Negative - CAM 5.2, Pan CK, AE1/AE3, Desmin, S100, HMB 45, Melan A, CD31, Hepar-1, CD117 (patchy minimal cytoplasmic staining with background cytoplasmic staining of  hepatocytes.)
+COMMENT 1:
+The features are consistent with metastatic unclassifiable spindle cell sarcoma.  Unclassifiable spindle cell sarcoma was the diagnosis made on review by Prof. LOWELL PICCIONI in 2060 for the original pelvic tumour ; a more specific diagnosis was not possible.  The minimal patchy cytoplasmic CD117 staining with background hepatocellular staining in this case, is regarded as a negative result, especially in the context of previous negative DOG1 staining on two separate occasions.  
+The adjacent liver shows overall preservedlobular architecture with very mild patchy portal chronic inflammation, mild fibrous expansion and focal linkage of portal tracts. There is very mild proliferation of bile ductules and periductal concentric fibrosis and possible oedema. A focal intraductal aggregate of acute inflammatory cells is also noted.  No steatosis or lobular inflammation is seen.  There is mild periportal hepatocyte copper deposition on rhodanine staining.  No stainable iron seen on Perls staining.  No dPAS positive globules seen. 
+COMMENT 2:
+The adjacent non-tumour liver shows changes suggestive of biliary obstruction, however, these changes may represent local effects secondaryto proximity to tumour.  Further clinicopathological correlation is necessary.
+DIAGNOSIS:  
+Left hemihepatectomy: 
+-  Metastatic unclassifiable spindle cell sarcoma
+-  1.1mm from the resection margin.
+

@@ -1,0 +1,17 @@
+SPR no: 85H674512X
+MRN no: 8526745
+Site_name: COOKTOWN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Seg. 5/6 hepatectomy.
+General clinical history: Hepatitis B.  Previous left hemi-hepatectomy for HCC.  Cirrhosis of the liver with gallstone disease.  Lap cholecystectmy with liver biopsy 16/5/61.
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Liver segment 5+6&amp;quot;, consists of a partial hepatectomy, weighing 215g and measuring 125 x 65 x 60mm.  The liver capsule appears intact but distorted by tumour nodules.  On sectioning, there is a solitary tumour measuring 80mm x 55mm x 47mm.  The tumour abuts the liver capsule.  The tumour clears the resection margin by 2mm.  Cut surface of the tumour appears orange/yellow with areas of haemorrhage.  The resection margin inked blue.  Blocks: 1 to 4 - tumour close to resection margin; 5 to 8 - tumour abutting liver capsule; 9 - haemorrhagic area of tumour; 10 - RS uninvolved liver.   (TO:BL/ta 23/8/67)
+MICROSCOPIC (Reported by Dr W Vanhese)
+Sections from liver show a moderately differentiated hepatocellular carcinoma with compact trabecular and nodular architecture.  Tumour cells are polygonal with abundant eosinophilic cytoplasm, enlarged vesicular nuclei, prominent nucleoli and scattered mitoses.  The tumour shows positive staining with cam 5.2, glypican-3, arginase and HepPAR1.  EMA. CK19, CDX2, CK7 and CK20 are negative.  Tumour is 1.2mm clear of the surgical resection margin.  Most of the liver capsule appears intact however, focally tumour extends to diathermied capsule (block 7). Lymphovascular invasion is identified.  No perineural invasion is seen.
+
+The uninvolved liver shows portal tracts with patchy minimal chronic inflammatory cell infiltrate.  No interface hepatitis is seen.  Bile ducts show no significant abnormality.  There is mild fibrous expansion of the portal tracts and occasional portal-to-portal and portal- central fibrous septal formation.  Lobular parenchyma shows mid lobular inflammation.  Terminal hepatic venules show no significant abnormality.  No ballooning degeneration is seen.  No Mallory-Denk bodies, ground glass inclusions, zone 3 perisinusoidal fibrosis, granulomas or bile plugs are seen.  No significant iron, dPAS positive globules or copper associated protein seen on special stains.
+DIAGNOSIS:
+Liver segment 5/6 resection:  Moderately differentiated hepatocellular carcinoma.

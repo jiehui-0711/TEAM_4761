@@ -1,0 +1,14 @@
+SPR no: 30O844612Z
+MRN no: 3058446
+Site_name: EAST GRAMPIANS HEALTH SERVICE - ARARAT
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+TLH.  CIN3, LLETZ positive margin.  G3P3.  Asthma.  Uterus and cervix.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus plus cervix&amp;quot;, consists of a uterus with attached cervix weighing 70g in total.  The uterus measures 72 x 45 x 33mm and has a smooth shiny serosal surface.  The ectocervix measures 33 x 33mm and has an unremarkable surface.  No obvious polyps or lesions are seen around the cervix or endocervical canal.  On sectioning the endometrium is up to 3mm and the myometrium is up to 14mm in thickness.  The cervix is all embedded.
+Blocks: 1 to 3 - full LS through anterior body and cervix; 4 to 7 - anterior left cervix; 8 to 10 - anterior right cervix; 11 to 13 - full LS through posterior body and cervix; 14 to 16 - posterior left; 17 to 19 - posterior right cervix; 20 - further block of posterior endometrium with trabeculated myometrium.  (TO:JL/rs 23/1/67)
+MICROSCOPIC (Reported by Dr I Blong):
+The entire cervix has been embedded.  Residual CIN 2 and changes of Human Papilloma Virus infection are present.  The vaginal margin is clear of CIN.  In addition, there is also residual adenocarcinoma in situ.  There is no evidence of invasion.  The endometrium and upper myometrium shows extensive diathermy artefact, but the endometrium appears proliferative, and the myometrium shows no significant abnormality.
+DIAGNOSIS:
+Uterus and cervix:  CIN 2, HPV, AIS.

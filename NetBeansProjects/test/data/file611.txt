@@ -1,0 +1,185 @@
+DateOfBirth
+199312280000
+
+
+SiteName
+LOURDES HOSPITAL & COMMUNITY SERVICES
+
+
+FirstName
+Cumbie
+
+
+SPRID
+75F096748W
+
+
+MRN
+752096
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+50R27749 (50R277497K) PIEDRA, LETTY
+
+HISTOPATHOLOGY REPORT
+ORANGE HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca (NAC) frozen section left sentinel lymph node.  L breast ca, wide local excision, left nipple/areolar complex. Sutures long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT SENTINEL NODE&amp;quot;. A piece of fatty tissue 30mm in maximum diameter with two fatty nodes 15 (blue) and 10mm (pale).  One TS of each node taken for frozen section.
+(1 FS; 2 remainder of blue node; 3 remainder of pale node).  RS (M-3).
+
+Frozen section report:  &amp;quot;Negative. Fatty nodes difficult to cut&amp;quot;.  To Dr Ernesto by Dr  Rossey at 3.35 pm
+
+B. &amp;quot;WIDE LOCAL EXCISION LEFT BREAST, Short - superior, Medium - medial, Long - lateral&amp;quot;
+SPECIMEN TYPE: Wide local excision oriented
+SPECIMEN X-RAY, HOOKWIRE:  No
+SPECIMEN DIMENSIONS:  Medial to lateral 65mm, Superior to inferior 35mm, Anterior to posterior 50mm. WEIGHT 42g
+SKIN:  Anteriorly, 55 mm x 32mm
+NIPPLE: Included, distorted, flattened and crusted 15x13mm.
+MARGIN INKED:  Standard: Anterior skin blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral, 12 slices
+FINDINGS / LESION: There is a solid firm white lesion involving and ulcerated the nipple extending from slice 5 to slice 8 measuring 16mm medial to lateral x 16mm superior to inferior x 10mm anterior to posterior
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+Anterior (skin) involved by tumour, not a margin, posterior 25mm, superior 7mm, inferior 10mm, medial 20mm and lateral 20mm.
+(1 LS slice 1 [medial]; 2&amp;amp;3 slice 2; 4 anterior slice 4; 5 anterior slice 5 [start of lesion]; 6-8 full face of slice 6; 9 lesion with inferior margin slice 7; 10 anterior slice 9; 11&amp;amp;12 slice 11; 13 LS slice 12 [lateral]).  RS (M-13/ZH ank)
+Further blocks: 14,15 superficial half slice 8, superior, inferior; LV
+
+MICROSCOPIC:  O Defina
+
+B. LEFT BREAST LESION EXCISION and A.  LEFT SENTINEL NODE:
+
+BREAST INVASIVE CARCINOMA SYNOPTIC REPORT
+(based on CAP guidelines 2017):
+
+INVASIVE CARCINOMA:
+
+MAXIMUM INVASIVE TUMOUR SIZE:  17 mm diameter
+
+HISTOLOGIC TYPE: Invasive carcinoma with mixed ductal and lobular features
+
+HISTOLOGIC GRADE: Grade 2 (see comment end of report)
+
+SCORES: Tubules 3, Nuclei 2,  Mitoses 1;  Total Score: 6 of 9
+
+MITOTIC RATE: 0 mitoses per 10 high power fields
+
+WHOLE TUMOUR SIZE (Invasive + DCIS): 17 mm
+
+PERITUMOURAL LYMPHOVASCULAR INVASION:
+Lymphovascular invasion is present
+Extent of lymphovascular invasion: Several foci
+
+PERINEURAL INVASION:  Not identified
+
+SKIN INVOLVEMENT:
+Involved, invasive carcinoma directly invades into the dermis and very focally without  epidermal ulceration.
+
+DERMAL LYMPHOVASCULAR INVASION: Not identified
+
+NIPPLE INVOLVEMENT: Invaded directly by invasive carcinoma. Nipple structure is obscured and flattened. The tumour very focally extends into overlying crusted epidermis (incipient focus of  Paget disease).
+
+DUCTAL CARCINOMA IN SITU (DCIS):
+Ductal carcinoma in situ (DCIS) is present, associated with invasive carcinoma.
+Size (extent) of DCIS:  DCIS is present only within areas of invasive tumour.
+Nuclear grade: Intermediate grade
+Architecture/type: cribriform
+Necrosis: Not identified
+Calcification of DCIS: Not identified
+Extensive intraductal component (EIC): Negative
+
+Lobular carcinoma in situ (LCIS):
+Lobular carcinoma in situ (LCIS) is present, several foci, classical type LCIS
+
+MARGINS:
+Invasive carcinoma margins:
+
+Margin status, invasive carcinoma: Negative
+Distance of invasive carcinoma to closest margins: 6 mm, superior and inferior margins
+
+DCIS margins:
+Margin status, DCIS: Negative
+Distance of DCIS to closest margins: &amp;gt; 10 mm
+
+Skin margins are negative for invasive carcinoma and DCIS and the small focus of incipient Paget disease.
+
+IMMUNOHISTOCHEMISTRY (IHC):
+Block B5
+Other suitable tumour block for testing: B7
+
+ER:      POSITIVE:  90% of nuclei, 3+ intensity
+PR:      POSITIVE:  5% of nuclei, 2+ intensity
+HER2 by Immunohistochemisty:  IHC 0 negative
+Ki-67:  10%
+e-cadherin: positive in all areas of invasive tumour. LCIS is negative
+
+SEPARATE FINDINGS:  No significant changes.
+
+LYMPH NODES:
+Sentinel lymph nodes negative for tumour
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumour cells: 0
+Total number of nodes examined: 2
+
+Pathologic Stage Classification (pTNM, AJCC 8th ed, 2017): pT1c N0 (sn)
+
+Comment(s):
+1.  The invasive carcinoma has variable appearances.  In the more superficial parts of the tumour, there is moderate tubule formation but the deeper parts of the tumour show  single cells and small clusters without tubules, and combined with moderate nuclear atypia the tumour is best graded as grade 2 rather than grade 1.
+
+2. The carcinoma involves dermis, extending from the superficial epidermis and extends into subjacent predominantly fatty breast tissue.  The DCIS extends into subjacent fatty tissue.  The area of ?nipple is flattened and distorted and crusted.  The carcinoma invades dermal smooth muscle of of apparent areolar tissue.
+
+DIAGNOSIS:
+A.  LEFT SENTINEL NODE
+- sentinel lymph nodes negative for tumour (0/2)
+
+B. LEFT BREAST LESION, WIDE LOCAL EXCISION:
+- 17 mm diameter
+-  invasive carcinoma with mixed ductal and lobular features
+- grade 2 (see comment)
+- peritumoural lymphovascular invasion is present, several foci
+- skin and effaced nipple involved by direct invasion.
+- incipient focus of epidermal involvement (incipient Paget disease)
+- ductal carcinoma in situ (DCIS) component
+- lobular carcinoma in situ (LCIS) present, several foci
+- distance of invasive carcinoma to closest margins: 6 mm
+- distance of DCIS to closest margins: &amp;gt;10 mm
+
+
+
+
+
+19/7/2069 km
+
+
+
+
+
+SpecimenReceivedDate
+2406-11-13 00:00:00
+
+
+LastName
+Somodi

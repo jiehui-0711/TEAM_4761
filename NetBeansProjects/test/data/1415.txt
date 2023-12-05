@@ -1,0 +1,70 @@
+
+Episode No:  09J981165N
+0939811.QNN
+
+SZABO, Hipolito 
+Lab No:  09J98116
+Tawa
+SANDY BEACH  VIC  4002
+Specimen: Tissue
+D.O.B:  5/12/1997
+Sex:  F
+Collected: 27/5/2063 at :
+Location:  DARLING POINT-GILGANDRA MULTI PURPOSE SERVICE
+DR GAYLORD DARIN Sikel
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+? Transverse colon cancer invading into posterior greater curve of stomach and segment 2 liver.  Resection en bloc with extended right hemicolectomy.
+MACROSCOPIC:
+Specimen labelled "Extended hemicolectomy with partial stomach and partial liver" consists of a segment of small and large bowel (450mm long), mesenteric fat (up to 110mm across), an adherent part of stomach (70mm in length, and an adherent part of liver (80 x 30 x 27mm).  The adherent stomach is 50mm from the closer colonic cut end.  The hepatic resection margin is inked green after removing the staples.  There is an indurated tumour involving the wall of the large bowel 73mm in maximum dimension.  The tumour infiltrates through the mesenteric fat and appears to be abutting the serosa and theadherent wall of stomach.  It is 70mm from the closer colonic resection margin and well clear of the opposite resection margin.  The lumen of the colon is narrowed but is not occluded.  The gastric mucosa appears grossly normal.  The tumour is circumferential and shows mucoid areas in approximately 80% of the cut surface.
+Blocks:  1 - colonic resection margin closer to the stomach, shaved; 2 - other colonic resection margin, shaved; 3 & 4 - representative gastric margin closer to the adjacent colonic resection margin; 5 & 6 - representative gastric margin away from the colonic resection margin; 7 - representative hepatic new margin; 8 to 11 - comprise one slice extending from the colonic mucosa to stomach and liver; 12 & 13 - paired sections of colon; 14 & 15 - paired sections of tumour with stomach and liver; 16 & 17 - paired sections of tumour; 18 & 19 - tumour and adjacent colonic mucosa; 20 & 21 - paired sections of colon and adjacent stomach; 22 & 23 - paired sections tumour with gastric mucosa and the closest hepatic new margin; 24 - tumour and colonic mucosa, reserve block; 25 - tumour and mesenteric fat; 26 - apical lymph node; 27 to 30 - lymph nodes as seen.  Please see diagram.
+MICROSCOPIC (Reported by Dr B Donath):
+Sections show a moderately differentiated mucinous adenocarcinoma of the transverse colon.  Adenocarcinoma penetrates the visceral peritoneum of the transverse colon (Block 25) which in areas, is associated with the formation of inflamed fibrous adhesion, resulting in the attachment of part of the stomach and liver to the transverse colon.  Adenocarcinoma is not present in the adhesion and does not involve the adherent stomach or liver.  A synoptic report follows.
+Macroscopic Description
+
+Site of tumour:	
+Maximum tumour diameter:     73mm
+Distance of tumour to nearer cut end:     70mm
+Tumour perforation:     Yes (pT4) 
+Microscopic Description
+
+Type
+Mucinous adenocarcinoma
+Differentiation by predominant area
+Moderate
+Localinvasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Lymph nodes
+Number of lymph nodes present: 14	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Not seen
+Perineural invasion
+Not seen
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumour status
+R0	No residual tumour
+Other comments
+The liver shows mild secondary steatosis.
+The gastric mucosa shows no significant abnormality
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary -TNM 7th Edition
+pT4a     pN0     pMX     R0
+DIAGNOSIS:
+Extended hemicolectomy:  Moderately differentiated mucinous adenocarcinoma, pT4a N0 MX R0	
+
+
+
+

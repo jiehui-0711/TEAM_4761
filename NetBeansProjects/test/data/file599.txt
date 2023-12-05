@@ -1,0 +1,45 @@
+SPR no: 97R375831D
+MRN no: 9763758
+Site_name: GOULBURN VALLEY HEALTH - CENTRE FOR OLDER PERSONS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  97R375831D
+9763758.HFD
+
+THIELEMANN, DONETTE NIKIA
+Lab No:  97R37583,97R37583
+Knightrider
+PORT AUGUSTA  WA  6982
+Specimen: Washings,Tissue
+D.O.B:  14/2/2017
+Sex:F
+Collected: 29/12/2064 at :
+Location:  Molecular Oncology Unit - DOOMADGEE HOSPITAL
+DR THAD RICKEY SHIVELY
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Pelvic massraised CA125.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left ovary&amp;#8221;, consists of an intact ovary 85 x 65 x 40mm. The surface is smooth. The capsule is possibly disrupted at one end 15mm in maximum dimension.  Specimen serially sectioned. The cut surface shows a solid parenchyma with focal haemorrhage. Block 1- disrupted capsule; 2 &amp;#8211; tumour with capsule; 3 &amp;#8211; tumour and haemorrhage; 4-13 &amp;#8211; representative section of ovary.
+FROZEN SECTION:  Poorly differentiated carcinoma, favour serous differentiation.
+Result to Prof Tschanz by Dr Z Nauer at 15:15pm on 27.10.14.
+B.  Specimen labelled &amp;#8220;Right ovary&amp;#8221;, consists of a cystic mass measuring 160 x 125 x 75mm.  The attached fallopian tube is 60mm in length and 10mm in diameter. The surface of the ovary is slightly ragged and nodular.  The capsule is focally disrupted and measures 30mm in maximum dimension.  Specimen serially TS.  The cut surface reveals a solid cystic lesion.  The cyst is filled with yellow fluid.  Extensive area of haemorrhage and necrosis are identified.  Blocks 1-17 &amp;#8211; representative section of the solid cystic mass; 18-24 &amp;#8211; representative sections of subserosal nodule; 25 &amp;amp; 26 &amp;#8211; right fallopian tube with fimbria.
+C.  Specimen labelled &amp;#8220;Uterus, cervix, both tubes&amp;#8221;, consists of a uterus with attached cervix weighing 130g. The uterus measures 110 x 55 x 45mm and has a shiny smooth serosal surface. The cervix measures 42 x 40mm and is unremarkable.  On sectioning an intrauterine device is identified in situ.  On sectioning the endometrium is 2mm and the myometrium is 22mm thick.  On the anterior portion of the endometrial canal there is a polyp measuring 10 x 5 x 5mm.  The myometrium contains an area of adenomyosis.  Also there is a fibroid measuring 20 x 15 x 15mm. The right fallopian tube is present and measures 20mm in length and 10mm in diameter.  The fimbrial end is not identifiable. The left fallopian tube with attached fimbrial end measures 55mm in length and 10mm in diameter. White nodules areidentified on the posterior portion of the cervix 10mm in maximum dimension.  The cut surfaces of the right and left fallopian tube are unremarkable.  Blocks 1-4 &amp;#8211; full LS of anterior body and cervix; 5 &amp;#8211; representative section of leiomyoma; 6 &amp;#8211; polyp; 7-10 &amp;#8211; full LS of posterior body and cervix; 11 &amp;amp; 12- sections ofthe nodule attached to the posterior portion of the cervix; 13 &amp;#8211; right fallopian tube; 14 &amp;amp; 15 &amp;#8211; left fallopian tube and fimbrial end.
+D.  Specimen labelled &amp;#8220;Hypogastric lymph node&amp;#8221;, consists of two lymph nodes identified ranging from 10-15mm. Block 1- one lymph node; 2 &amp;#8211; one lymph node. AE.
+E.  Specimen labelled &amp;#8220;External iliac lymph node&amp;#8221;, consists of a piece of fibrofatty tissue 50x 30 x 20mm.  Three lymph nodes are identified ranging from 10-30mm. Block 1- one lymph node; 2 &amp;amp; 3 &amp;#8211; sections of one lymph node; 4 &amp;#8211; one lymph node.
+F.  Specimen labelled &amp;#8220;Omentum&amp;#8221;, consists of a piece of omentum measuring 300 x 130 x 20mm.  Serially TS.  The cut surface reveals lobulated fat with no evidence of focal lesions.  No lymph nodes are identified macroscopically.  Representative sections in 3 blocks.  (TO: RM/ec  30.12.64)
+
+MICROSCOPIC: (Reported by Dr Z Berlanga)
+A and B.  Sections from both ovaries show high grade serous carcinoma.  The lesion has a predominantly solid architecture, is composed of sheets of tumour cells with pleomorphic nuclei andprominent nucleoli.  Micropapillae, papillae, slit-like lumens and gland-like are focally present. Giant tumour cells with multiple nuclei, macronucleoli, necrosis and numerous mitoses (including atypical forms) are seen. Several foci of lymphovascular invasion are seen. No definite tumour is identified on the serosal surface. Changes in keeping with a borderline serous tumour are seen inthe right ovary (B6).
+Invasive tumour is seen in the rightfallopian tube fimbria. There is no evidence of in situ carcinoma.
+C. Sections show a surface serosal deposit of serous carcinoma on the posterior cervix.
+The endometrium is in proliferative phase.  Leiomyomas and adenomyosis are seen. The cervix shows no evidence of HPV effect orCIN. The fallopian tubes show no evidence of invasive or in situ carcinoma.
+D. Sections show metastatic serous carcinoma in 1 out of 2 lymph nodes.
+E. Sections show metastatic serous carcinoma in 2 out of 3 lymph nodes.
+F. Sections show omental fat with no evidence of malignancy.
+DIAGNOSIS:
+A andB. Left and right ovaries: high grade serous carcinoma involving both ovaries and right fallopian tube fimbria
+C. Uterus, cervix and bilateral fallopian tubes: surface serosal deposit of serous carcinoma on posterior cervix
+D. Hypogastric lymph node:  metastatic serous carcinoma in 1 out of 2 lymph nodes
+E. External iliac lymph node: metastatic serous carcinoma in 2 out of 3 lymph nodes
+F. Omentum: no evidence of malignancy

@@ -1,0 +1,27 @@
+SPR no: 61N207202U
+MRN no: 615207
+Site_name: MIDLANDS MULTI PURPOSE HEALTH CENTRE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple, insulinoma.
+1   Prolene - PV
+2.  Prolene - SMA.
+3.  Prolene - Uncinate process.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Whipple and omentum&amp;quot;, consists of a pancreatoduodenectomy with separate fatty tissue.  The duodenum measures 335mm with a circumference of 80mm, and the stomach portion measures 50 x 24 x 23mm.  The small bowel mucosa appears unremarkable as does the gastric mucosa. The gallbladder measures 52 x 30 x 5mm, and the cystic duct measures 23mm in length x approximately 5mm in diameter.  The hepatic duct margin is located at the junction where the cystic duct becomes the common bile duct.  The hepatic duct is 4mm in maximum diameter.  The gallbladder serosal surface is smooth and shiny and intact.  The extra-pancreatic common bile duct extends for approximately 5mm and has a silk suture tied around it.  The pancreatic neck margin measures approximately 38 x 17mm.  The pancreas measures 70mm from (superior to inferior) x 45mm (anterior to posterior) x 52mm (medial to lateral).  There are orientating sutures on the pancreas (one suture denoting PV, two sutures denoting SMA and three sutures denoting the uncinate process).  The detached piece of fatty tissue measures 750mm x up to 120mm x 20mm.  The anterior and posterior surface of the pancreas are inked black.  The portal vein margin is inked blue, the SMA margin inked red and the uncinate process is inked green.  The gallbladder wall thickness is 1mm and the gallbladder contents contain thickened dark brown material which covered the mucosal surface.  The cut surfaces of the pancreas reveal a pale firm lesion measuring  12 x 12 x 10mm and is approximately 7mm to the nearest (anterior) margin.  The pancreas has been serially sliced into nine slices from superior to inferior
+Blocks: 1 to 3 - RS separate fatty tissue; 4 - hepatic duct margin; 5 &amp;amp; 6 - composite section of pancreatic shave margin; 7 - gastric margin; 8 - LS distal duodenal margin; 9 - cystic duct; 10 - RS body gallbladder; 11 - RS fundus gallbladder; 12 &amp;amp; 13 - LS of inferior aspect pancreas (from slice 9); 14 - slice eight (second last inferior slice); 15 - slice seven; 16 - slice six; 17 - slice five; 18 &amp;amp; 19 - composite sections slice four; 20 &amp;amp; 21 - composite sections slice three; 22 &amp;amp; 23 - lymph nodes as seen, from peripancreatic fatty tissue slice two; 24 &amp;amp; 25 - lymph nodes as seen, from peripancreatic fatty tissue slice one.   (NM/ta 21/6/2066)
+
+
+MICROSCOPIC (Reported by Dr P Brabazon &amp;amp; registrar Dr P Gillard):
+Sections of pancreas show a 16mm grade 1 (low grade) neuroendocrine tumour composed of nest and cords of neoplastic cells.  The neoplastic cells have salt-and-pepper chromatin and granular eosinophilic cytoplasm.  There is less than one mitosis per ten high-power-fields, and the Ki67 index is less than 2%.  No perineural or lymphovascular invasion is identified.  There is no necrosis.  The tumour is positive for CD56 (strong and diffuse), chomogranin A (moderate and diffuse), synaptophysin (weak and patchy), and insulin (moderate and diffuse).  The CD34 stain is negative. The tumour is 4mm from the (closest) anterior surface, 8mm from the portal vein margin, 11mm from the posterior surface, and 12mm from the SMA/uncinate margin.  The stomach and small bowel margins are well clear.  Additionally, there is a separate 1.1mm neuroendocrine microadenoma located 5mm from the (closest) posterior surface.  Twenty (20) lymph nodes are negative for tumour.  The adjacent pancreas shows patchy autolytic change and the gallbladder mucosa is extensively denuded.  The omentum shows no significant abnormality.
+
+
+DIAGNOSIS:
+Whipple and omentum:
+- Grade 1 (low grade) neuroendocrine tumour, consistent with insulinoma in the appropriate clinical context, clear of margins
+- Twenty (20) negative lymph nodes
+
+
+ADDENDUM (24/7/68):
+Further information supplied by Dr P Grunwald (endocrinologist):  Clinically the tumour is a proinsulinoma rather than insulinoma.

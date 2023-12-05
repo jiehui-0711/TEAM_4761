@@ -1,0 +1,93 @@
+SPR no: 90M215334J
+MRN no: 9042153
+Site_name: WESTMEAD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  90M215334J
+904215.IIM
+
+WAYNICK, BYRON
+Lab No:  90M21533
+Timbrell
+NORTH MACKAY  Tasmania  3354
+Specimen: Tissue
+D.O.B:  1/1/1985
+Sex:  M
+Collected: 03/11/2015 at 15:39
+Location:  DICKINSON 3 SOUTH-NORTHAMPTON HOSPITAL
+DR FRANCESCO DEON REDHAGE
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Intraoperative bile duct margin tissue specimen.  83 old male obstructive jaundice, head of pancreas carcinoma.  Whipple&amp;apos;s procedure ?distal CBD cholangiocarcinoma.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Bile duct margin&amp;quot; consists of two pieces of red tan tissue, 8 and 5mm each.  AE for frozen section.
+Blocks:  1- frozen section de-blocked.
+FROZEN SECTION REPORT:
+No invasive tumour.  Low grade biliary dysplasia.
+Phone result to Dr Kelly by A/Prof X Cebula/Dr X Kallstrom/Dr X/Rivadulla Dr X Nau at 4.30pm on 03.11.15.
+B.  Specimen labelled &amp;quot;Whipple&amp;apos;s (long blue stitch at bile duct)&amp;quot; consists of a pancreatic-duodectomy.  The antrum to duodenum measures 22mm in length x 35 x 35mm in diameter.  The serosal surface is unremarkable.  The wall thickness is up to 4mm and the mucosa is unremarkable with no polyps or lesions identified.  Part of the greater omentum is present and measures 110 x 60 x 20mm.
+The pancreatic head measures 75 x 50 x 30mm.  The anterior surface is smooth.  At the periuncinate soft tissue area there are multiple enlarged lymph nodes, as well as a nodular area marked with a long blue stitch indicating the bile duct.  The specimen is inked as follows:  blue - pancreatic neck, black - portal vein margin, green &amp;#8211; uncinate surface, red - anterior surface of pancreas, yellow - posterior surface of pancreas. The lymph nodes found range from 10 to 18mm in maximum dimension.  The bile duct measures approximately 40 x 15 x 15mm.  On sectioning through the bile duct there is a tan firm tumour encircling the duct measuring approximately 20 x 10 x 8mm.  The tumour is 2mm from the distal bile duct margin and is clear of the pancreatic margin. Attached to the bile duct is a cystic duct/gall bladder stump measuring 20mm.   The pancreas is AE from inferior to superior.
+Blocks:  1 - distal bile duct margin longitudinal section; 2 to 4 - ?cystic duct stump (no margins present); 5 &amp;#8211; distal bile duct entering pancreas with portal vein margin; 6 to 12- pancreas embedded from superior to inferior (6 - bile duct with uncinate portal vein and posterior surface, 11 &amp;amp; 12 - paired blocks superior pancreas with anterior surface and uncinate surface); 13 to 15 - pancreatic neck margin longitudinal section; 16 - proximal gastric and distal duodenal margin; 17 to 21 - peripancreatic lymph node (near bile duct) (17 to 20 - one lymph node each, 21 - lymph nodes as seen); 22 to 23 - possible lymph nodes as seen in greater omentum.
+C.  Specimen labelled &amp;quot;Falciform ligament&amp;quot; consists of a piece of unorientated fibrofatty tissue measuring 85 x 70 x 15mm.  The fat has a thin fibrous capsular surface.  A section of the specimen is ragged and unencapsulated (surgical margin), 80 x 40mm.  This area is inked black.  On sectioning no discrete lesion is identified and the cut surface is oily and yellow. RS in 3 blocks.
+D.  Specimen labelled &amp;quot;Portohepatic tissue&amp;quot; consists of a ragged piece of fibrofatty tissue measuring 10 x 10 x 5mm.  The outer surface is inked black and the specimen serially sectioned. No lesions are identified within the specimen.  AE 1 block.
+E.  Specimen labelled &amp;quot;Omentum&amp;quot; consists of a piece of fibrofatty tissue measuring 180 x 160 x 55mm.  There is a white fibrous ?scar on the surface over 15 x 3mm.  Otherwise the surface of the omentum is unremarkable.  No lesions are identified on sectioning.  Representative sections in 4 blocks.  (TO: JL:  JL/mm 1.5.65)
+MICROSCOPIC:  (Reported by Dr X Pasha)
+A. Sections show bile duct wall with low grade dysplasia.  There is no evidence of invasive malignancy.
+B. All pancreatic tissue and bile duct have been embedded.
+SUMMARY BILE DUCT TUMOUR
+Size of tumour: 20mm
+
+Histological tumour type
+Cholangiocarcinoma
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+Main tumour site
+Common bile duct (extrapancreatic)
+Extent of tumour invasion
+Invasion to cystic duct stump, no invasive tumour seen in pancreas
+
+Lymphovascular invasion
+Present, focal
+Type of vessel
+Lymphatic (B1)
+Perineural invasion
+Present, focal (B1)
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+Carcinoma in situ/high grade dysplasia
+Present focally in intrapancreatic portion of common bile duct and ampulla of Vater
+Margins:
+Invasive tumour:
+Pancreatic neck: &amp;gt;10mm
+Common bile duct: 2mm (B1)
+Portal vein (superior mesenteric vein):  1.5mm (B5)
+Superior mesenteric artery/periuncinate soft tissue: &amp;gt; 10mm
+Proximal (stomach):  &amp;gt; 10mm
+Distal (duodenal):   &amp;gt; 10mm
+Carcinoma in situ/high grade dysplasia:  &amp;gt; 20mm clear of bile duct margin
+Low grade dysplasia: present at bile duct margin
+Surfaces pancreas:
+Anterior:  &amp;gt; 10mm
+Posterior: &amp;gt; 10mm
+Lymph nodes:
+Number found:  19
+Number involved:  0
+Other pathologies:
+Extensive low grade dysplasia is present throughout the common bile duct and ampulla of Vater, extending to the bile duct margin. There is focal high grade dysplasia in the intrapancreatic portion of the common bile duct and ampulla of Vater
+No gall bladder is present in the specimen, in keeping with previous cholecystectomy.
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+Primary tumour category (pT)
+T2 Tumour invades beyond wall of bile duct
+Regional lymph node category (pN)
+N0 No regional lymph node metastasis
+Distant metastasis category (pM)
+MX Not assessable by histology
+C. Sections show fibrous tissue and fat with no evidence of malignancy.
+D. Sections show fat, nerves and vessels with no evidence malignancy.
+E. Sections show omental fat with no evidence of malignancy.
+DIAGNOSIS
+A. Frozen section bile duct margin: low grade dysplasia
+B. Whipple resection:
+- 20mm moderately differentiated cholangiocarcinoma of the common bile duct (see text)
+- 19 lymph nodes with no evidence of malignancy
+C to E. Falciform ligament, portohepatic tissue and omentum: no evidence of malignancy

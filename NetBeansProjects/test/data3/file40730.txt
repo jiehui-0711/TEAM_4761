@@ -1,0 +1,124 @@
+SPR no: 56C1476824
+MRN no: 020062
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT 17/2/71
+
+56C14768 (56C1476824) Morand, Elliott
+HISTOPATHOLOGY REPORT
+WEIPA HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L mastectomy / axilla.  DCIS medial Ca [illegible].
+
+MACROSCOPIC:
+&amp;quot;LEFT BREAST + CLEARANCE&amp;quot;.
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Mastectomy
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:  300x180x70mm
+WEIGHT:  1435g
+SKIN:  230x95mm
+NIPPLE:  13mm
+MUSCLE:  No
+MARGINS INKED Non-standard:  Anterosuperior blue, anteroinferior green, posterior black
+Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+OTHER TISSUE:  Axillary tail attached 80x70x30mm.
+FINDINGS / LESION:  At 1 o&amp;apos;clock there is a firm, ill-defined, lobulated lesion 15x10mm.  It is clear (more than 30mm) from all margins.  At 12 to 1 o&amp;apos;clock, there is a haemorrhagic cavity measuring 50x20x20mm, surrounded by fibrohaemorrhagic areas.  No definite firm lesion identified.
+(1 nipple; 2&amp;amp;3 composite section of 1 o&amp;apos;clock tumour; 4&amp;amp;5 second portion of tumour deeper; 6-13 cavity anterior portion; 14-19 cavity posterior portion; 20 posterior margin of cavity; 21&amp;amp;22 section of 1 o&amp;apos;clock tumour composite section with posterior margin; 23&amp;amp;24 composite section anterior to the 1 o&amp;apos;clock tumour; 25 upper outer quadrant; 26 lower outer quadrant; 27 inner lower quadrant;
+Axillary tail separated and multiple lymph nodes identified macroscopically, maximum dimension of 40mm with a firm white surface.
+28 one section of involved lymph node; 29 one section of involved lymph node; 30&amp;amp;31 one lymph node sectioned;  32&amp;amp;33 one lymph node sectioned; 34&amp;amp;35 one lymph node sectioned; 36-43 ?two lymph nodes each.  RS (M-43).
+B.  &amp;quot;MORE AXILLARY TISSUE&amp;quot;.  Fibrous tissue 15x10x5mm, possible lymph node 5mm.  AE (1-1/SM 2/6/2068 nh)
+MICROSCOPIC: (Dr O Brokins)
+&amp;#160;
+
+
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+SPECIMENS AND B
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Multiple invasive foci
+Number and size of individual foci: Two foci 14 and 3mm
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;14mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type (ductal)
+&amp;#160;
+HISTOLOGIC GRADE: 3
+&amp;#160;
+SCORES: Tubules: 3, Nucle: 3, Mitoses: 3; Total score: 9
+&amp;#160;
+MITOTIC RATE: 44&amp;#160;&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):
+Tumour 1: 14mm
+Tumour 2: 30mm  (3mm invasive within 30mm DCIS)
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Present and extensive
+&amp;#160;
+PERINEURAL INVASION:Not identified
+
+SKIN INVOLVEMENT: Not identified
+DERMAL LYMPHOVASCULAR INVASION: Not identified
+NIPPLE INVOLVEMENT: Not identified
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: DCIS present within 14mm tumour and spanning 30mm in association with 3mm tumour
+Nuclear grade: High
+Architecture / type: Solid, cribrifom
+Necrosis: Present
+Microcalcification of DCIS: Present
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Clear, by more than 10mm
+DCIS MARGINS: Clear, by more than 10mm
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block A2&amp;#160;
+ER: Positive &amp;#160;98%, &amp;#160;2+
+PgR: Positive &amp;#160;95%, &amp;#160;3+&amp;#160;
+HER2: Negative 1+ (IHC, SISH to follow)
+Ki67: 40 to 50%
+&amp;#160;
+Other tumour block suitable for further testing: A4
+&amp;#160;&amp;#160;
+LYMPH NODES
+AXILLARY LYMPH NODES: Involved
+Number of involved lymph nodes: 9
+Total number of nodes examined: 22
+&amp;#160;
+Largest nodal tumour deposit: 21 mm
+Extranodal extension: Not identified
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c  , pN2a
+
+
+DIAGNOSIS:
+
+A, B. LEFT BREAST AND AXILLA -
+-  TWO FOCI OF GRADE 3 INVASIVE DUCTAL CARCINOMA, 14 AND 3mm MAXIMUM EXTENT, MARGINS CLEAR. ASSOCIATED HIGH GRADE DCIS
+-  EXTENSIVE LYMPHOVASCULAR SPACE INVASION
+-  NINE OF TWENTY TWO AXILLARY LYMPH NODES INVOLVED BY METASTATIC CARCINOMA.
+2/8/71 ld
+SUPPLEMENTARY REPORT 17/3/71
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:   NEGATIVE
+Mean HER2 copy number per cell:  3.4
+Mean CEP17 copy number per cell:  1.75
+HER2/CEP17 Ratio:  1.9
+SCORING CRITERIA (Update in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal:&amp;#160; HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 6.0
+Positive: HER2/CEP17 &amp;gt; or equal to 2.0
+Reported by: Dr O Scholer
+Date: 15/2/71

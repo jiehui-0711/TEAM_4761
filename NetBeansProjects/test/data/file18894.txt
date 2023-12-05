@@ -1,0 +1,48 @@
+SPR no: 13X070336N
+MRN no: 1380703
+Site_name: GOULBURN BASE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report13X07033 (13X070336N) ORTELLI, HARRIS
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Low grade appendix tumour (PMP).  Peritonectomy.  Peritoneum, omentum, gallbladder.
+
+MACROSCOPIC:
+&amp;quot;GALLBLADDER, OMENTUM, PERITONEAL DISEASE RIGHT DIAPHRAGM&amp;quot;.  Specimen is from peritonectomy and consists of the following components.  An intact gallbladder 85mm in length, 35mm in diameter.  Cystic duct opening 4mm in diameter.  Cystic node is not identified.  The serosa is smooth and shiny.  The mucosa is dark green and velvety.  The wall thickness is up to 4mm.  The lumen of gallbladder contains dark green bowel.  No gall stones identified.
+
+(1  cystic duct and neck; 2  body and fundus).  RS (4-2).
+
+Two of the specimens consists of multiple pieces of peritoneum, 140x110x20mm in aggregate.  Some of the pieces appear thickened, haemorrhagic and nodular up to 30x20x10mm.  Cut surface of these nodular portions shows mucoid material.
+
+(3-6  nodular portions with possible metastases).  RS (M-4).
+
+Part three of specimen consists of multiple ragged strips of muscle with attached fat and soft tissue presumed diaphragm, 90x45x10mm.  Some of the pieces of have firm fibrotic nodules up to 10mm.
+
+(7-10  firm fibrotic areas).  RS (M-4).
+
+Part four of the specimen consists of omentum, 250x240x30mm.  The surface of the omentum is focally haemorrhagic and fibrotic.  No obvious deposits.  One lymph node present up to 5mm.
+
+(11-15  haemorrhagic and fibrotic areas; 16  one bisected lymph node).  RS (M-17/JC/km).
+
+MICROSCOPIC:   (Dr. C. Bottaro)
+The gallbladder mucosa is unremarkable.  There is smooth muscle hyperplasia and fibrosis with a occasional chronic inflammatory cells and early Rokitansky-Aschoff sinuses present.  There are no other gallbladder abnormalities and no serosal mucin.
+
+The peritoneal fragments show occasional pools of mostly acellular mucin on the surface.  In a couple of these pools there are a few short strips of low-grade columnar, cuboidal and mucinous epithelium.  Zones of fat and tissue necrosis with surrounding granulomatous inflammation are present within the peritoneal fragments.   These zones are negative for PASD, GMS, ZN and MZN fungal and mycobacterial stains.
+
+Similar paucicellular mucin pools with occasional strips of low-grade mucinous epithelium are present attached to the presumed diaphragm fragments and the omentum.
+
+One lymph node is identified with no significant abnormality and shows a reactive germinal centre.
+
+There are no high grade epithelial components and no signet-ring cells.
+
+Immunohistochemistry:
+The lymph node shows resting follicles which are positive for CD20 and bcl2 and negative for CD10 and Bcl6.  CD21 and CD23 highlight the follicular dendritic cell networks and CD3 and CD4 stains the interfollicular Tcells.
+
+DIAGNOSIS:
+GALLBLADDER, OMENTUM, PERITONEAL DISEASE RIGHT DIAPHRAGM:
+- LOW-GRADE MUCINOUS CARCINOMA PERITONEI (DISSEMINATED PERITONEAL ADENOMUCINOSIS)
+- INVOLVES THE PERITONEAL TISSUE, DIAPHRAGM AND OMENTUM
+19/4/2067 nh

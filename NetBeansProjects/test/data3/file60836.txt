@@ -1,0 +1,60 @@
+SPR no: 25H4155857
+MRN no: 252415
+Site_name: YORK HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report25H41558,25H41558 (25H4155857) Stolfi, RENATO Declan
+HISTOPATHOLOGY REPORT
+BARADINE MULTI PURPOSE SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ovarian mass, CA125 = 400.
+
+1.   Peritoneal washings for cyto.
+2.   Left ovary and tube for frozen section.
+
+Pelvic mass, CA125 = 400.
+
+1.   Uterus, cervix, and right ovary and right fallopian tube.
+2.   Left pelvic lymph node.
+3.   Omentum.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT OVARY AND TUBE&amp;quot;.   Multiloculated multicystic ovary 150x120x60mm.   Solid central firm creamy area.   1x frozen section from solid area for frozen section.   Serous fluid in cysts.
+
+F/S:  &amp;quot;At least borderline serous tumour&amp;quot; - offered to do further F/S but Dr. Robertson declined.   Result was given by phone to Dr. Robertson at 11:35am on 17/10/2068 by Dr. G. Mcgann.
+
+Further description:  The cystic mass  weighs 400g.   Outer surface is smooth and without any papillary areas. Sectioning shows a central predominantly fibrotic stroma with multilple surrounding loculated cysts ranging from 5 to 50mm containing watery and gelatinous secretions. The internal lining of the cysts is largely smooth. The fallopian tube attached measures 110mm in length, 7mm diameter.
+
+(1  frozen section; 2  tube; 3-7  section including the outer surface [inked green]; 8-14  more sections of solid area; 15&amp;amp;16  rest of tube [tube embedded entirely] 17, 18 further ovary cysts).M-18 RS
+
+B.  &amp;quot;UTERUS, CERVIX, RIGHT OVARY AND RIGHT FALLOPIAN TUBE&amp;quot;.   Consists of uterus, cervix and attached right tube and ovary weighing 94g.
+
+Tube measures 75mm in length, 7mm maximum diameter.   Tube adjacent to fimbria is dilated up to 10mm.   Ovary measures 35mm in length, 10mm in diameter.   Sectioning is unremarkable.
+
+Uterus with cervix measures 80x50x50mm.   Anterior is inked blue, posterior inked black.   Anterior wall measures 24, posterior wall measures 23mm.   The cervix is unremarkable. The endometrium measures 2 to 3mm and contains an endometrial polyp 25mm in diameter.   Some irregular cystic areas are seen in the myometrium, probably adenomyosis.
+
+(1  right parametrium; 2  left parametrium; 3-5  tube [tube embedded entirely]; 6  right ovary; 7-10  one full face sagittal view of anterior [9  including polyp]; 11-13  one full face of sagittal view of posterior wall; 14  more section of polyp).   Representative sections.  (M-14).
+
+C.  &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;.   Fibrofatty tissue 35mm including one lymph node 20mm.
+
+(1  lymph node; 2  remainder fibrofatty tissue).   All embedded. (M-2).
+
+D.  &amp;quot;OMENTUM&amp;quot;.   Fibrofatty tissue consistent with omentum measuring 200x100x20mm.   No definite lesion identified. M-4 RS. (SM 15/9/2069 km).
+
+MICROSCOPIC:  (Dr G Lieder)
+A. Histology shows a background of prominent fibrous stroma containing multiloculated cysts with much of the epithelium being single or multilayered seromucinous type epithelium with up to moderate atypia and scattered mitoses. In places there is evidence of glandular complexity with multilayered micropapillary tufting with scattered mitoses and moderate nuclear atypia. Immunostains show positivity for CK7, PAX8, ER, PR and negativity for WT1, p63, CK20 and CDX2. Mucin stains show some focal areas of cytoplasmic staining. There is no evidence of frankly invasive adenocarcinoma. The appearances are consistent with those of a borderline seromucinous ovarian tumour arising in a background of cystadenofibroma. The fallopian tube is unremarkable (all embedded and examined).
+
+B. No atypia is seen within the squamous or endocervical epithelium of the cervix. The endometrium contains a large simple endometrial polyp with no atypia or malignancy. There is mild focal adenomyosis. The right ovary is unremarkable. The right tube is unremarkable other than for a small paratubal cyst.
+
+C. No evidence of malignancy is seen in one lymph node.
+
+D. No evidence of malignancy is seen in this fatty omental tissue.
+
+DIAGNOSIS:
+A. LEFT OVARY AND TUBE - BORDERLINE SEROMUCINOUS TUMOUR
+B. UTERUS, CERVIX, RIGHT OVARY AND RIGHT FALLOPIAN TUBE -
+-  NO EVIDENCE OF MALIGNANCY, ENDOMETRIAL POLYP
+C. LEFT PELVIC LYMPH NODE -  NO EVIDENCE OF MALIGNANCY IN 1 NODE
+D. OMENTUM -  NO EVIDENCE OF MALIGNANCY
+21/10/2069 nh

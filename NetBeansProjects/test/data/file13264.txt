@@ -1,0 +1,19 @@
+SPR no: 42I520757G
+MRN no: 4235207
+Site_name: HORNSBY KU-RING-GAI HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+Previous endometrial adenocarcinoma.  Single lung metastasis resected today (difficult to find).  Right lower lobe wedge resection.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Right lower lobe wedge resection&amp;#8221; consists of a wedge resection with a pre-inflation weight of 10g with stapled margin measuring 70 x 40 x 20mm.  Stapled margin removed to a thickness of 5mm and residual stapled line inked black.  Within the lung is a single firm nodule of tumour measuring 3 x 3 x 3mm.  Specimen serially sliced TS.
+Blocks:  1 - RS slice adjacent to tumour; 2 - slice containing tumour; 3 - slice adjacent to area with tumour; 4 to 6 - RS lung.  Reselect blocks: 7-10 - remaining tissue. AE. (TO: MS; MS/ua 9.10.66)
+
+MICROSCOPIC (Reported by Dr M Hasberry):
+Sections show lung tissue.  There is a subpleural lymph node which has anthracotic pigment but is otherwise unremarkable.  The lung parenchyma shows some mild emphysematous changes but is otherwise essentially unremarkable. The whole specimen has been blocked and no tumour is seen.
+The previous biopsy (42I52075) has been reviewed and a diagnosis of adenocarcinoma, consistent with metastatic endometrioid adenocarcinoma, is confirmed.
+DIAGNOSIS:
+Wedge excision right lung:  No tumour seen.

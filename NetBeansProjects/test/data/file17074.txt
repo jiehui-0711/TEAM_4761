@@ -1,0 +1,23 @@
+SPR no: 20B054808Z
+MRN no: 2000548
+Site_name: NORTH MIDLANDS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Adenocarcinoma COJ neoadjuvant chemoradiation finished 6/2002.  Ivor Lewis oesophago-gastrectomy.
+
+MACROSCOPIC:
+Specimen labelled &amp;quot; Oesophagus + stomach&amp;quot;, consists of an oesophago-gastrectomy including distal oesophagus, 50mm in length and 25mm in diameter and the proximal part of the stomach 50mm in length in both sides and 70mm the distal stapled line.  The attached fibrofatty tissue to the oesophagus is 15mm in maximum width and includes multiple lymph nodes 5 to 20mm in maximum dimension.  The fatty tissue attached to the stomach is to the width of 30mm at greater curvature sie and 10mm at lesser curvature side.  At the gastro-oesophageal junction an ulcerated area noted measuring 35mm in length and 35mm in circumference.  The ulcerated area is 35mm from proximal cut end and 35mm from distal cut end.  The esophageal mucosa above the ulcerated area shows patchy tan areas which are at least 20mm from proximal cut end.  The stomach mucosa appears unremarkable.
+
+Blocks: 1 to 2 - RS LS proximal end; 3 to 11 - the COJ junction (including the entire ulcerated area and above patchy areas) serially embedded from one end to other; 12 - one full TS immediately below COJ (firm mucosa); 13 - RS normal appearing stomach; 14 - RS LS distal end; 15 to 21 - lymph nodes at proximal oesophagus with block 15 - one lymph node, 16 - one lymph node, 17 - one lymph node, 18 and 19 - one lymph node, 20 -  one lymph node; 21 - four lymph nodes; 22 to 24 - lymph nodes at lesser curvature side (block 22 - one lymph node; 23 - one lymph node; 24 - four probable lymph nodes); 25 to 26 - the rest of lesser curvature fatty tissue ?lymph node; 27 - fatty tissue attached to a stapled line adjacent to COJ junction; 28 - one lymph node closest to the stapled line at the COJ; 29 to 34 - lymph nodes adjacent to greater curvature with 29 - six probable lymph nodes; 30 - one lymph node; 31- one lymph node; 32 - six probable lymph nodes; 33 to 34 - fatty tissue ?more lymph node.  RS in 34 blocks.  Please see the diagram.  (LN/vo 19.1.66)
+
+
+MICROSCOPIC (Reported by Dr H Hernandaz):
+Sections of cardio-oesophageal junction show an area of ulcer.  The tissue underlying the ulcer shows extensive fibrosis, in keeping with previous neoadjuvant therapy.  No residual adenocarcinoma is seen.  There is no evidence of lymphovascular or perineural invasion.  Focal areas of Barrett&amp;apos;s oesophagus with low grade dysplasia are seen adjacent to the ulcer.  No high grade dysplasia is seen.  The dysplasia is well clear of the resection margin (more than 25mm).  The gastric mucosa away from the tumour is unremarkable.  The resection margins are unremarkable.  Thirty four (34) lymph nodes are identified in total.  The lymph nodes are unremarkable with no evidence of tumour metastasis.
+
+Degree of regression (AJCC)
+Grade 0: Complete response &amp;#8211; No viable cancer cells
+
+
+DIAGNOSIS:
+Oesophagus and stomach - No residual tumour.

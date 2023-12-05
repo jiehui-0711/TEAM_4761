@@ -1,0 +1,68 @@
+SPR no: 57C819451G
+MRN no: 5718194
+Site_name: FLINDERS MEDICAL CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left breast invasive cancer with palpable LN.  Left breast mastectomy and left axillary LN dissection.  Prophylactive right breast mastectomy.  Chronic back / leg pain.  5/52 recent L4-S1 fusion.  Neurostimulator in situ.
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left breast stitch apex of axilla&amp;quot;, consists of a mastectomy specimen measuring 230mm medial to lateral, 210mm superior to inferior, 250mm anterior to posterior.  The overlying skin measures 235mm x 170mm bearing a nipple with a 10mm diameter.  The skin nipple are unremarkable.  The anterior / superficial margin inked blue and the deep / posterior margin is inked black.  There is an axillary tail measuring 100mm x 70 x 20mm.  On sectioning there is a pale ill defined lesion behind the nipple measuring 40mm x 38 x 35mm.  The lesion lies 70mm from the deep margin, 50mm from the superficial superior, 70mm from the superficial inferior.  The rest of the breast is uniformly fibrofatty.  The axillary shows several lymph nodes.  At the proximal portion of the axillary tail is a larger node measuring up to 35mm.  These  lymph node appear involved by tumour.
+Blocks: 1 to 20 - RS of tumour (block 15 &amp;amp; 16 nipple); 21 &amp;amp; 22 - RS medial of tumour; 23 &amp;amp; 24 - RS lateral of tumour; 25 - upper outer quadrant; 26 - lower outer quadrant; 27 - upper inner quadrant; 28 - upper inner quadrant; 29 &amp;amp; 30 - representative sections of the large node; 31 to 46 - axillary tail lymph nodes from proximal to distal (block 31 lymph nodes as seen; 32 lymph nodes as seen; 33 one lymph node; 34 one lymph node; 35 lymph nodes as seen; 36 one lymph node; 37 one lymph node; 38 one lymph node; 39 one lymph node; 40 one lymph node; 41 lymph nodes as seen; 42 lymph nodes as seen; 43 one lymph node; 44 one lymph node; 45 one lymph node; 46 one lymph node).
+B.  Specimen labelled &amp;quot;Right breast stitch 12 o&amp;apos;clock&amp;quot;, consists of a mastectomy specimen measuring 220mm medial to lateral, 240mm superior to inferior, 35mm anterior to posterior.  The overlying skin measures 220x 155mm bearing a nipple with 15mm diameter.  The skin and nipple are unremarkable.There is a single suture in place.  The superficial margin is inked blue, posterior margin is inked black.  The cut surface shows uniform fibrofatty tissue.  No focal lesions seen.
+Blocks: 1 - nipple; 2 - subareolar; 3 &amp;amp; 4 - upper inner quadrant; 5 &amp;amp; 6 - lower inner quadrant; 7 &amp;amp; 8 - representative sections of breast; 9 &amp;amp; 10 - upper outer quadrant; 11 &amp;amp; 12 - lower outer quadrant. (TO:LM/eh 21/1/69)
+MICROSCOPIC (Reported by Dr O Caneles):
+A.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive papillary carcinoma
+Invasive tumour size:  40mm
+Grade (Modified Bloom &amp;amp; Richardson):  1
+Tubules: 1     Nuclei: 3     Mitoses: 1     Mitotic rate:  5/10hpf.
+Lymphovascular invasion:  Present (block A13)
+
+DCIS component:
+DCIS:  Absent (see miscellaneous below)
+
+Excision Margins:
+Invasive component:  The invasive carcinoma is 70mm to the deep margin and is well clear of the other margins.
+
+In-situ component:  Not applicable
+
+Receptors (Block A3):
+ER:  Negative
+PR:  Negative
+HER2 (Novocastra 10A7):  Negative (0 staining)
+HER SISH:  Performed at UROLOGY OPD, WILCANNIA HEALTH SERVICE Hospital, see separate report.
+Ki-67 index:  5%
+
+Nipple:  Unremarkable
+
+LCIS / ALH:  Absent
+
+Miscellaneous:
+- Within the invasive carcinoma, there are foci of encapsulated papillary carcinoma.  The encapsulated component (30%) is admixed with the invasive component (70%).  Calcification is present within the invasive carcinoma and benign breast ducts.
+- The rest of breast shows benign fibrocystic change.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  28
+Number of axillary lymph nodes involved by tumour:  5
+Number of axillary nodes with metastases &amp;gt;2.0mm:  5
+Number of axillary nodes with metastases &amp;lt;2.0mm:  0
+Number of axillary nodes with isolated tumour cells &amp;lt;0.2mm:  0
+Extranodal spread:  Absent
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  28
+Total number of involved lymph nodes (including sentinel node(s)):  5
+
+B.  Sections show normal appearing breast tissue with no significant abnormality.  The nipple is unremarkable.  There is no evidence of in-situ or invasive malignancy.
+SUMMARY:
+A.  Left breast
+- Invasive papillary carcinoma (grade 1, 40mm), completely excised
+- 5/28 axillary lymph nodes involved.
+
+B.  Right breast - No significant abnormality.

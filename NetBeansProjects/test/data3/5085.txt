@@ -1,0 +1,78 @@
+
+Episode No:  76S118929F
+767118.XFY
+
+Duntley, CLAUDIO 
+Lab No:  76S11892
+Agatite
+GOLD COAST  ACT  6841
+Specimen: Tissue
+D.O.B:  4/2/1989
+Sex:  M
+Collected: 13/1/2065 at :
+Location:  MACQUARIEWARD-KAROONDA AND DISTRICT SOLDIERS' MEMORIAL HOSPITAL
+DR Erik Randolph Muther
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Liver resection right lobe.  ?Hepatoma.
+MACROSCOPIC:
+A.  Specimen labelled "Liver resection" consists of a wedge of liver 150 x 75 x48mm.  Two surfaces are smooth and covered with a thin capsule.  The opposite surface is ragged (surgical resection margin) and inked black.  The capsule contains a puckering over 18 x 15mm and on sectioning there is a firm cream lesionwhich abuts the capsule and infiltrates the underlying liver parenchyma over 20 x 20 x 12mm.  No other lesions are identified on sectioning.  The liver away from the tumour appears macroscopically unremarkable.  The tumour margins are as follows:  abuts the nearest capsular surface and is 3mm from the closest surgical excision margin.  Representative sections.
+Blocks:  1 - tumour and closest surgical margin; 2 &3 - full face of liver and surgical margin abutting the capsule; 4 - liver away from tumour; 5 - tumour for Bio Bank.
+B.  Specimen labelled "Gallbladder" consists of a gallbladder measuring 100 x 30 x 30mm.  The serosal surface is smooth and shiny.  The wall thickness is 2mm and the mucosa is dark green and trabeculated.  No gallstones are received.  No polyps are identified on the mucosal surface.  Representative sections in 3 blocks.
+Blocks:  1 - proximal surgical margin and neck; 2 - body; 3 - fundus.
+(TO: ID; EI/rt 13.1.65)
+MICROSCOPIC (Reported by A/Prof U Deblieck):
+A. Sections of liver show a circumscribed, lobulated mass composed of biliary epithelial glands showing an admixture of large, ectatic spaces and smaller, solid cell clusters. Occasional glands have more complex infoldings, bordering on cribriform architecture, whereas others are more open and 'star-shaped'.
+The glands are lined by asingle layer of cuboidal and columnar cells with a biliary rather than intestinal appearance. The epithelial nuclei are in some areas bland and basally located, but in others show mild and focally moderate nuclear enlargement and chromatin irregularities. 
+The architecture changes at the peripheral interface with hepatic plates. The cells, here, are arranged in smaller, tighter ductules and solid trabeculae and in some areas it appears that the cells are arising directly from hepatic plates, resembling ductular metaplasia of hepatocyte seen in cirrhosis and other reactive conditions. The replacement of hepatocytes and transition to ductular cells is highlighted in the Hep Par 1, keratin 7 and Keratin 19 stains.
+Mitoses are identified but are infrequent and no atypical mitoses are seen. 
+No bile pigment is present within the glands.  
+The stroma surrounding the glands is partially hyalinised and focally reactive, with an associated chronic inflammatory infiltrate. There is a central scar like fibrovascular region within the centre of the tumour.
+In addition, occasional small islands of open, bland biliary ductsbounded by sclerotic stroma are present at the periphery of the tumour and also within immediately adjacent hepatic parenchyma, resembling von Meyenberg complexes.
+CK19 and CK7 are positive within the glands. CK20 and CDX2 arenegative. Hepar-1 highlights surrounding hepatic parenchyma. Ki67 is 5 to 10% and the expression is highest at the interface between tumour and liver parenchyma, particularly within the small, ductular clusters in direct apposition with hepatocytes.
+ 
+There is no evidence of necrosis, perineural or lymphovascular invasion.
+There is no intraepithelial biliary dysplasia present in the surrounding main intrahepatic ducts.
+The excision margins areclear and the closest parenchymal margin is 3 - 4mm.
+The liver away from the adenoma is lobulated, with focally altered architecture and partial bridging fibrosis, falling short of cirrhosis.
+ 
+Mild microsteatosisand macrosteatosis are present and there is mild, chronic periseptal and periportal chronic inflammation and patchy mild lobular chronic inflammation. 
+There is moderate iron pigment within hepatocytes, corresponding to grad 2 iron deposition. 
+The biliary tract has mild chronic inflammation present, with no evidence of acute biliary inflammation or necrosis.  
+There is no increase in stainable copper.
+B. The gallbladder is unremarkable. There is no smooth muscle hypertrophy, and the epithelium is uniform, with no evidence of dysplasia or malignancy.  
+Comment: 
+The appearances of the liver tumour are highly unusual and opinion in the department is divided amongst a number of pathologists (Drs Gene, Patrick and Terence) as to whether this represents an unusualbile duct adenoma or a well differentiated cholangiocarcinoma, possibly arsing from a bile duct adenoma/hamartoma.
+The most unusual feature of this tumour is the peripheral interface with adjacent hepatic plates. Intrahepatic cholangiocarcinomas can show direct replacement of peripheral liver parenchyma, which may explain the changes in this tumour.
+However, there are also rare tumours which demonstrate a combination of hepatocellular and cholangiocarcinoma components in varying degrees and the stem cell subtype may show transformation of hepatic plates into cholangioles at its periphery. 
+My preferred diagnosis is well differentiated cholangiocarcinoma with peripheralreplacement of hepatic plates.
+I am referring this case to Prof U U'Matulewicz and Prof U Calamari at STRATHALBYN AND DISTRICT HEALTH SERVICES Hospital for expert opinion.
+This result has been discussed with Dr U Eggink who reports that this is a new, radiologically identified lesion. 
+The significance of the iron deposition is uncertain but consideration should be given to an underlying diagnosis of haemochromatosis, if clinically consistent. 
+DIAGNOSIS:
+A. Liver resection: 
+- Unusual primary bile duct tumour; favour well differentiated cholangiocarcinoma (see above)
+- Background hepatic fibrosis and moderate iron deposition.
+B. Gallbladder: 
+- No significant pathological abnormality.
+SUPPLEMENTARY REPORT (2.9.2066)
+
+TANUNDA HOSPITAL Hospital
+Reported by Prof EZRA U'Covarrubia (2.6.2066)
+
+
+CLINICAL DETAILS
+81M. Bile duct -tumour. Liver resection
+
+NATURE AND SITE OF SPECIMEN
+767118929 H&E x &Variously stained x l4 Return slide/s
+
+MICROSCOPIC REPORT
+This is a difficult case and shows a liver tumour with some architectural -features of a von Meyenburg Complex (VMC) but in areas showing more complex architecture, cytological atypia and occasional mitoses. The edge of the lesion shows an unusual pattern merging withhepatocytes as described in your report. I think subtle infiltration of the liver parenchyma is also present. The Ki67 overall is around 5-10% but is> 20% at the periphery in the more cytologically atypical areas.
+The liver shows significant fibrosis and architectural distortion falling short of cirrhosis.  Iron deposition is noted on the Perl's stain
+VMC should show no significant mitotic activity or cytological atypia.  In my opinion the degree of cytological atypia is beyond what I would accept in VMC and believe this tumour is best classified as a well differentiated cholangiocarcinoma. These have been described to arise in association with VMC (Song et al Pathology International 2008;58: 503-512) - these authors describe the Ki-67 labelling index increased from the VMC to the dysplastic areas and then to the carcinomas with a there was a gradual transition in terms of increasing atypia from the VMC to dysplasia andthen to adenocarcinoma. I think this is also seen in this
+Prof LUBA ASANTE and Dr RAYMUNDO LUANGAMATH have also reviewed this case and agree with this favoured diagnosis.
+SUMMARY
+Liver tumour - favour well differentiated cholangiocarcinoma, possibly arising from a von Meyeburg complex.
+A copy of supplementary report faxed to Dr U Groshong.
+

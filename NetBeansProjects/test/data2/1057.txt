@@ -1,0 +1,141 @@
+
+Episode No:  03H747414A
+0327474.EMA
+
+Nipps, Fred Milford 
+Lab No:03H74741
+West Taylor
+MUSWELLBROOK  Australian Capital Territory  4614
+Specimen: Tissue
+D.O.B:  3/3/2029
+Sex:  M
+Collected: 23/1/2062 at :
+Location:  MACQUARIE WARD-PORTLAND TABULAM HEALTH CENTRE
+DR CARLO Antione ALAMILLA
+Distribution:   FILE-COPY
+
+
+CLINICAL:
+Myxoid spindle-cell tumour on bx.  Left thigh lesion + overlying skin ?low grade sarcoma.  Long lateral, medium medial, short superior.  
+[A small piece of tumour is taken from the lateral aspect of the lesion for possible fresh tissue banking (22/12/2062 ED)].
+MACROSCOPIC:
+Specimen labelled "Left thigh mass" consists of an ellipse of skin measuring 135 x 22mm with subcutaneous tissue attached measuring up to 25mm.  There is a large subcutaneous mass measuring up to 100mm (medial-lateral) x 140mm (superior-inferior) x 55mm (superficial-deep).  The skin surface shows a linear induration ?scar of 40mm.    The lateral margin is inked blue, the medial margin black, the deep margin red and the superficial subcutaneousplane overlying the lesion is inked green.  On sectioning there appears a lobulated well circumscribed tumour within a thin ?capsule with a glistening appearance and patchy focal haemorrhage.  
+Blocks:  1 & 2 - representative sections of scar; 3 & 4 - representative tumour lateral margin; 5 & 6 - representative tumour deep margin; 7 to 9 - representative tissue medial margin; 10 & 11 - representative sections central and tumour; 12 - representative section superiormargin; 13 - representative section inferior margin.   (ED/cc  21/1/62) 
+ 
+MICROSCOPIC (Reported by Dr B Storts): 
+Sections show a lobulated, hypocellular myxoid lesion in the subcutaneous fat. The majority of the lesion appears to be well circumscribed, however in some areas (e.g. block 8), the lesion appears to be infiltrating the adjacent subcutaneous fat.
+The majorityof the lesion appears to be composed of scattered bland spindled cells located in myxoid stroma. Also present in multiple sections are scattered atypical tumour cells with single and multiple vacuoles indenting the nuclei, resembling lipoblasts. Arborising thin walled vessels and acellular pools of mucin are also present. 
+Immunoperoxidase stains:
+S100: +ve
+CD34: +ve
+panCK: -ve
+SMA:-ve
+EMA: -ve
+Desmin: -ve
+Ki67 index: < 1%
+Margins:
+ Superior: 0.1mm (block 12)
+ Lateral: 0.2mm (block 3)and medial: 0.5mm (blocks 5 and 7)
+ Inferior: 4mm (block 13)
+COMMENT:
+The findings are of a low-grade myxoid lesion, with features favouring a low-grade myxoid liposarcoma.
+Sections and tissue will be sent Prof ROGELIO OSTERMILLER and Prof Carmen Warhol for their expert opinions and DDIT3 (CHOP) FISH testing.
+DIAGNOSIS:
+Left thigh mass: 140mm low grade myxoid lesion lesion with features favouring low grade myxoid liposarcoma (see comment) 
+
+		CONSULTATION/REVIEW REPORT 20/2/62.
+
+REFERRED MRN
+2_
+
+CLINICAL DETAILS
+38M. Myxoid spindle-cell tumour on bx. Left thigh lesion + overlying skin ?low grade sarcoma.
+NATURE AND SITE OF SPECIMEN
+40M26651.  1,2,3,4,5,6,7,8,9,10 R1, 10 R2, 11,12,13. H&Ex 14.  Variously stained x7.  Paraffin block (9) x 1.  Return slide/s
+TESTS REQUESTED
+DDIT3 (CHOP) FISH testing
+MICROSCOPIC REPORT
+
+Dear Xander,
+The excision specimen of this low grade myxoid lesion remains difficult. I am still uncertain how to classify this hypo-cellular fibro myxoid lesion within fatty tissue. It is essentially circumscribed and includes hyalinised collagenous areas with scattered non atypical spindle shaped cells and interspersed myxoid areas.
+Within the latter are spindle shaped cells but focally are some multi vacuolated lipoblast-like cells. There is some form of vascularity in thestroma but this is not uniform as it typically seen in myxoid liposarcomas.
+Our immunostains show some positivity for S100. Immunostains for Muc-4 and EMA appear negative.
+I am not certain of the diagnosis.Possibilities I considered were a well differentiated liposarcoma with myxoid areas, an unusual myxoid liposarcoma, a chondroid lipoma, a cellular myxoma and a low grade fibro myxoid sarcoma. The negative MUC4 immunostain is against thelatter. The absence of MDM2 amplification on FISH (please see Prof K'Eberling comment below) is against a well differentiated liposarcoma. Further FISH analysis (DDIT3 & FUS) is pending.
+Kind regards, 
+Yours sincerely 
+Harrier.
+Prof Erasmo Greenwaldt comments:
+I agree with Prof Kirby report. I do not have a definite diagnosis for this low grade fibro myxoid tumour.
+A/Prof DEON BALCKWELL comments: 
+I agree with Prof Tarka differential for this most unusual myoid tumour. Whilst it is not typical of any of them, I slightly favour an unusual chondroid lipoma but definitely could not exclude a low grade sarcoma. I await FISH analysis results with interest.
+Dr Brittaney Farr comments:
+I agree that this very myxoid neoplasm is difficult to characterise but I think that there are features that are concerning for a myxoid liposarcoma (areas of delicate arborising vessels), "lymphangioma" like spaces secondary to pools of mucin, and agree that FISH for evidence of re-arrangement of DDIT3 might be helpful (as requested by Dr Kolkowski).
+COMMENT
+FISH:
+Interphase FISH for MDM2using the Poseidon MDM2 (1 2q15) & SE 12 Control Probe (Kreatech) shows no evidence of MDM2 amplification MDM2 amplification is seen in virtually all well differentiated liposarcomas.
+Interphase FISH for DDIT3 and FUS FISH hasalso been ordered and is in progress. 
+reported by A/Prof Montana K'Bouck 16/2/62.
+SUMMARY
+Left thigh, excision biopsy:
+	LOW GRADE HYPOCELLULAR FIBROMYXOID TUMOUR, 
+	Further FISH analysis pending,
+	Please see report.
+REPORTED BY: Prof. Mal Picazo (19/2/62)   (Ta 20/2/62) 
+			
+
+ADDITIONAL REPORT (21/2/62)
+
+CYTOGENETICS
+                          
+Tissue Pathology and Diagnostic Oncology's Pathology  20/2/62.
+
+Specimen Type:	Tumour
+Preparation:
+S -1 
+S-2
+Analysis:
+Cells Counted  5
+Cells Analysed (GTW BANDING) 10
+Band Resolution Level	<300-400
+Karyotype:
+46, XY,-6, add(9)(q13), add (12)(q13),-14, +mar1 +mar2, +mar3[15]
+Comment:
+An abnormal clone was detected, with the same karyotype as that observed previously for this case (40-42665149, 28/11/62). Abnormalities of 12q are characteristic of lipoma, however these results are not diagnostic. Please also refer to FISH result.
+Reported By: K. Caoile	Validated By: Dr K. Dintino 
+ Date: 18/12/12 12:18 pm
+	
+
+SUPPLEMENTARY REPORT (23.2.62)
+"Interphase FISH for DDIT3 gene rearrangement was performed using the Vysis LSIDDIT3 Break Apart FISH Probe Kit (Abbott Molecular). Over 200 cells have been counted (on 2 separate occasions by 2 different observers) and consistently 8% of lesional cells showa split. The cut off for a positive result is 10% (Downs-Kelly et al Am J Surg Path 2008 vol 32).
+This assay is interpreted as NEGATIVE for DDIT3 gene rearrangement.
+
+Interphase FISH for FUS gene rearrangement was performed using the Vysis LSI FUS Break Apart FISH Probe Kit (Abbott Molecular).
+This assay is clearly NEGATIVE for FUS gene rearrangement
+
+EWSR1 may be an alternative translocation partner in myxoid liposarcoma - this will be performed in the new year and an additional report issued.
+Reported by A/Prof Mariana K'Degasperis 21/2/62
+Prof Bill DAMORE comments:
+The FISH analyses have not provided conclusive evidence as to the nature of this unusual tumour. Please see the original report for discussion on the pathological interpretation of this difficult case which remains valid.
+
+SUPPLEMENTARY SUMMARY
+Left thigh, excision biopsy:
+LOW GRADE HYPOCELLULAR FIBROMYXOID TUMOUR, 
+Further FISH analysis pending,
+
+REPORTED BY: A/Prof Beverly K'Hawrylak (22/2/62)"
+
+
+SUPPLEMENTARY REPORT: 13.3.63
+
+Consultation/Review EASTERN HEALTH BLACKBURN PUBLIC SURGICAL CENTRE Hospital
+
+"FISH Probe:
+Vysis LSI EWSR1 Break Apart FISH Probe Kit (Abbott Molecular)
+FISH Result:
+NEGATIVE for EWSR1 rearrangement.
+Interphase FISH for EWSR1 (22q 12) was performed on this tumour which showed no evidence of rearrangement in the majority of tumour nuclei.
+Comment: FISH using the EWSRI Vysis Break Apart Probe is reported to detect 90% of Ewings/PNET (Bridge et al, Modem Pathology 2006:19;l-8).
+SUPPLEMENTARY SUMMARY
+Left thigh lesion: NEGATIVE for EWSR1 rearrangement. 
+REPORTED BY: A/Prof K. Maram Burandt (12/3/63)"
+

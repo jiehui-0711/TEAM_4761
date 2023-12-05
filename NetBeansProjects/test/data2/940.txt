@@ -1,0 +1,86 @@
+Episode No:  11B181012E
+1101810.EGE
+
+FAZZI, CLAYTON'EMMA 
+Lab No:  11B18101
+Cityhomes
+CENTRAL COAST  SA  5601
+Specimen: Tissue
+D.O.B:  17/2/2009
+Sex:  F
+Collected: 19/3/2063 at :
+Location:  POST OPERATIVE RECOVERY-DALBY HOSPITAL HEALTH SERVICE
+DR Desmond Carol CORRAO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT:  (2.3.63)
+
+CLINICAL:
+Mole right breast.  IDC left breast.  Left breast wide local excision.  Short superior, long lateral, medium medial.  3cm FN12 o'clock.
+MACROSCOPIC:
+A.  Specimen labelled "Left sentinel node" consists of a piece of tan and fatty tissue 17 x 15 x 5mm containing a lymph node.  AE one block. 
+B.  Specimen labelled "Wide local excision left breast, short superior, medium medial, long lateral" consists of a wide local excision measuring 60mm (medial-lateral) x 58mm (inferior-superior) x 21mm (superficial-deep).  Three sutures are in situ as designated.  There is an ellipse of skin running from medial to lateral measuring 30 x 5mm which appears unremarkable.  The deep margin is inked black, the superficial-inferior margin is inked green and the superficial-superior margin is inked blue.  The specimen is serially sectioned in the parasagittal plane into ten slices from slice 1 - medial to slice 10 - lateral.  A firm cream poorly circumscribed tumour is identified in slices 4 to 9 measuring 28mm (medial-lateral) x 14mm (inferior-superior) x 7mm (superficial-deep).  The distance from margins is as follows: deep margin 2mm, inferior margin 20mm, superior margin 17mm, inferosuperficial 5mm, supero-superficial 6mm, lateral margin 15mm and well clear of the medial margin.
+Blocks:  1 - representative slice 1; 2 - representative slice 2; 3 - representative slice 3; 4 - representative slice 4; 5 to 7 - slice 5 AE; 8 - representative slice 6; 9 - representative slice 7; 10 - representative slice 8; 11 - representative slice 9; 12 & 13 - representative slice 10.  Tumour markers on block 6.  Please refer to attached diagram.
+C.  Specimen labelled "Left axillary lymph node" consists of two pieces of tan and fatty tissue 12 and 15mm.  Two lymph nodes 10 and 14mm are identified.  AE one block. 
+D.  Specimen labelled "Mole right breast" consists of an unorientated ellipse of skin 17 x 8mm to a depth of 5mm.  There is anirregular pigmented papule 8 x 5mm which appears to come close to one of the radial margins and one of the longitudinal margins.
+Blocks:  1 - ends; 2 - three TS through lesion.(SZ/cc  20/3/63) 
+ 
+MICROSCOPIC (reported by Dr D Harnage & Dr D Ruffaner):
+A - C.  Sections show invasive ductal carcinoma with a surrounding large mass of ductal carcinoma in situ.  The features as follows: 
+
+Invasive carcinoma:
+Site:  Left breast 
+Type:  Invasive ductal carcinoma, with some apocrine features
+Invasive tumour size: 16mm
+Grade (Modified Bloom & Richardson):  2
+Tubules: 2     Nuclei:  3     Mitoses:  2     Mitotic rate:  8/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Present with apocrine features
+Maximum extent of DCIS:  45mm (across 8 slices)
+Nuclear grade:  High grade
+Architecture:  Cribriform, solid
+Necrosis:  Present  
+Calcification:  Present
+Degree of DCIS in tumour:  Moderate  
+DCIS in adjacent tissue:  Extensive 
+Excision Margins:  
+Invasive component:  5mm clear of superficial and deep margins, all other margins well clear
+In-situ component: 1mm from superficial and deep margins (no normal intervening ducts), all other margins well clear. 
+Receptors (Block B9): 
+ER:  Negative
+PR:  Negative
+HER2 (Novocastra 10A7):  Equivocal (score 2+)
+Ki-67 index:  Approximately 5%
+Nipple:  Not applicable
+LCIS / ALH:  Present
+Miscellaneous:
+- Extensive sclerosing adenosis with benign microcalcification
+- Fibroadenomatoid changes.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0       
+(Note: A very small group of cells within the node show positive staining with cam5.2, however they are not thought to represent tumour cells as they appear out of the plane of section and have a bland morphology compared to the invasive tumour cells)
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  1
+Number of axillary lymph nodes involved by tumour:  0         
+ 
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2 
+Total number of involved lymph nodes (including sentinel node):  0
+D.  Sections show a seborrheic keratosis.  The excision appears complete.  Thereis no evidence of malignancy.
+
+ADDITIONAL REPORT (2/3/63):
+HER2 IN SITU HYBRIDISATION reported byDr D Cuaresma, COLLINSVILLE MULTI-PURPOSE HEALTH SERVICE Hospital:
+
+HER2 IHC Result:  2+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM  HER2 DL ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE (nonamplifled, diploid)
+Mean HER2 copy number per cell:  1.7 
+Mean CEP 17 copy number per cell:  1.5 
+HER2/CEP17 Ratio: 1.13
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

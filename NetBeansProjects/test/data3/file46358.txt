@@ -1,0 +1,75 @@
+SPR no: 98L475251N
+MRN no: 1235497
+Site_name: STAWELL REGIONAL HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportADDITIONAL REPORT (18/7/69)
+
+CLINICAL:
+Right colon cancer.  No family history.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;, consists of a right hemicolectomy received open.  The terminal ileum is 35mm x circumference 55mm.  The caecum is 22mm long.  The ascending colon is 90 x circumference 73mm.  The appendix is 70 x diameter 8mm.  The serosa shows a large multinodulated mass protruding through the bowel wall opposite the tumour on the postero-medial aspect of the bowel.  The protruding area measures 60 x 40 x 36mm.  It appears variegated with tan brown and cream coloured areas and appears to be covered in a thin layer of serosa.  Tumour perforation is uncertain.  The mesocolon is 80 x 55 x 13mm.  Inking proximal margin blue, distal margin black and the posterior non peritonealised surface of the bowel green.  Within the mucosa there is a circumferential tumour with an endophytic centre and a raised serpiginous border.  It is 40mm from the proximal margin and 25mm from the distal margin.  The dimensions of the mucosal tumour are 60 x 105mm circumferentially.  On sectioning the tumour appears to abut the circumferential margin.  Blocks: 1 - proximal and distal margins; 2 &amp;amp; 3 - appendix; 4 - two LS showing interface of normal mucosa to tumour; 5 &amp;amp; 6 - tumour at circumferential margin; 7 to 12 - tumour at serosa; 13 - apical tissue and apical node; 14 - six lymph nodes; 15 &amp;amp; 16 - four lymph nodes each; 17 - one lymph node quadrisected; 18 - one lymph node trisected; 19 - one lymph node quadrisected; 20 - one lymph node bisected; 21 &amp;amp; 22 - one lymph node quadrisected two pieces each block.  MMR ordered.  (TO:EX/eh 16/4/69)
+
+
+MICROSCOPIC (Reported by Dr X Zam):
+
+BOWEL CANCER PROFORMA
+
+Macroscopic Description
+
+Site of tumour:  Caecum
+Maximum tumour diameter:  60mm
+Distance of tumour to nearer cut end:  25mm (distal)
+Tumour perforation:     No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate to poor
+
+Local invasion
+T4a	Tumour penetrates the surface of the visceral peritoneum (7, 11)
+
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin:  1.9mm (posterior, 5)
+
+Lymph nodes
+Number of lymph nodes present:	20
+Number of lymph nodes involved:	1 (apical node not involved)
+
+N1a	Metastases in 1 regional LN
+
+Lymphovascular invasion
+Present (extramural, venous, 6)
+
+Perineural invasion
+Not seen
+
+Histologically confirmed distant metastases
+MX	Cannot be assessed histologically
+
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status
+Pending
+
+Summary &amp;#8211; TNM 8th Edition
+pT4a	   N1a	   MX        R0
+
+
+ADDITIONAL REPORT (22/5/66)
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

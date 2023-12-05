@@ -1,0 +1,106 @@
+SPR no: 29U131960U
+MRN no: 29713196
+Site_name: BANKSTOWN-LIDCOMBE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Sigmoid colon Ca.
+
+
+MACROSCOPIC - STRUCTURED REPORT
+Specimen labelled &amp;quot;Sigmoid colon&amp;quot;, and consists of
+
+Specimen
+Specimen length: 275mm
+Site of anterior peritoneal reflection: below distal margin of specimen
+Thickness of mesocolon: 75mm
+Thickness of mesorectum: Not applicable
+
+Tumour
+Location: Sigmoid colon
+Relation to anterior peritoneal reflection: Above
+Description: 40 x 40mm tan tumour with a granulated and exudative surface and raised serpiginous boarders. The tumour occupies approximately thirty percent of the bowel circumference and measures 5mm thick, with focal extension into the subserosal fat. The tumour extends to within 1mm of the serosal surface.
+Maximum tumour diameter: 40mm
+Perforation:  Absent
+Appearance of serosa overlying tumour: Mildly indurated
+Distance of tumour to cut ends: 50mm from blue inked cut end, 220 from black inked cut end
+Distance of tumour to circumferential margin: Well clear
+
+Other
+Polyps: Nil
+Adherent structures: Nil
+Inked margins: Cut end differentially inked blue and black
+
+
+Blocks
+1 and 2 - LS cut ends; 3 to 6- tumour deepest microscopic invasion; 7 - tumour and adjacent normal bowel; 8 - shave of apical margin; 9 to 12 - possible lymph nodes as seen; 13 to 17 - one possible lymph node per block bisected; 18 - TS one possible lymph node; 19 - one possible lymph node. MSI IHC requested on block 7   (TO:BF/vo 19/2/70)
+
+
+MICROSCOPIC: (Reported by Dr G Donten)
+The 40mm sigmoid colon tumour is a moderately differentiated adenocarcinoma. A synoptic report for colorectal carcinoma follows:
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+T3    Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:   Not involved
+
+Lymph nodes
+Number of lymph nodes present: Twenty three.
+Number of involved lymph nodes: Two (2/23).
+
+N1b   Metastases in 2 to 3 regional LN
+Lymphovascular invasion
+Present.
+Extramural venous invasion: Present (block 5)
+
+Perineural invasion
+Present
+
+Tumour budding
+Bd2 (intermediate):  5 - 9 buds per 0.785 sq mm
+
+Histologically confirmed distant metastases
+MX    Cannot be assessed histologically
+
+Background abnormalities/other comments
+Nil significant
+
+Residual tumour status
+R0    No residual tumour
+
+Response to neoadjuvant therapy
+Not applicable
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1    Preserved nuclear staining
+PMS2    Preserved nuclear staining
+MSH2    Preserved nuclear staining
+MSH6    Preserved nuclear staining
+
+Comment:  Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+BRAF V600E immunohistochemistry
+Not performed
+
+Reserve block for molecular studies:  7
+Reserve block for tumour banking:  6
+
+Summary - AJCC 8th Edition
+Adenocarcinoma NOS
+T3  N1b MX R0
+
+
+DIAGNOSIS:
+Sigmoid colon:
+- 40mm moderately differentiated adenocarcinoma, T3N1bMxR0.
+- Lymphovascular space invasion, perineural invasion and extramural venous invasion.
+- Carcinoma present in 2 of 23 lymph nodes (2/23).
+- MSI markers low risk of microsatellite instability.

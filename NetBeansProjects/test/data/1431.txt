@@ -1,0 +1,78 @@
+
+Episode No:  21A533850V
+2105338.OBV
+
+ECKERMAN, CATRINA NOELIA 
+Lab No:  21A53385
+Paddocks
+ROSEBERY  Northern Territory  2604
+Specimen: Tissue
+D.O.B:  1/7/2012
+Sex:  F
+Collected: 15/04/2013 at 14:48
+Location:  DEPT OF CORRECTIVE SERVICES-AUBURN HOSPITAL & COMMUNITY HEALTH SERVICES
+DR Rodolfo BOY MORSON
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Tongue adenoCa.  Right neck dissection - level 2B, level 3, level 2A and 1, jugulodigastric node, submental triangle.  Right lateral tongue, stitch anterior.  Right sublingual salivary gland.  
+MACROSCOPIC:
+A.  Specimen labelled "Level 2A and level 1" consists of a piece of unorientated tan fatty tissue 90 x 55 x 15mm.  At one end there is a salivary gland this is considered level 1 and the tissue around it also level 1.  The specimen is divided and the opposite end designated level 2A.  The salivary gland appears unremarkable.  Multiple lymph nodes are identified in both level 1 and level 2A from 3 to 18mm.  
+Blocks:  1 to 3 - representative salivary gland and lymph nodes; 4 - one lymph node from level 1 serially sectioned; 5 & 6 - level 2A lymph nodes.  
+B.  Specimen labelled "Right neck level 2B lymph node" consists of a piece of unorientated fatty tissue 40 x 30 x 12mm.  Multiple lymph nodes are identified from 3 to 15mm.  
+Blocks:  1 to 3 - lymphnodes.
+C.  Specimen labelled "Lymph nodes level 3 right neck" consists of a piece of unorientated fatty tissue 50 x18 x 15mm.  Multiple lymph nodes are identified from 3 to 12mm.  AE 3 blocks.  
+D.  Specimen labelled "Right jugular gastric lymph node" consists of a piece of unorientated fatty tissue 35 x 15 x 10mm.  Two lymph nodes are identified 5 and 20mm.  
+Blocks:  1 - one lymph node; 2- one lymph node bisected
+E.  Specimen labelled "Submental triangle" consists of a piece of unorientated fatty tissue 25 x 15 x 15mm.  Multiple lymph nodes are identified from 3 to 6mm.
+Blocks:  1 - lymph nodes; 2- remainder of tissue all embedded ?further lymph nodes.
+F.  Specimen labelled "Right sublingual gland" consists of pieces of unorientated tan tissue 30 x 25 x 18mm.  No suspicious areas are identified.  Representative sections in 3 blocks.  
+G.  Specimen labelled "Right lateral tongue suture anterior" consists of an orientated excision of tongue with a suture at one point marking anterior.  The excision measures 32mm (medial to lateral) x 28mm (inferior to superior) x 45mm (anterior to posterior).  The medial margin is inked blue and the posterior margin is inked black.  There is an area of puckering and ulceration in the lateral portion measuring 10 x 10mm.  The cut surface reveals a cream poorly circumscribed tumour invading to a depth of up to 12mm which is 7mm clear of the medial margin.  Specimen serially sectioned from anterior to posterior and AE 10 blocks (blocks 1 - anterior margin, block 10 - posterior margin).  (TO:  YX:  JQ/mm 18.6.63)  
+MICROSCOPIC (reported by Dr Q Osterhaut): 
+A to G. Sections show an adenosquamous carcinoma arising from the tongue mucosa.  The lesion is composed of irregular nestsof tumour cells with eosinophilic keratinised cytoplasm and intercellular bridges.  Gland formation is present. The overlying squamous epithelium shows severe dysplasia.
+Invasive tumour:
+Site: Right lateral tongue
+Tumour type: Adenosquamous carcinoma
+Differentiation: Moderate
+Size: 22mm (4 slices) x 15mm
+Depth of invasion: 10mm (into skeletal muscle)
+Lymphovascular invasion:  Present (extensive, multifocal, e.g. Q8 and 8)
+Perineural spread: Present, multifocal
+Margins invasive tumour:
+  Lateral: 3mm (Q8)
+  Deep: 4mm (Q8)
+  Medial: 6mm (Q8)
+  Posterior: 9mm
+  Anterior: > 10mm
+Dysplasia:
+Grade: Severe dysplasia
+Margins dysplasia:
+  Lateral: 7mm
+  Posterior: 9mm
+  Other margins: > 10mm
+Lymph nodes
+Total lymph nodes: 27
+Number involved: 3
+Size of largest deposit: 8mm
+Perinodal spread: Absent
+Lymph node margins: Clear
+Lymph nodes by region:
+  Level 1 (specimen A): 1 out of 4 (8mm in size)
+  Level 2A (specimen A): 0 out of 1
+  Level 2B (specimen B): 1 out of 9 (7mm in size)
+  Level 3 (specimen C): 0 out of 11
+  Right jugulodigastric (specimen D): 1 out of 2 (5mm in size)
+Other:
+Right submandibular gland (specimen A): negative (atrophic changes present)
+Submental triangle (specimen E) negative (fat only)
+Right sublingual gland (specimen F): negative
+
+AJCC Staging (7th Ed.)
+pT2	Tumour 2cm to 4cm in greatest dimension
+pN2b	Metastasis in multiple ipsilateral lymph nodes, not more than 6cm in greatest 	dimension
+DIAGNOSIS:
+A to D. Right neck lymph node dissection: 
+- Metastatic carcinoma, up to 8mm in size, in 3 out of 27 lymph nodes (positive nodes in levels 1, 2B and jugulodigastric)
+- Right submandibular gland with no evidence of malignancy.
+E and F. Submental triangle and right sublingual gland: no evidence of malignancy
+G. Right lateral tongue excision: 22mm adenosquamous carcinoma, margins clear
+

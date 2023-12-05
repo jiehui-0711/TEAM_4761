@@ -1,0 +1,146 @@
+SPR no: 00B901480M
+MRN no: 0009014
+Site_name: CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Total pancreatectomy.  Multifocal cancers of the neck and body.  Neck cancer incised anterior and core sent for research.  PV?SMV marked with a long suture.
+
+
+Request information sheet received: No
+Radiology reports received: No
+
+
+MACROSCOPIC:
+Specimen labelled:  Total pancreatectomy
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&amp;apos;s resection), total pancreatectomy
+
+Specimen dimensions:
+Length of duodenum:  180mm
+Length of stomach: 60mm
+Size of gallbladder:  95 x 40mm
+Wall thickness of gallbladder:  2 to 3mm
+Calculi in gallbladder:  None
+Size ofspleen:  105 x 80 x 45mm
+Length of extrapancreatic, common bile duct:  25mm
+Maximum diameter of bile duct:  6mm
+Size of pancreas:  160 x 50 x 35mm
+Omentum:  250 x 210 x 40mm
+Separate segment of stomach:  100 x 60mm with omentum 50mm wide.
+
+Orientation:
+Portal vein:  Long suture
+Other sutures on specimen:  Silk ties noted on vascular ties on uncinate process.
+Anterior incision 30mm noted on the pancreatic neck/body at site of research sampling.
+
+Tumour location:
+Pancreatic neck and body
+
+Tumour:
+Description:  Fairly well circumscribed unecapulated solid nodule within the neck and body of pancreas extending to the tail.
+Tumour Size:
+Greatest dimension:   66mm medial to lateral (14 x 4mm + 10mm)
+Additional dimensions:  Up to 24mm superior to inferior and 15mm anterior to posterior
+
+Distance of tumour to margins:
+Common bile duct:  Well clear
+Portal vein bed:  Abutting
+Superior mesenteric artery:  Clear
+Uncinate process:  Well clear
+Proximal intestinal/gastric:  Clear
+Distal intestinal margin:  Well clear
+
+Distance of tumour to surfaces:
+Anterior:  Abutting
+Posterior:  Abutting
+
+Specimen inked:
+Anterior:  Yellow
+Posterior:  Black
+Portal vein:  Blue
+Superior mesenteric artery:  Red
+Uncinate process:  Green
+Superior strip of body and tail:  Red
+
+Blocks:
+1 to 3 - omentum; 4 - gastric margins from separate segment; 5 - greater omentum lymph node; 6 - lesser omentum nodes; 7 - bile duct margins; 8 - penultimate bile duct TS; 9 - gastric and duodenal margins; 10 - gallbladder including cystic duct body and fundus; 11 - nodes from splenic hilum; 12 to 20 - head of pancreas embedded from superior to inferior; 21 to 35 - body and tail of pancreas embedded from medial to lateral; 36 - RS spleen.  See blocking diagram.    (TO:AP/hh 5/10/71)
+
+MICROSCOPIC (Reported by Dr A Susla):
+The entire pancreas is embedded and examined. Sections show a moderately differentiated pancreatic adenocarcinoma. The tumour, which measures approximately 20mm (blocks 14, 21, 22, 23 combined medial to lateral measurement), is centred in the proximal body of the pancreas and extends into the pancreatic neck and head.  There is focal extrapancreatic extension into fat posterior to the pancreas. The intrapancreatic common bile duct, ampulla, duodenum and uncinate process are uninvolevd.  Extending from the tumour laterally, towards the tail of the pancreas, is an extensive area of pancreatic acinar atrophy associated with pancreatic duct dilatation, intraductal calculi and fibrosis.  This accounts for the overestimated larger dimension of the tumour  described at gross dissection. The tumour is  moderately differentiate predominantly composed of tubules and  complex glands. Less extensive growth in solid nests  or infiltrative single cells is also present  The tumour cells displays mild to moderately pleomorphic round to irregular nuclei, with vesicular chromatin, small nucleoli, and a moderate amount of pale eosinophilic, clear or microvacuolated cytoplasm. In many areas the tumour cell nuclei are small and bland.  In some areas the glandular lumina are well defined by an  eosinophilic cytoplasmic condensation. Some columnar cell morphology with basally polarised nuclei are also seen. Many glands contain necroinflammatory debris. The morphology is consistent with foamy gland variant of adenocarcinoma.     The tumour has an infiltrative  profile and is associated with dense fibroplasia. There is extensive perineural invasion, both within the confines of the tumour, and at its advancing edge, including a focus 0.1mm from the portal vein margin.  A single focus suspicious for lymphovascular invasion is present, but it could also represent invasion of a duct.  No definite lymphovascular invasions is seen.  Focally there is an anterior incisision into the carcinoma where the carcinoma was sampled for tumour banking.
+
+The stomach shows a moderate Helicobacter associated gastritis with sparse organisms highlighted in sections stained with a Helicobacter immunostain. No intestinal metaplasia or dysplasia is seen.
+The gallbladder is unremarkable
+
+The duodenum is unremarkable
+The spleen is unremarkable
+
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Ductal adenocarcinoma, foamy gland variant
+
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Head of pancreas
+Neck of pancreas
+Body of pancreas
+
+Extent of tumour invasion
+Pancreas
+Peripancreatic soft tissues
+
+Maximum tumour diameter
+20mm (blocks 14, 21, 22, 23 combined medial to lateral measurement)
+
+Lymphovascular invasion
+Suspicious.  A single focus which either represent lymphovascular invasion or invasion into  a duct is present (block 22)
+
+Type of vessel
+Small vessel
+
+Perineural invasion
+Present, numerous foci  (eg Blocks 22 and 23)
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Present (PanIN 3 block 15)
+
+Margins:
+Common bile duct:  Well clear
+Portal vein (superior mesenteric vein): 0.1mm (Block 22)
+Superior mesenteric artery/ Periuncinate soft tissue:  Well clear
+
+Surfaces:
+Anterior: 0.1mm (block 21)
+Posterior: 3mm (block 14)
+
+Lymph nodes:
+Number found:  36
+Number involved:0
+
+Other pathologies:
+Marked chronic pancreatitis distal to tumour with duct calculi, acinar atrophy and fibroplasia.
+Moderate chronic Helicobacter associated gastritis.
+
+Gallbladder unremarkable
+Duodenum unremarkable
+Spleen unremarkable.
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (pT)
+
+PANCREAS
+T1c	Tumour 1-2 cm in greatest dimension
+
+Regional lymph node category (pN)
+N0	No regional lymph node metastasis
+
+Distant metastasis category (pM)
+M0	No distant metastases

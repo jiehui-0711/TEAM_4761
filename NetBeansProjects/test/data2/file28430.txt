@@ -1,0 +1,39 @@
+SPR no: 28V404488W
+MRN no: 288404
+Site_name: FITZROY CROSSING HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT: MSI MARKERS (27.9.2066)
+Dr G Valadao
+CLINICAL:
+Grade 1 endometrial cancer on curettings.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, ovaries plus tubes&amp;quot;, consists of a partially opened uterus with attached cervix, bilateral tubes and ovaries weighing 73g in total.  The uterus measures 80 x 45 x 30mm and has smooth shiny serosal surface.  The ectocervix measures 30 x 25mm and has unremarkable surface.  On sectioning there is a fungating tumour occupying anterior and posterior surface with a cross section measuring 30mm x 40mm, 30mm x 20mm respectively.  The myometrium is 12 and 18mm on the  anterior and posterior respectively.  The tumour depth of invasion measures up to 9 and 11mm anterior and posterior respectively.  The myometrium is unremarkable.  The right fallopian tube measures 55mm in length with an outer diameter of 4mm.  The right ovary measures 20mm x 8 x 9mm.  The cut surface of the ovary is unremarkable.  The left fallopian tube measures 40mm in length with an outer diameter of 5mm.  The left ovary measures 20mm x 12mm x 6mm.  The cut surface of the ovary is unremarkable.
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 - RS deepest invasion anterior; 6 to 9 - full LS of posterior body and cervix; 10 &amp;amp; 11 - RS deepest invasion posterior; 12 &amp;amp; 13 - RS of right adnexa (block 12 fallopian tube, block 13 ovary); 14 &amp;amp; 15 - left adnexa (block 14 fallopian tube, block 15 ovary).
+
+B.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of a node measuring 14mm x 5 x 4mm. Serially sectioned and embedded in one block.  AE.
+(TO:LM/eh 29/7/69)
+
+
+MICROSCOPIC: (Reported by Dr G Behlen and Dr G Nikach)
+A.  Sections of the uterus show a predominantly exophytic FIGO Grade 1 endometrioid endometrial adenocarcinoma (with minimal solid growth pattern). Carcinoma extends along foci of (extensive) adenomyosis (block 9). Carcinoma infiltrates into the myometrium up to 8 mm in a myometrial wall 11 mm thick (block 5). The carcinoma is 3 mm from the serosal surface and does not involve the cervix or uterine serosa. There is a focus suspicious for lymphovascular space invasion (A5). There is no perineural invasion.  The uninvolved endometrium shows cystic atrophy. The bilateral fallopian tubes show focal paratubal cysts. There is no evidence of adnexal involvement by carcinoma.
+B.  Sections of the lymph node show no evidence of metastatic malignancy (0/1).  Deposition of hyaline material with focal calcification is noted.
+DIAGNOSIS:
+A.  Uterus, ovaries plus tubes: FIGO Grade 1 Endometrioid endometrial adenocarcinoma.
+
+B.  Right pelvic lymph node: No evidence of malignancy (0/1).
+
+Immunohistochemistry for mismatch repair enzymes is being performed and a supplementary report will be issued.
+
+
+SUPPLEMENTARY REPORT: MSI MARKERS (26.7.2066)
+Dr G Wieloch
+
+Immunoperoxidase stains for MSI proteins were performed as requested:
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining indicates low risk of microsatellite instability.

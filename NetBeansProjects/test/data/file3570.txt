@@ -1,0 +1,51 @@
+SPR no: 39J1785450
+MRN no: 3931785
+Site_name: DELORAINE DISTRICT HOSPITAL AND COMMUNITY HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reporttrbrdrtrdrw10 txlrtbEpisode No:  39J1785450f0
+3931785.MPB
+ql owd tblindtype3 drstlch
+DUSKIN, DOLORIS DEANN7740448
+1033rbrdrvrawnil trbrdrtrdrw10 txlrtbLab No:  39J17854
+Pleasent
+dsrsid7740448 ddfl3rdrs brdrw10 trpar
+INGHAMIinsrsid7740448   QLD   4823
+tlchrdrbw10
+x84163
+033brdrw10 35288tdrw10 tspnumSpecimen: 5283 Tissue
+D.O.B:  20/11/2021
+Sex:  F
+rtrowd lbrdrblshdrawnil drt10 tbg1033Collected: 03/03/2016ltrch at 10:47
+Location:  srsid11825283 MACQUARIE WARD-BALRANALD MULTI PURPOSE SERVICE
+s1 drsbrdrrow enp1033
+PRO ALLEN JEFFERSON SMOTHERS8
+trchrpaddr108w10 fault
+i0
+rbrdrtdrw10 toDistribution:      FILE-COPY,   NSW-CANCER-REGISTRY
+rin0trrow
+()d6162568
+faultHISTORY:
+A. peritoneal nodule, B. wound.
+Frozen section. Liver.r
+MACROSCOPIC:
+A. &amp;#8220;PERITONEAL NODULE&amp;#8221;. A piece of pink tissue 6mm in diameter &amp;#8211; bisected. AE for F/S. AE (2-1).
+F/S: &amp;#8220;Giant cell granuloma&amp;#8221;.
+B. &amp;#8220;WOUND&amp;#8221;. Two pieces of tissue, one larger elliptical piece 30mm in diameter, fibrofatty &amp;#8211; incised with no discrete lesion identified. Two small irregular piece s tissue 12mm in diameter, - in size with firm pale area 8mm in diameter. For F/S.
+F/S: &amp;#8220;Adenocarcinoma&amp;#8221;. Reported by Dr I Vacca via phone to SAL JOSTES at 10.45am, 3.3.16.
+( frozen section tissue ; 2 remaining tissue; 3&amp;amp;4 remaining tissue). AE (M-4).
+C.  93RIGHT LIVER&amp;#8221;. A piece of liver weighing 630g and measuring 160x110x80mm. The external surface is irregular with adherent diaphragm and fat, and focal ragged necrotic tissue 40mm (inked red).  There is a resection margin with staples  and bare liver 110x50mm, (inked blue). On sectioning, the liver shows extensive confluent tissue necrosis measuring 110mm in maximal extent with some intervening fibrosis bands. There is a firmer pale area of tumour present within the n ecrosis measuring 30mm, located 5mm from the nearest blue inked margin. The remaining liver has a slightly yellow and vague nodular appearance. Separate in the specimen container is a piece of fatty tissue measuring  45x35x20mm. On sectio ning there are some firm areas of haemorrhagic fat, however no suspicious areas are identified.
+srsid11825283
+(1&amp;amp;2 RS fatty tissue; 3&amp;amp;4 tumour with red ink [4 more central ?more viable, section with no margin]; 5-7 RS larger necrotic tissue with black ink in block 5 and 6, nearest blue ink incised and firm  tumour with  no margin in 7; 8 RS uninvolved parenchyma; 9 tumour reserve block). RS (M-9/EE/ht).
+MICROSCOPIC:  (Dr I Elser)
+A.   Parrafin sections confirm fibroadipose tissue in which there is foreign body giant cell reaction and vascular dilatation.  hHowever, deeper levels show foci of highly atypical glands consistent with adenocarcinoma.  Immunohistochemistry stain f or cytokeratin CAM5.2 is positive.
+B.  Sections show fibroadipose tissue in which there is an infiltrating moderately differentiated adenocarcinoma.
+C.  Sections  of liver show metastatic moderately differentiated adenocarcinoma with necrosis consistent with colorectal origin.  Most of the tumour and adjacent liver parenchyma shows evidence of infarction.  At the edge of the infarcted liver,  tlchnumerous SIR-spheres are identified within the sinusoids3 .  Embolised material is also seen focally.  Necrotic tumour is present at the soft tissue resection margin.  The uninvolved viable liver parenchyma appears unremarkable.
+
+283 DIAGNOSIS:
+A.  PERITONEAL NODULE: -
+- FOREIGN BODY REACTION AND FOCAL ADENlchOCARCINOMA.
+B.  WOUND:     ADENOCARCINOM A
+C.  RIGHT LIVER: -
+- METASTATIC COLORECTAL CARCINOMA WITH EXTENSIVE INFARCTION
+11/5/2065 nh

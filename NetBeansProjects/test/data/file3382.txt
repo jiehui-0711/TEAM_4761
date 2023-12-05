@@ -1,0 +1,44 @@
+SPR no: 03V113706T
+MRN no: 0381137
+Site_name: KALGOORLIE HEALTH CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  03V113706T
+0381137.CQT
+
+MARTENSON, LAYLA DALLAS
+Lab No:  03V11370,03V11370
+Solera
+BANORA POINT  ACT  2795
+Specimen: Fluid,Tissue
+D.O.B:  25/7/1983
+Sex:  F
+Collected: 4/2/2065 at :
+Location:  INTENSIVECARE UNIT - BEECHWORTH HEALTH SERVICE
+DR PATRICIA BRAXTON HAEUSSLER
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Ovarian cancer.  Right tube and ovary frozen section.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot; consists of a predominately cystic mass measuring 120 x 95 x 25mm, with overlying fallopian tube measuring 70mm in length and 6mm in diameter.  The external surface of the mass is smooth.  The cyst wall thickness varies from 1 to 5mm across.  The cyst is multiloculated, however most of the cyst is composed of a 120mm cavity containing haemo-serous fluid.  The internal surface is smooth.  At one end of the mass is a solid fleshy nodule, 50mm across.  Also received attached to the mass is a sheet of probable peritoneum, 120 x 80 x 1mm.  There are several nodules attached to the surface of the peritoneum ranging from 3 to 15mm.
+Blocks: 1 &amp;amp; 2 &amp;#8211; RS solid nodule for frozen section; 3 &amp;#8211; fallopian tube; 4 to 8 &amp;#8211; cystic component; 10 to 13 &amp;#8211; solid nodule; 14 &amp;amp; 15 &amp;#8211; peritoneal nodules.
+FROZEN SECTION REPORT:
+Poorly differentiated adenocarcinoma, favour primary ovary.
+Result to Anaesthetist by Dr C Monath and Dr C Mofield at 10:10am on 2/12/15.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot; consists of a predominately solid mass measuring 120 x 110 x 50mm, weighing 289g.  The external surface is predominately smooth, with an area of irregular tan tissue measuring 60mm across, affecting &amp;lt;20% of the external surface.  There is overlying fallopian tube measuring 30mm in length and 8mm in diameter.  Approximately 80% of the tumour has a tan fleshy cut surface with areas of haemorrhage.  The remainder of the tumour shows multiloculated cystic spaces.
+Blocks: 1 &amp;amp; 2 &amp;#8211; tumour with fallopian tube; 3 to 5 &amp;#8211; cystic areas of tumour; 6 &amp;amp; 7 &amp;#8211; tumour with irregular external surface; 9 to 12 &amp;#8211; tumour.
+C.  Specimen labelled &amp;quot;Bladder peritoneum&amp;quot; consists of multiple fragments of peritonealised adipose tissue measuring 50 x 45 x 20mm in aggregate.  Several small peritoneal nodules are seen ranging from 3 to 5mm.  One fragment contains an irregular tan nodule measuring 10mm across.
+Blocks: 1 &amp;amp; 2 &amp;#8211; peritoneum; 3 &amp;#8211; tan nodule.
+D.  Specimen labelled &amp;#8220;Omentum&amp;#8221; and consists of a piece of omentum measuring 190 x 90 x 15mm.  No focal lesions are seen.  RS 3 blocks.   (TO: KT; KT/ta 5/2/65)
+
+
+MICROSCOPIC (Reported by Dr C Hammock):
+A.  Sections show a carcinosarcoma / malignant mixed Mullerian tumour of the ovary.  Most of the tumour is composed of poorly differentiated serous carcinoma, with a small (10%) sarcomatous component (best seen in block A12).  Extensive necrosis is present.  Carcinoma is also present at the fimbrial end of the tube and within the separate piece of peritoneum.
+B.  Sections show poorly differentiated serous carcinoma of the ovary.  Extensive necrosis is present.  Carcinoma also involves the fimbrial end of the tube where there is also carcinoma in situ / STIC.
+C.  Sections show several deposits of poorly differentiated carcinoma.
+D.  The omentum contains one negative lymph node.  There is no evidence of malignancy.
+DIAGNOSIS:
+MMMT of the right ovary and poorly differentiated serous carcinoma of the left ovary.
+Carcinoma also involves the fimbrial ends of both tubes and the bladder peritoneum.
+The omentum is negative.

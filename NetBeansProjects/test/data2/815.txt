@@ -1,0 +1,73 @@
+Episode No:  16Q765027X
+1667650.FUX
+
+BARKETT, HAMISH TWANA 
+Lab No:  16Q76502
+Warburton Oaks
+STAWELL  Queensland  2607
+Specimen: Tissue
+D.O.B:  23/6/1997
+Sex:  M
+Collected: 12/11/2062 at :
+Location:  Med Onc-BARADINE MULTI PURPOSE SERVICE
+DR RORY Aristide Maese
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+SCC (R) tongue.  1 - 3 - neck dissection right hemiglossectomy - long ant, short medial loop floor of mouth.  B/G SCC of right lateral mid tongue.  
+MACROSCOPIC:
+Patient details checked by AR
+A.  Specimen labelled "Anterior margin" consists of a piece of tissue, 10 x 5 x 3mm.  AE for frozen section.
+Blocks:  1- frozen section.  
+B.  Specimen labelled "Posterior margin" consists of a piece of tissue, 10 x 7 x 4mm.  Specimen bisected and AE for frozen section.  
+Blocks:  1- frozen section.
+C.  Specimen labelled "Medial margin anterior" consists of a piece of tissue, 6 x 2 x 2mm.  AE for frozen section.
+Blocks:  1 - frozen section.  
+D.  Specimen labelled "Medial margin posterior" consists of a piece of tissue, 6 x 2 x 2mm.  AE for frozen section.  
+Blocks:  1 - frozen section.
+E.  Specimen labelled "Floor of mouth" consists of a piece of tissue, 13 x 7 x 6mm.  TAE for frozen section.
+Blocks:  1 - frozen section.  
+FROZEN SECTION REPORT:
+A to E.  No tumour.
+Phone result to anaesthetist by Dr E Cambria at 14.12 on 10.09.12.
+F.Specimen labelled "Right hemiglossectomy, long stitch anterior, short medial, loop floor of mouth" consists of a right hemiglossectomy with three sutures for orientation, long stitch anterior, short medial and loop floor of mouth measuring 60mm (anterior to posterior), 40mm (medial to lateral) and 40mm (superior to inferior).  There is an ulcerated and endophytic tumour, 20 x 15mm.  It is located 25mm from the anterior margin, 25mm from posterior margin, 20mm from posterolateral margin, 15mm from the anterolateral margin and 15mm from the medial margin.  Medial margin inked green, lateralmargin blue, posterior margin black and deep margin red.  The specimen is serially sectioned into 13 slices from anterior to posterior (anterior margin slice no 1, posterior margin slice no 13).  On sectioning there is a white solid and well defined tumour measuring 35mm (anterior to posterior.  It is present in slices 1 to 10.  It is located 10mm from the deep margin.  Representative sections are taken according to the diagram attached. 
+Blocks:  1 - two representative sections anterior margin (slice no 1); 2 - slice 3; 3 & 4 - slice 5; 5 & 6 - slice 7; 7 & 8 - slice 9; 9 & 10 - slice 10; 11 - one representative section from slice 13 posterior margin; 12 - tissue selected for tissue bank (takenfrom slice 4).
+
+G.  Specimen labelled "Level I right neck dissection" consists of a piece of fibrofatty tissue with a salivary gland attached measuring 80 x 50 x 30mm.  The salivary gland measures 40 x 40 x 30mm.  On sectioning the salivary gland is unremarkable.  Three lymph nodes are identified ranging from 5 to 10mm.  
+Blocks:  1 - one bisected lymph node; 2 - two lymph nodes; 3 - one representative section from the salivary gland.  
+H.  Specimen labelled "Level 2 & 3 right neck dissection" consists of a fatty piece of tissue, 60 x 30 x 20mm.  Five lymph nodes are identified ranging from 5 to 20mm in maximum diameter. 
+Blocks:  1 to 4 - one bisected lymph node each; 5 - one lymph node.  
+(DQ/mm 13.11.62) 
+MICROSCOPIC (reported by Dr E Braziel):
+A. Sections show skeletal muscle and fat with no evidence of malignancy.
+B. Sections show squamous mucosa with underlying minor salivary glands and muscle.  There is no evidence of malignancy.
+C and D. Sections show skeletal muscle and fat with no evidence of malignancy.
+E. Sections show minor salivary glands with no evidence of malignancy.
+F. 
+SQUAMOUS CELL CARCINOMA PROFORMA
+
+Site/resection: Right hemiglossectomy
+Tumour type: Squamous cell carcinoma
+Grade: Moderately differentiated (G2)
+Size: 35mm (anterior to posterior) x 20mm (medial to lateral)
+Depth of invasion: 15mm (into skeletal muscle)
+Perineural spread: Present (x 1 focus, F4)
+Lymphovascular invasion: Not seen
+p16 status: Strong staining in 10% of tumour cells
+Margins:
+  Medial: 4mm
+  Lateral/floor of mouth: 6mm/inferior: 6mm
+  Anterior: 10mm
+  Other margins: > 10mm
+Comment:  Adjacent mucosa shows low grade dysplasia, 5 mm clear of the nearest lateral margin.
+G. Sections show 3 lymph nodes and submandibular salivary gland with no evidence of malignancy.
+H. Sections show metastatic squamous cell carcinoma, up to 4.5mm in size, in 2 out of 5 lymph nodes. There is no evidence of extranodal spread.  Margins are clear.
+DIAGNOSIS:
+A to E. Frozen sections, anterior, posterior, medial anterior, medial posterior, floor of mouth margins: no evidence of malignancy
+F. Right hemiglossectomy: moderately differentiated squamous cell carcinoma, margins clear
+G. Level 1 right neck dissection: 3 lymph nodes and submandibular gland with no evidence of malignancy
+H. Levels 2 and 3 right neck dissection: metastatic squamous cell carcinoma, up to 4.5mm in size, in 2 out of 5 lymph nodes, no evidence of extranodal spread.  
+Staging (AJCC 7th Ed.)
+  pT2	Tumour more than 2cm but not more than 4cm in greatest dimension
+  pN2b	Metastasis in multiple ipsilateral nodes, none more than 6cm in greatest 	dimension
+  pMX	Distant metastasis cannot be assessed histologically
+

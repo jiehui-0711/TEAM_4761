@@ -1,0 +1,116 @@
+SPR no: 55Q353409F
+MRN no: 556353
+Site_name: TRANGIE MULTI PURPOSE HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report55Q35340,55Q35340 (55Q353409F) CHIRCO, NAOMA
+
+HISTOPATHOLOGY REPORT:
+SUPPLEMENTARY REPORT 26/10/67
+
+HISTORY:
+GI endometrial adenoCa.
+Right pelvic sentinel node, omentum biopsies, uterus, bilateral tubes and bilateral ovaries.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, BILATERAL TUBES + BILATERAL OVARIES&amp;quot;.  Uterus with attached cervix, bilateral tubes and ovaries.  Specimen received partially opening coronally.  In aggregate it weighs 372g and measures 140mm superior to inferior, 50mm intercornu distance.  The ectocervix is 25x25mm with a slit-like os 10mm.  It is partially haemorrhagic and stained blue. The anterior endomyometrium is 36mm.  The posterior endomyometrium is 33mm.  The serosal surface is unremarkable.  The anterior margin is inked blue, posterior black.  Within the uterine cavity is an exophytic lesion with a tan cut surface. It measures 30mm superior to inferior, 15mm anterior to posterior.  The lesion is mostly towards the fundal aspect involving the anterior and posterior walls.  It is 7mm of 35mm anterior, 8mm of 33mm posteriorly.  Also noted are multiple nodules with a whorled cut surface consistent with fibroids.  One is located underlying the endocervix.  They range from 2-31mm.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornu; 4 left cornu; 5-19 one full face sagittal slice of uterus [5 anterior cervix, 6 anterior lower uterine segment, 7-13 sections of anterior endomyometrium including tumour, 14-17 posterior endomyometrium including tumour, 18 posterior lower uterine segment, 19 posterior cervix]; 20 further section of tumour taken from posterior endomyometrium; 21 section of tumour in relation to fundus;
+
+The right ovary and fallopian tube together weigh 20g.  The ovary measures 45x25x20mm.  The serosa is unremarkable.  The fallopian tube is 60mm in length with a maximum diameter of 10mm.  There are multiple paratubal cysts ranging from 2-3mm.  On sectioning through the ovary, it has a firm normal appearing cut surface.
+
+22 right fallopian tube; 23&amp;amp;24 right ovary;
+
+The left ovary and fallopian tube together weigh 18g.  The ovary measures 45x20x15mm.  The serosa is unremarkable.  The fallopian tube is 60mm in length with a maximum diameter of 10mm.  There are multiple paratubal cysts ranging from less than 1mm to 4mm.  On sectioning through the ovary, it has a firm normal appearing cut surface.
+
+25 left fallopian tube; 26&amp;amp;27 left ovary).  RS (M-27).
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  A fatty piece of tissue 25x9x3mm.  Two possible nodes are identified 5 and 9mm.
+
+(1 one node bisected; 2 one quadrisected).  RS (M-2)
+
+C.  &amp;quot;OMENTUM BIOPSY&amp;quot;.  Multiple pieces of fatty tissue in aggregate 30x25x5mm.  No firm or suspicious areas are identified.  AE (M-1/MC 13/10/2067 nh)
+
+MICROSCOPIC:   (Dr O Kinnie)
+Sections of the tumour in the fundus of the uterus show a FIGO grade 1 endometrioid endometrial adenocarcinoma with minimal invasion of the myometrium (5mm of a myometrial thickness of 33mm).  There is no involvement of uterine serosa.  There is no evidence of lymphovascular space invasion.  There is a small separate focus of tumour in the lower mucosal aspect of the uterus (35mm from the cervical end of the specimen) which is favoured to represent endometrial (lower uterine segment) involvement.  Sections of the cervix are unremarkable.  There is no evidence of squamous or glandular atypia.  Sections of bilateral parametrium are unremarkable.
+
+The section of the right ovary shows a 1mm benign Brenner tumour.  The remainder of the right ovary and sections of the left ovary are within normal limits.  Sections of bilateral fallopian tubes are unremarkable.
+
+B.  Sections show two benign reactive lymph nodes.  Cytokeratin immunostained sections are negative.
+
+C.  Sections show unremarkable lobules of adipose tissue.  There is no evidence of malignancy.
+
+ENDOMETRIAL CARCINOMA, SYNOPTIC REPORT:
+
+Tumour type:  Endometrioid
+
+FIGO grade:  1
+
+(architecture grade: 1, nuclear grade: 1)
+
+Myometrial invasion:  Invasion limited to inner half of myometrium
+
+Depth of myometrial invasion:   5mm
+
+Myometrial thickness:   33mm
+
+% of myometrium invaded:   15%
+
+Focality:  Multifocal
+
+Tumour involves:  Fundus
+
+Vascular/lymphatic invasion:  Not seen
+
+Involvement of cervix:  Not involved
+
+Involvement of uterine serosa:  Not involved
+
+Excision margins:  Well clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Nil pathology
+Polyps:  Absent
+Adenomyosis:  Absent
+
+Adnexae:
+Left fallopian tube:  Within normal limits
+Right fallopian tube:  Within normal limits
+Left ovary:Within normal limits
+Right ovary:  1mm Brenner tumour
+
+Lymph nodes:
+Nodes involved:  0
+Total number:  2
+
+Other tissues:  Benign parametrium. Benign omentum
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+TNM stage: pT1a, pN0,  pMx
+FIGO stage:  IA
+
+Ancillary studies:
+Mismatch repair enzyme immunohistochemisty to follow.
+Addition block suitable for further testing: A15
+
+DIAGNOSIS:
+A.  UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES -
+- FIGO GRADE 1 ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA INVOLVING THE INNER HALF OF THE MYOMETRIUM
+-  NO INVOLVEMENT OF THE CERVIX
+- RIGHT OVARIAN 1mm BENIGN BRENNER TUMOUR
+B. RIGHT PELVIC SENTINEL LYMPH NODES
+- TWO BENIGN REACTIVE LYMPH NODES
+C. OMENTUM, BIOPSY
+- NO EVIDENCE OF MALIGNANCY
+
+19/10/2067 nh
+
+SUPPLEMENTARY REPORT 26/10/67
+Immunostains for MSI proteins (Washington Mutual CPC Pathology; block:A11)
+MLH1: Negative (abnormal)
+PMS2: Negative (abnormal)
+MSH2: Positive (normal)
+MSH6: Positive (normal)
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. Suggest further investigation.
+26/10/67 ld

@@ -1,0 +1,69 @@
+SPR no: 54G296625B
+MRN no: 54229662
+Site_name: DUNGOG COMMUNITY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Incidental 9mm (on U/S) cancer L breast 6 o&amp;apos;c 5cm FN.  CNB - mixed IDC/ILC grade 2.  Please Biobank (consent attached).  Hookwire guided WLE L breast cancer.  Sutures short superior, long lateral, medium medial.  Left axilla sentinel node bx.
+Comment:  Case discussed with Dr N Helaire on 7/10/68 - specimen inappropriate for fresh tissue Biobank due to preservation of margins (N. Teasley 6/8/16 at 17:15pm).
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left axilla central node &amp;quot;, consists of a fibrofatty piece of tissue 40 x 30 x 12mm.  Multiple possible lymph nodes identified.  Block 1 - single lymph node; 2 &amp;amp; 3 - single lymph node serially sliced, TS.
+
+B.  Specimen labelled &amp;quot;Wire guided excision left breast, short superior, long lateral, medium medial&amp;quot;, consists of an oriented fibrofatty piece of tissue with hookwire entering superficial- laterally.  The specimen measures 40mm superior to inferior x 40mm medial to lateral x 25mm superficial to deep.  Superficial surface inked blue, superior striped red and deep inked black.  The specimen is serially sliced, TS from medial to lateral into seven slices.  The tip of the hookwire is identified in slice 5 in association with a firm and spiculated white lesion measuring 10mm superficial to deep x 7mm superior to inferior x 10mm medial to lateral.  The lesion appears to be in continuity with firm and fibrous tissue towards the deep margin of the specimen, is 7mm from the superficial margin, 10mm from the superior margin, 12mm from the inferior margin, 15mm from the medial and 12mm from the lateral margin.  Blocks 1-4 - slice 1 LS; 5 &amp;amp; 6 - slice 2; 7 &amp;amp; 8 - slice 3; 9 &amp;amp; 10 - slice 4; 11 &amp;amp; 12 - slice 5 (11 - includes tip of hookwire site); 13 &amp;amp; 14- slice 6; 15-17 - slice 7 LS. AE.  Please refer to attached block key diagram for specimen B.
+(TO:MS/ec 8/11/67)
+
+
+MICROSCOPIC: (Reported by Dr N Sutphin)
+A.  Sections of the two sentinel lymph nodes show no evidence of malignancy by H&amp;amp;E and IHC (0/2).
+
+B.  Sections of the 10mm left breast tumour show an invasive carcinoma, NST. A synoptic report for breast carcinoma follows:
+
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Left breast.
+Type: Invasive carcinoma (lobular carcinoma).
+Invasive tumour size: 10mm.
+Grade (Modified Bloom &amp;amp; Richardson): 2
+Tubules: 3     Nuclei: 2     Mitoses: 1     Mitotic rate:     2/10hpf.
+Lymphovascular invasion: Not identified.
+
+DCIS component:
+DCIS: Not identified.
+
+Excision Margins:
+Invasive component:
+Superior margin: 2.2mm (B9)
+Superior-superficial margin: Less than 0.25mm (within a diathermied cleft; no intervening normal ducts/acini) (B9).
+Deep margin: 2.2mm (B11).
+Superficial margin: 0.56mm (B11).
+Inferior, medial and lateral margins: Clear of tumour.
+
+Receptors (Block B9):
+ER: 	POSITIVE
+60% of nuclei stained
+predominant intensity of staining: moderate to strong
+PR:  	POSITIVE
+10% of nuclei stained
+predominant intensity of staining: weak to moderate.
+HER2 (Novocastra 10A7): 1+ (negative)
+HER2 SISH:  Performed at SA Pathology, BALAKLAVA HOSPITAL Hospital, see separate report.
+Ki-67 index: Variable, up to 5% of tumour cell nuclei positive.
+
+Nipple: Not included.
+
+LCIS / ALH: Multifocal LCIS is present adjacent to the invasive carcinoma.
+
+Miscellaneous: The adjacent breast tissue shows columnar cell hyperplasia, epithelial hyperplasia, fat necrosis, lobular atrophy, fibrocystic change and apocrine papillary metaplasia. Changes consistent with a biopsy tract are seen.
+
+Sentinel lymph node(s): See specimen A.
+
+
+DIAGNOSIS:
+A.  Left axilla sentinel nodes: No evidence of malignancy (0/2) (H&amp;amp;E and IHC).
+
+B.  Left breast (wire guided excision):
+- 10mm invasive lobular carcinoma and LCIS.
+- Carcinoma is very close to the super-superficial margin (less than 0.25mm to diathermy) and superficial margin (0.56mm).
+- ER and PR positive, Her-2 negative.
+
+Her-2 ISH is being performed and a separate report will be issued.

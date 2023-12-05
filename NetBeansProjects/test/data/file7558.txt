@@ -1,0 +1,45 @@
+SPR no: 02E9429549
+MRN no: 0219429
+Site_name: CROOKWELL DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report02E94295 (02E9429549) BERGFIELD, ALLEN RUSSELL
+
+*SUPPLEMENTARY REPORT ATTACHED*
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Subtotal colectomy, peritoneal tumour.
+
+MACROSCOPIC:
+&amp;quot;COLON AND PERITONEAL DISEASE&amp;quot;.
+Colectomy - a colectomy measuring  up to 420mm in length with multiple gelatinous tumour deposits across the length. At one end there is an anastomosis present. On opening the mucosa shows focal ulceration, no polyps or tumour seen. On sectioning the area of focal ulceration mid length there is a gelatinous tumour protruding into the lumen measuring 10mm.
+
+(1 RS anastomosis; 2-5 RS serosal tumour deposits; 6 ulcerated mucosa).
+
+Peritoneal disease - Multiple fragments of peritoneum and gelatinous tumour measuring in aggregate 100x100x70mm. Adherent to one piece of peritoneum there is an irregular skin excision 45x30mm (umbilicus). On sectioning there are multiple cystic spaces with gelatinous tumour.
+
+(7 RS skin; 8-11 tumour deposits; 12&amp;amp;13 tumour reserve block; 14 RS bowel wall either side of anastomosis; 15 RS long segment of bowel wall). RS (M-15/EE/ht).
+
+MICROSCOPIC:     (Dr. B Bourget)
+Sections of the colectomy specimen show multiple serosal deposits of low to intermediate grade mucinous neoplasm. These deposits take the form of strips of mucinous epitheliumwhich in most areas show low-grade nuclear features. In some areas, there are  intermediate nuclear features, including nuclear hyperchromasia, focal pseudeostratification, prominent nucleoli, and occasional mitotic figures. Architecture is simple, with a few papillae seen focally, but no cribriform architecture. There are multiple deposits of extracellular mucin containing strips of low to intermediate grade mucinous epithelium on the peritoneal surface. At the area of macroscopically ulcerated mucosa, similar tumour is seen within the mucosa and submucosa, with focal ulceration. A few foci of desmoplastic stromal reaction are seen in response to foci of atypical epithelium and a few irregular glands. In the sections of skin, mucinous tumour is seen within the dermis and subcutis (Block 7). Sections of the bowel wall on either side of the anastomosis show viable small intestine and colonic wall. Sections of the long segment of bowel wall show serosal deposits of low to intermediate grade mucinous tumour. Two small lymph nodes show no involvement.
+Comment: The most likely primary site would be appendix, however many other primary sites are possible, and clinical correlation is required.
+
+DIAGNOSIS:
+COLON AND PERITONEAL DISEASE:
+- MULTIFOCAL, PREDOMINANTLY PERITONEAL INVOLVEMENT BY LOW TO INTERMEDIATE GRADE MUCINOUS NEOPLASM. CLINICAL CORRELATION IS REQUIRED (PLEASE SEE TEXT).
+
+21/11/2066 cy
+
+SUPPLEMENTARY REPORT (12/12/66):
+Immunostains for MSI proteins (Liberty Mutual CPC Pathology; block: 2)
+MLH1:  Positive (normal) staining of tumour nuclei.
+PMS2:  Positive (normal) staining of tumour nuclei.
+MSH2:  Positive (normal) staining of tumour nuclei.
+MSH6:  Positive (normal) staining of tumour nuclei.
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+12/12/2066 cy

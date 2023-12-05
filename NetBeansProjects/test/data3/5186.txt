@@ -1,0 +1,66 @@
+Episode No:  35B107095O
+350107.CZO
+
+KITCHELL, Erik 
+Lab No:  35B10709
+Goroka
+CRANBOURNEWestern Australia  5839
+Specimen: Tissue
+D.O.B:  4/2/2001
+Sex:  F
+Collected: 25/12/2065 at 09:02
+Location:  Molecular Oncology Unit-MONASH HEALTH WOMEN'S SANDRINGHAM
+DR JASPER Toccara ROSCIGNO
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast Ca 8 o'clock 5cm from nipple.  Long suture - lateral, short suture - superior, medium suture - medial.
+Superficial margin right breasttissue.  Suture at new superficial margin.
+Right axillary sentinel lymph node.
+MACROSCOPIC:
+A.  Specimen labelled "Right axillary lymph node" consists of a piece of fibrofatty tissue measuring 15 x 10 x 8mm containing a lymph node measuring 10mm in maximum dimension.  Serially sectioned and AE 1 block.
+B.  Specimen labelled "Lesion right breast, short stitch superior, long stitch lateral, medium stitch medial" consists of a piece of fibrofatty tissue measuring 55mm (medial to lateral) x 70mm (superficial to deep) x 20mm (superior to inferior).  There is a hookwire entering superficial - laterally and ends in coordinates D11.  An x-ray has been performed.  The specimen is inked as follows:  Superior red, inferior green, lateral blue, medial black and serially sectioned from superficial to deep.  On sectioning, no discrete lesion is identified within the fibrofatty tissue.  The specimen is AE.  (Hookwire ends between slices 1 and 2).
+Blocks:  1 to 2 - slice one, superficial margin from medial to lateral; 3 & 4 - slice two (hookwire ends); 5 & 6 - slice three; 7 & 8 - slice four; 9 & 10 - slice five; 11 & 12 - slice six; 13 & 14 - slice seven (slice thirteen has inferior and lateral margins); 15 & 16 - slice eight; 17 & 18 - slice nine; 19 & 20- slice ten; 21 to 23 - slice eleven, deep margin from medial to lateral.
+C.  Specimen labelled "Right breast lesion stitch new superficial margin" consists of a piece of fibrofatty tissue measuring 50 x 15 x 12mm.  There is a suture on one surface designated superficial margin.  The superficial margin is inked blue and the opposite is inked black.  (GO/rt 25.12.65)
+MICROSCOPIC (Reported by Dr J Satterfield):
+A - C.  Sections show invasive ductal carcinoma of the breast.  The additional new superficial margin shows no significant abnormality.  The features are as follows:
+Invasive carcinoma:
+Site:  Right breast, 8 o'clock
+Type:  Invasive ductal carcinoma
+Invasive tumour size:  6mm
+Grade (Modified Bloom &Richardson):  1
+Tubules:  1   Nuclei:  2   Mitoses:  1   Mitotic rate:  3/10hpf.
+Lymphovascular invasion:  Absent
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  Single 0.3mm focus
+Nuclear grade:  Intermediate
+Architecture:  Solid
+Necrosis:  Absent
+Calcification:  Absent
+Degree of DCIS in tumour:  Minimal
+DCIS in adjacent tissue:  Absent
+Excision Margins:
+Invasive component:  0.6mm from superior at superficial end, 1.5mm from superficial, 3mm from inferior, well clear of other margins.
+In-situcomponent:  Well clear (contained within invasive tumour)
+Receptors (Block B2):
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	50% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  Negative (score 1+)
+HER2 SISH:  Performed at Science Applications International, WESTERN HEALTH - BACCHUS MARSHHospital, see separate report.
+Ki-67 index:  Approximately 5%
+Nipple:  Not applicable
+LCIS / ALH:  Absent
+Miscellaneous:  Extra superficial margin (specimen C) and other breast tissue show columnar cell change andbenign luminal microcalcification only
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

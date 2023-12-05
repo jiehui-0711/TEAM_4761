@@ -1,0 +1,118 @@
+SPR no: 42I423311P
+MRN no: 42342331
+Site_name: TENNANT CREEK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+77 year old female presented to Orange base hospital with pancreatitis.  Imaging demonstrated pancreatic body mass with distal pancreatic duct dilation.  Lap assisted distal pancreatectomy and splenectomy today.  Pancreas divided over portal vein.  Note single prolene suture in region of SMV/splenic vein confluence.
+Request information sheet received: Yes
+Radiology reports received: Yes
+MACROSCOPIC:
+Specimen labelled:
+Subtotal pancreatectomy
+
+Specimen Type:
+Partial pancreatectomy, pancreatic tail, including spleen
+
+Specimen dimensions:
+Size of pancreas:  90 x 40 x 19mm
+Size of and weight of spleen:  95 x 65 x 25mm; 55 grams
+
+Orientation:
+Single prolene suture on the posterior surface of the pancreas marking the region of SMV/splenic vein confluence.
+
+Tumour location:
+Pancreatic body
+
+Tumour:
+Description:  The cut surface of the pancreas has a relatively uniform fibrotic appearance; a discrete tumour is not identified.
+
+Distance of tumour to margins:
+Pancreatic:  Unclear
+Inferior mesenteric vein/splenic confluence:  Unclear
+
+Distance of tumour to surfaces:
+Anterior:  Unclear
+Posterior:  Unclear
+
+Specimen inked:
+Anterior:  Blue
+Posterior:  Black
+Superior:  Red
+Inferior mesenteric vein/splenic confluence:  Green
+
+Additional:
+- Pancreas is sectioned from proximal to distal into twenty one approximately equal slices (following shave of stapled pancreatic margin)
+- Pancreatic duct is identifiable in slices five to fourteen, measuring up 3mm in diameter
+- There are several mildly calcified vessels at the anterioinferior aspect of the pancreas
+- Spleen and hilar fibroadipose tissue shows no significant abnormality
+
+Blocks:
+Blocks: 1 - shave pancreatic margin (3-4mm); 2 - slice one pancreas (proximal); 3 - slice two pancreas ; 4 - slice three pancreas ; 5 - slice four pancreas ; 6 - slice five pancreas (SMV/splenic vein confluence suture); 7 - slice six pancreas; 8 - slice seven pancreas; 9 - slice eight pancreas; 10 - slice nine pancreas ; 11 - slice ten pancreas; 12 - slice eleven pancreas; 13 and 14 - slice twelve pancreas; 15 and 16 - slice thirteen pancreas; 17 and 18 - slice fourteen pancreas; 19 and 20 - slice fifteen pancreas; 21 and 22 - slice sixteen pancreas; 23 and 24 - slice seventeen pancreas; 25 and 26 - slice eighteen pancreas; 27 and 28 - slice nineteen pancreas; 29 and 30 - slice twenty pancreas; 31 - slice twenty one pancreas (distal); 32 to 34 - splenic hilar fat, lymph nodes as seen; 35 to 37 - spleen.  Complete pancreas embedded.  See photo.  (TO:JB/vo 7/1/70)
+
+
+MICROSCOPIC (Reported by Dr M Zepka and registrar Dr M Schlatter):
+Sections show a 30mm moderately differentiated adenocarcinoma of the pancreatic body arising on the background of PanIN-3.  PanIN-3 is present at the pancreatic resection margin.  A number of medium-sized arteries and veins are present on the posterior aspect which are not involved by tumour.  The region of the inferior mesenteric vein/splenic vein confluence appears just clear of tumour however, one lymph node in this region shows lymphatic invasion within the subcapsular sinus and perinodal adipose tissue.  The pancreatic tail shows obstructive changes only.  The features are as follows:
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Body of pancreas
+
+Extent of tumour invasion
+Peripancreatic soft tissues
+
+Maximum tumour diameter
+Approximately 30mm (spanning seven slides)
+
+Lymphovascular invasion
+Present
+
+Type of vessel
+Small vessel
+
+Perineural invasion
+Present
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not applicable
+
+Pre-invasive lesion
+PanIN-3
+
+Margins:
+Pancreatic:  3mm clear of invasive tumour; PanIN-3 at margin
+Inferior mesenteric vein/splenic vein confluence:  0.1mm
+
+Surfaces:
+Anterior:  2mm
+Posterior:  0.1mm
+Superior:  0.5mm
+Inferior:  2mm
+
+Lymph nodes:
+Number found:  23
+Number involved:  1
+
+Other pathologies:
+- Pancreas distal to tumour shows atrophic changes, including extensive fibrous replacement of the exocrine pancreas, islet pseudohyperplasia and dilation of the main pancreatic duct
+- Spleen shows no significant abnormality
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+Primary tumour category (pT)
+T2	Tumour &amp;gt;2 cm and &amp;#8804;4 cm in greatest dimension
+
+Regional lymph node category (pN)
+N1	Metastasis to one to three regional lymph nodes
+Distant metastasis category (pM)
+MX 	Not assessable by histology
+
+DIAGNOSIS:
+Subtotal pancreatectomy:
+- 30mm pancreatic ductal adenocarcinoma
+- Single positive lymph node

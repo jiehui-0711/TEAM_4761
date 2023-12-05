@@ -1,0 +1,104 @@
+Episode No:  29O614905X
+295614.YAO
+
+Sprouse, JESSICA 
+Lab No:  29O61490
+Valenciennes
+BALLARAT  VIC  6612
+Specimen: Tissue
+D.O.B:  17/7/1990
+Sex:  F
+Collected: 25/3/2063 at :
+Location:  OBSTETRICS-LEIGH CREEK HEALTH SERVICES
+DR Trevor Gudara GALLUZZI
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT (3.3.63)
+
+CLINICAL:
+Right breast Ca wide excision + SLN bx.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node 2187" consists of apiece of fatty tissue, 30 x 20 x 8mm containing a lymph node, 15 x 8 x 7mm.  
+Blocks:  1- one trisected lymph node.  Sentinel node protocol requested.  
+B.  Specimen labelled "Sentinel node N2288" consists of a piece of fatty tissue, 25 x 15 x 7mm containing a lymph node, 10 x 5 x 4mm.  
+Blocks:  1- one trisected lymph node.  Sentinel node protocol requested.  
+C.  Specimen labelled "Right breast mass, short superior, long lateral, medium medial" consists of a piece of breast tissue with three marking stitches as described ion the label measuring 45mm (lateral to medial) x 44mm (superior to inferior) x 40mm (superficial to deep).  The margins are inked in three colours:  Superior red, superficial green and deep black.  Specimen is serially sliced from medial to lateral into seven slices.  There is a pale indurated nodule extending from slice 4 to slice 7 measuring21 x 17 x 16mm.  The nodule is 12mm from medial, 1mm from lateral, 3mm from superficial, 3mm from deep and12mm from superior margins.  It abuts the inferior margin.  
+Blocks:  1 - slice 1 en face (medial margin); 2 to 4 - slice 2; 5to 8 - slice 3; 9 to 12 - slice 4; 13 to 16 - slice 5; 17 to 20 - slice 6 (block 15 - ER, PR, HER-2 Ki67 requested, 17- reserved block); 21 to 27 - slice 7 (lateral margin).  AE.  Please see diagram.  
+D.  Specimen labelled "Axillary node (R)" consists of two lymph nodes, 12 and 10mm in maximum dimension with attached fatty tissue.  
+Blocks:  1- one bisected lymph node; 2- one bisected lymph node.
+E.  Specimen labelled "Axillary tissue" consists of a piece of fibrofatty tissue, 40 x 35 x 7mm.  No lymph nodes are seen.  AE 2 blocks.  (TO:  TD:  CU/mm 27.3.63) 
+MICROSCOPIC:  (Reported by Dr F Tomlin)
+A to D.
+Invasive carcinoma:
+Site:  Rght breast 
+Type: Invasive ductal carcinoma, not otherwise specified (NOS)
+Invasive tumour size: 17mm (microscopic)
+Grade:   2 (modified Bloom &Richardson)       
+Tubules: 3 (<10%) Nuclei: 2 Mitoses: 1 Mitotic rate:2/10hpf.
+Lymphovascular invasion:  Present (multiple foci, C10, 16, 18, 20, 24)
+	    
+
+DCIS component:  
+DCIS:    present
+Maximum extent of DCIS: 22mm
+Nuclear grade:   intermediate
+Architecture: solid, cribriform
+Necrosis:   present
+Calcification:   present (C18)
+Degree of DCIS in tumour:   > 25%
+DCIS in adjacent tissue:    present
+Excision Margins:  
+
+Invasive component:
+  Superficial: 5mm (no intervening normal ducts)
+  Deep: 8mmmargins: > 10mm
+In-situ component:
+  Superficial: 3mm (no intervening normal ducts)
+  Lateral: 3mm (with intervening normal ducts)
+  Medial: 10mm
+  Other margins: > 10mm
+Receptors: 
+ER:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:    strong
+PR:   positive
+	80 % of nuclei stained
+	predominantintensity of staining:   moderate 
+HER2 (Novocastra 10A7): 0
+ 
+Ki67 index:  15%
+LCIS / ALH:   Present (C18)
+Sentinel lymph node(s):
+No. of sentinel lymph nodes examined:  2 (Specimens A and B)
+No. of sentinel nodes involved by tumour: 0
+Axillary/othernodes:
+No. of axillary lymph nodes examined:  1 (Specimen D)
+				
+No. of axillary nodes NOT involved:  0
+Lymphnode total:
+Total number of lymph nodes examined (including sentinel node(s)): 3
+Total number of involved lymph nodes (including sentinel node(s)): 0
+E. Sections show fat with no evidence ofmalignancy.
+DIAGNOSIS:
+A to D. Right breast wide local excision and axillary lymph nodes:
+- 17mm invasive ductal carcinoma NOS, grade 2, ER positive, PRpositive, HER2 0, Ki67 index 15%, HER2 SISH pending, 5mm superficial margin, 8mm deep margin, other margins >10mm, multifocal lympovascular invasion present.
+- 22mm intermediate grade DCIS, 3mm superficial and lateral margins, 10mm medial margin, other margins > 10mm
+- 2 sentinel and 1 non-sentinel lymph nodes with no evidence of malignancy
+E. Axillary tissue: no evidence of malignancy
+ADDITIONAL REPORT, HER2 IN-SITU HYBRIDISATION (3/3/63)
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid) 
+
+Mean HER2 copy number percell: 1.7 
+Mean CEP17 copy number per cell: 1.4 
+HER2/CEP17 Ratio: 1.2 
+
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8 
+Equivocal: HER2/CEP17 = 1.8-2.2 
+Positive: HER2/CEP17 >2.2 
+
+Reported by: Dr F. Hindbaugh 
+Date: 2.3.63
+

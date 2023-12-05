@@ -1,0 +1,55 @@
+SPR no: 86C505731F
+MRN no: 8605057
+Site_name: WOY WOY PUBLIC HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  86C505731F
+8605057.IEF
+
+STILLEY, GREGORY ROCHELLE
+Lab No:  86C50573
+Winpark
+JUNEE  NT  1002
+Specimen: Tissue
+D.O.B:  3/3/2018
+Sex:  F
+Collected: 25/07/2013 at 15:16
+Location:  ST VINCENT'S PATHOLOGY-AUGATHELLA HOSPITAL
+DR ELIJAH ADAN BOID
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Recurrent pelvic tumour.  Post op tumour resection ? sarcoma.  Main mass and satellite nodules. A small piece of tissue from the pelvic sarcoma has been sent to
+SOUTH WEST HEALTHCARE - CAMPERDOWN&amp;#8217;s Hospital for Cytogenetics.
+MACROSCOPIC:
+A.   Specimen labelled &amp;#8220;Recurrent pelvic sarcoma&amp;#8221;, consists of an unoriented partly encapsulated nodule, measuring 90 x 60 x 55mm.  There are several areas of disrupted capsule with exposed tumour parenchyma.  The capsule is inked black. On sectioning the tumour has a solid and white appearance with approximately 50% of the surface with necrotic and haemorrhage appearances.  Representative sections in 10 blocks; block 10 &amp;#8211; reserve block.
+B.  Specimen labelled &amp;#8220;Pelvic sarcoma&amp;#8221;, consists of two pieces of haemorrhagic tissue measuring 15 and 20mm in maximum diameter. AE 2 blocks.
+C.  Specimen labelled &amp;#8220;Mass lower sigmoid&amp;#8221;, consists of two nodular pieces of tissue, one with a haemorrhagic appearance measuring 30 x 20 x 15mm.The second piece has a nodular fatty appearance measuring 20 x 25 x 20mm.  Block 1- two representative sections of the haemorrhagic nodule; 2 &amp;#8211; two representative sections of the fattynodule.   (TO: PG: PG/ec 28.9.63)
+
+MICROSCOPIC (Reported by A/Prof W Stoessel):
+A, B and C. Sections show a large cell malignant tumour partially surrounded by a thick pseudo-fibrous capsule. The tumour is composed of solid sheets of large epithelioid cells with abundant granular cytoplasm.  The nuclei are polygonal with vesicular chromatin and prominent nucleoli. Areas of necrosis and hemorrhage are present. There is brisk mitotic activity with up to 30 mitoses per 10 HPF. Numerous atypical mitoses are seen.
+COMMENT: The previous resection (86C50573) has been reviewed for comparison and the morphological features of the two tumours are similar. The histological features support a diagnosis of recurrent epithelioid angiomyolipoma.
+These tumours have malignant potential and may be related to tuberous sclerosis complex.
+DIAGNOSIS:
+A. &amp;#8211; C. Pelvic tumour: CONSISTENT WITH RECURRENT Epithelioid angiomyolipoma. (EPITHELIOID PECOMA)
+
+
+CYTOGENETICS REPORT  17/10/63WILSON MEMORIAL COMMUNITY HOSPITAL&amp;#8217;s Pathology
+Specimen Type:  Tumour
+Preparation:
+S-1
+S-2
+S-3
+S-4
+Analysis:
+Cell counted				    3
+Cell analysed (GTW BANDING)            1
+Band resolution level                            &amp;lt;300
+
+Karyotype:
+64-68, cx, inc [2]/46, XX[1]
+One additional cell showed a count of 46, but could not be analysed completely.
+Comment:
+Two cells of extremely low resolution showed a count of 64-68, with multiple structural abnormalities in acomplex (cx) karyotype.  Poor resolution precluded further analysis, with the karyotype therefore incomplete (inc).  The remaining two cells seen had a count of 46, but only one of these was analysable.
+Please advise laboratory (8382 9154) should interphase FISH be of assistance in this case.
+Reported By: W Eliott             	Validated By: Dr W. Palmerin
+Date: 09/08/13 6:20 pm

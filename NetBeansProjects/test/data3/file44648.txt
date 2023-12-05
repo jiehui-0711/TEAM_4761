@@ -1,0 +1,18 @@
+SPR no: 31Y956100G
+MRN no: 2154178
+Site_name: TENNANT CREEK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Excision of soft tissue tumour from anterior aspect of right thigh.  Lies just under superficial fibres of sartorius.  ?Atypical lipomatous tumour, ?lipoma, ?other sarcoma.  Short suture = superior; long suture = lateral; medium = medial.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right thigh lesion stitch short superior, long lateral, medium medial&amp;quot;, consists of lobulated fibroadipose tissue and skeletal muscle measuring 115mm superior to inferior, 90mm medial to lateral, and 30mm anterior to posterior.  The specimen weighs 130g.  The anterior margin is inked green, the posterior margin is inked blue, the medial margin is inked red, and the lateral margin is inked black.  The specimen is sectioned from superior to inferior into fifteen approximately equal slices.  The cut surface has a predominately lobulated, adipocytic appearance.  No dense areas of fibrosis or necrosis are identified.  The adipocytic tissue abuts the skeletal tissue (2mm thickness) at the anterior aspect, and appears to extend to all other margins.
+Blocks: 1 - LS slice one (superior margin); 2 &amp;amp; 3 - LS slice fifteen (inferior margin); 4 - anterior margin, slice seven; 5 - anterior margin, slice eleven; 6 - posterior margin, slice six; 7 - posterior margin, slice twelve; 8 - lateral margin, slice nine; 9 - lateral margin, slice twelve; 10 - medial margin, slice seven; 11 - medial margin, slice ten; 12 - central tumour, slice eight; 13 - central tumour, slice nine; 14 - central tumour, slice ten.  (TO:VG/ta 10/5/70)
+
+
+MICROSCOPIC (Reported by Dr I Hauge):
+The tumour has been extensively sampled.  Sections show an atypical lipomatous tumour or well differentiated liposarcoma at other sites.  The tumour is lobulated and composed of adipocytes showing variation in size and with mild nuclear pleomorphism and hyperchromasia.  Occasional multinucleated adipocytes and multi-vacuolated lipoblasts are also seen.  Bands of fibrosis containing atypical hyperchromatic stromal cells and also occasional aggregates of chronic inflammatory cells are also seen.  The tumour invades into the surrounding skeletal muscle and extends to all resection margins.  It is difficult to distinguish residual mature adipocytes from tumoral adipocytes.  There is no evidence of dedifferentiation.
+DIAGNOSIS:
+Right thigh lesion - Atypical lipomatous tumour/well differentiated liposarcoma.

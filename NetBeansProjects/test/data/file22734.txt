@@ -1,0 +1,90 @@
+SPR no: 57N028496E
+MRN no: 575028
+Site_name: WEE WAA COMMUNITY HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report57N02849,57N02849 (57N028496E) GARCZYNSKI, ARCHER
+HISTOPATHOLOGY REPORT:
+HISTORY:
+Grade II endometrioid adenocarcinoma.  MSI staining preserved.
+1. Peritoneal washings.
+2. Uterus, tubes + ovaries.
+3. Omental biopsy.
+4. Right pelvic sentinel node.
+5. Left pelvic sentinel node.
+MACROSCOPIC:
+A.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. A piece of fatty tissue 25x20x12mm. Two possible lymph nodes identified. (1 one node bisected; 2 one lymph node bisected).  AE (M-2)
+B.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. multiple fragments of fibrofatty tissue in aggregate 30x30x6mm.  Four possible nodes identified. (1 one node bisected; 2 one node bisected; 2 two possible nodes). AE (M-3)
+C.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  two pieces of fatty tissue in aggregate 15x10x3mm. One is slightly firm.  AE (2-1)
+D.  &amp;quot;UTERUS, TUBES + OVARIES&amp;quot;. a uterus with attached cervix, bilateral tubes and ovaries.  Specimen received partially opened coronally.  weight 64g. Anterior inked blue, posterior black.  The uterus with cervix measures 70mm superior to inferior, 25mm intercornual distance. Anterior endomyometrium is 13mm thick, posterior endomyometrium is 12mm thick.  The ectocervix measures 30x20mm with a slit-like os 18mm. Uterine serosal surface is smooth.  On opening there is an exophytic tumour within uterine body
+mostly attached to the anterior wall, measuring 30mm superior to inferior up to 10mm in thickness.  Depth of invasion into the myometrium is difficult to assess. The right ovary and fallopian tube together weigh 7g.  R fallopian tube is 30mm in length with a maximum diameter of 8mm.  There are multiple paratubal cysts ranging from 1 to 2mm.  The R ovary measures 20x13x10mm.  No lesions seen.  The left ovary and fallopian tube together weigh 9g. L fallopian tube measures 30mm in length with a maximum diameter of 8mm.  The serosa shows a small paratubal cyst measuring 3mm.  L Ovary measures 25x10x10mm and shows no lesions.
+(1  R parametrial tissue; 2  L parametrial tissue; 3  R cornu; 4  L cornu; 5  anterior cervix; 6  posterior cervix; 7  anterior lower uterine segment; 8  posterior lower uterine segment ; 9  anterior endomyometrium including lesion; 10  posterior endomyometrium; 11-13  further sections of anterior endomyometrium; 14  tumour in relation to fundus; 15  further section of posterior endomyometrium; 16  R ovary and fallopian tube; 17  L ovary and fallopian tube).  RS (M-17/MCkm) Further: D18 post cx; 19,20 ant cx, ant LUS; 21 fundus; 22 R fundus with R tube isthmus end; LV further D23, D24 Rt tube TS and fimbrial LV
+
+MICROSCOPIC:   (P Kolker)
+A. RIGHT PELVIC SENTINEL NODE
+Sentinel lymph node involvement:  Absent, no tumour  (0/2)
+
+B. LEFT PELVIC SENTINEL NODE
+Sentinel lymph node involvement:  Absent, no tumour  (0/5)
+
+C. OMENTAL BIOPSY
+Omentum involvement: Absent, no tumour
+D.UTERUS, TUBES + OVARIES
+TUMOUR SITE: Uterine body, fundus and extending into endocervix in direct continuity
+HISTOLOGIC TYPE: Endometrioid carcinoma
+HISTOLOGIC GRADE: Grade 2 (FIGO)
+MYOMETRIAL INVASION: present, &amp;lt;50 %
+DEPTH OF INVASION: 4 mm of myometrial thickness 10 mm ( 40%), block D11
+LYMPHOVASCULAR INVASION: Present, focal (D21)
+Site of lymphovascular invasion: At tumour interface, Rt cornu
+CERVICAL STROMAL INVASION: Present, in continuity
+Maximum invasive depth of cervical stromal invasion: 4 mm of cervical wall thickness 12 mm (slide D6)
+
+TUMOUR INVOLVEMENT:
+- UTERINE SEROSA: Not involved
+- PARAMETRIA: Not involved
+- ADNEXA: carcinoma involves Rt cornu but does not extend into tube proper
+
+PERITONEAL CYTOLOGY: See separate report
+
+EXCISION  MARGINS
+Negative (not involved)
+DISTANCE OF MYOINVASIVE TUMOUR TO SEROSA: 6 mm
+DISTANCE OF TUMOUR TO CERVICAL RESECTION MARGINS: 8 mm
+
+BACKGROUND ENDOMETRIUM: Atrophic
+
+OTHER TISSUE FINDINGS:
+Right fallopian tube: Normal (carcinoma involves Rt cornu)
+Right ovary: Normal
+Left fallopian tube: Normal
+Left ovary: Normal
+Ectocervix: atrophic
+Endocervix: involved by invasive carcinoma
+
+ANCILLARY TESTS:
+Immunohistochemistry block D13, D18
+The carcinoma shows moderate positive staining with ER and PR.
+P16 shows moderate positive and mosaic pattern staining
+CEA shows focal staining
+Immunostains on cervcix carcinoma and uterine body carcinoma are similar and the cervix appears to be direct extension from the uterine body carcinoma.
+
+Mismatch repair proteins (MMRP): D13
+Normal positive staining for MLH1, PMS2, MSH2, MSH6 (mismatch repair proficient tumour)
+Other tumour block suitable for further testing: D11
+
+PROVISIONAL STAGE (FIGO 2009) pre-MDT: FIGO II (cervical stromal invasion present)
+
+DIAGNOSIS:
+A. RIGHT PELVIC SENTINEL NODE
+- Sentinel lymph node involvement:  Absent, no tumour  (0/2)
+B. LEFT PELVIC SENTINEL NODE
+- Sentinel lymph node involvement:  Absent, no tumour  (0/5)
+C. OMENTAL BIOPSY
+- Omentum involvement: Absent, no tumour
+D.UTERUS, TUBES + OVARIES
+- Endometrioid carcinoma uterus, Grade 2
+- myometrial invasion present (40%)
+- focal lymphovascular invasion present
+- cervical stromal invasion present
+- negative margins

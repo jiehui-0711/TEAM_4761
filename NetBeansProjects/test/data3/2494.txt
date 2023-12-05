@@ -1,0 +1,62 @@
+
+Episode No:  56O191570Y
+565191.PUA
+
+EALY, Johnathan 
+Lab No:56O19157
+West Thomas
+SYDNEY  QLD  3860
+Specimen: Tissue
+D.O.B:  4/12/1983
+Sex:  M
+Collected: 29/10/2065 at :
+Location:  Palms-MOUNT DRUITT HOSPITAL
+DR Lamont CHADWICK Przygocki
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left hemicolectomy - splenic flexure tumour.  No evidence of metastases/perforation.  HTN, NIDDM.  
+MACROSCOPIC:
+Specimen labelled "Lefthemicolectomy for a splenic flexure tumour", consists of a hemicolectomy measuring 210mm in length.  85mm from the nearest resection margin there is a pedunculated and partly sessile tumour measuring 30 x 28mm which occupies approximately 60% of the circumference of the bowel.  The cut surface reveals a cream tumour which invades into the muscularis propria and focally through it into the mesenteric fat.  17mmfrom one resection margin 30mm from the tumour there is a pedunculated 6mm polyp.  Two further polyps are identified measuring 4 and 3mm which are well clear of the resection margins.  Numerous lymph nodes are identified in the mesenteric fat.  
+Blocks: 1 - resection margins; 2 to 5 - representative tumour; 6 - one polyp bisected; 7 - one polyp bisected; 8 - one polyp; 9 - apical node; 10 to 13 - lymph nodes; 14 - one node bisected;  15 & 16 - further lymph nodes.  (DY/vo 30.10.65)  
+MICROSCOPIC(Reported by Dr N Beidler & registrar Dr N Zilka):
+Sections show moderately differentiated adenocarcinoma with the following features:
+Macroscopic Description:
+
+Site of tumour:  Splenic flexure	
+Maximum tumour diameter:  30mm
+Distance of tumour to nearer cut end:  85mm
+Tumour perforation:  No
+Microscopic Description:
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymph nodes
+Number of lymph nodes present:  13
+Number of lymphnodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Three (3) tubular adenomas with low grade dysplasia are present in the specimen
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0    pMX    R0
+

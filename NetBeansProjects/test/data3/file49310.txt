@@ -1,0 +1,169 @@
+SPR no: 78N351146F
+MRN no: 78535114
+Site_name: BEECHWORTH HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportADDITIONAL REPORT (2/11/68)
+
+AMENDMENT FOR TYPOGRAPHIC ERROR (2/6/70)
+
+CLINICAL:
+Pancreatic tumour.  HOP.  Brushings and FNAB are non-conclusive.  No neoadjuvant therapy.   BKG.  No family Hx.  Pancreatitis x 3.  Jaundiced.  ERCP and stent.
+Request information sheet received: Yes
+Radiology reports received: Yes
+MACROSCOPIC:
+
+A. Specimen labelled:  &amp;quot;Whipple and omentum&amp;quot;.
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&amp;apos;s resection), partial pancreatectomy, and separate piece of omentum.
+
+Specimen dimensions:
+Length of duodenum:  140mm
+Length of lesser curve of stomach:  40mm
+Length of greater curve of stomach:  45mm
+Size of gallbladder:  75mm in length x 30mm diameter
+Wall thickness of gallbladder:   3mm.
+Calculi in gallbladder:  No calculi. It contains clear mucoid material.
+Size of and weight of spleen:N/A
+Length of bile duct:  The common hepatic duct is cut flush with the common bile duct.
+Maximum diameter of bile duct: 10mm (stented).
+Size of pancreas:  45 x 35 x 15mm.
+Location of stent:  Common bile duct.
+Length of segment of vessels present in resection specimen:  Not present
+[vessel name]:N/A
+
+Orientation:
+Portal vein:  One long suture.
+Superior mesenteric artery:  Two medium sutures.
+Uncinate process:  Thee short sutures.
+Common bile duct:  N/A
+Other: Common hepatic duct one suture.
+
+Tumour location:
+Pancreatic head.
+
+Tumour:
+Description:  There is a pale fibrotic area that surrounds the pancreatic duct.
+Tumour Size: Approximately 20mm x 18mm x 17mm.
+Greatest dimension: 20mm
+Additional dimensions: 18x 17mm
+
+Distance of tumour to margins:
+Pancreatic neck:  Possibly involved.
+Common bile duct:  It surrounds the common bile duct, around the stented area.
+Portal vein bed: Close to the margin.
+Superior mesenteric artery:  7mm.
+Uncinate process:  15mm.
+Proximal intestinal/gastric:  90mm.
+Distal intestinal margin:  More than 90mm.
+Proximal pancreatic margin (applicable to distal pancreatectomies only):  Not applicable.
+
+Distance of tumour to surfaces:
+Anterior:  2mm
+Posterior:  7mm
+
+Specimen inked:
+Anterior:  Yellow.
+Posterior:  Black.
+Portal vein:  Blue.
+Superior mesenteric artery: Red.
+Uncinate process:  Green.
+
+Blocks:
+Blocks:  1 - pancreatic neck margin; 2 - common hepatic duct margin; 3 - next to common hepatic duct margin; 4 - gastric and small bowel margins; 5 and 6 - gallbladder (Block 5 has cystic duct, lymph node bisected and fundus); (block 6 has neck and body); 7 to 10 -   transverse sections through common bile duct, from proximal to distal; 11 to 17 -  large blocks and are sequential transverse sections through the pancreas from superior to inferior; 18 and 19 - subsequent slices of pancreas with uncinate margin in 18 and 19; 20 and 21 - lymph nodes from attached greater curvature fat; 24  - nodes; 21 - two nodes; 22 - 23 - fat from greater curve; 24 - fat from lesser curve.
+
+B.  Specimen labelled &amp;quot;Portal lymph node&amp;quot; , consists of fatty tissue, 30 x 20 x 8mm containing one  lymph node, 7mm in maximum in dimension.  AE.  Blocks:  1 -   lymph node; 2 - remaining fat.
+
+C.  Specimen labelled &amp;quot;Common hepatic lymph node&amp;quot;, consists of tan piece of tissue, 25 x 15 x 8mm containing one lymph node, 20mm in maximum dimension.  Transversley sectioned.  AE 2 blocks.  (TO:JB/hh 17/11/66)
+
+
+MICROSCOPIC (Reported by Dr S Sodek):
+A. The entire pancreas and common bile duct have been embedded.
+
+Sections show a 20mm well differentiated adenocarcinoma of the pancreas.  The lesion is composed of rounded and irregularly shaped glands lined by stratified columnar tumour cells with apical mucin and mild to moderate nuclear atypia, surrounded by desmoplastic stroma. Multifocal perineural invasion is seen. No tumour with a solid architecture is identified. The lesion is confined to the pancreas.  Approximately 75% of the circumference of the intrapancreatic common bile duct is involved by tumour (A13). The extrapancreatic common bile duct shows no evidence of malignancy. Foci suspicious for lymphovascular invasion are seen. Multifocal perineural invasion is present within the pancreas.
+The stented common bile duct has a diameter of 10mm. There is extensive ulceration with acute inflammation. The mucosal lining of the extrapancreatic portion shows atypia which is favoured to be reactive in nature. No convincing p53 up-regulation is seen on immunohistochemistry.
+The pancreas shows patchy areas of chronic pancreatitis. Focal low-grade dysplasia (PanIN 2) is present in the small pancreatic ducts (A15, 18). No definite high-grade dysplasia (PanIN 3) is seen.
+Metastatic carcinoma is present in 2 out of 56 lymph nodes.
+SUMMARY PANCREATIC TUMOUR
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 1: Well differentiated (greater than 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Head of pancreas
+
+Extent of tumour invasion
+- Pancreas
+- Intrapancreatic common bile duct
+
+Maximum tumour diameter
+20mm (microscopic, A12)
+
+Lymphovascular invasion
+Suspicious
+
+Type of vessel
+Small vessel
+
+Perineural invasion
+Present, multifocal
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Not identified
+
+Margins:
+Pancreatic neck:  7mm (A1 and 13)
+Common bile/hepatic duct: &amp;gt; 10mm
+Portal vein (superior mesenteric vein): 4mm (A14)
+Superior mesenteric artery: &amp;gt; 10mm
+Periuncinate soft tissue:  &amp;gt; 10mm
+
+Surfaces:
+Anterior: 3mm (A12)
+Posterior:  &amp;gt;10mm
+
+Lymph nodes:
+Number found:    56 (main specimen A)
+Number involved:  2 (A13)
+
+
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+Primary tumour category (pT)
+T1c	Tumour 1-2 cm in greatest dimension
+
+Regional lymph node category (pN)
+N1	Metastasis to one to three regional lymph nodes
+
+Distant metastasis category (pM)
+MX	Not assessable by histology
+
+B. Sections show a lymph node with no evidence of malignancy.
+C. Sections show a lymph node with no evidence of malignancy.
+DIAGNOSIS
+A. Whipple resection:
+- 20mm well differentiated adenocarcinoma of the pancreas
+- Metastatic carcinoma in 2 out of 56 lymph nodes
+- pT1c N1 MX
+B. Portal lymph node: no evidence of malignancy
+C. Common hepatic lymph node: no evidence of malignancy
+AMENDMENT FOR TYPOGRAPHIC ERROR (1/6/70)
+The diagnosis for specimen C should read &amp;quot;Common hepatic lymph node&amp;quot; not &amp;quot;Comment hepatic lymph node&amp;quot;. This has been amended above.
+
+ADDITIONAL REPORT (1/11/67)
+MSI testing requested by Dr Margret KIRKHART.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

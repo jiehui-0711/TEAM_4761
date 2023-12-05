@@ -1,0 +1,70 @@
+Episode No:  17N620654F
+1756206.OLF
+
+MITCHAM, JUAN 
+Lab No:  17N62065
+W Acme
+URUNGA  SA  2550
+Specimen: Tissue
+D.O.B:  7/11/1999
+Sex:  M
+Collected: 21/5/2063 at :
+Location:  DAY SURGERY-NEPEAN HOSPITAL
+DR MARIA YOLONDA EUBANKS
+Distribution:   FILE-COPY
+CLINICAL:
+TV colon cancer.  Transverse colon adenocarcinoma.  Dm T2, HTN, high chol, glaucoma.  Transverse colon cancer - extended right hemicolectomy.  
+MACROSCOPIC:
+Specimen labelled "Right colon" consists of a right hemicolectomy measuring 310mm in length with an attached segment of transverse colon 110mm in length.  Included in the specimen is an attached appendix, 80mm in length and up to 10mm in diameter, and appears unremarkable. 35mm from the distal resection margin there is a sessile tumour, 22 x 19mm.  The tumour appears to invade to a maximum depth of 9mm and abuts the muscularis propria.  There is a further small polypoid area 65mm from the distal resection margin and 35mm from the other tumour measuring 10 x 6mm.  The additional polypoid area appears confined to the mucosa and may represent a prominent mucosal fold.  The remainder of the mucosa reveals multiple diverticula containing impacted faecal material.  No other suspicious areas identified.  Multiple lymph nodes are identified in the mesenteric fat from 3 to 12mm.  
+Blocks:  1 -distal resection margin; 2- proximal resection margin; 3 to 6 - tumour all embedded; 7 - small polypoid area; 8 - representative appendix; 9 - diverticulum; 10 - apical lymph node; 11 to 15 - lymph nodes.  (JB/mm 22.5.63) 
+MICROSCOPIC: (Reported by Dr E Mcconaghy - 24.5.2063)
+The transverse colon tumour is a moderately differentiated adenocarcinoma. A synoptic report for colonic carcinoma follows:
+SYNOPTIC REPORT FOR COLONIC ADENOCARICNOMA
+Macroscopic Description
+Site of tumour: Transverse colon.	
+Maximum tumour diameter: 22mm
+Distance of tumour to nearer cut end: 35mm (macroscopic)
+Tumour perforation: No
+
+Microscopic Description
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT1	Limited to submucosa
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: Thirty.	
+Number of lymph nodes involved: None (0/30).	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The adjacent non-neoplastic colon, as well as, the separately identified nodule, show changes of a moderately active chronic colitis with associated mild to moderate chronic architectural distortion. Similar changes are seen within the mucosa of the appendix. The inflammation appears confined to the mucosa and superficial submucosa. No granulomas or viral inclusions are identified. The appearance is highly suspicious for underlying chronic inflammatory bowel disease. The presence of a diverticulum is confirmed histologically. 
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvant therapy
+Not applicable. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+pTNM Stage (TNM 7th Edition): IpT1N0Mx	
+
+
+DIAGNOSIS:
+Right hemicolectomy:
+22mm pTNM Stage 1 moderately differentiated adenocarcinoma.
+Immunohistochemistry shows low likelihood of microsatellite instability phenotype.
+No evidence of malignancy in thirty sampled lymph nodes (0/30).
+Background colon shows diverticula and widespread changes highly suspicious for underlyinginflammatory bowel disease. 
+Representative slides seen with Dr E Oglesbee.
+

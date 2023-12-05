@@ -1,0 +1,47 @@
+Episode No:  20A932232V
+200932.FIF
+
+Davidsen, CHAUNCEY 
+Lab No:  20A93223
+S Inge
+MAREEBA  New South Wales  1192
+Specimen: Tissue
+D.O.B:  21/3/2038
+Sex:  M
+Collected: 23/09/2065 at 15:19
+Location:  EAST SURGICAL-BARADINE MULTI PURPOSE SERVICE
+DR Rolando Tanner-Lovellette
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+L testis.  Clinically Ca.
+MACROSCOPIC:
+Specimen labelled "Left testis", consists of a specimen of testis (60 x 45 x 35mm) with attached spermatic cord (105mm in length and up to 18mm in diameter).  The external surface is inked blue.  Withinthe testis there is a 38 x 30 x 28mm solid tumour with pale pink and haemorrhagic cut surfaces. The tumour appears to be encapsulated. The tunica vaginalis is easily separated from the testis during dissection.   Block 1 - spermatic cord resection margin shave; 2 - TS mid spermatic cord; 3 & 4 - paired sections tumour and ? rete testis; 5- 2TSdistal spermatic cord; 6 - tumour and ? rete testis; 7 - tumour; 8 - tumour, reserve block; 9-11 - sections of tumour.  (TO: CB/ec   24.9.65) 
+MICROSCOPIC: (Reported by Dr F Veldkamp) 
+
+TESTIS TUMOUR PROFORMA
+Histologic type:  
+	Mixed germ cell tumour with types as follows (%) 	
+		Teratoma: 70%
+Embryonal carcinoma:20%
+Yolk sac: 10%
+Scarring: Absent
+Syncytiotrophoblasticgiant cells: Present
+Maximum tumour size (maximum dimension): 38mm
+Extent of tumour
+Rete testis invasion: Absent
+Epididymis invasion: Absent 
+Tunica albuginea invasion: Absent 
+Tunica vaginalis invasion: Absent
+Spermatic cord invasion: Absent
+Scrotal wall invasion: Absent
+Lymphovascular invasion: Absent
+Intratubular germ cell neoplasia (ITGCN): Absent 
+	Type: Not otherwise specified 
+	Extent: Focal
+Other comment: The teratoma is composed of squamous epithelium, glandular tissue, cartilage and blastema with neuroepithelium. The embryonal carcinoma shows positive staining for CD30 and PLAP. The focal yolk sac component shows weak staining for alpha-fetoprotein. Scattered beta-HCG positive syncytiotrophoblastic cells are seen. There is no convincing choriocarcinoma. Focal intratubular germ cell neoplasia is present on PLAP staining.
+AJCC Tumour staging category (pT) (7th edition)
+T1 	Tumour limited to the testis and epididymis without vascular/lymphatic invasion
+DIAGNOSIS:
+Left testis: 38mm mixed germ cell tumour (70% teratoma, 20% embryonal carcinoma, 10% yolk sac tumour), confined to testis (pT1, AJCC 7th Ed.), margins clear
+ 
+

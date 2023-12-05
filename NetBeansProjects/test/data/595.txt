@@ -1,0 +1,72 @@
+Episode No:  50V236190J
+508236.CZC
+
+ZAMMIELLO, HUGH 
+Lab No:  50V23619
+Durland
+GAWLER  ACT  2462
+Specimen: Tissue
+D.O.B:  25/2/2003
+Sex:  M
+Collected: 07/02/2013 at 09:10
+Location:  ST GEORGE PRIVATE-EXMOUTH HOSPITAL
+DR JESSE ELWOOD GRAVITT
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Whipple.  Neuroendocrine tumour of pancreas.
+MACROSCOPIC:
+Specimen labelled "Whipple's" consists of head of pancreas (100 x 45 x 40mm), gallbladder (75mm in length x 65mm in circumference), distal stomach and proximalsmall bowel (215mm long) with peripancreatic soft tissue (60 x 40 x 30mm).  Separate from the main specimen there is omental fatty tissue 290 x 190 x 60mm.  The pancreatic surfaces/margins are inked as follows: neck margin blue, portalvein bed red, posterior black, periuncinate blue and anterior surface green.  The neck of pancreas is inked blue after removing the true neck margin.  The pancreas is serially sliced.  There is a fairly firm yellow nodule 12 x 10 x 10mm within the pancreas.  The nodule abuts the anterior surface.  It is 16mm from the neck margin, 20mm from the portal vein bed, 40mm from the posterior margin and 60mm from the periuncinate end.  It is 48mm from the hepatic duct margin, 40mmfrom the proximal gastric margin and well clear of the distal small bowel margin.  The mucosa of the gallbladder is green and granular.  The small bowel mucosa appears normal.  
+Blocks:  1 - shaved proximal gastric margin; 2 - shave distal duodenal margin; 3 - shave hepatic duct margin; 4 - one trisected peripancreatic lymph node, posterior pancreas below the portal vein bed; 5 & 6 - paired sections shave pancreatic neck margin; 7 & 8 - one full slice of the pancreas and duodenum (tumour in block 8); 9 & 10 - paired sections; 9 - tumour in relation to anterior surface; 10 - portal vein bed closest to tumour; 11 - periuncinate end; 12 - representative fundus and body of gallbladder; 13 - representative neck of gallbladder and trisected cystic duct lymph node; 14 - ?bisected lymph node at portal vein bed; 15 - bisected peripancreatic lymph node; 16 - ?bisected lymph node at posterior margin; 17 - ?bisected lymph node at posterior margin; 18 - bisected periuncinate lymph node; 19 - two likely omental lymph nodes.   (FH/cc 4/9/63) 
+ 
+MICROSCOPIC (Reported by Dr O Trigg): 
+Sections show a well differentiated pancreatic endocrine neoplasm, low grade.  There is no tumour necrosis and mitoses are very infrequent (<2 per 50 high power fields).  There is no extra-pancreatic spread.  All excision margins are well clear.  Seven lymph nodes which were found with the specimen are all free of tumour.  
+A synoptic report follows:
+SYNOPTIC REPORT
+(NEUROENDOCRINE PANCREATIC TUMOUR);location:  Head of pancreas.
+Histologic type:  (WHO classification):
+- Well differentiated pancreatic endocrine neoplasm, low grade
+Histologic grade (TNM gradingsystem):
+- Low grade =<2 mitoses/50 hpf and NO necrosis
+Tumour size:   11mm
+Vascular space invasion.  No.  
+Perineural invasion:  No.
+Presence of unusual histologic features:  No.
+Presence of other pathological components:  No
+Presence of non-ischaemic tumour necrosis:  No
+Extent of invasion:
+Extension out of pancreas:  No
+Involvement of serosal/peritoneal surfaces:  No
+Invasion of adjacent organs/structures:  No
+
+Distant of invasive tumour from resection margins:(positive/negative/close; give measurement if less than 5mm).
+Pancreatic neck:  Negative
+Periuncinate soft tissue:  Negative
+Posterior retroperitoneal:  Negative
+Portal vein bed:  Negative
+Common bile duct:Negative
+Lymph nodes:
+Number of lymph nodesfrom main resection specimen:  7
+Number of involved lymph nodes from main resection specimen:  0
+Separately received lymph nodes:  No lymph nodes were identified in the omentum.  
+Pathologic staging (pTNM, AJCC 7th edition 2010)
+pTNM, Stage =
+pT:  1
+pN:0
+pM:  X
+Overall stage:  1A
+Additional pathologic comments and findings in other resected organs:    Sections of the gastric pylorus, the small bowel and the gallbladder are normal.  
+Immunohistochemistry:
+Synaptophysin:  Positive.  
+Chromogranin:  Positive.  
+Ki-67 immunoproliferative index:  3%
+
+DIAGNOSIS:
+Whipple's resection:
+Tumour type:  Well differentiated pancreatic endocrine neoplasm.  
+Tumour grade:  Low
+Tumour location:  Head of pancreas
+Tumour size:  11mm
+Lymph nodes:  0/7
+Stage:  1A
+Involved or close margins (includes tumour less than 1mmfrom margin);  All margins well clear. 
+

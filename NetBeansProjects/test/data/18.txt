@@ -1,0 +1,88 @@
+
+Episode No:  66B527965L
+6605279.QNL
+
+PETRICONE, SUSANNA 
+Lab No:  66B52796
+Belleverde
+MOLLYMOOK  Northern Territory  2516
+Specimen: Tissue
+D.O.B:  17/7/2006
+Sex:  F
+Collected: 12/10/2063 at :
+Location:  PERI-OPERATIVE UNIT-ROYAL MELBOURNE HOSPITAL - CITY CAMPUS
+DR LEN EDELMIRA BEGIN
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Sigmoidtumour with mets - Hartmanns.  Sigmoid tumour.
+MACROSCOPIC:
+Specimen labelled "Hartmann's" consists of a length of colon 145mm in length.  55mm from the closest resection margin and measuring up to  43mm in maximum dimension is an ulcerated, circumferential polypoid tumour.  There is associated serosal puckering. Sectioning reveals the tumour abuts the serosal surface and also contiguously penetrates  the mesenteric fat reaching the mesocolic margin.  A separate 15mm peduculated polyp is identified, 5mm from one resection margin.  The mucosa is otherwise unremarkable.  Multiple lymph nodes are identified in the mesenteric fat.
+Blocks:  1 - one resection margin; 2 - one resection margin to a large polyp; 3 & 4 - tumour and mesenteric resection margin; 5 to 7 - full face of tumour; 8 - further representative tumour; 9 - tumour to uninvolved mucosa; 10 to 13 - lymph nodes; 14 - reserved block.  Please refer to attached diagram.  (TO: XI; UT/rt 12.11.63)
+MICROSCOPIC (Reported by Dr R Bellanca):
+Sections show a moderately differentiated adenocarcinoma with the following features:
+Macroscopic Description
+
+Site of tumour:  Sigmoid colon	
+Maximum tumour diameter:    43mm
+Distance of tumour to nearer cut end:    55mm
+Tumour perforation:     No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+The tumour is composed of variably sized complex and cribriform glandular structures lined by columnar cells with moderately pleomorphic nuclei.  There is patchy central luminal necrosis.
+Local invasion
+pT3	Beyond muscularis propria
+The tumour contiguously invade the mesocolon extending to the mesocolic margin and very close to the serosal surface with an associated fibroinflammatory reaction, however no tumour cells are seen on the serosal surface.
+
+Comment
+Tumour cells with a fibro-inflammatory response are seen within 1mm of the serosal surface.  Although this would be classified as pT3 under AJCC 7th Ed., recent studies suggest these cases have a prognosis similar to pT4a lesions (1)
+(1) Panarelli et al. Histologic Features and Cytologic Techniques That Aid Pathologic Stage Assessment of Colonic Adenocarcinoma, Am J Surg Pathol 2013;37:1252-1258
+Tumour involvement of margins
+Cut ends: Not involved 
+Non-peritonealised circumferential margin: Involved	 (mesocolic margin)
+Lymph nodes
+Number of lymph nodes present: 13	
+Number of lymph nodes involved: 1 (several nests distributed over 3mm)
+Number of mesocolic tumour satellite nodules: 2
+In addition to one involved lymph node, there are two mesenteric deposits of adenocarcinoma which are non-contiguous with the invasive front of tumour.  No discernable residual lymph node architecture or vessel wall is seen.Both deposits are therefore regarded as mesocolic satellite nodules.
+pN1a	Metastases in 1 regional LN
+Lymphovascular invasion
+Present   
+Several foci of extramural (subserosal) invasion of small thin walled vessels are seen (probable lymphatic) (block 10).
+Perineural invasion
+Present  
+Several foci of extramural perineural invasion and a focus of extramural intraneural invasion (block 3) are seen including close to the involved mesenteric margin (block 6). 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically (clinical history of metastases)
+Background abnormalities/other comments
+Adenomas:  The 15mm peduculated polyp is a tubulovillous adenoma with low grade epithelial dysplasia.  The polyp is about 5mm clear of the closest resection margin.
+Other:  Away from the tumour and polyp, the bowel mucosa is unremarkable.
+Residual tumour status
+R2	Macroscopic margin involvement
+The gross impression of involvement of the mesocolon margin(cut surface of the mesocolon) is confirmed with tumour extending to this margin over a front of approximately 7.5mm.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Stage - TNM 7th Edition
+pT3  (see comment) N1a MX R2	
+DIAGNOSIS:
+Sigmoid colon:
+-  Moderately differentiated adenocarcinoma invading mesocolon, extramural lymphovascular invasion, extramural perineural and intraneural invasion, positive mesocolic margin, metastatic adenocarcinoma in one (1) of thirteen (13) lymph nodes (1/13), two (2) mesocolic tumour satellite nodules; clinical history of metastases.
+-  Stage pT3 (see comment), N1a, MX, R2.
+-  Tubulovillous adenoma with low grade dysplasia, clear of margins.
+
+
+
+
+
+
+

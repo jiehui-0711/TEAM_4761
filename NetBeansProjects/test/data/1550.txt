@@ -1,0 +1,51 @@
+
+Episode No:  54Y6941011
+5496941.BDE
+
+TELLERIA, Christoper 
+Lab No:  54Y69410
+Tomes
+WILLIAMSTOWN  Tasmania  4512
+Specimen: Tissue
+D.O.B:  10/9/2008
+Sex:  M
+Collected: 11/07/2013 at 14:25
+Location:  Envoi pathology-RIVERTON HOSPITAL
+DR Toney Ken FISTLER
+Distribution:  FILE-COPY
+CLINICAL:
+Ca prostate.  Radical prostatectomy.
+MACROSCOPIC:
+A.  Specimen labelled "Prostate", consists of a prostate measuring 58.9g. and measuring 52 x 45 x 40mm.  The right vas deferens measures 20mm and the left 22mm in length.  The right seminal vesicle measures 22 x 12 x 14mm and the left 25 x 13 x 7mm.  The left halfis inked blue and right inked black with the anterior inked red.  The prostate is transversely sectioned into 4 slices.  Slice 1 (apex) and slice 4 (base) are further parasagittaly sectioned.  Specimen AE. 
+Blocks:  1 to 7 - Apex Slice 1 (right to left); 8 - Slice 2; 9 - Slice 3; 10 to 20 - Base Slice 4 (right to left); 21 - right seminal vesicle; 22 - left seminal vesicle; 23 - right vas deferens; 24 - left vas deferens.  
+B.  Specimen labelled "Right pelvic lymph node", consists of a piece of fibro fatty tissue measuring 65 x 50 x 15mm.  Thereare two lymph nodes identified measuring 20 and 22mm in maximum dimension.  
+Blocks: 1 - one lymph node; 2 - one lymph node.
+C.  Specimen labelled "Left pelvic lymph node", consists of two pieces of fibro fatty tissue measuring 40 x 25 x 5mm and 65 x 40 x 10mm.  There are three lymph nodes identified in the specimen from 5 to 8mmin maximum dimension.  
+Blocks: 1 - two lymph nodes; 2 - one lymph node.  (TO: VY;NU/vo 14.9.63)
+MICROSCOPIC (Reported by Dr N Herrin):
+A to C. 
+RADICAL PROSTATE PROFORMA
+Histological type: Adenocarcinoma
+Tumour location:  Bilateral, multifocal
+Dominant nodule:  Right apex to base
+	Non-dominant (>10mm):  Left posterior mid to apex
+	Smaller nodules:  Present
+Volume/Size (dominant nodule):  9ml (30mm x 30mm x 25mm x 0.0004) 
+Gleason score: 3+4=7
+Extraprostatic extension: Not seen
+Bladder neck: microscopic Gleason 3 tumour invading thicksmooth muscle bundles near midline base of prostate, in keeping with bladder neck invasion, 0.2mm clear of margin (N49, 54, 54, shown to Dr JARVIS Wassil and Dr BRYCE Cosper)
+Surgical margins: Clear (0.2mm, bladder neck, see above)
+Perineural invasion: Present (within prostate)
+Seminal vesicles: Not involved
+Lymph nodes: 2 right (specimen A) and 3 left (specimen B) lymph nodes with no evidence of malignancy
+Lymphovascular invasion: Not seen 
+DIAGNOSIS:
+Radical prostatectomy, right and left pelvic lymph nodes:
+	Adenocarcinoma, Gleason score 3+4=7
+	5 lymph nodes with no evidence of malignancy
+
+Stage (AJCC/UICC TNM system, 7th edition)
+pT3a microscopic invasion of bladder neck
+pN0 No positive regional nodes. 
+MX Cannot be assessed histologically
+

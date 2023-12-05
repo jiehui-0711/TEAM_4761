@@ -1,0 +1,54 @@
+SPR no: 65C6598693
+MRN no: 650659
+Site_name: ROYAL REHABILITATION HOSPITAL - COORABEL/MOORONG
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report65C65986,65C65986 (65C6598693) DETERING, MYRNA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Peritoneal washings for cytology.  Omentum, uterus, tubes and ovaries.  POD peritoneum. Rectal serosa.  adenocarcinoma  CA125 = 375.
+
+MACROSCOPIC:
+A.  &amp;quot;OMENTUM&amp;quot;. A fibrofatty piece of tissue consistent with omentum measuring 250x140x20mm. The outer surface is smooth and glistening.  The cut surface reveals involvement of the omentum with multiple firm white tumour deposits, largest nodule is a broad based one measuring 65x35x15mm. The second largest is 40x25x20mm. The others (at least 10) more deposits identified measuring 5-10mm.
+
+(1&amp;amp;2 RS smaller nodule; 3 RS largest nodule; 4 second largest nodule also for tumour tissue banking). RS (M-4)
+
+B.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;.  A total hysterectomy specimen of a total weight of 66g. Consists of a uterus measuring 75x30x25mm with attached cervix measures 35x25x20mm. Attached is a right fallopian tube measuring 95mm and is dilated towards the fimbrial end up to 25mm and right ovary measures 25x10x10mm. The left fallopian tube measures 60x6mm. The left ovary measures 20x7x7mm.  The anterior cervical margin is inked blue, posterior black. The serosal  surface of the uterus contains one serosal  nodule measuring 8x5mm at the anterior right body. The posterior body contains two nodules measuring 6 and 7mm.  Also noted a similar white nodule on the right round ligament measuring 7mm.  The endometrium is up to 3mm thick. The myometrium is trabeculated and up to 14mm thick with intramural fibroid at the anterior body measuring 6mm in maximum diameter.
+
+The right fimbrial end of the fallopian tube is replaced by a solid white mass measuring 35x25x15mm with smooth nodular outer surface and multiple cystic spaces 2-5mm filled with clear serous fluid.  The cut surface of the mass reveals firm white to tan cut surface with adjacent cystic part of the fallopian tube marked by multiple papillary excrescences.  The cut surface of the right ovary is unremarkable.  The left tube outer surface contains multiple cystic spaces filled with clear serous fluid but no discrete lesions are identified. The cut surface of both ovaries reveals variegated yellow and white cut surface with possible serosal  nodules on the left ovary.
+
+(1-6 continuous piece LS of the uterus [1 anterior cervix, 2 posterior cervix, 3 anterior isthmus and body, 4 posterior isthmus and body, 5 anterior fundus, 6 posterior fundus]; 7 RS serosal  nodules anterior and posterior body; 8 nodule on the right broad ligament; 9-12 right fallopian tube [9 fimbrial end trisected, 10&amp;amp;11 each one TS firm and cystic areas, 12 transition between normal tube and lesional mass, 13&amp;amp;14 right ovary each three TS; 15&amp;amp;16 left tube [15 fimbrial end trisected, 16 four TS mid]; 17&amp;amp;18 left ovary serially sliced). RS (M-18)
+
+C.  &amp;quot;POUCH OF DOUGLAS PERITONEUM&amp;quot;. A fibrous piece of tissue consistent with peritoneum measuring 120x50mm and is up to 6mm thick.  It has a glistening surface (serosal  covering) which has disseminated firm nodules and multiple papillary excrescences. This covers more than 75% of the area of the specimen.
+
+(1-3 each two TS nodular serosal  involvement).  RS (6-3)
+
+D.  &amp;quot;BOWEL SEROSA&amp;quot;.  Multiple tan and possibly papillary pieces of tissue measuring 16x10x5mm in aggregate.  AE (M-1/ZH/ank)
+
+MICROSCOPIC:   (Dr P Pyatt)
+A,B,C&amp;amp;D. Sections show high-grade serous carcinoma involving all of the submitted specimens. There is a tumour mass expanding and occluding the fimbrial end of the right fallopian tube. There is predominantly surface involvement of the right ovary, nodular involvement of the right broad ligament, surface involvement of the left ovary, and involvement of the omentum (Specimen A), pouch of douglas (Specimen C), and bowel serosa (Specimen D). The carcinoma is characterised by papillary, solid and pseudoglandular architecture with clefted glandular spaces. The tumour nuclei are high-grade with frequent mitoses, and there are numerous psammoma bodies in areas.
+Immunostain results:
+CK7, p53, WT1, and ER positive.
+CK20 and PR negative
+Ki67: 50 to 60%
+
+Sections of the cervix show no evidence of cervical or glandular atypia. Sections of the endometrium show inactive morphology. There is adenomyosis, and several small benign leiomyomas. Sections of the ovaries apart from the tumour deposits are unremarkable.
+
+DIAGNOSIS:
+A. OMENTUM
+- INVOLVEMENT BY HIGH-GRADE SEROUS CARCINOMA.
+
+B. UTERUS, BILATERAL FALLOPIAN TUBES AND OVARIES
+- HIGH-GRADE SEROUS PAPILLARY CARCINOMA FORMING A TUMOUR MASS AT FIMBRIAL END OF THE RIGHT FALLOPIAN TUBE.
+- HIGH-GRADE SEROUS CARCINOMA INVOLVING THE RIGHT AND LEFT OVARIES AND RIGHT BROAD LIGAMENT.
+- INACTIVE ENDOMETRIUM, ADENOMYOSIS AND LEIOMYOMAS.
+
+C. POUCH OF DOUGLAS PERITONEUM
+- INVOLVEMENT BY HIGH-GRADE SEROUS CARCINOMA.
+
+D. BOWEL SEROSA
+- INVOLVEMENT BY HIGH-GRADE SEROUS CARCINOMA.
+
+13/12/2066 cy

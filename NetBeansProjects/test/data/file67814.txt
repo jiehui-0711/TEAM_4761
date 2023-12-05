@@ -1,0 +1,37 @@
+SPR no: 21E496542O
+MRN no: 21149654
+Site_name: NORTH WEST REGIONAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Interval debulking surgery. General Clinical History: HGSC of ovary post NACT (C4 5/5/71), minimal radiological and biochemical response.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right fallopian tube and ovary&amp;quot;, consists of a solid cystic ovarian mass with an intact fallopian tube, 170 x 165 x 80mm. The fallopian tube is 90mm in length and up to 13mm in maximum diameter. The outer surface of the mass is smooth. The cyst contents include clear serous fluid and necrotic fluid. Within the cystic spaces there are papillary excrescences with scattered areas of necrosis. The fallopian tube appears macroscopically normal. Blocks: 1 to 7 - right fallopian tube and fimbriae; 8 to 24 - RS from ovarian mass. RS. Specimen shown to Dr F Mcclamma.
+
+B.  Specimen labelled &amp;quot;Uterus + cervix, left fallopian tube and ovary&amp;quot;, consists of a uterus with attached cervix, left fallopian tube and ovary weighing 71 grams in total. The uterus measures 40 x 75 x 40mm and has a smooth and shiny serosal surface. On sectioning the endometrium is up to 6mm in maximum thickness and the myometrium is up to 15mm in maximum thickness. The myometrium contains one fibroid 27 x 20 x 15mm. The lower part of the uterus appears cystic. The left fallopian tube is 45mm in length and 7mm in maximum diameter. The left ovary measures 17 x 15 x 10mm and has an unremarkable cut surface. Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to 7 - full LS of posterior body and cervix; 8 to 14 - left fallopian tube and ovary; 15 - RS posterior uterus with fibroid.Specimen shown to Dr F Papa.
+
+C.  Specimen labelled &amp;quot;Left pelvic wall biopsy&amp;quot;, consists of two pieces of tan tissue 15 x 5 x 2mm and 17 x 8 x 2mm. AE 2 blocks.
+
+D.  Specimen labelled &amp;quot;Bowel adhesion&amp;quot;, consists of pale elongated piece of tissue 12 x 5 x 2mm. AE 1 block.
+
+E.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a long piece of fatty tissue, 210 x 70 x 5mm. 2 nodules are found in the omentum. Blocks: 1 to 3 - three RS taken from omentum; 4 - nodules as found. RS.(TO:DN/vo 25/5/71)
+
+
+MICROSCOPIC (Reported by Dr F Naff):
+A.  Approximately 50% of the ovarian tumour has infarcted.  The viable portion shows a clear cell carcinoma. The carcinoma is strongly positive for Napsin, shows &amp;apos;wild type&amp;apos; p53 staining, and is negative for WT-1 and ER.  MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining, which indicates a low likelihood of microsatellite instability phenotype.
+The fallopian tube is unremarkable.
+
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows a leiomyoma. The uterine serosa shows focal endometriosis. The surface of the ovary shows adhesions with calcification, but no viable carcinoma.  The fallopian tube is unremarkable.  There is no evidence of malignancy.
+
+C. Sections show adhesions with calcification and haemosiderin.  There is no evidence of malignancy.
+
+D.  Sections show adhesions.  There is no evidence of malignancy.
+
+E.  The omentum shows no evidence of malignancy.  One reactive lymph node is noted.
+
+
+DIAGNOSIS:
+Clear cell carcinoma of the right ovary.
+This report was discussed with Dr THEO SWATMAN at QUORN HEALTH SERVICES Hospital on 28/5/71.

@@ -1,0 +1,74 @@
+
+Episode No:  94Q568203W
+9465682.BJW
+
+SIVELS, TODD 
+Lab No:  94Q56820
+Broadlea
+STAWELL  SA  3214
+Specimen: Tissue
+D.O.B:  26/6/1984
+Sex:F
+Collected: 03/10/2013 at 16:14
+Location:  Envoi Pathology-THOMAS EMBLING HOSPITAL
+DR PHILIP ELVIS GANESH
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+***ADDITIONAL REPORT (26/2/59): MICROSATELLITE MARKERS (12.11.63)
+
+CLINICAL:
+Sigmoid tumour lap high ant resection.
+MACROSCOPIC:
+Specimen labelled "Anterior resection" consists of a segment of large bowel 165mm in length with attached mesenteric fatty tissue (120 x 50 x 12mm).  The entire specimen is above the peritoneal reflection.  There is a circumferential polypoid tumour 52 x 45 x 15mm.  The tumour is 37mm from the closer resection margin and 105mm from the other resection margin.  There is possible extension of the tumour into the muscularis propria (block 8).
+Blocks:  1 - two LS at the closer resection margin; 2 - shave margin, the other margin; 3 to 5 - representative TS of tumour; 6 & 7 - representative LS of tumour; 8 - representative TS of tumour; 9 - the apical lymph node bisected; 10 - lymph nodes are seen; 11 - one bisected lymph node; 12 - one bisected lymph node; 13 - likely lymph nodes; 14 to 16 - each one bisected lymph node.  (TO: SS; WT/rt 12.6.63)
+MICROSCOPIC:  (Reported by Dr X Cortina)
+The sigmoid colon tumour is a moderately differentiated adenocarcinoma. A synoptic report for colorectal carcinoma follows:
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Sigmoid colon. 	
+Maximum tumour diameter: 52mm.
+Distance of tumour to nearer cut end: 37mm.
+Tumour perforation: No.
+
+Microscopic Description
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved.
+Lymphovascular invasion
+Not identified.
+Perineural invasion
+Present.
+Lymph nodes
+Number of lymph nodes present: Fourteen.	
+Number of lymph nodes involved: None.
+There is a 5.5mm extramural nodule of tumour (block 16) which shows no definitive cuff of residual lymph node or surrounding fibroelastic tissue. This is best considered an extramural tumour nodule (satellite nodule)(N1c). 	
+pN1c	Tumour deposit(s) in the subserosa, mesentery, or nonperitonealised 	pericolic or perirectal tissues without regional nodal metastasis
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+There is a tumour associated pericolic abscess which extends throughout the subserosal fibroadipose tissue and is associated with an active serositis. 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+Pending.
+Tumour Stage (TNM 7th Edition): 3A (pT2N1cMx)	
+
+
+DIAGNOSIS:
+Anterior resection: 
+52mm pTNM Stage 3A moderately differentiated sigmoid colon adeno-carcinoma. 
+Focal perineural invasion and associated pericolic abscess.
+5.5mm extramural tumour nodule (satellite nodule).
+No evidence of malignancy in fourteen lymph nodes (0/14).
+
+Markers of microsatellite instability are being performed and a supplementary report will be issued. 
+
+
+***ADDITIONAL REPORT (26/2/59): MICROSATELLITE MARKERS (12.11.63)
+MLH1	Preserved nuclear staining
+

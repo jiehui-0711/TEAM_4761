@@ -1,0 +1,52 @@
+Episode No:  24U125408G
+247125.MAW
+
+Villaneda, WILLIAMS 
+Lab No:  24U12540
+Cooriengah Heights
+ORBOST  QLD  7187
+Specimen: Tissue
+D.O.B:  2/11/2022
+Sex:  M
+Collected: 27/11/2062 at :
+Location:  PRINCE OF WALESPRIVATE-KONDININ HOSPITAL
+DR GONZALO GUS MIDDLETON
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Abdominalmass ?left adrenal tumour.  Core biopsy suggestive of adrenal tumour, now intraoperative laparotomy and excision of mass.  Present for several years.  L varicocele.  Encapsulated size 20cm.  1.9kg left upper abdo mass.  Normal catecholamines. 
+Additional information obtained:  Tumour not thought to be arising fromkidney as tumour easily separated from kidney at time of surgery.  Kidney otherwise normal. 
+
+
+MACROSCOPIC:
+A.  Specimen labelled "Left ?adrenal mass" consists of a subcapsular piece of tumour 22 x 6mm to a depth of 6mm.  The tumour is firm and uniformly tan and encapsulated.  Bisected longitudinally.  AE 2 blocks.
+Blocks: 1 - frozen section; 2 - remaining tissue. 
+FROZEN SECTION REPORT:
+Adrenal cortical tumour.
+Results to Prof Reggie by Dr H Bivans on 25/9/12 at 10am.  
+B.  Specimen labelled "Left ?adrenal mass double stitch deep, single stitch superior" consists of an encapsulated and lobulated mass measuring 252 x 150 x 59mm and weighs 1.9kg.  Sutures orientate specimen as follows,single superior, double deep.  The superficial margin is inked blue, deep black and medial red. The cut surface shows diffuse fleshy tan tissue with scattered haemorrhagic areas. The tumour abuts its capsule in all areas. Situated medial to the tumour there is a remnant of the adrenal gland measuring 25 x 20 x 10mm.  
+Blocks: 1 & 2 - tumour to superior margin;3 & 4 - tumour to inferior margin; 5 & 6 - tumour to medial margin; 7 & 8 - tumour to lateral margin; 9 & 10 - tumour to superficial margin; 11 & 12 - tumour to deep margin; 13 & 1 4 - tumour to adrenal gland; 15 & 16 - tumour ?necrosis ?cystic degeneration; 17 & 18 - tumour haemorrhagic areas; 19 & 20 - representative tumour; 21 - tumour research block; reselect blocks 22 & 23 - tumour with yellow areas; 24 & 25 - tumour and adrenal gland; 26 - 28 - tumour with focal orange discolouration.  (XB/ta 28/11/62) 
+  
+MICROSCOPIC (reported by Dr H Fair)
+A & B.  Sections show a predominantly unencapsulated tumour with no definite connection to adjacent adrenal gland. The tumour shows variable cellularity in which the great majority of cells have an oncocytic appearance with abundant granular pink cytoplasm.  In less cellular areas tumour cells are separated by mucin or oedema fluid. The tumour cells are arranged in small acinar and trabecular formations with an intervening fine vascular network.  Adipose tissue focally surrounds the tumour however deposits of adipose tissue are also seen within the tumour.  Numerous thick walled blood vessels are present.  No convincing spindle cell component is seen.  Although focally some of the tumour cells show bizarre nuclear pleomorphism, mitoses are extremely rare and the Ki67 index is less than 1%.  In two representative sections (blocks B15 & B16) the oncocytic tumour cells blend with cells which appear adrenocortical in nature with abundant multivacuolated clear cytoplasm.  Focally the diathermied resection margin transects the tumour. 
+The tumour cells show strong positive staining with vimentin and CD10.  There is moderate staining with NSE and patchy staining with MelanA, PanCK and AE1/3. The EMA, calretinin, inhibin, HMB-45, chromogranin, synaptophysin, CK7, CK20, C-kit, Hepar-1 and SMA stains are negative. 
+COMMENT:
+The differential diagnosis in this case includes an oncocytic adrenocortical neoplasm, epithelioid angiomyolipoma and renal oncocytoma.  The latter is discounted on clinical grounds (not related to adjacentkidney).  Although the tumour contains adipose tissue and thick walled blood vessels, there is insufficient immunohistochemical evidence for an angiomyolipoma. The favoured diagnosis in this case is an oncocytic adrenocortical neoplasm and due to the size, the tumour would be classified as having borderline malignant potential (Lin-Weiss-Bisceglia criteria).Due to the unusual nature of this tumour a second opinion will be sought. 
+DIAGNOSIS:  
+A & B.  Abdominal mass: 
+-   Favour oncocytic adrenocortical neoplasm.
+-   Borderline malignant potential.
+-   Margin involved. 
+ADDITIONAL REPORT (24/12/62):
+A/Prof H Martinsen, THE PRINCE CHARLES HOSPITAL, reports:
+"Thank you for the opportunity to see the slides from this case.
+As you know large adrenal cortical lesions with oncocytic cytologic features are a very problematic and evolving area in pathology. It is clear that theWeiss criteria cannot be applied without modification to oncocytic lesions, therefore other systems such as the Lin-Weiss-Bisceglia system (LWB) have been proposed as has the reticulin algorithm. The reason why so many systems have been proposed is that none have been proven to be completely sensitive and specific.
+Despite its very low mitotic rate and proliferative activity, this adrenal cortical tumour displays several worrying features. Firstly there is quite prominent myxoid change. Myxoid change is not definitive, but is a feature which is suggestive of malignancy as it occurs only very rarely in clinically benign disease (Ref: Am J Surg Pathol 2010, pp973-983). Secondly the tumour is very large. Thirdly the tumour displays a worrying growth pattern including some pseudoglandular areas (another feature which is not definitive but occurs more commonly in malignancies than benign tumours).
+We have performed additional Immunohistochemistry which is as follows;
+Glucocorticoid receptor: Diffuse strong nuclear expression (glucocorticoid score 4+)
+IGF2: Positive (perinuclear dot-like pattern)
+We and others have found IGF2 expression to be a very useful marker of adrenal cortical carcinoma and particular useful in identifying tumours with a low proliferative rate (Ref: Endocrine Related Cancer 2009, pp573-583).We have also recently reported that the glucocorticoid receptor over-expressionis a strong marker of low-grade adrenal cortical carcinoma (Ref; Journal of Clinical Endocrinology and Metabolism 2009, pp4591-4599)- but this finding isyet to be confirmed prospectively or by another group and so should be considered preliminary.
+Therefore on the basis of the very large size of the tumour, the presence of myxoid and pseudoglandular change, and the presence of strong positive staining for both IGF2 and glucocorticoid receptor, I favour this as adrenal cortical carcinoma of myxoid and oncocytic type.
+I emphasise that the mitotic rate is low as is the Ki67 proliferative index (<1%). Therefore the tumour is classified as low-grade.
+SUMMARY:
+Adrenal gland: Low-grade adrenal cortical carcinoma".
+

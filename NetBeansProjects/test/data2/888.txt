@@ -1,0 +1,75 @@
+Episode No:  60C480212J
+600480.FDH
+
+Dolce, Gerry FELIPE 
+Lab No:  60C48021
+Olivera
+URUNGA  SA  6509
+Specimen: Tissue
+D.O.B:  1/4/1983
+Sex:  M
+Collected: 07/12/2012 at 16:40
+Location:  Envoi pathology-BOONAH HOSPITAL
+DR EMILIO MELVIN DEVILLIERS
+Distribution:   FILE-COPY
+CLINICAL:
+Large descending colon tumour.  Perforated through Gerotas fascia left kidney.  HT/cholesterol.  
+MACROSCOPIC:
+A.  Specimen labelled "Left hemicolectomy" consists of a segment of left colon, 220mm in length and upto 80mm in maximum diameter.  The external surface has an area of perforation, 100mm from one of the surgical margin and 120mm from the other surgical margin.  The centre of the colon is looped and has a large circumferential ulcerated and necrotic tumour, 60mm (proximal to distal).  On sectioning the tumour is up to 30mm thick and invades through the colonic wall into pericolic fat.  Representative sections taken.
+Blocks:  1 - proximal and distal margin; 2 & 3 - composite of tumour with perforation; 4 & 5 - tumour; 6 - tumour with proximal colon; 7 - tumour with distal colon; 8 - tumour (reserved block); 9 & 10 - tumour with ?Lymph node; 11 - fatty tissue ?lymph node 12 to 15 - pericolic fatwith ?lymph nodes.   
+B.  Specimen labelled "Deep margin of renal capsule" consists of two pieces of fibrofatty tissue, 10 and 12mm in maximum diameter.  AE 1 block.
+(TO: CL; JU/mm 2.12.62) 
+MICROSCOPIC (reported by Dr R Pyanowski): 
+A & B.  Sections show a moderately differentiated adenocarcinoma of the colon.  A synoptic report follows.
+Macroscopic Description
+
+Site of tumour:	
+Maximum tumour diameter:     60mm
+Distance of tumour to nearer cut end:     100mm
+Tumour perforation:     Yes (pT4) 
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS.
+Differentiation by predominant area
+Moderate
+
+
+
+
+Local invasion
+	Beyond muscularis propria.
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin:  Not involved.
+Lymph nodes
+Number of lymph nodes present: 13	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present (Mural) 
+Perineural invasion
+No.
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Sections from the perforation site show necrotic tissue and acute inflammatory exudate but no tumour is identified within this necrotic/inflammatory tissue, on the serosa of the adjacent colon or on the adjacent outer surface of the specimen. 
+The specimen labeled "Deep margin of renal capsule" (Specimen B) shows inflamed granulation tissue only. No tumour is seen in this tissue.
+Residual tumour status
+RX	Cannot be reliably assessed as tumour has perforated bowel wall. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+DIAGNOSIS:
+Left hemilcolectomy:  Moderately differentiated adenocarcinoma.  
+pT4  pN0  pMX  RX.  Loss of MLH1 and PMS2 nuclear staining.
+
+
+
+

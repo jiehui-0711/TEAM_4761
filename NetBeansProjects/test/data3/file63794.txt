@@ -1,0 +1,91 @@
+SPR no: 38X512572P
+MRN no: 3895125
+Site_name: CRAIGIEBURN HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+(R) hemicolectomy.  Tumour just above ileocaecal valve.  Clinical diagram on the form.
+
+
+MACROSCOPIC:
+Specimen labelled:  Hemicolectomy.
+
+Specimen
+Specimen length:  300mm.
+Length of terminal ileum:  100mm.
+Length of caecum/ascending colon:  200mm.
+Thickness of mesocolon:  up to 80mm.
+Appendix:  65mm in length and a diameter of 7mm.  The serosal surface is smooth and shiny.
+
+Tumour
+Location:  Distal to and above ileocaecal valve.
+Description:  A circumferential tan lesion with raised edges and ulcerated centre.  The cut surface shows tumour eroded into at least muscularis propria layer.
+Maximum tumour diameter: 70mm.
+Perforation:  Absent.
+Appearance of serosa overlying tumour:  Serosal surface and attached mesocolic fat are puckered at the site of tumour.
+Distance of tumour to proximal cut end: 105mm.
+Distance of tumour to distal cut end: 130mm.
+Distance of tumour to circumferential margin: 80mm.
+
+Other
+Polyps:  Nil identified.
+Adherent structures: Nil identified.
+Inked margins: Proximal blue, distal black, puckered area green.
+
+Blocks
+1 - LS proximal margin; 2 - LS distal margin; 3 - LS ileocaecal valve; 4 - RS appendix; 5 to 8 - full TS of tumour with the deepest invasion; 9 &amp;amp; 10 - composite sections thickest region of tumour; 11 &amp;amp; 12 - RS deepest invasion; 13 - second RS deepest invasion; 14 - shave of apical area; 15 to 18 - lymph nodes as seen; 19 - one lymph node; 20 to 23 - lymph nodes as seen. (TO:JT/ta 23/8/71)
+
+
+MICROSCOPIC (Reported by Dr I Lembrick):
+Sections show a moderately differentiated adenocarcinoma with focal mucinous differentiation.
+Mucinous differentiation is seen in approximately 20% of the tumour.  A synoptic report follows:
+
+Type:  Adenocarcinoma with focal mucinous differentiation.
+
+Differentiation by predominant area:  Moderate.
+
+Local invasion:  T4a - Tumour penetrates the surface of the visceral peritoneum (Block 7).
+
+Tumour involvement of margins:
+Cut ends:  Not involved.
+Non-peritonealised circumferential margin:   Not involved.
+Histological measurement from tumour to non-peritonealised margin:  80 mm.
+
+Lymph nodes:  N0 - No regional LN metastasis.
+Number of lymph nodes present:  22.
+Number of lymph nodes involved:  0.
+Extramural tumour deposits:  Absent.
+
+Lymphovascular invasion:  Absent.
+
+Perineural invasion:  Absent.
+
+Tumour budding:  Bd2 (intermediate) - 5 to 9 buds per 0.785 sq mm.
+
+Histologically confirmed distant metastases:  MX - Cannot be assessed histologically.
+
+Background abnormalities/other comments:  The ileum, appendix and uninvolved colon shows no significant abnormalty.
+
+Residual tumour status:  R0 - No residual tumour.
+
+Response to neoadjuvant therapy:  Not applicable.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1    Loss of nuclear staining.
+PMS2    Loss of nuclear staining.
+MSH2    Preserved nuclear staining.
+MSH6    Preserved nuclear staining.
+
+Comment:  Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+BRAF V600E immunohistochemistry:  To follow.
+
+Summary (AJCC 8th Edition):  T4a  N0  MX  R0
+
+
+DIAGNOSIS:
+Right hemicolectomy specimen
+-  Adenocarcinoma with focal mucinous differentiation, T4a N0 MX R0
+ADDENDUM (Dr I Tadych on 1/9/69):
+
+BRAF V600E immunohistochemistry:  Positive.

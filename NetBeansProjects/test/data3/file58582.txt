@@ -1,0 +1,30 @@
+SPR no: 95C342648S
+MRN no: 9503426
+Site_name: STRATHALBYN AND DISTRICT HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Neurofibrosarcoma right thigh.  Neoadjuvant chemoradiation.  BG: Neurofibromatosis type 1.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Sarcoma right thigh stitch 12 o&amp;apos;clock&amp;quot;, consists of an ellipse of skin, 170 x 50mm with underlying skeletal muscle, 210 x 95 x 70mm.  The skin surface is unremarkable.  A stitch at one end marks 12 o&amp;apos;clock.  Inking 3 o&amp;apos;clock blue, 9 o&amp;apos;clock black.  The specimen is sequentially sectioned from the 12 o&amp;apos;clock pole to the 6 o&amp;apos;clock pole.  The cut surface shows a 140 x 72 x 60mm well demarcated and focally haemorrhagic, cream tumour within the skeletal muscle.  The tumour abuts the deep margin and clears the 9 o&amp;apos;clock margin by 3mm and the 3 o&amp;apos;clock margin by 2mm.
+Blocks:  1 - 12 o&amp;apos;clock margin skin margin; 2 - 6 o&amp;apos;clock margin skin margin; 3 and 4 - 12 o&amp;apos;clock soft tissue margin bisected; 5 - 6 o&amp;apos;clock soft tissue margin; 6 - 9 o&amp;apos;clock margin; 7 - deep margin; 8 - 3 o&amp;apos;clock margin; 9 - RS skin with 3 and 9 o&amp;apos;clock margins; 10 - soft tissue 9 o&amp;apos;clock margin; 11 and 12 - deep margin; 13 - 3 o&amp;apos;clock margin; 14 - 9 o&amp;apos;clock margin; 15 and 16 - deep margin; 17 and 18 - deep margin; 19 and 20 - deep margin; 21 and 22 - deep margin; 23 - 3 o&amp;apos;clock deep margin; 24 and 25 - RS haemorrhagic and degenerative areas of tumour; 26 - uninvolved skeletal muscle; 27 - block for biobanking. RS.     (TO:BL/hh 8/5/70)
+
+
+MICROSCOPIC (Reported by Dr X Hussar):
+This case is reported in conjunction with slides from the previous core biopsy (95C34264).
+
+Sections show a malignant tumour with morphological features similar to that seen in the core biopsy. The tumour is composed predominantly of closely packed hyperchromatic spindle cells arranged in long intersecting fascicles with alternating hypercellular and hypocellular areas. Proliferative activity is present and mitotic figures of up to 5 per 10 HPF are noted. Necrosis is identified focally in eight out of twenty tumour sections and is estimated to comprise approximately 25% of the submitted tumour blocks. There are occasional small vessels with fibrinoid change within the necrotic areas. The tumour also display areas of osseous, chondroid and rhabdomyosarcomatous differentiation. The overall features are consistent with a malignant peripheral nerve sheath tumour with heterologous differentiation.
+
+The excision margins are as follow:
+- 12 o&amp;apos;clock: &amp;gt; 10 mm.
+- 3 o&amp;apos;clock: 2 mm (Block 13).
+- 6 o&amp;apos;clock: &amp;gt; 10 mm.
+- 9 o&amp;apos;clock: 2 mm (Blocks 10 &amp;amp; 14).
+- Deep: 0.5 mm (Block 19).
+
+The overlying skin is uninvolved.
+
+
+DIAGNOSIS:
+Excision of sarcoma, right thigh
+- Malignant spindle cell tumour consistent with malignant peripheral nerve sheath tumour with heterologous differentiation

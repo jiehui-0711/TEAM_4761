@@ -1,0 +1,116 @@
+SPR no: 64M457280L
+MRN no: 644457
+Site_name: WONGAN HILLS HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report64M45728,64M45728 (64M457280L) FLANNERY, Conrad
+HISTOPATHOLOGY REPORT
+QUORN HEALTH SERVICES HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+G I-II endometrioid uterine ca.
+
+1.  Peritoneal washings for cyto.
+2.  Uterus, tubes and ovaries.
+3.  Omental biopsy.
+4.  Right pelvic sentinel node.
+5.  Left pelvic sentinel node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES (BILATERAL)&amp;quot;.  A total hysterectomy specimen, 48g.  It is disrupted due to surgical opening coronally.  The uterus measures 65x40x20mm.  Attached is right fallopian tube 35x5mm, right ovary 15x6x6mm, left fallopian tube 35x4mm.  No definite left ovary is identified.  At the anatomical site of the left ovary, there is an ill-defined thickening of the broad ligament over 10x10x6mm.  The cervix measures 25x20x20mm.  The external os is oval 12x4mm.  The anterior margin is inked blue, posterior is inked black.
+
+There is an area of thickened endometrium at the posterior left body measuring 12x10mm. It is 6mm thick out of 11mm (thickness over total myometrial thickness).  It is confined to the uterine body and located within 5mm of the left cornu.   No serosal involvement is identified.  The cut surface of both tubes and the right ovary is unremarkable.
+
+(1  right tube two LS fimbrial end one TS mid; 2  two LS right ovary; 3  right parametrium; 4&amp;amp;5  left fallopian tube and adjacent thickened tissue serially sliced; 6  left parametrium; 7&amp;amp;8  LS anterior uterus [7  cervix, 8  fundus and body]; 9  LS posterior uterus; 10  TS isthmus; 11-15  uterine body from isthmus to fundus).  RS (M-15).  Please refer to diagram.
+
+B.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  A fibrofatty piece of tissue measuring 65x30x18mm.  The cut surface is fatty across the specimen.  No lesions are identified.
+
+(1-4  representative).  RS (M-4).
+
+C.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  A lymph node 22x9x4mm with unremarkable cut surface serially sliced.  AE (M-1).
+
+D.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  A fibrofatty piece of tissue 20x15x5mm, bearing one lymph node 7x5x5mm.  Serially sliced.  AE (M-1/ZH 6/9/2067 km).
+
+
+
+
+
+
+MICROSCOPIC:  (Dr. Q Cardenos)
+
+Specimen A:
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE: Fundus
+
+TUMOR SIZE:  12mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid
+
+HISTOLOGIC GRADE: 2
+
+MYOMETRIAL INVASION:
+Depth of invasion:  5mm
+Myometrial thickness:  11mm
+Percentage depth of myometrial invasion:  45%
+Estimated &amp;lt; 50% myometrial invasion
+
+UTERINE SEROSA INVOLVEMENT: Not seen
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not seen
+
+CERVICAL STROMAL INVOLVEMENT: Not seen
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not seen
+
+LYMPHOVASCULAR INVASION:
+Not identified
+
+DISTANT METASTASES (histologically confirmed): Not known
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Non tumour endometrium: Atypical complex hyperplasia
+Adenomyosis: Present
+Left fallopian tube: Not involved
+Right fallopian tube: Not involved
+Left ovary: Not identified
+Right ovary: Occasional epithelial inclusion cysts present
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains - To follow
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a
+
+Specimen B:
+Sections show fibrofatty tissue. No evidence of invasive malignancy.
+
+Specimen C:
+No evidence of malignancy is seen in one node identified. Immunohistochemistry stain for Cytokeratin AE1/AE3 is negative.
+
+Specimen D:
+No evidence of malignancy is seen in one lymph node identified. Immunohistochemistry stain for Cytokeratin AE1/AE3 is negative.
+
+DIAGNOSIS:
+A. UTERUS, TUBES AND OVARIES
+- ENDOMETRIOID ADENOCARCINOMA, GRADE 2.
+B. OMENTAL BIOPSY
+- NO EVIDENCE OF MALIGNANCY.
+C. RIGHT PELVIC SENTINEL NODE
+- NO EVIDENCE OF MALIGNANCY IN ONE NODE.
+D. LEFT PELVIC SENTINEL NODE
+- NO EVIDENCE OF MALIGNANCY IN ONE NODE.
+16/6/2067 cy
+SUPPLEMENTARY REPORT
+Immunostains for MMR proteins (DHM BEAUFORT & SKIPTON HEALTH SERVICES - BEAUFORT CAMPUS; block: A13)
+MLH1: 	 positive
+PMS2:  positive
+MSH2:  positive
+MSH6:  negative
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.

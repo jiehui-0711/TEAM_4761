@@ -1,0 +1,59 @@
+
+Episode No:  85U305667V
+8573056.RTV
+
+Struchen, AUGUSTINE 
+Lab No:  85U30566
+Shaw Fields
+DAYLESFORD  Western Australia  3991
+Specimen: Tissue
+D.O.B:  27/9/2019
+Sex:  M
+Collected: 14/02/2014 at 13:58
+Location:  NSW Health-THE PRINCE CHARLES HOSPITAL
+DR Denis Garth Leicht
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Neuroendocrine tumour tail of pancreas.  Metastatic to liver x2.  1.  Distal pancreatectomy / splenectomy.  2.  Seg II / III liver resection.  Seg VIII non-anatomical resection.
+MACROSCOPIC:
+A.  Specimen labelled "Spleen and distal pancreas" consists of a spleen 120 x 80 x 50mm.  A tail of pancreas 50 x 40 x 15mm and a piece of omentum 290 x 160 x 20mm.  At the inferior margin there is a area of disruption measuring 20 x 25mm.  This area islocated <2mm from the neck margin.  The superficial anterior margin of the pancreas is inked blue and posterior black, superior margin red and inferior green.  The neck margin is inked blue.  The tail of the pancreas is seriallysectioned from proximal to distal.  On sectioning there is a solid tumour which appears well circumscribed non-encapsulated and measures 30 x 25 x 30mm.  The cut surface has a central area of necrosis and haemorrhage.  In some areas the tumour appears to infiltrate the peripancreatic fatty tissue.  The tumour abuts the superficial anterior margin, the posterior margin, and it is 4mm from the inferior margin.  The tumour is 25mm from superior margin and 20mm from the neck margin of the pancreas.  On sectioning the spleen is unremarkable.  The omentum is unremarkable.
+Blocks:  1 & 2 - shave section of neck margin; 3 to 5 - composite of  TS of pancreas with tumour; 6 & 7 - representative sections of tumour (6 - reserved block); 8 - tumour with necrotic areas; 9 - peripancreatic lymph nodes; 10 - one representative section from the spleen; 11 to 13 - three representative sections from the omentum.
+B.  Specimen labelled "Liver segment II and III" consists of segment II and III of liver measuring 100 x 40 x 60mm.  The serosal surface is unremarkable.  On sectioning there is a well-circumscribed white and solid tumour measuring 10 x 8 x 10mm.  It is subcapsular and is located 20mm from the surgical margin. The non tumoral liver appears unremarkable.
+Blocks:  1 & 2 - representative sections of nodule; 3 - normal liver.
+C.  Specimen labelled "Liver segment VIII" consists of a piece of liver measuring 80 x 80 x 40mm.  On the serosal surface there is a nodular area20 x 20mm.  On sectioning the nodular area there is a tumour 20 x 20mm.  It is located 20mm from the surgical margin the rest of the liver appears unremarkable.
+Blocks:  1 & 2 - composite of tumour with surgical margin; 3 - representative tumour; 4 - liver.  (TO: LM; NU/rt 19.4.64)
+
+MICROSCOPIC (Reported by Dr V Balancia):
+A. Sections show a 30mm pancreatic neuroendocrine tumour, grade 2.  The lesion has a nodular architecture, and is composed of sheets of tumour cells with round to elongated nuclei and granular cytoplasm.  There are up to 12 mitoses per 10 hpf.  Old blood undergoing organisation, areas of sclerosis and calcification are seen. No convincing birefringent amyloid deposits are present on Congo red staining. 
+Perineural spread is seen within the lesion.  
+There is no evidence of lymphovascular invasion.
+The lesion is focally invading the peripancreatic fat (A7).
+9 peripancreatic lymph nodes and omental fat show no evidence of malignancy. 
+The spleen is unremarkable.
+Margins: 
+ Posterior: 0.3mm (A4)
+ Anterior: 0.7mm (A3)
+ Inferior: 3mm (A3)
+ Proximal and superior: >20mm
+Immunoperoxidase stains:
+Positive: NSE, CD56
+Focal positive: Chromogranin, synaptopysin
+Negative: Insulin, glucagon, somatostatin, serotonin, gastrin
+Ki67 index: Approximately 15%
+B. Sections show liver with a 10 mm metastatic neuroendocrine tumour. The lesion has a similar morphology to thepancreatic lesion.  There are up to 8 mitoses per 10 hpf. Ki67 index is approaximately 15%. The lesion is 20mm from the margin.  There is no evidence of surface serosal involvement.
+The adjacent liver shows mild macrovesicular steatosis.  There is no evidence of significant inflammation or fibrosis.
+C. Sections show liver with a 20 mm metastatic neuroendocrine tumour. The lesion has a similar morphology to the pancreatic lesion.  There are up to 10 mitoses per 10 hpf. Ki67 index is approaximately 15%. The lesion is 20mm from the margin.  There is no evidence of surface serosal involvement. The adjacent liver shows mild macrovesicular steatosis.  
+AJCC Staging (7th Ed.)
+pT3		Tumour extends beyond pancreas
+pN0		No regional lymph node metastases
+pM1		Distant metastases to liver
+
+DIAGNOSIS
+A. Distal pancreas and spleen:
+- 30mm pancreatic neuroendocrine tumour, grade 2 (see text for margins)
+- Focal invasion beyond pancreas into peripancreaticfat (pT3)
+- 9 peripancreatic lymph nodes, spleen and omentum with no evidence of malignancy 
+B. Liver segments 2 and 3: 10mm metastatic neuroendocrine tumour, margins clear
+C. Liver segment 7: 20mm metastaticneuroendocrine tumour, margins clear
+

@@ -1,0 +1,126 @@
+SPR no: 39I9500789
+MRN no: 4525303
+Site_name: MUSWELLBROOK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report39I95007 (39I9500789) Haseman, ADALBERTO
+HISTOPATHOLOGY REPORT
+CARNARVON HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right breast 4 o&amp;apos;clock invasive ca (mixed features).  R sentinel lymph node frozen section. Right breast wide local excision, sutures long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT SENTINEL LYMPH NODE BIOPSY&amp;quot;. Fatty tissue 20mm maximum extent, focally blue.  One TS for frozen section.
+
+F/S: &amp;quot;Negative&amp;quot;.  Reported to Dr. Norman by     J. Adu on 25.1.68.
+
+(1 FS; 2 remainder). RS (M-2)
+
+B. Specimen labelled &amp;quot;WIDE LOCAL EXCISION RIGHT BREAST&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  65mm
+Superior to inferior:  55mm
+Anterior to posterior:  40mm
+WEIGHT:  41.5g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial
+Number of slices: 10
+FINDINGS / LESION:  Within slice 6-8 there is a circumscribed firm lobulated white/creamy lesion measuring 15mm medial to lateral, 20mm superior to inferior and 11mm anterior to posterior.  It is 10mm from superior margin, 15mm from inferior margin, 7mm from anterior and posterior margins and more than 15mm from medial and lateral margins.
+(1 LS from slice 1 lateral margin; 2,3 slice 2; 4-6 slice 5; 7&amp;amp;8 portion of slice 6; 9-11 slice 7; 12&amp;amp;13 slice 9; 14&amp;amp;15 LS slice 10 medial margin). RS (M-15/SM 25/2/2068 ank)
+MICROSCOPIC:  (Dr. J. Streicher)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 32mm (in 5 consecutive slices)
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Infiltrating duct carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules:    3, Nuclei:    2, Mitoses:    1; Total score: 6&amp;#160;&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;&amp;#160;3 mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE): 32mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not seen
+
+PERINEURAL INVASION: Present
+&amp;#160;
+SKIN INVOLVEMENT: N/A
+
+DERMAL LYMPHOVASCULAR INVASION: N/A
+&amp;#160;
+NIPPLE INVOLVEMENT: N/A
+&amp;#160;
+MUSCLE INVOLVEMENT: N/A
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Absent
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Absent
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma is well clear of all surgical margins with a clearance of 5mm from closest anterior and posterior margins.
+&amp;#160;
+ANCILLARY TESTS:
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+
+OESTROGEN RECEPTOR:         positive(90% of cells +++)
+PROGESTERONE RECEPTOR: positive(70% of cells ++)
+
+HER-2 IMMUNOPEROXIDASE
+NEGATIVE (score 0)
+
+Ki-67 proliferative index:&amp;#160;30%
+
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved (including negative staining with Cam5.2)
+
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 1
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN0
+
+DIAGNOSIS:
+RIGHT SENTINEL LYMPH NODE : NO TUMOUR SEEN IN 1 LYMPH NODE.
+WIDE LOCAL EXCISION RIGHT BREAST : INFILTRATING DUCT CARCINOMA.
+1/2/2070 ank
+HER-2 IN-SITU HYBRIDISATION
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+HER2 Dual ISH result:          NEGATIVE
+
+Mean HER2 copy number per cell:    1.2
+Mean CEP17 copy number per cell:  1.0
+HER2/CEP17 Ratio: 1.2
+
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt;2.0, Average HER2 &amp;gt; 6.0
+Positive: HER2/CEP17 &amp;gt; 2.0
+
+Reported by: Dr. J. Collons
+Date: 1.2.71

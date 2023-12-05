@@ -1,0 +1,32 @@
+
+ 792928.DZM
+PANONE, SHELDON
+79H92819
+
+Last edited : 11/2/2063		Page: 2
+CLINICAL:
+Cystic duct - marked with suture.  Cholecystectomy for gallbladder cancer at peripheral hospital.  Right hepatectomy.  Gallbladder cancer.  Hilar dissection.  Omentectomy.  (Illegible), all excised
+MACROSCOPIC:
+A.  Specimen labelled "Cystic duct" consists of a piece of solid tissue with a lumen measuring 20 x 12 x 6mm.  There is a sutureat one end.
+Blocks:  1 - suture end; 2 - middle section; 3 - the opposite end.  AE for frozen section by SO/JEROME at 11:00am on the 27th of November 2063.
+FROZEN SECTION REPORT:
+No evidence of malignancy by NB/LH/CK.
+Result to Dr Kizziar at 11:20am on the 27th of November 2063.
+B.  Specimen labelled "Omentum + liver resection" consists of a partial hepatectomy 150 x 110 x 85mm with attached omental fatty tissue (70 x 50 x 35mm).  Separately, there is a piece of omental fatty tissue 270 x 200 x 20mm.  The resection margin of the liver is inked blue.  Withinthe liver, there is a soft capsular solid nodule with a pale cut surface 10mm in maximum dimension.  The nodule is 6mm from site of adhesion of fatty tissue to liver and 22mm from the roughened surface.  The omental fatty tissue is thinlysliced.  No nodules are identified.
+Blocks:  1 & 2 - nodule; 3 & 4 - sections of the roughened surface closest to the nodule; 5 - random section of liver away from the nodule; 6 to 8 - random sections of the omental tissue; 9 - section from the adherent fatty tissue and adjacent liver.
+C.  Specimen labelled "Lap chole ports" consists of four fragments of fatty tissue ranging from 45 to 90mm in maximum dimension and 130 x 120 x 30mm in aggregate.  Four of the pieces are covered by skin ellipses ranging from 30 to 45mm in length.  Skeletal muscle is seen at deep end of the two other fragments.  All fragments are serially sliced.  Within one of the fragments there is a pale relatively firm nodule 8mm in maximum dimension.
+Block:  1 - the nodule bisected; 2 to 4 - representative sections.
+D.Specimen labelled "Hilar lymph node" consists of a solid nodule 40 x 22 x 12mm and separate fragments of fibrofatty tissue 40 x 30 x 8mm in aggregate.  Slicing the largest nodule reveals a solid cut surface.  Part of the cut surfaceis pale and indurated.  Within the other fragments there are a few possible lymph nodes.
+Blocks:  1 & 2 - representatives of the largest nodule; 3 - ?lymph nodes as seen.
+(UF/rt 28.11.63)
+MICROSCOPIC (Reported by Dr T Karlstad):
+A.  Sections show normal appearing bile duct with no significant abnormality.  There is no evidence of malignancy.
+B.  Sections of liver show a moderately differentiated adenocarcinoma measuring 10mm in diameter.  Centre of tumour show extensive necrosis involving up to 80% of tumour.  There is no evidence of lymphovascular invasion.  The tumour cells are positive for CK7 and CK19.  The stains for CK20 and Hepar-1 are negative.  The appearances and staining patterns are consistent with those of cholangiocarcinoma.  The liver tissue away from the tumour is unremarkable.  The omentum is unremarkable except focal areas of fibrosis and foreign body reaction, in keeping with previous surgery.  The tumour is completely excised and is well clear of the resection margin.
+C.  Sections show skin, fibrofatty tissue and skeletal muscle.  Scar tissue is focally present, in keeping with previous surgery.  There is no evidence of malignancy. 
+D.  Five lymph nodes are identified.  1 of 5 lymph nodes is involved by metastatic adenocarcinoma.  The tumour metastasis measures 18mm in diameter.No extranodal spread is seen.
+DIAGNOSIS:
+A.Cystic duct - No significant abnormality.
+B.  Omentum and liver resection - Cholangiocarcinoma (10mm).
+C.  Lap chole ports - Scar tissue.
+D.  Hilar lymph node - 1 of 5 lymph nodes involved by tumour metastasis.
+

@@ -1,0 +1,70 @@
+
+Episode No:  27I271027U
+273271.BGU
+
+BENOFF, RUDOLF 
+Lab No:  27I27102
+Marley Creek
+CENTRAL COAST  Tasmania  6517
+Specimen: Tissue
+D.O.B:  15/6/1978
+Sex:  M
+Collected: 06/09/2013 at 08:49
+Location:  NSW Health-MAREEBA HOSPITAL
+DR BOYCE GEORGIA ZEMA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY, DR NEAL, DR WIRADJURI
+CLINICAL:
+Mid rectal cancer.  Ultra low anterior resection and distal donut. 
+MACROSCOPIC:
+A.  Specimen labelled "Sigmoid colon", consists of a segment of colon which measures 140mm with a maximum diameter of 50mm.  There is attached pericolic fat which measures 70 x 60mm. The anterior peritoneal reflection lies 5mm from the distal resection margin. On opening the bowl thereis an indurated lesion which measures 40 x 35mm. The lesion is located approximately 10mm from the distal resection margin (5mm above the anterior peritoneal reflection) and well clear of the proximal resection margin.  On sectioning the tumour appears to focally penetrate through muscularis propria.  The radial margin is well clear by a distance of approximately 15mm.  Radial margin inked blue, distal resection margin inked black, proximal resection margin inked red.  
+Blocks: 1 and 2 - Distal resection margin; 3 and 4 - sections of tumour at level of deepest invasion; 5 - section at periphery of tumour with adjacent normal mucosa; 6 - further representative tumour; 7 - proximal resection margin; 8 - apical lymph node; 9 - lymph nodes; 10 - one lymph node bisected; 11 - lymph nodes; 12 - one lymph node bisected; 13 - one lymph node in several pieces; 14 to 16 - lymph nodes. Block 3 reserved block.  (WG/vo 11.11.63)  
+B.  Specimen labelled "Distal donut" consists of a circular piece of mucosa which measures 25 x 20mm to a depth of 10mm.  The surgical margin is inked black. 
+BAE 2 blocks.  (LP/mm 11.11.63)  
+MICROSCOPIC (Reported by Dr G Terrazas):
+A & B.  Sections show moderately differentiated adenocarcinoma of the rectum.  The features are as follows:
+
+Macroscopic Description
+
+Site of tumour:  Rectum.  	
+Maximum tumour diameter:  40mm
+Distance of tumour to nearer cut end:  10mm (distal), not including donut
+Tumour perforation:  No
+Relation of tumour to anterior peritoneal reflection:	 Above.
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3  	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to the non-peritonealised margin:  7mm
+Lymph nodes
+Number of lymph nodes present:  20
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX  	Cannot be assessed histologically
+Background abnormalities/other comments
+The donut of tissue (specimen B) shows no significant abnormality.  
+Residual tumour status
+R0  	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3  pN0  pMX  R0
+

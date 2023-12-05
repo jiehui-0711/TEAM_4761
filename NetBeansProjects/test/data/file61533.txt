@@ -1,0 +1,94 @@
+SPR no: 81X1488545
+MRN no: 819148
+Site_name: COOLAH MULTI PURPOSE SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report81X14885,65K31961 (65K3196130) CWIKLA, ERIC
+HISTOPATHOLOGY REPORT
+ROYAL NORTH SHORE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Adenocarcinoma cervix.
+1. Peritoneal washings for cyto
+2. Uterus, cervix, bilateral tubes, bil ovaries.
+3. Right pelvic node.
+4. Left pelvic node.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, CERVIX, BILATERAL TUBES + BILATERAL OVARIES&amp;quot;. Consists of uterus with attached cervix and cuff of vaginal tissue, bilateral tubes and ovaries. Anterior is inked blue, posterior - black. Adnexa +is separated from the main specimen. The uterus with attached cervix together weighs 81g and it measures 75mm superior to inferior, 35mm intercornual distance. The ectocervix is 25x18mm with a slit-like cervical os 10mm. There is also attached vaginal cuff which is up to 20mm. Anterior endomyometrium is 15mm, posterior endomyometrium is 17mm. The endometrium is less than 1mm thick. On the cervix is an exophytic papillary-like lesion covering the surface over an area measuring 13x10mm and up to a depth of 5mm.
+(1 right parametrial tissue; 2 left parametrial tissue; 3-8 one full face sagittal slice of uterus with cervix [3 anterior cervix; 4 posterior cervix with vaginal cuff; 5 anterior and posterior lower uterine segment; 6 anterior endomyometrium; 7 posterior endomyometrium; 8 fundus]; 9 further sagittal slice of cervix, anterior and posterior; 10 longitudinal through right margin of cervix; 11 longitudinal through left margin of cervix; 12 one possible subserosal fibroid [8mm in maximum dimension]).
+Right ovary and fallopian tube together weighs 8g. Fallopian tube measures 65mm in length with a maximum diameter of 6mm. Ovary is 22x18x12mm. The serosal surface is unremarkable. On sectioning through the ovary, it has firm, normal appearing cut surface. Adjacent to the right ovary is a small nodule measuring 10mm with a tan appearance.
+(13 right fallopian tube; 14 right ovary including the tan nodule).
+The left ovary and fallopian tube together weigh 10g. Fallopian tube measures 55mm in length with a maximum diameter of 7mm. The ovary is 25x20x12mm. The serosa appears somewhat cystic. On sectioning through the ovary, two cysts are identified 5 and 12mm. The inner linings of the cyst are smooth.
+(15 left ovary; 16 left ovary). Representative sections (M-16)
+B. &amp;quot;RIGHT PELVIC NODE&amp;quot;. Consists of multiple pieces of fibrofatty tissue in aggregate 30x30x8mm. Four possible nodes are identified.
+(1 one node bisected; 2 three lymph nodes). Representative sections (M-2)
+C. &amp;quot;LEFT PELVIC NODE&amp;quot;. Consists of multiple pieces of fibrofatty tissue in aggregate 40x30x10mm. Four possible nodes are identified.
+(1 one node bisected; 2 three possible nodes). Representative sections (M-2/MC 29/9/2070 cy)
+MICROSCOPIC: (Dr. R. Persinger)
+
+SYNOPTIC REPORT CERVICAL CANCER RESECTION
+(RCPA V1 2013, RCP 2011)
+
+PRIMARY TUMOUR:
+
+Distribution of invasive component: Single tumour (unifocal)
+
+Tumour type: Adenocarcinoma
+
+Differentiation/grade: Well to Moderately
+
+TUMOUR SIZE:
+Depth of invasion: 5mm (Block A3)
+Maximum horizontal dimension: 13mm
+
+Cervical wall thickness in area of invasion:  13mm
+
+Minimum thickness of uninvolved cervical stroma: 13mm
+
+Lymphovascular invasion: Not identified
+
+Associated SIL: Absent
+
+Associated AIS: Probable focal
+
+MARGINS:
+Invasive tumour:
+Inferior (vaginal or cervical) margin: Negative
+Distance of invasive tumour to margin: 8mm (block A3)
+
+Deep lateral/radial margin: Negative
+Distance of invasive tumour to deep margin: 8mm
+
+Margin status, AIS: Clear of margins
+
+OTHER INVOLVEMENT:
+Vaginal involvement: Not involved
+Paracervical involvement: Not involved
+Parametrial involvement: Not involved
+Uterine body involvement: Not involved
+
+LYMPH NODES:
+Site: Specimen B (Right Pelvic Nodes) &amp;amp; Specimen C (Left Pelvic Nodes)
+Lymph nodes examined: 12 (4 nodes specimen B &amp;amp; 8 nodes specimen C)
+Lymph nodes positive: 0
+
+OTHER TISSUES/ ORGANS:
+Endometrium:Weak proliferative pattern
+Myometrium: Small leiomyoma
+Right adnexae: Unremarkable
+Left adnexae: Unremarkable
+
+ANCILLARY TESTS:
+IMMUNOHISTOCHEMISTRY: Block A3: P-16 is strongly positive in adenocarcinoma.
+A15 (tubo-endometrial metaplasia) p-16 shows mosaic pattern; bcl-2 is positive; vimentinis positive; CEA is negative; ER is positive; PgR is positive
+
+Provisional pathological Stage:
+(FIGO ) - stage 1B1
+AJCC (8th ed) - stage pT1b1, pN0
+
+DIAGNOSIS:
+A: UTERUS, CERVIX, BILATERAL TUBES AND OVARIES: CERVICAL ADENOCARCINOMA - SEE TEXT.
+B: RIGHT PELVIC NODES: NEGATIVE FOR MALIGNANCY.
+C: LEFT PELVIC NODES: NEGATIVE FOR MALIGNANCY.
+9.1.70

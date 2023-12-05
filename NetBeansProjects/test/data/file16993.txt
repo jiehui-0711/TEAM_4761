@@ -1,0 +1,22 @@
+SPR no: 19F130175I
+MRN no: 1921301
+Site_name: MILLMERRAN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL :
+New diagnosis of ? ovarian cancer.  Omental mass, ? metastatic.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Omental lesion&amp;#8220;, consists of several fragments of pale tan tissue measuring 2 x 1 x 1mm.  AE 1 block.  (LM/ec  18.1.66)
+
+
+MICROSCOPIC (Reported by Dr D Satter):
+Sections show tiny fragments of fibrous tissue.  Atypical cells are present within the blood clot on the surface of fibrous tissue.  These atypical cells (less than 20 in total) are either arranged singly or in small  cohesive groups.  The atypical cells have increased N/C ratio and nuclear polymorphism.  Some of the cells also show degenerative change.  The atypical cells are positive for MNF-116 (pan-cytokeratin), CK5/6, CK7, p53, WT-1, CA125 and ER.  The stain for CK20 is negative.  In the right clinical setting, the appearances are favouring those of a malignant Mullerian tumour, such as serous carcinoma.
+
+Comment:
+There is very limited tissue available for histological examination and there is insufficient tissue for further molecular/genetic testing.
+
+
+DIAGNOSIS:
+Omental lesion - Atypical cells favouring those of a malignant Mullerian tumour.

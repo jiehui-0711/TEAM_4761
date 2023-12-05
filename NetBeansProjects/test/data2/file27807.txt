@@ -1,0 +1,18 @@
+SPR no: 69A523693Q
+MRN no: 6905236
+Site_name: STANTHORPE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Large L adrenal tumour - pheochromocytoma.  Renal failure, tiny left kidney.  Resected en masse with distal pancreas, splenectomy and left kidney.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left adrenal tumour double stitch deep, short double stitch ureter, single stitch medial/pancreatic margin&amp;quot;, consists of a composite specimen weighing 665g and measuring 172 x 110 x 70mm in total.  The specimen comprises a spleen (90 x 47 x 27mm), distal pancreas (85 x 32 x 15mm), adrenal gland with lesion (96 x 92 x 67mm) and left kidney (54 x 36 x 22mm) with attached ureter (3mm in diameter).  There is also a small amount of retroperitoneal fat attached.  The anterior surface is inked blue and the posterior surface inked black.  The lesion inferior to the adrenal gland (96 x 92 x 67mm) has a well circumscribed encapsulated margin with a heterogenous cut surface demonstrating areas of yellow and cream tissue with petechial haemorrhage, cystic change and gelatinous/myxoid areas.  The tumour appears in continuity with the adrenal gland, which has a small rim of normal gland towards the superoposterior aspect, and appears separate from the adjacent pancreas, kidney and spleen.  The tumour lies within 1mm of the anterior surface and 2 to 3mm of the posterior surface.  The splenic parenchyma is dark brown and uniform.  The pancreatic parenchyma is lobular and tan.  The kidney appears small and pale with a lobular contour with the cut surface demonstrating a loss of definition of the corticomedullary junction.  No lymph nodes are identified within the attached fat.  No tumour deposits are identified throughout the remainder of the specimen.  RS.
+Blocks: 1 - ureteric shave; 2 - vascular shave; 3 - pancreatic resection margin shave; 4 - tumour with adjacent adrenal parenchyma; 5 - tumour with adjacent pancreas; 6 to 14 - RS through tumour; 15 - tumour with adjacent renal parenchyma; 16 &amp;amp; 17 - normal splenic parenchyma; 18 to 20 - superior middle and inferior renal parenchyma.  (TO:AP/ta 10/6/65)
+
+
+MICROSCOPIC (Reported by Dr R Cordner):
+Sections show a pheochromocytoma arising from the left adrenal gland.  The tumour cells are arranged in Zellballen, trabecular or solid patterns in rich vascular network.  The tumour cells have finely granular basophilic or amphophilic cytoplasm, round or oval nuclei with prominent nucleolus and variable inclusion-like structures.  Some tumour cells have marked pleomorphism.  There are frequent mitoses (up to 8 per 10 HPF).  Centre of the lesion shows fibrosis, haemorrhage and necrosis.  No normal adrenal gland tissue is seen.  The tumour is surrounded by a thick layer of fibrous capsule.  No capsular or vascular invasion is seen.  The tumour is completely excised and is separated from the tumour by the fibrous capsule.  The attached kidney is atrophic.  The spleen is unremarkable.  The tail of pancreas is unremarkable.  One (1) small lymph node is present with the attached soft tissue.  The lymph node is unremarkable.
+DIAGNOSIS:
+Left adrenal tumour - Pheochromocytoma.

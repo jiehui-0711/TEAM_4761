@@ -1,0 +1,119 @@
+
+Episode No:  55E068104Z
+551068.DAL
+
+WESSENDORF, Isidro 
+Lab No:  55E06810
+North Brook
+LAKE CATHIE  Western Australia  5022
+Specimen: Tissue
+D.O.B:  28/4/1975
+Sex:  F
+Collected: 20/05/2013 at 12:01
+Location:  DAYSURGERY UNIT-MILLMERRAN HOSPITAL
+DR CHET Mohamed ZIECH
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT (7/2/63)
+
+CLINICAL:
+Ductal carcinoma 2cm from nipple 9 o'clock.  Left breast mastectomy and axillary clearance. 
+MACROSCOPIC:
+Specimen labelled "Left breast", consists of a mastectomy with attached axillary tail measuring 260mm (medial to lateral) x 120mm (inferior to superior) x 30mm (superficial to deep).  There is an overlying ellipse of skin 210mm (medial to lateral) x 88mm (inferior to superior).  Included is a nipple areolar complex measuring 40 x 30mm which appears unremarkable.  The superficial margin is inked yellow andthe deep margin is inked black.  Multiple lymph nodes are identified in the axillary tail from 2-25mm.  
+A 9mm tumour is present at 9 o'clock position at 2cm from nipple (tumour 1). 
+In the 10 o'clock position 40mm from the nipple there is a 10mm firm cream stellate lesion identified (tumour 2).
+Block 1- tissue deep to 10'clock tumour 2; 2 & 3- tumour 2; 4 - tissue inferior to tumour 2r; 5 - tissue at superiormargin from tumour 2; 6 - tissue medial to tumour 2; 7 - tissue lateral to tumour 2; 8 - representative inner upper quadrant; 9 - representative inner lower quadrant; 10 - 9 o'clock tumour 1, 11 - tissue medial to tumour 1, 12 - representative outer upper quadrant; 13 & 14 - representative outer lower quadrant; 15 - nipple and tissue deep to nipple; (16 to 20 serial lymph nodes from apex to breast) 16 to 18 - lymph nodes; 19 & 20 - one lymph node serially sectioned. 
+(TO: CM;KI/ec 23.7.63) 
+MICROSCOPIC: (Reported by Dr K Filla)  
+Sections show 2 separate invasive tumours at 9 o'clock 2 cm from nipple (tumour 1) andat 10 o'clock 4 cm from nipple (tumour 2) over a 40mm area. DCIS is present spanning both invasive lesions.
+
+TUMOUR 1 (9 o'clock 2 cm from nipple)	
+Type: Invasive ductal carcinoma NOS
+Invasive tumour size: 9mm
+Grade (Modified Bloom & Richardson):  2
+Tubules: 3     Nuclei: 2     Mitoses: 2Mitotic rate:  8/10hpf.
+Lymphovascular invasion: Absent
+
+Receptors (Block 2): 
+ER:   positive
+	100% of nuclei stained
+	predominant intensity of staining: strong 
+PR:   positive
+	100% of nuclei stained
+	predominantintensity of staining:  strong
+HER2 (Novocastra 10A7):  2+
+Ki-67 index:  30%
+TUMOUR 2 (10 o'clock 4 cm from nipple)
+Type: Invasive ductal carcinoma with focal mucinous differentiation
+Invasive tumour size:  10mm
+Grade (Modified Bloom & Richardson):  2
+Tubules: 2     Nuclei: 2     Mitoses: 2     Mitotic rate: 10/10hpf.
+Lymphovascular invasion: Absent
+	
+Receptors (Block 11): 
+ER:   positive
+	100% of nuclei stained
+	predominant intensity of staining:  strong
+PR:   positive
+	90% of nuclei stained
+	predominant intensity of staining: moderate 
+HER2 (Novocastra 10A7):  2+
+Ki-67 index:  10%
+DCIS component:  
+DCIS:  Present (spanning both invasive tumours)
+Maximum extent of DCIS:  40mm
+Nuclear grade:  Intermediate
+Architecture:  Solid and cribriform
+Necrosis:   Present
+Calcification:  Present
+Degree of DCIS in tumour:  Present, extensive
+DCIS in adjacent tissue:   Present, extensive
+
+Excision Margins:  
+Invasive component:  > 10mm all margins
+In-situ component:
+ Deep: 2mm
+ Other margins> 10mm
+Nipple:  No evidence of Paget's disease
+LCIS / ALH:  Not seen
+Axillary nodes:
+Number of axillary lymph nodes examined:  11
+Number of axillary lymph nodes involved by tumour:  0
+
+DIAGNOSIS:
+Left mastectomy and axillary lymph nodes:
+	2 separate invasive tumours with DCIS spanning both lesions
+	Tumour 1 (9 o'clock 2 cm from nipple): 9mm nvasive ductal carcinoma NOS, grade 2, ER positive, PR positive, HER2 2+, HER2 SISH pending, Ki67index 30%, > 10mm all margins
+	Tumour 2 (10 o'clock 4 cm from nipple): 10mm invasive ductal carcinoma with focal mucinous differentiation, grade 1, ER positive, PR positive, HER2 2+, HER2 SISH pending, Ki6710%, > 10mm all margins
+	40mm intermediate grade DCIS, 2mm deep margin, > 10mm other margins
+	11 lymph nodes with no evidence of malignancy
+
+ADDITIONAL REPORT (2/7/63)
+
+HER-2 IN-SITU HYBRIDISATION 
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+
+BLOCK 2 
+
+HER2 Dual ISH result: NEGATIVE (nonamplified, diploid) 
+
+Mean HER2 copy number per cell: 1.9 
+Mean CEP17 copy number per cell: 1.3 
+HER2/CEP17 Ratio: 1.46 
+
+BLOCK 11 
+
+HER2 Dual ISH result: NEGATIVE (nonamplified, polysomy) 
+
+Mean HER2 copy number per cell: 3.8 
+Mean CEP17 copy number per cell: 3.2 
+HER2/CEP17 Ratio: 1.18 
+
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8 
+Equivocal: HER2/CEP17 = 1.8-2.2 
+Positive: HER2/CEP17 >2.2 
+
+Reported by: Dr K Noori 
+Date: 30.7.2063
+

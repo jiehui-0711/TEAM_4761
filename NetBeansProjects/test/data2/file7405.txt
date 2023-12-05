@@ -1,0 +1,165 @@
+DateOfBirth
+199809220000
+
+
+SiteName
+FRANKSTON HOSPITAL
+
+
+FirstName
+Cliffton
+
+
+SPRID
+12Q471652I
+
+
+MRN
+1264716
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+SUPPLEMENTARY REPORT:
+
+CLINICAL:
+79yo F. Ovarian Ca. Debulking OT. Additional history: previous core favoured High grade serous carcinoma, had adjuvant therapy
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left fallopian tube + ovary&amp;quot;, consists of a fallopian tube and a solid cystic ovarian mass, 55 x 45 x 30mm. The mass is adherent to the fallopian tube and has a smooth outer surface with some roughened areas. The cut surface shows a uniloculated cyst with papillary and solid areas. The solid area makes up approximately 20% of the mass. Blocks: 1 &amp;amp; 2 - fallopian tube with adherent ovarian mass; 3 to 10 - RS ovarian mass; 11 - biobank. RS. Shown to Dr D Knust.
+
+B.  Specimen labelled &amp;quot;Right tube + ovary&amp;quot;, consists of a fallopian tube and ovary with attached ligament, 50 x 40 x 20mm. The fallopian tube is 60mm in length and up to 8mm in maximum diameter. There is a solid cystic mass, 10 x 7 x 6mm attached to the fallopian tube. The ovary measures 20 x 12 x 10mm. There is also another solid cystic lesion, 8 x 10 x 5mm attached to the ovary. The ovary has an unremarkable cut surface. Shown to Dr D Wickline. Blocks: 1 to 8 - fallopian tube and ovary. RS.
+
+C.  Specimen labelled &amp;quot;Right round ligament&amp;quot;, consists of a tan to haemorrhagic nodular piece of tissue, 20 x 15 x 8mm. Sectioned and AE 2 blocks.
+
+D.  Specimen labelled &amp;quot;Right uterosacral&amp;quot;, consists of a fragment of ligament and attached solid cystic mass, 40 x 20 x 18mm. The attached solid cystic mass is 25 x 20 x 15mm. Serially sectioned and AE 6 blocks.
+
+E.  Specimen labelled &amp;quot;Right rectal mass&amp;quot;, consists of multiple fragments of friable, tan and fatty tissue, 90 x 65 x 30mm in aggregate. Shown to Dr D Voetsch. Unable to identify rectum in specimen. There are areas of haemorrhage but no obvious necrosis seen. Blocks: 1 to 4 - one almost complete face of tumour; 5 to 9 - further RS mass. RS.
+
+F.  Specimen labelled &amp;quot;Rectal tumour&amp;quot;, consists of an irregular tan and haemorrhagic piece of tissue with attached adipose tissue, 60 x 20 x 18mm. Cut surface shows solid and papillary areas. Serially sectioned and AE 6 blocks.
+
+G.  Specimen labelled &amp;quot;Left rectal nodule&amp;quot;, consists of a multinodular tan tissue with attached adipose tissue, 32 x 20 x 10mm. The cut surface is pale, firm and nodular. Serially sectioned and AE 3 blocks.
+
+H.  Specimen labelled &amp;quot;Rectal mesentery&amp;quot;, consists of an irregular tan and haemorrhagic piece of tissue, with attached adipose tissue, 30 x 20 x 13mm. Serially sliced and AE 2 blocks.
+
+I.  Specimen labelled &amp;quot;Sigmoid nodule&amp;quot;, consists of a tan and haemorrhagic nodule with attached adipose tissue, 33 x 25 x 20mm. The nodule has a rough outer surface, and the cut surface shows a pale and uniform cut surface. Serially sectioned and AE 5 blocks. RS.
+
+J.  Specimen labelled &amp;quot;Sigmoid mesentery&amp;quot;, consists of tan and haemorrhagic fibrofatty tissue, 23 x 15 x 8mm. Sectioned and AE 1 block.
+
+K.  Specimen labelled &amp;quot;Sigmoid epiploic&amp;quot;, consists of a piece of fatty tissue with attache tan nodule, 33 x 20 x 10mm. There are multiple pale to tan nodules attached ranging from 3 to 10mm in maximum diameter. Serially sectioned AE 2 blocks.
+
+L.  Specimen labelled &amp;quot;Bladder nodule&amp;quot;, consists of a fibrous piece of tissue with attached multinodular mass, 35 x 18 x 13mm. There is a multicystic mass measuring 10 x 6 x 7mm attached. Resection margin inked. Serially sectioned and AE 3 blocks.
+
+M.  Specimen labelled &amp;quot;Right common iliac lymph node&amp;quot;, consists of haemorrhagic and fatty piece of tissue, 35 x 20 x 15mm. On sectioning, there does not appear to be a normal lymph node and appears to be a solid cystic nodule with about 50% of the nodule being solid and the solid areas also contain papillary areas as well. Shown to Dr D Caffarelli. Serially sectioned and AE 3 blocks.
+
+N.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of fatty tissue with attached multiple solid cystic masses 340 x 340 x 45mm in total. There are up to nine solid cystic masses ranging from 25mm to 85mm in maximum diameter. The cut surface of the larger mass appears to be cystic and solid areas with necrosis. Shown to Dr D Mccambridge. Blocks: 1 to 10 - RS solid cystic mass. RS.
+(TO:DN/ta 3/7/72)
+
+
+MICROSCOPIC (Reported by Dr D Munhall):
+A. The left fallopian tube and ovary are widely replaced by High grade Serous carcinoma showing no convincing response to adjuvant therapy.
+
+It is characterised by widely cystic papillary appearance with areas of more solid and micropapillary appearance and in other areas the tumour tracks through stroma associated with a desmoplastic reaction. Scattered calcifications are seen. The tumour shows variable pleomorphism including marked atypical cells and nucleoli. The fimbrial end is lined partially by tumour cells resembling the carcinoma in keeping with fallopian tube origin.
+
+The ovary shows a corpus albicans.
+
+Immunohistochemistry:
+Pax8: diffusely positive
+P53: patchy positive
+WT1: widespread strong positive
+CA125: widespread positive
+ER: widespread positive
+PR: negative
+CK7: widespread positive
+CK20: negative
+
+B. The right ovary is involved by the carcinoma. Some mesothelial inclusion cysts and corpora albicantes are noted. The fallopian tube shows no in situ component.
+
+C. The right round ligament is widely involved by carcinoma.
+
+D. The right uterosacral fibrous tissue is widely replaced by carcinoma.
+
+E. The right rectal tissue is widely replaced by carcinoma.
+
+F. The rectal fibrofatty tissue is widely replaced by carcinoma. A focus is suspicious for lymphovascular invasion. An unremarkable lymph node is included (0/1).
+
+G. The left rectal fibrofatty tissue is widely involved by carcinoma. Lymphovascular invasion is present.
+
+H. The rectal mesentery fibrofatty tissue is widely replaced by carcinoma.
+
+I. The sigmoid fibrofatty tissue is widely replaced by carcinoma and extends into one lymph node (1/1).
+
+J. The sigmoid mesentery fibrofatty tissue is widely involved by carcinoma.
+
+K. The sigmoid epiploic fibrofatty tissue is involved by carcinoma.
+
+L. The bladder nodule shows fibrofatty tissue and some columnar mucosa and is involved by carcinoma.
+
+M. The right common iliac lymph node is widely replaced by carcinoma (1/1). The deposit is at least 14mm across and no convincing extranodal extension is seen.
+
+N. The omental fibrofatty tissue is widely replaced by carcinoma.
+
+DIAGNOSIS:
+A. Left fallopian tube + ovary: High grade Serous carcinoma.
+
+B. Right tube + ovary: High grade Serous carcinoma.
+
+C. Right round ligament: High grade Serous carcinoma.
+
+D. Right uterosacral: High grade Serous carcinoma.
+
+E. Right rectal mass: High grade Serous carcinoma.
+
+F. Rectal tumour: High grade Serous carcinoma.
+
+G. Left rectal nodule: High grade Serous carcinoma.
+
+H. Rectal mesentery: High grade Serous carcinoma.
+
+I. Sigmoid nodule: High grade Serous carcinoma including one involved lymph node.
+
+J. Sigmoid mesentery: High grade Serous carcinoma.
+
+K. Sigmoid epiploic: High grade Serous carcinoma.
+
+L. Bladder nodule: High grade Serous carcinoma.
+
+M. Right common iliac lymph node: High grade Serous carcinoma in one lymph node.
+
+N. Omentum: High grade Serous carcinoma.
+
+
+SUPPLEMENTARY REPORT (5/8/2070):
+P53 staining is variable in the tumour with some areas showing 80% strong expression and some areas show occasional mild and some wider areas no expression of p53. The features would be in keeping with mutation type p53 expression.
+
+
+
+
+
+
+SpecimenReceivedDate
+2846-12-08 00:00:00
+
+
+LastName
+Mammano

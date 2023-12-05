@@ -1,0 +1,66 @@
+
+Episode No:  80E562949V
+8015629.MZV
+
+GREYOVICH, BRADLEY 
+Lab No:  80E56294
+W Vallette
+GLADSTONE  NT  2252
+Specimen: Tissue
+D.O.B:  2/9/1986
+Sex:  F
+Collected: 14/2/2063 at :
+Location:  STGEORGE PRIVATE-MILLMERRAN HOSPITAL
+DR FREDRIC PASQUALE HAL-LAZIER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right sentinel node.  Right mastectomy for lobular breast ca.  Short stitch superior margin.  Long stitch lateral margin.
+MACROSCOPIC:
+A.  Specimen labelled "Right sentinel node biopsy" consists of threepieces of fibrofatty tissue 12, 20 and 30 mm in maximum dimension.  There are three lymph nodes found:  5 x 3 x 3mm, 4 x 4 x 4mm, 5 x 4 x 4mm.  Imprints for Pap and H & E.  Note by PF on the 12th of December 2013 at 1740.
+Blocks:  1 to 3 - each one lymph node.
+FROZEN SECTION REPORT:
+No malignant cells.
+Result to Dr CORTEZ EARLS by Dr ELDON WEICHMAN/XG at 5:58pm on the 12th of December 2013.  No malignant cells identified on all three lymph nodes.
+B.  Specimen labelled "Right breast" consists of a mastectomy specimen measuring 210 (lateral to medial) x 155 (superior to inferior) x30mm (superficial to deep).  There are two marking stitches as described.  The overlying skin is 155 x 60mm bearing a prominent nipple 15mm in maximum dimension.  The skin surface appears unremarkable.  Superficial margin is inked blue and deep margin is inked black.  At 9 o'clock 12mm from the nipple there is an indurated pale solid tumour measuring 55x 32 x 20mm.  The tumour is 12mm from deep margin, 40mm from inferior, 70mm from superior, 45mm from lateral and 70mm from medial margin. The tumour is 5mm from overlying skin.
+Blocks:  1 - section of tumour(ER, PR, Her-2, Ki 67 requested); 2 & 3 - paired sections tumour in relation to overlying skin (block 2 reserved block); 4 - section of tumour; 5 - deep margin closest to tumour; 7 - ?tumour; 8 - section of nipple; 9 - tissue behind nipple; 10 - random section upper outer quadrant; 11 - section of pale area 12mm lateral to the tumour (9 to 10 o'clock); 12 & 13 - random sections lower outer quadrant; 14 & 15 - random sections lower inner quadrant; 16 & 17 - random sections upper inner quadrant.  Please see the diagram.  (TO: HR; LZ/rt 15.2.63)
+MICROSCOPIC (Reported by Dr V Schurg):
+A. Isolated tumour cells (approximately 20 cells, <0.2mm across) are present in two out of three lymph nodes identified.
+B. Sections show a 55mm invasive ductal carcinoma, Grade 2 with a lobular-like pattern of infiltration (e-cadherin positive). A synoptic report follows.
+Invasive carcinoma:
+Site: Right breast, 9 o'clock 12mm from nipple
+Type: Invasive ductal carcinoma
+Invasive tumour size: 55mm
+Grade (Modified Bloom & Richardson): 2
+Tubules: 3     Nuclei: 2     Mitoses: 2     Mitotic rate:   10/10hpf.
+Lymphovascular invasion: Present (Block B1).
+	    
+DCIS component:  
+DCIS: Presentextent of DCIS: 2.5mm
+Nuclear grade: 2
+Architecture: Cribriform
+Necrosis: Present  
+Calcification: Not identified
+Degree of DCIS in tumour: 100%
+DCIS in adjacent tissue: Not identified
+Excision Margins:  
+Invasive component: All margins >10mm clear.
+In-situ component: All margins >10mm clear.
+Receptors (Block B1): 
+ER:  Positive
+	90% of nuclei stained
+	predominant intensity of staining: Strong
+PR:  Negative 
+HER2 (Novocastra 10A7): 3+
+HER2 SISH:  Performed at KeyCorp Central, GILGANDRA MULTI PURPOSE SERVICE Hospital, see separate report.
+Ki-67 index: 20%
+e-cadherin: Positive
+Nipple: No evidence of malignancy.
+LCIS / ALH: Not identified.  
+Miscellaneous: The remainder of the breast shows a spectrum of proliferative changes including usual ductal hyperplasia, columnar cell change and apocrine metaplasia.
+DIAGNOSIS:
+A. Right sentinel node biopsy
+- ISOLATED TUMOUR CELLS SEEN IN TWO OUT OF THREE LYMPH NODES
+B. Right breast
+- 55MM INVASIVE DUCTAL CARCINOMA, GRADE 2
+- ER POSITIVE, PR NEGATIVE, HER 2 POSITIVE, KI-67 20%
+

@@ -1,0 +1,115 @@
+
+Episode No:  71X710701V
+719710.TBE
+
+LEGLEITER, PARKER Arica 
+Lab No:  71X71070
+Bocks
+ARMIDALE  Victoria  7307
+Specimen: Tissue
+D.O.B:  30/1/2000
+Sex:  F
+Collected: /5/2065
+Location:  CORONARY CARE UNIT-THE CHILDREN'S HOSPITAL AT WESTMEAD
+DR MARCOS Louie Mario-Haberkamp
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+		SUPPLEMENTARY REPORT (29.5.65)
+
+CLINICAL:
+Right breast 10 o'cl IDC - wide local excision + sentinel node biopsy. 
+MACROSCOPIC:
+A. Specimen labelled "Right sentinel lymph node" consists of fatty tissue measuring 30 x 20 x 10mm. Two lymph nodes identified measuring from 10 to 18mm.
+Blocks: 1- one lymph node sliced into 3 slices; 2 & 3 - one lymph node sliced into 6 slices; 4 - remaining tissue.
+B. Specimen labelled "Right breast lesion, long lateral, short superior, medium medial" consists of an irregularly shaped piece of fibrofatty tissue with an ellipse of skin measuring 100mm (medial to lateral) x 50mm (superficial to deep) x 60mm (superior to inferior) and weighing 124.7g. The ellipse of skin measures 35 x 14mm. There are three sutures in place. The superior surface is inked red, anterior/superficial surface is inked blue, inferior surface is inked black and deep surface is inked green. Specimen has been sliced into 14 sliced from medial to lateral. The cut surface shows a pale firm ill defined lesion in slice 2 to slice 5 measuring 32 x 20 x 15mm. The tumour lies 3mm from deep margin, 10mm from inferior margin, 22mm from superior margin, 40mm from anterior/superficial margin. The rest of the tissue is uniformly fibrofatty.
+Blocks: 1 to5-slice 1; 6 & 7 - RS of slice 2; 8 to 15 - slice 4; 16 to 19-RS of slice 5; 20 to 25 - slice 6; 26 - RS of slice 8; 27 & 28 - slice 10; 29 - slice 12; 30- slice 14; 31 - tumour banking. (TO: AB: JX/mm 20.5.65)
+The rest of the tissue embedded as follows:
+32-34 - rest of slice 2, 35-41 slice 3,42-48 the rest of slice 5,49-55 slice 7,56-58 the rest of slice 8,59-61 slice 9,62 -slice11 and 63 --slice 63 (KS)
+MICROSCOPIC: (Reported by Dr S Buser)
+A.  Two (2) of three (3) three lymph nodes contain deposits of metastatic adenocarcinoma, one of which is over 2mm and the other measuring 1.5mm. No extranodal extension is seen. 
+B.  Sections show a 22mm grade 2 infiltrating ductal carcinoma, NST.  The tumour is relatively circumscribed and and arranged in small and large nests and sheets (tubule score =3).  The tumour cells display monomorphic grade 2 nuclei with moderate eosinophilic finely granular cytoplasm.   Mitoses number up to 6/10 hpf. There are numerous foci of lymphovascular invasion in the medial third of the specimen in the inferior half of the slices.  Immunostains demonstrate preserved E-cadherinexpression and patchy CD56 expression, however,  other more specific neuroendocrine markers such as Chromogranin and Synaptophysin are negative and the tumour is classified as infiltrating ductal carcinoma, NST. 
+A separate 3mm infiltrating carcinoma (E cadherin pending) arranged in small nests and cords (tubules score =3) with nuclear grade 1 and mitoses 0/ 3hpf, is present about 8mm deep to the main tumour (block 41) arising within a field of low to intermediate grade DCIS which measure approximately 8mm (2 consecutive slices) The DCIS is present close to but outside the confines of the main invasive carcinoma. There is also low to intermediate grade DCIS in two consecutive slices (approximately 8mm) with cribriform architecture unassociated with necrosis or calcifications.  
+The breast also shows a spectrum of atypical proliferative changes including flat epithelial atypia and several foci of columnar cell change with superimposed cytological atypia and architectural atypia equivalent to atypical ductal hyperplasia.  These foci measure up to 3mm in dimension.  
+A synoptic report follows:  
+
+Invasive carcinoma:
+Tumour 1 (eg block B16
+Site:  Right breast.
+Type:   Infiltrating ductal, NST.
+Invasive tumour size:  22mm (microscopic measurement) 
+Grade (Modified Bloom & Richardson): 2
+Tubules:  3     Nuclei:  2    Mitoses:  1    Mitotic rate:  6/10hpf.
+Lymphovascular invasion:  Present, numerous foci (eg block B7, B3).
+
+Tumour 2 (block B41)
+Site:   Right breast.
+Type:   Infiltrating carcinoma (E cadherin pending
+Invasive tumour size:  3mm 
+Grade (Modified Bloom & Richardson): 1
+Tubules:  3     Nuclei:21   Mitoses:  1    Mitotic rate:  0/3hpf.
+
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS: Approximately 8mm
+Nuclear grade:  Low to intermediate. 
+Architecture:  Cribriform. 
+Necrosis:  Absent. 
+Calcification:  Absent
+Excision Margins:  
+Invasive component: 
+Deep:  3.7mm (B6)
+Medial:  5mm (B4) 
+Inferior:  5.5mm (B6) 
+Other margins:  Well clear (>10mm). 
+In-situ component:  
+Inferior:  3mm (B4) 
+Deep:  3.5mm (B4) 
+Other margins:  Well clear (>10mm).
+Atypical ductal hyperplasia:
+Deep:  3mm (B20)
+Inferior: 7.5mm (B20)
+Other margins:  Well clear (>10mm).
+Receptors Main Tumour (tumour 1)(Block B16): 
+ER:  Positive. 
+	% of nuclei stained 95%.
+	predominant intensity of staining:  Strong.
+PR:  Negative.
+	% of nuclei stained 0.
+HER2 (Novocastra 10A7): Equivocal (2+).
+HER2 SISH:  Performed at AmerisourceBergen Corporation, WARWICK HOSPITAL Hospital, see separate report.
+Ki-67 index:  20%. 
+
+Receptors(tumour 2)(Block B16): pending (result to follow in supplementary report)
+HER2 SISH:  Performed at AutoZone, WESTERN DISTRICT HEALTH SERVICE - PENSHURST Hospital, see separate report.
+Nipple:  N/A. 
+LCIS / ALH: Not seen.    
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 3.
+Number of sentinel lymph nodes involved by tumour:   2.       
+Number of sentinel nodes with metastases >2.0mm:  1.    
+Number of sentinel nodes with metastases <2.0mm:  1 (1.5mm in immunostained section).     
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0.      
+Extranodal spread:  Not seen. 
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 3
+Total number of involved lymph nodes (including sentinel node(s)): 2
+ 
+
+DIAGNOSIS:
+A & B.  Right sentinel lymph nodes and right breast (wide local excision):
+-   22mm grade 2 infiltrating ductal carcinoma, NST, ER positive, PR negative, Her2 SISH (please see separate report); multiple foci of lymphovascular invasion, margins clear. 
+-   3mm grade 1 infiltrating carcinoma, NST (E cadherin and hormone receptor status to follow), margins clear. 
+-   Low to intermediate grade DCIS, 8mm, margins clear.
+-   Multiple foci of atypical ductal hyperplasia, margins clear. 
+-   Two (2) of three (3) sentinel lymph nodes containing metastatic adenocarcinoma (2/3). 
+	SUPPLEMENTARY REPORT (29.5.65)(Dr S Ellie)
+
+The 3mm tumour is an 3mm grade 1 carcinoma is an infiltrating ductal carcinoma, NST with preserved E cadherin expression.  The receptor immunohistochemistry is as follows (block B41):
+ER:  Positive. 
+	% of nuclei stained 100%.
+	predominant intensity of staining:  Strong.
+PR:  Negative.
+	% of nuclei stained 0. 
+HER2 (Novocastra 10A7): Negative, patchy incomplete weak membranous staining in about 10% of cells  (1+).
+HER2 SISH:  Performed at United Auto, TULLAMORE MULTI PURPOSE HEALTH SERVICE Hospital, see separate report.
+Ki-67 index:  5%. 
+

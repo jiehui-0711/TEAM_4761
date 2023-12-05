@@ -1,0 +1,62 @@
+SPR no: 52H7278204
+MRN no: 10623001
+Site_name: KYABRAM & DISTRICT HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report52H72782 (52H7278204) CURTSINGER, Morgan
+HISTOPATHOLOGY REPORT
+MALDON HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Mesothelioma.  Peritoneal mesothelioma.  Peritonectomy.
+Diaphragm, gallbladder, rectum/colon, omentum, peritoneal disease, pericardial lymph node, right femoral lymph node.  Check ki-67
+
+MACROSCOPIC:
+A.  &amp;quot;PERITONEAL DISEASE, GALLBLADDER, RECTUM, SMALL BOWEL, RIGHT DIAPHRAGM&amp;quot;.  Multiple tissue fragments including a gallbladder 85x30mm.  The outer surface is smooth with focal areas of haemorrhage.  The wall is up to 3mm thick.  The mucosal surfaces are green and granular.  No calculi identified.  One pericystic lymph node 4mm is seen.
+
+(1 TS neck cystic duct and lymph node; 2 TS body and LS fundus;
+
+A right hemicolectomy specimen consisting of terminal ileum 95x20mm, caecum and ascending colon 80x30mm, mesentery and mesocolon are attached along the specimen to a maximum width of 30mm.  No definite appendix is identified.  The outer surfaces are ragged with multiple haemorrhagic and firm brown deposits.  The mucosal surfaces are unremarkable.  No polyps or tumours are identified.
+
+3 proximal and distal resection margins; 4 ileocaecal valve; 5 haemorrhagic areas caecal wall; 6 haemorrhagic area ascending colon; 7 ?four lymph nodes;
+
+An anterior resection specimen 210x25mm with attached mesocolon up to 45mm.  Peritoneal strips are identified within the specimen. One peritoneal strip includes a longitudinal tubular structure 50x5mm.  The distal 10mm of the specimen is below the anterior peritoneal reflection which is densely affected by multiple papillary and friable tan tumour deposits over 50x30x15mm invading into the colon wall but no mucosal involvement is identified.  The mucosal surfaces are smooth.  No polyps or tumour are seen.
+
+8 proximal margin; 9 distal margin; 10 tumour at anterior reflection; 11&amp;amp;12 tumour proximally;
+Multiple fibrofatty pieces of tissue consistent with omentum and peritoneal strips measuring 210x150x50mm in aggregate.  The serosal surfaces are extensively involved by haemorrhagic deposits, papillary excrescences and friable tumour deposits.
+
+13-15 RS serosal involvements with 15 tumour block for tissue banking).  RS (M-15)
+
+B.  &amp;quot;PERICARDIAL LYMPH NODE&amp;quot;.  A fibrofatty piece of tissue 20mm in maximum diameter bearing two lymph nodes 8x5x4mm and 7x6x4mm.  Each inked differentially and bisected.  AE (4-1)
+
+C.  &amp;quot;RIGHT INGUINAL LYMPH NODE&amp;quot; A fibrofatty piece of tissue 40x30x20mm including possible thickness of skin 15x2mm.  Seven possible lymph nodes are identified 5-12mm.  The largest has firm white deposits.
+
+(1 ?six lymph nodes; 2 largest lymph node four TS).  RS (M-2/ZH 14/9/2070 nh)
+
+MICROSCOPIC: (Dr O Humphries)
+A. Sections confirm the clinical impression of malignant mesothelioma. The mesothelioma is of epithelioid-type and characterised by papillary architecture. There is bulky involvement of the distal sigmoid colon and rectum with infiltration of the tumour to the level of the outer muscularis propria. There is scattered lymphovascular space invasion and an incidentally sampled pericolic lymph node shows involvement by metastatic malignant mesothelioma. Small deposits of tumour are present on the serosal aspect of the right hemicolectomy specimen. Representative sections of the mucosa of the right hemicolectomy and anterior resection margin segments are unremarkable.
+
+Sections of the separately sampled peritoneum and omentum show bulky involvement by malignant mesothelioma.
+
+Sections of the gallbladder show unremarkable mucosa. The serosal surface shows features of peritonitis without tumour deposits. The cystic duct lymph node shows reactive features only.
+
+Immunoprofile:
+Calretinin, HBME-1, WT1 and CK5/6: Positive
+D240: Equivocal
+Ber-EP4: Focal weak positive staining
+HER Antigen, CEA: Negative
+Ki67: 10-15%
+
+B. Sections show involvement of both lymph nodes by malignant mesothelioma.
+
+C. Sections show involvement of 4 of 6 lymph nodes by malignant mesothelioma.
+
+DIAGNOSIS:
+A. RIGHT HEMICOLECTOMY, ANTERIOR RESECTION, SIGMOID COLON AND RECTUM, GALLBLADDER, PERITONEUM AND OMENTUM
+- EPITHELIOID MALIGNANT MESOTHELIOMA INVOLVING THE MESOTHELIAL ASPECT OF THE ANTERIOR RESECTION SEGMENT, THE RIGHT HEMICOLECTOMY SEGMENT, PERITONEUM AND OMENTUM.
+- GALLBLADDER, SMALL BOWEL AND LARGE BOWEL MUCOSA ARE UNREMARKABLE.
+B. PERICARDIAL LYMPH NODE
+- INVOLVEMENT OF 2 OF 2 LYMPH NODES BY MALIGNANT MESOTHELIOMA.
+C. RIGHT INGUINAL LYMPH NODE
+- INVOLVEMENT OF 4 OF 6 LYMPH NODES BY MALIGNANT MESOTHELIOMA.
+19/9/2070 cy

@@ -1,0 +1,58 @@
+ 6447289.NXR
+Mangon, ERICK Brody
+64M72895
+
+Last edited : 12/5/2063		Page: 2
+CLINICAL:
+Total gastrectomy for adenocarcinoma of the stomach.  Consented to BioBank.
+MACROSCOPIC:
+Specimen labelled "Stomach", consists of stomach 180mm in length along the greater curvature, 150mm in length along the lesser curvature and up to 115mm in circumference.  The attached greater omentum measures 220 x 140 x 40mm and the attached lesser omentum measures 120 x 40 x 15mm.  The oesophageal mucosa is identified at the proximal end for a length of 13mm.  Proximally within the body of the stomach and centred posteriorly there is a firm tumour 35 x30 x 7mm.  The tumour has a firm pale cut surface.  The tumour is 30mm from proximal and 130mm from distal resection margin.  The tumour does not appear to have penetrated beyond the muscularis propria.  There are several lymph nodes within the omentum.  The largest is within the lesser omentum and is 25mm in maximum dimension.  This lymph node has a pale indurated pale cut surface.  
+Blocks: 1 and 2 - paired sections tumour and proximal margin; 3 of tumour (reserved block); 4 - section of tumour; 5 - tumour and its proximal end; 6 - tumour and its distal end; 7 - shaved distal margin; 8 - one greater omentum lymph node bisected; 9 - ?lymph nodes as seen, greater omentum; 10 - ?lymph nodes as seen, lesser omentum; 11 - representative the indurated lymph node in lesser omentum; 12 - one bisected lymph node lesser omentum; 13 to 15 - sections of omentalfat looking for lymph nodes; 
+(TO: VR;LN/vo 11.2.63) 
+16 to 19 - remainder of the tumour; 20 to 29 - sections of fat looking for lymph nodes YT
+MICROSCOPIC (Reported by Dr Q Tarras):
+
+Tumour site (location):
+	Proximal body (posterior wall)
+WHO histological tumour type:
+	Mixed carcinoma (tubular and poorly cohesive)
+Lauren histological tumour type:
+	Mixed (intestinal and diffuse)
+Growth pattern:
+	Expanding
+Maximal dimension of tumour:  35mm	
+Local invasion (pT):
+T1b	Tumour invades submucosa (tumour all embedded)
+Serosal surface involvement:
+Absent
+Vascular space invasion:
+Small vessels (lymphatic and capillary): Absent
+	
+Large vessels (vein and artery): Absent
+Perineural growth:
+Absent
+Her2 status:  0
+Distance of tumour from margins:	
+From proximal:  23mm
+From distal:  130mm
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  12
+Number of lymph nodes involved:  2 
+N1	Metastasis in 1-2 regional lymph nodes
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+Other pathologies:
+Gastritis: Present (moderate active chronic gastritis)
+Helicobacter infection: Absent
+Intestinal metaplasia: Absent
+Dysplasia: Absent
+		
+Gastric polyps: Absent
+Barrett's mucosa: Absent
+DIAGNOSIS:
+Total gastrectomy: 
+	Poorly differentiated adenocarcinoma (mixed tubularand poorly cohesive), invading submucosa, HER2 0 
+	Metastatic adenocarcinoma in 2 out of 12 lymph nodes
+	pT1b N1 MX (AJCC 7th Ed.)
+
+

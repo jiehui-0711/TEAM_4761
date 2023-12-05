@@ -1,0 +1,82 @@
+
+Episode No:  64N913709P
+645913.TBZ
+
+NICEWONGER, Kermit 
+Lab No:  64N91370
+Flowerfield
+BATEMANS BAY    3502
+Specimen: Tissue
+D.O.B:  1/2/1995
+Sex:  F
+Collected: 29/1/2063 at :
+Location:  StVincent-THE CHILDREN'S HOSPITAL AT WESTMEAD
+DR Dhirril Irvin DIIORIO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+			SUPPLEMENTARY REPORT (2.5.63) 
+
+CLINICAL:
+(L) breast Ca.  Mastectomy and axillary dis.
+MACROSCOPIC:
+Specimen labelled " Left breast tissue", consists of a mastectomy specimen measuring 190 (medial to lateral) x 150 (superior to inferior) x 35mm (superficial to deep) with attached axillary dissection measuring 105 x 80 x 20mm. There is an overlying ellipse of skin which measures 170 x 60mm including the nipple-areolar complex which measures 35 x 35mm.  Located at approximately 4 o'clock, 13mm from the nipple, there is a firm cream slightly stellate mass which measures 20 x 13 x 20mm.  This mass is located 10mm from the deep margin, 12mm from the superficialmargin and is well clear (>50mm) from the superior and inferior margins). The remaining breast shows fibrofatty breast parenchyma, no other lesions are identified. 
+Blocks: 1 - nipple with tumour; 2 - representative tumour; 3 - tumour with deep margin; 4 - tumour with superficial margin; 5 - tissue medial to tumour; 6 - tissue lateral to tumour; 7 and 8 - representative upper inner quadrant; 9 and 10 - representative inner lower quadrant; 11 and 12 - representative upper outer quadrant; 13 and 14 - representative lower outer quadrant; 15 - one lymph node bisected; 16 - one lymph node bisected; 17 to 21 - lymph nodes; 22 - one lymph node bisected; 23 - one lymph node bisected; 24 - lymph nodes.  25 - inferior margin (CA/vo 30.1.63) 
+MICROSCOPIC (Reported by Dr R Kastner):
+Sections show a 20mm grade 3 infiltrating ductal carcinoma with the following features.
+Invasive carcinoma:
+Site:Left breast.  
+Type:  Ductal NST.
+The tumour is arranged in solid nests, cords with a minor degree of tubule formation. There is some periductal targetoid growth and Pagetoid involvement of ducts, however, E cadherin immunoexpression is preserved consistent with a ductal carcinoma.
+Invasive tumour size:  20mm.
+Grade (Modified Bloom & Richardson):  3.
+Tubules:  3  Nuclei:  3  Mitoses:  3  Mitotic rate:  26/10hpf.
+Lymphovascular invasion:  Present; up to 8 foci at advancing edge of tumour.  
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS: Approximately 20mm
+Nuclear grade:  Intermediate and high
+Architecture:  Solid.
+Necrosis:  Present.
+Calcification:   Absent.
+Degree of DCIS in tumour:  Mild
+DCIS in adjacent tissue:  Moderate (justbeyond advancing edge)
+Excision Margins:  
+Invasive component:  Well clear >10mm.
+In-situ component:  Well clear >10mm.
+Receptors (Block 2): 
+ER:  Positive
+	90 % of nuclei stained 
+	predominant intensity of staining:  Strong
+PR:  Positive
+	80 % of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7): 1+
+HER2 SISH:  Performed at Boeing, HARVEY DISTRICT HOSPITAL Hospital, see separate report.
+Ki-67 index:  To follow; initial stain technically suboptimal.
+Nipple:  The tumour extends subjacentto the nipple with pagetoid involvement of ducts but no dermal involvement or pagetoid involvement of the epidermis is seen.  
+
+LCIS / ALH:  Not seen.
+Miscellaneous:  Elsewhere there is a focal 1.1mm benign intraduct papilloma, a few foci of epithelial hyperplasia of usual type and lobular atrophy.  
+
+Sentinel lymph nodes (s)
+Number of sentinel lymph nodes examined:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  27
+Number of axillary lymph nodes involved by tumour:  3
+Number of axillary nodes with metastases >2.0mm:  1 (3.5mm)
+Number of axillary nodes with metastases <2.0mm:  2 (0.3mm and 1.1mm)
+Number of axillary nodes with isolated tumour cells <0.2mm:  0
+Extranodal spread:  Not seen.  
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  27
+Total number of involved lymph nodes (including sentinel node(s)):  3
+DIAGNOSIS:
+Left mastectomy and axillary dissection:
+-  20mm, grade 3 infiltrating ductal carcinoma; ER positive, PR positive, lymphovascular invasion present; margins clear; 
+-  Metastatic carcinoma in three (3) of twenty-seven (27) left axillary lymphnodes (3/27).
+			SUPPLEMENTARY REPORT (2.5.63) (Reported by Dr R Nuckles)
+
+The Ki67 proliferation index of the invasive carcinoma is variable but measures up to approximately 40%.
+
+
+

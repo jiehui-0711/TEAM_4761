@@ -1,0 +1,106 @@
+SPR no: 23Y063830V
+MRN no: 23906383
+Site_name: IVANHOE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Histopath.  Low anterior resection mid rectal tumour.  Proximal sigmoid colon.  Recto-sigmoid resection.  Distal donut.  (Tumour bank please, content to follow).
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Proximal sigmoid&amp;quot;, consists of a segment of colon, 60mm long by 20mm in diameter with two stapled ends.  One stapled end is inked blue and the other stapled end is inked black.  The specimen is covered by pericolic/mesenteric fat along its entire length, up to 50mm wide.  Sectioning reveals a 10mm diverticulum located at 15mm from blue inked end.  No other mass lesions seen.  Block 1- LS of blue inked margin; 2 - LS of black inked margin; 3 &amp;amp; 4 - diverticulum; 5 - shave of fat from apex of mesentery; 6 - five possible lymph nodes; 7 - four possible lymph nodes; 8 - two possible lymph nodes.  RS.
+
+B.   Specimen labelled:&amp;quot;Ultralow anterior resection&amp;quot;,
+
+Specimen
+Specimen length:  155mm.
+Site of anterior peritoneal reflection:  45mm from distal end.
+Thickness of mesocolon:  50mm.
+Thickness of mesorectum:  40mm.
+Intactness of mesorectum:  Completely intact.
+
+Tumour
+Location:  Rectum.
+Relation to anterior peritoneal reflection:  Below.
+Description:  An ulcerated fungating tan tumour.
+Maximum tumour diameter:  35mm.
+- Tumour measures 35 x 22 x 7mm.
+- On sectioning, the tumour appears confined to the muscular wall of the rectum.
+Perforation:  Absent.
+Appearance of serosa overlying tumour:  Not applicable.
+Distance of tumour to proximal cut end:  100mm.
+Distance of tumour to distal cut end:  20mm.
+Distance of tumour to circumferential margin:  30mm.
+
+Other
+Polyps:  Not present.
+Adherent structures:  Not present.
+Inked margins: Proximal orange, distal blue and circumferential margin black.
+
+Blocks:  1 &amp;amp; 2 - each 1LS from distal margin; 3 to 6 - tumour (interface with normal bowel is included in block 4 and 5 for MSI testing if required); 7 - tumour for biobank; 8 - LS from proximal margin; 9 - apical lymph node; 10 - shave of fat from apex of mesentery (superficial to the lymph node in 9); 11 - a 5mm fibrotic area, possibly a lymph node located at 5mm from inked surface of mesentery, bisected; 12 to 14 - lymph nodes as seen; 15-20 - extra sections from fat.
+
+C.  Specimen labelled &amp;quot;Distal donut&amp;quot;, consists of a donut, 25 x 15 x 15mm.  Surface is inked.  No mass lesion seen.  AE 2 blocks.  (TO:KN/ec 30/7/68)
+
+
+MICROSCOPIC (Reported by Dr G Zurheide):
+A. Sections of colon show a diverticulum. The colonic mucosa shows no significant abnormality. Seven reactive lymph nodes are identified. There is no evidence of malignancy.
+
+B. Sections show a moderately differentiated adenocarcinoma. A synoptic report follows:
+
+Type:  Adenocarcinoma NOS.
+
+Differentiation by predominant area:  Moderate.
+
+Local invasion:  T2 - Invasion into muscularis propria.
+
+Tumour involvement of margins:
+- Cut ends:  Not involved.
+- Non-peritonealised circumferential margin:  Not involved.
+- Histological measurement from tumour to non-peritonealised margin:  30 mm.
+
+Lymph nodes:  N1c - Tumour deposit(s) in the subserosa, mesentery, or non-peritonealised pericolic or perirectal tissues without regional nodal metastasis.
+- Number of lymph nodes present:  12.
+- Number of lymph nodes involved:  0.
+- Extramural tumour deposits:  Present (two deposits identified - Blocks B11 &amp;amp; B14).
+
+Lymphovascular invasion:  Not identified.
+
+Perineural invasion:  Not identified.
+
+Tumour budding:  Bd2 (intermediate):  5 to 9 buds per 0.785 sq mm (Block B6).
+
+Histologically confirmed distant metastases:  Mx - Cannot be assessed histologically.
+
+Background abnormalities/other comments:  No other significant abnormality seen.
+
+Residual tumour status:  R0 - No residual tumour.
+
+Response to neoadjuvant therapy:  Not applicable.
+
+Mismatch Repair Deficiency (MMRD) Status:  To follow.
+
+Summary - AJCC 8th Edition:  Adenocarcinoma NOS, T2  N1c  Mx  R0
+
+C. The specimen has been totally blocked and shows colonic wall and mucosa with no significant abnormality. There is no evidence of dysplasia or malignancy.
+
+
+DIAGNOSIS:
+A.  Proximal sigmoid colon:  Diverticular disease plus seven reactive lymph nodes (0/7)
+B.  Ultralow anterior resection specimen:  Adenocarcinoma NOS, T2  N1c  Mx  R0
+C.  Distal donut:  No evidence of dysplasia or malignancy
+ADDENDUM (Dr G Gennings on 8/9/68):
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1    Preserved nuclear staining
+PMS2    Preserved nuclear staining
+MSH2    Preserved nuclear staining
+MSH6    Preserved nuclear staining
+
+Comment:  Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+BRAF V600E immunohistochemistry:  Not performed.
+
+The diagnosis is unchanged.
+
+
+ADDENDUM 2 (Dr G Schleker on 10/9/68):
+
+One of the two tumour deposits (Block B11) is seen in the perirectal fat and is situated 6 mm from the closest circumferential margin.

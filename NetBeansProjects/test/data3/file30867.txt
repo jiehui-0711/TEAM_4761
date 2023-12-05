@@ -1,0 +1,48 @@
+SPR no: 00M113124Q
+MRN no: 00411312
+Site_name: CULCAIRN MULTI PURPOSE SERVICE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Excision of large mass lesion right knee.  Undifferentiated pleomorphic sarcoma.  Please tissue bank.  Consent with specimen.  Pre-op assessment, patient high risk of delirium post-op as per Anaesthetist.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right knee lateral sarcoma stitch at 12 o&amp;apos;clock&amp;quot;, consists of an oriented ellipse of 144 x 114 x 70mm an ulcerated polyp is identified on the skin surface measuring, 80 x 55 x 40mm.  A suture is in the 12 o&amp;apos;clock position.  The 3 o&amp;apos;clock margin is inked blue, 9 o&amp;apos;clock black.  Tissue is biobanked when received fresh (11:20 27/09/65 AP).  New tissue is sliced from 12 to 6 o&amp;apos;clock into sixteen slices.  The cut surface demonstrates a lobulated and infiltrative tumour with a pink fleshy cut surface measuring, 100 x 75 x 60mm.  The tumour is seen to approach within 1mm of the deep margin but appears separated by a thin fascia.  The tumour lies 6mm from the 3 o&amp;apos;clock margin, 14mm from the 9 o&amp;apos;clock margin, 20mm from the 12 o&amp;apos;clock margin and 25mm from the 6 o&amp;apos;clock margin. There are focal areas of possible necrosis measuring up to 25mm in maximum dimension comprising approximately 10% of tumour volume.  No significant haemorrhage or calcification is seen.
+Blocks: 1 - LS superior margin; 2 - 9 o&amp;apos;clock margin slice four; 3 - tumour with necrosis slice seven; 4 - deep margin slice seven; 5 - 3 o&amp;apos;clock margin slice seven; 6 - tumour slice eight; 7 &amp;amp; 8 - deep and 9 o&amp;apos;clock margin slice eight; 9 - deep margin slice nine; 10 - deep margin slice ten; 11 - tumour slice eleven; 12 - deep margin slice eleven; 13 - 3 o&amp;apos;clock margin slice twelve; 14 - LS inferior margin slice sixteen.
+Please see photograph for further blocking description.  (TO:AP/rs 29/10/68)
+
+
+MICROSCOPIC (Reported by Dr C Bonito):
+The skin excision extends to deep subcutis and skeletal muscle at the deep end.  Sections show markedly pleomorphic sarcomatoid tumour within subcutis and dermis.  The tumour shows morphological heterogeneity and is comprised of spindle cells, epithelioid cells,  numerous multinucleated cells and includes myxoid areas.  Bizarre nuclear shapes are frequently seen.  Mitotic activity is estimated to be up to 21 per 10 high power field.  Approximately 10% of the tumour is necrotic.  There is no evidence of in situ neoplasia within epidermis.  A definite  well differentiated adipocytic component is not seen.  Typical smooth muscle morphology is not seen within the tumour.  The skeletal muscle at the deep end is not infiltrated by the tumour.
+
+Immunohistochemistry
+SMA:  Multifocal positivity
+Desmin:  Patchy positivity
+CD34:  Weak patchy positivity
+EMA:  Negative
+Pancytokeratins:  Negative
+P63:  Scattered non-specific positivity
+Melan A:  Negative
+Myogenin:  Negative
+S100:  Negative
+Sox10:  Negative
+Ki67:  Up to 80% in the most active areas.
+
+
+Margins:
+12 o&amp;apos;clock: Well clear
+3 o&amp;apos;clock:  Positive (block 5)
+6 o&amp;apos;clock:  Well clear
+9 o&amp;apos;clock: 5mm
+Deep:  0.8mm, separated from the inked deep margin by skeletal muscle (block 4)
+
+COMMENT:
+The features are of a high grade sarcoma.  While there is some evidence of smooth muscle differentiation by immunohistochemistry, a typical leiomyosarcomatous pattern is not seen on H &amp;amp; E. In some areas (e.g block 8) malignant cells are seen infiltrating the fibrous septae in the subcutis.  This is favoured to be infiltration of subcutis by malignant cells rather than representing well differentiated liposarcomatous component; however sample tissue will be submitted  for MDM2 FISH to  exclude the possibility of a dedifferentiated liposarcoma.  A diagnosis of pleomorphic dermal sarcoma was also considered, however due to the very  deep extension of the tumour, this diagnosis was considered unlikely.  Overall the features favour a diagnosis of undifferentiated pleomorphic sarcoma with myogenic differentiation.  The tumour is FNCLCC grade 3 (differentiation score 3, mitotic count score 3, tumour necrosis score 1).
+
+
+DIAGNOSIS:
+Right knee lateral sarcoma:  High grade sarcoma, favour undifferentiated pleomorphic sarcoma (see comment).
+Representative slides were shows to Dr C Humphers who concurs.
+
+A paraffin block will be  submitted  for MDM2 FISH and a supplementary report will follow.

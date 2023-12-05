@@ -1,0 +1,36 @@
+
+ 2495622.MLH
+DONADIO, BENNETT
+24Y56224
+
+Last edited : 16/10/2063		Page: 2
+CLINICAL:
+Adenocarcinoma of the prostate 3 + 4 right lobe.  Prostate and pelvic nodes.
+MACROSCOPIC:
+A.  Specimen labelled "Prostate", consists of a prostate which measures 50 x 45 x 55mm and weighing 68g.  The right vas deferens measures 25mm in length and left vas deferens measures 17mm in length.  The right seminal vesicle measures 25 x 40 x 10mm and the left seminal vesicle measures 20 x 37 x 14mm.  There is a bludging nodule arising from the anterior prostate whichmeasures 30 x 30 x 27mm.  The left half is inked blue and right black with anterior red.  The prostate is transversely sectioned into 4 slices.  Slices 1 (apex) slices 4 (base) are further parasagittaly sectioned. Specimen AE. 
+Blocks: 1 to 19 - 59 slice 4 (base); 24 and 25, 26 and 27; 28 and 29; 30 and 31; 32 and 33; 34 and 35; 36 and 37, 38 and 39;40 and 41; 42 and 43; 44 and 45; 46 and 47; 52 and 53; 54 and 55; 56 and 57; 58 and 59 are composite blocks with posterior first; 60 to 61 - TS of the right vas deferens; 62 to 71 - LS of right seminal vesicle;72 to 73- TS of the left vas deferens; 74 to 83 - LS of left seminal vesicles.
+B.  Specimen labelled "Right pelvic lymph node", consists of multiple lymph nodes are identified.  All lymph node material embedded in 2 blocks.
+C.  Specimen labelled "Left pelvic lymph node", consists of fibrofatty tissue which measures 60 x 25 x 15mm.  Multiple lymph nodes are identified.  
+Blocks: 1 - lymph nodes; 2- one lymph node bisected.
+(TO: EC;LO/vo 14.10.63) 
+MICROSCOPIC (Reported by Dr H Ou):
+A to C.
+RADICAL PROSTATE PROFORMA
+Histological type: Adenocarcinoma
+Tumour location: Bilateral tumour, 5 deposits up to 9mm in size, involving apex to base
+Volume/Size (largest nodule):  0.2ml (9mm x 9mm x 7mm x 0.0004) 
+Gleason score:  3+4=7
+Extraprostatic extension: Not seen
+Surgical margins: Clear, nearest margin: 1.5mm (left apex)
+Perineural invasion: Present
+Seminal vesicles: Not involved
+Lymph nodes: 6 lymph nodes with no evidence malignancy (3 x right and 3 x left, specimens B and C)
+Lymphovascular invasion:Not seen
+DIAGNOSIS:
+A to C. Prostate gland, right and left pelvic lymph nodes:
+- Adenocarcinoma, Gleason score+4=7
+- 6 lymph nodes with no evidence of malignancy
+Stage (AJCC/UICC TNM system, 7th edition)
+pT2c Bilateral disease 
+pN0 No positive regional nodes. 
+

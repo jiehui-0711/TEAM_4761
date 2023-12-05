@@ -1,0 +1,85 @@
+SPR no: 45H824450A
+MRN no: 452824
+Site_name: MALDON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report45H82445,45H82445 (45H824450A) Tatsch, GUADALUPE LYMAN
+HISTOPATHOLOGY REPORT
+BROADMEADOWS HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Pelvic mass.
+1. Peritoneal washings for Cytol
+2. Uterus tubes and ovaries.
+3. Left IP ligament.
+4. Left pelvic node.
+5. Omentum.
+
+MACROSCOPIC:
+A. &amp;quot;BILATERAL OVARY AND TUBES, CERVIX AND UTERUS&amp;quot;. A total hysterectomy specimen, 230g in total. Consists of an uterus, 55x40x30mm. Attached is a right fallopian tube, 65x6mm; right ovary, 15x10x7mm. On the left side, the adnexa is replaced by a tubo- ovarian mass, measuring 85x65x60mm. Part of the peritoneal strips are adherent to the mass, measuring 50x35x5mm. The uterus weighing 53g. The cervix measures 30x20x25mm. The serosal surface is focally haemorrhagic posteriorly. The endometrium is up to 3mm thick. The myometrium is 14mm thick.
+
+The right fallopian tube has solid nodule at its fimbrial end, measuring 7x6x6mm. The remainder lumen cut surface is unremarkable. The right ovary outer surface has solid nodule, measuring 5mm, but the ovarian cut surface is unremarkable.
+
+The left adnexal mass weighs 175g. The outer surface is partially smooth and partially ragged with multiple papillary excrescences identified on the outer surface. The exposed surface is inked green. The non-peritonealised margin is inked blue. The cut surface reveals solid, multinodular mass replacing the ovarian tissue. The fallopian tube lumen is disrupted but the fimbrial end is identified with close proximity to one of the nodules. Multiple papillary excrescences and areas of necrosis are identified.
+
+(1 cervix; 2 isthmus; 3 anterior body and fundus; 4 posterior body and fundus; 5 pouch of douglas serosa; 6 and 7 right fallopian tube; 8-10 right ovary, serially sliced; 11-13 each one LS of the fimbrial end with adjacent mass; 14 and 15 identified fallopian tube lumen with adjacent mass; 16 tumour with surface involvement; 17 tumour with adjacent peritoneal strips; 18 papillary excrescences within tumour [including tumour block for tissue banking]). RS (M-18)
+
+B. &amp;quot;LEFT IP LIGAMENT&amp;quot;. Consists of a fibrofatty piece of tissue with multiple blood vessels, measuring 25x25x10mm. Blood clots are identified on the outer surface. The cut surface reveals multiple patent blood vessels with no discrete lesions. AE (M-2)
+
+C. &amp;quot;LEFT PELVIC NODE&amp;quot;. A lymph node, 15x6x6mm, and fibrofatty piece of tissue, 20x15x10mm. The lymph node has unremarkable cut surface.
+
+(1 lymph node, serially sliced; 2 remainder tissue). AE (M-2)
+
+D. &amp;quot;OMENTUM&amp;quot;. A fibrofatty piece of tissue consistent with omentum, 260x135x15mm. The cut surface is fatty and unremarkable. No discrete lesions are identified. RS (M-4/ZH 19/10/2068 cy)
+
+MICROSCOPIC: (Dr. M. Crew)
+
+A. SYNOPTIC REPORT FOR OVARIAN MALIGNANCY (CAP 2018)
+
+Primary Tumor Site:  Left tubo-ovarian (fimbria of left fallopian tube and attached entire left ovary)
+
+Ovarian Surface Involvement: Present, both ovaries.
+
+Fallopian Tube Surface Involvement: Present, both fallopian tubes
+
+Tumor Size:  85mm in left adnexa, 4.5mm in right ovary
+
+Histologic Type:  Serous carcinoma
+
+Histologic Grade:   High grade
+
+Immunohistochemistry:
+The tumour is positive for CK7, p53 (diffuse strong positive in 100% of cells), WT1, ER.
+It is negative for CK20, AMACR, napsinA, inhibin, calretinin, PR.
+
+Other Tissue/ Organ Involvement:
+Right ovary  (A9)
+Right fallopian tube  (A6)
+Pelvic peritoneum (A17), tumour is 4mm clear of the peritoneal margin.
+Left pelvic node (C1)
+
+Treatment Effect:  No known presurgical therapy
+
+Regional Lymph Nodes (Specimen C.  LEFT PELVIC NODE):
+One lymph node containing a 0.3mm focus of metastatic carcinoma.
+
+Pathologic Stage Classification (pTNM, AJCC 8th Edition): pT3a pN1a
+Primary Tumor (pT)  -  pT3a: Tumour deposits on pelvic peritoneum and metastasis to retroperitoneal lymph node.
+Regional Lymph Nodes (pN) - pN1a: Metastasis up to 10 mm in greatest dimension
+
+FIGO Stage (2015 FIGO Cancer Report): IIIA1(i): Metastasis to lymph node &amp;#8804;10 mm in greatest dimension.
+
+Additional Findings:
+The endometrium and myometrium are atrophic.  The ectocervix epithelium is denuded.
+B.  Vascular fibrofatty tissue with no malignancy.
+C. One lymph node containing a 0.3mm focus of metastatic carcinoma
+D. The omental fat shows no evidence of malignancy.
+DIAGNOSIS:
+A. BILATERAL OVARY AND TUBES, CERVIX AND UTERUS:
+- Left tubo-ovarian high grade serous carcinoma, pT3a pN1a, FIGO Stage IIIA1(i)
+B. LEFT IP LIGAMENT:
+- No evidence of malignancy
+C. LEFT PELVIC NODE:
+- 0.3mm deposit of metastatic carcinoma
+D. OMENTUM:
+- No evidence of malignancy

@@ -1,0 +1,75 @@
+SPR no: 45I274476G
+MRN no: 4532744
+Site_name: TRESILLIAN FAMILY CARE CENTRE - WILLOUGHBY
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left breast IDC 9mm 2 o&amp;apos;clock 11cm FN, short stitch superior, wire lateral, medium stitch medial margin.  New inferomedial margin, suture marks margin.  Left sentinel node 1.  Left sentinel node 2.  Left axillary tissue.  All specimens for biobank please.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left breast sentinel node 1&amp;quot;, consists of a single node with surrounding fat measuring 15 x 5 x 4mm.  Serially sectioned.  AE 1 block.
+
+B.  Specimen labelled &amp;quot;Left breast sentinel node 2&amp;quot;, consists of a single node with surrounding fat measuring 15 x 10 x 5mm.  Serially sectioned and AE 1 block.
+
+C.  Specimen labelled &amp;quot;Left breast hook wire, short stitch superior, medium stitch medium, wire lateral&amp;quot;, consists of an oriented irregularly shaped fibrofatty tissue measuring 50mm (medial to lateral), 35mm (superficial to deep), 25mm (superior to inferior).  There are two sutures in place.  The hook wire extends from one end to another.  The superior margin is inked red, superficial inked blue, inferior margin inked black.  The specimen has been sliced into twelve slices from lateral to medial.  The cut surface shows pale ill defined lesion in slices eight and nine measuring 9 x 9 x 8mm.  The lesion abuts the inferior margin, superficial margin, lies 11mm from the superior margin and 17mm from the deep margin.  The rest of the breast is uniformly fibrofatty.
+Blocks: 1 &amp;amp; 2 - slice one; 3 - slice two; 4 - slice three; 5 - slice four; 6 &amp;amp; 7 - slice five; 8 &amp;amp; 9 - slice six; 10 - slice seven; 11 - slice eight; 12 - slice nine; 13 - slice ten; 14 - slice eleven; 15 &amp;amp; 16 - slice twelve.
+
+D.  Specimen labelled &amp;quot;Left breast new inferior/medial margin stitch to margin&amp;quot;, consists of an oriented irregularly shaped fibrofatty tissue measuring 35 x 30 x 12mm.  There is a single suture in place.  The suture side is inked blue and the opposite side inked black.  Specimen has been sliced into nine slices.  The cut surface shows uniform fibrofatty tissue.  No macroscopic lesions are seen.  AE 9 blocks.
+
+E.  Specimen labelled Left breast axilla tissue&amp;quot;, consists of fatty tissue measuring 40 x 20 x 8mm.  No definite lymph node is seen.  There is one probable node measuring 5mm.  AE.
+Blocks: 1 - one possible node; 2 - remaining tissue.  (TO:LM/ta 10/8/69)
+
+
+MICROSCOPIC (Reported by Dr M Dieckmann):
+A to E.
+Invasive carcinoma:
+Site: Left breast
+Type: Invasive carcinoma with apocrine features
+Invasive tumour size: 8mm (spans two slices)
+Grade (Modified Bloom &amp;amp; Richardson): 2
+Tubules: 3     Nuclei: 3      Mitoses: 1    Mitotic rate:  5/10hpf.
+Lymphovascular invasion:  Not seen
+
+
+DCIS component:  Not seen
+
+
+
+Excision Margins ( of specimen C):
+Invasive component:
+Superior:10mm
+Inferior: 0.2mm with no intervening benign glands (block C12)
+Superficial: positive (block C12)
+Deep: 8mm
+Lateral: Greater than 10mm
+Medial: Greater than 10mm
+
+
+Receptors (Block C12):
+ER:      positive
+100% of nuclei stained
+predominant intensity of staining:  strong
+
+PR:  	positive
+90% of nuclei stained
+predominant intensity of staining:  strong
+
+HER2 (Novocastra 10A7): +1, negative
+HER2 SISH:  Performed at Hunter Area, BOORT DISTRICT HEALTH Hospital, see separate report.
+Ki-67 index: 15%
+
+LCIS / ALH: Not seen
+
+Other findings:
+Specimen D. Sections show no evidence of malignancy.
+
+Specimen E.  Sections show mature fibroadipose tissue with no evidence of malignancy. No lymph nodes are seen.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 2
+Number of sentinel lymph nodes involved by tumour:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 2
+Total number of involved lymph nodes (including sentinel node(s)):  0

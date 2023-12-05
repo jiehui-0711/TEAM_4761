@@ -1,0 +1,47 @@
+SPR no: 44L026194T
+MRN no: 10487619
+Site_name: CALVARY MATER NEWCASTLE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 1 endometrioid adenocarcinoma of the endometrium.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus cervix tubes and ovaries&amp;quot;, consists of a uterus with attached cervix and bilateral fallopian tubes and ovaries weighing 275g in total.  The uterus measures 110 x 72 x 65mm and has a smooth shiny serosal surface.  There are two unilocular cysts on the posterior surface of the uterine body, one measures 9mm and the other measures 4mm in diameter.  The ectocervix measures 42 x 37mm and has an unremarkable surface.  On section, the endometrium is 2mm thick and the myometrium is 29mm in maximum thickness.  The myometrium contains a fibroid 50 x 45 x 40mm as well as a calcified nodule 13mm in size, both are located in the anterior uterine body.  There is no obvious invasion of endometrial carcinoma into the myometrium.  The right fallopian tube measures 52 x 10mm in maximum diameter.  The right ovary measures 38 x 20 x 20mm and has a cystic cut surface.  The left fallopian tube measures 43 x 10mm in maximum diameter.  The left ovary measures 40 x 25 x 15mm and has an unremarkable cut surface.
+Blocks: 1 to 5 - LS anterior body and cervix; 6 - additional section of fibroid to serosa; 7 to 11 - full LS posterior body and cervix; 12 to 14 - additional sections of endometrium on the posterior aspect; 15 &amp;amp; 16 - right side (15 - fimbria; 16 - one TS tube and ovary); 17 &amp;amp; 18 - left side (17 - fimbria; 18 - one TS tube and ovary).
+
+B.  Specimen labelled &amp;quot;Right external iliac sentinel node&amp;quot;, consists of a piece of fibrofatty tissue 28 x 15 x 8mm.  An 18mm lymph node is found.  Blocks: 1 &amp;amp; 2 - lymph node in five pieces (block 1 - three pieces; 2 - two pieces); 3 - remaining fat.  AE.
+
+C.  Specimen labelled &amp;quot;Umbilical hernia fat&amp;quot;, consists of a piece of fibrofatty tissue 27 x 19 x 10mm.  No obvious lesions are identified.  Blocks: 1 &amp;amp; 2 - three TS each.  AE.
+(TO:TP/rs 24/6/66)
+
+
+MICROSCOPIC (Reported by Dr M Lopriore):
+A.The sections show areas of endometrioid adenocarcinoma (slides A10-14) FIGO grade 1 (nuclear grade 1, architectural grade 1) as well as areas of  complex atypical hyperplasia in the endometrium (e.g., slide A5). Endometrioid adenocarcinoma invades to a depth of 7mm in a myometrium 17 mm thick (slide A13).  A moderate chronic inflammatory infiltrate is seen.  No lymphovascular invasion is seen.   Scattered intramural leiomyomata are seen with no atypical features.The sections of the cervix show Nabothian cysts and mild chronic inflammation.
+Small serous cysts and Walthard nests are seen adjacent to the fallopian tubes.  No tubal carcinoma in situ is seen.
+The ovaries show developing follicles and corpora albicantes.
+
+
+Mismatch Repair Deficiency (MMRD) Status	 (block A13)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Loss of nuclear staining
+MSH6		Loss of nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B.  No tumour is seen in one lymph node in multiple levels including pan keratin (Cam 5.2) immunoperoxidase stain (sentinel node protocol).
+
+C. The sections show lobulated fatty tissue.  There is no evidence of malignancy or atypia.
+
+DIAGNOSIS:
+A. Uterus, ovaries and fallopian tubes: Endometrioid adenocarcinoma FIGO grade 1, invading 7 mm in a myometrium 17 mm thick; cervix, ovaries and fallopian tubes not involved.
+B. Sentinel lymph node, right external iliac: No evidence of malignancy in one lymph node.
+C. Umbilical hernia fat: No evidence of malignancy.
+SUPPLEMENTARY REPORT (27.7.69)
+This case was presented at the Gynaecology Tumour Board on 30.6.67.
+
+The typographical error has been amended in the report as requested: Specimen C in the Diagnosis section should read &amp;apos;umbilical hernia fat&amp;apos; not &amp;apos;right inguinal hernia fat&amp;apos; and this has been amended in the report.
+Her 2 immunohistochemistry has been requested and another report will follow when this is available.

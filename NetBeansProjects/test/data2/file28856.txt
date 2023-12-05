@@ -1,0 +1,35 @@
+SPR no: 24R573518V
+MRN no: 2465735
+Site_name: DUBBO BASE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+CA 125:  41, complex ovarian cyst, suspected malignancy.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left ovary and tube&amp;quot;, consists of an oedematous and haemorrhagic fallopian tube, 75 x 23 x 18mm, with attached disrupted ovary, 30 x 25 x 8mm.  The ovary appears unicystic with a variegated grey/tan/haemorrhagic lining, which is relatively smooth.  Additionally, there is a separate fragment of fibroconnective tissue, 25 x 20 x 15mm.  Specimen sampled for frozen sections (x3).
+Blocks: 1 - frozen section one LS distal tip fallopian tube, and mid TS; 2 - frozen section two (ovary); 3 - frozen section 3 (ovary); 4 to 6 - further presumed ovary, and possible fallopian tube; 7 to 9 - remaining ovarian tissue.
+
+FROZEN SECTION REPORT:
+Cystic corpus luteum, NEOM.
+Phone results to Dr Radu by Dr H Pince and Dr H Garrels at 15:50hrs on 4/6/18.
+
+B.  Specimen labelled &amp;quot;Right fallopian tube&amp;quot;, consists of a fallopian tube, 58 x 8 x 7mm.  The tube shows no significant abnormality.
+Blocks: 1 - LS complete fimbrial end, and mid TS.
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of omental tissue, 60 x 55 x 20mm.  The serosal surface is smooth and glistening.  On thin sectioning, no lymph nodes or tumour is identified.  RS 3 blocks.
+(TO:JB/rs/eh 6/8/65)
+
+
+MICROSCOPIC (Reported by Dr H Blashak):
+A. All of the ovarian tissue has been blocked. Sections of the ovary show endometriosis and cystic corpus lutea. Sections of the fallopian tube show endometriosis. There is no evidence of malignancy.
+
+B. Sections of the fallopian tube show no significant abnormality.
+
+C. Sections show mature fibroadipose tissue with no evidence of malignancy.
+
+DIAGNOSIS:
+A. Left ovary and fallopian tube: Endometriosis
+B. Right fallopian tube: No significant abnormality
+C. Omental biopsy: No evidence of malignancy.

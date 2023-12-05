@@ -1,0 +1,77 @@
+Episode No:  00L513633K
+0045136.IIK
+
+IKZDA, Vladimir 
+Lab No:  00L51363
+Georgetown
+URUNGA  WA  2609
+Specimen: Tissue
+D.O.B:  9/5/1986
+Sex:  M
+Collected: 30/11/2065 at 08:48
+Location:  SEALS-MOYNE HEALTH SERVICES
+DR Vito FREDERICH DOWNIE
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Abdominoperineal resection for low rectal tumour.  t2n0 on MRI.  No distant disease on CT.  No neoadjuvent treatment.  t2dm on ohas.  H/T.  
+MACROSCOPIC:
+Specimen labelled "Abdominal perineal resection" consists of an abdominoperineal resection received in two pieces.  The main specimen is 290mm in length and 50mm circumference, with mesocolon, 40mm in width.  The anterior peritoneal reflection is 85mm from the distal end of the segment.  Also received as a separate piece is anal canal including skin, 38mm in length and 80mm circumference.  There is an adjacent ellipse of skin, 58 x 15mm.  The dentate line appears to be located at the junction between the main specimen andthe separate piece of anal canal (inked red).  Over the anterior/left lateral rectal wall is an ulcerated tumour, 25 x 20mm.  The tumour is located 20mm below the anterior peritoneal reflection, and is 12mm from the distal end of the main specimen.  There is an apparent defect in mesorectum in a triangular shape overlying the tumour.  This defect is 50 x 45mm, and appears to correspond to skeletal muscle.  The tumour appears to infiltrate into but not through the muscular propria.  The sigmoid colon wall is thickened to 7mm.  Multiple diverticulae are noted.  The mucosa of the anal canal appears unremarkable.  
+Blocks:  1- proximal margin; 2 to 5 - LS through anal canal (2 & 3 - proximal end, 4 &5 - distal end); 6 to 10 - tumour serially embedded as TS from proximal to distal (7 & 8 - paired sections, 9 & 10 - paired sections); 11 to 17- LS distal end of main specimen serially embedded from anterior towards posterior (16 & 17 -paired sections with proximal end in 16); 18 - diverticulum; 19 - apical lymph node; 20 - one lymph node below peritoneal reflection; 21 to 24 - multiple lymph nodes below peritoneal reflection; 25 to 29 - lymph nodes above peritoneal reflection (25 & 26 - one lymph node in each block, 27 to 29 - multiple lymph nodes).  
+(TO: KE:  GO/mm 30.11.65) 
+MICROSCOPIC (Reported by Dr B Janes):
+Sections show an ulcerated moderately differentiated adenocarcinoma in the anterior and left lateral wall of the rectum, mm below the anterior peritoneal reflection.  The tumour is composed of complex glandular structures lined by columnar cells within moderately pleomorphic nuclei within desmoplastic stroma.  The tumour contiguously invades the inner half of the muscularis propria and is well clear of the circumferential margin (5mm where the mesorectal covering is incomplete and about 10mm where more complete).  The tumour is clear of the distal end of the main specimen and is not seen in representative sections of the separate portion of distal anus.  There is focal lymphovascular invasion at the advancing edge of the tumour within the submucosa in a capillary size vessel (block 10) but no large vessel invasion or perineural invasion is seen.  Nineteen (19) lymph nodes show no evidence of malignancy (0/19).  The mucosa away from the tumour is unremarkable.  There is incidental uncomplicated diverticular disease.  Incidental haemorrhoids are noted within the anus including with focal organising thrombus.  The distal rectal mucosa shows mild prolapse features.
+Synoptic report for colorectal carcinoma:
+BOWEL CANCER PROFORMA
+
+Macroscopic Description
+
+Site of tumour:
+Maximum tumour diameter:  25mm
+Distance of tumour to nearer cut end:  Approximately 12mm from the main specimen with additional clearance provided by the separate portion of distal anus received.
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	  Below
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  5.5mm in area described grossly with defect on serosal surface and deficent mesorectal covering (block 10), about 10mmin area with  overlying fat (block 6)
+Lymph nodes
+Number of lymph nodes present:  19
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present, focal, mural
+Perineural invasion
+Absent
+Histologically confirmed distant metastases:  
+Absent
+Background abnormalities/other comments
+Diverticular disease and anal haemorrhoids including thrombosed anal haemorrhoid
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated withmicrosatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Stage (TNM 7th Edition 2010)
+pT2 pN0 cM0 R0
+
+
+DIAGNOSIS:
+Abdominoperineal resection:
+-  Lower rectal moderately differentiated adenocarcinoma, focal mural lymphovascular invasion, no perineural invasion seen, margins clear, nineteen negative lymph nodes (0/19), stage pT2 pN0 cMX R0.
+-  Uncomplicated diverticular disease.
+-  Haemorrhoids including thrombosed anal haemorrhoid.  
+

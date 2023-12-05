@@ -1,0 +1,62 @@
+
+Episode No:  66Y796066R
+6697960.SRR
+
+Kenaga, LETTIE 
+Lab No:  66Y79606
+Biltmore
+KIAMA  TAS  0860
+Specimen: Tissue
+D.O.B:  5/10/1997
+Sex:  F
+Collected: 05/08/2013 at 14:29
+Location:  Laverty-WOORABINDA HOSPITAL
+DR REGGIE Ivory DAVOS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Multifocal left breast cancer:
+2 o'c, 10cm FN.
+3 o'c, 1cm FN.
+4 o'c 6cm FN.  
+Left breast with level I axilla in continuity with stitch in axillary tail.  
+Interpectoral nodes level 2 nodes.  
+MACROSCOPIC:
+A.  Specimen labelled "Left breast and axillary nodes" consists of a mastectomy specimen including the axillary tail measuring 330mm (lateral to medial) x 135mm (superior to inferior) x 40mm (superficial to deep).  There is a stitch marking the lateral margin.  The overlying skin ellipse measures 220 x 80mm and appears normal.  The nipple is prominent and is 14mm in maximum dimension.  Superficial margin is inked blue and deep margin is inked black.  Three pale indurated tumours are identified.  
+Tumour 1 is at 2 o'clock 100mm from the nipple.  It measures 10 x 16 x 6mm.  It is 7mm from deep, 30mm from superior, 72mm from inferior, 100mm from lateral and 220mm from medial margins.  The tumour is 20mm from the overlying skin.  
+Tumour 2 is at 3 o'clock 10mm from the nipple and measures 10 x 12 x 12mm.  Tumour 2 is 50mm from deep, 10mm from the skin, 180mm from lateral, 130mm from medial, 95mm from superior and 40mm from inferior margins.  \
+Tumour 3 is at 4 o'clock 60mm from the nipple and measures 8 x 14 x 12mm.  This tumour is 15mm from superficial, 25mm from deep, 35mm from inferior, 120mm from superior, 110mm from lateral and 200mm from medial margins.  There are several lymph nodes within the axillary tail.  
+Blocks:  1 & 2 - tumour 1 (1 - ER PR HER2 Ki67); 3 & 4 - tumour 2 (3 - reserved block); 5 - inferior margin closest to tumour 2; 6 & 7 - tumour 3 (7 - includes the superficial margin); 8 -nipple; 9 - tissue behind the nipple (tumour 2); 10 - lymph nodes as seen; 11- one trisected lymph nodes; 12 - lymph nodes as seen; 13 - one bisected lymph node; 14 & 15 - upper inner quadrant; 16 & 17 - lower inner quadrant; 18 & 19 -lower outer quadrant; 20 & 21 - upper outer quadrant.  
+B.  Specimen labelled "Level II nodes left axilla" consists of two pieces of fatty tissue 54 x 40 x 7mm in aggregate.  One lymph node 5mm in maximum dimension is identified.   
+Blocks:  1- one bisected lymph node.
+C.  Specimen labelled "Left interpectoral nodes" consists of a piece of fatty tissue 48 x 37 x 8mm.  No lymph nodes are identified.  AE 6 blocks.  
+(TO; NK:GQ/mm 10.8.63) 
+MICROSCOPIC:  (Reported by Dr R Hugle):
+A.   Four separate tumours are identified in the left breast. 
+Tumour1:  (2 o'clock 100mm FN)
+Sections show a grade 1 infiltrating ductal carcinoma, Bloom & Richardson score 5 (t=2, n=2, m=1).  The tumour measures10 x 16 x 6mm and is 5mm clear of the deep margin.  There is no associated DCIS.  No lymphovascular invasion seen. 
+Tumour 2:  (3 o'clock 10mm FN)
+Sections show a grade 2 infiltrating ductal carcinoma, Bloom & Richardson score 6 (t=3, n=2, m=1). The tumour measures 10 x 12 x 12mm and is well clear (50mm) of the deep margin. There is a small amount of intermediate DCIS at the periphery of the tumour.
+Tumour 3:  (4 o'clock 60mm FN)
+Sections show a grade 2 infiltrating ductalcarcinoma, Bloom & Richardson score 6 (t=3, n=2, m=1). The tumour measures 8 x 14 x 12mm and is 10mm from the superficial margin and well clear of the deep margin.  There is a small amount of intermediate DCIS within the tumour but not outside of it.  
+Tumour 4:
+A fourth infiltrating ductal carcinoma, size approximately 8mm was identified in the upper outer quadrant. This carcinoma is also grade 2, Bloom & Richardson score 6 (t=3, n=2, m=1). There is a small amount of intermediate DCIS both within and outside of this tumour in the upper outer quadrant.
+Three (3)of the ten (10) left axillary lymph nodes identified contain metastatic ductal carcinoma. These deposits range from 0.5mm to 2.5mm and there is no perinodal infiltration. 
+ 
+Immunohistochemistry was performed on the three designated tumours and all three showing strong positivity for ER with >90% of nuclear staining.  The PR stain is positive with 20 to 30% of cells showing weak to moderate staining. The Her-2 is negative (+1) in tumours 1 and 3 and equivocal in tumour 2 (66Y79606 A3). Tumour 2 sent to TULLAMORE MULTI PURPOSE HEALTH SERVICE Hospital for CISH. The Ki67 is about 5% in the three tumours.
+B.  The single lymph node is negative for tumour. 
+C.  Sections show adipose tissue in which no lymph nodes are identified.
+DIAGNOSIS:
+A, B, C.  Left breast and axillary nodes, level 1and 2. 
+Tumour 1:  (2 o'clock 100mm FN)
+Grade 1 infiltrating ductal carcinoma, size 10 x 16 x 6mm, 5mm from deep margin. 
+Tumour 2:  (3 o'clock 10mm FN)
+Grade 2 infiltrating ductal carcinoma, size 10 x 12 x 2mm, margins well clear. 
+Tumour 3:  (4 o'clock 60mm FN)
+Grade 2 infiltrating ductal carcinoma, size 8 x 14 x 12mm, 10mm from superficial margin, deep margin well clear. 
+Tumour 4:  (Upper outer quadrant)
+Grade 2 infiltrating ductal carcinoma, size 8mm, margins clear. 
+Metastatic carcinoma in 3/11 left axillary nodes (size of deposits 0.5mm to 2.5mm),
+   No perinodal infiltration.
+ER - positive, PR - positive, Her-2 +1 to equivocal, Ki67 5% - see text. 
+

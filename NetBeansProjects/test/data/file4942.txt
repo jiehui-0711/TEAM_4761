@@ -1,0 +1,138 @@
+DateOfBirth
+198702050000
+
+
+SiteName
+KALBARRI HEALTH SERVICE
+
+
+FirstName
+Sandvig
+
+
+SPRID
+42B471494T
+
+
+MRN
+4204714
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Subtotal gastrectomy for adenocarcinoma of gastric body.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Subtotal gastrectomy&amp;quot;, consists of a gastrectomy, 200mm (greater curvature) x 160 (lesser curvature) received partially opened at the greater curvature.  There is attached greater omentum 400 x 300 x 40mm and lesser omentum 130 x 80 x 20mm.  On sectioning there is 29 x 26mm ulcerated tumour with hyperemic borders along the lesser curve of the stomach.  The tumour is 60mm from both proximal and distal margins.  On sectioning the tumour focally appears to invade into the muscularis propria to a depth of 4mm.  The overlying serosa appears unremarkable.  There is loss of normal mucosal folds within the proximal stomach.  The omentum contains appears mildly haemorrhagic.  Four possible lymph nodes are identified up to 12mm in diameter.  Blocks: 1 - LS proximal margin; 2 - LS distal margin; 3 to 6 - TS tumour (4 - deepest invasion); 7 - mucosa proximal to tumour; 8 - mucosa distal to tumour; 9 to 28 - RS of omentum;  29 to 32 - largest lymph node serially sectioned;  33 - one lymph node bisected; 34 - two possible lymph nodes as seen
+
+B.  Specimen labelled &amp;quot;Station 8&amp;quot;, consists of fatty tissue with two possible lymph nodes between 8 and 15mm in maximum dimension.  Blocks: 1 - possible lymph node, serially sectioned; 2 - possible lymph node bisected; 3 to 6 - attached fatty tissue.  AE.  (TO:BF/ta 2/7/69)
+
+
+MICROSCOPIC (Reported by Dr L Proffitt):
+A.  Sections show moderately differentiated adenocarcinoma of the gastric body.  Lymphovascular invasion is identified however, no perineural invasion is seen.  The tumour has a pushing border and bulges into, but does not invade the muscularis propria.  Following extensive sampling of the omentum, six (6) lymph nodes are identified, one (1) of which shows extensive replacement by metastatic adenocarcinoma.
+
+B.  The seven (7) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+The overall features are as follows:
+
+Macroscopic description
+
+Tumour site:  Lesser curvature
+Maximum tumour diameter:  30mm
+Distance to nearest margin:  60mm (proximal and distal)
+
+Microscopic Description
+
+Tumour site (location):
+Body
+
+WHO histological tumour type:
+Tubular adenocarcinoma
+
+Lauren histological tumour type:
+Intestinal
+
+Growth pattern:
+Expanding
+
+Maximal dimension of tumour:  20mm
+
+Local invasion (pT):
+T1b	Tumour invades submucosa
+
+Serosal surface involvement:
+Absent
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary):  Present
+Large vessels (vein and artery):  Absent
+
+Perineural growth:
+Absent
+
+Her2 status:
+Equivocal (Score 2+)
+Tissue will be submitted for Her2 FISH (see separate report)
+
+Distance of tumour from margins:
+From proximal:  Well clear.
+From distal:  Well clear
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  13 (6 specimen A, 7 specimen B)
+Number of lymph nodes involved:  1 (specimen A)
+
+N1	Metastasis in 1-2 regional lymph nodes
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis:  Present (mild)
+Helicobacter infection:  Absent
+Intestinal metaplasia:  Present
+Dysplasia:  Present (margins clear)
+Gastric polyps:  Absent
+
+Immunoperoxidase stains for MSI proteins (Block A4)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+
+
+
+
+SpecimenReceivedDate
+2843-09-29 00:00:00
+
+
+LastName
+Lupe

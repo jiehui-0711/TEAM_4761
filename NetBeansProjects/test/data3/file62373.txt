@@ -1,0 +1,77 @@
+SPR no: 94P4322084
+MRN no: 945432
+Site_name: ST VINCENT'S HOSPITAL (DARLINGHURST)
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report94P43220,94P43220 (94P4322084) O&apos;CONNOR, HEATHER
+HISTOPATHOLOGY REPORT
+CARNARVON HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Pelvic mass CA125 - 187 u/ml.
+1. Peritoneal washings.
+2. Uterus, tubes, ovaries.
+3. Right pelvic lymph node.
+4. Pouch of Douglas peritoneum.
+5. Omentum.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES + OVARIES&amp;quot;. The entire specimen weighs 148g. Anterior is inked blue posterior black. There is a large tubo-ovarian mass on the right side closely adherent to the posterior uterine serosa with a lobulated/cystic appearance. This entire area measures 70x55x40mm. The uterus with attached cervix is 70mm in length, 35mm intercornual distance. Ectocervix is 32x25mm with a slit like os 20mm. It is cream coloured and unremarkable. Anterior endomyometrium is 12mm, posterior endomyometrium is 20mm. Endometrium is &amp;lt;1mm thick. The mass on sectioning has a solid pale tan appearance and infiltrates into the myometrium to a depth of 15mm posteriorly. In some areas the tumour is cystic. The right fallopian tube is not identifiable within the mass. The tumour is sectioned from fundus to cervix into 11 slices. Representative sections are taken.
+
+The left ovary and fallopian tube together weigh 8g. Fallopian tube measures 30mm in length x 5mm maximum diameter. Serosal surface is unremarkable. Ovary is 20x15x10mm. Serosa appears somewhat lobulated and firm. On sectioning through the ovary it has a solid tan cut surface. Representative sections are taken.
+
+Synoptic Macroscopic description:
+Specimen Integrity of Right Ovary: Capsule appears roughened with areas of adhesion
+Specimen Integrity of Left Ovary: Capsule intact
+Specimen Integrity of Right Fallopian Tube: Right fallopian tube is obscured by tumour.
+Specimen Integrity of Left Fallopian Tube: Serosa intact
+Tumor Site: Right tubo-ovarian mass
+Ovarian Surface Involvement: Present, right ovary
+Fallopian Tube Surface Involvement: Cannot be determined: Right fallopian tube has been obscured by tumour
+Tumor Size: 70x55x40mm (macroscopic measurement)
+(1-4 one sagittal slice of uterus [1 anterior and posterior cervix; 2 anterior and posterior lower uterine segment; 3 anterior endomyometrium; 4 posterior endomyometrium]; 5 left cornu; 6 left parametrial tissue; 7 right parametrial  tissue; 8 serosa uterus posteriorly with tumour invading into the myometrium; 9 right cornu [portion of slice 1]; 10-12 slice 2 [10 tumour infiltrating into myometrium; 11&amp;amp;12 cystic and solid portions of the tumour {10 also shows anterior surface involvement of tumour}]; 13&amp;amp;14 [13 section showing tumour in relation to anterior margin; 14 lobulated surface of tumour]; 15&amp;amp;16 ?? fimbrial end right fallopian tube; 17&amp;amp;18 tumour showing involvement of posterior margin)
+19 left fallopian tube; 20 left ovary. Representative sections. (M-20)
+B. &amp;quot;OMENTUM&amp;quot;. Consists of a piece of fatty tissue consistent with omentum. It  measures 280x120x20mm. No suspicious areas are identified on palpation or sections. Representative sections. (M-3)
+C. &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;. Consists of fatty tissue 20x15x10mm. Two possible nodes identified.
+(1 two possible nodes; 2 remainder fatty tissue). All embedded. (M-2)
+D. &amp;quot;POUCH OF DOUGLAS PERITONEUM&amp;quot;. Consists of a piece of fibrofatty tissue. It measures 35x10x10mm. There is a nodule at one edge measuring up to 12mm. Resection margin is inked blue. All embedded. (M-1/MC 20/2/2071 ank)
+MICROSCOPIC:  (Dr Y Cansino)
+A. Sections of the cervix shows squamous metaplasia although the extocervical epithelium is largely denuded. The endometrium shows cystic atrophy. The right adnexal mass is adherent to the uterus and with invasion of the myometrium. The right fallopian tube has been obscured/destroyed by the tumour and a small portion of the right ovary is identified. The tumour consists of glandular formation, many of which are irregular and slit-like and with some papillary architecture including focal secondary branching. There is high nuclear grade cytology with numerous mitotic figures (greater than 10/hpf) and with areas of necrosis. The tumour infiltrates into adjacent fatty tissues as well as the myometrium. The appearances are those of high grade serous carcinoma.
+The left fallopian tube and ovary appear unremarkable and the parametrium appears unremarkable.
+Immunohistochemistry (Block A15): There is positive staining fpr Ck7, p-16, WT-1, ER (60-70%, 2+ to 3+), and strong diffuse staining for p-53. The stain for PgR is negative.
+B. The sections show fatty tissue with patchy chronic inflammation. Negative for malignancy.
+C. Two lymph nodes have been identified and show reactive changes. Negative for malignancy.
+D. The sections show fatty tissue involved by high grade serous carcinoma.
+
+
+SYNOPTIC REPORT:
+Histologic Type: High-grade serous carcinoma
+Tissue/ Organ Involvement:
+Specimen A: Right ovary (extensive)/Right fallopian tube; Uterus direct invasion (posterior wall to depth of 15mm)
+Specimen D: Pouch of douglas 12mm tumour deposit
+Treatment Effect: No known presurgical therapy
+
+Regional Lymph Nodes:
+Specimen C: Right pelvic lymph node : Two lymph nodes negative for tumor cells
+
+Pathologic Stage Classification (pTNM, AJCC 8th Edition): pT2b,pN0
+
+
+Additional Findings:
+Left ovary: unremarkable.
+Left fallopian tube: unremarkable.
+Uterus shows atrophic endometrium with cystic changes.The cervix shows squamous metaplasia.
+DIAGNOSIS:
+A. UTERUS, TUBES AND OVARIES
+- HIGH GRADE SEROUS CARCINOMA OF RIGHT ADNEXA.
+B. OMENTUM
+- NEGATIVE FOR MALIGNANCY.
+C. RIGHT PELVIC LYMPH NODE
+- NEGATIVE FOR MALIGNANCY.
+D. POUCH OF DOUGLAS PERITONEUM
+- HIGH GRADE SEROUS CARCINOMA.
+22/2/2071 cy
+SUPPLEMENTARY REPORT:
+Specimen A: Further blocks of the cervix (A21-22) were embedded and examined. These show partial denudation of the ecto-cervical epithelium and with changes of atrophy and squamous metaplasia.
+
+26.2.70

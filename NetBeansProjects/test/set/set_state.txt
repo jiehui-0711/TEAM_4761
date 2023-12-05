@@ -1,0 +1,16 @@
+ACT
+Australian Capital Territory
+NSW
+NT
+New South Wales
+Northern Territory
+QLD
+Queensland
+SA
+South Australia
+TAS
+Tasmania
+VIC
+Victoria
+WA
+Western Australia

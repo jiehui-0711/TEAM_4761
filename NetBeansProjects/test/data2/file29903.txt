@@ -1,0 +1,98 @@
+SPR no: 36K015629Q
+MRN no: 3630156
+Site_name: GOULBURN VALLEY HEALTH - CENTRE FOR OLDER PERSONS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report
+CLINICAL:
+71 year old female distal pancreatectomy, splenectomy and left adrenalectomy (RAMPS) for pancreatic body mass.  Diagnosed after CT for abdominal pain with weight loss and new onset diabetes.  Pre-diabetic.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Spleen and pancreas and left adrenal gland&amp;quot;, consists of a competent specimen including distal pancreas (900 x 45 x 34mm), adrenal gland (45mm externally) and spleen (107 x 74 x 35mm).  There are sutures located along the pancreatic resection margin.  The anterior surface is inked blue, posterior surface inked black and superior inked red.  Tissue is sliced from proximal to distal pancreas into eighteen slices, separating it from the remaining spleen.  The adrenal gland is identified and measures 45 x 35 x 15mm.  Within the body of the pancreas is a rounded poorly circumscribed tumour measuring, 60 x 26 x 22mm.  The tumour is seen to surround and involve vessels and ducts and approaches to within 1mm of the anterior and posterior surface.  Tumour is macroscopically seen 6mm from the adjacent adrenal gland.  At least 25mm of uninvolved splenic hilar fat is seen between the lateral aspect of the tumour and the spleen.  Tumour is seen to approach the proximal pancratic resection margin and is seen to involve the main duct in this region.  Minimal residual pancreatic parenchyma is macroscopically seen.  On the anterior aspect of the spleen there is a subcapsular haemorrhage measuring, 85 x 30mm extending 12mm deep associated with integrated surgical gauze.  No splenic parenchymal lesions are identified.  Four lymph nodes are identified within the splenic hilar fat and a single lymph node is identified in the anterior pancreas measuring, 24 x 13 x 5mm.  A separate piece of omental fat measures 130 x 50 x 10mm and contains a single lymph node measuring 12mm in maximal dimension.
+Blocks: 1 &amp;amp; 2 - pancreatic resection margin (embedded on true margin); 3 &amp;amp; 4 - slice two; 5 &amp;amp; 6 - slice three; 7 to 9 - slice four; 10 to 12 - slice five; 13 to 15 - slice six; 16 to 21 - big blocks including slices seven to twelve; 22 to 25 - slice thirteen; 26 to 29 - slice fourteen; 30 to 33 - slice fifteen; 34 - splenic vessel TS; 35 - LS splenic hilum; 36 &amp;amp; 37 - LS through normal spleen; 38 - splenic subcapsular haemorrhage; 39 - four splenic hilar lymph nodes; 40 - pancreatic lymph four sections; 41 - omental lymph node bisected; 42 &amp;amp; 43 - representative omentum.  (All of pancreatic mass embedded).
+
+B.  Specimen labelled &amp;quot;Retroportal lymph node&amp;quot;, consists of a piece of fatty tissue measuring, 30 x 16 x 10mm.  A single 21mm lymph node is identified.
+Blocks: 1 - lymph node bisected; 2 - remaining tissue.  AE.
+
+C.  Specimen labelled &amp;quot;Common hepatic lymph node&amp;quot;, consists of a piece of fatty tissue, 35 x 25 x 10mm.  Six possible nodes are identified within the tissue ranging in size from 5 to 15mm in maximal dimension.
+Blocks: 1 - five nodes; 2 - one node bisected; 3 &amp;amp; 4 - remaining tissue.  (TO:AP/rs 1/11/68)
+
+
+MICROSCOPIC (Reported by A/Prof J Mongeon and Dr J J Grilli):
+
+SUMMARY PANCREATIC TUMOUR
+A-C
+Sections of the pancreas show a 60mm well differentiated adenocarcinoma involving the body and tail of the pancreas, arising in association with high grade pancreatic intraepithelial neoplasia (PanIN). The carcinoma cells are predominantly arranged in glands and tubules however  few foci of smaller clusters and single scattered pleomorphic cells are also seen. The tumour shows extensive perineural involvement as well as intravascular (A13) involvement and extrapancreatic spread.
+The carcinoma lies 0.2mm (A25,A32) from the anterior surface and 0.25mm (A4) from the posterior surface and extends to the pancreatic resection margin (A1 and A2). The surrounding pancreas appear largely atrophic with relative preservation of the islet cells and extensive firbrosis. The carcinoma invades the adjacent adrenal gland. Seven of thirty six pancreatic lymph nodes have metastatic carcinoma.
+There is an incidental accessory spleen (splenunculus) in the omentum.
+The spleen is unremarkable.
+Fourteen lymph nodes identified at the retro-portal and common hepatic area. One node show metastastes
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 1: Well differentiated (greater than 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Body of pancreas
+Tail of pancreas
+
+Extent of tumour invasion
+Peripancreatic soft tissues - extensive
+
+Other adjacent organs/structures (specify): Adrenal gland (A13, A16 - A19) -  carcinoma is present in the adrenal medulla which does not appear to be a result of direct spread or perineural invasion, and is therefore considered to be a metastatic deposit. Tumour within the lumen of a large artery is seen immediately adjacent to the adrenal capsule (A16).
+
+Maximum tumour diameter: 60mm ( macroscopic)
+
+Lymphovascular invasion
+Present (A13)
+
+Type of vessel
+Artery (eg A14, A8) - confirmed with elastic stains.
+Vein (eg A13)
+Small vessel
+
+Perineural invasion
+Present and extensive
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not received
+
+Pre-invasive lesion
+Present  (Pancreatic intraepethelial neoplasm (PanIN))
+
+Margins:
+Pancreatic neck: Positive (Invasive carcinoma, perineural invasion and Pancreatic intraepethelial neoplasm (PanIN)). Extrapancreatic tumour spread is seen in the sections taken at this margin.
+
+Tumour within large nerves is also seen to extend close to the red-inked superior surface of the specimen.
+
+Surfaces:
+Anterior: 0.2mm (A25, A32)
+Posterior: Less then 0.1mm (A32, A4, A11)
+Lymph nodes:
+Number found: 50
+Number involved: 11
+
+Other pathologies:
+The surrounding pancreas appear largely atrophic with relative preservation of the islet cells and extensive fibrosis.
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+PANCREAS
+Primary tumour category (pT)
+
+T3 Tumour &amp;gt;4cm in greatest dimension
+
+Regional lymph node category (pN)
+
+N2 Regional lymph node metastasis
+
+Distant metastasis category (pM)
+M1 - Distant metastasis (adrenal gland)
+DIAGNOSIS:
+A-C; Spleen and pancreas and left adrenal gland,Retroportal lymph node,Common hepatic lymph node
+- 60mm well differentiated adenocarcinoma in association with PanIN.
+- Carcinoma present at the resection margin.
+- 11/50 lymph nodes with metastases
+- Very close (&amp;lt;0.1mm) to anterior, superior and posterior surfaces
+- Adrenal gland involved by carcinoma.

@@ -1,0 +1,94 @@
+Episode No:  23E140497K
+2311404.ZUK
+
+Maddux, JERI Dillon 
+Lab No:  23E14049
+Lears Glen
+STANLEY  Northern Territory  3104
+Specimen: Tissue
+D.O.B:  26/6/2004
+Sex:  F
+Collected: 18/12/2012 at 14:21
+Location:  Envoi pathology-MANNUM DISTRICT HOSPITAL
+DR Lindsey Elvin BIJOU
+Distribution:   FILE-COPY,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+History of screen detected R breast ca for HWL excision and SNBx. 
+MACROSCOPIC:
+A.  Specimen labelled "Right sentinel node lymph node biopsy 1", consists of a piece of unoriented fatty tissue 16 x 14 x 12mm.  One lymph node 16mm is identified. Serially sectioned, AE 1 block. 
+B.  Specimen labelled "Right sentinel node biopsy no 2", consists of a piece of unoriented fatty tissue 18 x 15 x 10mm.  One lymph node 8mm is identified. Serially sectioned, AE 1 block.
+C.  Specimen labelled "Right breast lesion short superior, long lateral, medium medial", consists of an orientated wide localexcision with three sutures in situ as designated measuring 55mm (medial to lateral) x 55m (inferior to superior) x 25mm (superficial to deep).  Two hookwires are seen to insert inthe specimen from the medial superior aspect. The specimen is serially sectioned in the parasagittal plane into seven slices from slice 1 lateral to slice 7 medial.  One hookwire is seen to insert into slice 1, the other hookwire is seen to insert into slice 5.  There is a firm cream poorly circumscribed stellate lesion identified in slices 1-3 measuring 12mm (medial to lateral) x 3mm (inferior to superior) x 5mm (superficial to deep). The distance from the margins is as follows:  superior - 8mm, deep - 6mm, superficial -mm, inferior - 35mm, lateral - 14mm and well clear of the medial margin.  A further cream firm poorly circumscribed lesion is identified in slices 5 and 6 measuring 5mm (medial to lateral) x 5mm (inferior to superior) x 5mm (superficial to deep).  The distance from margins is as follows: deep - 4mm, inferior 12mm, superficial - 7mm, superior - 30mm, medial 25mm and well clear of the lateral margin. Otherwise there are widespread small cream areas, ? calcification throughout the specimen.  
+Blocks 1-4 - slice 1; 5 & 6- slice 2; 7 & 8 - slice 3; 9 & 10 - slice 4; 11 & 12 - slice 5; 13 & 14 - slice 6; 15-18 - slice 7, tumour markers on block 6.  Please refer to attached diagram.  No reserve block allocated.  (SF/ec 21.2.62) 
+MICROSCOPIC (reported by Dr H Knoepke): 
+A - C.  Sections show two foci of invasive ductal carcinoma, and although they have somewhat similar morphology and may represent the same tumour, they are described separately.  The first tumour is located towards the lateral end of the specimen while tumour two is present towards the medial end of the specimen.  The features are as follows:  
+
+Invasive carcinoma tumour 1:
+Site:  Right breast, lateral end of specimen
+Type:  Invasive ductal carcinoma (E-Cadherin positive)
+Invasive tumour size:  5mm
+Grade (Modified Bloom & Richardson):  2
+Tubules: 3     Nuclei: 2     Mitoses: 1      Mitotic rate: 5/10hpf.
+Lymphovascular invasion:  Absent
+Receptors (Block C6): 
+ER:  Positive
+	% of nuclei stained
+	predominant intensity of staining:  Moderate to strong 
+PR:   Negative
+HER2 (Novocastra 10A7):  Equivocal (score 2+)
+Ki-67 index: Less than 5%
+
+Invasive carcinoma tumour 2:
+Site:  Right breast, medial end of specimen
+Type:  Invasive ductal carcinoma (E-Cadherin positive)
+Invasive tumour size:  12mm
+Grade (Modified Bloom & Richardson):  2
+Tubules:  3     Nuclei:  2     Mitoses: 1      Mitotic rate:  2/10hpf.
+Lymphovascular invasion:  Absent
+Receptors (Block C11): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Moderate to strong 
+PR:  Negative
+HER2 (Novocastra 10A7):Negative (score 1+)
+Ki-67 index:  Approximately 10%
+
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:mm (throughout all slices)
+Nuclear grade:  High grade
+Architecture: Solid
+Necrosis:  Present 
+Calcification: Present
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Extensive
+Excision Margins:  
+Invasive component:  Positive deep margin, superficial 3mm clear, superior 5mm clear, inferior 6mm clear, medial and lateral approximately 3mm clear
+In-situ component: Positive deep and superficial margins, 1.5mm from medial, 4mm from lateral, 5mm from superior and 6mm from inferior.  
+Nipple:  Not applicable
+
+LCIS / ALH:  Absent
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel lymph nodes involved by tumour:  0        
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2  
+Total number of involved lymph nodes (including sentinel node):  0
+ADDITIONAL REPORT (18/3/63):
+Report from ORBOST REGIONAL HEALTH Hospital, reported by Dr DILLON Helowicz:
+
+HER2 IHC Result:
+At TOM PRICE HOSPITAL block C6=2+(therefore for SISH) and block C11=1+ (therefore not for SISH)
+Signal Detection has been performed forthe HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEPI7) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche)
+
+BLOCK C6:
+HER2 Dual ISH result:  POSITIVE (amplified)
+Mean HER2 copy number per cell: 3.45 
+Mean CEPI7 copy number per cell: 1.5 
+HER2/CEPI7 Ratio: 2.3
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 1.8-2.2
+Positive: HER2/CEP17 >2.2
+

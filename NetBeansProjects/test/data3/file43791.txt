@@ -1,0 +1,48 @@
+SPR no: 92W871024J
+MRN no: 2620974
+Site_name: DIRRANBANDI HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (27.3.68):
+
+CLINICAL:
+Endometrioid adenocarcinoma grade I.  Hysterectomy for endometrial cancer.  Endometrial ca, SVT, GORD.  Uterus both tubes and ovaries, uterus opened anteriorly, sentinel nodes sent for FS (left obturator and right external iliac).
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right external iliac sentinel lymph node&amp;quot;, consists of a piece of fibroadipose tissue, 20 x 12 x 6mm containing a 15mm lymph node.  Imprint x 1 and lymph node AE for frozen section.  AE 2 blocks.
+
+B.  Specimen labelled &amp;quot;Left obturator sentinel lymph node&amp;quot;, consists of a piece of fibroadipose tissue, 20 x 15 x 7mm, containing a 15mm lymph node.  Imprint x 1 and AE for frozen section.  AE 1 block.
+
+FROZEN SECTION REPORT
+A. &amp;amp; B.  Two negative lymph nodes.
+Results phoned to Dr Roosevelt by Dr Y Baucher at 11:15am on 24/03/2068.
+
+C.  Specimen labelled &amp;quot;Uterus cervix bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries.  The uterus is received bisected longitudinally in the midline.  The specimen weighs 150g in total.  The uterus measures 95 x 70 x 40mm and has a smooth and shiny nodular serosal surface.  The cervix measures 29 x 25mm and has an unremarkable surface, discoloured by surgical dye.  On opening the endometrium appears exophytic and polypoid over a volume measuring 30 x 20 x 15mm, including an intact polyp 20 x 11 x 6mm.  The exophytic tumour is in the body and fundus, 56mm from the cervix.  The remaining endometrium is 1 to 2mm thick and the myometrium is up to 25mm thick.  A focus of pale endometrium is identified on the left lateral wall, 12mm diameter; this area appears separate from the main polypoid tumour within the fundus.  The main tumour measures up to 7mm thick, with possible invasion of the underlying myometrium.  The remaining myometrium is distorted by multiple fibroids measuring up to 30mm in maximal dimension.  The right fallopian tube measures 55 x 7mm and the right ovary measures 33 x 18 x 16mm.  The left fallopian tube measures 57mm x 7mm and there is a parafimbrial cyst 10mm in diameter.  The left ovary measures 32 x 22 x 14mm.  The ovaries and tubes are macroscopically normal.
+Blocks: 1 - LSright cervix; 2 - TS right lower uterine segment; 3 &amp;amp; 4 and 5 &amp;amp; 6 - composite sections through tumour with greatest depth of invasion; 7 - LS left cervix; 8 &amp;amp; 9 - TS left lower uterine segment; 10 - separate focus of pale endometrium within lower left uterus; 11 - separate fragment of fundal polyp; 12 to 14 - left body of uterus  with tumour and greatest depth of invasion; 15 to 17 - remainder of polyp base all embedded; 18 &amp;amp; 19 - right adnexa; 20 &amp;amp; 21 - left adnexa. (TO:AP/eh 25/3/68)
+
+
+MICROSCOPIC (Reported by Dr U Mulero):
+A., B.  Sections of each specimen show a lymph node.  No tumour is seen in the multiple levels or in the immunostained slides.
+
+C.  Sections of the endometrial tumour show a grade 1 endometrioid adenocarcinoma with some squamous differentiation.  There is superficial myometrial invasion.  The maximum depth of myometrial invasion is 2mm out of a total myometrial thickness of 22mm.  There is no definite lymphovascular invasion.  The tumour partially involves the endocervical polyp.
+There is focal tumour involvement of the surface of the upper endocervix.  No definite cervical stromal invasion is seen.  The cervix is otherwise unremarkable.
+Leiomyomas are confirmed in the myometrium.  The myometrium is otherwise unremarkable.
+Sections of the ovaries and fallopian tubes are unremarkable.
+Stains of mismatch repair enzymes will be performed on the endometrial tumour; a supplementary report will be issued.
+Representative slides of the endometrial tumour have also been viewed by Dr U Schlumaker.
+
+
+DIAGNOSIS:
+A.  Right external iliac sentinel lymph node:  No tumour (0/1).
+
+B.  Left obturator sentinel lymph node:  No tumour (0/1).
+
+C.  Uterus, ovaries and fallopian tubes:
+1.  Grade 1 endometrioid adenocarcinoma of endometrium showing superficial myometrial invasion and focal surface cervical involvement.  Stage 1A.
+2.  Endometrial polyp
+3.  Leiomyomas.
+
+
+SUPPLEMENTARY REPORT (27.3.68):
+C.  The tumour cells show preserved nuclear staining for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6.
+
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).

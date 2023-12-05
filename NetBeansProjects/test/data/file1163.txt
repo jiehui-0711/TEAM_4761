@@ -1,0 +1,79 @@
+SPR no: 48U618511J
+MRN no: 487618
+Site_name: MALLEE TRACK HEALTH AND COMMUNITY SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Reportsectdefaultcldl108rsEpisode No:  4 48U618511J
+487618.NFD
+rdrscellx3420x4320
+PASZEK, SAMATHA
+rtlchb 16fl3rs0Lab No:  48U61851,48U61851
+Ranch View
+gfe3081rw10 8416addfr3w10
+SMITHTON  WAs0   3000
+rowdlbrdrtrsng1025
+in0 rbrdrbdrw10 llx8416paddfl3th3lpar4 Specimen: Washings,Tissue
+D.O.B:  cs0 22/12/1996
+Sex:  Fs1
+10 clvertaltclbrdrrrow r3 chCollected: 05/11/2015 at 16:12
+Location:  BOX HILL HOSPITAL
+rt0 b
+DR ROBERT LATTA
+vl rw30id2757404
+ltrrowsWidth1 af0 Distribution:  DR Mervin, DR Ronero,    FILE-COPY, DR ALEXIS,   NSW-CANCER-REGISTRYh
+rtlch
+*)ltSUPPLEMENTARY REPORT ATTACHED
+
+HISTORY:
+G II endometrial adenoca.  Peritoneal washings.  Uterus, tubes and ovaries, omental biopsy.
+rsid5967177 MACROSCOPIC:
+A.  &amp;quot;UTERUS, BILATERAL TUBES, BILATERAL OVARIES&amp;quot; .  A total hysterectomy specimen of a total weight of 113g.  It was already opened coronally.  It consists of a uterus measuring 85x50x40mm. The cervix measures 40x30x20mm.  A right fallopian tube 70x6mm, right ovary 30x20x15mm, left fa llopian tube 70x6mm and a left ovary 22x20x10mm.  The cut surface of the ovary and tubes is unremarkable.  There is an endometrial polyp in the uterus body anteriorly measuring 25x25x10mm, that is attached to the underlying endometrium over  an area of 20mm.  The remainder endometrium shows possible thickening of the endometrium in the body and fundus area up to 12mm.  No definite myometrium invasion is identified macroscopically. The myometrium is up to 25mm thick.  Multi ple (5-10) white whorled nodules some of which are calcified are noted within the myometrium of an average diameter of 6mm.  The endometrial thickening and  the polyp appears to be confined to the uterine body with no extension to any cor nu, cervix or parametria.
+(1 right fallopian tube [2 two LS fimbrial end and two TS mid]; 2 right ovary; 3 right parametrium; 4 left fallopian tube [two LS fimbrial end and two TS mid]; 5 two TS left ovary; 6 left parametrium ; 7-11 full face anterior uterus from cervix to fundus with block 9 containing the base of the polyp; 12 LS anterior body at base of polyp; 13 remnant pedunculated part of a polyp; 14-17 full face posterior uterus from cervix to fundus;  18 LS posterior body thickest endometrium).  RS (M-18) (Further blocks from uterine body and fundus; 19-24 Anterior[19&amp;amp;20 continuous; 21&amp;amp;22 continuous; 23 body; 24 fundus]; 25-29 Posterior [25&amp;amp;26 continuous; 27&amp;amp;28 continuous ; 29 body] R S (M-29/ZH)
+B.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  Unorientated fibrofatty piece of tissue measuring 100x65x20mm.  The outer surface is smooth and shiny. The cut surface is unremarkable.  No nodules are identified.  RS (M-3/ZH/ank)
+rtlch
+MICROSCOPIC:  (Dr L Belback)0
+A: Sections of uterus show an e ndometrioid adenocarcinoma, which is confined to the endometrium. Grading is difficult, as there is little residual tumour present in the excision specimen. While the architectural and nuclear features are in keeping with grade 2, referen ce to the diagnostic curetting specimen is recommended for definitive grading.
+The uterus shows extensive adenomyosis and in a few foci the carcinoma extends into areas of adenomyosis, but no definite invasion of the myometrium is  seen. Some small foci of simple and complex hyperplasia, with and without atypia are seen adjacent to the area of adenocarcinoma. A large endometrial polyp of hyperplastic type is also present. Several small benign leiomyomas are noted wi thin the myometrium. No lymph nodes are identified.
+trchENDOMETRIAL CARCINOMA:
+Tumour type:  Endometrioid ad enocarcnoma
+FIGO grade:  Difficult to grade due to scant residual tumour, but possible Grade 2 (please refer to original curetti ng specimen for grading)
+Depth of myometrial invasion:   0mm
+My ometrial thickness:   25mm
+Peritoneal involvement:   Tumour free
+cs1
+Ovarian involvement:  Tumour free
+Fallopian tube involvement: 0 Tumour free
+Vascular/lymphatic inva sion:  Absent
+33Involvement of cervix:  Absent
+hCervical vascular involvement:   Absent
+Excision margins74 : clear
+Non-tumour uterus:
+Adjacent endometrium:  Hyperplastic and atypical hyperplastic
+Multicentric/multifocal carcinoma:  Absent
+1025
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+rparlangfe3475
+TNM stage:  pT1a (pT1a:  tumour l imited to the endometrium or invades less than one half of the myometrium).
+tlch
+FIGO stage:  insrsid2230474 IA
+grid
+af0OTHER FINDINGS:
+Sections of right and le ft fallopian tubes, right and left ovaries and right and left parametrium show no involvement. Extensive adenomyosis is present. Sections of cervix are unremarkable. Multiple small leiomyomas are noted within the myometrium. An endometrial  polyp with simple and focally complex hyperplasia without atypia is also present.
+B.  The omental biopsy shows no involvement.
+1
+DIAGNOSIS:
+A. UTERUS, BILATERAL TUBES, BILATERAL OVARIES:
+- ENDOMETRIOID ADENOCARCINOMA, DIFFICULT TO GRADE BUT POSSIBLE GRADE 2, pT1a . FOR DETAILS PLEASE SEE TEXT.
+B.  OMENTAL BIOP SY:  NO INVOLVEMENT SEEN.
+12/1/2065 ht
+Supplementary report:
+2230474 Immunostains for MSI proteins (State Street Corporation Forensic Medicine; block:A12)
+MLH1: Positive  (normal) staining of tumour nuclei
+PMS2: Positive (normal) staining of tumour nuclei
+MSH2: Positive (normal) staining of tumour nuclei
+MSH6 : Positive (normal) staining of tumour nuclei
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenot ype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,   MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage an d fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+18/1/65 ank

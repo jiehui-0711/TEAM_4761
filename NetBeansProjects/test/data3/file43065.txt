@@ -1,0 +1,19 @@
+SPR no: 01U039861Z
+MRN no: 1500560
+Site_name: THE ROYAL WOMEN'S HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Splenic tumour.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Spleen&amp;quot;, consists of a spleen, 490g and measuring 130 x 120 x 70mm.  Sample of fresh tissue taken for biobanking and flow cytometry.  The spleen is distorted by a encapsulated firm tumour measuring 90 x 75 x 50mm that involves the splenic hilum but does not appear to breach the splenic capsule.  It lies 3mm from the hilar soft tissue resection margin (inked green). The surface of the tumour is inked blue.  The cut surface of the tumour has a homogenous pale tan bosselated appearance with foci of haemorrhage and possible necrosis.  The tumour has a rounded interface with the adjacent uninvolved splenic parenchyma which is otherwise unremarkable.  A separate 4mm white nodule is noted on the splenic capsule away from the main tumour.  No lymph nodes are identified in the scanty attached fatty tissue.  Blocks: 1 to 10 - composite full face of tumour; 11 - small capsular nodule with underlying normal splenic parenchyma; 12 - RS attached fatty tissue; 13 and 14 - RS tumour to hilar resection margin.  (TO: TF/ta 16/5/67)
+
+
+MICROSCOPIC (Reported by Dr B Lagos and registrar Dr B Turck):
+Sections of spleen show a partially circumscribed infiltrate of discohesive  large cells with markedly pleomorphic nuclei, indistinct cytoplasmic borders and prominent nuclei.  Frequent atypical mitotic figures are seen.  There is extensive tumour necrosis.  On immunohistochemistry the tumour cells are positive for CD45, CD20, PAX 5, BCL-6 and are negative for pancytokeratins, CAM 5.2, AE1/AE3, Sox-10, HMB-45, CD3, CD5, CD30, CD43, cyclinD1 and Bcl-2. CD10 is positive in more than 30% of the lesional cells. Ki-67 is estimated to be 90%. There is no evidence of light chain restriction by kappa and lambda light chains immunohistochemistry. The features are of diffuse large B-cell lymphoma.  The immunophenotype is consistent with a germinal centre DLBCL. There is extra splenic spread of lymphoma into the surrounding soft tissue. The lymphoma cells come close to an attached fragment of pancreatic tissue but do not appear to be involving it.  A   splenic hilar lymph node also involved by an infiltrate of large cells consistent with DLBCL.  A second separate splenic nodule shows histologic features similar to the larger mass, consistent with DLBCL. There is no evidence of lower grade non Hodgkin B-cell lymphoma.
+
+DIAGNOSIS:
+Spleen: Diffuse large B cell lymphoma, consistent with germinal centre type
+Representative tissue will be submitted for MYC/BCl2/BCL6 translocation testing by FISH and a supplementary report will follow.

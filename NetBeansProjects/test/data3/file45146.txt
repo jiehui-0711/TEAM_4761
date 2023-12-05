@@ -1,0 +1,37 @@
+SPR no: 32Y806947E
+MRN no: 4078034
+Site_name: MORANBAH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Endometrial cancer - carcinosarcoma.  No macroscopic disease beyond uterus.  Arthritis, endometrial cancer.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix + bilateral tubes + ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries, weighing 106g in total.  The uterus is received partially opened in the sagittal plane with some distortion due to fixation.  When reconstructed the uterus measures 102 x 50 x 35mm and has a smooth shiny serosal surface.  The ectocervix measures 37 x 29mm and has an unremarkable surface.  On sectioning the endometrium is 2mm in maximal thickness and the myometrium is 14mm in maximum thickness.  Anterior is inked blue and posterior inked black.  Within the endometrial cavity attached to the left anterior endometrium there is a polyp, 13 x 9 x 5mm.  No tumour is seen.  Also within the left anterior aspect of the myometrium there are four fibroids, ranging in size from 7 to 14mm.  The right fallopian tube measures 55 x diameter 7mm.  The right ovary measures 31 x 15 x 10mm.  The left fallopian tube measures 60 x diameter 5mm and the left ovary measures 33 x 15 x 10mm.  Both ovaries have an unremarkable cut surface.  Blocks: 1 to 4 - full LS anterior body and cervix (1 - polyp); 5 to 8 - full LS posterior body and cervix; 9 to 11 - anterior uterus; 12 to 14 - posterior uterus; 15 - anterior uterus; 16 - posterior uterus; 17 - section containing most lateral aspect of left endometrial cavity (1 to 17 - from left side, 18 onwards from right side); 18 &amp;amp; 19 - anterior uterus; 20 &amp;amp; 21 - posterior uterus; 22 - anterior uterus; 23 - posterior uterus; 24 - anterior uterus; 25 - posterior uterus; 26 &amp;amp; 27 - (right side); 26 - fimbria and one TS tube; 27 - three TS ovary.  Please see diagram.
+
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a fibrofatty piece of tissue, 50 x 37 x 10mm.  No lesions are identified.  Blocks: 1 to 3 - all of specimen.
+
+C.  Specimen labelled &amp;quot;Right pelvic nodes&amp;quot;, consists of fibrofatty tissue in aggregate 30 x 25 x 12mm.  Several lymph nodes found measuring between 8 and 30mm.  Blocks: 1 - four lymph nodes; 2 - one lymph node in five pieces; 3 - one lymph node in five pieces; 4 - one lymph node in six pieces.
+
+D.  Specimen labelled &amp;quot;Left pelvic nodes&amp;quot;, consists of fibroadipose tissue, 55 x 35 x 20mm.  lymph nodes varying between 13 and 25mm are found.  Blocks: 1 - one lymph node in six pieces; 2 - one lymph node in six pieces; 3 to 5 - one lymph node each bisected.
+
+E.  Specimen labelled &amp;quot;Right obturator lymph node sentinel&amp;quot;, consists of a fibrofatty piece of tissue, 35 x 25 x 8mm.  Three lymph nodes are found measuring between 10 and 19mm.  Blocks: 1 - largest lymph node in five pieces; 2 - one lymph node bisected; 3 - smallest node; 4 - remaining fatty tissue.  AE.
+
+F.  Specimen labelled &amp;quot;Left external iliac lymph nodes&amp;quot;, consists of fibrofatty tissue, 30 x 23 x 12mm.  Three lymph nodes found measuring between 12 and 18mm.  Blocks: 1 - 18mm lymph node trisected; 2 - one lymph node bisected; 3 - one lymph node.  (TO:PF/ta 10/6/69)
+
+
+MICROSCOPIC (Reported by Dr J Schwanz):
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is proliferative and contains a benign endometrial polyp.  The entire endometrium has been examined and there is no residual malignancy.  The myometrium shows leiomyomas and adenomyosis.  There is a tiny focus of serosal endometriosis.  Both ovaries and tubes are unremarkable.  There is no evidence of malignancy.
+
+B.  Sections show no significant abnormality.  There is no evidence of malignancy.
+
+C.  Seven lymph nodes show no evidence of malignancy.
+
+D.  Five lymph nodes show no evidence of malignancy.
+
+E.  Three lymph nodes show no evidence of malignancy.
+
+F.  Three lymph nodes show no evidence of malignancy.
+
+
+DIAGNOSIS:
+No residual malignancy seen.  Eighteen (18) lymph nodes and the omentum are negative.

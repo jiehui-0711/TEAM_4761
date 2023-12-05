@@ -1,0 +1,103 @@
+DateOfBirth
+204002050000
+
+
+SiteName
+MAREEBA HOSPITAL
+
+
+FirstName
+Diego
+
+
+SPRID
+28J5128699
+
+
+MRN
+283512
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Stockhoff
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+28J51286,28J51286 (28J5128699) CANION, ROBENA Virgina
+
+HISTOPATHOLOGY REPORT
+MACQUARIE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ovarian mass ? nature.
+1. Peritoneal washings for cyto.
+2. R ovary and tube for frozen section please.
+1. R pelvic sidewall.
+2. Omentum bx.
+
+MACROSCOPIC:
+A. &amp;quot;R OVARY + TUBE&amp;quot;. Weighing 1312g. Ovary 170x110x55mm. Surface partially disrupted over 60x50mm. Tube 80x10mm. Cut surface predominantly solid.
+
+The outer surface of the right ovary is pale and focally haemorrhagic. There is a 60x35mm area of disruption on the ovary outer surface. This area is inked blue. Cut surface of the ovary shows that it is approximately 95% solid, with variegated yellow, tan, brown and haemorrhagic and cystic regions. There is a fallopian tube attached to the right ovary. The fallopian tube outer and cut surface is unremarkable. There is a 6mm paratubal cyst towards the fimbrial end.
+
+The ovarian mass is divided into two halves, the first half contains area of surface disruption and is serially sectioned longitudinally. The second half is the remainder ovarian mass, and is serially sectioned transversely.
+
+F/S : Favour sex cord stromal tumour ? granulosa cell tumour. Await paraffin&amp;quot;. Reported to Dr. Moses DELAGUARDIA by Drs. J. Decato and G. Gori at 3:17 pm on 28.4.20.
+
+(1&amp;amp;2 FS; 3 fimbriae; 4 three TS of fallopian tube; 5-7 disruption over ovarian mass surface [5 slice 5; 6 slice 6; 7 slice 9]; 8-21 RS of ovarian mass [8-10 slice 12; 11 slice 14; 12 slice 15; 13-15 slice 16; 16&amp;amp;17 slice 17; 18&amp;amp;19 slice 18; 20 slice 19; 21 slice 20]).  Representative sections. (M-21)
+
+B. &amp;quot;RIGHT PELVIC SIDE WALL&amp;quot;. Consists of an irregularly shaped fibrofatty tissue 57x20x8mm. The piece of tissue is serially sectioned from one end to the other. All embedded. (M-2)
+
+C. &amp;quot;OMENTUM BX&amp;quot;. Consists of a fatty piece of tissue 70x50x8mm. The outer and cut surface of the omentum is unremarkable. Representative sections. (M-2/SL 28/8/2070 ank)
+
+Further blocks:
+(3-6  remainder omentum). All embedded. (M-6/SL 5/6/2071 km).
+
+MICROSCOPIC:  (Dr G Cucchiara)
+A. The sections of the tumour show areas of necrosis and prominent areas of haemorrhage. There is an oedematous stromal background in which sheets of highly cellular tumour are seen together with areas of nodular tumour. The tumour shows various morphologies including microfollicular pattern with Call-Exner bodies, gyriform and trabecular appearances and with somewhat organoid nests present. The cells are relatively uniform with round to ovoid morphology with some nuclear shape variation and with longitudinal nuclear grooves seen in many cells. Small nucleoli are present. There are up to 16 mitoses per 10 high power fields. Haemosiderin laden macrophages are also seen in the stroma. The appearances are those of adult granulosa cell tumour.
+
+Immunohistochemistry (block A9). Calretinin, inhibin and WT1 are positive. EMA and AE1/AE3 are negative.
+
+B. The sections show fibrofatty tissue including nodules of tumour similar to that seen in specimen A. The appearances are those of adult granulosa cell tumor. Immunohistochemistry (block B1): Inhibin and calretinin show focal weak staining. WT is positive. EMA and AE1/AE3 are negative.
+
+C. The sections show omentum with reactive mesothelial cells and focal crushed groups of cells of uncertian significance. No diagnostic evidence of tumour is seen.
+
+Comment: The appearances are those of adult granulosa cell tumor. Clinical correlation is recommended.
+
+DIAGNOSIS:
+A. RIGHT OVARY AND TUBE - ADULT GRANULOSA CELL TUMOR.
+
+B. RIGHT PELVIC SIDEWALL - ADULT GRANULOSA CELL TUMOR.
+
+C. OMENTUM - NEGATIVE FOR TUMOUR - SEE TEXT.
+
+7/9/2071 km
+
+
+
+
+
+
+SpecimenReceivedDate
+2764-09-30 00:00:00
+
+
+LastName
+AMADO

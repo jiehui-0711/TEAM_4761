@@ -1,0 +1,155 @@
+DateOfBirth
+199605060000
+
+
+SiteName
+ALPINE HEALTH (MYRTLEFORD)
+
+
+FirstName
+Despain
+
+
+SPRID
+08L4022036
+
+
+MRN
+084402
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Artinian
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+08L40220,08L40220 (08L4022036) SPURZEM, ROSEANN THU
+
+HISTOPATHOLOGY REPORT
+BENTLEY HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Sarcoma of uterus, metastatic lung.
+
+1.   Peritoneal washings for Cyto.
+2.   Uterus, tubes and ovaries.
+3.   Omental biopsy.
+4.   Right pelvic node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, CERVIX AND BILATERAL OVARIES&amp;quot;.   Specimen was received opened and in multiple pieces.
+
+The largest piece of tissue is 140x105x60mm with serosa on one side and has an attached fallopian tube 60mm in length, 6mm in diameter and 18mm across the fimbria.   There is a yellow fatty nodule within the fimbria measuring up to 8mm across.   There is also an attached ovary, yellow in colour measuring 20x18x8mm.   A uterine cavity is not identified.   Part of the piece of tissue is a cream and yellow and grey mass measuring 80x60x65mm, which is close to the serosal surface.
+
+(1-3  fallopian tube all embedded [3  fimbria], 4&amp;amp;5  ovary all embedded; 6-15  representative mass and rest of tissue).
+
+One piece of tissue 43x29x16mm, has a fallopian tube measuring approximately 30mm in length, 3mm in diameter and 13mm across the fimbria.   There is also another possible portion of tube 16mm in length and 10mm in diameter.   There is also an ovary measuring 26x14x10mm.   Tissue all embedded in blocks 16 to 21.
+
+Two pieces of tissue containing cervix, one measuring 70x33x22mm with a cream yellow nodule at the end opposite the cervix 30x25x18mm, and the other measuring 82x25x18mm.   The cervix itself is approximately 30x24mm in transverse section and approximately 25mm in length.
+
+(22&amp;amp;23  cervix 70mm tissue; 24&amp;amp;25  one section 82mm tissue [24  cervix, 25  possibly lower segment]; 26 cream yellow nodule 70mm tissue).
+
+In addition, there are multiple pieces of tan and yellow and brown tissue measuring in aggregate 150x150x50mm.   Representative sections embedded in blocks 27 to 36.   Representative sections.  (M-36).
+
+B.  &amp;quot;RIGHT PELVIC NODE&amp;quot;.   Fatty tissue 27x18x8mm containing a yellow nodule 17x10x5mm.   All embedded in one block.   All embedded.  (1-1).
+
+C.  &amp;quot;OMENTAL BIOPSY&amp;quot;.   Fatty tissue 45x38x7mm.   No focal lesion is identified.   All embedded in blocks 1 and 2.   All embedded.  (2-2/FR 20/11/2070 km).
+MICROSCOPIC:  (Dr. B. Rameres)
+Uterine Sarcoma Protocol Summary (CAP 2020)
+Procedure:
+Total Hysterectomy and bilateral salpingo-oophorectomy.
+
+Specimen Integrity:
+Fragmented
+
+Tumour Size:
+More than 14cm (macroscopic measurement)
+
+Histologic Type:
+Endometrial stroma sarcoma, high grade.
+The tumour has epithelioid and spindle shaped areas with areas of prominent nuclear atypia, areas of tumour necrosis and a mitotic rate up to 34/10hpf.
+The tumour is received in multiple fragments some of which show residual uterine smooth muscle infiltrated by the tumour.
+
+Other Tissue/Organs Involvement:
+Right and Left Ovaries : Benign serous inclusion cysts.
+Right and Left Tubes : No significant abnormality.
+
+Omentum (Specimen C) : No evidence of malignancy.
+
+Margins:
+Cannot be assessed
+
+Lymphovascular Invasion:
+Present
+
+Regional Lymph Nodes:
+Right Pelvic Lymph node (Specimen B): One lymph node negative for tumour
+
+Pathologic Stage Classification (pTNM, AJCC 8th Edition):
+Primary Tumour (pT):
+-pT1b - Tumour more than 5cm
+(due to nature of specimen extension beyond uterus cannot be assessed)
+
+Regional Lymph Nodes (pN):
+-pN0 - No regional lymph node metastasis.
+
+FIGO Stage  (2015 FIGO Cancer Report):
+? IVB - Distant metastasis (clinical history)
+
+Ancillary Studies:
+Immunoperoxidase staining of the tumour cells shows positive staining with CD10 and cyclin D-1 (50% of cells ++) with no staining for Cam5.2, AE1/AE3, CK5/6, SOX-10, SMA, desmin, CD34, CD117, oestrogen or progesterone receptor. KI-67 shows a proliferative index of 70%.
+
+DIAGNOSIS:
+UTERUS, CERVIX AND BILATERAL OVARIES AND TUBES :
+-HIGH GRADE ENDOMETRIAL STROMAL SARCOMA OF UTERUS.
+
+RIGHT PELVIC LYMPH NODE  :
+-NO TUMOUR SEEN IN 1 LYMPH NODE.
+
+OMENTAL BIOPSY :
+-NO TUMOUR SEEN.
+
+23/11/2070 ank
+
+ADDENDUM:
+Immunoperoxidase staining of the tumour cells with BCoR is negative.
+
+ADDENDUM:
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (CPC Pathology; block: A31)
+
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+
+25.7.72
+
+
+
+
+
+
+SpecimenReceivedDate
+2516-01-04 00:00:00
+
+
+LastName
+Arrowood

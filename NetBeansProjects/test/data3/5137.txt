@@ -1,0 +1,70 @@
+Episode No:  56D494711Z
+561494.UEF
+
+HUMPREY, Neil 
+Lab No:  56D49471,56D49471
+Gagnon
+EMERALD    3558
+Specimen: Washings,Tissue
+D.O.B:  23/9/1976
+Sex:  F
+Collected: 19/08/2065 at 16:46
+Location:  MOUNT DRUITT HOSPITAL
+DR Smokey BAXTER
+Distribution:  DR Charles, DR HK,    FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT27/8/65
+
+HISTORY:  
+GI endometrial ca.  Uterus, tubes and ovaries.  Omental biopsy.
+MACROSCOPIC:  
+A.  "UTERUS WITH CERVIX.  BOTH OVARIES AND TUBES".  A uterus with attached bilateral tubes, ovaries and cervix weighing 80g total. The uterus has been previously opened laterally.  It measures 50mm from medial to lateral, 70mm from fundus to cervix and 40mm from anterior to posterior.  The cervix measures 30mm in diameter and appears unremarkable .  The anterior cervical margin is inked blue andthe posterior cervical margin is inked black.  The right fallopian tube measures up to 50mm in length and 6mm in external diameter. The right ovary measures 25x12x10mm.  The left fallopian tube measures up to 60mm in length and 6mm in external diameter.  The left ovary measures 20x14x9mm.  The serosal surface of the uterus has an unremarkable appearance with a small ? cystic nodule 10mm at the fundus.  The endometrium measures up to 1mm and myometrium up to 15mm in areas uninvolved by tumour.  There is a tumour predominantly centred on the posterior wall measuring up to 40x35mm.  It does not appear to involve the lower uterine segment macroscopically.  The tumour occupies more than two thirds the thickness of the myometrium and approaches the serosal surface but does not appear to involve it macroscopically.  The tumour has a maximal thickness of 30mm.  
+(1 right fallopian tube LS and TS representative; 2 representative LS right ovary; 3 representative left fallopian tube LS and TS with fimbrial end; 4 representative LS left ovary; 5-7 anterior cervix to fundus [notches inferior]; 8-10 posterior cervix to fundus [notches inferior, 10 subserosal nodules atfundus]; 11 right parametrial tissue; 12 left parametrial tissue; 13 further tumour TS; 14 tumour reserve block).  RS (M-14)
+B.  "OMENTAL BIOPSY".  A piece of fatty tissue measuring up to 30x30x7mm.  There are no suspicious areas noted on inspection or sectioning.  AE (M-2/MK/ank)
+MICROSCOPIC:  (Dr. O. Magelssen)
+A.  Sections show endometrioid endometrial adenocarcinoma.  Thesurface component is characterised by gland formation.  However, the vast majority of the deeper tumour is solid, and overall, the FIGO architectural grade is 3.  Tumour involves the outer half of the myometrium.  There is extensive lymphovascular space invasion involving the myometrium, the cervix, the left and right parametrial sections and the left ovary.  There is no uterine serosal surface involvement.  Sections of the right ovary and fallopian tube are unremarkable.Sections of the glandular and squamous cervix are unremarkable.  See synoptic report.
+ENDOMETRIAL CARCINOMA, SYNOPTIC REPORT
+
+Histological tumour type				Endometrioid endometrial 								adenocarcinoma
+Histological grade					
+FIGO						3
+Max. microscopic depth of myometrial invasion 	25mm tumour thickness
+Normal myometrial wall thickness			Up to 30mm 
+Lymphovascular invasion				Present and prominent
+Involvement of cervical mucosa 			Absentstromal involvement				Absent
+Cervical vascular involvement			Present
+Lymph node status					Not applicable.  No lymphnodes 							identified.
+Omental involvement				Not involved
+Uterine serosal  involvement			Not involved
+Ovarian involvement				Lymphovascularspace 								involvement
+Fallopian tubal involvement			Not involved
+Parametrial involvement				Lymphovascular space 								involvement
+Residual non-tumourous endometrium		Atrophic
+Ancillary Findings
+Immunohistochemistry
+Positive Antibodies		p53 weak focal		
+Interpretation					No high grade serous component
+Ki 67		40 to 50%
+Synthesis and Overview
+Tumour stage (FIGO)				(Year 2059) 1B
+Pathological tumour stage (TNM)			 (AJCC 2010, 7thedition) pT1B, pNX
+B.  Sections show unremarkable omental fatty tissue.  There is no evidence of malignancy.
+DIAGNOSIS:  
+A.  UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES -
+-FIGO GRADE 3 ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA.
+-INVOLVEMENT OF OUTER HALF OF THE MYOMETRIUM.
+-LYMPHOVASCULAR SPACE I INVOLVEMENT OF THE MYOMETRIUM, CERVIX, LEFT AND RIGHT PARAMETRIA AND LEFT OVARY.
+B.  OMENTUM, BIOPSY -
+-NO EVIDENCE OF MALIGNANCY.
+24/06/15 ank
+SUPPLEMENTARY REPORT: 
+Immunostains for MSI proteins (TRW Automotive BALRANALD MULTI PURPOSE SERVICE Lab; block: A13 )
+MLH1:  	POSITIVE (normal)
+PMS2: 	POSITIVE (normal)
+MSH2: 	NEGATIVE (abnormal)
+MSH6: 	NEGATIVE (abnormal)
+Comment:
+Mismatch repair gene deficiency DETECTED
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+25/6/15
+

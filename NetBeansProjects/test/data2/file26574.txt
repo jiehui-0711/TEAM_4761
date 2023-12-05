@@ -1,0 +1,25 @@
+SPR no: 51R234216C
+MRN no: 5162342
+Site_name: ROBINVALE DISTRICT HEALTH SERVICES - MANANGATANG CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Complex atypical hyperplasia of the endometrium.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, tubes, ovaries&amp;quot;, consists of uterus with attached cervix, bilateral tubes and ovaries weighing 188g in total.  The uterus measures 100 x 90 x 30mm and has a smooth nodular serosal surface.  The ectocervix measures 25 x 20mm and has an unremarkable surface. On sectioning the endometrium is 1mm in thickness and the myometrium is 25mm in maximum thickness.  There is an endometrial polyp at the fundus measuring 25 x 17 x 2mm.  The endometrium is otherwise unremarkable.  The myometrium has multiple fibroids measuring from 5 to 25mm.  The right fallopian tube measures 30mm in length with an outer diameter of 6mm.  The right ovary measures 15 x 10 x 5mm.  The cut surface of the ovary is unremarkable.  The left fallopian tube measures 45mm in length with an outer diameter of 5mm.  The left ovary measures 20 x 12 x 6mm.  The cut surface of the ovary is unremarkable.
+Blocks: 1 to 6 - LS anterior body and cervix; 7 to 15 - all of the anterior endometrium; 16 &amp;amp; 17 - RS fibroid; 18 to 23 - full LS posterior body and cervix; 24 to 27 - polyp (24 - the polyp; 25 to 27 - base of polyp); 28 to 33 - all of the posterior endometrium; 34 - RS fibroid; 35 &amp;amp; 36 - RS right adnexa (35 - right fallopian tube; 36 - right ovary); 37 &amp;amp; 38 - left adnexa (37 - fallopian tube; 38 - ovary).  (TO: LM; LM/ta 29/7/68)
+
+
+MICROSCOPIC (Reported by Dr N Cabreros):
+Sections of the cervix are unremarkable.
+The whole endometrium has been blocked.  Sections of the endometrium show that this is proliferative, with extensive complex hyperplasia and foci of atypia.  No endometrioid adenocarcinoma is seen.
+Sections of the endometrial polyp show that this is benign but has areas of crowded glands consistent with complex hyperplasia.
+There are leiomyomas and there is adenomyosis in the myometrium.
+Sections of the ovaries and fallopian tubes are unremarkable.
+
+
+DIAGNOSIS:
+Uterus, ovaries and fallopian tubes:
+1.  Complex atypical hyperplasia of endometrium
+2.  Endometrial polyp showing complex hyperplasia.
+3.  Leiomyomas and adenomyosis.

@@ -1,0 +1,86 @@
+
+Episode No:  90Q835408P
+9068354.AVP
+
+Enamorado, WENDY-ANNE 
+Lab No:  90Q83540
+Stirrup Cup
+LEETON  WA  6426
+Specimen: Tissue
+D.O.B:  11/9/1996
+Sex:  F
+Collected: 08/04/2065 at 16:16
+Location:  Molecular Oncology Unit-SWAN DISTRICTS HOSPITAL
+DR MODESTO Dorthy Federgreen
+Distribution:  DR ABRAM,   NSW-CANCER-REGISTRY
+CLINICAL:
+Obstructing right colonic tumour.  Hypothyroidism.  
+Additional information supplied:  Patient has liver metastases.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy", consists of a right hemicolectomy and adherent omentum.  The terminal ileum measures 50mm in length x 55mm in open diameter. The caecum to ascending colon measures 205mm in length.  The caecum and ascending colon is dilated up to 150mm in open diameter with an attenuated wall and loss of mucosal folds. There is a circumferential tumour measuring approximately 30 x 30 x 15mm with adherent mesocolon along the serosal surface. Tumour is seen on the serosal surface of the bowel, but there is no perforation present.  Distal to the tumour the bowel appears unremarkable.  The tumour is 60mm from the distal surgical margin and approximately 130mm from the proximal surgical margin inked blue.  The bowel mucosa is otherwise unremarkable.  Nopolyps or other lesions are found.  There is a segment of attached adherent omentum measuring 170 x 50 x 30mm.  Firm deposits of tumour are found within the omentum ranging from 5-12mm in maximum dimension.  Lymph nodes are found within the mesocolon.
+Block 1 - distal surgical margin; 2- proximal surgical margin; 3 & 4, 5, 6, 7 - tumour with area of deepest invasion; 8 - representative normal bowel; 9 & 10 - apical lymph node with adjacent deposit of tumour next to lymph node; 11-16 - lymph nodes (11 - one lymph node bisected; 12 - one lymph node bisected; 13 - one lymph node bisected; 14 - one lymph node bisected; 15 & 16 - lymph nodes as seen); 17-19 - representative nodules of tumour within omentum; 20 - tumourfor biobank.  (UD/ec  8.5.65) 
+MICROSCOPIC (reported by Dr Z Krason): 
+Sections show adenocarcinoma of the ascending colon, which breeches the serosal surface.  Separate deposits of tumour are seen within the omentum.  The features are as follows: 
+Macroscopic Description
+
+Site of tumour:  Ascending colon.
+Maximum tumour diameter:   30mm
+Distance of tumour to nearer cut end:  60mm (distal)
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate to poor.
+Local invasion
+pT4a  	Tumour penetrates the surface of the visceral peritoneum.
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymph nodes
+Number of lymph nodes present:  14
+Number of lymph nodes involved:  1
+pN1a  	Metastases in 1 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pM1  	Distant metastasis confirmed	Site: Omentum
+Background abnormalities/other comments:  Nil.
+Residual tumour status
+R0  	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status
+MLH1  		Preserved nuclear staining
+PMS2 		Preserved nuclear staining
+MSH2  	Preserved nuclear staining
+MSH6  	Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinomafor MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a   pN1a    pM1     R0
+ADDENDUM (1/5/66):
+Report from THE CANBERRA HOSPITAL Hospital:
+Reported by:  Prof. Tyson Z'Notter:
+MUTATION ANALYSIS IN DNA EXTRACTED FROM TUMOUR
+
+RESULTS:  NO TARGECTED EGFR, KRAS, OR NRAS MUTATIONDETECTED, BRAF V600E MUTATION DETECTED
+Gene                                                           BRAF
+Location in gene                                         exon 15
+Nucleotide change in coding DNA              c.1799T>A
+Predicted amino acid change in proteinp.VAal600Glu
+COSMIC Database ID                                 476
+Alternative nomenclature                             V600E
+
+THERAPEUTIC IMPLICATION:  Tumours lacking mutations in KRAS or NRAS exons 2, 3 or 4 are more likely to respond to anti-EGFR antibody therapy (Douillard et al NEJM 2013; 369:1023-34).  The significance of BRAF V600E mutation as a predictive marker for antiEFGR therapy in colorectal carcinoma is controversial.  
+SUMMARY:
+NO TARGETED EGFR,KRAS, OR NRAS MUTATION DETECTED
+BRAFV600E MUTATION DETECTED.  
+
+
+For full report see WESTERN HEALTH - BACCHUS MARSH Hospital accession number Z0-68-354086.
+
+
+
+

@@ -1,0 +1,99 @@
+
+Episode No:  60X073599R
+6090735.XYR
+
+SHUTTER, FIDEL 
+Lab No:  60X07359
+Swalecliff
+COOKTOWN  Australian Capital Territory  2706
+Specimen: Tissue
+D.O.B:  7/3/2021
+Sex:  F
+Collected: 07/02/2013 at 19:03
+Location:  UROLOGY DAY ONLY-PEAK HILL HEALTH SERVICE
+DR ARCHER ARRON DOMINIQUE-OCKEN
+Distribution:  DR Hinegardner,  FILE-COPY
+
+ADDITIONAL REPORT:  (22.4.63)
+
+
+CLINICAL:
+Left breast cancer 12 o'clock.  WLE (sutures: short superior, long lateral, medium medial).  Sentinel node biopsy (mass of nodules - suspicious).  Wide excision of left breast cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axilla sentinel lymph node" consistsof a fibrofatty piece of tissue encasing three lymph nodes measuring in total 45 x 24 x 13mm.  The lymph nodes measure from 5 to 20mm in maximum diameter.  AE 5 blocks. 
+Blocks: 1 - one lymph node; 2 & 3 - one lymph node; 4 & 5 - one lymph node.  
+B.  Specimen labelled "Left breast lesion long lateral, medium medial, short superior" consists of a piece of fibrofatty tissue measuring 55mm (medial to lateral) x 35mm (superior to inferior) x 47mm (superficial to deep).  There are three marking sutures as specified.  The breast weighs 35.6g.  The margin is inked as follows: superior - blue, inferior - black, superficial - red and deep - green.  The specimen is serially sectioned from medial to lateral in nine slices.  The cut surface reveals a diffuse pale tan lesion measuring 10mm in maximum dimension with a haemorrhagic focus (slices three to seven).  AE 30 blocks.
+Blocks: 1 to 3 - medial margin; 4 & 5 -slice two; 6 & 7 - slice three; 8 to 11 - slice four; 12 to 15 - slice five; 16 to 19 - slice six; 20 to 23 - slice seven; 24 to 27 - slice eight; 28 to 30 - slice nine lateral margin.   (TO:FX/QN/Ta 4/8/63) 
+  
+MICROSCOPIC (reported by Dr Q Toothman):
+A.  Two (2) of the three (3) lymph nodes identified contain metastatic ductal carcinoma.  These deposits measure 1.5mm and 7mm in maximum dimension and the larger shows peri-nodal spread for a distance of 1.5mm.  The CAM 5.2 is positive.  
+B.  Sections show high grade DCIS which is present in all nine slices and therefore measures 55mm in maximum dimension.  The DCIS is predominately comedo with calcification.  The DCIS is present at the medial, lateral , deep and inferior margins. 
+There is a grade 3 infiltrating ductal carcinoma (IDC) within this area of DCIS.  The IDC measures 45mm (medial to lateral) x 15mm (superficial to deep) x 17mm (superior to inferior).  The IDC is present at the inferior margin (positive margin) and is 1mm from the lateral margin.  The medial and deep margins are both 8mm clear and the superficial and superior margins are both 10mm clear.  An occasional focus of lymphovascular invasion is seen at the periphery of the tumour.  
+DIAGNOSIS:  
+A & B.  Left breast  WLE and left sentinal nodes:   
+Invasive carcinoma:
+Site: Left breast [WLE].  
+Type: Infiltrating ductal carcinoma, NOS 
+Invasive tumour size: 45mm (medial to lateral) x 15mm (superficial to deep) x 17mm (superior to inferior).  
+Grade 3 (Modified Bloom & Richardson):
+Tubules: 3     Nuclei: 3     Mitoses: 2     Mitotic rate: 12/10hpf.
+Lymphovascular invasion:  present/focal.
+	    
+DCIS component:  
+DCIS: present 
+Maximum extent of DCIS: 55mm
+Nuclear grade:  high
+Architecture: comedo
+Necrosis:  present 
+Calcification: present
+Degree of DCIS in tumour:  <25%
+DCIS in adjacent tissue: widespread 
+Excision Margins:  
+Invasive component:
+Inferior - positive
+Lateral - 1mm
+Medial - 8mm
+Deep - 8mm
+Superior - 10mm
+Superficial - 10mm
+In-situ component:
+Positive medial, deep, inferior and lateral margins. 
+ 
+Receptors (Block B12): 
+ER:  negative
+	0% of nuclei stained
+	 
+PR:  negative
+	0% of nuclei stained
+HER2 (Novocastra 10A7): positive (3+)                                                                        Slides sent toPORT KEMBLA HOSPITAL for CISH.  
+Ki-67 index: 50%
+Nipple:  N/A
+
+LCIS / ALH:    Absent
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 3
+Number of sentinel lymph nodes involved by tumour: 2         
+Number of sentinel nodes with metastases >2.0mm:  1  
+Number of sentinel nodes with metastases <2.0mm:  1    
+	
+Extranodal spread: 1.5mm in extent
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 3
+Total number of involved lymph nodes (including sentinel node(s)): 2  
+ADDITIONAL REPORT:  (22.4.63)
+Report from PENOLA WAR MEMORIAL HOSPITAL Hospital, reported by Dr M Otsman
+HER-2-IN-SITU HYBRIDISATION
+
+HER2 IHC Result:  3+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 DL ISH DNA Probe Cocktail Assay (Roche).
+Dual ISH result:	POSITIVE (amplified)
+Mean HER2 copy number per cell:  14.4
+Mean CEP 17 copy number per cell:  1.7
+HER2/CEP17 Ratio:  8.47
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

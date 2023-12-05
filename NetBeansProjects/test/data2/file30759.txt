@@ -1,0 +1,28 @@
+SPR no: 01Y038531N
+MRN no: 01903853
+Site_name: BOURKE MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Aggressive SCC left lower leg.  Recurrence of disease from previous excision and graft.  Multiple nodules, ? satellite lesions on skin.  Two large fungating lesions.  Short superior, long lateral, medium medial.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left lower leg recurrent SCC&amp;quot;, consists of an ovoid excision of skin, 208 x 140 x 30mm, with orienting sutures.  There are two exophytic tumour nodules, 78 x 66 x 26mm and 48 x 47 x 18mm, located immediately adjacent to each other in the inferior half of the specimen.  On sectioning, the larger tumour appears to extend to the deep margin.  The second nodule appears well clear of the deep margin.  There is a third tumour located within the subcutaneous fat near the superior end of the specimen.  This tumour measures 25mm diameter and is located 65mm superior to the main tumour nodules.  A fourth tumour nodule measuring 18 x 14 x 5mm is identified along the mid-lateral part of the specimen, and is located 25mm superior to the main tumour nodules.  The remaining skin appears mottled with scattered areas of crusting.  At the superior-medial aspect there is a superficial ulcer 12 x 7mm. The lateral margin is inked blue and medial margin inked black.  A full thickness defect (likely artefact and not true margin) measuring 25mm long is identified within the centre of the specimen.
+Block 1 &amp;amp; 2 - LS superior margin; 3-6 - TS near superior margin; 7 &amp;amp; 8 - subcutaneous nodule with deep margin; 9-13 - TS near at superior end of fourth nodule and including supero-medial ulcer; 14 - crusted nodule (lesion four) with lateral margin; 15-19 - TS at superior end of main tumour nodule; 20-25 - TS through largest tumour nodule (block 22 includes tumour and deep margin); 26-31 - full TS including junction of both main tumour nodules; 32-34 - LS inferior margin with second largest tumour nodule.  Please see photograph for blocking description.  Tumour sampled for BioBank.   (TO:AP/ec 28/10/66)
+
+
+MICROSCOPIC (Reported by Dr B Mirabelli):
+The sections show skin to subcutis, deep fascia and skeletal muscle.  Both the 78mm and 48mm tumours in the inferior half of the specimen correspond to ulcerated moderately differentiated squamous cell carcinoma.  The largest tumour is seen arising from the epidermis, and invade through the subcutis into the fascia and abuts the skeletal muscle.  This tumour extends broadly to the inked and diathermied deep margin (blocks 21 &amp;amp; 22), and is at least 10mm clear of all peripheral margins.  The 48mm tumour invades into deep subcutis, and is at least 10mm clear of all margins.
+
+The 25mm subcutaneous nodule in the superior half of the specimen is a deposit of moderately differentiated squamous cell carcinoma.  The overlying dermis is uninvolved.  These features are consistent with the clinical impression of a satellite lesion.  This subcutaneous nodule is 0.4mm clear of the deep margin (block 8), and at least 10mm clear of all peripheral margins.
+
+The fourth nodule along the mid-lateral border is a separate well differentiated squamous cell carcinoma, which is seen arising from epidermis.  This tumour invades into the mid-dermis, and is 6mm clear of the deep margin and at least 10mm from all peripheral margins.
+
+No lymphovascular invasion or perineural invasion is identified.  The epidermis shows patchy changes of actinic keratosis.  A non-specific area of ulceration is seen in the superior/medial part of the specimen.  There are prominent areas of dermal scarring, presumably related to previous surgery.
+
+
+DIAGNOSIS:
+Left lower leg excision:
+-  78mm moderately differentiated squamous cell carcinoma.  Deep margin involved.
+-  48mm moderately differentiated squamous cell carcinoma.
+-  25mm subcutaneous moderately differentiated squamous cell carcinoma.  Close deep margin.
+-  18mm well differentiated squamous cell carcinoma.

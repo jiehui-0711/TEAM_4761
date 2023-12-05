@@ -1,0 +1,46 @@
+
+Episode No:  10D261883D
+101261.VXI
+
+ENGDAHL, FRANKLIN 
+Lab No:  10D26188
+Sheridan Spur,
+WOORI YALLOCK  Queensland  2760
+Specimen: Tissue
+D.O.B:  22/2/2000
+Sex:  M
+Collected: 18/11/2013 at 13:36
+Location:  Med Onc-BARWON HEALTH - NEWCOMB RENAL UNIT CAMPUS
+DR CHAS ELDON MORDECI
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Prostate - radical prostatectomy 20 January 2063 for PSA 98 and TRUS bx showing G4+3 in all regions.  ETOH cardiomyopathy.  
+MACROSCOPIC:
+Specimen labelled "Prostate" consists of a prostate with right and left vas deferens and seminal vesicles.  The entire specimen weighs 66g.  The prostate measures 35mm (apex to base) 50mm (medial to lateral) x 40mm (superficial to deep).  The right vas deferens measures 25mm in length with a diameter of5mm, left vas deferens measures 15mm in length with a diameter of 5mm.  The right seminal vesicle measures 25 x 20 x 6mm and the left seminal vesicle measures 30 x 20 x 10mm.  The right side of the superficial surface is inked red and the left is inked blue, deep margin is inked black.  Specimen is sectioned from apex to base into six slices.  The cut surface of the prostate is pale and creamy in colour.
+Blocks: 1 to 8 - parasagittal section of the apex from the right to the left; 9 to 30 - thirteen parasagittal sections of the base arrangedfrom the right to the left (mid - nine slices each bisected arranged from superficial to deep); 31 - TS of right and left vas deferens margin; 32 - LS right vas deferens; 33 - LS left vas deferens; 34 - RS LS right seminal vesicles; 35 - RS LS left seminal vesicles; 36to 39 - TS through mid portion of prostate from apex to base.  AE.  
+(MG/ta 21/1/63) 
+MICROSCOPIC (reported by Dr D Winckler):
+Sections show acinar adenocarcinoma with multiple foci of extraprostatic extension.  The features are as follows:
+Histological type:  Acinar adenocarcinoma.
+Tumour location:
+Dominant nodule:  All four quadrants within apex, mid and base
+	Non-dominant (>10mm):  Absent
+	Smaller nodules:  Absent
+Volume/Size:  11.3 ml (42mm x 28mm x 4mm x 6 slices x 0.0004)
+Gleason score: 4 + 3 = 7 (with small amount of tertiary grade 5)
+Extraprostatic extension:  Left anterior and posterior mid prostate, right and left base (largest deposit left anterior mid prostate, 8mm across, Gleason grade 4)
+Surgical margins:  Positive
+		- Left posterior mid prostate, Gleason grades 4 & 3, over 10mm)
+		- Right apex, Gleason grades 4 & 3, over 1.5mm
+Perineural invasion:  Present
+Seminal vesicles:  Extensive involvement of both seminal vesicles and vasa deferentia which extends to the vas deferens margin.
+Lymph nodes:  Not applicable.
+Lymphovascular invasion:  Not seen.
+DIAGNOSIS:
+Prostate:
+- Acinar adenocarcinoma, Gleason score 4 + 3 = 7, margins involved.
+- Stage (AJCC/UICC TNM system, 7th edition):
+	pT3b 	Seminal vesicle invasion
+	pNX 	Regional lymph nodes not sampled.
+	MX 	Cannot be assessed histologically
+

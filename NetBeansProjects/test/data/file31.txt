@@ -1,0 +1,85 @@
+SPR no: 48I336392R
+MRN no: 4833363
+Site_name: ROYAL HOBART HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  48I336392R
+4833363.XHR
+
+HERBER, VERNON 
+Lab No:  48I33639,48I33639
+Rippling
+YOUNG  NT  2008
+Specimen: Marrow,Tissue
+D.O.B:  1/10/1996
+Sex:  M
+Collected: 17/10/2012 at 13:27
+Location:  7.ACUTE CARE WARD-INJUNE HOSPITAL
+DR ZAYA KINA REINHOLDT
+Distribution:   FILE-COPY
+
+CLINICAL HISTORY / INDICATION:.Review diagnosis of multiple myeloma.
+Name: MARVIN DERENZI.
+MRN: 1109704.
+Date performed: 19/12/2062.
+Episode number: 48I336392R.
+Procedure: BMAT.
+Site: R PSIC.
+Peripheral Blood:
+Hb: 123g/L		              	Blasts: 0.0x10e9/L		
+WBC:  3.47x10e9/L			Monocytes: 0.3x10e9/L 
+Platelets: 159x10e9/L			Eosinophils: 0.08x10e9/L		
+Neutrophils: 1.7x10e9/L			Basophils: 0.01x10e9/L
+Lymphocytes: 1.4x10e9/L		
+			
+Film report:
+Red cells; normochromic normocytic with rouleaux.
+White cells: normal.
+Platelets: normal.
+ASPIRATE
+Ease/difficulty of aspiration: easy.
+Cellularity of particles and trails: normal to moderately increased.
+Differential:
+No of Cells Counted:  500.                 	 
+Blasts:	&amp;lt;1%				Lymphocytes: 5%
+Promyelocytes :1%			Monocytes: 1%
+Myelocyte: 7%				Plasma cells:26%
+Metamyelocytes: %			Eosinophils:&amp;lt;1%
+Neutrophils/Bands: 26%			Basophils: &amp;lt;1%
+Erythroblasts: 28%		
+											
+Erythropoiesis: normoblastic mmaturation and activity.
+
+Granulopoiesis: normal maturation and activity.
+
+Megakaryopoiesis: mildly reduced with normal morphology.
+Other cells: plasma cells are increased are seen forming small to medium sized clusters on the squash specimens.  The plasma cells count includes occasional plasmablasts and binucleate forms.
+
+Iron stain: Grade 2+, no ringed sideroblasts.
+
+Aspirate Report: Overall hypercellular bone marrow with increased plasma cells and relatively preserved normal trilinage haematopoieisis.  These findings are consistent with plasma cell myeloma.  Please correlate with trephine biopsy.
+Date of report: 28/12/2062.
+
+Haematology registrar: ROSCOE GEMMEN.
+	
+Haematology consultant: Susan MacCallum.
+
+Cancer Council Registry: Yes.
+
+
+Bone Marrow Trephine Biopsy
+
+Indication: Review diagnosis multiple myeloma
+Episode number: 48I336392R
+Length and condition of core: A set of 4 specimens ranging from 2-6mmwere collected and 4 sections examined. The specimen consists of haematopoietic tissue, bone, muscle, cartilage and clot. 
+
+Cellularity: Variable from normal to moderately increased
+
+Bone Architecture: Normal
+Reticulin stain: Normal
+Trephine report: The bone marrow cellularity is variable from normal to moderately increased in some areas. There is an infiltrate of abnormal plasma cells which are seen scattered within the interstitium and also forming groups and sheets in some areas. Occasional binucelate forms are seen. Megakaryocytes arepresent in normal to mildly decreased numbers and have a normal distribution. Erythropoiesis is present in normal to mildly decreased numbers with normoblastic maturation. Granulopoiesis is present in normal numbers with all maturation stages seen in a normal ratio. 
+Immunohistochemistry/Other tests: N/A
+Conclusion: Normocellular to hypercellular bone marrow with an abnormal plasma cell infiltrate and relatively preserved normal haematopoiesis. Consistent with plasma cell myeloma. Please correlate with ancillary tests.
+Date of report: 25/12/62
+Haematology registrar: CORTEZ SCULLIN
+Haematology consultant: QUINN MEILER.

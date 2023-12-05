@@ -1,0 +1,75 @@
+SPR no: 48X037458T
+MRN no: 362236
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report48X03745 (48X037458T) Nocella, ARLEN
+HISTOPATHOLOGY REPORT
+THE TWEED HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Ovarian ca treated with chemotherapy.
+
+1.  Omentum.
+2.  Uterus, cervix, ovaries, bilateral tubes, POD and peritoneum.
+
+MACROSCOPIC:
+A.  &amp;quot;OVARIES, CERVIX, OVARIES BILATERAL TUBES, POD, PERITONEUM&amp;quot;.  A total hysterectomy specimen, 80g, consists of a uterus 75x45x30mm with attached cervix 25x25x20mm.  Attached is right fallopian tube 45x5mm.  Right ovary 26x10x7mm.  Left fallopian tube 55x10mm and left ovary 20x13x10mm.  Peritoneal strips are identified at the posterior edge (pouch of Douglas) measuring 75x35mm.  A separate piece of peritoneum with attached nodule 15x10x5mm.  The serosa of the pouch of Douglas peritoneum has multiple ragged and polypoid lesional deposit 30x15mm.  The anterior cervical margin is inked blue, posterior is inked black.  The endometrium is up to 3mm thick.  There is a polyp in the posterior body measuring 12x9x6mm, appears to confine to the endometrium.  The myometrium is trabeculated with one intramural fibroid 8mm.  The outer and cut surface of both fallopian tubes and ovary are unremarkable.  Ovaries and tubes are embedded to their entirety.
+
+(1-7  right adnexal structures [1  two TS fimbrial end, 2-7  each one TS tube with adjacent ovary]; 8-12  left adnexal structures [8  fimbrial end three TS, 9-12  tube with adjacent ovary]; 13&amp;amp;14  pouch of Douglas peritoneum involvement; 15  separate fatty tissue with nodule bisected; 16  right parametrium; 17  left parametrium; 18&amp;amp;19  LS of anterior uterus from cervix to body; 20&amp;amp;21  LS of posterior uterus cervix to body with 21 including the polyp; 22 fundus; 23&amp;amp;24  remainder polyp posterior body; 25  fibroids).  RS (M-25).
+
+B.  &amp;quot;OMENTUM&amp;quot;.  A fibrofatty piece of tissue consistent with omentum 330x190x40mm.  There is a disseminated involvement by multiple white tumour deposits, variable sizes 5mm to 40mm involving about 30% of the submitted omentum.
+
+(1-4  representative peritoneal involvement with block 4 tumour block for tissue banking).  RS (M-4/ZH 20/5/2070 km).
+
+MICROSCOPIC:  (Dr L Federle)
+A and B.
+
+SYNOPTIC REPORT FOR PRIMARY TUMOURS OF OVARY, FALLOPIAN TUBE OR PERITONEUM
+(Based on CAP 2017)
+
+Tumour Site: In keeping with primary peritoneal, see below.
+
+Ovarian Surface Involvement: Present - right and left sides.
+
+Fallopian Tube Surface Involvement: Absent
+(Tumour cells within fallopian tube lumen but separate to epithelium.)
+
+Tumour Size: Largest deposits within omentum (specimen B) measuring up to 4cm.
+
+Histologic Type: Serous carcinoma
+
+Histologic Grade:  High grade
+
+Other Tissue/ Organ Involvement
+- Right and left ovary
+- Uterine serosa (anterior and Pouch of Douglas)
+- Pelvic peritoneum
+- Omentum
+Peritoneal/Ascitic Fluid: Not submitted.
+
+Treatment Effect: 	No definite or minimal response identified
+(chemotherapy response score 1 [CRS 1])
+Note: Treatment effect is based on assessment of residual tumor in the omentum.
+
+Regional Lymph Nodes:  No lymph nodes submitted or found
+
+Pathologic Stage Classification (pTNM, AJCC 8th Edition) (Note K)
+ypT3c: 	Macroscopic peritoneal metastasis beyond pelvis more than 2&amp;#160;cm in greatest dimension with or without metastasis to the retroperitoneal lymph nodes (includes extension of tumor to capsule of liver and spleen without parenchymal involvement of either organ)
+
+FIGO Stage (2015 FIGO Cancer Report)
+IIIC: 	Macroscopic peritoneal metastases beyond the pelvic brim &amp;gt;2 cm in greatest dimension, with or without metastases to the retroperitoneal nodes
+
+Additional Pathologic Findings
+Uterus: benign endometrial polyp; leiomyomata.
+Immunostains confirm the tumour cells to be positive for AE1/AE3, WT1, CK7, PAX8 and p53(diffuse strong). They are negative for CK20.
+Comment:
+It is recommended that in postchemotherapy with residual disease, an adenocarcinoma is primary peritoneal when the ovaries and fallopian tubes are not involved or are involved with minimal surface/serosal implants.
+
+
+DIAGNOSIS:
+A. OVARIES, CERVIX, OVARIES BILATERAL TUBES, POD, PERITONEUM
+- HIGH-GRADE SEROUS CARCINOMA.
+B. OMENTUM
+- HIGH-GRADE SEROUS CARCINOMA.
+24/4/2069 cy

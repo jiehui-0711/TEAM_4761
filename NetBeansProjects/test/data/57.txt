@@ -1,0 +1,55 @@
+
+ 009423.CMG
+HANE, MOHAMED
+00Y42304
+
+Last edited : 22/2/2062		Page: 2
+CLINICAL:
+Sigmoid colon cancer.   High anterior resection. 
+MACROSCOPIC:
+Specimen labelled "Sigmoid colon", consists of a segment of unorientated colon measuring 120 x 20mm. The external surfaceshows an area of retraction located 25mm from one of the resection margins.  On opening and in the area of retraction there is an elevated ulcerated tumour measuring 20mm from proximal to distal and 15mm in maximum diameter. The main bulk of tumour is located in the antimesenteric margin. On sectioning the tumour infiltrates through the colonic wall into the mesenteric tissue and has a maximum thickness of 9mm.  Apart from the tumour there is one polyp 5mm in maximum diameter and several diverticula.  Block 1 - resection margin with tumour; 2 & 3- representative tumour;4 - representative tumour; 5 - representative tumour (reserved block); 6 - polyp; 7 - diverticulum; 8 - apical nodes  9 - three lymph nodes; 10 - four lymph nodes; 11-13 - mesentery with possible lymph nodes; 14 - separate nodule in mesentery; 15 - mucinous area in mesentery.  (TO: JX: ZF/ec 19.2.62); 16 to 36 -possible nodes.  (TO: EQ; IH/mm 20.2.62) 
+MICROSCOPIC: (Reported by Dr C Sandavol) 
+Sections of the primary lesion in the colon show a moderately differentiated adenocarcinoma, invading pericolicfat. The primary tumour does not involve the serosal surface. Also present is a separate deposit of tumour (Block 14) in the mesenteric fat with focal surface peritoneal involvement, characterised by tumour with a fibro-inflammatory response < 1mm from the serosal surface. Shown to Dr TERENCE FREUDENTHAL and Dr RUDOLF KATZENBACH.
+Site of tumour:	
+Maximum tumour diameter:     20mm
+Distance of tumour to nearer cut end:     15mm
+Tumour perforation:     No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4a	Separate tumour deposit in mesenteric fat with surface serosal 	involvement (see above)
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present:  12	
+Number of lymph nodes involved:  2	
+pN1b	Metastases in 2-3 regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Backgroundabnormalities/other comments
+Diverticular disease is present.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a     pN     pMX     R0
+DIAGNOSIS:
+High anterior resection:
+	Moderately differentiated adenocarcinoma in sigmoid colon, margins clear
+	Primary tumour invading pericolic fat
+	Separate tumour deposit in mesenteric fat with surface serosal involvement (pT4a)
+	Metastatic adenocarcinoma in 2 out of 12 lymph nodes (pN1b)
+
+

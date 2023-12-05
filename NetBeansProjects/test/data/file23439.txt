@@ -1,0 +1,57 @@
+SPR no: 22B031307C
+MRN no: 22003130
+Site_name: PLANTAGENET HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report22B03130 (22B031307C) SAVASTA, COLLIN HANK
+HISTOPATHOLOGY REPORT:
+HISTORY:
+Middle of appendix, base of the appendix, extended right hemicolectomy, appendix, omentum.  Discussed with Prof Antilla, mass in cardia or stomach - probable primary lesion.  Previous lap bx of peritoneum suggestive upper GIT primary.
+MACROSCOPIC:
+A.  &amp;quot;MIDDLE OF APPENDIX&amp;quot;.  Pale firm tissue 7x3 with serosal fat 8x5x3mm. (1  frozen section).  AE (1-1)
+Frozen section: &amp;apos;Poorly differentiated adenocarcinoma infiltrating appendix from the outside.  Normal mucosa&amp;quot;.  Results to Prof H Godzik, report by Dr H Dermott.
+B.  &amp;quot;BASE OF APPENDIX&amp;quot;.  Pale tissue 8x5x3mm with attached fat 8x6x5.  Pale tissue bisected. AE (2-1).
+Frozen section: &amp;apos;Poorly differentiated adenocarcinoma infiltrating appendix from the outside.  Normal mucosa&amp;apos;.  Results to Prof Graner, reported Dr  H Willet.
+C.  &amp;quot;APPENDIX&amp;quot;.  A previously partially opened appendix measuring up to 65mm in length up to 7mm in width with attached ragged mesoappendix up to 7mm.  There appears to be a haemorrhagic fibrinopurulent exudate involving the serosal surface.  Specimen all embedded blocks C1 to C5 tip to base.  AE (M-5).
+D.  &amp;quot;RIGHT COLON&amp;quot;.  An extended right hemicolectomy specimen.  Specimen consists of small bowel at least 315mm in length and open circumference of up to 40mm.  There is attached mesentery up to 25mm in thickness.  There is a pale exudate over the mesenteric surface of the small bowel and patchy haemorrhagic dusky areas of the small bowel serosa.  The mucosal surface of the small bowel is unremarkable.  There is large bowel up to 290mm in length with an open circumference ranging from 60 up to 120mm.  The caecum measures up to 40mm in length and up to 50mm in width.  The appendix stump is identified.  There is pericolic fat up to 30mm in thickness.  The serosal colon surface of which has multiple tumour deposits as well as patchy haemorrhagic areas.  There is a firm attached omental  cake involving the distal 180mm of the colon.  The caecal and ascending colon mucosa is slightly flattened where dilated but is otherwise unremarkable.  There is a separate piece of fatty tissue measuring 85x65x15mm.  One surface is smooth and fatty.  The other is smooth with patchy haemorrhagic areas. (1  proximal resection margin [small bowel]; 2  distal resection margin transverse colon; 3, 4, 5&amp;amp;6  are sampled sections of small bowel mesentery including small bowel mucosa and possible nodes; 7  caecum serosal nodule; 8-13  omental cake; 14  firm nodule Tx transverse colon; 15  peritoneal nodule).  RS (M-15/MY km).
+
+MICROSCOPIC:   H Osorio
+Previous results  (22B03130 RIF peritoneal disease biopsies, from 30/1/2067 are noted)
+Current specimens:
+
+A.  MIDDLE OF APPENDIX
+Sections show bowel wall with mucosa ?appendix and full thickness muscularis propria with adjacent mesenteric fat.  The mesenteric fat and muscularis propria and very focally submucosa is involved by metastatic carcinoma.  The mucosa is unremarkable.
+
+B.  BASE OF APPENDIX
+The sections show part of bowel wall ?appendix with external involvement by metastatic carcinoma.
+
+C.  APPENDIX
+Sections of the previously opened appendix show involvement by metastatic carcinoma involving mesoappendix fat and muscularis propria and extending very focally into submucosa.  The remaining unopened ?proximal appendix is normal.
+There is no evidence of an appendix primary.
+
+D.  RIGHT COLON
+The peritoneal surface of the small bowel mesentery and the peritoneal surface of the colon, and the omental cake show extensive involvement by metastatic carcinoma.
+
+The tumour is of variable appearance with single cells, small clusters, some areas with limited extracellular mucin and some cells with intracytoplasmic mucin vacuoles. In some areas of non-mucinous growth (B13) the tumour cells have high grade nuclear atypia and there are numerous mitoses present in these areas (&amp;gt; 10 mitoses/single high power field). In many areas the tumour cells are dyscohesive. There is no evidence of a neuroendocrine component or goblet cell carcinoid component.
+
+Sampled lymph node (mesenteric) are negative for tumour (0/5).
+Lymphovascular invasion is not seen.
+
+Immunostains:
+Block D14, mesocolic peritoneal tumour:
+ecadherin negative
+ER negative
+CEA, keratin CK7: positive
+See also Immunostains on previous biopsy, most not repeated
+
+Intracytoplasmic mucin vacuoles are present in some cells.
+
+COMMENT
+The carcinoma in each of the above specimens is metastatic poorly differentiated adenocarcinoma (G3) discohesive cell type with occasional intracytoplasmic mucin vacuoles. The appearances favour origin from stomach in the proper clinical setting, but clinical correlation is required to assess organ of origin.
+
+DIAGNOSIS:
+A-D.  APPENDIX BIOPSIES, APPENDIX, RIGHT COLON AND OTHER ORGANS -
+- extensive peritoneal deposits of metastatic poorly differentiated adenocarcinoma (G3), dyscohesive type, favour stomach origin in proper clinical setting, see COMMENT.
+- invasion into muscular wall of submitted organs but appearances favour invasion from peritoneal surface rather than origin from appendix, colon or small bowel.
+
+km

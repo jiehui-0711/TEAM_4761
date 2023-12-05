@@ -1,0 +1,67 @@
+SPR no: 33J275574Z
+MRN no: 9844152
+Site_name: BALRANALD MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right breast lesion + sentinel lymph node.  Biopsy showed IDC.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Sentinel lymph node right axilla&amp;quot;, consists of fibroadipose tissue, 50 x 38 x 18mm, containing a single lymph node, measuring 30mm in maximum dimension.
+Block 1 to 4 - single lymph node, sectioned.
+
+B.  Specimen labelled &amp;quot;Wide local excision right breast lesion, stitch short superior, long lateral, double deep&amp;quot;, consists of fibroadipose breast tissue with orienting sutures and hookwire in situ, weighing 49g.  The specimen measures 59mm superior to inferior, 68mm medial to lateral, and 32mm superficial to deep. The hookwire inserts into the superficial aspect of the specimen. The specimen is sectioned from medial to lateral into fourteen approximately equal slices.  The tip of the hookwire is present in slice two.  There is a firm, pale grey tumour in slices three to six, 13 x 10mm.  The tumour appears to be 5mm from the superficial margin and at least 10mm from all other margins.
+Blocks:  1 - Slice one (medial); 2 and 3 - slice two; 4 and 5 - slice three; 6 to 8 - slice four; 9 to 11 - slice five; 12 to 14 - slice six; 15 to 17 - slice seven; 18 and 19 - slice ten; 20 and 21 - slice thirteen; 22 - slice fourteen.  See diagram.  (TO:TP/ec 25/2/67)
+
+
+MICROSCOPIC (Reported by Dr I Gruz &amp;amp; registrar Dr I Moglia):
+A &amp;amp; B.  Sections show invasive carcinoma of the breast, no specific type (NST).  The sentinel node is negative for tumour.  The features are as follows:
+
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive carcinoma, NST
+Invasive tumour size:  11mm
+Grade (Modified Bloom &amp;amp; Richardson):  1
+Tubules:  2      Nuclei:  2     Mitoses:  1     Mitotic rate: 1/10hpf.
+Lymphovascular invasion:  Not seen
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  14mm
+Nuclear grade:  Low to intermediate
+Architecture:  Cribriform and solid
+Necrosis:  Present
+Calcification:  Not present
+Degree of DCIS in tumour:  Approximately 95%
+DCIS in adjacent tissue:  Present
+
+Excision Margins:
+Invasive component:  4mm from superficial, 9mm from deep, and at least 10mm from all other margins.
+In-situ component: 3mm from superficial, 9mm from deep and superior, and at least 10mm from all other margins.
+
+Receptors (Block B4):
+ER: 	Positive
+80% of nuclei stained
+predominant intensity of staining:  Weak to moderate
+PR: 	Positive
+80% of nuclei stained
+predominant intensity of staining:  Weak to moderate
+HER2 (Novocastra 10A7):  Negative (score 0)
+HER2 SISH:  Performed at ACT, LEIGH CREEK HEALTH SERVICES Hospital, see separate report.
+Ki-67 index:  Approximately 1 to 2 %
+
+Nipple:  Not applicable
+
+LCIS/ALH:  Not present
+
+Miscellaneous:  Surrounding breast parenchyma show fibrocystic change, columnar cell change, apocrine metaplasia, and sclerosing adenosis.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node):  1
+Total number of involved lymph nodes (including sentinel node):  0

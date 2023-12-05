@@ -1,0 +1,27 @@
+SPR no: 36Z837465D
+MRN no: 36983746
+Site_name: MODBURY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 1 endometrial adenocarcinoma.  TLH + BSO + pelvic washings and omental biopsy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, both tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 70g in total.  The specimen is received opened in the sagittal plane from the posterior aspect.  The uterus measures 73 x 30 x 23mm and has a smooth shiny serosal surface.  The ectocervix measures 25 x 23mm and has an unremarkable surface.  The left fallopian tube measures 55mm in length with a maximum diameter of 5mm.  The left ovary measures 24 x 13 x 9mm and has an unremarkable cut surface. The right fallopian tube measures 39mm with a maximum diameter of 4mm.  The right ovary measures 23 x 12 x 9mm and has an unremarkable cut surface.  There is an intramural fibroid on the left side measuring up to 8mm.  There is an endometrial tumour which measures approximately 25 x 20mm in both the anterior and posterior body.  The tumour appears to invade into the myometrium at least 50%.
+Block 1-3 - full LS anterior body and cervix; 4-9 - RS left anterior endomyometrium and cervix (9 - with fibroid); 10 &amp;amp; 11 - RS anterior right endomyometrium and cervix; 12-14 - full LS of posterior body and cervix; 15 &amp;amp; 16 - RS right superior posterior endomyometrium; 17 - LS right fimbriae; 18 - 2TS right fallopian tube; 19- 2TS right ovary; 20 - LS left fimbriae; 21 - 2TS left fallopian tube; 22 - 2TS left ovary.  Please refer to blocking diagram.
+
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of fat 50 x 40 x 20mm.
+Blocks 1-3 - RS.  (TO:NM/ec 24/10/67)
+
+
+MICROSCOPIC (Reported by Dr K Leet):
+A.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  The tumour has a maximum depth of invasion of 12mm through a wall 14mm thick.  A moderate amount of lymphvascular invasion is present.  The ectocervix and endocervix are uninvolved and unremarkable.
+The remaining myometrium shows adenomyosis.  Both ovaries and tubes are unremarkable.
+Stains for MSI are pending.
+
+B.  The omentum is uninvolved and unremarkable.
+
+
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium, depth 12mm through a wall 14mm thick.  Lymphvascular invasion is present.  The cervix and the omentum are uninvolved.
+ADDITIONAL REPORT 1/10/66:
+Immunoperoxidase stains for MSI proteins were performed. MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.

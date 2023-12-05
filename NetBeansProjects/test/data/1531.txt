@@ -1,0 +1,19 @@
+
+ 795894.BQL
+Werst, Sylvester
+79P89406
+
+Last edited : 10/9/2063		Page: 2
+CLINICAL:
+? Caecal tumour.  Right hemicolectomy. 
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy", consists of a right hemicolectomy.  The caecum and ascending colon measures 170 in length x60 x 30mm in maximum diameter.  The ileum measures 28mm in length x 20 x 12mm in maximum diameter.  There is no appendix found with the specimen.  The mesocolon is up to 65mm in length.  On opening the mucosa appears unremarkable with nopolyps found.  There is a large tan exophytic tumour within the caecum measuring 35 x30mm, 18mm below the ileal-caecal valve, 65mm from the ileal surgical margin, and 150mm from the ascending colon resection margin.  The tumour appears to invade through to the serosal surface.  The serosa immediately below the tumour is firm and dull.  There are no perforations identified, or fat wrapping at the caecum.  
+Blocks: 1 - ascending colon surgical margin; 2 - ileal surgical margin; 3 to 8 - tumour (blocks 3 and 4 paired blocks full face including ileal caecal valve margin. 8 tumour bio banking block); 9 to 14 - lymph nodes (block 9 apical lymph node).  
+(TO: LM;HQ/vo 10.7.63)   
+MICROSCOPIC (Reported by Dr T Giuliano):
+Sections show a diffuse large B cell lymphoma in the caecum.  There is a diffuse, transmural infiltrate, composed of large lymphoid cells with pleomorphic, vesicular nuclei and prominent nucleoli.  Surface ulceration, numerous mitoses and apoptotic figures are seen. A background infiltrate of small T cells is focally present.
+The large atypical lymphoid cells are positive for CD20 and PAX5. Probable focal weak staining is seen for bcl-2. CD10, ALK1, CD3, CD5 and cyclin D1 are negative. Ki67 index is > 90%. 
+The lymph nodes show no evidence of lymphoma or malignancy.
+DIAGNOSIS
+Right hemicolectomy: Diffuse large B cell lymphoma
+

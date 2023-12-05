@@ -1,0 +1,103 @@
+SPR no: 88Q798026S
+MRN no: 0724809
+Site_name: KOOWEERUP REGIONAL HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+85M with gastric adenocarcinoma in antrum of stomach.
+
+Additional history from EMR: subtotal gastrectomy, proximal margin 5cm from COJ
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Subtotal gastrectomy&amp;quot;, consists of partial gastrectomy with attached omental fat.  The greater curvature measures 190mm and the lesser curvature measures 105mm. The omentum measures 270 x 455 x 10mm. There is a separate piece of fat attached on the other aspect of the stomach measuring 125 x 40 x 20mm. There is an indurated area with raised rolled borders in the stomach measuring 38 x 33mm, which is puckered down. The overlying serosa to this region appears smooth and grey.  The tumour lies 34mm to the distal margin, and 32mm to the proximal margin.  The remainder of the gastric mucosa appears unremarkable. The tumour is transversely sectioned from proximal to distal into thirteen slices (slice one - most proximal).  The tumour appears to invade through the muscular propria, abuts the serosal surface, and possibly extends into the adjacent fat. The tumour extends to a depth of 12mm.  A 7mm piece of the tumour and of normal tissue taken for tumour banking. The proximal margin is inked green, and the distal margin inked blue.   The serosa overlying the tumour is inked black. The entire tumour is embedded.
+
+Blocks: 1 to 4 - serially embedded LS of distal margin closest to tumour with gastro-oesophageal junction; 5 - LS proximal margin closest to tumour; 6 to 8 - composite sections slice one; 9 to 11 - composite sections slice two; 12 to 14 - composite sections slice three; 15 to 17 - composite sections slice four; 18 to 20 - composite sections slice five; 21 to 23 - composite sections slice six; 24 &amp;amp; 25 - composite sections slice seven; 26 and 27 - composite sections slice eight; 28 &amp;amp; 29 - composite sections slice nine; 30 &amp;amp; 31 - composite sections slice ten; 32 &amp;amp; 33 - composite sections slice eleven; 34 to 35 - composite sections slice twelve; 36 &amp;amp; 37 - composite sections slice thirteen; 38 - RS distal region of stomach; 39 - RS mid region stomach; 40 to 44 - lymph nodes from fat attached to greater omentum (40 to 43 - lymph nodes as seen; 44 - one lymph node in three pieces); 45 to 48 - lymph nodes from smaller attached piece of fat (45 to 47 - lymph nodes as seen; 48 - one possible lymph node in four pieces); 49 to 51 - RS omentum.
+
+B.  Specimen labelled &amp;quot;Falciform ligament&amp;quot;, consists of an unoriented fatty piece of tissue measuring 145 x up to 88 x up to 11mm.  One side has a smooth grey membrane.  Specimen inked blue.  The specimen is serially transversely sectioned, with the cut surfaces revealing tan fatty tissue with focal firm white areas.
+Blocks 1 &amp;amp; 2 - two RS TS at one end (one TS in two pieces per block); 3 to 4 - composite sections mid TS; 5 - mid TS in three pieces; 6 - two RS TS at opposite end of specimen; 7 - RS pale area in mid region of specimen.
+
+C.  Specimen labelled &amp;quot;Lesser omentum fat&amp;quot;, consists of a tan and pale unoriented irregularly shaped piece of tissue measuring 36 x up to 14 x 4mm.  Specimen inked blue and serially transversely sectioned. The cut surfaces reveal blood vessels and fatty tissue. Serially all embedded across blocks 1 and 2.  AE 2 blocks.  (TO:QP/rs 21/7/66)
+
+
+MICROSCOPIC (Reported by Dr W Pietrzyk):
+A.
+
+GASTRIC PROFORMA
+
+Maximum tumour diameter:  38mm
+Distance to nearest margin:  34mm (distal)
+
+Tumour site (location):
+Antrum
+
+WHO histological tumour type:
+Tubular adenocarcinoma
+
+Lauren histological tumour type:
+Intestinal
+
+Growth pattern:
+Infiltrating
+
+Local invasion (pT):
+T3	Tumour penetrates subserosal connective tissue without invasion of visceral peritoneum or adjacent structures (A22, 27).
+
+Serosal surface involvement:
+Absent
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary): Present, multifocal
+
+Large vessels (vein and artery): Absent
+
+Perineural growth:
+Absent
+
+Her2 status: 3+
+
+Distance of tumour from margins:
+From proximal:  32mm
+From distal:     34mm
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  42
+Number of lymph nodes involved:  3
+
+N2	Metastasis in 3-6 regional lymph nodes
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis: Present, chronic
+
+Helicobacter infection: No convincing organisms seen on immunohistochemistry
+
+Intestinal metaplasia: Present
+
+Dysplasia: Present, high grade, &amp;gt; 30mm clear of margins (e.g. A18)
+
+Immunoperoxidase stains for MSI proteins (Block A27)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B. Sections show fibroadipose tissue. Organising granulation tissue is focally present. There is no evidence of malignancy.
+
+C. Sections show fat with no evidence of malignancy.
+
+
+DIAGNOSIS
+A. Total gastrectomy:
+- 38mm poorly differentiated adenocarcinoma invading peri-gastric fat (pT3), margins clear
+- Metastatic carcinoma in 3 out of 42 lymph nodes (pN2)
+
+B. Falciform ligament:  no evidence of malignancy
+
+C. Lesser omentum fat: no evidence of malignancy

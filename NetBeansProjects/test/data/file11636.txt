@@ -1,0 +1,46 @@
+SPR no: 96Q748579S
+MRN no: 96674857
+Site_name: ADULT PREVENTION & RECOVERY CARE (A-PARC)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pancreatic mass found on imaging during treatment for nasopharyngeal cancer.  Subtotal pancreatectomy + splenectomy.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Subtotal pancreatectomy + splenectomy&amp;#8220;, consists of a specimen of pancreas and surrounding soft tissue 130 x 70 x up to 40mm with attached spleen 135 x 90 x 60mm.  The spleen weighs 260g.  The anterior surface of the pancreas and the surrounding soft tissue is inked blue, superior is inked red, posterior is inked black and the proximal margin is inked green after removing the staples.  The external surface is smooth.  On slicing, the pancreas is expanded proximally by a relatively well defined pale/pink solid mass 42 x 35 x 30mm.  The solid tumour is 10mm from the proximal, less than 1mm from inferior, 1mm from posterior, less than 1mm from anterior, 14mm from superior margins.   On slicing the spleen no focal lesions are identified.
+Block 1 - one bisected lymph node at the proximal margin; 2-5 - all of proximal margin blocked from superior towards inferior; 6 - one bisected peripancreatic lymph node; 7&amp;amp; 8 - paired sections one full slice, the slice next to the proximal margin (7 - superior; 8 - inferior); 9 &amp;amp; 10 - paired sections one slice, the slice next to the previous slice (9 superior, 10 inferior); 11-13 - remainder of the tumour sequentially blocked; 14 - rep sections spleen.  (TO: HM/ec  7.4.66)
+
+
+MICROSCOPIC (Reported by A/Prof Z Kenzie):
+The pancreatic tumour is a pancreatic neuroendocrine tumour, measuring 42mm in maximum dimension (macroscopic measurement) and situated in the pancreatic body/tail.
+The tumour has a multinodular growth pattern and is composed of ribbons and nests of mild to moderately atypical round and cuboidal cells with coarse chromatin and visible nucleoli. There is variable pleomorphism within the main tumour.
+
+The  degree of nuclear pleomorphism is higher in the lymph node metastases compared to the main tumour. The mitotic rate is 7 per 10 hpf in pancreatic tumour compared to 10 per 10 hpf in the nodal metastases. In view of this, Ki67 labelling was performed on a nodal metastasis.
+Based on a 500 cell count, the Ki67 index is approximately 9%.
+
+Therefore the overall ENETS grade is 2 (mitotic rate 10 per 10hpf and Ki67 9% - European Neuroendocrine Tumour Society, WHO 2009).
+
+The tumour cells show positive staining with CD56, synaptophysin, CAM 5.2 and Chromogranin. Glucagon and insulin are negative.
+
+The lymph node identified at the proximal margin shows near total replacement by metastatic tumour. Three additional nodes are also replaced by tumour (identified near the superior aspect of the proximal margin, superior surface of the mid specimen and a peripancreatic node).
+A fifth small node contains a micrometastasis.
+A total of 5 out of 9 nodes contain metastatic tumour. No extranodal extension is seen.
+
+Vascular invasion is present at the periphery of the tumour and tumour is seen around nerves.
+
+The tumour is:
+0.25mm from posterior surface.
+0.25mm from anterior surface.
+&amp;gt;5mm from proximal margin.
+
+The spleen shows no significant change.
+
+A provisional result was discussed with Dr Z Faren.
+
+
+DIAGNOSIS:
+Pancreas: 42mm Grade 2 neuroendocrine tumour
+Nodal metastases present (5/9)
+Vascular invasion present.
+Surface of pancreas close, but clear.

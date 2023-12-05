@@ -1,0 +1,45 @@
+
+Episode No:  02U615269N
+0276152.QYN
+
+Giacalone, KIETH 
+Lab No:  02U61526,02U61526
+Drake Park
+TOWNSVILLE  TAS  6414
+Specimen: Washings,Tissue
+D.O.B:  24/2/2030
+Sex:  F
+Collected: 16/07/2013 at 18:22
+Location:  OBSTETRICS - SURGICAL TREATMENT AND REHABILITATION SERVICE (STARS)
+DR GERRI Rosena Genta
+Distribution:   FILE-COPY,NSW-CANCER-REGISTRY
+CLINICAL:
+Grade 1 endometrioid cancer on curettings.  Mirena in situ until surgery and on oral progestogens.  Increased BMI.
+MACROSCOPIC:
+Specimen labelled "Uterus, cervix, left tube and ovary" consists of a uterus with attached cervix, left fallopian tubeand ovary weighing 235g in total.  The uterus measures 100 x 80 x 50mm and has a smooth shiny serosal surface.  The uterus has been opened prior to receipt.  The ectocervix measures 35 x 30mm and has an unremarkable surface.  On sectioning the endometrial cavity is filled with tan friable tumour measuring approximately 50 x 38 x 30mm.  The tumour appears to be mostly confined to the endometrium. Possible early invasion into the myometrium is seen. The myometrium is 25mm in maximum thickness.  The left ovary measures 30 x 22 x 15mm and contains five small cysts ranging from 3 to 6mm in maximum dimension.  The left fallopian tube is 50mm in length and upto 8mm in maximum diameter.  
+Blocks:  1 to 6 - full longitudinal section of anterior body and cervix; 7 to 12 - full longitudinal section of posterior body and cervix (mismatch repair immunohistochemistry on block11); 13 - tumour and serosal surface; 14 - tumour, reserved block; 15 - representative left ovary; 16 - representative left fallopian tube.  
+(TO: UG; LX/mm 19.9.63).  
+MICROSCOPIC (reported by Dr C Deininger):
+Sections show a grade 1 endometrioid adenocarcinoma. The lesion has a complex glandular architecture, and is composed of tumour cells with mild to moderate nuclear atypia.  Squamous morules are seen.  There is no evidence of a solid component or severe atypia, in keeping with a grade of 1.
+There is invasion into the inner half of the myometrium, up to a depth of 4 mm in a wall 20mm thick (block 14).
+There is no evidence of lymphovascular invasion.
+There is no evidence of invasion into the cervix.
+The endometrium shows progestogen effect.  The cervical mucosa shows no evidence of CIN or HPV effect.
+The left fallopian tube and ovary is unremarkable.
+Shown to Dr Mckinley Gorelli.
+
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+DIAGNOSIS
+Uterus, cervix, left fallopian tube and ovary:
+	Grade 1 endometrioid adenocarcinoma
+	Invasion into inner half ofmyometrium (up to 4mm in a wall 20mm thick)
+	No lymphovascular invasion identified
+	Cervix, left ovary and fallopian tube with no evidence malignancy
+
+

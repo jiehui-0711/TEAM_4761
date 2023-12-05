@@ -1,0 +1,52 @@
+SPR no: 29H709850J
+MRN no: 10477853
+Site_name: OAKEY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportADDITIONAL REPORT (7/5/69)
+
+CLINICAL:
+Right hemihepatectomy and cholecystectomy for suspected gallbladder cancer. Hilar lymph nodes.Cystic duct margin stitch on GB side.  Frozen section on non-stitch side please.
+MRI (6/1/67): Focal dilatation of a few ducts in segment V, up to 3mm in diameter, stable from prior MRI few months ago, likely to be related to a stricture. Contracted gall bladder with no mass seen. No definite malignancy. No calculi.
+Additional history from EMR: presented in 20 December 2068 with deranged LFTs.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cystic duct &amp;quot;, consists of an 8mm donut to a depth of 3mm.  There is a stitch on one side.  As requested the non-stitch side is examined as the new true margin.
+Blocks: 1 - frozen section tissue; 2 - residual non-frozen tissue.
+
+FROZEN SECTION REPORT:
+No evidence of malignancy.
+Phone result to Dr H Bronder by Dr H Jacobsen at 11:05am on 23/05/2066.
+
+B.  Specimen labelled &amp;quot;Liver and gallbladder resection&amp;quot;, consists of a wedge of liver with an attached gallbladder weighing 400 grams.  The liver measures 120 x 105 x 60mm and the gallbladder measures 60 x 27 x 20mm.  The gallbladder is attached to the liver by a 20mm piece of fibrous tissue.  The gallbladder serosa is smooth grey and shiny.  The gallbladder with a small attached wedge of liver is amputated and the false margin is inked black.  On sectioning the gallbladder wall has a thickness of up to 6mm and appears to be fibrotic throughout the entire gallbladder.  The tumour does not appear to involve the hepatic parenchyma which is unremarkable.  Blocks: 1 - shave cystic duct margin; 2 to 14 - transverse sections of gallbladder with small amount of attached liver embedded sequentially from distal to proximal; 15 and 16 - sections of liver near site of attachment to gallbladder; 17 to 20 - RS of normal liver. Additional blocks: intrahepatic ducts near hilum all embedded.
+
+C.  Specimen labelled &amp;quot;Hilar lymph node&amp;quot;, consists of multiple pieces of fatty tissue 50 x 40 x 15mm in aggregate.  Three lymph nodes are identified ranging from 10 to 40mm in maximum extent.  AE 4 blocks.  Blocks: 1 - two lymph nodes; 2 to 4 - one lymph node sectioned into four pieces.  (TO:TF/vo 22/5/67)
+
+
+MICROSCOPIC (Reported by Dr H Zeltmann):
+A. Sections show fibrous thickening of the cystic duct, associated with a diffuse reactive lymphoid infiltrate. Reactive changes are present in the surface epithelium. There is no evidence of dysplasia or malignancy
+
+B. The entire gall bladder, extrahepatic ducts and intrahepatic ducts near the hilum have been embedded.
+
+Sections show diffuse fibrous thickening of the gall bladder and extrahepatic bile ducts. There is an intense reactive lymphocytic infiltrate throughout wall and extending into the adjacent fat. Within the lymphoid infiltrate, there are occasional hypoplastic follicles with a Castleman-like appearance.  Smooth muscle hypertrophy is seen. Extensive fibrosis, which focally has a storiform pattern, is present. The mucosa shows reactive changes with focal erosions and acute inflammation. There is no evidence of dysplasia. No convincing obliterative venulitis is seen. A cystic duct lymph node shows no evidence of malignancy.
+
+A similar fibroinflammatory process is present in the intrahepatic bile ducts. The bile ducts containing intraluminal bile, consistent with bile stasis.  A granulomatous reaction to bile is seen in a large portal tract in block B16. No convincing calculi are seen.
+
+The adjacent liver shows mild fibrous expansion of the portal tracts with mild peri-portal fibrosis and mild focal interface activity. No bridging fibrosis is seen. Rare diPAS positive intracytoplasmic globules are present. Mild haemosiderin deposition is seen. No convincing copper binding proteins are present on orcein and rhodamine staining.
+
+On immunohistochemistry, there is a predominance of CD3 +ve T cells in keeping with reactive process. Follicles containing aggregates of CD20 +ve B cells and CD21+ve follicular dendritic cells are seen.
+
+C. Sections show an enlarged lymph no with intact sinus architecture. Scant reactive follicles with germinal centres are present. Some of the follicles have a &amp;quot;Castleman-like&amp;quot; appearance with hypoplastic follicles surrounded by a broad mantle zone, composed of concentric rings of small lymphocytes. Hyaline deposits are focally present. High endothelial venules are present in the interfollicular regions.
+
+On immunohistochemistry, there is no evidence of aberrant staining in the B cells for CD10, bcl-6, bcl-2, CD5, CD23 or cyclin D1. Scant CD138 +ve plasma cells present show no evidence of light chain restriction.
+
+
+COMMENT
+The features are of a reactive fibro-inflammatory process diffusely involving the gall bladder and biliary tree. Possible diagnoses include chronic acalculous cholecystitis with involvement of the bile ducts, infection or a biliary stricture. An autoimmune process is thought to be unlikely. No calculi are present. There is no evidence of malignancy.
+
+IgG4 immunohistochemistry to follow (referred to MILLICENT AND DISTRICT HOSPITAL AND HEALTH SERVICES Hospital, CHURCHILL).
+
+DIAGNOSIS
+A and B. Cystic duct frozen section, liver and gall bladder: reactive fibro-inflammatory process (see comment), no evidence of malignancy
+C. Hilar lymph node: reactive lymph node with no evidence of malignancy
+ADDITIONAL REPORT (6/6/66)
+Rare plasma cells with IgG4 staining is present (&amp;lt;5%). This would exclude IgG4 disease.

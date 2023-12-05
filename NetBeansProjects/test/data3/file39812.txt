@@ -1,0 +1,157 @@
+SPR no: 17Y767746Q
+MRN no: 0160558
+Site_name: THE ROYAL VICTORIAN EYE AND EAR HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report17Y76774 (17Y767746Q) SO, Graig
+HISTOPATHOLOGY REPORT
+THE ROYAL WOMEN'S HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+SUPPLEMENTARY REPORT 27/1/68
+
+CLINICAL NOTES:
+3.5cm lesion:
+1. Retroareolar palpable lesion - invasive tumour.
+2. Left axillary dissection (long-lateral, short-superior, medium-medial).
+1. Wide local excision cancer left breast.
+2. Left axillary dissection.
+3. Further superior margin left breast.
+Left breast cancer.
+Frozen section. Sentinel lymph node biopsy L axilla.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL LYMPH NODE BIOPSY&amp;quot;. Consists of three blue LN: 1 - two largest, one TS for frozen section; 2 rest of smaller blue; 3&amp;amp;4 rest of larger blue 5 smallest not frozen.
+
+F/S: &amp;quot;Metastatic carcinoma&amp;quot; per phone to anaesthetist by Dr. E. Ginn on 17/1/68. RS (M-5)
+
+B. Specimen labelled &amp;quot;LEFT BREAST WIDE LOCAL EXCISION WITH STITCH MARKING SHORT-SUPERIOR, MEDIUM-MEDIAL, LONG-LATERAL&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE: Wide local excision, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral: 70mm
+Superior to inferior: 50mm
+Anterior to posterior:  30mm
+WEIGHT:  73g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial
+Number of slices: 17
+FINDINGS / LESION:  There is an ill-defined tumour with a tan to glistening cut surfaces seen in Slices 4-15. It measures 48mm medial to lateral x 40mm superior to inferior x 22mm anterior to posterior. The tumour appears to involve the superior and inferior margins and is 5mm from anterior margin, 7mm from posterior margin, 14mm from medial and 12mm from lateral margin.
+(1&amp;amp;2 longitudinal through lateral margin, Slice 1; 3&amp;amp;4 Slice 3; 5-8 Slice 6; 9-12 Slice 8; 13-16 Slice 9; 17-20 Slice 12; 21&amp;amp;22 Slice 14; 23&amp;amp;24 Slice 15; 25 longitudinal through medial margin, Slice 17). RS (M-25)
+C. &amp;quot;LEFT AXILLARY DISSECTION&amp;quot;. Consists of pieces of fatty tissue, in aggregate 110x60x20mm. Ten possible nodes identifed.
+(1 five nodes; 2 one node, bisected; 3 one node, bisected; 4 one node, bisected; 5 two nodes). RS (M-5)
+D. Specimen labelled &amp;quot; &amp;quot;LEFT BREAST LESION FURTHER SUPERIOR MARGIN WITH STITCH MARKING SHORT-SUPERIOR, MEDIUM-MEDIAL, LONG-LATERAL&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Re-excision, oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  60mm
+Superior to inferior:  7mm
+Anterior to posterior:  30mm
+WEIGHT:  5.2g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 14
+FINDINGS / LESION:  The cut surface shows a predominantly fatty cut surface. No discrete lesion is identified. Representative sections. Alterate slices embedded.
+(1 longitudinal through medial margin, Slice 1; 2 Slice 2; 3 Slice 4; 4 Slice 6; 5 Slice 8; 6 Slice 10; 7 Slice 12; 8 longitudinal through lateral margin, Slice 14). RS (M-8/MC 20/1/2067 cy)
+MICROSCOPIC: (Dr. E. Aslam)
+
+A-D. INVASIVE BREAST CANCER SYNOPTIC REPORT
+&amp;#160;
+NUMBER OF INVASIVE FOCI: 1
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;40mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type
+&amp;#160;
+HISTOLOGIC GRADE: 3
+
+SCORES Tubules: 3, Nuclei: 3, Mitoses: 2  (10 mitoses/10hpfs)
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  40mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: There is extensive small and large vessel invasion involving many vessels and extending at least 10mm away from the invasive tumour.  Intravascular tumour is present at the superior and inferior margins, including the new superior margin in specimen D (D7, D8)
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: No skin present on the specimen
+
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent: Minimal, beyond the invasive component, scattered amongst the extensive vascular invasion (eg. B9).
+Nuclear grade: High grade
+Architecture / type: Solid
+Necrosis: Comedonecrosis present.
+Microcalcification of DCIS: Absent
+Extensive intraduct component: Absent
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Tumour involves the inferior margin over a 2mm front (B15).
+It is &amp;lt;0.5mm clear of the anterior margin (B11).
+It is 2mm clear of the new superior margin in specimen D (D6), 5mm clear of the posterior margin and &amp;gt;10mm clear of the medial and lateral margins.
+
+DCIS MARGINS:  Present at the superior margin of the main specimen (B9), &amp;gt;5mm clear of the new superior margin in specimen D.
+&amp;#160;
+ANCILLARY TESTS: IMMUNOSTAINS, block B11
+ER: &amp;#160;Negative
+PgR: &amp;#160;Negative
+HER2: &amp;#160;3+
+Ki67: 22%
+
+OTHER FEATURES: The bulk of the tumour mass is intravascular carcinoma.  Intravascular tumour is present at the inferior margin on the main specimen, and at the new superior margin in specimen D.
+There is also apocrine metaplasia, usual ductal hyperplasia.
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES (Specimen 1): 1/3
+AXILLARY LYMPH NODES: 0/7
+
+Nodes with macrometastases: 1 (sentinel lymph node)
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 10
+&amp;#160;
+Largest nodal tumour deposit:  6mm
+Extranodal extension: &amp;#160;Absent
+
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN1a
+
+DIAGNOSIS:
+A-D. LEFT BREAST WIDE LOCAL EXCISION, FURTHER SUPERIOR MARGIN, SENTINEL LYMPH NODE AND AXILLARY DISSECTION:
+- Grade 3 invasive carcinoma of no special type
+- Involves the inferior margin, clear of further superior margin
+- Extensive vascular invasion, present at the inferior and superior margins.
+
+SUPPLEMENTARY REPORT 28/1/68
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+HER2 Dual ISH result:   POSITIVE
+
+Mean HER2 copy number per cell:  27.4
+Mean CEP17 copy number per cell:  4.9
+HER2/CEP17 Ratio:  5.6
+
+SCORING CRITERIA (Update in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal:&amp;#160; HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 6.0
+Positive: HER2/CEP17 &amp;gt; or equal to 2.0
+
+Reported by: Dr E Deckers
+Date: 24/2/67

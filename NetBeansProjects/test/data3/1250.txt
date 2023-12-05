@@ -1,0 +1,89 @@
+Episode No:  71H6840991
+7126840.YZE
+
+Gressmire, FRANCISCO Karyn 
+Lab No:  71H68409
+N Lenore
+BUCASIA  TAS  7210
+Specimen: Tissue,Swab
+D.O.B:  15/3/2030
+Sex:  M
+Collected: 23/01/2063 at 09:23
+Location:  Palms-KURRI KURRI DISTRICT HOSPITAL
+DR Reyes
+Distribution:   FILE-COPY
+
+
+			ADDITIONAL REPORT /4/63.
+
+CLINICAL:
+Low grade glioma on previous biopsy this year of right parietal lobe tumour.  Further resection, ? higher grade features.  Tissue frozen section.  Seizures, crani e/o astrocytoma.  ? grade of glioma. 
+MACROSCOPIC:
+A.  Specimen labelled "R parietal lobe tumour", consists of one piece of brain tissue measuring 34 x 26 x 15mm.  Meninges on one side and focally variegated appearance, ? necrosis and haemorrhage.  Remainder of FS tissue AE block 1; remainder of tissue AE 4 blocks. 
+FROZEN SECTION:  Mild increase in cellularity, ? low grade glioma, ? reactive gliosis. No high grade features seen.  
+Result to Dr S Dingman by A/Prof S Pourier/Dr S Nori/Dr S Quirin at 12:10pm on 23.01.63. 
+B.  Specimen labelled "Right parietal lobe tumour", consists of two unoriented pieces of brain tissue plus multiplesmall fragments measuring in aggregate 50x 60 x 15mm.  
+Representative sections in 11 blocks.  (TO: FC; UX/ec  24.1.63) 
+MICROSCOPIC: (Reported by Dr S Redhead and Dr S Wilda)
+A & B.  The sections show an oligodendroglioma (WHO grade 2).  The lesion is characterised by a proliferation of tumour cells with bland ovoid nuclei and perinuclear halos. "Chicken-wire" capillaries are present in the background. Subpial and perineuronal aggregation are seen, in keeping with secondarystructures of Scherer. The blood vessels show focal, mild endothelial hyperplasia. The lesion focally shows increased proliferative activity (3 mitoses per 10 hpf and Ki67 index of 5%, B4)). Marked mitotic activity, nuclear pleomorphism, necrosis and glomeruloid endothelial proliferation are not identified.
+The adjacent cortical grey and white matter show mild gliosis on GFAP staining (A1). Focal increased cellularity is present in the subpial region, possibly representing subpial accumulation of tumour cells.
+Immunohistochemical stains: 
+GFAP: negative
+IDH1: positive
+Ki67 index: variable, up to 5%
+p53: rare positive cells present
+
+
+Molecular tests: 
+Tissue will be sent to Dr EDDIE Donlon, DIRRANBANDI HOSPITAL Cancer Centre for MGMT methylation testing. 
+Slides will be sent to ROYAL MELBOURNE HOSPITAL - CITY CAMPUS's Hospital for 1p/19qLOH FISH study.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is bestseen in block B4.
+COMMENT:
+The tumour focally shows increased proliferative activity (3 mitoses per 10 hpf and Ki67 index of 5%). However, in the absence of glomeruloid vascular proliferation, necrosis, marked mitotic activity or nuclear atypia, the findings are still in keeping with a grade 2 oligodendroglioma.
+The previous biopsy from ACUTE STROKE UNIT Pathology (reported as astrocytoma grade 2) will be obtained for comparison.
+DIAGNOSIS:
+Right parietal lobe tumour:  
+	Oligodendroglioma  (WHO GRADE 2)
+	1p/19q FISH AND MGMT METHYLATION TESTING TO FOLLOW.
+
+ADDITIONAL REPORT (2/7/63)
+
+Reported by Dr S Rahmes, FORBES DISTRICT HOSPITAL's Hospital:
+"RESULTS:
+This case was analysed for 1p/19q LOH using Vysis dual colour probe sets LSI 1p36/LSI 1q25 and LSI 19q13/19p13.  Cut-off values were adopted from Smith et al 2000 (J Clin Oncol: 18;636-645) who defined a 1p/1q ratio of <0.85 and a 19q/19p ratio of <0.9 as indicating LOH.  The case was also hybridised with Vysis lLS EGFR/Cep7 dual colour probe pair to assess whether amplification of EGFR was present.
+CHROMOSOME 1
+Mean copies 1p per cell:   1.05
+Mean copies 1q per cell:   1.7
+1p/1q ratio:    0.62
+Interpretation: 1p loss detected
+
+CHROMOSOME 19
+Mean copies 19q per cell:     1.05 
+Mean copies 19p per cell:     1.82 
+19q/19p ratio:      0.58
+Interpretation:     19q loss detected
+
+
+EGFR:
+Mean copies of EGFR per cell: 1.85 
+Mean copies cep7 per cell:   1.9 
+EGFR/cep7 ratio:    .97
+Interpretation:  No EGFR present.  
+CONCLUSION:
+Dual 1p/19q loss is present, consistent with oligodendroglial phenotype."
+(Malakan 2/7/63) 
+ADDITIONAL REPORT (Dr S Montayes, 14/2/63)
+The previous biopsy from Southern Pathology (71H684099, dated 11/9/62) has been reviewed with A/Prof ENRIQUE SAR.
+Sections show cerebral cortex including underlyingwhite matter with involvement by a low grade glioma.  The lesion is composed of tumour cells with dense, round to ovoid nuclei.  Perineuronal satellitosis is focally present. Perinuclear haloes and "chicken-wire" vessels are not prominent. Mitotic activity is not significantly increased.  There is no evidence of endothelial proliferation or necrosis.
+COMMENT (71H684099, POSTOPERATIVE RECOVERY Pathology):
+The findings are in keeping with a low grade glioma. Classification is difficult based on the features in this biopsy. However in light of the findings in the most recent specimen, an oligodendroglioma (WHO grade 2) is favoured. 
+ADDITIONAL REPORT (4/8/63)
+Tissue was sent Dr Bernarda Setias, MORANBAH HOSPITAL Cancer Research Centre for MGMT methylation testing.
+The lesion is POSITIVE for MGMT methylation.
+
+Note: This test is performed for research purposes only, and is not NATA accredited.
+
+
+

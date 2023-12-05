@@ -1,0 +1,70 @@
+SPR no: 07K329368W
+MRN no: 0743293
+Site_name: TUMBY BAY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left breast cancer upper outer quadrant.  Wide local excision - short superior, medium medial, long lateral.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left axilla sentinel node&amp;quot;, consists of fibroadipose tissue, 30 x 19 x 10mm, containing a lymph node.
+Blocks: 1 - single lymph node, sectioned.
+
+B.  Specimen labelled &amp;quot;Left axillary tissue&amp;quot;, consists of fibroadipose tissue, 45 x 35 x 20mm in aggregate.  No definite lymph nodes are identified.  AE 3 blocks.
+
+C.  Specimen labelled &amp;quot;Excision left breast cancer short superior, long lateral, medium medial&amp;quot;, consists of fibroadipose breast tissue with orienting sutures in situ, weighing 52g.  The specimen measures 68mm superior to inferior, 67mm medial to lateral and 30mm from superficial to deep.  The superior margin is inked red, inferior margin is inked black, superficial margin is inked green and deep margin is inked blue.  The specimen is sectioned sequentially from medial to lateral into fourteen approximately equal slices.  There is a firm pale grey tumour in slices four to seven, 13 x 12 x 16mm.  The tumour is at least 3mm from the closest superficial margin.  The remaining breast parenchyma has a fatty appearance.
+Blocks: 1 - slice one (medial); 2 to 4 - slice four; 5 to 7 - slice five; 8 to 10 - slice six (9 - IPX); 11 to 13 - slice seven; 14 to 16 - slice eleven; 17 - slice fourteen (lateral).
+Please refer to block diagram.  (TO:JB/rs 1/11/65)
+
+
+MICROSCOPIC (Reported by Dr A Villicana):
+Sections show breast tissue with a 19mm diameter grade 3 infiltrating ductal carcinoma.  The sentinel lymph node is negative.  The tumour is triple negative (ER, PR and HER-2 negative) and there is positive staining for basal cell markers.  The features are therefore consistent with a basal-like breast carcinoma.  A synoptic report follows.
+
+Invasive carcinoma:
+Site:  Left breast
+Type:  Infiltrating ductal carcinoma
+Invasive tumour size:  19mm
+Grade (Modified Bloom &amp;amp; Richardson):  3
+Tubules:  3    Nuclei:   3   Mitoses:  3    Mitotic rate:   30 /10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  15mm
+Nuclear grade:  High
+Architecture:  Solid
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  &amp;lt;5%
+DCIS in adjacent tissue:  Present
+
+Excision Margins:
+Invasive component:  Superficial 3.5mm, deep 7mm, all others &amp;gt;10mm
+In-situ component:  Superficial 3.5mm, all others &amp;gt;10mm
+
+Receptors (Block C9):
+ER:  Negative
+0% of nuclei stained
+PR:  Negative
+0% of nuclei stained
+HER2 (Novocastra 10A7):  1+ (negative)
+HER2 SISH:  Performed at Immunology, OAKEY HOSPITAL Hospital, see separate report.
+Ki-67 index:  80%
+
+Nipple:  Not applicable
+
+LCIS/ALH:  Absent
+
+Miscellaneous:  The left axillary tissue (specimen B) consists of fat only.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1 (specimen A)
+Number of sentinel lymph nodes involved by tumour:  0
+
+Comment:  The tumour is triple negative (ER, PR and HER-2 negative.  Immunostains for basal cell markers have therefore been performed.
+The tumour cells show positive staining for cytokeratin 14 and patchy positive staining for cytokeratin 5/6.  The immunophenotype is therefore consistent with a basal-like breast carcinoma.
+This raises the possibility of an inherited BRCA-1 mutation.  Referral to a cancer genetic clinic may be indicated.
+
+
+DIAGNOSIS:
+A - C.  Left breast tissue and sentinel lymph node left axilla:  19mm diameter grade 3 infiltrating ductal carcinoma.  Immunophenotype consistent with basal-like breast carcinoma, see text.  Sentinel lymph node negative (0/1).
+pT1c   pN0.

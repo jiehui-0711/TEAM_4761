@@ -1,0 +1,2345 @@
+10 6行 09F01654-> Lab No:  09F01654
+100 4行 93F46770-> 93F46770
+101 3行 14X06866-> 14X06866
+102 2行 62T188722J-> Episode No:  62T188722J
+102 6行 62T18872-> Lab No:  62T18872,62T18872
+102 6行 62T18872-> Lab No:  62T18872,62T18872
+103 2行 57U529989P-> Episode No:  57U529989P
+103 6行 57U52998-> Lab No:  57U52998,57U52998
+103 6行 57U52998-> Lab No:  57U52998,57U52998
+104 1行 62Y3015865-> Episode No:  62Y3015865
+104 5行 62Y30158-> Lab No:  62Y30158
+105 2行 10U322545X-> Episode No:  10U322545X
+105 6行 10U32254-> Lab No:  10U32254
+106 2行 78Q442603F-> Episode No:  78Q442603F
+106 6行 78Q44260-> Lab No:  78Q44260
+107 1行 26M473761O-> Episode No:  26M473761O
+107 5行 26M47376-> Lab No:  26M47376
+108 2行 84J494729W-> Episode No:  84J494729W
+108 6行 84J49472-> Lab No:  84J49472
+109 1行 32F514877F-> Episode No:  32F514877F
+109 5行 32F51487-> Lab No:  32F51487,32F51487
+109 5行 32F51487-> Lab No:  32F51487,32F51487
+11 2行 74O716684B-> Episode No:  74O716684B
+11 6行 74O71668-> Lab No:  74O71668
+110 1行 68O257842H-> Episode No:  68O257842H
+110 5行 68O25784-> Lab No:  68O25784,68O25784
+110 5行 68O25784-> Lab No:  68O25784,68O25784
+112 3行 26L28880-> 26L28880
+113 2行 68T479617N-> Episode No:  68T479617N
+113 6行 68T47961-> Lab No:  68T47961,68T47961
+113 6行 68T47961-> Lab No:  68T47961,68T47961
+114 2行 16Q500775V-> Episode No:  16Q500775V
+114 6行 16Q50077-> Lab No:  16Q50077
+115 3行 74M52173-> 74M52173,74M52173
+115 3行 74M52173-> 74M52173,74M52173
+116 2行 22I542891M-> Episode No:  22I542891M
+116 6行 22I54289-> Lab No:  22I54289
+117 2行 80E562949V-> Episode No:  80E562949V
+117 6行 80E56294-> Lab No:  80E56294
+118 1行 38A683907E-> Episode No:  38A683907E
+118 5行 38A68390-> Lab No:  38A68390
+119 4行 43E46551-> 43E46551
+12 4行 91A48667-> 91A48667
+120 4行 59X51763-> 59X51763
+121 1行 07T5377891-> Episode No:  07T5377891
+121 5行 07T53778-> Lab No:  07T53778
+122 1行 64P558847L-> Episode No:  64P558847L
+122 5行 64P55884-> Lab No:  64P55884
+123 4行 22L67980-> 22L67980
+124 2行 54U871612Q-> Episode No:  54U871612Q
+124 6行 54U87161-> Lab No:  54U87161
+125 2行 12Q891770Z-> Episode No:  12Q891770Z
+125 6行 12Q89177-> Lab No:  12Q89177
+125 85行 12Q89177A93-> 12Q89177A93 unstained slides x 4.
+126 2行 60M912738H-> Episode No:60M912738H
+126 6行 60M91273-> Lab No:  60M91273
+127 2行 28I943886Q-> Episode No:  28I943886Q
+127 6行 28I94388-> Lab No:  28I94388
+127 30行 28I94388-> The tumour cells are negative for estrogen receptor and progesterone receptor and show equivocal HER 2 staining (2+). Please refer to the pre-treatment results, 28I94388.
+128 2行 86E963844Z-> Episode No:  86E963844Z
+128 6行 86E96384-> Lab No:  86E96384
+129 3行 34B98490-> 34B98490
+13 1行 92X005061Q-> Episode No:  92X005061Q
+13 5行 92X00506-> Lab No:  92X00506
+130 4行 97B88767-> 97B88767
+131 4行 55X80862-> 55X80862
+131 10行 55X80862-> (See previous 55X80862). 
+132 4行 49Y35898-> 49Y35898
+133 2行 97U379942M-> Episode No:  97U379942M
+133 6行 97U37994-> LabNo:  97U37994
+134 2行 55Q390000V-> Episode No:  55Q390000V
+134 6行 55Q39000-> Lab No:  55Q39000
+135 3行 50U27261-> 50U27261
+135 48行 50U272617U-> Immunohistochemical stains for MSI markers were performed as requested by Dr ANTONE ARVAY (see 50U272617U).
+136 2行 18Q292675C-> Episode No:  18Q292675C
+136 6行 18Q29267-> Lab No:  18Q29267,18Q29267
+136 6行 18Q29267-> Lab No:  18Q29267,18Q29267
+137 2行 66N213723L-> Episode No:  66N213723L
+137 6行 03R63393-> Lab No:  03R63393,03R63393
+137 6行 03R63393-> Lab No:  03R63393,03R63393
+138 2行 51N754981R-> Episode No:  51N754981R
+138 6行 51N75498-> Lab No:  51N75498
+139 1行 19K784049A-> Episode No:  19K784049A
+139 5行 19K78404-> Lab No:  19K78404,19K78404
+139 5行 19K78404-> Lab No:  19K78404,19K78404
+14 2行 14O5566569-> Episode No:  14O5566569
+14 6行 14O55665-> Lab No:  14O55665
+140 1行 72K687714H-> Episode No:  72K687714H
+140 5行 72K68771-> Lab No:  72K68771
+141 1行 20G608772Q-> Episode No:  20G608772Q
+141 5行 20G60877-> Lab No:  20G60877
+141 16行 20G60877-> Low grade subcutaneous sarcoma left elbow - close on superficial + deep margin:  fascia at deep margin.   (20G60877 - Leiomyosarcoma, FNCLCC grade 1 on core biopsy of soft tissue mass over left elbow in subcutaneous plane, present for five years.Recently growing.)
+141 22行 20G60877-> A.  The tumour is a subcutaneous leiomyosarcoma which appears of a higher grade than that reported on the core biopsy (see 20G60877).  There are focal areas of necrosis but well below 50% (score 1).  The mitotic rate is focally very high particularly at the advancing edge and in these areas the count exceeds 20/10 HPF (score 3).  The tumour is therefore of grade 3 - total score 6 (tumour differentiation -2, mitoses count -3, tumour necrosis - 1).  
+142 4行 87C62982-> 87C62982,87C62982
+142 4行 87C62982-> 87C62982,87C62982
+143 3行 72D16908-> 72D16908,72D16908
+143 3行 72D16908-> 72D16908,72D16908
+144 1行 77H941695D-> Episode No:  77H941695D
+144 5行 77H94169-> Lab No:  77H94169
+145 2行 35D962754M-> Episode No:  35D962754M
+145 6行 35D96275-> Lab No:  35D96275
+146 2行 83Z983712V-> Episode No:  83Z983712V
+146 6行 83Z98371-> Lab No:  83Z98371
+147 4行 41W01387-> 41W01387
+148 2行 99S034828M-> Episode No:  99S034828M
+148 6行 99S03482-> Lab No:  99S03482
+148 31行 99S03482-> The previous biopsies (99S03482) were reviewed when reporting this case.
+149 2行 57O055986V-> Episode No:  57O055986V
+149 6行 57O05598-> Lab No:  57O05598
+149 31行 57O05598-> F.  Sections of skin show a focus of adenoid cystic carcinoma within deep soft tissue measuring 6mm in diameter.  The overlying epidermis is unremarkable.  No salivary gland tissue is seen.  The tumour is composed of basaloid cells with a mixed solid and cribriform architecture.  More than 50% of the lesion is composed of solid tumour with increased nuclear pleomorphism and mitotic activity, in keeping with a grade 3 (of 3).  The appearancesof tumour are similar to those described in the previous surgery (57O05598).  The tumour is completely excised.  The tumour is 2mm to the 3 o'clock lateral margin and is 4mm to the deep margin.  The other margins are well clear.  There is no evidence of lymphatic, vascular or perineural invasion.
+15 3行 05K17604-> 05K17604
+150 4行 84Y79795-> 84Y79795,84Y79795
+150 4行 84Y79795-> 84Y79795,84Y79795
+151 2行 26G099767T-> Episode No:  26G099767T
+151 6行 26G09976-> Lab No:  26G09976
+152 3行 73C02072-> 73C02072
+153 2行 31Z040884L-> Episode No:  31Z040884L
+153 6行 31Z04088-> Lab No:  31Z04088
+154 2行 26A581042R-> Episode No:  26A581042R
+154 6行 26A58104-> Lab No:  26A58104
+155 4行 21E36365-> 21E36365
+156 2行 89A384717Y-> Episode No:  89A384717Y
+156 6行 89A38471-> Lab No:  89A38471
+157 2行 37W304865H-> Episode No:  37W304865H
+157 6行 37W30486-> Lab No:  37W30486
+157 23行 37W30486-> Sections show multiple deposits of residual high grade tumour with similar appearances to the previously diagnosed epithelioid pecoma (37W30486 and 37W30486).  The largest tumour deposit measures approximately 20mm across.  A large seroma, possibly related to previous surgery, is present within the distal part of the specimen.  The tumour deposits are situated within adipose tissue lying between the bowel, bladder and vagina with no infiltration of the muscular walls of these structures.  The surgical margins appear clearhowever, in the vicinity of the bladder and on the right lateral side, tumour comes within less than 0.1mm of the resection margins with only a thinoverlying band of fibrous tissue.  The ureteric and rectal margins are clear of tumour and the two lymph nodes identified show no evidence of malignancy.
+157 23行 37W30486-> Sections show multiple deposits of residual high grade tumour with similar appearances to the previously diagnosed epithelioid pecoma (37W30486 and 37W30486).  The largest tumour deposit measures approximately 20mm across.  A large seroma, possibly related to previous surgery, is present within the distal part of the specimen.  The tumour deposits are situated within adipose tissue lying between the bowel, bladder and vagina with no infiltration of the muscular walls of these structures.  The surgical margins appear clearhowever, in the vicinity of the bladder and on the right lateral side, tumour comes within less than 0.1mm of the resection margins with only a thinoverlying band of fibrous tissue.  The ureteric and rectal margins are clear of tumour and the two lymph nodes identified show no evidence of malignancy.
+158 2行 95S425823Q-> Episode No:  95S425823Q
+158 6行 95S42582-> Lab No:  95S42582
+159 4行 43O45698-> 43O45698
+16 2行 01K477949H-> Episode No:  01K477949H
+16 6行 01K47794-> Lab No:  01K47794
+160 1行 69H597097P-> Episode No:  69H597097P
+160 5行 69H59709-> Lab No:  69H59709
+161 1行 80Y198956B-> Episode No:  80Y198956B
+161 5行 80Y19895-> Lab No:  80Y19895
+163 1行 37U119914J-> Episode No:  37U119914J
+163 5行 37U11991-> Lab No:  37U11991,37U11991
+163 5行 37U11991-> Lab No:  37U11991,37U11991
+164 4行 79D41172-> 79D41172
+165 1行 27Z432889O-> Episode No:  27Z432889O
+165 5行 27Z43288-> Lab No:  27Z43288
+166 2行 22A882047U-> Episode No:  22A882047U
+166 6行 22A88204-> Lab No:  22A88204
+167 2行 70W903195D-> Episode No:  70W903195D
+167 6行 70W90319-> Lab No:  70W90319
+168 3行 75A78570-> 75A78570
+169 2行 70B125960I-> Episode No:  70B125960I
+169 6行 70B12596-> Lab No:  70B12596
+17 1行 28X246028R-> Episode No:  28X246028R
+17 5行 28X24602-> Lab No:  28X24602
+170 2行 86T267086Z-> Episode No:  86T267086Z
+170 6行 86T26708-> Lab No:  86T26708
+171 2行 28C469893W-> Episode No:  28C469893W
+171 6行 28C46989-> Lab No:  28C46989
+172 2行 76Y599951E-> Episode No:  76Y599951E
+172 6行 76Y59995-> Lab No:  76Y59995
+173 1行 33V510919N-> Episode No:  33V510919N
+173 5行 33V51091-> Lab No:  33V51091
+174 2行 81R531067V-> Episode No:  81R531067V
+174 6行 81R53106-> Lab No:  81R53106
+175 1行 49N652025E-> Episode No:  49N652025E
+175 5行 49N65202-> Lab No:  49N65202,49N65202
+175 5行 49N65202-> Lab No:  49N65202,49N65202
+176 4行 97J67218-> 97J67218
+177 2行 02N454790M-> Episode No:  02N454790M
+177 6行 02N45479-> Lab No:  02N45479
+178 2行 50J475849U-> Episode No:  50J475849U
+178 6行 50J47584-> Lab No:  50J47584
+179 3行 18F59680-> 18F59680,18F59680
+179 3行 18F59680-> 18F59680,18F59680
+18 2行 66B527965L-> Episode No:  66B527965L
+18 6行 66B52796-> Lab No:  66B52796
+181 2行 24Y547923U-> Episode No:  24Y547923U
+181 6行 24Y54792-> Lab No:  24Y54792
+181 23行 24Y54792-> The 85mm tumour is a spindle cell neoplasm with similar features to the previous excisions (24Y54792 and 24Y54792).  The tumour is relatively circumscribed with a thin fibrous pseudocapsule in areas, but also shows focal areas of infiltration into adjacent hepatocellular parenchyma as well as entrapment of portal structures.  The cellulartumour shows a haphazard, sheet-like and focally storiform arrangement of spindle cells with densely eosinophilic, somewhat granular cytoplasm, mild to moderate nuclear pleomorphism, finely granular chromatin and single to multiple small eosinophilic nucleoli.  The tumour contains red blood cell-filled pseudovascular spaces, as well as capillary size vessels.  Occasional fibrous septa containing dilated vessels are also present.  There is a focal tumour necrosis (approximately 5% of tumour) and acute haemorrhage. Focal lymphovascular invasion is seen (block 3).  Tumour cell mitoses number up to 28 per 10hpf.  The tumour is 1.1mm from the resection margin (block 2)
+181 23行 24Y54792-> The 85mm tumour is a spindle cell neoplasm with similar features to the previous excisions (24Y54792 and 24Y54792).  The tumour is relatively circumscribed with a thin fibrous pseudocapsule in areas, but also shows focal areas of infiltration into adjacent hepatocellular parenchyma as well as entrapment of portal structures.  The cellulartumour shows a haphazard, sheet-like and focally storiform arrangement of spindle cells with densely eosinophilic, somewhat granular cytoplasm, mild to moderate nuclear pleomorphism, finely granular chromatin and single to multiple small eosinophilic nucleoli.  The tumour contains red blood cell-filled pseudovascular spaces, as well as capillary size vessels.  Occasional fibrous septa containing dilated vessels are also present.  There is a focal tumour necrosis (approximately 5% of tumour) and acute haemorrhage. Focal lymphovascular invasion is seen (block 3).  Tumour cell mitoses number up to 28 per 10hpf.  The tumour is 1.1mm from the resection margin (block 2)
+182 3行 72U66808-> 72U66808,72U66808
+182 3行 72U66808-> 72U66808,72U66808
+183 2行 30Q689139L-> Episode No:  30Q689139L
+183 6行 30Q68913-> Lab No:  30Q68913
+184 2行 87M609197U-> Episode No:  87M609197U
+184 6行 87M60919-> Lab No:  87M60919
+185 4行 29V90190-> 29V90190
+185 51行 298901-> *BRAF gene mutations were analysed using the Roche cobas BRAF V600 Mutation Test kit (ARTG: 298901). 
+186 4行 87R93206-> 87R93206
+187 3行 29A12477-> 29A12477
+188 4行 77W25583-> 77W25583
+189 2行 35S2759955-> Episode No:  35S2759955
+189 6行 35S27599-> Lab No:  35S27599
+19 1行 83O2969438-> Episode No:  83O2969438
+19 5行 83O29694-> Lab No:  83O29694,83O29694
+19 5行 83O29694-> Lab No:  83O29694,83O29694
+190 2行 41K317002E-> Episode No:  41K317002E
+190 6行 41K31700-> Lab No:  41K31700
+190 27行 41K31700-> A.  Sections show breast tissue.  There is fibrosis, granulation tissue  and fat necrosis extending from the cavity side of the specimen, consistent with previous surgery.  In three of the sections (Blocks A4, A6, A8) there is residual in situ carcinoma identified.  This involves ducts and lobules and is very similar in appearance to the peripheral areas of DCIS present in the previous resection specimen (41K31700).  The features are of DCIS showing pagetoid spread into peripheral ducts and lobules.  The DCIS in the present specimen is intermediate grade and it extends to part of the new inked lateral excision margin.  The appearances are otherwise unremarkable.  Slides have also been viewed by Prof L Lule.
+191 2行 99H338060M-> Episode No:  99H338060M
+191 6行 99H33806-> Lab No:  99H33806,99H33806
+191 6行 99H33806-> Lab No:  99H33806,99H33806
+192 2行 57D368128V-> Episode No:  57D368128V
+192 6行 57D36812-> Lab No:  57D36812
+193 3行 15Z48918-> 15Z48918
+194 2行 10D261883D-> Episode No:  10D261883D
+194 6行 10D26188-> Lab No:  10D26188
+195 2行 67Z282841L-> Episode No:  67Z282841L
+195 6行 67Z28284-> Lab No:  67Z28284
+196 1行 52A622009R-> Episode No:  52A622009R
+196 5行 52A62200-> LabNo:  52A62200
+197 2行 10W743167A-> Episode No:  10W743167A
+197 6行 10W74316-> Lab No:  10W74316,10W74316
+197 6行 10W74316-> Lab No:  10W74316,10W74316
+198 4行 78S77422-> 78S77422
+199 3行 73W54683-> 73W54683
+200 2行 21T666880Q-> Episode No:  21T666880Q
+200 6行 21T66688-> Lab No:  21T66688
+201 2行 89P6979499-> Episode No:  89P6979499
+201 6行 89P69794-> Lab No:  89P69794
+202 3行 47L61890-> 47L61890
+203 2行 32M158265N-> Episode No:  32M158265N
+203 6行 32M15826-> Lab No:  32M15826
+203 40行 I-> Lymph nodes (specimens I and I):  No malignancy seen (0/9)
+203 40行 I-> Lymph nodes (specimens I and I):  No malignancy seen (0/9)
+204 2行 37Q930872M-> Episode No:  37Q930872M
+204 6行 37Q93087-> Lab No:  37Q93087
+204 34行 I7-> Lymphovascular invasion:  Present (Block I7)
+204 47行 I76-> 	Superficial: 5.5mm (Block I76)
+204 48行 I76-> 	Deep: 3.5mm (Block I76)
+204 52行 I7-> 	Superficial: 6mm (Block I7)
+204 53行 I7-> 	Deep: 8mm (Block I7)
+204 54行 I76-> 	Superior: 1mm (Block I76)
+204 55行 I7-> 	Inferior: 6mm (Block I7)
+204 59行 I7-> Receptors (Block I7): 
+205 4行 21R37103-> 21R37103
+206 4行 89N40219-> 89N40219
+207 2行 37J422146K-> Episode No:  37J422146K
+207 6行 37J42214-> Lab No:  37J42214,37J42214
+207 6行 37J42214-> Lab No:  37J42214,37J42214
+208 3行 95F44320-> 95F44320
+209 2行 90J325811R-> Episode No:  90J325811R
+209 6行 90J32581-> Lab No:  90J32581
+209 81行 903325-> *BRAF gene mutations were analysed using the Roche cobas BRAF V600 Mutation Test kit (ARTG: 903325). 
+210 3行 58F34697-> 58F34697,58F34697
+210 3行 58F34697-> 58F34697,58F34697
+211 2行 06C367937J-> Episode No:  06C367937J
+211 6行 06C36793-> Lab No:  06C36793,06C36793
+211 6行 06C36793-> Lab No:  06C36793,06C36793
+212 2行 64Y387085R-> Episode No:  64Y387085R
+212 6行 64Y38708-> Lab No:  64Y38708
+213 2行 12U408043A-> Episode No:  12U408043A
+213 6行 12U40804-> Lab No:  12U40804
+213 38行 12U408043A-> FLOW CYTOMETRY RESULTS (12U408043A):
+214 4行 70Q43910-> 70Q43910,70Q43910
+214 4行 70Q43910-> 70Q43910,70Q43910
+215 1行 28M450260R-> Episode No:  28M450260R
+215 5行 28M45026-> Lab No:  28M45026
+215 30行 28M45026-> The previous biopsy (28M45026) has been reviewed and the diagnosis of carcinoma in situ and high grade urothelial carcinoma invading the detrusor muscle is confirmed.
+216 2行 86I570228A-> Episode No:  86I570228A
+216 6行 86I57022-> Lab No:  86I57022,86I57022
+216 6行 86I57022-> Lab No:  86I57022,86I57022
+217 2行 80M352825Z-> Episode No:  80M352825Z
+217 6行 80M35282-> Lab No:  80M35282
+218 1行 75N793183F-> Episode No:  75N793183F
+218 5行 75N79318-> Lab No:  75N79318
+219 2行 96F494941Q-> Episode No:  96F494941Q
+219 6行 96F49494-> Lab No:  96F49494,96F49494
+219 6行 96F49494-> Lab No:  96F49494,96F49494
+220 2行 54B415009Z-> Episode No:  54B415009Z
+220 6行 54B41500-> Lab No:  54B41500
+221 1行 02X445167H-> Episode No:  02X445167H
+221 5行 02X44516-> Lab No:  02X44516
+221 39行 49C8652-> C. Sections show a spindle cell malignancy adjacent to a surgical cavity, composed of interlacing fascicles of spindle shaped tumour cells with atypical, elongated nuclei. There are 24 mitoses per 10 hpf. Osteoid formation is present in the lesion, in keeping with focal osteosarcomatous differentiation. Focal necrosis is seen. The tumour shows weak focal staining for AE1/3 and panCK. The lesion has similar in appearance to the previous specimens (49C8652 and 49C8652), and would be in keeping with recurrent high grade sarcomatoid carcinoma with focal osteosarcomatous differentiation.
+221 39行 49C8652-> C. Sections show a spindle cell malignancy adjacent to a surgical cavity, composed of interlacing fascicles of spindle shaped tumour cells with atypical, elongated nuclei. There are 24 mitoses per 10 hpf. Osteoid formation is present in the lesion, in keeping with focal osteosarcomatous differentiation. Focal necrosis is seen. The tumour shows weak focal staining for AE1/3 and panCK. The lesion has similar in appearance to the previous specimens (49C8652 and 49C8652), and would be in keeping with recurrent high grade sarcomatoid carcinoma with focal osteosarcomatous differentiation.
+222 4行 44G73787-> 44G73787
+223 2行 02C7689224-> Episode No:  02C7689224
+223 6行 02C76892-> Lab No:  02C76892
+224 3行 50Y78908-> 50Y78908
+225 4行 18U70904-> 18U70904
+226 1行 66Q820107M-> Episode No:  66Q820107M
+226 5行 66Q82010-> Lab No:  66Q82010
+226 41行 66Q82010-> I have reported this case in consultation with Dr ISMAEL AGUILAR and Dr BOB MCKIE and am aware of the previous core biopsy and FNA reports (66Q82010, 66Q82010).  While the type 2 pneumocytes at the periphery of the subpleural scar are undoubtedly atypical the appearance falls short of atypical adenomatous hyperplasia.  The appearance favours reactive atypia.  The subpleural scar contains a necrotising granuloma and this may represent an old Ghon focus.  
+226 41行 66Q82010-> I have reported this case in consultation with Dr ISMAEL AGUILAR and Dr BOB MCKIE and am aware of the previous core biopsy and FNA reports (66Q82010, 66Q82010).  While the type 2 pneumocytes at the periphery of the subpleural scar are undoubtedly atypical the appearance falls short of atypical adenomatous hyperplasia.  The appearance favours reactive atypia.  The subpleural scar contains a necrotising granuloma and this may represent an old Ghon focus.  
+227 2行 08Z022913I-> Episode No:  08Z022913I
+227 6行 08Z02291-> Lab No:  08Z02291,08Z02291
+227 6行 08Z02291-> Lab No:  08Z02291,08Z02291
+228 2行 65V043971R-> Episode No:  65V043971R
+228 6行 65V04397-> Lab No:  65V04397
+229 4行 13S17302-> 13S17302
+230 2行 08S514288G-> Episode No:  08S514288G
+230 6行 08S51428-> Lab No:  08S51428
+231 2行 40B816094C-> Episode No:  40B816094C
+231 6行 40B81609-> Lab No:  40B81609
+232 4行 35C25626-> 35C25626
+233 2行 93Y287310R-> Episode No:  93Y287310R
+233 6行 93Y28731-> Lab No:  93Y28731,93Y28731
+233 6行 93Y28731-> Lab No:  93Y28731,93Y28731
+234 1行 98C159927Q-> Episode No:  98C159927Q
+234 5行 98C15992-> Lab No:  98C15992
+235 3行 56Z17098-> 56Z17098
+236 3行 04V10004-> 04V10004
+237 2行 62R221092Q-> Episode No:  62R221092Q
+237 6行 62R22109-> Lab No:  62R22109,62R22109
+237 6行 62R22109-> Lab No:  62R22109,62R22109
+238 4行 30E84301-> 30E84301
+239 2行 98B863176S-> Episode No:  98B863176S
+239 6行 98B86317-> Lab No:  98B86317
+240 2行 83B314334Y-> Episode No:  83B314334Y
+240 6行 83B31433-> Lab No:  83B31433
+241 3行 88F18693-> 88F18693
+242 4行 46C11709-> 46C11709,46C11709
+242 4行 46C11709-> 46C11709,46C11709
+243 2行 04Y238057O-> Episode No:  04Y238057O
+243 6行 04Y23805-> Lab No:  04Y23805,04Y23805
+243 6行 04Y23805-> Lab No:  04Y23805,04Y23805
+244 3行 52U25811-> 52U25811
+245 2行 10Q279174G-> Episode No:  10Q279174G
+245 6行 10Q27917-> Lab No:  10Q27917
+246 1行 42Z571980C-> Episode No:  42Z571980C
+246 5行 42Z57198-> Lab No:  42Z57198
+247 2行 00V592039L-> Episode No:  00V592039L
+247 6行 00V59203-> Lab No:  00V59203
+248 4行 68R51209-> 68R51209
+249 2行 15N643155C-> Episode No:  15N643155C
+249 6行 15N64315-> Lab No:  15N64315,15N64315
+249 6行 15N64315-> Lab No:  15N64315,15N64315
+251 1行 73K664113K-> Episode No:  73K664113K
+251 5行 73K66411-> Lab No:  73K66411
+252 4行 21G68427-> 21G68427
+253 1行 63O886088P-> Episode No:  63O886088P
+253 5行 63O88608-> Lab No:  63O88608
+254 4行 21L90703-> 21L90703
+255 4行 79H92819-> 79H92819
+256 3行 37D95825-> 37D95825,37D95825
+256 3行 37D95825-> 37D95825,37D95825
+257 4行 79M24096-> 79M24096
+258 2行 27I271027U-> Episode No:  27I271027U
+258 6行 27I27102-> Lab No:  27I27102
+259 1行 85E292185D-> Episode No:  85E292185D
+259 5行 85E29218-> Lab No:  85E29218
+260 2行 33A312134M-> Episode No:  33A312134M
+260 6行 33A31213-> Lab No:  33A31213,33A31213
+260 6行 33A31213-> Lab No:  33A31213,33A31213
+261 4行 27B76339-> 27B76339,27B76339
+261 4行 27B76339-> 27B76339,27B76339
+262 1行 48T354250D-> Episode No:  48T354250D
+262 5行 48T35425-> Lab No:  48T35425,48T35425
+262 5行 48T35425-> Lab No:  48T35425,48T35425
+263 4行 06P48531-> 06P48531
+264 2行 48X686125I-> Episode No:  48X686125I
+264 6行 48X68612-> Lab No:  48X68612
+265 1行 33Y027383O-> Episode No:  33Y027383O
+265 5行 33Y02738-> Lab No:  33Y02738
+265 38行 33Y0273-> The findings arein keeping with recurrent high grade glioma.  The tumour has a similar morphology to the previous specimen (33Y0273, diagnosed as glioblastoma multiforme, WHO grade 4)
+265 69行 33Y02738-> "DNA was extracted from paraffin tissue from MERLIN BUNN(33Y02738). 
+266 4行 75H32919-> 75H32919
+267 2行 44V940006E-> Episode No:  44V940006E
+267 6行 44V94000-> Lab No:  44V94000
+268 1行 39W491364K-> Episode No:  39W491364K
+268 5行 39W49136-> Lab No:  39W49136
+269 2行 97S412322T-> Episode No:  97S412322T
+269 6行 97S41232-> Lab No:  97S41232
+270 2行 39B614139P-> Episode No:  39B614139P
+270 6行 39B61413-> Lab No:  39B61413
+271 3行 86X73419-> 86X73419,86X73419
+271 3行 86X73419-> 86X73419,86X73419
+272 4行 44T75525-> 44T75525
+273 2行 65K356103S-> Episode No:  65K356103S
+273 6行 65K35610-> Lab No:  65K35610
+274 3行 50L89736-> 50L89736,50L89736
+274 3行 50L89736-> 50L89736,50L89736
+275 2行 71D497220J-> Episode No:  71D497220J
+275 6行 71D49722-> Lab No:  71D49722
+276 2行 39Z428388R-> Episode No:  39Z428388R
+276 6行 39Z42838-> Lab No:  39Z42838
+277 3行 61I72019-> 61I72019
+278 2行 29E741143X-> Episode No:  29E741143X
+278 6行 29E74114-> Lab No:  29E74114,29E74114
+278 6行 29E74114-> Lab No:  29E74114,29E74114
+279 2行 40V342001I-> Episode No:  40V342001I
+279 6行 40V34200-> Lab No:  40V34200
+279 37行 U7-> Left apex:		0.1mm (U7, U7).
+279 37行 U7-> Left apex:		0.1mm (U7, U7).
+279 38行 U70-> Left base: 		0.1mm (U70).
+279 39行 U70-> Right posterior:	Positive over a 2mm length (U70).
+279 40行 U70-> Left posterior:		Positive over an8mm length (U70, U70). 
+279 40行 U70-> Left posterior:		Positive over an8mm length (U70, U70). 
+279 43行 U70-> Seminal vesicles: Right involved (U70). 
+279 44行 U-> Lymph nodes:  6 right pelvic lymph nodes (specimen U) and 3 left pelvic lymph nodes (specimen U) all free of tumour. 
+279 44行 U-> Lymph nodes:  6 right pelvic lymph nodes (specimen U) and 3 left pelvic lymph nodes (specimen U) all free of tumour. 
+28 1行 35W782269O-> Episode No:  35W782269O
+28 5行 35W78226-> Lab No:  35W78226,35W78226
+28 5行 35W78226-> Lab No:  35W78226,35W78226
+280 4行 93S80332-> 93S80332
+281 2行 40O834385F-> Episode No:  40O834385F
+281 6行 40O83438-> Lab No:  40O83438
+282 1行 82X025192B-> Episode No:  82X025192B
+282 5行 82X02519-> Lab No:  82X02519
+283 4行 40T15624-> 40T15624
+284 2行 98Q177208T-> Episode No:  98Q177208T
+284 6行 98Q17720-> Lab No:  98Q17720
+285 1行 56M198366B-> Episode No:  56M198366B
+285 5行 56M19836-> Lab No:  56M19836
+286 2行 04I218424K-> Episode No:  04I218424K
+286 6行 04I21842-> Lab No:  04I21842,04I21842
+286 6行 04I21842-> Lab No:  04I21842,04I21842
+287 2行 62E239483S-> Episode No:  62E239483S
+287 6行 62E23948-> Lab No:  62E23948
+288 1行 67I011089R-> Episode No:  67I011089R
+288 5行 67I01108-> Lab No:  67I01108
+288 34行 67I01108-> A.  The whole cervix and lower uterine segment have been blocked.  Sections from the left posterior cervix show an area of CIN 3 on the ectocervix and extending to the distal diathermied excision margin.  There is no invasion.  The CIN 3 has a pleomorphic, keratinised appearance and the cells have a very similar appearance to those seen in the previous cytology smears(67I01108, 67I01108 and 67I01108).
+288 34行 67I01108-> A.  The whole cervix and lower uterine segment have been blocked.  Sections from the left posterior cervix show an area of CIN 3 on the ectocervix and extending to the distal diathermied excision margin.  There is no invasion.  The CIN 3 has a pleomorphic, keratinised appearance and the cells have a very similar appearance to those seen in the previous cytology smears(67I01108, 67I01108 and 67I01108).
+288 34行 67I01108-> A.  The whole cervix and lower uterine segment have been blocked.  Sections from the left posterior cervix show an area of CIN 3 on the ectocervix and extending to the distal diathermied excision margin.  There is no invasion.  The CIN 3 has a pleomorphic, keratinised appearance and the cells have a very similar appearance to those seen in the previous cytology smears(67I01108, 67I01108 and 67I01108).
+289 2行 25E132148A-> Episode No:  25E132148A
+289 6行 25E13214-> Lab No:  25E13214
+29 2行 73A163106J-> Episode No:  73A163106J
+29 6行 73A16310-> Lab No:  73A16310
+290 1行 31W183264R-> Episode No:  31W183264R
+290 5行 31W18326-> Lab No:  31W18326
+290 50行 31W18326-> FFPE Block 31W18326/A6
+291 2行 89T204322A-> Episode No:  89T204322A
+291 6行 89T20432-> Lab No:  89T20432
+292 2行 46P225370J-> Episode No:  46P225370J
+292 6行 46P22537-> Lab No:  46P22537
+293 3行 94L24643-> 94L24643
+294 4行 36U44724-> 36U44724,36U44724
+294 4行 36U44724-> 36U44724,36U44724
+295 2行 94Q568203W-> Episode No:  94Q568203W
+295 6行 94Q56820-> Lab No:  94Q56820
+296 1行 42M599361F-> Episode No:  42M599361F
+296 5行 42M59936-> Lab No:  42M59936
+297 4行 00I51032-> 00I51032
+297 9行 00I51032-> (see 00I51032 - ADH with calcification).
+298 4行 58E63047-> 58E63047
+299 1行 16B651536F-> Episode No:  16B651536F
+299 5行 16B65153-> Lab No:  16B65153
+30 2行 11F433143E-> Episode No:  11F433143E
+30 6行 11F43314-> Lab No:  11F43314,11F43314
+30 6行 11F43314-> Lab No:  11F43314,11F43314
+300 2行 79B554101M-> Episode No:  79B554101M
+300 6行 79B55410-> Lab No:  79B55410
+301 3行 27X57426-> 27X57426
+302 2行 85T595217E-> Episode No:85T595217E
+302 6行 85T59521-> Lab No:  85T59521
+303 4行 79U04657-> 79U04657
+304 1行 74Y828182J-> Episode No:  74Y828182J
+304 5行 74Y82818-> Lab No:  74Y82818
+305 2行 32U848140R-> Episode No:  32U848140R
+305 6行 32U84814-> Lab No:  32U84814
+306 2行 80Q869208A-> Episode No:  80Q869208A
+306 6行 80Q86920-> Lab No:  80Q86920
+307 3行 48M98036-> 48M98036
+308 2行 96J901315R-> Episode No:  96J901315R
+308 6行 96J90131-> Lab No:  96J90131
+308 46行 96J90131-> Her 2: The Her 2 immunoperoxidase stain shows anadmixture of predominantly 2+ staining admixed with foci of 3+ staining. Her 2 amplification was demonstrated with SISH on the previous core biopsy, 96J90131.
+308 56行 96J90131-> 6. Her2 2+ and focally 3+. See previous core biopsy for SISH result (96J90131)
+309 4行 54F93147-> 54F93147
+31 1行 02B052431I-> Episode No:  02B052431I
+31 5行 02B05243-> Lab No:  02B05243
+310 2行 60X073599R-> Episode No:  60X073599R
+310 6行 60X07359-> Lab No:  60X07359
+311 2行 02G275306N-> Episode No:  02G275306N
+311 6行 02G27530-> Lab No:  02G27530
+312 1行 50C395364W-> Episode No:  50C395364W
+312 5行 50C39536-> Lab No:  50C39536
+313 2行 17Y316412F-> Episode No:  17Y316412F
+313 6行 17Y31641-> Lab No:  17Y31641
+314 2行 38Q917370Q-> Episode No:  38Q917370Q
+314 6行 38Q91737-> Lab No:  38Q91737
+315 3行 86M03833-> 86M03833
+316 2行 28V230145V-> Episode No:  28V230145V
+316 6行 28V23014-> Lab No:  28V23014
+317 2行 86R260293D-> Episode No:  86R260293D
+317 6行 86R26029-> Lab No:  86R26029
+318 3行 34N38125-> 34N38125
+319 2行 92J302310V-> Episode No:  92J302310V
+319 6行 92J30231-> Lab No:  92J30231
+32 2行 50F323378D-> Episode No:  50F323378D
+32 6行 50F32337-> Lab No:  50F32337,50F32337
+32 6行 50F32337-> Lab No:  50F32337,50F32337
+320 3行 08B34343-> 08B34343
+321 2行 66X474584U-> Episode No:66X474584U
+321 6行 66X47458-> LabNo:  66X47458
+322 4行 14U49554-> 14U49554
+322 13行 14U49554-> Some lymphocytes within the atypical follicles show positive staining with CD10 however the monocytoid-appearing cells do not appear to stain.  Follicular dendritic cell networks are demonstrated with CD21 stain, possibly absent in focal diffuse areas.  The Ki67 index is approximately 30%.  The morphological appearanceand immunohistochemical profile are consistent with follicular lymphoma, grade 1.  The current case has similar appearances to the previous left groin lymph node (14U49554), however there now appears to be an additional infiltrate of monocytoid cells.  Monocytoid cells are seen occasionally within follicular lymphoma.  There is no evidence of transformation to high grade lymphoma within this specimen.
+323 3行 55C69735-> 55C69735
+324 4行 13Z71741-> 13Z71741
+325 3行 55H91912-> 55H91912
+326 1行 03E930282N-> Episode No:  03E930282N
+326 5行 03E93028-> Lab No:  03E93028
+327 4行 61A05134-> 61A05134,61A05134
+327 4行 61A05134-> 61A05134,61A05134
+328 1行 19W0713981-> Episode No:  19W0713981
+328 5行 19W07139-> Lab No:  19W07139,19W07139
+328 5行 19W07139-> Lab No:  19W07139,19W07139
+329 1行 77S002456N-> Episode No:  77S002456N
+329 5行 77S00245-> Lab No:  77S00245,77S00245
+329 5行 77S00245-> Lab No:  77S00245,77S00245
+33 4行 25O12341-> 25O12341
+330 3行 83K14357-> 83K14357,83K14357
+330 3行 83K14357-> 83K14357,83K14357
+331 1行 25T345389B-> Episode No:  25T345389B
+331 5行 25T34538-> Lab No:  25T34538,25T34538
+331 5行 25T34538-> Lab No:  25T34538,25T34538
+332 4行 73P46634-> 73P46634
+333 1行 30L487496S-> Episode No:  30L487496S
+333 5行 30L48749-> Lab No:  30L48749
+334 1行 88I417454A-> Episode No:  88I417454A
+334 5行 88I41745-> Lab No:  88I41745,88I41745
+334 5行 88I41745-> Lab No:  88I41745,88I41745
+335 2行 46E538512J-> Episode No:  46E538512J
+335 6行 46E53851-> Lab No:  46E53851,46E53851
+335 6行 46E53851-> Lab No:  46E53851,46E53851
+336 1行 88N730329G-> Episode No:  88N730329G
+336 5行 88N73032-> Lab No:  88N73032
+337 1行 36J751387O-> Episode No:  36J751387O
+337 5行 36J75138-> Lab No:  36J75138
+339 2行 94F871445X-> Episode No:  94F871445X
+339 6行 94F87144-> Lab No:  94F87144,94F87144
+339 6行 94F87144-> Lab No:  94F87144,94F87144
+34 2行 42B892593F-> Episode No:  42B892593F
+34 6行 42B89259-> Lab No:  42B89259
+340 3行 00X81355-> 00X81355
+341 2行 58T944619X-> Episode No:  58T944619X
+341 6行 58T94461-> Lab No:  58T94461,58T94461
+341 6行 58T94461-> Lab No:  58T94461,58T94461
+342 1行 63X7162268-> Episode No:  63X7162268
+342 5行 63X71622-> Lab No:  63X71622
+343 3行 11T74638-> 11T74638
+344 2行 79Q767333N-> Episode No:  79Q767333N
+344 6行 79Q76733-> Lab No:  79Q76733
+344 29行 05U28754-> Further stains have been performed on this specimen and on the recent biopsy of posterior vaginal wall (05U28754).  The tumous in both specimens have a similar appearance.
+345 1行 63R208591T-> Episode No:  63R208591T
+345 5行 63R20859-> Lab No:  63R20859
+346 1行 11N2286590-> Episode No:  11N2286590
+346 5行 11N22865-> Lab No:  11N22865
+346 29行 11N22865-> Please also refer to the supplementary report of the previous excision, 11N22865.
+347 2行 26R000266B-> Episode No:  26R000266B
+347 6行 26R00026-> Lab No:  26R00026
+348 1行 11S541424H-> Episode No:  11S541424H
+348 5行 11S54142-> Lab No:  11S54142,11S54142
+348 5行 11S54142-> Lab No:  11S54142,11S54142
+349 1行 69O572582P-> Episode No:  69O572582P
+349 5行 69O57258-> Lab No:  69O57258
+35 2行 27K592640Y-> Episode No:  27K592640Y
+35 6行 27K59264-> Lab No:  27K59264
+35 18行 27K59264-> (27K59264 - Invasive carcinoma, Her-2 negative, ER+, PR+.)
+35 52行 27K59264-> Receptors: see previous reports (27K59264, 27K59264)
+35 52行 27K59264-> Receptors: see previous reports (27K59264, 27K59264)
+350 1行 85G613698G-> Episode No:  85G613698G
+350 5行 85G61369-> Lab No:  85G61369
+351 1行 80K495205F-> Episode No:  80K495205F
+351 5行 80K49520-> Lab No:  80K49520,80K49520
+351 5行 80K49520-> Lab No:  80K49520,80K49520
+352 2行 38G416363O-> Episode No:  38G416363O
+352 6行 38G41636-> Lab No:  38G41636
+354 1行 96D537321X-> Episode No:  96D537321X
+354 5行 96D53732-> Lab No:  96D53732
+355 2行 44Z557489F-> Episode No:  44Z557489F
+355 6行 44Z55748-> Lab No:  44Z55748,44Z55748
+355 6行 44Z55748-> Lab No:  44Z55748,44Z55748
+356 3行 01V58853-> 01V58853
+357 3行 69R60959-> 69R60959
+359 1行 17N620654F-> Episode No:  17N620654F
+359 5行 17N62065-> Lab No:  17N62065
+36 3行 75J64061-> 75J64061
+360 4行 70N42222-> 70N42222
+361 1行 38J5433778-> Episode No:  38J5433778
+361 5行 38J54337-> Lab No:  38J54337,38J54337
+361 5行 38J54337-> Lab No:  38J54337,38J54337
+362 1行 86G5644351-> Episode No:  86G5644351
+362 5行 86G56443-> Lab No:  86G56443
+363 2行 44C584493N-> Episode No:  44C584493N
+363 6行 44C58449-> Lab No:  44C58449,44C58449
+363 6行 44C58449-> Lab No:  44C58449,44C58449
+364 1行 92Y615551V-> Episode No:  92Y615551V
+364 5行 92Y61555-> Lab No:  92Y61555
+365 1行 50U636510E-> Episode No:  50U636510E
+365 5行 50U63651-> Lab No:  50U63651
+366 2行 08Q657668M-> Episode No:  08Q657668M
+366 6行 08Q65766-> Lab No:  08Q65766,08Q65766
+366 6行 08Q65766-> Lab No:  08Q65766,08Q65766
+367 1行 65M777726V-> Episode No:  65M777726V
+367 5行 65M77772-> Lab No:  65M77772
+368 3行 60Q55933-> 60Q55933
+369 4行 55R99059-> 55R99059
+37 4行 13O02155-> 13O02155
+370 1行 61K041617R-> Episode No:  61K041617R
+370 5行 61K04161-> Lab No:  61K04161
+370 27行 61K04161-> There is a 4mm focus of ossification within the well differentiated liposarcoma.  This focus is favoured to represent heterotopic ossification, however, as it merges with sclerosing liposarcoma and there are atypical intertrabecular stromal cells and atypical spindle cells abutting the bone (? osteoblasts), I cannot exclude a microscopic focus of low grade osteosarcomatous dediffentiation.  No definite high grade dedifferentiation is seen.  In contrast the foci of ossification in the previous resction specimen (61K04161- 15,47), were grossly visible and showed either marked stromal atypia  in association with atypical mitoses or seams of osteoid in continuity with malignant osteoblasts, as opposed to lamellar bone seen currently.
+371 2行 29G062765A-> Episode No:  29G062765A
+371 6行 29G06276-> Lab No:  29G06276
+372 1行 61P364472W-> Episode No:  61P364472W
+372 5行 61P36447-> Lab No:  61P36447
+373 1行 30C986498Q-> Episode No:  30C986498Q
+373 5行 30C98649-> Lab No:  30C98649
+374 2行 25D326656W-> Episode No:  25D326656W
+374 6行 25D32665-> Lab No:  25D32665
+375 1行 67M628463T-> Episode No:  67M628463T
+375 5行 67M62846-> Lab No:  67M62846
+376 3行 45Z25037-> 45Z25037
+377 2行 30A790637S-> Episode No:  30A790637S
+377 6行 30A79063-> Lab No:  30A79063
+378 1行 09O312544M-> Episode No:  09O312544M
+378 5行 09O31254-> Lab No:  09O31254
+379 1行 88B033560G-> Episode No:  88B033560G
+379 5行 88B03356-> Lab No:  88B03356
+38 2行 57P655477A-> Episode No:  57P655477A
+38 6行 57P65547-> Lab No:  57P65547
+380 1行 42Q106635G-> Episode No:  42Q106635G
+380 5行 42Q10663-> Lab No:  42Q10663
+381 1行 00M126793P-> Episode No:  00M126793P
+381 5行 00M12679-> Lab No:  00M12679
+382 2行 05Q908300O-> Episode No:  05Q908300O
+382 6行 05Q90830-> Lab No:  05Q90830
+383 1行 63M029468W-> Episode No:  63M029468W
+383 5行 63M02946-> Lab No:  63M02946
+384 1行 10I040416F-> Episode No:  10I040416F
+384 5行 10I04041-> Lab No:  10I04041
+385 2行 78F061574N-> Episode No:  78F061574N
+385 6行 78F06157-> Lab No:  78F06157
+386 1行 26B091633W-> Episode No:  26B091633W
+386 5行 26B09163-> Lab No:  26B09163
+387 1行 84X112691F-> Episode No:  84X112691F
+387 5行 84X11269-> Lab No:  84X11269
+387 16行 84X11269-> Right mastectomy with level 3 axillary clearance for multifocal invasive breast Ca and ?extensive DCIS.  (Previous 84X11269 - ER PR HER-2 on core, grade 2)
+388 2行 26G314407B-> Episode No:  26G314407B
+388 6行 26G31440-> Lab No:  26G31440,26G31440
+388 6行 26G31440-> Lab No:  26G31440,26G31440
+389 1行 74C335566K-> Episode No:  74C335566K
+389 5行 74C33556-> Lab No:  74C33556
+39 1行 32Y455514S-> Episode No:  32Y455514S
+39 5行 32Y45551-> Lab No:  32Y45551
+39 27行 79D87572-> A.  The sentinel lymph node contains a single tubular structure, less than 0.1mm in dimension, within the subcapsular sinus.  The tubule is lined by single layer of cells with mildly pleomorphic nuclei, small nucleoli and eosinophilic cytoplasm.  An occasional giant cell is also seen nearby within the lymph node parenchyma. The cytological features of the cells of the tubule are similar to those of the previously excised invasive carcinoma (79D87572).  The tubule is only present in a single level and attempted analysis with a keratin immunostain following deparaffinisation and destaining of the H&E stained section is unsuccessful due to tissue disruption.  In a separate single level, away from the tubular focus, there are several nests of bland ovoid to spindle cells within the capsule of the lymph node. These cells have slightly irregular nuclei, pale chromatin and a rare intranuclear inclusion.  No mitosis are seen.  Attempted keratin immunostaining on these cells is also unsuccessful due to tissue disruption.  The routine CAM5.2 keratin immunostains (performed on levels not containing these foci) are negative.  
+390 2行 90U476672B-> Episode No:  90U476672B
+390 6行 90U47667-> Lab No:  90U47667
+391 1行 48Q497630K-> Episode No:  48Q497630K
+391 5行 48Q49763-> Lab No:  48Q49763,48Q49763,48Q49763
+391 5行 48Q49763-> Lab No:  48Q49763,48Q49763,48Q49763
+391 5行 48Q49763-> Lab No:  48Q49763,48Q49763,48Q49763
+392 1行 06N528798S-> Episode No:  06N528798S
+392 5行 06N52879-> Lab No:  06N52879
+392 94行 06N52879-> Material received: 4 slides labelled "06N52879-D23 Whitby" 
+393 2行 54J548746B-> Episode No:  54J548746B
+393 6行 54J54874-> Lab No:  54J54874
+394 1行 58N320453A-> Episode No:  58N320453A
+394 5行 58N32045-> Lab No:  58N32045
+395 3行 16J44141-> 16J44141
+396 4行 74F46257-> 74F46257
+397 3行 22B48253-> 22B48253
+398 3行 80X40368-> 80X40368
+399 4行 38U53464-> 38U53464
+40 2行 96Q555702Z-> Episode No:  96Q555702Z
+40 6行 96Q55570-> Lab No:  96Q55570
+400 1行 44M575860I-> Episode No:  44M575860I
+400 5行 44M57586-> Lab No:  44M57586
+401 4行 86V87757-> 86V87757
+402 3行 07M47842-> 07M47842
+403 3行 65I49958-> 65I49958
+404 4行 13E51064-> 13E51064
+405 1行 70A530600Q-> Episode No:  70A530600Q
+405 5行 70A53060-> Lab No:  70A53060
+406 1行 28X561768Y-> Episode No:  28X561768Y
+406 5行 28X56176-> Lab No:  28X56176
+407 2行 86T682716H-> Episode No:  86T682716H
+407 6行 86T68271-> Lab No:  86T68271
+408 3行 34P60287-> 34P60287
+409 3行 49T48448-> 49T48448
+41 4行 97P40554-> 97P40554
+410 1行 82Q946707D-> Episode No:  82Q946707D
+410 5行 82Q94670-> Lab No:  82Q94670
+411 1行 40M976765M-> Episode No:  40M976765M
+411 5行 40M97676-> Lab No:  40M97676
+412 4行 98I99781-> 98I99781
+413 3行 03M86942-> 03M86942,03M86942
+413 3行 03M86942-> 03M86942,03M86942
+414 1行 98N210688Z-> Episode No:  98N210688Z
+414 5行 98N21068-> Lab No:  98N21068
+415 4行 45J23174-> 45J23174,45J23174
+415 4行 45J23174-> 45J23174,45J23174
+416 1行 87S532553E-> Episode No:  87S532553E
+416 5行 87S53255-> Lab No:  87S53255
+417 1行 45O5535115-> Episode No:  45O5535115
+417 5行 45O55351-> Lab No:  45O55351,45O55351
+417 5行 45O55351-> Lab No:  45O55351,45O55351
+418 4行 93L57467-> 93L57467
+419 3行 51H60572-> 51H60572
+42 3行 93Q89643-> 93Q89643
+420 4行 41M82759-> 41M82759
+421 3行 09I94855-> 09I94855
+422 1行 94J388819Y-> Episode No:  94J388819Y
+422 5行 94J38881-> Lab No:  94J38881,94J38881
+422 5行 94J38881-> Lab No:  94J38881,94J38881
+423 2行 52F319877G-> Episode No:  52F319877G
+423 6行 52F31987-> Lab No:  52F31987
+424 1行 57J281484G-> Episode No:  57J281484G
+424 5行 57J28148-> Lab No:  57J28148
+425 1行 04F2025325-> Episode No:  04F2025325
+425 5行 04F20253-> LabNo:  04F20253
+426 2行 62B233690X-> Episode No:  62B233690X
+426 6行 62B23369-> Lab No:  62B23369
+427 3行 20X35365-> 20X35365
+428 1行 78U374716O-> Episode No:  78U374716O
+428 5行 78U37471-> Lab No:  78U37471
+429 2行 36Q395774X-> Episode No:  36Q395774X
+429 6行 36Q39577-> Lab No:  36Q39577
+429 24行 36Q39577-> The specimen has been entirelyembedded and examined.   Sections show a spectrum of intraduct proliferative lesions including columnar cell hyperplasia, florid epithelial hyperplasia of the usualtype and multiple papillomas with superimposed florid epithelial hyperplasia.  Fibrous core biopsy tracts with adjacent subacute haemorrhage are identified (block 15, 18 and 20).  The two firm areas identified grossly within slices threeand four correspond to a 5mm sclerosing fibroadenoma with mild epithelial hyperplasia and focal glandular calcification and two adjacent intraduct papillomas, each about 4mm in dimension. One of the papillomas abuts the superficial marginat the junction with the inferior margin (block 7). The fibroadenoma is 4mm clear of the closest (deep) margin. The fibroadenoma lacks the columnar cell hyperplasia seen in the core biopsy specimen (36Q39577- specimen B), the latter morelikely corresponding to one of the benign epithelial proliferative lesions described.  A cluster of multiple intraduct papillomas, many with florid epithelial hyperplasia, is present towards the medialaspect of the specimen across approximately three consecutive slices reaching both the inferior and medial margins (block 22 & 23).  A myoepithelial cell contribution is confirmed with CK5/6 immunostaining demonstrating a benign mosaic pattern of staining. The breast tissue also shows cystic change, apocrine metaplasia, several foci of sclerosing adenosis and a focus of hyperplastic pregnancy like change (block 6).  Numerous benign glandular calcifications are present.Some of the intraduct proliferative lesions show superimposed mild architectural atypia, however, the features fall short of definite atypical ductal hyperplasia.  No in-situ carcinoma or invasive malignancy is seen.  
+43 2行 84M415822F-> Episode No:  84M415822F
+43 6行 84M41582-> Lab No:84M41582
+43 60行 689697-> * EGFR gene mutations were analysed using the Roche cobas EGFR Mutation Test kit (ARTG: 689697).
+430 3行 26V61763-> 26V61763
+431 2行 11W068897I-> Episode No:  11W068897I
+431 6行 11W06889-> Lab No:  11W06889,11W06889
+431 6行 11W06889-> Lab No:  11W06889,11W06889
+432 1行 90J789814B-> Episode No:  90J789814B
+432 5行 90J78981-> Lab No:  90J78981
+432 30行 90J78981-> D.   Sections show a small surgical cavity with surrounding scar, granulation tissue, fat necrosis and suture granulomas.  No residual ductal carcinoma in situ is identified (see previous report 90J78981).  Representative sections from the remainingbreast show benign changes only with fibrocystic and apocrine change.  The nipple shows no significant abnormality.  No invasive malignancy is seen.
+433 3行 48F70087-> 48F70087
+434 2行 05B721920T-> Episode No:  05B721920T
+434 6行 05B72192-> Lab No:  05B72192
+435 1行 00F603537S-> Episode No:  00F603537S
+435 5行 00F60353-> Lab No:  00F60353
+436 3行 68C62459-> 68C62459
+437 2行 16Y644653J-> Episode No:  16Y644653J
+437 6行 16Y64465-> Lab No:  16Y64465
+438 1行 74U775711S-> Episode No:  74U775711S
+438 5行 74U77571-> Lab No:  74U77571
+439 3行 22Q79676-> 22Q79676,22Q79676
+439 3行 22Q79676-> 22Q79676,22Q79676
+44 2行 80M717828J-> Episode No:  80M717828J
+44 6行 80M71782-> Lab No:  80M71782
+440 1行 22V018634F-> Episode No:  22V018634F
+440 5行 22V01863-> Lab No:  22V01863
+441 3行 96F85894-> 96F85894
+442 2行 91J630541Z-> Episode No:  91J630541Z
+442 6行 91J63054-> Lab No:  91J63054
+443 1行 59F651609I-> Episode No:  59F651609I
+443 5行 86K17171-> Lab No:  86K17171,86K17171
+443 5行 86K17171-> Lab No:  86K17171,86K17171
+444 1行 43G101867O-> Episode No:  43G101867O
+444 5行 43G10186-> Lab No:  43G10186
+445 2行 91C1228258-> Episode No:  91C1228258
+445 6行 91C12282-> Lab No:  91C12282
+446 1行 59Y243983F-> Episode No:  59Y243983F
+446 5行 59Y24398-> Lab No:  59Y24398
+447 1行 54C025590E-> Episode No:  54C025590E
+447 5行 54C02559-> Lab No:  54C02559
+448 2行 12Y046648N-> Episode No:  12Y046648N
+448 6行 12Y04664-> Lab No:  12Y04664
+449 1行 60U066606V-> Episode No:  60U066606V
+449 5行 60U06660-> Lab No:  60U06660
+45 1行 28R187764E-> Episode No:  28R187764E
+45 5行 28R18776-> Lab No:  28R18776
+450 2行 76N118823M-> Episode No:  76N118823M
+450 6行 76N11882-> Lab No:  76N11882
+450 17行 765/11882-> Wider excision of subcutaneous sarcoma left lower leg: previously called MFH at DICKINSON 2 NORTH (No 765/11882). 
+450 30行 U65/11882-> The morphological appearance of the residual spindle cell component of the current tumour is similar to that described in the consultation review report of the previously excised tumour in which a diagnosis of intermediate grademyofibrosarcoma was favoured (Prof U Plotts, ONCOLOGY (GYNAE) GREAT OCEAN ROAD HEALTH - LORNE COMMUNITY HOSPITAL Hospital; referred from West pathology U65/11882). However, the current tumour displays an additional component of mitotically active pleomorphic epithelioid, spindled and multinucleated tumour cell admixed with osteoclast-like giant cells, not described in the previous excision.  The tumour cells in this focus, as well as a proportion of the purely spindle cell component also display patchy desmin expression, another feature not described in the original excision. There is also patchy SMA expression.  In the context of the previous findings the current tumour appearances are favoured to represent myofibrosarcoma with an evolving higher grade sarcomatous component with admixed osteoclast like giant cells (malignant fibrous histiocytoma-like with osteoclast like giant cells). Given the patchy desmin expression currently and lack of desmin expression in the previously excised tumour, a diagnosis of leiyomyosarcoma with osteoclast like giant cells is regarded as less likely. The FNLCC grade would therefore be 3 (differentiation score=3, mitosis score=3, necrosis score=0; total score =6).
+451 1行 34J138881V-> Episode No:  34J138881V
+451 5行 34J13888-> Lab No:  34J13888
+452 1行 82F259939E-> Episode No:  82F259939E
+452 5行 82F25993-> Lab No:  82F25993
+453 4行 40B27099-> 40B27099
+454 1行 45F052504L-> Episode No:  45F052504L
+454 5行 45F05250-> Lab No:  45F05250
+455 1行 03B073662U-> Episode No:  03B073662U
+455 5行 03B07366-> Lab No:  03B07366
+455 18行 03B07366-> Please note discrepancy between the side of the lesion in the submitted clinical information and the specimen label.  The previous FNAB/core biopsy was labelled left breast (03B07366/03B07366) and a previously carcinoma excised in 2051 was also labelled left breast (03B07366).
+455 18行 03B07366-> Please note discrepancy between the side of the lesion in the submitted clinical information and the specimen label.  The previous FNAB/core biopsy was labelled left breast (03B07366/03B07366) and a previously carcinoma excised in 2051 was also labelled left breast (03B07366).
+455 18行 03B07366-> Please note discrepancy between the side of the lesion in the submitted clinical information and the specimen label.  The previous FNAB/core biopsy was labelled left breast (03B07366/03B07366) and a previously carcinoma excised in 2051 was also labelled left breast (03B07366).
+456 4行 71P79457-> 71P79457
+457 3行 03V66593-> 03V66593
+458 1行 45D866743O-> Episode No:  45D866743O
+458 5行 45D86674-> Lab No:  45D86674
+459 2行 30E207911U-> Episode No:  30E207911U
+459 6行 30E20791-> Lab No:  30E20791
+46 4行 72N50972-> 72N50972
+460 1行 67O959086W-> Episode No:  67O959086W
+460 5行 67O95908-> Lab No:  67O95908
+461 2行 62S721683V-> Episode No:  62S721683V
+461 6行 62S72168-> Lab No:  62S72168
+462 1行 20O842641E-> Episode No:  20O842641E
+462 5行 20O84264-> Lab No:  20O84264
+463 1行 14P293909K-> Episode No:  14P293909K
+463 5行 14P29390-> Lab No:  14P29390
+463 33行 14P29390-> The previous biopsies (14P29390) have been reviewed    
+464 4行 72L21396-> 72L21396
+464 8行 72L21396-> Rt hemi hepatectomy.  Previous gallbladder Ca. Hilar LN dissection, (see 72L21396)
+465 1行 20H334025B-> Episode No:  20H334025B
+465 5行 20H33402-> Lab No:  20H33402
+466 1行 25L116632A-> Episode No:  25L116632A
+466 5行 25L11663-> Lab No:  25L11663
+467 2行 83I137680J-> Episode No:  83I137680J
+467 6行 83I13768-> Lab No:  83I13768
+467 17行 83-31376803-> Melanoma site prev shave biopsy @ least 3mm deep.  (Originalwith ST GEORGEPRIVATE:  lab no:  83-31376803).  
+468 1行 41E258748R-> Episode No:  41E258748R
+468 5行 41E25874-> Lab No:  41E25874
+469 3行 99A28880-> 99A28880
+471 3行 84B62906-> 84B62906
+472 2行 99F501671F-> Episode No:  99F501671F
+472 6行 99F50167-> Lab No:  99F50167
+474 1行 47B522739N-> Episode No:  47B522739N
+474 5行 47B52273-> Lab No:  47B52273
+475 4行 05X54278-> 05X54278
+476 3行 53T56384-> 53T56384,53T56384
+476 3行 53T56384-> 53T56384,53T56384
+477 1行 73L264704Q-> Episode No:  73L264704Q
+477 5行 73L26470-> Lab No:  73L26470
+478 2行 31H285762Y-> Episode No:  31H285762Y
+478 6行 31H28576-> Lab No:  31H28576
+479 3行 89D21581-> 89D21581
+48 3行 74E75607-> 74E75607
+480 2行 53S378095H-> Episode No:  53S378095H
+480 6行 53S37809-> Lab No:  53S37809,53S37809
+480 6行 53S37809-> Lab No:  53S37809,53S37809
+481 3行 95A67970-> 95A67970
+482 3行 43W69086-> 43W69086
+483 4行 01T62191-> 01T62191
+484 3行 59P74297-> 59P74297
+485 3行 91Y94378-> 91Y94378
+486 2行 58U964741I-> Episode No:  58U964741I
+486 6行 58U96474-> Lab No:  58U96474
+486 50行 58U96474-> The morphological appearances of the current tumour are similar to those seen in the previously excised left ovary (58U96474) and subsequent intraabdominal deposits (58U96474).
+486 50行 58U96474-> The morphological appearances of the current tumour are similar to those seen in the previously excised left ovary (58U96474) and subsequent intraabdominal deposits (58U96474).
+487 3行 06Q98580-> 06Q98580
+488 3行 64M00696-> 64M00696,64M00696
+488 3行 64M00696-> 64M00696,64M00696
+489 2行 12I026915I-> Episode No:  12I026915I
+489 6行 12I02691-> Lab No:  12I02691,12I02691
+489 6行 12I02691-> Lab No:  12I02691,12I02691
+49 4行 70E05707-> 70E05707
+490 3行 28B17803-> 28B17803
+491 2行 60J370848W-> Episode No:  60J370848W
+491 6行 60J37084-> Lab No:  60J37084,60J37084
+491 6行 60J37084-> Lab No:  60J37084,60J37084
+492 1行 28F390906E-> Episode No:  28F390906E
+492 5行 28F39090-> Lab No:  28F39090,28F39090
+492 5行 28F39090-> Lab No:  28F39090,28F39090
+493 3行 76C41196-> 76C41196
+494 4行 97T01281-> 97T01281
+495 1行 55P033971H-> Episode No:  55P033971H
+495 5行 55P03397-> Lab No:  55P03397
+496 1行 13L164939P-> Episode No:  13L164939P
+496 5行 13L16493-> Lab No:  13L16493,13L16493
+496 5行 13L16493-> Lab No:  13L16493,13L16493
+497 4行 44U35574-> 44U35574
+498 1行 02Q386894U-> Episode No:  02Q386894U
+498 5行 02Q38689-> Lab No:  02Q38689
+499 1行 97R827062A-> Episode No:  97R827062A
+499 5行 97R82706-> Lab No:  97R82706
+50 4行 55N84711-> 55N84711,55N84711
+50 4行 55N84711-> 55N84711,55N84711
+500 1行 50R629727I-> Episode No:  50R629727I
+500 5行 50R62972-> Lab No:  50R62972,50R62972
+500 5行 50R62972-> Lab No:  50R62972,50R62972
+501 1行 08O6407856-> Episode No:  08O6407856
+501 5行 08O64078-> Lab No:  08O64078,08O64078
+501 5行 08O64078-> Lab No:  08O64078,08O64078
+502 2行 66K761843Z-> Episode No:  66K761843Z
+502 6行 66K76184-> Lab No:  66K76184
+503 3行 24G79299-> 24G79299
+504 1行 72C712959R-> Episode No:  72C712959R
+504 5行 72C71295-> Lab No:  72C71295
+505 2行 14L014766N-> Episode No:  14L014766N
+505 6行 14L01476-> Lab No:  14L01476
+505 33行 14L01476-> The colon, peritoneum and umbilicus show metastatic moderately to well differentiated adenocarcinoma. The morphology of the carcinoma is similar to that previously described in the right axillary and umbilical biopsies(14L01476 eBay YARRA RANGES HEALTH), and would be consistent with metastasis from a primary endometrial tumour. 
+506 2行 72H035824W-> Episode No:  72H035824W
+506 6行 72H03582-> Lab No:  72H03582
+507 1行 29D056882E-> Episode No:  29D056882E
+507 5行 29D05688-> Lab No:  29D05688
+508 4行 87Z17694-> 87Z17694
+509 1行 35V197999V-> Episode No:  35V197999V
+509 5行 35V19799-> Lab No:  35V19799
+51 1行 56N798857H-> Episode No:  56N798857H
+51 5行 56N79885-> Lab No:  56N79885
+510 4行 14J82991-> 14J82991
+511 3行 09K26917-> 09K26917
+512 3行 04O04178-> 04O04178,04O04178
+512 3行 04O04178-> 04O04178,04O04178
+513 4行 78Y88118-> 78Y88118
+514 2行 36U902148Y-> Episode No:  36U902148Y
+514 6行 36U90214-> Lab No:  36U90214
+515 4行 31Y78475-> 31Y78475,31Y78475
+515 4行 31Y78475-> 31Y78475,31Y78475
+516 2行 26Z134013D-> Episode No:  26Z134013D
+516 6行 26Z13401-> Lab No:  26Z13401
+516 41行 26Z1340-> The tumour differs greatly in morphology to that seen in the previous left neck lymph node core biopsy (26Z1340) which showed metastaticpoorly differentiated adenocarcinoma.
+517 1行 83V255071L-> Episode No:  83V255071L
+517 5行 83V25507-> Lab No:  83V25507
+518 1行 04M856929X-> Episode No:  04M856929X
+518 5行 04M85692-> Lab No:  04M85692
+519 2行 52I8770872-> Episode No:  52I8770872
+52 3行 10E99704-> 10E99704
+520 4行 52N19985-> 52N19985
+521 2行 00J110910T-> Episode No:  00J110910T
+521 6行 00J11091-> Lab No:  00J11091
+522 3行 68G23196-> 68G23196
+523 2行 53H681126H-> Episode No:  53H681126H
+523 6行 53H68112-> Lab No:  53H68112
+524 3行 58K46383-> 58K46383
+525 1行 22U303143B-> Episode No:  22U303143B
+525 5行 22U30314-> Lab No:  22U30314
+526 1行 80Q323101K-> Episode No:  80Q323101K
+526 5行 80Q32310-> Lab No:  80Q32310,80Q32310
+526 5行 80Q32310-> Lab No:  80Q32310,80Q32310
+527 4行 85U10580-> 85U10580
+529 1行 42Q126866S-> Episode No:  42Q126866S
+529 5行 42Q12686-> Lab No:  42Q12686
+53 2行 90N247924A-> Episode No:  90N247924A
+53 6行 90N24792-> Lab No:  90N24792
+530 1行 58J278982J-> Episode No:  58J278982J
+530 5行 58J27898-> Lab No:  58J27898,58J27898
+530 5行 58J27898-> Lab No:  58J27898,58J27898
+531 3行 06F29803-> 06F29803,06F29803
+531 3行 06F29803-> 06F29803,06F29803
+532 4行 64B31919-> 64B31919,64B31919
+532 4行 64B31919-> 64B31919,64B31919
+533 3行 22X33015-> 22X33015
+534 1行 70T351215R-> Episode No:  70T351215R
+534 5行 70T35121-> Lab No:  70T35121
+535 4行 75X13382-> 75X13382
+536 3行 33U25387-> 33U25387
+537 1行 81Q274938H-> Episode No:  81Q274938H
+537 5行 81Q27493-> Lab No:  81Q27493
+538 2行 49M205096Q-> Episode No:  49M205096Q
+538 6行 49M20509-> Lab No:  49M20509
+539 4行 33N74525-> 33N74525
+54 2行 38R527861V-> Episode No:  38R527861V
+54 6行 38R52786-> Lab No:  38R52786
+540 3行 33S96802-> 33S96802
+541 2行 81O089187K-> Episode No:  81O089187K
+541 6行 81O08918-> Lab No:  81O08918
+542 3行 49K01913-> 49K01913
+543 3行 97G03029-> 97G03029
+544 2行 18Y731152M-> Episode No:  18Y731152M
+544 6行 18Y73115-> Lab No:  18Y73115
+546 1行 76U752110V-> Episode No:  76U752110V
+546 5行 76U75211-> Lab No:  76U75211
+547 4行 24Q77226-> 24Q77226
+548 3行 39U55487-> 39U55487
+549 1行 87Q675933L-> Episode No:  87Q675933L
+549 5行 87Q67593-> Lab No:  87Q67593
+55 2行 45M696991U-> Episode No:  45M696991U
+55 6行 45M69699-> Lab No:  45M69699
+550 1行 92I617040C-> Episode No:  92I617040C
+550 5行 92I61704-> Lab No:  92I61704
+551 1行 50F747008L-> Episode No:  50F747008L
+551 5行 50F74700-> Lab No:  50F74700
+552 4行 08B76816-> 08B76816
+553 1行 66X789224C-> Episode No:  66X789224C
+553 5行 66X78922-> Lab No:  66X78922
+554 3行 14T80028-> 14T80028
+555 4行 29X68288-> 29X68288
+556 3行 77T60294-> 77T60294
+557 3行 35P62300-> 35P62300
+558 4行 83M74406-> 83M74406
+559 1行 41I774122S-> Episode No:  41I774122S
+559 5行 41I77412-> Lab No:  41I77412,41I77412
+559 5行 41I77412-> Lab No:  41I77412,41I77412
+56 1行 99E795170B-> Episode No:  99E795170B
+56 5行 99E79517-> Lab No:  99E79517
+560 2行 57A816238J-> Episode No:  57A816238J
+560 6行 57A81623-> Lab No:  57A81623
+561 3行 04W83729-> 04W83729
+562 3行 19A61990-> 19A61990,19A61990
+562 3行 19A61990-> 19A61990,19A61990
+564 1行 67W739961A-> Episode No:  67W739961A
+564 5行 67W73996-> Lab No:  67W73996
+565 3行 31G58936-> 31G58936
+566 2行 46K351978U-> Episode No:  46K351978U
+566 6行 46K35197-> Lab No:  46K35197
+567 3行 94G37293-> 94G37293,94G37293
+567 3行 94G37293-> 94G37293,94G37293
+569 1行 52C403084L-> Episode No:  52C403084L
+569 5行 52C40308-> Lab No:  52C40308
+57 4行 00Y42304-> 00Y42304
+570 1行 68V444100C-> Episode No:  68V444100C
+570 5行 68V44410-> Lab No:  68V44410
+571 1行 16R565268L-> Episode No:  16R565268L
+571 5行 16R56526-> Lab No:  16R56526,16R56526
+571 5行 16R56526-> Lab No:  16R56526,16R56526
+572 4行 74N58522-> 74N58522
+573 3行 32J51637-> 32J51637
+574 1行 36N388982B-> Episode No:  36N388982B
+574 5行 36N38898-> Lab No:  36N38898,36N38898
+574 5行 36N38898-> Lab No:  36N38898,36N38898
+575 2行 21O839140H-> Episode No:  21O839140H
+575 6行 21O83914-> Lab No:  21O83914
+576 1行 89K859208P-> Episode No:  89K859208P
+576 5行 89K85920-> Lab No:  89K85920
+577 1行 37G970266Y-> Episode No:  37G970266Y
+577 5行 37G97026-> Lab No:  37G97026,37G97026
+577 5行 37G97026-> Lab No:  37G97026,37G97026
+578 4行 95C99132-> 95C99132
+579 3行 16U59227-> 16U59227
+58 3行 48D79408-> 48D79408
+580 4行 06Z81404-> 06Z81404
+581 1行 64V845105G-> Episode No:  64V845105G
+581 5行 64V84510-> Lab No:  64V84510,64V84510
+581 5行 64V84510-> Lab No:  64V84510,64V84510
+581 36行 64V8451-> The previous core biopsy (64V8451) has been reviewed. The diagnosis of serous adenocarcinoma in this biopsy is confirmed.
+582 1行 12R866164O-> Episode No:  12R866164O
+582 5行 12R86616-> Lab No:  12R86616,12R86616
+582 5行 12R86616-> Lab No:  12R86616,12R86616
+584 3行 54A16897-> 54A16897,54A16897
+584 3行 54A16897-> 54A16897,54A16897
+585 3行 11W18802-> 11W18802
+586 4行 69S10908-> 69S10908
+587 3行 80K70094-> 80K70094
+588 3行 48G82109-> 48G82109
+589 4行 33H27126-> 33H27126
+589 9行 33H27126-> (Previous LCIS - 33H27126).
+590 1行 81D392319K-> Episode No:  81D392319K
+590 5行 81D39231-> Lab No:  81D39231
+592 1行 02U9932778-> Episode No:  02U9932778
+592 5行 02U99327-> Lab No:  02U99327
+593 1行 44D1959847-> Episode No:  44D1959847
+593 5行 44D19598-> Lab No:  44D19598
+594 2行 02Z115042B-> Episode No:  02Z115042B
+594 6行 02Z11504-> Lab No:  02Z11504
+594 79行 02Z11504-> D. Sections show a lymph node with a 7 mm deposit of metastatic urothelial carcinoma, with focal glandular differentiation.  There are sheets and nests of tumour cells with focal glandular formation, reminiscent of the previous biopsy (02Z11504). The tumour cells are positive for CK7, and are negative for CK20 and PSA. There is no evidence of extranodal spread.  
+595 1行 50V236190J-> Episode No:  50V236190J
+595 5行 50V23619-> Lab No:  50V23619
+596 3行 18R25715-> 18R25715
+597 4行 66O28821-> 66O28821
+597 34行 66O28821-> The previous duodenal biopsy from the primary lesion (66O28821) has been reviewed. The tumour cells in this biopsy have a similar morphology to the current specimen, and are also positive for CD56. The findings in the biopsy would be in keeping with large cell neuroendocrine carcinoma.
+598 3行 23K30827-> 23K30827
+599 3行 65T50008-> 65T50008
+60 2行 50U941240L-> Episode No:  50U941240L
+60 6行 50U94124-> Lab No:  50U94124
+600 1行 92C2430563-> Episode No:  92C2430563
+600 5行 92C24305-> Lab No:  92C24305
+600 20行 92C24305-> (Core - 92C24305 - invasive ductal carcinoma plus DCIS).  
+601 3行 40Y26311-> 40Y26311
+602 2行 08V294173Z-> Episode No:  08V294173Z
+602 6行 08V29417-> Lab No:  08V29417
+603 1行 56R315221I-> Episode No:  56R315221I
+603 5行 56R31522-> Lab No:  56R31522,56R31522
+603 5行 56R31522-> Lab No:  56R31522,56R31522
+604 1行 14N336389Q-> Episode No:  14N336389Q
+604 5行 14N33638-> Lab No:  14N33638
+605 2行 62J356347Z-> Episode No:  62J356347Z
+605 6行 62J35634-> Lab No:  62J35634
+606 3行 04S65815-> 04S65815
+607 1行 61O679112E-> Episode No:  61O679112E
+607 5行 61O67911-> Lab No:  61O67911
+608 2行 19K690270N-> Episode No:  19K690270N
+608 6行 19K69027-> Lab No:  19K69027,19K69027
+608 6行 19K69027-> Lab No:  19K69027,19K69027
+609 1行 77G720328V-> Episode No:  77G720328V
+609 5行 77G72032-> Lab No:  77G72032,77G72032
+609 5行 77G72032-> Lab No:  77G72032,77G72032
+610 3行 25D74138-> 25D74138,25D74138
+610 3行 25D74138-> 25D74138,25D74138
+611 2行 83Z762444M-> Episode No:  83Z762444M
+611 6行 83Z76244-> Lab No:  83Z76244
+611 30行 83Z76244-> A.  The previous report 83Z76244 is noted.  
+612 3行 25H06425-> 25H06425,25H06425
+612 3行 25H06425-> 25H06425,25H06425
+613 1行 73E084219R-> Episode No:  73E084219R
+613 5行 73E08421-> Lab No:  73E08421
+614 4行 31A00537-> 31A00537
+615 1行 99W136326J-> Episode No:  99W136326J
+615 5行 99W13632-> Lab No:  99W13632,99W13632
+615 5行 99W13632-> Lab No:  99W13632,99W13632
+616 1行 47S156484R-> Episode No:  47S156484R
+616 5行 47S15648-> Lab No:  47S15648
+617 4行 89B35829-> 89B35829
+618 3行 46X47925-> 46X47925
+619 1行 94T490317F-> EpisodeNo:  94T490317F
+619 5行 94T49031-> Lab No:  94T49031
+62 2行 52P4114755-> Episode No:  52P4114755
+62 6行 52P41147-> Lab No:  52P41147
+62 88行 36C69212-> This result indicates that the patient may benefit from treatment with Erbitux.However, a negative result does not rule out the possibility of a mutation being present in another exon or in codons 12 and 13 in exon 2 at levels below the threshold of detection (5%).  [36C69212.A5]". 
+620 3行 94Y71218-> 94Y71218
+621 3行 42U73323-> 42U73323
+622 2行 00Q764298B-> Episode No:  00Q764298B
+622 6行 00Q76429-> Lab No:  00Q76429
+623 1行 21I365156M-> Episode No:  21I365156M
+623 5行 21I36515-> Lab No:  21I36515
+624 3行 16J80541-> 16J80541
+625 4行 64F82647-> 64F82647,64F82647
+625 4行 64F82647-> 64F82647,64F82647
+626 3行 79J60807-> 79J60807,79J60807
+626 3行 79J60807-> 79J60807,79J60807
+627 3行 27F72913-> 27F72913
+627 7行 27F72913-> Synovial sarcoma.  Gastric wall peritoneum.  (Surgery for debulking, but inoperable). (Retroperitoneal monophasic synovial sarcoma - 27F72913).
+627 22行 27F72913-> A.   Sections show a spindlecell tumour consistent with a monophasic synovial sarcoma.  The appearance is the same as that of the previous biopsy (27F72913).  
+628 2行 85B749295R-> Episode No:  85B749295R
+628 6行 85B74929-> Lab No:  85B74929
+629 1行 32X760254A-> Episode No:  32X760254A
+629 5行 32X76025-> Lab No:  32X76025
+63 1行 90U891312J-> Episode No:  90U891312J
+63 5行 90U89131-> Lab No:  90U89131
+630 2行 48Q812360R-> Episode No:  48Q812360R
+630 6行 48Q81236-> Lab No:  48Q81236
+631 1行 06M832428A-> Episode No:  06M832428A
+631 5行 06M83242-> Lab No:  06M83242
+633 1行 54I953486I-> Episode No:  54I953486I
+633 5行 54I95348-> Lab No:  54I95348,54I95348
+633 5行 54I95348-> Lab No:  54I95348,54I95348
+64 2行 69M735193H-> Episode No:  69M735193H
+64 6行 69M73519-> Lab No:  69M73519
+65 3行 17I75614-> 17I75614
+66 2行 75E777209Z-> Episode No:  75E777209Z
+66 6行 75E77720-> Lab No:  75E77720
+67 1行 23B807268H-> Episode No:  23B807268H
+67 5行 23B80726-> Lab No:  23B80726,23B80726
+67 5行 23B80726-> Lab No:  23B80726,23B80726
+68 4行 81X82832-> 81X82832
+69 4行 39T84938-> 39T84938,39T84938
+69 4行 39T84938-> 39T84938,39T84938
+70 2行 96P969432H-> Episode No:  96P969432H
+70 6行 96P96943-> Lab No:  96P96943
+700 1行 38Y161259E-> Episode No:  38Y161259E
+700 5行 38Y16125-> Lab No:  38Y16125,38Y16125
+700 5行 38Y16125-> Lab No:  38Y16125,38Y16125
+701 1行 86U182207M-> Episode No:  86U182207M
+701 5行 86U18220-> Lab No:  86U18220,86U18220
+701 5行 86U18220-> Lab No:  86U18220,86U18220
+702 2行 44Q203365V-> Episode No:  44Q203365V
+702 6行 44Q20336-> Lab No:  44Q20336,44Q20336
+702 6行 44Q20336-> Lab No:  44Q20336,44Q20336
+71 3行 92M23342-> 92M23342,92M23342
+71 3行 92M23342-> 92M23342,92M23342
+72 4行 50I25448-> 50I25448
+73 4行 08F37553-> 08F37553,08F37553
+73 4行 08F37553-> 08F37553,08F37553
+74 4行 13J15714-> 13J15714,13J15714
+74 4行 13J15714-> 13J15714,13J15714
+75 2行 08K598304A-> Episode No:  08K598304A
+75 6行 08K59830-> Lab No:  08K59830
+76 2行 56G618462I-> Episode No:  56G618462I
+76 6行 56G61846-> Lab No:  56G61846
+77 2行 14C649421R-> Episode No:  14C649421R
+77 6行 14C64942-> Lab No:  14C64942,14C64942
+77 6行 14C64942-> Lab No:  14C64942,14C64942
+78 1行 71Y660589A-> Episode No:  71Y660589A
+78 5行 71Y66058-> Lab No:  71Y66058
+79 2行 76C432186Z-> Episode No:  76C432186Z
+79 6行 76C43218-> Lab No:76C43218
+80 4行 24Y56224-> 24Y56224
+81 1行 82U583202Q-> Episode No:  82U583202Q
+81 5行 82U58320-> Lab No:  82U58320
+82 2行 30R504360Y-> Episode No:  30R504360Y
+82 6行 30R50436-> Lab No:  30R50436
+84 1行 98N625328H-> Episode No:  98N625328H
+84 5行 98N62532-> Lab No:  98N62532
+84 33行 98N62532-> (Please see previous report 98N62532).
+85 2行 56J645476Q-> Episode No:  56J645476Q
+85 6行 56J64547-> Lab No:  56J64547
+86 2行 04F676535Y-> Episode No:  04F676535Y
+86 6行 04F67653-> Lab No:  04F67653
+87 1行 62B797593H-> Episode No:  62B797593H
+87 5行 62B79759-> Lab No:  62B79759
+88 2行 04K999309D-> Episode No:  04K999309D
+88 6行 04K99930-> Lab No:  04K99930,04K99930
+88 6行 04K99930-> Lab No:  04K99930,04K99930
+88 33行 04K99930-> The uterine tumour is an endometrioid endometrial adenocarcinoma. Although the initial endometrial curettings (04K99930) showed a predominant solid pattern of growth (FIGO Grade 3), examination ofthe entire endometrium shows the tumour is composed predominantly of complex infiltrative cribriform glands. Overall, these findings are most consistent with a FIGO Grade 2 endometrioid endometrial adenocarcinoma (Architecture: grade 2 (5 - 50% solid growth); Cytology: grade 2).
+89 2行 99L339567J-> Episode No:  99L339567J
+89 6行 99L33956-> Lab No:  99L33956,99L33956
+89 6行 99L33956-> Lab No:  99L33956,99L33956
+9 3行 30U63137-> 30U63137
+90 2行 88Q652432O-> Episode No:  88Q652432O
+90 6行 88Q65243-> Lab No:  88Q65243
+91 1行 46M672490X-> Episode No:  46M672490X
+91 5行 46M67249-> Lab No:  46M67249
+92 2行 94I703558G-> Episode No:  94I703558G
+92 6行 94I70355-> Lab No:  94I70355,94I70355
+92 6行 94I70355-> Lab No:  94I70355,94I70355
+93 2行 15A304407R-> Episode No:  15A304407R
+93 6行 15A30440-> Lab No:  15A30440
+94 2行 73W325465Z-> Episode No:  73W325465Z
+94 6行 73W32546-> Lab No:  73W32546
+95 1行 21S446523I-> Episode No:  21S446523I
+95 5行 21S44652-> Lab No:  21S44652
+96 2行 63B647330E-> Episode No:  63B647330E
+96 6行 63B64733-> Lab No:  63B64733,63B64733
+96 6行 63B64733-> Lab No:  63B64733,63B64733
+97 1行 21X668388N-> Episode No:  21X668388N
+97 5行 21X66838-> Lab No:  21X66838,21X66838
+97 5行 21X66838-> Lab No:  21X66838,21X66838
+98 2行 79T689446W-> Episode No:  79T689446W
+98 6行 79T68944-> Lab No:  79T68944
+99 4行 37P71040-> 37P71040
+file100 1行 39D129428L-> SPR no: 39D129428L
+file100 6行 39D129428L-> Pathology ReportEpisode No:  39D129428L
+file100 10行 39D12942-> Lab No:  39D12942,39D12942
+file100 10行 39D12942-> Lab No:  39D12942,39D12942
+file100 24行 39D129428L-> Episode number: 39D129428L.
+file100 68行 39D129428L-> Episode number: 39D129428L.
+file10066 14行 97Z140586T-> 97Z140586T
+file1010 1行 44V260644C-> SPR no: 44V260644C
+file1010 6行 44V260644C-> Pathology ReportEpisode No:  44V260644C
+file1010 10行 44V26064-> Lab No:  44V26064
+file10161 1行 02R281602L-> SPR no: 02R281602L
+file10161 6行 02R281602L-> Pathology ReportEpisode No:  02R281602L
+file10161 10行 02R28160-> Lab No:  02R28160
+file10280 1行 60O212751T-> SPR no: 60O212751T
+file10280 6行 60O212751T-> Pathology Reportbrdrw10 llx3420phaEpisode No:  60O212751T
+file10280 10行 60O212 75-> ngfenp3081 ddfl3bbrdrhhdrawnil tx8640Lab No:  60O212 75
+file10308 1行 92W504567Q-> SPR no: 92W504567Q
+file10308 8行 92W50456-> 92W50456
+file10351 1行 50S534525Y-> SPR no: 50S534525Y
+file10351 8行 50S53452-> 50S53452,50S53452
+file10351 8行 50S53452-> 50S53452,50S53452
+file10409 1行 18P555684H-> SPR no: 18P555684H
+file10409 8行 18P55568-> 18P55568
+file10418 14行 66L676642P-> 66L676642P
+file10484 1行 24H697700Y-> SPR no: 24H697700Y
+file10484 6行 24H697700Y-> Pathology ReportEpisode No:  24H697700Y
+file10484 10行 24H69770-> Lab No:  24H69770,24H69770
+file10484 10行 24H69770-> Lab No:  24H69770,24H69770
+file10528 1行 72D617858H-> SPR no: 72D617858H
+file10528 6行 72D617858H-> Pathology ReportEpisode No:  72D617858H
+file10528 10行 72D61785-> Lab No:  72D61785
+file105280 14行 93U318616S-> 93U318616S
+file1055 1行 51R349775A-> SPR no: 51R349775A
+file1055 6行 51R349775A-> Pathology Report0 rdrsin Episode No:  51R349775A
+file1055 10行 51R34977-> rin0rdrvrtaltbrdrrardLab No:  51R34977
+file10579 1行 09N360823J-> SPR no: 09N360823J
+file10579 6行 09N360823J-> Pathology ReportEpisode No:  09N360823J
+file10579 10行 09N36082-> Lab No:  09N36082
+file10579 32行 09N36082-> B.  Sections of the right paravaginal mass confirm a leiomyosarcoma. The tumour has a heterogenous appearance and in areas shows features similar to that of the recent core biopsy (09N36082) with atypical spindled cells with myoid features arranged in poorly formed fascicles. Elsewhere, the tumour appears highly cellular and is composed of sheets of malignant epithelioid cells with vesicular chromatin, prominent nucleoli and small to moderate amounts of cytoplasm. Scattered highly atypical pleomorphic cells are seen. Mitoses are seen, up to 15 per 10 hpf, and include numerous atypical mitoses. Broad areas of coagulative (tumour) necrosis are seen, and involve up to 25% of the sampled tumour. Tumour is present within the lumen and wall of medium to large vessels at the periphery of the specimen. Whilst the tumour appears largely circumscribed, with an incomplete cuff of fibroadipose tissue, focally tumour extends along the periphery of the specimen and abuts the inked/diathermied surgical margin.
+file10623 14行 04R142430I-> 04R142430I
+file10646 1行 61N262498R-> SPR no: 61N262498R
+file10646 6行 61N262498R-> Pathology ReportEpisode No:  61N262498R
+file10646 10行 61N26249-> Lab No:  61N26249
+file10672 1行 29J283556Z-> SPR no: 29J283556Z
+file10672 8行 29J28355-> 29J28355
+file10725 1行 77F204514I-> SPR no: 77F204514I
+file10725 6行 77F204514 I-> Pathology ReportdrslwWidth3528tqcEpisode No:  77F204514 I
+file10725 10行 77F20451-> 1dl108brdrsdrrdth3intblLab No:  77F20451
+file10763 1行 35B325662R-> SPR no: 35B325662R
+file10763 6行 35B325662R-> Pathology ReportEpisode No:  35B325662R
+file10763 10行 35B32566-> Lab No:  35B32566,35B32566
+file10763 10行 35B32566-> Lab No:  35B32566,35B32566
+file1079 1行 83Y355720Z-> SPR no: 83Y355720Z
+file10806 1行 41U376789I-> SPR no: 41U376789I
+file10806 6行 41U376789I-> Pathology ReportEpisode No:  41U376789I
+file10806 10行 41U37678-> Lab No:  41U37678,41U37678
+file10806 10行 41U37678-> Lab No:  41U37678,41U37678
+file10826 14行 99Q497847Q-> 99Q497847Q
+file10861 1行 04U279454P-> SPR no: 04U279454P
+file10861 6行 04U279454P-> Pathology ReportEpisode No:  04U279454P
+file10861 10行 04U27945-> Lab No:  04U27945
+file1090 14行 52Q299502Y-> 52Q299502Y
+file10928 1行 10M210560H-> SPR no: 10M210560H
+file10928 6行 10M210560H-> Pathology ReportEpisode No:  10M210560H
+file10928 10行 10M21056-> Lab No:  10M21056
+file10936 14行 68I331628P-> 68I331628P
+file10970 1行 25F352686Y-> SPR no: 25F352686Y
+file10970 8行 25F35268-> 25F35268,25F35268
+file10970 8行 25F35268-> 25F35268,25F35268
+file10996 1行 73B382744G-> SPR no: 73B382744G
+file10996 8行 73B38274-> 73B38274
+file10996 15行 uk03827442-> MACROSCOPIC:uk03827442
+file11031 14行 31X403792P-> 31X403792P
+file11055 1行 52O004651A-> SPR no: 52O004651A
+file11055 6行 52O004651A-> Pathology ReportEpisode No:  52O004651A
+file11055 10行 52O00465-> Lab No:  52O00465,52O00465
+file11055 10行 52O00465-> Lab No:  52O00465,52O00465
+file11125 14行 94X206468X-> 94X206468X
+file11140 1行 68H045867S-> SPR no: 68H045867S
+file11140 6行 68H045867S-> Pathology ReportEpisode No:  68H045867S
+file11140 10行 68H04586-> Lab No:  68H04586
+file11203 1行 16D166825A-> SPR no: 16D166825A
+file11203 6行 16D166825A-> Pathology ReportEpisode No:  16D166825A
+file11203 10行 16D16682-> Lab No:  16D16682
+file11203 47行 16D16682-> 16D16682.  USS x 3.  Return slides.
+file11235 14行 21H948432Z-> 21H948432Z
+file11258 1行 79D969590I-> SPR no: 79D969590I
+file11283 1行 37Z080558Q-> SPR no: 37Z080558Q
+file11336 1行 85V010607Z-> SPR no: 85V010607Z
+file11380 14行 43R031765I-> 43R031765I
+file11434 1行 90O152723Q-> SPR no: 90O152723Q
+file11490 14行 11F753671B-> 11F753671B
+file11491 1行 79B774739K-> SPR no: 79B774739K
+file11521 1行 27X794798T-> SPR no: 27X794798T
+file11561 1行 85T825856B-> SPR no: 85T825856B
+file11587 1行 43Q846814K-> SPR no: 43Q846814K
+file1163 1行 48U618511J-> SPR no: 48U618511J
+file1163 6行 48U618511J-> Pathology Reportsectdefaultcldl108rsEpisode No:  4 48U618511J
+file1163 10行 48U61851-> rtlchb 16fl3rs0Lab No:  48U61851,48U61851
+file1163 10行 48U61851-> rtlchb 16fl3rs0Lab No:  48U61851,48U61851
+file11636 1行 96Q748579S-> SPR no: 96Q748579S
+file11639 14行 54M769637A-> 54M769637A
+file11678 1行 75D360595L-> SPR no: 75D360595L
+file11749 14行 23Z381544U-> 23Z381544U
+file11777 1行 81W402602D-> SPR no: 81W402602D
+file11808 1行 39S422660L-> SPR no: 39S422660L
+file11893 1行 96O453728U-> SPR no: 96O453728U
+file11920 1行 54K574876C-> SPR no: 54K574876C
+file11923 14行 75C175634O-> 75C175634O
+file11923 42行 75C17563-> 75C17563 (75C175634O) CURLIS, GUILLERMO SHELTON
+file11923 42行 75C175634O-> 75C17563 (75C175634O) CURLIS, GUILLERMO SHELTON
+file11964 1行 23Y195793W-> SPR no: 23Y195793W
+file11990 1行 81U116851F-> SPR no: 81U116851F
+file12024 14行 39Q237809O-> 39Q237809O
+file12033 1行 97M268967W-> SPR no: 97M268967W
+file12033 8行 97M26896-> Additional information:  Previous cone biopsy (97M26896) - well differentiated adenocarcinoma, AIS and CIN3, margins clear.
+file1208 1行 92Q030574V-> SPR no: 92Q030574V
+file1208 6行 92Q030574V-> Pathology Reportrdrbrdrw10 5Episode No:  92Q030574V
+file1208 11行 92Q03057-> brdrw10 rtrbrdrbs15Lab No:  92Q03057
+file12107 1行 50M150532E-> SPR no: 50M150532E
+file12198 14行 08J181690M-> 08J181690M
+file12198 42行 08J18169-> 08J18169 (08J181690M) BOUSUM, WILBERT ROBIN
+file12198 42行 08J181690M-> 08J18169 (08J181690M) BOUSUM, WILBERT ROBIN
+file12296 1行 66F102748V-> SPR no: 66F102748V
+file12296 177行 6P11027-> (Please also see MO-16-1672 for results of molecular testing on the other tumour (6P11027 9) - showing no targeted RAS or BRAF mutation detected)
+file12334 1行 14B122707E-> SPR no: 14B122707E
+file12372 14行 34S823665P-> 34S823665P
+file12372 42行 34S82366-> 34S82366 (34S823665P) FIXARI, BLAINE DEWAYNE
+file12372 42行 34S823665P-> 34S82366 (34S823665P) FIXARI, BLAINE DEWAYNE
+file12376 1行 92O844713X-> SPR no: 92O844713X
+file12419 1行 40L865771G-> SPR no: 40L865771G
+file12503 1行 08H996839P-> SPR no: 08H996839P
+file12545 1行 56D916898X-> SPR no: 56D916898X
+file12545 20行 56D91689-> Immunohistochemistry for mismatch repair deficiency (MMRD) status was performed on the uterine curettings at LIVERPOOL HOSPITAL Hospital (review report 56D91689), which showed preserved nuclear staining for MLH1, PMS2, MSH2 and MSH6, indicating a low likelihood of microsatellite instability phenotype.
+file12595 1行 14Z937956G-> SPR no: 14Z937956G
+file1264 1行 19D719553F-> SPR no: 19D719553F
+file1264 6行 19D719553F-> Pathology ReportEpisode No:  19D719553F
+file1264 10行 19D71955-> Lab No:  19D71955
+file12754 1行 77Z830611O-> SPR no: 77Z830611O
+file12784 1行 25V851679W-> SPR no: 25V851679W
+file12826 1行 83S871737F-> SPR no: 83S871737F
+file12835 14行 31O992895N-> 31O992895N
+file12928 1行 52F5936439-> SPR no: 52F5936439
+file12954 1行 19B524702H-> SPR no: 19B524702H
+file13005 1行 67X544860Q-> SPR no: 67X544860Q
+file130051 14行 25U6658189-> 25U6658189
+file130051 43行 25U66581-> 25U66581,25U66581 (25U6658189) GALLOSA, CHERIE ARISTIDE
+file130051 43行 25U66581-> 25U66581,25U66581 (25U6658189) GALLOSA, CHERIE ARISTIDE
+file130051 43行 25U6658189-> 25U66581,25U66581 (25U6658189) GALLOSA, CHERIE ARISTIDE
+file13073 1行 73Q6869762-> SPR no: 73Q6869762
+file1310 1行 31M607934Q-> SPR no: 31M607934Q
+file1310 6行 31M607934Q-> Pathology Reportrbrw10 ql Episode No:  31M607934Q
+file1310 11行 31M60793-> dLab No:  31M60793
+file13154 1行 73V908741M-> SPR no: 73V908741M
+file13239 1行 21R939809V-> SPR no: 21R939809V
+file13264 1行 42I520757G-> SPR no: 42I520757G
+file13264 17行 42I52075-> The previous biopsy (42I52075) has been reviewed and a diagnosis of adenocarcinoma, consistent with metastatic endometrioid adenocarcinoma, is confirmed.
+file13340 1行 00E651716P-> SPR no: 00E651716P
+file13354 14行 58B671874X-> 58B671874X
+file13354 43行 58B67187-> 58B67187,58B67187 (58B671874X) AKEN, LINO TYRELL
+file13354 43行 58B67187-> 58B67187,58B67187 (58B671874X) AKEN, LINO TYRELL
+file13354 43行 58B671874X-> 58B67187,58B67187 (58B671874X) AKEN, LINO TYRELL
+file13374 1行 16X692832G-> SPR no: 16X692832G
+file13374 21行 16X69283-> A.  Sections show a large ulcer with a rim of skin, in keeping with previous surgery.  The base of ulcer is covered by granulation tissue and fibrous tissue.  There are several foci of residual high grade sarcoma involving deep adipose tissue and skeletal muscle.  The sarcoma extends at least 10mm from the base of ulcer.  The tumour is cellular and part of it has a myxoid stroma.  The tumour appearances are same as those described in the previous specimen (16X69283).  The residual tumour focally extend to the deep margin near the distal end of specimen (block A50).  The residual tumour is less than 0.2mm to the deep margin near the proximal/lateral part of specimen (block A26).  The rest of tumour foci are clear of the margins.  No lymphovascular or perineural invasion is seen.
+file13460 1行 64T713990O-> SPR no: 64T713990O
+file13481 1行 21P734048X-> SPR no: 21P734048X
+file13506 1行 26T516655W-> SPR no: 26T516655W
+file13596 1行 84P536613F-> SPR no: 84P536613F
+file13626 1行 58Z486013Z-> SPR no: 58Z486013Z
+file1363 1行 53D268620Y-> SPR no: 53D268620Y
+file1363 6行 53D268620Y-> Pathology ReportAccession No:  53D268620Y
+file1363 7行 53D26862-> Laboratory No:  53D26862
+file13651 14行 11Z289688H-> 11Z289688H
+file13668 1行 69V200746Q-> SPR no: 69V200746Q
+file13706 1行 27R320704Y-> SPR no: 27R320704Y
+file13790 1行 85N341852H-> SPR no: 85N341852H
+file13836 14行 33K372910Q-> 33K372910Q
+file13857 1行 91G492979Y-> SPR no: 91G492979Y
+file13895 1行 49C413037H-> SPR no: 49C413037H
+file13934 1行 69T014985S-> SPR no: 69T014985S
+file14001 1行 27P135943B-> SPR no: 27P135943B
+file14040 1行 75M1560013-> SPR no: 75M1560013
+file14076 1行 80Q938618I-> SPR no: 80Q938618I
+file14120 1行 38M9587666-> SPR no: 38M9587666
+file14148 14行 96I079725Z-> 96I079725Z
+file1417 1行 81J420983F-> SPR no: 81J420983F
+file1417 6行 81J420983F-> Pathology ReportEpisode No:  81J420983F
+file1417 10行 81J42098-> Lab No:  81J42098
+file14197 1行 02A020841R-> SPR no: 02A020841R
+file14222 1行 50W141909Z-> SPR no: 50W141909Z
+file14260 1行 18T162057I-> SPR no: 18T162057I
+file14306 1行 66P183015R-> SPR no: 66P183015R
+file14306 21行 66P18301-> The previously reported endometrial currettings have been reviewed and are confirmed as showing a grade 1 endometrioid adenocarcinoma (66P18301).
+file14328 14行 71T965622Q-> 71T965622Q
+file14328 43行 71T96562-> 71T96562 (71T965622Q) STUMPF, ADAN
+file14328 43行 71T965622Q-> 71T96562 (71T965622Q) STUMPF, ADAN
+file1436 14行 28P085780Y-> 28P085780Y
+file14362 1行 86L006749H-> SPR no: 86L006749H
+file14457 1行 34H037897P-> SPR no: 34H037897P
+file14471 14行 92D158955Y-> 92D158955Y
+file14471 44行 92D15895-> 92D15895 (92D158955Y) MAGALONG, WILFORD
+file14471 44行 92D158955Y-> 92D15895 (92D158955Y) MAGALONG, WILFORD
+file14484 1行 13V758713J-> SPR no: 13V758713J
+file14520 1行 61R779861S-> SPR no: 61R779861S
+file14546 1行 29N890929A-> SPR no: 29N890929A
+file14638 14行 77J811988J-> 77J811988J
+file14638 43行 61W09263-> 61W09263 (61W092636X) AUGSPURGER, ERASMO TOMEK
+file14638 43行 61W092636X-> 61W09263 (61W092636X) AUGSPURGER, ERASMO TOMEK
+file14653 1行 19S012794F-> SPR no: 19S012794F
+file147 14行 77O133852O-> 77O133852O
+file147 43行 77O13385-> 77O13385,77O13385 (77O133852O) DIPAOLA, LEONEL HARRY
+file147 43行 77O13385-> 77O13385,77O13385 (77O133852O) DIPAOLA, LEONEL HARRY
+file147 43行 77O133852O-> 77O13385,77O13385 (77O133852O) DIPAOLA, LEONEL HARRY
+file14705 1行 25K164811X-> SPR no: 25K164811X
+file14786 14行 83G185969F-> 83G185969F
+file14786 43行 83G18596-> 83G18596,83G18596 (83G185969F) COLUMBUS, JAROD BRENDAN
+file14786 43行 83G18596-> 83G18596,83G18596 (83G185969F) COLUMBUS, JAROD BRENDAN
+file14786 43行 83G185969F-> 83G18596,83G18596 (83G185969F) COLUMBUS, JAROD BRENDAN
+file14798 1行 30D105927O-> SPR no: 30D105927O
+file14882 1行 98Z226085X-> SPR no: 98Z226085X
+file14896 14行 46V247143F-> 46V247143F
+file1491 1行 51Z029750E-> SPR no: 51Z029750E
+file1491 8行 51Z02975-> 51Z02975
+file14920 1行 09V140708N-> SPR no: 09V140708N
+file14986 1行 83F999118I-> SPR no: 83F999118I
+file15028 1行 88J771725H-> SPR no: 88J771725H
+file15051 1行 36F792773P-> SPR no: 36F792773P
+file15084 1行 94B8138319-> SPR no: 94B8138319
+file15147 14行 42X833899G-> 42X833899G
+file15147 72行 42X83389-> The previous report 42X83389 is noted with interest.
+file15154 1行 00T854957P-> SPR no: 00T854957P
+file15207 14行 68P9850169-> 68P9850169
+file15213 1行 15M906064G-> SPR no: 15M906064G
+file15240 1行 73I9261225-> SPR no: 73I9261225
+file15240 16行 73I92612-> The previous report 73I92612 is noted.
+file15297 1行 78M8087395-> SPR no: 78M8087395
+file15328 1行 42V648048J-> SPR no: 42V648048J
+file1535 1行 84E840855F-> SPR no: 84E840855F
+file1535 6行 84E840855F-> Pathology ReportEpisode No:  84E840855F
+file1535 10行 84E84085-> Lab No:  84E84085
+file15381 14行 42A8619035-> 42A8619035
+file15381 43行 42A86190-> 42A86190,42A86190 (42A8619035) WHITTEKER, LINETTE SHANNON
+file15381 43行 42A86190-> 42A86190,42A86190 (42A8619035) WHITTEKER, LINETTE SHANNON
+file15381 43行 42A8619035-> 42A86190,42A86190 (42A8619035) WHITTEKER, LINETTE SHANNON
+file15383 1行 53S561861Z-> SPR no: 53S561861Z
+file15450 1行 11O582820I-> SPR no: 11O582820I
+file15477 1行 79K513978Q-> SPR no: 79K513978Q
+file15504 1行 27G634936Z-> SPR no: 27G634936Z
+file15504 19行 27G6349-> To be performed on previous specimen (see 27G6349).
+file15529 1行 85C654094H-> SPR no: 85C654094H
+file15555 14行 33Y675152Q-> 33Y675152Q
+file15555 42行 33Y67515-> 33Y67515 (33Y675152Q) TRUXON, ROSENDO NUMBERS
+file15555 42行 33Y675152Q-> 33Y67515 (33Y675152Q) TRUXON, ROSENDO NUMBERS
+file15596 1行 90V796110Z-> SPR no: 90V796110Z
+file15698 1行 11M397069K-> SPR no: 11M397069K
+file15725 14行 69I3181277-> 69I3181277
+file15725 43行 53V59987-> 53V59987,53V59987 (53V5998752) CORNETTA, ZETTA HARRY
+file15725 43行 53V59987-> 53V59987,53V59987 (53V5998752) CORNETTA, ZETTA HARRY
+file15725 43行 53V5998752-> 53V59987,53V59987 (53V5998752) CORNETTA, ZETTA HARRY
+file15752 1行 27E348185B-> SPR no: 27E348185B
+file15752 49行 27-13481850-> Mismatch repair gene methylation assay was performed by L7 CONSULTING ROOMS Pathology (27-13481850) at the request of the Hereditary Cancer Clinical, WALGETT HEALTH SERVICE. The results are as follows:
+file1576 1行 22I210792A-> SPR no: 22I210792A
+file1576 6行 22I210792A-> Pathology ReportEpisode No:  22I210792A
+file1576 10行 22I21079-> Lab No:  22I21079
+file15850 1行 17J661050G-> SPR no: 17J661050G
+file15911 1行 75F682008P-> SPR no: 75F682008P
+file16003 1行 23C702166X-> SPR no: 23C702166X
+file16076 1行 81Y723124G-> SPR no: 81Y723124G
+file161 1行 86C505731F-> SPR no: 86C505731F
+file161 6行 86C505731F-> Pathology ReportEpisode No:  86C505731F
+file161 10行 86C50573-> Lab No:  86C50573
+file161 30行 86C50573-> COMMENT: The previous resection (86C50573) has been reviewed for comparison and the morphological features of the two tumours are similar. The histological features support a diagnosis of recurrent epithelioid angiomyolipoma.
+file16168 1行 44Y526899O-> SPR no: 44Y526899O
+file16241 14行 92U646948W-> 92U646948W
+file16241 43行 92U64694-> 92U64694,92U64694 (92U646948W) BYUS, ANTONIO COLE
+file16241 43行 92U64694-> 92U64694,92U64694 (92U646948W) BYUS, ANTONIO COLE
+file16241 43行 92U646948W-> 92U64694,92U64694 (92U646948W) BYUS, ANTONIO COLE
+file16260 1行 59Q677906F-> SPR no: 59Q677906F
+file16301 14行 07M6980645-> 07M6980645
+file16348 1行 28E399912Z-> SPR no: 28E399912Z
+file16450 1行 86A310970H-> SPR no: 86A310970H
+file16461 14行 34W330038Q-> 34W330038Q
+file16529 1行 92S451097Z-> SPR no: 92S451097Z
+file16616 1行 40O4821552-> SPR no: 40O4821552
+file16635 14行 08L4022036-> 08L4022036
+file16635 43行 08L40220-> 08L40220,08L40220 (08L4022036) SPURZEM, ROSEANN THU
+file16635 43行 08L40220-> 08L40220,08L40220 (08L4022036) SPURZEM, ROSEANN THU
+file16635 43行 08L4022036-> 08L40220,08L40220 (08L4022036) SPURZEM, ROSEANN THU
+file16679 1行 03P284810P-> SPR no: 03P284810P
+file1671 1行 61L305878X-> SPR no: 61L305878X
+file1671 6行 61L305878X-> Pathology ReportEpisode No:  61L305878X
+file1671 10行 61L30587-> Lab No:  61L30587
+file16731 1行 19H326936G-> SPR no: 19H326936G
+file16809 14行 30Y9278846-> 30Y9278846
+file16809 43行 30Y92788-> 30Y92788,30Y92788 (30Y9278846) MCCOO, ALAINA SAUNDRA
+file16809 43行 30Y92788-> 30Y92788,30Y92788 (30Y9278846) MCCOO, ALAINA SAUNDRA
+file16809 43行 30Y9278846-> 30Y92788,30Y92788 (30Y9278846) MCCOO, ALAINA SAUNDRA
+file16818 1行 97U948843A-> SPR no: 97U948843A
+file16906 1行 45R068901I-> SPR no: 45R068901I
+file16922 14行 03N089069R-> 03N089069R
+file16941 1行 51J010017A-> SPR no: 51J010017A
+file16993 1行 19F130175I-> SPR no: 19F130175I
+file17027 14行 77B151133R-> 77B151133R
+file17046 1行 25X172291A-> SPR no: 25X172291A
+file17074 1行 20B054808Z-> SPR no: 20B054808Z
+file1709 1行 88Y075957H-> SPR no: 88Y075957H
+file1709 2行 8890759-> MRN no: 8890759
+file1709 6行 88Y075957H-> Pathology ReportEpisode No:  88Y075957H
+file1709 10行 88Y07595-> Lab No:  88Y07595
+file1709 27行 88Y07595-> A.  The 44mm subcapsular lesion within the liver is a deposit of moderately differentiated adenocarcinoma, with similar histological features to the previously resected sigmoid adenocarcinoma (88Y07595).  The tumour is composed of tubular and complex malignant glands lined by columnar cells with moderately pleomorphic nuclei within necrotic or desmoplastic stroma.  There is prominent intraluminal necrosis.  Approximately 30% of the tumour is necrotic, while the remaining 70% appears viable.  The tumour is about 20mm clear of the surgical margin and about 4.5mm clear of a diathermied soft tissue margin (? portion of falciform ligament).   No lymphovascular invasion is seen.
+file17113 1行 36U095915Q-> SPR no: 36U095915Q
+file17147 1行 57L696873B-> SPR no: 57L696873B
+file17174 1行 15H727921K-> SPR no: 15H727921K
+file17214 1行 72D748989S-> SPR no: 72D748989S
+file17237 1行 20A769047B-> SPR no: 20A769047B
+file17237 8行 200769047-> Additional information:  Right buttock mass biopsy (Hereditary Pathology - laboratory number 200769047) - Alveolar soft part sarcoma confirmed with TFE3 immunohistochemistry.
+file17250 14行 88W889006J-> 88W889006J
+file17250 42行 88W88900-> 88W88900,88W88900 (88W889006J) SLOWIK, CLEMENTE
+file17250 42行 88W88900-> 88W88900,88W88900 (88W889006J) SLOWIK, CLEMENTE
+file17250 42行 88W889006J-> 88W88900,88W88900 (88W889006J) SLOWIK, CLEMENTE
+file17266 1行 36S800164S-> SPR no: 36S800164S
+file17302 1行 94O821212B-> SPR no: 94O821212B
+file17343 1行 15G422070M-> SPR no: 15G422070M
+file17371 14行 63C552138V-> 63C552138V
+file17371 45行 63055-21IX-> Previous pathology report and slides obtained for comparative purposes (UROLOGY OPD 63055-21IX): Right axilla and right forearm biopsies - similar morphologic features favour high grade undifferentiated sarcoma (possibly myxofibrosarcoma) (Professor Dimodica).
+file174 1行 21Y5732971-> SPR no: 21Y5732971
+file174 6行 21Y5732971-> Pathology ReportEpisode No:  21Y5732971
+file174 10行 21Y57329-> Lab No:  21Y57329
+file174 25行 21Y5732971-> EPISODE NUMBER: 21Y5732971
+file17456 1行 79U594245M-> SPR no: 79U594245M
+file17474 14行 84Y476852L-> 84Y476852L
+file17502 1行 32U497910T-> SPR no: 32U497910T
+file17572 14行 90Q417078C-> 90Q417078C
+file17575 1行 47N538026L-> SPR no: 47N538026L
+file17644 1行 05J569184T-> SPR no: 05J569184T
+file17663 14行 53F589142C-> 53F589142C
+file17705 1行 11B500201K-> SPR no: 11B500201K
+file17754 1行 69X6212697-> SPR no: 69X6212697
+file17765 14行 74B403966S-> 74B403966S
+file17797 1行 22X424924B-> SPR no: 22X424924B
+file17797 6行 22X424924B-> Pathology ReportAccession No: 22X424924B
+file17797 7行 22X42492-> Laboratory No:22X42492
+file17850 1行 80T544082J-> SPR no: 80T544082J
+file17850 6行 80T54408-> Pathology Report80T54408 (80T544082J) ANGELONE, TOMAS
+file17850 6行 80T544082J-> Pathology Report80T54408 (80T544082J) ANGELONE, TOMAS
+file17856 14行 01L145940V-> 01L145940V
+file17908 1行 59H166998D-> SPR no: 59H166998D
+file17908 6行 59H16699-> Pathology Report59H16699 (59H166998D) MARCHELL, ANDREW
+file17908 6行 59H166998D-> Pathology Report59H16699 (59H166998D) MARCHELL, ANDREW
+file17946 14行 17D197056M-> 17D197056M
+file18049 14行 65Z217015U-> 65Z217015U
+file18050 1行 22W238173D-> SPR no: 22W238173D
+file18050 7行 22W23817-> 22W23817,22W23817 (22W238173D) KABUS, HARRIETTE RALEIGH
+file18050 7行 22W23817-> 22W23817,22W23817 (22W238173D) KABUS, HARRIETTE RALEIGH
+file18050 7行 22W238173D-> 22W23817,22W23817 (22W238173D) KABUS, HARRIETTE RALEIGH
+file18050 11行 22-82381731-> Previous report: 22-82381731 SWAPS Pathology, from 6/3/67: Cervix biopsy
+file1809 1行 70S259231M-> SPR no: 70S259231M
+file1809 6行 70S259231M-> Pathology ReportEpisode No:  70S259231M
+file1809 10行 70S25923-> Lab No:  70S25923,70S25923
+file1809 10行 70S25923-> Lab No:  70S25923,70S25923
+file18110 1行 38O370289U-> SPR no: 38O370289U
+file18110 6行 38O37028-> Pathology Report38O37028 (38O370289U) PERCIFUL, BRADFORD VALENTINE
+file18110 6行 38O370289U-> Pathology Report38O37028 (38O370289U) PERCIFUL, BRADFORD VALENTINE
+file18162 14行 86K300347D-> 86K300347D
+file18256 1行 91O1729540-> SPR no: 91O1729540
+file18256 6行 91O17295-> Pathology Report91O17295 (91O1729540) JOLISSAINT, JACK STEVE
+file18256 6行 91O1729540-> Pathology Report91O17295 (91O1729540) JOLISSAINT, JACK STEVE
+file18395 1行 49K2939124-> SPR no: 49K2939124
+file18395 6行 49K29391-> Pathology Report49K29391,49K29391 (49K2939124) ARTS, GIDGET TRACY
+file18395 6行 49K29391-> Pathology Report49K29391,49K29391 (49K2939124) ARTS, GIDGET TRACY
+file18395 6行 49K2939124-> Pathology Report49K29391,49K29391 (49K2939124) ARTS, GIDGET TRACY
+file18460 1行 07G2240607-> SPR no: 07G2240607
+file18460 6行 07G22406-> Pathology Report07G22406 (07G2240607) CUNAS, FRASER SARGE
+file18460 6行 07G2240607-> Pathology Report07G22406 (07G2240607) CUNAS, FRASER SARGE
+file18545 14行 55C245129C-> 55C245129C
+file1861 1行 13Z265187K-> SPR no: 13Z265187K
+file1861 6行 13Z265187K-> Pathology ReportEpisode No:  13Z265187K
+file1861 10行 13Z26518-> Lab No:  13Z26518,13Z26518
+file1861 10行 13Z26518-> Lab No:  13Z26518,13Z26518
+file18658 14行 61V386245T-> 61V386245T
+file18702 1行 29R307203C-> SPR no: 29R307203C
+file18702 8行 29R30720-> 29R30720 (29R307203C) LESE, KOORI MARCEL  HISTOPATHOLOGY REPORT:
+file18702 8行 29R307203C-> 29R30720 (29R307203C) LESE, KOORI MARCEL  HISTOPATHOLOGY REPORT:
+file18702 37行 29R30720-> The tumour appearances are similar to the previous biopsy specimen reviewed from 28/2/2066 (CHS Inc report 29R30720).
+file18752 14行 87N338351K-> 87N338351K
+file18752 43行 87N33835-> 87N33835 (87N338351K) ECHOLS, WERNER
+file18752 43行 87N338351K-> 87N33835 (87N338351K) ECHOLS, WERNER
+file18843 1行 82R200968J-> SPR no: 82R200968J
+file18843 8行 82R20096-> 82R20096 (82R200968J) MUCKERMAN, COY WARRIYANGGA
+file18843 8行 82R200968J-> 82R20096 (82R200968J) MUCKERMAN, COY WARRIYANGGA
+file18865 14行 55B059278E-> 55B059278E
+file18894 1行 13X070336N-> SPR no: 13X070336N
+file18894 6行 13X07033-> Pathology Report13X07033 (13X070336N) ORTELLI, HARRIS
+file18894 6行 13X070336N-> Pathology Report13X07033 (13X070336N) ORTELLI, HARRIS
+file18978 14行 18B852933M-> 18B852933M
+file18984 1行 66X973091U-> SPR no: 66X973091U
+file18984 6行 66X97309-> Pathology Report66X97309 (66X973091U) JUBRAN, MAYNARD JARRED
+file18984 6行 66X973091U-> Pathology Report66X97309 (66X973091U) JUBRAN, MAYNARD JARRED
+file19061 1行 24T993059D-> SPR no: 24T993059D
+file19061 6行 24T99305-> Pathology Report24T99305 (24T993059D) MACLACHLAN, SMOKEY LAMAR
+file19061 6行 24T993059D-> Pathology Report24T99305 (24T993059D) MACLACHLAN, SMOKEY LAMAR
+file19091 14行 82P914117L-> 82P914117L
+file19162 1行 30L035165U-> SPR no: 30L035165U
+file19162 7行 30L03516-> 30L03516 (30L035165U) BIBEE, PHILIP VINCENZO
+file19162 7行 30L035165U-> 30L03516 (30L035165U) BIBEE, PHILIP VINCENZO
+file19219 1行 98I066223D-> SPR no: 98I066223D
+file19219 6行 98I06622-> Pathology Report98I06622 (98I066223D) BUANNO, ANGELO BERNARD
+file19219 6行 98I066223D-> Pathology Report98I06622 (98I066223D) BUANNO, ANGELO BERNARD
+file19251 14行 46E086382L-> 46E086382L
+file19372 14行 04A107340U-> 04A107340U
+file19372 45行 04010-73LA-> Previous pathology report and slides obtained for comparative purposes (SEALS 04010-73LA): Right axilla and right forearm biopsies - similar morphologic features favour high grade undifferentiated sarcoma (possibly myxofibrosarcoma) (Professor Starwalt).
+file19423 1行 09E989957T-> SPR no: 09E989957T
+file19423 6行 09E98995-> Pathology Report09E98995,09E98995 (09E989957T) NYCE, EDWARD
+file19423 6行 09E98995-> Pathology Report09E98995,09E98995 (09E989957T) NYCE, EDWARD
+file19423 6行 09E989957T-> Pathology Report09E98995,09E98995 (09E989957T) NYCE, EDWARD
+file19462 14行 72O729356O-> 72O729356O
+file19464 1行 30K749314W-> SPR no: 30K749314W
+file19464 6行 30K74931-> Pathology Report30K74931 (30K749314W) GRGUREVIC, BRODIE BRITT
+file19464 6行 30K749314W-> Pathology Report30K74931 (30K749314W) GRGUREVIC, BRODIE BRITT
+file1950 1行 35O621921V-> SPR no: 35O621921V
+file1950 6行 35O621921V-> Pathology ReportEpisode No:  35O621921V
+file1950 10行 35O62192-> Lab No:  35O62192
+file19513 1行 93K642079E-> SPR no: 93K642079E
+file19513 6行 93K64207-> Pathology Report93K64207 (93K642079E) SKILL, KARON
+file19513 6行 93K642079E-> Pathology Report93K64207 (93K642079E) SKILL, KARON
+file19553 14行 41G663138N-> 41G663138N
+file19599 1行 09C794196V-> SPR no: 09C794196V
+file19599 6行 09C79419-> Pathology Report09C79419,09C79419 (09C794196V) LEANZA, DANNETTE VLADIMIR MARVIN
+file19599 6行 09C79419-> Pathology Report09C79419,09C79419 (09C794196V) LEANZA, DANNETTE VLADIMIR MARVIN
+file19599 6行 09C794196V-> Pathology Report09C79419,09C79419 (09C794196V) LEANZA, DANNETTE VLADIMIR MARVIN
+file19655 14行 57Y714254E-> 57Y714254E
+file19671 1行 15U735212M-> SPR no: 15U735212M
+file19671 6行 15U73521-> Pathology Report15U73521 (15U735212M) LEITHOFF, FELIPE
+file19671 6行 15U735212M-> Pathology Report15U73521 (15U735212M) LEITHOFF, FELIPE
+file19746 14行 63R856360V-> 63R856360V
+file19755 1行 84I4572292-> SPR no: 84I4572292
+file19755 6行 84I45722-> Pathology Report84I45722 (84I4572292) STELB, YU
+file19755 6行 84I4572292-> Pathology Report84I45722 (84I4572292) STELB, YU
+file1977 1行 42E477287P-> SPR no: 42E477287P
+file1977 8行 42E47728-> 42E47728
+file19800 1行 90A4083459-> SPR no: 90A4083459
+file19800 6行 90A40834-> Pathology Report90A40834 (90A4083459) BOGAERT, VERNON KERRY
+file19800 6行 90A4083459-> Pathology Report90A40834 (90A4083459) BOGAERT, VERNON KERRY
+file19844 14行 57X529493G-> 57X529493G
+file19874 1行 52B3010002-> SPR no: 52B3010002
+file19874 6行 52B30100-> Pathology Report52B30100 (52B3010002) MARAZZI, SAMMIE
+file19874 6行 52B3010002-> Pathology Report52B30100 (52B3010002) MARAZZI, SAMMIE
+file19957 14行 10X322068O-> 10X322068O
+file19974 1行 68T342126W-> SPR no: 68T342126W
+file19974 6行 68T34212-> Pathology Report68T34212 (68T342126W) BUEHNER, VALENTINE HYMAN
+file19974 6行 68T342126W-> Pathology Report68T34212 (68T342126W) BUEHNER, VALENTINE HYMAN
+file20071 14行 26P463184F-> 26P463184F
+file20071 43行 26P46318-> 26P46318 (26P463184F) CABAL, JUAN HARLAN
+file20071 43行 26P463184F-> 26P46318 (26P463184F) CABAL, JUAN HARLAN
+file20120 1行 74L4842325-> SPR no: 74L4842325
+file20120 6行 74L48423-> Pathology Report74L48423,74L48423 (74L4842325) VANBLARCOM, MISTY
+file20120 6行 74L48423-> Pathology Report74L48423,74L48423 (74L4842325) VANBLARCOM, MISTY
+file20120 6行 74L4842325-> Pathology Report74L48423,74L48423 (74L4842325) VANBLARCOM, MISTY
+file20160 1行 32H4153918-> SPR no: 32H4153918
+file20160 6行 32H41539-> Pathology Report32H41539,32H41539 (32H4153918) TEDDER, VALENCIA
+file20160 6行 32H41539-> Pathology Report32H41539,32H41539 (32H4153918) TEDDER, VALENCIA
+file20160 6行 32H4153918-> Pathology Report32H41539,32H41539 (32H4153918) TEDDER, VALENCIA
+file20181 14行 80E535359F-> 80E535359F
+file20181 43行 80E53535-> 80E53535 (80E535359F) GELBOWITZ, LLOYD
+file20181 43行 80E535359F-> 80E53535 (80E535359F) GELBOWITZ, LLOYD
+file20244 1行 48A556417N-> SPR no: 48A556417N
+file20244 6行 48A55641-> Pathology Report48A55641,48A55641 (48A556417N) FIRMIN, CORY-ANTONIETTA
+file20244 6行 48A55641-> Pathology Report48A55641,48A55641 (48A556417N) FIRMIN, CORY-ANTONIETTA
+file20244 6行 48A556417N-> Pathology Report48A55641,48A55641 (48A556417N) FIRMIN, CORY-ANTONIETTA
+file20283 1行 43E338014M-> SPR no: 43E338014M
+file20283 6行 43E33801-> Pathology Report43E33801 (43E338014M) DISPARTE, CHUNG
+file20283 6行 43E338014M-> Pathology Report43E33801 (43E338014M) DISPARTE, CHUNG
+file20291 14行 01A459072V-> 01A459072V
+file20291 43行 01A45907-> 01A45907 (01A459072V) RINIKER, EMILE
+file20291 43行 01A459072V-> 01A45907 (01A459072V) RINIKER, EMILE
+file20321 1行 59W479130E-> SPR no: 59W479130E
+file20321 6行 59W47913-> Pathology Report59W47913 (59W479130E) SANTHUFF, EMMANUEL TERRANCE HISTOPATHOLOGY REPORT:
+file20321 6行 59W479130E-> Pathology Report59W47913 (59W479130E) SANTHUFF, EMMANUEL TERRANCE HISTOPATHOLOGY REPORT:
+file20321 8行 5984T913015-> Previous (from Prof Koci rooms): Rectal biopsies 10/11/2066 Seals Path 5984T913015
+file2037 1行 17S490298M-> SPR no: 17S490298M
+file2037 8行 17S49029-> 17S49029
+file20398 1行 37K091147Y-> SPR no: 37K091147Y
+file20398 6行 64O51125-> Pathology Report64O51125 (64O511256V) SAMAY, LOGAN JEFFERY
+file20398 6行 64O511256V-> Pathology Report64O51125 (64O511256V) SAMAY, LOGAN JEFFERY
+file20450 1行 85G112105G-> SPR no: 85G112105G
+file20450 6行 85G11210-> Pathology Report85G11210 (85G112105G) MCCULLY, LIAM JEROME
+file20450 6行 85G112105G-> Pathology Report85G11210 (85G112105G) MCCULLY, LIAM JEROME
+file20566 1行 43C143263P-> SPR no: 43C143263P
+file20566 6行 43C14326-> Pathology Report43C14326,43C14326 (43C143263P) GEARLDS, SHIRLY
+file20566 6行 43C14326-> Pathology Report43C14326,43C14326 (43C143263P) GEARLDS, SHIRLY
+file20566 6行 43C143263P-> Pathology Report43C14326,43C14326 (43C143263P) GEARLDS, SHIRLY
+file20566 32行 43C14326-> A. Histology shows an endometrial adenocarcinoma with a villoglandular architecture with columnar cells which in places shows prominent hobnailing with some clear cells and increasing nuclear grade (2 to focal 3). On morphology the tumour shows some overlap between endometrioid and serous adenocarcinoma. Immunostains show focal patchy staining for p53 (ie wild type pattern), patchy p16, weak focal ER (5% 1+), focal minor staining for AMACR and negativity for WT1, p63. Ki67 is approximately 70%. Mismatch repair proteins are normal. This pattern of staining is more in-keeping with an endometrioid adenocarcinoma but due to the slightly ambiguous morphological appearances the tumour is best considered endometrial adenocarcinoma, NOS. Whilst there is minimal myometrial invasion, there are several foci of lymphatic vascular invasion in the immediately adjacent superficial myometrium. No malignancy is seen in 5 sentinel nodes (including IHC) and the omental biopsy is negative. However the peritoneal washings (reported separately 43C14326) contain numerous groups of malignant cells with similar morphology with numerous psammoma bodies present.
+file20586 14行 91Y163221X-> 91Y163221X
+file20586 43行 91Y16322-> 91Y16322 (91Y163221X) TSHABALALA, ROMAINE
+file20586 43行 91Y163221X-> 91Y16322 (91Y163221X) TSHABALALA, ROMAINE
+file20718 1行 59U284389G-> SPR no: 59U284389G
+file20718 6行 59U28438-> Pathology Report59U28438 (59U284389G) BARCLEY, DESHAWN
+file20718 6行 59U284389G-> Pathology Report59U28438 (59U284389G) BARCLEY, DESHAWN
+file20759 1行 17Q205337P-> SPR no: 17Q205337P
+file20759 6行 17Q20533-> Pathology Report17Q20533 (17Q205337P) HARCEY, LYNDON  HISTOPATHOLOGY REPORT:
+file20759 6行 17Q205337P-> Pathology Report17Q20533 (17Q205337P) HARCEY, LYNDON  HISTOPATHOLOGY REPORT:
+file20815 1行 65N225496X-> SPR no: 65N225496X
+file20815 6行 65N22549-> Pathology Report65N22549 (65N225496X) GORECZNY, BRIAN VINNY
+file20815 6行 65N225496X-> Pathology Report65N22549 (65N225496X) GORECZNY, BRIAN VINNY
+file2085 1行 60Q007002W-> SPR no: 60Q007002W
+file2085 6行 60Q007002W-> Pathology ReportEpisode No:  60Q007002W
+file2085 10行 60Q00700-> Lab No:  60Q00700
+file20910 1行 28N128161F-> SPR no: 28N128161F
+file20910 6行 28N12816-> Pathology Report28N12816 (28N128161F) NIVALA, NICKY TRACEY
+file20910 6行 28N128161F-> Pathology Report28N12816 (28N128161F) NIVALA, NICKY TRACEY
+file21011 1行 76J149119N-> SPR no: 76J149119N
+file21011 6行 76J14911-> Pathology Report76J14911 (76J149119N) WOYTEK, JOSPEH
+file21011 6行 76J149119N-> Pathology Report76J14911 (76J149119N) WOYTEK, JOSPEH
+file21128 1行 34F1702778-> SPR no: 34F1702778
+file21128 6行 34F17027-> Pathology Report34F17027 (34F1702778) MCELVAIN, DELILA DIAMOND
+file21128 6行 34F1702778-> Pathology Report34F17027 (34F1702778) MCELVAIN, DELILA DIAMOND
+file21177 1行 92B290335F-> SPR no: 92B290335F
+file21177 6行 92B29033-> Pathology Report92B29033 (92B290335F) ANALLA, STERLING
+file21177 6行 92B290335F-> Pathology Report92B29033 (92B290335F) ANALLA, STERLING
+file21429 1行 49X211393N-> SPR no: 49X211393N
+file21429 6行 49X21139-> Pathology Report49X21139 (49X211393N) ERNZEN, SIMON ERWIN
+file21429 6行 49X211393N-> Pathology Report49X21139 (49X211393N) ERNZEN, SIMON ERWIN
+file21486 14行 07T232451W-> 07T232451W
+file21486 43行 07T23245-> 07T23245 (07T232451W) BORCHERT, SHAWN
+file21486 43行 07T232451W-> 07T23245 (07T232451W) BORCHERT, SHAWN
+file21548 1行 55Q353409F-> SPR no: 55Q353409F
+file21548 6行 55Q35340-> Pathology Report55Q35340,55Q35340 (55Q353409F) CHIRCO, NAOMA
+file21548 6行 55Q35340-> Pathology Report55Q35340,55Q35340 (55Q353409F) CHIRCO, NAOMA
+file21548 6行 55Q353409F-> Pathology Report55Q35340,55Q35340 (55Q353409F) CHIRCO, NAOMA
+file21593 14行 50U1350161-> 50U1350161
+file21593 43行 50U13501-> 50U13501 (50U1350161) TRUMBLEY, LOYD LANCE
+file21593 43行 50U1350161-> 50U13501 (50U1350161) TRUMBLEY, LOYD LANCE
+file21773 1行 18Q155174M-> SPR no: 18Q155174M
+file21773 6行 18Q15517-> Pathology Report18Q15517 (18Q155174M) BRILLHART, IRWIN
+file21773 6行 18Q155174M-> Pathology Report18Q15517 (18Q155174M) BRILLHART, IRWIN
+file21810 1行 76M276233V-> SPR no: 76M276233V
+file21810 6行 76M27623-> Pathology Report76M27623 (76M276233V) MCADAM, LEON LOWELL
+file21810 6行 76M276233V-> Pathology Report76M27623 (76M276233V) MCADAM, LEON LOWELL
+file21810 11行 76M276233-> SEALS report 76M276233 from 26/1/2065, peritoneal disease resection and appendiceal tumour.
+file21904 1行 24I207291D-> SPR no: 24I207291D
+file21904 6行 24I20729-> Pathology Report24I20729,24I20729 (24I207291D) NOVAKOVICH, ISABEL JACINTA
+file21904 6行 24I20729-> Pathology Report24I20729,24I20729 (24I207291D) NOVAKOVICH, ISABEL JACINTA
+file21904 6行 24I207291D-> Pathology Report24I20729,24I20729 (24I207291D) NOVAKOVICH, ISABEL JACINTA
+file21956 1行 82E228349M-> SPR no: 82E228349M
+file21956 6行 82E22834-> Pathology Report82E22834,82E22834 (82E228349M) DANDRADE, LEONA
+file21956 6行 82E22834-> Pathology Report82E22834,82E22834 (82E228349M) DANDRADE, LEONA
+file21956 6行 82E228349M-> Pathology Report82E22834,82E22834 (82E228349M) DANDRADE, LEONA
+file2204 1行 30A248307V-> SPR no: 30A248307V
+file2204 6行 30A248307V-> Pathology ReportEpisode No:  30A248307V
+file2204 10行 30A24830-> Lab No:  30A24830
+file22075 1行 51S9492652-> SPR no: 51S9492652
+file22075 6行 51S94926-> Pathology Report51S94926 (51S9492652) BRINCK, JULIAN ALEIDA
+file22075 6行 51S9492652-> Pathology Report51S94926 (51S9492652) BRINCK, JULIAN ALEIDA
+file22125 1行 46T380523M-> SPR no: 46T380523M
+file22125 6行 46T38052-> Pathology Report46T38052 (46T380523M) BUD, EMIL
+file22125 6行 46T380523M-> Pathology Report46T38052 (46T380523M) BUD, EMIL
+file22159 1行 51X162120L-> SPR no: 51X162120L
+file22159 6行 51X16212-> Pathology Report51X16212 (51X162120L) PIER, SHAWN JESSE
+file22159 6行 51X162120L-> Pathology Report51X16212 (51X162120L) PIER, SHAWN JESSE
+file22190 1行 08T282188T-> SPR no: 08T282188T
+file22190 6行 08T28218-> Pathology Report08T28218 (08T282188T) NISHIMOTO, ELIAS
+file22190 6行 08T282188T-> Pathology Report08T28218 (08T282188T) NISHIMOTO, ELIAS
+file22312 1行 66P213247C-> SPR no: 66P213247C
+file22312 6行 66P21324-> Pathology Report66P21324 (66P213247C) MORINO, JUSTIN
+file22312 6行 66P213247C-> Pathology Report66P21324 (66P213247C) MORINO, JUSTIN
+file22415 1行 87G814105N-> SPR no: 87G814105N
+file22415 6行 87G81410-> Pathology Report87G81410,87G81410 (87G814105N) BERRIEN, MAISIE VICKY
+file22415 6行 87G81410-> Pathology Report87G81410,87G81410 (87G814105N) BERRIEN, MAISIE VICKY
+file22415 6行 87G814105N-> Pathology Report87G81410,87G81410 (87G814105N) BERRIEN, MAISIE VICKY
+file22453 1行 35D835153W-> SPR no: 35D835153W
+file22453 6行 35D83515-> Pathology Report35D83515,72H35536 (72H355363T) NALEVANKO, KANDRA LAKORA
+file22453 6行 72H35536-> Pathology Report35D83515,72H35536 (72H355363T) NALEVANKO, KANDRA LAKORA
+file22453 6行 72H355363T-> Pathology Report35D83515,72H35536 (72H355363T) NALEVANKO, KANDRA LAKORA
+file22558 14行 93Z956211F-> 93Z956211F
+file22558 43行 93Z95621-> 93Z95621 (93Z956211F) DIMAURO, ROZELLA
+file22558 43行 93Z956211F-> 93Z95621 (93Z956211F) DIMAURO, ROZELLA
+file22641 1行 41V976279N-> SPR no: 41V976279N
+file22641 6行 41V97627-> Pathology Report41V97627 (41V976279N) BALOGH, MERLE CRISTOPHER
+file22641 6行 41V976279N-> Pathology Report41V97627 (41V976279N) BALOGH, MERLE CRISTOPHER
+file22665 14行 09R9973388-> 09R9973388
+file22665 43行 09R99733-> 09R99733 (09R9973388) JABBOUR, BART DONNIE
+file22665 43行 09R9973388-> 09R99733 (09R9973388) JABBOUR, BART DONNIE
+file22734 1行 57N028496E-> SPR no: 57N028496E
+file22734 6行 57N02849-> Pathology Report57N02849,57N02849 (57N028496E) GARCZYNSKI, ARCHER
+file22734 6行 57N02849-> Pathology Report57N02849,57N02849 (57N028496E) GARCZYNSKI, ARCHER
+file22734 6行 57N028496E-> Pathology Report57N02849,57N02849 (57N028496E) GARCZYNSKI, ARCHER
+file22786 14行 15J048444N-> 15J048444N
+file22786 43行 15J04844-> 15J04844 (15J048444N) MIHALKO, ELISHA
+file22786 43行 15J048444N-> 15J04844 (15J048444N) MIHALKO, ELISHA
+file22862 1行 63G069502W-> SPR no: 63G069502W
+file22862 6行 63G06950-> Pathology Report63G06950,63G06950 (63G069502W) ZAPATERO, GERARD
+file22862 6行 63G06950-> Pathology Report63G06950,63G06950 (63G069502W) ZAPATERO, GERARD
+file22862 6行 63G069502W-> Pathology Report63G06950,63G06950 (63G069502W) ZAPATERO, GERARD
+file22914 1行 78K941119V-> SPR no: 78K941119V
+file22914 6行 78K94111-> Pathology Report78K94111 (78K941119V) CARRATURA, LAZARO BARRETT
+file22914 6行 78K941119V-> Pathology Report78K94111 (78K941119V) CARRATURA, LAZARO BARRETT
+file22916 14行 26G962177D-> 26G962177D
+file22953 1行 83C983235M-> SPR no: 83C983235M
+file22953 6行 83C98323-> Pathology Report83C98323 (83C983235M) STEAGELL, GRAIG
+file22953 6行 83C983235M-> Pathology Report83C98323 (83C983235M) STEAGELL, GRAIG
+file22953 24行 83C98323-> The appearance of the current tumour have been compared with appearances in the original specimen (83C98323, 4/3/2064) and are identical.
+file23060 14行 31Y903383U-> 31Y903383U
+file23065 1行 99U024341D-> SPR no: 99U024341D
+file23065 8行 99U02434-> 99U02434,99U02434 (99U024341D) PRIDHAM, YULANDA
+file23065 8行 99U02434-> 99U02434,99U02434 (99U024341D) PRIDHAM, YULANDA
+file23065 8行 99U024341D-> 99U02434,99U02434 (99U024341D) PRIDHAM, YULANDA
+file23220 1行 47Q055400M-> SPR no: 47Q055400M
+file23220 6行 47Q05540-> Pathology Report47Q05540,47Q05540 (47Q055400M) MONSMA, LIDIA KIESHA
+file23220 6行 47Q05540-> Pathology Report47Q05540,47Q05540 (47Q055400M) MONSMA, LIDIA KIESHA
+file23220 6行 47Q055400M-> Pathology Report47Q05540,47Q05540 (47Q055400M) MONSMA, LIDIA KIESHA
+file23251 14行 05N076468U-> 05N076468U
+file23251 43行 05N07646-> 05N07646,05N07646 (05N076468U) MALANGO, JAMAL
+file23251 43行 05N07646-> 05N07646,05N07646 (05N076468U) MALANGO, JAMAL
+file23251 43行 05N076468U-> 05N07646,05N07646 (05N076468U) MALANGO, JAMAL
+file23308 1行 53J196516D-> SPR no: 53J196516D
+file23308 6行 53J19651-> Pathology Report53J19651 (53J196516D) PARTYKA, PATRICE OLEN
+file23308 6行 53J196516D-> Pathology Report53J19651 (53J196516D) PARTYKA, PATRICE OLEN
+file23377 1行 68N9781230-> SPR no: 68N9781230
+file23377 7行 68N97812-> 68N97812,68N97812 (68N9781230) RUYES, JUDSON
+file23377 7行 68N97812-> 68N97812,68N97812 (68N9781230) RUYES, JUDSON
+file23377 7行 68N9781230-> 68N97812,68N97812 (68N9781230) RUYES, JUDSON
+file233771 14行 16J999281L-> 16J999281L
+file23437 14行 74F010249T-> 74F010249T
+file23439 1行 22B031307C-> SPR no: 22B031307C
+file23439 6行 22B03130-> Pathology Report22B03130 (22B031307C) SAVASTA, COLLIN HANK
+file23439 6行 22B031307C-> Pathology Report22B03130 (22B031307C) SAVASTA, COLLIN HANK
+file23439 19行 22B03130-> Previous results  (22B03130 RIF peritoneal disease biopsies, from 30/1/2067 are noted)
+file2344 1行 80X051355K-> SPR no: 80X051355K
+file2344 6行 80X051355K-> Pathology ReportEpisode No:  80X051355K
+file2344 10行 80X05135-> Lab No:  80X05135
+file23563 14行 37U182414T-> 37U182414T
+file23587 1行 95Q1035720-> SPR no: 95Q1035720
+file23587 6行 95Q10357-> Pathology Report95Q10357 (95Q1035720) OVITT, MARGARITO
+file23587 6行 95Q1035720-> Pathology Report95Q10357 (95Q1035720) OVITT, MARGARITO
+file23587 38行 95Q10357-> The appearances and immunoprofile are those of grade 3 (WHO) well differentiated neuro-endocrine tumour as previously documented (95Q10357, 95Q103572C, 24/9/65).
+file23587 38行 95Q103572C-> The appearances and immunoprofile are those of grade 3 (WHO) well differentiated neuro-endocrine tumour as previously documented (95Q10357, 95Q103572C, 24/9/65).
+file23662 1行 53M1235304-> SPR no: 53M1235304
+file23662 6行 53M12353-> Pathology Report53M12353 (53M1235304) MAROLA, BURL WENDELL
+file23662 6行 53M1235304-> Pathology Report53M12353 (53M1235304) MAROLA, BURL WENDELL
+file23689 14行 58Q905147J-> 58Q905147J
+file23784 1行 06M0262957-> SPR no: 06M0262957
+file23784 6行 06M02629-> Pathology Report06M02629 (06M0262957) MCKEAG, COOPER
+file23784 6行 06M0262957-> Pathology Report06M02629 (06M0262957) MCKEAG, COOPER
+file23835 1行 64I047253B-> SPR no: 64I047253B
+file23835 6行 64I04725-> Pathology Report64I04725 (64I047253B) CORLEE, WARREN FREDERICH
+file23835 6行 64I047253B-> Pathology Report64I04725 (64I047253B) CORLEE, WARREN FREDERICH
+file23878 1行 85A648111M-> SPR no: 85A648111M
+file23878 6行 85A64811-> Pathology Report85A64811 (85A648111M) HATLEY, ELISA
+file23878 6行 85A648111M-> Pathology Report85A64811 (85A648111M) HATLEY, ELISA
+file23878 25行 85A64811-> Comment: The appearances and immunoprofile are consistent with recurrent leiomyosarcoma. The previously reported leiomyosarcoma was negative for SMA and desmin in the poorly differentiated areas (85A64811, 85A6481114, 2/5/66).
+file23878 25行 85A6481114-> Comment: The appearances and immunoprofile are consistent with recurrent leiomyosarcoma. The previously reported leiomyosarcoma was negative for SMA and desmin in the poorly differentiated areas (85A64811, 85A6481114, 2/5/66).
+file2403 1行 33W669260U-> SPR no: 33W669260U
+file2403 6行 33W669260U-> Pathology ReportEpisode No:  33W669260U
+file2403 10行 33W66926-> Lab No:  33W66926
+file24079 1行 91S789328D-> SPR no: 91S789328D
+file24164 1行 59O710386M-> SPR no: 59O710386M
+file24211 1行 07K731444U-> SPR no: 07K731444U
+file24275 1行 65G851402D-> SPR no: 65G851402D
+file24367 1行 12D872550L-> SPR no: 12D872550L
+file24419 1行 70Z893518U-> SPR no: 70Z893518U
+file2444 14行 75D775225T-> 75D775225T
+file2444 44行 75D77522-> 75D77522 (75D775225T) UNIKEL, JAME
+file2444 44行 75D775225T-> 75D77522 (75D775225T) UNIKEL, JAME
+file24464 1行 33Z796283C-> SPR no: 33Z796283C
+file24510 1行 81V726342K-> SPR no: 81V726342K
+file24546 1行 76W267500Q-> SPR no: 76W267500Q
+file24599 1行 34S288658Z-> SPR no: 34S288658Z
+file2465 6行 76B480364V-> Pathology Reportdrw10 brdrsain 1 Episode No:  76B480364V
+file2465 10行 76B48036-> s0 fl3rsdrw10 brdrsain 1 Lab No:  76B48036rtlch
+file24681 1行 24X500423E-> SPR no: 24X500423E
+file24761 1行 82T531581N-> SPR no: 82T531581N
+file24806 1行 30P552549V-> SPR no: 30P552549V
+file2489 1行 97M672607E-> SPR no: 97M672607E
+file2489 8行 97M67260-> 97M67260
+file24894 1行 92Q454204D-> SPR no: 92Q454204D
+file24920 1行 50M475262L-> SPR no: 50M475262L
+file24964 1行 08I496320U-> SPR no: 08I496320U
+file25099 1行 66E517488D-> SPR no: 66E517488D
+file25136 1行 14A537447L-> SPR no: 14A537447L
+file25166 1行 72W568595U-> SPR no: 72W568595U
+file25221 1行 20T689553C-> SPR no: 20T689553C
+file25249 1行 88P600611L-> SPR no: 88P600611L
+file25335 1行 83T482228K-> SPR no: 83T482228K
+file25381 1行 41P402386T-> SPR no: 41P402386T
+file25435 1行 99L523334B-> SPR no: 99L523334B
+file25435 24行 99L52333-> The previous core biopsy 99L52333 has been reviewed and no diagnostic evidence of residual ductal carcinoma in situ is seen in the sections from this excision specimen.
+file25484 1行 56H544492K-> SPR no: 56H544492K
+file2554 1行 04D564450T-> SPR no: 04D564450T
+file2554 8行 04D56445-> 04D56445
+file25627 1行 62A695519B-> SPR no: 62A695519B
+file25673 1行 04I897325Y-> SPR no: 04I897325Y
+file25760 1行 52E818383G-> SPR no: 52E818383G
+file25791 1行 10B938432P-> SPR no: 10B938432P
+file25842 1行 05C379690V-> SPR no: 05C379690V
+file25872 1行 00G151206U-> SPR no: 00G151206U
+file25920 1行 68C272365D-> SPR no: 68C272365D
+file25957 1行 16Y292423L-> SPR no: 16Y292423L
+file26009 1行 74U223481U-> SPR no: 74U223481U
+file26009 3行 T472-> Site_name: T472
+file262 1行 31Q344539C-> SPR no: 31Q344539C
+file262 6行 31Q344539C-> Pathology ReportEpisode No:  31Q344539C
+file262 10行 31Q34453-> Lab No:  31Q34453,31Q34453
+file262 10行 31Q34453-> Lab No:  31Q34453,31Q34453
+file262 20行 31Q344539C-> BONE MARROW REFERENCE No. 31Q344539C
+file2636 1行 89M365597L-> SPR no: 89M365597L
+file2636 6行 89M365597L-> Pathology ReportEpisode No:  89M365597L
+file2636 10行 89M36559-> Lab No:  89M36559,89M36559
+file2636 10行 89M36559-> Lab No:  89M36559,89M36559
+file2664 1行 47J385655U-> SPR no: 47J385655U
+file2664 8行 47J38565-> 47J38565
+file275 1行 95F406613C-> SPR no: 95F406613C
+file275 6行 95F406613C-> Pathology ReportEpisode No:  95F406613C
+file275 10行 95F40661-> Lab No:  95F40661,95F40661
+file275 10行 95F40661-> Lab No:  95F40661,95F40661
+file275 20行 95F406613C-> BONE MARROW REFERENCE No. 95F406613C
+file2754 1行 90J288310B-> SPR no: 90J288310B
+file2754 8行 90J28831-> 90J28831,90J28831
+file2754 8行 90J28831-> 90J28831,90J28831
+file2754 16行 90J288310B-> BONE MARROW REFERENCE No. 90J288310B
+file2800 14行 95K639588H-> 95K639588H
+file2813 1行 16B230437S-> SPR no: 16B230437S
+file2813 6行 16B230437S-> Pathology ReportEpisode No:  16B230437S
+file2813 10行 16B23043-> Lab No:  16B23043,16B23043
+file2813 10行 16B23043-> Lab No:  16B23043,16B23043
+file2844 1行 64X350495B-> SPR no: 64X350495B
+file2844 8行 64X35049-> 64X35049
+file2871 1行 22T371553K-> SPR no: 22T371553K
+file2871 8行 22T37155-> 22T37155
+file288 1行 70P392601S-> SPR no: 70P392601S
+file288 7行 70P392601S-> Pathology ReportEpisode No:  70P392601S
+file288 11行 70P39260-> Lab No:  70P39260
+file288 25行 70P392601S-> EPISODE NO: 70P392601S	A.M.O. Demick
+file2918 1行 38M413669B-> SPR no: 38M413669B
+file2918 6行 38M413669B-> Pathology ReportEpisode No:  38M413669B
+file2918 10行 38M41366-> Lab No:  38M41366
+file2967 14行 86I443727K-> 86I443727K
+file2967 43行 86I44372-> 86I44372 (86I443727K) RAJU, JOAQUIN MILTON
+file2967 43行 86I443727K-> 86I44372 (86I443727K) RAJU, JOAQUIN MILTON
+file3014 1行 90M215334J-> SPR no: 90M215334J
+file3014 6行 90M215334J-> Pathology ReportEpisode No:  90M215334J
+file3014 10行 90M21533-> Lab No:  90M21533
+file31 1行 48I336392R-> SPR no: 48I336392R
+file31 6行 48I336392R-> Pathology ReportEpisode No:  48I336392R
+file31 10行 48I33639-> Lab No:  48I33639,48I33639
+file31 10行 48I33639-> Lab No:  48I33639,48I33639
+file31 25行 48I336392R-> Episode number: 48I336392R.
+file31 73行 48I336392R-> Episode number: 48I336392R
+file3130 1行 06E367441A-> SPR no: 06E367441A
+file3130 6行 06E367441A-> Pathology ReportEpisode No:  06E367441A
+file3130 10行 06E36744-> Lab No:  06E36744
+file3137 14行 91F7076092-> 91F7076092
+file3137 43行 91F70760-> 91F70760,91F70760 (91F7076092) MOEL, BINDI MATHEW
+file3137 43行 91F70760-> 91F70760,91F70760 (91F7076092) MOEL, BINDI MATHEW
+file3137 43行 91F7076092-> 91F70760,91F70760 (91F7076092) MOEL, BINDI MATHEW
+file3186 1行 49B828767O-> SPR no: 49B828767O
+file3186 6行 49B828767O-> Pathology ReportEpisode No:  49B828767O
+file3186 10行 49B82876-> Lab No:  49B82876
+file3238 1行 54F600374N-> SPR no: 54F600374N
+file3238 6行 54F600374N-> Pathology ReportEpisode No:  54F600374N
+file3238 10行 54F60037-> Lab No:  54F60037
+file3285 14行 49G041532T-> 49G041532T
+file3285 43行 49G04153-> 49G04153,49G04153 (49G041532T) GOTTLOB, NGUNYA MATT
+file3285 43行 49G04153-> 49G04153,49G04153 (49G041532T) GOTTLOB, NGUNYA MATT
+file3285 43行 49G041532T-> 49G04153,49G04153 (49G041532T) GOTTLOB, NGUNYA MATT
+file3312 1行 60Y641490F-> SPR no: 60Y641490F
+file3312 6行 60Y641490F-> Pathology ReportEpisode No:  60Y641490F
+file3312 10行 60Y64149-> Lab No:  60Y64149
+file3335 1行 55Y192658L-> SPR no: 55Y192658L
+file3335 8行 55Y19265-> 55Y19265
+file3382 1行 03V113706T-> SPR no: 03V113706T
+file3382 6行 03V113706T-> Pathology ReportEpisode No:  03V113706T
+file3382 10行 03V11370-> Lab No:  03V11370,03V11370
+file3382 10行 03V11370-> Lab No:  03V11370,03V11370
+file3458 1行 18Z995313S-> SPR no: 18Z995313S
+file3458 6行 18Z995313S-> Pathology ReportEpisode No:  18Z995313S
+file3458 10行 18Z99531-> Lab No:  18Z99531,18Z99531
+file3458 10行 18Z99531-> Lab No:  18Z99531,18Z99531
+file347 1行 65V015471B-> SPR no: 65V015471B
+file347 6行 65V015471B-> Pathology ReportEpisode No:  65V015471B
+file347 10行 65V01547-> Lab No:  65V01547
+file3489 14行 23R036439K-> 23R036439K
+file3489 42行 23R03643-> 23R03643 (23R036439K) NORD, ROY
+file3489 42行 23R036439K-> 23R03643 (23R036439K) NORD, ROY
+file3516 1行 71N0575977-> SPR no: 71N0575977
+file3516 6行 71N0575977-> Pathology Reporttrbrdrlrdrw10 idth4996ridEpisode No:  71N0575977482031
+file3516 10行 71N05759-> 33 1drtrdrslbrdrbclshdrawnil p1033Lab No:  71N05759
+file3570 1行 39J1785450-> SPR no: 39J1785450
+file3570 6行 39J1785450-> Pathology Reporttrbrdrtrdrw10 txlrtbEpisode No:  39J1785450f0
+file3570 10行 39J17854-> 1033rbrdrvrawnil trbrdrtrdrw10 txlrtbLab No:  39J17854
+file3644 1行 87F108604J-> SPR no: 87F108604J
+file3644 6行 87F108604J-> Pathology Reporttrrowtblind0brdrbfcs1 Episode No:  87F108604J
+file3644 10行 87F10860-> alang1025 trbrdrrrdrw10 rowd lbrdrbLab No:  87F10860,87F10860
+file3644 10行 87F10860-> alang1025 trbrdrrrdrw10 rowd lbrdrbLab No:  87F10860,87F10860
+file3740 1行 45C129762S-> SPR no: 45C129762S
+file3740 6行 45C129762S-> Pathology Reporttrsectrsdth3528blEpiso de No:  45C129762S
+file3740 10行 45C12976-> ntblh108 rsdrw10 28tqcLab No:   45C12976,45C12976
+file3740 10行 45C12976-> ntblh108 rsdrw10 28tqcLab No:   45C12976,45C12976
+file3811 1行 93Y2407200-> SPR no: 93Y2407200
+file3811 6行 93Y2407200-> Pathology Reporttrrowtblind0brdrbfcs1 Episode No:  93Y2407200
+file3811 10行 93Y24072-> brdrw10 trowd 3clbrdrbhLab No:  93Y24072
+file3858 14行 08C022337A-> 08C022337A
+file3858 43行 08C02233-> 08C02233 (08C022337A) SYVERTSEN, DANIAL TIM
+file3858 43行 08C022337A-> 08C02233 (08C022337A) SYVERTSEN, DANIAL TIM
+file3941 1行 20I882795D-> SPR no: 20I882795D
+file3941 6行 20I882795D-> Pathology ReportEpisode No:  20I882795D
+file3941 10行 20I88279-> Lab No:20I88279
+file4000 1行 35L764301C-> SPR no: 35L764301C
+file4000 6行 62Q184501Z-> Pathology Reporteaderf addfl3brdrsrin0Episode No:  62Q184501Z
+file4000 10行 62Q18450-> 1 drsbrdrrow fl3rs0Lab No:  62Q18450
+file4001 14行 20M115669I-> 20M115669I
+file4001 44行 20M11566-> 20M11566 (20M115669I) NIRO, TURLKU
+file4001 44行 20M115669I-> 20M11566 (20M115669I) NIRO, TURLKU
+file407 14行 77J136618R-> 77J136618R
+file4145 14行 35F256776Z-> 35F256776Z
+file4157 1行 93B277734I-> SPR no: 93B277734I
+file4157 6行 93B277734-> Pathology Reporttrleft-108drtbrdrw10 s0 Episode No:  93B277734Ich
+file4157 10行 93B 27773-> angfe3081w10 t-108rdrs10 1Lab No:  93B 27773
+file4157 24行 93b27773430-> spnum81863 rpaddfl93b27773430
+file4198 1行 98F059441H-> SPR no: 98F059441H
+file4198 6行 98F059441H-> Pathology ReportAccession Number: 98F059441H
+file4198 7行 98F05944-> Laboratory Number: 98F05944
+file4255 14行 46B170409Q-> 46B170409Q
+file4315 1行 04X190557Y-> SPR no: 04X190557Y
+file4315 6行 04X190557Y-> Pathology ReportAccession Number: 04X190557Y
+file4315 7行 04X19055-> Laboratory Number: 04X19055,04X19055
+file4315 7行 04X19055-> Laboratory Number: 04X19055,04X19055
+file4431 1行 52T111515H-> SPR no: 52T111515H
+file4431 6行 52T111515H-> Pathology ReportAccession Number: 52T111515H
+file4431 7行 52T11151-> Laboratory Number: 52T11151,52T11151
+file4431 7行 52T11151-> Laboratory Number: 52T11151,52T11151
+file4438 14行 10Q242673P-> 10Q242673P
+file4539 1行 78M263632Y-> SPR no: 78M263632Y
+file4539 6行 78M263632Y-> Pathology ReportAccession Number: 78M263632Y
+file4539 7行 78M26363-> Laboratory Number: 78M26363,78M26363
+file4539 7行 78M26363-> Laboratory Number: 78M26363,78M26363
+file4607 14行 26I283790H-> 26I283790H
+file4614 1行 84E204848P-> SPR no: 84E204848P
+file4614 6行 84E204848P-> Pathology ReportAccession Number: 84E204848P
+file4614 7行 84E20484-> Laboratory Number: 84E20484
+file464 1行 89I186455O-> SPR no: 89I186455O
+file464 6行 89I186455O-> Pathology ReportEpisode No:  89I186455O
+file464 10行 89I18645-> Lab No:  89I18645,89I18645
+file464 10行 89I18645-> Lab No:  89I18645,89I18645
+file4704 7行 36E107413X-> HISTOPATHOLOGY REPORT (36E107413X) 36E10741, 36E10741
+file4704 7行 36E10741-> HISTOPATHOLOGY REPORT (36E107413X) 36E10741, 36E10741
+file4704 7行 36E10741-> HISTOPATHOLOGY REPORT (36E107413X) 36E10741, 36E10741
+file4704 58行 36E10741-> PERITONEAL WASHINGS CYTOLOGY: (lab number 36E10741) Positive
+file4787 14行 94A128571G-> 94A128571G
+file4787 43行 94A12857-> 94A12857 (94A128571G) FRANZEL, GRADY
+file4787 43行 94A128571G-> 94A12857 (94A128571G) FRANZEL, GRADY
+file4851 1行 52X248539O-> SPR no: 52X248539O
+file4851 6行 52X248539O-> Pathology ReportAccession Number: 52X248539O
+file4851 7行 52X24853-> Laboratory Number: 52X24853
+file4928 1行 47X699897U-> SPR no: 47X699897U
+file4928 9行 47X699897U-> (47X699897U) 47X69989,47X69989 HISTOPATHOLOGY REPORT
+file4928 9行 47X69989-> (47X699897U) 47X69989,47X69989 HISTOPATHOLOGY REPORT
+file4928 9行 47X69989-> (47X699897U) 47X69989,47X69989 HISTOPATHOLOGY REPORT
+file4928 46行 47X69989-> Peritoneal cytology: Pending. see separate report 47X69989
+file4942 14行 42B471494T-> 42B471494T
+file5048 1行 37C911652Z-> SPR no: 37C911652Z
+file5048 8行 37C91165-> 37C91165 (37C911652Z) MCCONICO, BRITT STUART
+file5048 8行 37C911652Z-> 37C91165 (37C911652Z) MCCONICO, BRITT STUART
+file5074 1行 95Z932710I-> SPR no: 95Z932710I
+file5074 6行 95Z93271-> Pathology Report95Z93271 (95Z932710I) HILPERT, ELISHA
+file5074 6行 95Z932710I-> Pathology Report95Z93271 (95Z932710I) HILPERT, ELISHA
+file513 1行 43V953778Q-> SPR no: 43V953778Q
+file513 6行 43V953778Q-> Pathology ReportEpisode No:  43V953778Q
+file513 10行 43V95377-> Lab No:  43V95377
+file513 36行 43-8953778-> The morphology corresponds to that described in the original core biopsy report  (Healthscope Pathology lab no 43-8953778) in which no specific immunohistochemical line of differentiation or tumour mdm2 expression was identified.  The original biopsies were externally reviewed by Dr CLINT KUHNEN (JANDOWAE HOSPITAL Hospital) and by Dr M Wischmeyer (DENMARK HOSPITAL Hospital) both of whom favoured a diagnosis of pleomorphic liposarcoma.
+file5277 1行 01R0848369-> SPR no: 01R0848369
+file5277 6行 01R08483-> Pathology Report01R08483,01R08483 (01R0848369) STEACH, DONG
+file5277 6行 01R08483-> Pathology Report01R08483,01R08483 (01R0848369) STEACH, DONG
+file5277 6行 01R0848369-> Pathology Report01R08483,01R08483 (01R0848369) STEACH, DONG
+file5396 1行 06V856443Y-> SPR no: 06V856443Y
+file5396 6行 06V85644-> Pathology Report06V85644,06V85644 (06V856443Y) KAFEL, JULES BEATRIS
+file5396 6行 06V85644-> Pathology Report06V85644,06V85644 (06V856443Y) KAFEL, JULES BEATRIS
+file5396 6行 06V856443Y-> Pathology Report06V85644,06V85644 (06V856443Y) KAFEL, JULES BEATRIS
+file5464 1行 64R886591H-> SPR no: 64R886591H
+file5464 6行 64R88659-> Pathology Report64R88659 (64R886591H) BROTEMARKLE, ELENORA TRANG
+file5464 6行 64R886591H-> Pathology Report64R88659 (64R886591H) BROTEMARKLE, ELENORA TRANG
+file550 1行 11N907550P-> SPR no: 11N907550P
+file550 6行 11N907550P-> Pathology ReportEpisode No:  11N907550P
+file550 10行 11N90755-> Lab No:  11N90755
+file5585 1行 79J9286189-> SPR no: 79J9286189
+file5585 6行 79J92861-> Pathology Report79J92861,79J92861 (79J9286189) MCWHIRT, PATRICE
+file5585 6行 79J92861-> Pathology Report79J92861,79J92861 (79J9286189) MCWHIRT, PATRICE
+file5585 6行 79J9286189-> Pathology Report79J92861,79J92861 (79J9286189) MCWHIRT, PATRICE
+file5711 1行 27G9496762-> SPR no: 27G9496762
+file5711 6行 27G94967-> Pathology Report27G94967,27G94967 (27G9496762) RAZIANO, YAEKO JERRIE
+file5711 6行 27G94967-> Pathology Report27G94967,27G94967 (27G9496762) RAZIANO, YAEKO JERRIE
+file5711 6行 27G9496762-> Pathology Report27G94967,27G94967 (27G9496762) RAZIANO, YAEKO JERRIE
+file5716 14行 85C969734P-> 85C969734P
+file5810 14行 27K261541M-> 27K261541M
+file5850 1行 75H2825997-> SPR no: 75H2825997
+file5850 6行 75H28259-> Pathology Report75H28259 (75H2825997) YONASHIRO, QUINCY
+file5850 6行 75H2825997-> Pathology Report75H28259 (75H2825997) YONASHIRO, QUINCY
+file5899 1行 33D213657D-> SPR no: 33D213657D
+file5899 6行 33D21365-> Pathology Report33D21365 (33D213657D) VERBASCO, ABRAHAM
+file5899 6行 33D213657D-> Pathology Report33D21365 (33D213657D) VERBASCO, ABRAHAM
+file5899 37行 3312C365716-> Comment: The features are those of a high-grade moderately to poorly-differentiated metastatic adenocarcinoma. The immunoprofile is consistent with but not specific for origin in the female genital tract. A pathology report from The Mater Laboratory Services, CENTRAL COAST, 3/9/2065, Lab # 3312C365716 documents mucinous carcinoma of the the left ovary, endometrium and fallopian tube with a very similar immunophenotype. The current appearances are consisitent with metastatic disease.
+file5959 14行 81Z333715L-> 81Z333715L
+file5961 1行 49V354773U-> SPR no: 49V354773U
+file5961 6行 49V35477-> Pathology Report49V35477 (49V354773U) WEITZNER, GERMAN
+file5961 6行 49V354773U-> Pathology Report49V35477 (49V354773U) WEITZNER, GERMAN
+file599 1行 97R375831D-> SPR no: 97R375831D
+file599 6行 97R375831D-> Pathology ReportEpisode No:  97R375831D
+file599 10行 97R37583-> Lab No:  97R37583,97R37583
+file599 10行 97R37583-> Lab No:  97R37583,97R37583
+file6054 14行 55N495880L-> 55N495880L
+file611 14行 75F096748W-> 75F096748W
+file611 42行 50R27749-> 50R27749 (50R277497K) PIEDRA, LETTY
+file611 42行 50R277497K-> 50R27749 (50R277497K) PIEDRA, LETTY
+file6114 14行 17O298555T-> 17O298555T
+file61533 1行 81X1488545-> SPR no: 81X1488545
+file61533 6行 81X14885-> Pathology Report81X14885,65K31961 (65K3196130) CWIKLA, ERIC
+file61533 6行 65K31961-> Pathology Report81X14885,65K31961 (65K3196130) CWIKLA, ERIC
+file61533 6行 65K3196130-> Pathology Report81X14885,65K31961 (65K3196130) CWIKLA, ERIC
+file6200 1行 23G3406614-> SPR no: 23G3406614
+file6200 6行 23G34066-> Pathology Report23G34066,23G34066 (23G3406614) LEADFORD, VILMA
+file6200 6行 23G34066-> Pathology Report23G34066,23G34066 (23G3406614) LEADFORD, VILMA
+file6200 6行 23G3406614-> Pathology Report23G34066,23G34066 (23G3406614) LEADFORD, VILMA
+file6209 14行 44X941529V-> 44X941529V
+file6242 1行 92T961687E-> SPR no: 92T961687E
+file6242 6行 92T96168-> Pathology Report92T96168 (92T961687E) WACH, MALIK
+file6242 6行 92T961687E-> Pathology Report92T96168 (92T961687E) WACH, MALIK
+file6351 1行 50Q082646N-> SPR no: 50Q082646N
+file6351 6行 50Q08264-> Pathology Report50Q08264,50Q08264 (50Q082646N) GRIZZARD, THADDEUS
+file6351 6行 50Q08264-> Pathology Report50Q08264,50Q08264 (50Q082646N) GRIZZARD, THADDEUS
+file6351 6行 50Q082646N-> Pathology Report50Q08264,50Q08264 (50Q082646N) GRIZZARD, THADDEUS
+file6353 14行 08M003794V-> 08M003794V
+file6442 1行 66I023752E-> SPR no: 66I023752E
+file6442 6行 66I02375-> Pathology Report66I02375,66I02375 (66I023752E) BOVA, LESLIE
+file6442 6行 66I02375-> Pathology Report66I02375,66I02375 (66I023752E) BOVA, LESLIE
+file6442 6行 66I023752E-> Pathology Report66I02375,66I02375 (66I023752E) BOVA, LESLIE
+file6507 14行 24E154810M-> 24E154810M
+file6514 1行 72A175978V-> SPR no: 72A175978V
+file6514 6行 72A17597-> Pathology Report72A17597 (72A175978V) MILLESON, THADDEUS HAL
+file6514 6行 72A175978V-> Pathology Report72A17597 (72A175978V) MILLESON, THADDEUS HAL
+file6611 1行 77E9575857-> SPR no: 77E9575857
+file6611 6行 77E95758-> Pathology Report77E95758,77E95758 (77E9575857) FIETSAM, RUEBEN KEN
+file6611 6行 77E95758-> Pathology Report77E95758,77E95758 (77E9575857) FIETSAM, RUEBEN KEN
+file6611 6行 77E9575857-> Pathology Report77E95758,77E95758 (77E9575857) FIETSAM, RUEBEN KEN
+file66601 1行 35A9785331-> SPR no: 35A9785331
+file66601 6行 35A97853-> Pathology Report35A97853,35A97853 (35A9785331) FRANKIN, MADISON
+file66601 6行 35A97853-> Pathology Report35A97853,35A97853 (35A9785331) FRANKIN, MADISON
+file66601 6行 35A9785331-> Pathology Report35A97853,35A97853 (35A9785331) FRANKIN, MADISON
+file66639 1行 08K817943X-> SPR no: 08K817943X
+file66639 6行 08K81794-> Pathology Report08K81794 (08K817943X) GATTA, JED
+file66639 6行 08K817943X-> Pathology Report08K81794 (08K817943X) GATTA, JED
+file66782 1行 03O6995508-> SPR no: 03O6995508
+file66782 6行 03O69955-> Pathology Report03O69955,03O69955 (03O6995508) LOBALBO, ILUKA
+file66782 6行 03O69955-> Pathology Report03O69955,03O69955 (03O6995508) LOBALBO, ILUKA
+file66782 6行 03O6995508-> Pathology Report03O69955,03O69955 (03O6995508) LOBALBO, ILUKA
+file6685 1行 61K6105082-> SPR no: 61K6105082
+file6685 7行 61K61050-> 61K61050 (61K6105082) KIRCHGESLER, CECIL
+file6685 7行 61K6105082-> 61K61050 (61K6105082) KIRCHGESLER, CECIL
+file6689 14行 19G731666O-> 19G731666O
+file66907 1行 77C7526248-> SPR no: 77C7526248
+file66907 6行 77C75262-> Pathology Report77C75262,77C75262 (77C7526248)ZAZOZDOR, VERGIE LESTER
+file66907 6行 77C75262-> Pathology Report77C75262,77C75262 (77C7526248)ZAZOZDOR, VERGIE LESTER
+file66907 6行 77C7526248-> Pathology Report77C75262,77C75262 (77C7526248)ZAZOZDOR, VERGIE LESTER
+file67081 1行 35Z782782F-> SPR no: 35Z782782F
+file67081 6行 35Z78278-> Pathology Report35Z78278 (35Z782782F) GOLETZ, LEON SIMON
+file67081 6行 35Z782782F-> Pathology Report35Z78278 (35Z782782F) GOLETZ, LEON SIMON
+file67190 1行 67H0845990-> SPR no: 67H0845990
+file67190 7行 67H08459-> 67H08459,67H08459 (67H0845990) PFAFF, GISELLE DARNELL
+file67190 7行 67H08459-> 67H08459,67H08459 (67H0845990) PFAFF, GISELLE DARNELL
+file67190 7行 67H0845990-> 67H08459,67H08459 (67H0845990) PFAFF, GISELLE DARNELL
+file67277 1行 25E005557K-> SPR no: 25E005557K
+file67277 7行 25E00555-> 25E00555,25E00555 (25E005557K) COLLINGWOOD, WALDO SHERMAN
+file67277 7行 25E00555-> 25E00555,25E00555 (25E005557K) COLLINGWOOD, WALDO SHERMAN
+file67277 7行 25E005557K-> 25E00555,25E00555 (25E005557K) COLLINGWOOD, WALDO SHERMAN
+file67300 1行 83A026605T-> SPR no: 83A026605T
+file67364 1行 31W046763B-> SPR no: 31W046763B
+file67383 1行 52N747622M-> SPR no: 52N747622M
+file6743 1行 10J768680V-> SPR no: 10J768680V
+file6743 6行 10J76868-> Pathology Report10J76868 (10J768680V) QUASHNOCK, MARCO
+file6743 6行 10J768680V-> Pathology Report10J76868 (10J768680V) QUASHNOCK, MARCO
+file67463 1行 67G799738E-> SPR no: 67G799738E
+file67561 1行 25C819796M-> SPR no: 25C819796M
+file67587 1行 73Y830854V-> SPR no: 73Y830854V
+file67587 7行 73 983085-> Left lateral chest wall recurrent spindle cell sarcoma (HI 73 983085 undifferentiated sarcoma of spindle cell type, Grade 3, 73Y8308- residual atypical spindle cells at margin) . Sutures short = 12 o&amp;apos;clock, medium = anterior, long = posterior.
+file67587 7行 73Y8308-> Left lateral chest wall recurrent spindle cell sarcoma (HI 73 983085 undifferentiated sarcoma of spindle cell type, Grade 3, 73Y8308- residual atypical spindle cells at margin) . Sutures short = 12 o&amp;apos;clock, medium = anterior, long = posterior.
+file67643 1行 94P431703G-> SPR no: 94P431703G
+file67643 32行 ZM-64-317032-> - 2002: External slides reviewed at CONDOBOLIN RETIREMENT VILLAGE (ZM-64-317032) of right upper arm subcutaneous lump which was diagnosed as a monophasic synovial sarcoma.
+file67643 33行 ZM-64-317032-> - 2013: Skin lesion excised from back and the tissue is examined at HAWKER MEMORIAL HOSPITAL (ZM-64-317032). A diagnosis of superficial spreading melanoma (Breslow thickness 0.5 mm, Clark level III) with a predominance of naevoid cells was made.
+file67643 34行 94P43170-> - 2017: Subtotal colectomy at TOTTENHAM HOSPITAL (94P43170) for caecal adenocarcinoma, pT3 N1a Mx R0.
+file67643 35行 94P43170-> - 2018: Liver segmental resection at LONG JETTY HEALTH CARE FACILITY (94P43170) for metastatic adenocarcinoma consistent with colorectal primary.
+file67667 1行 52L452761P-> SPR no: 52L452761P
+file67705 1行 00I572829X-> SPR no: 00I572829X
+file67705 22行 00I57282-> The morpholgy is similar to the previous excision (00I57282). At that time the tumour showed also a heterogeneous appearance. In the current excision there are also occasional mildly atypical stromal cells which at times are difficult to distinguish between neoplastic and reactive due to adjuvant therapy. No immunohistochemistry has been repeated.
+file67729 1行 68E593987G-> SPR no: 68E593987G
+file67729 13行 68E59398-> A.  Sections show a metastatic malignancy within adipose tissue, with no definite surrounding lymph node architecture.  The cells have an epithelioid to spindle appearance and are arranged in an alveolar-like pattern with intervening stromal mucin.  The cells have a squamoid appearance with brightly eosinophilic cytoplasm.  There is moderate to severe nuclear pleomorphism and numerous mitotic figures are seen.  The tumour has a similar morphology to the previous right chest wall malignancy, diagnosed as poorly differentiated squamous cell carcinoma (68E59398).  Repeat cytokeratin staining with panCK, p40, CK5/6 and AE1/3 has been performed for comparison however, no staining is identified.  It is noted that the previous tumour shows patchy negative staining with cytokeratins, probably representing dedifferentiation.  Sox10 is negative.  The features are favoured to represent metastatic poorly differentiated/dedifferentiated squamous cell carcinoma.  The carcinoma focally involves the surgical resection margin.  An additional nine (9) negative lymph nodes are present, some of which show a histiocytic reaction.
+file67774 1行 16A524945P-> SPR no: 16A524945P
+file67814 1行 21E496542O-> SPR no: 21E496542O
+file67856 1行 79A427600W-> SPR no: 79A427600W
+file67900 1行 37W447669F-> SPR no: 37W447669F
+file67954 1行 58O048517Q-> SPR no: 58O048517Q
+file6796 1行 05K1696759-> SPR no: 05K1696759
+file6796 6行 05K16967-> Pathology Report05K16967 (05K1696759) EVERSOLL, BECKIE TEMIKA
+file6796 6行 05K1696759-> Pathology Report05K16967 (05K1696759) EVERSOLL, BECKIE TEMIKA
+file68051 1行 63G180633H-> SPR no: 63G180633H
+file68133 1行 11C100791Q-> SPR no: 11C100791Q
+file68223 1行 79Y231850Y-> SPR no: 79Y231850Y
+file68265 1行 27V252808H-> SPR no: 27V252808H
+file68301 1行 48M853766S-> SPR no: 48M853766S
+file6871 14行 06I874824B-> 06I874824B
+file694 1行 48R175631X-> SPR no: 48R175631X
+file694 6行 48R175631X-> Pathology ReportEpisode No:  48R175631X
+file694 10行 48R17563-> Lab No:  48R17563
+file6949 1行 96N196699G-> SPR no: 96N196699G
+file6949 6行 96N19669-> Pathology Report96N19669 (96N196699G) BRANNEN, TRINIDAD
+file6949 6行 96N196699G-> Pathology Report96N19669 (96N196699G) BRANNEN, TRINIDAD
+file712 14行 54J117747P-> 54J117747P
+file7135 1行 75B818606A-> SPR no: 75B818606A
+file7135 6行 75B81860-> Pathology Report75B81860,75B81860 (75B818606A) BONAMICO, TOMOKO
+file7135 6行 75B81860-> Pathology Report75B81860,75B81860 (75B818606A) BONAMICO, TOMOKO
+file7135 6行 75B818606A-> Pathology Report75B81860,75B81860 (75B818606A) BONAMICO, TOMOKO
+file7223 14行 23X839664I-> 23X839664I
+file7234 1行 80T869712R-> SPR no: 80T869712R
+file7234 7行 80T86971-> 80T86971 (80T869712R) DICKS, TARYN FILIBERTO
+file7234 7行 80T869712R-> 80T86971 (80T869712R) DICKS, TARYN FILIBERTO
+file7287 1行 38P980770A-> SPR no: 38P980770A
+file7287 6行 38P98077-> Pathology Report38P98077 (38P980770A) BRIDGETT, NATHAN HERBERT
+file7287 6行 38P980770A-> Pathology Report38P98077 (38P980770A) BRIDGETT, NATHAN HERBERT
+file7336 1行 96L901838I-> SPR no: 96L901838I
+file7336 6行 96L90183-> Pathology Report96L90183 (96L901838I) VESTERING, LEIF  HISTOPATHOLOGY REPORT:
+file7336 6行 96L901838I-> Pathology Report96L90183 (96L901838I) VESTERING, LEIF  HISTOPATHOLOGY REPORT:
+file7510 1行 44H921996R-> SPR no: 44H921996R
+file7510 6行 44H92199-> Pathology Report44H92199 (44H921996R) PARBOL, BURL
+file7510 6行 44H921996R-> Pathology Report44H92199 (44H921996R) PARBOL, BURL
+file7558 1行 02E9429549-> SPR no: 02E9429549
+file7558 6行 02E94295-> Pathology Report02E94295 (02E9429549) BERGFIELD, ALLEN RUSSELL
+file7558 6行 02E9429549-> Pathology Report02E94295 (02E9429549) BERGFIELD, ALLEN RUSSELL
+file7587 14行 23V643803L-> 23V643803L
+file7593 1行 81R674961T-> SPR no: 81R674961T
+file7593 6行 81R67496-> Pathology Report81R67496 (81R674961T) JOHNIGAN, JAYSON GLENN
+file7593 6行 81R674961T-> Pathology Report81R67496 (81R674961T) JOHNIGAN, JAYSON GLENN
+file761 1行 39N695929C-> SPR no: 39N695929C
+file761 6行 39N695929C-> Pathology ReportEpisode No:  39N695929C
+file761 10行 39N69592-> Lab No:  39N69592,39N69592
+file761 10行 39N69592-> Lab No:  39N69592,39N69592
+file7676 1行 97J715087K-> SPR no: 97J715087K
+file7676 6行 97J71508-> Pathology Report97J71508 (97J715087K) NORVIEL, SHAD VIRGIL
+file7676 6行 97J715087K-> Pathology Report97J71508 (97J715087K) NORVIEL, SHAD VIRGIL
+file772 14行 92N597684K-> 92N597684K
+file7790 14行 40K518642S-> 40K518642S
+file7809 1行 08G5397000-> SPR no: 08G5397000
+file7809 7行 08G53970-> 08G53970 (08G5397000) BORUVKA, LIZZETTE LIVIA
+file7809 7行 08G5397000-> 08G53970 (08G5397000) BORUVKA, LIZZETTE LIVIA
+file7867 1行 65C6598693-> SPR no: 65C6598693
+file7867 6行 65C65986-> Pathology Report65C65986,65C65986 (65C6598693) DETERING, MYRNA
+file7867 6行 65C65986-> Pathology Report65C65986,65C65986 (65C6598693) DETERING, MYRNA
+file7867 6行 65C6598693-> Pathology Report65C65986,65C65986 (65C6598693) DETERING, MYRNA
+file7945 14行 13Y670817S-> 13Y670817S
+file7978 1行 71U601975B-> SPR no: 71U601975B
+file7978 6行 71U60197-> Pathology Report71U60197,71U60197 (71U601975B) BONSELL, GRANT
+file7978 6行 71U60197-> Pathology Report71U60197,71U60197 (71U601975B) BONSELL, GRANT
+file7978 6行 71U601975B-> Pathology Report71U60197,71U60197 (71U601975B) BONSELL, GRANT
+file8200 1行 29Q722933J-> SPR no: 29Q722933J
+file8200 6行 29Q72293-> Pathology Report29Q72293 (29Q722933J) EGELHOFF, GRANVILLE
+file8200 6行 29Q722933J-> Pathology Report29Q72293 (29Q722933J) EGELHOFF, GRANVILLE
+file8200 95行 29Q7229-> The original biopsy case has been reviewed (29Q7229, 20/3/2066, Clinical labs).  The tumour in the biopsy has the same morphology as the tumour in the main resection specimen, and both show the same immunohistochemical profile (both are negative for CDX2, patchy positive for CK7 and CK20, negative for all other markers).  The features are of a poorly differentiated adenocarcinoma and based on the histological and immunohistochemical profile I can&amp;apos;t exclude metastatic disease from upper gastrointestinal tract.  Although as stated in the previous comment, some poorly differentiated colorectal carcinomas do show aberrant loss of CDX2 and gain of CK7.  Clinical correlation is recommended.
+file8270 14行 40I323891U-> 40I323891U
+file8281 1行 82R524608R-> SPR no: 82R524608R
+file8281 3行 W265-> Site_name: W265
+file8281 6行 82R52460-> Pathology Report82R52460 (82R524608R) YELEY, ALEX NEWTON
+file8281 6行 82R524608R-> Pathology Report82R52460 (82R524608R) YELEY, ALEX NEWTON
+file830 1行 40N545756Z-> SPR no: 40N545756Z
+file830 6行 40N545756Z-> Pathology ReportdrslwWidth3528tqcEpisode No:  40N545756Z
+file830 10行 40N54575-> l108rdrsrrth3ntblLab No:  40N54575
+file830 12行 4055457-> ghtbrdrw10 llx3420rdrs 10 id4055457
+file8408 1行 98J666714I-> SPR no: 98J666714I
+file8408 6行 98J66671-> Pathology Report98J66671,98J66671 (98J666714I) DOBINE, LEIA CARMON
+file8408 6行 98J66671-> Pathology Report98J66671,98J66671 (98J666714I) DOBINE, LEIA CARMON
+file8408 6行 98J666714I-> Pathology Report98J66671,98J66671 (98J666714I) DOBINE, LEIA CARMON
+file8473 14行 83K016072O-> 83K016072O
+file8491 1行 41G137030X-> SPR no: 41G137030X
+file8491 7行 41G13703-> 41G13703,41G13703 (41G137030X) ADELBLUE, MADALYN
+file8491 7行 41G13703-> 41G13703,41G13703 (41G137030X) ADELBLUE, MADALYN
+file8491 7行 41G137030X-> 41G13703,41G13703 (41G137030X) ADELBLUE, MADALYN
+file8539 1行 62X738999I-> SPR no: 62X738999I
+file8539 2行 62973899-> MRN no: 62973899
+file8539 3行 Q297-> Site_name: Q297
+file8539 6行 62X73899-> Pathology Report62X73899 (62X738999I) STAMOS, CARMELO
+file8569 14行 10T7590476-> 10T7590476
+file8590 1行 77Q7700059-> SPR no: 77Q7700059
+file8590 6行 77Q77000-> Pathology Report77Q77000 (77Q7700059) BEACHLER, GARRY EDMUND
+file8590 6行 77Q7700059-> Pathology Report77Q77000 (77Q7700059) BEACHLER, GARRY EDMUND
+file864 1行 72U652612Y-> SPR no: 72U652612Y
+file864 8行 72U65261-> 72U65261
+file8640 1行 30Q672770H-> SPR no: 30Q672770H
+file8640 6行 30Q67277-> Pathology Report30Q67277 (30Q672770H) LHUILLIER, TOMEK
+file8640 6行 30Q672770H-> Pathology Report30Q67277 (30Q672770H) LHUILLIER, TOMEK
+file87 1行 88M693738P-> SPR no: 88M693738P
+file87 8行 88M69373-> 88M69373,88M69373
+file87 8行 88M69373-> 88M69373,88M69373
+file87 15行 88M693738P-> Episode number: 88M693738P
+file8704 1行 46I714886Y-> SPR no: 46I714886Y
+file8704 6行 46I71488-> Pathology Report46I71488 (46I714886Y) BALCKBURN, COLE
+file8704 6行 46I714886Y-> Pathology Report46I71488 (46I714886Y) BALCKBURN, COLE
+file8724 14行 67A315745J-> 67A315745J
+file8839 14行 15W335803S-> 15W335803S
+file8870 1行 73S366851A-> SPR no: 73S366851A
+file8870 6行 73S36685-> Pathology Report73S36685 (73S366851A) MANTIFEL, FOREST
+file8870 6行 73S366851A-> Pathology Report73S36685 (73S366851A) MANTIFEL, FOREST
+file8949 1行 21O487919J-> SPR no: 21O487919J
+file8949 6行 21O48791-> Pathology Report21O48791 (21O487919J) PYRON, RHETT
+file8949 6行 21O487919J-> Pathology Report21O48791 (21O487919J) PYRON, RHETT
+file9011 1行 89K408977S-> SPR no: 89K408977S
+file9011 6行 89K40897-> Pathology Report89K40897 (89K408977S) DISON, BARNEY
+file9011 6行 89K408977S-> Pathology Report89K40897 (89K408977S) DISON, BARNEY
+file905 14行 37G4280350-> 37G4280350
+file905 43行 37G42803-> 37G42803 (37G4280350) PELIS, THURMAN
+file905 43行 37G4280350-> 37G42803 (37G4280350) PELIS, THURMAN
+file9074 1行 95C549094J-> SPR no: 95C549094J
+file9074 6行 95C54909-> Pathology Report95C54909 (95C549094J) PLUFF, TYLER
+file9074 6行 95C549094J-> Pathology Report95C54909 (95C549094J) PLUFF, TYLER
+file913 1行 99G321791I-> SPR no: 99G321791I
+file913 6行 99G321791I-> Pathology ReportEpisode No:  99G321791I
+file913 10行 99G32179-> Lab No:  99G32179
+file9154 1行 57D342759R-> SPR no: 57D342759R
+file9154 6行 57D34275-> Pathology Report57D34275,57D34275 (57D342759R) RUBEL, LACIE YOLA
+file9154 6行 57D34275-> Pathology Report57D34275,57D34275 (57D342759R) RUBEL, LACIE YOLA
+file9154 6行 57D342759R-> Pathology Report57D34275,57D34275 (57D342759R) RUBEL, LACIE YOLA
+file9224 14行 05Z372817Z-> 05Z372817Z
+file9250 1行 63V493875I-> SPR no: 63V493875I
+file9250 6行 63V49387-> Pathology Report63V49387 (63V493875I) PALE, BERT KIERAN
+file9250 6行 63V493875I-> Pathology Report63V49387 (63V493875I) PALE, BERT KIERAN
+file9284 1行 11R414933Q-> SPR no: 11R414933Q
+file9284 6行 11R41493-> Pathology Report11R41493 (11R414933Q) LICOR, SANTO
+file9284 6行 11R414933Q-> Pathology Report11R41493 (11R414933Q) LICOR, SANTO
+file9319 14行 32J015881C-> 32J015881C
+file9439 1行 27J555049I-> SPR no: 27J555049I
+file9439 6行 27J55504-> Pathology Report27J55504 (27J555049I) WEIGL, RALPH PARIS
+file9439 6行 27J555049I-> Pathology Report27J55504 (27J555049I) WEIGL, RALPH PARIS
+file9491 1行 85G5861086-> SPR no: 85G5861086
+file9491 6行 85G58610-> Pathology Report85G58610 (85G5861086) JANSON, DENITA
+file9491 6行 85G5861086-> Pathology Report85G58610 (85G5861086) JANSON, DENITA
+file9522 14行 80K358714P-> 80K358714P
+file9543 1行 48G479763Y-> SPR no: 48G479763Y
+file9543 6行 48G47976-> Pathology Report48G47976 (48G479763Y) SIEBERT, VESPER
+file9543 6行 48G479763Y-> Pathology Report48G47976 (48G479763Y) SIEBERT, VESPER
+file9600 1行 96C400821G-> SPR no: 96C400821G
+file9600 6行 96C40082-> Pathology Report96C40082 (96C400821G) SANKEY, BEAU
+file9600 6行 96C400821G-> Pathology Report96C40082 (96C400821G) SANKEY, BEAU
+file9617 14行 54Y420989P-> 54Y420989P
+file9652 1行 01U441947Y-> SPR no: 01U441947Y
+file9652 6行 01U44194-> Pathology Report01U44194 (01U441947Y) PEFANIS, ASHTON
+file9652 6行 01U441947Y-> Pathology Report01U44194 (01U441947Y) PEFANIS, ASHTON
+file9735 1行 69Q562005G-> SPR no: 69Q562005G
+file9735 6行 69Q56200-> Pathology Report69Q56200 (69Q562005G) LONGOBARDI, KURTIS HOLLIS
+file9735 6行 69Q562005G-> Pathology Report69Q56200 (69Q562005G) LONGOBARDI, KURTIS HOLLIS
+file9830 1行 27N583053P-> SPR no: 27N583053P
+file9830 6行 27N58305-> Pathology Report27N58305 (27N583053P) SCINTO, GARTH SIGMUND
+file9830 6行 27N583053P-> Pathology Report27N58305 (27N583053P) SCINTO, GARTH SIGMUND
+file9888 1行 75J513112Y-> SPR no: 75J513112Y
+file9888 6行 75J51311-> Pathology Report75J51311 (75J513112Y) DUKAS, ANDERSON KEITH
+file9888 6行 75J513112Y-> Pathology Report75J51311 (75J513112Y) DUKAS, ANDERSON KEITH
+file9964 1行 96A214070J-> SPR no: 96A214070J
+file9964 6行 96A21407-> Pathology Report96A21407 (96A214070J) GUARDIPEE, EMILIO YINDJIBARNDI
+file9964 6行 96A214070J-> Pathology Report96A21407 (96A214070J) GUARDIPEE, EMILIO YINDJIBARNDI
+file9965 14行 54W235038R-> 54W235038R

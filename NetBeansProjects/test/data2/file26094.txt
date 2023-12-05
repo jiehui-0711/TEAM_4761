@@ -1,0 +1,39 @@
+SPR no: 82A5852950
+MRN no: 8205852
+Site_name: GOULBURN VALLEY HEALTH - WARANGA CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post op.  Laparoscopic BSO and R/O Left vulval skin tag and vulval lesion
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right ovary and tube&amp;quot;, consists of an ovary, 22 x 14 x 12mm, with overlying fallopian tube measuring 32mm in length and 8mm diameter of 8mm.  There is a thin walled cyst measuring 12mm in the ovary, containing clear fluid.  No papillary excrescences are identified.  Blocks:  1 - fallopian tube; 2 &amp;amp; 3 - representative ovary.
+Blocks 4 to 8 - remainder fallopian tube and ovary.
+
+B.  Specimen labelled &amp;quot;Left ovary and tube and omental biopsy&amp;quot;, consists of a fallopian tube and ovary measuring 50 x 27 x 15mm in total.  The tube and ovary are adhered with a significant amount of fat.  The fimbrial end cannot be readily appreciated.  The ovary is cystically dilated and measures 35 x 12 x 10mm.  No papillary excrescences are identified.  There is a separate piece of fat measuring 65 x 32 x 10mm.  No focal lesion is identified.  Blocks:  1 &amp;amp; 2 - ovary; 3 - 5 omentum; 6 to 10 - remainder fallopian tube and ovary.
+
+C.  Specimen labelled &amp;quot;Left lateral vulval lesion&amp;quot;, consists of a piece of tan tissue, 4 x 2 x 2mm.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Left vulval lesion&amp;quot;, consists of an ellipse of skin measuring 12 x 7 x 6mm.  The surface has a polypoid lesion protruding 4mm from the surface.  The resection margin is inked blue.  Blocks:  1 - TS through middle; 2 - LS one end; 3 - LS other end.  AE.
+(TO: AP; AP/eh 19/7/2066)
+
+
+MICROSCOPIC (Reported by Dr W Burington):
+A.  The right ovary contains a benign simple cyst, lined by a single layer of attenuated epithelium.  The fallopian tube shows no significant abnormality and no significant staining is seen with p53 and Ki-67 stains.  The ovary and fallopian tube have been completely embedded and there is no evidence of malignancy.
+
+B.  The left ovary contains a benign serous cystadenoma.  The fallopian tube and omentum show no significant abnormality.  The ovary and fallopian tube have been completely embedded and there is no evidence of malignancy.
+
+C.  The sections show a polypoid lesion composed of keratinised squamous epithelium with underlying fibrous stroma.  These features are consistent with a fibroepithelial polyp (skin tag).  There is no evidence of malignancy.
+
+D.  The sections show skin to subcutis.  There is an intradermal naevus, characterised by nests of bland naevus cells which demonstrate maturation.  Focally the naevus cells abut the peripheral margin.  No mitoses or significant nuclear atypia is identified.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right ovary and fallopian tube:  Benign simple cyst of ovary.
+
+B.  Left ovary, fallopian tube and omentum:  Benign serous cystadenoma.
+
+C.  Left lateral vulval lesion:  Consistent with fibroepithelial polyp.
+
+D.  Left vulval lesion:  Benign intradermal naevus.

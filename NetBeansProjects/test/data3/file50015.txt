@@ -1,0 +1,134 @@
+SPR no: 90W258528Q
+MRN no: 90825852
+Site_name: WILCANNIA HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report90W25852 (90W258528Q) TANT, JEREMIAH
+HISTOPATHOLOGY REPORT
+ROYAL PRINCE ALFRED HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:  Metastatic sigmoid cancer. Frozen section. Right ovary. 1. Right hepatectomy. 2. Sigmoid colon. Post chemotherapy.
+
+MACROSCOPIC:
+A. &amp;quot;BIOPSY RIGHT OVARY&amp;quot;. A piece of pale tissue, 2mm in maximum dimension. All frozen.
+
+FROZEN SECTION REPORT:  &amp;quot;No evidence of malignancy&amp;quot; to fellow at 11:00am by Dr X Badger on 16/5/67.
+
+B. &amp;quot;RIGHT HEPATECTOMY, SIGMOID COLON&amp;quot;.
+A segment of large bowel, separate part of liver, gallbladder and peritoneum.
+
+Colon:  A segment of large bowel ?sigmoid colon.
+Colon macroscopic findings:
+Procedure: Sigmoid colectomy
+Specimen length: 125x35 mm, with mesocolon attached
+Tumour site: as per request form - sigmoid colon
+Tumour size: 35mm in diameter x 25mm length
+Tumour description: Ulcerated; the tumour does not appear to extend into mesocolic fat and is 25 mm from the closest mesocolic margin. An involved large lymph node deep to the tumour is 3 mm from a mesocolic margin.
+Macroscopic tumour perforation: not identified
+Tumour location related to peritoneal reflection: not applicable (whole specimen is above reflection)
+Macroscopic distance of tumour from margins:
+proximal: 90mm
+distal: 20mm
+mesocolic margin: 25mm to invasive tumour, 3 mm to lymph node metastasis.
+Peritoneum: no macroscopic involvement
+Polyps: absent
+blocks colon: (11 proximal margin; 12 distal margin including tumour; 13 proximal edge of tumour; 14 and 15 opposite transverse slice of tumour including underlying involved node; 16 and 17 composite slice of tumour, transverse section; 18-20 one transverse section of tumour [19 contains one possible lymph node]; 21 two possible nodes; 22 three possible nodes; 23 four possible nodes; 24 four possible nodes).
+
+Liver:  The liver segment weighs 1314.8g, and measures 175x175x90mm. The liver resection margin is inked green. The capsule shows pale, firm areas. Underlying this area is a large solid tumour mass with a pale, yellow cut surface and central area that appears mucinous. There are adjacent multiple smaller satellite nodules most of which appear in continuity with extensions of the main mass . The large tumour measures 120x110x76mm. The tumour abuts the liver capsule surfac and abuts the liver resection margin in an area 20 mm in diameter. The satellite nodules range from 2-20mm.
+Blocks: 1 section of both largest lesion in relation to capsule; 2 section of largest lesion in relation to resection margin; 3 section of largest lesion with ?within a vessel; 4 section of largest nodule with mucinous appearing area; 5 satellite nodule relation to capsule; 6 and 7 further sections of satellite nodules in relation to capsule; 8 liver away from lesion which shows no fibrosis).
+
+Gallbladder.  Received intact. It measures 85 x 40mm. Serosa is smooth. The wall is up to 4mm thick. Mucosa is granular, green in appearance with yellow strips. No stones. (9 cystic duct and neck of gallbladder; 10 body and fundus).
+
+A separate piece of fatty tissue is present with a peritoneal surface, measures 170x70x15mm. 25 RS separate piece of fatty tissue). RS (M-25/MC 16/5/2071 cy)
+26 further section of normal appearance liver; LV
+MICROSCOPIC: X Lawe
+
+A. BIOPSY RIGHT OVARY:
+The biopsy of ovary shows normal ovary tissue.
+
+B. RIGHT HEPATECTOMY, SIGMOID COLON, GALLBLADDER, PERITONEUM:
+The primary colon carcinoma shows partial treatment with areas of ulceration without tumour and areas of fibrosis and calcification, with small tubular pattern glands in areas, but in other areas is of usual appearance. The mesocolic lymph node metastasis is partly fibrotic and calcified but also contains usual appearance tumour. The liver metastasis(es) show areas of necrosis but there is normal appearance tumour at the periphery of tumour nodules.
+
+CARCINOMA OF COLON AND RECTUM SYNOPTIC REPORT:
+(based on CAP 2018 guidelines):
+Tumor size:
+Greatest dimension: approximately 20 mm
+Histologic type:
+Adenocarcinoma
+
+Histologic grade:
+G2: Moderately differentiated
+
+Tumor extension:
+Residual tumor invades muscularis propria.
+
+Treatment effect:
+Present: Residual cancer with evident tumor regression, but more than single cells or rare small groups of cancer cells (partial response, score 2).
+
+Small vessel lymphovascular invasion:
+Not identified
+
+Large vessel (venous) invasion:
+Not identified
+
+Perineural invasion:
+Not identified
+
+Tumor budding:
+Not assessable (post neoadjuvant)
+
+Type of polyp in which invasive carcinoma arose:
+None identified
+
+Tumor deposits (pericolic/perirectal fat):
+Not identified
+
+MARGINS:
+Margins are negative for tumour (not involved)
+- Proximal margin:  Not involved, distance of invasive tumor to margin: &amp;gt;10 mm
+- Distal margin: Not involved, distance of invasive tumor to margin: &amp;gt;10 mm
+- Mesenteric margin: 3 mm from lymph node metastasis. Well clear of primary tumour
+
+Lymph Nodes (regional):
+Lymph nodes positive
+Number of lymph nodes involved: 1
+Number of lymph nodes examined: 20
+
+Distant metastases (histologically confirmed):
+Present, site: Liver
+
+Ancillary studies / Immunohistochemistry (IHC):
+Immunostains for Mismatch Repair Proteins (MMRP), block B15, colon primary:
+MLH1, PMS2, MSH2, MSH6:   Intact&amp;#160;nuclear expression.
+Interpretation of MMRP Immunostains:
+- No loss of nuclear expression of MMR proteins.
+- Low probability of microsatellite instability-high (MSI-H).
+- Lynch syndrome very unlikely.
+- Note:  There are exceptions to the above Immunostain interpretations. These results should not be considered in isolation, and clinical correlation is recommended.
+Other specimens:
+Liver:
+There is extensive involvement of the liver by metastatic carcinoma which involves &amp;gt; 70 % of the specimen. The tumour shows areas of necrosis but there are viable normal apppearance tumour at the periphery of tumour nodules. There are multiple tumour nodules around the main mass but most are in continuity with the main dominant mass and may either represent satellite nodular extensions of the main tumour or possibly separate multiple metastases (difficult to assess).
+Non-tumour liver:
+Mild nodular regenerative hyperplasia change without fibrosis. Iron stain negative. No DPAS positive inclusions.
+
+- Gallbladder: normal
+- Separately submitted peritoneal tissue: sampled sections are unremarkable.
+
+Pathologic Stage Classification (pTNM, AJCC 8th ed):  ypT2 N1a M1a
+
+DIAGNOSIS:
+
+A. BIOPSY RIGHT OVARY:
+- normal ovary tissue.
+B. RIGHT HEPATECTOMY, SIGMOID COLON, GALLBLADDER, PERITONEUM:
+(post chemotherapy)
+- Sigmoid colon carcinoma:
+- Adenocarcinoma
+- G2: Moderately differentiated
+- Tumor invades muscularis propria.
+- Treatment effect present (partial response, score 2).
+- Negative colon excision margins
+- regional lymph nodes positive (1 of 20 lymph nodes involved by metastasis)
+- Extensive liver involvement by metastasis/metastasis (see description above)
+- Gallbladder normal
+- Section of submitted peritoneal tissue unremarkable.

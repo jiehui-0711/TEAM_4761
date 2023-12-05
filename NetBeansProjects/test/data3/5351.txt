@@ -1,0 +1,67 @@
+Episode No:  80J336048L
+803336.CLV
+
+DAMIAN, Romeo 
+Lab No:  80J33604,80J33604
+Voltz
+TRARALGON  VIC  2901
+Specimen: Washings,Tissue
+D.O.B:  16/5/2002
+Sex:  F
+Collected: 03/03/2066 at 15:50
+Location:  CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+DR Wilber MCCLEAREN
+Distribution:  DR Agustin, DR BIRRUNGA-GOOSSEN, DR ENRIQUE,    FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT 19-Jul-2066
+
+HISTORY:  
+Serous carcinoma.Uterus. Uterus tubes and ovaries. Utero-vesicular pouch. Left parametrial node. Pouch of Douglas peritoneum. Fibroid. Omental biopsy. 
+MACROSCOPIC:  
+A. "UTERUS, TUBES ANDOVARIES". A uterus with cervix, bilateral tubes and ovaries. The uterus with cervix measures 55x35x30mm. The whole specimen weighs 89g. The right fallopian tube measures 55mm in length with diameter up to 3mm. The right ovary measures 22x18x15mm. The left fallopian tube measures also 5mm in length with diameter up to 3mm. The left ovary measures 25x15x12mm. There is thin walled cyst arising from the single end of the left fallopian tube measures 35mm in diameter. Thereare five serosal fibroids identified arising from the body of the uterus measuring from 3-40mm in maximum extent. Anterior surgical margin inked blue, posterior black. The uterus and cervix sectioned longitudinally and the endometrium is up to 2mm in thickness, the myometrium up to 14mm in thickness. The large fibroid appears very calcified. One transverse section of the fibroid sectioned and left for decal. Representative sections are taken and embedded.
+(1-6  full face section of the uterus with cervix LS [1 anterior cervix, 2 posterior cervix; 3 anterior body; 4 posterior body; 5 anterior fundus; 6 posterior fundus]; 7 LS of the right fimbrial end; 8 RS of the right tube; 9 RS right ovary; 10 right parametrial tissue; 11 representative LS of the left fimbrial end; 12 left tube; 13 left fimbrial cyst; 14 left ovary; 15 left parametrial tissue; 16-23 further RS of the body and the fundus with the rest of endometrium). RS (M-23).
+Further tissue:
+(24&25 left tube and ovary; 26&27 remanent of cyst left adnexa; 28-36 TSs of uterus with left parametrium from fundus to cervix; 37-44 right parametrium and right ovary). RS (M-44/CV/cy)
+Further tissue:
+45-46 calcified subserosal fibroid, 47 rest of left ovary,  48-55 rest of uterus and cervix.
+B. "UTERO-VESICAL POUCH". One piece of fibrous tissue measuring 8mm in maximum extent. AE (1-1).
+. "PROXIMAL NODE". A piece of tissue, measuring 4mm. AE (1-1).
+D. "POUCH OF DOUGLAS PERITONEUM". Three pieces of tissue, measuring  15x10x5mm. 
+E. "FIBROID". A fibroid measuring 35x30x25mm. On sectioningthe specimen is pale white and homogenous. RS (2-2).
+F. "OMENTUM". Piece of fatty tissue measuring 25x10x5mm. AE (1-1/BZ/ht).
+
+MICROSCOPIC:    (Dr U Tuia)
+A. Sections of cervix show multiple Nabothian cysts. The endometrium shows an endometrial polyp with simple hyperplasia. No significant atypia.  No evidence of serous carcinoma within the polyp. Adjacent to the polyp, the endometrium shows focal complex hyperplasia without atypia. The myometrium contains multiple leiomyomas, some of which appear heavily calcified. 
+The left parametrium shows a 6mm focus of high grade serous carcinoma.  No evidence of lymphovascular involvement.  There is also a serous cystadenofibroma identified.
+The left fallopian tube shows a focus of carcinoma on the serosa at the fimbrial end.
+There areseveral small foci of tumour on the serosal surface of the left ovary.
+The right fallopian tube and ovary appear unremarkable. 
+Immunohistochemistry stains show positive staining of the tumour cells for cytokeratin7, p53, WT1 (weak, patchy), p16.
+Negative:  CEA, calretinin, cytokeratin 20
+The entire specimen has been submitted.
+B. Sections show fibroadipose tissue. There is focal high grade serous carcinoma present. 
+C. Sections show fragments of fibroadipose tissue. No lymph nodes are identified. No evidence of malignancy.
+D. Sections show fragments of fibroadipose tissue in which there is an infiltrating high-grade serous carcinoma noted. The tumour cells form solid and cribriform clusters with occasional tubulopapillary structures.  The surrounding tissue shows desmoplastic stromal reaction. There is psammomatous calcification.  No convincing lymphovascular involvement. 
+E. Sections show a leiomyoma. No evidence of malignancy.
+F. Sections show fibroadipose tissue. No evidence of malignancy.
+DIAGNOSIS:  
+A. UTERUS, TUBES AND OVARIES
+- HIGH GRADE SEROUSCARCINOMA INVOLVING LEFT PARAMETRIAL TISSUE, LEFT FALLOPIAN TUBE AND OVARY.
+-ENDOMETRIAL POLYP.
+B. UTERO-VESICAL POUCH
+- HIGH GRADE SEROUS CARCINOMA.
+C. PROXIMAL NODE
+- FIBROADIPOSE TISSUE.
+D. POUCH OF DOUGLAS PERITONEUM
+- HIGH GRADE SEROUS CARCINOMA.
+E. FIBROID
+- LEIOMYOMA.
+F. OMENTUM
+- NO SIGNIFICANT ABNORMALITY.
+3/7/66 cy 
+SUPPLEMENTARY REPORT 19-Jul-2066
+MSI immuhistochemistry stain on block A15
+MLH1:  positive
+PMS2:  positive
+MSH2:  positive
+MSH6:   positive
+

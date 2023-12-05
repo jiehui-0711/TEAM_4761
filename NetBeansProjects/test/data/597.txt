@@ -1,0 +1,39 @@
+
+ 6652882.ESA
+HOBGOOD, JEFFEREY OOLDEA ARLIE
+66O28821
+
+Last edited : 24/4/2063		Page: 2
+ADDITIONAL REPORT (24/7/63)
+
+CLINICAL:
+Hepatic lesions.  Pancreatic cancer ?haemangioma.  
+MACROSCOPIC:
+Specimen labelled "Liver biopsy for frozen section" consists of a wedge biopsy, 20 x 12 x 8mm.  A nodule 6mm is identified.  One x section for frozen section.  Note - by CLEMENT BOZARD.  
+Blocks:  1 - frozen section; 2- remainder of the tissue.  AE.  
+(AE/mm 17.4.63) 
+FROZEN SECTION REPORT:
+Large cell carcinoma.  
+Phone result to Dr Echeverry by Dr R Chantha at 10.20am on 15.02.13.
+MICROSCOPIC:  (Reported by Dr R Whipkey):
+Sections show liver with 6mm deposit of metastatic large cell neuroendocrine carcinoma (WHO 2010). The lesion is composed of sheets of tumour cells with enlarged, ovoid nuclei, prominent nucleoli and clear to pale cytoplasm.  There are more than 50 mitoses per 10hpf. Focal necrosis is present.  The lesion extends to the edge of the specimen.  The adjacent uninvolved liver is unremarkable.
+Immunohistochemistry
+CD56: +ve
+NSE: +ve
+CK20: -ve
+CK7: -ve
+Chromogranin A: -ve
+Synaptophysin: -ve
+CDX2: -ve
+Ki67 index: 90%
+Serotonin: to follow
+Somatostatin: -ve
+Insulin: -ve
+Glucagon: -ve
+COMMENT:
+The previous duodenal biopsy from the primary lesion (66O28821) has been reviewed. The tumour cells in this biopsy have a similar morphology to the current specimen, and are also positive for CD56. The findings in the biopsy would be in keeping with large cell neuroendocrine carcinoma.
+DIAGNOSIS:
+Liver biopsy: metastatic large cell neuroendocrine carcinoma (WHO 2010)
+ADDITIONAL REPORT (24/4/63)
+Staining for serotonin is negative in the tumour cells.
+

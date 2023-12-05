@@ -1,0 +1,76 @@
+
+Episode No:  66D919831W
+6619198.JEW
+
+Devan, KATIE 
+Lab No:  66D91983
+South Exit
+GREENWELL POINT  VIC  3043
+Specimen: Tissue
+D.O.B:  28/9/1997
+Sex:  F
+Collected: 05/08/2013 at 15:18
+Location:  PRINCE OF WALES PRIVATE-MOSSMAN HOSPITAL (DOUGLAS SHIRE MULTI PURPOSE HEALTH SERVICE)
+DR ELIAS LORENZO Joly
+Distribution:   FILE-COPY
+CLINICAL:
+Left breast cancer - mastectomy + SLNBx+/-ALND.  Left axillary sentinel node(s) for imprint cytology.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node 1 left" consists of a piece of fatty tissue 40 x 15 x 7mm contains one lymph node 20mm in maximum dimension.  One imprint prepared.  
+Blocks:  1 & 2 - one lymph node.
+B.  Specimen labelled "Sentinel node 2 left" consists of two pieces of fatty tissue 28 x 14 x 5mm in aggregate contains one lymph node 10mm in maximum dimension.  One imprint prepared.  
+Blocks:  1- one lymph node.  
+IMPRINT CYTOLOGY REPORT:
+A&B.  Negative for tumour.
+Phone result to Dr Grady (RMO for Dr Itnyre) at 4.22pm on 05.08.13.  
+C.  Specimen labelled "Left breast tissue" consists of an unorientated elongated piece of fibrofatty tissue 95 x 20 x 20mm.  One surface is relatively flat and one surface is convex.  The flat surface is inked blue and the convex surface is inked black.  Specimen is serially sliced.  Slicing reveals a homogenous yellow glistening cut surface.  No nodules are identified.  
+Blocks:  1 to 3 - representative sections.  
+D.  Specimen labelled "Left breast tissue" consists of a mastectomy specimen measuring 190mm (lateral to medial) x 155mm (superior to inferior) x 65mm (superficial to deep).  The overlying skin ellipse is 115 x 32mm bearing a prominent nipple 13mm in maximum dimension.  The skin appears unremarkable.  The superficial margin is inked blue and deep margin is inked black.  There is a 15 x 15 x 10mm pale indurated tumourwith stellate borders at 2 o'clock 1cm from the nipple.  The tumour is 22mm from deep, 26mm from superficial, 80mm from superior, 52mm from inferior, 80mm from medial and 45mm from lateral margins.  At 3 o'clock 70mm from the nipple there are a few scattered foci of dislodged calcifications (?DCIS) over an area measuring 15 x 40 x 35mm.  
+Blocks:  1 to 3 - tumour (1 -ER PR HER2 Ki67, 3 - reserve block); 4 - deep margin closest to the tumour; 5 & 6 - sections in between the tumour and the area suspected for DCIS from medial to lateral; 7 to 10 - sections from the area including calcifications; 11, 12 and 14 - sections lateral to block 10; 13 - representative lateral margin;; 15 & 16 - upper inner quadrant; 17 & 18 - lower inner quadrant; 19 & 20 - lower outer quadrant; 21 & 22 - upper outer quadrant; 23 - nipple; 24 - tissue behind the nipple.  (QI/mm 10.8.63)
+MICROSCOPIC (reported by Dr Z Porres):
+A, B and D.
+Invasive carcinoma:
+Site:  Left breast, 2 o'clock
+Type:  Invasive ductal carcinoma, NST
+Invasive tumour size: 15 mm, plus a 0.8 mm satellite nodule (D6) over a 25mm area
+Grade:  3  (Modified Bloom & Richardson)       
+Tubules:  2   Nuclei: 3   Mitoses:  3 Mitotic rate: 19/10hpf.
+Lymphovascular invasion: absent
+	    
+DCIS component:  
+Maximum extent of DCIS: 60mm
+Nuclear grade:   Intermediate to high
+Architecture: Solid and cribriform
+Necrosis:  present
+Calcification:  present
+Degree of DCIS in tumour:minimal
+DCIS in adjacent tissue:   widespread
+Excision Margins:  
+Invasive component: > 10mm all margins
+In-situ component: 
+ Lateral: 0.1mm (no intervening normal ducts, D13)
+ Other margins: > 10mm
+Receptors: 
+ER:   positive
+	100 % ofnuclei stained
+	predominant intensity of staining:   strong 
+PR:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:    strong 
+HER2 (Novocastra 10A7):  2+
+Ki67 index:  15%
+Nipple:  No Paget's disease seen.
+LCIS / ALH:   Absent
+Miscellaneous: A core biopsy tract is present
+Sentinel lymph node(s):
+No. of sentinel lymphnodes examined:  2 (specimens A and B)
+No. of sentinel nodes involved by tumour:  0
+C. Sections show breast tissue with no evidence malignancy.
+DIAGNOSIS:
+A, B and D. Left mastectomy and sentinel lymph nodes:
+- 15 mm invasive ductal carcinoma NST, grade 3, plus a 0.8mm satellite deposit, over a 25mm area, ER positive, PR positive, HER2 2+, Ki67 index 15%, > 10mm all margins
+- 60mm intermediate to high grade DCIS, 0.1mm lateral margin, > 10mm other margins
+- HER2 SISH to follow in a separate report
+- 2 sentinel lymph nodes with no evidence malignancy
+C. Left breast tissue: no evidence of malignancy
+

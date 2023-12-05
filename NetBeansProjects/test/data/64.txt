@@ -1,0 +1,80 @@
+
+Episode No:  69M735193H
+6947351.XJH
+
+NEIS, BARABARA-BEULAH 
+Lab No:  69M73519
+Shanna
+BONNY HILLS  VIC  1037
+Specimen: Tissue
+D.O.B:  23/7/2013
+Sex:  F
+Collected: 19/6/2062 at 10:39
+Location:  Laverty Pathology-FITZROY CROSSING HOSPITAL
+DR DARRICK BOB PRETTNER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right mastectomy and axillary dissection.  Transverseelliptical excision of areolar complex.  Suture at level 2 axillary node. 
+MACROSCOPIC:
+Specimen labelled "Right breast stitch lateral to axillary node", consists of a nipple containing, skin bearing mastectomy measuring 150mm )medial to lateral), 155mm (superior to inferior) x 50mm (superficial to deep) with axillary fat pad 95 x 58 x 32mm, weighing 485g in total.  An ellipse of skin is present 120 x 48mm showing no unusual features.  The nipple measures 15mm in diameterand appears unremarkable.  A 2mm pigmented papule is present on the areola at 3 o'clock.  A stitch marks the level 2.  Deep margin inked black, superior purple and the remaining blue.  Sectioning shows a circumscribed firm tumour in the lateral half extending from approximately 8-10 o'clock and measuring 50mm medial to lateral, 67mm superior to inferior and 25mm superficial to deep.  The tumour appears 15mm from the inferior margin, 17mm from the deep and at least 20mm from the superior margin.  There is an area of haemorrhage within the tumourwhich might be due to previous biopsy. Present at 7 o'clock there is a separated 6mm tumour which lies 10mm inferior to the main tumour.  There are also twowell circumscribed nodules/?tumours  at 6 o'clock, each 8mm in diameter which are 10mm and 25mm from the main tumour.  The remaining breast is mixed fibrofatty and no other lesions are identified.  Several lymph nodes are identified which some of them appears to be involved by tumour. 
+Block 1 - nipple trisected; 2 - tissue deep to the nipple and pigmented lesion; 3-8 - section of tumour from superior to inferior with tumour satellitism in block 8;
+ 9 -  tumour, lateral; 10 -  tumour,medial; 11 - random upper outer quadrant; 12 - random lower outer quadrant; 13 & 14 -separated nodules (? Tumour); 15 - upper inner quadrant; 16 - lower inner quadrant; 17 - two nodes representative sections; 18 - one node, four pieces; 19 - four nodes; 20 - one node trisected; 21 - one node bisected; 22 - two nodes; 23 - one node bisected; 24 -  five nodes from level 2; 25 - section of tumour for tissue bank.  Please refer to attached diagram.  
+(HN/ec  20.6.62)  
+MICROSCOPIC: (Reported by Dr P Glanton) 
+
+Invasive carcinoma:
+Site:  Lateral right breast
+Type: Invasive pleomorphic lobular carcinoma
+Invasive tumour size:  At least 10 deposits, up to 21 mm in size over a 70 mm area. 
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3    Nuclei: 3     Mitoses: 2     Mitotic rate:  9/10hpf.
+Lymphovascular invasion:  Present (e.g. block 9)
+	    
+DCIS component:
+Not seen.
+
+Pleomorphic LCIS component:  
+Maximum extent of LCIS:  80 mm
+Necrosis:   Present
+Calcification:  Absent
+Degree of pleomorphic LCIS in tumour:  Extensive
+Pleomorphic LCIS in adjacent tissue:  Extensive
+Excision Margins:  
+Invasive component:  6 mm deep, > 10 mm other margins
+Pleomorphic LCIS component:  6 mm deep, > 10 mm other margins
+Receptors (Block 6): 
+ER:   Positive
+	95 % of nuclei stained
+	predominant intensity of staining:  Strong
+PR:   Positive
+	90 % of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  2+
+Ki-67 index:  40%
+Immunoperoxidase staining:
+e-cadherin:  Negative in invasive lobular carcinoma and LCIS.
+Nipple:  No evidence of Paget's disease.
+Miscellaneous:  A seborrhoeic keratosis is present adjacent to the nipple.
+Axillary lymph nodes:
+Number of axillary lymph nodes examined:  17 (12 level 1, 5 level 2)
+Number of axillary lymph nodes involved by tumour:  7 (up to 14 mm in size, all positive nodes from level 1)         
+Extranodal spread:    Present in 3 lymph nodes, up to 1.0 mm into fat over a 2.0 mm front
+
+
+DIAGNOSIS
+Right mastectomy and axillary dissection:
+	At least 10 deposits of invasive pleomorphic lobular carcinoma, grade 3, up to 21 mm in size, over a 70 mm area, ER positive, PR positive, HER2 2+, Ki67 40%, CISH HER2 pending, 6 mm deep margin, > 10mm other margins.
+	80 mm pleomorphic LCIS, 6 mm deep margin, > 10mm other margins
+	Metastatic carcinoma up to 14 mm in size, in 7 out of 17 lymph nodes, all positive nodes in level 1, extranodal spread present in 3 lymph nodes.
+
+
+ADDITIONAL REPORT,29/6/62:
+
+Material was sent to Dr P Ikeda, HENTY MULTI PURPOSE SERVICE Hospital, for HER-2 CISH testing, the results of which are as follows:
+Her-2 in-situ hybridisation: (Her-2 CISH Invitrogen SPOT-Light assay, block 6)  
+HER-2 CISH result: NEGATIVE(non-amplified/diploid).
+
+Mean HER-2copy number per cell:  2.15
+Scoring Criteria (ASCO/CAP recommendations):  
+Non amplified (diploid) 1-2.5 copies.  Non amplified (polysomic) = 2.5 < 4 copies.  Equivocal = 4-6 copies.  Low level amplification = >6 but <10 copies.  High level amplified = 10 or more copies.
+

@@ -1,0 +1,94 @@
+SPR no: 10B427366Q
+MRN no: 100427
+Site_name: PAKENHAM HEALTH CENTRE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (5.12.69):
+
+CLINICAL:
+Carcino-sarcoma of uterus.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left obturator node&amp;quot;, consists of one lymph node, 10 x 8 x 7mm.  The lymph node is bisected and all embedded for frozen section.
+Blocks: 1 - frozen section.
+
+B.  Specimen labelled &amp;quot;Left parametrial lymph node&amp;quot;, consists of fibroadipose tissue, 10 x 5 x 2mm.  AE for FS in 1 block.
+
+FROZEN SECTION REPORT:
+A.  One negative node.
+B.  One negative node.
+Result to Dr C Easterbrooks by Dr C Montalgo at 13:05hr on 27/02/70.
+
+C.  Specimen labelled &amp;quot;Uterus tubes and ovaries&amp;quot;, consists of uterus with attached cervix, bilateral fallopian tubes and ovaries, weighing 124g in total.  The uterus measures 83 x 55 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 32mm and shows no significant abnormality.  The anterior cervical margin is inked blue and the posterior cervical margin is inked black.  On sectioning, the endometrial cavity contains a tan/haemorrhagic, friable tumour predominantly located in the body and lower segment and measuring approximately 40 x 30 x 70mm.  The tumour invades to a depth of 7mm through a total wall thickness of 22mm.  The tumour is clear of the serosal surface and cervical margins.  The left fallopian tube, 53 x 8 x 7mm, and left ovary, 23 x 17 x 12mm, show no significant abnormality apart from a 12mm thin-walled cyst within the ovary.  The right fallopian tube, 50 x 7 x 6mm, and right ovary, 24 x 18 x 10mm, show no significant abnormality.
+Blocks: 1 to 3 - midline LS anterior uterus and cervix; 4 &amp;amp; 5 - anterior uterus/cervix, deepest invasion; 6 to 9 - midline LS posterior uterus and cervix; 10 - LS complete fimbrial end left fallopian tube, and mid TS; 11 - left ovary; 12 - LS complete fimbrial end right fallopian tube, and mid TS; 13 - right ovary.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of omentum 32 x 27 x 10mm.  The serosal surface is smooth and shiny.  On sectioning, no lymph nodes or tumour deposits are identified.  AE 2 blocks.
+
+E.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of a 3mm node within fibroadipose connective tissue, 10 x 9 x 8mm.  AE 1 block.
+
+F.  Specimen labelled &amp;quot;Right pelvic node&amp;quot;, consists of fibroadipose tissue, 50 x 30 x 25mm in aggregate, containing lymph nodes.
+Blocks: 1 - single lymph node, sectioned; 2 - lymph nodes as seen; 3 &amp;amp; 4 - single lymph node, sectioned.
+
+G.  Specimen labelled &amp;quot;Left obturator&amp;quot;, consists of fibroadipose tissue, 45 x 25 x 15mm, and containing lymph nodes.
+Blocks: 1 &amp;amp; 2 - lymph nodes as seen; 3 - single lymph node, sectioned.
+
+H.  Specimen labelled &amp;quot;Left common iliac lymph node&amp;quot;, consists of fibroadipose tissue, 12 x 12 x 8mm, containing a 4mm lymph node.  AE 1 block.
+
+I.  Specimen labelled &amp;quot;Left external iliac&amp;quot;, consists of fibroadipose tissue, 40 x 35 x 18mm, containing lymph nodes.
+Blocks: 1 - single lymph node, sectioned; 2 - single lymph node, sectioned; 3 - single lymph node, sectioned.  (TO:JB/eh 1/2/70)
+
+
+MICROSCOPIC (Reported by Dr C Ucha):
+A, B.  Sections of each specimen show one lymph node with no tumour.
+
+C.  Sections of the endometrial tumour show a grade 2 endometrioid adenocarcinoma.  No sarcomatous component is identified in the initial sections.  Further sections will be taken and a supplementary report issued.
+The tumour invades deeply into the myometrium of the anterior uterine wall.  Maximum depth of invasion is 5mm out of a total myometrial thickness of 7mm.  There is focal lymphovascular invasion.  There is also adenomyosis in the myometrium.  The myometrium is otherwise unremarkable.
+Sections of the cervix show focal tumour involvement of the surface of the ectocervix but no stromal invasion of the cervix is seen.  The focus of ectocervical involvement is 6mm from the ectocervical excision margin.  The cervix is otherwise unremarkable.
+Uninvolved endometrium away from the tumour shows some pink cell metaplasia and florid changes of chronic endometritis.
+The described cyst in the left ovary is a simple cyst.  Sections of the ovaries and fallopian tubes are otherwise essentially unremarkable.
+Stains for mismatch repair enzymes will also be performed and a supplementary report issued.
+
+D.  Sections show unremarkable fat.  No tumour is seen.
+
+E.  Sections show fat and fibrous tissue only.  No lymph node is seen.  No tumour is seen.
+
+F.  Sections show five lymph nodes.  No tumour is seen.
+
+G.  Sections show seven lymph nodes.  No tumour is seen.
+
+H.  Sections show one lymph node.  No tumour is seen.
+
+I.  Sections show three lymph nodes.  No tumour is seen.
+
+
+DIAGNOSIS:
+A.  Left obturator node:  No tumour (0/1).
+
+B.  Left parametrial lymph node:  No tumour (/01).
+
+C.  Uterus, ovaries and fallopian tubes:  Grade 2 endometrioid adenocarcinoma of endometrium showing deep myometrial invasion.  Stage 1B.  Supplementary report to follow.
+
+D.  Omental biopsy:  No tumour.
+
+E.  Left pelvic tissue:  No tumour, no lymph node.
+
+F.  Right pelvic lymph nodes:  No tumour (0/5).
+
+H.  Left common ileac lymph node:  No tumour (0/1).
+
+G.  Left obturator nodes:  No tumour (0/7).
+
+I.  Left external iliac lymph nodes:  No tumour (0/3).
+
+
+SUPPLEMENTARY REPORT (6.12.68):
+C.  Further sections of the tumour have been taken and no sarcomatous component is identified.
+Several further foci of lymphovascular invasion are noted in the additional sections.
+
+Stains for mismatch repair enzymes have also been performed.
+
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclear staining.
+MSH2:   Loss of nuclear staining.
+MSH6:   Loss of nuclear staining.
+
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI) and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

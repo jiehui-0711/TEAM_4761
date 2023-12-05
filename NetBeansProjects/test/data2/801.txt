@@ -1,0 +1,38 @@
+Episode No:  25P923864N
+256923.UQM
+
+Stratman, Ivory 
+Lab No:  25P92386
+N Harvey
+POINT VERNONTAS  6506
+Specimen: Tissue
+D.O.B:  30/8/2003
+Sex:  M
+Collected: 17/01/2014 at 08:56
+Location:  Tissue Pathology and Diagnostic Oncology-ROYAL NORTH SHORE HOSPITAL
+DR Keith REFUGIO TRUEHEART
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+?Melanoma R shoulder.  ?Malignant STT with adjacent satellite or lymph node.  Excision and posterior neck dissection.  
+MACROSCOPIC:
+A.  Specimen labelled "Right neckdissection, short stitch level 5, medium stitch level 3, long stitch level 2" consists of an irregular piece of fatty tissue with three sutures for orientation, short suture marking level 5 mid suture, medial suture marking level 3 and a long stitch marking level 2.  Lymph nodes are identified measuring from 1 to 5mm across.
+Blocks: 1 & 2 - level 2 lymph nodes; 3 & 4 - level 3 lymph nodes; 5 - level 5 lymph node; 6 - level 5 fatty tissue looking for more lymph nodes.   
+B.  Specimen labelled "Lesion neck, mass suture medial margin, 12 o'clock" consists of a ellipse of skin with one suture for orientation marking the medial margin (12 o'clock) and measures 130mm from 12 to 6 o'clock, 80mm from 3 to 9 o'clock and 50mm in thickness.  On the surface of the skin there is a nodular area with retracted centre measuring 60 x 30mm.  The rest of the parenchyma is unremarkable.  The deep margin appears to be covered by skeletal muscle.  The 3 o'clock margin is inked blue, the 9 o'clock margin black, deep margin green.  Specimen is serially sectioned from 12 o'clock to 6 o'clock into fifteen slices.  Slice one 12 o'clock margin, slice fifteen 6 o'clock margin.  In slices five to nine there is a solid poorly defined white tan lesion measuring 40mm from 12 to 6 o'clock, 40mm from 3 to 9 o'clock and 30mm in maximum thickness.  Macroscopically all the margins appear clear of tumour.  Representative sections are taken according to the attached diagram. 
+Blocks: 1 - TS of 12 o'clock margin; 2 to 9 - slice seven; 10 to 16 - slice eight; 17 - slice fifteen.(LZ/ta 19/3/64) 
+MICROSCOPIC (reported by Dr H Junor):
+A. Twelve lymph nodes identified show no evidence of metastatic tumour.
+B. Sections show skin with prominent solar elastosis excised to the level of underlying skeletal muscle. There is a 40mm malignant dermocutaneous tumour with similar morphology as that seen in the previous excision from SOUTH SURGICAL ASSESSMENT UNIT Pathology (labelled 25-PYGJ 25692 Herbig, H 256923864; see also review report by Dr H Delauder 25P92386). The tumour is composed of sheets and short fascicles of pleomorphic spindled and epithelioid cells as well as malignant multinucleated cells with bizarre, hyperchromatic nuclei. Mitotic figures are prominent. The appearanceis that of a malignant dermocutaneous tumour with features consistent with a malignant melanoma. Malignant melanoma shows invasion into underlying skeletal muscle but no connection to the epidermis isseen. No obvious lymphovascular or perineural invasion is identified.
+Excision appears complete and the excision margins are as follow:
+	12 o'clock	>10mm
+	3 o'clock	8mm
+	6 o'clock	>10mm
+	9 o'clock	>10mm
+	Deep	>10mm
+
+The overlying skin showsa scar in keeping with previous excision. The epidermis appears attenuated in areas with increased numbers of basal melanocytes displaying mild cytologic atypia. However, lentiginous proliferation of these melanocytes is not seen. Subepithelial collections of lymphocytes are focally present but no definite features of a regressed melanocytic lesion are identified.
+DIAGNOSIS:
+A. Right neck dissection
+- NO EVIDENCE OF METASTATIC TUMOUR IN TWELVE LYMPH NODES (0/12)
+B. Excision of lesion, neck
+- CONSISTENT WITH MALIGNANT MELANOMA, MARGINS CLEAR
+

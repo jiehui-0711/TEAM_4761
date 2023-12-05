@@ -1,0 +1,54 @@
+Episode No:  82X162885F
+8291628.VPF
+
+LEVIER, LEN Otis 
+Lab No:  82X16288
+Saran
+EVANDALE  South Australia  3153
+Specimen: Tissue
+D.O.B:  10/3/2036
+Sex:  F
+Collected: 17/2/2066 at :
+Location:  105 HAMRUN CIRCUIT - KAROONDA AND DISTRICT SOLDIERS' MEMORIAL HOSPITAL
+DR Augustine Frederick MITCH
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Low grade serous recurrence.  Stage 3B low grade serous ovarian carcinoma on a background of serous borderline 2063.  Now arising Ca 125 =57.  Increasing ovarian size on US.  Epilepsy.  
+MACROSCOPIC:
+A.  Specimen labelled "Liver capsule" and consists of multiple fragments of tan/pale grey tissue ranging in size from 5mm to 30mm in maximum dimension.  On sectioning, nodules of pale grey and tan tumouris identified within fibroadipose tissue and hepatic tissue.  RS 3 blocks.  
+B.  Specimen labelled "Diaphragm nodule" and consists of four irregularly shaped fragments of tan and pale grey tissue measuring 8 to 20mm in maximum dimension.  Tumour nodules are identified macroscopically.  AE 2 blocks. 
+C.  Specimen labelled "Right diaphragm" and consists of a piece of pale grey and tan tissue measuring 24 x 14 x 10mm.  A tumour is not identified macroscopically.  AE 2 blocks.  
+D.  Specimen labelled "Omental nodule" and consists of a tumour nodule measuring 14 x 11 x 9mm partly enveloped by omental tissue (22mm in width).  AE 2 blocks.  
+E.  Specimen labelled "Sigmoid nodule" and consists of two pale grey fragments of tissue measuring 7 and 9mm.  AE 1 block.  (SR/ta 18/2/66) 
+ 
+ 
+MICROSCOPIC (reported by Dr W Sagayaga): 
+A.  Sections of liver show metastatic serous adenocarcinomawith predominantly low grade features however, some tumour cells show moderate cytological atypia with large nucleoli raising the possibility of a high grade component.  A few serous implants are noted within adjacent fibroadipose tissue.
+B.  Sections show skeletal muscle and liver containing tumour with similar features to that seen within specimen A.
+C.  Sections show skeletal muscle and adjacent fibrous tissue containing small deposits of metastatic low grade serous adenocarcinoma.
+D.  Sections of omentum show serous adenocarcinoma with predominantly low grade features however, moderate cytological atypia similar to that seen within specimen A is present, raising thepossibility of a high grade component.  The ER stain is strongly positive and there is moderate staining with PR within approximately 40% of tumour cells.
+E.  Sections of fibroadipose tissue show small nests of tumour cells consistent with serous adenocarcinoma.
+DIAGNOSIS:
+A - E.  Liver, diaphragm, omentum and sigmoid:
+- Metastatic serous adenocarcinomawith predominantly low grade features involving liver capsule, diaphragm, omentum and sigmoid colon.
+- Possible high grade component.
+Tissue will be submitted for KRAS and BRAF mutation testing as requested.
+ADDENDUM (2/3/66):
+
+MOLECULAR ONCOLOGY REPORT 
+
+MUTATION ANALYSIS IN DNA EXTRACTED FROM TUMOUR.  
+
+RESULTS: KRAS G12V MUTATION DETECTED. 
+Gene                                     			KRAS
+Location in Gene                   			exon 2
+Nucleotide change in coding DNA		c.35G>T
+Predicted amino acid change in protein	p.Gly12Val
+COSMIC Database ID			520
+Alternative nomenclature			G12V
+SUMMARY: 
+KRAS G12V MUTATION DETECTED. 
+
+Reported by Prof KRAIG W'Munyon
+For full report see MALLEE TRACK HEALTH AND COMMUNITY SERVICE accession number WG-91-628852.
+

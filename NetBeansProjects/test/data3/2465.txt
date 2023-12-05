@@ -1,0 +1,59 @@
+Episode No:  38E756615P
+381756.QDO
+
+DIMPFL, Neil 
+Lab No:  38E75661
+PO BOX 1061
+NARRANDERA  Queensland  3236
+Specimen: Tissue
+D.O.B:  17/9/2008
+Sex:  F
+Collected: 27/10/2065 at 11:45
+Location:  Molecular Oncology-TULLY HOSPITAL
+DR Hank Yara-rose YSAGUIRRE
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+1.  Left breast lobular Ca.  2 o'clock.  Long suture lateral, medium suture medial, short suture superior.  
+2.  Superolateral margin. Stitch at margin.  .  Sentinel node left axilla.
+4.  Axillary nodes left.
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node one", consists of a lymph node 20 x 12 x 7mm with scant attached fatty tissue.  The fatty tissue is trimmed and the lymph node is serially sliced.
+Blocks: 1 and 2 - one lymph node.
+.  Specimen labelled "Left breast tissue short stitch superior medium stitch medial longer lateral", consists of a piece of breast tissue with three marking stitches measuring 90mm (lateral to medial) x 60mm (superior to inferior) x 70mm (superficial to deep).  The specimen is tapered towards the deep aspect.  The margins are inked in three colours as follows; superior red, superficial blue and inferior black.  Specimen is serially sliced from lateral to medial into seventeen slices.  There is an ill-defined pale solid mass extending from slice five to slice fourteen measuring 45 x 20 x 15mm.  The tumour is 20mm from lateral, 15mm from superior, 25mm from superficial, 35mm from inferior, 30mm from deep and well clear of medial margins.  There is focal haemorrhagic close to this tumour.  
+Blocks: 1 - slice one enface (lateral); 2 to 8 - slice five; 9 to 11 - mid slice six; 12 to 20 - slice seven; 21 to 23 - mid slice eight (22 ERPR Ki67); 24 to 33 -slice nine; 34 to 36 - mid slice ten; 37 to 44 eleven; 45 to 47 - mid slice twelve; 48 to 53 - slice thirteen; 54 and 55 - superficial half of slice fourteen; 56 and 57 - slice seventeen en face (medial).  Please see the diagram.  
+C.  Specimen labelled "Superior lateral margin stitch new margin", consists of an irregularly shaped piece of breast tissue measuring 70 x 60 x 15mm.  There is a suture on one surface marking the new margin (inked blue).  The other surface is inked red.  Specimen is serially sliced and every other sliced is blocked.  No lesions are identified. 
+Block 1 -  one slice; 2 - one slice; 3 and 4 - paired sections one slice; 5 and 6- paired sections one slice; 7 and 8- paired sections one slice; 9 - one slice. 
+D.  Specimen labelled "Left axillary node", consists of a piece of fatty tissue 35 x 27 x 10mm.  Specimen is sliced no lymph nodes are seen. 
+Blocks: 1 and 2 - AE.
+(JF/vo 28.10.65) 
+MICROSCOPIC (Reported by Dr H Enos):
+A to D.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive lobular carcinoma
+Invasive tumour size:45mm (macroscopic measurement)
+Grade (Modified Bloom & Richardson):  2
+Tubules: 3     Nuclei: 2     Mitoses: 1     Mitotic rate: 5/10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Absent
+Excision Margins:  
+Invasive component:  The invasive lobular carcinoma is 2mm to the superior margin (block B15) and is 2mm to the superficial margin (block B55).  The other margins are well clear.  
+In-situ component:  Not applicable
+Receptors (Block B22): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  strong
+PR:  Weakly positive
+	3% of nuclei stained
+	predominant intensity of staining:  moderate
+HER2 (Novocastra 10A7):  Negative (1+ staining)
+HER SISH:  Performed at SCANA Corporation, THE TWEED HOSPITAL Hospital, see separate report.
+Ki-67 index:  20%
+Nipple:  Not applicable
+LCIS / ALH:  Present
+Miscellaneous:
+Specimen C (superior lateral margin) shows normal appearing adipose tissue.  No residual tumour is seen.  There is no evidence of malignancy.
+	The E-cadherin stain is negative, in keeping with lobular carcinoma and LCIS.
+

@@ -1,0 +1,53 @@
+
+ 6587302.AIF
+Bufton, Patrick
+65W73020
+
+Last edited : 27/1/2065		Page: 2
+CLINICAL:
+Distal oesophageal tumour.  Neo-adjuvant radiation (partial response).  ?adeno-sarcoma.  Carinal lymph node, oesophageal cancer.  Ivor Lewis. 
+MACROSCOPIC:
+A.  Specimen labelled "Distal oesophageal tumour", consists of a segment of oesophagus and attached proximal part of stomach.  The oesophagus measures 140mm in length x 70mm in open dimension.  The proximal part of stomach measures 40 x 240mm in opendiameter.  There is an exophytic raised abnormal area at the cardio-oesophageal junction over an area of 60 x 52mm, which is covered by glandular and squamous mucosa with focal ulceration.  This abnormal area is 25mm from the proximal surgical margin (distal oesophagus) and approximately 45mm from the distal surgical margin (gastric fundus).  The entire abnormal area/cardio-oesophageal junction is all embedded.  Multiple lymph nodes are seen within the peri oesophagus of tissue.  
+Blocks: 1 to 18 - upper part of abnormal area AE; 19 to 36 - lower part of abnormal AE; 37 - proximal surgical margin; 38 - distal surgical margin; 39 - representative fundus away from cardio-oesophageal junction; 40 to 45 - lymph nodes are seen.
+B.  Specimen labelled "Carinal lymph node", consists of two piecesof fibrofatty tissue containing a lymph node each measuring 3 and 5mm in maximum dimension.  Specimen AE in 1 block.  (JN/vo 22.1.65)     
+MICROSCOPIC (Reported by Dr R Jover):
+A.  Sections of cardio-oesophageal junction show extensive intestinal metaplasia and mucosa ulceration, in keeping with Barrett's oesophagus.  Focally, there is high grade dysplasia.  One small focus of residual adenocarcinoma is present within the submucosa in the block A31.  The tumour is poorly differentiated composed of tumour cells in small sheets and islands with minimal glandular formation.  There is near complete response to the neoadjuvent therapy.  The area surrounding the tumour shows extensive fibrosis, in keeping with previous therapy.  There isno lymphovascular or perineural invasion.  The tumour appears completely excised. 
+B.  One (1) lymph node is identified.  The lymph nodeis unremarkable.  There is no evidence of malignancy. 
+Macroscopic Description
+
+Site of tumour:  Cardio-oesophageal junction
+Maximum tumour diameter:  60mm
+Distance of tumour to nearer cut end:  25mm (proximal margin)
+Tumour perforation:  No
+
+Microscopic Description
+
+Tumour site (location):  Cardio-oesophageal junction
+
+Type
+Adenocarcinoma of intestinal type.
+Growth pattern:  Infiltrating
+Differentiation by predominant area
+Poorly
+Maximal dimension of tumour:  2mm
+
+Local invasion
+pT1	Limited to submucosa
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  8.5mm (block A31)
+Lymph nodes
+Number of lymph nodes present:  15 (including specimen A & B)
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The gastric mucosa is unremarkable.  No Helicobacter like organisms are seen.
+	Several necrotizing granulomas are present within the peri-oesophageal soft tissue.  No micro-organisms are seen.
+

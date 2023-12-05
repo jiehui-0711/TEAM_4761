@@ -1,0 +1,137 @@
+DateOfBirth
+20241111
+
+
+SiteName
+GIPPSLAND SOUTHERN HEALTH SERVICE - LEONGATHA CAMPUS
+
+
+FirstName
+SCOTTY
+
+
+SPRID
+91Y163221X
+
+
+MRN
+919163
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+MR
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+91Y16322 (91Y163221X) TSHABALALA, ROMAINE
+
+HISTOPATHOLOGY REPORT
+CASINO AND DISTRICT MEMORIAL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Left breast, right breast histopathology
+Suture at 12 o&amp;apos;clock
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT BREAST SUTURE 12 O&amp;apos;CLOCK&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Mastectomy oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  148mm
+Superior to inferior:  160mm
+Anterior to posterior:  28mm
+WEIGHT:  337g
+SKIN:  Yes, 80x35mm
+NIPPLE:  Yes, 10mm across
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED: Non-standard:  Superficial superior blue, superficial inferior green, posterior black.
+DISSECTION: Specimen bi-valved in the coronal plane with a lateral hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION:  The tissue is diffusely fibrofatty. No areas of calcification or firmness are identified. No discrete lesions are identified.
+
+(1 nipple; 2&amp;amp;3 upper outer quadrant; 4&amp;amp;5 lower outer quadrant; 6&amp;amp;7 lower inner quadrant; 8&amp;amp;9 upper inner quadrant [image available and diagram drawn]).  Representative sections. (M-9)
+
+B. &amp;quot;LEFT BREAST SUTURE 12 O&amp;apos;CLOCK&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Mastectomy oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  180mm
+Superior to inferior:  155mm
+Anterior to posterior:  30mm
+WEIGHT:  480g
+SKIN:  Yes, 95x40mm
+NIPPLE:  Yes, 11mm across
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED: Non-standard:  Anterior superior blue, anterior inferior green, posterior black.
+DISSECTION: Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION:  In the slightly 1 o&amp;apos;clock position 10mm from the nipple there is a cavity. The cavity is 40mm from superior to inferior, 40mm from medial to lateral and is 25mm from anterior to posterior. The cavity is 5mm from the posterior margin. The remaining cut surface of the breast tissue is fibrofatty.
+
+(1 nipple; 2-4 posterior cavity from medial to lateral; 5-7 medial cavity from superior to inferior; 8&amp;amp;9 superior anterior cavity from medial to lateral; 10&amp;amp;11 inferior anterior cavity from medial to lateral; 12 lateral cavity; 13 upper inner quadrant; 14 lower inner quadrant; 15 lower outer quadrant; 16 upper outer quadrant [image available and diagram drawn]). Representative sections. (M-16/AO 22/7/2071 nh)
+
+Further tissue:
+(17 tissue directly medial to block 15). Representative sections. (M-17/AO 23/7/2071 ank)
+
+MICROSCOPIC: (Dr. Z. Levreau)
+A. Sections through the breast show areas of interlobular fibrosis and focal atypical lobular hyperplasia. The nipple and skin show no significant abnormality. There is no evidence of malignancy.
+
+B. Sections show breast tissue with organising previous biopsy cavity.
+In adjacent breast parenchyma there are several discontinuous foci of intermediate and high grade DCIS varying in size from 0.5 to 2mm in maximum dimension.
+
+In addition, in the posterior half of the breast lateral to the main tumour, there is a separate 20mm focus of high grade DCIS associated with a 5mm focus of infiltrating duct carcinoma grade 3 (tubules 3, nuclei 3, mitoses 2 [7/10 hpf]). The DCIS is solid with areas of central necrosis and microcalcification. At this site both the DCIS and invasive carcinoma are clear of the deep surgical margin of resection by 1.7mm.
+No lymphovascular invasion is seen.
+The nipple and skin show no significant abnormality.
+Extensive lobular carcinoma in-situ is also seen in the breast.
+All other foci of DCIS are well clear of margins.
+
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+OESTROGEN RECEPTOR:         positive(90% of cells +++)
+PROGESTERONE RECEPTOR:  negative
+
+HER-2 IMMUNOPEROXIDASE
+NEGATIVE (score 1+)
+
+Ki-67 proliferative index: 40%
+
+DIAGNOSIS:
+RIGHT BREAST SUTURE 12 O&amp;apos;CLOCK:
+-  INTERLOBULAR FIBROSIS, FOCUS OF ATYPICAL LOBULAR HYPERPLASIA
+
+LEFT BREAST SUTURE 12 O&amp;apos;CLOCK:
+-  ORGANISING PREVIOUS BIOPSY CAVITY
+-  RESIDUAL FOCI OF DCIS
+-  SEPARATE 5mm FOCUS OF INFILTRATING DUCT CARCINOMA ASSOCIATED WITH DCIS LATERAL TO THE BIOPSY CAVITY
+
+23/7/2071 nh
+
+
+
+
+
+SpecimenReceivedDate
+2545-09-28 00:00:00
+
+
+LastName
+Record

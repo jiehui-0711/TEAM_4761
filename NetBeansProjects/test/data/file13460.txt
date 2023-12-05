@@ -1,0 +1,81 @@
+SPR no: 64T713990O
+MRN no: 64771399
+Site_name: TUMBARUMBA MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Anterior resection - partial cystectomy.  Staple line for vessel (IMA junction).  Simultaneous liver resection.  Hypertension.  Cal ex smoker.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Anterior resection&amp;#8221; consists of a segment of descending colon/sigmoid colon measuring 185mm in length with open circumference of 50mm on both ends.  Both ends are open.  The entire specimen is above the peritoneal reflection.  The proximal end is inked blue and the distal end is inked black.  The mesocolon measures up to 130mm.  Situated 58mm from the distal resection margin, 80mm from proximal resection margin is a fungating tumour occupying both anti-mesenteric and mesenteric surface occupy 100% of the lumen measuring 50 x 45mm.  The rest of the mucosa is unremarkable.  On the right side of the colon segment corresponding to the tumour is an adherent tissue measuring 70 x 50 x 40mm  with the bladder mucosal tissue measures 30 x 35mm.  The bladder mucosal resection margin is inked black.  The stapled vessel margin in the mesentery is identified, presumed to be IMA.  The staples are removed and is inked blue.  The cut surface shows the tumour infiltrating through all bowel layers and invading into the pericolic fat and adherent bladder wall.  The bladder mucosa is unremarkable.  The serosal surface appears erythematous around the adhesion of the bladder and corresponding tumour.  Elsewhere the serosal surface of the colon is unremarkable.  Several lymph nodes are identified.
+Blocks:  1 - shave of vessel margin (stapled); 2 - proximal bowel resection margin; 3 - distal bowel resection margin; 4 to 18 - full profile of tumour; 19 - tumour and bladder tissue; 20 to 22 - tumour and bladder; 23 to 25 - apical nodes (23 to 25 - one lymph node); 26 - lymph nodes as seen; 27 to 30 - one lymph node each; 31 - lymph nodes as seen; 32 to 34 - one lymph node each; 35 - lymph nodes as seen; 36 - one lymph node.
+B.  Specimen labelled &amp;#8220;Liver resection segment 6&amp;#8221; consists of a liver segment measuring 75 x 50 x 35mm.  On the capsular surface there is an area of puckering measuring 30 x 20mm.  The cut surface of the liver shows a pale tan ill defined lesion measuring 45 x 30 x 26mm.  The lesion lies 1mm from the resection margin and abuts the capsule.  The uninvolved liver parenchyma is red brown.
+Blocks:  1&amp;amp;2 - full profile of tumour; 3&amp;amp;4 - tumour relation to the resection margin; 5&amp;amp;6 - tumour relation to capsule; 7 - RS of normal liver.  (LM/ua 29.9.66)
+
+
+MICROSCOPIC (Reported by Dr S Shibahara):
+A &amp;amp; B.  Synoptic Report for Large Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour:  Descending colon/sigmoid colon
+Maximum tumour diameter:  50mm
+Distance of tumour to nearer cut end:  58mm
+Tumour perforation:  No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT4b	Tumour directly invades or is adherent to other organs or structure
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  More than 10mm
+
+Lymph nodes
+Number of lymph nodes present:  19
+Number of lymph nodes involved:  6
+
+pN2	Metastases in 4 or more regional LN
+
+Lymphovascular invasion
+Present (Extramural)
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+pM1	Distant metastasis confirmed	Site:  Liver
+Background abnormalities/other comments
+- In the specimen A, the carcinoma invades to the adhesion site between colon and bladder.  The tumour is classified as T4b.  An abscess is seen at the adhesion site.  No perforation is seen.
+- Specimen B (Liver segment 6) show a deposit of metastatic colorectal adenocarcinoma.  The tumour is 1mm from the resection margin.  The liver tissue away from the tumour is unremarkable except mild steatosis.
+
+Residual tumour status
+R0	No residual tumour
+
+Response to neoadjuvent therapy
+Not applicable
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is:  A15
+
+Summary &amp;#8211; TNM 7th Edition
+pT4b     pN2     pM1     R0
+
+
+DIAGNOSIS:
+A.  Anterior resection - Adenocarcinoma.
+
+B.  Liver resection segment 6 - Metastatic adenocarcinoma.

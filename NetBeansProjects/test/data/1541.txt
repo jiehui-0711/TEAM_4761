@@ -1,0 +1,101 @@
+Episode No:  91E200161Z
+911200.DQF
+
+GROSSWILER, Carmon 
+Lab No:  91E20016
+Old Heyes
+LAUNCESTON  NT0846
+Specimen: Tissue
+D.O.B:  21/9/2013
+Sex:  F
+Collected: 9/3/2063 at :
+Location:  Envoi Specialist-DAVID BERRY HOSPITAL
+DR DESMOND FINN Ben-HIGGINS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Left IDC 2 o'clock + 4 o'clock.  Skin sparing mastectomy.  SLNB L axilla, L axilla sampling.
+Right prophylactic mastectomy. R sentinel node biopsy.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axilla sentinel node" consists of three lymph nodes ranging from 8 to 11mm in maximum dimension with attached fatty tissue.  Imprint cytology performed.   Blocks: 1to 3 - each one lymph node.  
+IMPRINT CYTOLOGY REPORT:
+There is no evidence of malignancy in three lymph nodes.  
+Result to the Anaethetist by Dr Y Porrello/Dr Y Viets at 14.48 on 1/7/13.
+  
+B.  Specimen labelled "Right axilla sentinel lymph node count 9248" consists of a 30 x 18 x 6mm piece of fatty tissue containing a lymph node 11 x 7 x 7mm. 
+Blocks: 1 - one trisected lymph node.
+C.  Specimen labelled "Right breast stitch long lateral, short superior" consists of a mastectomy specimen 20mm (lateral tomedial) x 170mm (superior to inferior) x 40mm (superficial to deep).  The overlying skin ellipse is 65 x 35mm bearing a prominent nipple 12mm in maximum dimension.  The skin appears unremarkable.  Superficial margin is inked blue and the deep margin inked black.  There is a blueish solid lump 6mm in maximum dimension, 55mm from the nipple at 2 o'clock.  This lump is 15mm from the deep margin (the closest margin).  The remainder of the breast tissue shows fibrous and fatty areas.  
+Blocks: 1 - the solid lump at 2 o'clock; 2 & 3 - random sections upper outer quadrant; 4 & 5 - random sections lower outer quadrant; 6 & 7 - random sections lower innerquadrant; 8 & 9 - random sections upper inner quadrant; 10 - representative nipple; 11 - tissue behind the nipple.
+   
+D.  Specimen labelled "Left breast stitch long lateral short superior" consists of a mastectomy measuring 220 x 150 x 50mm.  The overlying skin ellipse is 75 x 32mm bearing a prominent nipple 15mm in maximum dimension.  The skin appears unremarkable.  Superficial margin is inked blue and the deep margin inked black.  There is a 10 x 22 x 15mm pale indurated nodule at 2 o'clock 80mm from the nipple.  There is a second tumour 12 x 10 x 15mm at 4 o'clock 60mm from the nipple.  The second tumour also has a pale indurated cut surface.  The second tumour is 15mm from the first tumour.  If histology proves both tumours to be connected, the overall measurement would be 18 x 20 x 45mm.  
+Tumour one is 10mm from deep margin, 12mm from superficial margin, 50mm from inferior margin, 60mm from superior margin, 120mm from medial margin and  42mm from lateral margins.  
+Tumourtwo is 50mm from deep margin, 50mm from superficial margin, 45mm from inferior margin, 72mm from superior margin, 96mm from medial margin and 45mm from lateral margin. 
+Blocks: 1 to 3 - continuous sections encompassing tumours one and two (blocks 1 & 2 - tumour one; 3 - tumour two); 4 - tumour one; 5 - tumour two and superficial margin (block 4 - reserve block); 6 & 7 - (paired blocks) tumour two and deep margin; 8 - representative nipple; 9 - tissue behind the nipple; 10 & 11 - random sections upper inner quadrant; 12 & 13 - random sections lower inner quadrant; 14 & 15 - random sections lower outer quadrant; 16 & 17 - random sections upper outer quadrant. 
+E.  Specimen labelled "Left axilla sampling", consists of a piece of fatty tissue 60 x 40 x 12mm.  There several lymph nodes
+Blocks: 1 - one bisected lymph node; 2 - one bisected lymph node; 3 - lymph nodes as seen.  (AD/ta 9/4/63)  
+ 
+MICROSCOPIC (Reported by Dr Y Mezzanotte): 
+A, B, D & E.  Sections show invasive ductal carcinoma of the breast.  The two adjacent foci of tumour described macroscopically within the left breast are of the same morphology and are considered the same tumour.  An additional focus, also considered to represent the same tumour, is close by within the lower outer quadrant.  The features are as follows: 
+
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma (E-cadherin positive)
+Invasive tumour size:  45mm plus 6mm focus in lower outer quadrant
+Grade (Modified Bloom & Richardson):  2
+Tubules:  3     Nuclei:  2      Mitoses:  2    Mitotic rate: 10/10hpf.
+Lymphovascular invasion:  Not seen
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS:  100mm (extending to tissue behind nipple).
+Nuclear grade:  Intermediate to high 
+Architecture:  Solid
+Necrosis:  Present
+Calcification:  Present
+Degree of DCIS in tumour:  Widespread 
+DCIS in adjacent tissue:  Extensive
+Excision Margins:  
+Invasive component: 2mm from deep, 10mm from superficial, all other margins well clear.  
+In-situ component: 1mm from deep, 8mm from superficial, all other margins well clear.  
+Receptors (Block D4): 
+ER:  Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Moderate to strong 
+PR:  Positive
+	50% of nuclei stained
+	predominant intensity of staining:  Moderate to strong 
+HER2 (Novocastra 10A7):  Negative (score 1+)
+Ki-67 index:  Approximately 5-10%
+Nipple:  No significant abnormality
+LCIS / ALH:  Absent
+Miscellaneous:  Extensive fibrocystic and columnar cell change.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  4 (3 left side, 1 right side)
+Number of sentinel lymph nodes involved by tumour:  2 (left side)         
+Number of sentinel nodes with metastases >2.0mm:  0  
+Number of sentinel nodes with metastases <2.0mm:  0   
+Number of sentinel nodes with isolated tumour cells <0.2mm:  2     
+	Detected by:  Immunohistochemistry
+Extranodal spread:  Absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  7
+Number of axillary lymph nodes involved by tumour:  0         
+Lymph nodetotal:
+Total number of lymph nodes examined (including sentinel nodes):  11 
+Total number of involved lymph nodes (including sentinel nodes):2 
+ 
+
+C.  Sections of the right breast show extensive fibrocystic, apocrine and columnar cell change.  Benign luminal microcalcification is noted.  There isno evidence of in situ or invasive malignancy.
+ADDITIONAL REPORT (9.1.63):
+Blocks were sent to ALEXANDRA DISTRICT HOSPITAL Hospital for Her2 ISH analysis, Dr Y Lambeth reports:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result:  NEGATIVE (nonamplified, diploid). 
+Mean Her2 copy number per cell: 1.6.
+Mean CEP17 copy number per cell:  1.4.
+HER2/CEP17 ratio:  1.14.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

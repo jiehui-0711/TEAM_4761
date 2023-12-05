@@ -1,0 +1,90 @@
+
+Episode No:  52P4114755
+5264114.SNO
+
+OATLEY, OTIS 
+Lab No:  52P41147
+Deville Estates
+SEA LAKE  Queensland  1235
+Specimen: Tissue
+D.O.B:  18/10/2001
+Sex:  M
+Collected: Unknown at :
+Location:  2.PARKES 8-LAKE CARGELLIGO MULTI PURPOSE SERVICE
+DR CESAR LYNWOOD BUCCO
+Distribution:   FILE-COPY
+CLINICAL:
+Right hemicolectomy including separate specimens for wedge resection of the duodenum and retroperitoneal tissue.  Please seen attached operation report.  
+MACROSCOPIC:
+A.  Specimen labelled "Right hemicolectomy" consists of a segment of caecum and terminal ileum measuring 160mm in length.  The segment of ileum appears dilated and measures 80mm in length and up to 40mm in maximum diameter.  The segment of caecum measures 90mm in length and up to 40mm in maximum diameter.  In the middle of the caecum, 50mm from the distal margin is an area of perforation and serosal puckering.   A segment of greater omentum is attached to the area of serosal puckering.  The mucosal surface of the duodenum is unremarkable.  At the level of the ileocaecal valve and proximal caecum there is a circumferential ulcerated and stenosing tumour which measures 20mm from proximal to distaland is located 90mm from the proximal margin and 60mm from the distal margin.  No other lesions are identified.  The specimen is serially sectioned from proximal to distal.  On section, there is invasive tumour that measures up to 70mm from proximal to distal.  It appears to infiltrate through the wall into the pericolic fat.  Two abscesses are identified measuring 15 and 16mm in maximum diameter.  The appendix is not identified.  
+Blocks: 1 - one LS proximal margin; 2 - one LS distal margin; 3 to 5 - three TS tumour; 6 & 7 - composite of tumour with area of perforation ?abscess; 8 - tubular structure ?appendix; 9 - two ?lymph nodes; 10 - two ?lymph nodes; 11 - two ?lymph nodes.   
+B.  Specimen labelled "Duodenum" consists of a piece of duodenal wall measuring 50 x 30 x 10mm.  The serosal surface showsmultiple fibrous adhesions.  The mucosal surface is unremarkable.  Representative sections in 2 blocks.
+3 to 10 - remaining tissue all embedded.  (NZ/mm 19.6.62) 
+C.  Specimen labelled "Retro peritoneal lesion" consists of a piece of fat covered by fibrinous exudate measuring 50 x 40 x 10mm.  Representative sections in 3 blocks.   (JC/ta  18/6/62) 
+ 
+MICROSCOPIC (reported by Dr I Kanniard):
+Macroscopic Description
+
+Site of tumour: Caecum	
+Maximum tumour diameter:     70mm
+Distance of tumour to nearer cut end:    60mm
+Tumour perforation:     Yes (pT4) 
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4b	Tumour directly invades or is adherent to other organs or structures
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin:  extensive tumour is found in specimen C - retroperitoneal lesion and specimen B (duodenum).
+Histological measurement from tumour to non-peritonealised margin:  not applicable
+Lymph nodes
+Number of lymph nodes present: 6	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present in medium sized and large vessels in retroperitoneum (specimen C).
+Perineural invasion
+Present (blocks C2, C3)
+Histologically confirmed distant metastases
+pMx	Cannot be assessed histologically
+cM1                 Clinical information was provided that a liver metastasis is present.
+Background abnormalities/other comments
+Adenomas: Absent.
+Ulcerative colitis: Absent.
+Crohn's disease: Absent.
+Other: The appendix is not found. 
+There isperforation with abscess formation, organizing haemorrhage and fibrinous exudate and florid serositis.  Marked inflammation extends to involve the whole thickness of the duodenum (specimen 2), with adenocarcinoma in tissues adherent to the duodenum (block B3) although not involving the duodenal mucosa, submucosa or muscularis propria.
+Residual tumour status
+R2	Macroscopic margin involvement
+Clinical information (operation report) accompanying the pathology request states that a liver metastasis is present which was not resected.
+Response to neoadjuvent therapy - not applicable
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4b pN0 pMx cM1 R2 
+
+CONCLUSION
+A. Right hemicolectomy:  Moderately differentiated adenocarcinoma with perforation. 
+B. Duodenum: Marked acute inflammation, adenocarcinoma in tissue adjacent to duodenum.
+C. Retroperitoneal tissue: Widespread adenocarcinoma.
+SUPPLEMENTARY REPORT
+K-RAS Gene Mutation Analysis
+ADDITIONAL REPORT:  (30.8.62)
+K-Ras Gene Mutation Analysis Performed At Envoi pathology Pathology.
+"TheK-Ras oncogene has been screened for mutations in exon 2, codons 12 and 13.  K-Ras mutations have been associated with resistance to Erbitux.  The purpose of this screening is to determine the K-Ras mutation status in the tumour of an individual affected by colorectal cancer.  This status will be used to predict the patient's response to Erbitux. 
+RESULT:	Negative - Mutation NOT identified. 
+Methods Employed:
+Polymerase chain reaction (PCR) and pyrosequencing.
+COMMENT:
+This result indicates that the patient may benefit from treatment with Erbitux.However, a negative result does not rule out the possibility of a mutation being present in another exon or in codons 12 and 13 in exon 2 at levels below the threshold of detection (5%).  [36C69212.A5]". 
+ 
+

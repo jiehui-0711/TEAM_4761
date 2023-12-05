@@ -1,0 +1,26 @@
+
+ 6438613.HXY
+ROCHES, LINDSEY
+64J86133
+
+Last edited : 23/7/2064		Page: 2
+CLINICAL:
+Large hepatoma.  Necrotic and ruptured.  Tumour content.
+MACROSCOPIC:
+Specimen not labelled as to site or nature. Consists of multiple pieces of necrotic tumour admixed with blood clot and a foreign body material measuring in aggregate 150 x 120 x 30mm.  On sectioning of the fragments of tumour there are large areas of necrosis.  Representative sections in 10 blocks.
+(TO: CO;WM/vo 21.7.64) 
+MICROSCOPIC (Reported by Dr Q Bodovsky):
+Sections show multiple fragments of moderately to poorly differentiated hepatocellular carcinoma.  The lesion is composed of sheets of tumour cells with markedly enlarged, pleomorphic nuclei, prominent nucleoli and abundant granular cytoplasm.  Numerous mitoses are seen.  Intranuclear inclusions and occasional hyaline globules are present on diPAS staining.  The lesion is focally formingthickened trabaculae on reticulin staining.  No intracytoplasmic mucin is seen. Extensive necrosis is present.  No normal liver parenchyma is identified.
+Immunohistochemistry
+HepPar1: +ve
+Alpha-1-antitrypsin: +ve
+CAM5.2: +ve
+AE1/2: focal +ve
+CD10: focal +ve in tumour cells plus probable focal canalicular staining
+CK7: -ve
+CK20: -ve
+TTF-1: -ve
+CDX2: -ve
+DIAGNOSIS:
+Liver lesion: Moderately to poorly differentiated hepatocellular carcinoma
+

@@ -1,0 +1,58 @@
+Episode No:  15Q221638R
+156221.RIX
+
+PARZYCH, ELLIS 
+Lab No:  15Q22163
+Donora
+CAIRNS  South Australia  6059
+Specimen: Tissue
+D.O.B:  24/2/2005
+Sex:  F
+Collected: 02/06/2065 at 10:40
+Location:  Molecular Oncology-GREAT OCEAN ROAD HEALTH - OTWAY HEALTH
+DR Sergio Phung STEELY
+Distribution:  DR Kelvin, DR Saul,    FILE-COPY
+CLINICAL:
+Descending colon tumour.  Splenic flexure.  
+MACROSCOPIC:
+Specimen labelled "Descending colon + sigmoid" and consists of a segment of colon measuring 270mm in length with attached fatty tissue up to 85mm across.  50mm from the closest margin there is solid tumour with a slightly depressed centre measuring 28 x 20 x 4mm.  The tumour is 165mm from the other resection margin.  The tumour is centred on the mesenteric side of the colon.  The tumour appears to be infiltrating the muscularis propria.  
+Blocks: 1 - the margin closer to the tumour; 2 - the margin further away from the tumour 3 & 4 - (paired sections) TS of tumour; 5 - TS tumour (reserve block); 6 - LS tumour and adjacent normal looking mucosa; 7 - TS tumour; 8 - ?apical lymph node; 9 & 10 - lymph nodes as seen; 11 - one lymph node; 12 to 14 - sections of fat looking for lymph nodes; 15 - ?lymph nodes as seen.   (TO: OG; DN/ta 2/6/65) 
+ 
+MICROSCOPIC (Reported by Dr E Chumley and Dr E Emert): 
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumourinvolvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 12	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+No other significant abnormality identified.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preservednuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Summary:
+Descending and sigmoid colon:  Adenocarcinoma.  pT3   pN0   pMx.   
+ 
+	
+
+
+
+

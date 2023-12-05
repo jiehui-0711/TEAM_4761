@@ -1,0 +1,48 @@
+SPR no: 19H326936G
+MRN no: 1923269
+Site_name: THE MORNINGTON CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (11.1.2066)
+
+CLINICAL:
+HG serous ovarian ca.   Right pelvic peritoneum, ? nerve, ? vessel.  Tertiary cytoreduction for recurrence.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Right pelvic ? peritoneum ? nerve, ? vessel&amp;#8220;, consists of a piece of pink solid tissue 25 x 4 x 2mm.  TS AE 1 block for FS.  (HM/MY 16:40 1.11.16)
+
+FROZEN SECTION:  Fibrous tissue with small artery, no nerve.
+Result to anaesthetist by Dr E Cellio 4:45pm on 1.11.16.
+
+B.  Specimen labelled &amp;#8220;Right mesorectal nodule&amp;#8220;, consists of an unorientated piece of tan and pink solid tissue 50 x 35 x 35mm.  The specimen is partially covered by a smooth surface, (? peritoneum) 35 x 30mm.  The smooth surface is left uninked. The remainder of the external surface is inked black.  Slicing reveals pale shiny solid cut surfaces extending to the inked margins.  Blocks 1-3 - representative; 3- reserve block.
+
+C.  Specimen labelled &amp;#8220;Right obturator lymph node&amp;#8220;, consists of a lymph node 25 x 15 x 15mm with attached soft tissue 25 x 15 x 4mm.  Slicing the lymph node reveals pale solid cut surfaces.  Blocks 1 &amp;amp; 2 - one lymph node; 3 - attached soft tissue.  AE.  (HM/ec   4.1.66)
+
+
+MICROSCOPIC (Reported by Dr E Boryszewski):
+A.  Sections show one piece of fibrofatty tissue with no significant abnormality.  Several medium sized blood vessels are present.  There is no evidence of malignancy.
+
+B.  Sections show a poorly differentiated metastatic carcinoma.  The tumour cells with high grade nuclei are arranged in solid sheets and nests within dense fibrotic stroma.  The appearances are consistent with those of high grade serous carcinoma.
+
+C.  One (1) lymph node is identified.  The lymph node is almost completely replaced by metastatic high grade serous carcinoma.
+
+
+DIAGNOSIS:
+A.  Right pelvic peritoneum - No evidence of malignancy.
+
+B.  Right mesorectal nodule - Metastatic serous carcinoma.
+
+C.  Right obturator lymph node - Metastatic serous carcinoma (1/1).
+
+
+SUPPLEMENTARY REPORT (Reported by Dr E Kulak 11.1.2066):
+MSI immunohistochemistry was performed as requested.
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

@@ -1,0 +1,64 @@
+
+Episode No:  83Z179706W
+8391797.AQW
+
+Nevius, AUGUST LYNDON 
+Lab No:  83Z17970
+Manolete
+ALDGATE  TAS  3576
+Specimen: Tissue
+D.O.B:  11/3/2006
+Sex:  M
+Collected: 03/07/2012 at 16:11
+Location:  PATHOLOGYWEST-BAMAGA HOSPITAL
+DR Clemente WILFRED KRIEGH
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right hemicolectomy for adenocarcinoma.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a specimen of terminal ileumstump (35mm long), caecum and ascending colon (110mm long), vermiform appendix (70mm long and up to 7mm in diameter) and pericolonic fatty tissue (110 x 55 x 20mm).  There is a fungating tumour in the posteriorwall of the ascending colon occupying 60% of its circumference and measuring 45 x 40 x 18mm.  The tumour is 55mm from proximal and 50mm from distal resection margins.  The tumourappears to have infiltrated through the muscularis propria focally.  The serosal surface of the appendix appears slightly congested.  
+Blocks: 1 - shaved proximal margin; 2 - distal margin; 3 & 4 - representative TS of tumour, the deepest penetration; 5 - representative LS of the tumour; 6 - representative TS of tumour, reserve block for tumour bank; 7 - TS of tumour and serosa; 8 - one LS tip of the appendix and twoTS; 9 - the apical lymph node bisected; 10 - one lymph node bisected; 11 - one bisected lymph node; 12 - one bisected lymph node; 13 - up to four lymph nodes; 14 - up to five lymph nodes; 15 - one bisected lymph node.   (CN/ta 9/4/62)  
+MICROSCOPIC (reported by Dr R Pusateri):
+Sections show moderately differentiated adenocarcinoma.  The features are as follows:
+Macroscopic Description
+
+Site of tumour:  Ascending colon	
+Maximum tumour diameter:  45mm
+Distance of tumour to nearer cut end:  50mm (distal)
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3     Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Lymph nodes
+Number of lymph nodes present:  15	
+Number of lymph nodes involved:  0	
+pN0No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX     Cannot be assessed histologically
+Background abnormalities/other comments
+The appendix shows no significant abnormality 
+Residual tumour status
+R0     No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0     pMX     R0
+

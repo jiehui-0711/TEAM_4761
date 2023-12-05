@@ -1,0 +1,93 @@
+SPR no: 08S5507455
+MRN no: 087550
+Site_name: CAMDEN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report08S55074,08S55074 (08S5507455) ALI, Dave
+HISTOPATHOLOGY REPORT
+ANGASTON HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Carcinosarcoma of the uterus, full thickness infiltration of uterus with tumour through fundus.   Piecemeal extraction (apologies).
+1.   Peritoneal washings for Cyto.
+2.   Uterus, tubes and ovaries.
+3.   Right sentinel pelvic nodes.
+4.   Left sentinel pelvic nodes.
+5.   Omentum.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;.   Consists of morcellated specimen with an aggregate of 170x160x60mm and 270g.   Cervix identified with 12mm of tumour extending into it.   Solid cream-coloured tumour abutting margins on multiple fragments of tissue.   One 50x7mm fallopian tube with attached ovary, 25x15x10mm.  The other fallopian tube and ovary are 40x7mm and 25x13x8mm, respectively.  Serosa and cut surface of bilateral fallopian tubes and ovaries are unremarkable.
+(1-4  cervix; 5-9  tumour; 10  bisected fimbria and fallopian tube; 11  ovary; 12  bisected fimbria and fallopian tube; 13  ovary).  Representative sections. (M-13).
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.   Consists of fatty tissue containing two lymph nodes and tan tissue, 42x40x15mm in aggregate.
+(1  bisected lymph node; 2  lymph node; 3  tan tissue).   All embedded.  (M-3).
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.   Consists of a 35x25x10mm fatty tissue with two possible lymph nodes, and one possible lymph node or vessel.
+(1  one possible lymph node or vessel; 2  two possible lymph nodes).  All embedded.  (M-2)
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;.   Consists of a 35x27x10mm yellowy-brown fatty tissue.
+(1&amp;amp;2  serial sections).  All embedded.  (M-2/BM 1/6/2069 km).
+
+MICROSCOPIC:  (Dr. A. Roberto)
+The tumour is composed of cohesive and discohesive sheets of high grade epithelioid cells showing large pleomorphic round to oval nuclei, coarse and vesicular chromatin, occasional nucleoli and minimal amounts of eosinophilic and clear cytoplasm. There is extensive geographical tumour necrosis and many areas show tumour cells with more plasmacytoid morphology with rounding up of the cytoplasm, creating large discohesive sheets. The cells sit within mostly fibrous stroma but multiple areas show stromal myxoid change. There are numerous tumour infiltrating lymphocytes.  A very tiny area (&amp;lt;0.5mm, block A9) shows papillary formation, but otherwise there is no papillary or glandular architecture. There is no sarcomatoid transformation.
+Immunohistochemistry:
+Positive: AE1/AE3 (rare isolated cells), CAM5.2 (patchy), vimentin, p16 (patchy), CD56 patchy. Synaptophysin stains isolated rare cells.
+Negative: ER, PR, CEA, MOC31, WT1, Chromogranin.
+P53 shows wild type pattern.
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE: Fundus, body, lower uterine segment.
+
+TUMOR SIZE: Difficult to assess due to fragmented nature of specimen.
+
+HISTOLOGIC TYPE:  Undifferentiated carcinoma
+
+HISTOLOGIC GRADE:  FIGO grade 3
+
+MYOMETRIAL INVASION: Extensive, up to serosal surface
+Percentage depth of myometrial invasion:  100%
+
+UTERINE SEROSA INVOLVEMENT: Probable (necrotic tumour, A8). Clinically present.
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Present (A3)
+
+CERVICAL STROMAL INVOLVEMENT: Present (A3)
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not identified
+
+MARGINS:
+- Paracervical margin:  Not involved
+- Parametrial margin:  Not involved
+
+LYMPHOVASCULAR INVASION:  Difficult to assess due to extensive autolysis and necrosis.
+
+REGIONAL LYMPH NODES:
+
+B. RIGHT PELVIC SENTINEL NODE:  This specimen contains 2 benign lymph nodes (negative cytokeratin). There is also a separate fragmented tumour mass with no recognisable lymph node architecture. Unable to determine if this is part of the main uterine tumour piecemeal excision, or if it represents an overrun lymph node.
+C. LEFT PELVIC SENTINEL NODE: Two lymph nodes with no malignancy (negative cytokeratin).
+DISTANT METASTASES (histologically confirmed): Not identified
+ADDITIONAL PATHOLOGIC FINDINGS:
+Both ovaries and fallopian tubes are unremarkable.
+ANCILLARY STUDIES/IMMUNOSTAINS:  Mismatch repair protein immunohistochemistry.
+MLH1:  Negative
+PMS2:  Negative
+MSH2:  Positive
+MSH6:  Positive
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): At least Stage IIIA from clinical notes.
+(Possible staging IIIC1 if the tumour tissue in the right pelvic lymph node specimen is an effaced lymph node).
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT3a, pN0 (possibly pN1a)
+D. OMENTAL BIOPSY: Lobulated fatty tissue with no malignancy.
+DIAGNOSIS:
+A. UTERUS, BILATERAL TUBES AND OVARIES:
+- Undifferentiated carcinoma of the endometrium, at least FIGO stage IIIA
+- Loss of MLH1 and PMS2
+
+B. RIGHT PELVIC SENTINEL NODE:
+- Two benign lymph nodes
+- One fragmented tumour mass
+
+C. LEFT PELVIC SENTINEL NODE:
+- Two benign lymph nodes
+
+D. OMENTAL BIOPSY:
+- No evidence of malignancy

@@ -1,0 +1,78 @@
+Episode No:  61O679112E
+615679.FDG
+
+BILLINGER, LAKEESHA 
+Lab No:  61O67911
+North Oxford
+HEDDON GRETA  Australian Capital Territory  2900
+Specimen: Tissue
+D.O.B:  9/8/1993
+Sex:  F
+Collected: 19/09/2012 at 11:18
+Location:  ACUTE STROKE UNIT-DYSART HOSPITAL
+DR KENETH KOORI MCCLIMANS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (18.12,62):
+
+
+SUPPLEMENTARY REPORT (12.6.62):
+
+
+CLINICAL:
+Previous ductal Ca 2051 - now small ?lobular Ca at 12 o'c with microCa 25mm from nipple.  
+MACROSCOPIC:
+Patient details checked by TV
+Specimen labelled "Left breast" consists of a left mastectomy with axillary tail measuring 220mm (medial to lateral), 120mm (superior to inferior) and 30mm (superficial to deep) margin.  There is an ellipse of skin with nipple and areola complex measuring 140 x 70mm.  The skin surface is unremarkable.  Superficial margin inked blue and the deep margin black.  On sectioning at 12 o'clock there is a small ill defined nodule, 10mm (superior to inferior), 10mm (superficial to deep) and 11mm (medial to lateral).  It is located 55mm from the nipple, 10mm from the superficial margin, 10mm from the deep margin, 25mm from the superior margin and more than 70mm from the inferior margin.  The rest of the parenchyma has a fibrofatty appearance.  
+Blocks:  1 - nipple and areola; 2 to 4 - tumour with superficial and deep margin (all embedded); 5 - one section from the upper outer quadrant; 6 - one section from the lower outer quadrant; 7 - one section from the upper inner quadrant; 8 - one section from the lower inner quadrant; 9 - three lymph nodes; 10- three lymph nodes; 11 - three lymph nodes; 12 - two lymph nodes; 13 - two lymph nodes; 14 - one bisected lymph node.  (LL/mm 21.11.62) 
+MICROSCOPIC (reported by Dr Q Hornby): 
+Sections of the described tumour show a 9mm grade 2 invasive lobular carcinoma.  In the same area there is a 20mm focus of DCIS.  This is intermediategrade with some apocrine features and has cribriform architecture with necrosis and microcalcification.  No tumour is identified in fourteen axillary lymph nodes.  A synoptic report follows: 
+Invasive carcinoma:
+Site:  Left breast 12 o'clock 50mm FN. 
+Type:  Invasive lobular carcinoma. 
+Invasive tumour size:9mm.
+Grade (Modified Bloom & Richardson):   2
+Tubules:  3    Nuclei: 2     Mitoses:  1    Mitotic rate: 1/10hpf.
+Lymphovascular invasion:  No.
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS: 20mm. 
+Nuclear grade:  Intermediate, with some apocrine features. 
+Architecture: Cribriform. 
+Necrosis:  Yes.  
+Calcification: Yes.
+Degree of DCIS in tumour:  Minimal.
+DCIS in adjacent tissue:  Yes. 
+Excision Margins:  
+Invasive component: Deep 4mm; all others >10mm.
+In-situ component: Superficial 6mm, deep 5mm, all others >10mm. 
+Receptors(Block 4): 
+ER:   Positive.
+	100% of nuclei stained
+	predominant intensity of staining: Strong.  
+PR:   Positive.
+	30% of nuclei stained
+	predominant intensity of staining:  Strong. 
+HER-2 (Novocastra 10A7):  1+ (negative).  Her-2 CISH to follow.
+Ki-67 index: <5%. 
+Nipple:  Normal. 
+LCIS / ALH:    Yes, focal. 
+Miscellaneous: Organising biopsy site change is noted in association with the carcinoma. 
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 14.
+Number of axillary lymph nodes involved by tumour:  0.        
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): 14.  
+Total numberof involved lymph nodes (including sentinel node(s)):   0.
+DIAGNOSIS:  
+Left breast:  
+1.    9mm diameter grade 2 invasive lobular carcinoma.  No lymph node metastases
+(0/14).  pT1b N0.
+2.    20mm diameter intermediate grade DCIS.
+SUPPLEMENTARY REPORT (12.6.62):
+In the previous report the tumour grade was left out of the synoptic report.  This has now been added (see above).
+SUPPLEMENTARY REPORT (18.12.62):
+Her-2 CISH has shown a negative (nonamplified, diploid) result.
+Mean Her-2 copy number per cell:  1.25.
+Reported by Dr Q Dspain.
+

@@ -1,0 +1,31 @@
+SPR no: 07J126304Q
+MRN no: 07312630
+Site_name: MARGARET RIVER HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT - MMRD STATUS (6.10.2065)
+
+CLINICAL:
+Endometrial cancer, distant metastasis.  TLH, BSO, washings.  Pelvic washings, uterus tubes and ovaries.  L hip replacement, L mastectomy, cataracts.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, tubes, ovary and cervix&amp;quot;, consists of uterus, attached cervix, bilateral tubes and ovaries weighing 119g. The uterus measures 72 x 55 x 47mm and has a smooth shiny serosal surface. The ectocervix measures 27 x 22mm and has an unremarkable surface.  On sectioning there is a tumour occupying both anterior and posterior body with a cross section measurement of 35 x 30mm, 25 x 30mm on anterior and posterior body respectively.  The myometrium measures up to 17mm in maximum extent.  The depth of tumour invasion measures up to 2mm.  The myometrium contains three fibroids measuring from 5 to 13mm.  The right fallopian tube measures 45mm in length with an outer diameter of 4mm.  The ovary measures 20 x 8 x 5mm. The cut surface of the ovary is unremarkable.  The left fallopian tube measures 50mm in length with an outer diameter of 4mm.  The left ovary measures 22 x 7 x 12mm.  The cut surface of the ovary is unremarkable.  Blocks 1-4 - full LS of anterior body and cervix; 5-7 - RS with deepest invasion; 8-11 - full LS of posterior body and cervix; 12 - RS with deepest invasion;
+13 &amp;amp; 14 - RS of fibroids; 15 &amp;amp; 16 - right adnexa (15 - fallopian tube; 16 - ovary); 17-19 - left adnexa (17 &amp;amp; 18 - fallopian tube; 19 - ovary).   (TO:LM/ec 29/7/66)
+
+
+MICROSCOPIC (Reported by Dr A Affolter):
+Sections of uterus show a mixed endometrial adenocarcinoma (high grade).  The carcinoma shows a mixture of clear cell carcinoma (90%) and serous carcinoma (10%).  Both components show high grade morphology.  The carcinoma invades into the inner half of myometrium and the depth of invasion is 2mm.  The myometrial thickness is 16mm (block 7mm).  There is extensive lymphovascular invasion involving majority of myometrium.  In several foci near the serosa, there is local invasion from lymphovascular invasion (block 9).  There is no definite involvement of the uterine serosa.  The stroma of cervix shows foci of lymphovascular invasion but no stromal invasion is seen.  The rest of endometrium is atrophic and shows no significant abnormality.  The myometrium shows several hyalinised leiomyomas.  The carcinoma also involves the left fallopian tube (block 17) and left ovary (block 18).  The left ovary is almost completely replaced by the tumour.  The right fallopian tube and right ovary are unremarkable.
+DIAGNOSIS:
+Uterus, cervix, tubes and ovaries &amp;#8211; Mixed endometrial carcinoma including clear cell carcinoma and serous carcinoma.
+SUPPLEMENTARY REPORT (Reported by Dr A Daw 10.11.2068):
+MSI immunohistochemistry was performed as requested.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

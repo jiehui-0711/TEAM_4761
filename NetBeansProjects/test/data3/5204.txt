@@ -1,0 +1,72 @@
+Episode No:  58O278079C
+5852780.UXC
+
+Naputi, BLAINE 
+Lab No:  58O27807
+Fuyatt
+KYNETON  VIC  3847
+Specimen: Tissue
+D.O.B:  6/12/1995
+Sex:  F
+Collected: 17/08/2062 at 09:18
+Location:  ACUTE STROKE UNIT-MAITLAND HOSPITAL (NSW)
+DR Oliver Zahra Franey
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Large right sided caecal tumour.  Right colon.
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of terminal ileum 55mm in length with attached caecum and ascending colon 140mm in length.  Thecaecum is dilated to a diameter of 85mm.  The attached mesocolon measures 170 x 75 x 20mm.  
+On opening, a sessile ulcerated polypoid tumour fills the caecum and measures 90 x 85 x 35mm.  The tumour is centred on the mesentery, involves 90% of the caecal circumference and abuts the ileocaecal valve.  The tumour measures 55mm from the nearest (distal) resection margin.  
+On sectioning, the tumour has a partly mucinous cut surface and appears to extend through muscularis propria extending to serosa.  There is a fibrous serosal reaction although macroscopic permeation of the mesocolonic fat by tumour is not evident.
+The uninvolved caecal and ascending colon mucosa shows polyps up to 6mm.  Themucosa of the terminal ileum is unremarkable.  The appendix is not identified.
+Blocks:  1 - proximal resection margin; 2 - distal resection margin; 3 to 7 - representative tumour; 8 - tumour and ileocaecal valve; 9 - caecal polyps; 10- ascending colon polyps; 11 - representative terminal ileum; 12 - representative ascending colon; 13 - tumour reserve block; 14 - one apical node bisected; 15 - periapical nodes; 16 to 20 - mesocolonic lymph nodes.
+(EE/bl 17/8/62)
+MICROSCOPIC (Reported by Dr N Majano):
+Sections show a moderately differentiated mucinous adenocarcinoma of the caecum.  The tumour measures 90mm in maximum dimension and abuts the ileocaecal valve.  The carcinoma has infiltrated through the full thickness of the wall of the caecum just reaching the mesenteric fat with reactive fibrosis (pT3).  The peritoneum has not been breached by tumour.
+There are two (2) 5mm tubular adenomas with low grade dysplasia in the caecum, and three (3) serrated adenomas with low grade dysplasia in the ascending colon.  
+One (1) of the ten mesenteric lymph nodes identified contains metastatic mucinous carcinoma with extranodal spread for a distance of 4mm.  This involved node was located close to the tumour and the two (2) apical nodes identified are negative.  
+The colonic and ileal mucosa away from the tumour appear normal. 
+DIAGNOSIS:  
+Right hemicolectomy:   
+Macroscopic Description
+
+Site of tumour: Caecum	
+Maximum tumour diameter:  90mm
+Distance of tumour to nearer cut end:   55mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Mucinous carcinoma
+Differentiation by predominant area
+Well / Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Not involved
+Lymphocytic Infiltrate
+<5 per hpf (inconspicuous)
+Lymph nodes
+Number of lymph nodes present: 10	
+Number of lymph nodes involved: 1	
+pN1a	Metastases in 1 regional LN.
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Tubular adenomas x 2 and Serrated adenomas x 3 
+(5 in total).  
+Residual tumour status
+R0   No residual tumour
+Mismatch Repaiir Deficiency status
+Immunohistochemistry shows normal staining pattern for MLH1 and MSH2. The stains for PMS2 and MSH6 have been lost. This staining pattern is consistent with an MSI (microsatellite instability) phenotype.
+Summary - TNM 7th Edition
+pT 3    pN 1a    pM x   R 0
+	
+
+
+
+

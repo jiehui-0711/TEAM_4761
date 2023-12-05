@@ -1,0 +1,32 @@
+SPR no: 09N255274K
+MRN no: 0952552
+Site_name: COONABARABRAN DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ovarian mass for TLH BSO.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, left tube and ovary&amp;#8221; consists of a uterus with attached cervix, left tube and ovary weighing 181g.  The uterus measures 90 x 60 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 35 x 24mm and has an unremarkable surface.  On sectioning the endometrium  appear to be 1mm in thickness, however there are randomly distributed fluffy material on the endometrial surface and the myometrium is 25mm.  The myometrium is unremarkable.  The left fallopian tube measures 55mm in length with an outer diameter of 6mm.  The left ovary measures 70 x 50 x 30mm.  On sectioning the ovary is cystic and filled with  haemorrhagic  and  gelatinous material.  Numerous papillary excrescences are present on the inner surface.
+Blocks: 1 to 5 - full longitudinal section of anterior body and cervix, 6 to 9- representative sections with fluffy material on the endometrial surface; 10 to 14 - full  longitudinal section of posterior body and cervix, 15 - representative sections of fallopian tube all fimbrial end embedded; 16 to 40 - all of the cyst.
+
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a fatty tissue measuring 55mm x 40 x 15mm.  The cut surface shows uniform fatty tissue.  Representative sections embedded in 3 blocks.
+
+C.  Specimen labelled &amp;quot;Bladder peritoneum&amp;quot;, consists of a single pale tan tissue measuring 7 x 5 x 3mm.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of an appendix measuring 45mm in length with an outer diameter of 4mm.  The mesoappendix measures up 12mm.  The serosal surface appears smooth and shiny with congested vessel.  The cut surface shows a patent lumen.
+Blocks:  1 - two longitudinal sections of base; 2 - transverse sections of mid appendix; 3 - longitudinal sections of tip.  AE.  (TO: LM; LM/eh 2/7/2069)
+
+
+MICROSCOPIC (Reported by Dr B Carneal):
+A.  Sections show a low grade borderline seromucinous tumour arising in endometriosis.
+The fallopian tube is unremarkable.  There is no evidence of invasion.
+The ectocervix and endocervix show no significant abnormality.  The endometrium shows progestational effect.  The myometrium is unremarkable.  There is no evidence of malignancy.
+
+B.  The omentum shows no abnormality.  There is no evidence of malignancy.
+
+C.  Sections show a focus of endometriosis together with changes of previous surgery.  There is no evidence of malignancy.
+
+D.  The appendix shows no significant abnormality.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+Low grade borderline seromucinous tumour of the left ovary arising in endometriosis.

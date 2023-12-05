@@ -1,0 +1,53 @@
+SPR no: 79B774739K
+MRN no: 7907747
+Site_name: WESTERN HEALTH - BACCHUS MARSH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pelvic mass non-ovarian.  CA 125 130.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Pelvic mass non-ovarian&amp;#8220;, consists of a soft mass 130 x 110 x 100mm, partially covered in peritoneum.  The cut surface is multicystic and solid containing clear serous fluid.  The solid area has a cream oedematous but whorled appearance.  Two representative sections for FS.  Blocks 1 &amp;amp; 2 - FS deblocked; 3-10 - representative pelvic mass.
+
+FROZEN SECTION:  Low grade spindle cell lesion, ? leiomyoma.
+Result to anaesthetist by Dr T Arpino at 14:55pm on 11.4.16.
+
+B.  Specimen labelled &amp;#8220;Uterus, tubes and ovaries&amp;#8220;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 144g in total. The uterus measures 90 x 60 x 60mm and has a haemorrhagic serosal surface both anteriorly and posteriorly.  There are multiple extrauterine fibroids present.  The ectocervix measures 50 x 45mm and is unremarkable. On sectioning the endometrium is 1mm in maximal thickness and the myometrium is up to 25mm in maximum thickness. There are multiple fibroids ranging from 5-18mm in maximum dimension.  The right fallopian tube measures 60 x 5 x 5mm.  The right ovary measures 30 x 15 x 10mm and has an unremarkable cut surface.  The left fallopian tube measures 45 x 8 x 5mm.  The left ovary measures 28 x 12 x 12mm and has an unremarkable cut surface.  Representative sections.
+Blocks 1-4 - full LS of anterior body and cervix; 5-8 - full LS of posterior body and cervix; 9 - distal right fallopian tube AE; 10 - right ovary and fallopian tube; 11 - remainder of right ovary; 12 - left fallopian tube distal fimbrial end AE; 13 - left fallopian tube and left ovary; 14 - remainder of left ovary.
+
+C.  Specimen labelled &amp;#8220;Left external iliac node&amp;#8220;, consists of a lymph node 12 x 8 x 3mm.  BAE 1 block.
+
+D.  Specimen labelled &amp;#8220;Appendix&amp;#8220;, consists of an appendix measuring 85 x 8 x 8mm.  The serosal surface is smooth and shiny.  The wall thickness is 2mm and the mucosa is unremarkable.  No faecolith is present.  The specimen is AE.  Block 1- TS distal tip; 2 - 5TS mid; 3 - 2LS proximal and 1TS surgical margin; 4 - 3TS mid. AE.
+
+E.  Specimen labelled &amp;#8220;Omental adhesion&amp;#8220;, consists of a fibrous piece of pale tan tissue 15 x 2 x 2mm.  AE 1 block.
+
+F.  Specimen labelled &amp;#8220;omental biopsy&amp;#8220;, consists of a piece of fibrofatty tissue, 60 x 40 x 10mm. No lesion is identified on sectioning. RS in 3 blocks.  (TO:  JL/ec 14/6/66)
+
+
+MICROSCOPIC (Reported by Dr T Schmeider):
+A. Sections show a benign leiomyoma. The lesion appears to be well circumscribed. Extensive oedema and cystic change are seen. The lesion is composed of interlacing bundles of smooth muscle cells with bland elongated nuclei. No significant mitotic activity is seen (&amp;lt; 1 per 50 hpf). No coagulative necrosis or nuclear atypia is present. The tumour cells are positive for desmin and SMA. SOX10, HMB45, Melan A, c-kit and CD34 are negative. Ki 67 index is low (&amp;lt; 2%).
+
+B. Sections of the myometrium show several benign leiomyomas. The endometrium appears inactive. The cervix shows no evidence of HPV effect or CIN. The fallopian tubes and ovaries appear unremarkable. There is no evidence of malignancy.
+
+C. Sections show a lymph node with no evidence of malignancy.
+
+D. Sections of the appendix are unremarkable. There is no evidence of dysplasia or malignancy.
+
+E.Sections show a fibrous adhesion. There is no evidence of malignancy.
+
+F. Sections show omental fat with no evidence of malignancy.
+
+
+DIAGNOSIS
+A. Pelvic mass (non-ovarian): benign leiomyoma
+
+B. Uterus, fallopian tubes and ovaries: benign leiomyomas
+
+C. Left externally iliac lymph node: no evidence of malignancy
+
+D. Appendix: no abnormality detected
+
+E. Omental adhesion: fibrous adhesion
+
+F. Omental biopsy: no evidence of malignancy

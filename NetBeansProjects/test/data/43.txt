@@ -1,0 +1,72 @@
+
+Episode No:  84M415822F
+844415.WHH
+
+BRAZIE, ELMER 
+Lab No:84M41582
+Valevue
+KURRI KURRI  ACT  9010
+Specimen: Tissue
+D.O.B:  1/2/2006
+Sex:  M
+Collected: 26/2/2062 at :
+Location:  Forensic Medicine-GOLF LINKS ROAD REHABILITATION CENTRE
+DR STANTON WILLY KITTLES
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+SUPPLEMENTARY REPORT:  (13.8.63)
+
+SUPPLEMENTARY REPORT:  (8.5.63)
+
+CLINICAL:
+Mediastinal LN's.  Pleural effusions.  Endocarditis, ? malignancy. 
+MACROSCOPIC:
+Specimen labelled "Pretracheal lymph node", consists of irregular grey/yellow rubbery tissue fragments ranging from 3-10mm in maximal diameter.  Four representative pieces for FS, remaining for imprint (PAP) and formalin.  Remainder of frozen tissue embedded block 1; rest of tissue in formalin AE blocks 2 & 3.   (TO: KZ; PQ/ec 2.1.62) 
+ 
+FROZEN SECTION:  Large cell malignancy.  Await paraffins for definite diagnosis.
+Result to anaesthetist by Dr S Horey/Dr S Popple at 10:30am on 26.2.62.
+MICROSCOPIC: (Reported by Dr S Brenneman)  
+Sections show pieces of lymph node and also some adjacent fat with small muscular blood vessels.  The pieces of node are extensively involved by malignant tumour and there is also some spread of tumour into extranodal fat.  The tumour cells have large, pleomorphic nuclei and generally a moderate amount of eosinophilic cytoplasm.  There is a suggestion of micropapillary architecture in some places.  Intracytoplasmic mucin is identified in occasional tumour cells with PASD and Alcian blue stains.  
+IMMUNOSTAINS:
+Pancytokeratin - Positive.
+Cytokeratin 7 - Positive.
+TTF-1 - Positive.
+p63 - Some patchy, weak positive staining. 5/6 - Negative.
+S100 - Negative.
+CD30 - Negative. 
+Leucocyte Common Antigen - Negative.  
+The appearances are most consistent with a poorly differentiated adenocarcinoma and the immunoprofile wouldindicate this is almost certainly from a lung primary.  
+DIAGNOSIS:
+Pretracheal lymph node:  Metastatic poorly differentiated adenocarcinoma.  
+
+SUPPLEMENTARY REPORT:  (8.5.63)
+Report from WILCANNIA HEALTH SERVICE's Hospital:
+Reported by:  Dr S Gillion.  
+MOLECULAR TISSUE ANALYSIS:TARGETED EGFR MUTATION DETECTION
+
+EGFR MUTATION TEST: 
+Date Tested: 16/7/2063
+RESULT:
+Targeted EGFR mutation analysis on DNA extracted from FFPE tumour tissue:
+NEGATIVE
+MUTATION NOT DETECTED
+
+Interpretation:
+
+The tumour sample from FEDERICO WERNICK DOES NOT CARRY a mutation of clinical significance in the regions of the EGFR gene targeted in this analysis (see comments).
+The absence of an activating EGFR mutation confers decreased sensitivity to EGFR tyrosine kinase inhibitor based therapies.  (see:  www.mycancergenome.org/nsclc/).
+METHOD:
+* DNA was extracted from FFPE tumour tissue using the Roche cobas DNA Sample Preparation kit.
+* EGFR gene mutations were analysed using the Roche cobas EGFR Mutation Test kit (ARTG: 689697).
+COMMENTS:
+* This test is intended as an adjunct to other prognostic and predictive factors to aid clinical treatment decisions.
+* The cobas EGFR Mutation Test detects 41 common mutations in exons 18 to 21 of the EGFR gene, but may not specify the EGFR gene mutation detected (a list of EGFR mutations detected is available from our laboratory). Other mutations, either in the EGFR gene or in other genes, will not be detected by this analysis.
+* This test has been shown in our laboratory to detect at least 5% mutant EGFR alleles in a background of normal DNA. Therefore a negative result should be interpreted with caution, as it does not exclude the presence of low levels of a clinically significant EGFR mutation.
+* The analytical sensitivity and specificity of this test are 98.5% and 98.8%, respectively.  PCR inhibitors or rare mutations affecting the binding sites of PCR primers and/or probes used in this assay may cause a false negative result.
+* This test has been processed as a Level 1 genetic test according to the NPAAC guidelines (2007).
+* Only the testing performed by our laboratory is covered by NATA accreditation, not the referenced material used for clinical interpretation of this testing.
+SUPPLEMENTARY REPORT:  (13.8.63)
+
+The previous supplementary report included the text of another unrelated histology report.This seems to have been due to either a computer of clerical error.  The unrelated report has now been deleted.  The above report is the correct one.
+  
+

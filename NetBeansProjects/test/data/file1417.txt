@@ -1,0 +1,50 @@
+SPR no: 81J420983F
+MRN no: 8134209
+Site_name: BALMAIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  81J420983F
+8134209.WHF
+
+ERIKSEN, ROCCO
+Lab No:  81J42098
+Sandrock Hill
+BUSSELTON  ACT  5141
+Specimen: Tissue
+D.O.B:  14/8/2002
+Sex:  F
+Collected: 22/01/2015 at 16:10
+Location:  ONCOLOGY (GYNAE)-SURGICAL TREATMENT AND REHABILITATION SERVICE (STARS)
+DR HUGO LUCIUS KNIPE
+Distribution:    NSW-CANCER-REGISTRY
+
+ADDITIONAL REPORT:  (4.11.65)
+
+
+CLINICAL:
+Total thyroid for MNG/graves.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right thyroid&amp;quot;, consists of a distorted right hemithyroidectomy, 55 x 40 x 20mm.  There is a separate fragment of a solid tan nodule 12 x 10 x 10mm.  The specimen weighs 16g in total.  The tracheal margin is inked black and the non tracheal surface blue.  There is a partially encapsulated nodule 20 x 19 x 20mm.  Thespecimen is distorted making orientation difficult but the nodule appears to be in the superior pole.  The nodule has a tan cut surface with moderate calcification.
+Blocks: 1 to 3 &amp;#8211; calcified nodule; 4 &amp;#8211; mid pole; 5&amp;#8211; inferior pole; 6 &amp;#8211; separate nodule.  (TO: KT;KT/vo 25.3.65);  7 to 14 &amp;#8211; remainder of specimen embedded from superior end towards the inferior end.  (TO: KT; KT/rt 3.1.65)
+B.  Specimen labelled &amp;quot;Left thyroid&amp;quot;, consists of a left hemithyroidectomy 50 x 28 x 25mm, weighing 11g.  The tracheal margin is inked black and the non tracheal surface blue.  The cut surfaces show multiple tan nodules ranging from 3 to 5mm across.  Some of the nodules are moderately calcified.
+Blocks: 1 to 3 pole; 4 &amp;#8211; mid pole; 5 &amp;#8211; inferior pole.
+(TO: KT;KT/vo 25.3.65); 6 to 13 &amp;#8211; remainder of lobe embedded from superior end towards the inferior end.  (TO: KT; KT/rt 3.1.65)
+MICROSCOPIC (Reported by Dr V Gwalthney):
+A &amp;amp; B.  The specimen is entirely embedded and examined.  Sections of the right and left thyroid show thyroid gland with multinodular architecture.  The capsule of the 20mm nodule within the superior pole of the right hemithyroid is entirely embedded and examined.  The 20mm nodule shows a variably developed thin or thick capsule containing patchy dystrophic calcification, microfollicular architecture and some nuclear atypia including nuclear enlargement, small paracentral nucleoli, pallor and focal areas with nuclear grooves.  The features fall short of those of papillary carcinoma.  Focally there is full thickness invasion through the capsule in an area where the capsule is thick; no features to suggest recent fine needle aspiration biopsy is seen.  No cystic change to suggest the capsule is the result of prior rupture/repair.   Elsewhere there are a few separate nests within the capsule, some of which are closely opposed to blood vessels walls, although no vascular invasion is seen. The remainder of the thyroid shows a nodular architecture and moderate lymphocytic thyroiditis with patchy interstitial lymphoid infiltrate including reactivelymphoid follicles.  A small microfollicular patterned hyperplastic nodule with the left thyroid also show mild nuclear atypia with some pallor and nuclear grooves but the features fall well short of papillary carcinoma.  No Hurthle cell metaplasia is seen.  One right perithyroid lymph node shows reactive changes only.  No parathyroid glands are identified.  No isthmic nodule identified.
+COMMENT:
+The features favour a minimally invasive follicular carcinoma (capsule invasion only).    I do not think there is evidence of vascular invasion despite the close approximation of tumour cells to the walls of intracapsular vessels.  I will seek a second opinion from Prof V Schoenhard at PORT MACQUARIE BASE HOSPITAL Hospital and a supplementary report will be issued.
+
+DIAGNOSIS:
+A &amp;amp; B.  Right and left thyroid:
+-  Favour minimally invasive (capsule invasion only) follicular carcinoma in right superior (presumed) pole external review pending.
+-  Multinodular thyroid with lymphocytic thyroiditis.
+-  One negative perithyroid lymphnode (0/1).
+ADDITIONAL REPORT:  (4.11.65)
+Report from Pathology North, PRINCESS ALEXANDRA HOSPITAL Hospital:
+Reported by:  A/Prof V Vilcheck:
+MICROSCOPIC:
+I am very confident that the 20mm lesion from the right lobe represents well-differentiated carcinoma.  I do not think there is any vascular space invasion and therefore the onlyissue in my mind is whether this represents minimally invasive follicular carcinoma negative for vascular space invasion, or encapsulated follicular variant papillary carcinoma positive for capsular space invasion.
+In truth, the morphology is intermediate between these two carcinomas.  However, with this degree of atypia (albeit focal) in the presence of an invasive growth pattern, I would classify this as papillary carcinoma.  Because there is capsular invasion, the excellent prognosis associated with encapsulated follicular variant papillary carcinoma does not necessarily apply, but I would still expect this to have a good prognosis than (better than a classical papillary carcinoma of the same size of 20mm).
+SUMMARY:
+Thyroid:  Encapsulated follicular variant papillary carcinoma, 20mm.  Positive for capsular invasion.  Negative for vascular space invasion.
+The findings were discussed with Prof V Derito on 4.11.65

@@ -1,0 +1,104 @@
+SPR no: 24E437734P
+MRN no: 2414377
+Site_name: CARITAS CHRISTI HOSPICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT BELOW:
+24E43773,24E43773 (24E437734P) KROMM, Sang
+HISTOPATHOLOGY REPORT
+JOYCE PALMER HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Serous papillary endometrial Ca.
+- Uterus + cervix + tubes + ovaries + pelvic bilateral tubes + omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS + TUBES, OVARIES, CERVIX&amp;quot;. Consists of uterus, cervix, attached bilateral tubes and ovaries, weighing 64g all together. Right tube measures 50mm in length, 5mm in diameter. Paratubal cyst is present. Serosa is present. Serosa is smooth. Sectioning is unremarkable. Right ovary measures 30x10x5mm. Sectioning is unremarkable. Left tube measures 40mm in length, 5mm in diameter. Sectioning is unremarkable. Left ovary measures 15x15x7mm. Sectioning is unremarkable.
+Uterus measures 60x40x25mm. Serosa is smooth, grey. Anterior is inked blue, posterior is inked black. Specimen is received partially opened coronally. It is serially sliced sagittally. Anterior wall measures 11mm, posterior wall measures 13mm. There is a thickening of endometrium measuring 10x5mm with a thickness of 4mm in maximum dimension. No obvious myometrial invasion or extension of thickening area to the cervix identified.
+(1 right parametrium; 2 left parametrium; 3 right tube; 4 right ovary; 5 left tube; 6 left ovary; 7-10 one full face sagittal view [7 cervix; 8 lower segment; 9 uterine wall; 10 fundus]; 11-14 more sections of endometrium). FURTHER TISSUE: 15-16 - remainder of fallopian tubes and ovaries RS (M-16)
+B. &amp;quot;RIGHT PELVIC NODE&amp;quot;. Multiple fibrofatty tissues, measuring 40mm in aggregate. Two lymph nodes, 15mm each present.
+(1 one lymph node, sliced; 2 one lymph node, sliced; 3 ?lymph node). AE (M-3)
+C. &amp;quot;LEFT PELVIC NODE&amp;quot;. Multiple fatty tissues, 60mm. ?large lymph node fatty service, 30mm. Second fatty lymph node, 20mm.
+(1 and 2 ?one lymph node; 3 one lymph node, sliced; 4 ?lymph node). AE (M-4)
+D. &amp;quot;OMENTAL BIOPSY&amp;quot;. Consists of 40mm fatty tissue. No definite nodes identified. AE (M-1/SM 8/4/2068 cy)
+MICROSCOPIC: (Dr. H. Denley)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+TUMOR SITE: Fundus, Body, Isthmus/lower uterine segment
+
+HISTOLOGIC TYPE: Serous carcinoma - high grade
+
+HISTOLOGIC GRADE: FIGO grade 3
+
+MYOMETRIAL INVASION: Present
+Depth of invasion:  3mm
+Myometrial thickness:  9mm
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Present
+
+CERVICAL STROMAL INVOLVEMENT: Present - Carcinoma is seen at an estimated depth of 6mm in a cervical thickening of 10mm
+
+OTHER TISSUE/S:
+Right ovary - Unremarkable
+Left ovary - Unremarkable
+Right fallopian tube - Unremarkable
+Left fallopian tube - Unremarkable
+Parametrium - Unremarkable
+Omentum (Specimen D) - Unremarkable
+
+LYMPHOVASCULAR INVASION: Suspicious
+
+REGIONAL LYMPH NODES:
+Site: Specimen B ( Right Pelvic Node) and Specimen C (Left pelvic node)
+
+Number of lymph nodes involved: 1 (This is in Specimen C - left pelvic node and measures in excess of 2mm in length)
+Number of lymph nodes examined: 5 (Two nodes Specimen B, three nodes Specimen C)
+
+Extra-nodal spread: Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS: Adenomyosis
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. MLH-1, PMS-2, MSH-2 and MSH-6 each show positive (retained) nuclear staining. This is the normal (wild-type) pattern of staining.
+Other: There is strong positive staining for p-53, pax-8, p-16, and with 50-60% Ki-67. ER and PgR show weak (1+) staining in approximately 5%. WT-1 is negative.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): III C1
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a, pN1a
+
+DIAGNOSIS:
+A.  UTERUS, TUBES OVARIES, CERVIX -
+-HIGH GRADE SEROUS CARCINOMA OF ENDOMETRIUM.
+
+B.  RIGHT PELVIC NODE -
+-NEGATIVE FOR MALIGNANCY.
+
+C.  LEFT PELVIC NODE -
+-METASTATIC CARCINOMA.
+
+D.  OMENTUM -
+-NEGATIVE FOR MALIGNANCY.
+
+11/4/2070 ank
+
+SUPPLEMENTARY REPORT:
+HER-2 IN-SITU HYBRIDISATION
+Her-2 studies were performed at request of Dr WELDON Maheux. They have been scored and interpreted according to the criteria for Breast carncer reporting of HER-2.
+Block A13
+HER2 IHC Result: 3+ (positive)
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+Mean HER2 copy number per cell: 8.7
+Mean CEP17 copy number per cell: 3.65
+HER2/CEP17 Ratio: 2.38
+
+HER2 status:   POSITIVE
+
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122
+
+Reported by: Dr H Grumer
+Date: 7.6.2069

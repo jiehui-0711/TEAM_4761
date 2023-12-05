@@ -1,0 +1,35 @@
+SPR no: 85K671305T
+MRN no: 339877
+Site_name: WONGAN HILLS HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+ACIs cervix - previous cone biopsy.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, tubes and ovaries&amp;quot;, consists of a previously opened uterus with attached cervix, bilateral fallopian tubes and ovaries weighin 76g in total. The uterus measures 40 x 75 x 30mm and has a smooth, shiny serosal surface. The ectocervix measures 30 x 25mm and has an unremarkable surface.  On sectioning the endometrium is less than 1mm in maximal thickness and the myometrium is 15mm in maximum thickness. The myometrium is unremarkable.  The right fallopian tube measures 60mm in length and 8mm in maximum diameter. There are multiple parafimbrial cysts on the right fallopian tube ranging from 1mm to 4mm in maximum diameter. The right ovary measures 23 x 10 x 5mm and has an unremarkable cut surface. The left fallopian tube measures 65mm in length and 7mm in maximum diameter. There are multiple parafimbrial cysts on the left fallopian tube ranging from 1mm to 20mm. The left ovary measures 25 x 10 x 7mm, the cut surface shows an oval shaped, thin walled cyst measuring 8mm in maximum diameter, containing brown coloured thickened fluid material.
+Block 1-3 - full LS of anterior body and cervix; 4 and 5 - further RS of anterior cervix; 6-8 - full LS of posterior body and cervix; 9 and 10 - further RS of posterior cervix; 11 and 12 - right fallopian tube; 13 - right ovary; 14 and 15 - left fallopian tube; 16 - left ovary; 17 to 18 - composite sections of further representative sections of posterior cervix and body; 19 and 20 - composite sections of further representative sections of posterior body and cervix; 21 to 22 - composite sections of further representative sections of anterior body and cervix.  All endocervix is embedded.
+
+B.  Specimen labelled &amp;quot;Right pelvic wall bx&amp;quot;, consists of a piece of unoriented irregularly shaped tan/brown coloured tissue measuring 13 x 8 x 4mm. AE 1 block.
+
+C.  Specimen labelled &amp;quot;Left pelvic side wall&amp;quot;, consists of a piece of unoriented irregularly shaped tan/brown tissue measuring 15 x 10 x 8mm. BAE 1 block.   (TO:HW/ec 25/8/69)
+
+
+MICROSCOPIC (Reported by Dr V Azua):
+A.  The endocervix is entirely embedded.  The ectocervix and endocervix are unremarkable.  Focal scar tissue and old haemorrhage are present consistent with previous surgery.  No evidence of CIN or AIS is seen.
+
+The endometrium is essentially inactive.  No evidence of endometrial hyperplasia is seen.
+The myometrium shows focal adenomyosis.
+
+The left and right fallopian tubes are unremarkable. The cysts described grossly attached to the left fallopian tube are benign paratubal cysts.  No evidenece of in-situ carcinoma is seen.
+
+The right and left ovaries are unremarkable.
+
+B &amp;amp; C. Sections show fibroadipose and fibromuscular tissue containing foci of endometriosis. There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Uterus cervix , bilateral fallopian tubes and ovaries:
+-  No evidence of adenocarcinoma in-situ or invasion
+-  Adenomyosis.
+B &amp;amp; C.  Right and left pelvic side wall:
+-  Endometriosis.

@@ -1,0 +1,75 @@
+SPR no: 73V908741M
+MRN no: 7389087
+Site_name: CENTRAL GIPPSLAND HEALTH SERVICE (MAFFRA)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left breast cancer (B/G: BRCA 2).  Right mastectomy (suture axillary tail), left mastectomy (suture axillary tail), right mastectomy prophylactic.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left sentinel node&amp;#8221; consists of a lymph node, 28 x 15 x 8mm, with a small amount of attached fat.  Imprints made.  AE 2 blocks.
+IMPRINT CYTOLOGY:
+One negative lymph node imprint. Result to Dr Makarem (anaesthetic registrar) by Dr T Varriale/T Shuster on 28.06.16 at 1705.
+B.  Specimen labelled &amp;quot;Left breast stitch axilla&amp;quot; consists of a mastectomy with orienting sutures in situ weighing 600g.  The specimen measures 190mm (medial to lateral), 170mm (superior to inferior) and 90mm (from superficial to deep).  The overlying ellipse of skin has the apex cut out at the axillary end and measures 190 x 90mm.  The nipple measures 16mm in diameter and is situated 60mm from the medial skin edge and 40mm from the inferior skin edge.  The skin surface and nipple are unremarkable.  The superior and inferior margins are inked blue and the deep margin is inked black.  There is a pale grey, firm tumour located approximately 40mm from the nipple in the 3 o&amp;apos;clock position.  The tumour measures approximately 17 x 20 x 15mm.  The tumour is 45mm from the superficial margin, 60mm from the deep margin and 45mm from the inferior margin.  The tumour is 30mm deep to the skin.
+Blocks:  1 to 3 - complete identified tumour; 4 - superior margin; 5 - inferior margin; 6 - deep margin; 7 - nipple; 8 - tissue directly medial to tumour; 9 - tissue directly lateral to tumour; 10 &amp;amp; 11 - representative fibrous tissue adjacent to tumour, extending to superior margin; 12 &amp;amp; 13 - upper inner quadrant; 14 &amp;amp; 15 - lower inner quadrant; 16 &amp;amp; 17 - upper outer quadrant; 18 &amp;amp; 19 - lower outer quadrant.
+C.  Specimen labelled &amp;quot;Right breast axillary tail stitch&amp;quot; consists of a mastectomy weighing 720g with orienting suture in situ.  The specimen measures 250mm medial to lateral, 140mm superior to inferior and 65mm superficial to deep.  The overlying ellipse of skin has the lateral apex cut out and measures 210 x 95mm.  The nipple measures 18mm in diameter and is situated 45mm from the medial skin edge and 25mm from the inferior skin edge.  The nipple and skin surface are unremarkable.  On thin sectioning no discrete lesions are identified.
+Blocks:  1 to 3 - representative upper inner quadrant; 4 to 6 - representative lower inner quadrant; 7 to 9 - upper outer quadrant; 10 to 12 - lower outer quadrant; 13 - nipple; 14 - tissue deep to nipple.  (JB/ua 8.2.66).
+
+MICROSCOPIC (Reported by Dr T Castricone):
+A - C.  Sections show invasive ductal carcinoma of the left breast.  The right breast shows a very occasional focus of lobular carcinoma in situ (LCIS) only.  The features are as follows:
+
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma
+Invasive tumour size:  10mm
+Grade (Modified Bloom &amp;amp; Richardson):  3
+Tubules: 3  Nuclei: 2  Mitoses: 3   Mitotic rate: 20/10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  4mm
+Nuclear grade:  Intermediate
+Architecture:  Solid
+Necrosis:  Absent
+Calcification:  Absent
+Degree of DCIS in tumour:  Nil
+DCIS in adjacent tissue:  Small amount
+
+Excision Margins:
+Invasive component:  Well clear of all margins
+In-situ component:  Well clear of all margins
+
+Receptors (Block B1):
+ER:  	Positive
+100% of nuclei stained
+predominant intensity of staining:  Strong
+PR:  	Positive
+50% of nuclei stained
+predominant intensity of staining:  Moderate to strong
+HER2 (Novocastra 10A7):  Equivocal (Score 2+)
+HER2 SISH:  Performed at PARKES8, THE QUEEN ELIZABETH CENTRE Hospital, see separate report.
+Ki-67 index:  Approximately 40%
+
+Nipple:  No significant abnormality.
+
+LCIS / ALH:  Present within both breasts.
+
+Miscellaneous:  The right breast (specimen C) shows a very occasional focus of LCIS only.  No invasive malignancy is seen.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  1
+Number of sentinel nodes with metastases &amp;gt;2.0mm:  0
+Number of sentinel nodes with metastases &amp;lt;2.0mm:  0
+Number of sentinel nodes with isolated tumour cells &amp;lt;0.2mm:  1
+Detected by: Immunohistochemistry and routine stains.
+Extranodal spread:  Absent
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)):  1

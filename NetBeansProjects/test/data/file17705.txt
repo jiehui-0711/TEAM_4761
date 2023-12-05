@@ -1,0 +1,56 @@
+SPR no: 11B500201K
+MRN no: 11050020
+Site_name: THE KILMORE AND DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***** SUPPLEMENTARY REPORT &amp;#8211; SEE BELOW *****
+CLINICAL:
+Liver resection segment 6-7 ?haemangioma.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;6/7 liver resection&amp;quot;, consists of a segment 6/7 of liver, measuring 120 x 80 x 65mm which weighs 210g.  There is no orientating mark and the specimen is orientated based on gross anatomy.  The capsule in the middle of the specimen appears congested and there is a haemorrhagic area measuring 70 x 40 x 35mm which includes a ragged haemorrhagic defect.   The resection margin is inked blue and the black ink is added to the areas post removal of stapled line - 1 to 2mm in thickness.  The bare surface of liver capsule is inked red.
+On sectioning an ill defined haemorrhagic lesion noted underlying the defect, extending from segment 6 to 7, measuring 75 x 55 x 52mm.  The haemorrhagic area includes scattered firm white areas, 1-20 mm across.  The haemorrhagic area appears to extend to the inked resection margin.  The rest of liver show slight nodular pattern but is unremarkable. Photos taken.
+
+Blocks: 1 to 9 - RS haemorrhagic lesion including RS white areas embedded from superior to inferior (blocks 1 - lesion adjacent to capsule; 2 - lesion with white areas and adjacent normal liver; 3 to 5 - lesion extending towards the inked margin; 6 - lesion and overlying ragged capsule; 7 - middle of lesion; 8 &amp;amp; 9 - lesion and overlying intact capsule); 10 - RS normal appearing liver from segment 6.  RS 10 blocks.   (TO:LN; LN/ta 14/2/66)
+
+
+MICROSCOPIC (Reported by A/Prof D Poole and registrar Dr D Cumbo):
+Sections of liver show a highly vascular tumour composed of sheets and nests of pleomorphic, predominantly epithelioid cells with abundant clear-to-eosinophilic cytoplasm, vesicular chromatin, and prominent cherry-red nucleoli.
+The tumour is relatively well-circumscribed at low power but has a focally infiltrative margin at higher magnification with microscopic deposits seen in the adjacent liver.
+
+There are areas of mature adipose tissue deposition within the tumour.  Many of the tumoural vessels are tortuous and thick-walled.  There are abundant areas of haemorrhage, some with associated fibrin, cholesterol clefts, and foamy histiocytes.  Multinucleated tumour giant cells are not identified.  There is no tumour necrosis.  Mitoses are rare, with less than 1 per 50 hpf; a Ki67 stain is pending.
+No lymphovascular or perineural invasion is identified.
+
+The tumour shows myo-melanocytic differentiation and is positive for HMB45 (strong and diffuse), melanA (strong and diffuse), SMA (strong and diffuse), vimentin (strong and diffuse), S100 (weak and patchy), and desmin (weak and patchy).  Hepar-1, PAX8, CD10, and CK7 are negative.  Inhibin, c-kit, AE1/3, and Ki67 are pending.
+These features are most consistent with a perivascular epithelioid cell tumour (PEComa).
+
+The tumour appears to focally breach the liver capsule, and is 2mm from the surgical resection margin.  The adjacent liver parenchyma shows no significant pathology.
+
+Comment:
+Several members of the PEComa family of tumours are well described, including (epithelioid) angiomyolipoma (AML).  Biological behaviour is difficult to predict based purely on histological features but some authors regard high risk indicators to include size greater than 5cm, infiltrative pattern, high nuclear grade, high cellularity, mitoses greater than 1 per 50hpf, necrosis, and vascular invasion, with two or more of these features prompting a malignant classification. (Ref:  &amp;#8220;Malignant&amp;#8221; Perivascular Epithelioid Cell Neoplasm: Risk Stratification and Treatment Strategies Jonathan S. Bleeker, J. Fernando Quevedo, and Andrew L. Folpe. Sarcoma.  Volume 2012, Article ID 541626, 12 pages doi:10.1155/2012/541626)
+
+According to the WHO Classification of Tumours of the Digestive System (4th Edition, Lyon 2010) angiomyolipoma of the liver is generally considered to be a benign tumour, but as outline above, the WHO also recognises necrosis, marked atypia and high proliferation activity as potentially ominous features.
+
+The current tumour is greater than 5cm, but only focally infiltrative, and lacks convincing high grade atypia, necrosis or significant mitotic activity. A PEComa of uncertain biological potential is favoured.  The possibility of whether this tumour represents a primary hepatic or a secondary PEComa may also be considered.
+
+A provisional result was discussed with Dr D Breakey by A/Prof D Poinsett.
+
+Additional markers are in progress.
+
+
+DIAGNOSIS:
+Liver resection segments 6 and 7:  Epithelioid angiomyolipoma/PEComa (see comment).
+
+SUPPLEMENTARY REPORT (A/Prof D Schoeppner) 6/3/67:
+Additional immunohistochemistical markers were performed on this case:
+
+The CD117 (c-kit) stain is predominantly negative. There are very occasional cells which show positive staining, possibly representing background mast cells, but the tumour cells are overall negative.
+
+AE1/AE3 keratin and Inhibin are negative.
+
+Ki67 shows low expression, approximately 2%. There are areas of higher expression (up to 5%) at the edge of the tumour; some of this staining may be in inflammatory and stromal cells at the interface with liver parenchyma.
+
+Comment: Loss of CD117 staining is thought to be one indicator of malignant potential; benign angiomyolipomas are generally CD117 positive and loss of staining is consistent with more concerning malignant potential.
+
+Dr D Pierre has also seen this case and would agree with the diagnosis of PEComa with uncertain malignant potential. I have referred the case to WEST WIMMERA HEALTH SERVICE - KANIVA Hospital for further opinion.

@@ -1,0 +1,14 @@
+ 577344.AOC
+Verrell, YONG
+57S34405
+
+Last edited : 26/5/2064		Page: 2
+CLINICAL:
+Meningioma.  
+MACROSCOPIC:
+Specimen labelled "Brain tumour" consists of several pieces of soft tan tissue measuring in aggregate 5 x 5 x 3mm.  AE 1 block.  (TO: BU  TL/mm 22.5.64)
+MICROSCOPIC (Reported by Dr P Rodan):
+Sections show fragments of a meningioma which has a chordoma-like pattern with prominent mucus in the background.  This appearance is consistent with a chordoid meningioma, WHO grade 2.  In two of the biopsies the appearance is more meningothelial. The Ki67 is about 1%.  
+DIAGNOSIS:
+Chordoid meningioma, WHO grade 2.  
+

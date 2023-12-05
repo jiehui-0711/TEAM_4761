@@ -1,0 +1,49 @@
+Episode No:  00R662996X
+0066629.YRX
+
+ZINGER, IRA Eric MATHEW 
+Lab No:  00R66299
+Elkins
+CHARLEVILLE  Northern Territory  2832
+Specimen: Tissue
+D.O.B:  5/12/1991
+Sex:  F
+Collected: 07/01/2065 at 10:10
+Location:  PERI-OPERATIVE UNIT-OAKEY HOSPITAL
+DR Evelyn Myrtie RUDESILL
+Distribution:  
+SUPPLEMENTARY REPORT (25.1.65):
+
+
+CLINICAL:
+Motor cortex lesion brain.  Presenting with left hand weakness.  Primary brain tumour on right precentral gyrus.  Posterior frontal tumour.
+MACROSCOPIC:
+A.  Specimen labelled "Posterior frontal tumour", consists of a piece of soft tan - cream tissue measuring 4mm and several fragments less than 1mm each.  1mm piece divided for smear.  Remainder for frozen section. AE
+Blocks: 1 - frozen section deblocked.
+
+FROZEN SECTION REPORT:
+High grade glioma.
+Phone results to Neurosurge Registrar by Dr C Dipaolo, Dr C Schaffert and Dr C Dumond 
+At 10:50am on 07.01.65
+B.  Specimen labelled "Posterior frontal tumour", consists of multiple fragments of cream haemorrhagic tissue measuring in aggregate 15 x 10x 3mm.  Specimen AE 1 block.   (TO: QM;CJ/vo 8.1.65) 
+MICROSCOPIC (Reported by Dr C Bibbins):
+A & B.  Sections show pieces of tumour tissue and a small fragment of uninvolved cerebral cortex.  The tumour is cellular, consisting of cells with large, hyperchromatic oval or spindle shaped nuclei and eosinophilic cytoplasm with poorly defined cell borders.  There is prominent palisaded tumour necrosis.  Some thrombosed vessels are noted.  No definite microvascular proliferation is seen.  There are a few scattered mitoses, up to 3 per 10 high power fields.  The features are of a glioblastoma (WHO grade 4).  
+Immunostains: 
+GFAP: Patchy positive.
+IDH1:  Negative.
+p53:  Scattered positive cells.  
+Ki-67:  Variable proliferation index, up to 40%.  
+Molecular tests:  
+Tissue will be sent to the YOUNG DISTRICT HOSPITAL Centre for MGMT testing.  A supplementary report will be issued.  
+Block for potential treatment trial (if required):  
+Viable tumour with less procedural artefact is best seen in block B1.  
+DIAGNOSIS:  
+Posterior right frontal tumour:  Glioblastoma (WHO grade 4).  
+SUPPLEMENTARY REPORT (25.1.65):
+Tissue was sent to the ONSLOW HEALTH SERVICE Centre for MGMT testing.
+DNA was extracted from paraffin tissue.  The DNA was bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation.
+The sample was tested twice with the appropriate controls and was found to be unmethylated (2.5%) at the MGMT promoter region.
+Reported by Dr C Dishaw.
+Please note that this test was performed in a research laboratory which is not NATA accredited.
+   
+

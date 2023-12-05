@@ -1,0 +1,20 @@
+SPR no: 55H340326E
+MRN no: 5523403
+Site_name: CONCORD REPATRIATION HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post neoadjuvant chemotherapy for ovarian cancer, post hysterectomy.  Previous hysterectomy.
+Additional information from OMNI:  Hysterectomy performed in 2055 for menorrhagia with diagnosis of fibroid.  No other previous biopsy on our system.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and right ovary&amp;quot;, consists of a fallopian tube adherent to an ovary forming a mass measuring 48 x 28 x 16mm.  The fimbrial end is identified.  No definitive mass lesions are seen on sectioning.
+Blocks: 1 - fimbrial end LS; 2 to 8 - all of tube and ovary serially sliced.
+B.  Specimen labelled &amp;quot;Left tube and left ovary&amp;quot;, consists of an irregular mass of tissue 48 x 37 x 33mm.  The outer surface is lobulated haemorrhagic with evidence of fat necrosis.  There is no definitive fallopian tube or fimbriae identified.  The cut surface has a heterogenous partially cystic and necrotic appearance.  Serially sliced.  AE 10 blocks.
+C.  Specimen labelled &amp;quot;Infracolic omentum&amp;quot;, consists of a piece of omental fat 300 x 85 x 10mm.  No nodes or masses are seen.  RS in 3 blocks.
+D.  Specimen labelled &amp;quot;Left paracolic gutter biopsy&amp;quot;, consists of a piece of fibrofatty tissue 14 x 8 x 7mm.  BAE 1 block.  (TO:AP/vo 30/10/66)
+MICROSCOPIC (Reported by Dr P Alim):
+A.  Sections show changes consistent with chemotherapy involving the paradnexal soft tissues, surface of the ovary and fimbrial end of the tube.  No residual malignant cells are seen.
+B.  Sections show changes consistent with chemotherapy together with scattered single malignant cells involving the tube and ovary.  The malignant cells show chemotherapy changes, and are consistent with chemotherapy effected high grade serous carcinoma.
+C &amp;amp; D.  Sections show no chemotherapy effect or malignancy.
+DIAGNOSIS:
+Chemotherapy effected high grade serous carcinoma of the left ovary and tube.  Changes suggesting previous involvement of the right ovarian surface, right fimbriae and right paradnexal soft tissues.  The omentum appears uninvolved.

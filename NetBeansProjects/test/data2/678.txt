@@ -1,0 +1,60 @@
+Episode No:  12K512535S
+123512.PIO
+
+THOMURE, SHAWN Bradford 
+Lab No:  12K51253
+Gunsight Fire
+CAMPERDOWN  South Australia  4873
+Specimen: Tissue
+D.O.B:  28/2/1992
+Sex:  F
+Collected: 28/01/2014 at 19:48
+Location:  PARKES 4 EAST - ROYAL PRINCE ALFRED HOSPITAL
+DR GERRY Lupe SPUCK
+Distribution:  DR Weston,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast Ca with axillary mets.  Left breast and axillary nodes (level 1 & 2 in continuity).  Level 3 nodes.  Interpectoral nodes.  
+MACROSCOPIC:
+A.  Specimen labelled "Left breast + axillary clearence" consists of a specimen of breast measuring 280 x 170 x 16mmand axillary fatty tissue (irregular in shape) measuring 130 x 95 x 25mm.  The overlying skin measures 270 x 125mm bearing a prominent nipple 12mm in maximum dimension.  The superficial margin is inked blue and the deep margin inked black.18mm deep to the nipple and extending towards 12 to 3 o'clock there is a pale indurated solid tumour measuring 57 x 45 x 40mm.  The tumour is 25mm from deep, 55mm from inferior, 65mm from superior, 55mm from medial and 130mm from lateral margins.  The remainder of the breast is predominately fatty.  There are several indurated lymph nodes within the axillarytissue, the largest being 27mm in maximum dimension. 
+Blocks: 1 - section of tumour (ER, PR, HER2, Ki-67); 2 - section of tumour (reserve block); 3 & 4 - (paired sections) tumour and closest deep margin (deep margin block 3); 5 - section of tumour; 6 & 7 - (paired sections) nipple and tumour deep to nipple; 8 & 9 - random sections upper inner quadrant; 10 & 11 - random sections lower inner quadrant; 12 & 13 - random sections lower outer quadrant; 14 & 15 - random sections upper outer quadrant; 16 - representative largest lymph node; 17 - representative one lymph node; 18 - representative two lymph nodes; 19 - representative one lymph node; 20 - representativethree lymph nodes.  
+  
+B.  Specimen labelled "Level 3 left axillary" consists of a piece of fatty tissue measuring 25 x 20 x 7mm.  Up to five lymph nodes are identified the largest being 8mm in maximum dimension.  
+Blocks: 1 - lymph nodes as seen. 
+C.  Specimen labelled "Left intrapectoral tissue" consists of a piece of fatty tissue measuring 30 x 24 x 5mm.  Specimen is sliced.  No lymph nodes are identified.  
+Blocks: 1 & 2 - AE.    (KR/ta 1/3/64) 
+   
+MICROSCOPIC (Reportedby Dr E Worek): 
+A and B.
+Invasive carcinoma:
+Site:  Left breast
+Type: Invasive pleomorphic lobular carcinoma
+Invasive tumour size: 57mm
+Grade:    3   (Modified Bloom & Richardson)       
+Tubules: 3  Nuclei: 3  Mitoses: 3   Mitotic rate: 18/10hpf.
+Lymphovascular invasion:   present - extensive
+	    
+DCIS component:  absent
+Excision Margins:  
+Invasive component: > 10mm all margins
+Receptors: 
+ER:   negative (internal and external controls show satisfactory staining)
+	0% of nuclei stained
+PR:   negative (internal and external controls show satisfactorystaining)
+	0% of nuclei stained
+	
+HER2 (Novocastra 10A7):  2+
+Ki67 index:  30%
+Nipple:  No evidence of Paget's disease
+LCIS / ALH:   Absent
+Axillary nodes:
+No. of axillary lymph nodes examined:  13 (4 x level 1, 4 x level 2, 5 x level 3)
+	
+No.  of axillary nodes involved by tumour: 13 (up to 27mm in size)
+Extranodal spread:  present in 4 lymph nodes (from all 3 levels, up to 2mm in extent)  
+C. Sections show fat with no evidence of malignancy.
+DIAGNOSIS:
+A and B. Left breast and axillary lymph nodes:
+- 57mm invasive pleomorphic lobular carcinoma, grade 3, ER negative, PR negative, HER2 2+, SISH HER2 to follow, Ki67 index 30%, >10mm all margins, multifocal lymphovascular invasion
+- Metastatic carcinoma up to 27mm in size in 13 out of 13 lymph nodes, extranodal spread present
+C.  Left intra pectoral tissue: no evidence of malignancy
+

@@ -1,0 +1,65 @@
+SPR no: 15U735212M
+MRN no: 158735
+Site_name: YARRAM & DISTRICT HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report15U73521 (15U735212M) LEITHOFF, FELIPE
+
+MSI SUPPLEMENTARY REPORT
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Ca ovary, pouch of Douglas, ileum, omentum, uterus, tubes, ovaries, liver biopsy for histology.
+
+MACROSCOPIC:
+A.  &amp;quot;POUCH OF DOUGLAS&amp;quot;.  Multiple pieces of peritoneal tissue, 70x60x20mm in aggregate.  All of the pieces shows polypoid cream, haemorrhagic tumour adherent to the surface, largest measuring 60x20x15mm.
+
+(1-3  from the largest piece; 4&amp;amp;5  representative sections from the smaller pieces).  RS (M-5).
+
+B.  &amp;quot;ILEUM&amp;quot;.  An unoriented piece of small bowel 110mm in length, 30mm in diameter with mesentery 60x25x25mm.  The serosa is rough, nodular and haemorrhagic over two areas measuring 45x30mm and 30x15mm.  Multiple smaller dome-shaped nodules are also seen ranging from 1 to 3mm.  The roughened serosa is 15mm to the neared stapled resection margin.  No lesions seen within the mesentery.
+
+(1  tumour to stapled margin; 2  opposite stapled margin; 3  vascular pedicle shave with one bisected apical node; 4  smaller dome-shaped deposits; 5  second largest serosal deposit; 6&amp;amp;7  largest serosal deposit, tumour banking in block 7).  RS (M-7).
+
+C.  &amp;quot;OMENTUM&amp;quot;.  Multiple pieces of omental fat, 130x100x20mm in aggregate.  All other pieces show nodular deposits of tumour, largest measuring 90x50x20mm.  Cut surface of the tumour is pale cream.
+
+(1&amp;amp;2  samples from the largest deposit; 3&amp;amp;4  smaller deposits, tumour bank block in 4).  RS (M-4).
+
+D.  &amp;quot;UTERUS, BILATERAL TUBES AND BILATERAL OVARIES&amp;quot;.  An uterus with attached cervix and bilateral adnexae weighing 81.6g.  The uterus measures 60mm superior to inferior, 40mm cornu to cornu, 30mm anterior to posterior.  The cervix measures 40x30x10mm with a centrally placed os 3mm, the ectocervix is smooth and unremarkable in appearance.  The serosa of the uterus is rough and covered in polypoid friable tumour both anterior and posteriorly. The smaller polypoid exophytic tumour attached to the anterior wall measures 35x20mm.  The larger roughened area measuring 50x30mm  is situated is left posterior and is continuous with the left ovary, 22x15x10mm. The left fallopian tube with fimbrial end measures 50mm in length and up to 6mm in diameter. The left fimbrial end appears to be covered in friable polypoid tumour 25x10x10mm.  The right tube with fimbrial end measures 50mm in length, 5mm in diameter.  The serosa of the right tube is unremarkable in appearance.  The right ovary which measures 30x13x6mm has a smooth serosal surface with no macroscopically identifiable lesions.  The anterior surface inked blue, posterior surface black.  The uterus when sliced open shows an endometrial cavity 40mm in length and endometrial lining is flat, 1mm in thickness.  The anterior wall is 10mm thick.  The posterior wall 15mm thick.  No lesions are seen within the myometrium.
+
+(1-6  is one central slice [1&amp;amp;2  cervix, 3&amp;amp;4  lower uterine segment, 5&amp;amp;6  body and fundus]; 7  right cornu; 8-10  right ovary all embedded; 11-13  right tube; 14&amp;amp;15  ovarian mass attached to left cornu; 16-20  left ovary; 21-23  left tube).  RS (M-23).  Tumour banking block is in 15.
+
+E.  &amp;quot;LIVER BIOPSY&amp;quot;.  A piece of pale cream tissue with cauterized surfaces 9x7x5mm.  AE (1-1/JC/km).
+
+MICROSCOPIC:   (Dr. D Orce)
+A.  Sections show fibroadipose tissue in which there is an infiltrating poorly-differentiated adenocarcinoma with features of high grade papillary serous carcinoma.  Focal psammomatous calcification is identified.  There is lymphovascular involvement.  Focally within some tumour cells, eosinophilic globules are noted.
+B.  Sections show small bowel.  On the serosal surface, metastatic deposition of high grade serous carcinoma is identified.  There is lymphatic permeation.  The mucosal surface appears unremarkable.  The resection margins appear clear of the carcinoma.  Tumour deposits are also present within the small bowel mesentery.  One lymph node is identified showing no evidence of metastatic tumour.
+C.  Sections show fibroadipose tissue in which there are large deposits of high grade papillary serous adenocarcinoma.
+D.  Sections of cervix show occasional Nabothian cysts.  The endometrium is inactive with cystic dilatation.  On the serosal surface, there is deposition of high grade serous carcinoma in the lower uterine segment, body and fundus.  An endometrial polyp is identified.  There is extensive lymphatic permeation.
+The right ovary shows serosal deposits of high grade serous carcinoma.  The right fallopian tube appears unremarkable.
+The left ovary is essentially replaced by high grade papillary serous carcinoma.  Psammomatous calcification is identified.  The tumour extends to involve the left cornu.  Multiple foci of lymphatic permeation are identified.  There is also extensive involvement of the left fallopian tube and paratubal soft tissue.
+E.  Sections show liver tissue in which there is a nodular lesion comprising numerous blood vessels with hyalinized wall, favouring sclerosing haemangioma.  No evidence of metastatic tumour.
+DIAGNOSIS:
+A.  POUCH OF DOUGLAS -
+- HIGH GRADE PAPILLARY SEROUS ADENOCARCINOMA.
+
+B.  ILEUM -
+- METASTATIC SEROUS CARCINOMA.
+
+C.  OMENTUM -
+- HIGH GRADE SEROUS CARCINOMA.
+
+D.  UTERUS, BILATERAL TUBES AND BILATERAL OVARIES -
+- HIGH GRADE SEROUS CARCINOMA INVOLVING UTERINE SEROSA, RIGHT OVARIAN SURFACE, LEFT OVARY AND FALLOPIAN TUBE AND LEFT CORNU.
+
+E.  LIVER BIOPSY -
+- FAVOUR HAEMANGIOMA.
+
+14/6/2067 km
+
+MSI SUPPLEMENTARY REPORT
+Block D6
+MLH1:   positive
+PMS2:   positive
+MSH2:   positive
+MSH6:   positive

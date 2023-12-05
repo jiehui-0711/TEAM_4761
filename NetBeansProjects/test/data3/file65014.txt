@@ -1,0 +1,111 @@
+SPR no: 56I0067000
+MRN no: 563006
+Site_name: OAKEY HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report56I00670,56I00670 (56I0067000) HONGO, LENNA
+HISTOPATHOLOGY REPORT
+MONASH HEALTH COMMUNITY HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+G1 endometrial ca.
+
+1. Peritoneal washings for cyto.
+2. Uterus, tubes and ovaries.
+3. Right pelvic node.
+4. Left pelvic node.
+5. Omentum bx.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS WITH BILATERAL TUBES AND OVARIES&amp;quot;. Consists of tubes attached to cervix and bilateral tubes and ovaries weighing 130g. Right tube measures 40mm in length, 5mm in diameter. Paratubal cyst present. Sectioning unremarkable. Right ovary measures 20x15x10mm. Left tube measures 40x40mm in length, 5mm in diameter. Sectioning is unremarkable. Left ovary measures 20x20x15mm.
+
+Uterus measures 80x45x40mm received partially opened. Anterior wall measures 20, posterior wall measures 22mm.
+Some irregular polypoid foci over the endometrium present approximately 5mm maximum thickness. No discrete invading lesion identified.
+There is a large intramural circumscribed lobulated whorled lesion measuring 45x40x35mm. There is a separate intramural white whorled nodule 15mm. There is a circumscribed white lesion in the posterior cervix 15mm.
+
+(1  right parametrium; 2  left parametrium; 3  right tube; 4  right ovary; 5  left tube; 6  left ovary; 7-17  full face of sagittal view including [7  anterior cervix, 12  posterior cervix]; 18-23  more section of endometrium; 24  another section of endometrium; 25&amp;amp;26  leiomyoma). Representative sections. (M-26).
+
+B. &amp;quot;RIGHT PELVIC NODE&amp;quot;. Multiple fibrofatty tissue including lymph node 10mm, sliced.
+
+(1  one lymph node; 2  ?lymph node). All embedded. (M-2).
+
+C. &amp;quot;LEFT PELVIC NODE&amp;quot;. Multiple fibrofatty tissue measuring 20mm, possibly 5mm lymph node.
+
+(1  ?lymph node; 2  rest of tissue).  All embedded. (M-2).
+
+D. &amp;quot;OMENTAL BX&amp;quot;. A fibrofatty tissue consistent with omental biopsy, sliced. All embedded block 1 to 3. All embedded. (M-3/SM 25/4/2069 km).
+
+MICROSCOPIC:  (Dr. N. Omelia)
+A. Sections show non-myoinvasive FIGO grade 1 endometrioid adenocarcinoma of the endometrium. See synoptic report.
+The sections also include several benign leiomyomas. Sections of bilateral ovaries, fallopian tubes and bilateral parametrium are unremarkable. Sections of the cervix are unremarkable.
+
+B. Sections show three benign lymph nodes.
+
+C. Sections show two benign lymph nodes.
+
+D. Representative sections of the omentum show no specific pathology. There is no evidence of malignancy.
+
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Radical hysterectomy
+
+TUMOR SITE: Fundus, Body
+
+TUMOR SIZE:  10mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 1
+
+MYOMETRIAL INVASION: Not identified
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Not identified
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not identified
+
+LYMPHOVASCULAR INVASION: Not identified
+
+REGIONAL LYMPH NODES: Not involved
+Site: Pelvic nodes
+Number of lymph nodes involved: 0
+Number of lymph nodes examined: 5
+
+DISTANT METASTASES (histologically confirmed): Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Atypical hyperplasia/endometrial intraepithelial neoplasia (EIN).
+Leiomyoma x 2
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. Block A22
+MLH1: Intact (retained)
+PMS2: Intact (retained)
+MSH2: Intact (retained)
+MSH6: Intact (retained)
+
+Comment: Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a, pN0
+
+COMMENT(S):
+
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES
+- FIGO GRADE 1 FIGO STAGE 1A ENDOMETRIOID ADENOCARCINOMA OF THE ENDOMETRIUM
+- UNREMARKABLE CERVIX
+- LEIOMYOMAS
+
+B. RIGHT PELVIC LYMPH NODES - THREE BENIGN LYMPH NODES (0/3)
+
+C. LEFT PELVIC LYMPH NODES - TWO BENIGN LYMPH NODES (0/2)
+
+D. OMENTUM BIOPSY - NO EVIDENCE OF MALIGNANCY
+
+21/4/2071 ld

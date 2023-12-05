@@ -1,0 +1,116 @@
+SPR no: 18K328837O
+MRN no: 370784
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT 26/3/68
+
+18H14252,18N02089 (18K328837O) BOLVIN, ROOSEVELT
+
+HISTOPATHOLOGY REPORT
+GOULBURN VALLEY HEALTH - TATURA CAMPUS AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+G2 endometrioid adenoca.  Uterus.
+1. Peritoneal washings - cyto.
+2. Uterus, tubes and ovaries.
+3. Right pelvic sentinel node.s
+4. Left pelvic sentinel nodes.
+5. Omental biopsy.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. Consists of uterus, cervix attached tubes and ovaries weighing 154g together.
+
+Right tube measures 70mm in length 5mm diameter. Serosa is smooth and grey.  Paratubal cyst present otherwise sectioning is unremarkable.  Right ovary measures 30x15x10mm.  Outer surface is lobulated and yellow and sectioning is unremarkable.
+
+Left tube measures 60mm in length 7mm diameter. Serosa is smooth and grey.  Sectioning is unremarkable.  Left ovary measures 22x15x10mm.  Outer surface is grey lobulated sectioning is unremarkable.
+
+Uterus measures 95x70x40mm.  Received open coronally.  Anterior wall measures 24mm and posterior wall 25mm.  There is a fairly ill defined creamy lesion from fundus to lower segment involving mostly anterior aspect of the specimen measuring 35mm approximately, with the depth of 12mm.  No obvious extension to the cervix present.
+
+(1 right parametrium; 2 left parametrium; 3 right tube; 4 right ovary;  5 left tube; 6 left ovary; 7-9 one full face anterior uterus; 10-13 more section of the tumour, endometrium of anterior portion; 14-17 one full face of posterior portion; 18 more section from the ? tumour of posterior).  RS (M-18)
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. Two fibrofatty pieces of tissue 6 and 5mm plus two lymph nodes.  AE (2-1)
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Consists of a lymph node 20mm, serially sliced.  AE (M-1)
+
+D.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  Fibrofatty tissue 30x20x5mm.  No obvious nodule identified.  AE (M-1/SM 25/3/2068 ank)
+
+MICROSCOPIC:  (Dr V Tartaglia)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+Specimens A, B, C and D
+
+PROCEDURE: Total hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE: Fundus and body
+
+TUMOR SIZE: 35 mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid carcinoma, NOS
+
+HISTOLOGIC GRADE: FIGO grade 2
+
+MYOMETRIAL INVASION: Present
+Depth of invasion: 10 mm
+Myometrial thickness: 20 mm
+Percentage depth of myometrial invasion: 50 %
+
+UTERINE SEROSA INVOLVEMENT: Not identified
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Present
+
+CERVICAL STROMAL INVOLVEMENT: Not identified
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not identified
+
+MARGINS: Negative
+
+LYMPHOVASCULAR INVASION: Present, substantial (&amp;gt; 5 vascular spaces)
+
+REGIONAL LYMPH NODES: Involved by isolated tumour cells
+Site: Pelvic nodes
+
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 1
+Number of sentinel lymph nodes examined: 3
+
+Extra-nodal spread:  Not identified
+
+DISTANT METASTASES (histologically confirmed): Not identified
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Atypical hyperplasia of the endometrium
+Adenomyosis
+Endometriosis of the left parametrium
+Unremarkable omentum, bilateral ovaries and fallopian tubes
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains to follow
+
+OTHER SPECIMENS: Right and left pelvic lymph nodes, omentum
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1B
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1b, pN0(i+)sn
+
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES
+- FIGO GRADE 2 ENDOMETRIOID ADENOCARCINOMA INVADING ONE HALF OF THE MYOMETRIUM
+
+B. RIGHT PELVIC SENTINEL LYMPH NODE - ONE OF TWO LYMPH NODES INVOLVED BY ISOLATED TUMOUR CELLS
+
+C. LEFT PELVIC SENTINEL LYMPH NODE - ONE BENIGN LYMPH NODE
+
+D. OMENTUM BIOPSY - NO EVIDENCE OF MALIGNANCY
+
+22/2/67 ld
+
+SUPPLEMENTARY REPORT 23/2/67
+Immunostains for MSI proteins (105 HAMRUN CIRCUIT BRIDGETOWN HOSPITAL; block: A8)
+MLH1: Negative (lost)
+PMS2: Negative (lost)
+MSH2: Positive (intact)
+MSH6: Positive (intact)
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+24/12/68 ld

@@ -1,0 +1,22 @@
+SPR no: 26T516655W
+MRN no: 26751665
+Site_name: THOMAS EMBLING HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Raised inhibin, 2cm ovarian mass.  ?Granulosa cell tumour.
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Left tube and ovary&amp;#8221; consists of a pink tissue partially opened measuring 25 x 20 x 10mm.  The cut surface shows circumscribed bright yellow nodule measuring 16 x 17 x 20mm.  There is probable fallopian tube measuring 35mm in length with an outer diameter of 5mm.  The serosal surface is unremarkable.  1 x frozen section.
+Blocks:  1 - frozen section tissue; 2 to 7 - all of the tumour; 8 to 10 - all of probable fallopian tube.
+FROZEN SECTION REPORT:
+Favour sex-cord stromal tumour probable fibrothecoma.
+Result to Dr H Stumme by Dr H Maxedon/H Formby at 01:13 pm on 3/8/16.
+B.  Specimen labelled &amp;#8220;Uterus, cervix, right tube and ovary&amp;#8221; consists of a uterus with attached cervix, right tube and ovary weighing 88g.  The uterus measures 85 x 60 x 30mm and has a smooth shiny serosal surface.  The ectocervix measures 33 x 28mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and myometrium is 21mm in maximum thickness.  The myometrium is unremarkable.  The fallopian tube measures 40mm in length with an outer diameter of 5mm.  The ovary measures 25 x 18 x 10mm.  Cut surface of the ovary is unremarkable.
+Blocks:  1 to 5 - four longitudinal sections of anterior body and cervix, 6 to 9 - four longitudinal sections of posterior body and cervix; 10 to 12 - all of the fallopian tube; 13 to 15 - all of the ovary.
+C.  Specimen labelled &amp;#8220;Omental biopsy&amp;#8221; consists of a single fatty tissue measuring 25 x 5 x 8mm.  Cut surface shows uniform fatty tissue.  No focal lesion seen.  AE 2 blocks.  (TO: LM; LM/ua 6.10.66)
+MICROSCOPIC (Reported by Dr H Benje):
+A.  Sections show a fibrothecoma.  Despite mitoses numbering up to 6/10hpf, I still feel this lesion is benign.  The fallopian tube is unremarkable.
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is weakly proliferative.  The myometrium shows adenomyosis.  The uterine serosa and surface of the right ovary show changes suggestive of previous surgery.  The right ovary shows an incidental 2mm benign Brenner tumour.  The right tube is unremarkable.  There is no evidence of malignancy.
+C.  The omentum shows no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+Fibrothecoma of the left ovary.  No evidence of malignancy.

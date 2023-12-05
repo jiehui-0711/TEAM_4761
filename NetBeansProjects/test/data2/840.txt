@@ -1,0 +1,66 @@
+
+Episode No:  39Z513136F
+399513.EIR
+
+KRALIK, Claudio 
+Lab No:  39Z51313
+Mcdewell
+HAHNDORF  Northern Territory  6628
+Specimen: Tissue
+D.O.B:  13/2/2007
+Sex:  F
+Collected: 19/09/2012 at 13:56
+Location:  Douglass Hanly Moir-ST HELENS DISTRICT HOSPITAL
+DR MILES Jeremiah DROZ
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT (17.1.62):
+
+
+SUPPLEMENTARY REPORT (28.12.62):
+
+
+CLINICAL:
+Axillary level 3 dissection.  Malignant spindle cell tumour on bx.  
+MACROSCOPIC:
+Patient details checked by KD
+Specimen labelled "Left axilla tissue stitch apex" consists of an irregular piece of fibrofatty tissue with one suture for orientation (apex).  Specimen measures 100 x 110 x 40mm.  Twenty-seven lymph nodes are identified ranging from 5 up to 65mm.  The two largest nodules have solid, white and fleshy cut surface with areas of necrosis.  
+Blocks:  1 - apical lymphnode; 2 - four lymph nodes; 3 - two lymph nodes; 4 - three lymph nodes; 5 - two lymph nodes; 6 - one bisected lymph node; 7 - one bisected lymph node; 8 - two lymph nodes; 9 - bisected lymph node; 10 - one bisected lymph node; 11 - two lymph nodes; 12 - one lymph node; 13 - two lymph nodes; 14 - one bisected lymph node; 15 - one bisected lymph node; 16 - one representative section for one lymph node; 17 to 24 - eight representative sections from the largest lymph node (23 & 24 - selected for tissue banking).  (TZ/mm 22.11.62) 
+MICROSCOPIC (reported by Dr K Robbins):
+Sections of the largest lymph node show extensive involvement by amalignant spindle cell tumour.  A further twenty six (26) nodes were identified in the specimen and these all show non-specific reactive changes only.  The apical node is not involved by spindle cell tumour. 
+The spindle cells are in haphazard fascicles and have large, pleomorphic nuclei and eosinophilic cytoplasm.  Mitoses are frequent, numbering around 20 per 10 HPF, and some abnormal mitoses are noted.  There is a small area of infarct-like necrosis in the node but no other tumour necrosis is seen.  No differentiating features are identified with routine staining.  There is a moderate number of admixed benign small lymphocytes and plasma cells amongst the tumour cells.  There is some residual lymphoid tissue, with hyperplastic follicles, at the periphery of the node.  There is some probable extranodal tumour spread, with a pushing margin (blocks 23, 24) but soft tissue margins appear to be free of tumour.  
+IMMUNOSTAINS:
+S100 - positive.
+Melan-A, HMB 45 - negative.
+Cytokeratin CAM 5.2, CK AE1/3, CK 5/6, p63 - all negative. 
+Leukocyte common antigen, CD30, CD20, CD3 - all negative. 
+Myeloperoxidase, Lysozyme - negative.
+CD1A - focal positive.receptor, progesterone receptor - negative.
+Smooth muscle actin, Desmin - negative.
+Fascin (actin bundling protein) - positive.
+CD68 - some patchy positive staining.
+CD21, CD23 - highlight residual lymphoid follicles only.
+CD34 - negative.
+Vimentin - positive. 
+Ki-67 - moderate proliferation index, around 30%.
+The appearances are interpreted as a high grade sarcoma in a lymph node.  It stains S100 and Fascin positive and also shows some patchy CD68 positivity.  I favour this being a primary nodal sarcoma and the immunophenotype fits best with an interdigitating dendritic cell sarcoma.  These are very rare tumours which most commonly present with solitary lymph node involvement.  The clinical course is said to be generally aggressive.  
+I will send the slides to Dr K Magnan, OPERATING THEATRES Pathology, for an opinion and issue a supplementary report. 
+DIAGNOSIS:  
+Left axillary tissue:  High grade sarcoma involving one lymph node (1/27), favour interdigitating dendritic cell sarcoma.
+SUPPLEMENTARY REPORT:  (21.12.62)     
+The slides were sent to Dr FAUSTO Kedra, Anatomical Pathology, for review.  He replies as follows:
+"The H&E sections supplied are Blocks 17 to 24 from the single largest lymph node which is virtually replaced by a malignant spindle cell tumour. These sections also include 3 separate smaller lymph nodes which show reactive changes and appear uninvolved by malignancy. The tumour is composed of short and intersecting fascicles of spindled cells with occasional small groupings of more epithelioid cells. The tumour cells show considerable nuclear pleomorphism with prominent eosinophilic nucleoli, vesicular chromatin and plentiful eosinophilic cytoplasm. Occasional tumour giant cells areseen. There are scattered foci of tumour necrosis and there is brisk mitotic activity with occasional atypical mitoses. These cells show both cytoplasmic and nuclear staining for S100 protein as well as staining for vimentin, fascin andWT1 (WT1 INTENSIVE CARE UNIT SOUTH stain). These cells appear negative for melan-A and HMB45 both on the Devon Energy stains and PATHOLOGYWEST stains. They are also negative on our staining for tyrosinase and MITF1.  Schmorl's stain for melanin is negative. They are also negative for multiple cytokeratins including pan cytokeratin, cytokeratin 19 and the cytokeratins listed in Dr Jamison's report. They are also negative for EMA. The tumour cells appear negative for leukocyte common antigen, CD20, CD3, CD30, PAX-5 and EBV-LMP. They appear negative for histiocytic and dendritic cell markers CD163, CD68, CD1a, langerin, CD21, CD23, CD35, and CD4, which highlight background histiocytic and dendritic cells only. They are negative for smooth muscle markers Desmin and smooth muscle actin.
+In the background there is some residual lymphoid cells including occasional reactive follicles, compressed to the periphery of the node.
+Overall, I think the most likely diagnosis is metastatic melanoma. I have not had much experience with interdigitating reticulum cell sarcoma as these are rare tumours, but from the literature they are describedas usually having more bland nuclei without necrosis and a lower mitotic rate and they often show variable staining for CD68, lysozyme and CD45. Review of the atypical melanocytic lesion removed from the left arm in 2061 is recommended.If you have access to SOX10 immunoperoxidase, this might prove helpful.  Unfortunately we have only just received a sample of the antibody and have not been able to get it working as yet. Electromicroscopy might also be considered if there is still doubt over the diagnosis after review of the skin lesion.
+DIAGNOSIS:
+LEFT AXILLARY LYMPH NODE: MALIGNANT SPINDLE CELL TUMOUR FAVOURING METASTATIC MELANOMA". (End of Dr Violette's report). 
+With the further history obtained that there was an atypical pigmented lesion removed from the left arm in December 2061, I agree that it seems that the diagnosis is most likely to be metastatic malignant melanoma  
+SUPPLEMENTARY REPORT (28.12.62):
+The slides were referred to Prof K Tuffey, VICTORIAN HEART HOSPITAL Hospital, for review as requested.
+He also favours a metastatic spindle cell or desmoplastic melanoma.
+The slides were also reviewed at GATTON HOSPITAL by Prof K Cokel and Dr K Sobran.  They also agree that metastatic melanoma is the most likely diagnosis.  They also reviewed the slides of the previousskin excision (KZ-95-13136).  They comment that there are some atypical spindle cells and that it could represent the primary, however they do not think that there is enough evidence for a definite diagnosis on the limited suboptimal material that is available for assessment.
+SUPPLEMENTARY REPORT (17.1.62):
+A tissue block was sent to ONCOLOGY (GYNAE)'s Pathology for BRAF mutation detection.
+Targeted BRAF mutation analysis on DNA extracted from the block was negative.  No mutation was detected.
+Interpretation:  The tumour sample does not carry a known BRAF gene mutation that affects codon 600 of the BRAF protein.  This patient is not expected to benefit from treatment with a BRAF inhibitor based therapy (Chapman et al.  NEJM 2011; 364: 2507-16).
+Reported by Dr K Bruss.
+

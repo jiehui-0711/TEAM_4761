@@ -1,0 +1,99 @@
+SPR no: 86A310970H
+MRN no: 86031097
+Site_name: GORDONVALE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (30.12.2066)
+
+CLINICAL:
+Ultra low anterior resection.  Distal donut.
+Distal donut tumour closest in 4 to 6 o&amp;apos;clock.  Stitch marks distal margin in posterior aspect.
+Urgent - need result by 30.12.66
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Ultra low anterior resection&amp;quot;, received partially opened, and consists of a segment of rectosigmoid 320mm long with mesorectum up to 68mm in width.  The anterior peritoneal reflection is 49mm from the distal margin.  The circumferential margin is inked green anteriorly and black posteriorly.  The distal margin is re-inked after removing the staples.  The staples and the adjacent rectal wall is removed to a thickness of 2mm at the distal margin.  There is a posterior rectal tumour with slightly raised edges, 25 x 16mm, located 12mm distal to the anterior peritoneal reflection.  The tumour abuts the distal margin (following removal of the staples).  The depth of invasion is difficult to definitively identify, but there is possible infiltration into the muscularis propria.  The tumour is 17mm from the closest circumferential radial margin (posteriorly).  Lymph nodes are difficult to palpate in the mesorectum.  The perirectal fat is re-examined following further fixation for additional lymph nodes.
+Blocks: 1 to 10 - LS entire trimmed distal margin and tumour as paired sections; 11 and 12 - paired sections TS tumour and left posterior circumferential margin; 13 and 14 - TS possible tumour; 15 and 16 - TS possible tumour (13 to 16 do not include margins); 17 - shave proximal margin; 18 - apical lymph node; 19 to 21 - multiple lymph nodes; 22 to 26 - pericolic fat; 27 to 29 - shave distal margin trimmed from staple line (block 27 - included mucosa).  Sampled fresh for biobank; Blocks: 30 to 35 - further sections of pericolic fat.   (TO: HM; HM/rs 29/12/66)
+
+B. Specimen labelled &amp;quot;Donut&amp;quot;, consists of a donut bearing colorectal mucosa, 22 x 15 x 12mm, with a marking suture.  There is a stapled line at the end of the specimen uncovered by mucosa.  The staples are removed.  The non-mucosal surface is inked blue anteriorly and black posteriorly.  After removing the staple and the adjacent soft tissue, the remaining ring is radially sectioned.
+Blocks: 1 - posterior mucosa; 2 and 3 - anterior mucosa.  All of the mucosa is blocked.
+(TO: HM;HM/vo 28.12.66)
+
+
+MICROSCOPIC (Reported by Dr V Fenelus):
+A &amp;amp; B.  SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+
+Site of tumour:  Rectum, below the anterior peritoneal reflection
+Maximum tumour diameter:  25mm
+Distance of tumour to nearer cut end:  Focally abuts the distal margin of the main resection specimen (after staple line trimmed)
+Tumour perforation:  No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+
+Most of the tumour is located in the submucosa and in the muscularis propria.  A single malignant gland is seen in the perirectal fat, located 0.2mm beyond the muscularis propria (A5 L1), regarded as pT3.
+
+Tumour involvement of margins
+Cut ends:  Malignant glands are present in the rectal submucosa in tissue taken from the distal stapled margin of the main resection specimen (block A27), and tumour at this distal margin cannot be excluded.  The distal donut (specimen B) has been entirely embedded and examined at multiple levels, and this shows no evidence of dysplasia or malignancy.  Therefore, in combination the overall residual tumour status is interpreted as R0.
+
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  At least 15mm clear.
+
+Lymph nodes
+Number of lymph nodes present:	Eleven (11).
+Number of lymph nodes involved:	Nil (0).
+
+pN0	No regional LN metastasis
+
+Further sections of perirectal adipose tissue are pending.
+
+Lymphovascular invasion
+Present (Mural)
+
+Perineural invasion
+Present
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+Nil other.
+
+Residual tumour status
+R0	No residual tumour (see above comment under Tumour involvement of margins)
+
+Response to neoadjuvant therapy
+Grade 2 (minimal response) - Residual cancer outgrown by fibrosis
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Summary &amp;#8211; TNM 7th Edition
+ypT3     pN0     pMX     R0
+
+
+DIAGNOSIS:
+A.  Ultra low anterior resection:
+-  Moderately differentiated adenocarcinoma.
+-  See text regarding margin.
+-  Supplementary report to follow with further sections of lymph nodes.
+
+B.  Distal donut:  No evidence of malignancy.
+
+SUPPLEMENTARY REPORT (30.12.2066)
+Further sections of the perirectal fat show one additional negative lymph node.  The total lymph node count is twelve negative lymph nodes (0/12).

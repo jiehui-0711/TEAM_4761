@@ -1,0 +1,21 @@
+SPR no: 37Z883102A
+MRN no: 37988310
+Site_name: KOOWEERUP REGIONAL HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Lichen sclerosus.  Biopsy vulva - SCC.  G4P4.  Hypothyroid.  Type 2 DM.  Anterior vulva.  Vulval stitch anteriorly.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Anterior vulva and stitch at anterior&amp;quot;, consists of an oriented piece of skin measuring 75mm x 30mm to a depth of 40mm.  There is a pale white area measuring 35mm x 22mm.  There is a suture in place designated anterior (presumed 12 o&amp;apos;clock).  The three o&amp;apos;clock margin is inked blue and the 9 o&amp;apos;clock margin is inked black.
+Blocks: 1 - LS of 12 o&amp;apos;clock; 2 to 12 - TS; 13 to 26 - LS of 6 o&amp;apos;clock.  Please see block diagram.
+(TO:LM/vo 14/10/68)
+
+
+MICROSCOPIC (Reported by Dr I Norrick):
+Sections show skin and squamous mucosa with underlying tissue including fat and small amount of skeletal muscle.  There is a well differentiated squamous cell carcinoma which arises from the epidermis and invades to the deep dermis.  The maximum tumour diameter is around 15mm.  The maximum depth of invasion is 3.5mm.  There are foci of lymphovascular invasion.  No perineural invasion is seen.
+Excision is complete.  Invasive carcinoma is 10mm from the 9 o&amp;apos;clock margin and is greater than 10mm from all other side margins.  Tumour is 3mm from the deep margin.  \
+The skin and squamous mucosa adjacent to the tumour shows lichen sclerosus and also some differentiated VIN (DVIN).  No differentiated VIN is seen at excision margins.
+
+
+DIAGNOSIS:
+Anterior vulva:  Squamous cell carcinoma, lichen sclerosus and differentiated VIN.

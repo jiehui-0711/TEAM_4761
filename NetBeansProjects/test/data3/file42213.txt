@@ -1,0 +1,146 @@
+SPR no: 37H916959C
+MRN no: 371608
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report37H91695 (37H916959F) DILCHAND, BUSTER
+HISTOPATHOLOGY REPORT
+TEXAS HOSPITAL MULTIPURPOSE HEALTH SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right breast sentinel node for frozen section.  Right mastectomy suture medial + axilla.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT SENTINEL NODE BIOPSY&amp;quot;.  Four LN, one blue + 3 pale (2 very small).
+
+F/S:  &amp;quot;Metastasis in one of two lymph nodes at least 5mm in dimensin&amp;quot;.  Results were given by phone on 7/2/2067 by Dr. J. Gulling.
+
+(1  TS, blue + pale; 2  rest of blue from frozen; 3  rest of pale from frozen; 4&amp;amp;5  single small LN not frozen).  RS (M-5).
+
+B.  &amp;quot;RIGHT BREAST SUTURE MEDIAL&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE:  Right
+SPECIMEN TYPE:  Mastectomy, oriented.
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:  275x210x60mm
+WEIGHT:  1311g
+SKIN:  Yes, 230x150.
+NIPPLE:  Yes, 16mm
+MUSCLE:  No
+OTHER TISSUES / PIECES:  A piece of skin with underlying fatty tissue measuring 60x35x30mm.
+MARGIN INKED:  Non-Standard:  Anterior superior margin blue, Anterior inferior margin green, Posterior black.
+DISSECTION:  Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION:  Centrally is a suspicious ill defined area with three discrete nodules and multiple smaller firm areas. This area measures 75mm superior to inferior, 60mm medial to lateral, and 20mm anterior to posterior. This entire suspicious area is 70mm from lateral margin, 65mm from medial margin, 60mm from superior, 50mm from inferior. The first discrete lesion is stellate and has a tan to fatty appearance located centrally and underlying the nipple.  It measures 35mm medial to lateral, 25mm superior to inferior, and 14mm anterior to posterior.  The lesion is 70mm from medial margin, 105mm from lateral margin, 80mm from superior margin, 70mm from inferior margin, 15mm from posterior margin, 32mm from anterior margin and from the nipple.  The second discrete lesion is 20mm lateral to the first lesion.  The lesion has a pale white cut surface and is 75mm from lateral margin, 110 from medial margin, 85mm from superior, 45 from inferior, 20mm from posterior and 32mm from anterior margin.  It is 40mm from nipple.  Between the two tumours is a firm area and multiple smaller firm areas identified.   Third discrete lesion underlies and is 19mm from the first tumour.  It is well demarcated with a tan to yellow cut surface and measures 12x10x10mm.
+On sectioning through the separate piece of skin with underlying fatty tissue.  No lesion is identified.  It is not sampled. Representative sections taken.
+
+(1&amp;amp;2  composite slices of medial half of nipple including first tumour; 3-7  further sections of first tumour [3&amp;amp;4  taken from anterior half, 5-7  from posterior half and includes posterior margin, 7  is a tumour block]; 8&amp;amp;9  second tumour taken from anterior half; 10  section between the first and second tumour; 11  second tumour in relation to posterior margin; 12-15  one sagittal slice of suspicious area taken from anterior half of breast; 16  well demarcated lesion underlying first tumour taken from anterior half; 17  further section of suspicious area taken from posterior half of breast; 18  upper outer quadrant; 19  lower outer quadrant; 20  upper inner quadrant; 21  lower inner quadrant).  RS (M-21).
+
+C.  &amp;quot;RIGHT AXILLARY CLEARANCE&amp;quot;.  Consists of fatty tissue measuring 70x50x20mm.  Fifteen possible nodes identified ranging from 2 to 40mm.
+
+(1-4  one lymph node; 5  one lymph node bisected; 6  one lymph node bisected; 7  one lymph node bisected; 8  two possible lymph nodes; 9  four possible nodes; 10  three possible nodes; 11  four possible nodes).  RS (M-11/MC 11/2/2070 km).
+
+MICROSCOPIC:  (Dr. J. Moodispaugh)
+
+Specimen A, B and C:
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 70mm (there is confluent tumour encompassing all 3 lesions described macroscopically)
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Mixed infiltrating duct and lobular carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules: 3   , Nuclei: 2   , Mitoses: 1   ; Total score: 6&amp;#160;&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;&amp;#160;5 mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 70mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+PERINEURAL INVASION: Not seen
+&amp;#160;
+SKIN INVOLVEMENT: Not seen
+
+DERMAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+NIPPLE INVOLVEMENT: Not seen
+&amp;#160;
+MUSCLE INVOLVEMENT: Not seen
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+DCIS size / extent: Minimal confined to invasive tumour
+Nuclear grade: Low-grade
+Architecture / type: Cribriform
+Necrosis: Absent
+Microcalcification of DCIS: Absent
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): Present including foci of pleomorphic lobular carcinoma. &amp;#160;
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Invasive carcinoma is well clear &amp;gt;10mm from all margins.
+&amp;#160;
+ANCILLARY TESTS:
+HORMONE RECEPTORS (IMMUNOPEROXIDASE TECHNIQUE)
+OESTROGEN RECEPTOR:         positive(60% of cells +++)
+PROGESTERONE RECEPTOR: positive(50% of cells +++)
+
+HER-2 IMMUNOPEROXIDASE
+NEGATIVE (score 0)
+
+Ki-67 proliferative index:&amp;#160;&amp;#160;&amp;#160;10%
+
+SEPARATE FINDINGS:  Fatty involution
+&amp;#160;
+LYMPH NODES
+SENTINEL AND AXILLARY LYMPH NODES: Involved.
+
+Nodes with macrometastases:  1 (sentinel)
+Nodes with micrometastases: 1 (sentinel)
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 22 (4 sentinel and 18 axillary)
+&amp;#160;
+Largest nodal tumour deposit:  5mm
+Extranodal extension: &amp;#160;Not present
+
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT3, pN1a
+
+
+
+DIAGNOSIS:
+RIGHT BREAST SENTINEL LYMPH NODE:
+- METASTATIC CARCINOMA IN 2 OUT OF 4 LYMPH NODES.
+RIGHT BREAST:
+- MIXED INFILTRATING DUCT AND LOBULAR CARCINOMA.
+RIGHT AXILLARY CLEARANCE:
+- NO TUMOUR SEEN IN 18 LYMPH NODES.
+14/1/2071 cy
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+HER2 Dual ISH result:          NEGATIVE
+
+Mean HER2 copy number per cell:   1.8
+Mean CEP17 copy number per cell: 1.3
+HER2/CEP17 Ratio: 1.38
+
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt;2.0, Average HER2 &amp;gt; 6.0
+Positive: HER2/CEP17 &amp;gt; 2.0
+
+Reported by: Dr. J. Swett
+Date: 13.12.18

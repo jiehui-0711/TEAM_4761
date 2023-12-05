@@ -1,0 +1,38 @@
+SPR no: 87Z5070435
+MRN no: 4761322
+Site_name: MALLEE TRACK HEALTH AND COMMUNITY SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (20.4.70):
+
+CLINICAL:
+64 year old male previous head and neck resection for SCC.  Now right liver lobe lesion - segment 7.  Mildly FDG positive on PET - though more likely to be consistent with HCC, AFP non-diagnostic.  ?SCC v HCC ?margins.  IVDU, Hep C, asthma, ETOH, smoker, chronic back pain.  Consented for HSA biobank.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Liver segment 6 and 7&amp;quot;, consists of a wedge of liver, 382g, 148 x 83 x 75mm.  The resection margin is inked blue.  The capsule is intact.  The cut surface shows a 36 x 35 x 26mm tan/yellow tumour.  The tumour abuts the capsule and lies 42mm from the parenchymal resection margin.  The background hepatic parenchyma is pale and mottled but does not appear fibrotic macroscopically.
+Blocks: 1 &amp;amp; 2 - composite full face tumour; 3 to 6 - additional sections of tumour abutting capsule; 7 - RS nearest parenchymal resection margin; 8 &amp;amp; 9 - RS background liver.
+
+B.  Specimen labelled &amp;quot;Gallbladder&amp;quot;, consists of an unopened gallbladder 80 x 30 x 25mm with a wall thickness of up to 4mm.  The serosal surface is smooth grey and shiny.  The mucosa is finely granular and bile stained.  A 10mm cystic duct lymph node is identified.  No stones or tumours are seen.  Blocks: 1 - cystic duct margin neck and lymph node; 2 - body and fundus.
+(TO:TF/rs 25/4/66)
+
+
+MICROSCOPIC (Reported by Dr X Ayersman):
+A.  Sections of the mass show a well differentiated hepatocellular carcinoma.  This consists of trabeculae of cells with generally large nuclei, a single prominent nucleolus, and a variable amount of eosinophilic cytoplasm.  Mitoses are infrequent.  There is focal tumour necrosis.  The mass is well defined and there is a rim of fibrous tissue between the mass and the adjacent liver.  There is multifocal lymphovascular invasion at the periphery of the mass.  The mass extends to just beneath the capsular surface of the liver.  The hepatic resection margin is free of tumour.
+
+The background liver shows features of cirrhosis with fibrous expansion of portal tracts, fibrous bands and variable sized nodules.  The expanded portal and fibrous bands have a moderate and heavy, patchy infiltrate of inflammatory cells, mainly lymphocytes but also with a few plasma cells, eosinophils and neutrophils.  Small lymphoid aggregates are noted.  There is some interface hepatitis and there is bile ductular proliferation.  Within the hepatic parenchyma there are occasional small foci of chronic inflammation.
+The appearances are of a chronic hepatitis with cirrhosis, consistent with chronic Hepatitis C.  The Metavir activity score is A2 (out of 3) and the fibrosis score is F4 (cirrhosis).
+With special stains there is no increase in stainable iron, no copper accumulation is identified with a rhodanine stain, and an orcein stain for Hepatitis B surface antigen is negative.  PASD positive globules are identified in the cytoplasm of some hepatocytes;  these are likely non-specific but an immunostain for alpha-1 antitrypsin will be performed and a supplementary report issued.
+
+B.  Sections show gallbladder wall.  The mucosa is intact.  Rokitansky aschoff sinuses project into and focally through the wall into the subserosa.  There is a very mild infiltrate of scattered chronic inflammatory cells through the wall.  No significant acute inflammation is seen.  The cystic node shows mild reactive changes only.
+
+
+DIAGNOSIS:
+A.  Liver segment 6 &amp;amp; 7:
+1.  Well differentiated hepatocellular carcinoma.
+2.  Chronic hepatitis with cirrhosis, consistent with chronic hepatitis C.
+
+B.  Gallbladder:  Mild chronic cholecystitis.
+
+
+SUPPLEMENTARY REPORT (30.5.69):
+A.  There are PAS positive, diastase resistant globules in the cytoplasm of some hepatocytes.  These globules are also evident in the H and E stained slide and are also highlighted with an alpha one anti-trypsin immunostain.
+These globules may be non-specific but do raise the possibility of alpha one anti-trypsin deficiency.  The slides have also been viewed by Dr X Buie.

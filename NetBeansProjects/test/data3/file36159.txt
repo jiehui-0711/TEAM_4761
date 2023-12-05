@@ -1,0 +1,38 @@
+SPR no: 70F183667U
+MRN no: 8293506
+Site_name: SPRINGSURE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report70F18366 (70F183667U) Gaylord, LOWELL
+HISTOPATHOLOGY REPORT
+BRIDGETOWN HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Redoperitonectomy. Pmp.
+
+MACROSCOPIC:
+A. &amp;quot;GASTRIC ANTRUM&amp;quot;. An excision of stomach with two staple margins, 40x40x25mm. On the serosal surface of the stomach is a nodular thickening over an area, 40x25x18mm. The nodular plaque-like thickening appears close to one stapled margin with macroscopic clearance of 3mm and well clear of the opposite stapled margin by 10mm. On sectioning, the nodule is up to 15mm thick and distorts the serosal wall with no apparent involvement of the gastric mucosa. The cut surface of the tumour is mucinous.
+
+(1 tumour to closest stapled margin; 2 tumour to opposite stapled margin; 3&amp;amp;4 one full face, transverse section; 5&amp;amp;6 second full face, transverse section [6 tumour bank block]). RS (M-6)
+
+B. &amp;quot;PERITONEAL DISEASE&amp;quot;. Multiple pieces of gelatinous tissue, 80x80x10mm in aggregate, weighing 130g in total. One of the pieces contains a firm, tan nodule, 15mm. Representative section (Block B1) firm tan nodule; (Block B2&amp;amp;3) gelatinous tissue. RS (M-3)
+
+C. &amp;quot;TUMOUR&amp;quot;. Three strips of peritoneal tissue, 20x20x5mm, 25x15x5mm and 45x35x8mm. All three pieces have a roughened appearance. The smallest piece contains one metastatic nodule, 8mm in maximal extent.
+
+(1 metastatic nodule, smallest piece; 2 sample from medium sized piece; 3 sample from the largest piece). RS (M-3/JC 9/7/2066 cy)
+
+MICROSCOPIC:  (Dr T Bilder)
+A.  Sections show gastric and duodenal mucosa with mucinous tumour involving the gastric wall.  Large lakes of dissecting mucin are present, some lined by occasional strips of columnar mucinous epithelium with low grade nuclear atypia. Focally there are infiltrative mucin poor glands of uncertain significance. There are no signet ring cells and no definitive high grade cytological atypia. The features are in keeping with a low grade mucinous neoplasm and has a similar appearance to the patient&amp;apos;s most recent peritonectomy specimen (our lab 70F18366). Clinical correlation is recommended.
+
+B.  Sections show acellular mucin with no epithelium identified.  The macroscopically identified nodule shows necrotic tissue and occasional suture material.
+
+C.  Sections show fibrous tissue associated with a small amount of liver parenchyma.  One of the fragment shows biliary type epithelium with no dysplasia.  One of the pieces of tissue shows fibrous tissue in association with lymphoid tissue. There is no atypical epithelium in the sections examined.
+
+DIAGNOSIS:
+A.  GASTRIC ANTRUM -
+-LOW GRADE MUCINOUS NEOPLASM.
+B.  PERITONEAL DISEASE -
+-ACELLULAR MUCIN AND NECROTIC TISSUE.
+C.  TUMOUR -
+-FIBROUS TISSUE.
+14/7/2067 ank

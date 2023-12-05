@@ -1,0 +1,102 @@
+
+ 7255097.FVQ
+OSTRUM, LIDIA CARLENA
+72N50972
+
+Last edited : 6/6/2063		Page: 2
+***SUPPLEMENTARY REPORT: HER-2 CISH (6.6.2063)
+Dr T Rydberg
+
+CLINICAL:
+Right breast hookwire localisation wide local excision - marked long lateral, medium medial, short superior.  Right breast lesion DCIS on corebiopsy.
+MACROSCOPIC:
+Specimen labelled "Right breast lesion", consists of a piece of breast tissue measuring 50mm (lateral to medial) x 45mm (superior to inferior) x 15mm (superficial to deep).  A guide wire is present.  An xray was obtained prior to sectioning.  Superior margin is inked red, superficial is inked green and deep is inked black.  Specimen is sliced from medial to lateral into eight slices.  Slicing reveals a pale cut surface withrubbery consistency.  There is patchy haemorrhage.  No discrete indurated nodules are identified.  AE.  
+Blocks 1-3 - slice 1, medial margin; 4 & 5 - slice2; 6 & 7 - slice 3; 8 & 9 - slice 4; 10 & 11 - slice 5; 12 & 13 - slice 6; 14 & 15 -slice 7; 16-18 - slice 8, lateral margin. Please see diagram.  (DO/ec 16.5.63) 
+MICROSCOPIC: (Reported by Dr T Frusciante - 20.5.2063)
+Sections of the right breast lesion show two discrete foci ofinvasive lobular carcinoma arising on a background of multifocal lobular carcinoma in situ (LCIS) and ductal carcinoma in situ (DCIS). The surrounding breast tissue shows a spectrum of proliferative changes including columnar cell hyperplasia, florid epithelial hyperplasia, sclerosing adenosis, fibroadenomata and atypical ductal hyperplasia. A synoptic report for invasive breast carcinoma follows: 
+
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Tumour 1:
+Site: Right breast, wide local excision (mid portion of specimen).
+Type: Invasive lobular carcinoma. 
+Invasive tumour size: 3.3mm (microscopic - block 8).
+Grade: 1 (Modified Bloom & Richardson)       
+Tubules: 3 Nuclei: 1 Mitoses: 1 Mitotic rate: Less than 1/10hpf.
+Lymphovascular invasion: Not identified.
+
+Tumour 2:
+Site: Right breast, wide local excision.
+Type: Invasive lobular carcinoma 
+(Tumour 2 is transected by diathermied artefact at the lateral margin and the morphology is largely obscured by diathermy artefact - accurate grading is difficult). 
+Invasive tumour size: 4.0mm (microscopic - block 8).
+Grade: 1 (Modified Bloom & Richardson)       
+Tubules: 3 Nuclei: 1 Mitoses: 1 Mitotic rate: Less than 1/10hpf.
+Lymphovascular invasion: Not identified.
+
+
+DCIS component:  
+DCIS: Present.
+Maximum extent of DCIS: Present throughout the wide local excision to a maximum approximate overall extent of 48mm.
+Nuclear grade: Low to intermediate.
+Architecture: Cribriform, micropapillary, flat and solid.
+Necrosis: Absent.
+Calcification: Not identified. 
+Degree of DCIS in tumour: None. 
+DCIS in adjacent tissue: Widespread. 
+Excision Margins:  
+Invasive component:
+**Tumour 1 (block 8):
+Superficial margin: 2.5mm.
+Deep margin: 4.0mm.
+Superior margin: 8.0mm.
+Inferior margin: Well clear (>10mm).
+Lateral margin: Well clear (>10mm). 
+Medial margin: Well clear (>10mm).
+**Tumour 2 (block 17 - at the lateralmargin end block):
+Lateral margin: Present (transected) at diathermied margin. 
+Deep margin: 2.2mm.
+Superficial margin: 3.3mm.
+Superior margin: Approximately 5mm.
+Inferior margin: Approximately 5mm.
+Medial margin: Well clear (>10mm).
+In-situ component:
+Superior margin: Present at diathermied margin (block 6). 
+Superficial margin: Present at diathermied margin (block 10). 
+Lateral margin: Present at diathermied margin (block 17).
+Medial margin: Present focally at the diathermied margin (block 2).
+Deep margin: Extends less than 0.1mm to the diathermied margin (no intervening ducts/acini - block 2).
+Inferior margin: 2.2mm (block 9) 
+Receptors (tumour 1 - block 8): 
+ER:   POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: Strong.
+PR:   POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: Strong.
+HER2 (Novocastra 10A7): Negative (0 / 1+)
+Ki-67 immunoproliferative index: Up to 2% of tumour cell nuclei positive. 
+
+Nipple: Not included. 
+LCIS / ALH: Present (multifocal).
+Miscellaneous: The surrounding breast tissue shows a spectrum of proliferative changes including columnar cell hyperplasia, epithelial hyperplasia, sclerosing adenosis, fibrocystic change, atypical papillomata, fibroadenomata and atypical ductal hyperplasia. Foci of atypical ductal hyperplasia (including atypical papilloma) extend focally to the inferior, superficial and deep margins. One of the fibroadenomas extends to the anteromedial margin. There is focal cancerisation of lobules and occasional benign microcalcifications. Changes consistent with recent biopsy site are also present. 
+Sentinel lymph node(s): Not included. 
+
+Axillary/other nodes: Not included.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): None.
+DIAGNOSIS:
+Right breast (wide local excision): 
+Two discrete foci of Grade 1 invasive lobular carcinoma (3.3mm and 4.0mm) arising on background of multifocal LCIS and low to intermediate grade DCIS.
+No evidence of lymphovascular space invasion.
+Invasive carcinoma (tumour 2) is transected at the diathermied lateral margin (block 17). 
+DCIS and atypical ductal hyperplasia extends to multiple margins (see synoptic report). 
+ER, PR positive; HER-2 negative.
+Representative slides seen with Dr T Tuckett.
+Her-2 CISH is being performedand a supplementary report will be issued. 
+
+
+***SUPPLEMENTARYREPORT: HER-2 CISH (6.6.2063)
+Dr T Goodley
+Blocks were sent to WAR MEMORIAL HOSPITAL Hospital for Her2 ISH analysis, Dr T Wernz reports:
+

@@ -1,0 +1,73 @@
+Episode No:  82D0354325
+821035.MKF
+
+Vanleuven, MARCOS Felipa 
+Lab No:  82D03543,82D03543
+Parkmeadow
+LAUNCESTON  WA  3354
+Specimen: Washings,Tissue
+D.O.B:  28/10/2008
+Sex:  F
+Collected: 14/08/2014 at 18:00
+Location:  KALGOORLIE HEALTH CAMPUS
+DR CORTEZ RUDERMAN
+Distribution:  DR Armand,  FILE-COPY, DRV'Dusseault,   NSW-CANCER-REGISTRY
+HISTORY:
+G1 endometrial adenocarcinoma involving cervix. 1. peritoneal washings 2. uterus tube + ovaries 3. omental biopsy 4. right pelvic lymph node 5. left pelvic lymph nodes
+MACROSCOPIC:
+A. "UTERUS TUBES".  Specimen is received opened and consistsof a uterus with attached fallopian tubes and ovaries.  The right fallopian tube is 40x8mm and unremarkable.  The right ovary is 30x15x10mm and is unremarkable except for a small cyst 5mm on the medial surface.  The left fallopian tube is35x6mm and unremarkable.  The left ovary is 25x15x10mm and unremarkable.  The uterus alone weighs 75g and is 75mm from fundus to exocervix.  The uterine body is 55x35mm.  The uterine cervix is 30x25mm.  The external cervical os is 15x5mm.  The endometrium shows a solid nodule 27mm in maximum dimension which extends into the myometrium 10mm and is 8mm from serosal surface.  It does not appear to appear to involve the cervix macroscopically.  The appears to be extensionof tumour to the right cornu area on the anterior surface and here the tumour comes within 2mm of the serosal surface.  Tumour possibly extends into left cornu.  
+(1&2 right ovary and fallopian tube; 3&4 left ovary and fallopian tube; 5 right perimetrium; 6 left perimetrium; 7-11 anterior surface of uterus [7, 8 & 9 single LS {7 cervix; 8 body; 9 body}]; 10&11 isthmus on right side; 11 and onwards posterior uterus body [11,12& 13 single LS {11 cervix; 12 isthmus; 13 body}; 14&15 left cornu;  16&17 further LS showing cervix and isthmus as one continuous specimen]).  RS (M-17).
+B. "RIGHT PELVIC LYMPH NODE".  Specimen consists of multiple pieces of fatty tissue aggregate 20x10x3mm. AE (M-2).
+C. "LEFT PELVIC NODES". Specimen consist of multiple pieces of fatty tissue aggregate 30x30x5mm.  AE (M-3).
+D. "OMENTAL BIOPSY".  Specimen consist of a piece of omentum 40x20x5mm.  No nodules are present.  RS (3-3/AH/sp).
+MICROSCOPIC: (Dr V Habig)
+A.
+ENDOMETRIAL CARCINOMA: 
+Tumourtype:  Endometrial carcinoma with areas of squamous differentiation
+FIGO grade:  I
+(architecture grade:  I, nuclear grade:  I)
+Myometrial invasion:  Invasion into outer half of myometrium
+Depth of myometrial invasion:   5mm
+Myometrial thickness:   8mm
+% of myometrium invaded:   62%
+Focality:  Unifocal
+Tumour involves:  Fundus, body
+Vascular/lymphatic invasion:  Present in deep myometrium 
+Involvement of cervix:  Not involved 
+Involvement of uterine serosa:  No
+Excision margins:  Margins are clear of tumour
+Non-tumour uterus:  
+Adjacent endometrium:  Atrophic 
+Polyps:  Not seen
+Adenomyosis:  Not present
+Adnexae:  
+Left fallopian tube:  No significant abnormality
+Right fallopian tube:  No significant abnormality
+Left ovary:  No significant abnormality
+Right ovary:  No significant abnormality
+Lymph nodes:	B.  No tumour seen in 3 lymph nodes examined.
+			C.  No tumour seen in 5 lymph nodes examined.	
+
+Other tissues:D.  Omentum:  No significant abnormality
+Pathologic Staging (AJCC/UICCTNM 7, FIGO 2008):
+
+TNM stage:  pT1b, pN0, pMx
+FIGO stage:  IB
+DIAGNOSIS:
+ENDOMETRIUM:  
+ - WELL DIFFERENTIATED ENDOMETRIOID ADENOCARCINOMA. 
+RIGHT PELVIC:  NO TUMOUR SEEN IN 3 LYMPH NODES EXAMINED.
+LEFT PELVIC:NO TUMOUR SEEN IN 5 LYMPH NODES EXAMINED. 
+OMENTAL BIOPSY:  NO SIGNIFICANT ABNORMALITY.
+21/10/64 ht
+SUPPLEMENTARY REPORT: 
+Immunostains for MSI proteins (Caremark Rx AUBURN HOSPITAL & COMMUNITY HEALTH SERVICES Lab; block: A10)
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+

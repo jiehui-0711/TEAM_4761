@@ -1,0 +1,36 @@
+
+Episode No:  73W722716J
+738722.UFS
+
+Muncey, Lance 
+Lab No:  73W72271
+Breach House
+YARRA GLEN  South Australia  3285
+Specimen:Tissue
+D.O.B:  27/8/2005
+Sex:  M
+Collected: 27/12/2062 at :
+Location:  SOUTH SURGICAL ASSESSMENT UNIT-MILDURA BASE PUBLIC HOSPITAL
+DR Carrol Eli BIANCHI
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Lung lesion - ?Ca ?fungal.  L lower lobe.
+MACROSCOPIC:
+A.  Specimen labelled "Left lower lobe lung" consists of left lower lobe of lung measuring 110mm medial to lateral, 130mm superior to inferior and 160mm anterior to posterior.  The surface is dark grey smooth and shiny.  On sectioning there is a tumour present in the inferior posterioraspect of the specimen.  It is a well circumscribed round, firm, white lesion with areas of haemorrhage.  The lesion measures 30 x 22 x 20mm and is 35mm from the nearest bronchial margin.  The tumour is clear of the pleural surface.  Theremainder of the lung parenchyma is spongy and unremarkable with no focal tumours appreciated.
+Blocks:  1 - bronchial margin; 2 - vascular margin; 3 - three hilar lymph nodes; 4 - one hilar lymph node; 5 to 9 - tumour (block 9 - reserve block); 10 - representative tissue normal lung; 11 to 13 - one intralobar lymph node in each block; 14 - four intralobar lymph nodes.
+B.  Specimen labelled "Hilar lymph node" consists of one black node measuring 10 x6 x 8mm.  AE 1 block.
+C.  Specimen labelled "AP window" consists of one piece of fibrofatty tissue containing lymph nodes measuring in aggregate 30 x 10 x 5mm.  AE 1 block.
+(ED/bl 28/12/62)
+MICROSCOPIC (reported by Dr S Korzybski):
+A.  Sections show a well circumscribed tumour consisting of uniform cells arranged in trabeculae and small nests with granular eosinophilic cytoplasm and nucleoli with granular chromatin and small nucleoli.  There is a fine intervening vascular network.  No necrosis is seen however the mitotic count focally is 33 per 2 square mm.
+The tumour cells show strong positive staining to CD56.  The TTF1, CK20 and Calcitonin stains are negative.  
+The features are those of a carcinoid tumour with the mitotic count sufficient for classification as an atypical carcinoid.  The Ki67 index focally approaches 10%.  A focus of lymphovascular invasion is present at the advancing edge of the tumour.  The pleural surface is not involved and the bronchial resection margin is well clear of tumour.
+Thirteen (13) lymph nodes are identified which show no evidence of metastatic tumour.  The remaining lung parenchyma shows mild emphysematous change.  
+B.  The single (1) lymph node identified shows no evidence of malignancy.
+C.  The five (5) lymph nodes identified show no evidence of malignancy.  
+DIAGNOSIS:
+A - C.  Left lower lobe lung plus lymph nodes:
+-  Atypical carcinoid, size 30mm
+-  Bronchial resection margin and pleura clear of the tumour.
+-  Nineteen negative lymph nodes.
+

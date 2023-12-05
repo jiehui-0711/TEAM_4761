@@ -1,0 +1,74 @@
+Episode No:  68H634691T
+6826346.YET
+
+Ballena, Barton 
+Lab No:  68H63469
+Hoff
+LEETON  WA  3922
+Specimen: Tissue
+D.O.B:  15/6/1983
+Sex:  M
+Collected: 27/11/2065 at :
+Location:  ACT-WALCHA MULTIPURPOSE SERVICE
+DR SONNY TROY Sibgert
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+?Cholangiocarcinoma.  Liver met? - ?cholangio.  Hilar lymph nodes as part of a Whipple's for cholangiocarcinoma.  Long proleneon portal vein.  Long silk on bile duct.   
+MACROSCOPIC:
+A.  Specimen labelled "Liver biopsy" consists of a piece of liver, 12 x 8 x 3mm.  AE for frozen section in 1 block.  
+FROZEN SECTION REPORT:  
+Bile duct hamartoma.  
+Phone result to Dr P Isacs by Dr P Visco at 2.20pm on 27.11.65.
+B.  Specimen labelled "Hilar nodule" consists of three pieces of tan tissue, 7-15mm across.  AE 1 block.
+C.  Specimen labelled "Long silk (black) stitch on bile duct, long prolene (blue) stitch on portal vein" consists of a Whipple's resection, including distal stomach, 60 x 60 x 30mm, with proximal small bowel 200mm in length and 65mm circumference.  The head of the pancreas is 65 x65 x 40mm.  The gallbladder is 80 x 40 x 20mm.  The extrapancreatic common bile duct/common hepatic duct is 25mm in length and dilated to a diameter of 16mm.  The bile duct is indicated with a black suture and the portal vein groove with a blue suture.  The pancreatic neck margin is inked red, portal vein margin blue, SMA margin red, uncinate margin black and posterior pancreatic surface green.  Also received is a separate piece of greater omentum, 400 x 100 x 20mm.Within the common bile duct is a stent.  The pancreas is serially sectioned from superior to inferior into 7 slices.  Within slice 2 of the pancreas, immediately adjacent to the common bile duct is an irregular firm area, 10 x 8 x 8mm.The remainder of the pancreas has a lobulated appearance.  The common bile duct mucosa appears granular.  
+Blocks:  1- proximal gastric and distal small bowel margins; 2- omentum; 3- cystic duct; 4 - gallbladder; 5 - shave pancreatic neck margin; 6 - lymph node near cystic duct; 7 - omental lymph node; 8 - shave common hepatic duct margin; 9 to 11 - common hepatic duct serially embedded from proximal to distal; 12 & 13 - common bile duct including cystic duct; 14-lymph node adjacent to common bile duct; 15 - lymph node adjacent to common bile duct; 15 - lymph node adjacent to common bile duct (same lymph node as in block 16); 16- pancreas slice 1; 17 - pancreas slice 2; 18 - pancreas slice 3; 19 -pancreas slice 4; 20 - pancreas slice 5; 21 - pancreas slice 6; 22 - pancreas slice 7.  Pancreas and common bile duct AE.  
+(HY/mm 30.11.65)
+MICROSCOPIC (reported by Dr P Manrriquez):
+A.  Paraffin sections confirm a 1mm bile duct hamartoma.The adjacent liver shows no significant abnormality.  There is no evidence of malignancy.
+B.  Sections show a single (1) benign lymph node.  There is no evidence of malignancy.
+C.  Sections show moderately differentiated adenocarcinoma arising from the common bile duct.  The tumour focally infiltrates the pancreas and extends to the superior mesenteric artery bed.  Mild to moderate dysplasia is present at the common hepatic duct margin and one lymph node is involved by tumour by direct spread
+The overall features are as follows:
+Histological tumour type
+Adenocarcinoma
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands) 
+
+Microscopic tumour sites 
+Common bile duct (mostly extrapancreatic)
+
+Extent of tumour invasion 
+Pancreas
+Peripancreatic soft tissues
+
+Maximum tumour diameter
+19mm
+Lymphovascular invasion 
+Not identified
+Perineural invasion 
+Present
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not received 
+Pre-invasivelesion 
+Present (carcinoma in situ within common bile duct)
+Margins:
+Pancreatic neck:  Well clear
+Common hepatic duct:  Well clear of invasive tumour, mild to moderate dysplasia (BilIN I/II) at margin
+Portal vein (superior mesenteric vein):  1mm clear
+Periuncinate soft tissue (superior mesenteric artery):  Involved over a distance of 3mm
+Surfaces: 
+Anterior:  Well clear
+Posterior:  Well clear
+Lymph nodes:
+Number found:  10
+Number involved:  1 (by direct spread)
+Other pathologies:  Gallbladder shows features of chronic cholecystitis
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+Primary tumour category
+T3 Tumour invades the gallbladder, pancreas, duodenum, or other adjacent organs without involvement of the celiac axis, or the superior mesenteric artery
+
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+Distant metastasis category (pM) 
+MX Not assessable by histology
+

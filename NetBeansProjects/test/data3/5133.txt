@@ -1,0 +1,88 @@
+Episode No:  61C0545547
+611054.OOK
+
+Hildago, Cohen 
+Lab No:  61C05455,61C05455
+Bindaree
+CHARTERS TOWERS  QLD  2322
+Specimen: Washings,Tissue
+D.O.B:  18/1/1997
+Sex:  F
+Collected:07/10/2065 at 12:11
+Location:  CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+DR TRACEY Crayford
+Distribution:  DR KORY, DR Coy,    FILE-COPY,   NSW-CANCER-REGISTRY
+*SUPPLEMENTARY REPORT ATTACHED*
+
+HISTORY:  
+GIII endometrioid adenoca of corpus. Uterus, tubes and ovaries, omental biopsy, left pelvic nodes, right pelvic nodes. 
+MACROSCOPIC:  
+A. "UTERUS, TUBES AND OVARIES". A uterus with cervix and bilateral tubes and ovaries. The uterus with cervix measure 75x40x35mm. The specimen weighs 90g. The right fallopian tube measures55mm in length with diameter up to 5mm. Right ovary measures 23x10x8mm. The left fallopian tube measures 60mm in length with diameter up to 10mm. The left ovary measures 30x10x10mm. The uterus with cervix was sectioned longitudinally. Theendometrium measures up to 2mm in thickness. The myometrium measures up to 14mm in thickness. There is large polypoid axillary lesion identified arising from the endometrium of the left side of the uterus. The endometrium appears up to 12mm in thickness. 
+(1-6 full face LS of the uterus with cervix [1 anterior cervix, 2 posterior cervix, 3 anterior body, 4 posterior body, 5 anterior fundus, 6 posterior fundus, anterior surgical margin was inked blue, posterior was inked black]; 7 representative section of tumour; 8-11 further RS of the right side of the uterus, uterine corpus and fundus; 12-19 RS from the left side of the uterine corpus and fundus; 20-22 right fallopian tube; 23 right ovary;24 right parametrial tissue; 25&26 left fallopian tube; 27 left ovary; 28 left parametrial tissue). RS (M-28).
+B. "RIGHT PELVIC LYMPH NODE". A piece of fat measuring 40x35x15mm. There are two possible lymph nodes identified measuring 12mm and 15mm in maximum extent. 
+(1 smaller lymph node sectioned transversely; 2 large lymph node sectioned transversely; 3 remainder of the fatty tissue). AE (M-3).
+C. "LEFT PELVIC LYMPH NODE". A few pieces of fat measuring an aggregate of 25mm in maximum extent. The contain three possible lymph nodes measuring 5mm, 6mm, 7mm in maximum extent. 
+(1 two lymph nodes; 2 one lymph node; 3 remainder of the fatty tissue).AE (M-3).
+D. "OMENTUM". A piece of omentum measuring 35x20x10mm. No obvious depositions of tumour identified. The specimen was sectioned transversely. AE (M-3/DX/ht).
+MICROSCOPIC: (Dr Q Bhardwaj)
+A.  Sections of endometrium show an infiltrating poorly differentiated tumour.  Part of the lesion comprised of irregular glands with high grade nuclear changes.  Most of the tumour, however, show solid clusters of highly malignant pleomorphic epithelioid cells with eosinophilic cytoplasm.  There is a suggestion of squamous differentiation.  Overall features favour grade 3 endometrioid adenocarcinoma with foci of undifferentiated carcinoma.
+Immunohistochemistry stains show positive staining for p16, Oestrogen and Progesterone receptors, p53, Pax-8
+Negative:  WT1
+ENDOMETRIAL CARCINOMA: 
+Tumour type:  Endometrioid adenocarcinoma / undifferentiated carcinoma
+FIGO grade:  3
+(architecture grade: 3 , nuclear grade: 3 )
+Myometrial invasion:  Present
+Depth of myometrial invasion:  8mm
+Myometrial thickness:   17mm
+% of myometrium invaded:   45%
+Focality:  Unifocal 
+Tumour involves: Left side uterus  
+Vascular/lymphatic invasion:  Present 
+Involvement of cervix:  Not seen
+Involvement of uterine serosa:  Not seen
+Excision margins:  
+Appear clear.
+Non-tumour uterus:  
+Adjacent endometrium:  Atypical complex hyperplasia 
+Polyps:  Endometrial polyp identified
+Adenomyosis:  Present
+Adnexae:  
+Left fallopian tube:Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved 
+Lymph nodes:  
+Nodes involved:  0
+Total number:  9
+Other tissues:  Omentum shows no evidence of metastatic tumour.
+FIGO IA
+T1a N0 M0
+B. No evidence of malignancy in four lymph nodes identified. 
+C.No evidence of malignancy in five lymph nodes identified. 
+D. Sections show fibroadipose tissue. No evidence of metastatic tumour. 
+Comment:  MSI immunohistochemistry stain in progress.
+DIAGNOSIS:  
+A. UTERUS, TUBES AND OVARIES
+- GRADE 3 ENDOMETRIOID ADENOCARCINOMA/ UNDIFFERENTIATED CARCINOMA.
+B. RIGHT PELVIC LYMPH NODE
+- NO EVIDENCE OF MALIGNANCY IN FOUR NODES.
+C. LEFT PELVIC LYMPH NODE
+- NO EVIDENCE OF MALIGNANCY IN FIVE NODES.
+D. OMENTUM
+- NO EVIDENCE OF MALIGNANCY.
+14/7/65 cy 
+SUPPLEMENTARY REPORT
+
+Immunostains for MSI proteins (The PNC Financial KATANNING HOSPITAL Lab; block: A15
+MLH1: Positive 
+PMS2: Positive
+MSH2: Positive
+MSH6: Positive
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+
+20/7/2065 nh
+

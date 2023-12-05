@@ -1,0 +1,63 @@
+SPR no: 34D859736O
+MRN no: 34185973
+Site_name: MATER ADULT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report34D85973 (34D859736O) FREEDMAN, Terrie
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Adenosarcoma of uterus on LLETZ cx biopsy.
+1. Uterus tubes and ovaries.
+2. Left pelvic node sentinel.
+3. Right pelvic node sentinel.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES, OVARIES + CERVIX&amp;quot;.  Received an already opened coronally total hysterectomy specimen of a total weight of 220g consists of a uterus measuring  100x75x55mm, the attached cervix measures 40x30x25mm, the right fallopian tube measures 80x10mm, the right ovary measures 35x20x15mm, the left fallopian tube 65x10mm and left ovary measures 30x20x15mm.
+
+The endometrium is thickened and polypoid at the body and fundus area over an area of 30x16mm. This area is located 40mm of the nearest cervical resection margin.No definite macroscopic involvement of the underlying myometrium is identified. The myometrium is up to 30mm thick. There is a well demarcated white whorled nodule at the left posterior body measuring 26x25x22mm. The anterior cervix is inked blue, posterior black.
+
+The endocervical area is irregular and velvety over an area of 30x15mm.  There is a polypoid exophytic lesion in the anterior right cervix measuring 16x12 mm with possible involvemnt of the underlying tissue to a depth of 8mm (out of 22mm maximum thickness). this lesion appears to be 20 mm of the proximal margin and 14 mm of the nearest resection margin. All cervical tissue is embedded.
+
+The outer and cut surface of the right tube is unremarkable. The outer surface of the right ovary reveals a cyst measuring 25mm in maximum diameter. The cut surface of the cyst reveals firm brown edge and central myxoid areas pushing the adjacent ovarian tissue to the periphery. The outer and cut surface of the left fallopian tube is unremarkable. The outer surface of the ovary reveals two cystic areas measuring 20 and 15mm, both of similar cut surface to the right ovary cyst (peripheral brown haemorrhagic and central myxoid).
+
+(1 right fallopian tube; 2&amp;amp;3 each one TS right ovary; 4 left fallopian tube; 5 left ovary; 6 RS one TS fibroid; 7-20 sections of the anterior uterus [7-12 each one LS of cervix from right to midline with block 7 being the right resection margin and block 10-12 containing poypoid lesion, 13-15 continuous slices of anterior uterus continuous with slice twelve, 13 isthmus, 14&amp;amp;15 body and fundus, 16-20 each one LS of the anterior cervix from midline to left with 20 left resection margin]; 21 onwards sections of posterior uterus [21-25 each one LS cervix from right to midline, 26-28 continuous slices LS posterior uterus [continuous with block 25]; 29 onwards LS posterior cervix from midline to left; 29&amp;amp;30, 31&amp;amp;32 one TS; 33&amp;amp;34 one TS; 35&amp;amp;36 one TS; 37-39 each one TS; 40 left resection margin). RS (M-40/ZH/ank)
+
+B.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;. A fibrofatty piece of tissue 25x15x5mm. Three lymph nodes are identified, largest measuring 16mm with grey homogenous cut surface. The smaller lymph nodes measures 10 and 6mm.
+
+(1 larger lymph node 5 TS; 2 two smaller lymph nodes larger is trisected). RS (M-2)
+
+C.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;. A fibrofatty piece of tissue measuring 20x15x5mm.  Three possible lymph nodes are identified, largest measuring 12mm, the smallest measures 6mm and 7mm.
+
+(1 larger lymph node four TS; 2 smaller lymph nodes).  RS (6-2/ZH/ank)
+
+MICROSCOPIC:   (Dr J Crehan)
+A. Sections show of the macroscopically described polypoid exophytic lesion of the anterior cervix show a Mullerian adenosarcoma. The tumour is characterised by a mixture of benign appearing glands and malignant stroma. The glands are lined by endoecervical and tubal epithelium and characterised by mild architectural irregularities. The glands are surrounded by condensed hypercellular atypical stroma with features in keeping with a sarcomatous component. The sarcomatous component shows variable atypia, with at least some foci showing high-grade features characterised by moderate cellularity and nuclear pleomorphism with a mitotic rate of approximately 7/10 hpf. There is focal rhabdomyosarcomatous differentiation. There is no evidence of sarcomatous overgrowth.
+
+The majority of the adenosarcoma is confined with a polyp. There are two foci favouring invasion of the wall of the cervix, to a maximum 2mm in a cervical wall thickness of 10mm (less than 50% involvement). The adenosarcoma has a maximum horizontal dimension of 20mm. There is no evidence of lymphovascular space invasion. There is no evidence of involvement of the endometrium, and the adenosarcoma is well clear of the ectocervical margin and of the serosal surface. Immunostains show that the sarcomatoid component is positive for Desmin, and S100 in the area of rhabdomyosarcomatous differentiation. The proliferative index (Ki67) is approximately 30%. Stains for Cam 5.2, AE1/AE3, CD31, CD34, CD117 and smooth muscle actin are negative.
+
+Sections of the endometrium show secretory phase morphology. A leiomyoma is confirmed. There is no evidence of cellular atypia or of increased mitotic activity. Sections of bilateral ovaries and fallopian tubes are unremarkable. The ovaries contain several cystic leutinised follicles.
+
+FIGO Stage 1b (FIGO Staging for adenosarcomas).
+
+
+Comment: In Mullerian adenosarcoma, the presence or absence of stromal overgrowth carries prognostic significance. The significance of a high-grade sarcomatous component and of rhabdomyosarcomatous differentiation are disputed.
+
+B. Sections show three benign reactive lymph nodes.
+
+C. Sections show three benign reactive lymph nodes. There is no evidence of metastatic malignancy.
+
+DIAGNOSIS:
+A. UTERUS, CERVIX, BILATERAL OVARIES AND FALLOPIAN TUBES
+- MULLERIAN ADENOSARCOMA OF THE CERVIX.
+- POLYPOID ARCHITECTURE WITH FOCAL INVASION OF CERVICAL WALL (2mm OF TOTAL WALL THICKNESS OF 10mm).
+- FIGO STAGE 1b.
+
+B. RIGHT PELVIC SENTINEL LYMPH NODE
+- THREE BENIGN REACTIVE LYMPH NODES.
+
+C. LEFT PELVIC SENTINEL LYMPH NODE
+- THREE BENIGN REACTIVE LYMPH NODES.
+
+14/10/2065 cy

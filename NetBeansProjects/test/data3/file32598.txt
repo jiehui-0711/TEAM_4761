@@ -1,0 +1,32 @@
+SPR no: 62B369283A
+MRN no: 6203692
+Site_name: CESSNOCK DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post menopausal bleeding.  Hysteroscopy D&amp;amp;C -&amp;gt; carcinosarcoma uterus.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix bilateral tubes ovaries&amp;quot;, consists of a uterus with attached fallopian tubes and ovaries and an amputated cervix.  In total, the specimen weighs 139g.  The uterus measures 75 x 60 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 20 x 20 to a depth of 35mm and appears dyed blue (surgical).
+On sectioning the anterior endometrium contains a friable mass over an area of 45 x 30mm, 30mm from the point of cervical amputation.  Posteriorly, there is a large friable tumour mass involving a majority of posterior cavity over an area of 70 x 60mm, 10mm from the point of cervical amputation.  The mass appears to involve the right and left uterine cornu.  The mass appears to invade through to the outer half of the myometrium.
+The right fallopian tube measures 50mm in length x 5mm in diameter.  The right ovary measures 22 x 10 x 8mm and has an unremarkable cut surface.  The left fallopian tube measures 55mm and 55mm in diameter.  The left ovary measures 20 x 12 x 8mm and has an unremarkable cut surface.  Representative sections
+Blocks: 1 &amp;amp; 2 - representative amputated cervix; 3 &amp;amp; 4 - full longitudinal section through anterior uterus; 5 - further section of tumour and anterior uterine body; 6 to 8 - full longitudinal sections through posterior uterine body; 9 to 11 - area of deepest invasion posteriorly; 12 - representative tumour; 13 - right fallopian tube; 14 - right ovary; 15 - left fallopian tube; 16 - left ovary.
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of fibroadipose tissue, measuring 45mm x 30mm x 12mm.  On sectioning no discrete mass is identified.  Representative sections in 3 blocks.
+C.  Specimen labelled &amp;quot;Left inner iliac sentinel lymph node&amp;quot;, consists of two lymph nodes measuring 10 and 2mm in maximum dimension.  The larger lymph node is serially sectioned.  Specimen all embedded in 2 blocks.
+Blocks: 1 - larger lymph node serially sectioned; 2 - smaller lymph node embedded whole.
+(TO:JL/eh 23/2/67)
+MICROSCOPIC (Reported by Dr Q Glesener):
+A.  Sections show a carcinosarcoma / malignant mixed Mullerian tumour of the endometrium.  The tumour is composed of grade 3 endometrioid adenocarcinoma (50%) and sarcoma (50%, no definite heterologous elements seen).  The tumour has a maximum depth of invasion of 12mm through a wall 13mm thick.  A moderate amount of lymphvascular invasion is seen. The ectocervix and endocervix are uninvolved and unremarkable.Both ovaries and tubes are unremarkable. MSI stains are pending.
+B.  Sections of the omentum show no evidence of malignancy.
+C.  The sentinel node protocol has been performed.  One of two lymph nodes shows a 0.1 x 0.1mm deposit of metastatic carcinoma.
+DIAGNOSIS:
+Carcinosarcoma / MMMT of the endometrium, depth 12mm through a wall 13mm thick.  Moderate lymphvascular invasion present.  Cervix uninvolved.  One of two sentinel nodes shows a 0.1 x 0.1mm deposit of metastatic carcinoma.  The omentum is negative.
+ADDITIONAL REPORT (27/1/66):
+Immunoperoxidase stains for MSI proteins:
+
+MLH1:  Preserved nuclear staining
+PMS2:  Loss of nuclear staining
+MSH2:  Preserved nuclear staining
+MSH6:  Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.

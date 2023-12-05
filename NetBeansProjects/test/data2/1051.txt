@@ -1,0 +1,37 @@
+
+Episode No:  77T8825757
+7778825.TOT
+
+BRAMLITT, Arvilla 
+Lab No:  77T88257,77T88257
+West Platti
+GUNNEDAH  WA  1630
+Specimen: Fluid,Tissue
+D.O.B:  4/5/1995
+Sex:  F
+Collected: 18/07/2012 at 13:18
+Location:  EMERGENCY - MANNUM DISTRICT HOSPITAL
+DR HANK LAURENCE PASQUA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+72 year old woman with grade 2 endometrioid adenocarcinoma.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, tubes & ovaries", consists of a uterus comprisingof corpus and cervix with attached left fallopian tube and left ovary.  The right fallopian tube and right ovary are received separately.   The specimen weighs 108g in total.  The uterus measures 80mm in length, 60mm in width and 50mm from anterior to posterior and has a dusky and irregular serosal surface.  The ectocervix measures 30 x 20mm and has an unremarkable surface.  On sectioning the entire endometrium appears replaced by a pale and fleshy tumour that in some areas abuts the serosal surface.  The maximal tumour thickness is 20mm and the underlying myometrium is 20mm in maximum thickness.  The right fallopian tube measures 70mm in length and up to 5mm in maximum diameter.  The fimbria is present and appears unremarkable.  The right ovary measures 25 x 15 x 5mm and is unremarkable.  The left fallopian tube shows signs of previous tubal ligation and measures 40mm in length and 5mm in diameter.  The left ovary measures 10 x 7 x 5mm and is unremarkable.   
+Blocks 1-4 - one full LS of anterior body and cervix; 5-7 - anterior corpus with tumour; 8-12 - one full LS of posterior body and cervix; 13 &14 - posterior corpus with tumour; 15 - tumour for tissue bank; 16 - right parametrial tissue; 17 - left parametrial tissue; 18 - right fallopian tube; 19 - right ovary; 22- left fallopian tube; 21 - left ovary.
+B.  Specimen labelled "Omental biopsy", consists of a piece of omentum 90 x 60 x 10mm.  On sectioning it is unremarkable.  Three representative sections in 1 block.
+(PG/ec 21.9.62) 
+MICROSCOPIC: (Reported by Dr U Rumbold) 
+A.  Sections of uterus show a moderately differentiated endometrioid adenocarcinoma (grade 2).  The carcinoma shows architectural grade with about 15% solid area.  The tumour cells show nuclear grade 2.  The carcinoma invades through the full thickness of myometrial wall and focally involves the serosa (block A3 and A4).  The maximal depth of tumour invasion is16mm and the thickness of myometrial wall is 16mm.  The carcinoma involves the endocervical glands and cervical stroma (block A8).  The ectocervix is not involved by the tumour and the cervical resection margin is clear.  There is extensive lymphovascular invasion by the tumour.  The parametrium is clear.  Both fallopian tubes and ovaries are unremarkable.  
+B.  Sections shownormal appearing omental tissue with no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Uterus, cervix, tubes and ovaries - Endometrioid adenocarcinoma (grade 2).
+B.  Omental biopsy - No significant abnormality.
+SUPPLEMENTARY REPORT (Reported by Dr U Blacher, 26.9.62)
+This case was discussed at the Gynae Oncology Tumour Board meeting on 25.9.62 and MSI immunoperoxidase stains were requested. 
+for mismatch repair gene products has been performed on block A4.
+MLH1:  Retained (positive) nuclear reactivity within tumour cells
+PMS2:  Retained (positive) nuclear reactivity within tumour cells
+MSH2:  Retained (positive) nuclear reactivity within tumour cells
+MSH6:  Retained (positive) nuclear reactivity within tumour cells
+Comment: No loss of expression of these mismatch repair gene products has been detected.  Although immunohistochemistry has relatively high sensitivity, it does not detect every tumour in which there is a mutation of one of these genes.
+

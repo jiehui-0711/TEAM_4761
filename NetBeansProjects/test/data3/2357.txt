@@ -1,0 +1,89 @@
+Episode No:  95U428136N
+9584281.KSN
+
+Rarden, FREDERIC 
+Lab No:  95U42813
+Gallows Branch
+DELORAINE  New South Wales  1565
+Specimen: Tissue
+D.O.B:  26/12/2000
+Sex:  F
+Collected: 9/3/2065 at:
+Location:  DAY SURGERYUNIT - HAWKER MEMORIAL HOSPITAL
+DR Indigo GABRIEL Ramiro-Pilarski
+Distribution:  
+CLINICAL:
+Right breast ca.  Wide local excision right breast.  AVR and LIMA graft.  Runs of VT intra-op.  Hyperkalaemia of 7.  Right breast lesion marked with sutures - long lateral, medium medial, short superior.  Axillary sentinel lymph node biopsy.  Count 2141 onlymph node.
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel lymph node" consists of a specimen of lymph node and surrounding fatty tissue 27 x 15 x 8mm.  There is one lymph node 9 x 8 x 4mm.  Serially sliced and AE 1 block.
+B.  Specimen labelled "Right breast lesion short superior, long lateral, medium medial" consists of a piece of breast tissue with three marking stitches measuring 70 (lateral to medial) x 50 (superiorto inferior) x 60mm (superficial to deep).  Margins are inked in three colours; superior - red, inferior - blue and deep - black.  Specimen is serially sectioned into twelve slices from medial to lateral.  Extending from slice five to slice ten there is an ill-defined pale, firm tumour 33 x 30 x 20mm.  The tumour is 25mm from medial, 13mm from lateral, 15mm from inferior, 30mm from deep, 12mm from superior and 3mm from inferior margin.  The remainder of the cut surfacesare fatty.
+Blocks:  1 to 5 - slice one (medial); 6 & 7 - paired sections mid slice four; 8 to 15 - all of the slice five (12 - ER, PR, Her-2, Ki 67; 14 - shave of tumour with no margin for reserved block); 16 to 25 - slice six; 26 to 34 - slice seven; 35 to 43 - slice nine; 44 to 46 - mid slice ten; 47 to 51 - slice twelve (lateral).  Please see the diagram.
+(TO: TP; ML/rt 9.4.65); 52 to 56 - slice two; 57 to 62 - slice three; 63 to 65 - deep third of slice four; 66 to 68 - superficial third of slice four; 69 to 73 - slice eight; 74 - deep slice ten; 75 to 77 - superficial third of slice ten (inferior margin on block76 is under cut); 78 to 82 - slice eleven AE.  Please see the diagram.
+(TO: UF; KL/rt 9.5.65)
+MICROSCOPIC (Reported by Dr Z Goodland):
+A.  Sections show a single lymph node with evidence of multifocal subcapsular isolated tumour cells less than 0.2mm, detected by cytokeratin immunostain.
+B.  The entire specimen has been embedded for assessment.
+Sections show a 17.5mm focus of grade 3 invasive ductal carcinoma arising in a background of extensive intermediate to high grade in-situ carcinoma (DCIS).  The invasive elements consist of irregular trabeculae and nests of high grade tumour cells, dispersed in a desmoplastic stroma.  The excision margins are clear of invasive tumour.  The DCIS can be seen both in association with the invasive lesion and also extending laterally in the adjacent tissue, present on a broad field measuring up to 52mm.  Both invasive and in-situ components display areas of apocrine differentiation (less than 50%), marked by eosinophilic granular cytoplasmand prominent nucleoli, also highlighted by strongly positive androgen receptor and focal PASD stain positivity.  The ducts involved by DCIS approach multiple surgical margins (lateral, inferior, and superior) where they are less than 0.5mm distant.  Cancerization of the lobules can be frequently seen.  Focal lymphatic space invasion is identified.
+Synoptic report to follow:
+Invasive carcinoma:
+Site:  Right breast.
+Type:  Invasive ductal carcinoma, NST with focal apocrine differentiation.
+Invasive tumour size:  17.5mm.
+Grade (Modified Bloom & Richardson):  3.
+Tubules:  3      Nuclei:  3     Mitoses:  3     Mitotic rate:  13/10hpf.
+Lymphovascular invasion:  Present (B10).
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  52mm.
+Nuclear grade:  Intermediate and high. 
+Architecture:  Solid, comedo, cribriform, and micropapillary with focal apocrine differentiation.
+Necrosis:  Present.  
+Calcification:  Present.
+Degree of DCIS in tumour:  Moderate DCIS is present within and at the periphery of the invasive tumour. 
+DCIS in adjacent tissue:  Extensively present with contiguous spread from the tumour site towards the lateral margin. 
+Excision Margins:  
+Invasive component:  Clear (>10mm).
+In-situ component:
+Lateral margin:  0.2mm (B49).
+Inferior margin:  0.3mm (B10).
+Superior margin:  0.5mm (B44).
+Superficial, medial, and deep margins:  Clear (>5mm).
+Receptors (Block B12): 
+ER:  Negative. 
+	 
+PR:  Negative.
+	 
+HER2 (Novocastra 10A7):  Positive (+3) with strong complete membrane staining in >30% of tumor cells
+HER2 SISH:  Performedat Capital One, ATHERTON HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 25%.
+Nipple:  N/A. 
+
+LCIS / ALH:  Absent.
+Miscellaneous:
+The breast parenchyma shows evidence of extensive apocrine metaplasia and fibrocystic changes at the vicinity of the malignant components.  There is also a spectrum of benign proliferative disease including columnar cell change and hyperplasia and usual ductal hyperplasia.  Some of the involved ducts demonstrate nuclearsize variation and prominent nucleoli, more in keeping with flat epithelial atypia rather than frank dysplasia.  An incidental small sclerosed fibroadenoma is identified.  Microcalcification is present in relation to both benign and malignant areas.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  One (1).
+Number of sentinel lymph nodes involved by tumour:  One (1).    
+Number of sentinel nodes with metastases >2.0mm:  Zero (0).  
+Number of sentinel nodes with metastases <2.0mm:  Zero (0).      
+Number of sentinel nodes with isolated tumour cells <0.2mm:  One (1).           
+	Detected by:  CAM 5.2 immunostain.
+Extranodal spread:  Absent.
+Axillary/other nodes:  N/A.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  One (1).           
+Totalnumber of involved lymph nodes (including sentinel node(s)):  One (1).           
+
+
+DIAGNOSIS: 
+A & B.  Right breast wide local excision and sentinel lymph node biopsy:
+	Grade 3 invasive ductal carcinoma with focal apocrine differentiation, 17.5mm in size.
+	Intermediate and high grade DCIS with necrosis and calcification, extending over 52mm.
+	Surgical margins clear of invasive carcinoma.
+	DCIS present in proximity to multiple surgical margins (see margin status).
+	Focal LVSI.
+	ER and PR negative, HER-2 positive (3+) on IHC.
+	One sentinel lymph node with evidence of isolated tumour cells (1/1).
+
+

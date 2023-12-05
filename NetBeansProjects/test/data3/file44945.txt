@@ -1,0 +1,50 @@
+SPR no: 15J941008W
+MRN no: 10502870
+Site_name: LOGAN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT: MSI MARKERS (5.7.2070)
+
+CLINICAL:
+Interval debulking for ovarian cancer.  After 3x carbo taxol.  Pre-op OT today.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cervix, uterus, bilateral tubes + ovaries&amp;quot;, consists of uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 53 grams in total.  The uterus measures 70 x 50 x 27mm and has a smooth shiny serosal surface.  The ectocervix measures 27 x 25mm and has an unremarkable surface.  The right fallopian tube measures 45mm in length with a maximum diameter of 6mm.  The right ovary measures 24 x 13 x 12mm.  The left fallopian tube measures 34mm with a maximum diameter of 6mm.  The left ovary measures 36 x 15 x 16mm.  On sectioning the posterior endometrium is 1mm in maximum thickness and the posterior myometrium is 13mm in maximum thickness.  The anterior endometrium is 1mm in maximum thickness and the anterior myometrium is 16mm in maximum thickness.  The left and right ovary have an unremarkable cut surface and the myometrium is unremarkable. The right fallopian tube appears disrupted, close to the uterus.  The left fallopian tube has a surgical clip indentation close to the uterus.  Blocks: 1 to 3 - full LS of posterior body and cervix; 4 to 6 - full LS of anterior body and cervix; 7 - bisected LS right fimbriae; 8 to 10 - trisected LS right ovary; 11 to 13 - serial transverse sections right fallopian tube from ovary towards uterus; 14 - two TS right parametrium; 15 - bisected LS left fimbriae; 16 to 18 - trisected LS left ovary; 19 to 21 - transverse sections left fallopian tube from ovary towards uterus; 22 - two TS left parametrium.
+
+B.  Specimen labelled &amp;quot;Spleen&amp;quot;, consists of a spleen weighing 93grams, after formalin fixation, and measuring 80 x 60 x 37mm.  The capsular surface is smooth, dull and grey with one linear disruption 13mm, with a nearby dark grey bullae 10 x 7mm.  The cut surfaces of the spleen appear unremarkable.  Blocks: 1 - RS spleen; 2 - RS hilar area spleen; 3 - RS spleen with bullae on capsular surface.
+
+C.  Specimen labelled &amp;quot;Falciform ligament&amp;quot;, consists of an unoriented irregular piece of fibrofatty tissue, which is fatty on one surface and has a smooth pale membrane on the other surface, measuring 30 x 28 x 9mm.  Inked blue.  Transversely sectioned and serially embedded across blocks 1 to 3.  AE.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a unorientated piece of fat 65 x 64 x 65mm.  The cut sections of the omental tissue appear pale and firm in regions and fatty in other regions.  Blocks: 1 to 5 - RS.  (TO:XJ/vo 25/6/66)
+
+
+MICROSCOPIC: (Reported by Dr C Coonse)
+A.  Sections of uterus show multiple serosal deposits of metastatic serous adenocarcinoma. There is no evidence of cervical or endometrial involvement. The endometrium shows cystic atrophy. There is a benign leiomyoma. There are very occasional microscopic serosal deposits of serous adenocarcinoma with psammomatous calcification on the right fallopian tube, right ovary, right parametrium and left parametrium.
+
+B.  Sections of spleen show a 0.5mm capsular deposit of metastatic (serous) adenocarcinoma. The splenic parenchyma shows preserved white and red pulp.
+
+C.  Sections show mature fibroadipose tissue with overlying dense fascia. There is no evidence of malignancy.
+
+D.  Sections of omentum show extensive involvement by metastatic high grade serous adenocarcinoma.
+
+
+DIAGNOSIS:
+A.  Cervix, uterus and bilateral adnexae: Multiple microscopic serosal deposits on uterus, right fallopian tube, right ovary and bilateral parametrium.
+
+B.  Spleen: Capsular deposit of metastatic (serous) adenocarcinoma.
+
+C.  Falciform ligament: No evidence of malignancy.
+
+D.  Omentum: Metastatic high grade serous adenocarcinoma.
+
+***SUPPLEMENTARY REPORT: MSI MARKERS (5.7.2066)
+Dr C Hallowich
+
+Immunoperoxidase stains for MSI proteins were performed and the results are as follows:
+
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+
+COMMENT:
+Preservation of staining with MSI immunoperoxidase stains indicates a low risk of microsatellite instability.

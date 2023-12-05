@@ -1,0 +1,62 @@
+SPR no: 41I572574S
+MRN no: 4135725
+Site_name: SOUTHERN CROSS HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT (7.1.66):
+
+CLINICAL:
+Ovarian masses, normal Ca 125.  Bilateral ovarian masses:  1.  Pelvic washings; 2.  Right broad ligament peritoneum (FS); 3.  Right and left ovaries; 4.  Endometrial curettings; 5.  Appendix.  Please note 3 request forms.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right broad ligament peritoneum&amp;#8221;, consists of an irregular tan piece of tissue, 5 x 3 x 2mm.  AE 1 block for frozen section.
+
+B.  Specimen labelled &amp;quot;Right and left ovaries&amp;#8221;, consists of a bilateral ovaries and fallopian tubes including right fallopian tube (60 x 8mm) and right ovary (55 x 45 x 40mm), left fallopian tube (55 x 6mm) and left ovary (80 x 53 x 45mm).  The ovaries have a bosselated nodular external surface and solid cut surface.  Representative right and left ovary sections taken.  On sectioning the lumen of the fallopian tube appears pale and obstructed.
+Blocks: 1 &amp;amp; 2 - right ovary; 3 &amp;amp; 4 - left ovary; 5 - right fallopian tube; 6 to 8 - further sections through right ovary; 9 - left fallopian tube; 10 to 12 - further sections through left ovary.
+
+C.  Specimen labelled &amp;#8220;Endometrial curettings&amp;#8221;, consists of scant fragments of pale tissue measuring 6 x 3 x 1mm in aggregate.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Appendix&amp;#8221;, consists of a vermiform appendix measuring 50 x 10mm.  The serosal surface with dull with evidence of adhesions.  There is no macroscopic evidence of perforation or mucinous exudate.  The wall measures up to 4mm thick and the lumen appears occluded.  No  circumscribed lesion is identified.
+Blocks: 1 &amp;amp; 2 - LS through base; 3 &amp;amp; 4 - TS through middle embedded from base to tip; 5 - LS tip.
+AE.  (TO:AP/eh 26/1/67)
+
+
+FROZEN SECTION REPORT:
+A.  Atypical mucin containing cells suspicious for metastatic adenocarcinoma.
+Phone result to Dr Perry by Dr K Barz at 5:19pm on 27/02/70.
+
+B.  Adenocarcinoma (Signet ring cell) consistent with metastasis.
+Phone result to Dr Guadalupe by Dr K Morelos at 5:49pm on 24/01/70.
+
+
+MICROSCOPIC: (Reported by Dr K Sulcer)
+A.  Sections of the peritoneal biopsy are of fibroadipose tissue showing metastatic poorly differentiated adenocarcinoma (signet ring cell morphology).
+
+B.  Sections of the right and left ovaries show diffuse infiltration by poorly differentiated (signet ring cell) adenocarcinoma. Focal infiltrative, malignant glands are also seen in the left ovary. The left fallopian tube shows focal infiltration by poorly differentiated adenocarcinoma. The right fallopian tube shows no significant abnormality.
+
+C.  Sections show scant fragments of endometrium showing infiltration by poorly differentiated adenocarcinoma (signet ring cell morphology).
+
+D.  Sections of appendix show extensive, diffuse transmural infiltration of the appendix by poorly differentiated (signet ring cell) adenocarcinoma. The diffuse sheets, linear files and single cell infiltrate of discohesive malignant signet ring cells, as well as, scattered moderately differentiated malignant glands, are associated with extensive desmoplastic stroma that largely effaces the appendiceal lumen. The carcinoma is seen at the line of resection, broadly extends to the free serosal surface and is seen in extra-appendiceal fibroadipose tissue. Within the lumen towards the base, there is an incidental serrated polyp with features favouring a sessile serrated adenoma. The polyp shows no dysplasia and extends to the appendiceal (base) resection margin. There is no evidence of dysplasia or carcinoma in situ.
+
+
+COMMENT:
+The bilateral ovaries, left fallopian tube, appendix and peritoneum show (metastatic) poorly differentiated (signet ring cell) adenocarcinoma. Immunohistochemical stains performed on representative tumour show CK20 and CDX2 positivity and negative GATA3, PAX8 and CK7. Whilst the pattern of immunohistochemical staining strongly supports gastrointestinal tract origin, it does not indicate a specific primary site. Possible primary sites of origin include appendix, gastric and pancreatico-biliary, and further investigation should be considered to exclude these possible primary sites.
+Please correlate with clinical findings.
+Results discussed with Dr Chong.
+
+
+DIAGNOSIS:
+A.  Right broad ligament peritoneum: Metastatic (signet ring cell) adenocarcinoma.
+
+B.  Right and left ovaries: Poorly differentiated (signet ring cell) adenocarcinoma.
+
+C.  Endometrial curettings: Poorly differentiated (signet ring cell) adenocarcinoma.
+
+D.  Appendix: Poorly differentiated (signet ring cell) adenocarcinoma, present at margins.
+Please see comment.
+
+
+SUPPLEMENTARY REPORT (7.12.69, Dr K Times):
+D.  Stains for mismatch repair enzymes have been performed as requested.
+There is preserved nuclear staining for MLH1, PMS2, MSH2 and MSH6.
+
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI).

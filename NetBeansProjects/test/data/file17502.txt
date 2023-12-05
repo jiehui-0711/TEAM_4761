@@ -1,0 +1,40 @@
+SPR no: 32U497910T
+MRN no: 32749791
+Site_name: REDCLIFFE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Possible serous carcinoma on uterine curettings in Dubbo but normal endometrium when reviewed by Delphi.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Fundal endometrial tissue for frozen sections&amp;#8220;, consists of  pink red tissue measuring 15 x 3 x 3mm. AE for FS.  Block 1 - FS tissue.
+
+FROZEN SECTION:  Progestogen effect, no evidence of malignancy.
+Result to anaesthetist by Drs J Ost/J Rahoche/J Diab at 12:49pm on 6/12/16.
+
+B.  Specimen labelled &amp;#8220;Uterus, cervix, bilateral tubes and ovaries&amp;#8220;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 275g in total.  The uterus measures 90 x 80 x 60mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 25mm and has an unremarkable surface.  On sectioning the endometrium is focally thickened on the posterior body at the fundus, up to 3mm thick, and the myometrium is 34mm in maximum thickness.  The myometrium contains three fibroids measuring from 6-30mm in maximum extent.  The right fallopian tube measures 50mm with an outer diameter of 6mm.  The right ovary measures 25 x 10 x 6mm and is unremarkable. The left fallopian tube measures 60mm in length with an outer diameter of 5mm.  The left ovary measures 30 x 17 x 6mm and is unremarkable.
+Block 1-10 - full LS of anterior body and cervix (4 &amp;amp; 5- one slice, 6 &amp;amp; 7 - one slice, 8 &amp;amp; 9 - one slice); 11-23 - all of the anterior endometrium; 24-28 - full LS posterior body and cervix; 29-40 - posterior body endometrium plus myometrium; 41-43 - RS of fibroids; 44-45 - RS of right adnexa (44 - fallopian tube; 45 - ovary); 46-47 - left adnexa (46 - fallopian tube; 47 - ovary).
+
+C.  Specimen labelled &amp;#8220;Omental biopsy&amp;#8220;, consists of fatty tissue measuring 55 x 45 x 10mm.  The cut surface shows uniform fatty tissue.  No focal lesions seen.  RS embedded in 3 blocks.
+(TO:  LM/ec  9.2.66)
+
+
+MICROSCOPIC (Reported by  Dr J Gangler):
+A.  Sections show fragments of endometrium with features of exogenous hormone effect. There is no evidence of malignancy.
+
+B.  Sections of the cervix are unremarkable.  The whole endometrium has been blocked.  Sections show that much of the endometrium is thin and inactive, and some shows features of exogenous hormone effect.  Foci of cyncytial and hobnail metaplasia are also noted.  There is no atypia or evidence of malignancy.
+Leiomyomas are confirmed in the myometrium, and there is also some adenomyosis in the myometrium.  The myometrium is otherwise unremarkable.
+Sections of the ovaries and fallopian tubes are unremarkable.
+
+C. Sections show unremarkable fat.  There is a focal mild surface mesothelial proliferation.  The appearances are otherwise unremarkable.
+
+
+DIAGNOSIS:
+A.  Fundal endometrium:  Exogenous hormone effect.
+
+B.  Uterus, ovaries and fallopian tubes:
+1.   Endometrium showing exogenous hormone effect.
+2.   Leiomyomas and adenomyosis.
+
+C.  Omental biopsy:  No significant abnormality.

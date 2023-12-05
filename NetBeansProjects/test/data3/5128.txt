@@ -1,0 +1,69 @@
+Episode No:  20O539972R
+205539.YTG
+
+Placzek, ABEL 
+Lab No:  20O53997,20O53997
+Golden Arrow
+GRENFELL    2479
+Specimen: Washings,Tissue
+D.O.B:  6/6/2008
+Sex:  F
+Collected: 10/12/2064 at 09:28
+Location:  LEETON DISTRICT HOSPITAL
+DR Terence MCSWEEN
+Distribution:  DR Fritz, DR IVAN,  FILE-COPY,   NSW-CANCER-REGISTRY
+HISTORY:  
+GI endometrioid adenocarcinoma.  Uterus, tubes and ovaries.   Omental biopsy.  
+MACROSCOPIC:  
+A.  "UTERUS, BILATERAL TUBES AND OVARIES".  A uterus with attached fallopian tubes and ovaries.  The right fallopian tube is 45x6mm and is unremarkable.  The right ovary is 25x15x15mm and is unremarkable.The left fallopian tube is 50x8mm and has a number of small cysts 1-4mm in diameter on the serosal surface.  These are semitransparent with walls less than 1mm in thickness and filled with clear fluid.  The left ovary is 30x20x12mm andis unremarkable.  The uterus weighs 120g and is 95mm from fundus to ectocervix.  The uterine body is approximately 50x50mm.  The uterine cervix is approximately 30x25mm and the external cervical os is 15x5mm.  The specimen has been opened prior to reception and there is significant/massive distortion.  The tumour invades 15mm into the myometrium which is approximately 23mm in thickness.  
+In the fundus, within the myometrium, there is a well demarcated white solid nodule 30mm in diameter with a white whorled surface.  This is directly alongside the tumour.  There is a second white whorled nodule with a well demarcated border 20mm in diameter directly inferior to this larger ?leiomyoma.  
+(1 right ovary; 2 right fallopian tube; 3 left ovary; 4 left fallopian tube; 5 right parametrium; 6 left parametrium; 7-10 posterior sagittal section from cervix to fundus' 11-14 anterior sagittal section from cervix to fundus;15-18 transverse sections through fundus showing relationship of tumour to leiomyoma and uterine wall).  RS (M-18) Further tissue 19-20 single section divided from fundus, 21-22 single section divided from fundus, 23 single section of tumour
+B.  "OMENTAL BIOPSY".  An irregular piece of fatty tasse 25x20x5mm.  AE (3-3/Dillman/nh)
+MICROSCOPIC:  (H. Kusner)
+Specimen A.  
+ENDOMETRIAL CARCINOMA: 
+Tumour type:  Endometrioid carcinoma
+FIGO grade:  1
+(architecture grade: 1, nuclear grade: 1 )
+Myometrial invasion:  Invasion limited to inner half of myometrium
+Depth ofmyometrial invasion:   8mm
+Myometrial thickness:   28mm
+% of myometrium invaded:   29%
+Focality:  Unifocal
+Tumour involves:  Fundus
+Vascular/lymphatic invasion:  Present
+Involvement of cervix:  Not involved
+Involvement of uterine serosa:  No
+Excision margins:  Clear of tumour
+Non-tumour uterus:  
+Adjacent endometrium:  Mild proliferative activity
+Adenomyosis:  Present superficial
+Benign leiomyomas
+Adnexae:  
+Left fallopian tube:  No significant abnormality
+Right fallopian tube:  Adrenocortical rest, otherwise no significant abnormality
+Left ovary:  No significant abnormality
+Right ovary:  No significant abnormality
+Lymph nodes:  Nil identified
+
+Other tissues:  
+B.  Omentum:  No significant abnormality
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage:  pT1a,  pNx,  pMx 
+FIGO stage:  IA
+DIAGNOSIS:  
+UTERUS:  WELL DIFFERENTIATED ENDOMETRIOID CARCINOMA.
+OMENTAL BIOPSY:  NO SIGNIFICANT ABNORMALITY.
+12/12/2064 nh
+SUPPLEMENTARY REPORT: 
+Immunostains for MSI proteins (The Kroger Douglass Hanly Moir Pathology; block: A19)
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect thepresence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+

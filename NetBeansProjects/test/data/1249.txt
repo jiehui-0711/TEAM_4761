@@ -1,0 +1,66 @@
+
+ 7893195.SHK
+Schoenfeld, Nieves
+78Y31957
+
+Last edited : 30/1/2062		Page: 2
+CLINICAL:
+Left mastectomy and axillary clearance. Multifocal inferior tumours medial tumour attached to pectoralis fascia - pectoralis fascia taken with specimen.  Macroscopically clear.  Axillary clearance, stitch marks apex.  Pectoralis minor taken with specimen. 
+MACROSCOPIC:
+Specimen labelled "Left breast plus axillary clearance stitch apex", consists of a total mastectomywith axillary tail, measuring 320mm medial to lateral, 150mm superior to inferior and 40mm superficial to the deep margin. An  ellipse of skin with nipple and areolar complex 240 x 90mm.  The skin surface is unremarkable.  The superficialmargin is inked blue, the deep margin black.  At the deep margin and close to the axillary tail a piece of skeletal muscle is identified 70mm from medial to lateral, 35mm from superior to inferior and 40mm from superficial to deep margin. On sectioning four tumours are identified.  Tumour 1 is located in the lower inner quadrant 60mm from the nipple.  It is 30 x 45 x 15mm.  Macroscopically it abuts the deep margin and is located 7mm from the inferior margin.  Tumour 2 is located in the lower outer quadrant 30mm from nipple.  It is 30 x 25 x 25mm.  Macroscopically the tumour abuts the superficial margin, is 15mm from the deep margin and more than 30mm from the inferior margin. Tumour 3 is located in the lower outer quadrant 90mm from the nipple. It is 30 x 20 x 20mm.  It is located 15mm from the deep margin, 20mm from the superficial margin and is clear from inferior and superior margin.Tumour 4 is located in the upper outer quadrant 110mm from nipple. It is 20 x 20 x 20mm. Macroscopically it is attached to skeletal muscle, 10mm from the deep margin, and 20mm from superficial margin.  In the upper outer quadrant and 45mm from the nipple there is an irregular and firm area 10 x 10mm.  It is well clear from the margins.  Eleven lymph nodes are identified ranging from 7-25mm.  Macroscopically many of the lymph nodes appear positive for metastatic tumour. 
+Block 1- nipple and areolar complex; 2 & 3 - representative sections of tumour 1; 4 & 5- representative sections of tumour 2; 6 & 7 - representative sections of tumour 3; 8 & 9 - two representative sections of tumour 4; 10 - tumour 4 with closest muscle margin; 11 - representative from irregular area in upper outer quadrant; 12 - one representative section upper inner quadrant; 13 - apical node; 14 - three lymph nodes; 15 - two lymph nodes; 16 - two lymph nodes; 17 -two lymph nodes; 18 - largest lymph node; 19 - reserved block taken from tumour 2.  
+(TO: QE: DE/ec 15.1.62) 
+
+MICROSCOPIC: (Reported by Dr S Tischer)  
+
+Invasive carcinoma:
+Site: Left breast, 4 x deposits at 3, 4, 5 and 7 o'clock, over a 250mm area.
+Type: Invasive ductal carcinoma, NOS
+Invasive tumour size: 30mm (7 o'clock), 30mm (5 o'clock), 30mm (4 o'clock), 20mm (3 o'clock)
+Grade (Modified Bloom & Richardson):   3
+Tubules: 3     Nuclei: 3     Mitoses: 3     Mitotic rate:  19/10hpf.
+Lymphovascular invasion:  Present (x4 foci)
+	    
+DCIS component:  
+DCIS:  Present
+Maximumextent of DCIS:  75mm (main duct beneath nipple to 6 o'clock)
+Nuclear grade:  High
+Architecture: Solid, cribriform
+Necrosis:   Present
+Calcification:  Present
+Degree of DCIS in tumour: Minimal 
+DCIS in adjacent tissue:  Present, extensive
+Excision Margins:  
+Invasive component: 1mm superficial and deep margins (no intervening normal ducts), other margins > 10mm 
+In-situ component: 1.3mm superficial margin (5 o'clock, no intervening normal ducts, block 4), other margins > 10mm
+Receptors (all 4 lesions, blocks 2, 4, 6 and 8): 
+ER:   negative
+	0 % of nuclei stained (internal and external controls show positive staining) 
+PR:   negative
+	0 % of nuclei stained
+HER2 (Novocastra 10A7): 3+
+Ki-67 index:  50%
+Nipple:  No evidence of Paget's disease
+LCIS / ALH:  Absent  
+Miscellaneous:
+The tumour abuts fibrous fascia. The pectoralis minor muscle shows no evidence of malignancy.
+Axillary nodes:
+Number of axillary lymph nodes examined: 12
+Number of axillary lymphnodes involved by tumour:  7 (up to 20mm in size, from all 3 levels)       
+Extranodal spread: Present, in 6 lymph nodes (in all 3 levels, up to 2mm over a 11mm front)   
+
+DIAGNOSIS:
+Left mastectomy and axillary lymph node dissection:
+- 4 deposits of invasive ductal carcinoma NOS, grade 3,ranging from 20mm to 30mm in size over a 250mm area, ER negative, PR negative, HER2 3+, HER CISH pending, Ki67 50%, 1mm superficial and deep margins, other margins > 10mm, lymphovascular invasion present
+- No evidence of malignancyin pectoralis minor muscle
+- 75mm high grade DCIS, 1.3mm superficial margin, other margins > 10mm
+- Metastatic carcinoma up to 20mm in size in 7 out of 12 lymph nodes, extranodal spread present.
+ADDITIONAL REPORT, 30/1/62:
+Material was sent to Dr S Bomkamp, ESPERANCE MULTI PURPOSE CENTRE Hospital, for HER-2 CISH testing, the results of which are as follows:
+Her-2 in-situ hybridisation: (Her-2 CISH Invitrogen SPOT-Light assay, block 4)  
+HER-2 CISH result: POSITIVE, high level amplified
+
+Mean HER-2 copy number per cell:  10.2
+Scoring Criteria (ASCO/CAP recommendations):  
+Non amplified (diploid) 1-2.5 copies.  Non amplified (polysomic) = 2.5 < 4 copies.  Equivocal = 4-6 copies.  Low level amplification = >6 but <10 copies.  High level amplified = 10 or more copies.
+

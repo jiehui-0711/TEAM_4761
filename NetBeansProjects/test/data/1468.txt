@@ -1,0 +1,114 @@
+
+ 7674742.AFM
+SWICKARD, Candance Marsha ESTELL
+76T47420
+
+Last edited : 10/11/2063		Page: 2
+
+ADDITIONAL REPORT:  (10.11.63)
+
+CLINICAL:
+Lt breast Ca - formastectomy + SLNBx +/- axillary dissection.  Imprint cytology on sentinel node.  Left mastectomy.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node 1" consists of a piece of fatty tissue 28 x 5 x 9mm.  Two lymph nodes 8 and 17mm are identified.  Each lymph node is serially sectioned and imprinted for cytology.
+Blocks: 1 - a1 node; 2 - a2 node. 
+  
+B.  Specimen labelled "Sentinel node 2 & 3" consists of two pieces of fatty tissue 20 and 35mm.  Two lymph nodes identified measuring 8 and 20mm.  Each imprinted for cytology.  
+Blocks: 1 - node b1; 2 - node b2.  AE.  
+FROZEN SECTION REPORT:
+Four nodes - no evidence of malignancy. 
+Results to Dr Hilstad by Dr Gast/Gaston at 17.25 on 30/7/13.  
+C.  Specimen labelled "Left breast" consists of a mastectomy received unorientated measuring 180mm (medial to lateral) x 170mm (inferior to superior) x 40mm (superficial to deep).  There is overlying ellipse of skin measuring 116mm (medial to lateral) x 7mm (inferior to superior).  The nipple is located on one side of the ellipse, this is presumed the inferior aspect of the skin and the breast isorientated as such.  The nipple areola complex measures 30 x 30mm.  The nipple appears slightly retracted.  The superficial margin is inked blue and the deep margin black.  In the 1to 2 o'clock position 45mm from the nipple there is a firm cream poorly circumscribed lesion measuring 40mm (medial to lateral) x 18mm (inferior to superior) x 23mm (superficial to deep).  The distance from margins is as follows.  Deep margin - 4mm, superior-superficial margin - 18mm, inferior, medial, lateral margins are well clear.  
+Blocks: 1 to 4 - full face of tumour to deep superficial and skin; 5 & 6 - further representative tumour to deep margin; 7 & 8 - tumour including superficial and deep margin; 9 - tissue medial to tumour; 10 - tissue lateral to tumour; 11 & 12 - representative inner upper quadrant; 13 & 14 - representative inner lower quadrant; 15 & 16 - representative outer lower quadrant; 17 & 18 -  representativeouter upper quadrant; 19 - nipple and tissue deep to nipple.  Please refer to attached diagram.  
+ (RR/ta 9/3/63) 
+ 
+  
+
+MICROSCOPIC (Reported by Dr T Lagrant): 
+A to C.  
+Invasive carcinoma:
+
+Site, size and type: 
+40mm mass at 1 to 2 o'clock, composed of 2 colliding tumours:
+ Tumour 1: 10 deposits of invasive lobular carcinoma, grade 2, up to 25mm in size over a 40mm area
+ Tumour 2 (lateral aspect of mass): 20mm invasive ductal carcinoma NST, grade 2
+A 2.5mm satellite deposit of invasive ductal carcinoma is seen at 6 o'clock, 50mm from main tumour mass.
+Shown to Dr MARCOS Bierly and Dr Stan SOULIER.
+Grade (Modified Bloom & Richardson):
+Invasive lobular carcinoma (tumour 1): grade 2       
+Tubules: 3  Nuclei: 2  Mitoses:1  Mitotic rate: 1/10hpf.
+Invasive ductal carcinoma (tumour 2): grade 2
+Tubules: 2  Nuclei: 3  Mitoses:1  Mitotic rate: 2/10hpf.
+Lymphovascular invasion:  absent
+	    
+DCIS component:  
+DCIS:   present
+Maximum extent of DCIS:  20mm
+Nuclear grade:   intermediate
+Architecture:  solid. cribriform
+Necrosis:  present
+Calcification:   absent
+Degree of DCIS in tumour:    <25%
+DCIS in adjacent tissue:  present, focal
+Excision Margins:  
+Invasive component:
+ Deep: 1.1mm (no intervening normal ducts)
+ Other margins: > 10mm
+DCIS:
+ Deep: 10mm
+ Other margins: > 10mm
+Receptors: 
+Invasive lobular carcinoma (tumour 1):
+ER:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:     strong
+PR:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:    strong  
+HER2 (Novocastra 10A7):  1+
+Ki67 index:  < 5%
+Invasive ductal carcinoma (tumour 2):
+ER:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:    strong
+PR:   positive
+	100 % of nuclei stained
+	predominant intensity of staining:   strong
+HER2 (Novocastra 10A7):  2+
+Ki67 index: 30 to 40%
+Nipple:  No evidence of Paget's disease
+LCIS / ALH:   Present
+Miscellaneous:
+A biopsy tract is seen in the lesion
+Sentinel lymph node(s):
+No. of sentinel lymph nodes examined:  4 (specimens A and B, 2 lymph nodes each)
+. of sentinel nodes involved by tumour:  0
+DIAGNOSIS
+A to C. Left mastectomy and sentinel lymph node biopsy:
+- 40mm mass composed of 2 colliding tumours:
+ Tumour 1: 10 deposits of invasive lobular carcinoma, grade 2, up to 25mm in size overa 40mm area, ER positive, PR positive, HER2 1+, Ki67 index, < 5%margins clear
+ Tumour 2 (lateral part of mass): 20mm invasive ductal carcinoma NST, grade 2, ER positive, PR positive, HER2 2+, Ki67 30 to 40%, margins clear
+- 2.5mm satellite deposit of invasive ductal carcinoma at 6 o'clock, 50mm from main tumour mass, margins clear   
+- 20mm of intermediate grade DCIS, margins clear
+- 4 lymph nodes with no evidence of malignancy
+- HER2 SISH to follow in a separate report
+
+ADDITIONALREPORT:  (10.11.63)
+HER2 IN SITU HYBRIDISATION reported by Dr T Linderholm, NORTHEAST HEALTH WANGARATTA Hospital:
+HER2 IHC Result:  ILC negative (1+) IDC Equivocal (2+)
+Signal detection hasbeen performed for the HER2 GENE (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+BLOCK C2
+HER2 Dual ISH result:  NEGATIVE (nonamplified, diploid)
+Mean HER2 copy number per cell:   1.9
+Mean CEP17 copy number per cell:  1.8
+HER2/CEP17 Ratio:  1.05.
+BLOCK C5
+HER2 Dual ISH result:  NEGATIVE (nonamplified, diploid)
+Mean HER2 copy number per cell:   1.9
+Mean CEP17 copy number per cell:  1.2
+HER2/CEP17 Ratio:  1.58.
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative:  HER2/CEP17 <1.8
+Equivocal:  HER2/CEP17 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2.
+

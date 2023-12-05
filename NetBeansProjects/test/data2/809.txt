@@ -1,0 +1,83 @@
+Episode No:  68W939710M
+688939.TEB
+
+Niten, BILL 
+Lab No:  68W93971
+West Linden Church
+KORUMBURRA  Northern Territory  4107
+Specimen: Tissue
+D.O.B:  4/10/1997
+Sex:  M
+Collected: 03/09/2012 at 09:24
+Location:  Pathology West-ROBINVALE DISTRICT HEALTH SERVICES - MANANGATANG CAMPUS
+DR BURTON Duane MOIR
+Distribution:  DR Penhall, DR STEWART,  FILE-COPY
+
+CLINICAL:
+Transverse colon cancer.  Extended right hemicolectomy and small bowel. 
+MACROSCOPIC:
+Patient details checked by XU
+Specimen labelled "Transverse colon", consists of a hemicolectomy specimen in three pieces. The largest piece consists of terminal ileum 50mm in length and up to 20mm in diameter attached to caecum and ascending colon 280mm in length.  The caecum measures 50mm in diameter and the ascending colon 30mm.  The appendix is identified and measures 110mm in length and up to 7mm in diameter. Two separate segments of small bowel are also present, measuring 120mm in length and 15mm in diameter and 50mm in length and 10mm in diameter. 
+Within the main specimen, the attached mesocolon measures approximately 300 x 100 x 30mm and shows fat wrapping around the ascending colon. On opening, an ulcerated, sessile polypoid tumour 36 x 18 x 7mm ispresent 35mm from the distal resection margin.  On section, the tumour extends into muscularis propria but not beyond it.  The ascending colon shows polyps up to 9mm in diameter.  A 15mm lipoma is present 20mm from the ileocaecal valve.  The mucosa of the terminal ileum is unremarkable. 
+Block 1 - proximal resection margin; 2 - distal resection margin; 3-5 - representative tumour; 6 - tumour reserve block; 7 -one ascending colon polyp; 8 - one ascending colon polyp; 9 - ascending colon lipoma; 10 - representative uninvolved colonic mucosa; 11 - mucosa terminal ileum; 12 - representative appendix; 13 - resection margin, separate longer piece of small bowel; 14 - representativelonger separate segment of small bowel; 15 - resection margin smaller separate segment of small bowel; 16 - representative small section of small bowel; 17 - apical node; 18-21 - mesocolonic lymph nodes. (KP/ec  11.5.62) 
+ 
+MICROSCOPIC: (Reported by Dr Z Bruckmeier) 
+Macroscopic Description
+
+Site of tumour: Transverse colon	
+Maximum tumour diameter:    36mm
+Distance of tumour to nearer cut end:    35mm
+Tumour perforation:   No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Extracellular pools of mucin are seen in about a quarter of the tumour.
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not applicable.
+Histological measurement from tumour to non-peritonealised margin: Not applicable
+Lymph nodes
+Number of lymph nodes present: 6
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas: One tubular adenoma with low grade dysplasia is present.
+Synchronous carcinomas (complete a separate form for each cancer): Not applicable
+Ulcerative colitis: Absent.
+Crohn's disease:Absent.
+Other:A submucosal lipoma is noted in the ascending colon.
+Pigmented macrophages are noted in the mucosa and submucosa.
+The appendix and terminal ileum show no significant abnormality.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy - Not applicable
+Grade 0 (complete response) - No viable cancer cells
+Grade 1 (moderate response) - Single cells or small groups of cancer cells
+Grade 2 (minimal response) - Residual cancer outgrown by fibrosis
+Grade 3 (poor response) - Minimal or no tumour kill; extensive residual cancer
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3 pN0 pMx R0
+CONCLUSION
+Transverse colon (extended right hemicolectomy): Moderately differentiated adenocarcinoma invading through muscularis propria, clear of margins, no metastases in 6 regional lymph nodes.
+ 
+

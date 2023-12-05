@@ -1,0 +1,152 @@
+DateOfBirth
+200810150000
+
+
+SiteName
+BONALBO HOSPITAL
+
+
+FirstName
+Gobin
+
+
+SPRID
+23X839664I
+
+
+MRN
+23883966
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Subtotal gastrectomy and lymphadenopathy for gastric cancer.  Anaemic.  Iron deficient.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Subtotal gastrectomy&amp;quot;, consists of a subtotal gastrectomy with attached lesser and greater omentum.  The lesser curvature of the stomach measures 120mm and the greater curvature measures 270mm.  The circumference of the stomach is 110mm.  4mm of tissue at the proximal and distal end of the stomach are sacrificed in removing staples.  The proximal margin is inked blue, and the distal margin is inked black.  The serosa shows a bulge however, no perforation is identified.  The mucosal surface shows patchy congestion and a fungating tumour 29 x 25 x 13mm located 50mm from the proximal margin, and 90mm from the distal margin.  The tumour is located within the gastric body on the posterior wall.  The lesser omentum measures 150 x 60 x 20mm.  The greater omentum measures 320 x 230 x 35mm.  On sectioning, the tumour appears as a semi-circumscribed tan solid mass invading through muscularis propria and abutting the serosa.  Blocks:  1 - proximal margin; 2 - distal margin; 3 to 7 - all of tumour abutting serosa; 8 to 19 - lymph nodes from lesser omentum (8 - two lymph nodes; 9 - three lymph nodes; 10 - two lymph nodes; 11 - one lymph node bisected; 12 - one lymph node trisected; 13 - one lymph node bisected; 14 - one lymph node; 15 - one lymph node trisected; 16 - one lymph node quadrisected; 17 - three lymph nodes; 18 - one lymph node trisected; 19 - one lymph node trisected); 20 onwards - lymph nodes from greater omentum (20 - one lymph node quadrisected; 21 - one lymph node trisected; 22 - one lymph node trisected; 23 - one lymph node quadrisected; 24 - one lymph node bisected; 25 - one lymph node in five pieces).  Tumour and normal gastric mucosa sampled for biobanking.
+
+B.  Specimen labelled &amp;quot;Common hepatic node&amp;quot;, consists of three lymph nodes from 5 to 20mm in size, and additional firm piece of tissue is identified 10mm wide ?other lymph node.  Blocks:  1 - two lymph nodes and ?other lymph node; 2 - 20mm lymph node in five pieces.  Some pieces fragmented.
+
+C.  Specimen labelled &amp;quot;Proximal splenic lymph node&amp;quot;, consists of two lymph nodes, 10 and 15mm with attached fatty tissue.  Blocks:  1 - 10mm lymph node bisected; 2 - other lymph node five pieces.
+
+D.  Specimen labelled &amp;quot;Level 1 lymph node&amp;quot;, consists of a lymph node 18mm in size with attached fatty tissue.  AE 2 blocks.   (TO:BL/hh 29/4/69)
+
+
+MICROSCOPIC (Reported by Dr H Donlyuk and registrar Dr H Seaver):
+A.  Sections show moderately differentiated adenocarcinoma of tubular type involving the gastric body measuring approximately 30mm across.  The tumour extends through muscularis propria and focally breaches the serosal surface.  Focal perineural invasion is present however, no lymphovascular invasion is identified.  The tumour is well clear of the proximal distal resection margins.  One (1) of the twenty-two (22) lymph nodes identified contain metastatic adenocarcinoma.
+B.  The four (4) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+C.  The two (2) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+D.  The single (1) lymph node identified shows no significant abnormality.  There is no evidence of malignancy.
+
+The overall features are as follows:
+
+Tumour site (location):
+Body
+Posterior wall
+
+WHO histological tumour type:
+Tubular adenocarcinoma
+
+Lauren histological tumour type:
+Intestinal
+
+Growth pattern:
+Infiltrating
+
+Maximal dimension of tumour:
+Approximately 30mm
+
+Local invasion (pT):
+T4a	Tumour invades serosa (visceral peritoneum)
+
+Serosal surface involvement:
+Present
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary):  Absent
+
+Large vessels (vein and artery):  Absent
+
+Perineural growth:
+Present
+
+Her2 status:
+Strong complete membrane staining in approximately 10% of the tumour within one representative section.
+
+Distance of tumour from margins:
+From proximal:  50mm
+From distal:  90mm
+From radial/circumferential (proximal/cardia tumours):  Not applicable.
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  22 (Specimen A), 7 (Specimens B to D)
+Number of lymph nodes involved:  1 (Specimen A), 0 (Specimens B to D)
+
+N1	Metastasis in 1-2 regional lymph nodes
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis:  Present
+
+Helicobacter infection:  Absent
+
+Intestinal metaplasia:  Present
+
+Dysplasia:  Present, clear of margins
+
+Gastric polyps:  Absent
+
+Barretts mucosa:  Absent
+
+Immunoperoxidase stains for MSI proteins (Block A7)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+DIAGNOSIS:
+A - D.  Subtotal gastrectomy and lymph nodes:
+- 30mm moderately differentiated adenocarcinoma of the gastric body, margins clear
+- pT4a  N1  MX
+
+
+
+
+
+
+SpecimenReceivedDate
+2735-08-31 00:00:00
+
+
+LastName
+Remley

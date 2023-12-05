@@ -1,0 +1,50 @@
+SPR no: 86L006749H
+MRN no: 86400674
+Site_name: BARWON HEALTH - MCKELLAR CENTRE CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report***SUPPLEMENTARY REPORT
+Dr V Mijangos
+
+CLINICAL:
+Serous endometrial cancer.  Right external iliac lymph node.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;R external iliac lymph node&amp;quot;, consists of a lymph node measuring 15 x 12 x 5mm.
+Blocks: 1 - frozen section tissue.  AE.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes + ovary&amp;quot;, consists of uterus with attached cervix, bilateral tubes and  right ovary weighing 88g in total.  The uterus measures 75 x 66 x 45mm and has a smooth serosal surface with  focal area of nodularity on both the anterior and posterior body.  The ectocervix measures 18 x 16mm and has an unremarkable surface.  On sectioning at  the fundus of both the anterior and posterior  body there is plaque ulcerated tumour measuring 30 x 25mm and 28 x 30mm respectively.  The  tumour has a thickness of 14mm and 10mm on the anterior and posterior body respectively.  The myometrium measures up to 15mm in thickness.  The myometrium show  a single  fibroid measuring 6mm across.  The right fallopian tube measures 60mm in length with an outer diameter of 4mm.  There is a paratubal cyst measuring 20mm across.   The cut surface of the cyst shows a unilocular cyst filled with clear fluid. The right ovary measures 20 x 8mm.  The cut surface of the ovary is unremarkable.  The left fallopian tube measuring 40mm and has an outer diameter of 7mm.  There is no identifiable fimbria.  There is no identifiable ovarian tissue.  The paratubal tissue measures 35 x 20 x 10mm.
+Blocks: 1 to 4 - full LS anterior body and cervix; 5 &amp;amp; 6 - RS tumour deepest invasion; 7 to 10 - full LS posterior body and cervix; 11 &amp;amp; 12 - RS tumour deepest invasion posterior; 13 - RS fibroid; 14 &amp;amp; 17 - RS right adnexa and apparent tubal cyst (14 &amp;amp; 15 - tube; 16 - paratubal cyst; 17 - RS right ovary;) 18 to 21 - RS left adnexa (18 - RS fallopian tube; 19 to 21 - all of the paratubal tissue).
+
+C.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of fatty tissue measuring 90 x 70 x 20mm.  The cut surface shows uniform fatty tissue.  No focal lesion is seen.  RS 3 blocks.  (TO: LM; LM/ta 11/8/66)
+
+
+FROZEN SECTION REPORT:
+Metastatic serous carcinoma CA.
+Result to Dr V Hauke by Dr V Ottino at 3:10pm on 5/9/16
+
+
+MICROSCOPIC: (Reported by Dr V Dehaven)
+A.  Sections of the right external iliac lymph node show a 3.3mm deposit of metastatic adenocarcinoma.
+
+B.  Sections of uterus show an high grade serous adenocarcinoma of the endometrium. The carcinoma expands the uterine cavity and infiltrates 11mm through a uterine wall 11mm thick and is present focally at the uterine serosal surface (B12). There is multifocal lymphovascular space invasion. A focus of serous adenocarcinoma also effaces the fallopian tube lumen and tubal wall with a separate focus in left adnexal tissue. The endometrium shows cystic atrophy. No cervical involvement by carcinoma is seen. There is a paratubal cyst.
+
+C.  Sections are of omentum and show no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right external iliac lymph node: Metastatic adenocarcinoma (1/1).
+
+B.  Uterus, cervix, bilateral fallopian tubes and ovary: Serous adenocarcinoma (high grade) of the endometrium with transmural uterine wall infiltration and focal serosal involvement (invasion 11mm into wall 11mm thick). Multifocal lymphovascular space invasion. Separate foci of adenocarcinoma involving left fallopian tube and adnexal tissue.
+
+C.  Omentum: No evidence of malignancy.
+
+
+***SUPPLEMENTARY REPORT (11/11/66):
+MSI markers were performed and the results are as follows:
+MLH1	Preserved nuclear staining
+PMS2  	Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining for MSI markers suggests low likelihood of microsatellite instability.

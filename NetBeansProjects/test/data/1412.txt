@@ -1,0 +1,78 @@
+
+Episode No:  72A249190K
+720249.EYB
+
+Marcks, Marty 
+Lab No:  72A24919
+Blease
+BONDI NORTH  QLD  3903
+Specimen: Tissue
+D.O.B:26/4/1988
+Sex:  M
+Collected: 25/03/2013 at 09:40
+Location:  Pathology North-THE QUEEN ELIZABETH CENTRE
+DR Pablo FLORENCIO Kofahl
+Distribution:  DR HOBERT, DR Alguire,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Caecal cancer, cirrhosis.  Right hemicolectomy. Liver biopsy. 
+MACROSCOPIC:
+A.  Specimen labelled "Right hemicolectomy" consists of a segment of ileum measuring 85mm inlength x 20mm in maximum diameter adjoined to the caecum and ascending colon measuring 270mm in length x 45mm in maximum dimension.  There is no attached appendix.  The bowel mesentery wraps around the caecum and ileocaecal valve area.The serosa elsewhere appears smooth and shiny.  On opening there is a necrotic circumferential exophytic tan tumour measuring 90 x 60 x 65mm which is located in the distal caecum adjacent to and invading through the ileocaecal valve.Tumour invades through the bowel wall into subserosal tissue.  The tumour is 65mm from the proximal surgical margin (ileum) and 190mm from the distal surgical margin (ascending colon).  Elsewhere the ascending colon has two polyps, one 5mmin maximum dimension, 75mm from the distal surgical margin and the other 7mm in maximum dimension, 96mm from the distal surgical margin.  
+Blocks: 1 & 2 - distal and proximal margins; 3 & 4 - colon polyps; 5 & 6 - tumour and caecum, tumour and ileum; 7 to 11 - representative tumour (7 - shows area of deepest invasion); 12 to 18 - lymph nodes (12 & 13 - nodes near vascular ties; 14 to 18 - other nodes).     (VF/Ta 27/5/63) 
+B.  Specimen labelled "Liver core biopsy" consists of a 18mm core biopsy.  AE 1 block.
+ 
+
+MICROSCOPIC:  (Reported by T Buckhalter) 
+A.  Sections of the caecal tumour show a moderately differentiated adenocarcinoma.  A synoptic report follows.
+Macroscopic Description
+
+Site of tumour
+Maximum tumour diameter:  90mm
+Distance of tumour to nearer cut end:  65mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+
+Differentiation by predominant area
+Moderate.
+Local invasion
+pT3   Beyond muscularis propria.
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  >10mm
+Lymph nodes
+Number of lymph nodes present:  13
+Number of lymph nodes involved:  0
+pN0   No regional LN metastasis
+
+Lymphovascular invasion
+Present (Mural and extramural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMx   Cannot be assessed histologically.
+Background abnormalities/other comments
+Sections of the two described polyps show no significant abnormality.  
+Residual tumour status
+R0   No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1  Loss of nuclear staining
+PMS2  Loss of nuclear staining
+MSH2  Preserved nuclear staining
+MSH6  Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+B.  Sections show a core of liver tissue.  There is fibrous expansion of portal tracts, there are fibrous bands linking portal tracts, and a few hepatocyte nodules are identified.  The features are consistent with cirrhosis.  There is a mild and focal moderate infiltrate of lymphocytes and occasional plasma cells and eosinophils in expanded portal tracts and fibrous bands.  There is only very focal piecemeal necrosis.  Bile ducts appear normal.  The hepatocytes in the lobules appear essentially normal.  There is minimal lobular inflammation.  
+With special stains there is no increase in stainable iron, a rhodanine stain for copper is negative, no alpha one antitrypsin globules are seenand an orcein stain for Hepatitis B surface antigen is negative.  
+The appearances are of a mild chronic hepatitis with cirrhosis.  The Metavir activity score is A1 (out of A3), and the fibrosis score F4 (cirrhosis).  No obvious cause for the cirrhosis is identified histologically.
+DIAGNOSIS:
+A.  Right hemicolectomy:  
+-  Moderately differentiated adenocarcinoma, no lymph node metastases (0/13).  
+pT3 pN0 pMX R0.  Loss of MLH1 and PMS2 staining. 
+B.  Liver biopsy:
+-  Mild chronichepatitis with cirrhosis, see text.
+   
+

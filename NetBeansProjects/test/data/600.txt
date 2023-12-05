@@ -1,0 +1,87 @@
+Episode No:  92C2430563
+921243.BOR
+
+CEREO, MAXWELL 
+Lab No:  92C24305
+East Lewis
+ABERDARE  Western Australia  3140
+Specimen: Tissue
+D.O.B:  25/11/2010
+Sex:  F
+Collected: 08/01/2013 at 15:33
+Location:  SXR-HUON REGIONAL CARE
+DR OSVALDO BART SWEENEY-EMIGHOLZ
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+ADDITIONAL REPORT:  (25.3.63)
+
+
+CLINICAL:
+R) 10 o'c carcinoma - wide local excision + sentinel node biopsy.  Suture - short superior, long lateral, medium medial.
+(Core - 92C24305 - invasive ductal carcinoma plus DCIS).  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node" consists of four nodes with attached fatty tissue measuring 12 to 24mm.  Nodes are serially sectioned, one node per block.  AE four blocks.
+B.  Specimen labelled "Right breast lesion; long lateral, short superior, medium medial" consists of a lumpectomy measuring 64 x 76 x 50mm with an overlying irregular piece of skin measuring up to 23 x 70mm.  There is a small naevus on the skin surface measuring up to 3mm in diameter.  The medial superficial margin is inked red, the lateral superficialmargin is inked blue and the deep margin is inked black.  The specimen is serially sectioned into eleven slices from inferior to superior.  There is an irregular firm white tumour present in slices 4 to 7 measuring 22mm (medial-lateral) x up to 20mm (superior-inferior) x 21mm (superficial-deep).  There is surrounding fibrosis extending to the medial, lateral and deep margins.  Macroscopically the tumour comes to within 10mm of the medial margin, 23mm of the lateral margin, 6mm of the deep margin, 14mm of the superficial margin, 10mm of the inferior margin and is well clear of the superior margin.  There is a further fibrotic area abutting the medial margin on slice 10 measuring up to 11 x 15 x 10mm.  The specimen is embedded according to the attached diagram.  
+Blocks:  1 to 4 - slice 1; 5 to 8 - slice 2; 9 to12 - slice 3; 13 to 16 - slice 4; 17 to 21 - slice 5 (deep edge is shaved in block 18); 22 to 27 - slice 6; 28 to 33 - slice 7; 34 to 36 - slice 10; 37 to 42 - slice 11.   (HI/cc  3/11/63) 
+ 
+MICROSCOPIC (Reported by Dr X Laverde): 
+A.  Two (2) of the four (4) lymph nodes identified contain metastatic ductal carcinoma.  These deposits measure 7mm and 3mm and there is no extranodalspread.  These two nodes show positive staining with CAM5.2.  
+B.  Sections show grade 3 infiltrating ductal carcinoma (IDC), Bloom and Richardson score 8 (t = 2, n = 3, m = 3).  The carcinoma is present in slices 3 to 10 (8 slices) and the estimated size is 20mm (medial to lateral) x 45mm (inferior to superior) x 15mm (superficial to deep) .  A focus of probable LVI (lymphovascular invasion) is seen at the periphery of the tumour.  The IDC is poorly circumscribed with outlying foci of infiltrative carcinoma.  The medial margin is positive in slice 5 where an outlying focus of IDC is present at the diathermied margin.  The deep margin is also focally positive in slice 3 and the lateral as well as the superficial margin adjacent to skin are well clear.  The estimated clearance at the superior margin is 5mm (no IDC in slice 11) and at the inferior margin 10mm (no IDC in slices 1 and 2).
+There is extensive high grade DCISof comedo and cribriform type accompanying the IDC. The estimated size of the DCIS is 25mm (medial to lateral) x 45mm (inferior to superior)  x 15mm (superficial to deep) and this estimate of size is similiar to that of the IDC.  The deep margin is focally positive and the closest other margins are medial (7mm) and superior (5mm).  The superficial margin adjacent to skin is 10mm clear.  The lateral and inferior margins are well clear. (no DCIS in slices 1 & 2).  
+DIAGNOSIS:  
+A & B.  Right breast - WLE plus sentinel nodes:
+Invasive carcinoma:
+Site: Right breast 
+Type: Infiltrating ductal, NOS
+Invasive tumour size: 20 x 45 x 15mm
+Grade (Modified Bloom & Richardson): 3
+Tubules:  2    Nuclei:  3    Mitoses:  3    Mitotic rate:  15/10hpf.
+Lymphovascular invasion:  present (probable)
+	    
+DCIS component:  
+DCIS:  present
+Maximum extent of DCIS: 25 x45 x15mm
+Nuclear grade:  high
+Architecture: comedo and cribriform
+Degree of DCIS in tumour:  [>25%]
+DCIS in adjacent tissue:  widespread
+Excision Margins:  
+Invasive component: medial - positive, deep - positive, superior - 5mm, inferior - 10mm, lateral and superficial - well clear.
+In-situ component: (DCIS):  medial - 7mm, deep - positive, superior - 5mm, inferior - 10mm, superficial (adjacent to skin) - 10mm, lateral - well clear. 
+Receptors (Block B23): 
+ER:  positive
+	90% of nuclei stained
+	predominant intensity of staining: strong 
+PR:  postitive
+	30% of nuclei stained
+	predominant intensity of staining: moderate
+HER2 (Novocastra 10A7): positive (3+)  Slides sent to COFFS HARBOUR BASE HOSPITAL for CISH. 
+Ki-67 index: 30%
+Nipple:  N/A
+LCIS / ALH:  present - widespread
+Miscellaneous:  Columnar cell change 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 4
+Number of sentinel nodes involved by tumour: 2 
+        
+Number of sentinel nodes with metastases >2.0mm: 2   
+Extranodal spread: absent
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel nodes):  4 
+Total number of involved lymph nodes (including sentinel nodes): 2
+ADDITIONAL REPORT:  (25.3.63)
+Report from GLADSTONE HOSPITAL Hospital, reported by:  Dr X Cherrin.
+HER-2 IN- SITU HYBRIDISATION
+
+HER2 IHC Result: 3+ (at WHYALLA HOSPITAL)
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEPI7) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:  POSITIVE (amplified)
+HER2 copy number per cell: 12.6 
+Mean CEPI7 copy number per cell: 2.1 
+HER2/CF17 Ratio: 60
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative:  HER2/CEP17 <1.8
+Equivocal:  HER2/CEP17 1.8 = 2.2
+Positive: HER2/CEPI7 >2.2
+

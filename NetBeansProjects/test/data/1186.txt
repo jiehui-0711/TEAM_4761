@@ -1,0 +1,118 @@
+
+Episode No:  59K847594T
+594847.PYK
+
+Trexler, ANNALISA 
+Lab No:  59K84759
+Quincey
+BACCHUS MARSH  Western Australia  5661
+Specimen: Tissue
+D.O.B:  27/12/1977
+Sex:  F
+Collected: 14/08/2012 at 09:17
+Location:  West-CALOUNDRA HOSPITAL
+DR MAURICE LETCHER
+Distribution:   FILE-COPY, DR LINO, DR Suddath,   NSW-CANCER-REGISTRY
+
+ADDITIONAL REPORT:  (5.3.63)
+
+CLINICAL:
+Ascending colon cancer.  Right hemicolectomy. 
+MACROSCOPIC:
+Specimen labelled "Bowel/right colon", consists of a right hemicolectomy comprising of a segment of terminal ileum measuring 40mm in length, 30mm in open circumference in continuity with caecum and ascending colon measuring 110mm in length with an open circumference of 60mm at the distal resection margin.  Situated on the ascending colon mucosa, 50mm from the proximal resection margin, there is a fungating tan tumour measuring 45 x 30mm. The cut surface of the tumour shows invasion through the bowel wall into the pericolic fat.  Appendix is identified measuring 55mm in length, 5mm in external diameter. Lymph nodes are identified measuring from 3-20mm across. Also included is a separate bowel segment with one staple edge measuring 20mm in length, 80mm in open circumference. A 10mm sessile polyp is present 10mm from the stapled margin.  
+Representative sections in fifteen blocks. 
+Block 1 - proximal margin; 2 - distal margin; 3-6 - tumour (3&4, 5&6 - full face); 7 - tumour research block; 8 - appendix;9 - apical lymph nodes; 10 - four lymph nodes; 11 - one lymph node bisected; 12 & 13 - four lymph nodes in each; 14 & 15 - separate bowel segment.  (FP/ec 16.10.62) 
+ 
+MICROSCOPIC: (Reported by Dr P Blovin) 
+ 
+Site of tumour: Ascending colon	
+Maximum tumour diameter:   45 mm
+Distance of tumour to nearer cut end:60 mm
+Tumour perforation:   No
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present:  14	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The separate piece of bowel shows a sessile serrated adenoma in the large bowel mucosa, 8mm clear the margin. There is no evidence of high-grade dysplasia or invasive malignancy. 
+The appendix is unremarkable.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Loss of nuclear staining
+PMS2		Loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Summary - TNM 7th Edition
+pT3    pN0     pMX     R0
+DIAGNOSIS
+Right hemicolectomy:
+	Moderately differentiated adenocarcinoma of the ascending colon, invading pericolic fat, margins clear
+	14 lymph nodes with no evidence of malignancy
+	Sessile serrated adenoma in separate bowel segment, margins clear	
+
+
+ADDITIONAL REPORT:  (27.3.63)
+Report from CHERBOURG HOSPITAL Cancer Centre, Northern Territory:  Reported by:  WADJARRI STJAMES.
+BRAF MUTATION ANALYSIS:
+
+SPECIMEN:
+Received from 8 GOOLAGONG CRESCENT Laboratory Service, 1 block labelled "59K84759.4".
+PATHOLOGY:
+Histological Typing: Adenocarcinoma.
+The sample was reviewed by a pathologist and was considered to have 70% tumour cells within the area selected for analysis.
+
+TEST DESCRIPTION
+The sample was analysed for mutations at or surrounding codon 600 within exon 15 of the BRAF gene encompassing the region containing 97% of all BRAF mutations, using high resolution melting (HRM) analysis (Catalogue of Somatic Mutations in Cancer [1]).  Abnormal HRM traces are subjected to DNA sequencing for characterisation.  This assay is capable of detecting BRAF mutations providing the mutant allele is present at a level of 10% or greater.
+RESULT:  	MUTATION DETECTED
+		BRAF: c.1799T>A: p.VaI600G1u (V600E)
+
+INTERPRETATION
+The p. Val600Glu (V600E) mutation in exon 15 of the BRAF gene was detected, which indicates that this tumour is unlikely to be sensitive to EGFR inhibitors.
+Comments
+BRAF mutations are found in 5-20% of colorectal cancers and 30-70% melanomas, in the majority of cases (90% in melanoma) the mutation results in the V600E protein change [1.2].  V600E specific BRAF inhibitors (e.g. Vemurafenib) have been developed to inhibit oncogenic BRAF in melanoma patients.  Trials of Vemurafenib have shown that melanoma patients with the BRAF V600K mutation may also benefit from treatment [3].  The presence of a BRAF mutation in colorectal cancer can be used to rule-out Lynch syndrome and it also indicates that the patient will be insensitive to EGFR inhibitors e.g. cetuximab [4].
+Please note:  Synonymous changes are not reported.
+Reference articles: 1) Catalogue of Somatic Mutations in Cancer:
+http://sanger.ac.uk/genetics/CGP/cosmic/.2). 2)Gamett and Marais (2004) Cancer Cell; 6:313-319. 3) Chapman et al, (2011) N Engl I Med (364)26: 2507.16.4) Sharma et al, (2010) Arch Pathol Lab Med; 134: 1225-1228, Reference Sequence GenBankAccession Number: BRAF NM_004333.4
+The nomenclature used is in accordance with the Human Genome Variation Society (HGVS) guidelines: www.hgvs.org.
+
+ADDITIONAL REPORT, 5/7/63:
+Sections were sent to Lowy Pathology,QLD for BRAF Mutation Analysis, the results of which are as follows:
+Summary:
+The somatic BRAF mutation V600E was PRESENT in tumour DNA from this patient. This finding indicates that methylation of the MLH1 gene promoter may be present but should be interpreted in association with other laboratory and clinical findings.
+Type of study: 
+Somaticmutation test
+Clinical details: cancer
+Background:
+Absence of MLH1 gene expression in a tumour can be due to heritable or somatic mutations in the MLH1 gene. Heritable mutations cause hereditary non-polyposis colorectal cancer (HNPCC, or Lynch syndrome) whereas somatic mutations cause non-familial cancers. A common type of somatic mutation involving the MLH1 gene is epigenetic silencing due to methylation of the promoter; epigenetic mutations are rarely familial. Hence the loss of MLH1 gene expression due to promoter
+methylation makes if very unlikely that the patient has a heritable mutation in the MLH1 gene.
+A specific somatic mutation in the BRAF gene, c.1799T>A (p.Val600Glu or V600E), is a useful surrogate marker for methylation of the MLH1 promoter in tumour tissue. The absence of the V600E mutation in tumour tissue is strongly associated (>95%) with absence of methylation of the MLH1 promoter. Absence of the V600E mutation is consistent with, but not diagnostic of, HNPCC.
+The presence of the V600E mutation is associated (75%) with methylation of the MLH1 promoter. The presence of the V600E mutation indicates that HNPCC is unlikely but does not exclude other familial cancer syndromes.
+Method:
+Mutation testing is performed on DNA isolated from paraffin-embedded tumour tissue. A region including nucleotide 1799 is amplified by PCR and the presence of the T>Amutation is determined by a single nucleotide primer extension assay. This assay will detect a mutation that is present in 5% or more of cells tested.
+References:
+NCBI reference sequence BRAF: NM_004333.4.
+Weisenberger DJ et al. Nature Genetics 2006;38:787. 
+Deng G et al. Clin Can Res 2004;10:191.
+Results:
+The tissue block 59 K84759 4 (Ameren Corporation) was used for this analysis. The tumour cell content was >70%. The BRAF mutation c.1799T>A (p.Val600Glu) was PRESENT in this sample.
+P Ojano
+Head, RENAL CLINIC Unit
+Referral site: South Western Area Cancer Clinic, TIMBOON & DISTRICT HEALTHCARE SERVICE
+

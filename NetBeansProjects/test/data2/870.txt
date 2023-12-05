@@ -1,0 +1,76 @@
+
+Episode No:  73I507933J
+733507.XKJ
+
+Clopper, Taunya 
+Lab No:  73I50793
+Birch Knoll
+ENCOUNTER BAY  Tasmania  3373
+Specimen: Tissue
+D.O.B:  30/6/1975
+Sex:  F
+Collected: 08/11/2012 at 12:03
+Location:  CORONARYCARE UNIT-WOLLONGONG HOSPITAL
+DR LAVONA GLEN HERGENRETER
+Distribution:   FILE-COPY
+CLINICAL:
+Right hemicolectomy.  Large ascending colon tumour.  Palpable lymph nodes.  Omentum resected en bloc as adherent to tumour.  Resection from TI to prox transverse colon.  T2dm.  Asthma.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a right hemicolectomy specimen comprising terminal ileum, caecum and ascending colon with attached appendix.  The specimen measures 250mm in length, the segment of terminal ileum is 90mm in length and the segment of caecum and ascending colon is 200mm in length.  At the level of the caecum is a large mass, 70mm (proximal to distal)with a piece of omentum and appendix attached. On sectioning and at the level of the mass is a circumferential and ulcerated tumour, 35mm (proximal to distal), it is located 100mm from the proximal margin, 120mm from the distal margin and 20mm from the ileal caecal valve.  On section, the tumour has a maximum thickness of 50mm and extends through the wall into the omentum.  The tumour extends close to the serosal surface of the omentum but appears clear of the cut margins of the omentum. The rest of the mucosal surface has a smooth and uniform appearance.   
+Blocks:  1 - proximal margin; 2- distal margin; 3 to 8 - representativesections from the tumour; 9 & 10 - representative sections from the tumour with appendix; 11 - tumour (reserved block); 12 - three lymph nodes; 13 - three lymph nodes; 14 - two lymph nodes.  (TO: PG; PG/mm 1.11.62) 
+MICROSCOPIC (reported by Dr S Ahlberg):   
+Macroscopic Description
+
+Site of tumour: Caecum.
+Maximum tumour diameter:   70mm
+Distance oftumour to nearer cut end:  100mm
+Tumour perforation:     No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Poor
+Local invasion
+pT4b	Tumour directly invades or is adherent to other organs or structures (omentum)
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not applicable.
+Histological measurement from tumour to non-peritonealised margin:  Not applicable
+Lymph nodes
+Number of lymph nodes present: 8
+Number of lymph nodes involved: 6	
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (Mural and Extramural)
+Perineural invasion
+Present (block 9)
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas: Absent.
+Synchronous carcinomas (complete a separate form for each cancer): Absent
+Ulcerative colitis: Absent.
+Crohn's disease: Absent.
+Other: The tumour is present very close to the opening of the appendix into the caecum.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy - not applicable
+Grade 0 (complete response) - No viable cancer cells
+Grade 1 (moderate response) - Single cells or small groups of cancer cells
+Grade 2 (minimal response) - Residual cancer outgrown by fibrosis
+Grade 3 (poor response) - Minimal or no tumour kill; extensive residual cancer
+Mismatch Repair Deficiency (MMRD) Status - not assessed	
+MLH1		Preserved nuclear staining/loss of nuclear staining
+PMS2		Preserved nuclear staining/loss of nuclear staining
+MSH2		Preserved nuclear staining/loss of nuclear staining
+MSH6		Preserved nuclear staining/loss of nuclearstaining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4b pN2 pMX R0
+CONCLUSION
+Caecum: Poorly differentiated adenocarcinoma invading through bowel wall into omentum, with metastatic carcinoma in 6 of 8 lymph nodes.
+

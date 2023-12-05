@@ -1,0 +1,87 @@
+
+Episode No:  87B084783C
+8700847.WJC
+
+Trippet, Kristen 
+Lab No:87B08478
+Asmus
+GOOLWA  Western Australia  2447
+Specimen: Tissue
+D.O.B:  12/10/2007
+Sex:  F
+Collected: 14/03/2013 at 13:02
+Location:  7.ACUTE CARE WARD-GUNNEDAH DISTRICT HOSPITAL
+DR Desmond MARCELINO HERMENAU
+Distribution:DR Judson,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast cancer 4 o'clock 7cm fn.  Hook wire localised WLE  + sentinel node biopsy.   Short stitch superior, medium medial, wide lateral.  New superior margin (extending posterior and inferiorly), margin double stitch inferior margin.  Med margin - stitch atnew medial margin.
+MACROSCOPIC:
+A.  Specimen labelled "Left sentinel node" consists of a lymph node 20 x 10 x 10mm.  AE 2 blocks.  
+B.  Specimen labelled "Left breast lump short superior, medium medial, wide lateral" consists of a irregular piece of fibrofatty tissue with two sutures and a hook wire for orientation measuring 40mm (medial to lateral) x 50mm (superficial to deep) x 60mm (superior to inferior) margin.  Superficial margin inked blue, deep margin black, medial margin green and lateral margin red.  The specimen is serially sectioned from super to inferior into twelve slices.  Slice one superior margin, slice twelve inferior margin.  On sectioning and in slices three to five there is a white gritty and poorly circumscribed tumour measuring 25mm from (superficial to deep) margin, 10mm (superior to inferior) margin and 10mm (medial to lateral).  Macroscopically and in slices three and four the tumour abuts the deep and lateral margins.  The rest of the parenchyma is unremarkable.   Representative sections taken accordingthe attached diagram. 
+Blocks: 1 - superior margin; 2 & 3 - slice two; 4 & 5 - slice three; 6 & 7 - slicefour; 8 to 10 - slice five; 11 & 12 - slice six; 13 - representative section from slice eight; 14 - representative section from slice ten; 15 - inferior margin.  
+  
+C.  Specimen labelled "Medium margin stitch at margin" consists of an irregular piece offatty tissue with one suture for orientation medial margin measuring 60 x 90 x 5mm.  The margin with the suture is inked blue, the opposite margin inked black.  AE 3 blocks. 
+D.  Specimen labelled "New superior margin single superior double inferior" consists of an irregular piece of fatty tissue with two sutures for orientation.  Single superior, double inferior measuring 50 x 40 x 10mm.  The superior margin inked blue, inferior margin black.  AE 10 blocks.
+ 
+E.  Specimen labelled "Left axillary tissue" consists of a nodular piece of tissue measuring 30 x 25 x 10mm.  On sectioning it appears to be a fatty lymph node.  Specimen is serially sectioned and AE 3 blocks.   (PG/ta 17/5/63) 
+MICROSCOPIC (reported by Dr W Claude):
+A - E.  Sections show invasive ductal carcinoma.  The features are as follows:
+Invasive carcinoma:
+Site:  Left breast. 
+Type:  Invasive ductal carcinoma. 
+Invasive tumour size:  15mm.
+Grade (Modified Bloom & Richardson):  1. 
+Tubules:  1    Nuclei:   2   Mitoses:   2   Mitotic rate:   9/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS:  2mm. 
+Nuclear grade:  Low grade. 
+Architecture:  Cribriform. 
+Necrosis:  Absent. 
+Calcification:  Absent. 
+Degree of DCIS in tumour:  Minimal. 
+DCIS in adjacent tissue:  Absent. 
+Excision Margins:  
+Invasive component (specimen B): Positive deep margin, 5mm from lateral, 8mm from superior, 9mm from medial, well clear of other margins. 
+In-situ component:  Confined within invasive tumour. 
+Receptors (Block B6): 
+ER:  Positive.
+	95% of nuclei stained
+	predominant intensity of staining:  Strong.  
+PR:  Positive.
+	90% of nuclei stained
+	predominant intensity of staining:  Moderate to strong.  
+HER2 (Novocastra 10A7):  Negative (score 1+).
+Ki-67 index:  Less than 5%. 
+Nipple:  Not applicable. 
+
+LCIS / ALH:   Absent.  
+Miscellaneous:  Specimen C & D (new margins) show no evidence of in situ or invasive malignancy. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 1.
+Number of sentinel lymph nodes involved by tumour: 1.
+Number of sentinel nodes with metastases >2.0mm:  0.  
+Number of sentinel nodes with metastases <2.0mm:  1.    
+	Detected by:  Light microscopy and Immunohistochemistry. 
+Extranodal spread:  Absent. 
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 1. 
+Number of axillary lymph nodes involved by tumour: 0.          
+Lymph node total:
+Total number of lymph nodesexamined (including sentinel node(s)):  2. 
+Total number of involved lymph nodes (including sentinel node(s)):  1.
+ADDITIONAL REPORT (6/12/63):
+Material was sent to Dr W Bendetti, DHM Pathology, GEORGE TOWN HOSPITAL AND COMMUNITY CENTRE Hospital, for HER-2 In-Situ Hybridisation analysis, the results of which are as follows:
+HER-2 IHC result:  1+ at YARRAM & DISTRICT HEALTH SERVICE
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:  NEGATIVE (nonamplified, diploid)
+Mean HER2 copy number per cell:  1.5
+Mean CEP17 copy number per cell:  1.4
+HER2/CEP17 Ratio:  1.07
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 < 1.8
+Equivocal:  HER2/CEP17 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+

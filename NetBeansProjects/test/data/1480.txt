@@ -1,0 +1,77 @@
+
+Episode No:  14T522274C
+1475222.SKC
+
+DEKLERK, KETURAH 
+Lab No:  14T52227
+Karns
+PENRITH  New South Wales  1423
+Specimen: Tissue
+D.O.B:  19/6/2013
+Sex:  F
+Collected: 08/08/2013 at 10:08
+Location:  Hereditary-LEONORA HOSPITAL
+DR CECIL MARCO MOTYKA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Rt breast cancer.  10 o'clock, 4cm FN.  WLE + sentinel node biopsy.  Right breast lump.  Short stich superior, long lateral, medium medial.
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node 1 right breast", consists of a lymph node 7mm inmaximum dimension with a small amount of attached fatty tissue.  AE 1 block. 
+B.  Specimen labelled "Sentinel node 2 right breast", consists of a lymph node 18mm in maximum dimension with a small amount of attached fatty tissue
+Blocks: 1 - one bisected lymph node.
+C.  Specimen labelled "Sentinel node 3 right breast", consists of a lymph node 16mm in maximum dimension and a small amount of attached fatty tissue.  
+Blocks: 1 bisected lymph node.
+D.  Specimen labelled "Right breast mass sutures long lateral short superior medium medial", consists of a piece of breast tissue with three marking stiches as described measuring 65 (lateral to medial) x 40 (superior to inferior) x 66 (superficial to deep)mm.  The overlying skin ellipse is 35 x 12mm and appears unremarkable.  Specimen is inked in three colours: superior red, superficial/inferior blue and deep black.  Specimen is serially sectioned into 8 slices from medial to lateral.  There is an irregularly shaped pale indurated tumour extending from slice 3 to 7 measuring 28 x 35 x 20mm.  The tumour is 6mm from superior, 17mm from superficial, 3mm from inferior, 25mm from deep, 17mm from medial and 15mm from lateral margins.
+Blocks: 1 to 3 - slice 1 (medial); 4 and 5 - slice 2; 6 to 9 - slice 3; 10 to 13 - slice 4 (ERPR HER2 Ki67 on block 11) ; 14 to 20 - slice 5 (18 reserved block); 21 to 26 - slice 6; 27 to 35 - slice 8 (lateral margin) please see diagram.  Please note: the specimen was x-rayed.   (TO: CK;WV/vo 11.10.63); 36 to 40 - remainder of slice 2; 41 to 44 - remainder of slice 3; 45 to 47 - remainder of slice 4; 48 to 53 - slice 7 AE.
+(TO; TF:WP/mm 14.10.63) 
+MICROSCOPIC (Reported by Dr F Hibbert):
+A.  Sections of sentinel node show no evidence of malignancy.
+B.  Sections of sentinel node show no evidence of malignancy.
+C.  Sections of sentinel show a 3mm deposit of metastatic lobular carcinoma. There is no extranodal spread of the tumour.
+D.  Sections show an invasive lobular carcinoma associated with extensive lobular carcinoma in situ (LCIS). A synoptic report follows.
+Invasive carcinoma:
+Site:  Right breast, 10 o'clock, 4 cm from nipple
+Type: Invasive lobular carcinoma
+Invasive tumour size: 61mm (across all8 slices)
+Grade (Modified Bloom & Richardson): 1
+Tubules: 3     Nuclei: 1     Mitoses: 1     Mitotic rate:      2/10hpf.
+Lymphovascular invasion:  Not seen
+	    
+DCIS component:  Absent
+
+Excision Margins:  
+Invasive component:
+Superior2.5mm (Block D4)
+Inferior            2mm (Block D11)
+Medial            0.8mm (Block D2)
+Lateral            3mm (Block D31)
+Superficial      >10mm
+Deep               >10mm
+Receptors (Block D11): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining: Strong
+PR:  Positive
+	40% of nuclei stained
+	predominant intensityof staining: Strong
+HER2 (Novocastra 10A7): 1+
+HER2 SISH:  Performed at Schering-Plough, GREAT OCEAN ROAD HEALTH - LORNE COMMUNITY HOSPITAL Hospital, see separate report.
+Ki-67 index: 1%
+e-cadherin: Negative
+Nipple:  Not included
+LCIS / ALH:  Present extensively  
+Miscellaneous: 
+Focal areas of fibroadenomatoid change are seen in the breast. 
+The overlying skin shows no significant abnormality.
+DIAGNOSIS:
+A.  Sentinel node 1, right breast
+- NEGATIVE FOR METASTATIC CARCINOMA
+B.  Sentinel node 2, right breast
+- NEGATIVE FOR METASTATIC CARCINOMA
+C.  Sentinel node 3, right breast
+- POSITIVE FOR METASTATIC CARCINOMA
+D.  Right breast mass
+- 61MM INVASIVE LOBULAR CARCINOMA, GRADE 1
+ADDITIONAL REPORT (Reported by Dr F Shike on 21.10.2063)
+The remainder of Specimen D has been totally processed and examined. The diagnosis and margins clearance are unchanged.
+

@@ -1,0 +1,80 @@
+
+Episode No:  43J430232G
+433430.FIF
+
+MEHLHAFF, Hobert 
+Lab No:  43J43023
+Reseau
+MOREE  Western Australia  6413
+Specimen: Tissue
+D.O.B:  25/12/1993
+Sex:  F
+Collected: 30/04/2013 at 09:27
+Location:  NSW Health-MACQUARIE HOSPITAL
+DR Alfredo Daryl Zumpfe
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (12.7.63):
+
+
+SUPPLEMENTARY REPORT (9.7.62):
+
+
+CLINICAL:
+(R) Mastectomy.  (R) axillary LN dissection.  (Neoadj Rx with AI for 3/12).  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast, short axillary tail long medial" consists of a mastectomy which measures 180mm (medial to lateral) x 170mm (superior to inferior) x 40mm in depth.  There is an overlying triangular piece of skin which measures 120 x 120mm.  The nipple and areolar complex measures 35 x 25mm.  Deep margin is inked black, superficial margin is inked blue.  On sectioning a tumour is identified in the lower outer quadrant.  It is 35mm from the nipple and measures 20 x 15 x 25mm.  It is 7mm from the deep margin and is well clearof other margins.  No lymph nodes are identified in the axillary tail end of the specimen.  There is some skeletal muscle on the deep surface of the specimen, deep to the tumour. 
+Blocks:  1 & 2 - tumour with deep margin; 3 - tissueinferior to tumour; 4 - tissue superior to tumour; 5-6 - representative upper inner quadrant; 7- representative lower inner quadrant medial to tumour; 8 - representative lower inner quadrant; 9-10- representative upper outer quadrant; 11-12 - representative outer lower quadrant; 13 - representative nipple; re-select - 14,15 - tumour, 16-19 - deep margin; 20-22 - inferior margin.  (Block 2 reserved block).  
+B.  Specimen labelled "Right axilla level I & II" consists of an unorientated piece of fibroadipose tissue which measures 90 x 75 x 25mm.  Multiple lymph nodes are identified.  
+Blocks:  1 to 3 - lymph nodes; 4 & 5 - one lymph node bisected; 6 - one lymph node bisected; 7 & 8 - lymph nodes; 9 - lymph nodes.   (TO: IQ: TY/mm 2.6.63) 
+MICROSCOPIC (reported by Dr M Shodunke): 
+A, B.  Sections show a grade 2 infiltrating ductal carcinoma.  The tumour is more extensive in the sections than was evident macroscopically, and measures 55mm in main diameter.  It consists of cords, islands and trabeculae of cells; in some areas these invasive groups of cells are somewhat separated by fibrous tissue, consistentwith a degree of chemotherapy effect, but there is still extensive apparent viable tumour present.  Tumour focally extends to the deep excision margin.  Other margins are well clear.  There is metastatic tumour in two axillary lymph nodes.  A synoptic report follows:  
+A & B.  Invasive carcinoma:
+Site: Right breast, LOQ, mastectomy. 
+Type:  Infiltratingductal carcinoma. 
+Invasive tumour size:  55mm.
+Grade (Modified Bloom & Richardson):  2.
+Tubules:  3    Nuclei:   2   Mitoses:  1    Mitotic rate:  2 /10hpf.
+Lymphovascular invasion:  Present - focal (block A16).
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS:  55mm. 
+Nuclear grade:  Intermediate.
+Architecture: Solid, cribriform. 
+Necrosis:   Present.
+Calcification: Present. 
+Degree of DCIS in tumour:  <25%.
+DCIS in adjacent tissue:  None/minimal. 
+Excision Margins:  
+Invasive component: Deep 0mm (block A1, A2), all others >10mm.
+In-situ component: Deep 4mm, all others >10mm. 
+Receptors (Block A2): 
+ER:  Positive.
+	100% of nuclei stained
+	predominant intensity of staining:  Strong. 
+PR:  Negative.  (Note: PR staining of previous core biopsy 43J43023 was positive). 
+	0% of nuclei stained
+	predominant intensity of staining:  
+HER2 (Novocastra 10A7): Equivocal. 
+Nipple:  Normal. 
+LCIS / ALH:  Absent.    
+Miscellaneous:  Foci of sclerosing adenosis and moderate hyperplasia of usual type are noted elsewhere in the breast.  There is also some benign microcalcification.
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 19. 
+Number of axillary lymph nodes NOT involved: 17.
+Number of axillary lymph nodes involved by tumour: 2.          
+Number of axillary nodes with metastases >2.0mm:  2.  
+Extranodal spread:   Absent. 
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   19.
+Total number of involved lymph nodes (including sentinel node(s)):   2.
+DIAGNOSIS:  
+A, B.  Right breast and right axillary tail:  55mm diameter grade 2 infiltrating ductal carcinoma with two axillary lymph node metastases (2/19).  ypT3  pN1c.  
+SUPPLEMENTARY REPORT (9.7.62):
+A.  A Ki-67 stain shows a low proliferation index, around 2%.
+SUPPLEMENTARY REPORT (12.7.63):
+Her-2 ISH has shown a negative (nonamplified, diploid) result.
+Mean Her-2 copy number per cell:   1.4
+Reported by Dr M Vilkama.
+ 
+

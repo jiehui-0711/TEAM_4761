@@ -1,0 +1,23 @@
+SPR no: 43Q846814K
+MRN no: 4368468
+Site_name: RICHMOND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right breast angiosarcoma.  Prior WLE and adjuvant R Rtx.  Preop chemotherapy attended.  Markings - long lateral, short superior, medium medial.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Right mastectomy long lateral, short superior, medium medial&amp;#8220;, consists of a mastectomy specimen with orientating sutures as described with overlying skin ellipse measuring 215 x 205mm with specimen measuring 220 x 205 x 55mm. Superficial surface inked blue, deep margin inked black.  There is a scar measuring 65mm in length from 2-8 o&amp;apos;clock 40mm from the nipple.  At the 2 o&amp;apos;clock end of the scar is a black nodule measuring 15 x 10 x 6mm.  Underlying the scar at the deep tissue margin is an area of puckering at the 8 o&amp;apos;clock end of the scar 40mm from the nipple.  Underlying the scar from the skin to deep tissue margin is a scarred area that is white and fibrotic and firm.  This area underlies the entire length of the scar and measures 55mm medial to lateral, 45mm superficial to deep and 35mm superior to inferior. It is 10mm from superficial margin, 10mm from deep margin, 60mm from medial margin, 105mm from lateral margin, 40mm from superior margin, and 165mm from inferior margin.
+Blocks: 1-5 - rep sections scarred area; 6 - deep margin with area of puckering; 7 &amp;amp; 8 - rep sections scarred area; 9 &amp;amp; 10 - area underlying black nodule on skin; 11 - axillary lymph node and upper outer quadrant; 12 - upper outer quadrant; 13 - lower outer quadrant; 14 - lower outer quadrant; 15 &amp;amp; 16 - upper inner quadrant; 17 &amp;amp; 18 - lower inner quadrant; 19 - nipple areolar complex; 20-23 - black nodule (20 - medial, 23 - lateral).  Comment all of the black nodule on the skin has been embedded.
+
+
+MICROSCOPIC (Reported by Dr K Boyte):
+The black nodule at the end of the scar described macroscopically is a high grade vascular tumour consistent with angiosarcoma.  The tumour shows strong positive staining with CD31 and CD34 and is negative with panCK.  The Ki-67 index is approximately 40%.  The tumour invades to a depth of approximately 6mm and lies well clear of skin and soft tissue margins.
+The breast tissue deep to the scar shows fibrosis, focal myxoid degeneration and atypical stromal cells consistent with the previous therapy.  Scattered benign luminal calcification is noted.  The nipple shows no significant abnormality.  The remainder of the breast is benign.
+
+
+DIAGNOSIS:
+Right breast:
+- Angiosarcoma, margins clear.
+- Changes consistent with previous therapy.

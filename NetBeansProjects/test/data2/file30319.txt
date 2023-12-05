@@ -1,0 +1,22 @@
+SPR no: 99I623534A
+MRN no: 9936235
+Site_name: VICTORIAN HEART HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Adenocarcinoma in situ of the cervix.
+Note: Previously reviewed adenocarcinoma in situ of cervix (tubal type) noted, however, slides not present for direct comparison as this was an outside review.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Cervix, uterus plus bilateral tubes&amp;quot;, consists of a uterus with attached cervix, and bilateral tubes and weighs 90g in total.  The uterus measures 75 x 60 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 24mm and has an unremarkable surface.  On sectioning the endometrium is 1mm in maximum thickness and the myometrium is 19mm in maximum thickness.  The myometrium is unremarkable.  The anterior cervix has been embedded from right to left and posterior cervix is embedded from left to right.  The right fallopian tube measures 80mm in length with an outer diameter of 4mm.  Left fallopian tube measures 65mm in length with an outer diameter of 4mm.
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to 13 - all of the anterior cervix embedded from right to left; 14 to 17 - full LS of posterior body and cervix; 18 to 25 - all of the posterior cervix from left to right; 26 &amp;amp; 27 - RS of the right fallopian tube; 28 &amp;amp; 29 - RS of the left fallopian tube.  (TO:LM/rs 20/10/65)
+
+
+MICROSCOPIC: (Reported by Dr X Smay)
+The ectocervix and endocervix has been examined in its entirety at multiple levels. Changes consistent with an organising biopsy site are seen. The ectocervix shows no significant abnormality. The endocervical mucosa is partially distorted by the biopsy site and shows extensive tubal metaplasia, as well as, focal squamoid metaplasia. Focally, the tubal metaplasia shows mild atypia favoured to be reactive in nature. There is no significant endocervical epithelial nuclear enlargement, nucleoli, stratification or mitotic activity. There is no evidence of adenocarcinoma in situ. The endometrium is late secretory. The myometrium shows extensive adenomyosis, focal endosalpingiosis and a leiomyoma. The bilateral fallopian tubes show no significant abnormality. There is no evidence of atypical complex hyperplasia or malignancy.
+
+
+DIAGNOSIS:
+Uterus and cervix:
+- Cervix shows focal organising biopsy site, extensive tubal metaplasia and reactive type change with no evidence of residual adenocarcinoma in situ.
+- Late secretory endometrium, adenomyosis, endosalpingiosis and leiomyoma.
+- No evidence of malignancy.

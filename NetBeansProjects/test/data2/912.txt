@@ -1,0 +1,29 @@
+Episode No:  14C839280D
+1408392.VAD
+
+Candanoza, JULIET 
+Lab No:  14C83928
+Old Canada
+MULWALA  Australian Capital Territory  6733
+Specimen: Tissue
+D.O.B:  3/10/1981
+Sex:  F
+Collected: 07/01/2013 at 03:10
+Location:  Pathology North-MOUNT ISA  HOSPITAL
+DR MERVIN MAXWELL LENIG
+Distribution:   FILE-COPY
+CLINICAL:
+Small bowel resection ?carcinoid tumour.  Cardiac hx, Ht.
+MACROSCOPIC:
+Specimen labelled "Small bowel" consists of a portion of bowel 302mm in length and up to 40mm in maximal diameter.  There is a stricture present 42mm from one end.  On opening, the lumen is narrowed by a sessile tumour measuring 16mm wide and 18mm long.  There is a nodule measuring 4mm diameter on the serosal surface located 110mm from the end closest to the tumour.  The mucosa away from the tumour is oedematous but otherwise unremarkable. 
+Blocks:  1 - serosal surface with nodule; 2 - margin distant from tumour; 3 - LS margin close to tumour; 4 - full face tumour with deepest extension; 5 - tumour with normal mucosa away from margin; 6 - tumour with normal mucosa closest to surgical margin; 7 - tumour reserve block if appropriate; 8 & 9 - mesentery with possible lymph nodes.
+(HH/cc  9/3/63) 
+ 
+MICROSCOPIC (Reported by Dr C Nahari):
+Sections show small intestinal wall with a neuroendocrine tumour.  This consists of nests, trabeculae and cords of cells with medium sized and large, relatively uniform round nuclei and a moderate amount of eosinophilic cytoplasm.  The nuclei have fine granular chromatin and sometimes a small nucleolus.  Some tumour cells have pink cytoplasmic granules.  The tumour forms occasional small glands.  The mucosal surface of the tumour is ulcerated.  It arises from the mucosa and invades through the muscularis propria with an infiltrative appearance, and into subserosal tissue.  It appears to breach the serosal surface very focally.  The assessment of lymphovascular invasion is difficult because of retraction artefact around the tumour cell nests but there is considered to be some lymphovascular invasion in the bowel wall and also multifocal lymphovascular invasion in the attached mesentery.  No perineural invasion is identified.  Mitoses are infrequent, less than 1 per 10 high power fields, and there is no tumour necrosis.  The proliferation index with a Ki-67 stain is low, estimated at 2%.  With other immunostains the tumour cells stain strongly chromogranin positive and also show some patchy, weaksynaptophysin positivity.  
+The sections of small bowel elsewhere are unremarkable and the proximal and distal margins are well clear.  The described separate serosal nodule is a focus of scarring and foreign body reaction, possiblyrelated to previous surgery; no tumour is seen in this nodule.
+Only two very small lymph nodes were identified in the mesentery despite repeated careful searching and these are both free of tumour.  However mesenteric tumour in vessels is likely to come close to proximal vascular margins in the attached mesentery.    
+The appearances are of a well differentiated neuroendocrine tumour (carcinoid tumour, WHO grade 1).  
+DIAGNOSIS:  
+Small bowel segment:  Well differentiated neuroendocrine tumour (carcinoid tumour, WHO grade 1).  pT4 N0.  Multifocal lymphovascular invasion in mesentery, see text.
+

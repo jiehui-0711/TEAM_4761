@@ -1,0 +1,20 @@
+SPR no: 36F792773P
+MRN no: 36279277
+Site_name: MARGARET RIVER HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Grade 1 endometrioid endometrial cancer.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 95g.  The uterus measures 105 x 55 x 45mm and has a smooth shiny serosal surface.  The ectocervix measures 25 x 20mm and has an unremarkable surface.  The anterior cervical margin is inked blue and the posterior surgical margin is inked black.  On sectioning, the endometrial cavity is expanded by a villiform tumour measuring up to 14mm in depth, through a myometrium measuring 20mm in thickness.  The tumour extends into the lower uterine segment, but does not appear to invade the cervix.  The myometrium contains a prominent fibroid at the fundal aspect measuring 35mm in maximum dimension; no necrosis or haemorrhage is identified.  Additionally, there are three further fibroids all with a similar gross appearance.  The left fallopian tube measuring 45mm in length with a diameter of 5mm.  The left ovary measures 22 x 18 x 12mm, with an unremarkable cut surface. The right fallopian tube measures 45mm in length with a diameter of 5mm; the fimbrial end is challenging to identify.  The right ovary measures 20 x 18 x 11mm, with an unremarkable cut surface.
+Blocks: 1 to 5 - composite mid line LS of posterior uterus and cervix (3 - ?deepest invasion; 4 and 5 - fibroid); 6 and 7 - LS posterior lower uterine segment, ?deepest invasion; 8 to 11 - composite midline LS anterior uterus and cervix; 9 to 11 - representative fibroids;  12 - LS complete fimbrial end left fallopian tube and mid TS; 13 - representative left ovary; 14 - LS complete (presumed) fimbrial end right fallopian tube, mid TS; 15 - representative right ovary.  (TO: JB;JB/vo 1.11.66); 16 to 19 - TS remaining identifiable fallopian tubes, tubes AE.  (TO: JB; JB/ta 6/12/66)
+MICROSCOPIC (Report by Dr K Creswell):
+Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  The tumour has a maximum depth of invasion of 10mm through a wall 16mm thick.  Focal lymphvascular invasion is present.  The ectocervix and endocervix are uninvolved and unremarkable.
+The myometrium shows several leiomyomas.  Both ovaries are unremarkable.
+The right tube shows two tiny foci of carcinoma in situ, strongly positive for p53 with increased Ki67 staining.
+Immunoperoxidase stains for MSI proteins were performed. MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.
+COMMENT:
+Incidental carcinoma in situ / serous tubal intraepithelial carcinoma (STIC) is present in the right tube.  Please exclude breast cancer and BRCA in this patient.
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium, depth 10mm through a wall 16mm thick, focal lymphvascular invasion present, cervix uninvolved.
+The right tube shows tiny foci of carcinoma in situ / serous tubal intraepithelial carcinoma (see comment).

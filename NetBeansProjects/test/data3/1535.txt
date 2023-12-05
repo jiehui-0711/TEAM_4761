@@ -1,0 +1,74 @@
+
+Episode No:  02A124631X
+020124.QKD
+
+UMLAUF, ZAC 
+Lab No:  02A12463
+Curren
+CANNONVALE  Tasmania  5603
+Specimen: Tissue
+D.O.B:  5/3/1998
+Sex:  M
+Collected: 29/08/2063 at 09:28
+Location:  WEST GYNAECOLOGY-TEXAS HOSPITAL MULTIPURPOSE HEALTH SERVICE
+DR Hollis Michel OZAINE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Small bowel resection.  Liver excision bx, peritoneal bx.  Mesenteric mass bx - carcinoid.  
+Additional information obtained from Dr Ali:
+The omental, peritoneal and mesenteric specimens are all well away from the involved segment of small bowel.
+MACROSCOPIC:
+A.  Specimen labelled "Small bowel tumour" consists of a segment of small bowel 150mm in length with scant attached mesenteric fatty tissue.  There is a 23 x 20 x 20mm pale indurated submucosal tumour on the antimesenteric side of the small bowel.  The tumour is 68mm from one resection margin and 65mm from the other resection margin.  Adjacent to and on the same plane as this nodule there is a second nodule extending from the submucosa (mesenteric side into the mesenteric fat) measuring 40 x32 x 25mm.  The mesenteric resection margin over this nodule is inked blue.  The second nodule has a pale indurated cut surface similar to the appearance of the first nodule.  The second nodule is 8mm from the first nodule.  The first nodule appears to be extending to the serosa.  
+Blocks:  1 & 2 - margins; 3 to 7 - one full cross section of bowel and mesentery showing both nodules as per the diagram; 8 - first nodule ?serosal involvement; 9 & 10 - representativesections of the second nodule (10 - reserved block); 11 - one lymph node.
+B.  Specimen labelled "Omentum" consists of omental fatty tissue 340 x 260 x 10mm.A single pale nodule 6mm in maximum dimension is identified.  
+Blocks:  1- the nodule bisected.  
+C.  Specimen labelled "Liver tumour biopsy" consists of a piece of brown liver tissue 15 x 10 x 10mm.  There is a pale solid nodule 8mm in maximum dimension.  
+Blocks:  1- whole specimen trisected.  AE. 
+D.  Specimen labelled "Peritoneum lesion" consists of a piece of fatty tissue 10 x 4 x 3mm.  AE 1 block.
+E.  Specimen labelled "Mesenteric mass" consists of four pale fragments from 2 to 8mm in maximum dimension.  AE 1 block.  (TO:  FC:  UN/mm 29.8.63) 
+MICROSCOPIC:  (Reported by Dr C Levander):
+A-E. The two apparently separate small bowel nodules are contiguous microscopically and represent grade 2 neuroendocrine tumour (carcinoid), approximately 60mm in maximum dimension.  The tumour extends from the mucosa through the bowel wall with nodular extension into the mesentery (A7).  The latter focus is circumscribed with a few adjacent lymphoid follicles, however, no residual lymph node architecture or vessel wall is identified and, as the nodule is close to the invasive front of tumour, is regarded as a focus of contiguous mesenteric invasion.  Separate foci of mesenteric invasion are also present and there are several foci of serosal involvement, with tumour seen either on the serosal surface or at the serosa with associated organising haemorrhage (A3, A4 and A8).  There is also mural lymphovascular(A3) and perineural (A3, A7) involvement.  The longitudinal cut ends are well clear of tumour and the mesenteric margin is about 3.5mm clear.  The tumour has a mainly nested architecture and is composed of epithelioid cells with round nuclei, granular to vesicular chromatin, variably conspicuous nucleoli and a moderate amount of granular eosinophilic to amphophilic cytoplasm. While most of the tumour cells are relatively uniform, there are areas in which with scattered cellsdisplay moderate to marked nuclear pleomorphism and conspicuous nucleoli (eg block A4, A7).  No necrosis is seen.  With immunostains the tumour cells are AE1/AE3 positive and neuroendocrine differentiation is confirmed; the tumour cells strongly and diffusely express chromogranin and CD56 with weak expression of synaptophysin.  The maximum mitotic rate is 5/10hpf (A7) with a Ki67 proliferation index of approximately 15% consistent with a WHO grade 2 neuroendocrine tumour.  One mesenteric lymph node contains multiple minute mainly subcapsular deposits of tumour (individually <0.2mm) (A11) highlighted with AE1/AE3 and chromogranin immunostains.
+There are also metastatic tumour deposits inthe omentum (5mm) (specimen B), liver (4.5mm) (specimen C) and peritoneum (4.5mm)(specimen D) with similar morphology to the primary tumour.  The omental deposit involves the serosal surface.  The liver deposit is 0.1mm from the margins of the sections.  The mitotic counts in these deposits are less than the primary tumour and the Ki67 proliferation index in the liver deposit is also about 15%.  Specimen E labelled "mesenteric mass" comprises fragments of adipose tissue and a portion of lymph node with no definite tumour identified.  
+A synoptic report follows:
+
+
+Macroscopic Description
+
+Site of tumour: Small bowel	
+Maximum tumour diameter:    60mm
+Distance of tumour to nearer cut end:    65mm
+Tumour perforation:    No
+Microscopic Description
+
+Type
+Neuroendocrine tumour (carcinoid)
+Grading (2010 WHO Classification)
+Grade 2 - mitotic rate 5/10 hpf; Ki67: 15%.
+Local invasion
+pT4  Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Well clear (>10mm).
+Mesenteric margin: 3.5mm clear
+Lymph nodes
+Number of lymph nodes present:  1	
+Number of lymph nodes involved:  1 (multiple <0.2mm deposits)(pN1).	
+Lymphovascular invasion
+Present (mural)
+Perineural invasion
+Present (mural) 
+Histologically confirmed distant metastases
+pM1  Distant metastasis confirmed 
+Deposits confirmed as follows:  5mm omental (specimen B), 5.5 hepatic (specimen C) and 4.5mm peritoneal (specimen D).  Specimen E comprises a small amount of uninvolved fat and lymph node tissue.
+
+Stage - (AJCC 7th Edition 2010)
+pT4N1M1    	
+Background abnormalities/other comments
+The surrounding liver in specimen C appears unremarkable.
+No significant small bowel mesenteric vascular elastosis is seen.
+DIAGNOSIS:
+A- E:  Small bowel segment, omentum, liver, peritoneum and "mesenteric mass":
+-  Grade 2 small bowel neuroendocrine tumour; 60mm; mural lymphovascular and perineural invasion; serosal involvement; one (1) involved mesenteric lymph node (1/1).
+-  Metastatic deposits in omentum, peritoneum and liver:
+-  "Mesenteric mass" is a portion of an uninvolved lymph node and fat.
+-  Stage pT4N1M1.
+

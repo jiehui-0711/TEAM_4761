@@ -1,0 +1,63 @@
+SPR no: 07V320866D
+MRN no: 1472214
+Site_name: BALMAIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportADDITIONAL REPORT (28/4/70)
+
+CLINICAL:
+Left mastectomy.  Palpable lesion central breast.  Stitch 12 o&amp;apos;clock.  Long lateral.  Please biobank. Consent in notes.  Bowel prolapse, AF, HTN.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left mastectomy long stitch lateral on axilla short stitch superior&amp;quot;, consists of a mastectomy with orienting sutures in situ, weighing 210g.  The specimen measures 180mm medial to lateral, 110mm superior to inferior, and 25mm superficial to deep.  There is overlying ellipse of skin, 180 x 90mm.  The nipple measures 13mm in diameter.  The nipple and skin show no significant abnormality.  The superosuperficial margin is inked blue, inferosuperficial margin is inked green, and deep margin is inked black.  On sectioning, there is a pale grey tumour, 19 x 18 x 17mm, located at the 3 to 4 o&amp;apos;clock position, 5mm from the nipple.  The tumour is 5mm from the closest deep margin, and greater than 10mm from all other margins.  The tumour appears to abut the skin surface.  The remaining breast tissue has a fibrofatty appearance, with areas of dense fibroadipose tissue, predominantly located centrally.  There is 7mm intramammary lymph node at the medial aspect of the specimen.
+Blocks: 1 - tumour and skin; 2 &amp;amp; 3 - tumour, skin, and deep margin; 4 - superior margin; 5 - inferior margin; 6 - medial margin; 7 - lateral margin; 8 - nipple; 9 &amp;amp; 10 - central fibrous tissue; 11 - upper inner quadrant; 12 - lower inner quadrant; 13 - upper outer quadrant; 14 - lower outer quadrant; 15 - intramammary lymph node.  See diagram.  (TO:JB/eh 27/4/70)
+
+
+MICROSCOPIC (Reported by Dr A Losado):
+
+Invasive carcinoma:
+Site: Central left breast
+Type: Invasive ductal carcinoma NOS
+Invasive tumour size:  18mm
+Grade (Modified Bloom &amp;amp; Richardson):  3
+Tubules:  3    Nuclei:  3      Mitoses:  2    Mitotic rate: 9/10hpf.
+Lymphovascular invasion:  Not seen
+
+DCIS component:
+Not seen.
+
+Excision Margins:
+Deep: 8mm
+Other margins: &amp;gt; 10mm
+
+Receptors (Block 2):
+Pending.
+HER2 SISH:  Performed at MACQUARIEWARD, THE ROYAL WOMEN'S HOSPITAL Hospital, see separate report.
+
+Nipple:  No evidence of Paget&amp;apos;s disease
+
+LCIS/ALH:  Not seen
+
+Miscellaneous:
+- Perineural invasion is seen.
+- Extensive sclerosis and dystrophic calcification are seen adjacent to the lesion, suggestive of previous excision.
+- A probable core biopsy tract is present.
+- An intra-parenchymal lymph node shows no evidence of malignancy.
+
+
+DIAGNOSIS
+Left mastectomy:
+- 18mm invasive ductal carcinoma NOS, grade 3
+- Intra-parenchymal lymph node with no evidence of malignancy
+
+
+ADDITIONAL REPORT (25/4/67)
+
+Receptors (Block 3):
+ER:  	Positive
+40% of nuclei stained
+predominant intensity of staining:  moderate
+PR:  	Negative
+0% of nuclei stained (internal and external controls show satisfactory staining)
+HER2 (Novocastra 10A7):  2+
+HER2 SISH:  Performed at Seals, MALLEE TRACK HEALTH AND COMMUNITY SERVICE Hospital, see separate report.
+Ki-67 index: Focally up to 20%

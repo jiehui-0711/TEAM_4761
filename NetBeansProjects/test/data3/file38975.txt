@@ -1,0 +1,110 @@
+SPR no: 53G678557J
+MRN no: 367964
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report53G67855,53G67855 (53G678557J) Krauel, WILBURN
+HISTOPATHOLOGY REPORT
+NORTHAMPTON HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GI endometrial adenoCa
+Uterus tubes and ovaries, omental biopsy, left pelvic sentinal node, right pelvic sentinel node
+
+MACROSCOPIC:
+A.  &amp;quot;5 UTERUS, TUBES + OVARIES + CERVIX&amp;quot;.  At total hysterectomy specimen 160g consisting of a uterus 80x50x30mm.  Attached is a right fallopian tube 80x6mm, a cystically enlarged right ovary 50x35x27mm, a left fallopian tube 80x7mm and a cystically enlarged left ovary 48x36x30mm.  Clips are identified on both fallopian tubes (previous tubal ligation).  The cervix measures 30x30x27mm.  The external os is oval 20x7mm.  The specimen has been coronally opened prior to receipt.  The anterior cervical margin is inked blue, posterior inked black.  There is a tumour, mainly confined to the anterior uterine wall, and focally involving the posterior body measuring 20x17mm.  It is confined to the body with no extension into the cornu and located 40mm from the nearest cervical resection margin, 14mm from the parametrial margins.  The tumour is up to 5mm out of 17mm (tumour thickness out of total myometrial thickness).  The outer and cut surface of both tubes is unremarkable.  The cut surface of the right ovary reveals a multicystic lesion filled with serous fluid.  The inner lining has focal papillary excrescences over 6x6mm.  The remainder of the inner lining is smooth.  The cut surface of the left ovary reveals a multicystic lesion with a smooth inner lining filled with clear serous fluid.
+
+(1 right fallopian tube; 2-5 right ovary; 6 right parametrium; 7 left fallopian tube; 8-11 left ovary; 12 left parametrium; 13-16 LS anterior uterus from cervix to fundus; 17-19 thickest tumour invasion anterior body; 20-22 LS posterior uterus from cervix to fundus; 23 further involvement posterior body [18 is tumour block]).  RS (M-23).
+
+B.  &amp;quot; 3 RIGHT PELVIC SENTINEL NODE&amp;quot;.  A fibrofatty piece of tissue 30x30x10mm.  Six possible lymph nodes are identified 24x10x10mm, 16x10x7mm and the four smaller nodes are 3-5mm.
+
+(1 largest lymph node serially sliced; 2 second largest lymph node serially sliced; 3 ?four lymph nodes).  RS (M-3).
+
+C. &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  One lymph node received in multiple fragments 15x10x6mm.  AE (M-1)
+
+D.  &amp;quot; 4 OMENTAL BIOPSY&amp;quot;.  A fibrofatty piece of tissue consistent with omentum 40x20x5mm.  Ill-defined firm areas are identified towards one edge.  No discrete lesions are identified.  Serially sliced.  AE (M-2/ZH 11/7/2070 nh)
+
+MICROSCOPIC: (Dr P Poppo)
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Hysterectomy and bilateral salpingoophorectomy .
+TUMOR SITE: Anterior and posterior fundus
+
+TUMOR SIZE:  20x17mm greatest dimension
+
+HISTOLOGIC TYPE: Endometrioid adenocarcinoma
+
+HISTOLOGIC GRADE: Grade 1
+
+MYOMETRIAL INVASION:
+Depth of invasion:  5mm (in uterine isthmus &amp;amp; upper endocervical canal, block 21)
+Myometrial thickness:  9.5mm
+Percentage depth of myometrial invasion:  53%
+
+UTERINE SEROSA INVOLVEMENT: Not present
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Present
+
+CERVICAL STROMAL INVOLVEMENT: Present (invasion 1.5mm deep, stroma 9mm thick, block 20)
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not present
+
+MARGINS: Not involved
+
+LYMPHOVASCULAR INVASION:
+Not identified
+
+SENTINEL LYMPH NODES: not involved - see comments.
+Site: right and left pelvic
+Number of lymph nodes involved: 0
+Number of lymph nodes examined:6 (5 right, 1 left)
+
+
+DISTANT METASTASES (histologically confirmed): Not known
+
+ADDITIONAL PATHOLOGIC FINDINGS: There is mild superficial adenomyosis
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains: To follow (Block 17)
+
+OTHER SPECIMENS: The left and right ovaries each contain a simple serous cystadenoma with no atypical features seen.  Both fallopian tubes are unremarkable.
+
+PATHOLOGIC FIGO Stage (2015 FIGO): II
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT2
+
+Comments:
+Within 1 of the 5 right pelvic nodes there is a single small cytologically bland gland within the capsule, with a few possible cilia, 0.2mm in diameter, favoured to represent focal endosalpingiopsis rather than isolated tumour cells.
+
+DIAGNOSIS:
+A.  UTERUS, TUBES, OVARIES AND CERVIX -
+-GRADE 1 ENDOMETRIOID ADENOCARCINOMA OF ENDOMETRIUM.  FIGO STAGE 2, MARGINS CLEAR.
+
+B.  RIGHT PELVIC SENTINEL NODE -
+-NO EVIDENCE OF MALIGNANCY IN 5 NODES; SMALL FOCUS OF ENDOSALPINGIOSIS.
+
+C.  LEFT PELVIC SENTINEL NODE -
+-NO EVIDENCE OF MALIGNANCY IN 1 NODE.
+
+D.  OMENTAL BIOPSY -
+-NO EVIDENCE OF MALIGNANCY.
+
+13/11/2069 ank
+
+SUPPLEMENTARY REPORT:
+
+Immunostains for MMR proteins (block: A17)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+14.09.18

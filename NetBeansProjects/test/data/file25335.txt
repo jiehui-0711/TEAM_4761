@@ -1,0 +1,82 @@
+SPR no: 83T482228K
+MRN no: 8374822
+Site_name: PRINCESS ALEXANDRA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right breast lesion 9 o&amp;apos;clock 2cm FN biopsy ductal Ca.  Sentinel nodes 1 and 2.  Right wide local excision.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right sentinel node one&amp;quot;, consists of a piece of fibrofatty tissue containing lymph node measuring 15 x 15 x 6mm.  Specimen serially sliced TS and AE 1 block.
+
+B.  Specimen labelled &amp;quot;Right sentinel node two&amp;quot;, consists of a piece of fibrofatty tissue measuring 25 x 20 x 7mm containing a single possible lymph node.  Specimen serially sliced TS and AE 2 blocks.
+
+C.  Specimen labelled &amp;quot;Right breast cancer short superior medium medial loop deep long lateral&amp;quot;, consists of a piece of fibrofatty tissue with orientating sutures as described measuring 35mm superficial to deep x 65mm superior to inferior x 45mm medial to lateral.  Superficial surface inked blue, deep black, lateral red.  Specimen serially sliced TS from superior to inferior into eleven slices (slice one = superior, slice eleven = inferior).  In sliced four to seven there is a tumour with a yellow to pink appearance measuring 12mm medial to lateral x 10mm superficial to deep x 20mm superior to inferior.  The tumour is 15mm from the lateral margin, 12mm from the medial margin, 7mm from the deep margin, 10mm from the superficial margin, 20mm from the superior margin and 25mm from the inferior margin.  The tumour appears completely excised.
+Blocks: 1 to 5 - LS slice one (block 1 lateral; block 5 medial); 6 and 7 - slice two; 8 and 9 - slice three; 10 and 11 - slice four; 12 and 13 - slice five; 14 and 15 - slice six; 16 and 17 - slice seven; 18 and 19 - slice eight; 20 to 22 - slice nine; 23 to 25 - slice ten; 26 to 30 - LS slice eleven (26=medial, 30=lateral).  AE. Please refer to block key diagram.   (TO: MS;MS/vo 19.4.67)
+
+
+
+MICROSCOPIC (Reported by A/Prof DARIN HENNEBERG and Dr W W Longbrake):
+A-C
+Invasive carcinoma:
+Site: Right breast lesion 9 o&amp;apos;clock
+Type: infiltrating duct carcinoma NOS
+Invasive tumour size: 30 - 35mm (Main tumour present across 6 slices. There is a second, 1mm focus of invasive carcinoma (C8) towards the superficial surface of the specimen, which appears separate from the main tumour. This tumour nodule consists of a small cluster of tubules, which lack a myoepithelial layer in the p63 and keratin 5/6 stains.
+Grade (Modified Bloom &amp;amp; Richardson): 1
+Tubules:  2    Nuclei: 2     Mitoses:   1   Mitotic rate:      2/10hpf.
+Lymphovascular invasion:  Not seen. Perineural invasion is identified at the edge of the tumour.
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS: 35mm
+Nuclear grade:  Low to intermediate
+Architecture: solid and cribriform
+Necrosis:   Absent
+Calcification: Present within invasive component. DCIS is non-calcified. Vascular calcification is also present.
+Degree of DCIS in tumour: 5%
+DCIS in adjacent tissue:  Present
+
+Excision Margins:
+Invasive component: The main tumour is well clear of the excision margins by at least 5mm. The closest margin is the deep margin (5mm). The other margins are well clear of the main tumour.
+
+The separate 1mm invasive tumour nodule in A8 is 1mm from superficial margin.
+
+In-situ component: clear of margins by at least 5mm (deep margin).
+
+Receptors (Blocks C10 and C8):
+ER:  Positive
+80-90% of nuclei stained
+predominant intensity of staining:  Strong
+PR:  Positive
+30-40% of nuclei stained
+predominant intensity of staining:  Moderate to Strong
+HER2 (Novocastra 10A7): 1+
+HER2 SISH:  Performed at DAY SURGERYUNIT, TANUNDA HOSPITAL Hospital, see separate report.
+Ki-67 index: up to 5%
+
+Nipple:  Not examined
+
+LCIS / ALH:    Absent
+
+Miscellaneous:  The rest of the breast tissue shows a spectrum of benign changes, that includes columnar cell change, apocrine metaplasia, medial calcifications of vessels, dilated ducts and area of possible biopsy tract within the main tumour.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel lymph nodes involved by tumour:  1 (Specimen B)
+Number of sentinel nodes with metastases &amp;gt;2.0mm:  1
+Number of sentinel nodes with metastases &amp;lt;2.0mm:
+Detected by: HE and IPX
+Number of sentinel nodes with isolated tumour cells &amp;lt;0.2mm: 0
+Extranodal spread: Present - very focal extraondal extension, within an area of thickened, fibrous nodal capsule, up to a distance of 0.1 -  0.2mm (B1)
+
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   2
+Total number of involved lymph nodes (including sentinel node(s)):   1
+
+
+DIAGNOSIS:
+A - C. Right sentinel node one, Right sentinel node two and Right breast wide local excision
+- 30 - 35mm infiltrating duct carcinoma NOS, grade 1, margins clear
+- separate second 1mm focus of invasive tumour, 1mm from superficial margin.
+- Hormone receptor positive; Her 2 negative by immunohistochemistry.
+- Metastatic carcinoma in one of two sentinel lymph nodes.

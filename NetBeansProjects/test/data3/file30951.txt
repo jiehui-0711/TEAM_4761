@@ -1,0 +1,34 @@
+SPR no: 95S886257B
+MRN no: 9568862
+Site_name: FLINDERS ISLAND MULTI PURPOSE CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Mucinous ovarian adenocarcinoma. Ca 125 12.
+Additional information from system: Previous left oophorectomy reported at BULLI HOSPITAL Hospital reviewed at Phelps Dodge (95S88625) - Mucinous adenocarcinoma.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus and cervix&amp;quot;, consists of a uterus with attached cervix weighing 65g in total.  The uterus measures 85mm x 50mm x 30mm and has a roughened anterior serosal surface with adhesions over an area, 35 x 35mm.  The cervix measures 30 x 23mm with an unremarkable surface.  The endometrium measures up to 2mm thick and the myometrium measures up to 70mm thick.  Within the posterior myometrium there is a circumscribed pale whorled lesion with focal calcification measuring 13mm in maximal dimension.  No other lesions are identified.
+Blocks: 1 to 3 - full longitudinal section through anterior body and cervix; 4 to 7 - full longitudinal sections through posterior body and cervix including calcified ? fibroid.
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of omental fat, 250 x 85 x 25mm.  There are patchy areas of adhesions measuring up to 50mm in length.  No masses are seen on sectioning.  RS 3 blocks (including areas of adhesions).
+C.  Specimen labelled &amp;quot;Small bowel nodule&amp;quot;, consists of an irregular piece of pale fibrous tissue, 6 x 3 x 3mm.  AE 1 block.
+D.  Specimen labelled &amp;quot;Right infundibular pelvic ligament&amp;quot;, consists of a piece of grey and shiny fibrous tissue, 25 x 15 x 6mm and a separate piece of fat, 30 x 18 x 8mm.  No masses are seen on sectioning.
+Blocks: 1 &amp;amp; 2 - fibrous tissue; 3 - fat.  AE.
+E.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of a piece of fatty tissue, 50 x 14 x 5mm.  Four possible lymph nodes are identified measuring 6 to 25mm in maximal dimension.
+Blocks: 1 - two lymph nodes; 2 - one lymph node in five sections; 3 - one lymph node and remaining fat.  AE.
+F.  Specimen labelled &amp;quot;Left paracolic gutter nodule&amp;quot;, consists of a piece a fibrofatty tissue, 38 x 28 x 16mm.  A pale and cystic lesion is identified measuring 12mm in maximal dimension.  The cut surface demonstrates a variegated fatty and haemorrhagic appearance with focal areas of possible fat necrosis to a depth of 8mm.  Serially sliced and all embedded in 5 blocks.
+G.  Specimen labelled &amp;quot;Left anterior parietal peritoneum&amp;quot;, consists of two pieces of fibrofatty tissue measuring 45 x 22 x 10mm in aggregate.  The surface appears smooth and shiny.  No masses are identified.  AE.
+Blocks: 1 - smaller piece; 2 &amp;amp; 3 - larger piece.
+H.  Specimen labelled &amp;quot;Small bowel adhesion&amp;quot;, consists of a piece of pale fibrous tissue, 8 x 4 x 2mm.  AE 1 block.  (TO:AP/eh 11/1/66)
+MICROSCOPIC (Reported by Dr Y Fernow):
+The previous review 95S88625 is noted.
+A.  The ectocervix and endocervix show no significant abnormality.  The endometrium is proliferative consistent with an oestrogenic stimulus.  The myometrium shows a leiomyoma.  There is no evidence of malignancy.
+B.  Sections show small scattered adhesions.  There is no evidence of malignancy.
+C.   Sections show adhesions, scattered foreign body giant cells and endosalpingiosis.  There is no evidence of malignancy.
+D.  Sections show adhesions, endosalpingiosis, and a proximal tube.  There is no evidence of malignancy.
+E.  Four lymph nodes show no evidence of malignancy.
+F.  Sections show extensive foreign body giant cell reaction to suture material, adhesions and fat necrosis.  There is no evidence of malignancy.
+G.   Sections show adhesions and tiny foci of probable mucin which is acellular.  There is no evidence of malignancy.
+H.   Sections show adhesions.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+A to H.  No evidence of malignancy.

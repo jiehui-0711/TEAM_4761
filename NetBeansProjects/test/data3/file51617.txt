@@ -1,0 +1,40 @@
+SPR no: 76Z677537B
+MRN no: 7696775
+Site_name: YORK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report76Z67753 (76Z677537B) Counselman, EDWARDO Jc
+HISTOPATHOLOGY REPORT
+PEMBERTON HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Left breast cancer 2 o&amp;apos;clock 4cm FN, size 17mm.  Involved anterior margins.  Re-excision of margins, left breast cancer.
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;EXCISION MARGINS LEFT BREAST&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Re-excision oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE: No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  30mm
+Superior to inferior:  50mm
+Anterior to posterior:  70mm
+WEIGHT:  53g
+SKIN:  Yes. Ellipse measuring 42x7mm with a scar running along its entire length
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  Not applicable
+MARGIN INKED:
+Non-standard:  Superior red, inferior green, medial blue, lateral black
+DISSECTION: Cut from anterior to posterior
+Number of slices: 14
+FINDINGS / LESION:  There is a cavity opening up to the superior, inferior and posterior surfaces.  The cavity measures 40mm anterior to posterior x 40mm superior to inferior x 10mm medial to lateral.  The surrounding breast tissue shows vast areas of fat necrosis.  No discrete lesion is identified.  Every other slice  is embedded.
+(1&amp;amp;2 LS through anterior margin slice 1; 3&amp;amp;4 slice 3; 5-7 slice 5; 8&amp;amp;9 slice 7; 10-12 slice 9; 13-15 slice 11; 16-18 slice 13; 19-21 LS through posterior margin slice 14). RS (M-21/MC 18/6/2070 ank)
+MICROSCOPIC:  (Dr U Turlich)
+Histology shows the edge of a previous biopsy cavity which is formed by fat necrosis, and maturing fibrous scar tissue which extends into the overlying dermis of the surface skin.  Very focally within the tissue immediately adjacent to the cavity are two small foci of invasive lobular carcinoma grade 2, 1.5mm and 0.8mm.  These foci lie well clear of margins with 7mm to the closest lateral margin.  Elsewhere, there is evidence of widespread LCIS and mild usual type hyperplasia.
+DIAGNOSIS:
+EXCISION MARGINS LEFT BREAST -
+- SMALL FOCI OF RESIDUAL INVASIVE LOBULAR CARCINOMA, MARGINS CLEAR.
+15/7/2070 km

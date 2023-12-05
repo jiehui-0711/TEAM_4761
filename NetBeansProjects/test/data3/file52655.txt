@@ -1,0 +1,54 @@
+SPR no: 52G2304916
+MRN no: 5222304
+Site_name: PINNAROO SOLDIERS' MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report52G23049 (52G2304916) Imparato, Foster GROVER
+HISTOPATHOLOGY REPORT
+BODDINGTON HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Peritoneal ? adenocortical primary.  Retroperitoneal tissue ? tumour for frozen section.
+Peritonectomy (adrenocortical primary).  Retroperitoneal tissue ?tumour
+Peritonectomy - adrenal carcinoma.
+Seg 4 liver resection; Diaphragm, gallbladder, duodenum, splenic flexure, peritoneum
+[from eMR notes: ft adrenal cancer 2067: 27/2/68 L adrenalectomy- 10cm, malignant features, high grade, sinusoidal invasion, no tumour rupture]
+
+MACROSCOPIC:
+A.  &amp;quot;RETROPERITONEAL TISSUE (? TUMOUR)&amp;quot;.  Pale rubbery tissue 15x10x6mm.  2 x TS for frozen section. (1 FS; 2 remainder tissue). AE (M-2/MC 22/7/2070 ank)
+
+Frozen section report: &amp;quot;Small collection of cells containing birefringent material favour  histiocytes&amp;quot;.  Reported to Dexter PALINSKI (Reg).
+
+B.  &amp;quot;GALLBLADDER, STOMACH, PANCREAS, SMALL BOWEL, COLON, DIAPHRAGM, PERITONEAL DISEASE&amp;quot;
+A gallbladder, stomach, pancreas, segment of large bowel, segment of small bowel, all received en mass.  Also separately are fragments of tumour tissue.
+
+- Gallbladder:  A gallbladder measuring 100mm in length with a maximum diameter of 40mm.  The serosa is smooth.  The wall is up to 3mm thick.  The mucosa is granular green in appearance with one possible polyp 5mm in maximum dimension.  No stones are found within the lumen.  (1 cystic duct and neck of gallbladder; 2 body and fundus including the polyp)
+
+- Main mass:
+The mass comprising of stomach, pancreas, segment of large bowel, segment of small bowel and fibrotic piece of tissue ?diaphragm:   The segment of stomach is 130x45mm.  There is one stapled edge.  This is trimmed off and inked blue.  The serosa shows a focal area with adherent friable lesion.  The mucosa appears unremarkable.  Adherent to this area is a fibrotic piece of tissue consistent with diaphragm measuring 80x40mm.  The pancreas measures 70x55x25mm.  The segment of ?small bowel measures 190mm with a maximum diameter of 35mm.  The adherent segment of ?large bowel measures 370mm in length with a maximum diameter of 40mm.  Between the segment of large bowel and small bowel is a tumour mass measuring 70x60x50mm.  The tumour mass has a pale friable tan appearance. There is flattening of the mucosa overlying the tumour but no mucosal involvement.  Also noted on the serosa of the large bowel are nodular deposits of tumour.  The tumour involves the pancreas.  The pancreatic resection margin is inked blue.  The tumour is 10mm from the resection margin.  The bowel margins are inked one blue and the other black.
+
+(3 margin stomach; 4 serosal involvement by tumour stomach; 5&amp;amp;6 pancreas involved by tumour; 7 ?diaphragm with adjacent adherent tumour; 8 margin of small bowel; 9 small bowel involved by tumour; 10 tumour block small bowel involved by tumour; 11 margins large bowel; 12 serosal deposit of tumour large bowel)
+
+Separate tumour fragments in aggregate 100x80x35mm.  The cut surface is tan with a lobular appearance. (13 separate piece of tumour).  RS (M-13).
+C.  &amp;quot;LIVER SEGMENT 3&amp;quot;.  A ragged piece of brown tissue weighing 8g and measures 30x30x20mm.  There is a small flat surface consistent with capsule which appears unremarkable.  The ragged resection margin is inked blue.  On sectioning, the cut surface shows pale brown tissue consistent with liver with no obvious lesions identified. The specimen fragmented on sectioning.  AE (M-6/MCnh)
+
+MICROSCOPIC:  O Kaan
+A. The biopsies for frozen section show fibrofatty connective tissue with areas of fibrosis and a small lymph node. Tumour is seen in the specimen.
+
+B. There is a tumour mass which involves pancreas tissue and extends into stomach wall and involves adjacent fatty connective tissue extending close to diaphragm and invades muscularis propria of attached small bowel, and invades mesocolon, and is present as separate detached tumour fragments. The tumour consists of sheets of large cells with large round nuclei and cytoplasm various from eosinophilic and granular to vacuolated. Tumour giant cells are present. The tumour is vascular with a thin walled capillary sized vascular pattern. There are some areas of cystic change. The tumour has a multi lobulated contour at the edges with round areas of tumour extension, but definite venous invasion is not identified. Within the gallbladder there is a small cholesterol polyp.
+
+Comment(s):
+- The histology appearances are similar to previous KAROONDA AND DISTRICT SOLDIERS' MEMORIAL HOSPITAL pathology resection from  2069 (52g23049) and are consistent with adrenal cortical carcinoma. Immunostains are not being repeated.
+- Completeness of removal of tumour is not assessable (some detached fragments of tumour tissue present, separate from the main resection).
+
+C. The liver contains a capillary haemngioma.
+
+DIAGNOSIS:
+
+A.  RETROPERITONEAL TISSUE, for frozen section:
+- fibrosis.
+B.  GALLBLADDER, STOMACH, PANCREAS, SMALL BOWEL, COLON, DIAPHRAGM, PERITONEAL DISEASE:
+- recurrent adrenal cortical carcinoma with necrosis and extensive local invasion into tissues described above.
+C.  LIVER SEGMENT 3:
+- capillary haemangioma.
+cy

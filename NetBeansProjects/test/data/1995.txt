@@ -1,0 +1,94 @@
+
+Episode No:  15G660886R
+1526608.VQR
+
+MARNELL, ARDEN 
+Lab No:  15G66088
+N Concord
+RUTHERGLEN  QLD  1455
+Specimen: Tissue
+D.O.B:  6/7/2001
+Sex:M
+Collected: 13/6/2064 at :
+Location:  CORONARYCARE UNIT-JULIA CREEK MULTI-PURPOSE HEATH SERVICE
+DR MANDANG FRITZ SAMPANG
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Pancreaticoduodenectomy.  Pancreatic ca.
+MACROSCOPIC:
+A.  Specimen labelled "Pancreaticoduodenectomy", consists of a pancreatoduodenectomy with a separate gallbladder.  The gastric antrum to duodenum measures 323mm in length x 55mm in open diameter.  The common bile duct segment measures approximately 35mm in length x 8mm in diameter.  The pancreas body measures 65 x 35 x 32mm.  There are lymph nodes within the peripancreatic fat.  The peripancreatic fat measures approximately 80 x 70 x 40mm and surrounds the pancreas anteriorly and posteriorly.  
+The specimen is inked as follows: black- distal duodenal margin, blue- proximal duodenal margin (gastric antrum), blue- anterior pancreas, black- posterior pancreas, red- portal vein margin, green- pancreatic neck margin, and yellow- uncinate process.
+The duodenal serosal surface is smooth and shiny.  On opening, the thickness of the wall is 5mm.  The mucosa is brown to dark red over the distal portion of the duodenum over a length of 190mm from the distal margin. There is an abrupt transition to tan mucosa at 170mm from the gastric antrum.    
+The pancreas has a tan circumscribed tumour measuring 15 x 10 x 10mm adjacent to the common bile duct.  The margins are as follows:  5mm posterior, 3mm from the common bile duct wall, more than 20mm from the common bile duct margin, 20mm from the portal vein margin, 40mm from the pancreatic neck margin, 45mm from the anterior pancreas and wellaway (approximately 55mm) from the uncinate margin. The rest of the pancreatic parenchyma appears unremarkable.  At the distal end near the uncinate pancreas there is a well circumscribed firm tan nodule within the peripancreatic fat. This could represent a lymph node.  The surface of this mass is partly filled with a white creamy material.  There is associated firm fibrosis which is adherent to the serosal surfaceof the duodenum, and spreads within the peripancreatic fat. This area of fibrosis measures 15 x 10 x 6mm.  
+The separate gallbladder measures 75mm in length x 40mm in maximum diameter, and has a full thickness defect through the fundus (10 x 5mm in area). The gallbladder wall thickness is 2mm and the mucosa is pale and smooth. There is one gallstone within the gallbladder measuring 7mm in diameter.
+ Blocks: 1 - gastric margin; 2 - duodenal margin; 3 - cystic neck margin, neck, cystic lymph node; 4 - gallbladder body and fundus; 5 - commonbile duct margin shave; 6 - pancreatic neck margin shave; 7 - tumour superior slice; 8 - tumour inferior slice; 9 - adjacent slice to tumour (uninvolved); 10 - uncinate process and lymph node; 11 - uncinate process and lymph node; 12 and 13 - lymph node and serosal fibrotic area; 14 - Inferior pancreatic (near uncinate process) lymph nodes; 15 & 16 - duodenal mesocolon lymph nodes as seen; 17 & 18 - superior anterior pancreatic lymph nodes.; 19 - duodenal mucosa. 
+B.  Specimen labelled "Pancreatic lymph node", consists of a pieceof fibrofatty tissue measuring 15mm in maximum dimension containing one lymph node measuring 10mm in maximum dimension.  Specimen serially sectioned, AE 1 block. 
+C.  Specimen labelled "Transverse mesentery of colon lymph node", consists of a piece of fibrofatty tissue measuring 17mm in maximum dimension containing a lymph node measuring 15mm in maximum dimension.Serially sectioned, AE 1 block. 
+(SC/ec  8.1.64)  
+MICROSCOPIC (reported by Dr C Scipioni): 
+A - C.  Sections show moderately differentiated adenocarcinoma arising from the ampulla of Vater and distal common bile.  Tumour is seen within peripancreatic adipose tissue adjacent to the common bile duct (T4).  Tumour is also seen within periuncinate soft tissue however, this is appears due to direct tumour extension from an involved lymph node.  The features are as follows:  
+Histological tumour type
+Adenocarcinoma, pancreaticobillary type
+Histological grade
+Grade 2:  Moderately differentiated (50% to 95% of tumour composed of glands) 
+
+Microscopic tumour sites 
+Ampulla of Vater
+Common bile duct (distal)
+
+Extent of tumour invasion 
+Sphincter of Oddi
+Duodenal wall
+Peripancreatic soft tissues
+
+Maximum tumour diameter
+20mm, surrounding common bile duct
+Lymphovascular invasion 
+Present
+Type of vessel
+Small vessel
+
+Perineural invasion 
+Present
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not received 
+Pre-invasive lesion 
+Flat intraepithelial neoplasia (dysplasia) 
+Margins:
+Pancreatic neck:  Not involved, well clear.
+Common bile duct:  Not involved.
+Portal vein (superior mesenteric vein):  Not involved, 10mm clear.  
+Periuncinate soft tissue (superior mesenteric artery):  Not involved, 1mm clear.  
+Surfaces: 
+Anterior:  Well clear. 
+Posterior:  2mm clear.  
+Lymph nodes:
+Number found:  22
+Number involved:  3 (includes transverse mesenteric lymph node, specimen C)
+Other pathologies:
+Chronic cholecystitis.  
+Prominent foamy histiocytes within some lymph nodes, possible treatment effect
+
+DIAGNOSIS:
+A - C.  Pancreaticoduodenectomy and lymph nodes:
+- Moderately differentiated adenocarcinoma of the ampulla of Vater, margins clear
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+Primary tumour category (pT)
+T4 Tumour invades peripancreatic soft tissues or other adjacent organs or structures other than pancreas. 
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+Distant metastasis category (pM) 
+M1 Distant metastasis (transverse colon lymph node, specimen C).
+ADDENDUM (26/1/64):
+Additional information obtained at the gastrointestinal multidisciplinary meeting on 22/1/2064:
+The transverse colon mesentery lymph node (specimen C) is considered to be a regional lymph node.  This alters the pathological staging to the following:
+Primary tumour category (pT)
+T4 Tumour invades peripancreatic soft tissues or other adjacent organs or structures other than pancreas. 
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+Distant metastasis category (pM)
+MX Not assessable by histology.
+

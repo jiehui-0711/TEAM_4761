@@ -1,0 +1,60 @@
+ 8599129.KCW
+ABELLERA, KUPARR
+85Y91293
+
+Last edited : 14/8/2062		Page: 2
+CLINICAL:
+Right hemicolectomy for ascending colon cancer.  HTN.  Depression, high cholesterol.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a segment of bowel comprising of terminal ileum, caecum and ascending colon.  The terminal ileum measures 100mm in length and is unremarkable.  The attached appendix measures 85mm in length and 10mm in diameter.  The appendix is unremarkable.  The caecum and ascending colon measure 125mm in total length.  85mm from the distal resection margin,there is a sessile ulcerated tumour measuring 45 x 30mm.  The tumour involves 75% of the bowel circumference.  The tumour invades through the full thickness of muscularis propria and abuts the peritoneum.  One small 4mm polyp is identified just proximal to the tumour.  Numerous lymph nodes are identified measuring from 1mm to 8mm.  
+Blocks: 1 - resection margins; 2 - tumour to deepest point invasion; 3 - reserve block;  4 to 6 - representative tumour; 7 - tumour to normal mucosa; 8 - polyp; 9 normal mucosa; 10 - representative appendix; 11 - apical node; 12 & 13 - lymph nodes; 14 - one lymph node serially sectioned; 15 & 16 - lymph nodes.  
+(KQ/ta  2/6/62) 
+ 
+MICROSCOPIC (Reported by Dr W Keath & Dr W Persch):
+Synoptic Report for Colorectal Carcinoma
+
+Macroscopic Description
+
+Site of tumour:  Ascending colon
+Maximum tumour diameter:  45mm
+Distance of tumour to nearer cut end:  85mm (distal)
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not applicable
+Lymph nodes
+Number of lymph nodes present:  16
+Number of lymph nodes involved:  1
+pN1a	Metastases in 1 regional LN
+Lymphovascular invasion
+Not seen
+Perineural invasion
+Not seen
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+- One small tubular adenoma with low grade dysplasia is present.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Notapplicable
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining/
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining ofa carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN1a     pMX     R0
+DIAGNOSIS:
+Right hemicolectomy - Adenocarcinoma (T3, N1a, MX).
+

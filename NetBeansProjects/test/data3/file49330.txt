@@ -1,0 +1,17 @@
+SPR no: 26J372104O
+MRN no: 2633721
+Site_name: BYRON CENTRAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Recurrent right thigh liposarcoma.  Liposarcoma.  Please refer to previous pathology with additional report dated 16/7/2066.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right thigh recurrent liposarcoma&amp;quot;, consists of an orientated ellipse of skin weighing 1.26kg, containing one orientating suture at one pole designated the 12 o&amp;apos;clock pole.  The skin ellipse measures 290mm from 12 to 6 o&amp;apos;clock x 44mm from 3 to 9 o&amp;apos;clock extending to a depth of 115mm.  On the deep aspect, there is a bilobulated firm mass measuring 230 x 100 x 65mm.  There is muscle fascia on the deep aspect.  The 3 o&amp;apos;clock margin is inked blue, and the 9 o&amp;apos;clock margin inked black.  The specimen is biobanked fresh.  The surface of the skin bears a pale linear scar measuring 175mm in length, which appears 50mm clear of the 6 o&amp;apos;clock pole and 63mm clear of the 12 o&amp;apos;clock pole.  The deep mass consists of pale and tan necrotic tissue on cross-sectional cut surfaces.  It appears to abut the deep, 3 o&amp;apos;clock, 9 o&amp;apos;clock, 12 o&amp;apos;clock and 6 o&amp;apos;clock margins.  It is at least 47mm to the skin surface.  The specimen is serially sliced from 12 to 6 o&amp;apos;clock into ten slices (slice one 12 o&amp;apos;clock).  The necrotic areas appear to make up approximately 10 percent of the total tumour volume.  Blocks:  1 - LS 12 o&amp;apos;clock skin margin; 2 - skin margin 3 o&amp;apos;clock;  3 - skin margin 9 o&amp;apos;clock; 4 - LS 6 o&amp;apos;clock skin margin; 5 and 6 - parasagittal sections tumour to 12 o&amp;apos;clock margin; 7 and 8 - tumour to 9 o&amp;apos;clock margin; 9 and 10 - tumour to 3 o&amp;apos;clock margin; 11 and 12 - tumour to deep margin; 13 and 14 - tumour to superior soft tissue; 15 - mid TS skin; 16 and 17 - parasagittal sections tumour to 6 o&amp;apos;clock margin; 18 to 20 - RS central tumour with necrotic areas.  Please refer to photos and blocking diagram.   (TO:NM/hh 30/10/66).
+
+
+MICROSCOPIC (Reported by Dr H Defenbaugh):
+Sections show a well differentiated liposarcoma/atypical lipomatous tumour.  The tumour is lobulated and composed of adipocytes showing variation in size and with easily identified nuclear pleomorphism and hyperchromasia.  Scattered multinucleated adipocytes and multi-vacuolated lipoblasts are also seen.  Bands of fibrosis containing atypical hyperchromatic stromal cells and also occasional aggregates of chronic inflammatory cells are also seen.  Skeletal muscle is present at the 12 o&amp;apos;clock and deep margins.  The skin resection margins are well clear.  The deep radial resection margin comprises a thin rim of compressed fibrous tissue (pseudocapsule) and tumour is seen extending to this margin (block 11 and 12).  There is no evidence of dedifferentiation.
+DIAGNOSIS:
+Right thigh - Recurrent well differentiated liposarcoma.

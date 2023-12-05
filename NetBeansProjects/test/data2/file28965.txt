@@ -1,0 +1,21 @@
+SPR no: 03E294525P
+MRN no: 0312945
+Site_name: ROYAL MELBOURNE HOSPITAL - ROYAL PARK CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Laparoscopically assisted hysterectomy plus BSO.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes plus ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries, weighing 162g in total.  The uterus is 98 x 60 x 42mm and has a smooth shiny serosal surface.  The anterior paracervical tissue is inked blue and the posterior is inked black.  The ectocervix is 27 x 25mm and has an unremarkable surface.  On sectioning the endometrium has a variable thickness from 2 to 5mm with small polypoid areas.  The myometrium is up to 24mm in maximal thickness with no focal lesions.  The right fallopian tube is 80 x 5mm in diameter with a normal external surface.  The right ovary is 26 x 8 x 6mm with a smooth external surface.  The left fallopian tube is 68 x 5mm in diameter with a normal external surface and the left ovary is 37 x 20 x 12mm and contains a partially collapsed 16mm diameter cyst.  The cut surface of both fallopian tubes and the right ovary is normal.  The cut surface of the left ovary confirms the collapsed cyst which contains dark brown material.
+Blocks: 1 to 4 - full longitudinal section of anterior body and cervix; 5 - full thickness section of anterior uterine body; 6 to 10 - full longitudinal section of posterior body and cervix; 11 - full thickness section of posterior uterine body; 12 - right fallopian tube fimbrial end; 13 - right fallopian tube four TS; 14 - right ovary bisected; 15 - left fallopian tube fimbrial end; 16 - left fallopian tube four TS; 17 &amp;amp; 18 - left ovary four TS.  All of the right ovary embedded.
+(TO:SW/rs 13/11/65)
+
+
+MICROSCOPIC (Reported by Dr A Heholt):
+The ectocervix and endocervix show no significant abnormality.  The endometrium is weakly proliferative with focal tubal metaplasia.  The myometrium shows no significant abnormality.  The left ovary contains a luteinised follicular cyst and the right ovary appears normal.  Both fallopian tubes show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+Uterus, cervix, bilateral tubes and ovaries:
+-  Follicular cyst of the left ovary.
+-  Weakly proliferative endometrium.

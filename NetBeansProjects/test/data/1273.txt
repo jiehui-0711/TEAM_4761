@@ -1,0 +1,116 @@
+Episode No:  95L088651U
+9540886.ODU
+
+COUTURE, Lucien'LILLA
+Lab No:  95L08865
+Salmon
+SEVEN MILE BEACHSouth Australia  5942
+Specimen: Tissue
+D.O.B:  28/8/2023
+Sex:  F
+Collected: 15/2/2062 at :
+Location:  7.ACUTE CARE WARD-ROYAL BRISBANE & WOMENS HOSPITAL
+DR Roy ALAN LIGHTY
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+***SUPPLEMENTARY REPORT: HER-2 CISH (3.4.63)
+
+CLINICAL:
+Left mastectomy and axillary dissection for multifocal breast ca with positive FNAB of axillary lymph nodes.  Level I stitch marks apex, level 2/3 sent separately stitch marks apex. Additional information fromDr Aziz (surgical registrar): Previous biopsies from LEONORA HOSPITAL's Hospital - 12 o'clock 5cm FN suspicious for malignancy, 2 o'clock 5cm FNinvasive carcinoma.
+MACROSCOPIC:
+A.Specimen labelled "Left breast stitch marks apex, level 1", consists of a mastectomy 250mm (medial to lateral) x 170mm (inferior to superior) x 35mm (superficial to deep).  There is an overlying ellipse of skin 210 x 50mm with a nipple areolar complex 30 x 30mm which appears unremarkable. The superficial margin is inked blue and the deep margin is inked black.  The cut surface reveals a firm relatively well circumscribed cream area (lesion 1) in the 12 - 1 o'clock position 30mm from the nipple which measures 15mm (medial to lateral) x 15mm (inferior to superior) x 12mm (superficial to deep).  The distance from margins is as follows: inferior, superficial 15mm, deep 20mm, and well clear of the medial and lateral margins.  In the 2-3 o'clock position, 30mm from the nipple there is an ill defined firm nodular area (lesion 2) measuring 20mm (medial to lateral) x 10mm (inferior to superior)x 15mm (superficial to deep).  The distance from margins is as follows: deep 10mm, superficial 25mm and is well clear of the medial and lateral margins.  There is an ill defined firm cream nodular area in the 6 o'clock position 50mm from the nipple measuring 25mm (medial to lateral) x 15mm (inferior to superior) x 15mm (superficial to deep).  The distance from margins is as follows: inferior, superficial 15mm, deep 20mm. There are multiple lymph nodes identified in the axillary fat from 2-10mm.  
+Block 1 & 2 - lesion 1 to superior margin; 3-8 - lesion 1 including deep and superior margin; 9-10 - lesion 1 to deep margin; 11-13 - lesion 2 to deepmargin; 14 & 15 - lesion 2 and 3 including deep margin; 16 & 17 - tissue inferior to lesion 2 ? extension of lesion 1; 18 & 19 - representative inner quadrant; 20& 21 - representative inner lower quadrant; 22 & 23 - representative outer quadrant; 2 4- representative outer lower quadrant; 25 - nipple and tissue deep to nipple; 26-29 - lymph nodes.  Please refer to attached diagram.
+B.  Specimen labelled "Leftaxillary lymph node level 2 stitch marks apex", consists of a piece of fat with a suture attached to one end 50 x 50 x 15mm.  Multiple lymph nodes are identified from 2-12mm.  Block 1- apical lymphnode; 2 & 3- lymph nodes.
+(JS/ec 16.2.62) 
+ 
+MICROSCOPIC: (Reported by Dr Y Nibler/Dr Y Siering - 20.2.2062)
+A & B.  Sections show multifocal Grade 1 invasive ductal carcinoma in the upper outer quadrant from 12 to 3 o'clock. Tumour 1 consists of a 10mm deposit in the 12 - 1 o'clock position, up to 30mm from the nipple (lesion 1). Lesion 2 and 3 are 10mm (lesion 2) and 2.5mm (lesion 3), in the 2-3 o'clock position up to 40mm from thenipple. Lesion 2 and 3 are separated by a distance of 11mm with intervening breast ducts/acini. There is extensive intermediate grade DCIS throughout the inner upper, outer upper and lower quadrants. A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR BREAST CARCINOMA
+Invasive carcinoma 1:
+Site: Left breast 12 - 1 o'clock position 30mm from the nipple
+Type: Invasive ductal carcinoma, NOS.
+Invasive tumour size: 10mm.
+Grade (Modified Bloom & Richardson): 1
+Tubules: 1    Nuclei:  2    Mitoses:  1    Mitotic rate:   1/10hpf.
+Lymphovascular invasion: Not identified.
+Invasive carcinoma 2:
+Site: Left breast 2-3 o'clock position 40mm from the nipple
+Type: Invasive ductal carcinoma
+Invasive tumour size: 10mm
+Grade (Modified Bloom & Richardson): 1
+Tubules: 1     Nuclei: 2     Mitoses:  1    Mitotic rate:    1/10hpf.
+Lymphovascular invasion:  Not identified.
+Invasive carcinoma 3:
+Site: Left breast 2-3 o'clock position 30mm from the nipple
+Type: Invasive ductal carcinoma
+Invasive tumour size: 2.5mm
+Grade (Modified Bloom & Richardson): 1
+Tubules:  1    Nuclei: 2      Mitoses: 1     Mitotic rate:     1 /10hpf.
+Lymphovascular invasion:  Not identified.
+DCIS component:  
+DCIS: Present.
+Maximum extent of DCIS:  Approximately 80mm in maximal dimension over inner upper, outer upper and lower quadrants.
+Nuclear grade:  Intermediate.
+Architecture: Cribriform, flat, micropapillary.
+Necrosis: Absent. 
+Calcification: Present. 
+Degree of DCIS in tumour: Approximately 15%.
+DCIS in adjacent tissue: Extensive.
+Excision Margins:  
+Invasive component: 
+Tumours 2 and 3are 5.5mm to the deep margin (A14). 
+Remaining margins appear clear (>10mm).
+In-situ component: 
+1.5mm from superficial margin (A18).
+2.2mm from deep margin (A14/15).
+Invasive carcinoma 1 receptors (Block A8): 
+ER:  Positive
+	95% of nuclei stained
+	Predominant intensity of staining: Moderate 
+PR:  Positive
+	100% of nuclei stained
+	Predominant intensity of staining: Strong
+HER2 (Novocastra 10A7): Negative (1+)
+Ki-67 index: Variable with up to 5% tumour cell nuclei positive in areas
+Invasive carcinoma 3 receptors (Block A13): 
+ER:  	Positive
+	95% of nuclei stained
+	predominant intensity of staining:  Moderate
+PR:  	Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7): Negative (0)
+Ki-67 index: Variable with up to 8% tumour cell nuclei positive in areas
+Nipple: Tumour 1 is present in tissue deep to nipple. The nipple shows no evidence of Paget's disease. 
+LCIS / ALH: Absent 
+Miscellaneous: Columnar cell change, fibrocystic and apocrine change, fibroadenomatoid change, sclerosing adenosis, lobular atrophy, fibrosclerosis and pseudo-angiomatous stromal hyperplasia (PASH). There is focal cancerisation of lobules. 
+Sentinel lymph node(s):
+Not included. 
+Axillary/other nodes (included within main specimen):
+Number of axillary lymph nodes examined: Sixteen (16).
+Number of axillary lymph nodes involved by tumour: One (1/16). 
+Number of axillary nodes with metastases >2.0mm:  One (1).
+Number of axillary nodes with metastases <2.0mm:  0   
+Number of axillary nodes with isolated tumour cells <0.2mm: 0
+Extranodal spread: Not present 
+Left axillary lymph node dissection (specimen B): 
+Number of axillary lymph nodes examined: Thirteen (13).
+Number of axillary lymph nodes involved by tumour: None (0/13).
+Total number of lymph nodes examined: Twenty-nine (29).
+Total number of involved lymph nodes: One of twenty-nine (1/29). 
+
+DIAGNOSIS:
+A & B.  Left breast and left axillary lymph nodes: 
+Multifocal Grade 1 invasive ductal carcinoma with associated intermediate DCIS.
+The three foci of carcinoma are 2.5mm to 10mm in maximum dimension and appear clear of margins (>5.5mm). 
+There is extensive multifocal DCIS, close to superficial margin (1.5mm).
+No evidence of lymphovascular space invasion.
+ER, PR positive; HER-2 negative.
+Metastatic carcinoma is present in one of twenty-nine sampled lymph nodes (1/29). 
+
+HER-2 CISH is being performed (tumour 1) and a supplementary report will be issued. 
+
+
+***SUPPLEMENTARY REPORT: HER-2 CISH (3.4.63)
+HER2 IN SITU HYBRIDISATION reported by Dr Y Weeter, SWAN HILL DISTRICT HEALTH [SWAN HILL Hospital:
+

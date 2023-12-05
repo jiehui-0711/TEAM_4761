@@ -1,0 +1,131 @@
+
+Episode No:  31O618368N
+315618.IRW
+
+PROVENZO, Lovella BRANT 
+Lab No:  31O61836
+Loreley
+JUNEE  South Australia  2705
+Specimen: Tissue
+D.O.B:  18/11/2011
+Sex:  F
+Collected: 11/3/2063 at :
+Location:  PARKES 4 EAST-DENMAN MULTI PURPOSE SERVICE
+DR Cortez ERIC WHIPPIE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT: HER-2 CISH (26.3.2063) Dr I Credle
+
+CLINICAL:
+(L) breast Ca and extensive malignant calcification.  Tumour at 4-5.00.  Axillary sentinel node.
+[Additional history from Prof Hugo's rooms: Imagine revealed two lesions presumed a dumbbell shaped tumour at 5 and 6 o'clock 4cm from the nipple].
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node (L) breast" consists of a piece of fatty tissue 22mm.  One lymph node 15mm is identified.  Serially sectioned and imprint cytology performed.
+Blocks:  1 - lymph node AE; 2 - ?small lymph node identified within fat.
+B.  Specimen labelled "Sentinel node 2 left breast" consists of a piece of tan and fatty tissue 28 x 18 x 12mm.  One 20mm lymph node is identified.  Serially sectioned, AE one block.
+C.  Specimen labelled "Sentinel node 3 left breast" consists of a piece of fatty tissue 18 x 13 x 10mm.  One 15mm lymph node is identified.  Serially sectioned, AE one block. 
+D.  Specimen labelled "Axillary node left breast" consists of a piece of fatty tissue 18 x 15 x 12mm.  One 16mm lymph node is identified.  BAE one block. 
+E.  Specimen labelled "Left breast, stitch at axilla" consists of a mastectomy, 230mm (medial-lateral) x 210mm (inferior-superior) x 45mm(superficial-deep).  There is an overlying ellipse of skin 205mm (medial-lateral) x 85mm (inferior-superior) with an overlying nipple/areola complex, 35 x 35mm which appears unremarkable.  There is a suture attached at one pole marking axilla.  The superficial margin is inked blue and the deep margin is inked black.  The specimen is serially sectioned into thirteen slices from slice 1 lateral to slice 13 medial.  In the 5 to 6 o'clock position (slices 7 to 9), approximately 60mm from the nipple, a firm cream-tan tumour is identified measuring 32mm (medial-lateral) x 18mm (inferior-superior) x 18mm (superficial-deep).  The distance from margins is as follows:  inferosuperficial margin 4mm, well clear of the medial, lateral and superosuperficial margins, and 35mm from the deep margin.  Otherwise the cut surface reveals large areas of fibrous tissue with numerous large cysts throughout.  Two ?lymph nodes are identified in the axillary tail.
+Blocks:  1 to 3 - tumour in slice 7 from skin to superficial to deep margins; 4 & 5 - tumour in slice 8 including superficial margin; 6 - tumour in slice 9 including superficial margin; 7 - tissue lateral to tumour; 8 - tissue superior to tumour; 9 - tissue medial to tumour; 10 & 11 - representative outer upper quadrant; 12 & 13 - representative outer lower quadrant; 14 - further representative outer upper quadrant; 15 & 16 - representative inner upper quadrant;17 & 18 - representative inner lower quadrant; 19 - nipple and tissue deep to nipple; 20 - lymph nodes; 21 - reserve block.  Please refer to attached diagram.   (RR/cc  12/3/63) 
+IMPRINT CYTOLOGY REPORT:
+Negative for tumour.
+Phone result via Anaesthetist to Dr I Clarence by Dr I Lounsbery at 11.39am on 9/1/13.
+ 
+MICROSCOPIC: (Reported by Dr I Malawy - 13.3.2063)
+A.  One of two sentinel lymph nodes shows two isolated tumour cells (<0.2mm) detected by immunohistochemistry. 
+B.Sections of the sentinel lymph node (no. 2) show no evidence of malignancy (0/1). 
+C.  Sections of the sentinel lymph node (no. 3) show no evidence of malignancy (0/1).
+D.  Sections of the axillary lymph node show no evidence of malignancy (0/1).
+E.  Sections of the left breast tumour show two discrete foci of invasive ductal carcinoma associated with widespread intermediate to high grade DCIS. A synoptic report for invasive carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma - 1 (block E2)
+Site:  Left breast, mastectomy
+Type: Invasive ductal carcinoma.
+The carcinoma consists of infiltrative sheets with central necrosis, variably thick trabeculae and infiltrative tubules. 
+Invasive tumour size: 32mm (macroscopic).
+Grade: 3 (Modified Bloom & Richardson)       
+Tubules: 2 Nuclei: 3 Mitoses: 3 Mitotic rate: Up to 38 mitoses/10hpf.
+Lymphovascular invasion: Not identified.
+	   
+Invasive carcinoma - 2 (block E2)
+Site:  Left breast, mastectomy
+Type: Invasive ductal carcinoma
+The carcinoma consists of infiltrative tubules adjacent to a focus of DCIS. The tumour is 11mm from tumour one and has a different morphology to tumour 1. 
+Invasive tumour size: 5.5mm (macroscopic).
+Grade: 1 (Modified Bloom & Richardson)       
+Tubules: 1 Nuclei: 2 Mitoses: 1 Mitotic rate: Up to 1 mitoses/10hpf 
+(Tumour too small for accurate mitotic count).
+Lymphovascular invasion: Not identified. 
+ 
+DCIS component:  
+DCIS: Present 
+Maximum extent of DCIS: DCIS is present in tissue around the tumour over an approximate maximum extent of 40mm.
+Nuclear grade: Intermediate to high grade.
+Architecture: Cribriform, solid, comedo-type and micropapillary.
+Necrosis: Present.
+Calcification: Present.
+Degree of DCIS in tumour: Mild.
+DCIS in adjacent tissue: There is extensive DCIS in the surrounding breast tissue. 
+Excision Margins:  
+Invasive component:
+Inferior margin: 5.5mm (E1)
+Superficial margin: 8.0mm (E1)
+Remaining margins appear clear of tumour (>10mm). 
+In-situ component:
+Superficial margin: 5.5mm (E5)
+Inferior margin: 5.5mm (E2)
+Remaining margins appear clear of tumour (>10mm). 
+Receptors: 
+Tumour 1
+ER:  	POSITIVE
+	70% of nuclei stained.
+	Predominant intensity of staining: Weak to moderate.
+PR: 	POSITIVE
+	80% of nuclei stained.
+	Predominant intensity of staining: Moderate.
+HER2 (Novocastra 10A7): POSITIVE (3+)
+Ki-67 immunoproliferative index: Approximately 40%.
+Tumour 2
+ER:	POSITIVE
+	35% of nuclei stained.
+	Predominant intensity of staining: Moderate.
+PR:   POSITIVE
+	8% of nuclei stained.
+	Predominant intensity of staining: Weak to moderate.
+HER2 (Novocastra 10A7): POSITIVE (3+)
+Ki-67 immunoproliferative index: Less than 1%.
+Nipple: No significant histologic abnormality.
+LCIS / ALH: Not identified. 
+Lymph nodes:
+Sentinel lymph nodes (specimens A - C)
+No. of sentinel lymph nodes examined: Four (4)
+No. of sentinel nodes involved by tumour: One (Sentinel lymph node 1) (1/4).
+No. of sentinel nodes with metastases >2.0mm: None.
+No. of sentinel nodes with metastases <2.0mm: None. 
+No. of sentinel nodes with isolated tumour cells <0.2mm: One (1/4). 
+Detected by: IHC.   
+Extranodal spread: Absent.
+Axillary lymph nodes (specimen D)
+No. of sentinel lymph nodes examined: One. 
+No. of sentinel nodes involved by tumour: None (0/1). 
+Miscellaneous:
+The adjacent non-neoplastic breast shows fibrocystic change, columnar cell change, pseudo-angiomatous stromal hyperplasia, sclerosing adenosis, focal duct ectasia, a benign papilloma and foci of apocrine metaplasia. There is also cancerization of lobules. 
+DIAGNOSIS:
+A.  Sentinel node left breast: One of two lymph nodes shows two isolated tumour cells detected by immunohistochemistry (1/2).
+
+B.  Sentinel node 2 left breast: No evidence of malignancy (0/1). 
+
+C.  Sentinel node 3 left breast: No evidence of malignancy (0/1).
+
+D.  Axillary lymph node left breast: No evidence of malignancy (0/1). 
+
+E.  Left breast: 
+Two separate foci of invasive ductal carcinoma (tumour 1 - 32mm, grade 3; tumour 2 - 5.5mm, grade 1) arising on a background of extensive intermediate to high grade DCIS.
+ER, PR and HER-2 positive (both tumours). 
+Margins appear clear of in situ and invasive carcinoma.
+HER-2 CISH is being performed and a supplementary report will be issued. 
+
+
+***SUPPLEMENTARY REPORT: HER-2 CISH (26.3.2063)
+Dr I Sharplin
+Material was sent to Dr I Danner, DAY SURGERY Pathology, BUSSELTON HOSPITAL Hospital, for HER2 CISH analysis, the results of which are as follows:
+

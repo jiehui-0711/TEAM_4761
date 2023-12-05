@@ -1,0 +1,19 @@
+SPR no: 68I134282Y
+MRN no: 6831342
+Site_name: GLADSTONE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Renal cell carcinoma, partial nephrectomy.  Metastatic adenocarcinoma, consistent with high grade serous carcinoma / ovarian primary.  Renal cell carcinoma - right kidney.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right renal tumour&amp;quot;, consists of a partial nephrectomy measuring 40 x 35 x 22mm.  There is adherent perinephric fat measuring 110 x 50 x 15mm adherent to the capsule.  The capsular surface is smooth with adherent fascia.  The deep aspect is ragged corresponding to the surgical margin which is inked black.  On sectioning there is a circumscribed yellow haemorrhagic tumour measuring 22 x 20 x 20mm.  The tumour abuts the capsular margin and appears present at the deep surgical margin.  The tumour is 7mm away from the nearest radial margin.  The surrounding renal parenchyma is tan and unremarkable.  Representative sections.
+Blocks: 1 &amp;amp; 2 - full face through tumour and adjacent kidney; 3 &amp;amp; 4 - radial margin; 5 &amp;amp; 6 - representative perinephric fat.  (TO:JL/eh 30/10/69)
+
+
+MICROSCOPIC: (Reported by Dr Q Nowlin)
+The 22mm right kidney tumour core biopsy shows a Fuhrman grade 1 conventional clear cell carcinoma. The carcinoma consists of tumour cells with bland ovoid nuclei arranged in sheets and trabecula within vascular fibromyxoid connective tissue. No papillary architecture is seen. No high grade atypia or nuclear anaplasia is identified. The tumour is surrounded by an attenuated fibrous pseudocapsule, as well as, some renal parenchyma that shows mild non-specific interstitial fibrosis. The tumour is focally less than 0.2mm from the surgical margin. The perinephric fat shows no significant abnormality.
+
+
+DIAGNOSIS:
+Right renal mass: 22mm Fuhrman Grade 1 Conventional Clear Cell Carcinoma, focally less than 0.2mm from the surgical margin.
+Please correlate with clinical and imaging findings.

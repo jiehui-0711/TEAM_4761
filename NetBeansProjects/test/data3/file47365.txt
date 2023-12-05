@@ -1,0 +1,106 @@
+SPR no: 74P804260Y
+MRN no: 0794477
+Site_name: EASTERN EYRE HEALTH AND AGED CARE - COWELL CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right multifocal breast cancer.  Lesion 1 - Grade 3 infiltrating carcinoma NST, ER,PR positive Ki67 20%.  Positive FNA of axillary node.  Treated with neoadjuvant chemotherapy.  Bilateral skin sparing mastectomy and right axillary lymph node dissection.  BRCA mutation.
+1.  Right mastectomy.  2. Right axillary lymph node dissection level 1 - 2.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left mastectomy stitch at axilla&amp;quot;, consists of a mastectomy weighing 1,020 grams, containing one orientating suture (lateral).  The specimen measures 215mm (medial to lateral) x 210mm (superior to inferior) x 38mm (superficial to deep).  The ellipsoid piece of skin measures 70 x 30mm and the nipple measures 15 x 15mm and appears unremarkable.  The superficial superior margin is inked blue, the superficial inferior margin inked green, and the deep margin inked black.  The cut surface reveal uniform pale and fatty tissue.
+Blocks: 1 to 6 - RS inner lower quadrant; 7 to 12 - RS inner upper quadrant; 13 to 18 - RS outer lower quadrant; 19 to 24 - RS outer upper quadrant; 25 - nipple and subareolar tissue.
+
+B.  Specimen labelled &amp;quot;Right mastectomy plus axillary node dissection stitch at axilla&amp;quot;, consists of a mastectomy weighing 1,145 grams, containing one orientating suture (denoting lateral).  The specimen measures 350mm (medial to lateral) x 205mm (superior to inferior) x 40mm (superficial to deep).  The ellipse of skin measures 66mm (medial to lateral) x 28mm (superior to inferior).  The nipple is retracted and measures 10 x 8mm.  The superficial superior is inked blue, the superficial inferior inked green, and the deep inked black. In the axillary tail there is a pale poorly defined area measuring 25 x approximately 20 x 10mm.  A metal clip was identified in this region. There is also a yellow nodule in the axillary tail.  No discrete lesion is identified in the 9 o&amp;apos;clock region
+Blocks: 1 to 70 - entire 9 o&amp;apos;clock area from approximately 3 to 9cm from the nipple embedded; 71 - RS inner lower quadrant; 72 - RS inner upper quadrant; 73 and 74 - RS outer upper quadrant; 75 - RS outer lower quadrant; 76 to 79 - one lymph node in four pieces; 80 and 81 - composite sections one full face of pale lesion with clip; 82 and 83 - composite sections one full transverse face of pale lesion with clip; 84 - one full face of pale lesion with clip; 85 - RS yellow firm nodule with clip.   Refer to blocking diagram.  (TO:PB/vo 25/9/66)
+
+
+MICROSCOPIC (Reported by Dr U Ewers):
+A.  Sections of breast show focal fibroadenomatoid change.  The nipple shows no significant abnormality.  The specimen is extensively sampled and there is no evidence of in situ or invasive malignancy.
+
+B.  Sections show two foci of breast carcinoma within the 9 o&amp;apos;clock position.  One tumour lies closer to the nipple within blocks B23, 26, 27, 29, 32 and 37.  The second tumour lies further from the nipple within blocks B41, 53 and 61.  Associated treatment effect is seen.  The five (5) axillary lymph nodes identified show no evidence of malignancy however, treatment effect is noted.  The overall features are as follows:
+
+Invasive carcinoma number 1:
+Site:  Right breast, 9 o&amp;apos;clock, closer to nipple.
+Type:  Invasive carcinoma, NST.
+Invasive tumour size:  16mm (spanning four slices).
+Grade (Modified Bloom &amp;amp; Richardson):  2 (post treatment)
+Tubules: 3     Nuclei: 3     Mitoses: 1     Mitotic rate: 0/10hpf.
+Lymphovascular invasion:  Not seen.
+
+Receptors (Block B27):
+ER:  	Positive
+95% of nuclei stained
+predominant intensity of staining: Strong
+PR: 	Posivtive
+30% of nuclei stained
+predominant intensity of staining: Weak to moderate
+HER2 (Novocastra 10A7):  Negative (Score 0)
+HER2 SISH:  Refer to original biopsy report.
+Ki-67 index:  Less than 5%
+
+Invasive carcinoma number 2:
+Site:  Right breast 9 o&amp;apos;clock, further from nipple.
+Type:  Invasive carcinoma, NST
+Invasive tumour size: 12mm (spanning three slices)
+Grade (Modified Bloom &amp;amp; Richardson):  2 (post treatment)
+Tubules:  2   Nuclei:  3     Mitoses: 1	   Mitotic rate: 0/l0hpf.
+Lymphovascular invasion: Not seen.
+
+Receptors (Block B53):
+ER: 	Positive
+95% of nuclei stained
+predominant intensity of staining:Strong
+PR: 	Positive
+30% of nuclei stained
+predominant intensity of staining: Weak to moderate
+HER2 (Novocastra 10A7): Negative (Scope 0)
+HER2 SISH:  Refer to original biopsy report
+Ki-67 index: Less than 5%
+
+DCIS component:
+DCIS:  Present.
+Maximum extent of DCIS:  Approximately 20mm.
+Nuclear grade:  Moderate to high.
+Architecture: Solid to cribriform
+Necrosis:  Absent.
+Calcification:  Present.
+DCIS in adjacent tissue:  Present.
+
+Tumour bed size (approximate size in two dimensions, for post neoadjuvant chemotherapy specimens): 40mm by 30mm.
+
+Excision Margins:
+Invasive component:  3mm from deep and 8mm from superficial, all other margins well clear.
+In-situ component: 7mm from superficial, other margins well clear.
+
+Nipple:  No significant abnormality.
+
+LCIS/ALH:  Absent.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  5
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  5
+Total number of involved lymph nodes (including sentinel node(s)):  0
+Total number of lymph nodes with metastasis and treatment response: 0
+Total number of lymph nodes with treatment response, without tumour cells: 4
+
+Classification of chemotherapy response1:
+Partial response to therapy:
+Evidence of response but with 10 to 50% of tumour remaining in the tumour bed
+
+Lymph nodal response:
+Metastatic tumour not detected but evidence of response
+
+1. JERRELL Browers, Provenzano E, Earl H, Ellis IO. Laboratory handling and histology reporting of breast specimens from patients who have received neoadjuvant chemotherapy. Histopathology 2007;50:409-417.
+
+
+DIAGNOSIS:
+A.  Left mastectomy:  No evidence of malignancy.
+
+B.  Right mastectomy and axillary node dissection.
+- Two foci of residual carcinoma of the breast post treatment, margins clear.
+- Five benign axillary lymph nodes.

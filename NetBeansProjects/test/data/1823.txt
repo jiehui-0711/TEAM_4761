@@ -1,0 +1,66 @@
+
+ 6907513.FRZ
+Rutley, Seth
+69B75132
+
+Last edited : 3/11/2064		Page: 2
+CLINICAL:
+Left mastectomy/SLNB.  Left axillary sentinel lymph node.  Left breast cancer 9 o'clock 6cm fn.  Mastectomy and SLNBx. Bronchiectasis.  Hypertension.  Arrhythmia.  Left breast stitch axillary tail.  ?Intramammary sentinel node.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary sentinel node" consists of two pieces of fibrofatty tissue encasing one lymph node each measuring 20mm and 25mm in maximum dimension.  Sentinel node imprints are completed.  AE.
+Blocks: 1 - lymph node one; 2 - lymph nodetwo.
+ 
+B.  Specimen labelled "Left breast stitch at left axilla" consists of a left mastectomy measuring 160mm (medial to lateral) x 140mm (superior to inferior) x 62mm (superficial to deep).  There is a stitch at the left axilla.  On the surface there is an ellipse of skin measuring 190 x 85mm with a nipple areola complex that appears unremarkable.  On sectioning there is a firm tan tumour measuring 20 x 15 x 15mm at 9 o'clock, 40mm from the nipple.  The margins are as follows; 45mm (inferior), 50mm (superior), 15mm (deep), 32mm (superficial), 20mm (medial) and 73mm (lateral).  There is asecond focus of multiple tan firm nodules over an area of 20 x 20 x 15mm, inferior to the main tumour and abutting the inferior margin.This focus is at the 7 o'clock location, 30mm from the nipple.  The margins are as follows; 50mm (medial), 100mm (lateral), 33mm (deep), 10mm (superficial) and 110mm (superior).  Therest of the breast tissue is unremarkable.  
+Blocks: 1 - nipple areola complex; 2 to 5 - tumour; 6 - full face of tumour; 7 - inferior margin (with nodular area); 8 - superior margin; 9 - normal breast medial to tumour; 10 - normal breast lateral to tumour; 11 & 12 - (paired blocks) nodular area; 13 - upper inner quadrant; 14 - upper outer quadrant; 15 - lower outer quadrant; 16 - lower inner quadrant; 17 - ?axillary lymph nodes.   (XL/ta 3/9/64) 
+SENTINEL NODE IMPRINT REPORT:
+A.  Negative for tumour.  
+Result to Dr Cletus KEITHLY by Dr Q Teters/Dr Q Breen at 1:50pm on 6/1/14.  
+MICROSCOPIC: (Reported by Dr Q Tennant/Dr Q Ninh)
+A.  Sections of the two sentinel lymph nodes show no evidence of malignancy by H&E and IHC (0/1).
+B. Sections of the left breast tumour show a 17mm Grade 1 infiltrating ductal carcinoma, NOS. A synoptic report for invasive carcinoma of the breast follows:
+SYNOPTIC REPORT FOR INVASIVE CARCINOMA
+Invasivecarcinoma:
+Site: Left breast, 9 o'clock 40mm from the nipple.
+Type: Infiltrating ductal carcinoma, NOS.
+Invasive tumour size: 20mm macroscopic.
+Grade (Modified Bloom & Richardson): 1.
+Tubules: 2      Nuclei: 2     Mitoses: 1     Mitotic rate:  4/10hpf.
+Lymphovascular invasion:  Present (B6).
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS: DCIS is present in association with invasive carcinoma, as well as, in adjacent benign breast tissue, over an approximate maximum extent of 25mm. 
+Nuclear grade: Low to moderate. 
+Architecture: Solid, cribriform and comedo-type.
+Necrosis: Present (focal).
+Calcification: Present (focal).
+Degree of DCIS in tumour: Mild. 
+DCIS in adjacent tissue: Present (focal).
+Excision Margins:  
+Invasive component: All margins >10mm clear
+In-situ component: All margins > 10mm clear
+Receptors (Block  B6 ): 
+ER:  	POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: Strong.  
+PR:  	NEGATIVE
+	Less than 1% of nuclei stained
+HER2 (Novocastra 10A7): POSITIVE (3+)
+HER-2 SISH is being performed and a separate report will be issued (Wachovia Corporation NOARLUNGA HEALTH SERVICE).
+Ki-67 index: Variable, up to 8% of tumour cell nuclei positive.
+Nipple:  No significant abnormality.
+LCIS / ALH:   Not identified. 
+Miscellaneous: The adjacent non-neoplastic breast tissue shows fibrocystic change, fibroadenomatoid change, epithelial hyperplasia, apocrine metaplasia, benign intraduct papillomas and columnar cell change. An incidental 3.3mm fibroadenoma is also present (B4). There are scattered benign microcalcifications. 
+
+Sentinel lymph node(s): See specimen A.
+DIAGNOSIS:
+A.  Sentinel lymph nodes: No evidence of malignancy in two lymph nodes (0/2) (H&E and IHC).
+
+B.  Left Breast (mastectomy):
+20mm, grade 1, infiltrating ductal carcinoma, NOS, margins appear clear.
+Multifocal low to moderate grade DCIS, margins appear clear.
+Multifocal lymphovascular space invasion.
+ER and HER-2 positive; PR negative. 
+HER-2 SISH is being performed and a separate report will be issued (BB&T Corporation COLEDALE HOSPITAL).
+
+

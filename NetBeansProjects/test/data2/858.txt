@@ -1,0 +1,72 @@
+Episode No:  20F677264U
+202677.FPL
+
+WENSKOSKI, DAVIS 
+Lab No:  20F67726
+Captain Dement
+QUIRINDI  Australian Capital Territory  2844
+Specimen: Tissue
+D.O.B:  13/5/2005
+Sex:  M
+Collected: Unknown at :
+Location:  Envoi-BARADINE MULTI PURPOSE SERVICE
+DR ANTONIA JESUS Clementi
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Low anterior resection for intussuscepting upper rectal tumour.  No obvious liver, lung or peritoneal metastases.  Hypertension.  Hypercholesterolemia.  
+MACROSCOPIC:
+A.  Specimen labelled "Low anterior resection" consists of a segment of bowel comprising of sigmoid colon and rectum measuring 400mm in total length and 60mm in open circumference.  The proximal margin is inked blue and the distal margin and surrounding rectalfat is inked green.  There is a large exophytic fungating tumour measuring 80 x 60 x 60mm present within the rectum.  The tumour is 80mm from the distal margin and is 50mm above the peritoneal reflection.  The tumour arises from the anterior antimesenteric portion of the colon.  The underlying muscle wall and serosa is retracted.  No macroscopic serosal involvement is seen.  There are two small polyps near the tumour each measuring 10mm in diameter.  The first polyp is 25mm proximal to the tumour and the second polyp is 40mm proximal to the tumour.  
+Blocks:  1- LS proximal margin; 2 - LS distal margin; 3 to 8 - representative sections of tumour; 9 - first polyp; 10 - second polyp; 11 - sigmoid colon; 12 - rectum; 13 - reserved tumour block; 14 - one apical node trisected; 15 - one lymph node; 16 - two lymph nodes; 17 - one lymph node; 18 - two lymph nodes; 19 to 22 - one lymph node each; 23 - three lymph nodes; 24 - one lymph node; 25 - three lymph nodes.  
+B.  Specimen labelled "Distal donut" consists of one donut measuring 30mm x 10mm x 15mm.  AE 1 block.  (IO/mm 25.12.62) 
+MICROSCOPIC (Reported by Dr F Groetsch):  
+A & B.  Synoptic Report for Colorectal Carcinoma
+Macroscopic Description
+
+Site of tumour:	
+Maximum tumour diameter:  80mm
+Distance of tumour to nearer cut end:  80mm
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not applicable
+Lymph nodes
+Number of lymph nodes present:  17
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Present (Mural/Extramural):  Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+- The two small polyps are hyperplastic polyps.  
+- The distal donut (specimen B) shows no significant abnormality.
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Not applicable
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0     pMX     R0	
+DIAGNOSIS:
+A.  Lower anterior resection - Adenocarcinoma (T3, N0, MX, R0).
+B.  Distal donut - No significant abnormality.
+

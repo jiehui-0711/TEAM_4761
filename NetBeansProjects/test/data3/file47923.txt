@@ -1,0 +1,105 @@
+SPR no: 80K972390W
+MRN no: 8049723
+Site_name: YORK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Gastric adenocarcinoma at fundus / GOJ.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Gastrectomy&amp;quot;, consists of a total gastrectomy with attached lesser and greater omentum.  The gastrectomy measures along the greater curve 300mm and along the lesser curve 190mm.  A 5mm piece of tumour and a 5mm piece of normal mucosa is taken for tumour banking.  The lesser omentum is 150 x 65 x 25mm.  The greater omentum measures 300 x 235 x 45mm.  The serosa appears unremarkable.  There is no tumour perforation.  The mucosa shows a fungating tumour with irregular raised boarders located near the gastrooesophageal junction measuring 57 x 45mm.  It is 10mm from the proximal margin and 125mm from the distal margin.  The remainder of the mucosa is unremarkable.  Inking, proximal margin black and distal margin blue.  On sectioning the tumour appears to focally invade past the muscularis propria into the perigastric fat.  Blocks: 1 to 8 - sections of tumour close to proximal margin as well as areas of deepest invasion; 9 - RS distal margin; 10 to 20 - lymph nodes from lesser omentum; 10 - one lymph node bisected; 11 - one lymph node bisected; 12 - two lymph nodes; 13 - two lymph nodes; 14 and 15 - one lymph node bisected each; 16 - five lymph nodes; 17 - four lymph nodes; 18, 19 and 20 - one lymph node bisected each; 21 - one lymph node from greater omentum; 22 - RS greater omental fat; 23 - RS antrum.
+
+B.  Specimen labelled &amp;quot;Proximal donut&amp;quot;, consists of an unremarkable appearing donut 17 x 15 x 8mm.  Blocks: 1 and 4 - four TS each.
+
+C.  Specimen labelled &amp;quot;Distal donut&amp;quot;, consists of an unremarkable appearing donut 25 x 20 x 10mm.  The specimen is serially sliced and AE 2 blocks.
+
+D.  Specimen labelled &amp;quot;Splenic arterial lymph node&amp;quot;, consists of multiple fragments of fibrofatty tissue in aggregate 40 x 30 x 10mm.  Three lymph nodes found measuring from 13 to 16mm.  Blocks: 1 - one lymph node quadrisected; 2 - one lymph node quadrisected; 3 - one lymph node in five pieces.
+
+E.  Specimen labelled &amp;quot;Portal lymph node&amp;quot;, consists of fatty tissue 37 x 35 x 20mm.  Four lymph nodes found measuring from 13 to 23mm.  Blocks: 1 - one lymph node quadrisected; 2 - one lymph node in five pieces; 3 and 4- one lymph node in five pieces; 5 and 6 - one lymph node in five pieces.  (TO:BL/vo 7/11/69)
+
+
+MICROSCOPIC (Reported by Dr U Schickedanz):
+A.  Sections show an ulcerated tumour with features of moderate to poorly differentiated adenocarcinoma.Major portion is poorly differentiated and composed of small to medium size cells arranged into cords, solid clusters and diffuse sheets. Signet ring morphology is also evident Moderately differentiated areas display intestinal type tubular structures and comprise &amp;lt;50% of the tumour . Hence the tumour is classified as G3 . Tumour is seen infiltrating into the muscle coat of distal oesophageal wall  and through the entire thickness of the junctional area  into the sub serosa forming discontinuous tumour nodules.Maximum thickness is 8 mm . The closest tumour nodule is within 0.2mm to the circumferential surgical margin.Tumour emboli are seen within the wall  including some  beneath the squamous epithelium.  Perineural invasion is evident.  No evidence of extracellular mucin pools. Closest proximal oesophageal margin is within 5mm. (Block4 )  The tumour surface is largely ulcerated and Barrett&amp;apos;s change is not prominant .Very occational glands with goblet cells noted .No significant areas of dysplasia in adjacent viable gastric mucosa .Active chronic  gastritis is seen , Helicobacter organisms are not identified.  Distal duodenal margin is unremarkable.  Four out of twenty five lymph nodes show metastasis with perinodal fat infiltration. Most of the lymph nodes were recovered from lesser curve fat
+
+Synoptic report ;
+Tumour site:
+Gastro-oesophageal junction with extension to cardia and proximal stomach
+Distance to nearest margin:     5mm to oesophageal margin
+
+WHO histological tumour type:
+Adenocarcinoma- Poorly differentiated ,G3
+
+Lauren histological tumour type:
+Mixed Diffuse and intestinal
+
+Growth pattern:
+Infiltrating
+
+Maximal dimension of tumour:     57 x 45 x 8mm
+
+Local invasion (pT):
+T3	Tumour penetrates subserosal connective tissue without invasion of visceral peritoneum or adjacent structures.
+
+Serosal surface involvement:
+Absent
+
+Vascular space invasion:
+Small vessels (lymphatic and capillary): Present
+
+Large vessels (vein and artery): Absent
+
+Perineural growth:
+Present
+
+Degree of regression after preoperative chemoradiation:
+Not applicable
+
+Her2 status:  Pending
+
+Distance of tumour from margins:
+From proximal:     5mm
+From distal:     125mm
+From circumferential (proximal/cardia tumours):     0.2mm
+
+Number of involved regional nodes/total number of region nodes (pN):
+Number of lymph nodes present:  25
+Number of lymph nodes involved:  4
+
+N2	Metastasis in 3-6 regional lymph nodes ( 4/25)
+
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+
+Other pathologies:
+Gastritis: Present
+
+Helicobacter infection: Absent
+
+Intestinal metaplasia: occational
+
+Dysplasia: Occational
+
+Does it involve a margin? No
+
+Gastric polyps: Absent
+
+Barrett&amp;#8217;s mucosa: ulcerated
+
+B.  Oesophageal tissue is seen with no evidence of dysplasia or malignancy.  Small subepithelial granulomatous focus noted.
+
+C.  Duodenal tissue with no significant abnormality.
+
+D.  No lymph node metastasis 0/3.
+
+E.  No lymph node metastasis 0/4.Lipogranulomatous reaction is seen
+
+
+DIAGNOSIS:
+A.  Gastrectomy:  Moderate to poorly differentiated adenocarcinoma at the gastric oesophageal junction.  4/25 lymph nodes show metastasis.  Perineural invasion present.
+Stage  111B  : T3N2MX   G3,  R0 ( AJCC 8th Edition )
+B.  Proximal donut:  No evidence of tumour.
+C.  Distal donut:No significant abnormality.
+D. Splenic arterial lymph node:  No lymph node metastasis. 0/3
+E.  Portal lymph node : No lymph node metastasis.  0/4
+Additional report :  21/9/2067
+
+HER2 -   Negative   ( No staining )

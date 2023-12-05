@@ -1,0 +1,77 @@
+
+Episode No:  52G631459D
+5226314.OYD
+
+Delli, Bula Columbus 
+Lab No:  52G63145
+The Coach
+COOLGARDIE  QLD  7009
+Specimen: Tissue
+D.O.B:  10/12/2010
+Sex:  F
+Collected: 14/8/2064 at :
+Location:  4 JABIRU PLACE - HALLS CREEK HOSPITAL
+DR COURTNEY Lacy Milton-BOURJOLLY
+Distribution:  
+CLINICAL:
+Hookwire localised right breast ca + SLNBx (IDC on bx).  1.  Wide local excision with skin ellipse at 10 o'clock.  Markings - long lateral, short superior, medium medial.  For specimen Xray.  2.  Sentinel LN bx - hot (count 905) and blue.
+MACROSCOPIC:
+A.  Specimen labelled "Right breast sentinel node" consists of a piece of fatty tissue 52 x 15 x 12mm.  There is an elongated lymph node 35 x 7 x 6mm.
+Blocks:  1 to 3 - all of one lymph node.
+B.  Specimen labelled "Right breast lesion suture long lateral, medium medial, short superior" consists of a piece of breast tissue with three marking stitches and a guide wire as described measuring 38 (lateral to medial) x 110 (superior to inferior) x 85mm (superficial to deep).  There is a 55 x 6mm skin ellipse on the superficial aspect with no obvious abnormality.  Margins are inked in three colours:  Superficial red, lateral black and medial blue.  Specimen is serially sectioned into fourteen slices from superior to inferior.  There is a well-defined pale solid tumour in slices nine and ten measuring 15 x 19 x 14mm.  Away from tumour and in other slices there are patchy, pale streaks (?fibrosis).  The tumour is 6mm from lateral, 18mm from medial, 15mm from superficial, 45mm from deep, 30mm from inferior and 60mm from superior margin.
+Blocks:  1 - representative slice one (superior); 2 & 3 - paired sections mid slice three; 4 & 5 - paired sections mid slicefour; 6 - superior / medial slice five; 7 to 9 - lower third slice seven; 10 to 16 - slice eight (please note part of the superficial margin in block 10 is under cut); 17 to 26 - slice nine (block 20 the tumour); 27 to 34 - slice ten (block 30 - ER, PR, Her-2, Ki 67, 30 - is trimmed from block 29); 35 to 41 - slice eleven; 42 - mid slice twelve; 43 - mid slice thirteen; 44 - representative slice fourteen (inferior).  Please see the diagram, the picture and the specimen x-ray.  (TO: QL; IX/rt 15.8.64)
+MICROSCOPIC (Reported by Dr O Creach):
+A. One (1) lymph node shows no evidence of malignancy (0/1).  The CAM5.2 keratin shows patchy dendritic pattern staining but no definite isolated tumour cells are highlighted.
+B. Sections show an infiltrating ductal carcinoma with the following features:
+
+Invasive carcinoma:
+Site:  Right breast.  
+Type: Infiltrating ductal, NST
+Fixation artefact makes assessment of architecture difficult.  The tumour displays definite areas of ductal differentiation.  There are also areas of discohesive nested growth, probably related to fixation artefact and aminor component is arranged in trabeculae or single file arrays resembling infiltrating lobular carcinoma.  E cadherin expression is predominantly retained, including in the zones showing lobular like features. There are zones of absent or patchy E cadherin staining, mainly in the discohesive tumour and this probably relates to fixation artefact rather than true lobular differentiation. 
+Invasive tumour size:  19mm (macroscopic measurement).
+Grade (Modified Bloom & Richardson):  2
+Tubules:  2  Nuclei:  2  Mitoses:  2  Mitotic rate:  9/10hpf (in hot spot).
+Lymphovascular invasion:  Present focal (A20)
+There are several adjacent small vessels containing tumour at the periphery of the invasive tumour.  Although the intravascular tumour is cutting out on deeperlevels examined with immunostains, the endothelial cells of this cluster of vessels is highlighted with CD31 while myoepithelial markers P63 and CK5/6 are negative in this area.
+  
+
+DCIS component:  
+DCIS:  Present
+Maximum extentof DCIS:  Scattered foci confined to invasive tumour.
+Nuclear grade:  Low to intermediate.
+Architecture: Solid and cribriform
+Necrosis:   Absent
+Calcification: Absent
+Degree of DCIS in tumour:  Mild
+DCIS in adjacent tissue:  Not seen.
+Excision Margins:  
+Invasive component:  Lateral 4mm (B30), other margins well clear (>10mm).
+In-situ component: Not closer than invasive component
+Receptors (Block 30): 
+ER:  Positive.
+	% of nuclei stained 100%
+	predominant intensity of staining:  Strong.
+PR:  Positive.
+	% of nuclei stained 100%
+	predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7):  Negative. 
+HER2 SISH:  Performed at Johnson & Johnson, BATEMANS BAY HOSPITAL Hospital, see separate report.
+Ki-67 index:  Heterogenous; mostly 10% however there are a couple of "hot spots: in which the index is approximately 20%.
+Nipple:  N/A
+LCIS / ALH:    No definite.
+Miscellaneous:  Columnar cell change, columnar cell hyperplasia, microcysts, apocrine metaplasia, papillary apocrine metaplasia, intraduct papilloma (1mm), scattered benign glandular calcification and patchy mild fat necrosis.  
+Sentinel lymph node(s): (specimen B)
+Number of sentinel lymph nodes examined:  1
+Number of sentinel lymph nodes involved by tumour:  0
+Number of sentinel nodes with metastases >2.0mm:  0
+Number of sentinel nodes with metastases <2.0mm:  0
+Number of sentinel nodes with isolated tumour cells <0.2mm:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  1
+Total number of involved lymph nodes (including sentinel node(s)): 0
+
+
+DIAGNOSIS:
+A & B.  Right breast sentinel lymph node and right breast (wide local excision).
+-  19mm grade 2 infiltrating ductal carcinoma (see text), NST, ER positive, PR positive, HER2 SISH (see separate report), focal lymphovascular invasion, margins clear; one (1) negative sentinel lymph node (0/1).  
+

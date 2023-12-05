@@ -1,0 +1,183 @@
+DateOfBirth
+200103040000
+
+
+SiteName
+HOLBROOK DISTRICT HOSPITAL
+
+
+FirstName
+Andren
+
+
+SPRID
+59Q5422268
+
+
+MRN
+59654222
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+59Q54222 (59Q5422268) SILCOX, Dorethea
+
+HISTOPATHOLOGY REPORT
+CASINO AND DISTRICT MEMORIAL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Appendiceal cancer, low grade high volume PCI 35/39.
+
+1. Caecum + appendix + right hemicolectomy
+2. Peritoneum.
+3. Diaphragm stripping.
+4. Pelvic stripping.
+5. Gallbladder.
+6. Omentum.
+7. Ovaries + fallopian tubes x2.
+
+MACROSCOPIC:
+A. &amp;quot;OMENTUM, DIAPHRAGM, OVARIES, FALLOPIAN TUBES, RIGHT COLON, APPENDIX, CAECUM, PERITONEUM, PELVIC STRIP&amp;quot;. Consists of appendix with attached bowel and surrounding fatty tissue, a segment of small bowel and large bowel with attached mesocolic fat, a strip of skin with underlying tissue, fragments of mucin, a detached ovary with fallopian tube, another possible ovary, gallbladder, omentum and fragments of peritoneum.
+
+APPENDIX:
+The appendix measures 50x45x30mm and is removed with a short 10mm wide cuff of caecum wall attached. The appendix has some surrounding fatty tissue. The appendix serosal surface is patchy brown and contains mucin. The cut surface of the appendix shows mucin in the lumen as well as thickened pale appendix wall. The lumen of the appendix is dilated to 20mm internal diameter.There is a possible fallopian tube attached next to the wall of appendix. (1-7  TS of appendix [6&amp;amp;7  one full face]).
+
+DETACHED MUCIN:
+There is light brown mucinous material 50x30x12mm in aggregate. (8  mucin).
+
+STRIP OF SKIN:
+There is a long thin strip of skin 230x10mm with underlying fatty subcutis tissue up to 50mm in depth, with a 15mm-20mm strip of fibrotic fascia at the deep plane. There is a depression ?umbilicus or ?port site identified in the middle of the skin. There is a fibrous scar at the level of fascia running along the specimen, with thin black sutures. Skin surface is  unremarkable. One cross-section of umbilical skin and underlying tissue taken.
+(9  skin depression and underlying tissue).
+
+OVARY AND FALLOPIAN TUBES:
+There is an ovary 25x18x13mm with attached fallopian tube 30x5mm. The ovary and fallopian tube outer surface and cut surface is unremarkable. The fimbrial end is unabled to be identified on the fallopian tube. The ovary weighs 1.9g. There is a separate possible ovary 11x10x8mm and weighs 0.6g.
+(10  ovary [ovary all embedded]; 11  fallopian tube; 12  other possible ovary).
+
+PERITONEUM:
+There are multiple fragments of peritoneum in aggregate 180x160x25mm, possible mucin identified on peritoneum surface. There are seperate brown tissues identified ? muscle ?diaphragm. One pale firm tissue identified ? ovarian tissue.
+(13  peritoneal surface with possible mucin; 14  ?muscle ?diaphragm; 15  pale tissue ?ovary).
+
+GALLBLADDER:
+There is a 60x20mm opened disrupted gallbladder. Serosal surface is pale and shiny. Mucosal surface is green and velvety. No gallstones identified in the specimen.
+(16  gallbladder neck, body and fundus).
+
+BOWEL SEGMENT:
+There is a bowel segment consisting of small bowel 110x20mm joined with caecum 100x30mm with attached mesocolic fat 45mm wide. The serosal surface of small bowel and large bowel is roughened and patchy brown ?granulation tissue. Possible mucin identified on serosal surface. The mucosal surface of the small bowel and large bowel is unremarkable.
+(17  small bowel; 18  large bowel; 19  one lymph node; 20  one lymph node; 21  five lymph nodes; 22  five lymph nodes).
+
+OMENTUM:
+There are multiple fragments of omentum in aggregate 340x140x20mm. No obvious tumour deposits identified.  (23-25  omentum). Representative sections. (M-25/SL 6/6/2070 km).
+
+FURTHER SECTIONS:
+26,26 small and large bowel surface; 28-29 proximal appendix; 30 adjacent more proximal close to caecum segment; 32-32 section of mid-appendix with mucin on surface; 33 trimmed tissue from 33 - thick section; 34 tissue near appendix ?surface; 35-38 peritoneal tissue adhesions; 29 detached tissue fragment; RS LV
+
+MICROSCOPIC:  Dr P. Cartland cy
+
+The appendix is involved in all areas by a low grade mucinous neoplasm (LAMN) forming a cystically dilated appendix mass. The LAMN shows fibrosis of the lamina propria and there is fibrosis and calcification of the appendix wall with lost of normal structures. The wall of the appendix is obliterated by penetrating mucin and neoplastic epithelium. There is extensive organising acellular mucin over the surface of the appendix. In two sections (4, 34), mucinous epithelium extends to the peritoneal surface of the appendix (pT4a).
+
+There are numerous deposits of acellular organising mucin involving the surfaces of both fallopian tubes (one fallopian tube is attached to the appendix mass) ,  the surfaces of both  ovaries, the serosal surface of small and large bowel, with similar surface deposits over peritoneal tissue and omentum. The deposits have associated granulation tissue, fibrosis, calcification and in areas there is a foreign body giant cell reaction. The surface acellular mucin does not invade into subsurface tissue.
+
+Sampled mesenteric lymph nodes are negative  (8 lymph nodes sampled).
+The skin has a subsurface scar with sutures.
+The gallbladder is unremarkable.
+There is a focus of endometriosis within appendix muscularis propria.
+
+APPENDIX CARCINOMA/MUCINOUS NEOPLASM SYNOPTIC REPORT:
+(based on CAP 2018 guidelines, AJJC TMN 8th ed, and Pai review 2018)
+
+Tumor site:  Diffusely involving appendix
+
+Tumor size:  Greatest dimension 50 mm length, 20mm internal diameter
+
+Histologic type:  Low-grade appendiceal mucinous neoplasm (LAMN)
+
+Histologic grade:  G1 - Well differentiated
+
+Tumor extension:  Tumor (mucin and epithelium) invades the visceral peritoneum (serosa).
+
+Lymphovascular invasion:  Not identified
+
+Perineural invasion: Not identified
+
+Margins:
+Appendix LAMN well clear of mucosal margins (colon and small bowel ends).
+Mesoappendix margin probably involved (extensive surface mucin deposits)
+
+Regional lymph nodes:
+Number of lymph nodes involved: 0
+Number of lymph nodes examined: 8 nodes sampled.
+
+DISTANT METASTASES (histologically confirmed):
+- DISSEMINATED PERITONEAL MUCINOUS DISEASE IS PRESENT;
+- Deposits area acellular organising mucin, negative for identifiable mucinous epithelium;
+- Sites of peritoneal mucinous disease:
+Omentum
+Peritoneum
+Ovaries x2
+Fallopian tubes x1, and surface involvement of other fallopian tube attached to appendix
+
+Distant metastases other than peritoneum (histologically confirmed):  Not applicable
+
+Additional pathologic findings:  Focus of endometriosis in appendix muscle wall.
+
+Ancillary studies:  MMRP pending, block 5, appendix
+
+Other specimens:
+The gallbladder is unremarkable. The skin has a subsurface scar with sutures.
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed):  pT4a M1a
+
+COMMENT(S):
+The AJCC eighth edition now defines M1a as intraperitoneal acellular mucin without identifiable tumor cells in the disseminated peritoneal mucinous deposits. There is limited literature data on the prognostic significance of acellular intraperitoneal mucinous disease The limited literature data suggest that patients with intraperitoneal acellular mucinous disease have a decreased risk of recurrence compared with patients with cellular disease and support the inclusion of a separate M category for intraperitoneal acellular mucinous disease.
+
+DIAGNOSIS:
+Appendix:
+- LOW-GRADE APPENDICEAL MUCINOUS NEOPLASM (LAMN);
+- LAMN invades/penetrates through full thickness of appendix wall;
+- mucin and neoplastic mucinous epithelium of LAMN involves appendix peritoneal surface.
+Peritoneal tissues:
+- DISSEMINATED INTRAPERITONEAL ACELLULAR MUCINOUS DEPOSITS involving ovaries, fallopian tubes, peritoneal tissue, omentum, and surface of small and large bowel.
+
+-------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT:  17/8/2069
+IMMUNOHISTOCHEMISTRY (IHC): Block 5.
+
+Mismatch Repair Proteins (MMRP) IHC:
+MLH1: NORMAL staining.
+PMS2: NORMAL staining.
+MSH2: NORMAL staining.
+MSH6: NORMAL staining.
+Conclusion:
+This is the normal pattern of MMRP staining.
+NO MMR deficiency identified.
+-------------------------------------------------------------------------------------------------------
+
+
+
+
+
+SpecimenReceivedDate
+2019-06-12 00:00:00
+
+
+LastName
+Ricky

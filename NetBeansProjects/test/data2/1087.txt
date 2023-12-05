@@ -1,0 +1,38 @@
+Episode No:  48F000621W
+4820006.HDW
+
+Samyn, Kayce 
+Lab No:  48F00062,48F00062
+Liddington Hall
+YEPPOON  Northern Territory  4053
+Specimen: Washings,Tissue
+D.O.B:  26/7/2004
+Sex:  F
+Collected: 3/9/2063 at :
+Location:  POST OPERATIVE RECOVERY - BILOELA HOSPITAL
+DR MIGDALIA KARLA Hueston
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (11.9.63):
+
+
+CLINICAL:
+Post menopausal bleeding.  Endometrial adenocarcinoma on D+C, well differentiated.  H/O Obese, smoker, non Hodgkin lymphoma. 
+Uterus, cervix, bilateral tubes and ovaries.  
+MACROSCOPIC:
+Specimen labelled "Uterus, cervix, bilateral tubes and ovaries", consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 64g in total.  The uterus measures 70 x 50 x 35mm and has smooth shiny serosal service.  The ectocervix measures 25 x 25mm and is focally distorted butis otherwise unremarkable.  On opening the cavity there is a nodular roughened area of endometrium anteriorly measuring 20 x 18mm and posteriorly 22 x 20mm.  The cut surface reveals that anteriorly the tumour appears to invade myometrium to a maximum depth of 4mm over a total wall thickness of 18mm.  Posteriorly the tumour invades myometrium to a maximum depth of 6mm over a total wall thickness of 15mm.  Otherwise the myometrium is unremarkable.  The right fallopian tube measures 45mm in length with a maximum external diameter of 5mm.  The right ovary measures 20 x 12 x 8mm and has unremarkable cut surface.  The left fallopian tube measures 40mm in length and a maximum external diameter of 6mm.  The left ovary measures 25 x 15 x 10mm and has an unremarkable cut surface.  
+Blocks: 1 and 2 - full longitudinal section of anterior body and cervix; 3 to 5 - full longitudinal section of posterior body and cervix; 6 anterior uterus with tumour; 7 and 8 - further posterior uterus with tumour; 9 - right tube; 10 - right ovary; 11 - left tube; 12 - left ovary; 13 - reserved block.  
+(TO: GZ;MO/vo4.9.63)
+MICROSCOPIC (Reported by Dr G Kunselman):
+Sections of the cervix are unremarkable.  Sections of the endometrial tumour show a grade 1 endometrioid adenocarcinoma which invades the myometrium.  The maximum depth of myometrial invasion is 5mm out of total myometrial thickness of 9mm.  No lymphovascular invasion identified.  There is no cervical involvement.  Sections ofthe ovaries and fallopian tubes are unremarkable.
+Immunostains for mismatch repair will be performed and a supplementary report issued.  
+DIAGNOSIS:
+Uterus, ovaries and fallopian tubes:  Grade 1 endometrioid adenocarcinoma of endometrium showing deep myometrial invasion.  Stage 1B.
+SUPPLEMENTARY REPORT (11.9.63):
+Mismatch repair immunostains:
+MLH1:   Preserved nuclear staining.
+PMS2:   Preserved nuclearstaining.
+MSH2:   Preserved nuclear staining.
+MSH6:   Preserved nuclear staining.
+Preserved nuclear staining of a carcinoma for the mismatch repair enzymes MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype (MSI). 
+  
+

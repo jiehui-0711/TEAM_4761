@@ -1,0 +1,51 @@
+
+Episode No:  29E741143X
+2917411.MHX
+
+MCNEEL, ALVA 
+Lab No:  29E74114,29E74114
+Deans Lake
+MADDINGLEY  TAS  6057
+Specimen: Washings,Tissue
+D.O.B:  3/3/2005
+Sex:  F
+Collected: 21/10/2013 at 18:33
+Location:  South Western Area - BINGARA MULTIPURPOSE SERVICE
+DR ELDEN ROSARO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Endometrial cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, tubes and ovaries" consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 82g in total.  The uterus measures 75 x 70 x 30mm and has a smooth shiny serosal surface.  The soft tissue marginis inked blue anteriorly and black posteriorly.  The ectocervix measures 30 x 28mm and has an unremarkable surface.  There is an endometrial tumour anteriorly measuring approximately 30 x 15 x 12mm.  The tumour has a pale cut surface.  The myometrium is 70mm in maximum thickness.  The right ovary measures 27 x 12 x 10mm and has an unremarkable cut surface.  The right fallopian tube measures 65mm in length andup to 7mm in diameter.  The left ovary measures 25 x 10 x 6mm and has an unremarkable cut surface.  The left fallopian tube measures 70mm in length and up to 7mm in diameter.  
+Blocks:  1 to 3 - full longitudinal section of anteriorbody and cervix; 4 to 6 - full longitudinal section of posterior body and cervix;  7 - section of tumour, reserved block; 8 & 9 - paired sections of tumour; 10 - right fallopian tube and ovary; 11 - left fallopian tube and ovary.  
+B.  Specimen labelled "Right pelvic lymph nodes" consists of fragments of fatty tissue 42 x 25 x 7mm in aggregate.  Specimen is sliced.  No lymph nodes are identified.  
+Blocks:  1 to 3 - AE.  
+C.  Specimen labelled "Left pelvic lymph nodes" consists of fragments of fatty tissue 50 x 38 x 10mm in aggregate.  Several lymph nodes are identified the largest is 9mm in maximum dimension.  
+Blocks:  1 & 2 - lymph nodes as seen.  
+D.  Specimen labelled "Posterior pouch of Douglas peritoneum" consists of tan fragments and blood clots 40 x 28 x 6mm in aggregate.  AE 2 blocks.
+E.  Specimen labelled "Omental biopsy" consists of a piece of fatty tissue 20 x 15 x 10mm.  Specimen is sliced.  No nodules are identified.  AE 1 block.  
+(FZ/mm 25.12.63) 
+MICROSCOPIC (Reported by Dr G Buesing):
+A.  Sections of uterus show a moderately differentiated endometrioid adenocarcinoma (grade 2).  The carcinoma shows architectural grade 2 with focal solid component (about 10%).  The tumour cells show nuclear grade 1 to 2.  The carcinoma invades to less than half of the myometrium.  The maximal depth of tumour invasion is 5mm (block A3).  The myometrial wall thicknessis 14mm.  The tumour is within the uterine corpus.  There is no evidence of lymphovascular invasion.  The rest of endometrium is atrophic and shows no significant abnormality.  The uterine serosa is unremarkable.  In block A1, a small fragment of tumour is seen on the surface of endocervix.  The underlying endocervical glands are unremarkable and there is no evidence of stromal involvement.  This is mostly likely to be either secondary to previous curettings or tumour shedding and does not represent true endocervical involvement by the tumour.  The ectocervix are unremarkable.  Both fallopian tubes are unremarkable.  Both ovaries are unremarkable.  One (1) small lymph node is identified within the soft tissue attached to the left fallopian tube.  The lymph node is unremarkable.
+B.  Seven (7) lymph nodes are identified in total.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+C.  Seven (7) lymph nodes are identified in total.  The lymph nodes are unremarkable.  There is no evidence of malignancy.
+D.  Sections show large fragments of moderately differentiated endometrioid adenocarcinoma (grade 2).  The tumour show same appearances as those described in the specimen A.
+E.  Sections show normal appearing adipose tissue with no significant abnormality.  There is no evidence of malignancy.
+Representative slides are shown to Dr G Galecki.
+DIAGNOSIS:
+A.  Uterus, cervix, tube and ovaries - Endometrioid adenocarcinoma.
+B.  Right pelvic lymph nodes - No evidence of malignancy (0/7).
+C.  Left pelvic lymph nodes - No evidence of malignancy (0/7).
+D.  Posterior pouch of Douglas peritoneum - Endometrioid adenocarcinoma.
+E.  Omental biopsy - No significant abnormality.
+SUPPLEMENTARY REPORT (Reported by Dr G Blanchard, 1.12.63)
+This case was discussed at the Gynaecology Tumour Board meeting on 30.12.63 and immunoperoxidase stainsfor mismatch repair status were requested.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

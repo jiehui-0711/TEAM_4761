@@ -1,0 +1,27 @@
+ 8010132.TIG
+Adelson, MARCOS
+80E01327
+
+Last edited : 6/9/2066		Page: 2
+CLINICAL:
+Great curvature of stomach - gastric GIST.  
+Mass is encapsulated - inked green.  Divided for biobank, then place in formalin by RS. 
+MACROSCOPIC:
+Fresh tissue triage at 06.03.2066 at 11:00am for biobank.
+Specimen labelled "Stomach", consists of a nodular lesion with a stapled margin measuring 40mm x 30 x 25mm.  The stapled margin has been removed and inked black.  The rest of the serosal surface is smooth and shiny  and  is inked blue.  The cut surface shows pale tan areas with focal calcification.  AE.
+Blocks; 1 to 12 (1 and 2  one slice bisected; 3 and 4 - one slice bisected; 5 and 6 - one slice bisected ; 7 and 8 - one  slice bisected; 9 and 10 - one slice bisected ; 11 - one slice; 12 - one slice) (block 3, 4, 5 and 6 no full face due to an area of disruption from biobank tissue sampling, not true margin). 
+(TO: ZZ;SR/vo 6.6.66)
+MICROSCOPIC (Reported by Dr W Fortino):
+Sections show stomach with a circumscribed cellular lesion, composed of spindle shaped tumour cells with bland elongated nuclei, forming intersecting fascicles. Focal hyalinisation and dystrophic calcification are present. No epithelioid features or necrosis are seen. Up to 2 mitoses are present per 50 hpf. The lesion extends to the inked margin. The overlying gastric mucosa appears unremarkable. The findings are in keeping with a gastrointestinal stromal tumour.
+Immunohistochemistry:
+c-kit: +ve
+CD34: +ve
+Ki67 index: 2%
+SMA:focal +ve
+Desmin: -ve
+SOX10: -ve
+NIH consensus guidelines (Fletcher et al., Human Pathology, 2002):
+Low risk (size 2 to 5 cm, < 5 mitoses per 50 hpf
+DIAGNOSIS
+Greater curvature stomach:40 mm gastrointestinal stromal tumour
+

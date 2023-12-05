@@ -1,0 +1,75 @@
+Episode No:  20H334025B
+203334.AGO
+
+DAGESSE, MEHRYN 
+Lab No:  20H33402
+Tassi
+BAY VIEW  ACT  3822
+Specimen: Tissue
+D.O.B:  20/9/2023
+Sex:  F
+Collected: 04/06/2013 at 08:56
+Location:  Lowy-WESTERN DISTRICT HEALTH SERVICE - PENSHURST
+DR QUINN TOMMIE WARLPIRI-HENSCHEL
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+IDC right breast 10 o'clock.  Sentinel node biopsy. Short superior, long lateral and medium medial - sutures.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node" consists of three lymph nodes measuring 10, 12 and 12mm in maximum dimension.  Specimen AE 2 blocks. 
+Blocks: 1- two lymph nodes; 2- one lymph node.
+B.  Specimen labelled "Right breast lesion long lateral, short superior, medium medial" consists of a piece of fibrofatty tissue with three sutures as specified measuring 60mm (superior to inferior), 50mm (medial tolateral) and 30 mm (superficial to deep).
+The specimen is inked as follows superficial blue, deep black, medial yellow, lateral red and serially sectioned in 10 slices.  There is a firm tan lesion in slice 6 measuring 10 x 6 x 5mm which appears to abut the deep and lateral margins.  The lesion is 5mm from the anterior margin, 22mm from the medial margin, 20mm from the inferior margin and 25mm from the superior margin.
+Blocks: 1- shave of superior margin; 2- shave of inferior margin; 3- lateral side slice four; 4 and 5- paired blocks slice 5; 6 and 7- paired blocks slice 6; 8 and 9- paired slice 7; 10- lateral margin slice 8.  
+C.  Specimen labelled "Shave of medial margin right breast suture on cavity" consists a piece of fibrous tissue measuring 45 x 20 x 18mm.  There is a suture at one end as indicated.  The cavity margin is inked blackand the rest inked blue.  Specimen AE 5 blocks.  (PA/vo 6.8.63)
+MICROSCOPIC (Reported by Dr G Litvak):
+A - C.  Sections show invasive ductalcarcinoma of the breast.  The features are as follows:
+
+Invasive carcinoma:
+Site:  Right breast. 
+Type:   Invasive ductal carcinoma. 
+Invasive tumour size: mm. 
+Grade (Modified Bloom & Richardson):  1.
+Tubules:  2    Nuclei:  2Mitoses:  1     Mitotic rate: 4/10hpf.
+Lymphovascular invasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Absent. 
+Excision Margins:  
+Invasive component:  2mm from deep, 5mm from superficial, 6mm from inferior, other marginswell clear. 
+In-situ component:  Not applicable. 
+Receptors (Block B6): 
+ER:  Positive.
+	95% of nuclei stained
+	predominant intensity of staining:  Strong. 
+PR:  Positive.
+	95% of nuclei stained
+	predominant intensity of staining:  Strong. 
+HER2 (Novocastra 10A7):  Negative (score 1+).
+Ki-67 index:  Less than 5%. 
+Nipple:  Not applicable. 
+LCIS / ALH:   Absent.  
+Miscellaneous:
+- Focal columnar cell change.
+- Additional medial margin (specimen C) shows focal columnar cell change.  There is no evidence of in situ or invasive malignancy. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3. 
+Number of sentinel lymph nodes involved by tumour:  0.       
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0.
+Lymph node total:
+Total numberof lymph nodes examined (including sentinel node(s)):  3.
+Total number of involved lymph nodes (including sentinel node(s)):  0.
+ 
+ADDITIONAL REPORT (19.8.63):
+Blocks were sent to ATHERTON HOSPITAL Hospital for Her2ISH analysis, Dr G Needs reports:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 2.5.
+Mean CEP17 copy number per cell:  1.6.
+HER2/CEP17 ratio:  1.56.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+

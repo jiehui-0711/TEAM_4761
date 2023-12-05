@@ -1,0 +1,37 @@
+SPR no: 83S871737F
+MRN no: 8368717
+Site_name: ROSEBUD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Muscle invasive TCC bladder and CIS.  AF, DM (diet), colonic adenocarcinoma 2062, OA, HTN, BPH.  Bladder and pelvic lymph nodes.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Bladder&amp;#8220;, consists of a bladder (95mm superior to inferior x 125mm left to right x 60mm anterior to posterior), left ureter (30 x 4mm), right ureter (35 x 4mm), prostate (60mm superior to inferior x 60mm left to right x 45mm anterior to posterior), left vas deferens (100 x 5mm), right vas deferens (75 x 5mm), left seminal vesicle (24 x 12 x 8mm), right seminal vesicle (24 x 12 x 8mm), and perivesicular fat (up to 70mm in width).  There is a urinary catheter in situ.  The peritoneum appears grey and smooth. The anterior surface of the specimen is inked blue and the posterior surface is inked black.  On sectioning, the bladder mucosa is pale grey and tan; obvious tumour is not identified, although the trigone area is firm. The prostate is sliced sequentially from from apex (inferior) to base (superior) into seven slices. The cut surface has a nodular and focally cystic appearance; no discrete tumours are identified.  No lymph nodes are identified in the perivesicular fat.
+Blocks 1- TS shave left vas deferens margin; 2 - TS shave right vas deferens margin; 3 - TS shave left ureteric margin; 4 - TS shave right ureteric margin; 5 - TS shave ureteric/apical prostatic margin; 6 &amp;amp; 7 - LS dome bladder; 8 &amp;amp; 9 - LS posterior bladder; 10 &amp;amp; 11 - LS anterior bladder; 12  &amp;amp; 13 - LS right lateral wall adjacent to presumed right VUJ; 14 &amp;amp; 15- LS left lateral wall adjacent to presumed left VUJ; 16-19 - LS firm area of trigone and transition of bladder to prostate (includes portion of prostate slice 7; 20 - LS left seminal vesicle (anterior); 21 - LS left seminal vesicle (posterior); 22 - LS right seminal vesicle (anterior); 23 - right seminal vesicle (posterior); 24-33 - LS slice 1 (apex) prostate from right to left (1 slice per block except block 33 which has two slices); 34 - slice 3 prostate; 35 - slice 5 prostate; 36 - slice 6 prostate.  Please refer to block diagram.
+
+B.  Specimen labelled &amp;#8220;Right pelvic lymph node&amp;#8220;, consists of fibroadipose tissue measuring 50 x 35 x 25mm, containing lymph nodes.
+Block 1- single lymph node, sectioned; 2 to 5 - single lymph node, sectioned.
+
+C.  Specimen labelled &amp;#8220;Left pelvic lymph node&amp;#8220;, consists of fibroadipose tissue measuring 60 x 40 x 30mm, containing lymph nodes.
+Block 1- lymph nodes as seen; 2 &amp;amp; 3 - single lymph node, sectioned; 4 &amp;amp; 5- single lymph node, sectioned; 6 - fibroadipose tissue, lymph nodes as seen; 7 - fibroadipose tissue, lymph nodes as seen; 8 - fibroadipose tissue, lymph nodes as seen.  AE.   (JB/ec  16.8.66)
+
+
+MICROSCOPIC (Reported by Dr V Slaboda):
+A.   Sections show poorly differentiated urothelial carcinoma arising on a background of extensive carcinoma in situ (CIS).  The majority of the invasive carcinoma is situated within the trigone however, invasive carcinoma also involves the dome, posterior, anterior and right lateral walls.  CIS involves all walls of the bladder as well as the left vesicoureteric junction.  Within the trigone tumour invades muscularis propria (T2) to a depth of approximately 9mm.  Focal lymphovascular invasion is present, however no perineural invasion is seen.  There is no extension of tumour into perivesical adipose tissue. The ureteric and vas deferens margins are clear of both in situ and invasive malignancy. The prostate, seminal vesicles and prostatic urethral margin are also clear of tumour. The prostate otherwise shows benign prostatic hypertrophy with no evidence of prostatic carcinoma.
+
+B.  The two (2) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+
+C.  The twelve (12) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy.
+are
+
+DIAGNOSIS:
+A - C.  Bladder and pelvic lymph nodes:
+-   Poorly differentiated urothelial carcinoma arising on a background of extensive CIS.
+-   Invasive carcinoma involving trigone, dome, posterior, anterior and right lateral walls.
+-   Maximum depth of tumour invasion 9mm within the trigone.
+-   Invasion into muscularis propria (T2).
+-   No extension into perivesical adipose tissue.
+-   Margins appear clear.
+-   Fourteen (14) negative lymph nodes.

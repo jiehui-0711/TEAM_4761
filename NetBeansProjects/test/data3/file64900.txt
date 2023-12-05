@@ -1,0 +1,133 @@
+SPR no: 14A8050931
+MRN no: 140805
+Site_name: MALDON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report14A80509 (14A8050931) TARSKI, GEORGENE
+HISTOPATHOLOGY REPORT
+LITHGOW HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca, left sentinel node biopsy for frozen section. L breast Ca UOQ.
+
+1. Left breast wide local excision.
+2. Left axillary tissue.
+
+Long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL NODE BIOPSY&amp;quot;. Fat 15x10x10 containing a 3mm node. Bisected.
+
+F/S: &amp;quot;Negative&amp;quot;. Results were given by phone to Dr. D. Monoz at 6:08pm on 17/05/2069 by Dr. D. Castilla.
+
+(1  frozen section tissue; 2  rest of the tissue).  Representative sections. (M-2).
+
+B. &amp;quot;WIDE LOCAL EXCISION LEFT BREAST&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision, orientated.
+SPECIMEN X-RAY:  Yes
+HOOKWIRE:  Yes, lesion at G6.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  60mm
+Superior to inferior:  50mm
+Anterior to posterior:  30mm
+WEIGHT:  63g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES:  No
+MARGIN INKED:  Standard:  Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices:  8
+FINDINGS / LESION:  There is a well defined grey white lesion noted in slice from 3 to 7, measuring 27x17x23mm.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+Anterior 10mm, posterior 5mm, superior 15mm, inferior 15mm, &amp;gt;10mm medial and lateral.
+(1&amp;amp;2  two LS slice 1; 3  RS slice 3; 4-7  slice 4; 8-11  slice 5; 12-15  slice 7; 16  two LS slice 8).  Representative sections. (M-16).
+C. &amp;quot;LEFT AXILLARY TISSUE&amp;quot;. Received soft yellow fibrofatty tissue, measuring 25x15x10mm. No definite lesion is identified. Surgical margin is inked blue. On sectioning, cut surface shows well defined, homogenous grey white nodule in slice 2 and 3 ?lymph node, given in two blocks. All embedded. (M-2/AA 16/5/2069 km).
+MICROSCOPIC:  (Dr D Nin)
+
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA (Specimen B:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single invasive focus
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;27mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE:  Invasive carcinoma of no special type (ductal)
+&amp;#160;
+HISTOLOGIC GRADE:  2
+&amp;#160;
+SCORES: Tubules: 2 , Nuclei: 2 , Mitoses: 2 ; Total score: 6 &amp;#160;(of 9)
+&amp;#160;
+MITOTIC RATE: 11&amp;#160;&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 27mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Possible focal
+&amp;#160;
+PERINEURAL INVASION: Present - perineural carcinoma is 6mm from posterior margin (B10)
+&amp;#160;
+PERCENTAGE STROMAL TUMOUR INFILTRATING LYMPHOCYTES (sTILs): 10%
+
+SKIN INVOLVEMENT:  Not applicable
+
+DERMAL LYMPHOVASCULAR INVASION: Not applicable
+&amp;#160;
+NIPPLE INVOLVEMENT: Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+Nuclear grade: Intermediate
+Architecture / type: cribriform
+Necrosis: Present
+Microcalcification of DCIS: Not identified
+Extensive intraduct component: Negative
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:&amp;#160;
+Distance of invasive tumour to margins:
+Anterior: 4mm (B8)
+Posterior: 6mm (B12)
+Superior: 12mm (B9)
+Inferior: 12mm (B13)
+Medial: 15mm
+Lateral: 10mm
+&amp;#160;
+DCIS MARGINS: DCIS is seen predominantly within in the area of invasive carcinoma.
+Distance of DCIS to margins:
+Anterior: 9mm  (B3)
+Inferior: 13mm (B10)
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B10
+ER: Positive &amp;#160;80%, 2+ to 3+
+PgR: Positive 80&amp;#160;%, 3+
+HER2: Negative 0 to focal 1+
+Ki67: 10%
+&amp;#160;
+Other tumour block suitable for further testing: B10
+&amp;#160;
+SEPARATE FINDINGS: &amp;#160;
+1. There is fibroblastic reaction and fat necrosis consistent with previous biopsy.
+2. An intramammary lymph node is identified in specimen B near the tumour and the lymph node is negative for malignancy.
+3. One lymph node is identified in specimen C (Left Axillary tissue) and is negative for malignancy.
+
+LYMPH NODES
+SENTINEL LYMPH NODES (Specimen); INTRAMAMMARY LYMPH NODE (Specimen B) and AXILLARY LYMPH NODE (Specimen C): Not involved
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0 (CAM5.2 of specimen A shows dendritic pattern staining)
+Total number of nodes examined: 3 (one node in each of specimens A, B &amp;amp; C)
+&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2 , pN0
+
+DIAGNOSIS:
+A: LEFT SENTINEL NODE BIOPSY: NEGATIVE FOR MALIGNANCY.
+B: WIDE LOCAL EXCISION LEFT BREAST: INVASIVE DUCT CARCINOMA - NST (GRADE 2)
+C: LEFT AXILLARY TISSUE: NEGATIVE FOR MALIGNANCY.
+21.4.72

@@ -1,0 +1,175 @@
+SPR no: 51P885290W
+MRN no: 5168852
+Site_name: MODBURY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report51P88529 (51P885290W) BROWNFIELD, Michelina
+HISTOPATHOLOGY REPORT
+RYDE HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast CA 11 o&amp;apos;clock (lobular Ca).
+Frozen section. Left sentinel lymph node biopsy.
+L breast Ca 11 o&amp;apos;clock 5cm FN (lobular Ca).
+Wide local excision left breast, sutures short-superior, medium-medial, long-lateral.
+
+MACROSCOPIC:
+A. &amp;quot;LEFT SENTINEL NODE BIOPSY&amp;quot;. Consists of fat containing two nodes: (1) light blue, 10x8x6mm; (2) pale, 8x5x4mm. One TS of each node on one chuck.
+
+F/S: &amp;quot;Negative&amp;quot; per phone to Dr. N. Kellis at 5:25pm on 27/07/68 by Dr. N. Espada.
+
+(1 TS LN 1 and 2 for frozen section; 2 remainder LN 1; 3 remainder LN 2). RS (M-3)
+
+B.
+Specimen labelled &amp;quot; WIDE LOCAL EXCISION LEFT BREAST&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision, oriented
+SPECIMEN X-RAY:  Yes - Hookwire split is seen at G5
+HOOKWIRE:  Yes - Entering the specimen anteriorly
+SPECIMEN DIMENSIONS:
+Medial to lateral:  65mm
+Superior to inferior:  60mm
+Anterior to posterior:  32mm
+WEIGHT:  69g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+OTHER TISSUES / PIECES: Not applicable
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 14
+FINDINGS / LESION:  At the site of hookwire split is a pale, white lesion seen in Slices 7 and 8. It measures 10mm superior to inferior, 5mm anterior to posterior, 8mm medial to lateral. The lesion is 17mm from superior margin, 25mm from inferior margin, 7mm from anterior margin, 16mm from posterior margin, 24mm from medial margin and 28mm from lateral margin. Remainder of the breast tissue is predominantly fatty. Representative sections taken.
+(1 longitudinal through medial margin, Slice 1; 2 and 3 Slice 3; 4-6 Slice 6; 7-9 Slice 7; 10 and 11 superior half, Slice 8; 12-14 Slice 10; 15-17 Slice 12; 8-21 longitudinal through lateral margin, Slice 14]). RS (M-21/MC 29/7/2068 cy)
+Further blocks:
+(22-24 slice 4; 26-27 slice 5; 28-30 slice 9; 31-34 slice 11 [please see diagram for block orientation]).  RS (M-34/MC 4/5/2068 ank)
+MICROSCOPIC: (Dr. N. Kasprowicz)
+A.  The paraffin sections of the two sentinel nodes have been sectioned at multiple levels and with pancytokeratin stains. There is no evidence of malignancy (0/2).
+
+B.  The majority of the specimen has been embedded and shows fibrofatty tissue.  Two separate foci of invasive lobular carcinoma are identified which are approximately 10mm apart.
+
+Tumour 1 is present in slices 6, 7 and 8 inclusive (spanning a total of 3 slices) to give a maximum dimension of 15mm.  Tumour 1 is grade 2 invasive lobular carcinoma (tubules 3/3, nuclei 2/3, mitoses ?1/3).
+
+Tumour 2 is present in slice 11.  Tumour 2 is a 5mm grade 2 invasive lobular carcinoma (tubules 3/3, nuclei 2/3, mitoses 1/2)
+
+Both foci of invasive lobular carcinoma are well clear of margins.
+
+The remaining breast tissue in proximity with both tumours shows extensive lobular carcinoma in situ and atypical lobular hyperplasia.  There are also changes suggestive of previous biopsy adjacent to tumour 1 including foamy macrophages, fibrosis and haemorrhage.  The breast tissue otherwise shows benign proliferative changes including a radial scar, columnar cell change without atypia, fibrocystic change and usual duct hyperplasia. There is also patchy chronic inflammation around ducts.
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: 2
+Number and size of individual foci: Tumour 1:     15mm
+Tumour 2:      5mm
+
+INVASIVE CARCINOMA TYPE:
+Invasive lobular carcinoma
+&amp;#160;
+HISTOLOGIC GRADE:  2
+&amp;#160;
+SCORES: Tubules: 3/3   , Nuclei: 2/3   , Mitoses: 1/3    ; Total score: &amp;#160;(6&amp;#160;of 9)
+&amp;#160;
+MITOTIC RATE: &amp;#160;&amp;#160;Tumour 1:      7 mitoses per 10 high power fields
+Tumour 2:      3 mitoses per 10 high power fields
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION:
+Not identifed
+&amp;#160;
+PERINEURAL INVASION:
+Not identified
+
+&amp;#160;SKIN INVOLVEMENT:
+Not applicable
+
+DERMAL LYMPHOVASCULAR INVASION:
+Not applicable
+
+NIPPLE INVOLVEMENT:
+Not applicable
+
+&amp;#160;
+MUSCLE INVOLVEMENT:
+Not applicable
+
+&amp;#160;DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+Not identified
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;
+Present
+&amp;#160;
+LCIS type:
+Classical
+&amp;#160;
+LCIS Extent:
+Extensive
+&amp;#160;
+EXCISION MARGINS
+
+TUMOUR 1
+
+INVASIVE TUMOUR MARGINS:
+Negative
+
+Distance of invasive tumour to margins:
+
+Anterior: 5mm (microscopic)
+Posterior: &amp;gt;10mm
+Superior:  &amp;gt;10mm
+Inferior: &amp;gt;10mm
+Medial:&amp;gt;10mm
+Lateral: &amp;gt;10mm
+
+
+ANCILLARY TESTS:
+IMMUNOSTAINS, BLOCK B5
+&amp;#160;
+ER:
+Positive 70&amp;#160;%, &amp;#160;2+ to 3+
+PgR:
+Positive 90&amp;#160;%, 3&amp;#160;+
+HER2:
+Negative 0 (IHC)
+&amp;#160;
+Ki67: 30-40%
+
+Other tumour block suitable for further testing: B8, B11
+&amp;#160;
+TUMOUR 2:
+
+INVASIVE TUMOUR MARGINS:
+Negative
+&amp;#160;
+Distance of invasive tumour to margins:
+Anterior:  6mm
+Posterior: &amp;gt;10mm
+Superior: 7mm
+Inferior: &amp;gt;10mm
+Medial: &amp;gt;10mm
+Lateral: &amp;gt;10mm
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block  B32
+&amp;#160;
+ER:
+Positive 70&amp;#160;%, 2+
+&amp;#160;PgR:
+Positive &amp;#160;90%, 3+
+&amp;#160;HER2:
+Negative 0 (IHC)
+
+Ki67: 10%
+
+SEPARATE FINDINGS: &amp;#160;Columnar cell change without atypia, radial scar, usual duct hyperplasia.
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved - 0/2
+
+DIAGNOSIS:
+A.  LEFT SENTINEL NODE BIOPSY  -
+-  TWO LYMPH NODES WITH NO EVIDENCE OF MALIGNANCY (0/2)
+B.  LEFT BREAST CA 11 O&amp;apos;CLOCK -
+-  TWO SEPARATE FOCI OF INVASIVE LOBULAR CARCINOMA 15MM AND 5MM IN      	MAXIMUM DIMENSION
+-  MARGINS CLEAR
+8/6/2067 nh

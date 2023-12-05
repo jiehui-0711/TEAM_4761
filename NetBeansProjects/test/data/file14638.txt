@@ -1,0 +1,147 @@
+DateOfBirth
+199703070000
+
+
+SiteName
+HOME HILL HOSPITAL
+
+
+FirstName
+Mulac
+
+
+SPRID
+77J811988J
+
+
+MRN
+7738119
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+M
+
+
+MiddleName
+Pritchet
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+61W09263 (61W092636X) AUGSPURGER, ERASMO TOMEK
+
+HISTOPATHOLOGY REPORT
+PEAK HILL HEALTH SERVICE HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Fresh for Biobank of MSA/HORNSBY KU-RING-GAI HOSPITAL area, see attached consent.
+Acral melanoma right ring finger previous punch biopsy.
+Sentinel node right axilla 1.
+Sentinel node right axilla 2.
+Sentinel node right epitrochlear 1.
+Sentinel node right epitrochlear 2.
+Amputation right ring finger.
+
+NB. Fresh lesional tissue sampled for the biobank as requested by SD 28.07.20 12pm.
+
+MACROSCOPIC:
+A. &amp;quot;MELANOMA RIGHT RING FINGER&amp;quot;. Consists of distal phalanx measuring 33x25x20mm disarticulated from DIPJ. Nail present. Over the palmer aspect there is an ill defined pigmented lesion approximately 7x6mm. It appears 15mm clear from soft tissue articular margin. Soft tissue margin shaved, embedded. Sectioning shows haemorrhagic area about 2mm depth below the skin surface and it is 8mm away from bone. No bone invasion identified. Bone located in decal and bone section will be achieved.
+
+(1 soft tissue &amp;amp; skin margin enface; 2-4 serial slice of lesion tip to base, 5 two sections of bone underlying lesion, 6). Representative sections. (M-5)
+
+B. &amp;quot;RIGHT RING FINGER BONE MIDDLE PHALANX&amp;quot;. Consists of bony fragment 12x8x6mm. Decalcified.
+
+All embedded. (M-1/SM 9/3/2070 ank)
+
+C. &amp;quot;SENTINEL NODE RIGHT AXILLA 1&amp;quot;. Consists of a lymph node 30mm, serially sliced. All embedded. (M-1)
+
+D. &amp;quot;SENTINEL NODE RIGHT AXILLA 2&amp;quot;. Consists of a lymph node 5mm. All embedded. (1-1)
+
+E. &amp;quot;SENTINEL NODE RIGHT EPITROCHLEAR&amp;quot;. Consists of lymph node 10mm, sliced. All embedded. (M-1)
+
+F. &amp;quot;SENTINEL NODE RIGHT EPITROCHLEAR&amp;quot;. Consists of lymph node 8mm, bisected. All embedded. (2-1/SM 9/1/2070 ank)
+
+MICROSCOPIC:  (Dr Q Sliker)
+
+MALIGNANT MELANOMA SYNOPTIC SUMMARY
+
+SITE: right ring finger (amputation)
+
+Invasive Melanoma type:  Acral melanoma
+
+Maximum Tumor (Breslow) Thickness: 2.1 mm
+
+Ulceration (required for invasive tumor only) Present
+Extent of ulceration (millimeters): 0.5mm
+
+Microsatellite(s): Not identified
+
+Margins: clear
+
+Peripheral Margins: Negative for invasive melanoma
+Distance of invasive melanoma from resection margin: 13mm
+Distance of melanoma in situ from resection margin: 9mm
+
+Deep Margin: not applicable (amputation)
+Mitotic Rate: 4 mitoses/mm2
+
+Anatomic (Clark) Level: IV (melanoma invades reticular dermis)
+
+Lymphovascular Invasion: Not identified
+
+Neurotropism: Not identified
+
+Tumor-Infiltrating Lymphocytes: Present, nonbrisk
+
+Tumor Regression: Not identified
+
+Regional Lymph Nodes (applicable to invasive tumor only)
+Total Number of Sentinel Lymph Nodes Examined: 4
+
+Total Number of Lymph Nodes Involved: 3
+- sentinel node right axilla 1 (C): involved by isolated tumour cells (HMB-45 &amp;amp; SOX10 positive).
+- right epitrochlear sentinel nodes (E &amp;amp; F): micrometastases (0.3mm) in 2 of 2 nodes (HMB-45 &amp;amp; SOX10 positive)
+
+
+Pathologic Stage Classification (pTNM, AJCC 8th Edition) pT3b pN2a (sn)
+
+
+
+DIAGNOSIS:
+A. &amp;quot;MELANOMA RIGHT RING FINGER&amp;quot; - INVASIVE ACRAL MELANOMA.
+
+B. &amp;quot;RIGHT RING FINGER BONE MIDDLE PHALANX - NO EVIDENCE OF MALIGNACY.
+
+C. &amp;quot;SENTINEL NODE RIGHT AXILLA 1&amp;quot; -  ISOLATED TUMOUR CELLS IN 1 NODE (DETECTED BY IHC)
+
+D. &amp;quot;SENTINEL NODE RIGHT AXILLA 2&amp;quot; - NO EVIDENCE OF MALIGNANCY IN 1 NODE.
+
+E. &amp;quot;SENTINEL NODE RIGHT EPITROCHLEAR&amp;quot; -  MICROMETASTASIS (0.3mm) IN 1 NODE.
+
+F. &amp;quot;SENTINEL NODE RIGHT EPITROCHLEAR&amp;quot; - MICROMETASTASIS (0.3mm) IN 1 NODE.
+
+
+10.6.70
+
+
+
+
+
+SpecimenReceivedDate
+2790-03-22 00:00:00
+
+
+LastName
+Molesworth

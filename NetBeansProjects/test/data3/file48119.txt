@@ -1,0 +1,16 @@
+SPR no: 97E260005J
+MRN no: 97126000
+Site_name: THE ROYAL ADELAIDE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Presumed stage IV A metastatic ovarian cancer.  Metastatic adenocarcinoma consistent with gynaecological primary - diagnosed from ascitic fluid tap in March 2068.  Ca 125 initially 16000, slow to respond to chemotherapy but after 6 cycles of carbotaxol Ca 125 2326.  Pink friable tumour deposits over all peritoneal surfaces noted during surgery today.  Uterus, ovaries and tubes, small but with adherent small deposits of tumour on surfaces.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus cervix bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix bilateral fallopian tubes and ovaries weighing 47.5 grams in total.  The uterus measures 62 x 45 x 20mm and has a shiny but nodulated serosal surface.  The ectocervix measures 28 x 28mm and has an unremarkable surface.  On sectioning the endometrium is 2mm in maximum thickness and the myometrium is 11mm in maximum thickness.  The myometrium contains one fibroid 20mm in diameter.  There is no tumour otherwise identified.  The right fallopian tube measures 55 x diameter 6mm.  The right ovary measures 30 x 21 x 14mm and has an unremarkable cut surface.  The left fallopian tube measures 40 x diameter 5mm.  The left ovary measures 32 x 20 x 12mm and has an unremarkable cut surface.  Both the left and right adnexal structures are covered in patchy tan papillary growths.  Blocks: 1 to 3 - full LS of anterior body and cervix; 4 to 6 - full LS of posterior body and cervix; 7 - RS of nodulation seen on uterine body and RS of fibroid; 8 and 9 - right adnexa; 10 and 11 - left adnexa.
+B.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a fibrofatty piece of tissue covered in patchy tan papillar growths 120 x 80 x 40mm.  The cut surface shows the fatty tissue mostly replaced by a fibrous material.  Blocks: 1 to 3 - representative sections  (TO:BL/vo 25/9/66)
+MICROSCOPIC (Reported by Dr Z Crickard):
+A &amp;amp; B.  Sections show high grade carcinoma extensively involving the omentum, and also involving the surface and cortex of both ovaries, the fimbrial end of the left tube, paratubal soft tissues, and the uterine serosa.  The tumour appears to be a mixture of undifferentiated carcinoma and high grade serous carcinoma.  The tumour is strongly positive for CK7, ER, CA125, WT-1, PAX8; focally positive for HMBE-1; and negative for CK20, D2-40, and Calretinin.  The tumour is only positive for PR in the areas which resemble high grade serous carcinoma and not the undifferentiated areas.
+The ectocervix and endocervix are unremarkable.  The endometrium is inactive.  The myometrium shows small leiomyomas.  No carcinoma in situ is seen in the tubes.
+The chemotherapy response score is 1.
+DIAGNOSIS:
+Mixed undifferentiated carcinoma and high grade serous carcinoma involving the omentum, surface and cortex of both ovaries, fimbrial end of the left tube, paratubal soft tissues and the uterine serosa.

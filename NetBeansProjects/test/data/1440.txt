@@ -1,0 +1,80 @@
+
+Episode No:  22Y247909Y
+229247.ZAZ
+
+BOVIO, BABARA Isaias 
+Lab No:  22Y24790
+Hila
+TOOWOOMBA  Victoria  3225
+Specimen: Tissue
+D.O.B:  8/10/2030
+Sex:F
+Collected: 21/6/2063 at :
+Location:  DAY SURGERY-DALWALLINU HOSPITAL
+DR Carter Avery Cerva
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast cancer.  Mastectomy/SLNB. Right breast cancer 5 o'clock skin sparing mastectomy, stitch in axillary tail. 
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node biopsy x2", consists of fibroadipose tissue 30 x 15 x 5mm containing five lymph nodes measuring 3-15mm.  Lymph node 1 - 15mm, 1TS for imprints; lymph node 2 measuring 4mm, bisected for imprints; lymph node 3 measuring3mm, imprints taken; lymph node 4 measuring 3mm, imprints taken; lymph node 5 - 4mm, bisected for imprints.  Block 1 - lymph node 1; 2 - lymph node 2; 3 - lymph node 3; 4 - lymph node 4; 5 - lymph node 5. 
+IMPRINT CYTOLOGY:  Five negative nodes.
+Result to Dr Fenti by Dr G Suda at 9am on 19.4.13.
+B.  Specimen labelled "Right breast tissue stitch long lateral axilla", consists of a total mastectomy with one suture in lateral tail measuring 150mm medial to lateral, 120mm superior to inferior, 50mm superficial to deep margin. There is an ellipse of skin with nipple and areola measuring 75 x 80mm. The nipple appears retracted.  Superficial margin is inked blue, deep margin black.  On sectioning and at 5 o'clock there is a well circumscribed white nodule measuring 20mm from medial to lateral, 10mm from superior to inferior and 15mm from superficial to deep margin. The lesion is located 20mm from the deep margin, 7mm from the superficial margin, 30mm from inferior margin and more than 90mm from superior margin. It is also located 25mm from the nipple. The rest of the parenchyma has a fibrofatty appearance. On sectioningof the nipple there is a white gritty nodule 15 x 10 x 10mm.
+Block 1 & 2 - 1longitudinal section of nipple to deep margin; 3 & 4 - nipple with dermal margin; 5-9 - tumour (block 5 & 6 composite of tumour with superficial and deep margin) (8 - reserve block); 10 & 11 - representative sections upper inner quadrant; 12 & 13 - representative sections lower inner quadrant; 14 & 15 - representative sections upper outer quadrant; 16 & 17 - representative sections lower outer quadrant; 18 - ? lymph node from axillary tail.  (KN/ec 24.6.63) 
+ 
+MICROSCOPIC (reported by Dr G Mcmullin): 
+A & B.  Sections show invasive ductal carcinoma of the breast.  The features are as follows:  
+
+Invasive carcinoma:
+Site:  Right breast 5 o'clock.  
+Type:  Invasive ductal carcinoma.
+Invasive tumour size:  14mm.
+Grade (Modified Bloom & Richardson):  3
+Tubules:  2  Nuclei:  3  Mitoses:  3  Mitotic rate:  38/10hpf.
+Lymphovascular invasion:  Absent.
+	    
+DCIS component:
+DCIS:  Present.
+Maximum extent of DCIS:  15mm.
+Nuclear grade:  High grade.
+Architecture:  Predominantly solid.
+Necrosis:  Present.
+Calcification:  Absent.
+Degree of DCIS in tumour:  Moderate.
+DCIS in adjacent tissue:  Small amount.  
+Excision Margins:  
+Invasive component:  4mm from superficial, all other margins well clear.  
+In-situ component:  4mm from superficial, all other margins well clear.  
+Receptors (Block B7): 
+ER:  Negative
+PR:  Negative 
+HER2 (Novocastra 10A7):  Negative (score 0)
+Ki-67 index:  Approximately 90%
+Nipple:  No significant abnormality.  
+LCIS / ALH:  Absent.
+Miscellaneous:  Extensive lactational change withassociated adenosis and fibroadenomatoid change.  
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  5
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined(including sentinel node(s)):  5
+Total number of involved lymph nodes (including sentinel node(s)):  0
+
+SUPPLEMENTARY REPORT (reported by Dr G Labombard on 2.6.2063):
+Invasive carcinoma stains positive with CK5/6 (Block B7) in keeping with a basal phenotype.
+ADDITIONAL REPORT (12/7/63):
+Blocks were sent to THE NORTHERN HOSPITAL Hospital for Her2 ISH analysis, Dr G Schiffman reports:
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe CocktailAssay (Roache). 
+Her2 Dual ISH result:  NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 1.25.
+Mean CEP17 copy number per cell:  1.15.
+HER2/CEP17 ratio:  1.09.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ADDENDUM (29/7/63):  
+On review, a small focus within the main tumour mass (approximately 5%) shows moderate staining with ER and equivocal staining with HER2.
+

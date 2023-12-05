@@ -1,0 +1,97 @@
+
+Episode No:  08V294173Z
+088294.ESH
+
+BURGHARD, PARTICIA 
+Lab No:  08V29417
+Saranac
+NARRANDERA  VIC  2716
+Specimen: Tissue
+D.O.B:  5/3/1997
+Sex:  F
+Collected: 15/01/2013 at 09:11
+Location:  Pathwest-GRIFFITH BASE HOSPITAL
+DR DWAYNE ALBERT DARRIN-PROTANO
+Distribution:   FILE-COPY,   NT-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT: Ki-67 on lymph node (7.4.2063) Dr A Caffey
+
+***SUPPLEMENTARY REPORT: HER-2 CISH (26.3.2063) Dr A Rieke
+
+CLINICAL:
+ILC (L) breast at 6 o'clock beneath areola - central partial mastectomy + sentinel node biopsy.  Short superior, long lateral.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axilla sentinel node" consists of two pieces of unorientated fatty tissue, 15 and 18mm.  Two lymph nodes, 8 and 10mm are identified.  AE 2 blocks.  
+.  Specimen labelled ""Left breast lesion short superior, long lateral" consists of an excision of breast tissue measuring 78mm (medial to lateral) x 58mm (inferior to superior) x 40mm (superficial to deep).  There is an overlying ellipse of skin, 60mm (medial to lateral) x 38mm (inferior to superior) including the nipple areolar complex.  The nipple appears slightly retracted.  Two sutures are in situ as designated.  The deep margin is inked black, the superficial inferior margin is inked green and the superficial superior margin is inked blue.  The specimen is serially sectioned in theparasagittal plane into 11 slices from slice 1 lateral to slice 11 medial.  A firm cream poorly circumscribed tumour is identified in slices 5 to 9 in the inferior aspect of the slices.  The tumour measures 25mm (medial to lateral) x 12mm (inferior to superior) x 18mm (inferior to superior).  Distance to margins is as follows:  inferior/superficially 12mm, deep 7mm, superficial/superior 25mm, medial 15mm and well clear of the lateral margin.  
+Blocks:  1 to 3 - representative slice 1; 4 to 7 - slice 2; 8 to 11 - slice 3; 12 to 15 - slice 4; 16 to 19 - slice 5; 20 to 23 - slice 6; 24 to 27 - slice 7; 28 to 31 - slice 8; 32 to 35 - slice 9; 36 to 38 - slice 10; 39 to 41 - slice 11.  Tumour markers in block 24.  Please refer to attached diagram.  (OQ/mm 17.3.63) 
+MICROSCOPIC:  (Reported byDr A Bonzo)
+A.  One of two left sentinel lymph nodes shows metastatic breast carcinoma (1/2). The focus of carcinoma is 2.2mm across and shows no convincing evidence of extranodal extension.
+B.  Sections of the left breast lesion show an invasive lobular carcinoma (tubulolobular variant). A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Left breast, partial mastectomy.
+Type: Invasive lobular carcinoma - tubulolobular variant.
+The carcinoma consists of infiltrative single cells, linear files, sheets and scattered tubules. 
+Invasive tumour size: 25mm (macroscopic).
+Grade: 1 (Modified Bloom & Richardson)       
+Tubules: 2 Nuclei: 2 Mitoses: 1 Mitotic rate:6/10hpf.
+Lymphovascular invasion: Not identified.
+
+DCIS component:  
+DCIS: Not identified.
+Excision Margins:  
+Invasive carcinoma:
+Deep margin: 1.0mm (B25/33).
+Inferior margin: 3.0mm (B16).
+Superficial margin: 5.5mm (B28).
+Remaining margins (superior, medial and lateral margins): Clear (>10mm).
+Receptors: 
+ER:   POSITIVE
+	90% of nuclei stained
+	Predominant intensity of staining: Moderate to strong.
+PR:   POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: Strong.
+HER2 (Novocastra 10A7):Negative (0 / 1+)
+Ki-67 immunoproliferative index: Variable, up to 30% in areas.
+
+Nipple: Carcinoma infiltrates tissue deep to the nipple, but noepidermal involvement is seen. No evidence of Paget's disease of the nipple. 
+LCIS / ALH: Present.
+Miscellaneous: The adjacentnon-neoplastic breast tissue shows fibrocystic change, apocrine metaplasia, columnar cell change, epithelial hyperplasia and scattered benign micro-calcifications. 
+Sentinel lymph node(s) - (specimen A)
+No. of sentinel lymph nodes examined: Two 
+No. of sentinel nodes involved by tumour: One (1/2).
+No. of sentinel nodes with metastases >2.0mm:One.
+No. of sentinel nodes with metastases <2.0mm: None.
+No. of sentinel nodes with isolated tumour cells <0.2mm: None.
+Extranodal spread: Not identified.
+Axillary/other nodes: Not included.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)): Two.
+Total number of involved lymph nodes (including sentinel node(s)): One (1/2).
+DIAGNOSIS:
+A.  Left axilla sentinel lymph node: Metastatic carcinoma in one of two sentinel lymph nodes (1/2). 
+
+B.  Left breast lesion: 25mm, Grade 1, lobular carcinoma (tubuloalveolar variant), close to deep margin (1.0mm). ER, PR positive; HER-2 negative.
+Her-2 CISH is being performed and a supplementary report will be issued.  
+
+
+***SUPPLEMENTARY REPORT: HER-2 CISH (26.3.2063)
+Dr A Chiem
+Report from PAKENHAM HEALTH CENTRE Hospital,reported by:  Dr A Frever
+HER-2-IN-SITU HYBRIDISATION
+
+HER2 IHC Result: 0 (at WERRIS CREEK COMMUNITY HOSPITAL)
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventaria INFORM HER2 DL ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	NEGATIVE (nonamplifled, diploid)
+Mean HER2 copy number per cell: 3.0 
+Mean CEP 17 copy number per cell: 2.35 
+HER2/CEP17 Ratio: 1.28
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEPI7 < 1.8
+Equivocal: HER2/CEPI7 = 1.8-2.2
+Positive:  HER2/CEP17 >2.2
+
+***SUPPLEMENTARY REPORT: Ki-67 on lymph node (7.4.2063) Dr A Wik
+As requested, a ki-67 immunoproliferative index was performed on the positive lymph node (A2). 
+No residual tumour is present on the immunohistochemical stained slide and the ki-67 immunoproliferative index of the metastatic deposit cannot be assessed.  
+

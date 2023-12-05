@@ -1,0 +1,78 @@
+DateOfBirth
+199405180000
+
+
+SiteName
+ROMA HOSPITAL
+
+
+FirstName
+Elijah
+
+
+SPRID
+54Y420989P
+
+
+MRN
+5494209
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Collin
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Right forearm lesion suture proximal.  Tissue biobanking.  Sarcoma - previous XRT.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right forearm lesion stitch proximal&amp;quot;, consists of a 90 x 87 x 10mm somewhat circular excision of skin with a suture present towards one end as described and will be designated 12 o&amp;apos;clock.  In the centre of the excision is a 50 x 43mm nodule.  Skeletal muscle is present on the deep surface.  3 o&amp;apos;clock inked blue and 9 o&amp;apos;clock inked black.  Specimen is sectioned from proximal to distal into nine slices.  There is a lobulated tan tumour 55 x 45 x 25mm.  The tumour is 22mm from the 3 o&amp;apos;clock margin, 25mm from the 9 o&amp;apos;clock margin and abuts the deep margin.  30% of the tumour is possibly necrotic and there are areas of myxoid change.  Blocks: 1 &amp;amp; 2 - LS proximal; 3 &amp;amp; 4 - tumour; 5 &amp;amp; 6 - tumour; 7 - closest 3 o&amp;apos;clock margin; 8 to 12 - full face slice 5 (8 - closest  9 o&amp;apos;clock margin); 13 to 15 - tumour; 16 &amp;amp; 17 - LS (distal); 18 - biobank.  See diagram.  (TO:YL/ec 29/10/71)
+
+
+MICROSCOPIC (Reported by Dr O Braddy):
+Sections show skin excised to include subcutaneous fat plus a small amount of underlying skeletal muscle. There is a lobulated and somewhat circumscribed cellular tumour centred in the subcutaneous fat. The tumour focally bulges into deep dermis. The superficial dermis, epidermis and skeletal muscle are uninvolved. The tumour is composed of compact fascicles of plump spindle cells with moderate amounts of lightly eosinophilic cytoplasm, enlarged nuclei and one to two nucleoli. Mitotic figures are occasionally seen and focally number up to 4 per 10 HPF. Necrosis is not identified. There are moderate numbers of admixed inflammatory cells including lymphocytes, plasma cells and eosinophils within the tumour. The tumour also shows nodular areas of hyalinisation and myxoid change associated with foamy histiocytes and haemosiderin laden macrophages. These alteration is regarded as treatment related changes and is seen in approximately 60% of the tumour. No lymphovascular or perineural invasion is seen.
+
+The tumour cells show the following immunoprofile:
+-  Positive:  EMA.
+-  Equivocal:  S100 (scattered tumour cells, no more than 5%) and Melan A (faint cytoplasmic staining in around 1% of tumour cells).
+-  Negative:  MNF116, Cam5.2, CK5/6, SOX10, HMB45, MUM1, CD34, SMA, desmin, myogenin, STAT6, MUC4 and ALK.
+Nuclear expression of H3K37m3 is retained.
+The Ki-67 proliferation index is up to around 10% at hotspots by visual estimation.
+
+The overall features are those of a malignant spindle cell tumour consistent with an undifferentiated pleomorphic sarcoma.
+
+The cellular tumour mass itself is 1 mm from the deep margin (Block 14). However, the tissue deep to the tumour has a paucicellular and loose myxoid appearance in which there are interspersed atypical cells . These cells may represent reactive atypia in benign stromal cells although tumour cells with treatment effect can show a similar cytology and as such, definite clearance of tumour at the deep margin cannot be guaranteed. This loose myxoid change is present at the deep margin over at least a 5 mm front (Blocks 13, 14 &amp;amp; 15). The tumour mass and deep loose myxoid stromal change are &amp;gt; 10 mm from all peripheral margins.
+
+
+DIAGNOSIS:
+Excision of lesion, right forearm (post radiotherapy):  Malignant spindle cell tumour consistent with undifferentiated pleomorphic sarcoma with treatment effect
+
+
+
+
+
+
+SpecimenReceivedDate
+2737-09-03 00:00:00
+
+
+LastName
+Unikel

@@ -1,0 +1,67 @@
+Episode No:  46U642004B
+4676420.AKB
+
+Colondres, EUMARRAH Aidan 
+Lab No:  46U64200
+East Highland
+STAWELL  TAS  5158
+Specimen: Tissue
+D.O.B:  7/11/1989
+Sex:  F
+Collected: 30/10/2012 at 12:32
+Location:  North-WEST WIMMERA HEALTH SERVICE - NHILL
+DR RALPH GENE TURNBAUGH
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Large transverse colon tumour with omental and nodal mets.  Extended right hemicolectomy.  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a hemicolectomy measuring 200mm in length from caecum to distal margin, with 40mm of terminal Ileum.  No appendix is attached.  A nodular tumour measuring 120 x 55 x 75 is present 50mm from the distal surgical margin. It is circumferential and extends through the wall on the antimesenteric aspect however macroscopically does not appear to breech the serosa.  There are tumour deposits and fat wrapping in the surrounding mesentery.  Multiple polyps measuring 2mm-6mm are present in the ascending colon.
+Blocks:  1 - LS proximal margin; 2- LS distal margin; 3 to 8 - representative tumour; 9 - polyps; 10 -reserved bock; 11 - representative proximal bowel; 12 & 13 - high point resection possible apical node; 14 - calcified apical lymph node; 15 to 18 - caecal area lymph nodes; 15 - five possible lymph nodes; 16 - three possible lymph nodes; 17 - one possible lymph node; 18 - three possible lymph nodes; 19 to 22 - tumour area lymph nodes (19 - one possible lymph node; 20 - one possible lymph node; 21 - one bisected lymph node; 22 - three possible lymph nodes.  (ZJ/mm 3.1.62)
+MICROSCOPIC (reported by Dr LJake):
+Sections show moderately differentiated mucinous adenocarcinoma.  The features are as follows:
+
+Macroscopic Description
+
+Site of tumour:  Transverse colon. 	
+Maximum tumour diameter:  120mm
+Distance of tumour to nearer cut end:  50mm (distal) 
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Mucinous carcinoma
+Differentiation by predominant area
+Moderate
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Lymph nodes
+Number of lymph nodes present:  28	
+Number of lymph nodes involved:  7 (including apical lymph node)	
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (Extramural) 
+Perineuralinvasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas (x2)
+Hyperplastic polyp (x1)
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation ofthat mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a     pN2     pMX    R0	
+
+
+

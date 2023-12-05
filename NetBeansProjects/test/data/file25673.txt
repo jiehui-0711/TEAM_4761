@@ -1,0 +1,38 @@
+SPR no: 04I897325Y
+MRN no: 0438973
+Site_name: HILLSTON DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+1. Pelvic washings.
+2. Uterus, bilateral tubes, and ovaries.
+3. Omentum.
+Ovarian cancer post 3 cycles neoadjuvant chemotherapy.
+Please note:  Specimen received from fresh from BRIDGETOWN HOSPITAL Hospital on Friday 26th of April 2067. Specimen lables have been dictated as they were recieved.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 61g in total.  The uterus measures 65 x 35 x 25mm and has a smooth shiny serosal surface.  The ectocervix measures 38 x 27mm and has an unremarkable surface.  The endometrium measures 1mm in maximum thickness and the myometrium is 11mm in maximum thickness.  The possible right fallopian tube measures approximately 16mm x 3mm, and the ovary measures 25 x 8 x 11mm (the right  fimbria and fallopian tube is not easily identifiable in this specimen). The left fallopian tube measures 52mm x 4mm and left ovary measures 30 x 20 x 9mm.  In the anterior uterine cavity there are two pale firm well circumscribed lesions, the first towards the fundus measuring 7 x 7 x 2mm and the second in the isthmus region measuring 7 x 5 x 2mm.
+Blocks: 1 to 3 - full LS of anterior body and cervix (blocks 1 and 2 - contain RS of the isthmus pale lesion; 3 - fundus pale lesion); 4 to 6 - full LS of posterior body and cervix; 7 to 13 - TS of possible right fallopian tube, ovary and possible fimbrial remnants; 14 to 21 - TS of left fallopian tube, ovary and fimbria.
+
+B.  Specimen labelled &amp;quot;Pelvic washing&amp;quot;, consists of a piece of fatty tissue measuring 290 x 160 x 15mm.  (Please note discrepancy with specimen labelling.)  There are three ill-defined  firm regions which on sectioning show cream to pale areas within fatty tissue,  occupying roughly 20% of the specimen.
+Blocks: 1 to 4 - RS from the firm regions.
+
+C.  Specimen labelled &amp;quot;No.2  uterus + bilateral tube and ovary&amp;quot;, consists of a dark grey piece of tissue measuring 22 x 10 x 5mm.  Sectioning shows a tubular structure with possible fimbria at one end.  LS of fimbria and TS of tube.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of one fatty piece of tissue measuring 8 x 8 x 3mm.  AE 1 block.   (TO: NM; NM/vo 29.4.67)
+
+
+MICROSCOPIC (Reported by Dr A Oehrlein):
+A.   There are foci of viable high grade serous carcinoma with psammomatous calcifications within outer myometrium and extrauterine soft tissue associated with minimal regression associated fibro-inflammatory changes.  The endometrium is inactive.  There is no evidence of in situ, squamous or glandular lesion in the cervix.  There is lymphovascular invasion within paraovarian soft tissue.  There is viable high grade serous carcinoma in the left paraovarian soft tissue.   There is focal high grade serous carcinoma  within  the muscularis layer of the left fallopian tube.  There are fragments of high grade serous carcinoma within the left fallopian tube without obvious attachment to the mucosa. There is no evidence of serous tubal intraepithelial carcinoma (STIC) or  fallopian tube mucosal involvement  by carcinoma.
+
+B.  The omental tissue is extensively involved by mostly viable high grade serous carcinoma with occasional psammomatous calcifications.  There is minimal regression associated fibro-inflammatory response.
+
+C.  Sections show a fallopian tube (presumably the right fallopian tube).  There are detached fragments of high grade serous carcinoma in the lumen.  There is no evidence of STIC or  fallopian tube mucosal involvment  by carcinoma.
+
+D.  Sections show fibroadipose tissue with no evidence of malignancy.
+
+DIAGNOSIS:
+A to D. Uterus, cervix, bilateral fallopian tubes, bilateral ovaries and omentum:
+- High grade serous carcinoma, mainly viable tumour involving omentum, left fallopian tube wall, left paraovarian soft tissue, myoemtrium and extrauterine soft tissue
+- Lymphovascular invasion in paraovarian soft tissue

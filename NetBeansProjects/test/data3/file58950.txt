@@ -1,0 +1,93 @@
+SPR no: 64O888803O
+MRN no: 6458888
+Site_name: MACLEAN DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Ascending colon cancer.  No evidence of mets, perforation.  Open rt hemicolectomy.
+
+
+MACROSCOPIC:
+Specimen labelled:  Right hemicolectomy caecum plus ascending colon.
+
+Specimen
+Specimen length:  245mm
+Length of terminal ileum:  65mm
+Length of caecum/ascending colon:  180mm
+Thickness of mesocolon:  up to 25mm
+Appendix:  50mm in length x 7mm in diameter
+
+Tumour
+Location:  Within ascending colon, 10mm away from ileocaecal valve
+Description:  Fungating
+Maximum tumour diameter:  50mm
+Perforation:  Absent
+Appearance of serosa overlying tumour:  Intact
+Distance of tumour to proximal cut end:  75mm
+Distance of tumour to distal cut end:  95mm
+Distance of tumour to circumferential margin:  More than 35mm
+
+Other
+Polyps:  Three polypoid lesions, 4 - 7mm across within the ascending colon.  The closest to any margins is more than 35mm away from distal cut end.
+Adherent structures:  Not seen.
+Other:  There are five diverticula located within ascending colon, extending 15mm from tumour to distal margin (see slide 2).
+Inked margins:  Proximal inked black and distal inked blue.
+
+Blocks
+1 - LS of distal end; 2 - LS of proximal end; 3 to 8 - tumour with maximum depth of invasion
+(7 - includes interface with normal  bowel for MMR testing); 9 - ileocaecal valve; 10 - three possible polyps; 11 to 13 - Each one diverticulum; 14 - LS of proximal appendix, opening to caecum and a  TS; 15 - tip of appendix longitudinally bisected; 16 - shave of fat from apex of mesentery; 17 - five lymph nodes; 18 - possible node bisected; 19 - five possible lymph nodes;
+20 - six possible lymph nodes; 21 - tumour for tissue bank.  (TO:KN/rs 9/11/71)
+
+
+MICROSCOPIC (Reported by Dr Q Faul and Dr Q Zeringue):
+
+BOWEL CANCER PROFORMA
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+T3	Beyond muscularis propria
+
+Tumour involvement of margins
+Cut ends: Not involved
+
+Lymph nodes
+Number of lymph nodes present:  15
+Number of lymph nodes involved:  0
+
+N0	No regional LN metastasis
+
+Lymphovascular invasion
+Absent
+
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+MX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+Diverticula are seen.
+One tubular adenoma with low grade dysplasia is present.
+
+Residual tumour status
+R0	No residual tumour
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+BRAF V600E immunohistochemistry
+Not performed
+
+Summary &amp;#8211; AJCC 8th Edition
+pT3 N0 Mx R0

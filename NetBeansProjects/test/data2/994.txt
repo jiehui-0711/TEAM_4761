@@ -1,0 +1,70 @@
+Episode No:  67U072190S
+6770721.ZCS
+
+Denni, Madalene 
+Lab No:  67U07219
+Residency
+FRANKSTON  VIC  3977
+Specimen: Tissue
+D.O.B:  10/5/1987
+Sex:  F
+Collected: 20/03/2014 at 14:54
+Location:  PaLMS - ESK HOSPITAL
+DR PHILLIP AUGUSTINE Guadalupe-KOZMA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Hookwire localised left breast WLE + SLNBx (impalpable invasive ductal Ca at 3 o'clock3cm FN).  HTN, osteoarthritis, macular degeneration.  
+1.  Left breast WLE (required specimen x-ray) marking - long lateral, medium medial, short superior. 
+2.  Left axillary sentinel LNbx - hot and blue.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axilla sentinel lymph node" consists of a piece of fatty tissue measuring 45 x 20 x 8mm.  Four lymph nodes are identified ranging from 3 to 7mm across.  One of the lymph nodes appears to show blue dye discolouration. 
+Blocks: 1 - largest lymph node bisected; 2 - three lymph nodes.  
+  
+B.  Specimen labelled "Wide local excision left breast + hookwire" consists ofa piece of fibrofatty tissue measuring 80mm (medial to lateral) x 75mm (superficial to deep) x 34mm (superior to inferior) and weighs 89g.  There are orienting sutures as per specimen request form.  There is a hookwire protruding from the superficial surface.  The deep margin is inked red, superior blue and inferior black.  The specimen was serially sectioned from lateral towards medial into eleven slices (slice one lateral, slice eleven medial).  X-Ray of the specimen shows a clip located within the superficial half of slice five.  Possible calcification is seen within the deep portion of slices eight and six, as well as the superficial half of slice seven.  Corresponding to the clip location there is an ill defined soft grey area, 5mm across, seen in slices five and six.  This area is 15mm clear of the superior margin, 21mm clear of inferior margin, 10mm clear of the superficial margin and 45mm clear of thedeep margin.  Within slices seven to eleven is an area of soft fibrous tissue located within the superficial half, 30mm across.  The tip of the hookwire was located within slice seven.  No other lesions are identified.  The superior margin is deficient in slice five and the inferior margin is deficient in slice six.  
+Blocks: 1 to 3 - slice one (lateral margin from deep towards superficial); 4 to 9 - slice three; 10 to 17 - slice four; 18 to 24 - slice five (clip in block 23) (note no superior margin in block 23); 25 to 31 - slice six; 32 to 35 - superficial half of slice seven; 36 to 40 - deep half of slice eight; 41 to 47 - slice nine; 48 to 53 - slice eleven (medial margin, embedded from deep towards superficial).  Specimen photographed.  Please see block diagram.  
+(TO: XH/ta 23/5/64) 
+ 
+MICROSCOPIC (Reported by Dr Q Eynon): 
+A.  Four (4) lymph node shows no evidenceof malignancy (0/4).  The CAM5.2 keratin immunostains are negative.
+B.  Sections show a grade 1 infiltrating duct carcinoma, NST with the following features:
+Invasive carcinoma:
+Site:  Left breast, 3 o'clock, 3cm FN.
+Type:  Infiltrating ductal, NST.
+The tumour is composed of bland cells arranged in tubules, nests and a few single cells within a hypocellular fibrous stroma.  Mitoses are inconspicuous.  There is focal tumour associated microcalcification. 
+Invasive tumour size:  13.5mm.
+Grade (Modified Bloom& Richardson): 1
+Tubules:  2    Nuclei:   1   Mitoses:  1    Mitotic rate:   1/10hpf.
+Lymphovascular invasion:  Not seen. 
+	    
+DCIS component:  
+DCIS:  Not seen. 
+Excision Margins:  
+Invasive component:  All margins well clear (>10mm).
+Receptors (Block B23): 
+ER:  Positive.
+	% of nuclei stained 100%
+	predominant intensity of staining: Strong.
+PR:  Repeat stain pending (internal control negative).
+HER2 (Novocastra 10A7):  Negative (1+).
+HER2 SISH:  Performed at United Parcel, SHOALHAVEN DISTRICT MEMORIAL HOSPITAL Hospital, see separate report.
+Ki-67 index: Approximately 2%.
+Nipple:  N/A. 
+LCIS / ALH:    Not seen. 
+Miscellaneous:  Scantbenign glandular calcifications, atrophic lobules, scattered microcysts.  There is fat necrosis and fibrosis amongst the tumour compatible with previous core biopsy sampling.  A marking clip was identified in the postoperative specimen radiopgraph in one of the blocks containing tumour.
+Sentinel lymph node(s): (specimen A)
+Number of sentinel lymph nodes examined: 4. 
+Number of sentinel lymph nodes involved by tumour:  0.        
+Number of sentinel nodes with isolated tumour cells <0.2mm: 0.      
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 0.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  4. 
+Total number of involved lymph nodes (including sentinel node(s)):  0.
+DIAGNOSIS:
+A & B.Left axilla sentinel lymph nodes and left breast (wide local excision):
+-  13.5mm grade 1 infiltrating duct carcinoma, NST, ER positive, PR pending, no lymphovascular invasion seen, all margins well clear (>10mm), four negative sentinel lymph nodes (0/4). 
+-  Repeat PR to follow in a supplementary report.
+ 
+
+ 
+

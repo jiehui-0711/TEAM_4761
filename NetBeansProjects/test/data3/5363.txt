@@ -1,0 +1,27 @@
+Episode No:  34A435236T
+3404352.IQT
+
+Everet, Stanford JACELYN 
+Lab No:  34A43523,34A43523
+S Kings
+YANCHEP  Queensland  4610
+Specimen: Fluid,Tissue
+D.O.B:  19/4/2009
+Sex:  F
+Collected: 02/12/2065 at 20:34
+Location:  105 HAMRUN CIRCUIT - WEST WIMMERA HEALTH SERVICE - JEPARIT
+DR Kenny ARLEN GEMMER
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Endometrial cancer Grade 1.
+MACROSCOPIC:
+Specimen labelled "Uterus, cervix, tubes and ovaries" consists of a previously opened uterus with attached cervix, bilateral tubes and ovaries weighing 177g in total.  The uterus measures 110 x 53 x 50mm and serosa is smooth and shiny.  The ectocervix measures 15 x 15mm in its open state and it is unremarkable.  The right fallopian tube measures 40mm long and 7mm in diameter. The right ovary appears to be atrophic and measures 10 x 8 x 2mm.  Attached to the right fallopian tube and close to the fimbria end is a dark tan, firm nodule, 13 x13 x 12mm.  It has a pearly white cut surface with some pinpoint haemorrhagic areas. The left fallopian tube measures 45mm long and 5mm in diameter and the left ovary measures 25 x 15 x 5mm. At the fundus there is an intramural fibroid, 45 x 45 x 55mm.  The uterine cavity is distorted by the large fundal fibroid and previous incision. There are four additional intramural fibroids, ranging from 5 x 5 x 5mm to 10 x 10 x 10mm. At the right anterior wall there is an endometrial polyp, 15 x 2 x 5mm. On sectioning, the endometrium is 1mm in maximum thickness and the myometrium is 20mm in maximum thickness. At the left cornu region, the endometrium appears to be irregular. The anterior paracervical soft tissue is inked blue and posterior paracervical soft tissue is inked black.  The specimen was received as opened along the lateral walls.  
+Blocks:  1 to 3 - anterior body and cervix; 4 to 9 - left anterior wall (8 & 9 - cornu haemorrhagic area); 10 - right anterior wall; 11 to 13 - posterior body and cervix; 14 - right posterior wall; 15&16 - left posterior wall (one LS);17 & 18 - left posterior wall; 19 - representative sections of the fibroid; 20 & 21 - the dark tan nodule attached to theright fallopian tube; 22- right ovary; 23 - right fimbriae; 24 - right tube; 25 - left ovary; 26 - left fimbriae; 27 - left tube.  (TO: Erick; Isaiah/rt 3.12.65)
+MICROSCOPIC (Reported by Dr J. Vallone):
+Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  There is no myometrial invasion.  There is no lymphvascular invasion.  The ectocervix and endocervix are uninvolved and unremarkable.  The myometrium shows leiomyomas.  Both ovaries are unremarkable.  The well circumscribed nodule attached to the right tube is a totally fibrosed, and is difficult to type as there are no viable cells remaining, but itappears benign.   Both tubes are otherwise unremarkable.
+Stains for MSI are pending.
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium.  No myometrial invasion.  No lymphvascular invasion.  Cervix uninvolved.
+ADDITIONAL REPORT 8/12/65:
+As requested, immunoperoxidase stains for MSI proteinswere performed.  MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.
+

@@ -1,0 +1,75 @@
+Episode No:  04M856929X
+0448569.GZX
+
+GILBAR, RIKKI, DORI-FLORANCE 
+Lab No:  04M85692
+Sylvar
+MORWELL  Australian Capital Territory  2706
+Specimen: Tissue
+D.O.B:  25/4/2012
+Sex:  F
+Collected: 30/10/2063 at :
+Location:  Envoi Pathology - YARRAM & DISTRICT HEALTH SERVICE
+DR JASON BARNEY ROBBY-GUBSER
+Distribution:  FILE-COPY,   NSW-CANCER-REGISTRY
+	CORRECTION OF TYPOGRAPHIC ERROR (Dr A Saulsbury) (11.11.63)
+
+A typographic error in the original report, regarding the date the specimen was collected, has been corrected.  No other changes are made.
+CLINICAL:
+Right breast wide local excision.  Specimen marked short stitch superior margin, long stitch lateral margin.  Morbid obesity, OSA, onhome BiPAP.  Lymph node sampling right axilla.  
+MACROSCOPIC:
+A.  Specimen labelled "Right breast lesion, long lateral, short superior" consists of a lumpectomy with two sutures for orientation as above.  Specimen measures 90mm (medial to lateral), 100mm (superficial to deep) and 40mm (superior to inferior).  There is an ellipse of skin with a hookwire exiting from the superficial margin.  The ellipse of skin measures 70 x 20mm and appears unremarkable.  The specimen is inked blue superior margin, black inferior margin red deep margin.  The specimen is serially sectioned from medial to lateral margin, thespecimen is serially sectioned from lateral to medial margin into ten slices (slice 1 - lateral margin, slice 10 - medial margin), in slices 4 & 5 there is a tiny haemorrhagic area measuring 3 x 5mm.  It is located 35mm from the deep margin, 30mm from the inferior margin and 5mm away the superficial margin.  The rest of the parenchyma has a fatty appearance.  Specimen is AE according to the attached diagram.  
+Blocks:  1 to 4 - slice no 1 (lateral margin); 5 to 10- slice 2; 11 to 20- slice 3; 21 to 30 - slice 4; 31 to 40 - slice 5; 41 to 50 - slice 6; 51 to 58 - slice 7; 59 to 62 - slice 8; 63 to 65 - slice 9; 66 & 67 - slice 10 (medial margin).  
+B.  Specimen labelled "Lymph node sampling" consists of a large fatty node measuring 30 x 30 x 35mm and two lymph nodes 5mm each.  
+Blocks:  1- two lymph nodes; 2 to 8 - large lymph node.  
+(TO:  LT: HK/mm 1.11.63)
+MICROSCOPIC:  (Reported by Dr A Domianus)
+A & B. Sections show an infiltrating duct carcinoma, NST with the following features:
+Invasive carcinoma:
+Site:  Right breast.  
+Type:  Infiltrating ductal, NST.
+Invasive tumour size:  6mm (two consecutive slices).
+Grade (Modified Bloom & Richardson):
+Tubules:  1  Nuclei:  2  Mitoses:  1  Mitotic rate:  2/10hpf.
+Lymphovascular invasion:  Not seen; there is peritumoral retraction artefact but no definite lymphovascular invasion is seen. 
+The carcinoma is composed of well formed tubules and cribriform structures within a desmoplastic stroma.
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  25mm (across five consecutive slices).  
+Nuclear grade:  Low.
+Architecture:  Cribriform, micropapillary
+Necrosis:  Not seen.
+Calcification:  Not seen.
+Degree of DCIS in tumour:  Nil.
+DCIS in adjacent tissue:  Moderate. 
+Excision Margins:  
+Invasive component:  Superior 7.5mm clear, other margins well clear.  
+In-situ component:  Superior 0.4mm clear (no intervening normal ducts A60); other margins well clear >10mm.  
+Receptors (Block A37): 
+ER:Positive.
+	100% of nuclei stained
+	predominant intensity of staining:  Strong.  
+PR:  Positive.  
+	100% of nuclei stained
+	predominant intensity of staining:  Strong.
+HER2 (Novocastra 10A7):  1+ negative.  
+HER2 SISH:  Performed at Smithfield Foods, GOULBURN VALLEY HEALTH - TATURA CAMPUS Hospital, see separate report.
+Ki-67 index:  Approximately 15%.
+Nipple:  N/A.
+LCIS / ALH:  Not seen.
+Miscellaneous:  There is a dermal scar (A40).  A core biopsy tract with reactive changes isseen within and adjacent to the tumour (A37) including one area containing a minute nest of carcinoma cells favoured to represent core biopsy displacement artefact (A38).  The remaining breast tissue show scattered foci of columnar cell change and a few foci of flat epithelial atypia.  
+Sentinel lymph node(s):  0 - No nodes are specifically identified as sentinel lymph nodes.  
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  6
+Number of axillary lymph nodes involved by tumour:  0
+COMMENT:  
+Within the capsule of one face of one of the lymphnodes there is a single tubule <0.1mm in dimension lined by uniform epithelial cells.  No mitoses are seen.  Deeper levels and P63/CK5/6 immunostains are pending, but the cytological features are dissimilar to those of the carcinoma and this focus is favoured to represent a benign glandular inclusion over metastatic adenocarcinoma (isolated tumour cells).  The AE1/AE3 keratin immunostains on the other five nodes are negative.
+DIAGNOSIS:
+A & B.  Right breast (wide local excision) & right axillary lymph nodes:
+-  6mm grade 1 infiltrating ductal carcinoma, NST, no lymphovascular invasion seen; margins clear, 25mm low grade DCIS; 0.4mm from superior margin; other margins well clear; six (6) negative lymph nodes (0/6) (see comment).
+A supplementary report with the results of p63 and CK5/6 immunostains plus deeper levels performed on the lymph node containing the tubule to follow.  
+
+
+		SUPPLEMENTARY REPORT (Reported by Dr A Bourdeaux)(7.11.63)
+The single tubule within the lymph node has cut out in deeper levels.
+

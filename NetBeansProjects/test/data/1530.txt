@@ -1,0 +1,52 @@
+Episode No:  21S873006D
+2178730.BQD
+
+Wickersheim, Edwardo ELMER 
+Lab No:  21S87300,21S87300
+Bellavista
+PORT LINCOLN  Queensland  6254
+Specimen: Washings,Tissue
+D.O.B:  17/7/2003
+Sex:  F
+Collected: Unknown at :
+Location:  PATHOLOGYWEST-PENOLA WAR MEMORIAL HOSPITAL
+DR SHIRLEEN TAWANDA FARETRA
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Grade 2 endometrial cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus with tubes and ovaries" consists of a uterus with attached cervix, ovaries and fallopian tubes weighing 80g in total.  The uterus measures 65 x 40 x 20mm.  On the anterior surface there is a piece of ?adipose tissue attached and some fibrous adhesions.  The ectocervix measures 20 x 18mm and hasan unremarkable surface.  On sectioning, on the anterior wall of the endometrial cavity, there is an exophytic fungating polypoid lesion measuring 20 x 10mm.  The underlying myometrium has multiple foci of adenomyosis.  In the area of the tumour the myometrium has a maximum thickness of 20mm and the endometrium 5mm.  The rest of the endometrium is 1mm in thickness.  The right fallopian tube and fimbria measure 55mm in length, 5mm in maximum diameter.  There is a parafimbrial cyst 20mm in maximum diameter; it is filled with mucoid material.  The ovary measures 25 x 15 x 15mm and has an unremarkable appearance.  The left fallopian tube and fimbria measure 65mm in length, 5mm in maximum diameter and are unremarkable.  The left ovary measures 25 x 15 x 15mm and has an unremarkable appearance.  
+Blocks:  1 to 3 - one full longitudinal section anterior body and cervix; 4 & 5 - two representative sections of anterior endomyometrium; 6 - representative section of ?leiomyoma; 7 to 9 - one full longitudinal section of posterior body and cervix; 10 - representative cyst AE; 11 - two LS right fimbria; 12 - one TS right fallopian tube and one representative section of right ovary; 13 - two LS left fimbria; 14 - one TS left fallopiantube and one representative section left ovary.    
+B.  Specimen labelled "Right obturator lymph node" consists of an irregular piece of fatty tissue 30 x 30 x 10mm containing a large lymph node 20mm in maximum diameter.
+Blocks:  1 - lymph node is bisected and embedded in block 1; 2 & 3 - rest of fatty tissue.  
+C.  Specimen labelled "Left obturator lymph node" consists of a piece of fatty tissue measuring 30 x 30 x 10mm containing a large lymph node measuring 30mm in maximum diameter.  The lymph node is bisected. 
+Blocks:  1- bisected lymph node; 2- rest of fatty tissue.  
+D.  Specimen labelled "Right external iliac" consists of a piece offatty tissue measuring 45 x 20 x 10mm containing seven lymph nodes 5 to 15mm.  
+Blocks:  1 & 2 - three lymph nodes each; 3 - one bisected lymph node.  
+E.  Specimen labelled "Left external iliac" consists ofan irregular piece of tissue measuring 50 x 40 x 10mm containing six lymph nodes 5 to 20mm.  
+Blocks:  1 - four lymph nodes; 2 & 3 - one bisected lymph node each.  
+(TO: LX: MY/mm 9.11.63) 
+MICROSCOPIC (reported by Dr O Deloatch): 
+A.  Sections of the endometrial tumour show a grade 2 endometrioid adenocarcinoma.  The tumour has a polypoid profile but there is considered to be very superficial myometrial invasion.  Maximum depth of myometrial invasion is 1mm out of a total myometrial thickness of 19mm.  There is focal lymphovascular invasion. There is no cervical involvement and the sections of cervix are unremarkable.  Extensive adenomyosis is confirmed in the myometrium.  The myometrium is otherwise unremarkable. Sections of the right paratubal cyst show that this contains foamy macrophages and no residual epithelial lining is seen.  There is focal squamous metaplasia of epithelium at the fimbrial end of the right tube. The fallopian tubes are otherwise unremarkable.  Both ovaries show a degree of stromal hyperplasia but are otherwise unremarkable.  
+IMMUNOSTAINS:
+Immunostains for mismatch repair enzymes have been performed on the endometrial tumour.  
+MHL1:		Loss of nuclear staining. 
+PMS2:		Loss of nuclear staining.
+MSH2:		Preserved nuclear staining. 
+MSH6:		Preserved nuclear staining. 
+Loss of nuclear staining of a carcinoma for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+B.   Sections show three (3) lymph nodes.  No tumour is seen. 
+C.   Sections show two (2) lymph nodes.  No tumour is seen.
+D.   Sections show seven (7) lymph nodes.  No tumour is seen. 
+E.   Sections show six (6) lymph nodes.  No tumour is seen.   
+DIAGNOSIS:
+A.   Uterus, ovaries and fallopian tubes:  
+1.   Grade 2 endometrioid adenocarcinoma of endometrium showing superficial
+      myometrial invasion, stage 1A.
+2.   Adenomyosis.
+3.   Bilateral ovarian stromalhyperplasia.  
+B.   Right obturator lymph nodes:  No tumour (0/3).
+C.   Left obturator lymph nodes:  No tumour (0/2).
+D.   Right external iliac lymph nodes:  No tumour (0/7).
+E.   Left external iliac lymph nodes:  No tumour (0/6). 
+

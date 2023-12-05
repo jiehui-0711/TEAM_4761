@@ -1,0 +1,45 @@
+SPR no: 22G800251S
+MRN no: 22280025
+Site_name: WENTWORTH DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report22G80025 (22G800251S) LUSCAVAGE, Dierdre Mel HISTOPATHOLOGY REPORT:
+HISTORY: Peritonectomy.  Colorectal cancer.
+Prev HH28-0025 from 18/2/67 RECOVERY pathology; scanned
+
+MACROSCOPIC:
+A.  &amp;quot;OMENTUM, GALLBLADDER, UTERUS, OVARIES, PERITONEAL DISEASE&amp;quot;. Consists of gallbladder, omentum, uterus with attached cervix, bilateral ovaries and bilateral fallopian tubes.  The section with gallbladder, it measures 70mm in length with a maximum diameter of 25mm. The serosa is smooth and unremarkable. The wall is up to 2mm thick. The mucosa is granular green in appearance. No stones are found within the lumen.
+(1 cystic duct and neck of gallbladder; 2 body and fundus)
+Omentum - It measures 410x150x30mm.  No suspicious areas are identified on sectioning or palpation.   (3&amp;amp;4 RS of omentum)
+Uterus with attached cervix. There is also attached posteriorly a segment of large bowel with one blind end and one open end.  The segment of large bowel measures 60mm in length with a maximum diameter of 25mm.  Distal margin is inked black, radial margin green.  On opening the lumen, it shows normal mucosal fold.  No discrete mass lesion is noted within.  Within the attached peritoneum is a plaque measuring 15x15mm (? tumour).  Also noted within the mesocolic fat are deposits of tumour with a mucinous cut surface.
+(5 blind end of large bowel; 6 distal margin; 7-9 tumour deposits within mesocolic fat and peritoneum; 10-13 possible nodes [10 six nodes, 11-13 one node bisected each)
+The uterus with attached cervix weighs 51g and it measures 75mm superior to inferior, 35mm intercornual distance. Ectocervix is 30x10mm with a slit like os 7mm.  Anterior endomyometrium measures 12mm, posterior endomyometrium 14mm.  Anterior is inked blue, posterior black. The serosa is smooth. Ectocervix is grey to cream coloured and unremarkable.  On sectioning through the myometrium no discrete lesion is identified.
+(14 anterior cervix; 15 posterior cervix; 16 anterior and posterior endomyometrium; 17 cervix with attached peritoneum posteriorly)
+The right ovary and fallopian tube together weigh 10g.  Fallopian tube measures 55mm in length with a maximum diameter of 10mm. The serosa shows multiple paratubal cysts.  They range from less than 1mm to 2mm.  Ovary measures 30x15x15mm.  On the serosal surface is possible mucinous deposits of tumour.  On sectioning through the ovary there is a 10mm cyst filled with gelatinous material.  (18 right fallopian tube; 19 right ovary)
+The left ovary and fallopian tubes together weigh 9g. Fallopian tube measures 45mm in length with a maximum diameter of 6mm.  Ovary is 30x10x8mm.  The fallopian tube serosa shows multiple paratubal and parafimbrial cyst ranging from 2-6mm. On the serosal surface of the ovary is a possible mucinous tumour deposit.  On sectioning the cut surface is pale white and firm.  Underlying the area with the possible tumour deposit shows a mucinous cut surface.  (20 left fallopian tube; 21 left ovary)
+Separate pieces of fibrofatty tissue some consistent with peritoneum, altogether measuring 150x80x40mm.  No suspicious areas are seen on sectioning.
+(22&amp;amp;23 separate pieces of fibrofatty tissue). RS (M-23)
+B.  &amp;quot;COMMON HEPATIC ARTERY LYMPH NODE&amp;quot;.  Consists of one lymph node 12mm maximum dimension. Bisected. AE (2-1)
+C.  &amp;quot;LEFT ARTERY LND&amp;quot;.  Consists of a piece of fibrofatty tissue 50x50x20mm. Seven possible nodes identified. (1 six nodes; 2 one node bisected). RS (M-2/MC 30/6/2065 ank)
+
+MICROSCOPIC:   H. Sahl  cy
+A. Main specimens:
+- Segment of colon attached to uterus: mesocolic deposits of moderately differentiated mucinous adenocarcinoma. The tumour deposit shows invasion into mesocolic adipose tissue, moderate cellularity, moderate to high nuclear grade, with no signet ring cells seen.
+Mesocolic lymph node is negative for tumour (0/11).
+- Uterus: atrophic ectocervix mucosa, denuded in many areas, normal endocervix, normal inactive endometrium with minor cystic change.
+- Right tube: Area of nodular fibrosis.
+- Right ovary: Metastatic adenocarcinoma with mucinous features, moderately differentiated, similar appearance to mesocolic deposits, present over peritoneal surface and invading within ovary.
+- Left tube: normal
+- Left ovary: metastatic adenocarcinoma of similar appearance to previously described deposits, involving ovary surface and invading within ovary stroma
+- Gallbladder: unremarkable.
+- Omentum: areas of surface fibrous scarring present.
+B. Lymph nodes negative for tumour (0/1)
+C. Lymph nodes negative for tumour (0/7)
+
+DIAGNOSIS:
+A. OMENTUM, GALLBLADDER, UTERUS, OVARIES, PERITONEAL DISEASE:
+- Metastatic moderately differentiated mucinous adenocarcinoma consistent with colorectal origin, with metastases involving bowel mesocolon and right and left ovaries with peritoneal surface involvement at these sites
+- see previous report HH28-00251 from 19/2/65 L7 CONSULTING ROOMS pathology for MMRP Immunostains (reported as normal mismatch repair staining)
+
+B. COMMON HEPATIC ARTERY LYMPH NODE -  Negative for tumour.
+C. LEFT ARTERY LND - Negative for tumour.

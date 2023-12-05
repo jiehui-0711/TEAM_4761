@@ -1,0 +1,74 @@
+SPR no: 18S065511R
+MRN no: 0955746
+Site_name: CESSNOCK DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Decrease HB (74); Fe Def.  Tumour on c/scope - asc colon tumour.  No perforation.  No mets.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right hemicolectomy&amp;quot;, consists of a right hemicolectomy, which was received fresh, tumour has been taken fresh for biobanking.  It consists of a right hemicolectomy specimen with right colon measuring 145mm in length and 75mm in open circumference.  The terminal ileum is 50mm in length and 30mm in open circumference.  The appendix is not identified.  Located in the caecum is an exophytic brown firm tumour, 62 x 45mm.  It is raised to a height of 8mm above the surrounding colonic mucosa.  It is located 53mm from the proximal resection margin and 80mm from the distal resection margin.  The serosa underlying the tumour appears haemorrhagic and indurated and shall be inked in green.  There is up to 95mm of attached mesentery with an apical suture line, 30mm in length.  The distal longitudinal margin is inked blue and the proximal longitudinal margin is inked black.  The tumour has a maximum depth of invasion of 10mm.  It appears to abut the green inked surface.  The rest of bowel is unremarkable.
+Blocks: 1 - longitudinal distal margin; 2 - longitudinal proximal margin; 3 to 5 - full face of tumour showing closest deep surface; 6 &amp;amp; 7 - further composite section of tumour showing close deep surface; 8 - tumour, closest to deep surface; 9 - tumour and adjacent normal colon in the distal direction; 10 &amp;amp; 11 - tumour and adjacent normal in the proximal direction (including ileocaecal valve); 12 - tumour banking; 13 - shave apical vascular margin; 14 - first apical node; 15 - second apical node; 16 - one node; 17 - one node bisected; 18 - one node bisected; 19 - five possible nodes; 20 - one bisected node; 21 - five nodes; 22 - one bisected node; 23 - one bisected node; 24 - four nodes; 25 - one trisected node; 26 - one bisected node.  (TO: RQ/ta 18/2/70)
+
+
+MICROSCOPIC (Reported by Dr C Zawasky):
+Synoptic Report for Large Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour:  Caecum
+Maximum tumour diameter:  62mm
+Distance of tumour to nearer cut end:  53mm (proximal)
+Tumour perforation:  No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Not involved
+Non-peritonealised circumferential margin: Not applicable
+Histological measurement from tumour to non-peritonealised margin:  Not applicable
+
+Lymph nodes
+Number of lymph nodes present:  18
+Number of lymph nodes involved:  0
+
+pN0	No regional LN metastasis
+
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+None
+
+Residual tumour status
+R0	No residual tumour
+
+Response to neoadjuvent therapy (Modified Ryan scheme)
+Not applicable
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The block best for molecular genetic testing is:  5
+
+Summary &amp;#8211; TNM 7th Edition
+pT3     pN0     pMX     R0
+DIAGNOSIS:
+Right hemicolectomy - Adenocarcinoma.

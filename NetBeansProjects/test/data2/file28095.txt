@@ -1,0 +1,51 @@
+SPR no: 23T818632V
+MRN no: 23781863
+Site_name: EDENHOPE AND DISTRICT MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+TAH BSO for pelvic mass (ovarian) Ca 125 = 60, Ca 19.9 &amp;gt; 1000.  Ovarian cancer.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot; and consists of an ovarian mass, 205 x 140 x 105mm, weighing 925g.  There is overlying fallopian tube 50mm in length and 10mm diameter.  The external surface of the mass is smooth and shiny.  The cut surface show a solid-cystic appearance, with solid areas comprising approximately 40% of the mass.  The cystic spaces contain mucinous and haemoserous fluid.
+Blocks: 1 &amp;amp; 2 - RS mass for F/S; 3 &amp;amp; 4 - fallopian tube; 5 to 22 - RS ovarian mass.
+
+FROZEN SECTION REPORT:
+Adenocarcinoma, favour mucinous adenocarcinoma, ? primary ? secondary.
+Result to the Anaesthetic Registrar by Dr G Sang at 11:18am on 14.05.2016.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, left tube and ovary&amp;quot;, consists of a uterus, cervix, left fallopian tube and ovary, weighing 180g in total.  The uterus is 113 x 68 x 58mm and has a smooth and shiny serosa.  The ectocervix is 27 x 25mm.  The endometrium is up to 2mm thick and the myometrium up to 28mm thick.  Two endometrial polyps are identified, 8 and 19mm.  There are eight fibroids (submucosal, intramural and subserosal locations), ranging from 10 to 26mm.  The left fallopian tube is 45mm in length and 7mm diameter.  The left ovary is 27 x 18 x 17mm.  Blocks: 1 to 5 - full LS of anterior body and cervix; 6 - anterior fibroid; 7 to 13 - full LS of posterior body and cervix (polyp in block 10); 14 &amp;amp; 15 - further sections endometrial polyp; 16 &amp;amp; 17 - second endometrial polyp all embedded; 18 and 19 - posterior fibroids; 20 &amp;amp; 21 - fallopian tube; 22 to 25 - ovary AE.
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of omental fat measuring 165 x 105 x 15mm.  No focal lesions are identified.  RS 3 blocks.
+
+D.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of an appendix measuring 74mm in length to a diameter of 9mm, with mesoappendix to a width of 25mm.  The serosal surface is smooth and shiny.  The wall measures up to 3mm thick and the lumen is patent with dark brown material.  There is no evidence of macroscopic mucin.  Blocks: 1 - tip; 2 - mid TS; 3 - base.
+(TO:AP/eh 14/10/66); 4 to 6 - remainder of appendix AE.  (TO:AP/ta 18/9/69)
+
+
+MICROSCOPIC (Reported by Dr G Bouillon):
+A.  The right ovarian mass shows a well-differentiated adenocarcinoma arising in a mucinous borderline tumour.  The adenocarcinoma is composed of compact tubules as well as papilliform areas with fibrous cores lined by elongated columnar cells with even nuclear chromatin.  No marked cytologic atypia is seen.  Overall, the adenocarcinoma shows overlapping features between mucinous adenocarcinoma and endometrioid adenocarcinoma.  Adenocarcinoma involves approximately 15% of the sampled tumour.
+
+The adenocarcinoma shows positive staining with PAX8 and CK7, and is negative with CK20 and CDX2.  The mucinous borderline tumour component shows positive staining with CK7 and PAX8, as well as patchy positive staining with CK20 and CDX2.  Both these staining patterns are consistent with primary ovarian origin.  The right fallopian tube shows no significant abnormality.
+
+Representative sections seen with Dr G Zumbo.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive. There are two benign endometrial polyps.  The myometrium shows leiomyomas.  The left ovary contains an incidental benign serous cystadenofibroma.  The left fallopian tube shows no significant abnormality.  There is no evidence of malignancy.
+
+C.  The sections of omentum show  no significant abnormality.  There is no evidence of malignancy.
+
+D.  The sections of appendix show no significant abnormality.  The entire appendix has been embedded and there is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right ovary and fallopian tube:  Well-differentiated adenocarcinoma arising in mucinous borderline tumour.
+B.  Uterus with cervix, left ovary and fallopian tube:  Benign endometrial polyps and leiomyomas.
+C.  Omental biopsy:  No evidence of malignancy.
+D.  Appendix:  No significant abnormality.

@@ -1,0 +1,37 @@
+SPR no: 62P487674D
+MRN no: 9507773
+Site_name: COHUNA DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report62P48767 (62P487674D) CHALFANT, DANE
+SUPPLEMENTARY REPORT: 6.6.2066
+Results for further immunostains added.
+HISTOPATHOLOGY REPORT
+THE ROYAL WOMEN'S HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Histology of adrenal Ca with new liver lesion.
+Liver segment 4a/8.
+
+MACROSCOPIC:
+&amp;quot;LIVER SEGMENT 4/8&amp;quot;. A segmental liver resection, 8g, with a capsular surface, 30x27mm, with underlying tissue to a depth of 16mm. The cancellous surface is ragged and indurated. The margins are inked blue. The specimen is serially sliced into 8 slices. The cut surface reveals a dumbbell shaped well-circumscribed lesion, involving the overlying capsule, and abutting the surgical resection margin. The lesion has a lobulated  tan and yellow cut surface. It is extending from Slice 2-8, and measuring 28x12x11mm. The adjacent liver tissue is unremarkable.
+
+(1 two LS, Slice 1 [peripheral edge]; 2 Slice 2; 3 Slice 3; 4 Slice 4; 5 Slice 5; 6 Slice 7; 7 two LS, Slice 8 [other peripheral edge]). RS (M-8 [please see block diagram])/ZH 25/4/2066 cy)
+
+MICROSCOPIC:  (Dr Q Lenske)
+Sections of liver show a circumscribed lesion composed of expansile tumour lobules. There is central necrosis within some of the lobules. Tumour cells are arranged in crowded nests and sheets and have abundant granular eosinophilic cytoplasm.  Nuclei are round and relatively uniform with granular chromatin, although areas with nuclear atypia are present.  Mitosis are easily found, numbering &amp;gt;10 per 50 high power fields.  No lymphovascular invasion is identified.  The lesion protrudes from the capsular surface which is oedematous. It is 1.5mm from the capsular margin and 1mm to the liver parenchymal margin.  The uninvolved liver is unremarkable.  There is no steatosis or increase in inflammatory cells.
+
+Immunohistochemistry / Special Stains
+The tumour cells are positive for inhibin, calretinin, synaptophysin and melan A. They stain negatively for AE1/AE3, CAM 5.2, CK7, CK20, EMA, chromogranin A, CD10,  CEA, GATA3, Pax 8, HepPar1, SOX 10 and S100. DPAS demonstrates no intracytoplasmic  globules. Ki67 is up to 25%.
+
+Comment:
+The histological and immunohistochemical profile are in keeping with metastatic adrenal cortical carcinoma. Clinical correlation is recommended.
+
+Immunostains for CD117 and DOG1 are pending, and a supplementary report will be issued.
+
+SUMMARY:
+LIVER SEGMENT 4/8
+- CONSISTENT WITH METASTATIC ADRENAL CORTICAL CARCINOMA
+29/5/2066 km
+SUPPLEMENTARY REPORT: 6.6.2069
+Immunostains for CD117 shows focal positivity whilst DOG1 is negative. The features are in keeping with an adrenal cortical carcinoma, and the above diagnosis is unchanged.

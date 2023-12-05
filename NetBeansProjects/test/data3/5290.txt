@@ -1,0 +1,83 @@
+Episode No:  45G860066L
+452860.AQS
+
+Smeal, Ira 
+Lab No:  45G86006,45G86006
+Poppy House
+TAMWORTH  QLD  7109
+Specimen: Washings,Tissue
+D.O.B:  24/2/2007
+Sex:  F
+Collected: 27/04/2066 at 18:00
+Location:  MANSFIELD DISTRICT HOSPITAL
+DR THERON CAMINERO
+Distribution:  DR Jimmy, DR ABEL, DR CLAUDIO,    FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT ATTACHED
+
+HISTORY:  
+GI endometrioid adenoca. Uterus, tubes and ovary, omental biopsy, left pelvic lymph node, right pelvic lymph node. 
+MACROSCOPIC:  
+A. "UTERUS". A uterus, attached cervix, bilateral tubes and ovaries. Theuterus with attached cervix weighs 140g and measures 90mm superior to inferior, 40mm intracorneal distance. The anterior endomyometrium is 25mm, posterior endo- myometrium is 28mm. The endometrium is up to 3mm thick. The ectocervix 35x30mm and the slit like os is 15mm. It is cream coloured. There are two cystic areas noted on the ectocervix measuring 12mm and 14mm. Anterior inked blue, posterior black. On sectioning through the myometrium a 10mm submucosal leiomyoma is seen it hashas a pale white whorled cut surface. No other discrete mass lesions are identified. 
+(1 right parametrium; 2 left parametrium; 3-10 one sagittal slice right half [3 anterior cervix; 4 anterior lower uterine segment;5 anterior endo myometrium; 6 fundus; 7 posterior endometrium; 8 posterior endometrium; 9 posterior and lower uterine segment; 10 posterior cervix]; 11-17 sagittal slice left half [11 anterior cervix; 12 anterior lower uterine segment; 13anterior endo myometrium; 14 fundus; 15 posterior endo myometrium; 16 posterior lower uterine segment; 17 posterior cervix]; 18 right cornu; 19 left cornu; 20 10mm leiomyoma).
+The right ovary and fallopian tube altogether weigh 6g. ovary measures 25x15x10mm. The serosa is cystic in nature. On sectioning the cut surface reveals a cystic cut surface. The right fallopian tube is 55mm in length by 6mm in maximum diameter. There are multiple paratubal cysts ranging from 1-2mm. 
+(21 right ovary; 22 right fallopian tube).
+The left ovary and fallopian tube weigh 7g. Ovary measures 25x20x20mm. The serosal surface is cystic. On sectioning two cysts arte noted, one filled withbrown serous fluid. The other filled with haemorrhagic material. The fallopian tube measures 50x8mm. There are multiple paratubal cysts ranging from less 1mm to 5mm. 
+(23 left ovary; 24 left fallopian tube). RS (M-24)
+Further tissue:
+Entire endometrium embedded.  
+(25-30 sagittal slices left anterior endomyometrium; 31-35 sagittal slices left posterior endomyometrium; 36-37 composite slices posterior endomyometrium; 38-42 sagittal slicesright posterior endomyometrium; 43-48 sagittal slices right anterior endomyometrium [please see diagram for block orientation]).  RS (M-48/NN/ank)
+B. "OMENTUM". A piece of fatty tissue consistent with omentum, measuring 45x25x5mm. No nodules or solid areas identified. AE (2-2).
+C. "LEFT PELVIC LYMPH NODE". Multiple pieces of lymph nodal tissue intermixed with fat measuring 40x25x10mm. Three possible nodes identified 8-25mm in maximum dimension.
+(1 one lymph node bisected; 2 two lymph nodes; 3 rest of fattytissue). AE (M_3).
+D. "RIGHT PELVIC LYMPH NODE". Multiple pieces of lymph nodal tissue mixed with fat measuring 45x25x11mm. Five possible nodes identified ranging from 7-23mm. 
+(1 one lymph node; 2 one lymph node; 3 one lymph node; 4 two lymph nodes; 5 rest of fatty tissue). AE (M-5/ER/ht).
+MICROSCOPIC:  (Dr M Tores)
+ENDOMETRIAL CARCINOMA: 
+Tumour type:  Endometrioid
+FIGO grade:  1
+(architecture grade:  1, nuclear grade:  2)
+Myometrial invasion:  None, confined to endometrium
+Depth of myometrial invasion:   0mm
+Myometrial thickness:   25mm
+Focality:  Unifocal
+Tumour involves: Body  
+Vascular/lymphatic invasion:  Not seen
+Involvement of cervix:  Not involved
+Involvement of uterine serosa:  No
+Excision margins: N/A 
+Non-tumour uterus:  
+Adjacent endometrium: Atypical hyperplasia and proliferative endometrium 
+Adenomyosis:  Present
+Adnexae:  
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involvedovary: Not involved 
+Right ovary:  Not involved
+Lymph nodes (Specimens C and D):  
+Nodes involved:  0
+Total number:  16 (9 nodes specimen C and 7 nodes specimen D)
+Other tissues:  
+Specimen B (Omentum) : Unremarkable
+Comment:  
+There is only a small amount of residual tumour remaining within the uterus.
+Pathologic Staging (AJCC/UICCTNM 7, FIGO 2008):
+
+TNM stage: pT1, pN0
+FIGO stage: 1A
+DIAGNOSIS:  
+A.UTERUS: GRADE 1 ENDOMETRIOID ENDOMETRIAL CARCINOMA.
+B.OMENTUM:NEGATIVE FOR MALIGNANCY.
+C. LEFT PELVIC LYMPH NODE: NEGATIVE FOR MALIGNANCY.
+D. RIGHT PELVIC LYMPH NODE: NEGATIVE FOR MALIGNANCY.
+4/5/66 ank
+Supplementary report:
+MSI Immunohistochemistry stains (block A13)
+MLH1: 	Positive staining present
+PMS2: Positive staining present
+MSH2: Positive staining present
+MSH6: Positive staining present
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme. 
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2and MSH6 indicates a low likelihood of microsatellite instability phenotype. 
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible. 
+5/5/2066 nh
+

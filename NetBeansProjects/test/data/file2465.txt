@@ -1,0 +1,59 @@
+SPR no: 15R195915R
+MRN no: 7604803
+Site_name: PINGELLY HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reportdrw10 brdrsain 1 Episode No:  76B480364V
+fcs0 7604803.SMV
+djustrightrdrlw10 h4996gfe3081
+STAPLESsid7027921 , ALONA LURZ
+s0 fl3rsdrw10 brdrsain 1 Lab No:  76B48036rtlch
+Alderton
+ain d7027921 3rdrrw10 rrch
+BAIRNSDALE  3328 TAS  6170
+rw10 8par
+f0 dr108  0 g1025 Specimen: Tissue
+D.O.B:  9/3/1995
+Sex:  F
+adjustrightw10 drsdrstrbrdrrrdrw10 rpar Collected: 7/6/2065 at rsid5179936 :
+Location:  CORONARY CARE UNIT-DONNYBROOK HOSPITAL
+cgridvl c
+lchDR TERRY KAMILAROI GALIMI
+efault08addr1080 ult
+ustrightDistribution:  DR Shelp
+lang1025 rrg1025
+CLINICAL:
+Ca ovary.  Bowel resection + cytoreduction.
+s0 MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right ovary&amp;quot; consists of an ovary, 45 x 35 x 25mm.  The serosa is diffusely dull and haemorrhagi c.  The ovary is replaced by firm pale grey tumour.  The tumour appears to extend to the serosal surface, with patchy tan granular material on the serosa.  RS in 5 blocks (block 1 - reserve block).
+B.  Specimen labelled &amp;quot;Left  tube + ovary&amp;quot; consists of an ovary, 45 x 40 x 15mm. The majority of the serosa is dull and haemorrhagic.  There is overlying fallopian tube with fimbria, 30mm in length.  The fallopian tube is matted to the ovary.  Both the tube and ovar y appear to be replaced by firm pale grey tumour.
+Blocks:  1- fallopian tube and fimbria; 2 to 6 - RS ovary.
+C.  Specimen labelled &amp;quot;Ileum&amp;quot; consists of a segment of small bowel in continuity with caecum.  The small b owel is 1310mm in length and has varying circumference, ranging from 30 to 85mm.  The caecum is 70mm in length and 70mm circumference.  The appendix is not identified.  The loops of small bowel form a convoluted matted mass around a mes enteric tumour nodule, 70 x 60 x 45mm.  The tumour forms multiple adhesions between adjacent loops of bowel.  In two places, the tumour bulges into the terminal ileum wall.  In one area the tumour occupies approximately 75% of the bowel  wall and the bowel circumference is narrowed to 30mm.  The tumour also extends to the mesenteric serosa in multiple areas.  The mass is well clear of both the proximal and distal bowel margins.  The remainder of the small bowel mucosa show s intact mucosal folds.  Multiple small bowel serosal nodules are present, which are at least 55mm clear of the proximal margin.  Near the caecum there is a haemorrhagic mesenteric tumour mass 75 x 50 x 30mm, with an adjacent suture.  T he nearby terminal ileum serosa is haemorrhagic.
+There is omental adipose tissue, 135 x 65 x 10mm, adherent to the caecum, and this contains small tumour nodules.
+Also received is a second segment of small bowel 50mm in le ngth and 60mm circumference.  No focal lesions are seen in this segment.
+Blocks:  1 - proximal small bowel margin; 2- distal colon margin; 3- small bowel serosal tumour deposits closest to proximal margin; 4 - mesenteric tumour mass  at ileal stenosis; 5 - 7 - mesenteric tumour mass forming adhesions between adjacent loops of bowel; 9 &amp;amp; 10 - tumour mass near caecum; 11 - tumour nodules within omental fat adherent to caecum; 12 - separate segment of bowel.
+ar D.  Specimen labelled &amp;quot;Ileal anastomosis&amp;quot; consists of an anastomosis comprising small bowel, 75mm in length and 40mm circumference, anastomosed to apparent large bowel, 80mm in length and 50mm circumference.  No tumour nodules are iden tified.  The mucosa of both bowel segments is unremarkable.
+Blocks:  1 - small bowel; 2 - probable large bowel; 3 - attached adipose tissue.
+E.  Specimen labelled &amp;quot;Sigmoid nodule&amp;quot; consists of three nodular pieces of g rey tissue, 10, 20 and 25mm across.  All of the pieces contain tumour nodules.  RS from each piece in 3 blocks.
+F.  Specimen labelled &amp;quot;Sigmoid mesocolon&amp;quot; consists of a piece of adipose tissue with overlying peritoneum, 17 x 1 0 x 10mm.  TAE 1 block.
+G.  Specimen labelled &amp;quot;Omentum&amp;quot; consists of a piece of omentum, 280 x 120 x 10mm.  There are scattered tumour nodules involving approximately 15% of the omentum.  The largest nodule is 20mm across.  RS  in 3 blocks.
+(TO: KT:  KT/mm 7.7.65)
+pard
+27615 MICROSCOPIC (reported by Dr S Oto):
+A.  Sections show ovary with adherent paraovarian soft tissue.  The ovary is extensively involved by a high grade , poorly differentiated serous carcinoma.  There are also patchy deposits on the serosa of the  adjacent paraovarian soft tissue.  A portion of fallopian tube is identified in the paraovarian soft tissue and this is not involved by tumour.  The tumour involves the seros al surface of the ovary.
+
+B.  Sections show ovary and fallopian tube.  The ovary is involved by a poorly differentiated, high grade serous carcinoma.  T he tumour mainly involves the serosal aspect of the ovary and tumour nodules appear to extend into the ovary from the serosal as pect.  Tumour also  involves adjacent paraovarian soft tissue and very focally involves the fimbrial end of the fallopian tube.  The tube elsewhere is not involved.
+C.  Sections show small and large  intestinal wall.  The described mesenteric tumour mass is a deposit of high grade serous carcinoma; s0 this extends through the muscularis propria of the small bowel into the submucosa, however the mucosa 27921 is intact.  Multiple serosal deposits of high grade serous  carcinoma are confirmed on the small bowel and sections also confirm tumour formi ng multiple adhesions between the loops of small bowel.  Sections of the tumour mass near the caecum confirm a further deposit of high grade serous carcinoma , and sections confirm tumour nodules within omental fat adherent to the caecum.  S ections of the proximal and distal small and large bowel margins are free of tumour.
+Sections of the separate bowel segmen t show essentially unremarkable small intestinal wall.
+D.  Sections show small and large intestinal wall.  The small and large intestinal walls sid5179936show no significant abnormality.  There is focal tumour present on the serosa of the attached adipose tissue.
+E.  Sections show pieces of fibrofat.  Smooth muscle of muscularis propria is present on  one aspect of two of the pieces.  Each of the pieces is involved by high grade serous carcinoma.  No definite tumour involvement of muscularis propria is seen.
+F.  Sections show fibrofat.  There is involvement by tumour, appar ently on the serosal aspect.
+G.  Sections of omentum confirm involvement by nodules of high grade serous carcinoma.
+ghtDIAGNOSIS:
+A.  Right ovary:  High grade serous carcinoma involving ovary and  paraovarian soft tissue.
+ql B.  Left tube and ovary:  High grade serous carcinoma involving ovary and p araovarian soft tissue.
+C.  Ileum and caecum :  High grade serous carcinoma.
+D.  Anastomosis:  Tumour on serosa of attached fat.
+s1 E.  Sigmoid nodules:  Serous carcinoma.
+F.  Sigmoid mesocolon:  Serous carcinoma.
+G.  Omentum:  Serous carcinoma.

@@ -1,0 +1,143 @@
+SPR no: 74L4842325
+MRN no: 744484
+Site_name: DENMARK HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report74L48423,74L48423 (74L4842325) VANBLARCOM, MISTY
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Serous carcinoma of endometrium.
+1. Peritoneal washings for cyto.
+2. Right ovary + tube.
+3. Uterus, left ovary + tube, peritoneum + pouch of douglas.
+4. Peritoneum + pouch of douglas.
+5. Appendicae epiploicae.
+6. Left external iliac node.
+7. Small bowel serosa.
+8. Omentum bx - suture at tumour nodule.
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT OVARY + TUBE&amp;quot;. Consists of a cystic, lobulated mass with attached fallopian tube. All together weighing 369g. The tube measures 60x5mm. The ovarian mass is 100x100x65mm. Capsule is intact. The surface shows a roughened area with papillary-like excrecences over an area, measuring 20x14mm. The surface is inked green. The fallopian tube serosal surface is unremarkable. On sectioning through the ovarian mass, it is partially cystic and partially solid. The solid component makes up approximately 80% of the mass. It is friable and has a tan to glistening cut surface with yellow streaks. The cysts contain mucoid material.
+
+(1&amp;amp;2 fallopian tube [1 fimbrial end; 2 transverse section from medial, mid and lateral end of fallopian tube]; 3-7 surface showing papillary-like excrescences, entirely embedded; 8&amp;amp;9 mucinous area of solid aspect of lesion; 10-14 solid aspect with tan cut friable cut surface; 15,16&amp;amp;17 sections showing solid + cystic areas; 18 further section of solid component). RS (M-18)
+
+B. &amp;quot;UTERUS, LEFT OVARY + TUBE, PERITONEUM + POUCH OF DOUGLAS&amp;quot;. Consists of uterus with attached cervix, left ovary and fallopian tube and attached posteriorly is fibrofatty tissue consistent with pouch of douglas. Anterior is inked blue, posterior-black. Also found floating separately is a piece of fatty tissue. All together it weighs 410g. Uterus measures 120mm superior to inferior, 90mm intercornual distance, 15mm anterior endomyometrium; 50mm posterior endomyometrium. The cervix measures 30x25mm with a split-like os, 10mm. The left fallopian tube measures 50mm in length x 6mm in maximum diameter. The left ovary measures 20x15x10mm. Left ovary and fallopian tube together weigh 6g. The attached piece of fibrofatty tissue posteriorly is consistent with pouch of douglas, it is up to 30mm wide. Attached to the fibrofatty piece of tissue consistent with peritoneum are multiple cysts filled with clear serous fluid, they range from 12-22mm. The uterine serosa is roughened and bulged in some areas. The ectocervix is dusky in appearance and mildly excoriated. Within the uterine cavity is a tumour mass with a tan cut surface. It measures 70mm superior to inferior. It occupies 14 of 15mm of the anterior endomyometrium, 45 of 50mm of the posterior endomyometrium, and is less than 1mm from the fundal serosal surface. On sectioning through the pouch of douglas, it is involved by tumour.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornu; 4 left cornu; 5 anterior cervix; 6 posterior cervix; 7 anterior lower uterine segment; 8 posterior lower uterine segment; 9&amp;amp;10 anterior endomyometrium; 11-18 posterior endomyometrium [11&amp;amp;12 composite slice; 13&amp;amp;14 composite slice; 15&amp;amp;16 composite slice; 17&amp;amp;18 composite slice]; 19 nodule noted on the anterior serosa includes anterior endomyometrium; 20 tumour in relation to fundus; 21-23 tumour involving pouch of douglas and cyst; 24 further section of anterior and posterior cervix).
+
+Left ovary and left fallopian tube. The serosal surfaces are unremarkable. On sectioning through the left ovary, it has a firm, normal appearing cut surface.
+
+(25 left fallopian tube [longitudinal of the fimbrial end and transverse section of medial, mid and lateral aspect of the fallopian tube; 26 left ovary).
+
+The separate piece of fatty tissue floating in formalin, measuring 20x10x5mm. There is a firm area ?tumour involvement.
+
+(27 separate piece of fatty tissue floating in formalin). RS (M-27)
+
+C. &amp;quot;POUCH OF DOUGLAS, PERITONEUM&amp;quot;. Consists of two pieces of fibrofatty tissue, in aggregate 30x25x10mm. Within both pieces are two nodules, measuring 6&amp;amp;10mm, respectively. On sectioning, the cut surfaces are pale, white in appearance. AE (M-2)
+
+D. &amp;quot;APPENDICEAL EPIPLOICAE&amp;quot;. Consists of a nodule of fatty tissue, it measures 10x10x8mm. On sectioning, the cut surface reveals a pale, firm cut surface. AE (2-1)
+
+E. &amp;quot;EXTERNAL ILIAC NODE&amp;quot;. Consists of a nodal tissue with attached ?nodal fat, all together 25x25x5mm. The node by itself is 20mm, bisected. AE (2-2)
+
+F. &amp;quot;SMALL BOWEL SEROSA&amp;quot;. Consists of a fibrous piece of tissue, 5mm in maximum dimension. AE (1-1)
+
+G. &amp;quot;OMENTUM BX SUTURE AT TUMOUR NODULE&amp;quot;. Consists of a piece of fatty tissue consistent with omentum and a suture as described. It measures 160x90x15mm. At the suture site is a tumour nodule, measuring 15x8x5mm. It has a pale, white appearance. No other nodules are identified.
+
+(1 tumour nodule, bisected; 2 further sections of omentum). RS (M-2/MC/ 7/10/2067 cy)
+
+MICROSCOPIC:  (Dr. U Harkrader)
+A. Sections of the right fallopian tube show florid active chronic inflammation.
+Sections of the ovary show an infiltrating moderate to poorly-differentiated adenocarcinoma with foci of necrosis favouring high grade endometrioid adenocarcinoma. The tumour is partly cystic. There is focal mucinous differentiation. Focal lymphovascular invasion is identified.
+Immunohistochemistry stains show positive staining for cytokeratin 7, Oestrogen and Progesterone receptors, Pax-8, p16.  Occasional cells are positive for p53
+Negative;   WT1, CDX2
+B. Sections from the right parametrial tissue show involvement by poorly-differentiated adenocarcinoma. The left parametrial tissue shows no evidence of tumour involvement. Serosal surface at the right cornu also shows involvement by carcinoma.
+The cervix shows florid active chronic inflammation. The ectocervix is superficially eroded.
+Sections of the endometrial cavity show an infiltrating high-grade adenocarcinoma favouring endometrioid adenocarcinoma. Occasional squamous morules and focal squamous differentiation are noted. Focally, there is a small focus approximately 5mm showing features resembling papillary serous carcinoma.  The tumour involves outer half of the myometrium and at the fundus, there is involvement of the full thickness of the myometrium.  Myometrial thickness 15mm.  There is extensive lymphatic permeation. There is tumour deposition on the uterine serosal surface.
+The pouch of douglas also shows tumour deposition. In addition, foci of endometriosis and adenomyosis are identified. There is no involvement of the uterine cervix.
+The left fallopian tube shows florid active chronic inflammation. The left ovary shows serosal adhesion.
+The separate piece of fibroadipose tissue shows a focus of tumour deposit.
+Immunohistochemistry stains show positive staining of the tumour cells for Oestrogen and progesterone receptors.  Occasional cells are positive for p53.
+Negative: WT1
+Comment:   Histology shows changes favouring high grade endometrioid adenocarcinoma.  Small focus showing changes resembling serous carcinoma although this is &amp;lt;10% of the bulk of the tumour and immunohistochemistry profile is not diagnostic of serous carcinoma.
+
+C. Sections show fibroadipose tissue in which there are foci of metastatic adenocarcinoma noted. Focally, there is psammomatous calcification. The tumour forms cribriform glands and there are foci showing squamous differentiation.
+
+D. Sections show fibroadipose tissue in which there is infiltrating adenocarcinoma.
+
+E. No evidence of malignancy is seen in one lymph node.
+
+F. Sections show strips of small bowel serosa in which there is reactive mesothelial proliferation and patchy lymphocytic infiltrate. No evidence of malignancy.
+
+G. Sections show fibroadipose tissue in which there is chronic inflammation and depositions of adenocarcinoma.
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  3
+
+(architecture grade:3  , nuclear grade: 3 )
+
+Myometrial invasion:
+
+Depth of myometrial invasion:   15mm
+
+Myometrial thickness:  15 mm
+
+% of myometrium invaded:  100 %
+
+Focality:  unifocal
+
+Tumour involves:  uterine body, fundus, serosa, right parametrium and pouch of Douglas
+
+Vascular/lymphatic invasion:  present and extensive
+
+Involvement of cervix:  Not seen
+
+Involvement of uterine serosa:  present
+
+
+Non-tumour uterus:
+Adjacent endometrium:  Not seen, the entire cavity is involved by carcinoma
+Polyps:  not seen
+Adenomyosis:  focally present
+
+Adnexae:
+Left fallopian tube:  Active chronic inflammation
+Right fallopian tube:  Active chronic inflammation
+Left ovary:  Not involved
+Right ovary:  Involved by adenocarcinoma
+
+Lymph nodes:
+Nodes involved:  0
+Total number:  1
+
+Other tissues:  Peritoneum, omentum, appendix epiploicae
+
+Comment:  There is involvement of right parametrial tissue, uterine serosa, pouch of Douglas and assessment of excision margins is difficult.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage:  pT4, pN0, pM1
+
+FIGO stage: IVB
+
+DIAGNOSIS:
+A. RIGHT OVARY AND TUBE
+- ENDOMETRIOID ADENOCARCINOMA INVOLVING RIGHT OVARY.
+- FALLOPIAN TUBE WITH ACTIVE CHRONIC INFLAMMATION.
+B. UTERUS, LEFT OVARY AND TUBE, PERITONEUM + POUCH OF DOUGLAS
+- ENDOMETRIOID ADENOCARCINOMA INVOLVING UTERUS, PERITONEUM AND POUCH OF DOUGLAS.
+C. POUCH OF DOUGLAS, PERITONEUM
+- ADENOCARCINOMA.
+D. APPENDICEAL EPIPLOICAE
+- ADENOCARCINOMA.
+E. EXTERNAL ILIAC NODE
+- NO EVIDENCE OF MALIGNANCY IN 1 NODE.
+F. SMALL BOWEL SEROSA
+- NO EVIDENCE OF MALIGNANCY.
+G. OMENTUM
+- ADENOCARCINOMA.
+7/11/2067 cy

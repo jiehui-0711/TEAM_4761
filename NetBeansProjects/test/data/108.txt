@@ -1,0 +1,64 @@
+
+Episode No:  84J494729W
+8434947.FYW
+
+LUGO, MARCUS DONTE 
+Lab No:  84J49472
+Arkell
+RASMUSSEN  Tasmania  5118
+Specimen: Tissue
+D.O.B:  24/4/1981
+Sex:  M
+Collected:Unknown at :
+Location:  ST VINCENT'S PATHOLOGY-EDENHOPE AND DISTRICT MEMORIAL HOSPITAL
+DR TAD HERMAN KONICKI
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Hepatic flexure adenocarcinoma.  Right hemicolectomy performed.  AF, DM (diet).  
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a right hemicolectomy comprising of a segment of terminal ileummeasuring 30mm in length, 30mm in open circumference at the proximal resection margin in continuity with caecum and ascending colon measuring 175mm in length with an open circumference of 60mm at the caecum and 60mm at the distal resection margin.  Situated approximately 30mm from the distal resection margin there is a fungating tumour measuring 40 x 35mm.  The tumour occupies approximately two-thirds of the bowel open circumference.  The cut surface of the tumour shows full thickness bowel wall involvement but there is no macroscopic evidence of extension into the pericolic fat.  Several sessile mucosal polyps are identified measuring from 3 to 7mm across.  The appendix is not identified.  Representative sections in 17 blocks.  
+Blocks:  1 - proximal resection margin; 2 - distal resection margin; 3 to 8 - tumour (block 7 -research block); 9 - four sessile polyps; 10 - three sessile polyps; 11 - apical lymph node; 12 & 13 - four lymph nodes in each; 14 - one lymph node; 15 to 17 - four possible lymph nodes in each.  (TO: PP; RO/mm 24.12.62) 
+MICROSCOPIC (reported by Dr V Griffie):
+Macroscopic Description
+
+Site of tumour:	
+Maximum tumour diameter:  40mm
+Distance of tumour to nearer cut end:  30mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3 - Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  >10mm
+Lymph nodes
+Number of lymph nodes present:  22	
+Number of lymph nodes involved:  4; apical node not involved	
+pN2 - Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present - Mural
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX - Cannot be assessed histologically
+Background abnormalities/other comments
+2 tubular adenomas with low grade dysplasia 
+5 hyperplastic polyps
+Residual tumour status
+R0 - No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1 - Preserved nuclear staining
+PMS2 - Preserved nuclear staining
+MSH2 - Preserved nuclear staining
+MSH6 - Preserved nuclear staining
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihoodof microsatellite instability phenotype.
+
+DIAGNOSIS:
+Right hemicolectomy:   Moderately differentiated adenocarcinoma with lymph node metastases (4/22).  pT3 pN2 pMX R0
+

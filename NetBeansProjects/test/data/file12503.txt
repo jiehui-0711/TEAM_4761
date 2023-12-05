@@ -1,0 +1,78 @@
+SPR no: 08H996839P
+MRN no: 0829968
+Site_name: YORK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple procedure for uncinate/head of pancreas tumour.  Single stitch portal vein margin. Double stitch SMA margin.  Tripple stitch uncinate process margin.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;#8220;Whipple&amp;apos;s&amp;#8220;, consists of a specimen of distal stomach (30mm long), proximal small bowel (220mm long), part of pancreas (65 x 50 x up to 40mm) and attached peripancreatic and perigastric fatty tissue (patchy and up to 30mm across).  The gallbladder is received separately and is 140mm long and up to 150mm in circumference.  The marking stitches are identified on the pancreas.  The pancreatic margins and surfaces are inked as follows: anterior green, neck and portal vein blue, SMA red, uncinate green and posterior black.  No mucosal lesions are seen in the stomach or small bowel.  On slicing the pancreas there is a relatively well defined indurated tumour 35 x 30 x 30mm.  The tumour is 3mm from neck, 18mm from anterior surface, 4mm from SMA, 1mm from portal vein, 20mm from posterior and well clear of bile duct, gastric and distal small bowel margins.  The external surface of the gallbladder is smooth. The mucosa is green and granular. The wall of the gallbladder is 1 to 2mm thick.  No gallstones are received.
+Block 1- shave pancreatic neck margin; 2- shave bile duct margin; 3 - TS just distal to the section in block 2; 4 - shave small bowel margin; 5 - shave gastric margin; 6-12 - entire pancreas from superior to inferior (7 &amp;amp; 8 - paired with 7 being anterior; 9 &amp;amp; 10 - paired with 9 being anterior); 13 &amp;amp; 14 - remainder of the uncinate margin, LS; 15 - remainder of the lymph node in block 6; 16 - ? peripancreatic lymph nodes as seen; 17 - one peripancreatic lymph node  bisected; 18 - one bisected lymph node perigastric; 19 - one perigastric lymph node; 20 - TS cystic duct and TS neck; 21 - TS body; 22 - LS fundus.
+
+B.  Specimen labelled &amp;#8220;Common hepatic node&amp;#8220;, consists of one lymph node 20 x 12 x 7mm. TAE 1 block.
+
+C.  Specimen labelled &amp;#8220;Peripancreatic tissue&amp;#8221; consists of a nodular piece of tan and yellow solid tissue possibly lymph node 17 x 10 x 8mm.  The external surface is inked blue.  BAE 1 block.
+(HM/rt 3.8.66)
+MICROSCOPIC (Reported by Dr A Abdulmateen):
+A - C.  Sections show moderately differentiated adenocarcinoma of the head of the pancreas.  The tumour is situated mainly within pancreatic parenchyma however, a separate 4mm focus of adenocarcinoma is present within peripancreatic adipose tissue near the posterior surface.  The features are as follows:
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Head of pancreas
+
+Extent of tumour invasion
+Peripancreatic soft tissues
+
+Maximum tumour diameter
+22mm within pancreatic parenchyma
+Separate 4mm focus in peripancreatic adipose tissue
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Present
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Present
+
+Margins:
+Pancreatic neck:  Well clear
+Common bile duct:  Well clear
+Portal vein (superior mesenteric vein):  6mm
+Superior mesenteric artery:  Well clear
+Periuncinate soft tissue:  Well clear
+
+Surfaces:
+Anterior:  Well clear
+Posterior:  0.1mm (separate foci of carcinoma)
+
+Lymph nodes:
+Number found:  21 (20 in specimen A and 1 in specimen B)
+Number involved:  2 (both in specimen A)
+
+Other pathologies:
+- Chronic pancreatitis
+- Gallbladder shows no specific abnormality
+- Specimen C shows adipose tissue only
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+Primary tumour category (pT)
+T3 Tumour extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery
+
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+
+Distant metastasis category (pM)
+MX Not assessable by histology

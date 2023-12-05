@@ -1,0 +1,136 @@
+SPR no: 75U898804Z
+MRN no: 020652
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report75U89880 (75U898804Z) Berkich, Frederick
+HISTOPATHOLOGY REPORT
+ROYAL REHABILITATION HOSPITAL - COORABEL/MOORONG AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Right axillary sentinel node frozen section.
+1. Right breast cancer.
+2. Retroareolar biopsies.
+3. Further axillary lesion.
+Long-lateral, medium-medial, short-superior, loop nipple.
+
+MACROSCOPIC:
+A.  &amp;quot;RIGHT SENTINEL NODE BIOPSY&amp;quot;.  A piece of fatty tissue 25mm diameter.  Two pale nodes 15 and 4mm.
+
+F.S : &amp;quot;Negative&amp;quot;. Reported to Dr. Jonas by Dr. S. Bordenet at 2.10pm on 23.01.70.
+
+(1 FS larger node; 2 remainder paraffin; 3 smaller node not frozen).  AE (M-3)
+
+B.  Specimen labelled &amp;quot;RIGHT BREAST CANCER&amp;quot;
+&amp;quot;Short - superior, Medium - medial, Long - lateral, loop - nilpple.&amp;quot;
+SPECIMEN SIDE: Right
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  Yes.  There is a calcification located at L6
+HOOKWIRE:  Yes. Split hookwire located J8, areas marked yellow.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  70mm
+Superior to inferior:  40mm
+Anterior to posterior:  60mm
+WEIGHT:  61.2g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green (nipple side with the loop suture inked blue as anterior).  Area of loop suture (nipple) inked brown.
+DISSECTION: Cut from medial to lateral
+Number of slices: 10
+FINDINGS / LESION:  Split hookwire located at slice 5, possible calcification slice 7, loop suture located in slice 5.  Sectioning shows fairly ill defined lobulated, haemorrhagic lesion located in slices 3-7 measuring approximately 25mm medial to lateral, 25mm anterior to posterior, 20mm superior to inferior, about 3mm from anterior margin, 2mm from superior margin, 5mm from nipple and more than 10mm from the rest of margins.   This sits within a larger zone of possible fibrosis present in slices 1 to 7.
+(1 two LS from slice 1 medial margin; 2&amp;amp;3 slice 2; 4 corner of slice 4; 5-8 slice 5; 9-12 slice 7; 13-16 slice 9; 17&amp;amp;18 two LS from slice 10 lateral margin).  RS (M-18)
+Further blocks: (19 slice 6 corner; 20-23 slice 8; 24-30 serial LS slice 10 lateral margin [lateral margin embedded entirely]) M-30 RS
+C.  &amp;quot;RETROAREOLAR BIOPSY&amp;quot;.  Consists of fibrofatty tissue 10x5x5mm.  AE (1-1)
+D.  &amp;quot;RIGHT AXILLARY TISSUE&amp;quot;.  Unorientated fibrofatty tissue weighing 2.5g and measuring 30x20x10mm.  Outer surface inked blue, serially sliced.  One definite lymph node 7mm identified.
+(1 one lymph node; 2 ? lymph node; 3 rest of tissue ? lymph node).  AE (M-3/SM 22/2/2070 ank)
+MICROSCOPIC:  (Dr. S. Yorkman)
+A-D. &amp;#160;INVASIVE BREAST CANCER SYNOPTIC REPORT
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Multifocal (2 foci separated by &amp;gt;5mm)
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;Larger focus is 50mm, present in slices 1-7.  Smaller focus is 2.5mm, present in slice 9.
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Multifocal invasive carcinoma with neuroendocrine features.
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules: 3, Nuclei: 2, Mitoses: 1;  5 mitoses / 10 hpfs
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  63mm (calculated from number of involved slices)
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identified
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: No skin present.
+
+NIPPLE INVOLVEMENT: Retroareolar tissue is involved by a 7mm focus of invasive carcinoma which is present at the diathermy margin (C1).
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS):
+There is a small amount of low grade cribriforming DCIS present within the tumour, best appreciated with immunohistochemistry slides CK5/6 and p63 in block B4.  It is limited to the tumour.
+
+LOBULAR CARCINOMA IN SITU (LCIS): Absent&amp;#160;
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Involves the anteromedial margin over a 2mm front (B1)
+Involves the superior margin over a 2mm front (B2)
+Involves the anterior margin over a 2.5mm front (B3, B4).
+It is 6mm clear of the posterior margin (B6), 4mm clear of the inferior margin (B15) and &amp;gt;10 clear of the lateral margin.
+
+DCIS MARGINS:  As for invasive tumour.
+&amp;#160;
+ANCILLARY TESTS: block B3
+ER: &amp;#160;Positive (strong staining in 100% of cells)
+PgR:  Positive (strong staining in 100% of cells) &amp;#160;
+HER2: &amp;#160;0
+Ki67:  15%
+
+The tumour shows positive staining for neuroendocrine markers synaptophysin and chromogranin, with negative staining for CD56. There is absence of myoepithelial markers CK5/6 and p63 around the tumour nests.
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS: There is a benign intraductal papilloma adjacent to the tumour.
+The retroareolar tissue received in specimen C is involved by invasive carcinoma, which is present at the diathermy margins.
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES (Specimen A): 1/2
+AXILLARY LYMPH NODES (Specimen D): 0/1
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 1 (sentinel lymph node, A3)
+Total number of nodes examined: 3
+
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT(m)2 pN0(i+)
+
+
+DIAGNOSIS:
+A-D. RIGHT BREAST WIDE LOCAL EXCISION, RETROAREOLAR BIOPSY, SENTINEL LYMPH NODE AND AXILLARY TISSUE:
+- Grade 2 multifocal invasive carcinoma with neuroendocrine features
+- Involves the anteromedial, anterior and superior margins
+- Involves the separate retroareolar tissue
+- Isolated tumour cells present in 1 sentinel lymph node (1/2)
+HER-2 IN-SITU HYBRIDISATION
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+HER2 Dual ISH result:          NEGATIVE
+
+Mean HER2 copy number per cell:   1.8
+Mean CEP17 copy number per cell: 1.3
+HER2/CEP17 Ratio: 1.38
+
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt;2.0, Average HER2 &amp;gt; 6.0
+Positive: HER2/CEP17 &amp;gt; 2.0
+
+Reported by: Dr. S. Godzik
+Date: 26.2.70

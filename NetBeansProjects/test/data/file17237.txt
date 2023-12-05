@@ -1,0 +1,18 @@
+SPR no: 20A769047B
+MRN no: 20076904
+Site_name: BEVERLEY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Sarcoma within right gluteus max mm.  Long lateral, short superior, medium medial.
+Additional information:  Right buttock mass biopsy (Hereditary Pathology - laboratory number 200769047) - Alveolar soft part sarcoma confirmed with TFE3 immunohistochemistry.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Right buttock sarcoma short superior, long lateral, medium medial&amp;#8220;, consists of a roughly elliptical soft tissue mass with attached overlying skin containing a defect. The specimen measures 145mm medial to lateral x 80mm superior to inferior x 95mm superficial to deep. The skin measures 150mm medial to lateral x 50mm superior to inferior with a defect running from superolateral to medioinferiorly across a length of 75mm.  Orientating sutures are identified and superior surface inked blue, inferior surface inked black and defect through skin inked green.  On sectioning within the centre of the specimen is a well circumscribed, fleshy tumour within skeletal muscle measuring 50mm medial to lateral x 45mm superficial to deep x 40mm superior to inferior. The tumour is macroscopically adjacent to the superior margin, 10mm from the inferior margin, 30mm from the superficial skin margin, 25mm from the deep margin, 45mm from the medial margin, 50mm from the lateral margin.  Specimen serially sliced from medial to lateral TS into nine slices .The tumour is present in slices 4-7.  Blocks 1-3 - superior margin; 4 &amp;amp; 5 - deep margin; 6 &amp;amp; 7 - inferior margin; 8 &amp;amp; 9  - superficial margin adjacent to skin cleft/false margin; 10 &amp;amp; 11- LS lateral margin; 12 &amp;amp; 13 - LS medial margin; 14 - RS skin overlying tumour from slice 4; 15 - RS tumour; 16 - RS tumour for reserve block for tumour banking.  Please refer to attached block key diagram.  (MS/ec  27.1.66)
+
+
+MICROSCOPIC (Reported by Dr G Ivancic &amp;amp; registrar Dr G Dellis):
+Sections show a well circumscribed tumour situated within skeletal muscle. The tumour cells are epithelioid in appearance with abundant granular cytoplasm, vesicular nuclei and an occasional small nucleoli. The tumour cells are separated by fibrous bands and focally arranged in a discohesive nested alveolar pattern.  Focal areas of necrosis are present.  Foci of lymphovascular invasion are seen at the advancing edge of the tumour.  The appearances are consistent with the previously diagnosed alveolar soft part sarcoma. The tumour appears completely excised with the closest margin 1mm clear (superior).  The superficial margin is 8mm clear, the deep and inferior margins are 10mm clear and other margins are well clear of tumour.  The overlying skin shows no significant abnormality.
+DIAGNOSIS:
+Right buttock:  Alveolar soft part sarcoma, excision appears complete.

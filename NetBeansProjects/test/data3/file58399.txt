@@ -1,0 +1,144 @@
+SPR no: 42F981321D
+MRN no: 42298132
+Site_name: IVANHOE HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple&amp;apos;s + right hemi-hepatectomy.  Cystic duct positive gallbladder cancer (Liverpool).  Incidental distal CBD mass (frozen section adenocarcinoma).  Specimen opened over tumour and inclusion biopsy (for research).  Markings:  1 suture SMV, 3 sutures uncinate.
+Additional information:  Previous pathology (42F98132) - Adenocarcinoma of the gallbladder.
+
+Request information sheet received:  No
+Radiology reports received:  No
+
+
+MACROSCOPIC:
+Specimen labelled:
+Whipple&amp;apos;s and liver specimen.
+
+Specimen Type:
+Pancreaticoduodenectomy (Whipple&amp;apos;s resection), partial pancreatectomy in addition to right hemi-hepatectomy.
+
+Specimen dimensions:
+Length of duodenum:  280mm
+Length of stomach:  65mm
+Length of bile duct:  45mm (common bile duct/common hepatic bile duct)
+Maximum diameter of bile duct: 15mm
+Size of pancreas:  65 x 40 x 35mm
+Omentum:  240 x 130 x 30mm in aggregate
+Hemi-hepatectomy:  145 x 145 x 85mm with gallbladder bed 50 x 40mm
+
+Orientation:
+Superior mesenteric artery:  One suture
+Uncinate process:  Three sutures
+Left hepatic duct margin:  One suture
+
+Tumour location:
+In the extra-pancreatic bile duct.
+
+Tumour:
+Description:  Density surrounding common hepatic bile duct associated with fibrotic tissue and staples from previous surgery.
+Tumour Size:  Cannot be established macroscopically.
+
+Distance of tumour to margins:
+Pancreatic neck:  15mm
+Common bile duct:  Not macroscopically establised
+Portal vein bed:  5mm
+Superior mesenteric artery:  Abutting
+Proximal intestinal/gastric:  Well clear
+Peri Uncinate soft tissue:  Well clear
+Distal intestinal margin:  Well clear
+
+Distance of tumour to surfaces:
+Anterior:  18mm
+Posterior:  Abutting.
+Please note prior surgical incision noted in the superoposterior aspect of the tumour.
+
+Specimen inked:
+Anterior:  Yellow
+Posterior:  Black
+Portal vein:  Blue
+Superior mesenteric artery:  Red
+Uncinate process:  Green
+Bile duct:  Purple
+Gallbladder bed;  Red
+Hepatic parenchyma margins:  Green
+
+Blocks:
+1 to 4 - RS through omentum; 5 - proximal and distal gastric/intestinal margin;  6 - pancreatic neck shave; 7 - shave of left hepatic duct; 8 to 12 - sequential sections of extra-pancreatic ducts embedded from liver to pancreas; 13 to 18 - sequential sections through gallbladder hepatic bed with adjacent ducts and parenchymal margins; 19 - incidental 8mm subcapsular nodule bisected; 20 - liver away from lesion; 21 to 30 - horizontal sections of pancreas sequentially embedded from superior to inferior; 31 and 32 - inferior slice of pancreas.  All of pancreas embedded.  See blocking diagram.  (TO:AP/hh 5/11/71)
+
+
+MICROSCOPIC (Reported by Dr L Alsdon):
+Sections show moderate to poorly differentiated adenocarcinoma, assumed arising from the previously reported adenocarcinoma of the gallbladder (42F98132).  Tumour surrounds and colonises the extrapancreatic bile ducts and extends for a short distance within the intrapancreatic common bile duct.  There is extensive involvement of extrapancreatic peribiliary soft tissue with widespread perineural invasion.  Focal lymphovascular invasion is also seen.  No definite invasion of pancreatic parenchyma is seen however, focally tumour invades muscularis propria of the duodenum.  Residual gallbladder adenocarcinoma is also seen within the gallbladder bed which focally extends into liver parenchyma.  Tumour measures approximately 35mm across.  Tumour focally involves the superior mesenteric artery margin.  The hepatic parenchymal margin is 0.4mm clear of tumour.  The left hepatic duct margin as well as other margins are clear of tumour.  Seven (7) of the sixteen (16) lymph nodes identified contain metastatic adenocarcinoma.  An incidental sclerosed bile duct adenoma is present within the liver.  As the tumour is considered to be arising from the gallbladder, the tumour will be staged according to gallbladder criteria.  The overall features are as follows:
+
+Histological tumour type
+Adenocarcinoma
+
+Histological grade
+Grade 2:  Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Gallbladder (see previous pathology 42F98132)
+
+Extent of tumour invasion
+Duodenal wall
+Bile ducts
+Extra-pancreatic peribiliary soft tissue
+Liver
+
+Maximum tumour diameter
+35mm
+
+Lymphovascular invasion
+Present
+
+Type of vessel
+Small vessel
+
+Perineural invasion
+Present
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Not identified
+
+Margins:
+Pancreatic neck:  Well clear
+Left hepatic duct:  Clear
+Portal vein (superior mesenteric vein):  0.6mm
+Superior mesenteric artery:  Positive
+Periuncinate soft tissue:  Well clear
+Hepatic parenchymal:  0.4mm
+
+Surfaces:
+Anterior:  Well clear
+Posterior:  0.3mm
+
+Lymph nodes:
+Number found:  16
+Number involved:  7
+
+Immunoperoxidase stains for MSI proteins (Block 8)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+PATHOLOGICAL STAGING (AJCC 8th Ed.)
+
+GALLBLADDER (previously resected)
+
+Primary tumour category (pT)
+T3	Tumour perforates the serosa (visceral peritoneum) and/or directly invades the liver and/or 	one adjacent organ or structure, such as the stomach, duodenum, colon, pancreas, 			omentum, or extrahepatic bile ducts
+
+Regional lymph node category (pN)
+N2	Metastasis to four or more regional lymph nodes
+
+Distant metastasis category (pM)
+MX	Not assessable by histology

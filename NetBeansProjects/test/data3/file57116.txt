@@ -1,0 +1,164 @@
+SPR no: 99D2465034
+MRN no: 991246
+Site_name: GNOWANGERUP HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report99D24650,99D24650 (99D2465034) PARANADA, CESAR
+HISTOPATHOLOGY REPORT
+SCOTT MEMORIAL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+AdenoCa uterus + ovary.
+1. Peritoneal Washings for Cytol.
+Histol:
+2. Uterus R tubes + ovaries + peritoneum.
+3. L ovary and tube.
+4. L pelvic node.
+5. R external iliac node.
+6. R common iliac node.
+7. R pre-sacral node.
+8. Omentum.
+9. L para-aortic node.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS WITH RIGHT OVARY AND TUBE PERITONEUM&amp;quot;. Consists of uterus with attached cervix, right ovary and fallopian tube, all together it weighs 153g. It measures 100mm superior to inferior, 30mm intracornual distance; ectocervix measures 50x35mm with a slit-like os 15mm. The ectocervix is cream coloured and bulging in appearance. Anterior is inked blue, posterior - black. Anterior endomyometrium measures 15mm thick and the posterior endomyometrium is 20mm thick and appears diffusely infiltrated and firm. The endometrium is friable an approximately and upto 3mm thick. Attached on the posterior myometrium serosa is a lesion with a friable appearance which is up to 7mm in thickness. This extends towards the lower uterine segment consistent with tumour deposits. Please also note that anteriorly there is peritoneum up to 40mm wide and posteriorly up to 18mm wide.
+
+(1 right parametrial tissue; 2 left parametrial tissue; 3 right cornual; 4 left cornual; 5-14 one full face surgical slice including polypoid area within endometrium [5 anterior cervix; 6 anterior lower uterine segment; 7 and 8 anterior endomyometrium; 9 and 10 posterior endomyometrium; 11 and 12 composite slices, posterior lower uterine segment with 12 being superficial; 13 and 14 posterior cervix, composite slice [please see diagram for block orientation]; 15 and 16 further sections of posterior lower uterine segment showing tumour; 17 and 18 further sections of posterior endomyometrium; 19 nodular area on posterior serosa; 20 nodular area on attached anterior peritoneum).
+
+The ovary with attached fallopian tube together weighs 6g. Fallopian tube is 50mm in length with a maximum diameter of 6mm. There are paratubal nodules noted ranging from less than 1-2mm. The ovary measures 25x15x5mm. The serosa is unremarkable. On sectioning through the ovary it has a firm normal appearing cut surface.
+
+(21 right fallopian tube; 22 representative section of right ovary). RS (M-22)
+
+B. &amp;quot;LEFT OVARY AND TUBE&amp;quot;. Consists of a mass, weighing 597g, and measuring 135x130x80mm. The mass has focal pale glistening area on the surface but 90% of which is replaced by a friable papillary-like lesion. There is a tubular structure running along the surface ?fallopian tube. It measures 45mm in length with a maximum diameter of 5mm. The presumed fimbrial end is obliterated by tumour. The entire ovarian parenchyma is replaced by friable tumour. No normal tissue is identified. Representative sections taken.
+
+(1 and 2 transverse section through tubular structure; 3 longitudinal section through tubular structure; 4 and 5 section showing most surface of mass; 6 and 7 section showing tumour on surface of mass). RS (M-7)
+
+C. &amp;quot;OMENTUM&amp;quot;. Consists of omental tissue. It measures 390x170x15mm. No suspicious areas are identified on palpation or sectioning. Representative sections taken. RS (M-3)
+
+D. &amp;quot;RIGHT PRE-SACRAL NODE&amp;quot;. Consists of nodal tissue. It measures 25x15x15mm. On sectioning, it shows tumour with a pale white appearance. Half of the nodule is embedded. RS (1-1)
+
+E. &amp;quot;LEFT PELVIC NODE&amp;quot;. Consists of nodal tissue, 25x15x10mm, bisected. On sectioning, the cut surface shows tumour with a pale white appearance. Half of node embedded. RS (1-1)
+
+F. &amp;quot;RIGHT EXTERNAL ILIAC NODE&amp;quot;. Consists of nodal tissue with attached fat. All together 25x20x5mm. The lymph node by itself is 15mm in maximum dimension, bisected. On sectioning, it shows a node with a pale white appearance. AE (2-1)
+
+G. &amp;quot;RIGHT COMMON ILIAC NODE&amp;quot;. Consists of a piece of fatty tissue, 25x20x8mm, bisected. No obvious nodal tissue is identified. AE (M-1)
+
+H. &amp;quot;LEFT PARA-AORTIC NODE&amp;quot;. Consists of nodal tissue, measuring 45x20x15mm. On sectioning, it shows node involved by tumour. Half of node embedded. RS (2-2/MC 24/2/2072 cy)
+
+MICROSCOPIC: (Dr Z Har)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+
+PROCEDURE: Total abdominal hysterectomy and bilateral salpingo-oophorectomy
+
+TUMOR SITE: Endomterium
+
+TUMOR SIZE:  100mm greatest dimension
+
+HISTOLOGIC TYPE: Serous carcinoma
+
+HISTOLOGIC GRADE: 3
+
+MYOMETRIAL INVASION: Present
+Depth of invasion:  20mm
+Myometrial thickness:  20mm
+Percentage depth of myometrial invasion:  100%
+
+UTERINE SEROSA INVOLVEMENT: Present
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Present
+
+CERVICAL STROMAL INVOLVEMENT: Present
+
+OTHER TISSUE/ORGAN INVOLVEMENT: The left ovary is completely replaced by serous carcinoma with identical morphology and presumed to be a metastatic process rather than a synchronous primary, with local lymphovascular invasion. No tubal in-situ disease is present within the sections of left tube taken, although the left fimbria could not be identified as was obliterated by tumour.  Small metastatic deposits are also seen within the omentum.
+
+MARGINS:
+- Paracervical margin:  posterior cervical stromal margin Involved posteriorly (block 14)
+- Parametrial margin:   focally involved
+
+LYMPHOVASCULAR INVASION:
+Present, substantial (&amp;gt; 5 vascular spaces) in uterus, cervix, left ovary
+
+REGIONAL LYMPH NODES:
+Site: Right presacral, left pelvic, right external iliac, right common iliac and left para-aortic nodes are all replaced by metastatic serous carcinoma
+Number of lymph nodes involved: 5
+Number of lymph nodes examined: 5
+
+Extra-nodal spread: Focally present, upto 1mm beyond the lymph node capsule.
+
+DISTANT METASTASES (histologically confirmed): There are small multifocal 1-2mm deposits of carcinoma within the omentum (Specimen C)
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Non tumour endometrium: Atrophic
+Adenomyosis: Not identified
+Left fallopian tube: Presumed involved (fimbrial end obliterated)
+Right fallopian tube: Not involved
+Left ovary: Replaced by metastatic serous carcinoma
+Right ovary: Not involved
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains.
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): IV B (intra-abdominal metastases)
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT3b, pN2a, pM1
+
+Comment:
+The  carcinoma within the endometrium and the left ovary have the same immunophenotype:
+WT1 positive, p16 positive (strong diffuse), p53 completely negative (ie mutated pattern), ER positive (80% 2+) which is consistent with serous carcinoma. Ki67 is approximately 40%
+
+DIAGNOSIS:
+A.  UTERUS, RIGHT OVARY AND TUBE, PERITONEUM -
+- HIGH GRADE SEROUS CARCINOMA OF ENDOMETRIUM WITH INVASION OF
+MYOMETRIUM &amp;amp; CERVIX
+- POSITIVE  POSTERIOR CERVICAL STROMAL SOFT TISSUE MARGIN.
+- SEROSAL DEPOSITS.
+- WIDESPREAD LYMPHOVASCULAR INVASION.
+B.  LEFT OVARY AND TUBE -
+-HIGH GRADE SEROUS CARCINOMA.
+C.  OMENTUM -
+-METASTATIC SEROUS CARCINOMA.
+D.  RIGHT PRESACRAL NODE -
+-METASTATIC CARCINOMA IN 1 NODE.
+E.  LEFT PELVIC NODE -
+-METASTATIC CARCINOMA IN 1 NODE WITH FOCAL EXTRA-NODAL EXTENSION.
+F.  RIGHT EXTERNAL ILIAC NODE -
+-METASTATIC CARCINOMA IN 1 NODE.
+G.  RIGHT COMMON ILIAC NODE -
+-METASTATIC CARCINOMA IN 1 NODE.
+H.  LEFT PARA-AORTIC NODE -
+-METASTATIC CARCINOMA IN 1 NODE.
+23/2/2071 ank
+SUPPLEMENTARY REPORT:
+HER-2 IN-SITU HYBRIDISATION (requested by A/Prof HANS Abe Kathan, INNISFAIL)
+
+
+HER2 IHC Result: 2+
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+Mean HER2 copy number per cell: 1.8
+Mean CEP17 copy number per cell: 1.7
+HER2/CEP17 Ratio: 1.06
+
+HER2 status:          NEGATIVE
+
+SCORING CRITERIA:
+Updated in line with ASCO/CAP breast cancer reporting recommendations 2018, see JCO 2018 36: 2105-2122.
+
+Reported by: Dr Z Petti
+
+Date: 24.1.68

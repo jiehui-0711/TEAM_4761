@@ -1,0 +1,44 @@
+Episode No:  32Q998110L
+3269981.FCL
+
+Mcwhite, Wiradjuri 
+Lab No:  32Q99811
+Galland
+COBAR  South Australia  6415
+Specimen: Tissue
+D.O.B:  18/11/1996
+Sex:  M
+Collected: 08/04/2013 at 15:07
+Location:  DICKINSON 2 NORTH-HEYWOOD RURAL HEALTH
+DR LAURETTA ZANE Addington
+Distribution:   FILE-COPY
+CLINICAL:
+Prostate Ca.  Radical prostatectomy.  
+MACROSCOPIC:
+Specimen labelled "Prostate gland" consists of a prostate measuring 45mm (medial-lateral) x 30mm (anterior-posterior) x 50mm (superior-inferior) and weighing 45.5g.  The right vas deferens measures 15mm in length and the left vas deferens measures 15mm in length.  The right seminal vesicle measures 30 x 20 x 5mm and the left seminal vesicle measures 30 x 25 x 5mm.  The left half is inked blue, the right black with anterior green.  The prostate is transversely sectioned into four slices.  Slice 1 (apex) and slice 4 (base) are further parasagittally sectioned.  Specimen AE. Please refer to attached diagram.
+(ZW/cc 11/6/63)
+Blocks:  1 to 13 - slice 1 (apex) from right to left; 14 - slice 2; 15 - slice 3; 16 to 33 - slice 4 (base) (blocks 21 & 22, 23 & 24, 26 & 27, 28 & 29 - paired blocksof bisected sections with posterior first); 34 - right vas deferens; 35 to 42 - right seminal vesicle; 43 - left vas deferens; 44 to 48 - left seminal vesicle.  
+(TO: DK: ZQ/mm 11.6.63).
+MICROSCOPIC (reported by Dr K Rossetto):
+Histological type: Adenocarcinoma, NOS
+Tumour location:
+Dominant nodule: Right posterior apex to base
+	Non-dominant (>10mm): Not seen
+	Smaller nodules: Present, left apex, right and left anterior base
+Volume/Size (dominant nodule): 4.0ml (15mm x 18mm x 11mm x 0.0004) 
+Gleason score: 3+4=7
+Extraprostatic extension: Present, right posterior mid, Gleason 3 tumour with perineural spread, up to 0.2mm into fat over a 2.5mm front, 0.2mm clear of the margin (block 14).
+Surgical margins: Clear, nearest margin < 0.1mm,right apex, block 2
+Perineural invasion: Present (intra and extra prostatic)
+Seminal vesicles: Not involved
+Lymph nodes: N/A
+Lymphovascular invasion: Not seen
+High grade PIN: Present
+
+DIAGNOSIS:
+Radical prostatectomy : Adenocarcinoma, Gleason score 3+4=7
+Stage (AJCC/UICC TNM system, 7th edition)
+pT3a Extracapsular extension 
+pNX Regional lymph nodes not sampled. 
+MX Cannot be assessed histologically
+

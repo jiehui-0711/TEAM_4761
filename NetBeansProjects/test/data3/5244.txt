@@ -1,0 +1,33 @@
+Episode No:  73Z003048P
+7390030.LXP
+
+BREIT, BROOKS ART 
+Lab No:  73Z00304
+Belmont Place
+LEETON  QLD  4161
+Specimen: Tissue
+D.O.B:  16/11/2013
+Sex:  F
+Collected: 19/04/2066 at 15:42
+Location:  Douglass Hanly Moir Pathology - JUNEE MULTI PURPOSE SERVICE
+DR MIQUEL Williams Arnell
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+G1 EAC superficial invasion on subtotal hysterectomy done externally.
+MACROSCOPIC:
+A.Specimen labelled "Part of uterus, cervix" consists of a uterus with attached cervix weighing 48.3g.  The uterus measures 80 x 40 x 25mm and has a smooth, shiny surface.  The ectocervix measures 25 x 15mm and has unremarkable surface. On sectioning the endometrium is 4mm in maxiumum extent and  the myometrium is 18mm in maximum extent. On the posterior fundus there is a nodular tumour measuring 17 x 18mm.   The tumour has a thickness of 4mm.The rest of the myometrium is unremarkable. Blocks:  1 to 3 - full LS of anterior body andcervix; 4 & 5 - RS of endometrium + myometrium anterior body; 6 to 8 - full LS of posterior body and cervix; 9 to 12 - all of the nodular area on the posterior body.
+B.  Specimen labelled "Right tubeand ovary" consists of a fallopian tube with adherent ovary.  The fallopian tube measures 50mm in length, with an outer diameter of 6mm.  The ovary measures 30 x 20 x 10mm.  The cut surface of the ovary is unremarkable.  AE.  Blocks:  1 to 3 - right fallopian tube; 4 to 7 - ovary.
+C.  Specimen labelled "Left tube and ovary" consists of a fallopian tube with adherent ovary.  The fallopian tube measures 45mm in length with an outer diameter of 6mm.  The ovary measures 28 x 20 x 10mm.  The cut surface of the ovary is unremarkable.  AE 9 blocks.
+D.  Specimen labelled "Omental biopsy" consists of fatty tissue measuring 50 x 40 x 10mm.  The cut surface shows uniform fatty tissue.  No focal lesion is seen.  Representative sections embedded in block 1 to 3.
+E.  Specimen labelled "Panniculectomy" consists of skin with underlying fat measuring 790 x 250mm to a depth of 70mm.  The skin has navel measuring 15 x 10mm.  There is no lesion seen on the skin surface.  Cut surface of the fat shows uniform fibrofatty tissue.  No focal lesion is seen.  Representative sections embedded in block 1 to 8.  (TO: BL; YG/rt 20.4.66)
+MICROSCOPIC (Reported by DrS Close):
+A.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium. 
+There is no convincing myometrialinvasion.  There is no lymphvascular invasion.
+The ectocervix and endocervix are uninvolved and unremarkable.  A small area of scarring in the endometrium and myometrium is noted (block 8) which may be related to previous surgery. 
+B & C.  Both ovaries and tubes show no significant abnormality.  There is no evidence of malignancy.
+D & E.  There is no evidence of malignancy.
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium.  No myometrial invasion.  No lymphvascular invasion.  Cervix uninvolved.  Omentum negative.
+ADDITIONAL REPORT 27/4/66:
+As requested, immunoperoxidase stains for MSI proteins were performed.  MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.
+

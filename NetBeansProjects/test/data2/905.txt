@@ -1,0 +1,70 @@
+
+ 7696059.IDD
+SPEGAL, Clarita
+76Z60593
+
+Last edited : 23/2/2062		Page: 2
+***SUPPLEMENTARY REPORT #1 (23.2.2062): MSI MARKER RESULTS
+Dr U Burstein
+
+CLINICAL:
+Sigmoid colon tumour.  No liver or lung mets on CT scan.  IHD, CABG, IDDM.  
+MACROSCOPIC:
+A.  Specimen labelled "Sigmoid colon"consists of a section of colon, 130mm in length with attached mesentery 150 x 80 x 40mm.  32mm from one resection margin is a polypoid lesion, 40 x 25mm which appears to take up approximately 90% of the circumference of the colon.  The tumour appears to invade to a maximum depth of 5mm and invades into the muscularis propria but not through it.  The remainder of the mucosa appears unremarkable.  Multiple lymph nodes are identified in the mesentery from2 to 7mm.  
+Blocks:  1 - resection margin; 2 to 4 - representative tumour; 5 - tumour and adjacent normal mucosa; 6 - uninvolved colonic mucosa; 7 - apical lymph node; 8 to11 - nodes; 12 - reserved block.
+B.  Specimen labelled "Distal donut" consists of two donuts of mucosa whichwere attached measuring 20mm in maximum dimension.  AE 2 blocks.  
+(RR/mm 21.2.62) 
+MICROSCOPIC: (Reported by Dr U Behrends)
+A.  The sigmoid colon tumour is a moderately differentiated adenocarcinoma. A synoptic report for colorectal carcinoma follows:
+SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+Site of tumour: Sigmoid colon. 	
+Maximum tumour diameter: 40mm.
+Distance of tumour to nearer cut end: 32mm.
+Tumour perforation: No.
+Microscopic Description
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: Twenty-seven (27).	
+Number of lymph nodes involved: None (0/27). 
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Not identified.
+Perineural invasion
+Not identified. 
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The non-neoplastic colonic mucosa shows changes consistent with microscopic colitis (mixed lymphocytic and collagenous pattern). 
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Not applicable.
+Mismatch Repair Deficiency (MMRD) Status	
+Pending.
+Stage pTNMAJCC (2010): STAGE I   (pT2N0Mx)   	
+
+B.  The sections of distal sigmoid colon donut shows changes consistent with microscopic colitis (mixed lymphocytic and collagenous pattern). There is no evidence of malignancy. 
+DIAGNOSIS:
+A.  Sigmoid colon:40mm, pTNM Stage I, moderately differentiated adenocarcinoma, clear of margins. No evidence of malignancy in twenty seven lymph nodes (0/27). 
+.  Distal donut: Changes consistent with microscopic colitis. No evidence of malignancy.
+
+Markers of microsatellite instability are being performed and a supplementary report will be issued.
+
+***SUPPLEMENTARY REPORT #1 (23.2.2062): MSI MARKER RESULTS
+Dr U Oyen
+Immunoperoxidase stains for MSI proteins 
+MLH1	Preserved nuclear staining
+PMS2  Preserved nuclear staining
+MSH2	Preserved nuclear staining
+MSH6	Preserved nuclear staining
+COMMENT:
+Preserved nuclear staining of a carcinoma for MLH1,PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

@@ -1,0 +1,79 @@
+Episode No:  39J545348R
+3935453.LWR
+
+DUDLESON, EUSEBIO 
+Lab No:  39J54534
+Aldie
+FRESHWATER  VIC  3825
+Specimen: Tissue
+D.O.B:  3/7/2023
+Sex:  F
+Collected: 9/5/2066 at :
+Location:  SEALSCentral-FORBES DISTRICT HOSPITAL
+DR VAL BRYON Elrick
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast cancer > WLE + SLNBx.   Long lateral, short superior, double deep.  Additional inferior margin - stitch at cavity aspect.   Right axillary sentinel LN. 
+MACROSCOPIC:
+A.  Specimen labelled "Right axilla sentinel node", consists of a specimen of lymph node and fatty tissue 33 x 28 x 8mm.  One lymph node is identified 22 x 15 x 6mm.  
+Blocks: 1 and 2 - one lymph node.  
+B.  Specimen labelled "Right breast tissue", consists of a piece of breast tissue with three marking stitches 80 (lateral to medial) x 50 (superior to inferior) x 60 (superficial to deep)mm.  Superior margin is inked red, inferior is inked blue and deep is inked black.  Specimen is serially sectioned from medial to lateral into eleven slices.  Extending from slice five to eight there is a  well defined pale solid tumour 24 x 22x 18mm.  The tumour is 30mm from superficial, 6mm from deep, 4mm from inferior, 15mm from superior, 24mm from lateral and 28mm from medial margins.  Away from the tumour the cut surfaces of the breast are yellow and glistening.  
+Blocks: 1 - slice one en face (medial); 2 to 5 - slice four; 6 to 12 - slice five (block 9 reserved block); 13 to 18 - slice six (block 15 - ERPR Ki67); 19 to 24 - slice seven; 25 to 30 slice eight;31 and 32 - slice ten; 33 and 34 - slice eleven en face (lateral)
+Please see the diagram.
+C.  Specimen labelled "Additional inferior margin right breast stitch at cavity site", consists of a piece of breast tissue 35 x 27 x 15mm.  One surface is marked by a suture (the cavity) the opposite side is inked blue.  The cavity site is left un-inked.  Specimen is serially sliced.  No well defined lesions are identified.  Specimen is sequentiallyblocked in 6 blocks.  AE.  (TO: JR;RO/vo 10.5.66)  
+MICROSCOPIC (Reported by Dr F Stobbs):
+A-C. 
+Invasive carcinoma:
+Site: Right breast
+Type: Invasive ductalcarcinoma (no special type)
+Invasive tumour size: 28mm
+Grade (Modified Bloom & Richardson): 2
+Tubules: 2     Nuclei: 3      Mitoses: 2Mitotic rate: 9/10hpf.
+Lymphovascular invasion: Present 
+	    
+DCIS component:  
+DCIS:  Present
+Maximum extent of DCIS: There are three separate foci of high grade DCIS within the tumour, the largest focus is 2.2mm in maximum extent (B27)
+Nuclear grade:  High
+Architecture: Solid and cribriform
+Necrosis:  Notseen
+Calcification: Not seen
+Degree of DCIS in tumour:  Less than 5%
+DCIS in adjacent tissue:  Not seen
+Excision Margins:  
+Invasive component:
+Inferior: 2mm (B7)
+Deep: 3.5mm (B13)
+All other margins: greater than 10mm
+In-situ component:
+Inferior: 4mm (B15): 5mm (B7)
+Receptors (Block B15): 
+ER:  
+	95% of nuclei stained
+	predominant intensity of staining:  Strong
+PR:  
+	90% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7): Equivocal,  +2
+HER2 SISH:  Performed at Nash-Finch Company, NARROGIN HOSPITAL Hospital, see separate report.
+Ki-67 index: Up to 20%
+Nipple:  N/A
+
+LCIS / ALH:  Not seen 
+
+Miscellaneous:
+There is no evidence of in situ or invasive carcinoma in specimen C ("Additional inferior margin, right breast ")
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 2
+Number of sentinel lymph nodes involved by tumour: 1
+Number of sentinel nodes with metastases >2.0mm: 0   
+Number of sentinel nodes with isolated tumour cells <0.2mm:  1
+	Detected by: Immunohistochemistry (cytokeratins)
+There is a single cluster of roughly fifteen  tumour cells in the sinus of one lymph node less than0.1mm in maximum extent.
+Extranodal spread: Not seen
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  2 
+Total number of involved lymph nodes (including sentinel node(s)):   1
+Representative slides were reviewed with Dr F Lambka.
+
+

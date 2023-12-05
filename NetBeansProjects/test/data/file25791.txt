@@ -1,0 +1,26 @@
+SPR no: 10B938432P
+MRN no: 1009384
+Site_name: KINGAROY HOSPITAL & COMMUNITY HEALTH CENTRE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+68 distal pancreatectomy + splenectomy for ? neuroendocrine tumour.  Background of myelofibrosis, note of 2.5cm pancreatic tail mass.
+Additional information obtained:  Neuroendocrine tumour distal tip of pancreas.  No known tumour in spleen.  Splenectomy secondary to intraoperative haemorrhage.  Distal pancreas oriented in person by surgical fellow.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Spleen distal pancreas omentum&amp;quot;, consists of an enlarged spleen (240 x 170 x 55mm; 1440g), separate distal pancreas (100 x 63 x 20mm), and separate omentum (350 x 110 x 30mm).  The anterior pancreas is inked blue, posterior pancreas is inked black, and the new pancreatic resection (staples removed) margin is inked red.  The splenic capsule is smooth and tan apart from a small area of pale grey capsular discoloration (no involvement of splenic parenchyma), 68 x 40mm.  The splenic parenchyma appears tan and relatively uniform, apart from two areas of possible haemorrhage, 28 x 22 x 30mm and 22 x 17 x 18mm.  Within the fibroadipose tissue at the splenic hilum, there is a small nodule of pancreatic tissue, 15 x 10 x 10mm.  The main pancreas is irregularly shaped, with an area of nodularity at the inferior-distal aspect (?tumour), 27 x 28 x 14mm.  On sectioning, this area of nodularity appears haemorrhagic.  The remaining pancreatic parenchyma is unremarkable.  The serosal surface of the omentum is smooth and shiny; lymph nodes or tumour are not identified.  Complete pancreas embedded.
+Blocks:  1 &amp;amp; 2 - pale grey splenic capsule; 3 - representative splenic capsule; 4 - representative splenic parenchyma; 5 - larger splenic nodule, ?haemorrhage; 6 - smaller splenic nodule, ?haemorrhage; 7 - splenic hilum pancreatic nodule; 8 to 10 - representative omentum; 11 - shave (4mm) pancreatic neck (staples removed prior to shave); 12 to 17 - pancreatic nodularity, ?tumour; 18 to 41 - remaining pancreas.  Please refer to block diagram.
+(JB/vo 8.5.67)
+
+
+MICROSCOPIC (Reported by Dr D Gurnsey &amp;amp; registrar Dr D Pevy):
+Sections of pancreas show an approximately 30mm grade 1 (low grade) neuroendocrine tumour located at the tip of the pancreatic tail.  The tumour is composed of relatively uniform cells with salt-and-pepper chromatin and finely granular eosinophilic-to-amphophilic cytoplasm, arranged in cords and nests.  No necrosis is identified.  There is less than one mitosis per ten high-power-fields; the Ki67 index is less than 2%.  No lymphovascular or perineural invasion is identified.  The tumour cells are positive for CD56, synaptophysin, and chromogranin.  The tumour abuts the anterior pancreatic surface, extends to the posterior pancreatic surface (diathermied), and is well clear of the pancreatic (body/neck) resection margin.  The nodule identified at the splenic hilum is confirmed to be pancreatic tissue; this is taken to represent the detached tail of the pancreas rather than a splenunculus.  The surrounding pancreatic parenchyma shows multiple scattered neuroendocrine microadenomas (tumourlets) each measuring up to 1mm in maximum dimension.  Two microadenomas are present at the surgical resection margin.
+The spleen shows diffuse expansion of the red pulp by haematopoietic elements, including numerous megakaryocytes, consistent with the clinical history of myelofibrosis.  The macroscopically described area of splenic capsular discolouration corresponds to an area of capsular thickening/fibrosis.  The omentum shows no significant abnormality.  Two (2) peripancreatic lymph nodes are negative for tumour.
+
+
+DIAGNOSIS:
+Spleen, distal pancreas, and omentum:
+- 30mm grade 1 (low grade) neuroendocrine tumour of the pancreas
+- Abuts anterior pancreatic surface, extends to the posterior pancreatic surface, and is well clear of the pancreatic resection margin
+- Multiple neuroendocrine microadenomas
+- Two (2) negative peri-pancreatic lymph nodes
+- Splenic (extramedullary) haematopoiesis

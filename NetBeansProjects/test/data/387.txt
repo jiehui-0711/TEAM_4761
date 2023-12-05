@@ -1,0 +1,49 @@
+Episode No:  84X112691F
+8491126.XDF
+
+COUILLARD, GAYLORD 
+Lab No:  84X11269
+Brair Ridge
+BERRI  NT  3142
+Specimen: Tissue
+D.O.B:  10/4/2020
+Sex:  F
+Collected: 29/04/2013 at 13:16
+Location:  Anat Path-PEEL HEALTH CAMPUS - PUBLIC
+DR RICARDO KOORI DELAMATER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right mastectomy with level 3 axillary clearance for multifocal invasive breast Ca and ?extensive DCIS.  (Previous 84X11269 - ER PR HER-2 on core, grade 2)
+MACROSCOPIC:
+Specimen labelled "Right breast and axillary clearance" consists of a mastectomy specimen measuring 220x 105 x 60mm with attached axillary tail which measures 160 x 85 x 30mm.  There is an overlying skin ellipse which measures 200 x 60mm.  Deep margin is inked black, superficial margin inked green.  The axillary tail contains underlying skeletal muscle which measures 90 x 55 x 20mm.  The nipple areola complex measures 40 x 30mm.  On sectioning four lesions are identified. Tumour 1 is identified at the 12/1 o'clock position, approximately 5cm from the nipple, and measures13 x 12 x 10mm. Tumour 2 is located at approximately the 10 o'clock position 4cm from the nipple and measures 10 x 10 x 5mm.  Tumour 3 is located at the 9 o'clock position approximately 1cm from the nipple and measures 5 x 5 x 5mm.  Tumour 4 is located at 9 o'clock approximately 5cm from the nipple and measures 15 x 15 x 15mm.  Multiple lymph nodes are identified in the axillary tail.  The largest lymph node measures 40 x 25 x 20mm. 
+Blocks:  1 - tumour 1 with deep and superficial margin; 2- tumour 2; 3 - section of deep margin closest to tumour 2; 4 -section of superficial margin closest to tumour 2; 5 to 7 - sections of tumour 3; 8 - deep margin adjacent to tumour 3; 9 - tumour 4 with deep margin; 10 - tumour 4 with superficial margin; 11- intervening breast tissue between tumour 1 and tumour 3; 12 - intervening breast tissue between tumour 2 and 4; 13 - intervening breast tissue between tumour 2 and tumour 3; 14 - representative nipple; 15 - representative upper inner quadrant including deep margin; 16 - representative upper inner quadrant; 17 - representative lower inner quadrant; 18 - representative lower inner quadrant; 19 - representative upper outer quadrant; 20 - representative upper outer quadrant; 21 - representative lower outer quadrant; 22 - representative lower outer quadrant; 23 & 24 - one lymph node bisected; 25 - one lymph node bisected; 26 - lymph nodes; 27 - one lymph node trisected; 28 & 29 - composite- blocks representative section from the largest macroscopically positive lymph node; 30 & 31 - one lymph node bisected; 32 & 33 - one lymph node bisected; 34 - one lymph node bisected; 35 - two lymphnodes; 36 - one lymph node bisected; 37 - lymph nodes; 38 - lymph nodes; 39 - one lymph node bisected.  (TO: PZ: XW/mm 6.2.63) 
+MICROSCOPIC (reported by Dr R Vandervort): 
+Four macroscopic tumours were identified within the breast (see macroscopic description).  These tumours varied in size from 5mm to 15mm in maximal dimension.  
+Tumour 1 (12/1 o'clock) is a grade 2 infiltrating ductal carcinoma plus adjacent high grade ductal carcinoma in situ (DCIS).  The Bloom & Richardson score is 7 (t=3 n=3 m=1) and this tumour is located 8mm from the deep margin.  
+Tumour 2 which is located at 10 o'clock consists of high grade DCIS and is 5mm from the deep margin.  
+Tumour 3 which is located at 9 o'clock is a grade 3 infiltrating ductal carcinoma, Bloom & Richardson score 8 (t=3 n=3 m=2).  Foci of lymphovascular invasion (LVI) are seen at the periphery of the tumour as well as adjacent high grade DCIS.  The deep margin is 8mm clear of LVI.  
+Tumour 4 which is also located at 9 o'clock is a grade 3 infiltrating ductal carcinoma, Bloom & Richardson score 8 (t=3 n=3 m=2).  This tumour deposit is located 5mm from the deep margin and 5mm from the superficial margin.
+The three infiltrating ductal carcinomas identified show either 1+ or 2+ staining for Her 2. Slides sent to HEALESVILLE & DISTRICT HOSPITAL for CISH. 
+The intervening breast tissue as well as random sections from the various quadrants show widespread high grade ductal carcinoma in situ (DCIS) which is solid, comedo and papillary.  Sections of the nipple also show DCIS in the lactiferous ducts as well as multifocal infiltrated ductal carcinomas and foci of LVI.
+Ten (10) of the twenty-three (23) are right axillary lymph nodes identified contain metastatic ductal carcinoma and some of these nodesare grossly enlarged up to 30mm in size.  Some of the involved node show perinodal spread for a distance of approximately 2mm.  
+DIAGNOSIS:
+Right breast and axillary clearance:  
+-  Multifocal grade 2 and 3 infiltrating ductal carcinoma, clear superficial and deep margins - see text.  
+-  Her 2 negative or equivocal (slides to AUSTIN HEALTH - HEIDELBERG REPATRIATION HOSPITAL for CISH)
+-  Lymphovascular invasion - multiple foci.
+-  Extensive high grade ductal carcinoma in situ (DCIS) throughout the breast.
+-  Metastatic ductal carcinoma in ten (10) of twenty-three (23) right axillary nodes, perinodal spread - 2mm.  
+ADDITIONAL REPORT:  (7.12.63)
+Blocks were sent to ROYAL NORTH SHORE HOSPITAL Hospital for Her2 ISH analysis, Dr R Taucher reports:
+Please note:  Two previous core biopsies have been SISH tested which were 1+ by IHC and SISH negative.  Therefore only block 5, which was IHC 2+ has been SISH tested from this specimen. 
+HER2 IHC Result:   2+ (block 5); 1+ (blocks 1,9).
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, diploid). 
+Mean Her2 copy number per cell: 2.2
+Mean CEP17 copy number per cell:  2.3
+HER2/CEP17 ratio:  0.98.
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+

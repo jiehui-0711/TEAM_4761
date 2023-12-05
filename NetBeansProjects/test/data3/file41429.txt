@@ -1,0 +1,58 @@
+SPR no: 25T896613M
+MRN no: 0692200
+Site_name: BOOROWA MULTI PURPOSE SERVICE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report25T89661 (25T896613M) Abarca, Barton, Simon-ISRAEL
+HISTOPATHOLOGY REPORT
+SOUTH EAST REGIONAL HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:  Re-excision of cavity (right breast) medial and inferior.
+
+MACROSCOPIC:
+Specimen labelled &quot;RE-EXCISION MARGINS INFERIOR AND SUPERIOR RIGHT BREAST&quot; &quot;Short - superior, Medium - medial, Long - lateral.&quot;
+SPECIMEN TYPE:  Re-excision oriented
+SPECIMEN X-RAY, HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral: 40mm, Superior to inferior 70mm, Anterior to posterior:  37mm
+WEIGHT 45g
+SKIN NIPPLE MUSCLE:  No
+MARGIN INKED:   Non-standard:  Anterior blue, posterior black, medial red and lateral (cavity surface) green.
+DISSECTION: Cut from superior to inferior, 14 slices
+FINDINGS / LESION:  There are haemorrhage, fibrosis and areas of possible fat necrosis towards the lateral edge (cavity).  No discrete lesions are identified.
+(1 four LS slice 1 superior; 2-4 slice 2; 5-7 slice 4; 8-10 slice 6; 11-13 slice 8; 14-16 slice 10; 17 anterior slice 11; 18 anterior slice 12; 19-21 slice 13; 22 three LS slice 14 inferior).  RS (M-22/ZH ank)
+MICROSCOPIC:  F Wnukowski
+
+There is residual DCIS in slices 13 and 14 from the inferior end of the specimen. The DCIS is of similar appearance to previous.
+
+(RESIDUAL) BREAST DCIS SYNOPTIC REPORT:
+
+DUCTAL CARCINOMA IN SITU (DCIS):
+- DCIS size/extent:  8 mm, present in x2 adjacent 4 mm slices, near inferior end
+- Nuclear grade: Intermediate nuclear grade
+- Architecture/type:  cribriform, papillary
+- Necrosis:  Not identified
+- Calcification of DCIS: Absent
+
+Lobular carcinoma in situ (LCIS):  Not identified
+
+EXCISION MARGINS, DCIS:
+- Close margin(s), see NOTE#
+NOTE#:
+Because of the growth pattern of DCIS in the ductal system, a negative but close margin does not ensure the absence of DCIS in the adjacent tissue.
+- Distance of DCIS to margins:
+Anterior:  >10 mm
+Posterior: > 10 mm
+Superior:  > 20 mm
+Inferior: 1 mm (close margin), (section 22)
+Medial, near inferior end: 0.5 mm (close margin <1 mm), section 20
+Lateral:  not applicable (previous cavity surface)
+
+SEPARATE FINDINGS:
+Epithelial hyperplasia, intraductal papillomas, granulating previous biopsy cavity surface.
+
+DIAGNOSIS:
+
+RE-EXCISION MARGINS INFERIOR AND SUPERIOR RIGHT BREAST:
+- area of residual ductal carcinoma in situ (DCIS), intermediate nuclear grade, towards inferior end of specimen;
+- close margins.

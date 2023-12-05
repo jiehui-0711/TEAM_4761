@@ -1,0 +1,51 @@
+Episode No:  94M484919N
+944484.YEZ
+
+Cappelli, Alphonse 
+Lab No:  94M48491
+Stockheld
+CASINO  QLD  5273
+Specimen: Tissue
+D.O.B:  29/5/1993
+Sex:  F
+Collected: 3/9/2063 at :
+Location:  Envoi-BAMAGA HOSPITAL
+DR MOHAMMED ADAN BAKES
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+?Lung cancer.  (L) upper lobe.  AP window node.
+MACROSCOPIC:
+A.  Specimen labelled "Upper left lung lobe" consists of a lobe of lung 280 x 130 x 35mm.  There isa stapled resection margin from the hilum to one end measuring 90mm in length which is inked blue.  The hilar margin is inked black.  The cut surface reveals a firm well circumscribed cream/tan tumour measuring 26 x 24 x 16mm.  The tumour is 2mm from the nearest pleural surface and 12mm from the stapled resection margin and 16mm from the hilar resection margin.  The remainder of the cut surface appears unremarkable.
+Blocks:  1 & 2 - hilar lymph nodes; 3 - bronchial resection margin; 4 - blood vessel resection margins; 5 - tumour to stapled resection margin; 6 & 7 - further representative tumour; 8 - uninvolved lung; 9 - reserve block.
+B.  Specimen labelled "AP window lymph node"consists of a piece of fatty fibrous tissue 26 x 15 x 6mm.  Multiple lymph nodes are identified from 1 to 10mm.  AE one block.   (OI/cc  3/10/63) 
+ 
+MICROSCOPIC (Reported by Dr Z Vellucci): 
+A.  Sections show a moderately differentiated adenocarcinoma of the lung, size 26mm.  There is a central scar plus a moderate degree of lepidic spread at the periphery of the tumour.  The pleura is not involved and the bronchial margin is well clear.  The five (5) hilar lymph nodes identified are negative for tumour .  The tumour shows positive staining for CK7 and TTF-1.  The CK20 is negative.  
+B.  The six (6) lymph nodes identified. are negative for tumour.  
+SYNOPTIC REPORT FOR LUNG CARCINOMA
+
+1.  Specimen type:  Lobectomy
+2.  Topography:  Left upper lobe
+3.  Tumour location: Central
+4.  Tumour size: 26mm
+5.  Tumour type: Adenocarcinoma
+6.  Histological grade: Moderately differentiated 
+7.  Vessel invasion: Not identified
+8.  Perineural invasion: Not identified 
+9.  Pleural involvement:  Free of tumour
+10.  Bronchial resection margin:  Free of tumour
+11.  Vascular resection margin:  Free of tumour
+12.  Other resection margins:  Free of tumour
+13.  Chest wall: Not involved
+14.  In situ carcinoma:  Absent
+15.  Non-neoplastic lung:  mildly emphysematous
+16.  Lymph nodes:  Lymph nodesfrom main resection specimen: lymph nodes (x5)  negative for tumour.  
+Lymph nodes from separately received specimen: lymph nodes (x6) negative for tumour.  
+Pathological staging : pT1 N0 Mx  (stage 1A)
+DIAGNOSIS:
+Site: left upper lobe
+Specimen:  lobectomy
+Type: adenocarcinoma.
+Size: 26mm
+Stage: 1A
+

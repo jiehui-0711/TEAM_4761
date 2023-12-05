@@ -1,0 +1,22 @@
+
+ 787774.FGP
+GAMBARDELLA, TIMMY
+78S77422
+
+Last edited : 27/1/2063		Page: 
+CLINICAL:
+Metastatic carcinoma ofcolon.  
+MACROSCOPIC:
+Specimen labelled "Right lung lower lobe biopsy" consists of a wedge of lung, unorientated and previously cut measuring 70 x 20 x 20mm.  The serosal surface is unremarkable.  A stapled margin is removed with up to 5mm of tissue.  Surgical margin is inked black.  Specimen is serially sectioned.  On sectioning there is an ill defined white yellow lesion measuring 15 x 15 x 10mm.
+Blocks:  1 to 4 - lesion; 5 - nodular lesion, non tumour of lung.
+(TO: FY; EU/rt 23.1.63)
+MICROSCOPIC (Reported by Dr S Larrabee):
+The 15mm tumour is a deposit of moderately differentiatedadenocarcinoma.  The carcinoma is composed of tubular and cribriform glands, some with luminal necrosis, within fibrotic stroma.  Away from the tumour the lung parenchyma is unremarkable.  The tumour deposit is 1.4mm clear of the inked margin (not including 5mm of staple line).  
+Immunohistochemistry:  
+The tumour cell stain is as follows; 
+Positive:  CK20, CDX2
+Negative: CK7, TTF1
+The morphological appearances and immunoprofile are consistent with metastatic adenocarcinoma of the colon.  
+DIAGNOSIS:  
+Right lung lower lobe biopsy:  Consistent with metastatic adenocarcinoma of the colon.  
+

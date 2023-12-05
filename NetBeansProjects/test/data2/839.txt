@@ -1,0 +1,92 @@
+Episode No:  81D592178W
+8115921.TWW
+
+Steinberg, Katheryn Mora 
+Lab No:  81D59217
+Lower Bedfords
+GOOLWA  WA  2047
+Specimen: Tissue
+D.O.B:  16/4/2022
+Sex:  F
+Collected: 05/10/2012 at 14:57
+Location:  UROLOGY OPD-TUMUT DISTRICT HOSPITAL
+DR Jeremiah ELMO FINSTAD
+Distribution:   FILE-COPY, DR Brittle
+***** SUPPLEMENTARY REPORT - SEE BELOW *****
+
+CLINICAL:
+Lower interior resectionfor upper rectal cancer.  No obvious peritoneal disease or liver/lung metastases.  
+MACROSCOPIC:
+Patient details checked by MP
+A.  Specimen labelled "Anterior resection" consists of anterior resection comprising a segment of colon, 130mm in length and 46mm in open circumference with attached mesosigmoid up to 75mm in width and 28mm in thickness.  The anterior peritoneal reflection is notidentified.  The serosal surface shows focal fibrous adhesions otherwise appears unremarkable.  There is an ulcerated sub-circumferential firm tumour measuring 48mm in length and 30mm in width predominantly involving the posterolateral wall.  The tumour lies 35mm from the distal resection margin and more than 40mm from the proximal margin.  Further sectioning shows that the tumour to be invading the full thickness of the large bowel and superficially invading the underlying mesocolon.  The tumour is up 12mm in thickness and appears 30mm from posterior/radial soft tissue margin.  No other lesions are identified.  
+Blocks:  1 - proximal margin; 2- distal margin; 3 to 6 - one full face of tumour including deepest invasion (4&5 - paired blocks superficial and deep aspects); 7 & 8 - paired blocks deepest invasion; 9 - tumour closest to serosal surface; 10 - two nodes; 11 - three nodes; 12 - one node bisected; 13 - five nodes; 14 - onenode bisected; 15 - ?six nodes; 16 - one node bisected; 17 - one node bisected; 18 & 19 - lymph nodes distal to tumour each four nodes; 20 - ?three apical nodes; 21 - serosal fibrofat adhesion ?tumour; 22 - reserve block.  The tissue wasreceived fresh and a 1 x 4mm part of tumour and a 1 x 5mm of normal appearing mucosa was a sampled for possible tissue banking.  
+B.  Specimen labelled "Distal donut" consists of a stapled donut, 20mm in diameter and up to 12mm in length.  The staples are removed and the remaining tissue entirely embedded.  Two blocks.  (HF/mm 12.10.62) 
+MICROSCOPIC:  (Reported by A/Prof V Sultan):  
+
+A and B: Sections show an ulcerated poorly differentiated adenocarcinoma arising in a sessile serrated adenoma and extending through the muscularis propria into the pericolicfat to a depth of 5mm. The tumour breaches the serosal.
+There is a severe infiltration of neutrophils within the tumour. Perineural invasion and extensive vascular invasion are readily identified. 
+
+Sections of the distal donut show no evidence of malignancy.
+Macroscopic Description
+
+Site of tumour: Upper rectum	
+Maximum tumour diameter:    48mm
+Distance oftumour to nearer cut end:   35 mm (macroscopically)
+Tumour perforation:    No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Above.
+Microscopic Description
+
+Type
+Adenocarcinoma, NOS
+Differentiation by predominant area
+Poor
+Local invasion
+pT4a	Tumour penetrates the surface of the visceral peritoneum. Tumour also extends to the peritoneal surface of mesocolic fat.
+Tumour involvement of margins
+Cut ends: The proximal end is clear of tumour. Two microscopic deposits of tumour are seen at the junction of muscularis propria and serosal fat in the section of the distal margin taken from the main specimen (A). These appear to be approximately 20mm from the inked distal margin of the main specimen. The distal donut is clear of tumour (B).
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin:    25 mm
+Lymph nodes
+Number of lymph nodes present: 30	
+Number of lymph nodes involved: 24	
+pN2	Metastases in 4 or more regional LN (including one apical node)
+Extranodal extension is present.
+
+Lymphovascular invasion
+Present (mural and extramural), extensive. Lymphovascular invasion is seen within pericolic fat in a number of foci.
+Perineural invasion
+Present 
+Histologicallyconfirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Adenomas: The tumour arises in a sessile serrated adenoma
+Three tumour deposits, 2 to 4mm in diameter, are identified within the adipose tissue,possibly representing replaced lymph nodes or areas of lymphovascular invasion with associated extension into adipose tissue.  
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Not applicable
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT4a     pN2     pMX    R0	
+
+
+ADDITIONAL REPORT:  (18.10.63).
+K-Ras Gene Mutation Analysis Performed At DAYSURGERY UNIT Pathology.
+"The K-Ras oncogene has been screened for mutations in exon 2, codons 12 and 13.  K-Ras mutations have been associated with resistance to Erbitux.  The purpose of this screening is to determine the K-Ras mutation status in thetumour of an individual affected by colorectal cancer.  This status will be used to predict the patient's response to Erbitux. 
+RESULT:	Positive - Mutation Identified.
+Gene		Exon	Nucleotide		Amino Acid	Classification
+K-Ras		2	c.35G>T (5.1%)	p.Gly12Val	Missense substitution
+Methods Employed:
+Polymerase chain reaction (PCR) and pyrosequencing.
+COMMENT:
+This result indicates that a mutation has been identified in exon 2 of the K-Ras gene. This implies Erbitux may not be of benefit for the treatment of the patient.  The detection threshold (limit of sensitivity) for this test is estimated to be 5%.  [Result obtained from block:  81D59217.W8.  NB: the tested area contains ~70% tumour]".    
+ 
+Envoi Specialist report indicates copies sent to Dr Stewart and Dr V Papelian, NAMBOUR GENERAL HOSPITAL Hospital Cancer Care Centre.
+

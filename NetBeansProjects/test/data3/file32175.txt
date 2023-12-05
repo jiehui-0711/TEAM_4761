@@ -1,0 +1,37 @@
+SPR no: 93L610263Z
+MRN no: 9346102
+Site_name: MORANBAH HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+BRCA1 gene mutation, post breast cancer.  Prophylactic BSO.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Endometrial curettings&amp;quot;, consists of scant curettings, 4 x 3 x 1mm in aggregate.  AE 1 block.
+
+B.  Specimen labelled &amp;quot;Right fallopian tube and ovary&amp;quot;, consists of a fallopian tube, 42 x 10 x 8mm, and ovary, 26 x 18 x 12mm.  No significant abnormality is identified.
+Blocks: 1 - LS complete fimbrial end fallopian tube; 2 &amp;amp; 3 - TS remaining fallopian tube; 4 to 6 - ovary.  Fallopian tube and ovary AE.
+
+C.  Specimen labelled &amp;quot;Left fallopian tube and ovary&amp;quot;, consists of a fallopian tube, 38 x 10 x 8mm, and ovary, 29 x 24 x 9mm.  There is a haemorrhagic cyst within the right ovary, 15mm.  The fallopian tube shows no significant abnormality.  Blocks: 1 - LS complete fimbrial end; 2 &amp;amp; 3 - TS remaining fallopian tube; 4 to 6 - ovary.  Fallopian tube and ovary AE.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of omental tissue, 50 x 45 x 25mm.  The serosal surface is smooth and shiny.  No lymph nodes or tumour identified.  RS 3 blocks.
+(TO:JB/rs 14/2/67)
+
+
+MICROSCOPIC (Reported by Dr Z Hallum):
+A.  The curettings consist of blood and scant detached fragments of glandular epithelium.  There is insufficient intact endometrial tissue present for assessment.
+
+B.  The sections of the right fallopian tube and ovary show no significant abnormality.  The entire fallopian tube and ovary have been embedded and there is no evidence of malignancy.
+
+C.  The sections of the left fallopian tube and ovary show no significant abnormality.  There is a single small non-necrotising granuloma in the paratubal soft tissue, of doubtful clinical significance.  The entire fallopian tube and ovary have been embedded and there is no evidence of malignancy.
+
+D.  The sections of the omentum show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Endometrial curettings:  Insufficient intact endometrium for assessment.
+
+B.  Right fallopian tube and ovary:  No significant abnormality.
+
+C.  Left fallopian tube and ovary:  No significant abnormality.
+
+D.  Omentum:  No significant abnormality.

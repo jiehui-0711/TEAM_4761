@@ -1,0 +1,25 @@
+ 569867.GDS
+BABINSKI, HILTON
+56Z86721
+
+Last edited : 7/3/2065		Page: 2
+CLINICAL:
+Mass in left iliac fossa on iliofemoral vein ?sarcoma.  Lt femoral vein tumour (long suture in superior segment of vein).  
+MACROSCOPIC:
+Specimen labelled "(L) common femoral vein tumour" consists of a lobulated solid mass 45 x 40 x 35mm.  There is patchy attached fatty tissue on the external surface however most of the external surface is not covered by fat.  There is a suture marking the superior segment of vein.  The external surface is inked blue.  The vein segment appears to be 24mm in length.  The external surface of the mass is smooth.  Slicing reveals lobulated pale solid cut surfaces.  On sectioning the wall of the vein is mostly separated from the mass.  
+Blocks:  1 & 2 - superior segment of vein and the mass; 3- superior segment of the vein separated from the mass; 4 & 5 - ?opposite end of the vein and the mass; 6 - TS, reserve block; 7 -representative TS; 8& 9 - representative the side of the mass opposite the long suture.  Please see picture and diagram.  
+(TO: FP:  KE/mm 7.1.65) 
+MICROSCOPIC (reported by Dr P Kellerman):
+Sections show a leiomyosarcoma arising from the femoral vein.  The lesion is circumscribedand markedly cellular, and is composed intersecting fascicles of spindle shaped tumour cells with moderate to severe nuclear atypia. Up to 24 mitoses are present per 10 hpf. Microscopic foci of necrosis are present (block 9). No lymphatic invasion or perineural spread is seen.
+The tumour cells are positive for desmin and SMA. CD31, panCK, SOX10 and S100 are negative. Ki67 index is up to 30%.
+Margins:
+ Superior vein: 2mm (block 1)
+ Inferior vein: 5mm (block 5)
+ Radial soft tissue: < 0.1mm
+FNCLCC grade:out of 3 (score 6 out of 8)
+ Tumour differentiation: 2 (sarcoma with certain histologic typing) 
+ Mitoses: 3 (>20 per 10 hpf)
+ Necrosis: 1 (< 50%)
+DIAGNOSIS:
+Left femoral vein lesion: Leiomyosarcoma of vascular origin
+

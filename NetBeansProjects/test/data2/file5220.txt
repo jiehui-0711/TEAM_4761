@@ -1,0 +1,79 @@
+DateOfBirth
+202711020000
+
+
+SiteName
+MILDURA BASE PUBLIC HOSPITAL
+
+
+FirstName
+Quade
+
+
+SPRID
+38F5857557
+
+
+MRN
+3825857
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+Meroney
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+Right abdominal wall low grade spindle cell neoplasm ? leiomyosarcoma.  Recurrent pyelonephritis, hydronephrosis, htn, PTSD.  Tumour on right abdominal wall for tumour banking and histopathology please.  Sutures:  Short superior, long lateral, double deep.  Please note, specimen inked and sampled for Biobanking when fresh.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Tumour on right abdominal wall short superior, long lateral, double deep&amp;quot;, consists of a lobulated oriented piece of tan tissue weighing 49.3g and measuring 58mm medial to lateral, 53mm superficial to deep and 38mm superior to inferior.  The outer surface appears coated in a thin fibrous capsule which appears intact when received.  The specimen is inked superior blue, inferior black, superficial red and deep green.  Tissue is serially sliced and demonstrates a heterogeneous pale whorled cut surface.  No areas of necrosis or haemorrhage are macroscopically seen.  The mass appears entirely encapsulated with capsule at all margins.  Blocks: 1 - LS medial margin; 2 to 5 - composite sections showing four peripheral margins; 6 to 10 - composite sections showing four peripheral margins; 11 and 12 - LS lateral margin.  RS.
+(TO:AP/rs 26/9/66)
+
+
+MICROSCOPIC (Reported by Dr I Muddiman):
+Sections show a spindle cell neoplasm composed of cellular areas and paucicellular  areas.  The tumour is entirely composed of spindle cells and arranged into compact fascicles in the cellular areas.  Nuclei are mildly variable in size and shape and display blunted as well as tapering ends and devoid of mitotic activity. No nucleoli.  Focally cells show nuclear palisading(4 ). The less cellular areas are myxoid with  splaying and  separation of cells. There are numerous mast cells throughout the tumour.  There is no evidence of necrosis.  Scattered ectatic  thin wall blood vessels are also noted.Focal lobulation is also present (11). Tumour is fairly well demarcated at the periphery with no evidence of infiltration into the surrounding muscle and rectus sheath tissue. Tumour approaches some surgical margins, but  there is a thin fibrous capsule beneath the inked margin in most areas , however superficially there is a ragged margin with tumour extending and abutting the surgical inked margin.  (10) No histological malignant features .
+Spindle cells show smooth muscle differentiation ,confirmed with immunohistochemistry
+Immunohistochemistry:
+Smooth muscle actin, desmin  shows diffuse positive staining
+CD117- negative in spindle cells . mast cells are positive
+S100- Negative
+Ki 67- 2 %
+
+
+DIAGNOSIS:
+Tumour on right abdominal wall:  Spindle cell neoplasm favouring Leiomyoma,  58 mm
+Tumour extends to superficial ragged margin
+
+Comment ; Primary leiomyoma of rectus sheath is rare and should be considered provided implanted subserous pedunculated  uterine leiomyoma is excluded
+
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2706-03-23 00:00:00
+
+
+LastName
+Mathew

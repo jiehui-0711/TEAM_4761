@@ -1,0 +1,19 @@
+SPR no: 52L452761P
+MRN no: 5244527
+Site_name: BOOROWA MULTI PURPOSE SERVICE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Recent gluteal tumour. Core - myxoid spindle cell lesion. Wide excision with gluteus maximus.
+Suture - short superior, long lateral, double deep.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right gluteal tumour&amp;quot;, consists of a circumscribed tan, smooth and shiny tissue with attached muscle and fatty tissue, 150 x 110 x 90mm. Three long sutures noted as well as smaller non-orientating sutures holding the muscles together as per the surgeon. Superficially the muscles are retracted and reveal a false margin. Inking: black - deep margin, blue - superficial margin, green - deep resection margin, red - superficial false margin, yellow - lateral margin. On sectioning the cut surface shows a pale and multicystic structure with two large cysts up to 80mm in diameter. The cyst wall thickness ranges from 2-5mm. The two larger cysts contain clear serous fluid. The specimen is serially sliced from superior to inferior into eighteen slices. Please see diagrams &amp;amp; photos. Specimen shown to Dr N Lindow.
+Block 1&amp;amp; 2 - LS of superficial margin; 3- superficial margin with cyst wall abutting the surface; 4 - lateral margin; 5 - part of cyst wall muscle and superficial margin; 6 - lateral margin; 7 - medial margin; 8 - lateral margin; 9 - superficial margin with muscles; 10 - superficial margin with muscle and part of cyst; 11 - medial margin and part of cyst wall; 12 &amp;amp; 13 - part of cyst wall; 14 - superficial margin with muscle and part of cyst wall; 15 - part of cyst; 16 - part of cyst wall from the lateral margin; 17 - part of the cyst wall from the superficial margin; 18 &amp;amp; 19 - deep resection margin; 20-22 - LS of deep margin. (Blocks 9, 10, 17 contain part of the false superficial margin). RS. (TO:DN/ec 5/4/71)
+
+
+MICROSCOPIC (Reported by Dr N Dellasciucca):
+Sections show a well circumscribed hypocellular myxoid lesion.  The tumour is composed of bland spindle cells surrounded by abundant myxoid stroma.  The slender spindle cells are relatively uniform with no significant cytological atypia or mitotic activity.  The cellularity of lesion is relatively evenly distributed and the cellularity appears to be higher than usual myxoma.  The periphery is slightly more cellular with collagenized capsule.  At periphery, the tumour infiltrates into the surrounding striated muscle.  No lipoblasts are seen.  There is scant blood vessels.  The matrix is slightly basophilic matrix with a few mucinous cysts.  The spindle cells are positive for CD34 and Vimentin.  The stains for S100, SOX10, EMA, SMA, Desmin, Myogenin, MUC4 and ALK are negative.  The overall appearances are consistent with those of intramuscular myxoma.  Because of the increased cellularity, the tumour is best to be classified as a cellular myxoma.  The tumour is completely excised.  In several locations, the tumour is separated from the resection margin by a thin layer of fibrous tissue.
+DIAGNOSIS:
+Right gluteal tumour - Cellular myxoma (intramuscular).

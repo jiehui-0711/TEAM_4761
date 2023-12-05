@@ -1,0 +1,48 @@
+SPR no: 78K941119V
+MRN no: 7839411
+Site_name: BUNBURY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report78K94111 (78K941119V) CARRATURA, LAZARO BARRETT
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+51 year old for PMP.  Appendicular tumour laparotomy.  Peritoneal disease, large intestine/rectum.  Old stoma.
+
+MACROSCOPIC:
+&amp;quot;RECTUM, OLD STOMA, PERITONEAL DISEASE&amp;quot;.  Consists of two segments of large bowel, a stoma site and multiple nodular mucinous tissue fragments.
+
+Stoma site measures 45x25x15mm. There is a rim of skin that measures up to 9mm.  On opening the lumen mucosa shows some areas of disruption but no discrete mass lesion is identified.  Representative sections taken and embedded in block 1.  The shorter segment of bowel measures 50mm in length with a maximum diameter of 35mm, serosa is covered by mucinous tumour deposit.  Lumen is unremarkable.  On margin is inked blue, the other black. On sectioning there is a mucinous tumour deposit underlying the mucosa but not infiltrating it. Representative sections taken and embedded in blocks 2-4 [2 blue inked margin, 3 black inked margin, 4 tumour block]
+
+Second segment of bowel (? rectum) measures 170mm in length with a maximum diameter of 20mm.  Attached mesocolic fat is up to 30mm.  Presumed proximal margin inked blue, distal black.  The serosa is roughened and covered by mucinous tumour deposit.  On opening the mucosa is unremarkable.
+
+(5&amp;amp;6 margins [5 proximal, 6 distal]; 7&amp;amp;8 tumour within mesocolic fat; 9 four possible nodes)
+
+There are multiple separate rounded nodular pieces of pale tissue with a smooth covering and mucinous centre ranging from 5 mm to 15 mm diameter altogether measuring  110x90x20mm.  (10-12 RS nodule pieces). RS (M-12/MC 17/1/2067 ank)
+
+Further 13-16 short segment of bowel with mucin in wall?
+17-22 bowel mesentery and fat ?omental, with mucin deposits
+23 24 rounded nodules LV
+
+MICROSCOPIC:   S Krey
+Sections of the peritoneal mucin disease show peritoneal deposits of low grade mucinous neoplasm in this setting consistent with appendix origin (peritoneal deposits of LAMN). The deposits consist of dissecting mucin with low cellularity and include strips of mucinous epithelium arranged in monolayers with low grade atypia and occasional small clusters and single cells. An unsual feature is the presence of pushing invasion into muscularis propria of colon. Occasional non-mucinous glands are present.  Tumour is present just deep to the stoma opening.  Tumour involves the small bowel surface, large bowel surface and in other areas there are fibrous adhesions.  Some of the mucin peritoneal deposits are rounded with a fibrous capsule and a peritoneal covering.  Many of the deposits have associated granulation tissue and some fibrosis and these are macroscopically firm. Signet ring cells are not seen.
+
+Comment:
+- In this specimen the mucinous neoplastic epithelium is low grade (well differentiated). Although there is pushing invasion into muscularis propria present there are no high grade areas present.
+
+- Grading and classification below applies to this specimen.
+
+Consensus classification (AJCC grade):
+Low-grade mucinous carcinoma peritonei (AJCC G1)
+
+AJCC classification:
+Peritoneal involvement by Low-grade appendiceal mucinous neoplasm (LAMN), (well differentiated G1)
+
+Stage (AJCC 8th ed 2017):   Intraeritoneal metastasis, cellular: pM1b
+
+DIAGNOSIS:
+RECTUM, OLD STOMA, PERITONEAL DISEASE -
+Low-grade mucinous carcinoma peritonei (G1), or peritoneal involvement by low-grade appendiceal mucinous neoplasm (LAMN), (well differentiated G1).
+
+ank

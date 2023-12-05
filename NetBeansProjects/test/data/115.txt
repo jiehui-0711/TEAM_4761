@@ -1,0 +1,28 @@
+ 7445217.IIE
+SAYAVONG, SANDEE YOKO
+74M52173,74M52173
+
+Last edited : 2/12/2063		Page: 2
+CLINICAL:
+62 yr old with grade 1 endometrioid endometrial carcinoma on curettings.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, L + R tubes, ovaries" consists of a uterus with attached bilateral fallopian tubes and ovaries, weighing 497g in total.  The uterus comprises of corpus and cervix measuring 170 x 100 x 70mm and has a smooth shiny serosal surface.  The ectocervix measures 32 x 25mm and has an unremarkable surface.  An IUD was noted in the endometrial cavity.  On sectioning, the endometrium measures 9mm in maximum thickness and the myometrium measures 32mm in maximum thickness.  The endometrial cavity contains soft friable tumour.  The myometrium contains an intramural fibroidmeasuring 7mm in maximum diameter.  The right fallopian tube measures 55mm in length and 4mm in diameter.  The right ovary measures 30 x 20 x 15mm and has an unremarkable cut surface.  The left fallopian tube measures 70mm in length and 5mm in diameter.  The left ovary measures 25 x 18 x 18mm and has an unremarkable cut surface.  
+Blocks:  1 to 7 - full longitudinal section of the anterior body and cervix; 8 to 14 -full longitudinal section of the posterior body and cervix; 15 & 16 - tumour with the deepest point of invasion (15 - reserved block for tumour banking); 17 - TS of right ovary and fallopian tube; 18 - TS ofleft ovary and fallopian tube; 19 - right cornu; 20 - left cornu; 21 - right parametrium; 22 - left parametrium; 23 - fibroid.
+B.  Specimen labelled "Hernia sac" consists of apiece of fibrofatty tissue measuring 60 x 50 x 40mm.  The serosal surface and the cut surface are unremarkable.  
+Blocks:  1 to 3 - representative sections.  (DY/mm 2.7.63) 
+MICROSCOPIC:  (Reported by Dr T Canetta) 
+A.  Sections of uterus show a well differentiated endometrioid adenocarcinoma (grade 1).  The carcinoma shows architectural grade 1 and no solid component is seen.  The tumour cells show nuclear grade 1.  The carcinoma invades less than one half of myometrium and has a depth of invasion of 3mm (block A13).  The myometrium measures 33mm in thickness.  The tumouris within the uterine corpus and is completely excised.  The endocervix and cervix are unremarkable.  There is no evidence of lymphovascular invasion.  The rest of endometrium is atrophic and shows no significant abnormality.  The myometrium shows a benign leiomyoma.  The uterine serosa is unremarkable.  The left parametrium shows foci of endometriosis.  Both fallopiantubes are unremarkable.  Both ovaries are unremarkable.  Mismatch Repair Deficiency (MMRD) Status (MSI testing), ER and PR stains for the tumour are ordered and a supplementary report will be issued.
+B.  Sections show fibrofatty tissue with no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A.  Uterus, cervix, tubes and ovaries - Endometrioid adenocarcinoma (grade 1).
+B.  Hernia sac - Fibrofatty tissue with no significant abnormality.
+SUPPLEMENTARY REPORT (2/12/2063):
+The tumour cells in the specimen A are positive for ER and PR.
+Mismatch Repair Deficiency (MMRD) Status (block A13)
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclearstaining
+MSH6		Loss of nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+

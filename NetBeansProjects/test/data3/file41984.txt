@@ -1,0 +1,146 @@
+SPR no: 31J6429782
+MRN no: 211359
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT 13/2/68
+
+31J64297 (31J6429782) MORICE, Charlie
+
+HISTOPATHOLOGY REPORT
+TEXAS HOSPITAL MULTIPURPOSE HEALTH SERVICE AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast sentinel node frozen section.  Left breast Ca + further posterior tissue, long-lateral, medium-medial, short-superior.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT BREAST SENTINEL NODE BIOPSY&amp;quot;.  Fat with two nodes.  Lymph node 1 is blue 8x5mm.  Lymph node 2 is pink 7x5mm.  One TS of each node taken on one chuck as frozen section.
+
+F/S : &amp;quot;Negative&amp;quot;. Reported to Dr. Doug by Dr. H. Wilusz at 5.00pm on 30.03.70.
+
+(1 FS; 2 remainder of lymph node 1; 3 remainder of lymph node 2).  RS (M-3)
+
+B.  Specimen labelled &amp;quot;LESION LEFT BREAST&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  70mm
+Superior to inferior:  40mm
+Anterior to posterior:  60mm
+WEIGHT:  77g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 12
+FINDINGS / LESION:  There is a well demarcated lesion with pushing borders and central areas of necrosis extending from slice 4 to slice 8 measuring 33mm anterior to posterior x 28mm superior to inferior x 20mm medial to lateral.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS:
+Anterior 4m, posterior possibly involved, superior 6mm, inferior possibly involved, medial 16mm, lateral 20mm
+(1 two LS slice 1 [medial]; 2&amp;amp;3 slice 2; 4-6 superior slice 4 posterior to anterior [start of lesion]; 7 tumour abutting inferoposterior margin slice 5; 8-12 slice 6; 13 tumour involving inferoposterior margin slice 7; 14 inferior slice 9; 15&amp;amp;16 slice 11; 17 two LS slice 12 [lateral]).  RS (M-17)
+C.  Specimen labelled &amp;quot;FURTHER POSTERIOR MARGIN LEFT BREAST&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Re-excision oriented
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS:
+Medial to lateral:  50mm
+Superior to inferior:  40mm
+Anterior to posterior:  10mm
+WEIGHT:  15g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior  (ragged ? cavity) blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices: 11
+FINDINGS / LESION:  Possible firm areas are identified anteriorly in slices 1, 2 and 9.  No discrete lesions are identified. The specimen is embedded to its entirety.
+(1 slice 1 serially sliced [medial]; 2-10 slice 2 to 10 respectively; 11 slice 11 serially sliced [lateral]).  AE (M-11/ZH 2/4/2070 ank)
+MICROSCOPIC:  (Dr. H Hedges)
+A.  No evidence of malignancy is seen in two lymph nodes identified. Immunohistochemistry stain for Cytokeratin CAM5.2 is negative.
+B.  &amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160; 30mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Infiltrating duct carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 3
+
+SCORES Tubules:    3, Nuclei:    3, Mitoses:    3; Total score: 9&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;26&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 30mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+PERINEURAL INVASION: Not seen
+&amp;#160;
+SKIN INVOLVEMENT: Not seen
+DERMAL LYMPHOVASCULAR INVASION: Not seen
+&amp;#160;
+NIPPLE INVOLVEMENT: N/A
+&amp;#160;
+MUSCLE INVOLVEMENT: Not seen
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Not seen
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not seen
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+Invasive carcinoma is 0.1mm from the closest posteroinferior margin and appears clear of other margins by 8mm.
+
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B12
+&amp;#160;
+ER: &amp;#160;	negative
+PgR: &amp;#160;	negative
+HER2: &amp;#160;negative (score 0).  SISH to follow
+Ki67:	60-70%
+&amp;#160;
+Other tumour block suitable for further testing: B13
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS:
+Granulation tissue is noted adjacent to tumour consistent with biopsy site.  Uninvolved breast tissue shows fibrocystic change.
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT2, pN0
+
+C.  Sections show fibrofatty breast tissue.  No evidence of malignancy.
+
+DIAGNOSIS:
+A.  LEFT BREAST SENTINEL NODE -
+-NO EVIDENCE OF MALIGNANCY IN TWO NODES.
+B.  LESION LEFT BREAST -
+-INFILTRATING DUCT CARCINOMA, GRADE 3, SIZE 30mm.
+C.  FURTHER POSTERIOR MARGIN LEFT BREAST -
+-NO EVIDENCE OF MALIGNANCY.
+4/2/2071 ank
+SUPPLEMENTARY REPORT 13/1/67
+HER-2 IN-SITU HYBRIDISATION
+
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+HER2 Dual ISH result:   NEGATIVE
+
+Mean HER2 copy number per cell:  1.3
+Mean CEP17 copy number per cell:  1.2
+HER2/CEP17 Ratio:  1.1
+
+SCORING CRITERIA (Update in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal:&amp;#160; HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; or equal to 6.0
+Positive: HER2/CEP17 &amp;gt; or equal to 2.0
+
+Reported by: Dr H Grisanti
+Date: 14/2/71

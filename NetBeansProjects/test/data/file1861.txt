@@ -1,0 +1,49 @@
+SPR no: 13Z265187K
+MRN no: 1392651
+Site_name: ROYAL MELBOURNE HOSPITAL - CITY CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  13Z265187K
+1392651.WSK
+
+PREAS, TASHINA
+Lab No:  13Z26518,13Z26518
+Wetherbees
+HEDDON GRETA  SA  2357
+Specimen: Washings,Tissue
+D.O.B:  20/7/2031
+Sex:  F
+Collected: 11/03/2015 at 11:37
+Location:  DAY SURGERYUNIT - LIVERPOOL HOSPITAL
+DR LONNIE CARTER KOGUCHI
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Known serous ovarian cancer &amp;#8211; recurrence at vaginal vault.  BRCA negative.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left uterosacral nodule&amp;quot; consists of a nodular piece of tissue with attached patchy fatty tissue 28 x 25 x 22mm.  The cut surfaces are partially solid and partially cystic.  The solid component is tan.
+Blocks: 1 to 3 &amp;#8211; representatives (block 3 &amp;#8211; reserve block).
+
+B.  Specimen labelled &amp;quot;Left round ligament biopsy&amp;quot; consists of a piece of tan/yellow solid tissue measuring 12 x 7 x 7mm.  BAE 1 block.
+C.  Specimen labelled &amp;quot;Right round ligament biopsy&amp;quot; consists of a piece of tan solid tissue measuring 9 x 9 x 7mm.  BAE 1 block.
+
+D.  Specimen labelled &amp;quot;Left paracolic gutter biopsy&amp;quot; consists of a piece of tan/yellow solid tissue measuring 7 x 7 x 6mm.  BAE 1 block.
+
+E.  Specimen labelled &amp;quot;Right parachortical gutter biopsy &amp;quot; consists of a piece of tan/yellow solid tissue measuring 10 x 10 x 7mm.  BAE 1 block.
+
+F.  Specimen labelled &amp;quot;Omental biopsy&amp;quot; consists of two pieces of omental fatty tissue measuring 45 x 40 x 7mm and 12 x 11 x 5mm.  Specimen is sliced.  No nodules are identified.  Blocks 1to 3 &amp;#8211; AE.
+
+G.  Specimen labelled &amp;quot;Lower left external iliac lymph node&amp;quot; consists of a lymph node measuring 15 x 14 x 5mm with attached fatty tissue measuring 22 x 14 x 5mm.
+Blocks: 1 &amp;#8211; one bisected lymph node.
+
+H.  Specimen labelled &amp;quot;Upper left external iliac lymph node&amp;quot; consists of a lymph node measuring 9 x 7 x 6mm.  BAE 1 block.  (HM/ta 14/5/65)
+MICROSCOPIC (reported by Dr D Neusch):
+A.  Sections of fibroadipose tissue show a single deposit of poorly differentiated carcinoma consistent with serous adenocarcinoma.
+B .  Sections of fibroadipose tissue show no significant abnormality.  There is no evidence of malignancy.
+F.Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+G &amp;amp; H.  The single (1) lymph node identified shows no significant abnormality.  There is no evidence of malignancy.
+DIAGNOSIS:
+A &amp;#8211; H.  Left uterosacral nodule, peritoneal biopsies, omentum and iliac lymph nodes:
+- Serous adenocarcinoma within left uterosacral nodule.
+- Omentum negative.
+- Two negative lymph nodes.

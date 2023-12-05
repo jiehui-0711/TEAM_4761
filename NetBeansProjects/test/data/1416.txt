@@ -1,0 +1,51 @@
+Episode No:  20B5820139
+200582.BFJ
+
+Harkins, CHRISTOPHER G 
+Lab No:  20B58201
+La Brea
+ALDGATE  Northern Territory  6149
+Specimen: Tissue
+D.O.B:  2/2/2005
+Sex:  M
+Collected: 25/03/2013 at 15:42
+Location:  ACUTECARE WARD-ARMADALE KELMSCOTT MEMORIAL HOSPITAL
+DR MINTA ERICH Mashburn
+Distribution:   FILE-COPY
+CLINICAL:
+Prostate Ca PSA 7.27.  Perforated bowel.  Prostate cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Prostate, stitch at bladder neck anterior" consists of a 25g prostate measuring 50 x 35 x 30mm.  The anatomy of the prostate is distorted.  The specimen was orientated with Dr BENNETT Faulker (urology registrar).  The left posterior base is loosely attached to the remainder of the prostate.  This part is separated and inked as follows.  Posterior black and superior blue.  The remainder of the prostate is inked as follows:  Anterior blue, posterior black, rightred.  The exposed surfaces which are not margins are inked green.  
+Blocks:  1 to 6 - left posterior base (the loosely attached part) blocked from midline to left lateral; 7 to 12 - apex blocked from left to right; 13- the slice above apex; 14- left anterior (above 13); 15 - the next slice above; 16 to 25 - the base blocked from left to right.  AE.
+B.  Specimen labelled "Left seminal vesicle" consists of a piece of tan solid tissue, 46 x 25 x 10mm.  The outer surface is inked blue.  The specimen is tapered towards one end and brought towards the opposite end.  It is serially sliced and all blocked from the tapered end towards the opposite side.  AE 5 blocks.  
+C.  Specimen labelled "Right seminal vesicle" consists of a piece of tan solid tissue 40 x 25 x 6mm.  The external surface is inked blue.  Specimen is tapered towards one end.  It is serially sliced and blocked from the tapered end towards the opposite end.  AE 4 blocks.  (TO:  CQ:  SC/mm 29.5.63) 
+MICROSCOPIC (reported by Dr G Protzman):
+A to C.
+RADICAL PROSTATE PROFORMA
+
+Histological type: Adenocarcinoma
+Tumour location:
+Dominant nodule: Left apex to base (anterior and posterior quadrants)
+	Non-dominant (>10mm): Not seen
+	Smaller nodules: Present (right mid prostate)
+Volume/Size (Dominant nodule): 3.8ml (18mm x 15mm x 35mm x 0.0004) 
+Gleason score: 3+4=7
+Extraprostatic extension: Not seen
+Surgical margins:
+  Positive margins (without extracapsularspread)
+	Left posterior apex, Gleason 3 tumour over a 7mm front (A8)
+	Left anterior apex, Gleason 3 tumour over a 2.5mm front (A8)
+	Left posterior base, Gleason 3 tumour over a 2.5mm front (A4)
+
+Perineural invasion:  Present (within prostate)
+Seminal vesicles: Not involved
+Lymph nodes:  n/a
+Lymphovascular invasion: Not seen
+DIAGNOSIS:
+Adenocarcinoma, Gleason score 3+4=7
+Stage (AJCC/UICC TNM system, 7th edition)
+pT2c Bilateral disease 
+pNX Regional lymph nodes not sampled. 
+MX Cannot be assessed histologically
+M0 No distant metastasis. 
+

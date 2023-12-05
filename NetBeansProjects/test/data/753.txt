@@ -1,0 +1,61 @@
+
+Episode No:  30T681507C
+3076815.ASC
+
+LURA, Jae 
+Lab No:  30T68150,30T68150
+Stone Mill
+GOSFORD  NT  1224
+Specimen: Washings,Tissue
+D.O.B:  17/10/2007
+Sex:  F
+Collected: 18/02/2014 at 13:49
+Location:  3/9 JENNIE COX CLOSE - ROCKINGHAM GENERAL HOSPITAL
+DR SOFIA Jonnie MCKANE
+Distribution:  DR HIPOLITO,  FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Endometrioid grade 1 on D&C.  Smoker 40/year pack history.  Obesity BMI 31.  T cell disorder.  Irritable bowel symptoms. Endometrial cancer.  Mismatch repair gene IHC.
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix, tubes and ovaries", consists of a uterus with cervix and bilateral fallopian tubes and ovaries, weighing 65g total.  The uterus and cervix is received opened along the right lateral wall.  The uterus and cervix is 70 x 50 x 25mm.  The ectocervix is 35 x30mm and appears unremarkable.  The left fallopian tube is 60mm in length and 5mm diameter.  The left ovary is 25 x 15 x 10mm.  The right fallopian tube is 60mm in length and 5mm diameter.  The right ovary is 25 x 12 x 8mm.  Within the body and fundus of the uterus is an exophytic tan tumour, 25 x 25 x 20mm.  The tumour is 25mm clear of the ectocervix.  The tumour in the posterior wall appears to infiltrate to a depth of 6mm, with a total myometrial thickness of 12mm.  On the left fallopian tube are three pale cystic nodules, each 3mm across.  On the right fallopian tube is a metal surgical clip in keeping with previous tubal ligation.   Otherwise the adnexae are unremarkable.  
+Blocks: 1 to 3 - mid line sagittal section from cervix to fundus anterior wall; 4 to 6 - mid line sagittal section from cervix to fundus posterior wall; 7 to 11 - remainder of anterior endometrial cavity from right toward left; 12 to 17 - remainder of posterior endometrial cavity from right towards left; 18 - right ovary and fallopian; 19 - left ovary and fallopian tube
+B.  Specimen labelled "Left external iliac lymph node", consists of a piece of fatty tissue, 50 x 40x 15mm.  Multiple lymph nodes are identified.  The largest is 25mm across.
+Blocks: 1 and 2 - one lymph node bisected in each block; 3 and 4 - multiple lymph nodes.
+C.  Specimen labelled "Left obturator", consists of a piece of fatty tissue, 60 x 40 x 20mm.  Two possible lymph nodes are identified, 15 and 20mm.  
+Blocks: 1and 2 - one lymph node bisected in each block.
+D.  Specimen labelled "Right external iliac lymph node", consists of a piece of fatty tissue, 55 x 40 x 15mm.  Multiple lymph nodes are identified.  The largest is 15mm across. 
+Blocks: 1 and 2 - one lymph node bisected in each block; 3 - one lymph node; 4 - multiple lymph nodes.
+E.  Specimen labelled "Right obturator lymph node", consists of a piece of fatty tissue, 45x 20 x 15mm.  Multiple lymph nodes are identified.  The largest is 20mm.  
+Blocks: 1 and 2 - one lymph node in each block; 3 - two lymph nodes.
+(TO: AF;CO/vo 21.4.64) 
+
+
+MICROSCOPIC (Reported by Dr I Thalls):
+A. Sections show an endometrioid adenocarcinoma, grade 1, of the endometrium.  The lesion has a complex glandular and papillary architecture, and is composed of columnar tumour cells with mild to moderate nuclear atypia.  There is no evidence of a significant solid component. There is no evidence of severe nuclear atypia, in keeping with a grade of 1. 
+There is no evidence of lymphovascular invasion.
+the deepest point of invasion the tumour has invaded 8mm into a wall 15mm thick (A6).
+Adenomyosis is present in the myometrium.
+The cervix shows no evidence of HPV effect, CIN or malignancy.
+The fallopian tubes and ovaries show no evidence of malignancy.
+Shown to Dr Melvin Redcay. 
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+B. Sections show 7 lymph nodes with no evidence of malignancy.
+C. Sections show 2 lymph nodes with no evidence of malignancy.
+D. Sections show 5 lymph nodes with no evidence of malignancy.
+E. Sections show 3 lymph nodes with no evidence of malignancy.
+DIAGNOSIS
+A. Uterus, cervix, bilateral fallopian tubes and ovaries:
+	Endometrioid adenocarcinoma, grade 1 of the endometrium
+	Maximum depth of invasion: 8 mm into a wall 15 mm thick
+	No evidence of lymphovascular invasion
+	Cervix, fallopian tubes and ovaries show no evidence of malignancy
+
+B to E. Left and right external iliac, left and right obturator lymph nodes:
+- 17 lymph nodes with no evidence of malignancy
+

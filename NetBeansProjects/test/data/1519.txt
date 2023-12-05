@@ -1,0 +1,119 @@
+
+Episode No:  47I888108N
+473888.CCW
+
+Vanluven, ALFONZO 
+Lab No:  47I88810
+Columbus
+DUBBO    2350
+Specimen: Tissue
+D.O.B:  19/8/2017
+Sex:  F
+Collected: 8/8/2063 at :
+Location:  ST GEORGE PRIVATE-GUNDAGAI DISTRICT HOSPITAL
+DR STEVEN CHET Carinio
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT (28.8.63):
+SUPPLEMENTARY REPORT (7.9.63):
+
+
+CLINICAL:
+Left breast cancer 2 o'clock 9cm fn.  Invasive ductal carcinoma. +ve nodes on imprint.  Left breast cancer upper outer quadrant level 1 & 2 left axilla.  
+MACROSCOPIC:
+A.  Specimen labelled "Left axillary lymph node" consists of two blue dyed lymph nodes measuring 6 and 8mm.  Serially sectioned, imprints done.  
+Blocks: 1 & 2 - one lymph node each.  
+FROZEN SECTION REPORT:
+Metastatic carcinoma in one of two nodes.  
+Result to Dr Bryce by Dr K Whit at 14.00 on 6/6/13. 
+  
+B.  Specimen labelled "Level 1 & 2 left axilla" consists of a piece of fatty tissue 30 x 30 x 10mm containing six possible lymph nodes.
+Blocks: 1 - three lymph nodes; 2 - four possible lymph nodes.
+C.  Specimen labelled "Left breast cancer, upper outer quadrant, short stitch superior, medium stitch medial, long stitch lateral" consists of a fibrofatty nodular piece of tissue with three stitches for orientation as above.  Specimen measures 60mm (superior to inferior) x 50mm (medialto lateral) x 40mm (superficial to deep) margins.  The specimen is inked red lateral margin, yellow medial margin, blue superficial margin and black deep margin.  Specimen serially sectioned from superior to inferior into ten slices.  Slice one superior margin, slice ten inferior margin.  On sectioning and in slices four to eight there is an ill defined, white, solid tumour measuring 20mm (superficial to deep) , 20mm from (medial to lateral) and up to 20mm from (superior to inferior). Representative sections according to the attached diagram.  The superficial margin has fragmented during slicing, creating a cleft. The complete superficial margin is included in the sections.
+Blocks: 1 - one representative section superior margin (slice one); 2 to 4 - slice three; 6 to 8 - slice four; 9 to 12 - slice five; 13 to 15 - slice six; 16 to 18 - slice seven; 19 to 22 - slice eight; 23 - two representative sections of inferior margin (slice ten).   (NM/ta  9/8/63) 
+MICROSCOPIC (Reported by A/Prof K Abrahamson): 
+A. - C Invasive carcinoma:
+Site: Upper outer quadrant
+Type: Infiltrating duct, NST
+Invasive tumour size: 20mm
+Grade (Modified Bloom & Richardson): 2
+Tubules: 2     Nuclei:  2    Mitoses:  2    Mitotic rate:     9 /10hpf.
+The nuclei fall short of a definite score of 3.
+Lymphovascular invasion:  Present at edge of tumour
+	    
+DCIScomponent:  
+DCIS:  Present - mixture of low and intermediate grade.
+Maximum extent of DCIS: Patchy foci of DCIS and ADH are identified within the surrounding breast tissue, scattered across 4 slices.
+Nuclear grade:  low and intermediate
+Architecture: Solid and cribriform
+Necrosis:   Punctate
+Calcification: No
+Degree of DCIS in tumour:  <25%
+DCIS in adjacent tissue:  Present distant to invasive tumour.
+Excision Margins:  
+Invasive component: The invasive tumor appears completely excised. The closest margin is 3mm from the black inked, deep surface. The superficial margin containsa cleft with diathermy artifact which has fragmented during processing. There appears to be an intact layer of adipose tissue in this area and the true superficial margin does not appear involved.
+In-situ component: DCIS extends to the deep margin focally in slice 3, towards the superior end of the specimen. (C2). ADH also extends close to the deep margin.
+In some sections, DCIS is seen at the diathermied surface within the "cleft" along the superficial surface, however, as discussed above, the true superficial margin does not appear involved.
+Receptors (Block C15):  Report to follow.
+
+Nipple:  
+Not present
+LCIS / ALH:    
+Focal ALH identified.
+Miscellaneous:
+A biopsy tract is present in the carcinoma.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:
+Number of sentinel lymph nodes involved by tumour:          
+Number of sentinel nodes with metastases >2.0mm:    
+Number of sentinel nodes with metastases <2.0mm:      
+	Detected by:
+Number of sentinel nodes with isolated tumour cells <0.2mm:       
+	Detected by:
+Extranodal spread: 
+Axillary/other nodes:
+Number of axillary lymph nodes examined: 2 sentinel nodes and 4 level 1 and 2 nodes.
+Number of axillary lymph nodes involved by tumour:   3 (total 3 out of 6)   
+Number of axillary nodes with metastases >2.0mm: 3   
+Number of axillary nodes with metastases <2.0mm:      
+Number of axillary nodes with isolated tumour cells <0.2mm:       
+Extranodal spread:    Present, up to 1 - 2 mm.
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  6 
+Total number of involved lymph nodes (including sentinel node(s)): 3
+DIAGNOSIS:
+A. - C. 
+LEFT BREAST: 
+	20MM INFILTRATING DUCT CARCINOMA, GRADE 2 WITH FOCAL LYMPHOVASCULAR INVASION
+	DUCTAL CARCINOMA IN SITU EXTENDS TO DEEP MARGIN
+	INVASIVE CARCINOMA APPEARS COMPLETELY EXCISED
+	ONE POSITIVE SENTINEL NODES
+	TWO POSITIVE LEVEL 1/LEVEL 2 NODES
+	EXTRANODAL EXTENSION PRESENT
+	ER/PR/KI67/HER 2 IN PROGRESS
+
+SUPPLEMENTARY REPORT (28.8.63, Dr K Gilding):
+Receptors:
+ER:   Positive.
+         100% of tumour cells show positive staining.
+          Predominant intensity of staining:  Strong.
+PR:   Positive.
+         100% of tumour cells show positive staining.
+          Predominant intensity of staining:  Strong.
+Her-2:   0 (negative).  Her-2 ISH to follow.
+Ki-67:   8%.
+    
+ADDITIONAL REPORT:  (7.9.2063)
+Blocks were sent to MANNING RURAL REFERRAL HOSPITAL (TAREE) Hospital for Her2 ISH analysis.
+HER2 IHC Result:   0.
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (nonamplified, diploid). 
+Mean Her2 copy number per cell: 	1.8
+Mean CEP17 copy number per cell:  1.4
+HER2/CEP17 ratio:  			1.28
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+Reported by Dr K Schoenemann
+

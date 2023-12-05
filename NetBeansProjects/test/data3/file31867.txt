@@ -1,0 +1,19 @@
+SPR no: 76W755424S
+MRN no: 76875542
+Site_name: AUGATHELLA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Lynch syndrome.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Cervix uterus bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries, weighing 34.6g in total.  The uterus measures 62 x 44 x 20mm and has a smooth and shiny serosal surface.  The cervix measures 20 x 20mm and has an unremarkable mucosal surface.  On sectioning the endometrium measures less than 1mm thick on a myometrium that measures up to 12mm thick.  No lesions are identified.  The right fallopian tube measures 50 x 4mm and the right ovary measures 22mm x 13mm x 8mm.  The left fallopian tube measures 48mm x 4mm and the left ovary measures 18mm x 10 x 7mm.  No lesions are seen on sectioning.
+Blocks: 1 to 4 - two full longitudinal sections through anterior body and cervix; 5 to 8 - two full longitudinal sections of posterior body and cervix; 9 &amp;amp; 10 - right adnexa; 11 &amp;amp; 12 - left adnexa.
+(TO:AP/eh 1/5/67)
+
+
+MICROSCOPIC (Reported by Dr T Maruscak):
+The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive with focal cystic atrophy.  The myometrium as well as both ovaries and fallopian tubes show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+Uterus, cervix, bilateral tubes and ovaries:  No significant abnormality.

@@ -1,0 +1,26 @@
+SPR no: 57H032316M
+MRN no: 5730323
+Site_name: CLARE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Peritoneal cancer.  6 x carboplatin paclitaxel.  Chest pain ? cardiac.  Recent DVT.  Found to have stenosis at R iliac venous system on venogram recently.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cervix uterus bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix and bilateral tubes and ovaries weighing 55g in total.  The uterus measures 68 x 37 x 24mm and has a mostly roughened irregular serosal surface.  The cervix measures 28 x 27mm and is grey and shiny.  On sectioning the endometrium measures less than 1mm thick on a myometrium measuring 13mm thick.  On the anterior aspect the myometrium is distorted by a circumscribed nodule measuring 8mm in maximal dimension.  The right fallopian tube measures  45mm x 6mm and the right ovary measures 25 x 15 x 12mm.  The left fallopian tube measures 65 x 6mm and the left ovary measures 25 x 17 x 14mm.  The serosal surface is dull and roughened.  Both ovaries show irregular areas of tan papillary projections.
+Blocks: 1 to 3 - full LS through anterior body and cervix; 4 to 6 - full LS of posterior body and cervix; 7 - anterior myometrial nodule; 8 to 10 - right adnexa; 11 to 13 - left adnexa.
+B.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of omental fat, 125 x 100 x 40mm.  The peritoneal lining is mostly shiny with areas of haemorrhage.  The fat appears fibrotic and firm.  Multiple areas of ill defined pallor are identified on cut surface ranging in size up to 30mm in maximal dimension.  RS 3 blocks.
+C.  Specimen labelled &amp;quot;Bladder peritoneum&amp;quot;, consists of a piece of irregular fibrofatty tissue measuring 42 x 22 x 10mm.  One aspect is coated in a shiny and partially haemorrhagic peritoneal lining.  Towards one end there is a firm area of ? fibrosis measuring 22 x 12 x 10mm.
+Blocks: 1 &amp;amp; 2 - fibrotic area; 3 - remaining fatty tissue.  AE.
+D.  Specimen labelled &amp;quot;Transverse colon nodules&amp;quot;, consists of two firm pieces of fatty tissue measuring 25 x 24 x 14mm and 15 x 10 x 8mm.  The cut surface of each piece demonstrates an irregular fibrotic appearance.  AE.
+Blocks: 1 &amp;amp; 2 - larger piece; 3 - smaller piece.  (TO:AP/eh 3/1/66)
+MICROSCOPIC (Reported by Dr N Gilbreth):
+A.  Sections show high grade serous carcinoma involving both ovaries, the fimbrial end of both tubes, the uterine serosa and outer myometrium.  Virtually no chemotherapy effect is seen.
+Chemotherapy Response Score 1.
+The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows a small leiomyoma.
+B, C &amp;amp; D.  Sections show high grade serous carcinoma with only focal chemotherapy response.
+DIAGNOSIS:
+High grade serous carcinoma involving both ovaries, the fimbrial end of both tubes, the uterine serosa and outer myometrium, the omentum, the bladder peritoneum and transverse colon.
+
+
+ADDITIONAL REPORT 1/7/69:
+As requested, the tumour is strongly positive for ER and PR.

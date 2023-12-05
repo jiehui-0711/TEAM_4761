@@ -1,0 +1,58 @@
+Episode No:  62N392959C
+6253929.OZC
+
+Saracino, KENZIE Johnathan 
+Lab No:  62N39295
+Little Marlow
+MITTAGONG  NT  1360
+Specimen: Tissue
+D.O.B:  21/2/2011
+Sex:  M
+Collected: 21/12/2064 at :
+Location:  Anat Path-JOHN HUNTER HOSPITAL ROYAL NEWCASTLE CENTRE
+DR PAT KRIS EANS
+Distribution:    NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT (25.1.65):
+
+
+CLINICAL:
+Brain tumour.  Left sided intracranial lesion.  Frozen section. 
+MACROSCOPIC:
+A.  Specimen labelled "Brain tumour", consists of multiple pieces of soft mucoid tissue, 15 x 10 x 5mm in aggregate.  RS for frozen section in block 1.  Remainder in block 2.  AE.
+
+FROZEN SECTION REPORT:
+Necrotic non-diagnostic.
+Phone results to Anaesthetist by Dr R Butac at 6:40pm on 21.12.64. 
+B.  Specimen labelled "Brain tumour", consists of two pieces of soft brown tissue, 15 x 10 x 5mm and 10 x 10 x 5mm.  RS for frozen section in block 1.  Remainder in block 2.  AE.
+FROZEN SECTION REPORT:
+Pleomorphic glial tumour with mitosis, consistent with high grade.
+Phone results to Anaesthetist by Dr R Gariti at 7:05pm on 21.12.64. 
+C.  Specimen labelled "Posterior brain tumour", consists of multiple fragments of tan and haemorrhagic tissue 30 x 25 x 15mm in aggregate.  AE 3 blocks. 
+(TO: UD;BU/vo 22.12.64)
+D  Specimen labelled "Brain tumour posterior" consists of multiple fragments of haemorrhagic tissue 25mm in aggregate.  The majority is embedded in 3 blocks.
+(TO: FZ; DI/rt 22.12.64)
+MICROSCOPIC (Reported by Dr R R Borkoski):
+A to D. Sections show a high grade glioma with features in keeping with a glioblastoma multiforme (WHO grade IV). The tumour is highly cellular and is composed of gemistocytic appearing cells with enlarged, atypical nuclei. Prominent pseudopalisading necrosis is present and significant endothelial hyperplasia is identified. The tumour shows extensive ischemic necrosis secondary to thrombosed vessels.There are up to 3 mitoses in 10hpf. Focal meningeal involvement by tumour is present (Block C3). 
+
+Immunohistochemistry 
+GFAP: Positive. 
+IDH1: Negative. 
+CD 68: Positive in macrophages. 
+Ki 67: Up to 10% focally. 
+
+Representative sections have been shown to Dr R Doshi who concurs.
+
+Sections of the paraffin embedded tumour have also been sent to the WILCANNIA HEALTH SERVICE Institute for assessment of MGMT methylation status. 
+
+
+DIAGNOSIS: 
+Posterior brain tumour:  Glioblastoma multiforme (WHO grade IV)
+
+
+SUPPLEMENTARY REPORT (25.1.65):
+Tissue was sent to the CESSNOCK DISTRICT HOSPITAL Centre for MGMT testing.
+DNA was extracted from paraffin tissue.  The DNA was bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation.
+The sample was tested twice with the appropriate controls and wasfound to be unmethylated (4.5%) at the MGMT promoter region.
+Reported by Dr R Mccamy.
+Please note that this test was performed in a research laboratory which is not NATA accredited.
+

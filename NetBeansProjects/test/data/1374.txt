@@ -1,0 +1,69 @@
+
+Episode No:  54R040713W
+546040.TFJ
+
+TURRUBIATES, Reed Leslee 
+Lab No:  54R04071
+Iron Horse
+YOUNG    3463
+Specimen: Tissue
+D.O.B:  30/12/2023
+Sex:  F
+Collected: 19/11/2063 at :
+Location:  DICKINSON 3 SOUTH-OMEO DISTRICT HEALTH
+DR Jonah Mikel CONNOR-HERPICH
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Left breast invasive carcinoma.  SLNB L axilla.  Left breast 3 o'clock invasive carcinoma.  L 5 o'clock 5mm + 5mm lesion.  L 7 o'clock 7mm lesion short superior long lateral sutures.
+(ER PR HER-2 Ki67 performed on core 54R04071).
+MACROSCOPIC:
+A. Specimen labelled "Left sentinel node biopsy" consists of three pieces of fibrofatty tissue 15 x 10 x 5mm, 20 x 10 x 10mm and 23 x 15 x 12mm; each contains one lymph node 13, 8 and 7mm imprints done for Pap & H & E.  NB:  Slides:  1 - largest LN; 2 - medium LN; 3 - smallest LN.
+FROZEN SECTION REPORT:
+Three negative lymph nodes.
+Result to the Anaesthetist by Dr COLIN Colasuonno at 16:50pm on 17th of September 2013.
+Blocks:  1 & 2 - one lymph node; 3 - one lymph node; 4 - one lymph node.
+B. Specimen labelled "Left breast long lateral short superior" consists of a mastectomy specimen with two marking stitches measuring 240mm (lateral to medial) x 160mm (superior to inferior) x 60mm (superficial to deep).  The overlying skin is 70 x 42mm bearing a prominent nipple 15mm in maximum dimension.The skin surface appears unremarkable.  The superficial margin is inked blue and the deep margin is inked black.  There is an indurated pale tumour at 3 o'clock 10 mm from the nipple measuring 28 x 22 x 20mm.  The tumour is 32mmfrom deep, 55mm from inferior, 75mm from superior, 110mm from medial and 100mm from lateral margins.  At 5 o'clock 40mm from the nipple there is a pale brown solid nodule 5mm in maximum dimension.  The nodule is 40mm from deep andmore than 50mm from all the other margins.  There is another pale brown nodule 5mm in maximum dimension at 5 o'clock, 50mm from the nipple.  This nodule is 20mm from deep, 40mm from inferior, 40mm from lateral and more than 50mm from all the other margins.  At 7 o'clock 50mm from the nipple there is a pale solid nodule with a rubbery consistency, 9 mm in maximum dimension.  This nodule is 25mm from the inferior, 60mm from deep, 40mm from medial and well clear of all other margins.
+Blocks:  1 - 5 o'clock lesion closer to the nipple; 2 - 5 o'clock lesion further from the nipple; 3 - 7 o'clock lesion; 4 & 5 - paired sections from skin and tumour; 6- section of tumour; 7 & 8 - sections of tumour (7 - preserved block); 9 - deep margin closest to tumour; 10 & 11 - paired sections nipple and tissue behind the nipple; 12 & 13 - random sections upper inner quadrant; 14 & 15 - sections of lower inner quadrant (7 o'clock); 16 & 17 - random sections upper outer quadrant; 18 & 19 - random sections lower outer quadrant.
+(TO: FW; GN/rt 20.11.63)
+MICROSCOPIC (Reported by Dr P Fitzgerrel):
+A.  The three sentinel nodes are negative for tumour.  The CAM 5.2 is negative.  
+B.  The lesion at 3 o'clock 10mm FN is a grade 1 infiltrating ductal carcinoma (IDC), Bloom and Richardson score 5 (t=2, n=2, m=1). This IDC measures 28 x 22 x 20mm.  This tumour is 10mm deep to skin and 32mm from the deep margin.  The IDC includes intermediate DCIS within and at the periphery of the tumour and the dimension of the DCIS and clearance are similar to those of the IDC.  
+The two (2) small lesions identified at 5 o'clock and 7 o'clock are radial scars with epithelial hyperplasia and cystic change.  
+The nipple and areola appear normal and random sections from the four quadrants away from the tumour show no significant abnormality.
+DIAGNOSIS:
+A & B.  Left mastectomy plus sentinel nodes:
+Invasive carcinoma:
+Site:  Left breast mastectomy.  
+Type:  Infiltrating ductal carcinoma (IDC)
+Invasive tumour size:  28 x 22 x 20mm.
+Grade 1 (Modified Bloom & Richardson):
+Tubules:  2  Nuclei:  2  Mitoses:  1  Mitotic rate:  5/10hpf.
+Lymphovascular invasion:  Absent.
+	    
+DCIS component:  
+DCIS:  Present.
+Maximum extent of DCIS:  Similar to IDC.  
+Nuclear grade:  Intermediate.  
+Architecture:  Comedo and solid.  
+Degree of DCIS in tumour:  >25%
+DCIS in adjacent tissue:  None/minimal.  
+Excision Margins:  
+Invasive component:
+Deep 32mm, other margins well clear.  
+In-situ component:
+Similar to IDC.  
+Receptors:  ER, PR, HER-2 CISH, Ki67 performed onthe core biopsy - see 54R04071.
+Nipple:  Normal.
+
+LCIS / ALH:  Absent. 
+Miscellaneous:  Radial scars at 5 and 7 o'clock.  
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  3
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

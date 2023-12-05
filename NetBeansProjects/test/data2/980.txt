@@ -1,0 +1,23 @@
+ 1461424.EED
+Uzdygan, Jewel DYAN
+14R14241
+
+Last edited : 20/5/2064		Page: 2
+HER-2 IN-SITU HYBRIDISATION
+
+Source of material:  Liberty Media, MUNGINDI HOSPITAL, Dr D Serapion.
+Material received:  4 slides 14R14241, D9.
+Clinical notes: IDC right breast.  
+HER2 IHC Result: 0
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:          NEGATIVE (nonamplified, diploid)
+Mean HER2 copynumber per cell: 1.84
+Mean CEP17 copy number per cell: 1.79
+HER2/CEP17 Ratio: 1.03
+SCORING CRITERIA (ASCO/CAP recommendations): 
+Negative: HER2/CEP17 < 1.8
+Equivocal:  HER2/CEP17 = 1.8-2.2
+Positive: HER2/CEP17 >2.2
+Reported by: Dr D Trent
+Date: 20.5.2064
+

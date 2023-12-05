@@ -1,0 +1,28 @@
+SPR no: 37T526637R
+MRN no: 37752663
+Site_name: NORTHAM HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Postop.  Laparotomy and proceed.  Pelvic mass, left tube and ovary.
+Previous pathology (Commercial Metals Company 37T52663): Cervix (pelvic) mass - smooth muscle neoplasm, favour leiomyoma.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Pelvic mass&amp;quot;, consists of an unorientated 77 x 62 x 56mm irregular pale tissue with a multinodular external surface, weighing 136g in total.  At one end there is a region covered by a smooth glistening membrane, 45 x 45mm.  The remainder of the external surface is inked blue.  Serial slices show the specimen has a pale whorled cut surface with focal areas of red and yellow discolouration.
+Blocks: 1 to 7 - full transverse slice of the specimen in seven composite sections; 8 to 10 - further RS of discoloured areas.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of a 43 x 25 x 15mm unorientated piece of tan and brown tissue.  There is a possible 30mm segment of fallopian tube with a diameter up to 4mm.  Also present is a 30 x 23 x 18mm ovoid tissue consistent with ovary which has a 10mm diameter simple fluid filled cyst on the external surface.  The cut surface of the ovary shows several further simple cysts, some filled with red material, up to 9mm in diameter as wells as a convoluted yellow structure consistent with corpus luteum.  The fimbrial end of the fallopian tube is not definitively identified.  All of the ?fallopian tube and half of the ovary embedded.
+Blocks: 1 &amp;amp; 2 - TS through ?fallopian tube; 3 to 6 - four sections of ovary.
+(TO: SW; SW/ta 26/6/69)
+
+
+MICROSCOPIC: (Reported by Dr H Rients)
+A.  Sections of the pelvic mass show an atypical smooth muscle tumour with a small amount of overlying unremarkable squamous epithelium. The smooth muscle lesion is moderately to highly cellular with patchy moderate cytologic atypia (at low power) and brisk mitotic activity (up to 25 mitoses per 10 hpf). There are also several smooth foci of necrosis with features suggestive, but not definite, for coagulative necrosis. A focus of myxoid stromal change is also seen. Overall, the presence of cytologic atypia and brisk mitotic activity, is consistent with a smooth muscle tumour of uncertain malignant potential. However, given the presence of multiple foci of necrosis (?hyaline ?coagulative), as well as, patchy myxoid stromal change, a leiomyosarcoma cannot be entirely excluded.
+Representative slides seen with Dr H Suh.
+
+B.  Sections of the left ovary show follicles at varying stages of development. A definite fallopian tube is not seen histologically. No evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Pelvic mass: 77mm atypical smooth muscle tumour with features of a smooth muscle tumour of uncertain malignancy potential (STUMP), however, cannot completely exclude a leiomyosarcoma (see report).
+
+B.  Left ovary and fallopian tube: No evidence of malignancy.

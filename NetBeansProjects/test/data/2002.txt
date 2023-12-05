@@ -1,0 +1,44 @@
+Episode No:  95Q105425B
+9561054.FPB
+
+KAETZEL, LEIGH Alonso 
+Lab No:  95Q10542
+Escamilla
+BELL BAY  QLD  2123
+Specimen: Swab,Tissue
+D.O.B:  8/7/1997
+Sex:  M
+Collected: 04/09/2014 at 12:16
+Location:  Molecular Oncology-MACKAY BASE HOSPITAL
+DR Tarka LEIGH Deraps
+Distribution:  
+SUPPLEMENTARY REPORT (27.11.64):
+
+
+CLINICAL:
+Large retroperitoneal mass at root of sigmoid mesentery.  Fixed underlying structures ?no mobility with trial dissection.  Sigmoidcolon involved with tumour and impending obstruction.  Sparing of rectum.  Ascites.  No liver disease or peritoneal spread.  Incision biopsy of lesion ?sarcoma. Hypertension.  
+MACROSCOPIC:
+Specimen labelled "Retroperitoneal biopsy" consists of two pieces of tan tissue 12 and 15mm across.  Both pieces are bisected.  AE 2blocks.  (TO: YN:  IR/mm 11.6.64) 
+MICROSCOPIC (reported by Dr Z Yetman/Dr Z Durkee):biopsy consists of fibroadipose tissue with acute suppurative inflammation and granulation tissue along one surface.  The remainder of the biopsy shows adipose tissue arranged in vague lobules separated by fibrous stroma.  The adipocytes show a minor degree of size variation.  Some appear to have multivacuolated cytoplasm, however no convincing lipoblasts are identified.  The fibrous stroma is of low to moderate cellularity and comprises cells with spindled to stellate nuclei, vesicular chromatin and occasional prominent nucleoli.  Mitoses are not readily identifiable.  Throughout the biopsy there is a mild mixed inflammatory infiltrate composed of lymphocytes, plasma cells and eosinophils. 
+Some gram positive cocci and cocco-bacilli are identified in the area of suppurative inflammation with a gram stain.  No acid fast bacilli or fungi are identified with Fite or PAS stains.  
+
+Immunostains:
+Smooth muscle actin:   Spindle cells positive, consistent with myofibroblasts.
+ALK-1:   Negative.
+Pancytokeratin:   Positive at one edge, opposite the suppurative inflammation.  ThepanCK positive cells are consistent with mesothelial cells.  Some entrapped mesothelial cells also seen.
+Cyclin D1:   Interpreted as negative.
+p53:   Some patchy positive staining, of uncertain significance.
+The appearances in this specimen are interpreted as an abscess with surrounding reactive fibriblastic tissue in fat.  No evidence of malignancy is seen in this tissue.
+The previous biopsy from WARREN MULTI PURPOSE HEALTH SERVICE Hospital, reported as well differentiated liposarcoma (ZO61054250), has been reviewed.  There is some resemblance in the appearances of this previous biopsy and the present specimen, however the previous biopsy is more cellular and there are more atypical cells with hyperchromatic nuclei than in the present specimen.  It seems most likely that the previous diagnosis is correct and that infection was introduced at the biopsy procedure, possibly by breaching the bowel.  The previous biopsy is being sent for FISH testing to look for MDM2 amplification to try and confirm the diagnosis of liposarcoma; a supplementary report will be issued.    
+
+DIAGNOSIS:
+Retroperitoneal mass biopsy:  Abscess with associated fibroblastic reaction in fat, see text. 
+SUPPLEMENTARY REPORT (27.11.64):
+An immunoperoxidase stain for MDM2 was performed on the previous biopsy (ZO61054250) at THE SUTHERLAND HOSPITAL Hospital and reported by Prof Z Rimkus.
+He reports asfollows.
+"Immunoperoxidase stain for MDM2 shows between 25% to 50% of tumour cells with either nuclear and/or cytoplasmic staining.  Only nuclear staining is regarded as overexpression of MDM2.  However, the MDM2 antibody for immunoperoxidase staining is only used for experimental purposes and should not be used for diagnostic purposes."
+My understanding is that the MDM2 immunostain is less sensitive than FISH for detecting an MDM2 amplification but that a positive stain is helpful.  In this context it supports the diagnosis of well differentiated liposarcoma.
+
+
+
+

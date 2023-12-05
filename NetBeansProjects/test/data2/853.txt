@@ -1,0 +1,93 @@
+Episode No:  61Q164822O
+6161648.GFO
+
+Guay, LUCIE 
+Lab No:  61Q16482
+W Goodman
+COLAC  Queensland  6509
+Specimen: Tissue
+D.O.B:  12/3/2000
+Sex:  F
+Collected: 04/10/2012 at 20:01
+Location:  Douglas Hanly Moir-MOUNT ISA  HOSPITAL
+DR Isidro LOU Kerry-Herriges
+Distribution:   FILE-COPY
+
+CLINICAL:
+Wide local excision left breast lesion and lymph node biopsy.  Pneumonia.  Wide local excision of left breast - marking stitch long lateral, short superior and medium medial.  Lymph node biopsy left axilla. 
+MACROSCOPIC:
+Patient details checked by FC
+A.  Specimen labelled "Left axilla lymph node", consists of two lymph nodes 12mm and 24mm in greatest dimension.  Lymph nodes entirely embedded.  Block 1 -larger node; 2 - smaller node.
+B.  Specimen labelled "Left breast lesion, long lateral, medium medial, short superior", consists of a lumpectomy with three marking sutures (short superior, long lateral, medium medial) measuring 78mm medial to lateral, 65mm superior to inferior, 38mm superficial to deep and weighing 64g.  The superior marginis inked red, the deep black and the remaining green.  The specimen is sequentially sectioned from lateral to medial into fifteen slices.  Present in slices 8-11 is a poorly circumscribed firm tumour measuring 18 x 13 x 12mm.  The tumour lies 5mm from the superior margin, 6mm from the deep margin, 10mm from the superficial margin and is well clear of the inferior, medial and lateral resection margins. The remaining breast tissue is mixed fibrofatty with predominance of fat and shows no other lesions.  Block 1- slice 1 lateral end; 2-5- slice 4; 6 & 7 - slice 7; 8 & 9 - slice 8; 10-14 - slice 9; 15 - reserve block for tissue bank slice 10; 16 - slice 11; 17-20 - slice 12; 21 & 22 - slice 15 medial end. (ER, PR, HER2, CISH and Ki67 ordered on block 11). Please refer to attached photograph. (DS/ec  12.7.62)  
+ 
+MICROSCOPIC: (Reported by Dr Q Wraight) 
+Invasive carcinoma:
+Site: Left breast
+Type: Invasive ductal carcinoma (NOS) (focal squamous differentiation, block B11)
+Invasive tumour size: 20mm
+Grade (Modified Bloom & Richardson):
+Tubules: 3 Nuclei: 3  Mitoses: 3 Mitotic rate: 70 /10hpf.
+Lymphovascular invasion:  Absent
+	    
+DCIS component:  
+DCIS:  Peripheral DCIS extending beyond invasive tumour front
+Maximum extent of DCIS: 4mm
+Nuclear grade:  High
+Architecture: Solid
+Necrosis:   Present (block B8)
+Calcification: Absentof DCIS in tumour:  minor component at periphery
+DCIS in adjacent tissue:  DCIS extends into adjacent tissue in one area (blocks B8,9)
+Excision Margins:  
+Invasive component: 1mm from superior margin (block B15), 4mm from deep margin (block B11), 8mm fromsuperficial margin (block B10), clear of other margins (> 10mm)
+In-situ component: 5mm from superficial margin (block B8), clear of other margins (> 10mm)
+Receptors (Block B11): 
+ER:  Negative
+	0% of nuclei stained
+	predominant intensity of staining:  n/a
+PR:  very weakly positive
+	1 % of nuclei stained
+	predominant intensity of staining: weak 
+HER2 (Novocastra 10A7): 2+
+Ki-67 index: 60%
+Nipple:  n/a
+
+LCIS / ALH: absent    
+Miscellaneous:
+The uninvolved breast tissue is mainly fatty with small areas of fibrosis, apocrine metaplasia and columnar cell change.  A few cysts are also seen.  Scattered benign lobularcalcifications are noted.
+Sentinel lymph node(s): 0
+Number of sentinel lymph nodes examined: 0
+Number of sentinel lymph nodes involved by tumour: n/a         
+Number of sentinel nodes with metastases >2.0mm:  n/a  
+Number of sentinel nodes with metastases <2.0mm:  n/a    
+	Detected by: n/a
+Number of sentinel nodes with isolated tumour cells <0.2mm: n/a      
+	Detected by: n/a
+Extranodal spread: n/a
+Axillary/other nodes (specimen A):
+Number of axillary lymph nodes examined: 2
+Number of axillary lymph nodes involved by tumour:  0        
+Number of axillary nodes with metastases >2.0mm: n/a   
+Number of axillary nodes with metastases <2.0mm: n/a     
+Number of axillary nodes with isolated tumour cells <0.2mm: n/a      
+Extranodal spread:  n/a
+Lymph node total: 2
+Total number of lymph nodes examined (including sentinel node(s)):   2
+Total number of involved lymph nodes (including sentinel node(s)):   0
+  
+CONCLUSION
+Left breast(wide local excision and lymph node biopsy): Invasive ductal carcinoma (NOS), 20mm in diameter, grade 3, with high grade DCIS. No metastases in two lymph nodes.
+SUPPLEMENTARY REPORT (19.12.62)
+Sentinel lymph node protocol on specimen A: No malignancy in two lymph nodes in further levels and immunoperoxidase (Cam 5.2) stained slides.
+Her2 CISH
+4 unstained slides were sent to BARWON HEALTH - SOUTH GEELONG RENAL UNIT CAMPUS Hospital for Her2 CISH analysis:
+Her 2 in situ hydridisation: (Her2 CISH Invitrogen SPOT-Light assay, blocks B11). 
+Her2 CISH result: NEGATIVE (non-amplified, diploid).
+Mean Her2 copy number per cell: 1.40.
+SCORING CRITERIA (ASCO/CAP recommendations):
+1 to <2.5 copies:  	Non amplified (diploid)
+2.5 to<4 copies:  	Non amplified (polysomy) 
+4 to 6 copies:		Equivocal 
+>6 but < 10 copies:	Low level amplification
+10 or more copies: 	High level amplified.  
+Her2 CISH reported by Dr MILTON Holsapple, 18.12.62
+

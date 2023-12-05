@@ -1,0 +1,73 @@
+
+Episode No:  51K833093X
+514833.CYH
+
+Schwamberger, Levi 
+Lab No:  51K83309
+Return
+BAIRNSDALE  NT  6575
+Specimen: Tissue
+D.O.B:  21/8/1974
+Sex:  F
+Collected: 18/03/2013 at 09:13
+Location:  ENVOI Pathology-HAY DISTRICT HOSPITAL
+DR MARCO HERBERT Gunkel
+Distribution:  DR Boisclair,  FILE-COPY, DR Jeramy,   NSW-CANCER-REGISTRY
+CLINICAL:
+Previous resection of rectal cancer.  Anorectal stump + coccyx.  
+MACROSCOPIC:
+A.  Specimen labelled "Rectum and anus" consistsof a segment of bowel measuring 85mm in length and 40mm in diameter.  The external surface of the specimen is completely covered by fibroadipose tissue.  No peritoneal reflection is present in the specimen to orientate the radial margins. The proximal margin is inked blue, distal margin green and radial margin black. The mucosal surface includes the anorectal junction which contains a polypoid lesion measuring 25 x 15mm, located 3mm from the proximal margin and 25mm from the distal margin. The distal edge of the lesion is abutting the dentate line. The lesion invades into but not through the bowel wall. The surrounding mucosa has a slightly cobblestone appearance. No lymph nodes are identified in the surrounding fat. 
+Blocks:  1 to 3 - tumour with proximal margin; 4 - tumour at level of deepest invasion; 5 - representative tumour (reserved block); 6 - further representative tumour; 7 & 8 - composite blocks and represent tumour to distal margin; 9 - representative anorectal junction; 10 & 11 - sections of mucosa away from the lesion; 12 to 20 - sections of fibroadipose tissue.  All adipose tissue embedded.   (YN/bl 21/5/63)
+B.  Specimen labelled "Coccyx" consists of a piece of bone measuring 35 x 15 x 10mm.  AE 4 blocks.  (TO: EJ: PL/mm 20.5.63) 
+MICROSCOPIC (reported by Dr K Swensen):
+
+BOWEL CARCINOMA PROFORMA
+
+Site of tumour: Anorectal junction (distal edge of lesion abuts dentate line)
+Maximumtumour diameter: 25mm
+Distance of tumour to nearer cut end:  2.5mm (proximal)
+Tumour perforation:     No
+Relation of tumour to anterior peritoneal reflection:	 Below
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT2	Invasion into muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: 2.0mm (A1, orientation of radial margin unable to be performed due to the absence of a peritoneal reflection in the specimen)
+Lymph nodes
+All perirectal/perianal fat have been submitted for examination. 
+A single perirectal lymph node shows no evidence of malignancy.
+Note: Previous excision shows metastatic carcinoma in 1 out of 17 nodes.
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT2     pN0     pMX     R0	
+Note: Previous rectal primary (45X0058) was pT3, and showed metastatic carcinoma in 1 out of 17 nodes (pN1).
+COMMENT:
+The current anorectal adenocarcinoma is in close proximity to, andhas the same morphology as the previous rectal lesion (45X0058, excised with a distal margin of 4mm).
+While the features in the current lesion would favour a recurrence of the previous rectal primary, a possible new metachronous lesion cannot be completely excluded.
+Shown to Dr JEREMY Guagliardo.
+B. Sections show bone with overlying cartilage and fibrous tissue. There is no evidence of malignancy.
+DIAGNOSIS:
+A. Anorectal stump:  
+- Moderately differentiated adenocarcinoma of the ano-rectal junction, invading muscularis propria (pT2), with features favouringa recurrence of the previous rectal primary (see comment), margins clear.
+- 1 perirectal lymph node with no evidence of malignancy.
+B. Coccyx: no evidence of malignancy
+

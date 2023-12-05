@@ -1,0 +1,83 @@
+Episode No:  77R045186L
+7760451.VRL
+
+Newnham, RICKIE, MAHALIA'DAMON 
+Lab No:  77R04518
+Centre
+GRIFFITH  VIC  5022
+Specimen: Tissue
+D.O.B:  20/12/2013
+Sex:  F
+Collected: 12/03/2014 at 11:14
+Location:  West-BILOELA HOSPITAL
+DR Edison NORRIS Barry-PALMERTON
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT: KI-67
+
+CLINICAL:
+Left mastectomy + axillary clearance.  Metastatic breast cancer multiple rounds of systemic therapy.  1. left mastectomy -long lateral, short superior.  2. level I axillary LN.  3. level II axillary LN.
+MACROSCOPIC:
+A.  Specimen labelled "Left breast short superior long lateral", consists of a mastectomy specimen without axilla and two sutures as mentioned above.  The entire specimen weighs 754g and measures 250mm from medial to lateral 180mm from superior to inferior 40mm from superficial to deep.  An ellipse of skin measuring 190 x 65 mm, is present with a nipple-areolar complex.  The nipple measures 10mm in diameter and is inverted.  A verrucous skin lesion measuring 10 x 5 mm, is present 35mm inferolateral to the nipple.  Remainder of the skin surface is unremarkable.  The superficial surface is inked blue the deep surface is inked black.  On the cut surface, an ill-defined pale firm tumourmeasuring 20 x 10 x 40mm, is present deep to the nipple extending laterally.  It measures 25mm to the closest deep margin.  The remainder of the breast tissue is fibrofatty.  No lymph nodes are identified within the lateral aspect of the specimen.  
+Blocks: 1 to 4 - full face of tumour with inverted nipple (block 1 with superficial margin, 3 and 4 with deep margin); 5 and 6 - another section of tumour with inverted skin, without surgical margin bisected; 7 - breast tissue medial to tumour; 8 - breast tissue lateral to tumour; 9 - RS upper inner quadrant; 10 - RS lower inner quadrant; 11 - RS upper outer quadrant; 12 - RS lower outer quadrant (blocks9 to 12 with deep margin); 13 - TS of skin lesion.  Multiple pieces in 13 blocks.  
+FURTHER BLOCKS; 14-16, 17-19, 20-22 Three consecutive slices of UOQ with superficial and deepmargins, arranged from lateral to medial (refer to the diagram). 
+B.  Specimen labelled "Level 1", consists of a mass of fatty tissue weighing 51g and measuring70 x 70 x 20mm.  Twelve possible lymph nodes measuring 1 to 25mm in maximum extent are identified.  
+Blocks: 1 - single node; 2 - single node; 3 - single node; 4 - single node; 5 - single node; 6 - single node; 7 - single node; 8 - single node; 9 - three nodes; 10 - two nodes.  Multiple pieces in 10 blocks. 
+C.  Specimen labelled "Level 2", consists of multiple fragments of fatty tissue measuring in aggregate 50 x 50 x 10mm.  Seven lymph nodes measuring 3 to 15mm in maximum extent are identified. 
+Blocks: 1 - single node; 2 - two nodes; 3 - two nodes; 4 - two nodes.  Multiple pieces in four blocks.  (DD/vo 15.5.64) 
+MICROSCOPIC:  (Reported by Dr S Guterman)
+The left breast tumour is an invasive ductal carcinoma with associated focal DCIS. A synoptic for invasive breast carcinoma follows:
+
+SYNOPTIC REPORT FOR INVASIVE BREAST CARCINOMA
+Invasive carcinoma:
+Site: Left breast (behind nipple). 
+Type:Invasive ductal carcinoma. 
+The carcinoma consists of carcinoma cells arranged in infiltrative glands, trabeculae and linear files. The carcinoma is E-Cadherin positive. Although the main tumour nodule seen macroscopically is up to 40mm in dimension, focally, tongues of carcinoma extend towards the upper outer quadrant to a maximum dimension of 55mm.
+Invasive tumour size: 55mm (microscopic).
+Grade (Modified Bloom & Richardson): 2
+Tubules: 2  Nuclei: 2   Mitoses: 2     Mitotic rate:      10/10hpf.
+Lymphovascular invasion: Foci suspicious for LVSI are present. 
+	    
+DCIS component:  
+DCIS: Present. 
+Maximum extent of DCIS: Present in association with invasive carcinoma over an approximate maximum extent of 45mm.
+Nuclear grade: Intermediate. 
+Architecture: Solid to cribriform. 
+Necrosis: Not identified. 
+Calcification: Not identified.
+Degree of DCIS in tumour: Minimal. 
+DCIS in adjacent tissue: Present (focal).
+Excision Margins:  
+Invasive component:
+Deepmargin: 10mm (A11).
+Remaining margins: Well clear.
+In-situ component:
+Deep margin: >10mm.
+Remaining margins: Well clear.
+
+Receptors: (Block A6)
+ER:  	POSITIVE
+	95% of nuclei stained
+	Predominant intensity of staining: moderate to strong.  
+PR:  	POSITIVE
+	% of nuclei stained
+	Predominant intensity of staining:  
+HER2 (Novocastra 10A7): Negative.
+HER SISH:  Performed at Pfizer, AUSTIN HEALTH - HEIDELBERG REPATRIATION HOSPITAL Hospital, see separate report.
+Ki-67 index: Pending.
+Nipple: The carcinoma is within breast tissue immediately behind the nipple. Carcinoma cells abut, but do not appear to involve, the overlying epidermis. There is no convincing Paget's disease.  
+LCIS / ALH: Not identified. 
+Lymph node(s): See specimensB and C.
+B.  Sections show metastatic carcinoma in all nine level 1 lymph nodes (9/9). The foci of metastatic carcinoma are up to 9.0mm in maximum dimension. Extranodal extension up to 8.0mm is seen. There is focal extranodal lymphovascular space invasion. 
+C.  Sections show metastatic carcinoma in all four level 2 lymph nodes (4/4). Extranodal extension up to 3.3mm is seen. There is focal nodal lymphovascular space invasion.
+DIAGNOSIS:
+A.  Left mastectomy: 
+55mm grade 2 left breast carcinoma with associatedfocal intermediate grade DCIS.
+Margins appear clear. 
+ER and PR positive; HER-2 negative.
+Her-2 SISH is being performed and a separate report will be issued. 
+
+B.  Axillary lymph nodes (level 1): Metastatic carcinoma in nine lymph nodes (9/9). Extranodal extension up to 8.0mm and extranodal lymphovascular space invasion.
+
+C.  Axillary lymph nodes (level 2): Metastatic carcinoma in four lymph nodes (4/4). Extranodal extension up to 3.3mm ispresent. 
+
+

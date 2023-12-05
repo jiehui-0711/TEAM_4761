@@ -1,0 +1,26 @@
+SPR no: 13B267411H
+MRN no: 13026741
+Site_name: D302
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Breast cancer BRCA negative, strong family history of breast cancer.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of an ovary and fallopian tube.  The fallopian tube measures 35mm in length with an outer diameter of 5mm.  The ovary measures 25mm x 18mm x 8mm.  The cut surface is unremarkable.
+Blocks: 1 to 3 - fallopian tube; 4 to 7 - ovary.  AE.
+
+B.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of fallopian tube and ovary.  The fallopian tube measures 35mm in length with an outer diameter of 5mm.  The ovary measures 25mm x 16 x 5mm.  The cut surface is unremarkable.
+Blocks 1 to 3 fallopian tube; 4 to 7 ovary.  AE.
+
+C.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a fatty tissue measuring 60mm x 40 x 10mm. The cut surface shows uniform fatty tissue.  No focal lesions seen.  Representative sections embedded in 3 blocks.
+(TO:LM/eh 30/9/69)
+
+
+MICROSCOPIC (Reported by Dr D Weflen):
+A &amp;amp; B.  Sections show benign paratubal cysts.  The fallopian tube and ovary otherwise show no significant abnormality.  The entire specimen is examined and there is no evidence of malignancy.
+C.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A &amp;amp; B.  Right and left tubes and ovaries:  Benign paratubal cysts.
+C.  Omentum:  No significant abnormality.

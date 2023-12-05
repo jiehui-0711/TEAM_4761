@@ -1,0 +1,55 @@
+SPR no: 77J7145427
+MRN no: 1368320
+Site_name: OAKEY HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report77J71454 (77J7145427) Maco, Rey Aron
+HISTOPATHOLOGY REPORT
+WEST WIMMERA HEALTH SERVICE - JEPARIT AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Colon Ca with peritoneal disease.  Underwent peritonectomy and HIPEC.  Duodenum, small bowel, large bowel, partial IVC wall, gallbladder, colon, right ureter.
+
+MACROSCOPIC:
+A.  &amp;quot;GALLBLADDER, DUODENUM, SMALL BOWEL, OMENTUM, PANCREAS&amp;quot;.  Consists of gallbladder two pieces of fatty tissue consistent with omentum.  One with attached skin ?umbilicus, segment of bowel with anastomotic site and two shorter segments of bowel and multiple pieces of fibrofatty tissue.  No pancreatic tissue is identified macroscopically.
+
+Gallbladder measures 85mm in length with a maximum diameter of 30mm.  The serosa is smooth.  The wall is up to 2mm thick.  Mucosa is granular green in appearance.
+
+(1  cystic duct and neck of gallbladder; 2  body and fundus).
+
+Omentum with attached skin, altogether it measures 270x160x50mm.  The skin is 70x15mm.  On the skin surface is a possible scar.  Underlying the skin is an area of fibrosis.  Within the omental skin are scattered firm areas with pale tan to yellow cut surface consistent with tumour deposit.
+
+(3  skin [umbilicus]; 4  skin ?scar; 5 fibrotic area underlying skin; 6&amp;amp;7  scattered firm areas within omentum [tumour]; 7  tumour block).
+
+Segment of bowel with anastomotic site 280mm in length.  The small bowel maximum diameter is 25mm, large bowel maximum diameter is 25mm.  The serosal surface has a dusky appearance with areas of roughening ?site of adhesion.  On opening, there is a velvety area noted within the small bowel mucosa.  This area measures 10x10mm and is 85mm from the small bowel resection margin which is inked blue.  The large bowel resection margin is inked black.  Remainder of the mucosa is, otherwise, unremarkable.
+
+(8  margins; 9  velvety area noted within small bowel mucosa; 10  site of anastomosis; 11 serosal roughening; 12  six possible lymph nodes).
+
+Second segment of bowel received open, measures 50mm in length.  There is attached fatty tissue consistent with omentum, measuring 55mm wide.  The serosa is not easily identifiable, it is roughned with multiple adhesions noted.  Margins are not easily identifiable.  Mucosa appears unremarkable.  On sectioning, there is firm areas within the attached fatty tissue ?tumour deposit.  One representative section taken and embedded in block 13.  The third segment of bowel, measures 12mm in length with a maximum diameter of 25mm.  There are surgical staples at one edge.  The serosa is unremarkable.  On opening, the mucosa is unremarkable.
+
+(14  LS through third segment of bowel).
+
+Multiple pieces of fibrofatty tissue in aggregate 140x120x30mm.  One of the pieces includes possible muscle.  On sectioning, there are scattered areas with pale yellow to tan cut surface consistent with tumour deposits.  Representative sections taken and embedded in block 15.  RS (M-15).
+
+B.  &amp;quot;RIGHT URETER&amp;quot;.  Two pieces of tissue, one is a tubular tissue measuring 35mm in length with a maximum diameter of 8mm.  The serosa is roughened.  The second is a piece of tissue consistent with mucosa.  It is unremarkable.  On sectioning, it appears unremarkable.
+
+(1  margins ureter; 2  one section mid ureter and piece of mucosa).  RS (M-2/MC 15/4/2066 km).
+
+MICROSCOPIC:   (Dr. T Autin)
+A. Sections of gallbladder show features of chronic cholecystitis. No tumour is identified in the representative sections examined.
+Sections of the umbilical skin and underlying scar show moderately to poorly-differentiated adenocarcinoma within subcutis and underlying adipose tissue, with a desmoplastic stroma. In some areas, the tumour shows well-formed glands, but in other areas, it infiltrates as single cells and small groups of cells, and shows focal signet ring cell morphology. Tumour extends deeply into the underlying adipose tissue (?attached omentum), and involves the diathermied excision margin of this tissue piece over a broad front. Sections of the omentum confirm multiple deposits of tumour, some of which involve the peritoneal surface.
+Sections of the segment of small and large bowel with anastomotic site show that the resection margins consist of unremarkable small and large intestine, respectively. There is no tumour involvement of the sampled margin. Sections of the velvety area noted macroscopically within small bowel mucosa show an area of lymphoid tissue within the mucosa and submucosa, comprising multiple follicles containing large germinal centres with prominent tingible body macrophages. Sections of the anastomosis site show fibrotic junction of small and large intestine. Sections of the area of serosal roughening confirm serosal fibrosis, but no tumour involvement. The five sampled lymph nodes show no involvement, however, two deposits of tumour within a fibrotic stroma are seen in the adipose tissue adjacent to the lymph nodes.
+Sections of the second segment of bowel consist of small intestine, with tumour deposits within the serosa and outer layer of the muscularis propria. A single serosal lymph node is partially replaced by metastatic carcinoma.
+Sections of the third macroscopically described segment of bowel show unremarkable small intestinal wall, with no tumour involvement in the representative tissue examined.
+Sections of the separate pieces of fibrofatty tissue confirm involvement by metastatic adenocarcinoma. No pancreatic tissue is identified microscopically.
+Immunohistochemical stains show that the tumour is positive for CEA, CDX2 and CK20, and is negative for CK7, in keeping with the clinical impression of colorectal primary site.
+
+B. Sections of ureter show that one of the ureteric margins is involved by metastatic adenocarcinoma within the fibrofatty tissue external to the ureteric muscular wall. Adenocarcinoma focally involves the peripheral excision margin at this end of the ureter. The opposite ureteric margin is unremarkable. A section of the mid-ureter shows extensive involvement and replacement of the ureteric wall by metastatic adenocarcinoma, which extends to focally involve the peripheral excision margin. Sections of the separate piece of mucosa show unremarkable small intestinal wall.
+Comment (Specimens A&amp;amp;B): Both specimens are involved by metastatic, moderately to (focally) poorly-differentiated adenocarcinoma with focal signet ring cell change, and the appearance is in keeping with the clinical history of colorectal carcinoma with peritoneal disease.
+
+SUMMARY:
+A. GALLBLADDER, DUODENUM, SMALL BOWEL, OMENTUM, PANCREAS:
+- METASTATIC, MODERATELY- TO POORLY-DIFFERENTIATED ADENOCARCINOMA INVOLVING OMENTUM AND INTESTINAL WALL, WITH MALIGNANT SEROSAL ADHESIONS AND INVOLVEMENT OF 1 OF 6 SAMPLED LYMPH NODES. FOR DETAILS, PLEASE SEE TEXT.
+B. RIGHT URETER:
+- INVOLVED BY METASTATIC ADENOCARCINOMA WITH A SIMILAR APPEARANCE TO THAT IN SPECIMEN A. FOR DETAILS, PLEASE SEE TEXT.
+18/4/2070 cy

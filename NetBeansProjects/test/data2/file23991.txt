@@ -1,0 +1,108 @@
+SPR no: 34Z242362N
+MRN no: 349242
+Site_name: INJUNE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report34Z24236,34Z24236 (34Z242362N) HERCEG, WILLODEAN
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Serous carcinoma Lab number 34Z24236
+Uterus, tubes and ovaries
+Right pelvic sentinel node
+Left pelvic sentinel node
+Omentum
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES, OVARIES&amp;quot;.  A total abdominal hysterectomy specimen with bilateral salpingo-oophorectomy weighing 84g in total.  Specimen is received partially opened in the coronal plane.   The uterus and cervix measures 70x40x35mm.  The right fallopian tube measures 40x5mm.  There is a filshie clip in-situ.  The right ovary measures 25x10x10mm.  The left fallopian tube measures up to 45x5mm with a filshie clip in-situ.  The left ovary measures 25x10x5mm.  The cervix measures up to 18mm in length, 30mm from left to right with a 10mm slit-like os.  The serosal surface of the body of the uterus is smooth.  The posterior aspect is inked black, anterior blue.  The coronal surface of the body of the uterus reveals a well circumscribed whorled lesion 25x23mm on cut surface involving the right half of the body of the uterus.  Within the uterine cavity is a multicystic lesion involving the entire cavity measuring up to 45x20mm on cut surface.  The myometrium is up to 12mm thick maximally anteriorly, and the endometrium up to 1mm thick.  Serial sections through the body of the uterus reveal the right base leiomyoma and the possible stalk of the endometrial lesion originating from the left fundal region.
+
+(1 anterior cervix; 2 posterior cervix; 3 right parametrial shave; 4 left parametrial shave; 5-8 one parasagittal slice from anterior lower uterine segment to posterior lower uterine segment; 9 coronal section of lesion and left lesion base at left fundus; 10 coronal section of right fibroid; 11 right cornu; 12 left cornu; 13 right fallopian tube and ovary [RS]; 14 left fallopian tube and ovary [RS]).  RS (M-14)
+
+Further blocks:
+(15&amp;amp;16 further sections of cervix; 17-22 further sections of polyp with adjacent/underlying endometrium).  (MY 4/5/2066 ank)
+
+B.  &amp;quot;RIGHT SENTINEL NODE PELVIC&amp;quot;.  Two pieces of fibrofatty tissue 30x15x3mm containing two possible lymph nodes, the larger 10x5x3mm.
+
+(1 larger lymph node trisected; 2 second smaller lymph node quadrisected).  AE (M-2).
+
+C.  &amp;quot;PELVIC SENTINEL LYMPH NODE, LEFT&amp;quot;.  A piece of fibrofatty tissue up to 25x10x8mm, containing one lymph node 18x6x3mm, cut into five transverse sections and serially all embedded in one block.  AE (5-1).
+
+D.  &amp;quot;OMENTUM&amp;quot;.  A piece of fatty tissue 80x30x10mm.  There are no palpable nodules or lymph nodes within the specimen.  Sampled omental roll in two blocks.  RS (M-2/MY 7/5/2066 nh)
+
+MICROSCOPIC:   (Dr J Mccalebb)
+
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Serous carcinoma (with background endometrioid carcinoma with mucinous differentiation- see comment)
+
+FIGO grade:  3
+
+Myometrial invasion:  Focally present
+
+Depth of myometrial invasion:   0.5mm
+
+Myometrial thickness:  4mm
+
+% of myometrium invaded:  12.5%
+
+Focality:  Unifocal
+
+Tumour involves: The carcinoma involves a large endometrial polyp and also adjacent endometrium of the fundus of the uterus
+
+Vascular/lymphatic invasion:  Focally present in the polyp
+
+Involvement of cervix:  Not present
+
+Involvement of uterine serosa:  Not present
+
+Excision margins:  Clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic
+Polyps:  Present containing carcinoma
+Adenomyosis:  Focally present
+
+Adnexae:
+Left fallopian tube:  Not involved
+Right fallopian tube:  Not involved
+Left ovary:  Not involved
+Right ovary:  Not involved
+
+Lymph nodes:
+Nodes involved:  0 (CK IHC negative)
+Total number:  3 (2 right pelvic sentinel nodes and 1 left pelvic sentinel node)
+
+Other tissues:  The omentum (D) is not involved by malignancy.
+
+Comment:  The large endometrial polyp contains foci of high grade serous carcinoma over the surface of the polyp and adjacent glands with small focal areas of adjacent stromal invasion in the polyp with focal lymphatic vascular invasion. Serous carcinoma is also seen within the adjacent endometrium of the fundus of the uterus where there is very focal early stromal/myometrial invasion (0.5mm, block 6). Serous carcinoma shows positivity for P53, WT1, P16, ER (20% 2-3+).  Additionally within the polyp there is background of a lower grade endometrioid carcinoma with mucinous differentiation, grade 2 which comprises about 75% of the tumour volume, with serous carcinoma about 20%. There is also a small focal area of more solid malignancy with increased mitoses which lies within the polyp and adjacent endometrium of the uterus within a 4mm area (&amp;lt;5% of the tumour, block 9). This small focus retains cytokeratin expression favouring a diagnosis of poorly differentiated/ de-differentiated endometrioid carcinoma.
+
+Immunostains for mismatch repair proteins: (block: 6)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+Pathologic Staging (AJCC/UICC TNM 8, 2018; FIGO 2008):
+
+TNM stage: pT1a  pN0  pMx
+
+FIGO stage:  IA
+
+DIAGNOSIS:
+A.  UTERUS TUBES AND OVARIES -
+- SEROUS CARCINOMA WITHIN AN ENDOMETRIAL POLYP WITH BACKGROUND ENDOMETRIAL CARCINOMA WITH MUCINOUS DIFFERENTIATION; FIGO STAGE IA, MARGINS CLEAR
+
+B.  RIGHT SENTINEL NODE PELVIC -  NO EVIDENCE OF MALIGNANCY IN 2 NODES
+
+C.  PELVIC SENTINEL LYMPH NODE, LEFT -
+- NO EVIDENCE OF MALIGNANCY IN 1 NODE.
+
+D.  OMENTUM -  NO EVIDENCE OF MALIGNANCY
+
+8/4/2066 nh

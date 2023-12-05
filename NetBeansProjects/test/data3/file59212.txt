@@ -1,0 +1,31 @@
+SPR no: 97V8847695
+MRN no: 97888476
+Site_name: LEETON DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Sarcoma mid-back.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Sarcoma mid back suture at 12 o&amp;apos;clock&amp;quot;, consists of an ellipse of soft tissue, 145 (12 to 6 o&amp;apos;clock) x 135 (3 to 9 o&amp;apos;clock) x 40mm (superficial to deep).  There is an ellipse of skin, 30 x 16mm.  3 o&amp;apos;clock superficial blue, 9 o&amp;apos;clock superficial green, deep black.  The deep surface consists of skeletal muscle.  The specimen is serially sectioned from 12 to 6 o&amp;apos;clock into seventeen slices.  In slices five to thirteen, a circumscribed tan pink lesion distinct from the surrounding fat is present in the subcutaneous tissue 90 x 50 x 34mm.  The lesion is 2mm from the closest 3 o&amp;apos;clock margin; 3mm from the closest 9 o&amp;apos;clock margin, and 2mm from the closest deep margin.  Blocks: 1 to 3 - 12 o&amp;apos;clock TS; 4 - superficial and deep margin slice five; 5 - 3 o&amp;apos;clock; 6 - deep; 7 - 9 o&amp;apos;clock; 8 - 3 o&amp;apos;clock; 9 - deep; 10 - 9 o&amp;apos;clock and skin; 11 - 3 o&amp;apos;clock; 12 - deep; 13 - skin; 14 - 9 o&amp;apos;clock; 15 - 3 o&amp;apos;clock; 16 -  deep; 17 - 9 o&amp;apos;clock; 18 to 19 - 6 o&amp;apos;clock TS; 20 to 29 - composite sections slice nine.  See diagram.
+
+B.  Specimen labelled &amp;quot;Deep margin stitch at new deep margin&amp;quot;, consists of a tan piece of tissue, 45 x 20 x 5mm.  A suture is noted one surface as described.  Sutured surface inked blue, opposite surface inked black.  Both surfaces appear diathermied.  The specimen is otherwise unoriented.  Blocks: 1 - two TS tips; 2 to 4 - three TS each.  AE.
+(TO:YL/vo/rs 2/6/71)
+
+
+MICROSCOPIC (Reported by Dr Z Wahlquist &amp;amp; registrar Dr Z Dicarlo):
+A.  Sections of skin extending to skeletal muscle show a 90mm subcutaneous well circumscribed myxoid liposarcoma.  The tumour is moderately cellular and consists of numerous lipoblasts, bland ovoid to spindled cells and arborizing delicate vasculature embedded within a myxoid stroma.  Occasional cells with mild atypia are seen.  Mitoses are rare.  No necrosis, hypercellularity or areas of round cell change are seen.  No perineural or lymphovascular invasion is seen.  The tumour is 2.5mm from the 3 o&amp;apos;clock margin (A5), 3.5mm from the 9 o&amp;apos;clock margin (A12), 4mm from the deep margin (A4) and well clear of all other margins.
+
+FNCLCC system
+Tumour differentiation:  Score 2
+Mitoses count:  Score 1
+Tumour necrosis:  Score 0
+Histological grade:  Grade 1
+
+B.  Sections of fibroadipose tissue and skeletal muscle show no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Mid-back:  Myxoid liposarcoma, clear of margins
+B.  Deep margin:  No evidence of malignancy.

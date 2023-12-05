@@ -1,0 +1,55 @@
+SPR no: 71N0575977
+MRN no: 7150575
+Site_name: BRIDGETOWN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Reporttrbrdrlrdrw10 idth4996ridEpisode No:  71N0575977482031
+7150575.XUS
+bl8brdrtsg1025
+MAfcs1 , ELLIS HASKAMP
+33 1drtrdrslbrdrbclshdrawnil p1033Lab No:  71N05759
+Langham
+ph108clvertaltclbrdrrbrdrw10 cellx8416p1033
+EPPING  ltrchSA  3765
+rw10 clftsWidth3
+p1033 Width1lbrdrt 0 chSpecimen: Tissue
+D.O.B:  28/12/2037ch
+Sex:  F
+aspalphakeepdrs0 drstrbrdrbrdrw10 ellx84161033 Collected: 19/02/2016 at 1 17:00
+Location:  PARKES8-GRIFFITH BASE HOSPITAL
+0  sWidth3cs0
+PRO ORVAL STEVIE MOH
+li0 ind0rbstright
+640
+rbaultDistribution:  ch   FILE-COPY,   NSW-CANCER-REGISTRY
+pnumepsfaauto
+ng1025
+0HISTORY:
+CRS. Peritonectomy. Rectum. Uterus. Ovary. Omentum.
+rtlchMACROSCOPIC:
+&amp;#8220;SMALL BOWEL, COLON, RECTUM, PERITONEUM, GA LLBLADDER, OMENTUM, UTERUS, OVARIEIS&amp;#8221;. Consists of:
+Gallbladder. A gallbladder, measuring 70mm in length and 30mm in diameter. The surface is smooth and shiny. There is a possible cystic duct node present measuring 7mm in  maximal extent. The proximal resection margin is not stapled or sutured. On opening, there are no stones present and the mucosa is green and velvety.
+(1 TS resection margin and lymph node; 2 two TS body; 3 two LS fundus).par
+Omentum. Omentum, measuring up to 260x160x15mm. On sectioning, there are pale firm areas, measuring 10mm in maximal extent (two areas noted).
+(4 representative section).
+Bowel. Two separate segments of  unorientated bowel, measuring 160mm in length and 20mm in diameter, and 170mm in length and 25mm in diameter. Both segments have some rough surface areas ?adhesions. On the slightly longer segment, there appears to be tumour deposit, meas uring 25mm in maximal extent located 12mm from the resection margin. On opening, both segments of the lumen are restricted by inspissated faecal material. The mucosa is pale and denuded. No definite mesenteric nodes are identified.
+
+(5-8 longest segment with tumour deposit [5 resection margin; 6 bowel with tumour; 7 further tumour; 8 representative mucosa]; 9-12 shortest segment [9&amp;amp;10 LS resection margin; 11 representative mucosa; 12 representative ?adhesion];  13 representative mesenteric fat).
+Uterus with attached bilateral fallopian tube and ovary and cervix, weighing 200g in total. There is a uterus, measuring up to 60mm from medial to lateral, 65mm from fundus to cervix, and 40m m from anterior to posterior. The cervix measures 35mm in diameter and is unremarkable. The serosal surface of the uterus has patchy, firm areas mostly on the posterior aspect over an area of 20mm. The right fallopian tube measures up to  60mm in length and 12mm in diameter. The right ovary measures up to 50x25x20mm with firm surface ?tumour deposit and adherent fimbrial end. The left fallopian tube measures up to 50mm in length and 10mm in diameter. It is adherent to th e left ovary which measures up to 40x35x25mm. The ovary has some firm surface areas over 15mm and has a cystic appearance. Peritoneum is present on the anterior aspect, measuring up to 170x100mm. The surface has a firm area ?tumour deposi t, measuring 20mm in maximal extent.
+(14 peritoneal tumour deposit; 15&amp;amp;16 representative right ovary; 17 representative right tube; 18 representative left ovary; 19&amp;amp;20 representative left tube; 21 representative serosal surf ace of uterus with firm areas; 22-24 anterior cervix to fundus; 25-27 posterior cervix to fundus).
+Peritoneum. Multiple fragments of separate peritoneum and fatty tissue, measuring in aggregate 30x30x30mm. The surface shows s ome pale, firm deposits ?tumour. This has been sampled.
+(28&amp;amp;29 representative section, tumour deposits).
+Bowel.  A portion of unorientated bowel, measuring up to 180mm in length and 45mm in diameter at one resec tion margin and 30mm in diameter, the opposing resection margin. Located 40mm from the 30mm diameter resection margin, there is a circumferential stricture with ragged adherent peritoneum ?tumour deposit. This area is inked red. Dilated  resection margin inked black, smaller diameter resection margin inked blue. On sectioning, at the area of the stricture, there are staples and a convoluted bowel loop ?anastomosis. There are pale firm areas in the bowel wall in this area . The mucosa, otherwise, appears dusky with a coating of pale ?exudate and an area of ulceration more proximally where the wall appears oedematous.
+(30&amp;amp;31 paired, bowel and strictured area; 32 possible anastomosis; 33 LS resec tion margin; 34 three mesenteric node; 35 representative ulcerated area of mucosa; 36 tumour reserved block). RS (M-36/EE/cy)
+chMICROSCOPIC:  g3081(Dr U Straatmann)
+Sections of the gallbladder and cystic duct node are unremarkable.
+The section of omentum shows deposits of moderately to poorly differentiated adenocarcinoma with desmoplastic stromal reaction.
+Sections of the  separate segments of bowel, angnp3081with mucosal morphology of large bowel type, show serosal adhesions and the longest segment shows serosal deposit of moderately to poor ly differentiated mucinous adenocarcinoma that invades into the underlying bowel wall including the submucosa.  The bowel resection margins are unremarkable.  There is a deposit of adenocarcinoma within the mesenteric fat and one of four  mesenteric lymph nodes shows a microscopic deposit of adenocarcinoma.
+Sections of the ovaries and fallopian tubes show surface and stromal involvement by moderately to poorly differentiated mucinous adenocarcinoma.  There is also mucinous adenocarcinoma on the serosal surface of the uterus and on the attac hed piece of peritoneum.  The cervix and endometrium appear unremarkable, as does the myometrium.
+Sections of the separate pieces of peritoneum and fatty tissue show moderately to poorly differentiated mucinous adenocarcinoma  and with osseous stromal metaplasia.
+Sections of the segment of small and large bowel  show moderately to poorly differentiated mucinous adenocarcinoma of the serosal surface and with infiltration of the underlying bowel w all including submucosa.  There is also a broad area of mucosal ulceration with intramural abscess/possible fistula tract, and with serosal adhesions.  The surgical resection margins appear unremarkable.  The lymph nodes show reactive cha nges.
+Comment:  There is moderately to poorly differentiated muc inous adenocarcinoma involving multiple sites as detailed above.  Clinical correlation is recommended.
+widctlparDIAGNOSIS:
+PERITONECTOMY: -
+- MODERATELY TO POORLY DIFFERENTIATED MUCINOUS ADENOCARCINOMA
+26/4/2066 nhg3081

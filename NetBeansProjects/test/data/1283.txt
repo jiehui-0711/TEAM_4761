@@ -1,0 +1,94 @@
+Episode No:  17W171884D
+178171.VWK
+
+Ramsy, Raelene 
+Lab No:  17W17188
+Neelon
+SEYMOUR  Northern Territory  3034
+Specimen: Tissue
+D.O.B:  23/1/2027
+Sex:  F
+Collected: 19/2/2062 at :
+Location:  Immunology-TULLAMORE MULTI PURPOSE HEALTH SERVICE
+DR CHANCE Weldon Karo
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+***SUPPLEMENTARY REPORT:  (4.3.63)  HER-2 CISH  Dr D Allee
+
+CLINICAL:
+Hx of left breast cancer and positive axillary nodes on FNA for WLE and axillary clearance. 
+MACROSCOPIC:
+A.  Specimen labelled "One stitch double long superior end of superficial surface, two short inferior, three single long is lateral", consists of an irregular piece of fibrofatty tissue with three sutures for orientation as above. It measures 50mm medial to lateral, 60mm superficial to deep and 30mm superior to inferior.  The specimen is inked green lateral margin, red medial margin, blue superior margin, black inferior margin. The specimen is serially sectioned from superficial to deep margin into nine slices.  On sectioning and in slices 4-7 there is an ill defined gritty tumour measuring 20mm from superficial to deep, 20mm medial to lateral and 17mm superior to inferior. Specimen is AE according to the diagram.  
+Blocks 1 & 2 - superficial margin; 3 & 4- slice 2; 5 &  6- slice 3; 7-9 - slice 4; 10-12 - slice 5; 13 & 14 - slice 6; 15 & 16 - slice 7; 17& 18 - slice 8; 19 & 20 - slice 9 (11 - reserved block).
+B.  Specimen labelled "Left axillarylymph node level 1", consists of a piece of fatty tissue 60 x 50 x 20mm with 22 lymph nodes ranging from 2-15mm. 
+Block 1-6 - three lymph nodes each; 7 - four lymph nodes.
+C.  Specimen labelled "Left axillary lymph node level 2", consists of a piece of fatty tissue 30 x 20x 10mm with five lymph nodes ranging 2-10mm. 
+Block 1 - two lymph nodes; 2 - three lymph nodes.
+D.  Specimen labelled "Left axillary lymph node level 3", consists of a piece of fatty tissue 20 x 10 x 10mm with three lymph nodes ranging from 2-5mm. 
+Block 1- three lymph nodes; 2 - rest of fatty tissue.  (UJc/ec 20.2.62) 
+MICROSCOPIC: (Reported by Dr D Isola) 
+A.  The left breast tumour is an invasive ductal carcinoma with associated DCIS. A synoptic report for breast carcinoma follows:
+SYNOPTIC REPORT FOR BREAST CARCINOMA
+Invasive carcinoma:
+Site:  Left breast, WLE
+Type: Invasive ductal carcinoma, NOS.
+Invasive tumour size: 25mm
+The carcinoma consists of malignant cells arranged in infiltrative sheets, trabeculae and tubules. 
+Grade: 3 (Modified Bloom & Richardson)       
+Tubules: 2 Nuclei: 2 - 3 Mitoses: 3 Mitotic rate: 26 /10hpf.
+Lymphovascular invasion: Present.
+	    
+DCIS component:  
+DCIS: Present
+Maximum extent of DCIS: Present in slices 4 to 8 over an approximate maximum extent of 25mm.
+Nuclear grade: Intermediate to high grade
+Architecture: Comedo-type and solid.
+Necrosis: Present.
+Calcification: Present (multifocalcoarse calcifications). 
+Degree of DCIS in tumour: <25%.
+DCIS in adjacent tissue: Present. 
+Excision Margins:  
+Invasive component:
+Superior margin: Present at diathermied margin (A11)
+Medial margin: 3.3 (A10)
+Deep margin: 5.5mm
+Lateral margin: 5.5mm (A14)
+Inferior margin: 5.5mm (A13)
+Superficial margin: 8mm (A15). 
+In-situ component:
+Lateral margin: 0.8mm (A12)
+Superior margin:1.6mm (A14)
+Medial margin: 3.3mm (A10)
+Inferior margin: 4.0mm (A14)
+Deep margin: 10mm.
+Superficial margin: Clear of tumour (>10mm). 
+Receptors: 
+ER: 	POSITIVE
+	5% of nuclei stained
+	Predominant intensity of staining: Weak.
+PR:  	NEGATIVE
+HER2 (Novocastra 10A7): Positive (3+)
+Ki-67 immunoproliferative index: Variable and highlights approximately 45% of tumour cell nuclei. 
+Nipple: Not included. 
+LCIS / ALH: Absent.
+Miscellaneous: 
+The adjacent non-neoplastic breast tissue shows fibroadenomatoid change, lobular atrophy, adenosis and columnar cell change. 
+Sentinel lymph node(s):
+Not included. 
+Axillary/other nodes:
+See specimens B - D.  
+B.  The left axillary lymph node dissection (level 1) shows metastatic adenocarcinoma in three of seventeen lymph nodes (3/17). The metastatic deposits are 10mm, 5.5mm and 3.3mm, respectively. There are also numerous foci of lymph node sinusoid invasion and focal, very early extranodal extension (less than 0.2mm). 
+C.  The left axillary lymph node dissection (level 2) shows no evidence of malignancy in six lymph nodes (0/6).
+D.  The left axillary lymph node dissection (level 3) shows no evidence of malignancy in ten lymph nodes (0/10). 
+DIAGNOSIS:
+A.  Left breast (WLE): 
+25mm, Grade 3, infiltrating ductal carcinoma with associated intermediate to high grade DCIS. 
+Carcinoma extends focally to the superior margin and DCIS is close to lateral and superior margins. 
+ER and HER-2 positive, PR negative. 
+
+B.  Left axillary lymph node dissection (level 1): Metastatic adenocarcinoma is present in three ofseventeen lymph nodes (3/17). There is focal, very early extranodal extension (less than 0.2mm) and numerous foci of lymph node sinusoidal invasion. 
+
+C.  Left axillary lymph node dissection (level 2): No evidence of malignancy in six lymph nodes (0/6). 
+
+D.  Left axillary lymph node dissection (level 3): No evidence of malignancy in ten lymph nodes (0/10).
+

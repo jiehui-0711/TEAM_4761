@@ -1,0 +1,69 @@
+
+Episode No:  12Y222532O
+1292225.KHO
+
+Mehring, Oscar Marylou 
+Lab No:  12Y22253
+Elkington
+GRENFELL  NT  4218
+Specimen: Tissue
+D.O.B:  25/8/2014
+Sex:  F
+Collected: Unknown at :
+Location:  PRINCE OF WALESPRIVATE - DALBY HOSPITAL HEALTH SERVICE
+DR SCOT Jeramy Pumarejo
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right beast WLE + sentinel LNBx.  Lesion at 10 o'clock 8cm from nipple (infiltratingductal Ca on core bx.)
+1.  Right breast WLE - marking - long stitch lateral, short superior, medium medial.
+2.  Sentinel LNs - 1. count >4000. 2.  count 1147.  3.  count 642, 
+MACROSCOPIC:
+A.  Specimen labelled "Right breast sentinel node 1", consists of a piece of fatty tissue, 26 x 20 x 12mm.  There is a single lymph node 6mm across.  
+Blocks: 1 - lymph node bisected.
+B.  Specimen labelled "Sentinel node right side axilla 2", consists of a piece of fatty tissue, 30 x 22 x 15mm.  No lymph node was identified macroscopically.  Specimen AE 4 blocks. 
+C.  Specimen labelled "Sentinel node 3 right axillary", consists of a piece of fatty tissue, 30 x 16 x 10mm.  A 3mm lymph node is identified.  
+Blocks: 1 - one lymph node.
+D.  Specimen labelled "Right breast lesion short stich superior stitch medium medial long stitch lateral", consists of piece of fibrofatty tissue weighing 20g with orientating sutures as per specimen label.  The specimen is 61mm from medial to lateral, 40mm from superior to inferior and 20mm from superficial to deep.  The superior marginis inked red, superficial blue and deep black.  The specimen is serially sectioned from medial towards lateral into eleven slices.  Within slices five and six is a firm tan tumour, 14 x 10 x 8mm.  The tumour is 2mm clear of the superficial margin, 2mm clear of the deep margin, 5mm clear of the superior margin and at least 10mm clear of all other margins.  Within slices 1 - 4 is an area of soft fibrous tissue, 20mm in maximum dimension.  The remainder of the breast parenchyma is unremarkable.
+Blocks: 1 and 2 - slice one medial margin; 3 and 4 - slice two; 5 and 6 - slice four; 7 and 8 - slice five; 9 and 10 - slice six; 11 and 12 - slice seven; 13 and14 - slice eight; 15 - slice eleven lateral margin.  Specimen photographed and block diagram taken.  (IK/vo 14.5.64) 
+MICROSCOPIC (Reported by Dr C Barroso):
+A - D.  Sections show invasive ductal carcinoma of the breast.  The features are as follows.
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive ductal carcinoma
+Invasive tumour size:  15mm
+Grade (Modified Bloom & Richardson):  3
+Tubules:  3   Nuclei:  2   Mitoses:  3   Mitotic rate:  16 /10hpf.
+Lymphovascular invasion:  Absent
+
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  Confined within invasive tumour
+Nuclear grade:  Intermediate:  Solid
+Necrosis:  Absent
+Calcification:  Absent
+Degree of DCIS in tumour:  Moderate
+DCIS in adjacent tissue:  Absent
+Excision Margins:
+Invasive component:  1.5mm from superficial and deep margins, 5mm from superior margin, all other margins well clear
+In-situ component:  1.5mm from deep margin, all other margins well clear
+Receptors (Block D9):
+ER:  Positive
+	95% ofnuclei stained
+	predominant intensity of staining:  Strong
+PR:  Positive
+	10% of nuclei stained
+	predominant intensity of staining:  Strong
+HER2 (Novocastra 10A7):  Negative (Score 0)
+HER2 SISH:  Performed at Terex Corporation, MOUNT ISA  HOSPITAL Hospital, see separate report.
+Ki-67 index:  Approximately 30%
+Nipple:  Not applicable
+LCIS / ALH:  Absent
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  3
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

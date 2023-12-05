@@ -1,0 +1,64 @@
+SPR no: 54Y908703R
+MRN no: 10469217
+Site_name: MUSWELLBROOK HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Complex L pelvic mass.  Suspected ovarian Ca.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left tube and ovary&amp;quot;, consists of an ovary 160 x 95 x 80mm with fallopian tube 55mm in length.  The serosa is intact.  There is a multiloculated cyst with occasional papillary excrescences filled with haemoserous fluid.  RS embedded in 2 blocks for frozen section.
+Blocks: 1 - frozen section one; 2 - frozen section two; 3 - fimbria bisected longitudinally; 4 - representative TS fallopian tube; 5 to 12 - RS ovarin tumour.
+
+FROZEN SECTION REPORT:
+Adenocarcinoma of the ovary, favour endometrial differentiation (at least grade 2).
+Result to Dr Boyt by Dr N Bartolo/Dr N Curly at 4:39pm on 14/05/66.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, right tube and ovary&amp;quot;, consists of a uterus with attached cervix, right fallopian tube and right ovary, weighing 396g in total.  The uterus measures 105 x 92 x 85mm and has a smooth shiny serosal surface with multiple large subserosal nodules.  The ectocervix measures 24 x 22mm and has an unremarkable surface.  On sectioning the endometrium is 2mm in maximum thickness and the myometrium is 27mm in maximum thickness. The myometrium is expanded cystic change and heavily calcified nodules.  The right ovary measures 23 x 14 x 7mm and hs an unremarkable cut surface.  Blocks: 1 to 3 - full LS anterior body and cervix partially disrupted by calcified nodules; 4 to 7 - LS posterior body and cervix; 8 - RS tumour from anterior wall; 9 - RS tumour posterior wall; 10 - fimbria bisected; 11 - representative TS fallopian tube; 12 &amp;amp; 13 - ovary bisected.
+
+C.  Specimen labelled &amp;quot;Left external iliac lymph node&amp;quot;, consists of a piece of fatty tissue, 28 x 22 x 8mm.  Four probable lymph nodes are identified ranging from 8 to 16mm in maximum extent.
+Blocks: 1 - four probable lymph nodes; 2 - remaining fatty tissue AE.
+
+D.  Specimen labelled &amp;quot;Left obturator lymph node&amp;quot;, consists of fatty tissue, 42 x 25 x 10mm.  Three probable lymph nodes are identified ranging from 8 to 35mm in maximal extent.
+Blocks: 1 - two probable lymph nodes; 2 - one bisected node; 3 - remaining fatty tissue.  AE.
+
+E.  Specimen labelled &amp;quot;Low para-aortic lymph node&amp;quot;, consists of a presumed lymph node, 10 x 8 x 3mm.   AE 1 block.
+
+F.  Specimen labelled &amp;quot;High para-aortic lymph node&amp;quot;, consists of a piece of fatty tissue, 25 x 19 x 4mm.   AE 1 block.
+
+G.  Specimen labelled &amp;quot;Aortocaval node&amp;quot;, consists of a piece of fatty tissue, 33 x 13 x 9mm.  The cut surface shows one lymph node, 27mm in maximum extent.  BAE 2 blocks.
+
+H.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a sheet of omentum, 260 x 110 x 25mm.  No obvious tumour deposits are identified.  RS 3 blocks.   (TO:TF/ta 16/4/70)
+
+
+MICROSCOPIC (Reported by Dr N Murriel):
+A.  Sections of the ovary show a malignant epithelial tumour with a variety of architectual patterns including papillary, microcystic and solid areas.  The papillary areas consists of bulbous papillae many of which contain eosinophilic basement membrane material.  Focal areas show cleared cytoplasm with polyhedral shaped cell boarders and eccentrically placed nuclei.  The appearances are consistent with clear cell carcinoma.  No surface involvement is seen macroscopically.  Foci suspicious for endometriosis are seen.  The fallopian tube shows no significant abnormality.
+
+B.   The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive. The myometrium contains extensive adenomyosis as well as scattered leiomyomas, some of which are infarcted and show heavy calcification.  The right fallopian tube and the right ovary show no significant abnormality.  There is no evidence of malignancy.
+
+C.   The four (4) lymph nodes identified show no significant abnormality. There is no evidence of malignancy.
+
+D.  The four (4) lymph nodes identified show no significant abnormality. There is no evidence of malignancy.
+
+E.   The single (1) lymph node identified shows no significant abnormality. There is no evidence of malignancy.
+
+F.  The single (1) lymph node identified shows no significant abnormality. There is no evidence of malignancy.
+
+G.  The single (1) lymph node identified shows a small focus of endosalpingiosis. There is no evidence of malignancy.
+
+H.   Sections of the omentum show no significant abnormality.  In addition, three (3) small benign lymph nodes are present.
+
+
+DIAGNOSIS:
+A - H.  Uterus, cervix, left and right ovaries and fallopian tubes, lymph nodes and omentum:
+- Clear cell carcinoma of the left ovary.
+- Fourteen negative lymph nodes.
+- Omentum negative.
+ADDENDUM (17/5/66):
+
+Immunoperoxidase stains for MSI proteins (Block A9)
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.

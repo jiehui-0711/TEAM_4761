@@ -1,0 +1,77 @@
+
+Episode No:  20O564632V
+205564.RJG
+
+ECKER, Steven 
+Lab No:  20O56463
+Mid Oaks
+WALLERAWANG  Queensland  6214
+Specimen: Tissue
+D.O.B:  4/7/1993
+:  F
+Collected: 12/02/2013 at 09:04
+Location:  North-AUSTIN HEALTH - AUSTIN HOSPITAL
+DR GUY Gaylord WACHS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY, DR Petitto, DR Wyzard
+SUPPLEMENTARY REPORT (30.4.63):
+
+
+CLINICAL:
+R breast ca.  Sentinel node 1.  Sentinel node 2.  Fragments of sentinel node 1.  Urosepsis, R hydronephrosis.   Right breast hookwire localisation.  12 o'clock, 7cm from nipple.  Breast screen detected stellate lesion.  Double stitch deep, long lateral, loop inferior.  
+MACROSCOPIC:
+A.  Specimen labelled "1 sentinel node", consists of a piece of unoriented tan and fatty tissue 20mm in maximum dimension. Two lymph nodesand 20mm are identified.  Block 1 - small lymph node; 2 - larger lymph node serially sectioned, AE. 
+B.  Specimen labelled "Second sentinel node", consists of a piece of unoriented fatty tissue 40 x 25 x 20mm.  One lymph node is identified 32mm in maximum dimension.  Serially sectioned, AE 2 blocks. 
+C.  Specimen labelled "? Second sentinel node", consists of fragments of fatty tissue 10-25mm in maximum dimension. There are no definite lymph nodes identified.  AE1 block. 
+D.  Specimen labelled "R breast tissue", consists of an oriented wide local excision measuring 65mm (medial to lateral) x 28mm (inferior to superior) x 65mm (superficial to deep).  There are three sutures in situ as designated and a hookwire is seen to insert from the superficial lateral aspect.There is an overlying unremarkable ellipse of skin 60mm (medial to lateral) x 13mm (inferior to superior). The superior margin is inked blue, the inferior margin is inked green and the deep margin is inked black. The specimen is serially sectioned in the parasagittal plane into nine slices from slice 1 medial to slice 9 lateral. The hookwire is seen to insert into slice 2.  A metal clip is identified in slice 3.  Afirm, cream stellate poorly circumscribed lesion is identified in slices 3 and 4.  The tumour measures 7mm (medial to lateral) x 7mm (inferior to superior) x 8mm (superficial to deep). The distance from the margins is as follows: 
+Superior 10mm, inferior 15mm, superior-superficial 13mm, deep 33mm, medial 30mm and well clear of the lateral margin.  
+Block 1- two representative slice 1; 2-5 - slice 2; 6-8 - slice 3; 9-11 - slice 4; 12 - representative slice 5; 13 -representative slice 7; 14 - representative slice 9 (tumour markers on block 7).  Please refer to attached diagram.  (RR/ec 14.4.63) 
+ 
+MICROSCOPIC: (Reported by Dr G Hollan)
+A-D.  Sections show breast tissue with a 13mm diameter grade 2 infiltrating ductal carcinoma.  DCIS extends close to the superior excision margin.  Other margins are well clear of DCIS and invasive carcinoma.  The three sentinel lymph nodes are all free of tumour.  A synoptic report follows:
+Invasive carcinoma:
+Site: Right breast 12 o'clock UIQ, WLE. 
+Type: Infiltrating ductal carcinoma. 
+Invasive tumour size: 13mm. 
+Grade (Modified Bloom & Richardson): 2.
+Tubules:  3    Nuclei:  3    Mitoses:   1   Mitotic rate: 7/10hpf.
+Lymphovascularinvasion:  Absent. 
+	    
+DCIS component:  
+DCIS:  Present. 
+Maximum extent of DCIS: 13mm. 
+Nuclear grade:  High.
+Architecture: Solid. 
+Necrosis:   Absent. 
+Calcification: Absent. 
+Degree of DCIS in tumour:  <25%. in adjacent tissue:  Present. 
+Excision Margins:  
+Invasive component:  Medial >10mm, lateral >10mm, superficial >10mm, deep >10mm, inferior 6mm, superior 9mm.
+In-situ component: Superior 2mm, all others >10mm. 
+Receptors (Block D7): 
+ER:  Positive.
+	100% of nuclei stained
+	predominant intensity of staining: Strong. 
+PR:  Positive.
+	100% of nuclei stained
+	predominant intensity ofstaining:  Strong.
+HER2 (Novocastra 10A7): Negative (0/1+).
+Ki-67 index: 25%.
+Nipple:  N/A. 
+LCIS / ALH:  Absent. 
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined: 3. 
+Number of sentinel lymph nodes NOT involved: 3.
+Number of sentinel lymph nodes involved by tumour:  0.        
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):   3.
+Total number of involved lymph nodes (including sentinel node(s)): 0.
+DIAGNOSIS:  
+A-D.   Right breast tissue and sentinel lymph nodes:  13mm grade 2 infiltrating ductal carcinoma.  Sentinel lymph nodes negative (0/3).   pT1c N0. 
+SUPPLEMENTARY REPORT (30.4.63):
+Her-2 ISH has shown a negative (nonamplified, diploid) result.
+Mean Her-2 copy number per cell:   1.3
+Reported by Dr GEzequiel.
+ 
+   
+ 
+

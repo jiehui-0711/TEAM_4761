@@ -1,0 +1,47 @@
+SPR no: 05C379690V
+MRN no: 050379
+Site_name: TRANGIE MULTI PURPOSE HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Whipple.  Pancreatic cancer.  Prolene 1 - PV margin.  Prolene 2 - SMA margin.  Prolene 3 - uncinate margin.  Small bowel part.  Post radiation chemo.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Whipple&amp;quot;, consists of a pancreatoduodenectomy specimen including a segment of small bowel (200mm length x 40mm circumference), distal stomach (35mm length x 107mm circumference), proximal pancreas (73 x 60 x 45mm), and peripancreatic/perigastric fibroadipose tissue (up to 110mm in width).  No gallbladder is included.  The pancreatic neck margin measures 27 x 20mm in area, with the main pancreatic duct probable to a depth of approximately 15mm.  At the superior aspect of the pancreatic neck margin, there is a fibrosed and dilated common bile duct, 20 x 14 x 14mm.  The main duodenal papillary is expanded by the presence of a metal stent (11mm diameter), which extends to the common bile duct.  The accessory duodenal papillary is not identified.  The gastric and small bowel mucosa is unremarkable.  Additionally, there is separate omentum, 170 x 120 x 25mm, and a separate segment of small bowel, 50 x 50 x 57mm.  The pancreatic portal vein margin is inked blue, SMA margin inked red, uncinate margin inked green, anterior surface is inked black, and posterior surface is inked black.  There is an incision at the anterior aspect of the pancreas.  The stomach and small bowel margins are inked blue.  The pancreas is sectioned from inferior to superior into seven slices.  The pancreatic parenchyma appears fibrosed, with patchy areas of presumed fat necrosis; a discrete tumour mass is not identified.  The metal stent is intimately associated with the surrounding tissue, making it impossible to remove.  The stent and directly adjacent tissue has been excised to enable tissue processing.  The ampulla of Vater is in pancreas slice four.  The separate omentum and small bowel are unremarkable.
+Blocks: 1 - LS stomach margin; 2 - LS small bowel margin; 3 - shave pancreatic neck margin; 4 - shave common bile duct neck margin; 5 and 6 - LS separate small bowel margins; 7 - TS longitudinal small bowel margin; 8 - representative separate small bowel; 9 to 11 - representative omentum; 12 - peripancreatic/perigastric lymph nodes as seen; 13 - slice one of pancreas (inferior); 14 - slice two of pancreas; 15 - slice three of pancreas; 16 - slice four of pancreas; 17 - slice five of pancreas; 18 - slice six of pancreas; 19 - slice seven of pancreas (superior) (blocks 16 to 19 - stent and surrounding tissue excised).
+
+B.  Specimen labelled &amp;quot;Small bowel resection&amp;quot;, consists of a segment of small bowel, 55mm in length by 50mm circumference.  There are three stapled surgical margins, one at each end and one running longitudinally along the specimen.  The serosal surface is dark grey and smooth.  The mucosa is unremarkable; no tumour is identified.  The stapled surgical margins are inked blue.
+Blocks: 1 - LS margin at one end; 2 - LS margin at other end; 3 - TS longitudinal margin; 4 - representative LS.   (TO: JB; JB/ta 8/5/67)
+
+
+MICROSCOPIC (Reported by A/Prof B Boesch):
+A.  All of the pancreatic tissue has been blocked except for the intrapancreatic common bile duct (CBD), and the immediately adjacent periductular tissue.  These structures were intimately associated with, and adherent to, a metal biliary stent, which had to be excised to enable removal of the stent before tissue processing.  It is therefore unknown whether residual tumour was present within the small amount of tissue adherent to the stent. All other pancreatic tissue has been submitted for examination and deeper levels have been examined.
+The pancreatic parenchyma shows extensive fibrosis and atrophy, which includes islet pseudohyperplasia.  Residual pancreatic ductules retain a lobular architecture.  Inflammation is not a prominent feature.
+
+In some areas the fibrosis appears to be secondary to obstructive pancreatitis, but in other areas, the fibrosis is looser and associated with mast cells and occasional pigment laden macrophages, consistent with tumour bed.
+
+Directly adjacent to the disrupted region of pancreas around the stent, there is a 5mm focus of round-to-angulated glandular elements within fibrous stroma (A17).  These glandular elements are lined by atypical cells with coarse and vesicular chromatin and clear-to-eosinophilic cytoplasm. Scattered mitoses are identified in this region, but there is no necrosis.  No lymphovascular or perineural invasion is present.
+This area is challenging to interpret and it is difficult to separate a small focus of residual, poorly preserved adenocarcinoma from distorted pancreatic ductules in a region of pancreatic atrophy and fibrosis. Overall, the features are consistent with residual, microscopic carcinoma.  This region is 7mm from the pancreatic portal vein margin, and is well clear (&amp;gt;10mm) from all other pancreatic margins and surfaces.
+
+The extrapancreatic common bile duct margin shows extensive ulceration, granulation tissue, and fibrosis.  Reactive glandular changes are present in areas adjacent to ulceration.
+No tumour is identified and the margin of the CBD is clear.  There is an associated mild mixed inflammatory cell infiltrate.
+The gastric and small bowel margins are negative for tumour.
+
+The pancreatic fibrosis appears to extend into peripancreatic soft tissue, and may partly represent the previous site of tumour (tumour bed).  No tumour is identified in six (6) peri-pancreatic lymph nodes (0/6).
+
+The regression grade (taking into account the overall region of fibrosis and probable tumour bed) is consistent with grade 1 (moderate response) - Single cells or small groups of cancer cells.
+
+B.  Sections of small bowel show no significant abnormality.  The crypt-to-villus ratio is normal.  There is no significant inflammation.  Organisms are not identified.  There is no evidence of dysplasia or malignancy.
+
+A provisional result was discussed with Dr B Emond by A/Prof B Wheatcroft.
+
+
+DIAGNOSIS:
+A.  Whipple:
+- 5mm focus of glandular atypia (consistent with residual adenocarcinoma) in fibrous tissue adjacent to common bile duct, clear of margins
+- Extensive pancreatic fibrosis, which extends beyond pancreas, consistent with tumour bed
+- Six (6) negative peripancreatic lymph nodes
+- Intrapancreatic common bile duct not able to be examined (see above)
+
+B.  Small bowel resection:  No significant abnormality identified.

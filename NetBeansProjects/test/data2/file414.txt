@@ -1,0 +1,64 @@
+SPR no: 16V302522J
+MRN no: 1683025
+Site_name: GERALDTON HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report 1683025.GHJ
+Goulette, Andres
+16V30252,16V30252
+
+Last edited : 11/5/2062		Page: 2
+BONE MARROW REPORT
+
+SURNAME: Johnie		FIRST NAME: Rickey
+D.O.B.:	5/11/33			MRN: 4307227
+EPISODE NO:	43A722722N	A.M.O. Heidebrink
+
+HISTORY / INDICATION:  DLBCL staging
+Peripheral Blood
+Date: 25/9/63
+Hb: 111			Platelets: 383
+WBC: 8			Neutrophils: 5.1
+Film report: No significant morphological abnormality.
+Date BM performed: 25/9/65
+Procedure: BMAT	Site: ROCKINGHAM GENERAL HOSPITAL
+
+ASPIRATE
+
+Ease /difficulty of aspiration:	Easy
+Cellularity: Normocellular.
+Nucleated Differential Cell Count (%):
+Blasts: &amp;lt;1			Promyelocytes: 1
+Myelocytes: 	14		Metamyelocytes: 8
+Neutrophils/Bands: 	31	Eosinophils: 4
+Basophils:			Mast cells:
+Lymphocytes: 19 		Plasma cells:	&amp;lt;1
+Monocytes: 			Promonocytes:
+Erythroblasts:	23		M:E ratio: 2.5:1
+No. of cells counted: 500
+Erythropoiesis:	Normal activity with overall normal morphology although occasional dysplastic erythroblasts are seen.
+Granulopoiesis: Normal in amount and activity.
+Megakaryocytes:  Plentiful, with normal morphology.
+Iron stain: Normal iron stores. No ring sideroblasts.
+Flow cytometry:	Predominantly a T cell population.
+Cytogenetics: Not indicated.
+Aspirate Report:Normocellular marrow with no evidence of involvement with lymphoma. Trilineage haemoipoiesis is normal. Please correlate with trephine.
+Haematology Registrar: Mayah Macknair
+
+Haematology Consultant: REGGIE HARDISTER
+
+
+
+TREPHINE BIOPSY
+Length / condition of core: Single 16mmtrephine with small amount of crush artefact at one end but otherwise in good condition.
+Cellularity: Normocellular.
+Bone architecture: Normal.
+Reticulin stain: 	Normal.
+Immunohistochemistry: Not indicated.
+Trephine Biopsy Report:  Normocellular marrow with no evidence of lymphoma. Megakaryocytes are plentiful, with normal morphology and topography, and erythropoiesis and granulopoiesis are normal.
+CONCLUSION: Normal marrow.
+Haematology Registrar: Kamala NERIS
+
+Haematology Consultant: NOBLE Schan
+
+Cancer Council Registry: No

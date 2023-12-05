@@ -1,0 +1,32 @@
+Episode No:  18L4211243
+1844211.HKJ
+
+CANAN, OLIVER 
+Lab No:  18L42112,18L42112
+Blanchfield
+TRARALGON  QLD  2714
+Specimen: Fluid,Tissue
+D.O.B:  21/4/2029
+Sex:  F
+Collected: 05/02/2066 at 10:47
+Location:  ANTENATAL WARD-GNOWANGERUP HOSPITAL
+DR RON KISHA Roon
+Distribution:  
+CLINICAL:
+Right retroperitoneal cystic mass.  ?Lymphangioma.
+MACROSCOPIC:
+Specimen labelled "Right retroperitoneal cystic lesion" consists of a unorientated cystic mass 60 x 55 x 30mm.  The external surface is inked black.  The external surface is tan to red.  Slicing reveals multilocularcystic cut surface.  There are fragments of blood clot within the cyst.  The wall of the cyst is variably thick ranging from 2 up to 15mm in thickness.  The thicker solid areas have yellow to tan cut surfaces.
+Blocks:  1 to 6 - representative (6 - preserved block).  (TO: RG; RM/rt 2.6.66)
+MICROSCOPIC (Reported by Dr N Zajdel):
+Sections show an encapsulated tumour composed of a variably cellular arrangement of predominantly uniform spindle cells.  In cellular (Antoni A) areas the spindle cells form short fascicle and show zones of nuclear palisading (Verocay bodies) with a eosinophilic fibrillary matrix.  In less cellular (Antoni B) areas the spindle cell are haphazardly arranged in  more  loosely textured, often vacuolated matrix with admixed lymphocytes and patchy foci of  foamy histiocytes.  Scattered hyperchromatic atypical forms are seen compatible with ancient type degenerative atypia. There are interspersed areas of acute and subacute haemorrhage, the latter with haemosiderin laden macrophages which are often accentuated in the border zones of areas of cystic degeneration. There are also interspersed vessels which show variably thick hyalinised walls.  Mitoses are inconspicuous (1/10hpf) and no necrosis is seen. The capsule is variably thick, fibrous with interspersed lymphoid aggregates, and in some areas forms the margin of excision. Elsewhere there is overlying fibroadipose soft tissue.  Ganglia are seen atthe perimeter of the capsule in some areas.  
+Immunohistochemistry:
+In the presence of positive and adequate controls the spindled tumour cells stains as follows:
+Positive:  SOX10 (strong diffuse), S100 (strong diffuse)
+Negative:  Melan A, HMB45, AE1/AE3, EMA, CD117, Desmin, Myogenin, CD34, and SMA.
+The Ki67 proliferation index is low following subtraction of expression by lymphocytes.
+Very occasional neurites are seen on NF68 staining
+There is no evidence of malignancy.
+DIAGNOSIS:
+Right retroperitoneal cystic mass:
+-  Schwannoma (neurilemmoma).
+

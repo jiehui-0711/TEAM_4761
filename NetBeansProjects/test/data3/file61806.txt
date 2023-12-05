@@ -1,0 +1,33 @@
+SPR no: 00L992857I
+MRN no: 004992
+Site_name: FLINDERS MEDICAL CENTRE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report00L99285 (00L992857I) MCLAUGHLIN, Toccara
+HISTOPATHOLOGY REPORT
+CANOWINDRA SOLDIERS MEMORIAL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Basal cell carcinoma, suture 12 o&amp;apos;clock. Right labial basal cell carcinoma.
+
+MACROSCOPIC:
+&amp;quot;LESION RIGHT VULVA, MARKED 12 O&amp;apos;CLOCK&amp;quot;. A diamond-shaped piece of skin measuring 42x30mm with underlying fatty tissue 58x50x17mm, with a suture at one edge indicating 12 o&amp;apos;clock. In the centre of the skin is a raised sessile variably pale and dark brown  nodular lesion measuring 17x11mm in diameter and protruding about mm from the surface.
+There is an extra margin of skin attached to the 3 o&amp;apos;clock side partly separated by an incision into the skin and fat. The piece is from 3mm to 8mm in width and 18mm in length superior to inferior.  Including the extra margin of skin, the closest margins of the specimen are 3mm from 4-5 o&amp;apos;clock, 4mm from 7-8 o&amp;apos;clock, 4mm from 9-10 o&amp;apos;clock, and 13mm from 2-3 o&amp;apos;clock. The 3 o&amp;apos;clock side is inked blue, the 9 o&amp;apos;clock side is inked green and the deep surface is inked black. The specimen is cut from 12 to 6 o&amp;apos;clock into 12 slices. The lesion is in slices 5-8.  (1 slice 2; 2&amp;amp;3 slice 5; 4&amp;amp;5 slice 6; 6&amp;amp;7 slice 7; 8&amp;amp;9 slice 8; 10&amp;amp;11 slice 10). Representative sections. (M-11/FRnh)
+
+MICROSCOPIC: Dr B. Riccelli
+
+Tumour:   Basal cell carcinoma
+Type:  Nodular type, pigmented, with a superficial component
+Tumour thickness:  3mm, involves dermis
+Lymphovascular invasion:  Not identified
+Perineural invasion:  Not identified
+Distance of tumour to deep margin: 10mm
+Distance of tumour to radial/peripheral skin margins:  4mm (to closest 3 and 9 oclock margins). Distance to margins measured in fixed specimen.
+COMMENT(S):
+The adjacent skin shows no significant abnormality.
+There is no SIL abnormality or evidence of vulval dermatosis.
+DIAGNOSIS:
+
+Right labia skin excision:
+- basal cell carcinoma, nodular type and pigmented, with a superficial component;
+- distance of tumour to closest margin is 4mm.

@@ -1,0 +1,25 @@
+SPR no: 36Q4996234
+MRN no: 3664996
+Site_name: NANANGO HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+LBO - high.  BG diverticular disease, gastric cancer.  Note, laparoscopy revealed scattered white peritoneal deposits around rectum/L adnexa/small bowel and peritoneum. (?carcinomatosis peritonei).
+MACROSCOPIC:
+Specimen labelled &amp;quot;Sigmoid colon&amp;quot;, consists of a segment of large bowel measuring 200mm in length with a circumference ranging from 35mm to 53mm.  The segment of reduced circumference extends over a length of 70mm, with the bowel wall in this area measuring up to 20mm in thickness.  There is attached mesocolon measuring up to 80mm in width.  The bowel and mesocolic peritonealised surfaces are patchy grey and tan, and largely smooth; two rubbery firm nodules are identified, one measuring 2mm and the other measuring 5mm in maximum dimension.  Towards one end of the specimen, the peritonealised surface of the bowel is focally adherent onto itself over a length of approximately 25mm.  Numerous diverticula are scattered throughout the bowel, with some containing faecoliths.  The mucosa is otherwise unremarkable, with no tumours identified.  Scattered lymph nodes are identified in the mesocolic tissue.
+Blocks: 1 and 2 - LS margins; 3 to 6 - diverticula; 7 to 9 - peritoneal adhesion; 10 - larger peritoneal nodule; 11 - smaller peritoneal nodule; 12 and 13 - peritoneum; 14 - presumed apical vascular margin; 15 - single apical lymph node, bisected; 16 and 17 - lymph nodes as seen.  (JB/vo 25.4.69)
+
+
+MICROSCOPIC (Reported by Dr K Cheramie and registrar Dr K Seelye):
+Sections of sigmoid colon show extensive involvement by poorly differentiated adenocarcinoma composed of neoplastic cells arranged singly and in small groups and glands.  The tumour cells show positive staining with CK7.  The CK20, CDX2, TTF1, GATA3, CA125 and Her2 stains are negative.
+The majority of the tumour involves the serosa and subserosal adipose tissue with extension through muscularis propria and submucosa into the lamina propria.  The bowel epithelium shows no significant abnormality.  Lymphovascular and perineural invasion are identified.  The tumour is well clear (greater than 10mm) from both bowel surgical margins.  Four (4) of seven (7) lymph nodes, including the apical lymph node, are involved by tumour.
+Multiple diverticula are scattered thoughout the specimen, including an acutely inflamed diverticulum.
+
+Comment:  The previous subtotal gastrectomy specimen (36Q49962) has been reviewed.  The current tumour shows similar morphology.  In addition, the immunohistochemical profile is consistent with an upper gastrointestinal tract primary.
+
+
+DIAGNOSIS:
+Sigmoid colon:
+- Poorly differentiated adenocarcinoma, favour recurrent gastric adenocarcinoma (see comment)
+- Four (4) of seven (7) lymph nodes involved by tumour
+- Diverticular disease and diverticulitis

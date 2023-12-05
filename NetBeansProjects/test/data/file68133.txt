@@ -1,0 +1,76 @@
+SPR no: 11C100791Q
+MRN no: 1111007
+Site_name: CONCORD REPATRIATION HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Biopsy = rhabdo sarcoma. Biobanking.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Right medial thigh lesion stitch proximal&amp;quot;, consists of a 122 x 95 x 50mm ellipse excision of skin. The overlying ellipse of skin measures 122 x 62mm, which appears unremarkable. Specimen is received fresh and sampled for Biobanking  A suture is present is one tip which will be denoted at 12 o&amp;apos;clock. Three o&amp;apos;clock inked blue, 9 o&amp;apos;clock inked green and deep inked black. The stitch will be designated 12 o&amp;apos;clock. Specimen is sectioned from 12 to 6 o&amp;apos;clock into eight slices. Situated within the subcutis and overlying the skeletal muscle is a 56 x 47 x 40mm irregular tan tumour. The tumour appears haemorrhagic and has a central necrotic area representing approximately 30% of the tumour. The tumour abuts the 9 o&amp;apos;clock margin, is 6mm from the 3 o&amp;apos;clock margin, abuts the dermis and is 3mm from the deep margin. The tumour is well clear of the 12 and 6 o&amp;apos;clock margins. Block 1-2 - LS slice one (12 o&amp;apos;clock); 3 - closest 9 o&amp;apos;clock margin; 4 - closest deep margin 5 - tumour/skeletal muscle; 6 - closest 9 o&amp;apos;clock margin; 7 - skin interface; 8 - deep margin; 9 - 3 o&amp;apos;clock margin; 10 - central; 11 -  tumour/skeletal muscle; 12 - 9 o&amp;apos;clock margin; 13 - 3 o&amp;apos;clock margin - 14 - central; 15 - deep margin; 16-17 - LS slice eight (6 o&amp;apos;clock margin); 18 - Biobank. Photos taken.  (TO:YL/kl 25/9/71)
+
+
+MICROSCOPIC (Reported by Dr E Wiebusch):
+RHABDOMYOSARCOMA SYNOPTIC REPORT (BIOPSY)
+Morphologic description:
+The tumour is located in the subcutis up to the interface with muscle and is mildly infiltrative without capsule and some entrapment of surrounding adipocytes. There is a moderately to variable markedly cellular spindled to epithelioid/rhabdoid cell proliferation with scattered osteoclastic type and tumour giant cells. The cytoplasm is eosinophilic but no unequivocal striation is seen. There appears to be a variable abrupt transition from lower to widespread higher grade/pleomorphic areas (best seen in 6). The nuclei show variation in size with mostly intermediate to scattered marked pleomorphism. The nuclei are ovoid with irregular nuclear membranes, some coarse chromatin and some show distinct nucleoli. There are areas of more prominent thick collagen bundles in between the tumour, hyalinisation and coagulative and infarct type necrosis. Florid mitotic activity is seen (31mitoses/10HPF with field diameter 0.55mm) including some atypical forms. The scattered single more prominent atypical cells (up to 3 times the size of the average tumour cell combined with atypical mitoses and the small circumscribed area of increased atypia are best regarded a focal areas of anaplasia.
+The peripheral 9 o&amp;apos;clock margin is best regarded as focally involved (3) at the level of subcutis and in another focus the 9 o&amp;apos;clock margin is less than 0.1mm away (6). The 3 o&amp;apos;clock peripheral margin is 4mm away.The deep margin is 1.6mm with an intact soft tissue plane (4). The other margins are further away.
+The overlying skin shows moderate sun damage.
+
+Immunohistochemistry:
+The tumour cells are diffusely positive for desmin (cytoplasmic). SMA shows patchy positive staining. Myogenin (nuclear) shows scattered single and small aggregates of positive cells. INI-1 shows retained nuclear staining. EMA shows scattered single cells with rather membranous staining. Pancytokeratin shows scattered small aggregates of staining
+The tumour cells are negative for ERG, Sox10 and S100.
+
+The morphological and immunohistochemical features show some similarity to the previous description in the core biopsy report from DHM. In the outside core biopsy Myogenin and Pancytokeratin were negative in contrast to the current excision however this may represent sampling.
+
+Comment: The features are those of a rhabdomyosarcoma with some spindled areas including tumour giant cells and some sclerosis associated with focal anaplasia. The features are favoured to represent spindle cell/sclerosing type with patchy areas of pleomorphism over pleomorphic subtype. Dr E Lindeen concurs.
+
+RHABDOMYOSARCOMA BIOPSY SYNOPTIC REPORT
+Based on College of American Pathologists Protocol, Neuroblastoma 4.0.0.0 February 2019.
+
+Procedure
+Oriented wide local excision
+
+Tumor Site
+Thigh
+
+Tumor Size
+Greatest dimension: 56mm
+Additional dimensions: 47 x 40mm
+
+Histologic Type
+Favoured to represent Spindle cell/sclerosing type over pleomorphic subtype
+
+Anaplasia
+Single cells and nodules (focal)
+
+Margins (for excisional biopsy only)
+Involved by tumor
+Specify margin(s): 9 o&amp;apos;clock
+
+Fusion Status
+Not performed
+Molecular studies such as FOXO1 rearrangement can be done on request if clinically indicated.
+
+Block for immunohistochemistry: Block 9
+Specimen received fresh: No
+Frozen tissue available on cork: No
+Block for tumour bank: Block 18
+Tissue sampled for Personalised Medicine: No
+
+Additional Pathologic Findings
+None
+
+Comment(s)
+FNCLCC grading system:
+Tumour differentiation: score 3
+Mitotic count:score 3
+Tumour necrosis: score 1
+
+Histological grade: 3
+
+
+DIAGNOSIS:
+Right medial thigh lesion, wide local excision:
+- Rhabdomyosarcoma (see report/comment), pT2, pN0 (AJCC 8th edition), incompletely excised.

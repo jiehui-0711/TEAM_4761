@@ -1,0 +1,42 @@
+SPR no: 73Z132698N
+MRN no: 7391326
+Site_name: YOUTH PREVENTION AND RECOVERY CARE (Y-PARC)
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Suspected ovarian cancer.  Large ovarian mass.  Ca 125 : 71.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a cystic mass, 420 x 180 x 45mm.  The external surface is smooth and appears intact.  The cut surfaces show multiple cysts containing mucoid material.  No solid areas are identified.  There is included fallopian tube, 120mm in length and 7mm diameter.  Blocks:  1 &amp;amp; 2 - F/S; 3 to 47 - tumour (including RS tube).
+
+FROZEN SECTION REPORT:
+Mucinous tumour, benign in sample taken.
+Result to Anaesthetist by Dr S Svetlik/Dr S Dechico at 3:41pm on 10/5/17.
+
+B.  Specimen labelled &amp;quot;Uterus, cervix, left tube and ovary&amp;quot;, consists of a uterus with attached cervix, left fallopian tube and left ovary with a total weight of 53g.  The uterus is 77 x 55 x 25mm and has a smooth serosa with patchy haemorrhage.  The ectocervix is 20 x 20mm.  The endometrium is 1mm thick and the myometrium is up to 16mm thick.  There is a 5mm intramural fibroid.  The left fallopian tube is 40mm in length and 6mm diameter, and the left ovary is 15 x 7 x 7mm.  The anterior cervix is inked blue and posterior black.   Blocks: 1 to 3 - full LS anterior body and cervix including fibroid; 4 to 7 - full LS posterior body and cervix; 8 &amp;amp; 9 - posterior body; 10 to 14 - tube and ovary AE.
+
+C.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of an appendix 55mm in length and 6mm diameter.  The serosa is smooth.  The wall is 2mm thick.  No focal lesions are seen.
+Blocks: 1 - LS base; 2 - tip; 3 - mid TS.  AE.
+
+D.  Specimen labelled &amp;quot;Omentum&amp;quot;, consists of a piece of omentum 215 x 90 x 15mm.  No nodules are seen.  RS 3 blocks.   (TO: MS; MS/ta 13/7/67)
+
+
+MICROSCOPIC (Reported by Dr S Pitassi):
+A.  The sections show a mucinous ovarian neoplasm which consists mostly of benign-appearing cysts lined by simple mucinous epithelium with scattered goblet cells.  There are also areas with more complex papillary architecture and mild to moderate cytologic atypia including vesicular chromatin, occasional prominent nucleoli and scattered mitoses.  These features are consistent with a low-grade mucinous borderline tumour.  Patchy serosal adhesions are seen.  No high grade atypia or invasive malignancy is identified.
+
+The mucinous epithelium shows diffuse strong positive staining with CK7 and patchy positive staining for CK20, while CDX-2 is negative.  These features are consistent with primary ovarian origin.
+
+B.  The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows a leiomyoma.  There are patchy serosal adhesions over the uterine and left adnexal serosa.  The left ovary and fallopian tube show no significant abnormality.  There is no evidence of malignancy.
+
+C.  The appendix shows incidental fibrous obliteration of the tip.  There are patchy serosal adhesions.  The mucosa shows no significant abnormality.  There is no evidence of tumour.
+
+D.  The sections of omentum show scattered aggregates of chronic inflammatory cells and reactive mesothelial hyperplasia.  There is no evidence of tumour.
+
+
+DIAGNOSIS:
+A.  Right ovary and fallopian tube:  Low-grade mucinous borderline tumour.
+
+B.  Uterus with cervix, left ovary and fallopian tube:  Uterine leiomyoma.
+
+C.  Appendix:  No evidence of tumour.
+
+D.  Omentum:  No evidence of tumour.

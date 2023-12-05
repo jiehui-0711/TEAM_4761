@@ -1,0 +1,55 @@
+
+Episode No:  02Z938034S
+029938.BIK
+
+Finister, Kathaleen 
+Lab No:  02Z93803,02Z93803
+Iride
+COCKATOO    4701
+Specimen: Washings,Tissue
+D.O.B:  29/9/2017
+Sex:  F
+Collected: 18/07/2013 at 20:58
+Location:  INTENSIVECARE UNIT-KERANG DISTRICT HEALTH
+DR JACQUILINE GENNIE EISENBEISZ
+Distribution:   FILE-COPY, DR Carlston, DR Savelli,   NSW-CANCER-REGISTRY
+CLINICAL:
+Grade 1 endometrial cancer on curettings.  FHx endometrial cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, cervix" consists of a previously opened uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 680g.  The uterus measures 140 x 90 x 70mm and has a smooth shiny serosal surface.  The ectocervix measures approximately 30 x 20mm and has an unremarkable surface.  On sectioning the endometrial cavity is filled with a tan tumour with papilliform projections measuring approximately 100 x 70 x 50mm.  The myometrium is 60mm in maximum thickness.  The myometrium contains two fibroids 45 and 40mm in maximum dimension.  The larger fibroid has a haemorrhagiccut surface.  The smaller fibroid has a whorled grey cut surface.  The right fallopian tube measures 65mm in length and up to 9mm in maximum diameter.  The right ovary measures 35 x 20 x 10mm and contains a single unilocular cyst with asmooth lining 16mm in maximum dimension.  The left fallopian tube measures 64mm in length and up to 10mm in maximum diameter.  The left ovary measures 30 x 20 x 12mm and has an unremarkable cut surface.  
+Blocks:  1 to 10 - full longitudinal section of posterior body and cervix (2&3 - paired, 4&5- paired, 6 to 8 - continuous; 9&10 - paired); 11 & 12 - anterior cervix and lower uterus; 13 - tumour and serosal surface anteriorly; 14 & 15 - paired sections of tumour andserosal surface, anteriorly; 16 - section of tumour, reserved block; 17 & 18 - representative the larger fibroid; 19 - right fallopian tube and ovary; 20 - left fallopian tube and ovary.  
+B.  Specimen labelled "Omentum" consists of omental fatty tissue 320 x 130 x 15mm.  No nodules are identified.  
+Blocks:  1 to 3 - random sections.  
+C.  Specimen labelled "Umbilical hernia sac" consists of a piece of fibrofatty tissue 25 x 20 x 6mm.  Serially sliced and AE 1 block.
+D.  Specimen labelled "Right common iliac lymph nodes" consists of two fragments of fatty tissue 65 x 40 x 10mm in aggregate.  There are several lymph nodes the largest is 28mm in maximum dimension.  
+Blocks:  1- lymph nodes as seen; 2- one bisected lymph node; 3 & 4 - comprise of one lymph node.
+E.  Specimen labelled "Right obturator lymph nodes" consists of an elongated piece of fatty tissue 30 x 5 x 4mm.  No lymph nodes are identified.  AE 1 block.
+F.  Specimen labelled "Left common iliac lymph nodes" consists of a piece of fatty tissue 38 x 14 x 13mm.  There is one lymph node 20mm in maximum dimension.  
+Blocks:  1 - one trisected lymph node.  
+G.  Specimen labelled "Left external iliac nodes" consists of a piece of fatty tissue 40 x 10 x 8mm.  Specimen is sliced.No lymph nodes are identified.  AE 1 block.
+(EJ/mm 21.9.63) 
+MICROSCOPIC (reported by Dr A Steckel & Dr A Dusty-Wischmeyer):
+A.  Sections show grade 1 endometroid adenocarcinoma of the endometrium extensively involving both the anterior and posterior endometrial surfaces.  Carcinoma invades to a depth of 15mm through a wall thickness of 19mm.  No definite lymphovascular invasion is identified.  The ectocervix and endocervix show no significant abnormality.  The myometrium shows leiomyomas.  Both fallopian tubes and ovaries show no significant abnormality.  
+Immunoperoxidase stains for MSI proteins (block 14):
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+B.  Sections of omentum show no significantabnormality.  There is no evidence of malignancy. 
+C.  Sections show fibroadipose tissue and scar consistent with a hernia sac.  There is no evidence of malignancy. 
+D.  The six (6) lymph nodes identified show no significant abnormality.  There is no evidence of malignancy. 
+E.  No lymph nodes are identified.  There is no evidence of malignancy. 
+F.  The single (1) lymph node identified shows no significant abnormality.  There is no evidence of malignancy. 
+G.  No lymph nodes are identified.  There is no evidence of malignancy. 
+DIAGNOSIS:  
+A .  Uterus, cervix, bilateral fallopian tubes and ovaries, omentum and pelvic lymph nodes.  
+- Grade 1 endometroid adenocarcinoma of the endometrium.
+- Invasion to a depth of 15mm through a wall thickness of 19mm.
+- Cervix uninvolved.
+- Seven (7) negative lymph nodes.
+ADDENDUM (3/9/63):
+Immunohistochemistry for hormonal status has been performed as requested with the following results:  ER & PR - Positive.
+

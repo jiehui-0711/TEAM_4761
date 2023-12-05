@@ -1,0 +1,76 @@
+Episode No:  96R355052R
+9663550.NGR
+
+PHANTHANOUVON, Harry 
+Lab No:  96R35505
+George River
+MOUNT MORGAN  SA  0907
+Specimen: Tissue
+D.O.B:  25/9/1991
+Sex:  F
+Collected: Unknown at :
+Location:  OBSTETRICS-CAIRNS BASE HOSPITAL
+DR FLORENCIO BURTON ZIEMS
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Laparoscopic right hemicolectomy.  Caecal tumour ?obstructing appendix orifice.  Plastic clips at origin of ileocolic vessels.  Caecal adenocarcinoma.  HTN.  DMT2. 
+[Small pieces of fresh tissue (approx 4mm each) taken for possible tissue banking 13/2/62 LV].
+MACROSCOPIC:
+Specimen labelled "Right hemicolectomy" consists of a right hemicolectomy measuring 120mm in length with a section of terminal ileum 40mm.  Starting at the terminal ileum and extending into the caecum 38mm from the proximal resection margin and 62mm from the distal resection margin is apolypoid ulcerated tumour occupying the majority of the caecum with a maximum length of 35mm and width of 30mm.  There is puckering of the peritoneal surface of the caecum at the base of the appendix.  The appendix has a length of 52mm and appears dilated with a maximum external diameter of 17mm.  In the caecum, the tumour appears to invade and abut the serosal surface.  The tumour appears to obstruct the appendiceal orifice but does not invade into the appendix.  One pedunculated polyp is identified, 55mm from the distal resection margin.  Multiple lymph nodes are identified within the mesenteric fat.  
+Blocks:  1 - resection margins; 2 to 4 - representative tumour to deepest point of invasion; 5 - tumour to uninvolved mucosa; 6 - tumour to appendiceal orifice; 7 - tumour abutting the terminal ileum; 8 - polyps; 9 - apical lymph node; 10 & 11 - serial sections of two matted lymphnodes; 12 to 15 - further lymph nodes; 16 - representative appendix; 17 - reserve block.   (ZV/cc  14/2/62) 
+ 
+MICROSCOPIC (Reported by Dr Y Eclarinal): 
+Sections show a moderately differentiated adenocarcinoma of the caecum.  The tumour has infiltrated through the full thickness of the bowel wall and involves the serosa.  In one area the serosa is inflamed and haemorrhagic and it is debateable whether tumour cells have breached the serosa.  However in my view this layer has not definitely been breached by tumour (pT3).  The carcinoma also shows early invasion of the mesentery, and abuts the appendiceal orifice and ileocaecal valve.
+The appendix shows a small mucocele as a result of adenomatous epithelial lining (cystadenoma) rather than as a result of obstruction.
+The right colon contains a single tubular adenoma with mild dysplasia.
+Four (4) of the eighteen (18) mesenteric lymph nodes identified contain metastatic carcinoma and one of these shows a focus of perinodal spread.  The apical node is clear.
+There is no abnormality of the terminal ileum or colon away from the tumour.
+DIAGNOSIS:
+Righthemicolectomy:  
+Macroscopic Description
+
+Site of tumour:  Caecum	
+Maximum tumour diameter:  35mm
+Distance of tumour to nearer cut end:  38mm
+Tumour perforation:  No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Well/Moderate
+Local invasion
+pT3 - Beyond muscularis propria
+Tumour involvement of margins
+Cut ends:  Not involved
+Lymphocytic infiltrate
+Intraepithelial lymphocyte counts are not considered necessary when MMRD status is assessed.
+<5 per hpf (inconspicuous)
+Lymph nodes
+Number of lymph nodes present:  18
+Number of lymph nodes involved:  4	
+pN2 - Metastases in 4 or more regional LN
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX - Cannot be assessed histologically
+Background abnormalities/other comments
+Adenoma(s); Type: Tubular; Number: 1
+Residual tumour status
+R0 - No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1 - Preserved nuclear staining
+PMS2 - Preserved nuclear staining
+MSH2- Preserved nuclear staining
+MSH6 - Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3pN2     pMX     R0
+	
+
+
+

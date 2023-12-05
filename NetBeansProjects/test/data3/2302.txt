@@ -1,0 +1,82 @@
+Episode No:  05B893030H
+0508930.IAH
+
+KALLEY, Len JERAMY 
+Lab No:  05B89303,05B89303
+Sportsmans
+MURWILLUMBAH  Queensland  6375
+Specimen: Fluid,Tissue
+D.O.B:  22/3/2006
+Sex:  F
+Collected: 17/02/2065 at 11:15
+Location:  Southern-MACLEAN DISTRICT HOSPITAL
+DR Reyes Mohammed GOSA
+Distribution:    NSW-CANCER-REGISTRY, DR Rafael Critzer
+
+SUPPLEMENTARY REPORT (11.8.2065)
+
+
+CLINICAL:
+63 y/o with ovarian cancer with unknown primary.  Bilateral pleural effusion and ascites.  Chest drain fluid for cytology - cell block.  Pelvic mass.  Pre-op suspected ovarian cancer.  Intra-op bilateral ovarian tumour R>L.  Thickened uterus and tubes, small bowel mesentery infiltration and thickened stomach.  Right tube and ovary forfrozen section.  
+MACROSCOPIC:
+A.  Specimen labelled "Right tube and ovary" consists of an ovary 150 x 130 x 50mm with an attached fallopian tube measuring 50mm in length.  There is linear disruption on the ovary over an area 40mm in length.  The outer surface appears smooth.  The cut surface reveals gelatinous tissuewith a haemorrhagic and more solid area at one pole measuring 90 x 50 x 30mm.  Two blocks for frozen section.  
+Blocks:  1- frozen section one; 2- frozen section two; 3 - representative tube; 4 to 12 - further representative tumour(reserved block, block 12).
+FROZEN SECTION REPORT:
+Signet ring cells seen with associated stroma.  Favour metastatic signet ring cell Ca.
+Phone result to Dr A Vickroy by Dr A Raffety at 11.50 on 17.02.65.  
+B.  Specimen labelled "Uterus and cervix" consists of a uterus with attached cervix weighing 95g.  The uterus measures 85 x 70 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 42 x 30mm and appears unremarkable.  Endometrium is 1mm in maximum thickness over a total wall thickness 25mm.  There are numerous small fibroids identified up to 8mm.  All appear whorled and unremarkable.  
+Blocks:  1 to 3 - full longitudinal section of anterior body and cervix; 4 to 6 - full longitudinal section of posterior body and cervix; 7 - representative fibroid.  
+C.  Specimen labelled "Left tube and ovary" consists of an ovary with attached tube.  The tube measures 48mm in length with a maximum diameter of 12mm.  The ovary measures 45 x 42 x 22mm.  The tube appears replaced throughout its length with cream tissue.  The cut surface of the ovary reveals lobulated cream tissue throughout.  
+Blocks:  1- fimbrial end of tube; 2 - tube to ovary; 3 to 5 - further representative ovary.  
+D.  Specimen labelled "Omentum" consists of two pieces of fatty tissue210 and 60mm in maximum dimension.  The smaller piece of fat appears to have cream fibrous tissue attached to it.  No definite other suspicious nodules are identified throughout.  Representative sections 3 blocks.  (TO: RO  BZ/mm 14.2.65) 
+MICROSCOPIC (reported by Dr A Commiskey):
+A to D. Sections show metastatic poorly differentiated adenocarcinoma, involving both fallopian tubes, ovaries, uterine body, cervix and omentum.
+The tumour is composed of tubules lined by tumour cells with pleomorphic nuclei. Tumour with a complex cribriform architecture is seen. Single tumour cells forming signet rings are present. 
+The tumour cells are positive for CK20. Focal staining is seen for CDX2. p16 is positive. ER, PR and CK7 are negative. There is no staining for HER2 (score 0)
+Diffuse multifocal lymphovascular invasion is present.
+Focal surface serosal involvement is present in the omentum (D2).
+Thecervix shows no evidence of HPV effect or CIN.
+The endometrium appears inactive. Benign leiomyomas are seen in the myometrium.
+COMMENT
+While the morphology would favour a gastric primary (mixed intestinal and diffuse), the possibility of a lower gastrointestinal primary cannot be entirely excluded, in view of the CK7/20 profile. Negative CK7 staining would be against a female genital tract primary. Please correlate with gastric biopsy (05B89303).
+DIAGNOSIS:
+A to D. Bilateral fallopian tubes and ovaries,uterus and cervix, omentum:
+- Metastatic poorly differentiated adenocarcinoma, favour gastric primary (mixed intestinal and diffuse) (see comment), HER2 0 
+- Tumour present in both fallopian tubes and ovaries, uterine body, cervix and omentum 
+ADDITIONAL REPORT (25/2/65)
+
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining ofa carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+SUPPLEMENTARY REPORT (11.8.2065)
+
+Report from 105 HAMRUN CIRCUIT's Pathology
+Reported by Dr DONNIE Yahl
+Material Received:
+Slides: x4 (05B89303 C2) Left tube and ovary
+DIAGNOSTIC SUMMARY:
+Left tube and ovary:  HER2 NEGATIVE [corrected]
+
+HER2 ISH ASSAY
+
+Clinical Details:
+Tumour details: Metastatic gastric adenocarcinoma to ovaries
+Referring laboratory HER2 IHC: 0
+Referred for HER2 ISH testing by: Dr A Marani at the request of Dr A Huisinga
+Results:
+Specimen Type: Left tube and ovary
+Number of biopsies: N/A
+Tumour type:  Metastatic poorly differentiated adenocarcinoma
+HER2 IHC: 0
+Heterogeneity in IHC staining: No
+Reported By: Dr A Shattuck, 4/8/65
+HER2 SISH Result (Ventana INFORM Dual Probe HER2/cep17 assay): NEGATIVE TUMOUR HER2 STATUS: Non-amplified (diploid)
+Mean HER2 copy number per cell: 1.31
+HER2/chr17 ratio: 0.94
+Heterogeneity in ISH staining: No
+SCORING CRITERIA: Currently a tumour is considered HER2 positive if there is a positive ISH result (HER2 count >6 and HER2/cep17 ratio >2) plus an IHC score of 2+ or 3+. Given the high incidence of intratumoural heterogeneity with respect to HER2 status, it is currently recommended that 7 - 8 biopsies are examined to maximize the likelihood that they are representative.
+

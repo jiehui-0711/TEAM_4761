@@ -1,0 +1,147 @@
+SPR no: 26A907959R
+MRN no: 260907
+Site_name: WARREN HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report26A90795,26A90795 (26A907959R) ASTUDILLO, BRODERICK Roxy
+HISTOPATHOLOGY REPORT
+WONDAI HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+1. Peritoneal washings for cyto. 2. Uterus, tubes, ovaries. 3. Right pelvic sentinel node.
+4. Left pelvic sentinel node. 5. Omental biopsy.
+Complex atypical hyperplasia. ?adenocarcinoma.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, BILATERAL TUBES AND OVARIES&amp;quot;.
+The specimen consists of a uterus with both tubes and ovaries attached, total weight 130g. The uterus measures 90mm fundus to cervix, 60mm left to right and 40mm anterior to posterior.
+- The right tube is 70mm long and 5mm diameter with a small 5mm diameter firm nodule to the fimbrial end. There is an adjacent right paratubal cyst 40mm long x 25mm diameter which is thin walled and contains clear fluid.
+- The right ovary is 30x20x10mm and shows no focal lesions.
+- The left tube is 40x5mm and has a small 6mm firm pale nodule at the fimbrial end.
+- The left ovary is 25x15x10mm and shows no focal lesions apart from some small surface thin walled cysts.
+- The uterus serosal surface is normal.
+- There is pale soft ?tumour tissue involving the anterior and posterior uterine body, fundus and extending towards lower uterine segment. The tumour is about 30mm diameter. The tumour is soft and friable. In the uterine body the pale tissue is about 15mm thickness into myometrium of total thickness 22mm. Endocervical involvement is not seen.
+Blocks: 1-2, 3-4 anterior, posterior cervix and endocervix;
+5-7 right tube fimbrial end;
+8-10 right ovary;
+11 left fallopian tube;
+12-15 left ovary;
+16 left tube nodule).
+Further blocks after fixation:
+17-18 anterior body; 19 fundus; 20 posterior body;
+21-23 composite section [21&amp;amp;22 posterior body, 23 fundus]).
+Further blocks (LV):
+24-25 anterior lower uterine segment, body;
+26,26 anterior body;
+27-28 anterior lower uterine segment, body;
+29,20,21 posterior body;
+32,33 fundus;
+34 two cross sections left side parametrial tubular structure 6mm external diameter, 30m length, running along opened left parametrium ?artery; LV
+B. &amp;quot;2 RIGHT PELVIC SENTINEL NODE&amp;quot;. Fatty tissue measuring 35x15x15mm. There are five grey nodules ranging in maximal size from 4-6mm.  (1 largest lymph node trisected; 2 four lymph nodes; 3 remaining fatty tissue all embedded). All embedded. (M-3)
+C. &amp;quot;3 LEFT PELVIC SENTINEL NODE&amp;quot;. Fatty tissue 30x14x3mm containing a nodule 4mm across and a second irregular nodule 14x6x3mm. Block 1 two nodules all embedded; 2 remaining fat tissue). All embedded. (M-2)
+D. &amp;quot;5 OMENTAL BIOPSY&amp;quot;. Fatty tissue 22x15x13mm. All embedded in blocks 1 and 2. All embedded. (M-2/FR ank)
+
+MICROSCOPIC:  Dr H. Warholic
+
+A. UTERUS, BILATERAL TUBES AND OVARIES:
+ENDOMETRIAL CARCINOMA, SYNOPTIC:
+(based on CAP 2020 Endometrium 4.1.0.2; RCPA V2 2019, FIGO 2018)
+Tumor Site:
+- Uterus, fundus and body, anterior and posterior walls
+Tumor Size:
+- Greatest dimension:  30mm diameter
+Histologic Type:
+- Endometrioid carcinoma
+Histologic Grade:
+- FIGO grade 1
+Myometrial invasion:
+- Present.
+- Depth of myometrial invasion:  9mm  (section A32, 33 fundus; depth also seen in A31 posterior body)
+- Myometrial thickness:  12mm
+- Percentage of myometrial invasion:  75%
+MELF pattern of invasion:
+- Present
+Uterine Serosa Involvement:
+- Not identified
+Distance of myoinvasive tumour to serosa:
+- 3mm
+Lymphovascular Invasion
+- Present
+Extent of lymphovascular invasion:
+- Extensive (&amp;gt;5 vascular spaces)
+Cervical Stromal Invasion:
+- Not identified
+Additional pathologic findings:
+- Adenomyosis. Focally present
+- Ectocervix:  Normal
+- Endocervix: Normal
+- Endometrium:  Atypical endometrial hyperplasia present (A27).
+- Parametrium:  No paramentrial tissue present
+- Uterus, left lateral wall: There is an incidental 30mm long x6mm diameter non-cystic mesonephric duct/Gartner duct present running from left lower uterine segment along opened left lateral wall uterus body. No connectiion with fallopian tube
+Other tissues/organs:
+Right ovary:
+- Small serous adenofibromatous cortical nodules.
+Left ovary:
+- Small serous adenofibromatous cortical nodules.
+Right fallopian tube:
+- No atypical epithelial lesions.
+- One small serous adenofibromatous nodule fimbrial end of tube.
+- Paratubal cyst.
+Left fallopian tube:
+- No atypical epithelial lesions.
+- One small serous adenofibromatous nodule fimbrial end of tube.
+REGIONAL LYMPH NODES:
+B. 2 Right Pelvic Sentinel Node:
+- Sentinel nodes Involved by micrometastasis
+- Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+- Number of nodes with micrometastasis: 2
+- Number of nodes with isolated tumor cells: 1
+- Number of  sentinel lymph nodes examined: 6
+- Maximum dimension of largest metastasis: 0.3mm (B2)
+- Extra-nodal spread: Not identified
+C. 3. Left Pelvic Sentinel Node;
+- Sentinel node negative for tumour involvement
+- Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+- Number of nodes with micrometastasis: 0
+- Number of nodes with isolated tumor cells: 0
+- Number of  sentinel lymph nodes examined: 1
+ANCILLARY FINDINGS:
+1. Mismatch Repair Proteins (MMRP) Immunohistochemical stains (IHC):
+- Block A25:  Other suitable block for testing A30:
+- Intact (normal) staining for MMR proteins MLH1, PMS2, MSH2, MSH6 is present.
+- This is the normal pattern of MMRP immunohistochemistry.
+- No deficient MMR protein identified.
+- Low probability of microsatellite instability-high (MSI-H).
+2.
+ER:      Positive, 80% of nuclei, 2+
+PR:      Positive, 80% of nuclei, 3+
+Other specimens:
+D. 5 OMENTAL BIOPSY:
+There is one detached cluster of epithelial cells in blood clot in one section, of uncertain significance. The omentum tissue proper is normal with no tumour involvement.
+PATHOLOGICAL FIGO STAGE:
+- Please review at MDT
+- Myometrial invasion &amp;gt;50%  and positive pelvic nodes reported above, favour IIIC1
+COMMENT(S):
+The sentinel node deposits in right pelvic sentinel nodes consist of small papillary clusters of tumour cells in sinus tissue. The largest single cluster is about 20 cells. Multiple clusters are present. Several of the clusters are closely adjacent and overall considered to represent a confluent micrometastasis rather than isolated tumour cells.
+DIAGNOSIS:
+
+A. Uterus, Bilateral Tubes and Ovaries:
+- endometrioid carcinoma of endometrium;
+- FIGO grade 1;
+- myometrial invasion present (9mm invasion of 12mm myometrium, 75%);
+- distance of myoinvasive tumour to serosa: 3mm
+- lymphovascular Invasion, extensive;
+- tumour shows normal staining for MMR proteins and is ER+, PR+;
+- benign changes left and right fallopian tubes and ovaries;
+
+B. 2 Right Pelvic Sentinel Node:
+- sentinel nodes involved by micrometastasis (2 of 6 nodes positive) and one node with isolated tumour cells;
+- maximum dimension of largest lymph node metastasis: 0.3mm;
+- see comment(s) on node deposits.
+
+C. 3. Left Pelvic Sentinel Node;
+- sentinel node negative for tumour involvement (0/1)
+
+D. 5 Omental Biopsy:
+- one detached cluster of epithelial cells in blood clot of uncertain significance;
+- omentum tissue proper shows no tumour involvement.

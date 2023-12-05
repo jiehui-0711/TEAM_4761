@@ -1,0 +1,40 @@
+Episode No:  79R150065E
+796150.CQO
+
+Hansbury, FREDERICA 
+Lab No:  79R15006
+Wagon Wheel
+BAIRNSDALE  NT  4552
+Specimen: Tissue
+D.O.B:  13/2/2002
+Sex:  M
+Collected: 23/9/2064 at :
+Location:  MACQUARIEWARD-OAKEY HOSPITAL
+DR JOHNNIE KERRI Sheingold
+Distribution:  
+CLINICAL:
+Carcinoid.  Right middle lobe.
+MACROSCOPIC:
+Specimen labelled "Right middle lobe lung" consists of a lung lobectomy specimen 140 x 90 x 45mm and weighing 84g.There is a U-shaped staple line based over the hilum.  The pleural surface is smooth.  The staples are removed and neo margin is inked green.  The hilar margin is inked black.  On slicing there is a 24 x 22 x 20 well-defined pale solid tumour within the lung parenchyma.  The tumour is 50mm from the bronchial resection margin, 22mm from the closest stapled margin.  The tumour is 5mm from the closest pleural surface.  The remainder of the lung parenchyma appears unremarkable.  The closest neo margin (after removing the staples) to the tumour is 17mm.  A single possible lymph node is identified (block 1).
+Blocks:  1 - ?peribronchial lymph node; 2 - ?bronchial arterial margin; 3 - bronchial margin and ?bronchial arterial margin (the arterial margin is either in block 2 or 3); 4 & 5 - paired sections of tumour (4 - reserved block); 6 & 7 - paired sections of tumour (pleural surface in block 6); 8 - section of tumour; 9 - section of tumour; 10 - section of tumour; 11 - tumour and closest neo margin; 12 - lung parenchyma away from tumour.  (TO: CG; GV/rt 24.9.64)
+
+
+MICROSCOPIC (Reported by A/Prof S Vorachek):
+Sections of lung show a well defined tumour composed of cohesive epithelioid cells arranged in nests.  The neoplastic cells have granular chromatin and moderate amount of clear to eosinophilic cytoplasm. The mitotic count is estimated to be 
+2 - 3 per 10hpf, favouring a diagnosis of atypical carcinoid tumour. 
+There is no necrosis. 
+The microscopic extent of the tumour is in line with the stated macroscopic measurement (24mm).  
+There is no definite vascular invasion identified although tumour abuts several thin walled vessels at the periphery of the lesion.
+The tumour is 17mm from the stapled margin. 
+The bronchial margin and bronchialarterial margin are free of tumour. 
+No lymph nodes are identified.
+Ki67 and neuroendocrine markers are in progress and I am seeking a further opinion regarding the grade of this lesion. 
+DIAGNOSIS:
+Right middle lobe lung: 
+- Atypical Carcinoid tumour
+- Margins clear
+SUPPLEMENTARY REPORT: 
+Immunohistochemistry and further opinions were reviewed atthe time of original reporting, but the supplementary report was not formally authorised at that time.
+immunoperoxidase stains for TTF-1, chromogranin and CD56 are all strongly positive, consistent with the diagnosis of atypical pulmonary carcinoid.
+Ki67 expression is low (1 - 2%).consensus opinion is in agreement with the original diagnosis of atypical carcinoid tumour. 
+

@@ -1,0 +1,76 @@
+Episode No:  57K684206X
+574684.FBR
+
+BRISBOIS, JON 
+Lab No:  57K68420
+Honolulu
+SWAN HILL  Western Australia  4565
+Specimen: Tissue
+D.O.B:  14/1/1978
+:  F
+Collected: 20/09/2065 at 09:15
+Location:  MACQUARIEWARD-EASTERN EYRE HEALTH AND AGED CARE - COWELL CAMPUS
+DR COLLIN KARYN BARNET
+Distribution:  DR Jose, DR Dave,    FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Transverse colon cancer.  Right hemicolectomy.  
+MACROSCOPIC:
+Specimen labelled "Transverse colon", consists of a right hemicolectomy, with terminal ileum 40mm in length and 35mm circumference, and large bowel 280mm in length and 90mm circumference.  The appendix is 45mm in length and 65mm in diameter.  There is attached mesocolon up to 65mm in width.Within the transverse colon is a polypoid tumour, 50 x 45 x 5mm.  The tumour is 100mm clear of the distal margin.  The tumour infiltrates into but not through the muscularis propria.  In the region of the hepatic flexure are three polyps, each 3mm across.  The caecal mucosa shows diffuse flattening and haemorrhagic change.  The caecal wall is thinned to 1mm.  Also received is a separate fragment of small bowel anastomosed to a small amount of large bowel, 115mm in total length and up to 30mm circumference.  This separate segment shows no significant abnormality.  No apical lymph node is identified at the surgical tie on the transverse mesocolon.  There is an 8mm calcified nodule within the mesocolon.  Lymph nodes are difficult to palpate within the mesocolon.  
+Blocks: 1 - proximal margin (inked blue) and distal margin (inked black); 2 - appendix; 3 - tumour with uninvolved bowel; 4 to 6 - tumour with deepest infiltration; 7 - hepatic flexure polyps; 8 - caecum; 9 - mesocolon adjacent to transverse mesocolon surgical tie; 10 - apical node at ileocolic mesentery; 11 and 12 - one lymph node in each block; 13 and 14 fat; 15 - calcified nodule in mesocolon (following decalcification); 16 to 25 - pericolic fat.
+(TO: BW;VG/vo 22.9.65) 
+MICROSCOPIC (Reported by A/Prof NDewitt):
+There is a 50mm moderately differentiated adenocarcinoma within the transverse colon. The adenocarcinoma has a component of mucinous differentiation within approximately40% of the sections. Acellular mucin pools are present within the mesocolon, immediately adjacent to, but discontinuous with, invasive adenocarcinoma contained within the muscularis propria. (Block 6). 
+Deeper levels have been examined and there are no convincing evidence of spread of tumour cells beyond the muscularis propria.
+
+A synoptic report is as follows: 
+Macroscopic Description
+
+Site of tumour: Transverse colon	
+Maximum tumour diameter:     50mm
+Distance of tumour to nearer cut end:     100mm
+Tumour perforation:     No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS, with some features of mucinous adenocarcinoma subtype in approximately 35% of the carcinoma. 
+Differentiation by predominant area
+Moderately differentiated.
+Local invasion
+pT2	Invasion into muscularis propria. 
+Pools of acellular mucin are present within the mesocolon, immediately adjacent to, but discontinuous with, invasiveadenocarcinoma contained within the muscularis propria. (Block 6). 
+Deeper levels have been examined and there is no convincing evidence of spread of tumour cells beyond the muscularis propria.
+The remainder of the tumour is being embedded. 
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes: 
+The specimen was re-examined and further dissected to identify remaining lymph nodes after examination of initial sections.
+Number of lymph nodes present: 19	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Not seen
+Perineural invasion
+Not seen
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The hepatic flexure polyps have normal colon mucosa overlying a prominent mucosal fold. No polyps are identified. 
+The appendix shows fibrous obliteration of the distal tip. There is no evidence of malignancy. 
+The calcified nodule is a heavily calcified appendix epiploicae.
+The attenuated caecum shows normal architecture, with attenuated muscularis propria and shortened crypts. There is no active inflammation within the mucosa. There is no vasculitis. There are normal aggregates of ganglion cells within the myenteric plexus. The overall features are non-specific. 
+There is a single non-caseating granuloma within the muscularis propria associated with chronic inflammation. (Block 3) No organisms or fungal elements are identified. No polarisable material is present. 
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency(MMRD) Status	
+MLH1		loss of nuclear staining
+PMS2		loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+ 
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT2     pN0     pMx     R0
+	
+

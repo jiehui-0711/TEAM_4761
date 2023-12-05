@@ -1,0 +1,137 @@
+SPR no: 52W0210524
+MRN no: 5024
+Site_name: SGP
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report52W02105 (52W0210524) Krabill, Oren JEREMIAH
+HISTOPATHOLOGY REPORT
+ANGASTON HOSPITAL AND SUTHERLAND HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast.  Sentinel node frozen section.
+L breast Ca, long-lateral, medium-medial, short-superior
+
+MACROSCOPIC:
+A.  &amp;quot;SENTINEL NODE BIOPSY LEFT&amp;quot;.  Fat with a 12x8mm lymph node.  Two TS taken for frozen section.
+
+Frozen section report:  &amp;quot;Negative&amp;quot;.  Result phoned to Dr O Dillavou (Anaesthetist) at 2:30pm on 29/03/71, by UI.
+
+(1 frozen;  2 remainder of node).  RS (M-2).
+
+B.  &amp;quot;LEFT BREAST LESION, LONG-LATERAL, MEDIUM-MEDIAL, SHORT-SUPERIOR&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Wide local excision, oriented
+SPECIMEN X-RAY:   Yes, area of hookwire split identified in F7
+HOOKWIRE:  Yes, entering the specimen laterally.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  60mm
+Superior to inferior:  40mm
+Anterior to posterior:  30mm
+WEIGHT:  25g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green, area of interest yellow anteriorly.
+DISSECTION: Cut from medial to lateral
+Number of slices:  11
+FINDINGS / LESION:   Yellow inking is present in slices 7 and 8 anteriorly.
+There is an ill-defined lesion extending from slice 7 to slice 9 measuring 10mm medial to lateral x 5x4mm.
+MACROSCOPIC DISTANCE OF LESION/S TO MARINS:  Anterior 11mm, posterior 3mm, superior 16mm, inferior 10mm, medial 28mm and lateral 12mm.
+OTHER MACROSCOPIC COMMENTS:  Areas of haemorrhage are identified centrally in slice 10 but no discrete lesion identified.
+(1 two LS slice 1 [medial]; 2 slice 2; 3 mid slice 6; 4 mid slice 7 [start of lesion]; 5&amp;amp;6 slice 8; 7 mid slice 9 [end of lesion]; 8&amp;amp;9 slice 10; 10 four LS slice 11 [lateral]).  RS (M-10 [Please see block diagram] /ZH 3/2/2068 nh)
+MICROSCOPIC: (Dr O Pringle)
+
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA: (Specimen B)
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single invasive focus
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;8mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type (ductal)
+&amp;#160;
+HISTOLOGIC GRADE: 1
+&amp;#160;
+SCORES: Tubules: 1 , Nuclei: 1 , Mitoses: 1  ; Total score: 3&amp;#160;(of 9)
+&amp;#160;
+MITOTIC RATE: &amp;#160;4&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 8mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identifed
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: Not applicable
+
+DERMAL LYMPHOVASCULAR INVASION: Not applicable
+&amp;#160;
+NIPPLE INVOLVEMENT: Not applicable
+&amp;#160;
+MUSCLE INVOLVEMENT: Not applicable
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Not identified
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+&amp;#160;
+Atypical lobular hyperplasia present but no LCIS
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Negative
+Distance of invasive tumour to margins:
+Anterior: 11mm (B6)
+Posterior: 2mm (B6)
+Superior: 15mm
+Inferior: 10mm
+Medial: Greater than 20mm
+Lateral: Greater than 8mm
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, Block B6
+ER: Positive 100%, 3+
+PgR: Positive 80%, 3+
+HER2: Negative 1+ (IHC, SISH to follow)
+Ki67: 10%
+&amp;#160;
+Other tumour block suitable for further testing: B6
+&amp;#160;
+SEPARATE FINDINGS: &amp;#160;
+1. There is biopsy cavity adjacent to and involving the invasive carcinoma.
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: (Specimen A) - Not involved
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 1
+&amp;#160;
+Largest nodal tumour deposit: Not applicable
+&amp;#160;
+SIZE DEFINITIONS, AJCC TNM 8th edition, breast cancer, lymph nodes:
+Macrometastases:    &amp;gt; 2 mm
+Micrometastases:     &amp;gt; 0.2 mm to 2 mm and/or &amp;gt;200 cells per single cross section
+Isolated tumour cells:  Single cells or clusters &amp;#8804; 0.2 mm and &amp;#8804; 200 cells per cross section
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1b, pN0
+
+DIAGNOSIS:
+A. SENTINEL NODE BIOPSY LEFT:
+- NEGATIVE FOR MALIGNANCY.
+B. LEFT BREAST TISSUE:
+- INVASIVE DUCT CARCINOMA - NOS (GRADE 1).
+1/8/2068 cy
+SUPPLEMENTARY REPORT:
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:          NEGATIVE
+Mean HER2 copy number per cell: 1.8
+Mean CEP17 copy number per cell: 1.7
+HER2/CEP17 Ratio: 1.06
+SCORING CRITERIA (Updated in line with ASCO/CAP recommendations 2013):
+Negative: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;lt; 4.0
+Equivocal: HER2/CEP17 &amp;lt; 2.0, Average HER2 &amp;gt; 4.0 and &amp;lt; 6.0
+Positive: HER2/CEP17 &amp;lt;2.0, Average HER2 &amp;gt; 6.0
+Positive: HER2/CEP17 &amp;gt; 2.0
+Reported by: Dr O Galm
+Date: 1.7.71

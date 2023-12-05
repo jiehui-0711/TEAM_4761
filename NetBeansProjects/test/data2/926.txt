@@ -1,0 +1,83 @@
+Episode No:  94P411933U
+945411.ZIJ
+
+Canary, Michiko 
+Lab No:  94P41193
+Burnwood
+CAMDEN  Queensland  3567
+Specimen: Tissue
+D.O.B:  24/11/2017
+Sex:  F
+Collected: 06/05/2013 at 09:20
+Location:  2.PARKES 8-IPSWICH HOSPITAL
+DR ADALBERTO KASEY GALO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Mid rectal cancer 8cm from verge, ULAR,  3cm distal margin post wall vagina taken en block.  Previous neo adj. therapy.  
+MACROSCOPIC:
+A.  Specimen labelled "Ultra low anterior resection" consists of a segment of large bowel 260mm in length.  The anterior peritoneal reflection is 35mm above the distal margin.  The circumferential non peritonealised margin of the rectum is inked blue anteriorly and black posteriorly.  The attached mesenteric fatty tissue measures 190 x 60 x 30mm.  Distally there is a circumferential tumour 42mm in maximum dimension.The tumour is 20mm from the distal new margin (measured after removing the staples) and is well clear of the proximal margin.  The proximal limit of the tumour is 9mm proximal to the peritoneal reflection.  The mucosal surface of thetumour is ulcerated.  The cut surface is indurated.  There are patchy calcifications adjacent to the tumour.  The tumour appears to be extending into perirectal fat.  The cicumferential margins are 10mm (anterior), 18mm (posterior), 20mm (left) and 3mm (right) away.  Anteriorly and attached to the anterior circumferential margin there is a piece of tan solid tissue over a length of 26mm (?posterior wall of vagina).  The posterior wall of vagina is 22mm away from the rectal tumour.  
+Blocks:  1 & 2 - representative LS tumour in relation to distal new margin; 3 - shave proximal margin; 4 - tumour and posterior margin; 5 & 6 - paired sections tumour and left circumferential margin; 7 - tumour and anterior margin; 8 - tumour and right margin; 9 & 10 - paired sections tumour and ?posterior vagina;11 - tumour and anterior margin, reserved block; 12 - tumour and right anterior margin; 13 - tumour and anterior margin; 14 - apical lymph node bisected; 15 - one bisected lymph node; 16 - up to three lymph nodes (15 & 16 - lymph nodes distal to the peritoneal reflection); 17 - up to five lymph nodes; 18 - up to five lymph nodes; 19 - one bisected lymph node; (17 to 19 - lymphnodes proximal to the peritoneal reflection).\
+B.  Specimen labelled "Distal donut" consists of a donut shaped piece of colonic mucosa 17 x 15 x 5mm.  Specimen is serially sliced and AE 1 block.
+C.  Specimen labelled "Segment 1" consists of a piece of liver tissue 70 x 40 x 35mm.  The resection margin is inked blue.  On slicing there are three adjacent pale indurated nodules ranging from 7 to 24mm in maximum dimension, the largest nodule is < 1mm from the resection margin.
+Blocks:  1 & 2 - representative sections of the nodules; 3 - liver away from the nodules.  (TO:  YJ:  EV/mm 7.8.63) 
+
+MICROSCOPIC (reported by Dr X Klages):
+A and B.
+Site of tumour:  Mid to lower rectum	
+Maximum tumour diameter:  42mm
+Distance of tumour to nearer cut end:   17mm (distal, A2)
+Tumour perforation:     No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	 Astride
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: 
+ Anterior: 1.1mm (A11)
+ Right lateral: 6mm
+ Posterior: 12mm
+ Left lateral: 18mm
+Lymph nodes
+Number of lymph nodes present:  16	
+Number of lymph nodes involved:  0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmeddistant metastases
+pM1	Distant metastasis confirmed              Site: Liver, segment 1(specimen C, see below)
+Other comments
+The posterior vaginal wall shows no evidence of malignancy.
+The distal donut (specimen B) shows no evidence of malignancy
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Grade 2 (minimal response) - Residualcancer outgrown by fibrosis
+
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihoodof microsatellite instability phenotype.
+Summary - TNM 7th Edition
+ypT3     pN0     pM1     R0	
+
+C. Sections show liver with 3 deposits of metastatic adenocarcinoma, in keeping with colorectal origin, up to 24mm in size. There is extensive tumour present. Focal fibrosis is seen, possibly in keeping treatment effect.  There is no evidence of surface serosal involvement.  The lesion is 0.3mm from the nearest surgical margin (C1).
+The adjacent liver shows minimal macrovesicular steatosis.
+DIAGNOSIS:
+A. Ultralow anterior resection (post neoadjuvant treatment):
+- Moderately differentiated adenocarcinoma of the mid to lower rectum, invadingperirectal fat, treatment effect present, margins clear
+- Posterior vaginal wall with no evidence malignancy
+- 16 lymph nodes with no evidence of malignancy
+B. Distal donut: no evidence of malignancy
+C.Segment 1 liver: metastatic adenocarcinoma, in keeping with colorectal origin, 0.5mm margin.
+

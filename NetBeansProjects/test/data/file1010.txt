@@ -1,0 +1,94 @@
+SPR no: 44V260644C
+MRN no: 4482606
+Site_name: HILLSTON DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  44V260644C
+4482606.LMC
+
+ANGLUM, DANE LIONEL
+Lab No:  44V26064
+Hinman
+BURNIE  WA  3384
+Specimen: Tissue
+D.O.B:  22/9/2014
+Sex:  M
+Collected: 22/09/2015 at 15:35
+Location:  OBSTETRICS-FITZROY CROSSING HOSPITAL
+PRO GRANVILLE BUNDJALUNG ALLBRIGHT
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+SUPPLEMENTARY REPORT 2/11/65
+HISTORY:
+Peritonectomy. CRC. Anterior resection. Pelvic peritoneum. Diaphragm right peritonectomy.  Umbilicus.
+MACROSCOPIC:
+&amp;apos;OMENTUM, APPENDIX, RECTUM, PERITONEAL DISEASE, UMBILICUS&amp;apos;. Received in multiple fragments.
+Rectosigmoid colon with attached peritoneum and appendix. The colon is 200mm in length and up to 50mm in diameter with attached mesocolon 80 mm wide and the distal 30 mm includes perirectal fat about 30 mm thick. The peritoneal reflection is about 30 mm from the distal margin. There is a large circumferential constricting pale tumour 70 mm in length in the colon partly (25 mm) inferior and partly superior (45 mm) to the peritoneal reflection (tumour site is upper rectum). The edges of the tumour are not raised. The tumour appears ulcerated. The tumour extends deeply (30 mm) into pericolic fat and into subserosal fatand is &amp;lt; 2 mm from the radial mesorectal margins and there is extensive involvement of the attached peritonuem. The peritoneum with tumour is adherent over the distal 100 mm of the anterior surface. Within this area of adherent peritoneum there is attached appendix 60 x 15 mm. The tip of the appendix is adherent to peritoneal tumour but no appendix lesion is seen. The anterior mesorectum is inked blue, the posterior is inked black. The serosal surface above the anterior peritoneal reflection includes multiple nodules (10-20mm), the largest measuring 40mm in maximum diameter. A segment of L vas 50 mm long is attached to the external surface
+Distance of tumour to colon margins:
+Proximal 110 mm
+Distal 35 mm
+Radial &amp;lt; 2 mm
+Received also omentum, measuring 300x145x20mm with multiple (10-20) hard white nodules.
+Received also an ellipse of umbilical skin, 35x23mm, representing an umbilicus. The underlying fibrofatty tissue measures 55x45x30mm. The resection margin is inked blue. The cut surface has a firm pale area in the fat.
+Received also multiple fibrofatty pieces of tissue, measuring 145x60x30mm, with multiple similar nodules identified on the outer surface.
+(1 colon proximal margin; 2 distal margin; 3 appendix base [two LS]; 4 appendix, two TS mid; 5and6 each one LS, tip of appendix in relation to adhesion; 7-9 tumour in relation to anterior peritoneal reflection; 10and11 tumour in relation to posterior radial margin; 12and13 representative serosal nodules above the peritoneal reflection; 14 representative nodules on the peritoneum; 15-17 lymph nodes above the anteiror peritoneal reflection, each four lymph nodes; 18and19 umbilicus with underlying nodule; 20-22 representative omental nodules; 23-25 representative nodules on smaller fibrofatty fragments). RS (M-25/ZH/cy)
+FURTHER sections: 26,27 radial margin mesorectum, &amp;lt; 2 mm from tumour; 28 40 mm segment of attached L vas; 29 right side of mesorectal spread of tumour, not including surface; LV
+MICROSCOPIC:
+SYNOPTIC REPORT COLORECTAL CANCER RESECTION:
+MACROSCOPIC:
+Procedure: Excision rectosigmoid colon
+Specimen length: 200 mm
+Specimen components and size: colon, peritoneum, omentum, umbilicus
+Tumour perforation: Not identified
+Tumour site: Upper rectal
+Tumour maximum diameter: 70 mm
+Tumour description: see above
+Serosal/peritoneal involvement: Present, tumour invades to the peritoneal surface and  there are tumour nodule separent from the main tumour on the peritoneal surface.
+Distant metastases: peritoneum, omentum.
+Macroscopic distance tumour to nearer longitudinal margin: 35 mm
+Macroscopic distance tumour to circumferential margin: &amp;lt; 2 mm
+For rectal tumours:
+Relationship of tumour to peritoneal reflection: Astride
+Intactness of mesorectum: Complete/intact
+Polyps: Not seen
+MICROSCOPIC:
+Tumour type: Mucinous carcinoma with signet ring cells (AJCC Grade 3 of 3)
+Differentiation:  poorly differentiated (high grade)
+Depth of local invasion: Tumour penetrates tosurface of visceral peritoneum.
+Maximum distance of tumour beyond muscularis propria: 30 mm
+Local colon excision margins:
+Longitudinal margin involvement by tumour: No
+Circumferential margin involvement by tumour: No
+Measurement from tumour to nearer longitudinal margin: 35 mm
+Measurement from tumour to circumferential margin: 1.5 mm
+Lymph nodes:
+Number of involved lymph nodes: 2
+Total number of lymph nodes: 13
+Apical node: Not identified
+Size of largest nodal deposit of tumour: 7 mm
+Lymphatic invasion: Present
+Venous invasion: Not identified
+Perineural invasion: Not identified
+Distant metastases inspecimen: Present, Sites: Peritoneum, omentum
+Polyp adjacent to carcinoma: Focal area of high grade tubular adenoma present at edge of carcinoma in one section.
+Pre-operative therapy given: Not known
+tumour:  Immunostains 13; Reserve 26
+Separate abnormalities:
+Polyps: not seen
+Colitis: not seen
+Remote colon: unremarkable
+Appendix: Adherent at tip to peritoneal tumour
+Omentum: Metastases present
+Separate strips of peritoneal tissue: Metastases present
+Umbilicus: Subsurface fibrous scar
+Ancillary tests: Mismatch repair (MMR) enzymes Immunostains:  Pending
+Stage:  pT4a pN1 pM1
+Staging system AJCC 7th ed 2010
+DIAGNOSIS:
+Anterior resecetion colorectum, with peritoneum, omentum, umbilicus - Colonic invasive mucinous carcinoma with signet ring cells (AJCC Grade 3 of 3), poorly differentiated (high grade), tumour penetrates to visceral peritoneum and deeply into mesorectal tissue, lymph node metastases present (2/13 nodespositive); lymphatic invasion present, extensive peritoneal and omental metastases present.
+25/11/65, M Gogins.
+- - - -
+Supplementary report 2/11/65:
+Immunostains for DNA Mismatch Repair (MMR) proteins, block 13:
+MLH1, PMS2, MSH2 and MSH6:  Positive staining (intact expression, normal)
+Comment:  No evidence of mismatch repair protein deficiency (MMRP proficent tumour).
+2/11/65, M Lindauer.

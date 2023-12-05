@@ -1,0 +1,64 @@
+
+Episode No:  45H195118G
+4521951.DWG
+
+Gobbi, Mervin 
+Lab No:  45H19511
+Barrus
+TAREE  VIC  3342
+Specimen: Tissue
+D.O.B:  25/1/1991
+Sex:  M
+Collected: Unknown at :
+Location:  8 GOOLAGONG CRESCENT-MARGARET RIVER HOSPITAL
+DR Steven Trevor-DELEE
+Distribution:  DR Ruhlman, DR Okie,  FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right nephrectomy for Likely Metastatic RCC with pulmonary and humeral met.  T2DM, HTN, insomnia. 
+MACROSCOPIC:
+Specimen labelled "Right kidney", consists of a kidney weighing 850g and measuring 110 x 98 x 58mm.  The kidney is entirely covered by perinephric fat and overall the specimen measures 190 x 110 x 95mm.  The capsule is intact the ureter measures 75mm in length x 5 x 4mm in maximum diameter.  There is an encapsulated tumour in the hilar region of the mid to upper poleof the kidney measuring 50 x 36 x 28mm.  The cut surface shows a mixed gelatinous and pale yellow friable surface.  The tumour is at the hilum of the kidney and mushrooms through the kidney capsule into the perinephric fat, but still appears encapsulated.The tumour is 2mm from the hilum and 1mm from the perinephric fat.  The tumour is 95mm from the ureteric margin and 5mm fromthe vascular margin.  Elsewhere, a majority of the renal medulla is replaced by fat. There is a fragment of disrupted adrenal gland measuring 30 x 25 x 2mm adherent to the perinephric fat.  
+Blocks: 1 - ureteric margin; 2 - vascular margin; 3 to 8 - tumour; 9 - normal renal cortex away from tumour; 10 - adrenal gland; 11 and 12 - tumour extending into fat.  
+(TO: IQ;TT/vo 7.10.63) 
+13 to 17: Additional blocks tumour with perinephric fat
+MICROSCOPIC (Reported by Dr M Aurelio):
+Position of tumour: Right kidney midto upper pole
+Dimensions of tumour: 50mm x 36mm x 28mm
+Tumour type: Clear cell renal cell carcinoma
+Fuhrman grade:  Grade 4 (markedly pleomorphic nuclei are present, block 7). 
+Sarcomatoid differentiation: Absent
+Rhabdoid differentiation: Absent
+Necrosis: Present (10%)
+Tumour spread beyond kidney: Present (block 17)
+Tumour extends beyond Gerota's fascia: Absent
+Tumour in renal sinus fat: Present (block 5)
+Tumour in renal vein or its segmental (muscle containing branches): Present (block 5)
+Lymphovascular invasion: Present (e.g. block 12)
+Tumour in adrenal gland: Absent
+Involvement of surgical margins:  Absent
+	Site of nearest margin: (2.5mm, medial, block 3)
+Other comments:
+Metastatic renal cell carcinoma is present in the reamings from the right humerus (45H1951).
+The uninvolved kidney shows changes in keeping with diabetic nephropathy.  There is mild chronic renal damage.  Approximately 10% of the glomeruli are totally sclerosed. The glomeruli show mild to moderate mesangial expansion and occasional Kimmelstiel Wilson nodules are seen.  Subcapsular carring is present.  The arteries show mild fibrointimal thickening and hyalinosis, in keeping with hypertensive vascular disease.
+AJCC tumour stage (7th Ed.)
+pT3a Tumour extends into the renal vein or its segmental (muscle containing) branches, or tumour invades perirenal and/or renal sinus fat but not beyond Gerota fascia.
+Scoring Algorithm to Predict Metastases after Radical Nephrectomy (Leibovich et al., Cancer, 2003)
+Primary tumor status score (pathologic T stage)
+pT3a 	4
+Regional lymph node status (N stage) score
+pNx 	0
+Tumor size (cm)
+< 10 	0
+Nuclear grade score
+4 	3
+Histologic tumor necrosis score
+Yes 	1
+Total score (out of 11): 8
+DIAGNOSIS
+Right nephrectomy:
+	50mm clear cell renal cell carcinoma, Fuhrman grade 4, margins clear
+	Invasion into hilar fat and segmental branch of renal vein (pT3a)
+pT3a, NX, M1 (AJCC 7th Ed.)
+Diabetic nephropathy and hypertensive arterial changes present
+
+
+

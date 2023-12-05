@@ -1,0 +1,52 @@
+Episode No:  43F730867E
+4327308.PTE
+
+MEDI, RAY 
+Lab No:  43F73086
+Raub
+TUMUT  SA  5332
+Specimen: Tissue
+D.O.B:  10/5/1996
+Sex:  M
+Collected: 18/09/2012 at 13:14
+Location:  DICKINSON 3 SOUTH-WAGGA WAGGA RURAL REFERRAL HOSPITAL
+DR Jeffery AUGUSTINE Dismukes
+Distribution:   FILE-COPY
+SUPPLEMENTARY REPORT (4.12.62):
+
+
+CLINICAL:
+Large caecal polyp + multiple colon ascending polyps at colonoscopy.  NBCSP (FOB) +ve.  
+MACROSCOPIC:
+Patient details checked by QI
+Specimen labelled "Right hemicolectomy" consists of a right hemicolectomy comprising a segment of terminal ileum measuring 50mm in length, 40mm in open circumference in continuity with caecum and ascending colon measuring 150mm in length with an open circumference of up to 70mm at the distal resection margin.  The appendix is identified and measures 70mm in length and 7mm in external diameter. There are several grey nodules on the appendiceal serosa measuring up to 5mm across.  There are fivesessile polyps arising from the ascending colonic mucosa  measuring from 7 x 5 x 3mm to 60 x 50 x 15mm. The largest of these polyps is 60mm from the proximal resection margin. In addition, there is another sessile polyp on the ileocaecalvalve, measuring 12 x 10mm.
+Representative sections in 50 blocks.
+Blocks:  1 - proximal resection margin; 2- distal resection margin; 3 to 30 - polyp 1 (largest polyp) all embedded; 31 to 33 - polyp no 2 situated on ileocaecal valve; 34 to 38 - polyp no 3; 39 to 41 - polyp no 4; 42 to 43 - polyp no 5; 44 & 45 - polyp no 6; 46 - appendix; 47 - apical lymph node; 48 to 50 - four lymph nodes each.  (LO/mm 21.11.62) 
+MICROSCOPIC (reported by Dr K Kiesz): 
+Sections of the largest polyp show a tubulovillous adenoma with mainly low grade dysplasia but also foci of high grade dysplasia.  At the base of this polyp there is focal invasive, well differentiated adenosquamous carcinoma, invading submucosa (block 6).  There is lymphovascular invasion present but no perineural invasion is seen.  Stains for mismatch repair enzymes will be performed and a supplementary report issued.  The slide has also been viewed by Dr K Raczka.  
+Sections of the polyp on the ileocaecal valve show a tubular adenoma with low grade dysplasia, and underlying fatty hypertrophy of the valve.  
+Sections of the third described polyp show a tubulovillous adenoma with high grade dysplasia.  No invasive carcinoma is seen.  
+Sections of the three other polyps show tubular adenomas with low grade dysplasia.  Sections of the appendix are unremarkable.  
+Sections of thirteen lymph nodes which were found are all unremarkable.  (ec) 
+
+
+
+
+
+DIAGNOSIS:  
+Right colon:  
+1.   Large tubulovillous adenoma with foci of high grade dysplasia and focal well differentiated adenosquamous carcinoma invading submucosa, pT1 N0. 
+2.   Tubulovillous adenoma with high grade dysplasia. 
+3.   Four other tubular adenomas with low grade dysplasia.  
+SUPPLEMENTARY REPORT (4.12.62):
+Further levels have been examined and it is now considered that there is lymphovascular invasion present.  The previous report has been amended (see above).
+Mismatch Repair Deficiency (MMRD) status:
+MLH1      Loss of nuclear staining.
+PMS2      Loss of nuclear staining.
+MSH2      Preserved nuclear staining.
+MSH6:     Preserved nuclear staining.
+
+Comment:
+Absence (loss) ofnuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatchrepair gene.
+ 
+

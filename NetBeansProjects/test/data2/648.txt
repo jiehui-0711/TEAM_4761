@@ -1,0 +1,62 @@
+
+Episode No:  09S129787Z
+0961297.VSZ
+
+Riddley, Judson Rufina 
+Lab No:  09S12978
+Lazy Point
+BELLINGEN  Queensland  5732
+Specimen: Tissue
+D.O.B:  17/1/2010
+Sex:  F
+Collected: 27/11/2012 at 18:56
+Location:  WEST-GERALDTON HOSPITAL
+DR BRET HARLAND MCENANY
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Total gastrectomy (gastric carcinoma).
+MACROSCOPIC:
+A.  Specimen labelled "Total gastrectomy" consists of a total gastrectomy with omentum attached.  The stomach measures 250mm in the greater curve and 100mm in the lesser curve.  The external surface has a nodular area located in the lesser curve.  On sectioning and in the nodular area there is an ulcerated and endophytic tumourmeasuring 40mm from proximal to distal and 20mm in width.  It is located 40mm from the oesophageal margin and 65mm from the duodenal margin.  The non tumoral mucosa is unremarkable.  On sectioning the tumour has a maximum thickness of 15mm and macroscopically involves the wall of the stomach into the omentum.
+Blocks:  1 - oesophageal margin; 2 - duodenal margin; 3 to 6 - full face of the tumour; 7 to 9 - full face of tumour; 10 & 11 - full face of tumour; 12 - two representative sections tumour with proximal stomach; 13 - two representative sections of tumour with distal stomach; 14 & 15 - non tumoral stomach; 16 to 20 - thirteen lymph nodes from the lesser curve; 21 to 25 - fifteen lymph nodes fromthe greater curve.
+B.  Specimen labelled "Mesocolic node" consists of a lymph node 5mm in diameter.  AE 1 block.   (TO: IP; LJ/bl 30/1/62)
+MICROSCOPIC (Reported by Dr B Klemencic):
+A and B.
+Tumour
+Tumour site: Lesser curve
+WHO Histological tumour type: Mixed carcinoma (tubular and signet ring)
+Lauren histological tumour type: Mixed (intestinal and diffuse)
+Histological grade: Poorly differentiated (G3)
+Growth pattern: Infiltrating
+Dimensions of tumour: 40mm x 30mm
+Levelof invasion 
+  Invasion beyond the muscularis propria: Present
+  Serosal surface involvement: Present (tumour with a fibro-inflammatory response present on serosal surface, A4)
+Vascular space invasion
+Small vessel invasion: Present
+Large vessel invasion: Absent
+Perineural growth: Present (A9)
+Distance of tumour from margins
+From proximal:  40mmdistal: 65mm
+Lymph nodes
+Regional lymph nodes
+Number received:  35 (including 1 mesocolic node)
+Number involved: 4 (up to 2mm in size, mesocolic node not involved)
+Other pathologies
+Gastritis:  Mild chronic gastritis present
+Helicobacter infection: Not seen
+Intestinal metaplasia:  Absent
+Dysplasia: Absent
+Gastric polyps: Absent
+Ancillary tests
+HER2 immunohistochemistry: 1+
+Staging (AJCC, 7th Ed.)
+T4a Tumour invades serosa (visceral peritoneum) 
+N2 Metastasis in 3-6 regional lymph nodes
+MX Cannot be assessed histologically
+DIAGNOSIS:
+A and B. Total gastrectomy and mesocolic lymph node:
+- 40mmpoorly differentiated adenocarcinoma (mixed tubular and signet ring), margins clear
+- Invasion through muscularis propria with surface serosal involvement (pT4a)
+- Metastatic carcinoma in 4 out of 35 lymph nodes (N2)
+- Mesocolic lymph node not involved
+

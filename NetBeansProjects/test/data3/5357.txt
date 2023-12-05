@@ -1,0 +1,61 @@
+ 6450091.TCW
+Dural, Ira
+64O00917
+
+Last edited : 27/1/2065		Page: 2
+CLINICAL:
+Rectal Ca.
+MACROSCOPIC:
+Specimen labelled "Rectum" consists of a segment of colon 170mm in length, 65mm in maximum open circumference.  The perirectal fatty tissue resection margin is smooth and no disruption.  Distal resection margin is inked blue.  The radial resection margin of the peri-rectum fatty tissue is inked black.  The peritoneal reflection to the distal resection margin measures 40mm.  There is adiscoid lesion 20mm in diameter.  The lesion extends to the distal resection margin and 20mm below the peritoneal reflection.  The lesion is located at the posterior aspect of the rectum.  The lesion invades possibly the inner portion ofthe muscularis propria.  Ten possible small lymph nodes identified.
+Blocks:  1 to 4 - LS of the lesion with distal margin (lesional tissue AE); 5 - proximal margin; 6 & 7 - three lymph nodes; 8 - one node bisected; 9 - three nodes.
+(JR/rt 23.1.65)
+MICROSCOPIC (Reported by Dr R Koizumi):
+Sections of rectum show reactive change.  The macroscopic identified area shows marked fibrosis.  Several small pools of acellular mucin are present within the submucosa.  No viable residual tumour cells are seen.  The appearances are in keeping with complete response to the previous neoadjuvent therapy.  The adjacent colonic mucosa is unremarkable.  The resection margins are unremarkable.  Eight (8) lymph nodes are identified in total.  The lymph nodes are unremarkable.  There is no evidence of tumour metastasis.
+Synoptic Report for Large Bowel Carcinoma
+Macroscopic Description
+
+Site of tumour:  Rectum
+Maximum tumour diameter:  20mm
+Distance of tumour to nearer cut end:  0mm
+Tumour perforation:  No
+For rectal tumours
+Relation of tumour to anterior peritoneal reflection:	  Below
+Microscopic Description
+
+Type
+No residual tumour present, please see previous biopsy
+Differentiation by predominant area
+Not applicable
+Local invasion
+pT0		No evidence of primary tumour
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  Not applicable
+Lymph nodes
+Number of lymph nodes present:  8
+Number of lymph nodes involved:  0
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+At the site of previous tumour, several small pools of acellular mucin are present within the submucosa.  No viable residual tumour cells are seen.  The adjacent colonic mucosa is unremarkable.  
+Residual tumour status
+R0	No residual tumour
+Response to neoadjuvent therapy
+Grade 0 (complete response) - No viable cancer cells
+Mismatch Repair Deficiency (MMRD) Status	
+Not performed
+The block best for molecular genetic testing is:  Not applicable (no residual tumour)
+
+Summary - TNM 7th Edition
+(y)pT0     pN0     pMXR0
+
+
+DIAGNOSIS:
+Rectum - No residual tumour (complete response to neoadjuvent therapy).
+

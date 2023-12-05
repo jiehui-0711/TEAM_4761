@@ -1,0 +1,74 @@
+Episode No:  51G894487Q
+512894.MWS
+
+Noe, Wade 
+Lab No:  51G89448
+Rudd
+MANDURAH  Western Australia  3647
+Specimen: Tissue
+D.O.B:  17/10/1992
+Sex:  M
+Collected: 19/9/2063 at :
+Location:  3HR STAY SURGICAL UNIT-MANILLA HEALTH SERVICE
+DR JAE WARSTLER
+Distribution:   FILE-COPY
+***SUPPLEMENTARY REPORT: CYTOGENETICS RESULTS (17/10/63)
+
+CLINICAL:
+?Sarcoma.  ?Bowel cancer.  Nodular transverse colon.  Intra-abdominal sarcoma.
+Specimen B was divided and tissue was sent for cytogenetics to OMEO DISTRICT HEALTH's Hospital.
+MACROSCOPIC:
+A.  Specimen labelled "Peritoneal nodule attached to transverse colon", consists of a solid nodule 17 x 15 x 15mm with a pale cut surface.  One TS taken for frozen section.
+Blocks: 1 - frozen section; 2 - remainder of tissue AE.
+B.  Specimen labelled "Intra-abdominal sarcoma", consists of fragments of tan and haemorrhagic tissue from 2 to 15mm.  AE 2 blocks. 
+(MI/vo 20.9.63)
+FROZEN SECTION REPORT:
+High grade spindle cell malignancy, favour sarcoma.
+Phone results to Anaesthetist by Dr N Tomkus and Dr. N Ivanova at 4:54pm on 17.07.13 
+MICROSCOPIC:  (Reported by Dr N Hiltz)
+A & B.  The peritoneal nodule (specimen A) is a malignant spindle cell tumour, composed of moderately pleomorphic spindle cells arranged in cellular fascicles, with numerous admixed atypical mitoses and patchy chronic inflammation. At the edge of the spindle tumour, there are numerous epithelioid to bizarre highly pleomorphic malignant cells. The intra-abdominal tumour (specimen B) is a high grade malignant epithelioid tumour. The tumour is composed of sheets of discohesive, highly pleomorphic epithelioid cells, including binucleate, multinucleateand bizarre pleomorphic tumour cells. Mitoses and necrosis are readily identified. 
+IMMUNOHISTOCHEMISTRY:
+Immunohistochemical stains were performed and both tumours showed similar patterns of staining which are as follows:
+Tumour cells positive for: Vimentin. 
+Tumour cells negative for: Pan-cytokeratin, Melan-A, HMB45, CAM5.2, C-KIT, CD31, CD34, SMA, Desmin, ALK-1 and CD21.
+LCA highlights numerous inflammatory cells in the background.
+S100 shows patchy granular cytoplasmic positivity of uncertain significance. 
+A ki-67 proliferative index highlights approximately 75% of tumour cell nuclei.
+COMMENT:
+The peritoneal wall and intra-abdominal tumours are malignant spindle cell and epithelioid tumours, respectively. Both tumours have a similar pattern of immunohistochemical staining, and the overall appearance is similar to the retroperitoneal high grade epithelioid and spindle cell sarcoma previously described in the pathology slide review from South Africa in 2057 (51G89448YRC Worldwide). These peritoneal wall and intra-abdominal tumours most likely represent a spectrum of morphological atypia within a high grade undifferentiated pleomorphic sarcoma. Although no lipoblasts are seen, it is possible that these tumours represent foci of dedifferentiated liposarcoma, which could be confirmed with FISH testing for MDM2 amplification. 
+There is focal S100 staining in the intra-abdominal tumour, and although additional markers of melanoma such as HMB45 and Melan-A are negative and melanoma is considered less likely, the possibility that this tumour represents metastatic malignant melanoma cannot be entirely excluded. 
+There is no significant staining with markers of epithelial, smooth muscle or skeletal muscle differentiation, no evidence of metastatic adenocarcinoma is seen. 
+Please correlate with clinical, imaging and histopathology findings. 
+Representative slides seen with Dr N Jemenez. 
+
+DIAGNOSIS:
+A & B.  Peritoneal and intra-abdominal tumours: Malignant spindled and high grade epithelioidtumours, favour high grade undifferentiated pleomorphic sarcoma ?dedifferentiated liposarcoma (please see comment).
+
+
+***SUPPLEMENTARY REPORT: CYTOGENETICS RESULTS (17/10/63)
+Hereditary CHILDERS MULTIPURPOSE HEALTH SERVICE's Pathology
+Specimen Type:  Tumour
+Preparation:
+S-1
+S-2
+S-3
+S-4
+Analysis:	
+Cells Counted	
+
+Karyotype:
+100,cx, +dmin[cp5].nuc ish(D12Z3x2-4),(MDM2 amp)
+FISH on cytogenetics fixed cell suspension:	
+MDM2/D12Z3 (Zytovision)
+Comment:
+Only 5 metaphases were obtained. The karyotype could not be determined due to the complexity and poor quality of the metaphases obtained. However, double minute chromosomes were observed, which is a cytogenetic hallmark of gene amplification. FISH for MDM2 showed a signal pattern, consistent with amplified MDM2. This is a feature of well-differentiated/dedifferentiated liposarcoma. Please correlate with other findings and contact the laboratory if FISH should be repeated on paraffin tissue from the tumour.
+Reported By:N. Dierking	Validated By: Dr N. Virgen
+Date: 09/08/13 6:20 pm
+
+
+
+
+
+
+
+

@@ -1,0 +1,63 @@
+Episode No:  03A667920C
+030667.ZGA
+
+Syck, KEENAN 
+Lab No:  03A66792
+Labau
+BONNY HILLS  Queensland  5262
+Specimen: Tissue
+D.O.B:  4/3/2003
+Sex:  M
+Collected: 07/02/2014 at 14:20
+Location:  OPERATING THEATRES-ALBURY WODONGA HEALTH - ALBURY CAMPUS
+DR Doyle Brock-GEHMAN
+Distribution:   FILE-COPY,NSW-CANCER-REGISTRY
+CLINICAL:
+Left RCC.  Left radical nephrectomy.  NIDDM, OSA, pulmonary HTN, cirrhosis. 
+MACROSCOPIC:
+Specimen labelled "Kidney", consists of a radical nephrectomy, with kidney 120 x 65 x 60mm, andstripped weight of 212g.  There is surrounding perinephric fat, 270 x 120 x 80mm.  The specimen weighs 1006g in total.  The ureter is 110mm in length and 3mm in diameter.  The adrenal gland is not identified.  The renal hilar vessels are unremarkable.  Within the upper pole of the kidney is a circumscribed yellow tumour, 33 x 27 x 25mm.  The edge of the tumour appears to extend into the renal pelvis, and is well clear of the renal sinus.  The tumour appears confined to the kidney and is 5mm clear of the closest perinephric fat margin.  The tumour is 30mm clear of the hilar vessel margin.  The uninvolved kidney appears unremarkable.  No hilar lymph nodes were identified.
+Blocks 1 & 2 - shave sections hilar vessel margins; 3 - shave section ureteric margin; 4 & 5 - tumour with closest perinephric fat margin; 6 & 7 - crosssection of maximum tumour dimension (block 6 reserve block); 8 - tumour with renal pelvis; 9 - tumour with renal sinus; 10 - uninvolved inferior pole; 11 - uninvolved superior pole. 
+(SB/ec 12.4.64) 
+MICROSCOPIC (reported by Dr B Messerschmidt): 
+Sections show clear cell renal cell carcinoma of thekidney. The features are as follows:
+Position of tumour:  Upper pole, left kidney. 
+Dimension of tumour:  30mm. 
+Tumour type:  Clear cell carcinoma. 
+Fuhrman grade:  Grade 2 - nucleoli visible at 400x magnification but not prominent at 100x magnification. 
+Sarcomatoid differentiation:  Absent 
+Rhabdoid differentiation:  Absent 
+Necrosis:  Present (less than 5%)
+Tumour spread beyond kidney:  Absent. 
+Tumour extends beyond Gerota's fascia:  Absent. 
+Tumour in renal sinus fat:  Absent. 
+Tumour in renal vein or its segmental (muscle containing branches):  Absent. 
+Lymphovascular invasion:  Absent. 
+Tumour in adrenal gland:  Not applicable. 
+Lymph node status:  None sampled. 
+Involvement of surgical margins:
+	Absent.
+	Site of nearest margin:  Superior perinephric fat margin (5mm)
+Other comments:  Incidental 1.5mm papillary adenoma within inferior pole. 
+AJCC tumour stage (7th Ed.)
+pT1a Tumour 4cm or less in greatest dimension, limited to the kidney
+pNX Regional lymph nodes cannot be assessed.
+pMX Cannot be assessed histologically
+Scoring Algorithm to Predict Metastases after Radical Nephrectomy (Leibovich et al., Cancer,2003)
+	
+Primary tumor status score (pathologic T stage)
+pT1a 	0
+Regional lymph node status (N stage) score
+pNx 	0
+Tumor size (cm)
+< 10 	0
+Nuclear grade score
+2 	0
+Histologic tumor necrosis score
+Yes 	1
+Total score (out of 11):  1. 
+DIAGNOSIS:
+Left nephrectomy: 
+- 30mm clear cell renal cell carcinoma; Fuhrman grade 2; margins clear. 
+- Tumour confined to kidney. 
+- pT1a (AJCC 7th Ed.)
+

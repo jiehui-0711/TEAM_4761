@@ -1,0 +1,73 @@
+6319766.ZNX
+Glogowski, Abram SHAYNE
+63E97669
+
+Last edited : 18/4/2065		Page: 2
+CLINICAL:
+Subtotal gastrectomy, tumour involving mesocolon.  Gastric cancer.  
+Additional information from operation report:  Neoadjuvant chemotherapy.  Gastric cancer adherent to transverse mesocolon and inferior surface of segment 3 of liver.  No liver mets. 
+MACROSCOPIC:
+A.  Specimen labelled "Subtotal gastrectomy transverse colon" consists of en bloc subtotal gastrectomy with a segment of transverse colon.  The stomach is 215mm along the greater curvature and 125mm along the lesser curvature.  There is attached greater omentum 320 x 220 x 40mm, and lesser omentum 125 x 60 x 10mm.  The transverse colon is 100mm in length and75mm circumference.  There is included transverse mesocolon 65mm in width.  Over the anterior surface of the antral greater curvature there is adherent peritoneum, 75 x 30mm.  Arising within the gastric antrum, over the greater curvatureis an ulcerated tumour with a raised rolled edge.  The tumour is 90 x 75mm.  The tumour is 70mm clear of the proximal margin and 25mm clear of the distal margin.  The tumour infiltrates through the muscularis propria and into the transverse mesocolic fat.  The tumour does not appear to involve the transverse colon mucosa or muscularis propria.  There is induration and puckering of the gastric serosa over the greater curvature adjacent to the adherent peritoneum.  There is also puckering of the transverse mesocolon peritoneum.  The areas of serosal puckering are inked blue.  There is flattening of the uninvolved gastric antral rugae, immediately adjacent to the tumour.  Multiple lymph nodes are identified.
+Blocks:  1- proximal gastric margin; 2- distal gastric margin; 3- gastric antrum with flattened rugae; 4 - uninvolved stomach; 5 - proximal transverse colon margin; 6 - distal transverse colon margin; 7 & 8 - tumour with uninvolved stomach; 9 - tumour with anterior gastric serosa (reserved block);10 & 11 - tumour with anterior serosa and adherent peritoneum; 12 to 16 - tumour with transverse mesocolon; 17 & 18 - transverse colon; 19 to 23 - lesser omentum lymph nodes (19 - onelymph node); 24 to 26 - transverse mesocolon lymph nodes (24 - one lymph node); 27 & 28 - greater omentum; 29 to 33 - greater curvature lymph nodes (29 & 30 - one lymph node in each block).  Specimen photograph taken.  
+B.  Specimen labelled "Segment 3 liver anterior margin" consists of a segment of liver, 75 x 35 x 25mm, weighing 25g.  The margin is inked blue.  The liver capsule has patchy haemorrhagic tissue.  The cut surfaces show variegated tan/brown tissue.  No focal lesion is seen.  Representative in 6 blocks.  (HU/mm 13.4.65) 
+MICROSCOPIC (Reported by Dr S Galgano/Dr S Mahdi):  
+A & B.  SYNOPTIC REPORT FOR GASTRIC CARCINOMA
+
+Macroscopic description
+
+Tumour site:  Gastric antrum, along greater curvaturetumour diameter:  90mm
+Distance to nearest margin:  25mm (distal)
+
+Microscopic Description
+
+Tumour site (location):
+	Antrum, greater curve
+WHO histological tumour type:
+	Tubular adenocarcinoma, moderate to poorly differentiated
+Lauren histological tumour type:
+	Intestinal
+Growth pattern:
+	Expanding
+Maximal dimension of tumour:  90mm
+Local invasion (ypT):
+ypT4b	Tumour invades adjacent structures (transverse mesocolon)
+Serosal surface involvement:
+Present (A10)
+Vascular space invasion:
+Small vessels (lymphatic and capillary):  A focus suspicious for lymphovascular invasion is seen (A14).
+Large vessels (vein and artery):  Not identified
+Perineural growth:
+Absent
+Degree of regression after preoperative Chemoradiation:
+3 (poor response)
+Her2 status:  Not performed
+
+Distance of tumour from margins:	
+From proximal:  70mm
+From distal:  25mm
+From radial/circumferential (proximal/cardia tumours):  Not applicable
+Number of involved regional nodes/total number of region nodes (ypN):
+Number of lymph nodes present:  Thirty (30)
+Number of lymph nodes involved:  Nil (0)
+N0	No regional lymph node metastasis
+Metastatic sites (pM):
+MX	Cannot be assessed histologically
+Other pathologies:
+Gastritis:  Present (moderate chronic gastritis)
+Helicobacter infection: Absent
+Intestinal metaplasia:  Present and widespread within gastric antrum
+Dysplasia: Absent
+Gastric polyps: Absent
+Barrett's mucosa:  Not applicable
+Other:  
+- The segment 3 liver (specimen B) shows preserved lobular architecture.  There is a non-specific mild periportal mixed inflammatory infiltrate.  The hepatic plates are within normal limits.  Centrilobular sinusoidal dilatation is seen.  There is serosal haemorrhage with fibrin deposition, as well as formation of granulation tissue below the hepatic capsule.  
+- A single cluster of atypical cells suspicious for carcinoma is seen entrapped within the serosal fibrin.  There is no evidence of malignancy within the hepatic parenchyma.
+DIAGNOSIS:
+A.  Subtotal gastrectomy with transverse colon:
+-  Gastric adenocarcinoma, moderate to poorly differentiated
+-  Carcinoma invades transverse mesoclon, ypT4b
+-  Margins clear of tumour
+-  Focus suspicious for lymphovascular invasion
+-  Thirty negative lymph nodes (0/30)
+B.  Segment 3 liver, anterior margin:  Single cluster of atypical cells (see text)
+

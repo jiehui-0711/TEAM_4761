@@ -1,0 +1,24 @@
+SPR no: 32X398244Q
+MRN no: 3283982
+Site_name: WAIKERIE HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+TLHBSO.  Ca Endometrium.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cervix, uterus, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 82 grams in total.  The uterus measures 72 x 45 x 24mm and has a smooth shiny serosal surface.  It was received opened in the midline posteriorly and thus was fully open in the sagittal plane into left and right halves.  The anterior paracervical margin is inked blue and the posterior is inked black.  The ectocervix measures 30 x 30mm and has an unremarkable surface.  On sectioning the endometrium is 2 to 3mm thick with polypoid protections up to 3mm in thickness at the posterior fundal aspect with possible extension into the left and right cornu.  There is no convincing myometrial invasion.  The maximum myometrial thickness is 15mm.  In addition the myometrium shows a 13mm diameter firm pale nodule with a whorled cut surface ?leiomyoma.  The right fallopian tube is 60mm in length by 5mm in maximum diameter.  The right ovary is 20 x 9 x 6mm with an unremarkable cut surface.  The left fallopian tube is 62mm in length by 5mm in maximum dimeter and the left ovary is 21 x 7 x 6mm and has an unremarkable cut surface.
+Blocks: 1 to 3- full LS of anterior body and cervix; 4 to 6 - full LS of posterior body and cervix; 7 and 8 - two sections of posterior endomyometrium at fundus; 9 - right cornu; 10 - left cornu; 11 - fimbrial end of right fallopian tube; 12 - four TS of right fallopian tube; 13 and 14 - right ovary in six sections; 15 - fimbrial end of left fallopian tube; 16 - four TS of left fallopian tube; 17 - left ovary in four TS;  18 - right cornu; 19 &amp;amp; 20 - further sections of endo-myometrium.    (TO: SW; SW/ta 26/8/66)
+B.  Specimen labelled &amp;quot;Right common iliac sentinel node&amp;quot;, consists of a 13 x 6 x 2mm fatty tissue including one possible node.  AE 1 block.
+
+C.  Specimen labelled &amp;quot;Left external iliac sentinel node&amp;quot;, consists of fibrofatty tissue, 20 x 14 x 7mm in aggregate.  Three possible lymph nodes are identified, 4 to 6mm.
+Blocks: 1 - ?three lymph nodes.  (TO: SW;SW/vo 27.5.68)
+MICROSCOPIC (Reported by Dr I Bennington):
+A.  Most of the endometrium has been examined.  There are small foci of grade 1 endometrioid adenocarcinoma arising on a background of complex hyperplasia with atypia.  No lymphvascular or myometrial invasion is present.
+The ectocervix and endocervix are uninvolved and unremarkable.  The myometrium contains leiomyomas.  Both ovaries and tubes show no significant abnormality.
+B.  The sentinel node protocol has been performed.  One lymph node shows no evidence of malignancy.
+C.  The sentinel node protocol has been performed.  Three lymph nodes show no evidence of malignancy.
+
+DIAGNOSIS:
+Focal grade 1 endometrioid adenocarcinoma arising in a background of atypical complex hyperplasia.  No myometrial invasion.  No lymphvascular invasion.  Cervix uninvolved.  Four sentinel nodes are negative.
+ADDITIONAL REPORT 6/9/68:
+MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining, indicating a low likelihood of microsatellite instability.

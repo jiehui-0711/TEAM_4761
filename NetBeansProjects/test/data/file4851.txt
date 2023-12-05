@@ -1,0 +1,140 @@
+SPR no: 52X248539O
+MRN no: 5282485
+Site_name: DYSART HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportAccession Number: 52X248539O
+Laboratory Number: 52X24853
+SEALS HISTOPATHOLOGY REPORT
+
+HISTORY:
+Liver edge/R diaphram.
+Frozen section.
+Colorectal cancer. Hx of T4 Right colon. Cancer removed 2062. Peritoneal mets. ?Primary rectum - peritonectomy.
+Rectosigmoid, omentum, ileocaecal resection, portal diaphragm, seminal vessicles.
+
+MACROSCOPIC:
+A. &amp;quot;LIVER EDGE - RIGHT DIAPHRAGM&amp;quot;. Consists of a piece of tissue, 40x20x10mm and three smaller pieces up to 10mm. Largest diathermied edge blue inked.
+
+Frozen section: one TS larger + one TS smaller.
+
+F/S: &amp;quot;Fibrosis and skeletal muscle. No evidence of malignancy&amp;quot; per phone by Dr. N Mccloud on 7/11/66.
+
+(1 frozen section tissue; 2&amp;amp;3 remaining tissue). AE (M-3)
+
+B. &amp;quot;PERITONEUM, RECTOSIGMOID, RIGHT COLON, OMENTUM&amp;quot;. Consists of:
+
+Omentum. A segment of omentum, measuring up to 520x220x45mm. There is apparent peritoneal surface, measuring 80x40mm. Multiple areas of pale firm tumour deposits are identified on sectioning. The largest measuring 50mm in maximal extent.
+
+(1,2,7 representative sections).
+
+Right Colon. A segment of colon, measuring 110mm in length. There is no appendix identified. Located in the mid-section, there is an anastomosis which appears well-healed. The external surface shows ragged adhesion. No definite tumour deposits are identified on the serosal surface. The mucosa shows no mass lesions.
+
+(3&amp;amp;4 LS resection margin; 5 anastomosis RS; 6 four mesenteric node).
+
+Rectosigmoid colon measuring 300mm in length. The distal resection margin is 65mm below the anterior peritoneal reflection. There is an attached piece of peritoneum, measuring up to 200x100x10mm. It has a firm tumour deposit, measuring 25mm in maximal extent. The specimen has been previously opened showing a sessile ulcerated tumour, measuring 55mm in length and located 140mm from the proximal resection margin and 130mm from the distal resection margin. The serosal surface and fat is puckered overlying the tumour with some pale area (inked red) ?involved. The tumour is entirely above the anterior peritoneal reflection. The mucosa does not show any other mass lesions or polyps. Within the peri-rectal fat approximately 70mm distal to the first described tumour, on the left lateral side, there is a firm area of tumour which abuts the black inked resection margin and invades into the muscularis propria. However, it does not involve the mucosal luminal surface. It measures up to 40x30x20mm. On sectioning, the tumour measures 15mm thick and appears to involve the serosal surface (inked red). It invades through muscularis propria into the mesenteric fat at distance of at least 8mm where it appears necrotic ?involving vas/seminal vesicle.
+
+(8 proximal LS; 9 distal LS resection margin; 10-12 full face tumour including mesenteric extension and serosal involvement; 13-15 full face tumour deposits in peri-rectal fat extend to black inked resection margin; 16 further tumour with red inked serosal surface; 17 six possible nodes;18 four possible nodes; 19 four possible nodes; 20 five possible nodes; 21 tumour reserved block; 22 proximal seminal vesicle, transverse section, measuring up to 25x15x8mm). RS (M-22)
+
+C. &amp;quot;RIGHT DIAPHRAGM&amp;quot;. Consists of a single irregular piece of tissue, measuring 25x15x7mm, with rough surface. Specimen is transversely sectioned showing pale fibrous tissue). AE (M-2/ EE/cy)
+
+MACROSCOPIC FINDINGS SUMMARY
+Operation type:  Anterior resection ?low
+Specimen length:  300mm
+Tumour site:  Sigmoid colon, rectum.
+Tumour size:  55mm
+Distance from margins:
+Proximal:  130mm
+Distal:  130m
+Radial:  see comments
+Perforation: Absent
+Peritoneal reflection:  Tumour entirely above
+Mesorectal integrity:  Complete
+Extramuscular spread: 8mm
+Tumour description:  Sessile, ulcerated, non-obstructing.
+Overlying serosa: :Appears involved (inked red).
+MICROSCOPIC   (Dr N Dijulio)
+A.  Histology shows dense fibrous connective tissue with some adjacent skeletal muscle with no evidence of malignancy.  Focally, there is a small amount of hepatic parenchyma present associated with congestion and mild focal haemorrhage.
+
+B.
+Tumour type:  Adenocarcinoma, NOS
+
+Histologic grade:  High grade (moderately to poorly differentiated)
+
+Depth of invasion:  Tumour infiltrates through muscularis propria into pericolorectal tissue (pT3)
+
+Peritoneal surface involvement:  Absent
+
+Tumour infiltrating lymphocytes: Low density
+
+Excision Margins:
+Proximal:  Clear
+Distal:  Clear
+Radial:  Involved (peri-rectal, see comment)
+Donuts:  Not received
+
+Lymph nodes:  Not involved
+Number positive:  0
+Total number:  11
+Apical node:  Not identified
+
+Intramural vein invasion:  Not identified
+
+Extramural vein invasion:  Not identified
+
+Small vessel (lymphatic) invasion:  Focally present (peri-rectal deposit)
+
+Perineural invasion:  Present and extensive (see comments)
+
+Distant metastases:  Present within omentum (with Specimen B).
+
+Other findings:
+Polyps:  Not identified
+Remote colon:
+The separate segment of right colon with the ileocaecal anastomosis shows no evidence of malignancy.
+
+Treatment effect:  Not applicable
+
+Ancillary studies:
+
+Mismatch repair enzymes, Immunostains:  to follow
+
+Microsatellite instability (MSI):  not tested
+
+Synthesis/stage (AJCC/UICC TNM 7):
+
+TNM stage:  pT3, pN0, pM1b
+
+Stage grouping:  IVB
+
+Comment:
+A futher separate peri-rectal deposit of adenocarcinoma is present within the muscularis propria and adjacent peri-rectal tissue where adenocarcinoma focally lies at the inked circumferential resection margin. At this site the seminal vesicle is adherent to, but not actually infiltrated by carcinoma. No origin from the overlying rectal mucosa is seen and this is considered a local metastatic deposit. A focus of peri-neural invasion lies 1.5mm from the inked circumferential margin.
+
+C.  Histology shows dense fibrous tissue with some adjacent bundles of skeletal muscle and no evidence of malignancy present.
+
+DIAGNOSIS
+A.  LIVER EDGE RIGHT DIAPHRAGM -
+-NO EVIDENCE OF MALIGNANCY.
+B.  PERITONEUM, RECTOSIGMOID, RIGHT COLON, OMENTUM -
+-MODERATELY TO POORLY DIFFERENTIATED ADENOCARCINOMA OF SIGMOID COLON, WITH METASTATIC DEPOSITS IN THE OMENTUM, STAGE pT3, pN0, pM1b.
+- SEPARATE PERI-RECTAL DEPOSIT FOCALLY INVOLVES THE CIRCUMFERENTIAL RESECTION MARGIN.
+C.  RIGHT DIAPHRAGM -
+-NO EVIDENCE OF MALIGNANCY.
+19/7/2066 ank
+SUPPLEMENTARY REPORT:
+
+Immunostains for MSI proteins (Dillard's ENVOI Pathology; block: B16)
+
+MLH1: normal (positive staining)
+PMS2: normal (positive staining)
+MSH2: normal (positive staining)
+MSH6: normal (positive staining)
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.
+
+29.7.66

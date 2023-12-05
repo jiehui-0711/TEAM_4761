@@ -1,0 +1,49 @@
+Episode No:  95W7854197
+958785.KFZ
+
+BRUSKI, Floyd GAVIN SHELBY 
+Lab No:  95W78541
+Talbryn
+YAMBA    3158
+Specimen: Tissue
+D.O.B:  10/5/2029
+Sex:  M
+Collected: 09/08/2012 at 09:03
+Location:  POW L7 CONSULTING ROOMS-DORRIGO MULTI PURPOSE SERVICE
+DR Linwood Donny Duhamel
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Hepatectomy.  1. Left segment II/III.  2. Right segment VII/VIII, ?colorectal mets.
+Further information from Dr Panchal - Specimen B segment VII/VIII has an adhesion of diaphragm.
+Further information from powerchart: In 2060 (95W78541) pT3, N1, MX mid rectal adenocarcinoma.
+MACROSCOPIC:
+A.  Specimen labelled "Liver segment II/III" consists of a piece of liver 117 x 80 x 42mm weighing 120.4g.  Sectioning reveals a cream coloured tumour deposit 50 x 37 x 28mm, 10mm from the resection margin.  The uninvolved liver is macroscopically unremarkable.
+Blocks:  1 - tumour and resection margin; 2 - further representative tumour; 3 - tumour reserve block; 4 - representative uninvolved liver.
+B.  Specimen labelled "Liver segment VII/VIII" consists of a piece of liver 155 x 127 x 54mm, weighing 367.2g.  The specimen includes the bare area approximately 80 x 50mm. The capsular surface shows a 20x 20mm piece of ragged ?diaphragm adherent to underlying tumour nodules.  Sectioning reveals a partly necrotic cream/white tumour 60 x 55 x 30mm deep to the adherent diaphragm.  The tumour measures 18mm from the surgical resection margin and 5mm clear of the bare area. The uninvolved liver appears macroscopically unremarkable.
+Blocks:  1 - tumour and adherent diaphragm; 2 - tumour andcapsule; 3 - further representative tumour; 4 - tumour reserve block; 5 - representative uninvolved liver. 6 & 7 more blocks ( 6 tumourand resection margin, 7 tumour and bare area)
+C.  Specimen labelled "Gallbladder" consists of a76mm gallbladder with a diameter of up to 26mm.  The wall measures up to 3mm in thickness and the mucosa is macroscopically unremarkable.  The lumen contains bile.  No stones are identified within the lumen orspecimen container.  
+Blocks:  1 - cystic duct and neck; 2 - body; 3 - fundus.   (XM/cc  10/11/62) 
+ 
+MICROSCOPIC (Reported by Dr X Nalley): 
+A.  Approximately 10% of the 50mm tumour nodule described grossly is moderately differentiated adenocarcinoma.  The remainder of the nodule shows feature consistent with chemotherapy effect with broad areas of fibrosis, sheets of foamy histocytes, necrosis, scattered foreign body giant cells containing cholesterol clefts,foci of dystophic calcification and admixed chronic inflammation.  The residual carcinoma is present predominantly around the periphery of the nodule and is composed of moderately pleomorphic cells arranged in small single and anastomosing tubules.  No definite lymphovascular invasion is seen.
+With immunohistochemistry the tumour cells express CK20 and CDX2 and are negative for CK7.  The morphology and immunoprofile are consistent with a colorectal primary.  
+The carcinoma is 9mm clear of the surgical resection margin. 
+The adjacent liver shows overall preservation of lobular architecture.  There are some reactive changes with focal mild fibrous expansion of portal tracts with focal portal to central linkage and a very mild mixed portal inflammatory infiltrate with focal minimal interface change.  There is mild predominately centrilobular macrovesicular steatosis but no steatohepatitis.
+B.  Approximately 10% of the 60mm tumour nodule described is moderately differentiated adenocarcinoma. The remainder of the nodule shows features consistent with chemotherapy effect, similar to that described above.  The carcinoma shows similar morphology to that seen in specimen A, albeit with more complex branching glandular and cribriform structures, and a similar to the morphology of the primary rectal carcinoma (95W78541).  The residual carcinoma abuts but does not invade the adhesion described grossly, which comprises fibrovascular connective tissue (consistent with fibrous diaphragm).  There is also subcapsular tumour associated overlying organising haemorrhage however, no capsular penetration is seen.  No definite lymphovascular invasion is seen.
+With immunohistochemistry the tumour cells express CK20 and CDX2 but are negative for CK7.  
+The morphology and immunoprofile is consistent with a rectal primary
+The tumour is 16.5mm clear of the resection margin and 4mm clear of the bare area.  
+The liver away from the tumour shows preservation of lobular architecture without fibrous or inflammatory expansion of portal tracts, the latter containing normal portal structures.  There is mild, predominately centrilobular, macrovesicular steatosis but no steatohepatitis. The liver cell plates are one cell thick. There is patchy mild iron deposition in periportal hepatocytes of uncertain significance.  No stainable copper or dPAS positive globules are seen.
+C.  Sections show very mild chronic cholecystitis with focal pseudopyloric metaplasia, mild hypertrophy of the muscularis, focal Rokitansky Aschoff sinus formation and very mild transmural chronic inflammation.  There is no evidence of malignancy.  A cystic duct lymph node is not identified.  
+DIAGNOSIS:  
+A.  Liver segment 2/3: 
+-  Metastatic adenocarcinoma consistent with rectal primary.
+-  Surgical margin 9mmclear.
+B.  Liver segment 7/8:  
+-  Metastatic adenocarcinoma consistent with rectal primary.
+-  Surgical margin 16.5mm clear.
+-  Bare area 4mm clear.
+-  Uninvolved fibrous diaphragmatic adhesion.
+-Mild steatosis, mild hepatocyte iron deposition.
+C.  Gallbladder:  Very mild chronic cholecystitis, no gallstones.  
+

@@ -1,0 +1,77 @@
+Episode No:  15Q093259B
+156093.FOX
+
+OLSTEN, Hilario Twanda 
+Lab No:  15Q09325
+Montville
+PENGUIN  Queensland2650
+Specimen: Tissue
+D.O.B:  6/3/2024
+Sex:  F
+Collected: Unknown at :
+Location:  Pathology West - BLUE MOUNTAINS DISTRICT ANZAC MEMORIAL HOSPITAL
+DR Art OSVALDO Randy-SENTENO
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Right breast IDC at 2 o'clock.  
+1.  Right breast WLE at 2 o'clock 2cm FN - long stitch lateral, short superior, medium medial.  
+2.  Further excision of superior margin of cavity - stitch to cavity aspect.  
+3.  Right axillary sentinel LN x 3 - counts >25000, >1000, >550.  
+MACROSCOPIC:
+A.  Specimen labelled "Right axillary sentinel node" consists of three fragments of fatty tissue measuring 10, 12 and 20mm.  Three lymph nodes are identified the largest being 20mm across.  The two smaller lymph nodes are each 3mm.  
+Blocks: 1 - largest node bisected; 2 - two lymph nodes.  
+  
+B.  Specimen labelled "Wide local excision R breast" consists of a piece of fibrofatty tissuemeasuring 58mm (medial to lateral) x 51mm (superficial to deep) x 25mm (superior to inferior) and weighs 35g.  There are orientating sutures in situ as per specimen request form.  The superior margin is inked blue, inferior black and deep red.  Specimen is serially sectioned into ten slices from medial to lateral.  Within slices three and four is a irregular tumour, 9 x 6 x 5mm.  The tumour is 12mm clear of the superior margin, 3mm clear of the inferior margin, 11mm clear of deep margin and 24mm clear of the superficial margin.  Within all of the slices and including surrounding the tumour are soft fibrous areas which extend to the superior and inferior margins.  
+Blocks: 1 to 3 - slice one (medial margin); 4 to 7 - slice two; 8 to 11 - slice three; 12 to 15 - slice four; 16 to 18 - slice five; 19 to 21 slice seven; 22 to 24 - slice nine; 25 - slice ten (lateral margin).  
+Specimen photographed and block diagram taken.  
+ 
+C.  Specimen labelled "Shave of superior margin of cavity stitch on cavity right breast" consists of a piece of fibrofatty tissue measuring 28 x 25 x 10mm.  A stitch on one surface indicating the cavity side.  The cavity side with stitch is inked blue and the opposite margin black.  The cut surface shows a soft fibrous area 8mmacross.  Serially embedded in 3 blocks with both ends in block 1.  AE.  (TO: EP/ta 23/5/64)
+MICROSCOPIC (Reported by Dr E Smeathers): 
+A.  The sentinel nodes (x3) are negative for tumour.  The CAM 5.2 is negative.
+B.  Sections show a large area of intermediate DCIS which is present in slices 1 to 5 (out of a total of 10 slices) and measures about 30mm in maximal dimension.  The DCIS is present at the medial, inferior (over a broad front) and deep (adjacent to inferior) margins.  The superior margin is 10mm clear and the lateral about 30mm clear.
+There is a 7mm grade 2 infiltrating ductal carcinoma (IDC) in slices 3 and 4 admixed with the DCIS.  The IDC is 3.5mm from the inferior margin and the other margins are well clear.
+C.  The shave from the superior margin has been totally blocked and there is no tumour present.
+DIAGNOSIS:
+ABC.  R breast WLE plus sentinel nodes and superior shave:  
+Invasive carcinoma:
+Site:  Right breast WLE
+Type:  Infiltrating ductal carcinoma
+Invasive tumour size:  7mm in maximal dimension
+Grade  2 (Modified Bloom & Richardson):
+Tubules:  3  Nuclei:  1  Mitoses:  2  Mitotic rate:  10  /10hpf.
+Lymphovascular invasion:  Absent
+DCIS component:
+DCIS:  Present
+Maximum extent of DCIS:  30mm
+Nuclear grade:  Intermediate
+Architecture:  Mainly cribriform
+Necrosis:  Absent
+Calcification:  Absent
+Excision Margins:
+Invasive component:  3.5mm from inferior, other margins well clear.
+Excision margins - DCIS.
+POSITIVE medial, inferior (over a broad front )and deep (close to inferior), superior 10mm clear plus extra shave, lateral 25mm clear.
+Receptors (Block  B14):
+ER:  Positive
+	>90% of nuclei stained
+	predominant intensity of staining:   strong
+PR:  Positive
+	>95% of nuclei stained
+	predominant intensity of staining:  strong 
+HER2 (Novocastra 10A7): negative (no staining)
+Slides sent to BAIRNSDALE REGIONAL HEALTH SERVICE  for CISH.
+The Ki67 is 20%
+Nipple:  N/A
+LCIS / ALH:  Present -  2mm focus
+Miscellaneous:
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  3
+Number of sentinel lymph nodes involved by tumour:  0
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  0
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  3
+Total number of involved lymph nodes (including sentinel node(s)):  0
+

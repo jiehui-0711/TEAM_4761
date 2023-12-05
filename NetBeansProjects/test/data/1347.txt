@@ -1,0 +1,52 @@
+Episode No:  74E4780601
+7414780.SAF
+
+Hanohano, TESSA 
+Lab No:  74E47806
+Dawn Fraser
+CABOOLTURE  Victoria  3240
+Specimen: Tissue
+D.O.B:  23/4/2018
+Sex:  F
+Collected: 5/8/2063 at :
+Location:  Envoi Pathology-ESPERANCE HOSPITAL
+DR JAMISON Marlin POGGI
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Retroperitoneal sarcoma (R)side with int. thrombus.  (See previous core biopsy - 74E47806).
+MACROSCOPIC:
+A.  Specimen unlabelled as to site or nature, specimen received fresh and a small piece of tissue sent for cytogenetics.  The specimen consists of a large tumorous mass measuring 230 x 210 x 140mm and weighs 3 kilos and 600g.  The external surface is partly covered by adipose tissue.  Specimen is orientated by Dr Tassey who indicated an area in the posterosuperior margin called inferior vena cava bed and right aspect of the specimen gonadal vessels.The specimen is inked red, superior margin green, inferior margin blue, superficial margin black deep margin.  The specimen is serially sectioned from medial to lateral.  The cut surface is multinodular with a solid fleshy consistency with areas of necrosis and haemorrhage.  The length of the gonads vessel is 15mm.  Representative blocks taken as follows: 
+Blocks:  1 - TS of gonadal vessels; 2 & 3 - two representative sections of inferior vena cava margin; 4 & 5 - two representative sections superior margin; 6 & 7 - representative sections inferior margin; 8 & 9 - representative sections superficial margin; 10 & 11 - two representative sections right lateral margin; 12 & 13 - representative sections medial margin; 14 to 30 - representative sections of tumour.  
+B.  Specimen labelled "Inferior component of tumour" consists of an irregular piece of fatty tissue 70 x 70 x 30mm, unorientated.  The cut surface is vaguely nodular and yellow.  Representative sections in 4 blocks.  
+C.  Specimen labelled "Inferior margin of tumour" consists of a membranous piece of tissue with attached adipose tissue measuring 110 x 40 x 10mm.  Representative sections in 4blocks.  
+D.  Specimen labelled "Adherent IVC thrombus" consists of a dark piece of tissue 15 x 10 x 2mm.  AE 1 block.
+E.  Specimen labelled "IVC blood clot" consists of an irregular piece of blood clot 50 x 30 x 20mm.  Representative sections in 2 blocks.  (TO: VJ: TG/mm 5.9.63)   
+MICROSCOPIC:  (Reported by Dr U Torrey):
+A.   The tumour has beenextensively sampled and shows an undifferentiated pleomorphic sarcoma with myxoid areas (pleomorphic malignant fibrous histiocytoma).  The gonadal vessels are recognised and the tumour abuts the bed of the inferior vena cava.  There arenumerous mitoses numbering up to 40 per 10 hpf and the Ki67 (performed on the previous core) was stated to be 80%.  The tumour has a pushing and infiltrative margin and sampling of the surrounding adipose tissue shows no evidence of welldifferentiated liposarcoma.  
+The surgical margins appear close (superior 0.5mm, inferior 0.5mm, superficial 1mm, lateral 0.5mm, medial 0.5mm) in addition to the bed of the inferior vena cava.  There is extensive tumour necrosis present but the degree of necrosis is estimated at being less than 50%.  
+The FNCLCC System shows a grade 3 sarcoma (tumour differentiation - score 3, mitoses - score 3, tumour necrosis - score 1) ie grade 3 (total score 7).  
+The MDM2 amplification which was performed on the previous core (negative result) was not repeated.  
+B & C.  Both specimens from the inferior margin show normal adipose tissue and in specimen C there is a pseudocapsule.  
+D & E.  Both specimens show laminated thrombus.  (ec) 
+DIAGNOSIS:  
+A-D.   Resection retroperitoneal sarcoma plus inferior margin and IVC thrombus:
+-   Undifferentiated pleomorphic sarcoma, grade 3 (FNCLCC System).
+-   Tumour abuts bed of the inferior vena cava which contains thrombus.
+-   No well differentiated areas identified (tumour extensively sampled).
+-   For surgical margins, see text.
+ADDITIONAL REPORT:  (6.10.63).
+Cytogenetics Report, reported by U Lavere, PORT LINCOLN HEALTH SERVICES's Hospital. 
+"Analysis:
+Cells counted				2
+Cells analysed (GTW banding)	1  
+Band resolution level			<300
+Karyotype:
+45,XX,add(12)(q13),inc[1].  nuc ish (MDM2amp, D2Z1x4).
+No additional analysable metaphases.
+FISH:
+MDM2/D2Z1 (Abbott Molecular).
+Comment:
+One abnormal metaphase was detected, with abnormalities including a large marker derived from chromosome 12.  FISH testingwith MDM2 showed a signal pattern consistent with MDM2 gene amplification in the majority of the interphase cells.  This is typically seen in the setting of well differentiated/ dedifferentiated liposarcoma. Please correlate with other findings, and advise the laboratory if confirmatory FISH on paraffin embedded tissue is required". 
+COMMENT:
+The presence of MDM2 gene amplification suggests this tumour is a dedifferentiated liposarcoma. 
+

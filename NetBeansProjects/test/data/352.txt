@@ -1,0 +1,49 @@
+
+Episode No:  38G416363O
+3824163.RJO
+
+HIBBITTS, SILAS 
+Lab No:  38G41636
+Dryhill Park
+ROMA  WA  3632
+Specimen: Tissue
+D.O.B:  27/11/2002
+Sex:  M
+Collected: 13/03/2013 at 15:50
+Location:  MED/SURGERY WARD-MANILLA HEALTH SERVICE
+DR MARQUIS BYRON LANDE
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Von Recklinghausen.  Superficial skin lesion, ? neurofibroma. Lesion posterior triangle of neck, deep to platsma, neurofibroma.  Lt adrenalectomy for pheochromocytoma + splenectomy.  Malignant peripheral nerve sheath tumour. 
+MACROSCOPIC:
+A.  Specimen labelled "Lesion right neck, ? neurofibroma", consists of an unoriented solid mass 75 x 50 x 35mm.  The external surface is inked blue.  Slicing reveals a predominantly yellow solid cut surface with patchy pale areas.  Blocks 1-7 - representative sections. 
+B.  Specimen labelled "Right neck lesion", consists of an unoriented skin ellipse 35 x 15mm with subcutaneous tissue up to 8mm deep.  The resection margin is inked blue. Centrally there is a subcutaneous nodule 13mm in maximum dimension with a pale cut surface.  It appears to be clear of peripheral and the deep margins.  
+Block 1 -2TS; 2 - two ends.  (WY/ec 16.5.63) 
+MICROSCOPIC: (Reported by Dr K Denofrio)
+A.  Sections show a relatively circumscribed non-encapsulated fatty tumour intersected by fibromyxoid bands containing a hypocellular proliferation of spindle and stellate cells.  There is patchy admixed chronic inflammation including conspicuous plasma cells.  Numerous mast cells are also noted.  Scattered spindle and stellate cells display moderate nuclear atypia which may be degenerate in nature.  Occasional spindle cells display enlarged irregular hyperchromatic nuclei.  Occasionalganglion-like cells and multinucleated cells are seen although no classic floret cells are present.  No ropey collagen, plexiform vasculature, cellular areas or necrosis is seen.  Peripherally in areas there is a thin rim of skeletal muscle however, the tumour abuts the resection margin in several areas.
+Immunohistochemical stains demonstrate variable CD34 expression in the fibrous areas including the spindle cells. S100 stains the adipocytes while the spindle cells are negative.
+COMMENT:
+The differential diagnoses considered include a spindle cell lipoma with focal pleomorphic lipoma areas and well differentiated liposarcoma.  The features are not those of a neurofibroma.  In view of the location and overall appearances a diagnosis of spindle cell lipoma is favoured, however I cannot entirely exclude a well differentiated liposarcoma.  Tissue will be sent to BARWON HEALTH - ASHLEY MANOR CAMPUS'sHospital for MDM2 analysis and a supplementary report will be issued.
+Shown to Dr K Cuffia.
+
+B.  Sections show skin to subcutis with striated muscle at the deep aspect.  Expanding the dermis and extending to the dermo-subcutaneous junction is a circumscribed unencapsulated proliferation of S100 positive spindle cells with wavy nuclei within collagenous stroma containing scattered mast cells.  Occasional small nerves are also present highlighted with neurofilament immunostain.  No plexiform architecture or diffuse infiltration of subcutis is present.  There is no significant nuclear atypia, necrosis seen.  The tumour is about 1mm clear of the deep margin and about 2.1mm clear of the closest peripheral margin.
+DIAGNOSIS:
+A.  "Lesion right neck ? neurofibroma":  
+-  Favour spindle cell/pleomorphic lipoma (see Comment)
+-  Abutting resection margins.
+B.  "Right neck lesion":  Localised cutaneous neurofibroma.
+SUPPLEMENTARY REPORT:  (18.6.63)
+FISH Report, NANNUP HOSPITAL's Hospital, Department of ACUTECARE WARD.
+Reported by K Jurgensmeier	Validated by Dr K Wroblewski. 
+"FISH PROBE:
+MDM2/CEN12 (Zytovision).
+IGH(14q)/MAF(16q).
+D13S319/LAMP1(13q)(Abbott Molecular).
+FISH RESULTS:
+Nuc ish (MDM2,CEN12)x1-2 nuc ish (IGH, MAF,D13S319,LAMP1)x1-2. 
+Comment:
+Interphase FISH showed a normal signal pattern for MDM2, chromosome 13q (D13S319,LAMP1) and chromosome 16q (MAF).  There was no evidence of amplification of MDM2, or loss of 13q or 16q as detected by these probe sets.  Please correlate with other findings.
+Summary:
+MDM2 amplification negative, disomic chromosome 13q and 16q".  
+

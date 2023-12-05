@@ -1,0 +1,58 @@
+SPR no: 95A020125P
+MRN no: 9500201
+Site_name: CHERBOURG HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology Report95A02012 (95A020125P) Lutrick, ELLSWORTH
+HISTOPATHOLOGY REPORT
+MARYBOROUGH HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES: CRC, rectum, gallbladder, omentum, Rt colon.
+
+MACROSCOPIC:
+&quot;OMENTUM, RIGHT COLON, SPLEEN, GALLBLADDER, RECTUM, PERITONEAL DISEASE&quot;.
+Multiple specimens including
+anterior resection, right hemicolectomy, gallbladder, splenectomy, portion of omentum and multiple pieces of ?peritoneal/diaphragm tissue.
+- Anterior resection:
+Portion of rectum and sigmoid measuring 160mm in length and 60mm circumference proximally and 45mm distally.  Distal margin is 50mm inferior the anterior peritoneal reflection.  Mesocolon 90mm wide is present, and mesorectal fat up to 30 mm wide is attached radially.  A thin layer of peritoneal tissue up to 150x100mm is attached, with piece of  skin attached 50x25 mm, well away from the colon. The radial rectal circumferential margin is inked green. The colon mucosal surface is normal.  There are multiple firm nodules over the peritoneal surface of mesocolon down to the peritoneal reflection.
+(1  proximal margin; 2 distal margin anterior resection; 3,4 rectum/sigmoid; 5&amp;6  one composite section of rectum; 7 nodules mesocolon; 8  section of the skin)
+- Separate small bowel-colon specimen:
+Colon and attached small bowel with an apparent old anastomotic line. Small bowel is 120 mm in length, and colon 120mm in length.  Mesentery 60 mm wide is attached. At the area of anastomosis, there is a bulging of the mucosa overlying an firm round tumour mass that involves the mucosa and extends through bowel wall into fat, the mass measuring 30x30x25mm. The cut surface is firm and mucinous. (9  proximal distal surgical margin of right colon; 10  section of the anastomotic area; 11&amp;12  composite section of the nodule adjacent to the colon);
+- Spleen attached to the fibrofatty tissue.  Spleen measures 95x70x40mm.  Attached fatty tissue 150x110x30mm.  Sectioning of spleen does not show any definite tumour.  There are some irregular fibrotic areas over the surface of the spleen. (13-15  section of spleen)
+- Gallbladder, 10x30x40mm, with serosal multiple firm areas ?tumur.
+(16  section of margin of gallbladder; 17&amp;18  more section of gallbladder)
+- Omentum 130x100x60mm with multiple nodules. (19-21  section of the omentum)
+- Portion of ?diaphragm ?peritoneal/abdominal wall tissue 110x70x40.  It appears thickened with multiple nodules on the surface. (22-24 representative sections diaphragm).
+RS (M-24/SM km). Further: 25 3 mesenteric lymph nodes R bowel specimen; 26 3 mesocolic nodes.
+
+MICROSCOPIC:  Y Centner
+
+Sections show multiple peritoneal deposits of metastatic mucinous adenocarcinoma, some of which are invasive into subperitoneal tissue. The tumour has variable appearances (variable moderate and poorly differentiated areas), with overall grade 3, poorly differentiated, based on the worst areas. The previous and current MMRP immunostains would favour MSI stable mucinous carcinoma (considered high grade by WHO criteria).
+
+The carcinoma involves the peritoneal surface of the small and R large bowel, mesentery, peritoneal surface of L hemicolectomy, advantitial fat of gallbladder, peritoneal surface of spleen, multiple nodules in omentum, and involves other strips of peritoneal/diaphragm tissue. Carcinoma is present in peritoneal tissue deep to the skin excision. In the R hemicolon specimen carcinoma invades the bowel wall at the anasomosis site and forms a 30 mm diameter tumour mass that extends from the peritoneal surface through submucosa and extends focally to the partly eroded colon mucosal surface.
+
+- Lymphovascular invasion is not seen.
+
+- Lymph nodes:
+Sampled lymph nodes (4 L mesocolic, 3 R mesenteric): negative for tumour.
+Lymph nodes were difficult to locate in the specimens and few could be found.
+
+Assessment of treatment related tumour changes:
+Most of the deposits of carcinoma have viable tumour cells present without degenerative changes. There are some areas of low cellularity mucin are present but as the original colon carcinoma was mucinous carcinoma type, the mucinous features in the current specimen is related to tumour type and not a chemotherapy related change. Definite chemotherapy related regression changes are not identified.
+
+Immunostains for Mismatch Repair Proteins (MMRP), block 10:
+
+MLH1, PMS2, MSH2, MSH6:   Intact&#160;nuclear expression.
+
+Interpretation of MMRP Immunostains:
+- No loss of nuclear expression of MMR proteins.
+- Low probability of microsatellite instability-high (MSI-H).
+- Lynch syndrome very unlikely.
+- Note:  There are exceptions to the above Immunostain interpretations. These results should not be considered in isolation, and clinical correlation is recommended.
+
+DIAGNOSIS:
+OMENTUM, RIGHT COLON, SPLEEN, GALLBLADDER, RECTUM, PERITONEAL DISEASE
+- Multiple peritoneal deposits of metastatic variable moderate and poorly differentiated mucinous adenocarcinoma (overall grade G3, poorly differentiated, high grade, based on worst areas and MMRP results), consistent with origin from previous colonic tumour.
+- No definite chemotherapy related tumour regression changes (see above).
+
+cy

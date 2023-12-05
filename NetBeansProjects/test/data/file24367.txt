@@ -1,0 +1,87 @@
+SPR no: 12D872550L
+MRN no: 1218725
+Site_name: NYNGAN MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Distal cholangiocarcinoma undergoing whipples.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Whipples&amp;quot;, consists of a gastropancreatoduodenectomy specimen including distal stomach (30mm on lesser curvature length, 30mm on greater curvature length), segments of small bowel (190mm in length and 70mm in maximum circumference), pancreatic head 60 x 50 x 40mm, gallbladder (80 x 30 x 30mm) and fatty tissue attached to the anterior surface 30 x 20 x 20mm.  There is a small amount of mesenteric fat attached.  Also received is a separate segment of omentum, 300 x 100 x 5mm which appears unremarkable.
+The pancreas includes multiple sutures (not designated).  One suture is located on the portal vein groove, two sutures are located at the presumed SMA margin and three sutures are located at the presumed uncinate process.  The bile duct margin is inked blue, anterior and posterior surfaces are inked black, portal vein groove is inked blue, SMA margin inked red and uncinate process inked green.
+The specimen is serially sliced from superior to inferior into 11 horizontal slices.  On sectioning an ill defined solid firm lesion is identified in slices 3 to 5, measuring 29 x 28 x 27mm.  The lesion appears to abutt the posterior surface, SMA martgin, portal vein groove and extends into duodenal mucosa.  The lesion appears clear of the anterior surface by 2mm, pancreatic neck margin by at least 10mm, uncinate margin by at least 10mm and is 25mm from bile duct margin.
+The gastric mucosa appears unremarkable.  The small bowel mucosa appears unremarkable.  A metal stent is inserted within ampulla.  The gallbladder wall is 2 to 3mm in thickness.  The mucosa appears diffusely brown and velvety.  No gross lesion or stones are identified.  Shave of common hepatic duct taken for frozen section.
+Blocks: 1 - frozen section of common hepatic duct; 2 - RS omentum; 3 - proximal gastric margin; 4 - distal small bowel margin; 5 - second level of common hepatic duct; 6 - pancratic neck margin; 7 to 17 - entire pancreas serially embedded from superior to inferior, nick anterior; 18 to 20 - gallblader (18 - cystic duct and adjacent one lymph node; 19 - one TS neck and one LS fundus; 20 - TS body); 21 - possible lymph nodes of mesenteric fat; 22 - multiple lymph nodes at anterior surface adjacent to stomach; 23 &amp;amp; 24 - the remainder of fatty tissue around stomach/anterior surface; 25 - RS omentum; 26 - possible lymph nodes around hepatic duct.  (LN/rs 11/3/67)
+
+FROZEN SECTION REPORT:
+Normal.
+Phone results to Dr E Parsells by Dr E Lofing at 4:12pm on 6/1/17.
+
+
+MICROSCOPIC (Reported by Dr E Galas):
+Sections show moderately differentiated adenocarcinoma arising from the extrapancreatic and intrapancreatic common bile duct.  Tumour invades into adjacent pancreas, duodenal submucosa and peripancreatic soft tissue.  The features are as follows:
+
+Histological tumour type
+Ductal adenocarcinoma
+
+Histological grade
+Grade 2: Moderately differentiated (50% to 95% of tumour composed of glands)
+
+Microscopic tumour sites
+Common bile duct (extra and intrapancreatic)
+
+Extent of tumour invasion
+Pancreas
+Duodenal wall
+Peripancreatic soft tissues
+
+Maximum tumour diameter
+26mm
+
+Lymphovascular invasion
+Not identified
+
+Perineural invasion
+Present
+
+Perineural invasion of the superior mesenteric artery (uncinate) margin neural plexus
+Not identified
+
+Pre-invasive lesion
+Present - High grade dysplasia within common bile duct however, most epithelium denuded due to the presence of the stent.
+
+Margins:
+Pancreatic neck:
+- Well clear of invasive tumour.
+- PanIN1B and focal PanIN2 present
+Common hepatic duct:  Not involved.
+Portal vein (superior mesenteric vein):  2mm clear.
+Superior mesenteric artery:  9mm clear.
+Periuncinate soft tissue: 10mm clear.
+
+Surfaces:
+Anterior:  9mm clear.
+Posterior:  1mm clear.
+
+Lymph nodes:
+Number found:  25
+Number involved:  2
+
+Other pathologies:  Gallbladder shows chronic cholecystitis.
+
+PATHOLOGICAL STAGING (AJCC 7th Ed.)
+
+COMMON BILE DUCT
+T3 Tumour invades the gallbladder, pancreas, duodenum, or other adjacent organs without involvement of the celiac axis, or the superior mesenteric artery
+
+Regional lymph node category (pN)
+N1 Regional lymph node metastasis
+
+Distant metastasis category (pM)
+MX Not assessable by histology
+
+DIAGNOSIS:
+Whipple&amp;apos;s resection:
+- 26mm adenocarcinoma of the common bile duct
+- Margins appear clear
+- Two lymph nodes positive for metastatic adenocarcinoma
+- T3N1MX

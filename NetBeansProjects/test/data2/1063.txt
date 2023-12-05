@@ -1,0 +1,40 @@
+Episode No:  25X152412O
+2581524.EGO
+
+MENZIES, DOMINICK 
+Lab No:  25X15241
+Howard Gleason
+THE OAKS  New South Wales  5075
+Specimen: Tissue
+D.O.B:  4/7/1974
+Sex:  M
+Collected: 14/9/2062 at :
+Location:  3HR STAY SURGICALUNIT-WESTMEAD HOSPITAL
+DR Mellisa Lauryn DROTT
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Excision of right axillary mass ?metastatic SCC ?melanoma.  Further level 2 nodes sent.  (25X15241 - spindle cell malignancy). 
+MACROSCOPIC:
+A.  Specimen labelled "Right axillary mass" consists of an unorientated piece of skin, 120mm with underlying subcutaneous tissue to a depth of 155mm.  The skin appears unremarkable.  In the subcutaneous tissue, 17mm from the skin there is a well circumscribed and myxoidtan cream and partly haemorrhagic tumour, 135 x 78 x 46mm.  The tumour appears to abut the deep and focally the lateral margins and comes to within 3mm of the superficial margin.  Multiple nodes are identified in the surrounding fat from5 to 14mm. 
+Blocks:  1 - tumour to skin; 2 & 3 - tumour to deep margin; 4 to 9 - representative tumour to lateral margins; 10 - tumour to superficial margin; 11 - one node bisected; 12 to 14 - lymph nodes; 15 - tumour for Immunohistochemical stains; 16 - tumour for tumour banking.
+B.  Specimen labelled "Level 2 lymph nodes" consists of two pieces of fatty tissue, 20 and 70mm.  Multiple lymph nodes are identified from 3 to 28mm.  
+Blocks:  1 to 4 - lymph nodes; 5 & 6 - ?one fat replaced lymph node serially sectioned.  (TD/mm 15.9.62) 
+MICROSCOPIC:  (Reported by Dr F Akiereisen):
+A.  The tumour is an undifferentiated high grade pleomorphic sarcoma.  The cells are epithelioid and spindled within a myxoid background and there are numerous mitotic figures (up to 5/HPF).  The Ki67 is 50%. There is extensive necrosis - estimated to be >50%of the tumour. The tumour is well circumscribed with a thin fibrous pseudocapsule  and the tumour abuts the deep margin. The lateral margin appears clear by approximately 1mm and the other margins are well clear. 
+The cytokeratin markers (AE 1/3, CAM 5.2, PAN CK), melanoma markers (S100, HMB45, Melan A) and myoid markers (SMA, Desmin, Myogenin) are all negative. The C-kit shows patchy positivity and the CD34 is negative.
+FNCLCC system - Grade 3 - total score 8. 
+-  tumour differentiation - score 3.
+-  mitosis count - score 3.
+-  tumour necrosis - score 2. 
+B.  The sixteen (16) lymph nodes identified are negative for tumour. 
+DIAGNOSIS:  
+A.   Right axillary tumour:
+-     Undifferentiated high grade pleomorphic sarcoma (pleomorphic malignant fibrous
+      histiocytoma).
+-     Grade3 - FNCLCC system.
+-     Tumour abuts the deep margin and is 1mm from the lateral margin. 
+B.   Level 2 lymph nodes:
+-     Lymph nodes (x16) negative for tumour. 
+ 
+

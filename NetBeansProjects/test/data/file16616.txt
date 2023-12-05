@@ -1,0 +1,84 @@
+SPR no: 40O4821552
+MRN no: 4054821
+Site_name: KING EDWARD MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Low anterior resection.  Converted to APR.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;AP resection&amp;quot;, received opened, and consists of large bowel, rectum and anal canal measuring 220mm in length and variable circumference (60mm proximally, 40mm distally), with attached fat to a maximum width of 20mm.  The anterior peritoneal reflection is 100mm from the distal margin, and the dentate line is 30mm from the distal margin.  There is a possible defect in the perirectal fat over the left posterolateral aspect, 40 x 20mm (inked red).  The anterior resection margin is inked blue and posterior black.  Within the rectum is a polypoid tumour, 47 x 30 x 21mm.  The entire tumour is located 25mm below the anterior peritoneal reflection, 5mm above the dentate line and is 35mm clear of the distal margin.  On sectioning, no definite macroscopic invasion is identified.  Several polyps, up to 2mm, are seen in the mucosa.  Multiple lymph nodes are identified in the perirectal fat, up to 12mm.
+Blocks: 1 - LS proximal margin, with 2mm polyp; 2 &amp;amp; 3 - LS distal margin; 4 to 17 - tumour serially embedded from distal to proximal (6/7, 8/9, 10/11, 12/13, 14/15 - paired sections; 17 - polyp fragments detached on sectioning); 18 - apical lymph node; 19 to 28 - lymph nodes above peritoneal reflection (21, 22, 24, 27 - one lymph node in each block); 29 to 24 - lymph nodes below peritoneal reflection (30 &amp;amp; 34 - one lymph node in each block).
+
+B.  Specimen labelled &amp;quot;Short proximal, long lateral, double inside at 2 o&amp;apos;clock margin&amp;quot;, consists of a piece of fibroadipose tissue with orienting sutures.  The specimen is 50mm (proximal to distal) x 20mm (inner to outer) x 10mm (anterior to posterior).  The inside 2 o&amp;apos;clock margin is inked blue, opposite outside margin black and posterior red.  No discrete lesion is seen.  Serially embedded in 9 blocks from proximal to distal.  AE.   (TO: LN;LN/vo 3.12.66)
+
+
+MICROSCOPIC (Reported by Dr M Lapinski):
+A &amp;amp; B.  SYNOPTIC REPORT FOR COLORECTAL CARCINOMA
+Macroscopic Description
+
+Site of tumour:  Rectum, below anterior peritoneal reflection.
+Maximum tumour diameter:  47mm.
+Distance of tumour to nearer cut end:  35mm.
+Tumour perforation:  No
+
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT1	Limited to submucosa
+
+Tumour involvement of margins
+Cut ends:  Not involved
+Non-peritonealised circumferential margin:  Not involved
+Histological measurement from tumour to non-peritonealised margin:  8mm (A8).  The additional soft tissue submitted from the 2 o&amp;apos;clock margin (specimen B) shows no evidence of malignancy.
+
+Lymph nodes
+Number of lymph nodes present:	Thirty-six (36).
+Number of lymph nodes involved:	Nil (0).
+
+pN0	No regional LN metastasis
+
+Lymphovascular invasion
+Absent
+
+Perineural invasion
+Absent
+
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+
+Background abnormalities/other comments
+The invasive carcinoma arises from a tubulovillous adenoma.
+An incidental hyperplastic polyp in the colon is sampled.
+
+Residual tumour status
+R0	No residual tumour
+
+Response to neoadjuvant therapy
+Not applicable
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+Summary &amp;#8211; TNM 7th Edition
+pT1     pN0     pMX     R0
+
+
+DIAGNOSIS:
+A.  Abdominoperineal resection:
+-  Moderately differentiated adenocarcinoma of the rectum, pT1.
+-  Thirty-six negative lymph nodes (0/36).
+B.  Additional 2 o&amp;apos;clock margin:  No evidence of malignancy.

@@ -1,0 +1,139 @@
+SPR no: 22W238173D
+MRN no: 228238
+Site_name: BODDINGTON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSupplementary report 21/3/2067 Further IHC
+22W23817,22W23817 (22W238173D) KABUS, HARRIETTE RALEIGH
+HISTOPATHOLOGY REPORT:
+HISTORY: Endocervical adenocarcinoma cervix.   Peritoneal washing, uterus tubes and ovaries, left pelvic nodes, right pelvic glands, left uterine artery.
+
+Previous report: 22-82381731 SWAPS Pathology, from 6/3/67: Cervix biopsy
+MACROSCOPIC:
+A.  &amp;quot;LEFT AND RIGHT TUBES, OVARIES AND UTERUS&amp;quot;.  A total hysterectomy specimen of a total weight of 145g consists of uterus measuring 90x60x35mm with attached right fallopian tube 55x6mm, right ovary 30x15x10mm, left fallopian tube 35x8mm and left ovary 27x14x10mm.  The attached cervix measures 40mm superior to inferior x 45mm medial to lateral x 40mm anterior to posterior.  The external os is dilated 25x15mm with an exophytic tumour totally filling the external os.  Anterior cervical margin is inked blue.  The posterior is inked black.  The cut surface revealed a polypoid exophytic tumour arising from the anterior transition zone in the endocervical canal.  It measures 15x15x about 10mm.  The cut surface reveals the exophytic polypoid tumour with no definite invasion into the cervical wall.  This lesion is located 15mm of from the inferior resection margins and 14mm from the anterior deep paracervical margin, 18mm of posterior cervical resection margin, 15mm of right and 21mm of left parametrial resection margin.  No extension of the tumour into the uterine cavity.  The remainder endometrium is up to 3mm thick.  The myometrium is trabeculated and up to 17mm thick.  No other lesions are identified.  The cut surface of the ovaries and the right tube is unremarkable.  The cut surface of the left tube reveals a cyst with smooth inner lining that is filled with clear serous fluid.
+
+1  right tube to LS fimbrial end and one TS mid;  2  right ovary; 3  R parametrium; 4  left tube 2 LS fimbrial end with cyst and one TS mid; 5  left ovary; 6  left parametrium; 7  right TS isthmus; 8  left TS isthmus; 9  anterior body uterus; 10  posterior body uterus; 11  fundus
+12-23 cervix right to left; 12  LS right resection margin; 13&amp;amp;14  continuous sections with start of lesion [13  anterior, 14  posterior]; 15&amp;amp;16  continuous sections with lesion [15  anterior, 16  posterior]; 17-20  complete LS with lesion and endocervical canal [17&amp;amp;18  anterior, 19&amp;amp;20  posterior]; 21  anterior cervix; 22  posterior cervix; 23  left LS resection margin; refer to diagram
+
+B.  &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;.  Multiple fibrofatty pieces of tissue, measuring 45x35x15mm.  Multiple lymph nodes are identified, the largest measures 13x7x7mm with unremarkable cut surface.  The remainder nodes are 4-10mm. (1  largest node four TS; 2&amp;amp;3  each three lymph nodes; 4&amp;amp;5  each four lymph nodes).  RS (M-5/ZH/km).
+
+C.  &amp;quot;LEFT PELVIC LYMPH NODE&amp;quot;.  Multiple fibrofatty pieces of tissue measuring 35x30x13mm.  Multiple lymph nodes are identified.  Largest measures 16x10x5mm with unremarkable cut surface.  The remainder are 5-8mm. (1  largest lymph node four TS; 2&amp;amp;3  each five lymph nodes).
+
+D.  &amp;quot;LEFT UTERINE ARTERY&amp;quot;.  A brown tubular structure measuring 40 x 3 x 3 mm.  AE(1-1).
+
+MICROSCOPIC:  G Berlanga
+
+A-D. Sections of the visible nodular tumour show an invasive carcinoma with a predominant exophytic/polypoid growth pattern situated in distal endocervical/transformation zone tissue.  The carcinoma consists of solid sheets of large cells with variable eosinophilic and clear cell cytoplasm and in many areas shows well defined cell borders and areas of probable squamous differentiation, with angulated cell borders and a peripheral rim of intracytoplasmic eosinophilic material suggestive of keratin filaments. Frank keratinisation is not seen.  Glandular differentiation is not seen by light microscopy.  Occasional cells contain DPAS mucin vacuoles.  The appearances are consistent with moderately differentiated nonkeratinising squamous cell carcinoma with areas of clear cell change. The carcinoma abuts squamous mucosa of transformation zone in one section.  This carcinoma is predominantly exophytic and the depth of stromal invasion is very difficult to assess but is estimated at 1 mm to 1.5 mm (slides A17, A13, and A17 p16 immunostain).
+Adjacent to the carcinoma and extending proximally along the endocervical canal there is an abnormal endocervical glandular lesion with features of adenocarcinoma in situ (AIS) with variable patterns. There are areas of conventional type AIS and some areas showing intracytoplasmic mucin and partial squamoid features (AIS of adenosquamous type/stratified mucinous intraepithelial lesion).  The abnormal glandular lesion has a complex growth pattern in one area and focal irregularity at the epithelial-stromal interface consistent with early invasive adenocarcinoma (A17). The stromal invasion not measurable but is well less than 0.2 mm.   This is separate from the main polypoid carcinoma.  The focus of early invasive adenocarcinoma associated with the AIS is described in &amp;apos;other findings&amp;apos;, near end of microscopic.
+The squamous carcinoma has the following features:
+Macroscopic synopsis:
+Specimen/procedure: Total hysterectomy, bilateral tubes and ovaries, R and L pelvic nodes, L uterine artery
+Vaginal cuff: 3 mm diameter in areas
+Macroscopic tumour:  Present
+Number of visible tumours: One
+Position of tumour: anterior distal endocervix
+Tumour appearance: polypoid nodule
+Maximum dimensions of tumour (length x width): 15x15mm
+Macroscopic tumour thickness: approx 7 mm to 10 mm (height of polypoid nodule above mucosa), no stromal invasion seen macroscopically, cervical wall thickness in this area is about 15 mm
+Closest distance of tumour to margin, macroscopic: 15 mm (radial)
+Macroscopic involvement of vaginal cuff: no
+Macroscopic involvement of parametria: no
+Macroscopic involvement of paracervical tissues: no
+Macroscopic involvement of other organ/tissues: no
+Lymph nodes: Nodes macroscopically do not appear involved
+CERVICAL CANCER, HYSTERECTOMY, MICROSCOPIC
+Distribution of invasive component: Single tumour focus of squamous cell carcinoma. Separate focus of early invasive adenocarcinoma described towards end of microscopic.
+Histologic type: Squamous cell carcinoma, non-keratinising, with clear cell areas
+
+Differentiation/grade: moderately differentiated
+Maximum depth of invasion: 1 mm to 1.5 mm, estimate only, difficult to assess
+Cervical wall thickness in area of invasion:  14 mm
+Greatest horizontal (transverse) measure of carcinoma: 9 mm (three x 3 mm slices)
+Other horizontal (transverse) measure of carcinoma: 5 mm
+Lymphovascular invasion: Present, focal lymphatic invasion at tumour edge, supported with Immunostains for CD31 and D2-40
+Associated CIN/SIL: Absent
+Associated AIS: Present
+MARGINS:
+Invasive tumour:
+Inferior (vaginal or cervical) margin: Negative
+Distance of invasive tumour to this margin: &amp;gt; 10 mm
+Deep lateral/radial stromal margin:
+Negative
+Distance of invasive tumour to this margin: &amp;gt; 10 mm
+Margin status, CIN/SIL: Not applicable
+Margin status, AIS:
+Negative
+Distance of AIS to margins: &amp;gt; 10 mm
+INVOLVEMENT OF OTHER ORGANS/TISSUE:
+Vaginal cuff: Not involved
+Paracervical tissue: Not involved
+Parametrium:  Not involved
+Uterine body involvement: Not involved
+LYMPH NODES:
+Site: Right pelvic (B)
+Negative
+Lymph nodes examined: 13
+Lymph nodes positive: 0
+Site: Left pelvic (C)
+Negative
+Lymph nodes examined: 12
+Lymph nodes positive: 0
+Distant Metastasis confirmed pathologically: None
+Other organ comments:
+Uterus:
+- Ectocervix: focal atrophy changes, areas of erosion.
+- Endocervix: Apart from AIS there are areas of microglandular hyperplasia
+- Endometrium: inactive with minor cystic change
+- Myometrium: normal
+Adnexae:
+- Right fallopian tube: no lesions
+- Right ovary:  no lesions
+- Left fallopian tube: paratubual cyst, otherwise no lesions
+- Left ovary:  no lesions
+Ancillary tests:
+Immunohistochemistry block A17
+Other tumour block suitable for further testing: 21
+Immunostains, invasive squamous carcinoma:
+Keratin CK5/6:  Positive variable 1+ to 2+
+p16:  Strong diffuse positive staining (3+)
+p53:  Negative
+p63:  Focal areas of positive staining
+Ki-67 labelling:  High (approximately 80%)
+Immunostains, on the AIS:
+p16:  Strongly positive
+Ki-67 labelling:  High
+Other immunostains:
+CD31:  Stains a small focus of lymphovascular invasion
+D-240:  Stains two foci of lymphovascular invasion
+Other findings:
+The focus of early invasive adenocarcinoma (A17) associated with the AIS is separate from the larger squamous cell carcinoma. Stromal invasion is not measureable but is less than 0.2 mm. The focus is too small to grade but is not poorly differentiated. The focus of early invasive carcinoma is well clear of all margins. No lymphovascular invasion.
+Other specimens:
+D.  Left uterine artery: Sections show artery and vein cross sections with adjacent fatty connective tissue. No tumour.
+Provisional stage pre-MDT (FIGO 2014), (main tumour - squamous cell carcinoma):
+FIGO stage: IB1
+DIAGNOSIS:
+A.  LEFT AND RIGHT TUBES, OVARIES AND UTERUS:
+Cervix:
+Invasive squamous cell carcinoma, non-keratinising, with clear cell areas, distal endocervix/transformation zone;
+- Moderately differentiated
+- Depth of invasion 1 mm to 1.5 mm, estimate only, difficult to assess (through cervix wall thickness 14 mm)
+- Horizontal (transverse) measure of carcinoma: 9 mm x 5 mm
+- tumour predominantly exophytic (7 mm tumour thickness)
+- focal lymphovascular invasion present
+- margins negative
+- no SIL/CIN lesion
+
+Separate focus of early invasive adenocarcinoma, endocervix, depth of invasion not measureable but is less than 0.2 mm, margins negative.
+
+Adjacent area of endocervical adenocarcinoma in situ (AIS), margins negative.
+
+B.  RIGHT PELVIC LYMPH NODES: Nodes negative (0/13)
+
+C.  LEFT PELVIC LYMPH NODES: Negative(0/12)
+
+D.  LEFT UTERINE ARTERY: Negative for tumour
+
+Pending: Further Immunostains and other stains
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Supplementary report 21/3/2067 Further IHC
+Further IHC stains on the squamous cell carcinoma A17 show strong positive staining for CK7 and keratin 34BE12. CEA shows variable positive staining. Results supportive of diagnosis of squamous cell carcinoma. Above report unchanged.

@@ -1,0 +1,77 @@
+Episode No:  65M777726V
+654777.SGQ
+
+HUWE, JILLIAN CHARLINE 
+Lab No:  65M77772
+Valley Curve
+IPSWICH  NT  6171
+Specimen: Tissue
+D.O.B:  28/4/2003
+Sex:  F
+Collected: 13/5/2063 at :
+Location:  105 HAMRUN CIRCUIT-BABINDA HOSPITAL
+DR HOSEA OTHA BRANT-MCKEARNEY
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+
+ADDITIONAL REPORT:  (18.6.63)
+
+CLINICAL:
+IDC left nipple - (L) axilla sentinel node biopsy.  Central partial mastectomy + axilla clearance.  Short superior, long lateral.  
+MACROSCOPIC:
+A.  Specimen labelled "Sentinel node" consists of a piece of fatty tissue 30 x 10 x 20mm containing two lymph nodes.  Lymph node no 1 measures 15 x 10 x 7mm and lymph node no 2 measures 10 x 10 x 5mm.  Imprints done.  
+Blocks:  1- lymph node no 1; 2- lymph node no 2.  AE.
+IMPRINT CYTOLOGY REPORT:
+Two positive lymph nodes.
+Phone result to anaesthetist by Dr Q Loar at 16.15 on 11.03.13.
+B.  Specimen labelled "Left breast tissue, long lateral, short superior, medium medial" consists of a piece of fibrofatty tissue with nipple and areola complex.  It is orientated with two sutures, short for superior margin and long lateral margin.  The specimen measures 70mm (medial to lateral),50mm (superior to inferior) and 85mm (superficial to deep) margins.  The nipple and areola complex measure 50 x 35mm and appears unremarkable.  The specimen is inked superior margin blue, inferior margin black, deep margin green.  Thespecimen is serially sectioned from lateral to medial into eight slices.  Lateral margin slice no 1, medial margin slice no 8.  On sectioning and in slices 4, 5, 6 & 7 the skin of the areola appears thickened white and gritty.  This area has a maximum thickness of 10mm and appears to be 8mm from the superior margin and 10mm from the inferior margin.  No other lesions are identified.  .  Please see attached diagram.  Representative sections as follows:
+Blocks:  1 -representative section lateral margin (slice no 1); 2 to 4 - representative sections slice no 4; 5 to 13 - slice no 5; 14 to 21 - slice no 6; 22 & 23 - representative sections slice 7; 24 - representative section medial margin (slice no 8).
+C.  Specimen labelled "Left axilla level I" consists of an irregular piece of fatty tissue 70 x 70 x 20mm containing lymph nodes ranging from 5 to 15mm.
+Blocks:  1 - lymph nodes; 2 to 4- one bisected lymph node each; 5 & 6 - lymph nodes.  
+D.  Specimen labelled "Left axilla level II" consists of three irregular pieces of fatty tissue measuring in aggregate 40 x 25 x 20mm, it contains six lymph nodes ranging from 5 to 10mm.  AE 2 blocks.  (NY/mm 14.5.63)
+MICROSCOPIC (reported by Dr Q Perdue):
+A - D.  Sections show invasive ductal carcinoma of the nipple with pagetoid spread of tumour cells within nipple epidermis.  The features are as follows:  
+Invasive carcinoma:
+Site:  Left nipple
+Type:  Invasive ductal carcinoma.  (E-Cadherin positive). 
+Invasive tumour size: 15mm
+Grade (Modified Bloom & Richardson):  2
+Tubules:  3     Nuclei:  2     Mitoses:  2     Mitotic rate: 13/10hpf.
+Lymphovascular invasion:  Present.
+	
+DCIS component:  
+DCIS:  Absent.
+                                                                                         
+Excision Margins:  
+Invasive component:  8mm from medial, 10mm from inferior, all other margins well clear.
+In-situ component:  Not applicable
+Receptors (Block B5): 
+ER:  Positive
+	100% of nuclei stained
+	predominant intensity of staining:  Moderateto strong
+PR:   Positive
+	40% of nuclei stained
+	predominant intensity of staining:  Moderate to strong 
+HER2 (Novocastra 10A7):  Negative (score 0)
+Ki-67 index:  Approximately 20%
+Nipple:  There is pagetoid involvement of nipple skin.
+
+LCIS / ALH:  Absent.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2
+Number of sentinel lymph nodes involved by tumour:  2       
+Number of sentinel nodes with metastases >2.0mm:  1 
+Number of sentinel nodes with isolated tumour cells <0.2mm:  1     
+	Detected by:  Imprint only
+Extranodal spread:  Present
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  19
+Number of axillary lymph nodes involved by tumour:  0       
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  21 
+Total number of involved lymph nodes (including sentinel node(s)):  2 
+ADDITIONAL REPORT (18.6.63):
+HER2 IN SITU HYBRIDISATION reported by Dr Q Kurtenbach, THE PRINCE CHARLES HOSPITAL Hospital:
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 DNA ISH DNA Probe Cocktail Assay (Roche).
+HER2 Dual ISH result:	UNSATISFACTORY
+Unable to produce adequate signal with repeated SISH testing.  Please send specimen for FISH Her-2 testing.  
+

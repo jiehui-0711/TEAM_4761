@@ -1,0 +1,75 @@
+ 1181880.HXT
+ARREQUIN, BRAIN KRIS
+11W18802
+
+Last edited : 11/7/2063		Page: 2
+ADDITIONAL REPORT (11/7/63)
+
+CLINICAL:
+Seizures, left frontal lesion.  Pre-ops bls.
+Imaging (MRI 30/4/63): There  is  intra  axial  hyperintensity  within  the  left  frontal  lobe  anteromedially,  adjacent  to  the  falx  cerebri.    This  measures  3.6  x  2.2  cm  in  axial  dimensions  and  3.2  cm  in  craniocaudal  diameter.    There  is  ill-defined  heterogeneous  central  enhancement  within  this  region.    There  is  mild  midline  shift  to  the  right.
+MACROSCOPIC:
+A.  Specimen labelled "Left frontal lesion" consists of a 6mm piece of scalp tissue with one smear and majority of tissue for frozen section.  A small fragment in formalin.  
+Blocks: 1 - frozen section; 2 - rest of frozen section.  
+FROZEN SECTION REPORT:
+Low grade glial tumour and no high grade features are seen.  
+Result to Surgical registrar at 11.25 on the 1/3/13.
+B.  Specimen labelled "Left frontal lesion for frozen section" consists of a piece of tissue measuring 3mm in diameter.   AE for frozen section and smears. 
+Blocks: 1 - frozen section.   
+FROZEN SECTION REPORT:
+Low grade glial tumour and gliosis.  No high grade features as seen.  
+Result to Anaesthetist at 11.45 on 1/3/13. 
+ 
+C.  Specimen labelled "Left frontal lobe lesion" consists of multiple pieces of tissue and blood clot measuring in aggregate 50 x 30 x 15mm.   AE 1 block.
+(RI/ta 23/4/63) 
+  
+MICROSCOPIC (reported by Dr C Mcmutry):
+A to C. Sections show cortical tissue with an anaplastic oligodendroglioma (WHO grade 3). The lesion is composed of sheets of tumour cells with ovoid nuclei and perinuclear halos.  In some areas the lesion shows endothelial proliferation and nuclear atypia, with increased variation in nuclear size and hyperchromasia.  Microgemistocytes with eccentric nuclei and eosinophilic cytoplasm are seen (C5). Mitotic activity is focally increased up to 19 mitoses per 10 hpf (C5).
+
+
+Immunohistochemical stains: 
+GFAP: -vein tumour cells
+Ki67: focally up to 30 to 40%
+p53: focal staining 5% of tumour cells
+IDH1: +ve 
+
+Molecular tests: 
+Tissue will be sent to Dr MITCHEL HAMP, CLARE HOSPITAL Cancer Centre for MGMT methylation testing.
+Tissue will be sent to SIR CHARLES GAIRDNER HOSPITAL's Hospital, GREENWELL POINT, for 1p/19q and EGFR FISH.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block C5. 
+
+
+DIAGNOSIS:
+A TO C. LEFT FRONTAL LOBE LESION: 
+	ANAPLASTIC OLIGODENDROGLIOMA (WHO GRADE 3)
+	1p/19q AND EGFR FISH TO FOLLOW
+
+ADDITIONAL REPORT, 15/5/63:
+Sections were sent to BAMAGA HOSPITAL's Hospital, for 1p/19q and EGFR FISH, the results of which are as follows:
+"This case was analysed for1p/19q LOH using Vysis dual colour probe sets LSI 1p36/LSI 1q25 and LSI 19q13/19p13.  Cut-off values were adopted from Smith et al. 2000 (J Clin Oncol:18;636-645) who defined a 1p/1q ratio of <0.85 and a 19q/19p ratio of <0.9 as indicating LOH.  The case was also hybridised with Vysis LSI EGFR/Cep7 dual colour probe pair to assess whether amplification of EGFR was present.
+Chromosome 1
+Mean copies 1p per cell:  1.0
+Mean copies 1q per cell:  1.55
+1p/1q ratio:  0.65
+Interpretation: 1p loss detected
+Chromosome 19
+Mean copies 19q per cell:  1.7 
+Mean copies 19p per cell:  3.0
+19q/19p ratio:  0.57
+Interpretation: 19q loss detected
+EGFR: 
+Mean copies of EGFR per cell:  2.85
+Mean copies cep7 per cell:  2.85
+EGFR/cep7 ratio:  1.0
+Interpretation: No EGFR amplification present
+Conclusion:  Dual 1p/19q loss is present, consistent with oligodendroglial phenotype.
+Verified by Dr ISIAH ANDY SIPES."
+ADDITIONAL REPORT (11/7/63)
+
+Dr ORVAL HENIG, GOLD COAST UNIVERSITY HOSPITAL Cancer Research Centre reports:
+The DNA was bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation. 
+We found this sample to be methylated at the MGMT promoter region.
+This is a research only test in a laboratory that is not NATA approved and as such can only be used as a guide.
+

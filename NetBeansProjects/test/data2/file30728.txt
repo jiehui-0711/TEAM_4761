@@ -1,0 +1,90 @@
+SPR no: 80G437683C
+MRN no: 8024376
+Site_name: MOURA HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+93yo endometrioid adenocarcinoma.  Endometrium on hysteroscopy (grade 1).
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix, left tube and ovary&amp;quot;, received partly open and in formalin, consists of a uterus with attached cervix, left fallopian tube, and left ovary, weighing 60g in total.  The previous opening of the specimen is largely askew of the endometrial cavity, and specimen is significantly distorted.  The uterus measures 60 x 50 x 38mm.  The serosal surface has a patchy, grey/tan/haemorrhagic nodular appearance, with scattered roughened areas.  The ectocervix measures 22 x 20mm and is surrounded by a vaginal cuff measuring up to 22mm in width.  The ectocervix shows no significant abnormality.  The anterior cervical margin is inked blue and the posterior surface cervical margin inked black.  On sectioning, both the uterus and cervix appear widely involved by pale grey tumour which appears to undermine the serosal surface of the uterus and the inked surface of the cervix.  There is possible patchy involvement of the serosal surface.  Distinction between the endometrium and the underlying myometrium is challenging given the apparent extent of involvement by tumour.  The left fallopian tube, 42 x 7 x 6mm, and left ovary, 28 x 14 x 8mm, show no significant abnormality.
+Blocks: 1 to 3 and 4 to 6 - midline LS anterior uterus and cervix; 7 to 10 - midline LS posterior uterus and cervix; 11 - anterior uterus, ?serosal involvement; 12 - posterior uterus, ?serosal involvement; 13 - LS complete fimbrial end left fallopian tube, and mid TS; 14 - left ovary; 15 &amp;amp; 16 - further ectocervix.
+
+B.  Specimen labelled &amp;quot;Right tube and ovary&amp;quot;, consists of a fallopian tube, 38 x 7 x 6mm, and an ovary, 30 x 15 x 10mm.  The fallopian tube and ovary show no significant abnormality.
+Blocks: 1 - LS complete fimbrial end fallopian tube, and mid TS; 2 - ovary.
+
+C.  Specimen labelled &amp;quot;Right paracolic gutter&amp;quot;, consists of an irregularly-shaped piece of grey tissue, 20 x 14 x 3mm.   AE 1 block (sectioned).
+
+D.  Specimen labelled &amp;quot;Right anterior vaginal margin&amp;quot;, consists of an irregularly-shaped piece of grey tissue, 12 x 8 x 3mm.  TAE 1 block.
+
+E.  Specimen labelled &amp;quot;Left vaginal angle&amp;quot;, consists of an irregularly-shaped piece of grey tissue, 14 x 6 x 2mm.  AE 1 block.
+
+F.  Specimen labelled &amp;quot;Right obturator lymph node&amp;quot;, consists of fibroadipose tissue, 14 x 11 x 4mm, containing one 8mm lymph node.
+Blocks: 1 - single lymph node, bisected.
+
+G.  Specimen labelled &amp;quot;Left uterine artery&amp;quot;, consists of an irregularly shaped piece of grey tissue, 14 x 14 x 3mm.  An arterial lumen is not identified under dissecting microscope.  There is a possible 8mm lymph node within the specimen.  AE 1 block (quadrisected).
+
+H.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of omental tissue, 60 x 45 x 20mm.  The serosal surface is smooth and shiny.  On sectioning, no tumour or lymph nodes are identified.  RS 3 blocks.  (TO:JB/ta 26/10/65)
+
+
+MICROSCOPIC (Reported by Dr W Kinde):
+A.  Sections show grade 1endometrioid adenocarcinoma which essentially replaces the endometrium and endocervix.  The extent of the disease is such that the epicentre of the tumour cannot be determined.  A small amount of uninvolved ectocervix is present.   The carcinoma extends through the full thickness of the myometrium reaching 0.1mm from the serosal surface.  No definite tumour is seen on the serosal surface (Block A1).  The tumour invades endocervical- and ectocervical stroma reaching 4.5mm from the anterior vaginal cuff margin and 4.5mm from the posterior vaginal margin (A1 and A7) respectively.  Within the cervix the tumour  invades 20mm through a wall 23mm thick (block A7) while in the lower segment/uterine body it invades 20mm through a wall 20.6mm (block A8).  The tumour is composed of an admixture of endometrioid type glands lined by columnar cells with stratified elongated to round nuclei arranged in tubules or cribriform structures with patchy non-keratinising squamous differentiation (FIGO architecture grade1, nuclear grade 1, overall FIGO grade 1). This component shows variable mucinous differentiation with pathy intracytoplasmic apical mucin vacuoles as well intraluminal mucin.  A minor but significant portion of the tumour comprises smaller tubular/alveolar type mucinous glands  lined by cells with abundant intracytoplasmic mucin and peripheral displaced nuclei.  The two components are admixed and areas of  transition are also seen. Single cell differentiation is not seen.  The mucinous differentiation in both components is highlighted s on dPAS staining.  Focal surface hobnail-like morphology is also seen. There are foci of lymphovascular invasion (block A6) by tumour with mucinous features..  Perineural invasion is not identified. The ectocervical epithelium is completely denuded. The ectocervical epithelium is almost completely denuded; the residual epithelium does not show definite CIN.  The vaginal stratified squamous epithelium does not show evidence of VaIN.
+
+Immunohistochemistry:
+In the presence of positive and adequate controls the tumour cells stain as follows:
+Positive: P16, PAX8, CK7,
+Negative: CK20, CDX2, Vimentin (non-specific nuclear expression), Chromogranin, Synaptophysin.
+Non-contributory:  CEA (control negative).
+
+ER is positive  (&amp;gt;90% of cells show strong intensity expression, however there is no control an this will be repeated.
+
+
+Mismatch Repair Deficiency Protein Expression (MMRD) Status
+The tumour cells stain as follows
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+COMMENT 1:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+COMMENT 2:
+The features are those of an endometrioid adenocarcinoma with mucinous features and the PAX8 expression is consistent with a primary tumour. Some of the morphology features raise consideration of an endocervical rather than endometrial  primary. The epicentre of the tumour cannot be determined due to its extensive nature, replacing the endometrium and much of the cervix.  An in-situ component is also not identified.   The immunoprofile is conflicting;  the Vimentin negative, almost diffuse P16 expression is more typical of an endocervical primary while the strong diffuse ER (repeat stain pending) is more often seen in an endometrial primary.  Furthermore, this panel may not be reliable in distinguishing endometrial from endocervicial  origin as the tumour shows variant (mucinous) morphology and the panel is more reliable in tumours with classical morphology. Therefore an endometrial primary cannot be excluded.  Further correlation with the clinical features and previous pathology may be beneficial.
+
+Selected slides seen in consultation with Dr W Wei who concurs.
+
+B.  The right fallopian tube and ovary are unremarkable.  The ovary shows senescent changes only.  There is no evidence of malignancy.
+
+C.  Sections show fibroadipose and muscular tissue infiltrated by endometrioid adenocarcinoma showing similar features to that described above.
+
+D.  Sections show muscular tissue surfaced by stratified squamous non-keratinising epithelium.  There is no evidence of malignancy.
+
+E.  Sections show muscular tissue surfaced by stratified squamous non-keratinising epithelium. There is no evidence of malignancy.
+
+F.   One (1) lymph node contains a deposit of endometrioid adenocarcinoma with patchy squamous morular metaplasia measuring up to 3mm (1/1).  Extranodal extension is not seen.
+
+G.  Sections show fibrous tissue containing a large vessel with features more consistent with a vein.  A small artery is also present.  There is no evidence of malignancy.
+
+H.  Sections show mature adipose tissue with occasional lymphoid aggregates.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+A.   Uterus, cervix, left tube and ovary:
+-    Grade 1 endometrioid adenocarcinoma with mucinous features (? endometrial or endocervical primary) (see comment 2), invades outer half of myometrial and cervical stroma, lymphovascular invasion present, perineural invasion not seen, vaginal cuff margin 4.5mm clear, tumour extending close to serosal surface, preserved mismatch repair enzyme protein expression.
+B.   Right tube and ovary:
+-  No evidence of malignancy.
+C.   Right paracolic gutter:
+-  Endometrioid adenocarcinoma.
+D.   Right anterior vaginal margin:
+-  No evidence of malignancy.
+E.   Left vaginal angle:
+-  No evidence of malignancy.
+F.   Right obturator lymph node:
+-  Metastatic endometrioid adenocarcinoma in one of one lymph node (1/1).
+G.   Left uterine artery:
+- No evidence of malignancy.
+H.   Omental biopsy:
+-  No evidence of malignancy.

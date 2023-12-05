@@ -1,0 +1,82 @@
+SPR no: 49N105346H
+MRN no: 4951053
+Site_name: NARROMINE HOSPITAL & COMMUNITY HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Right mastectomy, stitch marks 12 o&amp;apos;clock.
+Right axillary dissection level 1.
+Right axillary dissection level 2.
+Additional clinical history proved by Dr PABLO BREAULT (Surgical Registrar) 5cm breast cancer at 10 o&amp;apos;clock.  Staging CT had vague uptake in axilla but there was no papable disease within the axilla.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right breast tissue stitch 12 o&amp;apos;clock, two additional tissue three residual breast&amp;quot;, consists of a right mastectomy with orientating suture marking 12 o&amp;apos;clock.  Additionally within the specimen container is an unorientated separate piece of tissue 110 x 60 x 20mm. The separate tissue is inked black and consists of fibrofatty tissue only on sectioning.  No definite breast tissue is identified.  The nipple has comedo like tissue coming from the nipple and the nipple is retracted.  Underlying the nipple and running towards 10 o&amp;apos;clock is a solid white tumour measuring 75mm medial to lateral x 60mm superior to inferior x 50mm superficial to deep.  The tumour is 30mm from the lateral margin and 45mm from the medial margin.  The tumour is diffusely pale white and solid.  The tumour is 6mm from the deep margin incontinuity with the nipple, 70mm from the superior and 12mm from the inferior margin. Within the axillary fat of the breast a single large lymph node is identified measuring up to 25mm.  This lymph node is 5mm from the superficial/ lateral margin and appears replaced by fat and solid white tumour.
+Blocks 1-5 - RS additional tissue within specimen container; 6 - central tumour with no margins for receptors; 7-11 - RLS to deep margin; 12 &amp;amp; 13 - closest inferior margin; 14 - additional inferior margin;  14 - additional inferior margin; 15 - RS superior margin; 16 - nipple block; 17 - upper inner quadrant; 18 - lower inner quadrant; 19 - lower outer quadrant; 20 - upper outer quadrant; 21-28 - axillary lymph node.  Please refer to attached block key for specimen A.
+
+B.  Specimen labelled &amp;quot;Right axillary dissection level one&amp;quot;, consists of an unorientated piece of fibrofatty tissue 130 x 75 x 35mm.  The external surface is inked blue.
+Blocks: 1 to 6 - multiple possible lymph nodes; 7 - single lymph node bisected; 8 - one lymph node serially sliced TS; 9 - one lymph node bisected; 10 to 12 - multiple possible lymph nodes; 13 - 12mm solid, white lymph node serially sectioned.
+
+C.  Specimen labelled &amp;quot;Axillary dissection level 2&amp;quot;, consists of an unorientated piece of fibrofatty tissue 55 x 30 x 10mm.  The external surface is inked blue.
+Blocks: 1 - multiple possible lymph nodes; 2 - single white, solid lymph node measuring 6mm bisected; 3 and 4 - multiple possible lymph nodes.  (TO:MS/vo/ec 1.9.66)
+
+
+MICROSCOPIC (Reported by Dr L Samuelsen):
+A to C.  Synoptic Report for Breast Carcinoma
+Invasive carcinoma:
+Site:  Right breast
+Type:  Invasive ductal carcinoma, NOS
+Invasive tumour size:  75mm
+Grade (Modified Bloom &amp;amp; Richardson):  3
+Tubules: 3     Nuclei: 2     Mitoses: 3     Mitotic rate: 19/10hpf.
+Lymphovascular invasion:  Present (extensive)
+
+DCIS component:
+DCIS:  Absent
+
+Excision Margins:
+Invasive component:  The invasive carcinoma focally extends to the deep margin (block A8 and A11).  The other margins are well clear (more than 10mm).
+
+In-situ component:  Not applicable
+
+Receptors (Block A6):
+ER:  Positive
+95% of nuclei stained
+predominant intensity of staining:  strong
+PR:  Positive
+90% of nuclei stained
+predominant intensity of staining:  strong
+HER2 (Novocastra 10A7):  Negative (0 staining)
+HER SISH:  Performed at 3/9 JENNIE COX CLOSE, WOOMERA HOSPITAL Hospital, see separate report.
+Ki-67 index:  25%
+
+Nipple:  The invasive carcinoma invades the dermis of nipple but the epidermis is not involved.
+
+LCIS / ALH:  Absent
+
+Miscellaneous:
+- The rest of specimen shows fibrocystic change.
+- Five (5) lymph nodes are identified in the specimen A (right breast tissue).  All 5 lymph nodes are involved by metastatic carcinoma.
+- Fifteen (15) lymph nodes are identified in the specimen B (right axillary dissection level one).  7 of 15 lymph nodes are involved by metastatic carcinoma.
+- Five (5) lymph nodes are identified in the specimen B (axillary dissection level 2).  All 5 lymph nodes are involved by metastatic carcinoma.
+- The carcinoma focally shows some lobular features.  E-cadherin stain is to follow and a supplementary report will be issued.
+
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  0
+
+Axillary/other nodes:
+Number of axillary lymph nodes examined:  25
+Number of axillary lymph nodes involved by tumour:  17
+Number of axillary nodes with metastases &amp;gt;2.0mm:  17
+Number of axillary nodes with metastases &amp;lt;2.0mm:  0
+Extranodal spread:  present (more than 3mm)
+
+Lymph node total:
+Total number of lymph nodes examined (including sentinel node(s)):  25
+Total number of involved lymph nodes (including sentinel node(s)):  17
+
+SUMMARY:
+A.  Right breast - Invasive ductal carcinoma.
+B &amp;amp; C.  Axillary lymph nodes - Metastatic carcinoma (17/25).
+SUPPLEMENTARY REPORT (30/11/2068):
+The tumour is positive for E-cadherin, in keeping with invasive ductal carcinoma, NOS.

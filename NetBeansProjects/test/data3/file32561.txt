@@ -1,0 +1,33 @@
+SPR no: 20T1674771
+MRN no: 20716747
+Site_name: MONASH MEDICAL CENTRE - CLAYTON CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Post breast cancer, prophylactic BSO.  Pelvic washings.  Endometrial curettings.  Right tube and ovary.  Left tube and ovary.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right fallopian tube and ovary&amp;quot;, consists of a fallopian tube 40mm in length x 7mm in diameter.  The ovary measures 33 x 23 x 15mm.  The ovary has a unilocular cyst 7mm in maximum dimension which is filled with haemorrhage and thin haemoserous fluid.  Otherwise the ovarian cut surface is unremarkable.  The fallopian tube and ovary are AE.
+Blocks: 1 and 2 - fallopian tube; 3 to 7 - ovary.
+
+B.  Specimen labelled &amp;quot;Left fallopian tube + ovary&amp;quot;, consists of a fallopian tube 50mm in length x 7mm in diameter.  The ovary measures 30 x 25 x 18mm.  The cut surface of the ovary has multiple unilocular cyst ranging from 3 to 18mm in maximum dimension.  The ovary and fallopian tube are AE.
+Blocks: 1 to 3 - fallopian tube; 4 to 8 - ovary.
+
+C.  Specimen labelled &amp;quot;Endometrial curettings&amp;quot;, consists of curettings 12 x 6 x 1mm.  AE 1 block.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of fibroadipose tissue, 75 x 40 x 10mm.  A distinct lesion is not identified on sectioning.  Representative sections in 3 blocks.
+(TO:JL/vo 22/2/66)
+
+
+MICROSCOPIC (Reported by Dr G Weatherall):
+A and B. Both fallopian tubes and ovaries have been entirely embedded.
+Sections of the fallopian tubes appear unremarkable. The ovaries shows focal endometriosis. There is no evidence of malignancy.
+C. Sections show weakly proliferative endometrium.  There is no evidence of endometritis, hyperplasia or malignancy.
+D. Sections of omental fat appear unremarkable. There is no evidence of malignancy.
+DIAGNOSIS:
+A and B. Right and left fallopian tubes and ovaries: no evidence of malignancy, focal endometriosis in ovaries
+
+C. Uterine curettings: weakly proliferative endometrium.
+
+D. Omentum: no evidence of malignancy

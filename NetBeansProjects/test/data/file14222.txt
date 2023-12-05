@@ -1,0 +1,20 @@
+SPR no: 50W141909Z
+MRN no: 50814190
+Site_name: DELEGATE MULTI PURPOSE SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left hip schwannoma (deep to fascia within muscle).  Two separate adjacent nodules.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;#8220;Schwannoma left hip&amp;#8221; consists of two pieces of irregular tan tissue.  The larger piece measures 38 x 28 x 26mm.  It has suture at one surface although no details regarding orientation provided.  The oriented surface is inked blue and the opposite surface is inked black.  The smaller piece measures 20 x 12 x 8mm and is inked blue.  The external surface of both appear congested and partially ragged.  The larger piece has yellow and pale cut surface with some haemorrhagic areas.  It appears to be surrounded by a thin capsule measuring 1mm in thickness.  The smaller piece has homogeneously pale cut surface.  No gross necrosis is identified.
+Blocks:  1 - the smaller piece in four pieces; 2 to 6 - representative sections of the larger piece including haemorrhagic areas.  RS in six blocks.  (TO: LN; LN/ua 11.4.66)
+
+
+MICROSCOPIC: (Reported by Dr O Metott)
+The 20mm and 38mm left hip lesions are schwannoma(s). The lesions are circumscribed and partially surrounded by a variably thick fibrous capsule. The tumours are variably cellular and are  composed of bland to plump spindled cells arranged in sheets and fascicles, with focal nuclear palisading, verocay body formation and focal hypocellular areas. There is admixed chronic inflammation and numerous thick walled vessels. There is patchy degenerative type nuclear Ancient change. No significant mitotic activity is seen. Immunohistochemistry confirms S100 and SOX-10 positivity with a ki-67 index of less than 2%. The tumours abut the diathermy surgical margins in areas.
+
+
+DIAGNOSIS:
+Left hip lesion: 20mm and 38mm schwannoma(s), present at diathermied margins.

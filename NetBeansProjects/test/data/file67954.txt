@@ -1,0 +1,51 @@
+SPR no: 58O048517Q
+MRN no: 58504851
+Site_name: GIPPSLAND SOUTHERN HEALTH SERVICE - LEONGATHA CAMPUS
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportADDITIONAL REPORT (29/6/71)
+
+CLINICAL:
+48F. L groin mass. Atypical spindle cell tumour? Short superior, long lateral. Reconstituting sutures. Deep + lateral margin.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Left mass groin stitch long lateral, short superior&amp;quot;, consists of an ellipse excision of skin, 105mm (superior to inferior) by 80mm (medial to lateral) by 43mm (superficial to deep). Two sutures are present as described. In addition, there is one smaller suture on the lateral aspect and two on the deep aspect, reconstituting the margin as described. Lateral inked blue, medial inked green and deep inked black. Specimen is sectioned from superior to inferior into six slices. In the centre of the excision is a tan circumscribed and gelatinous lesion, 55 x 45 x 43mm. The lesion is 13mm deep to the skin, 9mm from the medial margin and encased by a thin fibrous layer on the lateral aspect less than 1mm thick. There are no areas of necrosis within the lesion. Blocks: 1 &amp;amp; 2 - LS superior end; 3 - close tumour to skin; 4 - lateral margin; 5 &amp;amp; 6 - deep margin; 7 - medial margin; 8 - lateral margin; 9 &amp;amp; 10 - deep margin; 11 - medial margin; 12 &amp;amp; 13 - composite skin to tumour; 14 - central tumour; 15 &amp;amp; 16 - LS inferior end; 17 - reserve for Biobanking. Diagram available.
+B.  Specimen labelled &amp;quot;Lateral deep margin left mass groin stitch on the margin&amp;quot;, consists of a tan piece of tissue, 30 x 12 x 3mm. A suture is present on one side as described. Sutured side inked blue, opposite side inked black. Serially sectioned AE 3 blocks.  (TO:YL/ta 28/5/71)
+MICROSCOPIC (Reported by Dr N Captain):
+A. Sections show fibrous tissue and fat with a circumscribed atypical spindle cell lesion. The lesion is moderately cellular, and is composed of spindle shaped tumour cells with elongated, plump, hyperchromatic nuclei, within myxoid stroma. Thin walled vessels are seen in the background. Scattered  tumour cells with large pleomorphic nuclei are seen. Tumour cells with intracytoplasmic vacuoles displacing the nuclei and occasional mitoses are seen. No lymphovascular or perineural invasion is present.
+
+Positive staining is seen for EMA, CD34, and SMA. Patchy staining is seen for S100. Rare cells show positive staining for neurofilament. SOX10 (performed twice) is negative. PanCK, desmin, melan A, desmin, MUC4, CD99, GLUT1, TLE1, HMB45, stat-6 and c-kit are negative. INI-1 and H3K27me3 are retained. Ki67 index is approx. 1%.
+
+Margins:
+Lateral: 1mm (A9)
+Medial: 5mm (A11)
+Deep: positive over a 3mm front (A5)
+Other margins: &amp;gt; 10mm
+
+COMMENT
+The findings are of a low grade myxoid spindle cell lesion. There is positive staining for EMA and patchy staining for S100. A perineurioma is favoured over a neurofibroma or cellular angiofibroma. MDM2/DDIT3 FISH testing will be performed at KAPUNDA HOSPITALt&amp;apos;s Hospital, MURWILLUMBAH, to exclude myxoid liposarcoma and low grade dedifferentiated liposarcoma.
+
+The case will be sent to Prof DERRICK RIVINIUS, North Pathology, for external review.
+
+B. Sections show dense fibrous tissue with no evidence of malignancy.
+
+
+DIAGNOSIS:
+A. Left groin mass: low grade myxoid spindle cell lesion (see comment)
+B. Deep margin: no evidence of malignancy
+ADDITIONAL REPORT (17/6/71)
+MDM2 FISH showed no evidence of amplification (see attached report). DDIT3 FISH probe is no longer available at MUNGINDI HOSPITAL&amp;apos;s Hospital, ANNA BAY.
+
+The case also discussed with Prof JARROD ADIL. EWSR FISH is recommended to exclude myoepithelioma.
+
+Tissue will be sent to PORT AUGUSTA HOSPITAL Hospital for EWSR and DDIT3 FISH testing.
+
+
+ADDITIONAL REPORT (29/6/71)
+There is no evidence of EWSR or DDIT3 rearrangement to suggest myoepithelioma or myxoid liposarcoma.
+
+The case has been reviewed by Prof MILFORD WALSTRUM, Med Onc Pathology. The findings are of a low grade myxoid spindle cell lesion, and a cellular angiofibroma is favoured.
+
+
+FINAL DIAGNOSIS:
+A. Left groin mass: low grade myxoid spindle cell lesion, favour cellular angiofibroma
+B. Deep margin: no evidence of malignancy

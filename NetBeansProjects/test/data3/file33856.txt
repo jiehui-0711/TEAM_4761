@@ -1,0 +1,22 @@
+SPR no: 91A073768C
+MRN no: 10397248
+Site_name: Perth Children��s Hospital
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left gluteus maximus sarcoma. Previous Eilbar chemo/RT.
+Additional information:  Previous pathology (91A07376) - high grade pleomorphic sarcoma.
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left gluteal sarcoma, stitch 12 o&amp;apos;clock&amp;quot;, consists of a mass of fibroadipose tissue and skeletal muscle, with an overlying ellipse of skin, and a single orienting suture marking 12 o&amp;apos;clock.  The specimen measures 225mm from 12 o&amp;apos;clock to 6 o&amp;apos;clock, 170mm from 3 o&amp;apos;clock to 9 o&amp;apos;clock, and 120mm from superficial to deep.  The overlying ellipse of skin measures 204 x 33mm.  Towards the 12 o&amp;apos;clock aspect of the skin, there is an area of presumed ulceration, 6 x 5mm.  The 3 o&amp;apos;clock margin is inked blue and the 9 o&amp;apos;clock margin is inked black.  The specimen is sectioned transversely from 12 o&amp;apos;clock to 6 o&amp;apos;clock, revealing a well circumscribed tumour within the subcutaneous soft tissue.  The tumour is 20mm deep to the skin, and appears completely separate from the previously described area of ulceration on the skin surface.  The tumour is ovoid and appears completely encapsulated.  The tumour has pale grey/tan/haemorrhagic necrotic appearance with central areas of cystic degeneration.  No obvious viable tumour is identified.  The tumour is 5mm from the 3 o&amp;apos;clock margin, 8mm from the 9 o&amp;apos;clock margin, and 8mm from the deep margin.  The tumour is at least 50mm from the 12 o&amp;apos;clock margin and 40mm from the 6 o&amp;apos;clock margin.
+Block 1 - ulcerated area of skin; 2 &amp;amp; 3 - overlying skin; 4 - 12 o&amp;apos;clock skin margin; 5 &amp;amp; 6- 12 o&amp;apos;clock soft tissue margin; 7 - 6 o&amp;apos;clock skin margin; 8 &amp;amp; 9 - 6 o&amp;apos;clock soft tissue margins;
+10-12 - closest 3 o&amp;apos;clock margin; 13-15 - closest 9 o&amp;apos;clock margin; 16-18 - closest deep margin; 19 &amp;amp; 20 - tumour, ?viable; 21 - reserve block. (TO:JR/ec 27/2/67)
+
+
+MICROSCOPIC (Reported by Dr Y Starnold):
+Sections show a mainly necrotic mass consistent with previous chemoradiotherapy.  A 2mm focus of residual high grade sarcoma is seen within the mass.  The tumour cells are spindled in shape and show bizarre nuclear atypia.  This focus of residual high grade sarcoma is well clear of the resection margins.  In addition, the surrounding adipose tissue contains septae of atypical spindle cells with mild nuclear atypia with a myxoid stroma.  These cells are favoured to represent residual low grade sarcoma of fibromyxoid type however, radiation atypia cannot be totally excluded.  Low grade sarcoma extends to the 6 o&amp;apos;clock margin and comes to within 1mm of the 9 o&amp;apos;clock margin, 10mm from the 3 o&amp;apos;clock margin and is well clear of the 12 o&amp;apos;clock and deep margins.  Representative slides seen by Dr Y Murley.
+
+
+DIAGNOSIS:
+Left gluteus maximus:
+- Small focus of residual high grade pleomorphic sarcoma, margins well clear.
+- Low grade sarcoma, positive 6 o&amp;apos;clock margin.

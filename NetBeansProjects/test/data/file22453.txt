@@ -1,0 +1,34 @@
+SPR no: 35D835153W
+MRN no: 351835
+Site_name: BORDERTOWN MEMORIAL HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report35D83515,72H35536 (72H355363T) NALEVANKO, KANDRA LAKORA
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+Recurrent granulosis cell tumour.
+1. Peritoneal washings for Cytol.
+2. Pelvic peritoneum.
+3. Right pelvic side wall.
+
+MACROSCOPIC:
+A. &amp;quot;PELVIC PERITONEUM&amp;quot;. Consists of five fragments of fatty tissue, ranging in size from 5x3x2mm, up to 20x10x6mm.
+
+(1 largest piece, trisected; 2 remaining four pieces). AE (7-2)
+
+B. &amp;quot;RIGHT PELVIC SIDE WALL&amp;quot;. Consists of a piece of tan, fibrous tissue, measuring 40x9x5mm. Specimen is cut into 8 transverse sections and serially all embedded from one end to the other in Blocks B1&amp;amp;B2. AE (8-2/MY 12/6/2067 cy)
+
+MICROSCOPIC:   (Dr S Onstott)
+A. The sections show fragments of fatty tissue in which there are small nodules of tumour consisting of trabecular arrangements and sheets of cells with intervening fibrous tissue. The tumour cells show high nucleus to cytoplasm ratio with hyperchromatic nuclei that are ovoid with some showing nuclear grooves and nuclear membrane irregularity. Occasional mitotic figures are identified.
+Immunohistochemistry (Block A1): Inhibin is positive. Calretinin shows focal staining.
+B. The sections show diathermied fragments of fibrofatty tissue with smooth muscle and blood vessels. There is focal endosalpingiosis.
+DIAGNOSIS:
+A. PELVIC PERITONEUM
+- GRANULOSA CELL TUMOUR.
+
+B. RIGHT PELVIC SIDE WALL
+- FOCAL ENDOSALPINGIOSIS.
+
+12/7/2067 cy

@@ -1,0 +1,105 @@
+SPR no: 60M591711R
+MRN no: 604591
+Site_name: GLENSIDE CAMPUS
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report60M59171,60M59171 (60M591711R) Niss, Keenan
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+MMMT uterus. Uterus, tubes and ovaries. Omental biopsy.
+
+MACROSCOPIC:
+A. &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;. A uterus with attached cervix, bilateral ovaries and tubes. Uterus with attached cervix together weigh 104g and measures 85mm superior to inferior, 70mm intracornual distance. Anterior endometrium is 20mm, posterior endometrium is 22mm. The serosal surface anteriorly shows a raised nodule with a roughened surface measuring 15x15mm. At the fundal is a subserosal nodule measuring  up to 10mm in maximum dimension. On opening the specimen there is an exophytic tumour filling the uterine cavity measuring  42mm superior to inferior, 42mm left to right anteriorly up to a depth of 10mm out of the 15mm of the anterior myometrium. Posteriorly it is 12mm in depth out of 21mm of posterior endometrium. The cut surface is pink to yellow in areas and friable. At the lower uterine segment the lesion was up to less than 1mm from the serosal surface. Also noted is a calcified nodule at the fundal aspect measuring  6mm in maximum dimension. This is not sampled.
+
+(1 right parametrium; 2 left parametrium; 3 right cornu; 4 left cornu; 5-8 sagittal section anterior half [5 cervix; 6 lower uterine segment; 7 endometrium; 8 fundus]; 9 further sagittal section right anterior half; 10 further sagittal section left posterior half; 11-14 sagittal section posterior half [11 cervix; 12 lower uterine segment; 13 endometrium; 14 fundus including 10mm fundal nodule]; 15 further section right posterior half sagittal section; 16 further section left posterior half sagittal section).
+
+Right ovary and fallopian tube together weight 10g. Fallopian tube is 40mm in length with maximum diameter of 7mm. Ovary is 20x15x12mm. Ovarian serosal surface is smooth. Fallopian tube serosal surface shows multiple simple cysts ranging from less than 1mm to 5mm. They are filled with clear serous fluid. On sectioning through the ovary it has a firm normal appearing cut surface.
+
+(17 right fallopian tube; 18 right ovary).
+
+The left fallopian tube and ovary weigh 7.4g. Fallopian tube measures 35mm in length with maximum diameter of 8mm. There are multiple paratubal cysts ranging from 2-4mm. They are filled with clear serous fluid. The ovary measures 20x15x7mm. Serosal surface is smooth.
+
+(19 left fallopian tube; 20 left ovary). RS (M-20).
+
+B. &amp;quot;OMENTAL BIOPSY&amp;quot;. A piece of fatty tissue consistent with omentum on palpation it is firm. AE (1-1/MC/ht).
+
+MICROSCOPIC:     (Dr. R. Dierks)
+ENDOMETRIAL CARCINOMA:
+
+Tumour type:  Carcinosarcoma with homologous elements (MMMT)
+
+FIGO grade:  3
+
+(architecture grade:  3, nuclear grade:  3)
+
+Myometrial invasion:  Invasion through myometrium to serosa
+
+Depth of myometrial invasion:   15mm
+
+Myometrial thickness:   15mm
+
+% of myometrium invaded:   100%
+
+Focality:  Unifocal
+
+Tumour involves: Fundus, body, lower uterine segment, cervical stroma
+
+Vascular/lymphatic invasion:  Present
+
+Involvement of cervix:  Invasive of cervical stromal connective tissue
+
+Involvement of uterine serosa:  Serosal invasion present
+
+Excision margins:  Clear of tumour
+
+Non-tumour uterus:
+Adjacent endometrium:  Atrophic
+Polyps:  Not seen
+Adenomyosis:  Not seen
+
+Adnexae:
+Left fallopian tube:  No significant abnormality
+Right fallopian tube:  No significant abnormality
+Left ovary: No significant abnormality
+Right ovary:  No significant abnormality
+
+Lymph nodes:  Not submitted
+
+Comment: Immunoperoxidase staining of the tumour cells shows positive staining with Cam5.2, AE1/AE3 (the epithelial component &amp;gt;sarcomatoid component) and p53.  Desmin stains entrapped myometrium.
+
+Other tissues:
+B.  Omentum - Focal mesothelial hyperplasia.  No tumour seen.
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT3a, pNx, pMx
+
+FIGO stage: III A
+
+DIAGNOSIS:
+UTERUS : CARCINOSARCOMA WITH HOMOLOGOUS ELEMENTS.
+
+LEFT AND RIGHT FALLOPIAN TUBES : NO SIGNIFICANT ABNORMALITY.
+
+LEFT AND RIGHT OVARIES : NO SIGNIFICANT ABNORMALITY.
+
+OMENTUM : NO TUMOUR SEEN.
+
+16/11/2064 ank
+
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (Orana MORAWA HOSPITAL; block: A9)
+
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE
+
+Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair enzyme.
+
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpreted in conjunction with other investigation, including MSI testing where possible.

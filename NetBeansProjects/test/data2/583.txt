@@ -1,0 +1,63 @@
+
+Episode No:  97Z786665F
+9797866.ROF
+
+Katis, Linda 
+Lab No:  97Z78666
+Langner
+PORTLAND  SA  2582
+Specimen: Tissue
+D.O.B:  18/6/1989
+Sex:  M
+Collected: 14/4/2063 at :
+Location:  INTENSIVE CARE UNIT
+DR Randall Joaquin Waren
+Distribution:   FILE-COPY
+
+ADDITIONAL REPORT:  (5.6.63)
+
+AMENDED REPORT (27.4.63)
+
+The following report replaces the originally issued report. In the original report it was stated that no lymph nodes were identified in the perithymic adipose tissue.  This was written in error.  There were in fact two negative lymph nodes.  The diagnosis remains unchanged.  The report has been corrected and is as follows:
+CLINICAL:
+Anterior mediastinal tumour, 
+?thymoma.  Anterior mediastinal tumour lymph node (left phrenic nerve).
+
+Further information from Dr Busie:
+Intraoperatively the mediastinal tumour appeared circumscribed with no apparent attachment to neighbouring structures including the pericardium.
+MACROSCOPIC:
+Specimen labelled "Mediastinal tumour" consists of a unoriented piece of encapsulated firm tan tissue measuring 75 x 60 x 40mm with loosely attached fat measuring 80 x 50mm with a separate portion of fat attached included measuring 70 x 60mm.  The specimen weighs 132.7g. The external surface of the specimen is inked blue.  On sectioning the tissue reveals a variegated surface with pink fleshy areas and areas which appear haemorrhagic.  The external surface is nodular but appears covered by a variably well defined capsule.  The tumour appears to abut the surgical margin focally.
+Blocks:  1 to 4 - composite sets and represent a full thickness section through the centre of the tumour; 5 to 10 - representative section of tumour; 11 - six possible lymph nodes; 12 - ?  possible lymph nodes in loosely attached fat; 13 - one possible lymph node in loosely attached fat; 14 to19 further representative sections of tumour with capsule  (14 & 15, 16 & 17, 18 & 19 - composites); 20 to 23 - further representative section of tumour including  margins.. 
+B.  Specimen labelled "Mediastinal lymph node" consists of a lymph node measuring 25 x 15mm.  Specimen is longitudinally bisected and AE 2 blocks.
+(TT/bl 15/4/63)
+MICROSCOPIC (Reported by Dr Z Ravo):
+A.  Sections show the75mm tumour is a microinvasive thymoma which is difficult to morphologically sub-classify.   The mostly encapsulated tumour shows some organotypical features with angulated, mostly acellular, fibrous bands separating large lobules and sheets of tumour cells and there are some perivascular spaces.  Much of the tumour has a WHO type A morphology and comprises relatively bland spindle cells arranged in sheets, trabeculae with some micro-glandular/micro-cystic areas. Pericellular reticulin is demonstrated in these areas.  Round to polygonal epithelioid cells arranged in rosette-like structures are also present and compatible with type A morphology.  Alesser but significant component displays micronodular thymoma with lymphoid stroma features with interconnected  nests of bland epithelioid cells and scant admixed lymphocytes separated by lymphoid rich stroma containing scattered lymphoidfollicles but no admixed epithelial cells.  There are multiple foci of definite capsular invasion (eg. Block A5, block A19) into adjacent mediastinal adipose tissue/thymic adipose tissue and no neighbouring mediastinal structures are present.  The invasive foci are predominately smooth contoured nodules with a micronodular thymoma and lymphoid rich stroma appearance. However, in some areas, the type A areas transitions to a minor component, including extracapsular tumour, that shows a sheet-like arrangement of spindled to polygonal with at least mild atypia including irregular grooved nuclei, vesicular chromatin, conspicuous nucleoli and easily identified tumour cell mitoses (numbering up to 5 /10 HPF) (Block A10).  Focal lymphovascular invasion is present within the capsule of the tumour (Block A9).  No perineural invasion is seen.  The invasive tumour focally reaches the inked surgical resection margin (Block A 21, Block A6) and these areas show micronodular thymoma with lymphoid stroma morphology.  The capsule of the tumour also forms the margin of resection across a broad front.   No evidence of thymic carcinoma is seen.  No lymph nodes are identified in the loosely attached adipose tissue, however, a separate nodule of type A thymoma is present,  presumably microinvasive tumour,  is present here (Block A11). Two lymph nodes, present in theperithymic adipose tissue, show reactive sinus histiocytosis but no evidence of malignancy.
+Immunohistochemistry
+Immunohistochemical stains confirm that the type A areas show relatively sparse mature CD3 and CD5 positive T lymphocytes with no immature T lymphocytes (CD1a, CD99 and TdT negative) and scattered CD20 positive B cells.  Scattered dendritic cells, including Langerhans cells (CD1a andS100 positive) are also present.  The micronodular thymoma with lymphoid stroma areas show restricted keratin (AE1/AE3) expression within the epithelial areas and  no keratin positive cells within the intervening lymphoid stroma. The lymphoid stroma predominantly comprises mixed mature T cells (CD3 and CD5 positive) and CD20 positive B cells.  There is also an admixed immature T cells (CD1a, TdT and CD99) component which show accentuated distribution around the peripheral aspects of the epithelial nests.  The Ki-67 proliferation index is low within the bland type A spindle cells areas and  significantly higher within areas showing nuclear atypia (Block A10).  The CD117 stains scattered cells within the epithelial component, possibly admixed mast cells, however, no sheet like pattern of positive staining is seen.  The CD5 stain appears to correspond to the CD3 stain, highlighting T cells, without obvious CD5 expression within the epithelial cells.
+
+COMMENT:
+The invasive thymoma is difficult to subclassify.  The tumour shows definite WHO type A areas and separate micronodular thymoma with lymphoid stroma areas. By definition these subtypes lack nuclear atypia.  However, the type A tumour appears to transition to foci showing at least mild nuclear atypia and tumour cell mitoses. These areas don't quite correspond to typical B3 morphology of the WHO classification, as there are no squamoid features or raisinoid nuclear morphology.  I am not sure if these foci represent the WHO spindle cell variant of B3 subtype.  According to the Suster Moran classification of thymomas, which divides thymomas into well differentiated, moderately differentiated and poorly differentiated grading categories, and in which the poorly differentiated subtype corresponds to thymic carcinoma, the presence of cellular atypia and mitoses in this tumour warrants classification as a moderately differentiated thymoma (atypical thymoma).   I will seek a second opinion from Prof. Z. Werblow at MOUNT PLEASANT HOSPITAL Hospital and a supplementaryreport will be issued.   
+B.  Sections show one (1) lymph node with reactive sinus histiocytosis and anthrasilicosis.  No evidence of metastatic tumour seen. 
+DIAGNOSIS:
+A & B:  Mediastinal tumour and mediastinal lymph node:
+-  Microinvasive thymoma, difficult to subclassify (see comment).
+-  WHO Classification:  Mixed type A and micronodular thymoma with lymphoid stroma morphology plus minor component with cellular atypia (? B3)
+-  Focal lymphovascular invasion.
+-  Focal positive surgical margins.
+-  Two (2) negative perithymic lymph nodes.
+-  One (1) negative anterior mediastinal lymph node.
+ 
+A second opinion is being sought from Prof. Z. Muraoka at WEST WIMMERA HEALTH SERVICE - NHILL Hospital and a supplementary report will be issued.
+
+ADDITIONAL REPORT:  (5.6.63)
+Report from COLLARENEBRI MULTI PURPOSE SERVICE Hospital:
+Reported by:  A/Prof V. Ottilie Rogstad. 
+MICROSCOPIC REPORT:
+I agree with your diagnosis of a thymoma with numerous foci of microscopic capsular invasion.  Subclassifing thymomas is somewhat subjective and some cases don't fit neatly into different diagnostic categories.  I favour this tumour being a type A thvmoma (with areas of micronodular thvmoma with a lvmphoid stroma).  Although there are occasional mitoses in areas, the morphology is still similar to other areas and in my opinion, no convincing areas of type B3 thymoma are seen.  The significance of the focally increased mitotic activity and Ki-67 proliferative index is uncertain.
+There is no thymic carcinoma present.
+SUMMARY
+Mediastinal tumour: MICROINVASIVE THYMOMA, Please see report.
+
+
+
+

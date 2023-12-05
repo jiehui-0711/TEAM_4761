@@ -1,0 +1,110 @@
+SPR no: 46G988616I
+MRN no: 46298861
+Site_name: COBAR DISTRICT HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+56 female lower oesophageal Ca - previous endoscopic biopsies showing high grade dysplasia CT showing oesophageal thickening.  Ivor Lewis - lymph nodes for histopathology + hiatal and sub carinal nodes excised separately.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Oesophagogastrectomy , consists of a segment of oesophagus (65mm length x 29mm diameter), proximal stomach (78 x 65 x 55mm), perioesophageal/lesser omental fibroadipose tissue (up to 60mm in width), and greater omentum (up to 55mm in width).  The proximal margin is inked black and the distal margin is inked blue.  The perioesophageal fibroadipose tissue is inked red.  The oesophageal and gastric mucosa shows no significant abnormality.  Within the perioesophageal/lesser omental fibroadipose tissue, there is a cluster of multiple (?five) lymph nodes apparently involved by tumour.  No tumour is identified within the fibroadipose tissue between this lymph node cluster and the gastric wall.  Further lymph nodes are identified within the perioesophageal/lesser omental fibroadipose tissue.  No lymph nodes are identified within the greater omentum.
+Blocks: 1 to 17 - LS complete gastro-oesophageal junction (1 to 3 and 15 to 17 - closest distal margin to gastro-oesophageal junction); 18 &amp;amp; 19 - LS proximal margin; 20 &amp;amp; 21 - LS distal margin; 22 to 27 - four TS of involved lymph node cluster (24 &amp;amp; 25, 26 &amp;amp; 27 - paired blocks); 28 to 30 - lymph nodes as seen; 31 - single lymph node, sectioned; 32 - single haemorrhagic lymph node, bisected; 33 - lymph nodes as seen; 34 to 36 - single haemorrhagic lymph node, sectioned.
+
+B.  Specimen labelled &amp;quot;?Hiatus lymph node&amp;quot;, consists of fibroadipose tissue, 15 x 10 x 4mm.  There is a possible 1 to 2mm lymph node.  AE 1 block.
+
+C.  Specimen labelled &amp;quot;Subcarinal lymph node&amp;quot;, consists of a irregularly shaped piece of dark grey and haemorrhagic tissue, 38 x 15 x 8mm.  On sectioning, lymph node parenchyma is identified.  No tumour deposits are seen.  AE 3 blocks.
+(TO:JB/vo/ta 24/7/69)
+
+
+MICROSCOPIC (Reported by Dr L Litchard):
+A.  Sections show a well differentiated adenocarcinoma of the gastro-oesophageal junction. The tumour measures approximately 50mm across and extends through muscularis propria into adventitial adipose tissue.  The closest circumferential margin is approximately 1mm clear.  Eight (8) lymph nodes are identified which show metastatic adenocarcinoma, six of which are present in the perioesophageal lymph node cluster described macroscopically.  See below for further features.
+
+B.  The single (1) lymph node shows no significant abnormality.  There is no evidence of malignancy.
+
+C.  The single (1) lymph node shows no significant abnormality.  There is no evidence of malignancy.
+
+The overall features are as follows:
+Tumour location
+Gastro-oesophageal junction
+
+Histologic type
+Adenocarcinoma
+
+Histologic grade
+Grade 1 Well differentiated (greater than 95% of tumour composed of glands)
+
+Pattern of growth
+Infiltrating
+
+Maximum tumour dimension
+Approximately 50mm (involving 11 tissue blocks).
+
+Depth of invasion
+(T3)  Adventitial connective tissue
+
+Peritoneal involvement
+Absent
+
+Pleural involvement
+Absent
+
+Lymphatic and capillary space invasion
+Absent
+
+Vein and artery space invasion
+Present
+
+Perineural invasion
+Present
+
+Tumour budding
+Present
+
+SURGICAL MARGIN STATUS
+Distance of carcinoma to proximal margin:  At least 30mm
+
+Distance of carcinoma to distal margin:  Well clear.
+
+Distance of carcinoma to radial/circumferential margin:  Approximately 1mm
+
+LYMPH NODE STATUS
+Main resection specimen
+Number of lymph nodes identified: 38
+Number of positive lymph nodes:  8
+
+Separately labelled specimen(s)
+Hiatus lymph node (specimen B)
+Number of lymph nodes identified: 1
+Number of positive lymph nodes:  0
+
+Subcarinal lymph node (Specimen C)
+Number of lymph nodes identified: 1
+Number of positive lymph nodes: 0
+
+N3    Metastasis in seven or more regional lymph nodes
+
+Other pathologies
+Barrett mucosa/intestinal metaplasia.
+Glandular dysplasia:  Present, high grade.
+Gastritis:  Absent.
+
+Distance of intestinal/metaplasia and dysplasia to closest margin:
+Well clear (at least 30mm from proximal margin)
+
+Her2:  Negative
+
+Immunoperoxidase stains for MSI proteins (Block A13)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+SUMMARY:
+A - C.  Oesophagogastrectomy, hiatus and subcarinal lymph nodes:
+- Well differentiated adenocarcinoma of gastro-oesophageal junction.
+- pT3     N3     MX
+- Margins clear

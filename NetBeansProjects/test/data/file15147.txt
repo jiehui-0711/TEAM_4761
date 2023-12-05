@@ -1,0 +1,98 @@
+DateOfBirth
+20061021
+
+
+SiteName
+THE MORNINGTON CENTRE
+
+
+FirstName
+Decaire
+
+
+SPRID
+42X833899G
+
+
+MRN
+4298338
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+REGINALD
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+CLINICAL:
+Previous likely very early peritoneal cancer.  Now rising Ca 125.  Washings from diagnostic laparoscopy with low grade serous.  Possible early peritoneal cancer 2058.  TAH fibroid uterus.  BSO 2058.  2 x LSCS.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Omentum nodule&amp;quot; consists of a piece of fatty tissue measuring 25 x 10 x 5mm.   AE for frozen section.
+Blocks: 1 &amp;amp; 2 &amp;#8211; frozen section.
+Adenocarcinoma consistent with serous carcinoma.
+
+FROZEN SECTION REPORT:
+Result to Dr Yanofsky by Dr M Azar and Dr M Hedley at 17:05 on 16/7/14.
+
+B.  Specimen labelled &amp;quot;Small bowel mesentery&amp;quot; consists of a piece of tan tissue measuring 8 x 5 x 4mm.  AE for frozen section in 1 block.
+
+FROZEN SECTION REPORT:
+Adenocarcinoma consistent with serous carcinoma.
+Result to Dr Sheffield by Dr M Blankinship and Dr M Pihlaja at 17:05 on 16/7/14.
+
+C.  Specimen labelled &amp;quot;Peritoneal adhesion&amp;quot; consists of a 5mm biopsy.   AE 1 block.
+
+D.  Specimen labelled &amp;quot;Liver biopsy&amp;quot; consists of four fragments of core biopsy measuring 5 to 10mm.   AE 1 block.
+
+E.  Specimen labelled &amp;quot;Falciform ligament&amp;quot; consists of a piece of fatty tissue measuring 55 x 40 x 20mm with a nodular and friable area measuring 20 x 10mm.
+Blocks: 1 to 3 &amp;#8211; nodular and friable area AE; 4 &amp;#8211; other areas.
+
+F.  Specimen labelled &amp;quot;Omentum&amp;quot; consists of a large piece of omentum measuring 350 x 150 x 40mm.  On sectioning there are small white fibrous areas, however no discrete mass is identified.  Representative sections in 15 blocks.   (PG/ta 19/9/64)
+
+
+MICROSCOPIC (Reported by Dr M Lueder):
+The previous report 42X83389 is noted with interest.
+
+A &amp;amp; F.  Sections show low grade / well differentiated serous carcinoma extensively involving the omentum.  The tumour has a predominant micropapillary pattern and is associated with scattered psammoma bodies and desmoplasia, and displays  haphazard infiltrative growth.  Moderate nuclear atypia is noted.
+
+B, C &amp;amp; E.  Sections show smaller foci of low grade / well differentiated serous carcinoma.
+
+D.  Sections show a fatty liver.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+Low grade / well differentiated serous carcinoma of peritoneal origin extensively involving the omentum, and also involving the small bowel mesentery, peritoneum and falciform ligament.
+
+
+ADDITIONAL REPORT 26/9/64:
+The tumour is strongly and diffusely positive for ER and focally positive for PR.
+
+
+
+
+
+
+SpecimenReceivedDate
+2457-01-23 00:00:00
+
+
+LastName
+Pallett

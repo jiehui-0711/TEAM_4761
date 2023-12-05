@@ -1,0 +1,33 @@
+SPR no: 55D951602B
+MRN no: 5519516
+Site_name: ARMADALE KELMSCOTT MEMORIAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+TAH BSO.  Recurrent 6 x 4cm cyst after laparoscopic ovarian cystectomy in 2066 (borderline left ovarian tumour).
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, bilateral tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries weighing 130g in total.  There is a left sided adnexal mass, 75 x 45 x 25mm, adherent to the uterus.  This mass has a defect on the lateral aspect, 40 x 25mm.  The uterus measures 88 x 45 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 44 x 35mm and shows no significant pathology.  On sectioning of the left sided mass, the cut surface is multicystic.  The cyst lining is smooth apart from a minor tan papilliform region (approximately 10% of the cyst lining).  The left sided mass is partly adherent to the lateral aspect of the uterus.  The endometrium measures 1 to 2mm in thickness and the myometrium up to 20mm in thickness.  There are possible foci of adenomyosis.  There is an IUD within the endometrial cavity.  The right ovary, 30 x 18 x 15mm, shows no significant abnormality.  The right fallopian tube is not definitively identified.
+Blocks: 1 - frozen section one (papilliform area left uterine mass); 2 - frozen section two (papilliform area left uterine mass); 3 to 6 - midline LS posterior uterus and cervix (6 - possible adenomyosis); 7 &amp;amp; 8 - left posteriolateral uterus in continuity with left uterine mass; 9 to 12 - midline LS anterior uterus and cervix; 13 - left anteriolateral uterus in continuity with left uterine mass; 14 to 18 - left uterine mass; 19 - right ovary; 20 - ?right fallopian tube/adnexal tissue.
+
+(Specimen re-examined: The fallopian tubes are not identified. HM  9/8/2067)
+
+
+
+FROZEN SECTION REPORT:
+Mucinous cystadenoma.
+Phone results to Dr Rudolf SINIBALDI by Dr N Rorer at 13:52 on 3/7/17.
+(TO:JB/rs 9/6/67)
+
+
+MICROSCOPIC (Reported by Dr N Napihaa and registrar Dr N Mechler):
+Sections of the left ovary show a multicystic tumour lined by intestinal type epithelium. Most of the epithelium is a single layer with relatively bland morphology; however there are foci of stratified epithelium and/or increased cytological atypia in more than 10% of the tumour. On immunohistochemistry CK7 is diffusely positive and CK20 shows patchy positivity. The features are consistent with a mucinous borderline tumour (atypical proliferative mucinous tumour).
+The tumour is partly adherent to the myometrium without stromal reaction or other evidence of invasion.  Frank stromal invasion is not identified.   Sections of cervix include the transformation zone and show no significant abnormality. The myometrium shows numerous foci of adenomyosis.  The endometrium is inactive with areas of stromal decidualisation, consistent with progestational effect.  There is no evidence of endometritis or endometrial hyperplasia.  The right ovary and cervix show no significant abnormality.  The fallopian tubes are not identified.
+
+DIAGNOSIS:
+Uterus and ovaries:
+-  Borderline mucinous tumour of the left ovary
+-  Adenomyosis
+-  Inactive endometrium with progestational effect
+Representative slides shown to Dr N Manocchio who concurs with the diagnosis.

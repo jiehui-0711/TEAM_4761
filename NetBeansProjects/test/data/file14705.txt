@@ -1,0 +1,46 @@
+SPR no: 25K164811X
+MRN no: 254164
+Site_name: GRENFELL MULTI PURPOSE SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+62F.  Grade 1 endometrial cancer.  Mirena in situ.  Bilateral pelvic lymph nodes.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, tubes, ovaries&amp;quot;, specimen received fresh, opened and normal endometrium and tumour taken for study by Dr H Gulston on 18/11/66.  It consists of a uterus with attached cervix and bilateral tubes and ovaries which weighs 88g. No mirena is found. The anterior resection margin is inked blue and posterior inked black. The uterus with attached cervix measures 70 x 40 x 40mm and has a smooth and shiny serosal surface.  On sectioning there is an exophytic lesion extending bilaterally and involving both the anterior and posterior body measuring 38 x 36 x 7mm.  At fundus anterior surface the lesion appears extending into the myometrium to the maximum thickness of 17mm (more than 50% of the myometrium), in a wall 20mm thick. The ectocervix measures 35 x 28mm.  A pale, firm white area noted adjacent to the cervix measuring approximately 12 x 10mm which appears at least 12mm from endometrial lesion.  The right fallopian tube with attached fimbria measures 50mm in length and 10mm in maximum diameter which shows multiple paratubal cysts but is otherwise unremarkable.  The right ovary measures 27 x 17 x 12mm and has an unremarkable cut surface.  The left fallopian tube with attached fimbria measures 50mm in length and 8mm in maximum diameter which has multiple paratubal cysts but is otherwise unremarkable.  The left ovary measures 24 x 20 x 7mm and has an unremarkable cut surface.
+
+Blocks: 1 to 4 - full LS of anterior body and cervix; 5 to 7 - more representative sections of the endometrial lesion invading anterior fundus; 8 &amp;amp; 9 - the described white area adjacent to the cervix; 10 to 12 - full LS posterior body and cervix; 13 - one representative section of the tumour in posterior fundus; 14 - RS right fallopian tube including two LS fimbria and two TS; 15 - RS right ovary; 16 - representative left fallopian tube including two LS fimbria and TS; 17 - representative of left ovary.  RS 17 blocks.
+
+B.  Specimen labelled &amp;quot;Right obturator lymph node&amp;quot;, consists of an irregular piece of fibrofatty tissue measuring 50 x 40 x 12mm.  Two adjacent lymph nodes are identified measuring 40 x 20 x 10mm and 35 x 30 x 10mm.
+Blocks: 1 to 4 - first lymph node; 5 to 7 - second lymph node.  AE 7 blocks.
+
+C.  Specimen labelled &amp;quot;Left obturator&amp;quot;, consists of an irregular piece of fibrofatty tissue measuring 40 x 30 x 10mm.  Three lymph nodes are identified measuring 35 x 25 x 10mm, the other two each measures 6mm across.
+Blocks: 1 - two lymph nodes, 2 to 4 - the large lymph node.  AE 4 blocks.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of an irregular piece of omental fibrofatty tissue measuring 70 x 50 x 10mm which appears unremarkable.  No gross lymph nodes or lesion is identified.  RS 3 blocks.    (TO:LN; LN/ta 21/11/66)
+
+
+MICROSCOPIC (Reported by Dr. H Clopton):
+A. Sections show an endometrioid adenocarcinoma, grade 1. The lesion is a complex glandular architecture, is composed of back-to-back glands lined by columnar tumour cells with mild to moderate nuclear atypia. No significant solid tumour or grade 3 nuclei are seen, consistent with a grade of 1. The maximum depth of invasion into myometrium is 17 mm in a wall 20 mm thick (A1). No lymphovascular spread is seen. Focal complex hyperplasia with atypia is present.
+
+The uninvolved endometrium is inactive. A small benign leiomyoma and focal adenomyosis are present. The cervix shows no evidence of HPV effect, CIN or malignancy. The fallopian tubes and ovaries are unremarkable.
+
+Mismatch Repair Deficiency (MMRD) Status
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B. Sections show 2 lymph nodes with no evidence of malignancy.
+C. Sections show 3 lymph nodes with no evidence of malignancy.
+D. Sections show omental fat with no evidence of malignancy.
+DIAGNOSIS
+A. Uterus and cervix, bilateral fallopian tubes and ovaries:
+- Endometrioid adenocarcinoma, grade 1
+- Invasion into outer half of myometrium (17mm in a wall 20mm thick)
+B and C. Left and right obturator lymph nodes: 5 lymph nodes with no evidence of malignancy
+D. Omentum: no evidence of malignancy

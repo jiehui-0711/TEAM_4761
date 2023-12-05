@@ -1,0 +1,54 @@
+Episode No:  42L025464D
+4240254.RLD
+
+COLASAMTE, Andrew 
+Lab No:  42L02546,42L02546
+Ripona
+WARRNAMBOOL  Victoria  6605
+Specimen: Washings,Tissue
+D.O.B:  9/1/2024
+Sex:  F
+Collected: 5/5/2065 at :
+Location:  ANTENATAL WARD - BULLI HOSPITAL
+DR TORY Boyd Dyess
+Distribution:    NSW-CANCER-REGISTRY
+
+CLINICAL:
+Endometrial cancer.  Family history - father bowel cancer age 44.
+MACROSCOPIC:
+A.  Specimen labelled "Cervix, uterus, bilateraltubes and ovaries" consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 199g.  The uterus measures 90 x 60 x 50mm and has a smooth shiny serosal surface.  The ectocervix measures 40 x 30mm and is unremarkable.On sectioning the myometrium measures is up to 30mm thick and has a pale ill-defined lesion.  The tumour on the anterior surface measures 30 x 28mm.  There is also a fibroid measuring up to 25mm in maximum dimension. The cut surface of the posterior shows a pale ill-defined lesion involving the cervix, ectocervix and myometrium measuring 45mm x 10mm x 30mm. No parametrial invasion is seen.
+The right fallopian tube measures 15mm in length with an outer diameter of 5mm.  The ovary measures 40mm x 25mm x 10mm.  The cut surface of the ovary is heterogenous with golden yellowish area and also some areas of haemorrhage with cystic change measuring 30 x 15mm x 10mm.    
+The left fallopian tube measures 55mm in length with an outer diameter of 5mm.  The ovary measures 35mm x 20mm x 15mm.  The cut surface of the ovary shows a unilocular cyst measuring up to 15mm in maximum dimension.  Inner surface is smooth with a wall thickness of up to 1mm.  The rest of the ovary is yellowish golden and tan brown.
+Blocks:  1 to 6 - full length longitudinal sections of anterior uterus (1 - anterior cervix; 2 - isthmus; 3 to 6 - endometrium + myometrium + fibroid); 7 to 9 - tumour with the deepest invasion; 10 - RS of fibroid; 11 - fimbrial end; 12 - RS of right fallopian tube; 13 to 19 - cystic and haemorrhagic area of right ovary; 20 - normal looking right ovary; 21 to 26 - full length longitudinal sections of posterior; 21 - cervix; 22 - isthmus; 23 to 28 - myometrium + endometrium; 27 to 30 - tumour with deepest invasion on the posterior surface; 31 & 32 - left fallopian tube (32 - fimbrial end); 33 to 35 - cyst of left ovary; 36 - RS of normal left ovary.
+B.  Specimenlabelled "Right pelvic lymph node" consists of a fatty tissue measuring 50mm x 49mm x 10mm.  Three lymph nodes identified.
+Blocks:  1 - one lymph node sliced into four slices; 2 - one lymph node sliced into fourslices; 3 - one lymph node sliced into four slices; 4 & 5 - one lymph node sliced into six slices; 6 - one lymph node sliced into five slices; 7 - one lymph node sliced into five slices; 8 - one lymph node sliced into four slices.
+C.  Specimen labelled "Left pelvic lymph node" consists of a fatty tissue measuring 60mm x 45mm x 15mm.  Few lymph nodes identified.
+Blocks:  1 - one lymph node sliced into six slices; 2 & 3 - one lymph node sliced into three slices; 4 to 6 - one lymph node sliced into eight slices; 7 & 8 - one lymph node sliced into four slices; 9 - one lymph node.
+
+D.Specimen labelled "Omental biopsy" consists of a fatty tissue measuring 40mm x 30mm x 8mm.  The cut surface shows uniform fatty tissue.  No focal lesion is seen.  Representative sections embedded in block 1 to 3.  (TO: NA; DY/rt 6.5.65)
+
+MICROSCOPIC (reported by Dr L Samit):
+A. Sections show endometrioid adenocarcinoma, grade 2, arising from the endometrium. The lesion has a complex glandular architecture, and is composed of glandspapillae lined by columnar tumour cells with moderately pleomorphic nuclei.  A significant solid component is seen in approximately 10% of the lesion. No severe nuclear atypia is seen, in keeping with a grade of 2.
+Several foci of lymphovascular invasion are present.
+The maximum depth of invasion is 11mm in a wall 13mm thick (A28).
+Invasion into the anterior and posterior cervix is present.  The lesion is 2 mm clear of the nearest anterior cervical soft tissue margin (A3).
+The endometrium shows progestational changes.  Adenomyosis and leiomyomas are present.  The cervix shows no evidence of HPV effect or CIN. 
+The ovaries and fallopian tubes show no evidence a malignancy.  A haemorrhagic corpus luteum is present in the right ovary and a cystic follicle is present in the left ovary.
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		loss of nuclear staining
+PMS2		loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6	nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), andmay reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+B. Sections show 7 lymph nodes with no evidence of malignancy.
+C. Sections show 5 lymph nodes with no evidenceof malignancy.
+D. Sections show omental fat with no evidence of malignancy.
+
+DIAGNOSIS
+A to D. Uterus, cervix, bilateral fallopian tubes and ovaries, right and left pelvic lymph nodes, omentum:
+- Endometrioid adenocarcinoma, grade 2, of the endometrium, lymphovascular invasion present
+- Invasion into anterior and posterior cervix, margins clear
+-Maximum depth of invasion 11mm in a wall 13mm thick
+- Fallopian tubes and ovaries, omentum and 12 pelvic lymph nodes with no evidence of malignancy
+

@@ -1,0 +1,47 @@
+SPR no: 77H856922Z
+MRN no: 6512926
+Site_name: SOUTH GIPPSLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Large pelvic mass, 29 x 16 x 27cm.  Ca 125 = 32.  Depression, ex IVDU, smoker.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Right tube plus ovary&amp;quot;, consists of a fallopian tube, 40 x 7mm with an attached cystic ovary, 200 x 180 x 30mm.  The outer surface of the ovary is smooth, pale, grey and shiny with prominent congested blood vessels.  The cut surface of the ovarian cyst shows a single large cystic space with a wall thickness of up to 2mm and a smaller cystic space containing firm tan gelatinous material.  Some small 2 to 5mm papillary excrescences are noted lining the wall of the large cyst.  Blocks: 1 - fimbria bisected longitudinally; 2 - remainder of fallopian tube sectioned transversely; 3 to 22 - RS of cystic ovarian tumour.
+
+B.  Specimen labelled &amp;quot;Uterus left tube and ovary&amp;quot;, consists of a uterus with attached cervix and left fallopian tube and ovary weighing 51g in total.  The uterus measures 60 x 50 x 25mm and has a smooth shiny serosal surface.  The ectocervix measures 25 x 24mm and has an unremarkable surface.  On sectioning the endometrium is 2mm in maximum thickness and the myometrium is 11mm in maximum thickness.  The myometrium contains small intramural fibroids, some of which are heavily calcified, up to 9mm in maximum diameter. The left fallopian tube measures 50mm in length and 6mm in maximum diameter.  The left ovary measures 22 x 11 x 7mm and has multiple cysts containing semitranslucent colourless gelatinous material, up to 9mm in maximum dimension on its cut surface. There is no evidence of haemorrhage or necrosis.  Blocks: 1 to 3 - full longitudinal section of anterior body and cervix including calcified fibroid in block 1 (for decalcification); 4 &amp;amp; 5 - full longitudinal sections of posterior body and cervix; 6 to 8 - left fallopian tube all embedded; 9 &amp;amp; 10 - left ovary bisected.
+
+C.  Specimen labelled &amp;quot;Appendix&amp;quot;, consists of a vermiform appendix, 75mm in length x 8mm in diameter.  The serosal surface is smooth grey and shiny.  The lumen contains soft brown material.  No abnormal lesions are identified.  Blocks: 1 - proximal appendix bisected longitudinally; 2 &amp;amp; 3 - mid appendix sectioned transversely; 4 - tip bisected longitudinally.  All embedded.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of a piece of fibroadipose tissue, 65 x 45 x 10mm.  No abnormal lesions are identified.  Representative sections are embedded in 3 blocks.  (TO:TF/eh 21/4/69)
+
+
+MICROSCOPIC (Reported by Dr T Metelko):
+A.  Sections of ovary show a serous cystadenofibroma.  The cystic tumour is  lined by predominantly flat tubal type epithelium with some undulation and focal non-complex papilliform architecture.  There are patchy erosions of the cyst lining epithelium with replacement by foamy and pigmented histiocytes.  Ovarian surface involvement is not seen.  The fallopian tube is unremarkable.   There is no evidence of malignancy.
+
+B.  Sections of uterus show a calcified cervical leiomyoma.  The ectocervix and endocervix are otherwise unremarkable.  The endometrium is weakly proliferative.  The myometrium is unremarkable.  The left ovary shows multiple cysts lined by tubal type epithelium compatible with a serous cystadenoma.  The left fallopian tube is unremarkable.  There is no evidence of malignancy.
+
+C.  The appendix is entirely embedded and examined.  Sections of appendix show patchy mild acute inflammation within the mucosa including within crypt epithelium.  There is patchy mild chronic architectural change in the form of bifid and irregular crypts.  No acute inflammatory cells are seen within the muscularis propria or subserosa.
+
+COMMENT:
+The features are those of non-specific patchy mild mucosal acute inflammation and are insufficient for a histological diagnosis of acute appendicitis.
+
+D.  Sections show mature adipose tissue.  There is no evidence of malignancy.
+
+
+DIAGNOSIS:
+A.  Right ovary and right fallopian tube:
+-  Serous cystadenofibroma
+-  Unremarkable fallopian tube.
+
+B.  Uterus,  left ovary and left fallopian tube:
+-  Serous cystadenoma
+-  Incidental cervical fibroid
+-  Unremarkable fallopian tube.
+
+C.  Appendix:
+-  Non-specific mucosal acute inflammation (see comment).
+
+D.  Omental biopsy:
+-  No significant abnormality.

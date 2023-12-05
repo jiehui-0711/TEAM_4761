@@ -1,0 +1,48 @@
+SPR no: 19K736964Q
+MRN no: 10487079
+Site_name: LATROBE REGIONAL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+High grade serous endometrial cancer on curettings.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, tubes, ovaries and cervix&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes, and ovaries, weighing 280g in total.  The uterus measures 120 x 75 x 55mm and has a smooth shiny serosal surface.  The ectocervix measures 33 x 30mm and shows no significant abnormality.  The anterior soft tissue margin is inked blue and the posterior soft tissue margin is inked black.  On sectioning, the endometrial cavity is expanded by a polypoid tumour, approximately 73 x 40 x 35mm.  The tumour extends to a depth of 34mm through a wall thickness of 35mm.  The tumour appears to abut the serosal surface.  The serosa appears uninvolved.  There is a single 10mm fibroid within the posterior myometrium.  The left fallopian tube, 42 x 4 x 4mm, and left ovary, 17 x 15 x 8mm, show no significant abnormality.  The right fallopian tube, 55 x 4 x 4mm, and right ovary, 25 x 13 x 8mm, show no significant abnormality.  Blocks: 1 to 9 - midline LS anterior uterus and cervix (4/5 and 6/7 - paired blocks); 10 to 12 - anterior uterus, ?deepest invasion; 13 to 18 - midline LS posterior uterus and cervix; 19 - posterior myometrium, fibroid; 20 - LS complete fimbrial end left fallopian tube, and mid TS; 21 - left ovary; 22 - LS complete fimbrial and right fallopian tube and mid TS; 23 - right ovary; 24 &amp;amp; 25 - further representative cervix.
+
+B.  Specimen labelled &amp;quot;Right pelvic nodes&amp;quot;, consists of fibroadipose tissue, 60 x 60 x 20mm, containing lymph nodes.  Blocks: 1 &amp;amp; 2 - lymph nodes as seen; 3 - single lymph node, trisected; 4 - single lymph node, sectioned; 5 &amp;amp; 6 - single lymph node, sectioned; 7 - single lymph node, sectioned; 8 - single lymph node; 9 &amp;amp; 10 - single lymph node, sectioned.
+
+C.  Specimen labelled &amp;quot;Left pelvic nodes&amp;quot;, consists of fibroadipose tissue, 65 x 40 x 20mm in aggregate, containing lymph nodes.  Blocks: 1 - single lymph node; 2 - single lymph node, sectioned; 3 - single lymph node, sectioned; 4 &amp;amp; 5 - single lymph node, sectioned.
+
+D.  Specimen labelled &amp;quot;Omental biopsy&amp;quot;, consists of omental tissue with a smooth shiny serosal surface, 55 x 43 x 14mm.  On sectioning, no significant abnormality is identified.  RS 3 blocks.
+(TO:JB/eh 1/6/67)
+
+
+MICROSCOPIC (Reported by Dr E Litterer):
+A.  Sections show a malignant mixed M&amp;#252;llerian tumour (MMMT) of the endometrium.  The carcinomatous component consists of grade 3 endometrioid adenocarcinoma (approximately 55%) and high grade serous carcinoma (approximately 40%).  The sarcomatous component comprises approximately 5% of the tumour with no heterologous differentiation seen.  Tumour penetrates the full thickness of the endometrium (approximately 20mm) with occasional malignant cells seen on the serosal surface.  Extensive retraction artefact is present however, no definite lymphovascular invasion is seen.  Foci of serous carcinoma are seen within the ectocervical stroma, immediately beneath a denuded squamous epithelial layer.  The remainder of the endometrium shows changes consistent with a progestational agent.  A benign leiomyoma is present within the myometrium.  Both ovaries and fallopian tubes show no significant abnormality.
+
+Immunoperoxidase stains for MSI proteins (Block A4)
+
+MLH1          Preserved nuclear staining
+PMS2          Preserved nuclear staining
+MSH2          Preserved nuclear staining
+MSH6          Preserved nuclear staining
+
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+B.  Two (2) of the thirteen (13) lymph nodes identified contain metastatic carcinoma of serous type.  The largest deposit spans 8mm across.  No extranodal spread is seen.
+
+C.  One (1) of the four (4) lymph nodes identified show metastatic carcinoma of serous type.  The deposit measures approximately 5mm across.  No extranodal spread is seen.
+
+D.  Representative sections of the omentum show no significant abnormality.  There is no evidence of malignancy.
+
+DIAGNOSIS:
+A - D.  Uterus and cervix, fallopian tubes and ovaries, pelvic lymph nodes and omentum:
+-  MMMT of the endometrium, endometrioid and serous types
+-  Invasion through the full thickness of the myometrium with focal serosal involvement.
+-  No definite lymphovascular invasion identified.
+-  Tumour involvement of the ectocervical stroma by serous carcinoma.
+-  Three lymph nodes positive for metastatic carcinoma.
+-  Omentum negative.
+ADDENDUM (11/5/66):
+The above report contains a typographical error.  The report should state:
+Tumour penetrates the full thickness of the myometrium (approximately 20mm) with occasional malignant cells seen on the serosal surface.

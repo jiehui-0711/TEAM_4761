@@ -1,0 +1,84 @@
+SPR no: 74O396566L
+MRN no: 74539656
+Site_name: THOMAS EMBLING HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+63yr old male distal oesophageal adenocarcinoma.  Neoadjuvant chemoradiotherapy completed 6 weeks ago.  Ivor Lewis oesophagectomy today + (......) hepatic/subcarinal para-oesophageal node excised apparantly.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Oesophogastrectomy&amp;quot;, consists of an esophagogastrectomy specimen measuring 140mm in length, consisting of 75mm of oesophagus, 65mm of stomach.  Situated 40mm from the oesophageal resection margin, 55mm from the stomach resection margin is an irregular pale lesion with  linear ulcerated lesion measuring 50 x 12mm. The Lesion appears more on the oesophageal mucosa and extends slightly into the gastric mucosa.  The rest of the mucosa of both the oesophagus and stomach mucosa are unremarkable.  Several lymph nodes identified.
+Blocks: 1 - oesophageal resection margin; 2 - gastric resection margin; 3 to 25 - all of the lesion with ulceration; 26 - RS of normal stomach and oesophagus; 27 to 30 - para-oesophageal lymph nodes (27 - one lymph node; 28 - one lymph node; 29 - one lymph node; 30 - one lymph node); 31 to 37 - paragastric lymph nodes (31 - lymph nodes as seen; 32 - lymph nodes as seen; 33 - one lymph node; 34 - one lymph node; 35 to 37 - one lymph node).
+
+B.  Specimen labelled &amp;quot;Para-oesophageal lymph node endothoracic duct&amp;quot;, consists of two pieces of pale tan fatty tissue, measuring 30 x 20 x 8mm.  Three nodes are identified measuring from 80mm to 15mm.  AE.
+Blocks: 1 - possible lymph node; 2 - one lymph node; 3 &amp;amp; 4 - one lymph node.
+
+C.  Specimen labelled &amp;quot;Carinal lymph node&amp;quot;, consists of a single and pale tan tissue measuring 45 x 20 x 10mm.  Several lymph nodes identified measuring from 5 to 30mm.
+Blocks: 1 - one lymph node; 2 - one lymph node; 3 - one lymph node; 4 - one lymph node; 5 - one lymph node; 6 - one lymph node; 7 to 10 - one lymph node.
+
+D.  Specimen labelled &amp;quot;Hepatic lymph node&amp;quot;, consists of two pieces of pale tan brown tissue measuring 25 x 20 x 6mm.  One lymph node identified measuring
+10mm.   AE.
+Blocks: 1 - one lymph node; 2 - remaining tissue.   (TO:LM/ta 24/9/68)
+
+
+MICROSCOPIC: (Reported by Dr T Payan)
+A.  Sections of the oesophagogastrectomy show an oesophageal adenocarcinoma showing marked treatment associated regression. The tumour is ulcerated and paucicellular, consisting predominantly of extracellular pools of mucin which dissect focally into muscularis propria, and contain only very occasional viable residual tumours. One of fifteen lymph nodes contains a focus of acellular mucin. A synoptic report for adenocarcinoma follows:
+
+OESOPHAGUS PROFORMA
+Tumour location: Gastro-oesophageal junction
+
+Histologic type: Adenocarcinoma
+
+Histologic grade: Grade 3 Poorly differentiated (49% or less of the tumour composed of glands)
+
+Pattern of growth: Infiltrating (dissecting paucicellular pools of mucin)
+
+Maximum tumour dimension:  50mm
+
+Depth of invasion: (T2)  Muscularis propria (dissecting mucin containing only very occasional tumour cells).
+
+Peritoneal involvement: Absent.
+
+Lymphatic and capillary space invasion: Absent
+
+Vein and artery space invasion: Absent
+
+Perineural invasion: Absent
+
+Tumour budding: Absent
+
+Degree of regression (AJCC): Grade 1: Moderate response &amp;#8211; Single cells or small groups of cancer cells
+
+SURGICAL MARGIN STATUS
+Distance of carcinoma to proximal and distal margins: Well clear.
+
+Distance of carcinoma to radial/circumferential margin: 4.4mm (mucin).
+
+LYMPH NODE STATUS
+Main resection specimen
+Number of lymph nodes identified: Fifteen.
+Number of positive lymph nodes: One (scattered malignant cells within extracellular mucin)
+N1    Metastasis in 1-2 regional lymph nodes
+
+Other pathologies
+Gastritis and focal low grade gastric dysplasia. The lymph nodes show prominent anthrasilicosis with early silicotic nodule formation.
+
+Distance of dysplasia to closest margin: Well clear.
+
+B.  Sections of the two para-oesophageal lymph nodes show metastatic poorly differentiated adenocarcinoma in one of two lymph nodes (1/2).
+
+C.  Sections of the seven carinal lymph nodes show no evidence of malignancy (0/7).
+
+D.  No evidence of malignancy in three lymph nodes (0/3).
+
+
+DIAGNOSIS:
+A.  Oesophagogastrectomy:
+- Adenocarcinoma of gastro-oesophageal junction showing marked regression (predominantly extracellular mucin containing occasional viable tumour cells).
+- (y)pT2N1Mx
+- Margins: clear of tumour (proximal, distal and circumferential).
+
+B.  Para-oesophageal lymph node: Metastatic adenocarcinoma in one of two lymph nodes (1/2).
+
+C.  Carinal lymph node: No evidence of malignancy in seven lymph nodes (0/7).
+
+D.  Hepatic lymph node: No evidence of malignancy in three lymph nodes (0/3).

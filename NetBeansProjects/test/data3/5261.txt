@@ -1,0 +1,64 @@
+Episode No:  27V425092B
+2784250.ZFB
+
+ARIZAGA, Lyle Hubert 
+Lab No:  27V42509
+Rehbaum
+BATEHAVEN  VIC  5733
+Specimen: Tissue
+D.O.B:  6/1/2006
+Sex:  M
+Collected: 06/05/2066 at 14:37
+Location:  SEALSCentral-PINGELLY HEALTH CENTRE
+DR DYLAN JARRAH Rangnow
+Distribution:  DR Nathanael ALGIRE,   NSW-CANCER-REGISTRY
+
+CLINICAL:
+Total gastrectomy + omentum and spleen.
+MACROSCOPIC:
+Specimen labelled "Stomach, spleen and oesophagus" consists of a total gastrectomy specimen with attached spleen.  The total gastrectomy specimen measures 210mm in length, consisting of 10mmportion of oesophagus, in continuum 200mm of stomach.  The spleen measures 110 x 80 x 40mm and weighs 223.1g.  Omentum of greater curvature measures up to 200mm and the omentum of lesser curvature measures up to 50mm The radial margin is inked black and the proximal resection margin is inked blue.  The distal resection margin is inked black.  At the gastro oesophageal junction there is small prominent nodule measuring 12 x 10 x 4mm.  The rest of the mucosa  shows predominant normal ruggae  and small area of mucosal flattening.  No polyps or other lesion is seen.   Cut surface of the spleen is unremarkable.  .  
+Blocks:  1 to 25 - gastro oesophageal junction including the proximal resection margin with the nodule described (6 to 9 - slices with the nodule); 26 & 27 representative section of the flattened mucosa area; 28 - representative sections of normal; 29 - representative sections of distal resection margin. 30 & 31 - representative sections of spleen; 32 - one probable lymph node; 33 - one lymph node bisected; 34 to 40 - fat.  (TO: AK; FZ/rt 9.5.66) Please see diagram
+Further tissue: 41- 4 probale lymph nodes, 42-58 Rs of fat
+MICROSCOPIC (Reported by Dr G Ralon):
+
+Tumour site: Gastro-oesophageal junction
+Tumour type: Adenocarcinoma
+Histological grade: Grade3, poorly differentiated 
+Size of tumour:  21mm (microscopic)
+Level of invasion: 
+  T2	Tumour invades muscularis propria (block 10)
+Invasion beyond the muscularis propria: Not seen
+Serosal surface involvement: Not seen
+Vascular space invasion
+Small vessel invasion:  multifocal lymphovascular invasion present
+Large vessel invasion: Not seen
+Perineural growth:  Not seen
+Degree of regression after preoperative chemoradiation (AJCC, 7th Ed.):
+2 (minimal response, residual tumour outgrown by fibrosis)
+Distance of tumour from margins
+From proximal: 1.2mm (block 10)
+From distal:  > 100mm
+From radial: 5.5mm (block 6)
+Lymph nodes
+Regional lymph nodes
+Number received: 20
+Number involved: 0
+Other pathologies
+Inflammation: chronic inflammation present in gastric cardia and antrum
+Helicobacter infection: negative on immunohistochemistry
+Intestinal metaplasia/Barrettmucosa: not seen on ABPAS staining 
+Dysplasia: Present, focal high grade in gastric cardia (block 10)
+Spleen is unremarkable.
+Ancillary tests
+HER2 immunohistochemistry:  2+
+Staging (AJCC, 7th Ed.)
+ypT2 	Tumour invades muscularis propria
+N0 	No regional lymph node metastasis
+MX 	Cannot be assessed histologically
+
+DIAGNOSIS
+Stomach, oesophagus and spleen post treatment:
+	21mm poorly differentiated adenocarcinoma ofthe gastro-oesophageal junction, invasion into muscularis propria (ypT2)
+	20 lymph nodes with no evidence of malignancy (N0)
+
+

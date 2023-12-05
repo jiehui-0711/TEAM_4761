@@ -1,0 +1,33 @@
+SPR no: 18N742746M
+MRN no: 2100445
+Site_name: PORT BROUGHTON DISTRICT HOSPITAL AND HEALTH SERVICES
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Frozen section ovary.  Complex ovarian mass.  Diverticulitis.  Complex left ovarian cyst with history of recent diverticulitis.  Complex ovarian mass.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;L ovary + tube&amp;quot;, consists of a cyst, 60 x 40 x 20mm with ovary 25 x 15 x 10mm and fallopian tube 60mm long.  The cyst wall is mostly smooth with papillary excrescences over a 12mm area.  Representative sections in 2 blocks for frozen section. Further examination after fixation: the specimen weighs 22 grams. Blocks: 1 - frozen section one; 2 - frozen section 2; 3 to 6 - RS of ovary and adjacent cyst (5 and 6 - composite slice); 7 - longitudinally bisected presumed fimbrial end of fallopian tube and adjacent calcified nodule (?ovary ?papillary excrescence); 8 - representative sections of remaining fallopian tube; 9 to 11 - further representative sections of cyst wall.
+
+FROZEN SECTION REPORT:
+Benign serous cystadenoma.
+Phone results to Dr E Roese by Dr E Mccoun at 4:48pm on 17.02.2066
+
+B.  Specimen labelled &amp;quot;R fallopian tube + ovary&amp;quot;, consists of a distorted piece of tan tissue, 13 grams, 41 x 32 x 20mm.  The ovary and right fimbrial end of right fallopian tube are adherent.  The ovary measures 20 x 12 x 20mm and appears macroscopically unremarkable. The tube measures 20mm in length and 6 - 20mm in diameter.  Blocks: 1 to 2 - sections of ovary and adherent fallopian tube; 3 - ovary and remaining sections of tube; 4 - further section of ovary; 5 - ovary and adjacent soft tissue.  Representative sections.
+
+C.  Specimen labelled &amp;quot;Endometrial curettings&amp;quot;, consists of a specimen, which was received leaking inside the specimen bag.  Formalin appeared to have leaked, but none of the tissue contents, which were safely entrapped within the specimen jar.  It consists of scanty pale and tan pieces of tissue, 2 - 7mm in size and 15 x 15 x 1mm in aggregate.  AE 1 block.
+(TO:FA/vo 17/1/67)
+
+
+MICROSCOPIC (Reported by Dr E Siglar):
+A. Sections of the ovary show an undulating fibrous cyst lined by cuboidal to low columnar epithelioid cells, consistent with a benign serous cystadenoma. Sections of the fallopian tube show extensive suppurative inflammation consistent with acute salpingitis. There is no evidence of malignancy.
+
+B. Sections  of the ovary show no significant abnormality. Sections of the fallopian tube show  luminal multinucleated foreign body inflammatory reaction and acutely inflamed granulation tissue within the lumen. There is no evidence of malignancy.
+
+C. Sections show fragments of endocervical and ectocervical epithelium plus lower segment endometrium with no significant abnormality. The material is insufficient to assess endometrium.
+
+DIAGNOSIS:
+A. Left ovary and fallopian tube: Serous cystadenoma
+B. Right ovary and fallopian tube: No significant abnormality
+C. Endometrial curettings: Insufficient to assess endometrium

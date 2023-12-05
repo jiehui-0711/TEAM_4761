@@ -1,0 +1,22 @@
+SPR no: 73R138284Y
+MRN no: 10522707
+Site_name: NEPEAN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Pelvic washings, endometrial cancer grade 1.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cervix, uterus, bilateral fallopian tubes plus ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 496g in total.  The uterus measures 100 x 145 x 80mm and has a smooth shiny serosal surface.  The ectocervix measures 30 x 25mm and has an unremarkable surface.  The uterus has multiple serosal and intramural fibroids ranging in size from 3 to 53mm.  One fibroid in the anterior left uterus has a focus of haemorrhage/necrosis measuring 5mm. The left fallopian tube measures 60mm in length with a maximum diameter of 4mm.  The left ovary measures 34 x 12 x 8mm and has an unremarkable cut surface. The right fallopian tube measures 65mm in length with a maximum diameter of 5mm.  The right ovary measures 34 x 9 x 6mm and has an unremarkable cut surface. On the serosal surface of the right and left fallopian tubes there are multiple pale to tan smooth papules ranging from 2 to 3mm.  On sectioning the endometrium is 2mm in maximum thickness and the myometrium is 74mm in maximum thickness.  There is no obvious endometrial tumour.
+Blocks: 1 to 10 - partial LS of anterior body and cervix, excluding most anterior aspect with fibroids; 12 &amp;amp; 13 - left endomyometrium; 14 to 16 - fibroid with necrotic/haemorrhagic area; 17 - right anterior endomyometrium; 18 to 25 - full LS of posterior body and cervix; 26 &amp;amp; 27 - right posterior endomyometrium and cervix; 28 to 30 - left posterior endomyometrium with cervix; 31 - LS left fimbriae; 32 - three TS left ovary; 33 - three TS left fallopian tube; 34 - LS right fimbriae; 35 - three TS right ovary; 36 - three TS right fallopian tube.  Please refer to blocking diagram.
+B.  Specimen labelled &amp;quot;Right external iliac sentinel lymph node&amp;quot;, consists of an irregular fatty piece of tissue 17 x 17 x 11mm.  Blocks: 1 - one blue dyed lymph node in six pieces; 2 - one possible lymph node.  AE.
+C.  Specimen labelled &amp;quot;Left external iliac sentinel lymph node&amp;quot;, consists of a piece of fat 23 x 11 x 9mm.  Blocks: 1 &amp;amp; 2 - one lymph node serially embedded in seven pieces.  (TO:RS/rs 19/8/70)
+MICROSCOPIC (Reported by Dr U Vajda):
+A.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  There is no convincing myometrial invasion.  There is no lymphvascular invasion.
+The ectocervix and endocervix are uninvolved and unremarkable.  The myometrium contains numerous leiomyomas.  The left ovary has a focus of endometriosis.  The right ovary and both tubes are unremarkable.
+B.  One lymph node shows no evidence of malignancy.
+C.  One lymph node shows no evidence of malignancy.
+DIAGNOSIS:
+Grade 1 endometrioid adenocarcinoma of the endometrium.   No myometrial or lymphvascular invasion.  Cervix uninvolved.  Two negative lymph nodes.
+ADDITIONAL REPORT 16/8/70:
+
+As requested, Immunoperoxidase stains for MSI proteins were performed. MLH1, PMS2, MSH2, MSH6 all show preserved nuclear staining.  This indicates a low likelihood of microsatellite instability phenotype.

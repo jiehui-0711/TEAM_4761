@@ -1,0 +1,20 @@
+SPR no: 86F915769P
+MRN no: 10371845
+Site_name: EMERALD HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Stage 1 A2 cervical cancer.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Cervix uterus bilateral ovaries and fallopian tubes&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 102g in total.  The uterus measures 78 x 50 x 30mm and has a smooth and shiny serosal surface.  The cervix measures 30 x 26mm and is discoloured by blue surgical dye.  The cervical os appears stenotic.  On opening the endometrium measures less than 1mm thick on a myometrium that measures up to 23mm thick.  Within the cavity there is an endometrial polyp with base located 45mm from the cervical resection margin and measuring 24 x 14 x 4mm.  There is no evidence of macroscopic invasion at the base of polyp.  No myometrial lesions are identified.  The right fallopian tube measures 30 x 7mm and the right ovary measures 30 x 18 x 15mm.  The left fallopian tube measures 40 x 7mm and the left ovary measures 32 x 20 x 15mm.  The serosa of both adnexa is smooth and shiny and a single unilocular cyst is identified within the left ovary measuring 12mm in diameter.  No other lesions are identified.  Blocks: 1 to 3 - full longitudinal sections through anterior body and cervix including base of endometrial polyp; 4 to 10 - remainder of anterior cervix.  All embedded from one end to the other; 11 &amp;amp; 12 - remainder of endometrial polyp base; 13 to 15 - full longitudinal section through posterior body and cervix; 16 to 22 - remainder of posterior cervix embedded from one end to the other; 23 &amp;amp; 24 - right adnexa; 25&amp;amp; 26 - left adnexa.
+B.  Specimen labelled &amp;quot;Right pelvic lymph node&amp;quot;, consists of multiple pieces of fatty tissue measuring 43 x 35 x 24mm in aggregate.  8 possible lymph nodes are identified within the fat measuring 8 to 20mm in maximal dimension.  All nodes embedded.  Blocks: 1 - three nodes; 2 - two nodes; 3 &amp;amp; 4 - one lymph node per block bisected; 5 &amp;amp; 6 - one lymph node serially sliced.
+C.  Specimen labelled &amp;quot;Left pelvic lymph node&amp;quot;, consists of multiple pieces of fatty tissue measuring 60 x 40 x 15mm in aggregate.  7 possible lymph nodes are identified within the fat ranging in size from 6 to 25mm in maximal dimension.  All nodes embedded.  Blocks: 1 - three nodes; 2 to 4 - one lymph node per block bisected; 5 &amp;amp; 6 - one lymph node serially sliced.
+(TO:AP/eh 19/5/67)
+MICROSCOPIC (Reported by Dr W Louge):
+The previous report 86F91576 is noted.
+A.  The entire cervix has been examined.  There is no residual CIN or invasive carcinoma.  There is no AIS.
+The endometrium is weakly proliferative and contains a benign polyp.  The myometrium shows adenomyosis.  Both ovaries and tubes are unremarkable.
+B.  Eight lymph nodes show no evidence of malignancy.
+C.  Seven lymph nodes show no evidence of malignancy.
+DIAGNOSIS:
+No residual CIN or invasive carcinoma.  Fifteen (15) negative lymph nodes.

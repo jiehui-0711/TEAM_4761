@@ -1,0 +1,117 @@
+SPR no: 17M563384D
+MRN no: 174563
+Site_name: LAVERTON HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report17M56338,17M56338 (17M563384D) OGLESBY, ADAN
+
+HISTOPATHOLOGY REPORT:
+SUPPLEMENTARY REPORT 14/10/65
+SUPPLEMENTARY REPORT 20/10/68
+SUPPLEMENTARY REPORT 22/10/69
+
+HISTORY:
+1.  Appendix for frozen section.
+Ovarian mass for frozen section.  Ovarian mass CA 125 = 49.
+1)  Peritoneal washings for cytology.
+2)  Right ovary + tube.
+3)  Left sigmoid serosa.
+4)  Appendiceal epiploica.
+5)  Omental biopsy.
+Appendiceal mass, CA 125 = 49.
+
+MACROSCOPIC:
+A.  &amp;quot;APPENDIX&amp;quot;.  A dilated appendix full of mucin with thin wall.
+
+F/S:  &amp;quot;Low grade appendiceal mucinous tumour&amp;quot;.  Results reported by Dr. D. Spero on 7.10.2068.
+
+A previously opened appendix specimen measuring up to 80mm in length with an open circumference of up to 70mm.  There is a 40mm stapled margin at the base.  There is abundant gelatinous jelly-like material within the specimen.
+
+(1  frozen section; 2  frozen section; 3&amp;amp;4  serial sections of base all embedded; 5-7 RS of appendix wall [discussed with CT]).  RS (M-7)
+
+Extra tissue. Remainder of appendix embedded (8 - 22). RS (M22)
+
+B.  &amp;quot;RIGHT OVARY AND TUBE&amp;quot;.  Consists of a length of fallopian tube measuring up to 65x12mm with meso-ovarian tissue to a maximum of 30mm. Adjacent probable ovary measuring 25x20x10mm weighing 19g in total.  The cut surface of the ovary reveals cystic spaces with mucinous content as well as solid areas.  Sampled sections from isthmic towards fimbrial end in blocks B1-5.  RS (M-5)
+
+C.  &amp;quot;SIGMOID SEROSA&amp;quot;.  Consists of three fragments of fibrofatty tissue measuring up to 15x15x4mm in total aggregate.
+
+(1 largest fragment bisected; 2 second and third fragments). AE (M-3)
+
+D.  &amp;quot;APPENDIX EPIPLOICAE&amp;quot;.  Consists of an irregular shaped piece of fatty tissue measuring 25x10x5mm.  Bisected, both part embedded in blocks D1 and D2.  AE (M-2)
+
+E.  &amp;quot;OMENTAL BIOPSY&amp;quot;.  Two pieces of omentum.  The larger measuring 95x20x5mm and the smaller 15x10x5mm.
+
+(1&amp;amp;2 RS of larger piece as omental roll; 3 smaller fragment bisected and all embedded). RS (M-3/MY 10/9/2065 ank)
+
+MICROSCOPIC:   (Dr D Swanger)
+A. Paraffin sections confirm the frozen section diagnosis of low-grade mucinous tumour. The distal appendiceal mucosa is replaced by mucinous epithelium characterised by mildly stratified basal columnar epithelial nuclei, apical cytoplasmic mucin, and flat to low villiform architecture. The mucosa is effaced, and in many areas, the mucinous epithelium rests on fibrotic tissue or muscularis propria. In the initial sections, there is a focal aggregate of organising mucin within the appendiceal fat. There is also focal mucin on the surface of the appendix which is not organising and is interpreted as surface contamination during specimen processing. There are no high-grade cytological or archictectural changes.
+The remainder of the appendix will be embedded and a further report (including final classification and staging) will follow.
+
+B. Sections show high-grade serous carcinoma partially replacing the ovary. The carcinoma is characterised by papillary and solid architecture with slit-like glandular spaces, high nuclear grade and risk mitotic activity. Scattered psammoma bodies are identified. There is focal ovarian surface involvement. There is no identifiable serous tubal intraepithelial carcinoma (STIC). The fallopian tube includes several cystic Walthard nests. The uninvolved ovarian parenchyma shows no specific pathology.
+Immunostains to follow.
+
+C. Sections show involvement of the fibroadipose tissue by deposits of high-grade serous carcinoma with appearances as described in Specimen B.
+
+D. Sections show a lobule of adipose tissue with appearances in keeping with the clinical description of appendix epiploicae. There is no evidence of malignancy.
+
+E. Sections show focal involvement of the fatty omental tissue by high-grade serous carcinoma.
+
+DIAGNOSIS:
+A. APPENDIX
+- LOW-GRADE MUCINOUS TUMOUR, ORGANISING MUCIN WITHIN MESOAPPENDIX. NO ORGANISING MUCIN IDENTIFIED BEYOND THE SEROSAL SURFACE, FINAL REPORT TO FOLLOW.
+
+B. RIGHT OVARY AND FALLOPIAN TUBE
+- HIGH-GRADE SEROUS CARCINOMA INVOLVING THE OVARY.
+- IMMUNOSTAINS TO FOLLOW.
+
+C. SIGMOID SEROSA, BIOPSY
+- INVOLVEMENT BY HIGH-GRADE SEROUS CARCINOMA.
+
+D. APPENDICEAL EPIPLOICAE
+- NO EVIDENCE OF MALIGNANCY.
+
+E. OMENTUM, BIOPSY
+- INVOLVEMENT BY HIGH-GRADE SEROUS CARCINOMA.
+
+14/10/2065 cy
+
+SUPPLEMENTARY REPORT 17/9/65
+A. The remainder of the appendix has been embedded.
+As in the initial sections, there is evidence of mucin dissection through the muscularis propria to the level of peri-appendiceal fat, but not beyond the serosal surface. No mucinous epithelium or organising mucin is identified beyond the appendix.
+The features are those of a low grade mucinous neoplasm of the appendix (LAMN, PSOGI classification). pT3, pNX, pMX (AJCC, 10th edition)
+B. Immunostain results:
+p53 - completely negative (consistent with high grade tumour)
+WT1 and HBME1 - both positive
+Ki67 - moderately high, focally 50 to 60%
+Calretinin - negative
+These are expected staining results.
+15/10/65 ld
+SUPPLEMENTARY REPORT 18/9/65
+A. The base of the appendix has been all embedded and sections show unremarkable colonic mucosa forming the mucosal lining. The low grade appendical neoplasm is well clear of the base of appendix margin.
+FINAL DIAGNOSIS:
+A. APPENDIX
+- LOW-GRADE MUCINOUS TUMOUR OF THE APPENDIX (LAMN), ORGANISING MUCIN WITHIN MESOAPPENDIX. NO ORGANISING MUCIN IDENTIFIED BEYOND THE SEROSAL SURFACE, CLEAR OF BASE OF APPENDIX MARGIN.
+- pT3
+
+B. RIGHT OVARY AND FALLOPIAN TUBE
+- HIGH-GRADE SEROUS CARCINOMA INVOLVING THE OVARY.
+
+C. SIGMOID SEROSA, BIOPSY
+- INVOLVEMENT BY HIGH-GRADE SEROUS CARCINOMA.
+
+D. APPENDICEAL EPIPLOICAE
+- NO EVIDENCE OF MALIGNANCY.
+
+E. OMENTUM, BIOPSY
+- INVOLVEMENT BY HIGH-GRADE SEROUS CARCINOMA.
+
+17/9/66 ld
+SUPPLEMENTARY REPORT 21/6/66
+Immunostains for MSI proteins (KB Home	Los Angeles RHW; block: B2) Performed at the request of FRANSISCA Swackhammer
+MLH1: Intact (normal)
+PMS2:  Intact (normal)
+MSH2:  Intact (normal)
+MSH6:  Intact (normal)
+Comment:
+Positive staining of a carcinoma for MLH1,  PMS2,  MSH2  and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+22/6/70 ld

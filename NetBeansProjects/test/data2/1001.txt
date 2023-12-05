@@ -1,0 +1,54 @@
+Episode No:  88Y206206L
+8892062.BPL
+
+Vatterott, Jerrie CLARENCE 
+Lab No:  88Y20620,88Y20620
+Exeter
+DECEPTION BAY  Northern Territory  6845
+Specimen: Fluid,Tissue
+D.O.B:  15/11/2004
+Sex:  F
+Collected: 20/5/2064 at :
+Location:  PARKES 8 - GUNNEDAH DISTRICT HOSPITAL
+DR Edison Clay GOLDHIRSH
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Bilateral pelvic masses.  Phx lobular breast cancer 2059, 33 positive nodes, chemo. 
+1.  Ascites.  
+2.  Right tube and ovary (frozen section)
+3.  Left tube and ovary.
+4.  Omental biopsy.  
+PR, ER and HER2.
+MACROSCOPIC:
+A.  Specimen labelled "Right tube and ovary" consists of an enlarged solid ovary measuring 90 x 60 x 40mm with attached tubes 60mm in length.  The total weight is 123g.  The ovary has a solid yellow and haemorrhagic appearance with small microcysts in one area.  
+(Blocks: 1 - one TS through solid yellow area; 2 - one TS through cystic area.)  
+Blocks: 1 & 2 - frozen sections; 3 & 4 - representative (ER,PR, HER2, Ki-67 requested on block 3); 5 - representative fallopian tube.  
+FROZEN SECTION REPORT:
+Signet ring carcinoma consistent with lobular carcinoma from breast (pt has past history of lobular Ca with 33 pos LN in 2059)
+Result to Dr Sek via anaesthetist by A/Prof X Standrew at 9:30am on 18/3/14.  
+  
+B.  Specimen labelled "Left tube and ovary" consists of an ovary measuring 45 x 30 x 15mm with attached fallopian tube 40mm in length and up to 12mm in diameter.   Slicing the ovary reveals a lobular, solid cut surface with pale yellow and haemorrhagic areas.  
+Blocks: 1 & 2 - representative sections of the ovary; 3 - representative sections of the fallopian tube.
+C.  Specimen labelled "Omental biopsy" consists of a piece of fibrofatty tissue measuring 55 x 35 x 4mm.  No nodules are identified.  AE 3 blocks.  
+(TO: KH/ta 21/5/64) 
+MICROSCOPIC (Reported by Dr X Karma): 
+A & B.  Sections show metastatic lobular carcinoma widely involving both ovaries and tubes.  The malignant cells are arranged in sheets, nodules and cords.  Prominent intracytoplasmic mucin vacuoles giving a 'signet ring' appearance are present.
+The tumour is strongly positive for ER, negative for PR and shows 2+ Her2 staining.  (Material has been sent to HALLS CREEK HOSPITAL Hospital for further Her2 studies).
+C.  The omentum shows no evidence of malignancy.
+DIAGNOSIS:
+Metastatic lobular breast carcinoma involving both ovaries and tubes.
+(Please see recent cervical biopsy report 88Y20620).
+ADDITIONAL REPORT:  (30.5.64)
+Blocks were sent to TRANGIE MULTI PURPOSE HEALTH SERVICE Hospital for Her2 IHC analysis, Dr X Spittler reports:
+HER2 IHC Result:   2+ at POW.
+Signal Detection has been performed for the Her2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventanta INFORM Her2 Dual ISH DNA Probe Cocktail Assay (Roche). 
+Her2 Dual ISH result: NEGATIVE (non-amplified, polysomy). 
+Mean Her2 copy number per cell: 4.9.
+Mean CEP17 copy number per cell:  3.4.
+HER2/CEP17 ratio:  1.44
+SCORING CRITERIA (ASCO/CAP recommendations):
+Negative:  HER2/CEP17 <1.8.
+Equivocal:  HER2/CEP17 = 1.8-2.2.
+Positive:  HER2/CEP17 >2.2.
+ 
+

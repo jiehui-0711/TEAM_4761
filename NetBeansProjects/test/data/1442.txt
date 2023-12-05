@@ -1,0 +1,59 @@
+ 0149699.DQS
+Stealy, Jerrold Jacinto
+01M96991
+
+Last edited : 2/6/2063		Page: 2
+CLINICAL:
+Sigmoid cancer.  
+MACROSCOPIC:
+A.  Specimen labelled "Anterior resection bowel" consists of an unorientated piece of colon measuring 300mm in length and up to 40mm in maximum diameter.  The external surface has an area of serosal puckering 40mm in length.  This area is located 100mm from one of the surgical margins and 190mm from the opposite surgical margin.  On sectioning there is a circumferential exophytic and ulcerated tumour measuring 50mm from proximal to distal.  The tumour is located 100mm from surgical margin and 200mm from the opposite surgical margin.  On sectioning the tumour has a maximum thickness of 11mm and invades the wall through the serosal surface.  Apart from the tumour, multiple diverticula are identified.
+Blocks:  1 & 2 - proximal and distal surgical margins; 3 to 7 - representative tumour; 8 - diverticulum; 9 - apical lymph node; 10 - four lymph nodes; 11 - five lymph nodes; 12 - four lymph nodes; 13 - five lymph nodes.
+Extra blocks: 16 to 35 possible nodes
+Note: Specimen arrived at EMERGENCY Pathology on 24/6/63 unfixed.
+B.  Specimen labelled "Distal donut" consists of a donut of colon 10mm in length and 10mm in diameter.  AE 2 blocks.
+(EW/bl 25/6/63)
+MICROSCOPIC (Reported by Dr A Rudell):
+Site of tumour: Sigmoid colon
+Maximum tumour diameter:   50mm
+Distance of tumour to nearer cut end:   100mm
+Tumour perforation:     No
+Type
+Adenocarcinoma NOS (focal mucinous differentiation in < 50% of lesion)
+Differentiation by predominant area
+Moderate
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Lymph nodes
+Number of lymph nodes present: 25	
+Number of lymph nodes involved: 0	
+pN0	No regional LN metastasis
+Lymphovascular invasion
+Absent
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+Diverticular disease is present.
+The distal donut (specimen B) shows no evidence of dysplasia or malignancy.
+Residual tumour status
+R0	No residual tumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+Summary - TNM 7th Edition
+pT3     pN0     pMX     R0	
+
+
+DIAGNOSIS:
+A and B. Sigmoid colon and distal donut:
+	Moderately differentiated adenocarcinoma invading pericolic fat, margins clear
+	25 lymph nodes with no evidence of malignancy
+
+

@@ -1,0 +1,47 @@
+
+Episode No:  23R039229P
+2360392.HYP
+
+Strachn, SCARLETT 
+Lab No:  23R03922,23R03922
+Appomattox
+NURIOOTPA  Queensland  3965
+Specimen: Washings,Tissue
+D.O.B:  30/12/2004
+Sex:  F
+Collected: 1/10/2065 at ::  WEST GYNAECOLOGY - KURRI KURRI DISTRICT HOSPITAL
+DR Dexter Caleb HYNUM
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+R obturator lymph node.  Endometrial Ca.  Thyroid cancer.  Thyroidectomy.  Obesity.  Hypertension.
+MACROSCOPIC:
+A.  Specimen labelled "Right obturator lymph node" consists of a piece of fatty tissue 60 x 45 x 8mm.  Three likely lymph nodes are identified 8, 12 and 20mm.
+Blocks:  1 - one lymph node; 2 - one lymph node; 3 & 4 - one lymph node.
+FROZEN SECTION REPORT:
+Three negative nodes.
+Result to Dr H Aburto by Dr H Osswald at 3:57pm on 01.10.2065
+B.  Specimen labelled "Uterus, cervix, bilateral tubes and ovaries", received in formalin, already opened, consists of a uterus with attached cervix, bilateral fallopian tubes and ovaries weighing 87g.  The uterus measures 75 x 50 x 45mm.  It has a smooth serosal surface.  The posterior margin is inked blue and the anterior margin is inked black.  The ectocervix measures 25 x 25mm and has an unremarkable surface. The myometrium is 23mm in maximum thickness.  On sectioning, there is an ill-defined endometrial tumour towards the fundus measuring roughly 48 x 35mm in surface dimension.  The tumour appears to be penetrating the myometrium. The tumour is up to 17mm in depth where  the thickness of the body of the uterus is 21mm (block 12).  The right ovary measures 20 x 10 x 10mm and has an unremarkable cut surface.  The right fallopian tube measures 60mm in length and up to 6mm in maximum diameter.  The left ovary measures 20 x 10 x10mm and has an unremarkable cut surface.  The left fallopian tube measures 60mm in length and up to 6mm in diameter.
+Blocks:  1 to 4 - full LS of anterior body and cervix; 5 to 7 - full LS of posterior body and cervix; 8 - section of tumour; 9 - section of tumour reserved block;10 & 11 - paired sections of tumour; 12 - ?deepest penetration of tumour; 13 - right fallopian tube and ovary; 14 - left fallopian tube and ovary.
+C.  Specimen labelled "Right external iliac lymph node" consists of fragments of fatty tissue and solid nodular tissue 42 x 35 x 10mm in aggregate.  The solid nodular piece measures 35 x 20 x 10mm.
+Blocks:  1 to 3 - the nodular piece of tissue (?one lymph node); 4 - theremaining tissue.  AE.
+D.  Specimen labelled "Left obturator node" consists of fragments of fatty tissue 45 x 30 x 10mm in aggregate.  Several lymph nodes are identified.  The largest is 30mm in maximum dimension.:  1 - ?lymph node as seen; 2 & 3 - one lymph node; 4 - ?one lymph node bisected; 5 & 6 - one lymph node.  AE.
+E.  Specimen labelled "Left external iliac lymph node" consists of fragments of fatty tissue 50 x 35 x 15mm in aggregate.  There is one lymph node 30 x 20 x 6mm.  The cut surfaces of the lymph node are predominantly fatty.
+Blocks:  1 & 2 - one lymph node; 3 & 4 - the remainder.  AE.
+(TO: ZL; HY/rt 2.10.65)
+MICROSCOPIC (Reported by Dr H Pravata):
+A.  Three lymph nodes show no evidence of malignancy.
+B.  Sections show a grade 2 endometrioid adenocarcinoma of the endometrium.  The tumour has a maximum depth of invasion of 14mm through a wall 19mm thick.  Focal lymphvascular invasion is seen.  The ectocervix and endocervix are uninvolved and unremarkable.  Both ovaries and tubes are unremarkable.
+C.  Two lymph nodes show no evidence of malignancy.
+D.  Three lymph nodes show no evidenceof malignancy.
+E.  Two lymph nodes show no evidence of malignancy.
+DIAGNOSIS:
+Grade2 endometrioid adenocarcinoma of the endometrium, depth 14mm through a wall 19mm thick.  Focal lymphvascular invasion.  Cervix uninvolved.  Ten (10) negative lymph nodes.
+ADDITIONAL REPORT 15/10/65:
+Immunoperoxidase stains for MSI proteins:
+MLH1:  Loss of nuclear staining
+PMS2:  Loss of nuclear staining 
+MSH2:  Preserved nuclear staining
+MSH6:  Preserved nuclear staining
+Comment:  
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+

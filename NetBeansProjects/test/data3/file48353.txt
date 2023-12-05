@@ -1,0 +1,23 @@
+SPR no: 34H394353J
+MRN no: 34239435
+Site_name: SEYMOUR HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Stage IVa peritoneal cancer.  Diagnosed as poorly differentiated adenocarcinoma from ascitic fluid cytology.  Neoadjuvant chemo x 3 cycles.  For interval debulking today.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Uterus, cervix B/L tubes plus ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 71g in total.  The uterus measures 60 x 30 x 30mm and has a variably pale smooth and roughened serosal surface.   The ectocervix measures 20 x 25mm and has an unremarkable surface.  The right fallopian tube measures 37mm in length with a maximum diameter of 5mm, and the right ovary measures 25 x 13 x 17mm and has an unremarkable cut surface.  The left fallopian tube measures 36mm in length with a maximum diameter of 6mm.  It has paratubal cysts.  The left ovary measures 27 x 13 x 14mm and has an unremarkable cut surface.  There are fatty deposits below both ovaries, on the right side measuring 16 x 11 x 7mm, and on the left side measuring 15 x 19 x 16mm.  On sectioning the endometrium is 1mm in maximum thickness, and the myometrium is 20mm in maximum thickness.  The anterior myometrium has a 5mm intramural fibroid towards the serosal surface.  The posterior myometrium contains two fibroids ranging in size up to 8mm in diameter.
+Blocks: 1 to 3 - full LS of anterior body and cervix; 4 - RS anterior fibroid; 5 to 7 - full LS of posterior body and cervix; 8 - LS right fimbriae; 9 - two TS right fallopian tube; 10 to 11 - three TS right ovary; 12 - RS right parametrial fat; 13 - LS left fimbriae; 14 - four TS left fallopian tube; 15 to 16 - three TS left ovary; 17 - RS left parametrial fat.  Please refer to blocking diagram.
+B.  Specimen labelled &amp;quot;Gastro - colic ligament&amp;quot;, consists of two pieces of fat, the first measures 35 x 15 x 15mm, the second measures 40 x 40 x 35mm.  Both pieces contain a single suture.  No discrete nodule is identified, however there are pale firm bands through the fatty tissue.
+Blocks: 1 and 2 - smaller piece serially sectioned; 3 to 6 - RS from larger piece.
+C.  Specimen labelled &amp;quot;Transverse mesocolon nodule&amp;quot;, consists of a tan piece of tissue 4 x 2 x 2mm.  AE 1 block.
+D.  Specimen labelled &amp;quot;Small bowel nodule&amp;quot;, consists of two pale and tan pieces of tissue, the first measures 11 x 1 x 1mm, the second measures 12 x up to 5 x 2mm.  AE 1 block.
+(TO:NM/rs 28/9/70)
+MICROSCOPIC (Reported by Dr I Neidhardt):
+A.  Sections show high grade serous carcinoma involving the surface of both ovaries, the paradnexal soft tissues, and the uterine serosa.  There is no carcinoma is situ of the tubal epithelium.
+The ectocervix and endocervix show no significant abnormality.  The endometrium is inactive.  The myometrium shows small leiomyomas.
+B.  The omentum shows extensive high grade serous carcinoma.  The Chemotherapy Response Score is 2 (of 3).
+C.  Sections show high grade serous carcinoma.
+D.  Sections show adhesions.  No definite carcinoma is seen.
+DIAGNOSIS:
+High grade serous carcinoma of probable peritoneal origin, extensively involving the omentum, also involving the surface of both ovaries, the paradnexal soft tissues, the uterine serosa and the transverse colon.

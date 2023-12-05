@@ -1,0 +1,164 @@
+SPR no: 41H225445E
+MRN no: 413225
+Site_name: BEAUFORT & SKIPTON HEALTH SERVICES - BEAUFORT CAMPUS
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report
+41H22544 (41H225445E) Angotti, Buster
+HISTOPATHOLOGY REPORT
+WONDAI HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca (DCIS with microinvasion), previous L breast Ca 2054.
+Frozen section. Left sentinel lymph node.
+S/C mastectomy recurrent L breast Ca.
+1. Left mastectomy suture 12 o&amp;apos;clock.
+2. Left intramammary lymph node.
+
+MACROSCOPIC:
+A. &amp;quot;SENTINEL LYMPH NODE LEFT&amp;quot;. A piece of fatty tissue, 25mm in diameter. A fatty node.
+F/S: &amp;quot;Negative&amp;quot; per phone to Dr. Wm at 8pm on 06/01/69 by Dr. L. Zwanzig.
+
+(1 frozen section (two TS); 2 remainder paraffin). RS (M-2)
+
+B.
+Specimen labelled &amp;quot; LEFT MASTECTOMY SUTURE 12 O&amp;apos;CLOCK&amp;quot;.
+SPECIMEN SIDE: Left
+SPECIMEN TYPE:  Mastectomy
+SPECIMEN X-RAY:  No
+HOOKWIRE:  No
+SPECIMEN DIMENSIONS: 160x160x25mm
+WEIGHT:  405g
+SKIN:  80x25mm
+NIPPLE:  10mm across
+MUSCLE:  No
+MARGIN INKED:
+Non-standard: Anterosuperior - blue; Anteroinferior - green; Posterior - black.
+Specimen bi-valved in the coronal plane with a medial hinge followed by multiple parasagittal slices of anterior and posterior halves.
+FINDINGS / LESION: At 1-2 o&amp;apos;clock, about 30mm from the nipple, there is an area of patchy fibrotic fairly firm haemorrhagic foci, measuring about 40x40x25 mm.  At the inferior portion of the specimen, there is an area of scar approximately 40mm.
+(1 nipple; 2-7 full face of the area of interest(1-2 o&amp;apos;clock); 8-10 another full face from the posterior portion; 11-13 anterior margin; 14 and 15 posterior margin; 16-18 area of scar; 19 upper inner quadrant; 20 lower inner quadrant; 21 lower outer quadrant; 22 upper outer quadrant). RS (M-22)  (Further blocks : 23&amp;amp;24 superior to blocks 8&amp;amp;9; 25-28 inferior to blocks 8&amp;amp;9 from lateral to medial). RS ( M-28)
+C. &amp;quot;?INTRAMAMMARY LYMPH NODE&amp;quot;. Fibrofatty tissue, possibly of 5mm lymph node, embedded in Block 1. AE (1-1/SM 7/1/2072 cy)
+MICROSCOPIC: (Dr. L. Holdren)
+
+A-C.  INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI:  Two foci (within the same tumour bed of DCIS)
+Invasive Tumor one = 11mm (B7+B8 + B9+B25),
+Invasive Tumour Two = 1.5mm (B7)
+Number and size of individual foci:  Two foci
+Diameter of multifocal tumour bed:  40mm
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;11mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE:  Invasive carcinoma of no special type (ductal)
+&amp;#160;
+Tumour focus one:
+HISTOLOGIC GRADE:  2
+SCORES: Tubules:  2  , Nuclei:  2  , Mitoses:  2  ; Total score: &amp;#160;&amp;#160;(6 of 9)
+MITOTIC RATE: &amp;#160;9&amp;#160;mitoses per 10 high power fields ( Block B7)
+
+Tumour focus two:
+HISTOLOGIC GRADE:   2
+SCORES: Tubules: 3   , Nuclei: 2   , Mitoses:  1  ; Total score: &amp;#160;&amp;#160;(6 of 9)
+MITOTIC RATE: &amp;#160;3&amp;#160;mitoses per 6 high power fields
+
+WHOLE TUMOUR SIZE (INVASIVE + DCIS):  40mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION:  Not identifed
+&amp;#160;
+PERINEURAL INVASION:  Not identified
+&amp;#160;
+SKIN INVOLVEMENT:  Not identified
+
+DERMAL LYMPHOVASCULAR INVASION:  Not identified
+&amp;#160;
+NIPPLE INVOLVEMENT:  Not identified
+&amp;#160;
+MUSCLE INVOLVEMENT:  Not identified
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;Present
+
+DCIS size / extent:  40mm
+
+Nuclear grade:  High
+
+Architecture / type:  Solid, cribriform, comedo
+
+Necrosis:  Present
+
+Microcalcification of DCIS:  Present
+
+Extensive intraduct component:  Positive&amp;#160;
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+&amp;#160;
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:  Negative
+Distance of invasive tumour to margins:
+Anterior/superior:  6mm (B13)
+Posterior:  At least 17mm (B15)
+Inferior:  More than 25mm
+Medial:  More than 25mm
+Lateral:  More than 25mm
+&amp;#160;
+DCIS MARGINS:  Negative
+&amp;#160;
+Distance of DCIS to margins:  Same as those above.
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, block B7/B25
+
+Tumour One:&amp;#160;
+ER:  Positive &amp;#160;30 %, 2-3&amp;#160;+
+PgR:  Negative &amp;lt;1 % nuclei stain
+HER2: Positive 3+ (IHC, SISH to follow)
+Ki67:19 %
+&amp;#160;
+Tumour Two:&amp;#160;
+ER: Positive &amp;#160;1-2 %, &amp;#160;1+ (insufficient tumour cells for optimal assessment)
+PgR: Negative &amp;lt;1 % nuclei stain (insufficient tumour cells for optimal assessment)
+HER2: Positive 3+ (IHC, SISH to follow)
+Ki67: 12% ((insufficient tumour cells for optimal assessment)
+
+Myoepithelial and basal cell markers ( SMA , P63 and CK5/6 ) show negative staining in the invasive foci.
+
+Other tumour block suitable for further testing:  B7
+&amp;#160;
+SEPARATE FINDINGS: &amp;#160;Biopsy site changes are is present adjacent to DCIS.
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES:  Not involved - Specimen A (0/2 )
+INTRAMAMMARY LYMPH NODES:  Not involved - Specimen C (0/1)
+
+Nodes with macrometastases:  0
+Nodes with micrometastases:  0
+Nodes with isolated tumor cells:  0
+Total number of nodes examined:  3 (two in specimen A and one in specimen C)
+&amp;#160;
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition):  pT1, pN0
+
+DIAGNOSIS:
+A.  SENTINEL LYMPH NODE LEFT -
+- NO EVIDENCE OF MALIGNANCY IN TWO EXAMINED LYMPH NODES (0/2).
+B.  LEFT MASTECTOMY SUTURE 12 O&amp;apos;CLOCK -
+- TWO FOCI OF INVASIVE CARCINOMA OF NO SPECIAL TYPE (DUCTAL) MEASURING 11mm AND 1.5mm  ON A BACKGROUND OF HIGH GRADE DUCTAL CARCINOMA IN SITU (DCIS) .
+- MARGINS ARE CLEAR.
+- ER POSITIVE , PR NEGATIVE
+- HER2 POSITIVE (ON IHC) , HER-2 SISH TO FOLLOW.
+C.  INTRAMAMMARY LYMPH NODE
+- NO EVIDENCE OF MALIGNANCY IN ONE EXAMINED LYMPH NODE (0/1).
+8/1/2072 km / ZH
+SUPPLEMENTARY REPORT:
+HER-2 IN-SITU HYBRIDISATION
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+Mean HER2 copy number per cell: 13.3
+Mean CEP17 copy number per cell: - (weak signal)
+HER2/CEP17 Ratio: -
+HER2 status:       POSITIVE
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122.
+Reported by: Dr L Schmierer
+Date: 19.2.72

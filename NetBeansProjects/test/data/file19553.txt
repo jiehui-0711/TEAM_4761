@@ -1,0 +1,73 @@
+DateOfBirth
+198803290000
+
+
+SiteName
+WILLIAMSTOWN HOSPITAL
+
+
+FirstName
+Batton
+
+
+SPRID
+41G663138N
+
+
+MRN
+41266313
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+CLINICAL:
+87 F metastatic ovarian cancer. Laparotomy, debulking and small bowel wedge resection.
+
+
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Small bowel&amp;quot;, consists of a segment of bowel 40mm in length and a diameter of 24mm. The serosal surface is mildly haemorrhagic with multiple pale firm nodules 2 to 4mm. There is a small amount of attached mesenteric fact up to 5mm in maximum width. One margin arbitrarily inked blue, the opposite margin is arbitrarily inked black. There is a 4mm nodule identified within the mesenteric fat. Blocks: 1 and 2 - LS of bowel segment; 3 and 4 - second LS of bowel segment (both segments include serosal nodules); 5 - mesenteric fat with nodule.
+
+B.  Specimen labelled &amp;quot;Omental cake&amp;quot;, consists of two pieces of fatty tissue 75 x 65 x 25mm in aggregate with nodular areas of tumour occupying approximately 65 x 40mm. RS 3 blocks. (TO:JT/vo 3/2/70)
+
+
+MICROSCOPIC (Reported by Dr L Dressen):
+A.  Sections show high grade serous carcinoma involving the small bowel serosa, muscularis propria and lamina propria.  Lymphatic invasion is seen.  One surgical margin has carcinoma in the serosa and the other has carcinoma in the serosa and muscularis propria. One involved lymph node is identified.
+
+B.  The omentum shows extensive high grade serous carcinoma.  There is a partial response to chemotherapy / Chemotherapy Response Score of 2.
+
+
+DIAGNOSIS:
+High grade serous carcinoma involving the small bowel serosa, muscularis propria and lamina propria, and the omentum.
+
+
+
+
+
+
+
+
+SpecimenReceivedDate
+2846-12-05 00:00:00
+
+
+LastName
+Jude

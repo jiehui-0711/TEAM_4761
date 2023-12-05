@@ -1,0 +1,43 @@
+SPR no: 60Q007002W
+MRN no: 6060070
+Site_name: WESTERN HEALTH - MELTON HEALTH
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportEpisode No:  60Q007002W
+6060070.AHW
+
+TOUT, SHELDON
+Lab No:  60Q00700
+Castlefield
+DANDENONG  New South Wales  5052
+Specimen: Tissue
+D.O.B:  7/4/1999
+Sex:  F
+Collected: 02/04/2015 at 14:54
+Location:  Douglas Hanly Moir-GATTON HOSPITAL
+DR CARMINE ARDEN CUNNINGTON
+Distribution:    NSW-CANCER-REGISTRY
+CLINICAL:
+Left posterior thigh, ?liposarcoma.
+MACROSCOPIC:
+Specimen received fresh.  Sample taken for cytogenetics.  Formalin added to remainder.  (JL, 02.04.15 at 1550hrs).
+Specimen received non-oriented.  There is a single suture in the deep fibroadpose tissue.  Dr MONTY RIORDAN (surgical registrar) attended the department to orient the specimen.  He advised the suture marks the inferior aspect of the specimen and the specimen is orientedaccordingly.  (JB, 07.04.15 at 1300hrs).
+
+Specimen labelled &amp;#8220;Left thigh lipoma&amp;#8221;, consists of a overlying ellipse of skin (140 x 27mm), with an underlyinglobulated fatty mass (270 x 230 x 45mm).  The specimen weighs 1.2kg.  There is a liner scar on the skin surface (75mm length; 4mm width).  A single suture located within the fibroadipose tissue marks inferior.  On sectioning, the specimen has a relatively homogenous fatty appearance.  There is one focal area of ?myxoid change towardsthe inferior aspect of the specimen.  Definitive lesional areas cannot be identified macroscopically.  RS.  Please refer to photo/block diagram.
+Blocks: 1 &amp;amp; 2 &amp;#8211; TS superficial region slice nine; 3  &amp;#8211; TS mid medial portionslice nine; 4 -  TS mid lateral portion slice nine; 5 to 9 &amp;#8211; LS slice twelve (most inferior slice); 10 &amp;#8211; LS inferior skin apex slice twelve; 11 &amp;#8211; TS mid medial portion slice eleven; 12 &amp;#8211; TS mid lateral portion slice eleven; 13 &amp;#8211; TS deep portion slice eleven; 14 &amp;#8211; TS skin slice ten; 15 &amp;#8211; TS medial portion slice ten; 16 &amp;#8211; TS lateral portion slice ten; 17 &amp;#8211; TS deep portion slice ten; 18 &amp;amp; 19 &amp;#8211; LS slice one; 20 &amp;#8211; LS superior skin apex slice four; 21 &amp;#8211; TS medial portion slice three; 22 &amp;#8211; TS lateral portion slice three; 23 &amp;#8211; TS deep portion slice three; 24 &amp;#8211; TS skin slice seven; 25 &amp;#8211; TS medial margin portion slice seven; 26 &amp;#8211; TS lateral portion slice seven; 27 &amp;#8211; TS deep portion slice seven.
+(TO: JB; JB/ta 6/9/65)
+
+MICROSCOPIC (Reported by Dr R Kabanuck):
+Sections show skin, subcutis, fascia and underlying soft tissue with a small amount of striated muscle at the medial margin. The approximately 270mm tumour is a well differentiated liposarcoma with predominantly lipoma-like and focal sclerosing areas. The tumour is composed of adipocytes which show significant variation in cell size with scattered easily identified hyperchromatic enlarged nuclei as well as atypical stromal cells within fibrous septae.  A rare lipoblast is identified.  The tumour appears confined below the fascia with noinvolvement of the subcutis or dermis where there is scar tissue and suture granulomas evidencing previous surgery.  No de-differentiated areas or necrosis is seen.  The tumour infiltrates the small amount of striated muscle medially at the medial margin (block 21).  As is typically the case the margins are difficult to assess due to the scattered nature of atypical lipocytes , however lobules of fat containing these cells and showing cell size variation, extend to mostmargins across a broad front and are regarded as positive. The tumour is lipoma-like in these areas.
+The margins of clearance are as follows:
+Medial:		Positive (eg block 2, 11, 15 and 25).
+Lateral:	Positive (block 4).
+Deep:		Positive (block 13 and 17).
+Inferior:	Abuts margin with thin intervening pseudocapsule.
+Superior:	0.3mm with thin intervening pseudocapsule.
+DIAGNOSIS:
+Left thigh (wide local excision):
+-   Well differentiated liposarcoma with predominantly lipoma-like and focal sclerosing areas.
+-   No de-differentiated areas seen.
+-   Margins positive (see text).
+-   Cytogenetic analysis pending, result to follow in a supplementary report.

@@ -1,0 +1,38 @@
+SPR no: 62G640313P
+MRN no: 6226403
+Site_name: TWEDDLE CHILD AND FAMILY HEALTH SERVICE
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Recurrent endometrial cancer.  Specimens from resection of pelvic mass and bowel resection
+NB: THE PROVIDED CLINICAL HISTORY IS INCORRECT.  PATIENT HAD A TAHBSO IN 2057 FOR AN ADULT TYPE GRANULOSA CELL TUMOUR OF THE RIGHT OVARY.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Ileum&amp;quot;, consists of a segment of small bowel (320mm length by 50mm circumference) and attached mesentery (up to 35mm width).  The one end of bowel is folded over onto itself and the serosa is adherent over a length of approximately 70mm.  The adhesions have a tan/pale yellow/haemorrhagic appearance; definitive tumour is not identified.  The remaining bowel serosa is haemorrhagic and slightly nodular, ?tumour deposits.  The bowel mucosa shows no significant abnormality.  The bowel margins are inked blue.  Lymph nodes are not identified in the mesentery.
+Blocks:  1 -  LS bowel margins; 2 to 6 - representative adhesions (2 &amp;amp; 3 - paired blocks); 7 - haemorrhagic serosa.
+
+B.  Specimen labelled &amp;quot;Bladder nodule&amp;quot;, consists of numerous fragments of soft tissue, at least partly necrotic, 100 x 90 x 50mm in aggregate.  Areas of pale grey, possibly viable tumour is identified, approximately 50mm in maximum aggregated dimension.
+Blocks:  1 to 5 - ?tumour.
+
+C.  Specimen labelled &amp;quot;Right proximal external iliac nodule&amp;quot;, consists of a soft piece of tissue, 44 x 30 x 25mm, with a smooth and grey surface.  The outer surface is inked blue.  On the sectioning, the tumour has a pale grey and haemorrhagic appearance.  RS 3 blocks.
+
+D.  Specimen labelled &amp;quot;Right distal external iliac nodule&amp;quot;, consists of numerous fragments of tan and haemorrhagic tissue, 50 x 40 x 15mm in aggregate.  RS 3 blocks.
+(TO: JB; JB/eh 15/5/2065)
+
+
+MICROSCOPIC (Reported by Dr R Szeto):
+The previous report 62G64031 is noted.
+
+A.  Sections of the ileum show dense serosal adhesions admixed with scattered deposits of granulosa cell tumour.  The remainder of the ileum is unremarkable.  The surgical margins are free of tumour.
+
+B.  Sections show deposits of poorly differentiated granulosa cell tumour.
+
+C &amp;amp; D.  Sections show deposits of moderately to poorly differentiated granulosa cell tumour, which are partially necrotic and haemorrhagic.
+
+ER &amp;amp; PR stains are pending.
+
+
+DIAGNOSIS:
+Recurrent moderately to poorly differentiated granulosa cell tumour involving the ileal serosa, the bladder, and right proximal and distal external iliac regions.
+
+ADDITIONAL REPORT 20/4/69:
+The tumour is strongly positive for ER &amp;amp; PR.

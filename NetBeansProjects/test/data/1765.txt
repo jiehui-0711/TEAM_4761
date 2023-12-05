@@ -1,0 +1,80 @@
+
+Episode No:  26U794523D
+267794.PHK
+
+Dockum, Earnest 
+Lab No:  26U79452
+Chateaugay
+LEETON  NT  6466
+Specimen: Tissue
+D.O.B:  24/6/2003
+Sex:  M
+Collected: 03/06/2014 at 11:46
+Location:  DICKINSON 3 SOUTH-TRESILLIAN FAMILY CARE CENTRE - WILLOUGHBY
+DR DHIRRI WINFRED Spencer-MERICKEL
+Distribution:  DR Tilotta
+ADDITIONAL REPORT (13/9/64)
+
+CLINICAL:
+Right parietal tumour.  GBM.  Previous history of melanoma from chest.  
+MRI (4/8/64): Heterogeneous  enhancing  intra-axial  mass  that  crosses  the  splenium  and  has  satellite  lesions,  most  likely  representing  a  glioblastoma  multiforme,  but  could  represent  a  metastasis.
+MACROSCOPIC:
+A.  Specimen labelled "Right parietal tumour" consists of five fragments of pale tissue 2 to 6mm.  Two smears taken and the remainder is AE for frozen section.  
+Blocks:  1 - frozen section one; 2- frozen section two.
+FROZEN SECTION REPORT:
+Glioblastoma multiforme.
+Phone results to neurosurgical registrar by Dr G Peasel/G Beere (shown to Dr G Rodebaugh) at 14.25 on 5.8.64
+B.  Specimen labelled "Parietal tumour" consists of fragments of cream haemorrhagic and tan tissue measuring 40 x 40 x 10mm in aggregate.  Normal brain tissue is identified.  Representative sections in 3 blocks (approximately 80% of tissue embedded.  (TO: IA:  TG/mm 6.8.64) 
+MICROSCOPIC (reported by Dr G Kaneakua):
+A and B. Sections show cortical tissue with high grade glioma.  The lesion is highly cellular, and is composed of tumour cells with enlarged, pleomorphic nuclei. Occasional giant tumour cells are seen. Scattered tumour cells have abundant eosinophilic cytoplasm, suggestive of gemistocytic differentiation. Scattered mitoses, palisading and non-palisading necrosis and focal endothelial proliferation are present.  In some areas there are tumour cells with round to elongated nuclei and cytoplasm with negative staining for GFAP.
+Immunohistochemical stains: 
+GFAP: focal +ve
+IDH1: -ve
+p53: +ve
+Ki67: up to 20%
+
+Molecular tests: 
+Tissue will be sent to DrMARIO FREDLINE, WILLIAMSTOWN HOSPITAL Cancer Centre for MGMT methylation testing.
+Tissue will be sent to TRUNDLE MULTI PURPOSE SERVICE's Hospital, GOULBURN, for 1p/19q and EGFR FISH.
+
+Block for potential treatment trial: 
+Tumour including the more proliferative nodules is best seen in block B2. 
+COMMENT:
+The findings are of a high grade glioma, with features favouring a primary glioblastoma (WHO grade 4). Focal features of possible oligodendroglial differentiation are present. Tissue with be sent for 1p/19q FISH testing to exclude anaplastic oligodendroglioma.
+
+
+DIAGNOSIS:
+A and B. Right parietal tumour: high grade glioma, favour primary glioblastoma (WHO grade 4)
+ADDITIONAL REPORT (13/8/64)
+Melanoma markers requested by Dr Maud Gordon.
+The majority of the tumour cells are positive for S100 (as expected for glioblastoma). Melan A, Mitf and HMB45 are negative.
+The diagnosis remains unchanged.
+ADDITIONAL REPORT (22.8.64)
+
+FISH analysis for 1p/19q LOH. 
+Reported by Dr G Filsaime, Med Onc's Pathology, 20.8.64.  
+"Results:
+This case was analysed for 1p/19q LOH using Vysis dual colour probe sets LSI 1p36/LSI 1q25 and LSI 19q13/19p13. Cut-off values were adopted from Smith et al. 2000 (J Clin Oncol:18;636-645) who defined a 1p/1q ratio of <0.85 and a 19q/19p ratio of <0.9 as indicating LOH. The case was also hybridised with Vysis LSI EGFR/ Cep7 dual colour probe pair to assess whether amplification of EGFR was present. 
+Chromosome 1
+Mean copies 1p per cell: 2.48.
+Mean copies 1q per cell: 2.33.
+1p/1q ratio: 1.06.
+Interpretation:  No 1p loss present. 
+Chromosome 19
+Mean copies 19q per cell: 3.29.
+Mean copies 19q per cell: 3.14.
+19q/19p ratio: 1.05.
+Interpretation:  No 19q loss present; polysomic. 
+EGFR: 
+Mean copies of EGFR per cell: 31.3.
+Mean copies cep7 per cell: 2.11.
+EGFR/cep7 ratio: 14.8.
+Interpretation:  High level EGFR amplification present.
+Conclusion:   
+Negative for Ip/19q loss, EGFR amplification present; consistent with (primary) glioblastoma". 
+ADDITIONAL REPORT (13/9/64)
+Tissue was sent to Dr Franklin Debuhr, TRANGIE MULTI PURPOSE HEALTH SERVICE Cancer Centre for MGMT methylation testing:
+"DNA was extracted from paraffin tissue from STANLEY TURNEER (26U79452). 
+The DNA was bisulphite modified and subjected to pyrosequencing to amplify a region of the MGMT promoter in order to detect methylation. 
+The sample was tested twice with the appropriate controls and was found to beunmethylated (4.5%) at the MGMT promoter region."
+

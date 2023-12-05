@@ -1,0 +1,71 @@
+
+Episode No:  08K818448E
+0838184.LWE
+
+RIEDLE, EDGARDO 
+Lab No:  08K81844
+Sharrotts
+ESPERANCE  Tasmania  2336
+Specimen: Tissue
+D.O.B:  8/4/2025
+Sex:  F
+Collected: 24/10/2064 at 12:17
+Location:  ACT Genetic-MAITLAND HOSPITAL (NSW)
+DR Hung Romeo Brugman
+Distribution:    NSW-CANCER-REGISTRY, DR Manuel
+ADDITIONAL REPORT 22/3/65
+
+CLINICAL:
+Liver metastasis.  Right hemicolectomy.  Segment 7.
+MACROSCOPIC:
+Specimen labelled "Liver metastasis", consists of segment of liver 120 x 70 x 50mm, weighing 224g.  Within the liver is a circumscribed tan nodule 75 x 45 x 42mm.  The nodule extends to the liver capsule across an area 70mm across.  The tumour nodule is 17mm clear of the resection margin.  The uninvolved liver appears unremarkable.  
+Blocks: 1 - tumour with closest margin; 2and 3 - tumour with liver capsule; 4 and 5 - tumour with uninvolved liver; 6 - uninvolved liver.  (TO: RS;ZV/vo 27.10.64) 
+MICROSCOPIC (Reported by Dr A Guziak/Dr A Fullbright):
+The liver contains a single 75mm subcapsular deposit of moderately differentiated adenocarcinoma.  The tumour is composed of malignanttubular or complex glands containing abundant luminal necrosis with patchy associated dystrophic calcification.  The vast majority of the tumour is viable, with less than 10% necrosis.  The tumour extends close to a serosal lined surfacebut no serosal involvement is seen.  The carcinoma is 13mm clear of the resection margin.  
+Immunohistochemistry:
+The tumour cells stain as follows:
+Positive:  CDX2 (diffuse) and CK20 (patchy with weak control)
+Negative:  CK7 and TTF1
+The morphological appearance and immunoprofile are consistent with ametastasis from a colorectal primary
+The uninvolved liver shows preserved lobular architecture, and a mild to moderate degree of predominantly centrilobular macrovesicular steatosis.  No steatohepatitis is seen.  No iron or copper deposition is identified with special stains.
+DIAGNOSIS:
+Segment 7 liver resection:Metastatic colorectal adenocarcinoma, margins clear.
+MOLECULAR ONCOLOGY REPORT: 22/3/65
+PETER MACCALLUM CANCER CENTRE Hospital - Prof COLUMBUS A'Lavadera
+
+REPORT
+MUTATION ANALYSIS IN DNA EXTRACTED FROM TUMOUR
+Your Reference Number: Received 1 x paraffin block (08K81844 3) from Cisco ST MARGARETS REHABILITATION CENTREHospital.
+Clinical information: Resection of liver recurrence colon adenocarcinoma. KRAS testing - primary malignant polyp DBH September 2061 OR liver metastasis - segmentectomy (CONCORD REPATRIATION HOSPITAL 24/9) see path reports).
+Material provided: The H&E section shows liver with adenocarcinoma over an area of 20 x 12mm. On the whole section tumour represents approximately 60% of the section. Macrodissection not required.
+Results: KRAS G12C MUTATION DETECTED
+
+Gene  KRAS  
+Location in Gene  Exon2 
+Nucleotide change in coding DNA  c.34G>T	   
+Predicted amino acid change inprotein  p. Gly 12Cys 
+COSM Database ID  516      
+Alternative nomenclature  G12C
+
+Therapeutic implication: Multiple studies have now shown that patients with tumours harbouring mutations in KRAS are unlikely to benefit from anti-EGFR antibody therapy (Ref: Bardelli & Siena J Clin Oncol 2010;28: 1254-1261).
+Test description: This test profiles a broad range of somatic mutations from 19 common oncogenes (ABL1, AKT1, AKT2, BRAF, CDK4, EGFR, ERBB2, FGFR1, FGFR3, FLT3, JAK2, KIT MET, HRAS, KRAS, NRAS, PDGFA, PIK3CA and RET) using the OncoCartatm panel v10. This panel is intended to assist the selection of targeted therapies for cancer patients. Mutation analysis is performed on DNA isolated from FFPE tissue. The relevant targetregions are amplified in 24 multiplex PCR reactions and the presence of mutation(s) is determined by a single nucleotide primer extension assay and analysed using mass spectrometry. Any reported mutation is called with high confidence (i.e. the proportion of a mutant allele is 10% or more). This oncogene panel can detect 238 mutations including the following clinically relevant mutations in the EGFR (NM_005228), KRAS (NM_004985) and BRAF (NM_004333) genes. For a full list of the 238 mutations tested, please see http://www.sequenom.comlhome/productsservices/genetic/analysis/applications/oncocartal/
+
+Gene -		           Target Mutation
+EGFR Exon 18	E709K, E709A, E709G, E709V, G719S, G719C, G719A
+EGFR Exon 19	E746_A750del, E746_A75Odel V ins, L747_E749del A750P,          L747_S752del, L747_A75Odel,L747_T751delP ins
+EGFR Exon 20	T790M
+EGFR Exon 21	L858R, L861Q
+KRASExon 2	            G12A, G12C, G12D, GI2F, G12R, G12S, G12V, GOD, G13V
+KRASExon3	            A59T, Q61E, Q61K, Q61H, Q61L, Q61P, Q61R
+BR4FExon 15	D594V, D594G, F595L, G596R, L597S, L597R, L597Q,     L597V, T599I, V600E, V600K, V600R, V600L, K601N, K601E
+Comment:
+* Samples can contain a variable proportion of tumour cells to normal cells and there may also be tumour cell heterogeneity. If tumour cells represent less than 20% of the cells analysed the sensitivity of the assay may be reduced.
+* All PCR based molecular diagnostic tests are subject to a low risk of non-amplification of one allele due to primer binding site DNA variants. This can also lead to a false negative result.
+* The laboratory assumes an appropriate form of consent has been obtained.
+* This report should not be copiedor reproduced, except in its entirety.	
+SUMMARY:
+KRAS G12C MUTATION DETECTED. 
+
+Reported by Prof BENNIE A'Sirucek 2/13/64 
+
+

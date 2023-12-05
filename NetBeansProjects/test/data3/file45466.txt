@@ -1,0 +1,22 @@
+SPR no: 01O555878F
+MRN no: 10516354
+Site_name: SOUTH GIPPSLAND HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left parotid tumour, ?pleomorphic adenoma.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left parotid lesion&amp;quot;, consists of a red piece of unorientated tissue, 39 x 26 x 18mm.  At one aspect, there is a firm nodule, 20 x 16 x 14mm.  One side is inked blue, the opposite side inked black.  One 4mm piece of tissue, away from nodule taken as &amp;quot;normal&amp;quot; for tumour banking (per Dr WB).  A cut into the nodule was made, which had a fleshy red appearance. Discussed with KM - decided not to proceed with tumour banking from nodule.  Specimen into formalin.  (NM 23/06/70 15:20).  The cut surfaces appears to show this pale nodule abutting the blue inked margin, and is within 1mm of the black inked margin.  The specimen is serially TS into seven slices.  Blocks: 1 to 4 - parasagittal sections, slice one; 5 - slice two; 6 - slice three; 7 - slice four; 8 - slice five; 9 - slice six; 10 to 13 - parasagittal sections, slice seven.  AE.
+(TO:YS/ta 21/7/66)
+
+
+MICROSCOPIC (Reported by Dr A Kirgan):
+The 20mm tumour in the parotid is a pleomorphic adenoma. The tumour consists of bland epithelial elements arranged in cords, ducts and as single cells with myxochondroid stroma. The tumour is circumsribed and in areas has a thin fibrous capsule.  Elsewhere tumour directly opposes adipose tissue or parotid parenchyma. The majority of the tumour is separated from the margin by a thin plane of connective tissue, however, there are multifocal areas in which tumour abuts the margins. Two intraparotid lymph nodes are identified, one of which demonstrates an inclusion of salivary tissue. There is no carcinomatous transformation. There is multifocal extension of tumour to resection margins.
+
+
+DIAGNOSIS:
+Left parotid lesion:
+- Pleomorphic adenoma
+- Two benign lymph nodes (0/2).

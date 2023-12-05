@@ -1,0 +1,75 @@
+Episode No:  05E827031I
+051827.BID
+
+Dastrup, ERROL 
+Lab No:  05E82703
+Holme Wood Heysham
+BROADFORD  New South Wales  0815
+Specimen: Tissue
+D.O.B:  16/6/1997
+Sex:  F
+Collected: 17/01/2013 at 08:58
+Location:  ONCOLOGY (GYNAE)-HERVEY BAY HOSPITAL
+DR ZACHARIAH MONROE Boroughs
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+***SUPPLEMENTARY REPORT (4.7.2063): MICROSATELLITE MARKERS
+Dr B Garling
+
+CLINICAL:
+Whipple - pancreatic tumour.  
+MACROSCOPIC:
+Specimen labelled "Whipple" consists of Whipple's resection comprised of a segment of duodenum, 220 x 25mm, a gallbladder, 110 x 40 x 30mm, and head of pancreas, 70 x 50 x 50mm.  The external duodenal surface appears unremarkable.  The mucosal surface shows a polyp, 10 x 7mm.  The ampulla of Vater appears oedematous. The cystic duct is patent. The pancreas has a firm consistency.  It is inked anterior margin blue, posterior margin black, portal vein bed red, uncinate process green.  On sectioning, pancreas there is a very well circumscribed, fleshy solid tan pancreatic head tumour, 45 x 30 x 30mm.  The tumour is located 35mm from the neck margin, 8mm from the anteriormargin, 10mm from the uncinate margin, 5mm from the posterior margin and 12mm from the portal vein bed.  The external and internal surfaces of the gallbladder are unremarkable. No gallstones are identified.  Several enlarged peripancreatic lymph nodes are noted, 5mm to 20 mm.
+Blocks:  1 - proximal and distal duodenal margins; 2 - biliary duct resection margin; 3 - two transverse sections of biliary duct next to surgical margin; 4 - shave of pancreatic neck; 5 to 8- composite of full face of pancreas with biliary duct, ampulla Vater and tumour; 9 - tumour with anterior margin; 10 - tumour with posterior margin; 11 - tumour with portal vein bed; 12 - tumour ; 13 - tumour (reserve block); 14 - gallbladder neck; 15 - TS gallbladder body; 16 - LS gallbladder fundus; 17 - one lymph node; 18 - four lymph nodes; 19 - one bisected lymph node; 20 - bisected lymph node; 21 - one lymph node; 22 to 24 - three representative sections omentum; 25 - small bowel ?polyp.
+(BK/mm 19.3.63) 
+MICROSCOPIC: (Reported by Dr B Mcfarland - 20.3.2063)
+The 45mm pancreatic head tumour is a well differentiated pancreatic endocrine neoplasm, intermediate grade. A synoptic for pancreatic endocrine neoplasms follows:
+SYNOPTIC REPORT FOR WHIPPLE'S RESECTION 
+(NEUROENDOCRINE PANCREATIC TUMOUR):
+Tumour location: Pancreatic head.
+
+Histologic type (WHO classification): Well differentiated pancreatic endocrine neoplasm.
+
+Histologic grade (TNM grading system): Intermediate grade (2 - 50 mitoses/50 hpf OR foci of necrosis).
+
+Tumour size: 45mm (macroscopic). 
+Tumour description: The tumour is predominantly circumscribed and encapsulated with a partially separated tumour lobule identified focally. The tumour is composed of moderately pleomorphic neuroendocrine tumour cells arranged in variably thick trabeculae surrounded by an anastomosing network of thin walled vessels. Scattered tumour cells show marked pleomorphism and nuclear hyperchromasia. 
+Mitotic rate (mitoses per 50 hpf): 8 mitoses per 50hpf.
+Vascular space invasion: Not identified.
+Perineural invasion: Not identified.
+Perineural invasion of retroperitoneal (periuncinate) neural plexus: Not identified.
+Presence of unusual histologic features: Inconspicuous. 
+Presence of other pathological components: The adjacent pancreatic parenchyma shows patchy fibrosis, acinar atrophy, fat necrosis, autolysis and focal PAN-IN 1B. PAN-IN is not seen at the pancreatic neck margin. The sections of small bowel and ampulla appear within normal histologic limits. The separate small bowel "polyp" shows features of pancreatic heterotopia. The gallbladder shows mild non-specific chronic cholecystitis and is partiallyobscured by mucosal autolysis.
+Presence of non-ischaemic tumour necrosis: Not identified.
+Extent of invasion:
+Extension out of pancreas: Not identified.
+Involvement of serosal/peritoneal surfaces: Not identified. 
+Invasion of adjacent organs/structures: Not identified.
+Distance of invasive tumour from resection margins: 
+Posterior margin: 1.1mm.
+Anterior margin: 3.3mm.
+Portal vein bed: 9.0mm.
+Pancreatic neck: Clear of tumour (macroscopic). 
+Periuncinate soft tissue: Clear of tumour (macroscopic).
+Common bile duct: Clear of tumour. 
+Small bowel margins: Clear of tumour (>10mm). 
+Lymph nodes:
+Number of lymph nodes from main resection specimen: Six.
+Numberof involved lymph nodes from main resection specimen: None of six (0/6).
+Separately received lymph nodes: Not included. 
+Pathologic Staging (pTNM, AJCC 7th edition 2010)
+pTNM Stage = IB (pT2N0Mx)
+
+Immunohistochemistry:
+CD56: Diffuse strong positivity.
+Synaptophysin: Positive.
+Chromogranin: Focal weak positivity.
+Ki-67 immunoproliferative index: Variable, up to 3% of tumour cell nuclei positive.
+Other immunohistochemical stains: Not performed.
+DIAGNOSIS:
+Whipple's resection:
+45mm, pTNM stage IB, well differentiated endocrine neoplasm of pancreatic head, intermediate grade.
+Tumour is close to the posterior margin (1.1mm) and anterior margin (3.3mm) and is clear of the remaining margins (>5.5mm). 
+No evidence of malignancy in six peri-pancreatic lymph nodes (0/6).
+
+
+

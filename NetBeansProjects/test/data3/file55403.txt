@@ -1,0 +1,136 @@
+SPR no: 60W839553K
+MRN no: 608839
+Site_name: GLADSTONE HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology ReportSUPPLEMENTARY REPORT BELOW:
+60W83955 (60W839553K) Rosada, Eric
+HISTOPATHOLOGY REPORT
+WEST WIMMERA HEALTH SERVICE - JEPARIT HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca 3 o&amp;apos;clock 10cm FN
+Frozen section left sentinel lymph node
+L breast Ca 3-4 o&amp;apos;clock
+Wide local excision L breast, sutures = short-superior, long-lateral, medium-medial
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT SENTINEL NODE&amp;quot;.  Two lymph nodes 15 and 8mm.  One TS of each for frozen section.
+
+Frozen section result:  &amp;quot;Negative&amp;quot;.  Result to Dr Ray at 2:40pm, R. Kakowski 29/7/70
+
+(1 frozen section; 2 rest of lymph node 1; 3 rest of lymph node 2).  RS (M-3)
+
+B.  &amp;quot;WIDE LOCAL EXCISION LEFT BREAST&amp;quot;
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  Yes, a scattered hookwire is present in E7-H5 (widespread area)
+HOOKWIRE:  Yes, split hookwire located at F10, marked yellow
+SPECIMEN DIMENSIONS:
+Medial to lateral:  50mm
+Superior to inferior:  42mm
+Anterior to posterior:  16mm
+WEIGHT:  16g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard: Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from lateral to medial
+Number of slices: 7, marked area located in slice 3.
+FINDINGS / LESION:    There is an ill-defined lesion 5x5x5mm located in slice 3 surrounded by fibrocystic area, mostly in slices 2-6.
+MACROSCOPIC DISTANCE OF LESION/S TO MARGINS: Anterior 3mm, posterior 5mm,
+superior 6mm, and more than 15mm from the rest of the margins.  Specimen embedded entirely.
+(1 two LS slice 1; 2 two LS slice 1; 3 one LS slice 1; 4 slice 2; 5 slice 3; 6&amp;amp;7 slice 4; 8&amp;amp;9 slice 5; 10&amp;amp;11 slice 6; 12 two LS slice 7; 13 two LS slice 7; 14 two LS slice 7; 15 one LS slice 7).  AE (M-15 /MC 9/2/2067 nh)
+MICROSCOPIC: (Dr. R. Carolla)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA:
+&amp;#160;
+NUMBER OF INVASIVE FOCI: Single
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;3.5mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive carcinoma of no special type
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules: 3, Nuclei: 2, Mitoses: 1; MITOTIC RATE: 4&amp;#160;mitoses per 10 HPFs
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 45mm (including field of DCIS)
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Absent
+&amp;#160;
+PERINEURAL INVASION:  Absent
+&amp;#160;
+SKIN INVOLVEMENT: Absent
+
+DUCTAL CARCINOMA IN SITU (DCIS): &amp;#160;
+DCIS size / extent:  45mm field of DCIS present from medial slice to lateral slice (across entire specimen)
+Nuclear grade:  Intermediate grade
+Architecture / type:  Solid, cribriforming
+Necrosis: Present, focal
+Microcalcification of DCIS:  Present
+Extensive intraduct component: Absent
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Not identified
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS:
+2.5mm from anterior margin (B5)
+6mm from posterior and superior margins (B5)
+&amp;gt;10mm from all other margins
+&amp;#160;
+DCIS MARGINS:
+0.2mm from posterior margin (B11)
+3mm from anterior margin (B6)
+3.5mm from medial margin (B12)
+2.5mm from lateral margin (B1, B2)
+&amp;gt;5mm from other margins
+&amp;#160;
+ANCILLARY TESTS:  IMMUNOSTAINS
+ER: &amp;#160;Positive (moderate staining in 100% of cells)
+PgR: &amp;#160;Positive (strong staining in 80% of cells)
+HER2: &amp;#160;3+
+Ki67:  12%
+E-cadherin is positive.&amp;#160;
+SEPARATE FINDINGS:  Apocrine metaplasia, columnar cell change
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Two lymph nodes negative for malignancy.  Cytokeratin immunohistochemistry is negative.
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1a, pN0
+
+
+DIAGNOSIS:
+A-B.  LEFT SENTINEL NODE, WIDE LOCAL EXCISION LEFT BREAST:
+- Grade 2 invasive carcinoma of no special type, pT1a, pN0
+- Narrow posterior margin
+- Two sentinel lymph nodes with no malignancy
+SUPPLEMENTARY REPORT:
+HER-2 IN-SITU HYBRIDISATION
+Block B5:
+Signal Detection has been performed for the HER2 gene (17q21) and chromosome 17 centromeric enumeration probe (CEP17) control using the Ventana INFORM HER2 Dual ISH DNA Probe Cocktail Assay (Roche).
+
+Mean HER2 copy number per cell: 5.5
+Mean CEP17 copy number per cell: 1.55
+HER2/CEP17 Ratio: 3.55
+
+Comment: Her-2 IHC is 3+.
+
+HER2 status:    POSITIVE
+
+SCORING CRITERIA:
+Updated in line with ASCO/CAP recommendations 2018, see JCO 2018 36: 2105-2122
+
+Reported by: Dr V Marjoniemi
+Date: 07.08.2019
+---------------------------------------------------------------------------------------------------------------------------
+SUPPLEMENTARY REPORT  (15/10/2067, Dr R. Medlin)
+
+Immunostains for mismatch repair proteins were performed at the request of Dr DESPINA Bartels (block B5)
+
+MLH1:  Positive
+PMS2:  Positive
+MSH2:  Positive
+MSH6:  Positive

@@ -1,0 +1,125 @@
+SPR no: 63G069502W
+MRN no: 632069
+Site_name: PAMBULA DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report63G06950,63G06950 (63G069502W) ZAPATERO, GERARD
+
+HISTOPATHOLOGY REPORT:
+
+HISTORY:
+G II endometrial adeno ca.
+
+1.  Peritoneal washings for cytology.
+2.  Uterus, tubes and ovaries.
+3.  Omental biopsy.
+4.  Right pelvic sentinel node.
+5.  Left pelvic sentinel node.
+
+MACROSCOPIC:
+A.  &amp;quot;UTERUS, TUBES AND OVARIES&amp;quot;.  An already coronally opened total hysterectomy specimen of a total weight of 90g.  The uterus measures 75x50x40mm.  Attached is a right fallopian tube 45x5mm, right ovary 17x10x8mm.  A left fallopian tube 45x5mm and left ovary 15x10x10mm.  The external os is oval 10x10mm with surrounding unremarkable ectocervix.
+
+Occupying the fundus and the left posterior body, a partially polypoid and partially endophytic lesion measuring 27x24mm.  Including the exophytic component, the tumour is of a total thickness of 20mm out of 37 mm and possibly focally invading less than one half of the underlying myometrium (up to 19mm thick in uninvolved areas).  The tumour is confined to the uterus focally approaching the left cornu and is located 50mm of the cervical  distal resection margin, 20mm of the nearest left parametrial margin.
+
+The remainder endometrium is up to 3mm thick.  The remainder myometrium is unremarkable.  The outer cut surface, both ovaries and tubes are unremarkable.
+
+(1  right tube three LS fimbrial end and one TS mid; 2  LS right ovary; 3  shave right parametrial margin; 4  left tube two LS fimbrial end and one TS mid; 5  LS left ovary; 6  shave left parametrial margin;
+7-13 sections from anterior uterus:
+[7-9  LS uterus from cervix to fundus; 10&amp;amp;11  LS tumor at body and fundus with loose part of tumour in slice 11; 12  LS tumour at body; 13  coronal section left cornu;]
+14-19 sections from posterior uterus;
+[14-16  LS uterus from cervix to fundus; 17&amp;amp;18  each one LS body; 19  coronal section left cornu ] ).  RS (M-19).  Please refer to diagram.
+
+Further blocks of cervix and endocervical canal were taken.  (20&amp;amp;21  anterior right endocervical canal; 22-29  left endocervical canal from midline to left side [22&amp;amp;23  one LS, 24&amp;amp;25  one LS, 26&amp;amp;27  one LS, 28&amp;amp;29  one LS]; 30-33  left posterior cervix and endocervical canal [30&amp;amp;31  one LS lateral]; 32&amp;amp;33 one LS medial; 34&amp;amp;35  posterior right cervix and endocervical canal).  Please refer to diagram.  RS (M-35/ZH 19/1/2067 km).
+
+B.  &amp;quot;OMENTUM&amp;quot;.  A fibrofatty piece of tissue 9x6x3mm.  AE (1-1).
+
+C.  &amp;quot;RIGHT PELVIC SENTINEL NODE&amp;quot;.  A fibrofatty piece of tissue measuring 20x20x5mm bearing three lymph nodes measuring 3mm, 5mm and the largest measures 18x9x4mm with fatty firm tan and brown cut surface.
+
+(1  two smaller lymph nodes; 2&amp;amp;3  larger lymph nodes serially sliced).  AE (M-3).
+
+D.  &amp;quot;LEFT PELVIC SENTINEL NODE&amp;quot;.  Multiple fibrofatty pieces of tissue, 25x20x10mm.  Six possible lymph nodes are identified measuring 3mm to 9mm in maximum diameter.
+
+(1  smaller two lymph nodes and remainder fat; 2  largest lymph node trisected; 3-5  each one lymph node bisected).  AE (M-5/ZH 16/1/2067 km).
+
+MICROSCOPIC:   (Dr R Fried)
+A. Sections of the macroscopically described polypoid and endophytic endometrial lesion show FIGO Grade 2 endometrioid endometrial adenocarcinoma. The adenocarcinoma involves the outer half of the myometrium, 8mm of a total depth of myometrium of 12mm. There is focal lymphovascular invasion. In addition, there is a tumour deposit in the deep myometrium (A18) which is discontinuous from the invasive tumour front, and less than 0.5mm from the serosal surface. The deposit most likely arose in a focus of lymphatic spread, and has not been incorporated into the depth of invasion measurement.
+
+The endometrial carcinoma is multifocal. A deposit of tumour in the lower uterine segment extends into the endocervical canal where there is glandular and stromal involvement. This involvement is prominent in the region of a lower uterine segment scar with foreign body suture granulomas, presumed site of LSCS. In the vicinity of the scar, the endometrial adenocarcinoma involves 3mm of the total depth of cervical wall of 6mm. Away from the scar, the maximum depth of involvement is 3mm add to a total of 14mm. The endometrial adenocarcinoma and the cervical involvement show similar immunoprofile for ER, CEA, p16 and Vimentin, and there is no identifiable cervical AIS or high-grade squamous dysplasia.The ectocervix is unremarkable. Bilateral parametrial tissue, ovaries and fallopian tubes are unremarkable. See synoptic report.
+
+B. Sections show benign adipose tissue. There is no evidence of malignancy.
+
+C. Sections show isolated tumour cells in 1 out of the 3 identified lymph nodes. There is no micro or metastatic disease.
+
+D. Sections show isolated tumour cells involving 1 out of the 5 lymph nodes. There is no micro or metastatic disease.
+
+ENDOMETRIAL CARCINOMA: Specimen A
+
+Tumour type:  Endometrioid adenocarcinoma
+
+FIGO grade:  2
+
+(architecture grade: 2 , nuclear grade: 2 )
+
+Myometrial invasion:  Outer half of myometrium
+
+Depth of myometrial invasion:   8mm
+
+Myometrial thickness:   12mm
+
+% of myometrium invaded:   66%
+
+Focality:  Multifocal
+
+Tumour involves:  Fundus, body, cervix
+
+Vascular/lymphatic invasion:  Present
+
+Involvement of cervix:  Glandular and stromal
+
+Involvement of uterine serosa:  Absent, But tumour deposit &amp;lt;0.5mm from surface
+
+Excision margins:  Clear
+
+Non-tumour uterus:
+Adjacent endometrium:  Unremarkable
+Polyps:  Absent
+Adenomyosis:  Absent
+
+Adnexae:
+Left fallopian tube:  No specific pathology
+Right fallopian tube:  No specific pathology
+Left ovary:  No specific pathology
+Right ovary:  No specific pathology
+
+Lymph nodes:
+Nodes involved:  0 (isolated tumour cells present, pN(i+)
+Total number:  8
+
+Other tissues:  Negative omentum and parametrium
+
+Immunostains for MSI proteins
+Block:   A10
+MLH1: Intact (normal)
+PMS2: Intact (normal)
+MSH2: Intact (normal)
+MSH6: Intact (normal)
+
+Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+
+TNM stage: pT2, pN0 (i+)
+
+FIGO stage: II
+
+DIAGNOSIS:
+A. UTERUS, BILATERAL OVARIES AND FALLOPIAN TUBES
+- FIGO GRADE 2 ENDOMETRIOID ENDOMETRIAL ADENOCARCINOMA INVOLVING THE OUTER HALF OF THE MYOMETRIUM.
+- TUMOUR DEPOSIT IN DEEP MYOMETRIUM, CLEAR OF SEROSA.
+- LYMPHOVASCULAR SPACE INVASION.
+- MULTIFOCAL TUMOUR WITH GLANDULAR AND STROMAL INVOLVEMENT OF THE CERVIX.
+B. OMENTUM, BIOPSY
+- NO EVIDENCE OF MALIGNANCY.
+C. RIGHT PELVIC SENTINEL NODE
+- ISOLATED TUMOUR CELLS IN 1 OUT OF 3 LYMPH NODES, pN0 (i+).
+D. LEFT PELVIC SENTINEL NODE
+- ISOLATED TUMOUR CELLS IN 1 OUT OF 5 LYMPH NODES, pN0 (i+).
+24/1/2067 cy

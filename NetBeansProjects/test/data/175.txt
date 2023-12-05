@@ -1,0 +1,41 @@
+Episode No:  49N652025E
+4956520.GPE
+
+LONGINOTTI, JANDAMARRA ELNORA JONE 
+Lab No:  49N65202,49N65202
+Goshen Hunt
+SOUTHPORT  Western Australia  4314
+Specimen: Washings,Tissue
+D.O.B:  13/3/2005
+Sex:  F
+Collected: 11/11/2013 at 14:04
+Location:  Radiation Oncology - SHELLHARBOUR HOSPITAL
+DR KAI PENNI WINKELBAUER
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Endometrial adenocarcinoma.  STP cone biopsy 5/52.  History of right knee replacement 4 wks ago.  
+MACROSCOPIC:
+A.  Specimen labelled "Uterus, tubes & ovaries" consists of a uterus with attached cervix and bilateral fallopian tubes and ovaries, weighing 112g in total.  The uterus measures 80 x 60 x 20mm.  The serosal surface is smooth and shiny.  The ectocervix measures 30 x 20mm and appears ragged and covered by blood clot in an area 20mm from proximal to distal.  On sectioning the endometrium is 5mm in maximum thickness and the myometrium is 17mm in maximum thickness.  The right fallopian tube and fimbria is 40 x 5 x 5mm and appears unremarkable.  The right ovary measures 25 x 15 x 10mm and appears unremarkable.  The left fallopian tube and fimbriais 50 x 5 x 5mm and appears unremarkable.  The left ovary measures 20 x 15 x 10mm and appears unremarkable.  
+Blocks:  1 to 4 - one full longitudinal section of anterior body and cervix; 5- one representative section anterior endomyometrium; 6 to 9 - one full longitudinal section of posterior body and cervix; 10 - one representative section of posterior endomyometrium; 11 - right cornu; 12 - left cornu; 13 - right parametrial tissue; 14 - left parametrial tissue; 15- two LS right fimbria, one TS right fallopian tube; 16 - one LS right ovary; 17 - two LS left fimbria and one TS left fallopian tube; 18 - left ovary.  
+B.  Specimen labelled "Omental biopsy" consists of a piece of fatty tissue 20 x 15 x 5mm.  On sectioning it is unremarkable.  AE 3 blocks.  (YM/mm 14.1.63)
+MICROSCOPIC (reported by Dr L Deonarine):
+A.  Sections show a grade 1 endometrioid adenocarcinoma of the endometrium.  Carcinoma invades to a depth of 4mm through a wall thickness of 20mm.  No lymphovascular space invasion is identified.  The cervix is not involved by tumour.  The cervix shows ulceration and granulation tissueconsistent with a previous cone biopsy.  The remainder of the uterus shows foci of adenomyosis.  Both ovaries and fallopian tubes show no significant abnormality.  
+B.  Sections of omentum show no significant abnormality.  There is no evidence of malignancy.  
+DIAGNOSIS:
+A & B.  Uterus and cervix, tubes and ovaries, omentum:
+-  Grade 1 endometrioid adenocarcinoma of the endometrium.
+-  Invasion to a depth of 4mm through a wall thickness of 20mm.  
+-  No lymphovascular space invasion identified.  
+-  Omentum negative.
+ADDITIONAL REPORT (21/1/63):
+
+Immunoperoxidase stains for MSI proteins (Block: A3)
+	
+MLH1		Preserved nuclear staining
+PMS2		Preserved nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1,PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+

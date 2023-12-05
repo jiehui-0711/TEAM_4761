@@ -1,0 +1,123 @@
+SPR no: 42U1845631
+MRN no: 427184
+Site_name: CLONCURRY MULTI-PURPOSE HEALTH SERVICE
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report42U18456,42U18456 (42U1845631) Malbaurn, ROGER
+HISTOPATHOLOGY REPORT
+LOXTON HOSPITAL COMPLEX HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+GII Endometrioid adenoCA
+1. Peritoneal washing for cytol
+2. Right sentinel node
+3. Left sentinel node
+4. Omentum
+5. Pouch of Douglas
+6. Uterus + bilateral tubes + ovaries - for histol (2-6)
+
+MACROSCOPIC:
+A. &amp;quot;RIGHT SENTINEL NODE&amp;quot;. Fatty tissue 23x14x5mm containing a grey nodule 19x7x5mm.  All embedded. (M-1)
+
+B. &amp;quot;LEFT SENTINEL NODE&amp;quot;. Fatty tissue 15x11x6mm containing a grey nodule 11x10x4mm.  All embedded. (M-1)
+
+C. &amp;quot;OMENTUM&amp;quot;. Two pieces of fatty tissue together measuring 23x20x8mm.  All embedded. (M-1)
+
+D. &amp;quot;POUCH OF DOUGLAS&amp;apos;&amp;quot;. Five tan and brown fragments 3-7mm.  All embedded. (M-1)
+
+E. &amp;quot;UTERUS + BILATERAL TUBES + OVARIES&amp;quot;. A uterus with attached cervix and bilateral tubes and ovaries measuring overall 110x80x65mm. The specimen has been opened through the cervix resulting in some distortion of the cervix and part of the uterus.
+The right tube is 50mm in length, 4mm in diameter and 17mm across the fimbriae. There are paratubal cysts up to 2mm across. The right ovary is 28x21x15mm. The left tube is 50mm in length, 6mm in diameter, and 15mm across the fimbriae. There is one paratubal cyst 9mm. The left ovary is 30x18x16mm.
+The uterus is 78mm longitudinally, 60mm between the cornua, and 50mm anteroposteriorly. The anterior side is inked blue, posterior black. The cervix is approximately 28x26mm in transverse section and 23mm in length. The uterus and cervix are cut into 11 slices from right to left. The endometrium is up to 3mm in thickness; there are no polyps. The anterior myometrium is up to 16mm in thickness, the posterior myometrium is up to 36mm in thickness. In slices 6-11 there is a circumscribed cream coloured mass measuring 31x29x30mm in the posterior wall of the body which is occupying more than 50% of the thickness of the wall. In slices 1-6, there are irregular patchy cream coloured areas, the largest up to 37mm across in slice 3, and smaller areas from 3mm across in the anterior cervix in slices 18 and the flip side of slice 19. The serosa is smooth with no distortions or adhesions.
+
+(1-3 right side [1 proximal and mid tube and cyst, 2 distal fimbriae all embedded, 3 ovary;
+4-6 left side [4 proximal and mid tube and cyst, 5 distal fimbriae all embedded, 6 ovary]; 7 right parametrial shave; 8 left parametrial shave; 9-12 slice 3; 13-18 slice 4; 19-24 flip side of slice 6; 25-32 slice 7; 33-37 slice 9). Representative sections. (M-37/FR 14/10/2068 nh)
+
+MICROSCOPIC: (Dr. M. Arendt)
+
+ENDOMETRIUM CARCINOMA SYNOPTIC REPORT (Based on CAP 2017)
+
+PROCEDURE: Radical hysterectomy
+
+TUMOR SITE: Fundus
+
+TUMOR SIZE:  20mm greatest dimension
+
+HISTOLOGIC TYPE: endometrial carcinoma with squamous differentiation
+
+HISTOLOGIC GRADE: 1
+
+MYOMETRIAL INVASION:
+Depth of invasion:  10mm
+Myometrial thickness:  24mm
+Percentage depth of myometrial invasion:  42%
+
+UTERINE SEROSA INVOLVEMENT: Absent
+
+LOWER UTERINE SEGMENT INVOLVEMENT: Absent
+
+CERVICAL STROMAL INVOLVEMENT: Absent
+
+OTHER TISSUE/ORGAN INVOLVEMENT: Not present
+
+MARGINS: Free of tumour
+
+LYMPHOVASCULAR INVASION:
+Present, substantial (&amp;gt; 5 vascular spaces)
+
+A&amp;amp;B SENTINEL LYMPH NODES: Not involved (including negative staining with AE1/AE3)
+
+Number of nodes with macrometastasis (&amp;gt; 2 mm): 0
+Number of nodes with micrometastasis (greater than 0.2 mm and up to 2 mm): 0
+Number of nodes with isolated tumor cells (0.2 mm or less): 0
+Total number of lymph nodes examined (sentinel): 2
+
+DISTANT METASTASES (histologically confirmed): Nil present
+
+ADDITIONAL PATHOLOGIC FINDINGS:
+Non tumour endometrium: Atrophic
+Adenomyosis: Present
+Benign leiomyomas
+Left fallopian tube: No significant abnormality
+Right fallopian tube: Focal fimbrial foreign body granulomatous reaction to keratin
+Left ovary: No significant abnormality
+Right ovary: Surface serosal foreign body granulomatous reaction to keratin
+
+ANCILLARY STUDIES/IMMUNOSTAINS:
+MMRP Immunostains. (To follow)
+
+OTHER SPECIMENS:
+C. Omentum : Focal foreign body granulomatous reaction to keratin.
+
+D. Pouch of Douglas : Focal foreign body granulomatous reaction to keratin reaction and focal endosalpingiosis.
+
+Comment:  Although the origin of the keratin eliciting the foreign body granulomatous reaction in omentum, pouch of Douglas, right fallopian tube and right ovary originated from the endometrial tumour, these deposits have not be shown to have an adverse prognostic effect.
+
+PATHOLOGIC FIGO Stage (2015 FIGO Cancer Report): 1A
+
+PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th ed): pT1a, pN0
+
+DIAGNOSIS:
+RIGHT SENTINEL NODE :
+-NO TUMOUR SEEN IN 1 LYMPH NODE.
+
+LEFT SENTINEL NODE :
+-NO TUMOUR SEEN IN 1 LYMPH NODE.
+
+OMENTUM :
+-FOCAL FOREIGN BODY GRANULOMATOUS REACTION TO KERATIN.
+
+POUCH OF DOUGLAS :
+-FOREIGN BODY GRANULOMATOUS REACTION TO KERATIN.
+
+UTERUS, TUBES, OVARIES :
+-WELL DIFFERENTIATED ENDOMETRIAL CARCINOMA WITH SQUAMOUS DIFFERENTIATION.
+
+15/9/2070 ank
+
+SUPPLEMENTARY REPORT:
+Immunostains for MSI proteins (ST GEORGE PRIVATE; block: E17)
+
+MLH1:  	POSITIVE
+PMS2: 	POSITIVE
+MSH2: 	POSITIVE
+MSH6: 	POSITIVE

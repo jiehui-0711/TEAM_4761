@@ -1,0 +1,80 @@
+
+Episode No:  41V464193P
+418464.EZK
+
+Mandigo, Shelly 
+Lab No:  41V46419
+Hopwood
+NORTH WONTHAGGI  QLD  6951
+Specimen: Tissue
+D.O.B:  6/6/2004
+Sex:  F
+Collected: 2/2/2066 at:
+Location:  Southern IML Pathology-WONGAN HILLS HOSPITAL
+DR Aletha Tarsha Anton-Vonbraunsberg
+Distribution:     FILE-COPY,   NSW-CANCER-REGISTRY
+
+ADDITIONAL REPORT (4/8/66)
+
+CLINICAL:
+Left breast IDC + DCIS.  L axilla sentinel node biopsy.  Left breast 12 o'clock IDC + DCIS.  L mastectomy + 2nd tier sentinel node.  Short superior, long lateral.  Urgent.  
+MACROSCOPIC:
+A.  Specimen labelled "Left breast sentinel node biopsy" consists of a piece of fibrofatty tissue 30 x 15 x 4mm containing a lymph node 10mm in maximum dimension.  Imprints made.
+Blocks:  1 - lymph node.  AE.  
+FROZEN SECTION REPORT:
+Negative lymph node.
+Result to the Anaesthetist by Dr L Abshear at 16:45pm on 02.02.2066
+B.  Specimen labelled "Left breast axillary second tier sentinel node" consists of a piece of fibrofatty tissue 15 x 10 x 8mm containing a lymph node 8mm in maximum dimension.  The lymph node is AE.
+Blocks:  1 - one lymph node serially sectioned.
+C.  Specimen labelled "Left breast tissue stitches long lateral, short superior" consists of a mastectomy measuring 220 x 160 x 50mm.  There is an ellipse of skin on the surface, 180 x 50mm in area containing a nipple areola complex.  The skin appears unremarkable.  There are two sutures orientating long lateral, short superior.  Superficial surface is inked blue and the deep black.  On sectioning, there is a discrete, firm tumour, 10 x 10 x 10mm, 15mm from the nipple at 10 to 12 o'clock.  The margins are as follows:  12mm deep, 75mm superior, 75mm inferior, 25mm superficial, approximately 70mm medial and 95mm lateral.  The rest of the breast tissue is unremarkable.  The surrounding fibrous breast tissue around the tumour is sclerotic and firm however, no gritty substance is able to be identified.  This area measures over 25 x 15mm.  Please see diagram.
+Blocks:  1 - nipple areola complex; 2 - tissue deep to nipple; 3 & 4, 5 & 6 - composite block full face through tumour fibrotic area and nipple areolar complex; 7 - superior margin; 8 - inferior margin; 9 - adjacent fibrous area; 10 - normal appearing tissue adjacent to tumour and fibrous area; 11 - upper outer quadrant; 12 - upper inner quadrant; 13 - lower inner quadrant; 14 - lowerouter quadrant.
+(TO: WL;DN/rt 3.2.66)
+MICROSCOPIC (Reported by Dr L Wehling):
+A to C.  Sections show breast tissue with 30mm of mass forming high grade DCIS. Arising from the DCIS are 3 deposits of invasive ductal carcinoma NOS, grade 3, measuring 4mm, 2mm and 1.3mm, plus 10 microinvasive foci < 1mm in size.
+Invasive carcinoma:
+Site:  Left breast
+Type:  Invasive ductal carcinoma NOS
+Invasive tumour size:  3 deposits measuring 4mm, 2mm and 1.3mm, plus 10 microinvasive foci < 1mm in size, over a 30mm area
+Grade (Modified Bloom & Richardson):  3
+Tubules: 3     Nuclei: 3     Mitoses: 2     Mitotic rate:   8/10hpf.
+Lymphovascular invasion:  Present, focal
+	    
+DCIS component:  
+Maximum extent of DCIS:  30mm
+Nuclear grade:  High
+Architecture:  Solid
+Necrosis:   Present
+Calcification:   Present
+Degree of DCIS in tumour:  Focal  
+DCIS in adjacent tissue:  Extensive
+Excision Margins:  
+Invasive component:  > 10mm all margins
+In-situ component:  >10mm all margins
+Receptors (Block C5): 
+ER:   positive*
+	5% of nuclei stained
+	predominant intensity of staining:  weak
+PR:   negative* 
+	0% of nuclei stained 
+HER2 (Novocastra 10A7):  3+
+HER2 SISH:  Performed at Yahoo! Inc, WILCANNIA HEALTH SERVICE Hospital, see separate report.
+Ki-67 index: 30%
+*Internal and external controls show satisfactory staining
+Nipple:  No evidence of Paget's disease
+ 
+LCIS / ALH:  Not seen
+Miscellaneous:  A core biopsy tract is seen.
+Sentinel lymph node(s):
+Number of sentinel lymph nodes examined:  2  (specimens A and B)
+Number of sentinel lymph nodes involved by tumour: 0         
+DIAGNOSIS:
+A to C. Left breast and sentinel lymph nodes:
+- 3 deposits of invasive ductal carcinoma NOS, grade 3, measuring 4mm, 2mm and 1.3mm, plus 10 microinvasive foci < 1mm in size, over a 30mm area, arising from mass forming high grade DCIS
+- 2 sentinel lymph nodes with no evidence of malignancy
+ADDITIONAL REPORT (4/8/66)
+Review of discrepant ER expression requested by Prof Nathan. Core biopsy of lesion (41V4641) shows strong ER staining in 90% of invasive tumour.
+Additional ER stains were performed on blocks C2 and C3.
+There is significant heterogeneity in ER expression between the deposits in the additional blocks. Some of invasive tumour deposits show weak staining in < 5% of tumour (as previously reported in block C5). Other deposits show strong ER expression in > 90% of tumour cells (as previously reported in the core biopsy). 
+Similar heterogeneity is seen the DCIS. In some areas there is ER +ve DCIS directly abutting ER -ve DCIS. Fixation artefact is therefore thought to be unlikely.
+Shown to A/Prof Edwin Skillan. 
+

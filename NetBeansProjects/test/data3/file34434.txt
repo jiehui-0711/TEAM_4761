@@ -1,0 +1,32 @@
+SPR no: 93Y738644C
+MRN no: 2245500
+Site_name: WEST GIPPSLAND HEALTHCARE GROUP
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Left calf mass excision ? sarcoma.  Short superior, long posterior, double deep.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Left calf sarcoma, short superior, long posterior, double deep&amp;quot;, consists of an excision of fibroadipose tissue, muscle and overlying skin, 300g, 140mm (superior to inferior) x 100mm (anterior to posterior) x 52mm (superficial to deep).  The attached ellipse of skin is 110 x 16mm.  Sutures taken as described.  The specimen is inked as follows: deep blue, anterior green, posterior black, superficial posterior green and superficial anterior red.  The specimen is sliced from superior to inferior into fourteen slices.  In slices 2 to 12, there is a circumscribed and partially encapsulated homogenous pale tan tumour, measuring 80 x 55 x 37mm.  The tumour abuts the anterior and deep margins and lies 14mm from the superior margin, 2mm from the anterosuperficial margin, 17mm from the posterosuperficial margin, 35mm from the posterior margin, and 20mm from the inferior margin.  Blocks: 1 - LS superior margin; 2 to 8 - composite full face slice six; 9 to 12 - RS tumour in slice 9 including nearest anterior, superficial and deep margins; 13 &amp;amp; 14 - RS tumour in slice 10 including nearest superficial, anterior and deep margins, 15 &amp;amp; 16 - RS tumour in slice 11 including nearest superficial, anterior and deep margins; 17 - transverse sections of inferior margin; 18 - reserve block of tumour for research.
+(TO:SJ/eh 22/2/70)
+
+
+MICROSCOPIC (Reported by Dr Z Blaze and registrar Dr Z Borg):
+The excision extends from skin to skeletal muscle. Sections show a paucicellular relatively circumscribed tumour which appears to be at the level of fascia. Sections of the tumour show scattered cells and frequent curvilinear  vessels within  extensively hylanized stroma. The tumour cells vary from bland spindle cells to cells with more hyperchromatic lobated,  plump or round nuclei. Some areas of the tumour show are more cellular with frequent lipoblasts and a myxoid stroma, typical of myxoid liposarcoma. Islands of maturing adipocytes are present throughout the tumour.
+
+Margins
+Superior: greater than 10mm
+Inferior: greater than 10mm
+Anterior: less than 0.1mm, separated from the margin by a thin strand of fibrous tissue (block 4)
+Posterior: greater than 10mm
+Superficial: 3mm (block 11)
+Deep: the tumour appears to be abutting the deep margin (block 9)
+
+Comment: Approximately 90% of the tumour shows extensive hyalinization, decreased cellularity and sheets of maturing adipocytes in keeping with treatment effect. Foci showing classical morphology of myxoid liposarcoma are also present. FNCLCC grading is performed on the previous biopsy (lab reference no. 93Y73864), assuming that the biopsy was obtained pre-treatment and is consistent with grade 1 (differentiation score 2, mitotic score 1, tumour necrosis score 0).
+
+
+
+
+DIAGNOSIS:
+Left calf: Myxoid liposarcoma with treatment effect (80mm, ypT2 AJCC 8th edition).

@@ -1,0 +1,37 @@
+SPR no: 61I985337P
+MRN no: 6139853
+Site_name: KATHERINE HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+TLH BSO for endometrial carcinoma (on endometrial sampling).  Uterus, cervix, bilateral ovaries / tubes to histopathology.
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Uterus, tubes and ovaries&amp;quot;, consists of a uterus with attached cervix, bilateral tubes and ovaries weighing 103g in total.  The uterus measures 80 x 57 x 40mm and has a smooth shiny serosal surface.  The ectocervix measures 23 x 22mm and has an unremarkable surface.  The uterus has a smooth shiny serosal surface.
+At the fundus of the uterus, 60mm from the cervical os is a rounded tan polypoid tumour, 25 x 20 x 20mm on the surface of the endometrium.  The tumour penetrates to a depth of 24mm over a total endometrial thickness of 26mm.  The tumour arises on the posterior body.  The remaining myometrium contains foci of adenomyosis and the endometrium away from the tumour is 1mm in thickness.  The right fallopian tube measures 50mm in length with a diameter of up to 12mm and the right ovary measures 16 x 15 x 10mm with an unremarkable cut surface.  The left fallopian tube measures 45mm in length with a diameter of up to 10mm and the left ovary has an unremarkable cut surface and measures 18 x 12 x 10mm.  The tumour appears to be associated with a fibroid and the centre of the tumour is necrotic and degenerate.  Anterior deep margin inked blue, posterior black. All of the tumor is embedded.
+Blocks:  1 to 4 - full longitudinal section posterior body and cervix; 5 to 10 - full longitudinal sections anterior body and cervix; 11 and 12 - RS anterior fundus; 13 to 17 - tumour from posterior fundus (14 &amp;amp; 15, 16 &amp;amp; 17 paired blocks); 18 - left ovary; 19 - left fallopian tube fimbrial end; 20 - right ovary; 21 - right fallopian tube fimbrial end; 22 - RS fibroid.
+(TO: MS; MS/eh 18/6/2066)
+
+
+MICROSCOPIC (Reported by Dr R Doxon):
+Sections of the uterus show an invasive endometrioid endometrial adenocarcinoma with patchy mucinous differentiation.  The tumour  invades into the outer half of the myometrium, 20.5mm through a wall of 25mm thick.   In some areas the tumour shows a melting pattern of invasion.  Extension of tumour into foci of adenomyosis is also seen.  The carcinoma shows FIGO grade 1 architecture and is composed of complex glandular and papillary structures lined by stratified columnar epithelium with grade 2 nuclei (overall FIGO grade 1).   There is patchy  intracytoplasmic as well as extracellular mucin.  Three foci of lymphovascular are present (block 16).   The tumour does not invade the cervix and is well clear of the inferior margin.  The uninvolved endometrium is essentially inactive. The uterus also shows multiple leiomyomas.  The left fallopian tube contains patchy mild chronic inflammation including occasional lymphoid aggregates underlying the epithelium, including reactive lymphoid follicles.  The right fallopian tube is unremarkable.  The left and right ovary shows senescent changes only.
+
+Immunohistochemistry:
+Mismatch Repair Deficiency Protein Expression (MMRD) Status
+MLH1		abnormal loss of nuclear staining
+PMS2		abnormal loss of nuclear staining
+MSH2		Preserved nuclear staining
+MSH6		Preserved nuclear staining
+
+Comment:
+Absence (loss) of nuclear staining for any of the mismatch repair enzymes MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSI), and may reflect the presence of a germline mutation or somatic inactivation of that mismatch repair gene.
+
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+
+
+DIAGNOSIS:
+Uterus, tubes and ovaries:
+-  Endometrioid adenocarcinoma, FIGO grade 1, invading the myometrium 20.5mm through a wall of 25mm thick, cervix uninvolved, lymphovascular invasion present, no perineural invasion seen, margin clear.
+-  Loss of tumour mismatch repair enzyme protein expression (see comment).

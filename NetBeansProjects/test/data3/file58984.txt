@@ -1,0 +1,25 @@
+SPR no: 69S650410N
+MRN no: 6976504
+Site_name: DENILIQUIN HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+1.  Soft tissue (retroperitoneal) sarcoma.
+2.  Tumour on small bowel.
+Additional history (Jacobs Engineering): Known liposarcoma with confirmed FISH MDM2 amplification.
+MACROSCOPIC:
+A.  Specimen labelled &amp;quot;Abdominal sarcoma&amp;quot;, consists of an unoriented soft lobulated mass 155 x 135 x 80mm.  The outer presumed serosal surface is smooth with a slightly roughened area 85 x 60mm at one side inked blue.  The ragged presumed resection margin 140 x 70mm inked black.  On sectioning, the specimen has a soft cut surface with a variegated pale tan to mottled and haemorrhagic appearance.  Adjacent to the blue inked roughened area the cut surface is dark brown and haemorrhagic in appearance.  No overt necrotic areas are idenitfied.  Blocks:  1 to 3 - pale yellow areas at the serosal surface; 4 to 8 - mottled, haemorrhagic areas, 9 to 11 - brown haemorrhagic areas at blue inked roughened surface; 12 to 16 - tumour at ragged resection margin.  Specimen shown to HE.
+
+B.  Specimen labelled &amp;quot;Tumour of small bowel&amp;quot;, consists of a 47mm segment of small with attached mesentery 50 x 30 x 8mm.  There is a 40 x 25 x 20mm ragged lesion adherent to the anti-mesenteric serosal surface.  The lesion is 25mm from the closest cut end and on sectioning has a soft pale yellow to grey slightly mottled cut surface.  Grossly, the lesion does not appear to invade into the muscularis propria or involve the mucosal surface which has an unremarkable appearance.  Blocks:  1 - LS cut ends; 2 and 3; 4 and 5 - composite sections full face of lesion with adjacent bowel.   (TO:BF/hh 11/1/71)
+
+
+MICROSCOPIC (Reported by Dr R Dekenipp):
+A. Sections of the 155mm abdominal mass show a well-differentiated liposarcoma with predominant lipoma-like morphology. The tumour is composed of variably sized adipocytes with scattered bands of fibrous tissue.  Enlarged hyperchromatic atypical nuclei are seen within these fibrous bands, as well as within the lesional adipocytes.  The tumour extends broadly to the inked margin.  No areas of dedifferentiation are identified.
+
+B.  The 40mm small bowel serosal lesion shows features consistent with liposarcoma. The lesion expands the small bowel serosa and widely abuts, but does not appear to invade, the small bowel muscularis propria. The lesion demonstrates hyalinised to myxoid stroma with scattered islands of entrapped lipoma like well differentiated liposarcoma. There are numerous moderately atypical spindled to stellate tumour cells, which show focal clustering and are associated with islands of myxoid stromal change. There are also singly distributed tumour cells with bizarre hyperchromatic nuclei.  Overall, the features are consistent with a focus of dedifferentiated liposarcoma (favour  low grade myxofibrosarcomatous/mosaic pattern). The lesion extends to diathermy change on its surface. The overlying small bowel shows non-specific changes suggestive of adjacent mass-type effects with patchy mild serosal inflammation. The cut ends appear free of sarcoma.
+
+
+DIAGNOSIS:
+A.  Abdominal lesion: Consistent with 155mm focus of recurrent/residual well differentiated liposarcoma (predominant lipoma like). No evidence of de-differentiated liposarcoma.
+
+B.  Tumour small bowel: Consistent with 40mm small bowel serosal focus of de-differentiated liposarcoma (favour low grade myxofibrosarcomatous/mosaic pattern).

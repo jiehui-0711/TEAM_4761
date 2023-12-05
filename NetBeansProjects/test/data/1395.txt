@@ -1,0 +1,62 @@
+Episode No:  18I1409021
+1831409.BFD
+
+HAVERSTOCK, WILFRED 
+Lab No:  18I14090
+Bjur
+MILDURA  New South Wales  5111
+Specimen: Tissue
+D.O.B:  28/1/2011
+Sex:  M
+Collected: 08/03/2013 at 21:02
+Location:  ACUTECARE WARD-COLEDALE HOSPITAL
+DR Jarlu Warrigal Nuesca
+Distribution:   FILE-COPY,   NSW-CANCER-REGISTRY
+CLINICAL:
+Whipples procedure for pancreatic head tumour.  Asthma.
+MACROSCOPIC:
+A.  Specimen labelled "Whipple" consists of distal stomach and proximal small bowel (170mm in length) with attached head of pancreas (80 x 55 x 35mm), gallbladder (105mm in length and up to 100mm in circumference) and peripancreatic fatty tissue (80 x 40 x 20mm).  Separately there are two pieces of omental fatty tissue 330 x 270 x 20mm in aggregate.  There are several peripancreatic nodules up to 30mm in maximum dimension (?lymph nodes).  The common bile duct is 12mm in diameter at its margin.  The pancreatic duct is not identified.  The presumed neck margin is inked red.  The anterior surface of pancreas is inked blue.  The portal vein bed is inked green.  The periuncinate margin is inked red.  The posterior pancreatic margin is inked black.  On slicing the pancreas there is an indurated tumour adjacent to the common bile duct and extending from superior to mid distal pancreas, 42 x 25 x 22mm.  The tumour is 17mm from the portal vein bed, 35mm from anterior surface, 35mm from periuncinate.  It abuts the posterior surface.  It is 10mm from the common hepatic duct margin and 37mm from the presumed pancreatic neck margin.  It is 45mm from the proximal gastric margin and well clear of the distal small bowel margin.  The tumour has an indurated red/tan cut surface.  The serosal surface of the gallbladder is congested.  Its mucosal surface is red.  There are approximately twelve gallstones within the gallbladder up to 15mm in maximum dimension.
+Blocks:  1 - common hepatic duct margin; 2 - shaved small bowel margin; 3 - shaved gastric margin; 4 & 5 - comprise one peripancreatic nodule; 6 & 7 - comprise one peripancreatic nodule (at posterior pancreas); 8 - one trisected peripancreatic nodule.  
+9 - shaved pancreatic neck margin; 10 - common bile duct and adjacent pancreas; 11 - peripancreatic nodule ; 12 - tumour, common bile duct and posterior pancreatic margin; 13 - tumour and posterior margin; 14 - representative portal vein bed (grossly free of tumour); 15 - representative tumour with no margins, reserve block; 16 - representative anterior surface (grossly free of tumour); 17 - tumour and posterior margin; 18 to 20 - representatives periuncinate process; 21 - tumour and posterior margin; 22 - ?one peripancreatic lymph node bisected; 23 - cystic duct lymph node bisected; 24 - TS neck of the gallbladder; 25 - TS body of the gallbladder; 26 - LS fundus; 27 - two likely lymph nodes (separate omentum).
+B.  Specimen labelled "Node anterior hepatic artery" consists of 14 x 12 x 10mm tan nodule.  TS AE 1 block.   (TO: CC; IO/bl 13/5/63)
+MICROSCOPIC (Reported by Dr E Berthold and Dr E Sciuto):
+A & B. Sections show a ductal adenocarcinoma of the pancreas. A synoptic report follows.
+Tumor Site 
+Adenocarcinoma involves the pancreatic head and shows invasion of the muscularis propria of the small bowel (Block A13).
+Tumor Size
+42 x 25 x 22 mm
+Histologic Type 
+Ductal adenocarcinoma
+
+Histologic Grade 
+Well differentiated
+Margins (select all that apply) 
+Posterior retroperitoneal margin: 2.5 mm  (Block A13)
+Portal vein bed margin:  > 10 mm
+Pancreatic neck:  > 10 mm 
+Common hepatic duct margin:  > 10 mm
+Periuncinate margin:  > 10 mm
+Gastric margin:  > 10 mm
+Duodenal margin:  > 10 mm
+Lymph-Vascular Invasion 
+Not seen
+Perineural Invasion 
+Present (Block A12)
+The involved nerve is 0.5mm from the posterior margin.
+Number of Lymph Nodes Examined
+Specimen A: 1 of 13 lymph nodesinvolved (the involved lymph node is peripancreatic)
+Specimen B: 0 of 1 lymph node involved 
+Additional Pathologic Findings 
+- Pancreatic intraepithelial neoplasia 2 is present focally (not at the neck margin).
+- Sections of gallbladder show features of chronic cholecystitis and cholelithaisis.
+Pathologic Staging 
+Primary Tumor 
+T3: Tumor extends beyond the pancreas but without involvement of the celiac axis or the superior mesenteric artery
+Regional Lymph Nodes 
+           N1: 	Regional lymph node metastasis (1/14)
+DIAGNOSIS:
+A & B.  Whipple procedure & anterior hepatic artery lymph node:
+	Well differentiated ductal adenocarcinoma, pT3 N1 Mx
+	1/14 positive lymph nodes
+
+

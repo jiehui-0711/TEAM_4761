@@ -1,0 +1,114 @@
+SPR no: 03J329502D
+MRN no: 033329
+Site_name: CESSNOCK DISTRICT HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Report03J32950 (03J329502D) SPYRAKOS, WM Forest
+HISTOPATHOLOGY REPORT
+NARRABRI DISTRICT HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+L breast Ca, frozen section L axillary sentinel node.
+
+MACROSCOPIC:
+A.  &amp;quot;LEFT SENTINEL NODE BIOPSY&amp;quot;.  Two nodes: one focally blue 30mm lymph node.  One blue 20mm lymph node.  One TS each for frozen section on same chuck.
+
+F/S:  &amp;quot;Negative&amp;quot;.  Result was phoned to Dr. Mohammed on 17.06.2070 at 3:25pm by Dr. B. Risby.
+
+(1  frozen section; 2  30mm lymph node; 3  20mm lymph node).  RS (M-3).
+
+B.  &amp;quot;LEFT BREAST CANCER&amp;quot;.
+&amp;quot;Short - superior, Medium - medial, Long - lateral.&amp;quot;
+SPECIMEN SIDE:  Left
+SPECIMEN TYPE:  Wide local excision
+SPECIMEN X-RAY:  Yes
+HOOKWIRE:  Yes, split hookwire and lesion located G7, inked yellow.
+SPECIMEN DIMENSIONS:
+Medial to lateral:  55mm
+Superior to inferior:  40mm
+Anterior to posterior:  30mm
+WEIGHT:  28.8g
+SKIN:  No
+NIPPLE:  No
+MUSCLE:  No
+MARGIN INKED:  Standard:  Anterior blue, Posterior black, Superior red, Inferior green.
+DISSECTION: Cut from medial to lateral
+Number of slices:  9
+FINDINGS / LESION:  Hookwire split located slice 4.  Within slice 3 to 6, there is a circumscribed lobulated centrally haemorrhagic lesion measuring 12mm medial to lateral, 10mm anterior to posterior, and 15mm superior to inferior.  It is 5mm from posterior margin, 10mm from anterior, 10mm from superior margin, more than 15mm from rest of margins.
+(1  LS from slice 1; 2  slice 2; 3&amp;amp;4  slice 4; 5&amp;amp;6  slice 5; 7&amp;amp;8  slice 6; 9&amp;amp;10  slice 8; 11  LS from slice 9).  RS (M-11).
+C.  &amp;quot;POSTERIOR MARGIN LEFT BREAST&amp;quot;.  Consists of fibrofatty tissue weighing 4.7 and measuring 40x30x20mm.  There is one flat surface inked blue and one convex surface inked black.  Serially sliced.  All embedded block 1 to 5 including 1&amp;amp;5  both ends.  AE (M-5/SM 17/6/2071 km).
+MICROSCOPIC:  (Dr B Loyola)
+&amp;#160;
+INVASIVE BREAST CANCER SYNOPTIC REPORT (Based on CAP 2017)
+&amp;#160;
+INVASIVE CARCINOMA: Left breast
+&amp;#160;
+NUMBER OF INVASIVE FOCI: One
+&amp;#160;
+MAXIMUM INVASIVE TUMOUR SIZE: &amp;#160;&amp;#160;16mm
+&amp;#160;
+INVASIVE CARCINOMA TYPE: Invasive lobular carcinoma
+&amp;#160;
+HISTOLOGIC GRADE: 2
+
+SCORES Tubules: 3   , Nuclei: 2   , Mitoses:  1  ; Total score: 6&amp;#160;(of 9)
+
+MITOTIC RATE: &amp;#160;1&amp;#160;mitoses per 10 high power fields
+&amp;#160;
+WHOLE TUMOUR SIZE (INVASIVE + DCIS): 16mm
+&amp;#160;
+PERITUMOURAL LYMPHOVASCULAR INVASION: Not identified
+&amp;#160;
+PERINEURAL INVASION: Not identified
+&amp;#160;
+SKIN INVOLVEMENT: Not asssessed
+
+DERMAL LYMPHOVASCULAR INVASION: Not assessed
+&amp;#160;
+NIPPLE INVOLVEMENT: Not assessed
+&amp;#160;
+MUSCLE INVOLVEMENT: Not assessed
+&amp;#160;
+DUCTAL CARCINOMA IN SITU (DCIS):  Absent&amp;#160;
+
+LOBULAR CARCINOMA IN SITU (LCIS): &amp;#160;Focally present
+
+EXCISION MARGINS
+INVASIVE TUMOUR MARGINS: Local excision appears complete with 5mm to the posterior margin, 6mm to the anterior margin, and at least 8mm to all other margins.
+
+Specimen C - &amp;quot;Posterior Margin Left Breast&amp;quot; shows benign breast tissue with no evidence of malignancy.
+
+&amp;#160;
+ANCILLARY TESTS:
+IMMUNOSTAINS, Block B5
+ER:  POSITIVE   95%   3+
+PR:  POSITIVE   90%   3+
+HER2: NEGATIVE (0)
+Ki67:    10%
+&amp;#160;
+Other tumour block suitable for further testing: B3
+&amp;#160;&amp;#160;&amp;#160;
+SEPARATE FINDINGS: Nil
+&amp;#160;
+LYMPH NODES
+SENTINEL LYMPH NODES: Not involved
+Nodes with macrometastases: 0
+Nodes with micrometastases: 0
+Nodes with isolated tumor cells: 0
+Total number of nodes examined: 2
+
+PATHOLOGIC STAGE CLASSIFICATION (AJCC, TNM 8th edition): pT1c, pN0 (sn)
+
+OTHER COMMENTS: Nil
+
+DIAGNOSIS:
+A. LEFT SENTINEL NODE BIOPSY
+- NO EVIDENCE OF MALIGNANCY IN 2 NODES.
+
+B. LEFT BREAST CANCER
+- 16mm GRADE 2 INVASIVE LOBULAR CARCINOMA, MARGINS CLEAR.
+
+C. POSTERIOR MARGIN LEFT BREAST
+- NO EVIDENCE OF MALIGNANCY.
+
+19/7/2068 cy

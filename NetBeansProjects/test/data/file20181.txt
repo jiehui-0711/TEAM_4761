@@ -1,0 +1,91 @@
+DateOfBirth
+201111200000
+
+
+SiteName
+BARWON HEALTH - MCKELLAR CENTRE CAMPUS
+
+
+FirstName
+Wilbert
+
+
+SPRID
+80E535359F
+
+
+MRN
+80153535
+
+
+SpecimenType
+Fresh Tissue
+
+
+Gender
+F
+
+
+MiddleName
+
+
+
+FacilityID
+016
+
+
+LabNumber
+OMNI-Lab_11
+
+
+SPRText
+
+80E53535 (80E535359F) GELBOWITZ, LLOYD
+
+HISTOPATHOLOGY REPORT
+MITCHELL HOSPITAL HOSPITAL LABORATORIES
+
+CLINICAL NOTES:
+Metastatic ovarian ca previous hysterectomy + BSOO, peritonectomy of mets.   Segment 7 + 8 of liver, anterior resection (rectum), cholecystectomy (gallbladder), spleen, right diaphragm.   Right adrenal, pericardium + omentum (tumour seeding).
+
+MACROSCOPIC:
+A.  &amp;quot;GALLBLADDER, SPLEEN, COLON, RECTUM, PERITONEAL DISEASE&amp;quot;.   A 93g spleen with dimensions 87mm superior to inferior, 50mm medial to lateral, 65mm anterior to posterior.   The posterior deep capsule is covered in fibrous material.   This area and the surgical margin inked blue.   A 35x20 flattened smooth area identified on the lateral capsule. Sectioning reveals this flattened area remains in the capsule.   Two dark brown irregular discolourations ?haemorrhage 3mm and 4mm located 1mm from the capsule surface.   Three possible lymph nodes or tumour deposits identified at the hilum.
+
+A 30mm length of large bowel with the anterior peritoneal identified 60mm from the distal margin.   There is attached pericolic fat that is adherent to the mesorectum.   Maximum width of fatty tissue 50mm.   Proximal margin inked blue, distal margin inked black.   Pericolic fat circumferential margin green.   Serosa is tan with fibres attached predominantly in the middle portion ?adhesions.   Mucosa unremarkable.   At the level of the anterior peritoneal reflection, the bowel is kinked.   Sectioning reveals the kinked bowel wall is not adherent to each other macroscopically.   At 17mm from the distal margin is a 45x36mm cystic area between the bowel serosa and mesorectum.   It is lined by a smooth fibrous tissue of up to 2mm thick. Distance from circumferential margin 2mm. Possible apical lymph node and other lymph nodes or tumour deposits identified.
+
+Multiple fibrofatty tissue free-floating in specimen bucket 150x150x30mm in aggregate.   Possible tumour deposit identified in multiple pieces of tissue, largest at 30x13x10mm.   No adrenal gland identified macroscopically.
+
+Gallbladder is 77x30mm.   Serosa is tan grey with dark brown speckling over the fundus and roughened area over the neck and proximal body 17x6mm.   Roughened area inked black.   Cystic duct identified.   Lumen filled with green bile.   Mucosa is roughened throughout and gallbladder wall is oedematous to 3mm thickness.
+
+(1&amp;amp;2  black discolourations of spleen; 3  flattened spleen capsule; 4  normal spleen parenchyma; 5   three ?lymph nodes ?tumour deposit; 6  proximal and distal LS of bowel; 7  possible apical lymph node; 8  adjacent bowel walls in kinked area; 9  normal bowel; 10-12  representative sections of fibrofatty tissue and ?tumour deposits; 13  cystic duct and gallbladder neck; 14  gallbladder body and fundus; 15-17  composite of cystic area on large bowel; 18  ?four lymph nodes from pericolic fat; 19  ?three lymph nodes from pericolic fat).   Representative sections. (M-19).
+
+B.  &amp;quot;LIVER SEGMENT 7, 8&amp;quot;.   Consists of a 204g section of liver.   Dimensions 110x85x50mm.   On the superior surface is 80x52mm shiny fibrous tissue attached consistent with diaphragm.   Surgical margin around this area inked black.   On the opposite side is the surgical margin of the liver, inked blue.     Underlying the attached diaphragm is a 55x40x47mm cream tan irregular lesion that abuts the capsule in both liver segments 7 and 8 and into the attached diaphragm.   Tumour is clear of the surgical margin macroscopically by 12mm.
+
+(1-6  full face of liver with tumour [diaphragm in blocks 1 to 3 and surgical margin in blocks 4 to 6]; 7  tumour with diaphragm; 8  tumour with surgical margin; 9  normal parenchyma with diaphragm).   Representative sections. (M-9/BM 11/5/2070 km).
+
+MICROSCOPIC:  (Dr X Fiest)
+A. Histology shows multiple areas of organising mature fibrosis associated with numerous calcified psammoma bodies and patchy inflammation consistent with chemotherapeutic response which are found predominantly over the serosa of the colon and adjacent pericolic fat and also focally over the capsule of spleen and serosa of the gallbladder. However, largely within the colonic disease are small residual islands of viable high grade serous carcinoma characterised by an acinar and solid architecture and high grade nuclear atypia surrounded by some inflammatory cells. Six local pericolic lymph nodes are identified which show no evidence of viable or tumour or chemotherapeutic effect. Small nodules of fibrosis consistent with chemotherapeutic effect are also seen within some pericolic fat and also in the hilum of the spleen and the possibility of replaced and therapeutically modified tumour deposits within a lymph node cannot be excluded.
+
+B. Within the liver, there is a large relatively cellular focus of metastatic high grade serous carcinoma with focal mucinous differentiation, which shows evidence of minor chemotherapeutic effect with small foci of coagulative necrosis and other areas of hyalinising fibrosis and inflammation. There is a moderate and, in places, marked infiltrate of tumour infiltrating lymphocytes. The lesion is well clear of the hepatic resection margin but appears to infiltrate into surface capsule where there is adherent dense fibrous tissue of the presumed diaphragm. Immunostains show positivity for CK7, WT-1, p16 and PAX-8 with completely negative staining for p53 (i.e. consistent with a mutated phenotype). ER is focally positive in up to 30% cells showing 2+ staining. PR, CDX2 and CK20 are negative. The surrounding hepatic parenchyma shows minor non-specific portal chronic inflammation but is otherwise unremarkable.
+
+
+DIAGNOSIS:
+
+A. GALLBLADDER, SPLEEN, COLON, RECTUM, PERITONEAL DISEASE
+- METASTATIC HIGH GRADE SEROUS CARCINOMA WITH PARTIAL CHEMOTHERAPEUTIC RESPONSE.
+
+B. LIVER SEGMENT 7, 8
+- METASTATIC HIGH GRADE SEROUS CARCINOMA WITH MINIMAL CHEMOTHERAPEUTIC RESPONSE.
+
+11/10/2070 cy
+
+
+
+
+
+SpecimenReceivedDate
+2077-05-13 00:00:00
+
+
+LastName
+Olen

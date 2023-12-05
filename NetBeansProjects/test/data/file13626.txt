@@ -1,0 +1,24 @@
+SPR no: 58Z486013Z
+MRN no: 58948601
+Site_name: BOX HILL HOSPITAL
+Facility_id: 016
+Specimen_type: Fresh Tissue
+Pathology ReportCLINICAL:
+Adjuvant radiotherapy.  Sarcoma right back.  Sampled for cytogenetics.  HM 4/8/16 15:50pm
+
+
+MACROSCOPIC:
+Specimen labelled &amp;quot;Sarcoma right back long lateral short superior medium medial&amp;quot;, consists of an ellipse of skin overlying a piece of deep tissue.  The specimen has orientating sutures attached as described.  The skin ellipse measures 160mm in length with a width of 35mm.  Total specimen size is 105mm (superior to inferior) x 150mm (medial to lateral) x 60mm (superficial to deep) and weighs 407g.  The superficial margin is inked blue, deep black, superior stripe red.  The specimen is serially sliced from lateral to medial into twelve slices.  On sectioning, within slices two to nine, is a well circumscribed, apparently encapsulated variegated red to yellow tumour.  The tumour appears to be adjacent to the superior deep margin in slice five.  Macroscopically the tumour appears to be clear of all margins.
+Blocks: 1 to 8 - RS LS slice one; 9 to 13 - superior edge slice two; 14 to 18 - superior edge slice three; 19 to 25 - superior edge slice five; 26 to 28 - deep margin slice six; 29 to 32 - deep margin slice seven; 33 - necrotic area slice nine; 34 to 37 - RS LS slice twelve.   Please refer to attached block key diagram.   (TO: MS; MS/ta 10/5/66)
+
+
+MICROSCOPIC (Reported by Dr O Gouzy):
+Sections show a circumscribed tumour which is cellular and consists of cells with very large, highly pleomorphic nuclei and a variable amount of eosinophilic cytoplasm.  Tumour cell nuclei are very irregular and numerous multinucleate tumour giant cells are present.  Mitoses are very frequent, including many abnormal forms.  The tumour cells are arranged in haphazard fascicles.  No differentiating features are seen with routine stains.
+Immunostains:
+The tumour cells show strong positive staining for vimentin.  There is some patchy positive staining for desmin and occasional scattered cells are positive for pancytokeratin. Stains for myogenin, smooth muscle actin and S-100 are negative.  A Ki-67 stain shows a high proliferation index, around 50%.
+The appearances are most consistent with a pleomorphic undifferentiated sarcoma (WHO).
+The tumour shows some necrosis and also it is partly very oedematous, consistent with treatment effect.  Around 30% of the tumour sampled in the sections is necrotic.  No definite lymphovascular invasion is identified.
+Excision appears complete.  Tumour is 1mm from the deep margin, around 7mm from the superficial margin and 5mm from the superficial margin at the closest point.  It is well clear of medial, lateral and inferior margins.  Much of the tumour is surrounded by a fibrous pseudocapsule and the tumour has a well defined, lobulated edge.
+There is extensive fat in the surrounding tissue, some of which is extending between bundles of skeletal muscle.  No atypia is identified in the fat and this fat is interpreted as being within normal limits.  I do not think the tumour is a dedifferentiated liposarcoma.
+DIAGNOSIS:
+Sarcoma right back:  Pleomorphic undifferentiated sarcoma.

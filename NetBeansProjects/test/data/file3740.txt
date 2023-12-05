@@ -1,0 +1,93 @@
+SPR no: 45C129762S
+MRN no: 450129
+Site_name: NORTH MIDLANDS HOSPITAL
+Facility_id: MR
+Specimen_type: Fresh Tissue
+Pathology Reporttrsectrsdth3528blEpiso de No:  45C129762S
+450129.SQF
+fs200 srtlch
+NOMME, cs0 ALONA ZARAGOSA
+ntblh108 rsdrw10 28tqcLab No:   45C12976,45C12976
+Woodlea Mill
+rdrslbrdrb0 drsidth3528tbll BRISBANE    2161
+apdefaultleft-108tdrw10 5
+trbrdrbrdrw10 ellx841608brdrltsWidth3widctlpar5604608 Specimen: Washings,Tissue
+D.O.B:  ltrch29/1/2005
+Sex:  Frtlch
+angnp1033rvil rdrsil drlghtCollected: 10/03/2016 at 18:00cs0
+Location:  EASTERN EYRE HEALTH AND AGED CARE - CLEVE CAMPUS
+lparertaltrdrrfs20
+DR JUSTIN HAPP
+drw10 l
+oterf drsidth8524ridDistribution:  DR JESS, DR Schmitke,    FILE-COPY,   NSW-CANCER- REGISTRY
+033brdrswWidth8524e1033
+parid9700192HISTORY:
+GII endometrial ca.
+Peritoneal  washings for cytology.
+Uterus, tubes, ovaries.
+Omental biopsy.
+Right pelvic lymph node.
+Left pelvic lymph node.
+rchMACROSCOPIC:
+A.  &amp;quot;UTERUS, BILA TERAL OVARIES AND FALLOPIAN TUBES CERVIX AND OMENTAL BIOPSY&amp;quot;.  A previously opened uterus with attached bilateral fallopian tubes and ovaries, cervix and attached omentum.  The uterus has been opened along the left lateral edge where tumour  is seen protruding.  The uterus measures up to 45mm from medial to lateral, 65mm from fundus to cervix; and 35mm from anterior to posterior.  The cervix measures 25mm in diameter and appears unremarkable.  The right fallopian tube meas ures 65x5mm and the right ovary measures 20x12x8mm.  The left fallopian tube measures 60x7mm, and the left ovary measures 20x10x7mm. The attached omentum measures up to 110x25x5mm.  Separate in the specimen container is a piece of tumou r measuring 25x15x12mm.  The serosal surface of the uterus is otherwise unremarkable.  The surface and cut section of the ovaries is unremarkable.  On sectioning the uterus there is an exophytic tumour mass centred on the posterior wall  measuring 35x30x20mm.  It does not appear to extend more than half way into the myometrium.  The myometrium measures 7mm at the fundus.  The tumour has a partially necrotic appearance and does not appear to extend into the endocervical  tissue.  The tumour extends into the right cornu.  There are no firm or suspicious areas on the omentum on inspection or sectioning.
+(1 representative TS and LS right fallopian tube including fimbrial end; 2 representative  TS right ovary; 3 representative TS and LS left fallopian tube; 4 RS/TS left ovary; 5&amp;amp;6 anterior cervix to fundus [notch inferior]; 7-9 posterior cervix to fundus [notch inferior]; 10 further tumour at fundus with attached omentum; 11 tu mour with right cornu; 12&amp;amp;13 representative omentum; 14 right parametrial tissue; 15 left parametrial tissue; 16 tumour reserve block [separate tumour in specimen container]). RS (M-16)
+B.  &amp;quot;RIGHT PELVIC LYMPH NODE&amp;quot;.  Multipl e pieces of fatty tissue, measuring in aggregate 25x25x25mm.
+(1 two possible nodes; 2 20mm node sectioned; 3 remaining fat).  AE (M-3)
+C.  &amp;quot;LEFT PELVIC LYMPH NODES&amp;quot;.  Fatty tissue measuring in aggregate 15x15x10m m.  Three possible nodes found measuring 8, 8 and 5mm.
+(1 three possible nodes; 2 remaining fat). AE (M-2/EE/ank)
+bMICROSCOPIC:  (Dr L Bularz)
+ENDOME TRIAL CARCINOMA:
+Tumour type:  Endometrial carcinoma with squamous differentiati on
+FIGO grade:  3
+(architecture grade:  3, nuclear grade:  2)
+srsid9700192 Myometrial invasion:  Invasion limited to inner half of myometrium
+Depth of myometrial invasion :   4mm
+Myometrial thickness:  16mm
+% of myometrium invaded:   25%
+Focality:  Unifocal
+bTumour involves: Fundus, body
+Vascular/lymphatic invasionnsrsid9700192 :  Not seen
+
+0 Involvement of cervix:  Not involved
+Involvement of uterine serosa:  No
+Excision margins:  Free of tumour
+Non-tumour uterus1 :
+Adjacent endometrium:  Atrophic
+Polyps:  Not seen
+Adenomyosis:  Not present
+Adnexaersid9700192 :
+Left fallopian tube:  No significant abnormality
+Right fallopian tube:  No significant abnormality
+Left ovary:  No significant abnormality
+Right ovary:  No significant abnormality
+hLymph nodes:
+B.  No tumour seen in 4 lymph nodes.
+C.  No tumour seen in 3 lymph nodes.
+Other tissues:
+Omentum : No significant abnormality
+lang1025 Pathologic Staging (AJCC/UICC TNM 7, FIGO 2008):
+efault
+TNM stage: pT1a, pN0, pMxgfe1033
+FIGO stage:tlch 1A
+widctlpar
+idctlparDIAGNOSIS :
+UTERUS :
+-ENDOMETRIAL CARCINOMA GRADE 3.
+RIGHT PELVIC LYMPH NODES :
+-NO TUMOUR SEEN IN 4 LYMPH NODES EXAMINED.
+LEFT PELVIC LYMPH NODES :
+- NO TUMOUR SEEN IN 3 LYMPH NODES EXAMINED.
+18/5/66 ank
+ctlpar
+to608SUPPLEMENTARY REPORT:
+
+trchImmunostains for MSI proteinsh (Delta Air Lines DICKINSON 3 SOUTH; block: A9)
+f1MLH1: positive
+PMS2: positive
+MSH2: positive
+MSH6: positive
+f11Comment:
+Absence of staining for either MLH1, PMS2, MSH2 or MSH6 is associated with microsatellite instability phenotype (MSH-H), and may reflect the presence of a germline mutation or somatic i nactivation of that mismatch repair enzyme.
+Positive staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phen otype.
+The antibodies used are not fully characterised for routine diagnostic use. Results may be affected by storage and fixation of specimens, and should be interpret ed in conjunction with other investigation, including MSI testing where possible.
+lang1025

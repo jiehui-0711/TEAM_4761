@@ -1,0 +1,69 @@
+
+Episode No:  26A581042R
+2605810.LFR
+
+HIGSON, SHERYL 
+Lab No:  26A58104
+Brashear
+MOOROOPNA  TAS  5277
+Specimen: Tissue
+D.O.B:  11/3/1997
+Sex:  F
+Collected: 18/2/2063 at :
+Location:  OBSTETRICS-MILLICENT AND DISTRICT HOSPITAL AND HEALTH SERVICES
+DR JAN NEVILLE TRAUTMANN
+Distribution:   FILE-COPY
+CLINICAL:
+Extended right hemicolectomy - transverse colon ca.  Paget's disease Dx 2059.  
+MACROSCOPIC:
+Specimen labelled "Extended right hemicolectomy" consists of a segment of terminal ileum measuring 50mm long and 20mm diameter, and right colon 370mm long and  30mm diameter.  The mesocolon measures 350 x 90 x 20mm and omental tissue is noted at the distal aspect of the right colon measuring 170 x 50 x 40mm.  There is no appendix seen.  The serosal surface is unremarkable.  340mm away from the proximal margin, 50mm away from the distal margin is a flat ulcerated tumour.  The ulcer has rolled edges and measures 25 x 15mm.  The tumour is in the posterior-lateral bowel wall.  On cut surface the tumour measures 2mm thick and does not appear to infiltrate the muscularis propria.   A single polyp 2mm diameter is identified in the proximal ascending colon.  The remainder of the mucosal surface is unremarkable.  Twenty four lymph nodes are identified measuring 1 to 10mm in maximum extent.  
+Blocks: 1 - LS proximal margin; 2 - LS distal margin; 3 to 6 - LS of tumour; 7 - polyp; 8 - apical lymph node; 9 - single node; 10 - single node; 11 - single node; 12 - single node; 13 - single node; 14 - two nodes; 15 - three nodes; 16 - four nodes; 17 - four nodes; 18 - five nodes.    (PX/ta 18/2/63) 
+ 
+MICROSCOPIC (Reported by Dr G Anderegg): 
+Sections show a moderately differentiated adenocarcinoma which invades through the bowel wall into subserosal fat.  There is very extensive lymphovascular invasion both in the bowel wall and in the mesentery; this includes tumour involvement of lymphatic vessels and small muscular veins.  There are mesenteric lymph node metastases and also multiple extranodal tumour deposits in the mesentery.  There is metastatic tumour in the apical lymph node and tumour is present in a vein adjacent to the apical node.
+A synoptic report follows:
+Site of tumour:	
+Maximum tumour diameter:   25mm
+Distance of tumour to nearer cut end:  50mm
+Tumour perforation: No
+Microscopic Description
+
+Type
+Adenocarcinoma NOS
+Differentiation by predominant area
+Moderate
+
+Local invasion
+pT3	Beyond muscularis propria
+Tumour involvement of margins
+Cut ends: Not involved
+Non-peritonealised circumferential margin: Not involved
+Histological measurement from tumour to non-peritonealised margin: 5mm
+Lymph nodes
+Number of lymph nodes present: 21	
+Number of lymph nodes involved: 11	
+pN2	Metastases in 4 or more regional LN
+Lymphovascular invasion
+Present (Mural / Extramural)
+Perineural invasion
+Absent
+Histologically confirmed distant metastases
+pMX	Cannot be assessed histologically
+Background abnormalities/other comments
+The described polyp is autolytic but appears to be a hyperplastic polyp. 
+ 
+Residual tumour status
+R0	No residualtumour
+Mismatch Repair Deficiency (MMRD) Status	
+MLH1		Preserved nuclear staining.
+PMS2		Preserved nuclear staining.
+MSH2		Preserved nuclear staining.
+MSH6		Preserved nuclear staining.
+Comment:
+Preserved nuclear staining of a carcinoma for MLH1, PMS2, MSH2 and MSH6 indicates a low likelihood of microsatellite instability phenotype.
+
+DIAGNOSIS:  
+Right colon:  Adenocarcinoma with lymph node metastases (11/21).  
+pT3  pN2  pMx  R0.
+ 
+
