@@ -18,7 +18,7 @@ public class runa {
         String out_path = "out.txt";
         toset();
         pre_doc = " ";
-        int datalen = 5400, fdatalen = 70000;
+        int datalen = 5400, fdatalen = 300000;
         BufferedWriter out = new BufferedWriter(new FileWriter(out_path, StandardCharsets.UTF_8));
         for (file_ind = 0; file_ind < datalen; file_ind++) {
             now = "";
