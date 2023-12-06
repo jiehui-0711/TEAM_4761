@@ -8,7 +8,7 @@ import java.util.*;
 public class model6 {
 
     public static void main(String args[]) throws IOException {
-        BufferedReader br = new BufferedReader(new FileReader("answer.txt", StandardCharsets.UTF_8)) ;
+        BufferedReader br = new BufferedReader(new FileReader("out.txt", StandardCharsets.UTF_8)) ;
         TreeSet<String> set=new TreeSet<>();
         String line;
         while ((line = br.readLine()) != null) {
