@@ -19,7 +19,7 @@ public class model5 {
         String n[];
         while ((line = br.readLine()) != null) {
             n=line.split("\t");
-            if(n[1].equals(a))arr.add(line);
+            if(n.length>1 && n[1].equals(a))arr.add(line);
         }
         double len=0.0;
         while ((line = br1.readLine()) != null) {
